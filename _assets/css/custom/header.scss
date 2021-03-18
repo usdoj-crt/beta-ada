@@ -1,0 +1,44 @@
+// Header area
+
+.crt-form-header {
+  background-color: color($theme-color-primary-darker);
+  color: color("white");
+  padding-bottom: 6rem;
+
+  header {
+    @include u-margin-top(8);
+  }
+
+  h1 {
+    font-weight: $theme-font-weight-normal;
+    color: color("white");
+  }
+
+  .doj-brand {
+    font-size: $theme-text-font-size-lg;
+    margin-top: 4rem;
+    img {
+      height: 38px;
+      width: 38px;
+    }
+    @include at-media-max(mobile-lg) {
+      margin-top: 1rem;
+    }
+  }
+}
+
+.page-background {
+  background-color: color($theme-color-primary-lightest);
+}
+
+.usa-banner {
+  .usa-banner__inner {
+    max-width: 87rem !important;
+  }
+}
+
+.crt-header--warning-pii {
+  width: 100%;
+  background-color: color($theme-color-primary-darker);
+  padding-top: 1rem;
+}
