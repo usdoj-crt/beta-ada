@@ -50,12 +50,12 @@ Namespace
 $theme-namespace: (
   "grid": (
     namespace: "grid-",
-    output: true,
+    output: true
   ),
   "utility": (
     namespace: "u-",
-    output: false,
-  ),
+    output: false
+  )
 );
 
 /*
@@ -104,9 +104,9 @@ Focus styles
 */
 
 $theme-focus-color: "blue-40v";
-$theme-focus-offset: 0;
+$theme-focus-offset: 2px;
 $theme-focus-style: solid;
-$theme-focus-width: 0.5;
+$theme-focus-width: 2px;
 
 /*
 ----------------------------------------
