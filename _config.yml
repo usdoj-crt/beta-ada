@@ -193,6 +193,12 @@ exclude:
   - Gemfile.lock
 
 assets:
+  autoprefixer:
+    browsers:
+      - "> 2%"
+      - "last 2 versions"
+      - "IE 11"
+      - "not dead"
   sources:
     - node_modules/uswds/dist/img
     - node_modules/uswds/dist/js
