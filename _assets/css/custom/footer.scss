@@ -1,0 +1,162 @@
+// Footer Styles
+footer {
+  width: 100%; // IE11 fix
+  color: color("white");
+}
+
+.usa-footer__contact {
+  display: flex;
+  flex-direction: column;
+
+  @include at-media-max(desktop) {
+    margin-bottom: 2.5rem;
+  }
+}
+
+.usa-footer__section {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 1.5rem;
+
+  .usa-footer__icon__language {
+    margin-top: 10px;
+  }
+}
+
+.usa-footer__icon {
+  margin-right: 1.5rem;
+}
+
+.usa-footer__logo-section {
+  margin-top: 1.25rem;
+  margin-bottom: 2.5rem;
+}
+
+.usa-footer__logo-heading {
+  @include text--heading__large();
+  font-weight: bold;
+  @include u-font-family("serif");
+}
+
+.usa-footer__logo-subheading {
+  @include text--heading__small();
+  font-weight: bold;
+  margin: 0;
+  @include u-font-family("serif");
+}
+
+.usa-footer__heading {
+  @include text--heading__medium();
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+
+.usa-footer__separator {
+  margin-top: 1rem;
+  border: 2px solid color($theme-color-warning);
+  border-radius: 2px;
+  background: color($theme-color-warning);
+  width: 25px;
+}
+
+.usa-footer__links {
+  @include text--body-copy__small();
+  display: flex;
+  flex-direction: column;
+
+  p {
+    margin: 0;
+  }
+
+  a {
+    text-transform: uppercase;
+    margin-bottom: 1.5em;
+    &:hover {
+      color: color($theme-link-dark-hover-color) !important;
+    }
+  }
+}
+
+.usa-footer__links.usa-footer__language {
+  a {
+    text-transform: none;
+    text-decoration: underline;
+  }
+}
+.usa-footer__language_assistance {
+  a,
+  img {
+    vertical-align: middle;
+  }
+  a:hover {
+    color: color($theme-link-dark-hover-color) !important;
+  }
+}
+
+.usa-footer__language {
+  width: 100%; // IE11 fix
+}
+
+.usa-footer__secondary-section {
+  background-color: color($theme-color-base-ink);
+  color: color("white");
+
+  a,
+  a:visited {
+    color: color("white");
+    text-decoration: none;
+  }
+}
+
+.i8n-section {
+  display: flex;
+  align-items: center;
+
+  #i8n_select {
+    @include u-bg($theme-color-warning);
+    color: color("black");
+    margin-top: 0;
+    max-width: 10em;
+  }
+
+  .i8n-submit {
+    margin-left: 1em;
+    margin-top: 0 !important;
+    background-color: color($theme-color-base-ink);
+    border: 1px solid color("white");
+    width: 50%;
+    max-width: 4em;
+
+    &:hover {
+      background-color: color("white") !important;
+      color: color($theme-color-base-ink);
+    }
+  }
+}
+
+.privacy-footer {
+  background-color: color($theme-color-primary-darker);
+  color: color("white");
+  padding-top: 2em;
+  border-top: 1px solid color($theme-color-base-darker);
+  a,
+  a:visited {
+    color: color("white");
+    text-transform: none;
+  }
+}
+
+.usa-footer__attribution {
+  background-color: color("gray-warm-90");
+  color: color("white");
+  padding: 2.5rem 0;
+
+  &-names {
+    margin: 0.5rem 0;
+  }
+  p {
+    @include text--body-copy__small();
+    margin: 0;
+  }
+}

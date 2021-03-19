@@ -1,44 +1,97 @@
-// Header area
+.crt-landing--header {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
 
-.crt-form-header {
-  background-color: color($theme-color-primary-darker);
-  color: color("white");
-  padding-bottom: 6rem;
-
-  header {
-    @include u-margin-top(8);
+  .grid-container {
+    padding: 0;
+    margin: 0;
   }
 
-  h1 {
-    font-weight: $theme-font-weight-normal;
-    color: color("white");
+  .crt-landing--header_section {
+    display: flex;
+    justify-content: space-between;
+
+    padding: 0 1rem 0 6rem;
+
+    @include at-media-max(desktop) {
+      padding: 0 1rem;
+    }
   }
 
-  .doj-brand {
-    font-size: $theme-text-font-size-lg;
-    margin-top: 4rem;
+  li {
+    list-style: none;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+  }
+
+  a {
+    border-bottom: 1px solid transparent;
+    color: color($theme-color-primary-darker);
+    text-decoration: none;
+
+    &:hover {
+      border-bottom: 1px solid color($theme-color-primary-darker);
+    }
+  }
+
+  .crt-menu--section {
+    padding-right: 0;
+  }
+
+  .crt-menu--navbar {
+    @extend .usa-navbar;
+    border-bottom: 0 !important;
+  }
+
+  .crt-menu--mobile {
+    @include u-radius("md");
+    padding: 0.25rem 0.5rem;
+    text-transform: unset;
+    background: color($theme-color-primary-darker);
+    color: color($theme-color-primary-lightest);
+    max-height: 2rem;
+  }
+
+  // again overriding USWDS defaults
+  .crt-landing--menu_link {
+    color: color($theme-color-primary-darker) !important;
+    font-size: $theme-text-font-size-md;
+    font-weight: normal !important;
+    margin-top: 0.5rem;
+    padding: 0.5rem 0 !important;
+
+    &:hover {
+      font-weight: bold !important;
+    }
+
+    @include at-media-max(desktop) {
+      color: black !important;
+    }
+  }
+
+  .crt-landing--logo_section {
     img {
-      height: 38px;
-      width: 38px;
+      height: 60px;
+      @include at-media-max(mobile-lg) {
+        height: 45px;
+      }
     }
+  }
+
+  .crt-landing--logo_subheading {
+    @extend .usa-footer__logo-subheading;
+    font-size: $theme-text-font-size-xs;
     @include at-media-max(mobile-lg) {
-      margin-top: 1rem;
+      @include text--body-copy__xsmall();
     }
   }
-}
 
-.page-background {
-  background-color: color($theme-color-primary-lightest);
-}
-
-.usa-banner {
-  .usa-banner__inner {
-    max-width: 87rem !important;
+  .crt-landing--logo_heading {
+    @extend .usa-footer__logo-heading;
+    font-size: $theme-heading-font-size-lg;
+    margin-top: 0.5rem;
+    @include at-media-max(mobile-lg) {
+      font-size: $theme-heading-font-size-md-mobile;
+    }
   }
-}
-
-.crt-header--warning-pii {
-  width: 100%;
-  background-color: color($theme-color-primary-darker);
-  padding-top: 1rem;
 }

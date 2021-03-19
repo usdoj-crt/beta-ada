@@ -21,13 +21,13 @@ i.e.
 */
 
 // layout needs to be first
-// @import "custom/layout";
-// @import 'custom/card';
+@import "custom/layout";
+@import "custom/card";
 // @import 'custom/complaint';
 // @import 'custom/alerts';
-// @import "custom/banner";
+@import "custom/banner";
 // @import 'custom/buttons';
-// @import 'custom/footer';
+@import "custom/footer";
 // @import 'custom/form';
 @import "custom/header";
 // @import 'custom/ie';
@@ -39,7 +39,7 @@ i.e.
 @import "custom/typography";
 // @import 'custom/utils';
 // @import 'custom/confirmation';
-// @import 'custom/landing';
+@import "custom/landing";
 // @import 'custom/privacy';
 // @import 'custom/touchpoints';
 // @import 'custom/links';
