@@ -94,8 +94,7 @@ Usage-specific typography rules
   font-family: family("heading");
 }
 
-.question--label,
-.crt-portal-card__subheader {
+.question--label {
   @include text--body-copy__large();
   font-weight: $theme-font-weight-bold;
   color: color($theme-color-primary-darker);

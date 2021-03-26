@@ -94,13 +94,12 @@ $arrow-height: 24px;
 .crt-landing--hero {
   background-image: $theme-hero-image;
   background-repeat: no-repeat;
-  background-size: 100%;
-  background-position: bottom;
+  background-size: cover;
+  background-position: center;
   min-height: 800px;
 
   @include at-media-max(mobile-lg) {
     background-image: $theme-hero-image;
-    background-size: cover; // avoid unsightly mobile gap
     background-color: #436eac;
     min-height: 600px;
     color: color("white");
@@ -490,22 +489,6 @@ $arrow-height: 24px;
     font-size: $theme-heading-font-size-md-mobile;
     line-height: 1.3;
   }
-
-  .crt-landing--card {
-    @include at-media-max(mobile-lg) {
-      padding: 1.5rem !important;
-    }
-  }
-}
-
-.crt-landing--card {
-  @extend .crt-portal-card;
-
-  a {
-    font-weight: bold;
-  }
-
-  padding: 1.5rem 2rem !important;
 }
 
 .crt-landing--arrow {
