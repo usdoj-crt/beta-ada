@@ -92,14 +92,14 @@ $arrow-height: 24px;
 }
 
 .crt-landing--hero {
-  background-image: url(../../img/landing-page-hero.jpeg);
+  background-image: $theme-hero-image;
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: bottom;
   min-height: 800px;
 
   @include at-media-max(mobile-lg) {
-    background-image: url(../../img/landing-page-hero-mobile.jpeg);
+    background-image: $theme-hero-image;
     background-size: cover; // avoid unsightly mobile gap
     background-color: #436eac;
     min-height: 600px;
@@ -122,7 +122,7 @@ $arrow-height: 24px;
   }
 
   @include at-media-max(desktop) {
-    background-image: url(../../img/landing-page-hero-tablet.jpg);
+    background-image: $theme-hero-image;
     background-position: bottom;
     min-height: 850px;
   }
