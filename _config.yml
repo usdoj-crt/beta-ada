@@ -175,6 +175,8 @@ exclude:
   - node_modules
   - Gemfile
   - Gemfile.lock
+  - pa11y-ci-results.json
+  - pa11y-results
 
 assets:
   autoprefixer:
