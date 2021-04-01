@@ -12,7 +12,7 @@ jobs:
       - checkout
       - node/install-packages
       - ruby/install-deps
-      - run: npm run test
+      - run: npm run test:ci
       - store_artifacts:
           path: ./pa11y-results
 
