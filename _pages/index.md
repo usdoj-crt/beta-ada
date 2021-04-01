@@ -8,7 +8,7 @@ title: Home
   <div class="grid-container">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-8">
-        <h1 class="h1__display">
+        <h1>
           The Americans with Disabilities Act (ADA) protects people with
           disabilities from discrimination.
         </h1>
@@ -28,13 +28,13 @@ title: Home
   </div>
 </div>
 
-{% include alert.html heading="DOJ issues COVID-19 alert for fraudulent face mask flyers. This is a test." %}
+{% include alert.html heading="DOJ issues COVID-19 alert for fraudulent face mask flyers." %}
 
 <div class="crt-landing--section crt-landing--description crt-landing--pale">
   <div class="grid-container">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-12">
-        <h2 id="about-the-division" class="h1__display">
+        <h2 id="about-the-division" class="h1">
           How to follow the ADA and protect the rights of people with
           disabilities.
         </h2>
@@ -45,7 +45,7 @@ title: Home
         </p>
         <div class="grid-row grid-gap">
           <div class="tablet:grid-col-4 crt-landing--section__item">
-            <p class="h3__display crt-landing--subheader">Your ADA Rights</p>
+            <p class="h3 crt-landing--subheader">Your ADA Rights</p>
             <div class="crt-landing--separator_sub"></div>
             <p class="crt-landing--columns crt-landing--largetext">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -53,7 +53,7 @@ title: Home
             </p>
           </div>
           <div class="tablet:grid-col-4 crt-landing--section__item">
-            <p class="h3__display crt-landing--subheader">For Businesses</p>
+            <p class="h3 crt-landing--subheader">For Businesses</p>
             <div class="crt-landing--separator_sub"></div>
             <p class="crt-landing--columns crt-landing--largetext">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -61,7 +61,7 @@ title: Home
             </p>
           </div>
           <div class="tablet:grid-col-4 crt-landing--section__item">
-            <p class="h3__display crt-landing--subheader">
+            <p class="h3 crt-landing--subheader">
               For state and local governments
             </p>
             <div class="crt-landing--separator_sub"></div>
@@ -80,7 +80,7 @@ title: Home
   <div class="grid-container">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-12">
-        <h2 class="h1__display">
+        <h2 class="h1">
           Popular topics
         </h2>
         <div class="crt-landing--separator"></div>
@@ -175,7 +175,7 @@ title: Home
   <div class="grid-container">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-12">
-        <h2 class="h1__display text__reverse" id="report-a-violation">
+        <h2 class="h1 text__reverse" id="report-a-violation">
           How to report a disability rights violation
         </h2>
         <div class="crt-landing--separator_small"></div>
@@ -190,9 +190,9 @@ title: Home
         <div class="grid-row grid-gap">
           <div class="tablet:grid-col-4 crt-landing--section__item">
             <div class="crt-landing--reporting_column">
-              <div class="h4__display crt-landing--icon_gold">1</div>
+              <div class="h4 crt-landing--icon_gold">1</div>
               <div>
-                <h2 class="h3__display text__reverse">
+                <h2 class="h3 text__reverse">
                   Report using our online form.
                 </h2>
                 <p class="margin-bottom-0">
@@ -206,9 +206,9 @@ title: Home
           </div>
           <div class="tablet:grid-col-4 crt-landing--section__item">
             <div class="crt-landing--reporting_column">
-              <div class="h4__display crt-landing--icon_gold">2</div>
+              <div class="h4 crt-landing--icon_gold">2</div>
               <div>
-                <h2 class="h3__display text__reverse">
+                <h2 class="h3 text__reverse">
                   We review your report.
                 </h2>
                 <p class="margin-bottom-0">
@@ -222,9 +222,9 @@ title: Home
           </div>
           <div class="tablet:grid-col-4 crt-landing--section__item">
             <div class="crt-landing--reporting_column">
-              <div class="h4__display crt-landing--icon_gold">3</div>
+              <div class="h4 crt-landing--icon_gold">3</div>
               <div>
-                <h2 class="h3__display text__reverse">
+                <h2 class="h3 text__reverse">
                   We determine next steps and get back to you.
                 </h2>
                 <p class="margin-bottom-0">
@@ -251,7 +251,7 @@ title: Home
   <div class="grid-container">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-10">
-        <h2 class="h2__display">
+        <h2 class="h2">
           Think you or someone you know has experienced a disability rights
           violation?
         </h2>

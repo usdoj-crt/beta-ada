@@ -9,11 +9,9 @@
       </button>
       <ul class="usa-nav__primary usa-accordion">
         {% for nav_item in include.primary_navigation %}
-        {% assign basedir = page.url | remove_first: '/' | split: '/' | first | lstrip %}
-        {% assign linkdir = nav_item.url | replace: "/", "" | lstrip %}
         <li class="usa-nav__primary-item">
           <a
-            class="crt-landing--menu_link"
+            class="crt-landing--menu_link{% if nav_item.url == page.permalink or page.url contains nav_item.url or page.permalink contains nav_item.url %} usa-current{% endif %}"
             href="{{ nav_item.url | prepend: site.baseurl}}"
             >{{ nav_item.name | escape }}</a
           >

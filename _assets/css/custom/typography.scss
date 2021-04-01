@@ -6,8 +6,7 @@ h2,
 h3,
 h4,
 h5,
-h6,
-.intake-label {
+h6 {
   @include add-knockout-font-smoothing;
 }
 
@@ -16,11 +15,6 @@ h6,
 // https://designsystem.digital.gov/design-tokens/typesetting/overview/
 h1,
 .h1 {
-  @include text--heading__large();
-  font-weight: $theme-font-weight-bold;
-}
-
-.h1__display {
   @include text--heading__xlarge();
   font-family: family("heading");
   font-weight: $theme-font-weight-bold;
@@ -29,11 +23,6 @@ h1,
 
 h2,
 .h2 {
-  @include text--heading__medium();
-  font-weight: $theme-font-weight-bold;
-}
-
-.h2__display {
   @include text--heading__large();
   font-family: family("heading");
   font-weight: $theme-font-weight-bold;
@@ -42,11 +31,6 @@ h2,
 
 h3,
 .h3 {
-  @include text--heading__small();
-  font-weight: $theme-font-weight-bold;
-}
-
-.h3__display {
   font-size: $theme-heading-font-size-md;
   line-height: 1.5;
   font-family: family("heading");
@@ -54,9 +38,8 @@ h3,
   color: color($theme-color-primary-darker);
 }
 
-// no default styles defined for regular h4s
-
-.h4__display {
+h4,
+.h4 {
   @include text--heading__small();
   font-family: family("heading");
   font-weight: $theme-font-weight-bold;
@@ -83,65 +66,6 @@ a:visited {
 /***********************************************
 Usage-specific typography rules
 ***********************************************/
-.question--header,
-.intake-section-title {
-  @include text--heading__medium();
-  font-weight: $theme-font-weight-bold;
-  color: color($theme-color-primary-darker);
-}
-
-.intake-section-title {
-  font-family: family("heading");
-}
-
-.question--label {
-  @include text--body-copy__large();
-  font-weight: $theme-font-weight-bold;
-  color: color($theme-color-primary-darker);
-}
-
-.help-text {
-  line-height: $theme-body-copy-line-height;
-}
-
-.help-text__small {
-  @include text--body-copy__small();
-}
-
-.usa-radio__label .label-text p {
-  line-height: 0.85; //inherit from USWDS
-  &.help-text,
-  &.help-text__small {
-    line-height: $theme-body-copy-line-height;
-  }
-}
-
-.help-text,
-.help-text__small {
-  margin-top: units($spacer-1x);
-  margin-bottom: 0;
-  font-style: italic;
-
-  + fieldset legend {
-    padding-top: 0;
-  }
-
-  + input,
-  + .usa-input,
-  + textarea,
-  + .usa-textarea {
-    margin-top: units($spacer-2x);
-  }
-
-  + input[type="submit"] {
-    margin-top: units($spacer-3x);
-  }
-
-  + ul {
-    margin-top: units($spacer-3x);
-  }
-}
-
 .look-like-link {
   padding: 0;
   border: none;
@@ -153,17 +77,4 @@ Usage-specific typography rules
   p {
     margin-top: 0.5rem;
   }
-
-  .form-label {
-    line-height: $theme-body-copy-line-height;
-    margin-bottom: 0;
-    margin-top: 0;
-    max-width: 68ex;
-  }
-}
-
-.page-form-title {
-  @include text--heading__medium();
-  font-weight: 100;
-  margin: 0;
 }
