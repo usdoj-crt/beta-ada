@@ -2,6 +2,16 @@
 permalink: /
 layout: wide
 title: Home
+cards:
+  - title: Service animals
+    description: |-
+      Service animals ipsum dolor sit amet, conset tur adipiscing elit, sed do eiusmod.
+  - title: Parking
+    description: |-
+      Parking ipsum dolor sit amet, conset tur adipiscing elit, sed do eiusmod.
+  - title: Effective communication
+    description: |-
+      Effective communication ipsum dolor sit amet, conset tur adipiscing elit, sed do eiusmod.
 ---
 
 <div class="crt-landing--section crt-landing--hero crt-landing--pale">
@@ -89,78 +99,9 @@ title: Home
         </p>
         <div class="grid-row grid-gap">
           <ul class="usa-card-group">
-            <li class="tablet:grid-col-4 usa-card">
-              <div class="usa-card__container">
-                <header class="usa-card__header">
-                  <h2 class="usa-card__heading">Service animals</h2>
-                </header>
-                <div class="usa-card__media">
-                  <div class="usa-card__img">
-                    <img
-                      src="https://designsystem.digital.gov/img/introducing-uswds-2-0/built-to-grow--alt.jpg"
-                      alt="A placeholder image"
-                    />
-                  </div>
-                </div>
-                <div class="usa-card__body">
-                  <p>
-                    Lorem ipsum dolor sit amet, conset tur adipiscing elit, sed
-                    do eiusmod.
-                  </p>
-                </div>
-                <div class="usa-card__footer">
-                  <button class="usa-button">Learn more</button>
-                </div>
-              </div>
-            </li>
-            <li class="tablet:grid-col-4 usa-card">
-              <div class="usa-card__container">
-                <header class="usa-card__header">
-                  <h2 class="usa-card__heading">Parking</h2>
-                </header>
-                <div class="usa-card__media">
-                  <div class="usa-card__img">
-                    <img
-                      src="https://designsystem.digital.gov/img/introducing-uswds-2-0/built-to-grow--alt.jpg"
-                      alt="A placeholder image"
-                    />
-                  </div>
-                </div>
-                <div class="usa-card__body">
-                  <p>
-                    Lorem ipsum dolor sit amet, conset tur adipiscing elit, sed
-                    do eiusmod.
-                  </p>
-                </div>
-                <div class="usa-card__footer">
-                  <button class="usa-button">Learn more</button>
-                </div>
-              </div>
-            </li>
-            <li class="tablet:grid-col-4 usa-card">
-              <div class="usa-card__container">
-                <header class="usa-card__header">
-                  <h2 class="usa-card__heading">Effective communication</h2>
-                </header>
-                <div class="usa-card__media">
-                  <div class="usa-card__img">
-                    <img
-                      src="https://designsystem.digital.gov/img/introducing-uswds-2-0/built-to-grow--alt.jpg"
-                      alt="A placeholder image"
-                    />
-                  </div>
-                </div>
-                <div class="usa-card__body">
-                  <p>
-                    Lorem ipsum dolor sit amet, conset tur adipiscing elit, sed
-                    do eiusmod.
-                  </p>
-                </div>
-                <div class="usa-card__footer">
-                  <button class="usa-button">Learn more</button>
-                </div>
-              </div>
-            </li>
+            {% for card in page.cards %}
+              {% include card.html title=card.title description=card.description %}
+            {% endfor %}
           </ul>
         </div>
       </div>
