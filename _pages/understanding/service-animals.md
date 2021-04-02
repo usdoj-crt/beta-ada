@@ -13,7 +13,7 @@ lead: |-
 
 ### Service animals are:
 
-<ul class="icon-list" aria-labelledby="service-animals-are">
+<ul class="icon-list">
   <li>Dogs</li>
   <li>Any breed and any size of dog</li>
   <li>Trained to perform a task directly related to a person’s disability</li>
@@ -21,7 +21,7 @@ lead: |-
 
 ### Service animals are not:
 
-<ul class="icon-list" aria-labelledby="service-animals-are-not">
+<ul class="icon-list">
   <li>Required to be certified or go through a professional training program</li>
   <li>Required to wear a vest or other ID that indicates they’re a service dog</li>
   <li>Emotional support or comfort dogs, because providing emotional support or comfort is not a task related to a person’s disability</li>
@@ -74,13 +74,13 @@ If you are working at a business or state/local government facility and it is un
 
 ### You may ask:
 
-<ul class="icon-list" aria-labelledby="you-may-ask">
+<ul class="icon-list">
   <li>Is the dog a service animal required because of a disability?</li>
   <li>What work or task has the dog been trained to perform?</li>
 </ul>
 
 ### You are _not_ allowed to:
-<ul class="icon-list" aria-labelledby="you-are-not-allowed-to">
+<ul class="icon-list">
   <li>Request any documentation that the dog is registered, licensed, or certified as a service animal</li>
   <li>Require that the dog demonstrate its task, or inquire about the nature of the person’s disability</li>
 </ul>  
@@ -113,13 +113,13 @@ A business or state/local government can ask someone to remove their service ani
 ## State and Local Laws
 
 ### State/local governments can:
-<ul class="icon-list" aria-labelledby="state-and-local-laws">
+<ul class="icon-list">
   <li>Require service dogs to be licensed and vaccinated, if all dogs are required to be licensed and vaccinated</li>
   <li>Offer <em>voluntary</em> service dog registration programs</li>
 </ul>
 
 ### State/local governments can't:
-<ul class="icon-list" aria-labelledby="state-and-local-laws">
+<ul class="icon-list">
   <li>Require certification or registration of service dogs</li>
   <li>Ban a service dog based on its breed</li>
 </ul>
