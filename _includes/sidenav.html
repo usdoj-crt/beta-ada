@@ -12,11 +12,11 @@
       {% unless _page.path contains "index.md" %}
       <li class="usa-sidenav__item">
         <a href="{{ _page.url | relative_url }}" {% if _page.url==page.url %}class="usa-current" {% endif %}>{% if _page.short_title %}{{ _page.short_title }}{% else %}{{ _page.title }}{% endif %}</a>
-        {% if _page.url == page.url and page.anchors%}
+        {% if _page.url == page.url and page.subnav%}
         <ul class="usa-sidenav__sublist">
-          {% for _anchor in page.anchors %}
+          {% for _anchor in page.subnav %}
           <li class="usa-sidenav__item">
-            <a href="{{_anchor.href}}">{{_anchor.text}}</a>
+            <a href="{{_anchor.url}}">{{_anchor.title}}</a>
           </li>
           {% endfor %}
         </ul>
@@ -24,6 +24,5 @@
       </li>
       {% endunless %}
       {% endfor %}
-
     </ul>
   </nav>

@@ -64,11 +64,6 @@ searchgov:
 # changed if you know what they do
 ##########################################################################################
 
-collections:
-  pages:
-    output: true
-    permalink: /:path/
-
 permalink: pretty
 
 markdown: kramdown
@@ -121,6 +116,8 @@ pagination:
   # Optional, the default name of the index file for generated pages (e.g. 'index.html')
   # Without file extension
   indexpage: "index.html"
+
+include: ["_pages"]
 
 exclude:
   - package.json
