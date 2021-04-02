@@ -78,26 +78,6 @@ footer {
   }
 }
 
-.usa-footer__links.usa-footer__language {
-  a {
-    text-transform: none;
-    text-decoration: underline;
-  }
-}
-.usa-footer__language_assistance {
-  a,
-  img {
-    vertical-align: middle;
-  }
-  a:hover {
-    color: color($theme-link-dark-hover-color) !important;
-  }
-}
-
-.usa-footer__language {
-  width: 100%; // IE11 fix
-}
-
 .usa-footer__secondary-section {
   background-color: color($theme-color-base-ink);
   color: color("white");
@@ -106,44 +86,6 @@ footer {
   a:visited {
     color: color("white");
     text-decoration: none;
-  }
-}
-
-.i8n-section {
-  display: flex;
-  align-items: center;
-
-  #i8n_select {
-    @include u-bg($theme-color-warning);
-    color: color("black");
-    margin-top: 0;
-    max-width: 10em;
-  }
-
-  .i8n-submit {
-    margin-left: 1em;
-    margin-top: 0 !important;
-    background-color: color($theme-color-base-ink);
-    border: 1px solid color("white");
-    width: 50%;
-    max-width: 4em;
-
-    &:hover {
-      background-color: color("white") !important;
-      color: color($theme-color-base-ink);
-    }
-  }
-}
-
-.privacy-footer {
-  background-color: color($theme-color-primary-darker);
-  color: color("white");
-  padding-top: 2em;
-  border-top: 1px solid color($theme-color-base-darker);
-  a,
-  a:visited {
-    color: color("white");
-    text-transform: none;
   }
 }
 

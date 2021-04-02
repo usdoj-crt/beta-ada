@@ -24,16 +24,6 @@
     margin-right: 0.5rem;
   }
 
-  a {
-    border-bottom: 1px solid transparent;
-    color: color($theme-color-primary-darker);
-    text-decoration: none;
-
-    &:hover {
-      border-bottom: 1px solid color($theme-color-primary-darker);
-    }
-  }
-
   .crt-menu--section {
     padding-right: 0;
   }
@@ -57,19 +47,33 @@
     color: color($theme-color-primary-darker) !important;
     font-size: $theme-text-font-size-md;
     font-weight: normal !important;
-    margin-top: 0.5rem;
-    padding: 0.5rem 0 !important;
+    text-decoration: none;
 
     &:hover {
       font-weight: bold !important;
     }
 
-    @include at-media-max(desktop) {
-      color: black !important;
+    @include at-media(desktop) {
+      border-bottom: 1px solid transparent;
+      margin-top: 0.5rem;
+      padding: 0.5rem 0 !important;
+
+      &:hover,
+      &.usa-current {
+        border-bottom: 1px solid color($theme-color-primary-darker);
+      }
     }
   }
 
   .crt-landing--logo_section {
+    a {
+      text-decoration: none;
+
+      &:hover {
+        color: color($theme-color-primary-dark);
+      }
+    }
+
     img {
       height: 60px;
       @include at-media-max(mobile-lg) {
@@ -88,6 +92,7 @@
 
   .crt-landing--logo_heading {
     @extend .usa-footer__logo-heading;
+    display: block;
     font-size: $theme-heading-font-size-lg;
     margin-top: 0.5rem;
     @include at-media-max(mobile-lg) {
