@@ -25,7 +25,7 @@ Accessible parking spaces must have access aisles. Access aisles provide a desig
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col-6">
-      <ul class="icon-list" aria-labeledby="access-aisles-must-be">
+      <ul class="icon-list">
         <li>marked (to discourage parking in them)</li>
         <li>the same length as the space it serves</li>
         <li>and level with the parking space it serves</li>
@@ -48,7 +48,7 @@ Accessible parking spaces must be provided for cars and vans.
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col-6">
-      <ul class="icon-list" aria-labeledby="car-accessible-spaces-must">
+      <ul class="icon-list">
         <li>be at least 96 inches wide</li>
         <li>have an access aisle at least 60 inches wide</li>
         <li>have no more than a 2% slope in all directions</li>
@@ -65,7 +65,7 @@ Accessible parking spaces must be provided for cars and vans.
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col-6">
-      <ul class="icon-list" aria-labeledby="van-accessible-spaces-must">
+      <ul class="icon-list">
         <li>be at least 96 inches wide</li>
         <li>have an access aisle at least 96 inches wide</li>
         <li>have no more than a 2% slope in all directions</li>
@@ -154,7 +154,7 @@ Where parking spaces are limited to 4 or fewer spaces:
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col-6">
-      <ul class="icon-list" aria-labeledby="access-aisles-must-be">
+      <ul class="icon-list">
         <li>one (1) van accessible parking space must be provided</li>
         <li>not required to have a sign with the international symbol of accessibility</li>
         <li>anyone can park in that space</li>
