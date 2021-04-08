@@ -5,7 +5,7 @@ layout: page
 lead: |-
   The ADA explains what businesses and state/local governments must do to make sure that they do not discriminate against a member of the public with a disability who uses a service animal.
 
-  Generally, businesses and non-profits that are open to the public as well as state/local governments must allow service animals to go most places where the public can go. This is true even if they have a "no pets" policy.
+  Generally, businesses and non-profits that are open to the public as well as state/local governments must allow service animals to go most places where the public can go. This is true even if they have a “no pets” policy.
 
 ---
 
@@ -13,21 +13,46 @@ lead: |-
 
 ### Service animals are:
 
-<ul class="icon-list">
-  <li>Dogs</li>
-  <li>Any breed and any size of dog</li>
-  <li>Trained to perform a task directly related to a person’s disability</li>
-</ul>
+  <ul class="usa-icon-list"><li class="usa-icon-list__item">
+    {% include green-check.html %}
+    <div class="usa-icon-list__content">
+      Dogs
+    </div>
+  </li>
+  <li class="usa-icon-list__item">
+    {% include green-check.html %}
+    <div class="usa-icon-list__content">
+      Any breed and any size of dog
+    </div>
+  </li><li class="usa-icon-list__item">
+    {% include green-check.html %}
+    <div class="usa-icon-list__content">
+      Trained to perform a task directly related to a person's disability
+    </div>
+  </li></ul>
 
 ### Service animals are not:
 
-<ul class="icon-list">
-  <li>Required to be certified or go through a professional training program</li>
-  <li>Required to wear a vest or other ID that indicates they’re a service dog</li>
-  <li>Emotional support or comfort dogs, because providing emotional support or comfort is not a task related to a person’s disability</li>
-</ul>
+  <ul class="usa-icon-list"><li class="usa-icon-list__item">
+    {% include red-x.html %}
+    <div class="usa-icon-list__content">
+      Required to be certified or go through a professional training program
+    </div>
+  </li>
+  <li class="usa-icon-list__item">
+    {% include red-x.html %}
+    <div class="usa-icon-list__content">
+      Required to wear a vest or other ID that indicates they’re a service dog
+    </div>
+  </li><li class="usa-icon-list__item">
+    {% include red-x.html %}
+    <div class="usa-icon-list__content">
+      Emotional support or comfort dogs, because providing emotional support or comfort is not a task related to a person’s disability
+    </div>
+  </li>
+  </ul>
 
-<details>
+<details class="margin-top-2">
     <summary>More about the difference between emotional support animals and service animals</summary>
       If the dog's mere presence provides comfort, it is not a service animal under the ADA. But if the dog is trained to perform a task related to a person's disability, it is a service animal under the ADA. For example, if the dog has been trained to sense that an anxiety attack is about to happen and take a specific action to help avoid the attack or lessen its impact, the dog is a service animal.
 </details>
@@ -38,7 +63,7 @@ A person who uses a wheelchair may have a dog that is **trained to retrieve obje
 
 A person with depression may have a dog that is **trained to perform a task to remind them to take their medication**.
 
-A person with PTSD may have a dog that is **trained to lick their hand to alert them to an oncoming panic attack**.
+A person with PTSD may have a dog that is **trained to lick their hand to alert them to an oncoming panic attack**. 
 
 A person who has epilepsy may have a dog that is **trained to detect the onset of a seizure and then help the person remain safe during the seizure**.
 
@@ -58,15 +83,15 @@ The ADA also applies to certain types of housing, including:
 - Public housing programs run by state, county, and city governments
 - Emergency shelters
 
-### Other laws apply to housing
+### {% include info-icon.html %} Other laws apply to housing
 
 The **Fair Housing Act** applies to many types of housing, both public and privately owned, including housing covered by the ADA. Under the Fair Housing Act, there may be different rules that apply when a resident or applicant with a disability uses a service animal or other animal to assist with their disability. The U.S. Department of Housing and Urban Development is responsible for administering the Fair Housing Act. Learn more at the [U.S. Department of Housing and Urban Development](https://www.hud.gov/program_offices/fair_housing_equal_opp/fair_housing_act_overview) or [contact your Regional Fair Housing and Equal Opportunity Office](https://www.hud.gov/program_offices/fair_housing_equal_opp/contact_fheo).
 
-### Other laws apply to airplanes
+### {% include info-icon.html %} Other laws apply to airplanes
 
 The Air Carrier Access Act, not the ADA, protects the rights of people with disabilities in air travel. For information or to file a complaint, contact the U.S. Department of Transportation, Aviation Consumer Protection Division: 202-366-2220.
 
-### Other rules apply to employment
+### {% include info-icon.html %} Other rules apply to employment
 The [Equal Employment Opportunity Commission](https://www.eeoc.gov/disability-discrimination) (EEOC) is responsible for administering the ADA in employment settings.
 
 ## Asking if a Dog is a Service Animal
@@ -74,16 +99,35 @@ If you are working at a business or state/local government facility and it is un
 
 ### You may ask:
 
-<ul class="icon-list">
-  <li>Is the dog a service animal required because of a disability?</li>
-  <li>What work or task has the dog been trained to perform?</li>
-</ul>
+  <ul class="usa-icon-list"><li class="usa-icon-list__item">
+    {% include green-check.html %}
+    <div class="usa-icon-list__content">
+      Is the dog a service animal required because of a disability?
+    </div>
+  </li>
+  <li class="usa-icon-list__item">
+    {% include green-check.html %}
+    <div class="usa-icon-list__content">
+      What work or task has the dog been trained to perform?
+    </div>
+  </li>
+  </ul>
 
 ### You are _not_ allowed to:
-<ul class="icon-list">
-  <li>Request any documentation that the dog is registered, licensed, or certified as a service animal</li>
-  <li>Require that the dog demonstrate its task, or inquire about the nature of the person’s disability</li>
-</ul>  
+
+  <ul class="usa-icon-list"><li class="usa-icon-list__item">
+    {% include red-x.html %}
+    <div class="usa-icon-list__content">
+      Request any documentation that the dog is registered, licensed, or certified as a service animal
+    </div>
+  </li>
+  <li class="usa-icon-list__item">
+    {% include red-x.html %}
+    <div class="usa-icon-list__content">
+      Require that the dog demonstrate its task, or inquire about the nature of the person’s disability
+    </div>
+  </li>
+  </ul>
 
 Because service animals are not required to wear vests, a dog that is wearing a vest is not necessarily a service animal. The dog still needs to be trained to perform a task for a person with a disability to be a service animal.
 
@@ -113,16 +157,34 @@ A business or state/local government can ask someone to remove their service ani
 ## State and Local Laws
 
 ### State/local governments can:
-<ul class="icon-list">
-  <li>Require service dogs to be licensed and vaccinated, if all dogs are required to be licensed and vaccinated</li>
-  <li>Offer <em>voluntary</em> service dog registration programs</li>
-</ul>
+  <ul class="usa-icon-list"><li class="usa-icon-list__item">
+    {% include green-check.html %}
+    <div class="usa-icon-list__content">
+      Require service dogs to be licensed and vaccinated, if all dogs are required to be licensed and vaccinated
+    </div>
+  </li>
+  <li class="usa-icon-list__item">
+    {% include green-check.html %}
+    <div class="usa-icon-list__content">
+      Offer <i>voluntary</i> service dog registration programs
+    </div>
+  </li>
+  </ul>
 
 ### State/local governments can't:
-<ul class="icon-list">
-  <li>Require certification or registration of service dogs</li>
-  <li>Ban a service dog based on its breed</li>
-</ul>
+  <ul class="usa-icon-list"><li class="usa-icon-list__item">
+    {% include red-x.html %}
+    <div class="usa-icon-list__content">
+      Require certification or registration of service dogs
+    </div>
+  </li>
+  <li class="usa-icon-list__item">
+    {% include red-x.html %}
+    <div class="usa-icon-list__content">
+      Ban a service dog based on its breed
+    </div>
+  </li>
+  </ul>
 
 ## Learn More About the ADA and Service Animals
 The following technical assistance documents provide more helpful information about service animals:
