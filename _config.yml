@@ -132,6 +132,8 @@ exclude:
   - Gemfile.lock
   - pa11y-ci-results.json
   - pa11y-results
+  - Dockerfile
+  - docker-compose.yml  
 
 assets:
   autoprefixer:
