@@ -17,24 +17,25 @@ A person with a disability is someone who:
  
 If a person meets this definition, the ADA protects them. Because the ADA is a law, and not a benefit program, you do not need to apply for coverage. 
  
-<details>
+<details markdown="1">
   <summary>What does <dfn><i>substantially limits</i></dfn> mean?</summary>
-  <p>The term “substantially limits” is defined broadly and is not meant to be a demanding standard. An example of a condition that is not substantial is a mild allergy to pollen.</p> 
+  
+  The term “substantially limits” is defined broadly and is not meant to be a demanding standard. An example of a condition that is not substantial is a mild allergy to pollen.
+
 </details>  
  
-<details>
+<details markdown="1">
 <summary>What does <dfn><i>major life activities</i></dfn> mean?</summary>
  
-<p>Major life activities are the kind of actions that you do every day, including your body’s own internal processes. There are many major life activities in addition to the examples listed here. Some examples include:</p>
- 
-<ul>
-  <li>Actions like eating, sleeping, speaking, and breathing</li>
-  <li>Movements like walking, standing, lifting, and bending</li>
-  <li>Cognitive functions like thinking and concentrating</li>
-  <li>Sensory functions like seeing and hearing</li>
-  <li>Tasks like working, reading, learning, and communicating</li>
-  <li>Regular function of bodily systems like circulation, reproduction, and individual organs</li>
-</ul>
+Major life activities are the kind of actions that you do every day, including your body’s own internal processes. There are many major life activities in addition to the examples listed here. Some examples include:
+
+- Actions like eating, sleeping, speaking, and breathing
+- Movements like walking, standing, lifting, and bending
+- Cognitive functions like thinking and concentrating
+- Sensory functions like seeing and hearing
+- Tasks like working, reading, learning, and communicating
+- Regular function of bodily systems like circulation, reproduction, and individual organs
+
 </details>
 
 ### Examples of Disabilities
@@ -59,12 +60,12 @@ There are many disabilities, and the ADA does not list all of them. Some disabil
 
 To prevent discrimination against people with disabilities, the ADA sets out requirements that apply to most of the organizations and situations you encounter in everyday life. Employers, state and local governments, businesses that are open to the public, commercial facilities, transportation, and telecommunications all have to follow the requirements of the ADA. 
 
-<details>
+<details markdown="1">
   <summary>The ADA prohibits discrimination based on disability</summary>
 
-<p>Under the ADA, it is illegal to discriminate against someone because of their disability.</p> 
+Under the ADA, it is illegal to discriminate against someone because of their disability.
 
-<p>For example, a local rec center might only be open to people who live in the surrounding zip code. If the rec center refused access to a person with epilepsy because that person lived in a different zip code, that would not be a violation of the ADA because the rec center would not be discriminating on the basis of the person’s disability.</p>
+For example, a local rec center might only be open to people who live in the surrounding zip code. If the rec center refused access to a person with epilepsy because that person lived in a different zip code, that would not be a violation of the ADA because the rec center would not be discriminating on the basis of the person’s disability.
 </details> 
 
 The ADA is broken up into five different sections, which are called titles. Different titles set out the requirements for different kinds of organizations. For example, title I of the ADA covers requirements for employers, and title II covers requirements for state and local governments. You can find the relevant title of the ADA noted next to each type of organization below. 
@@ -79,10 +80,10 @@ The ADA is broken up into five different sections, which are called titles. Diff
 
 **If you have a complaint:** [File a Charge of Discrimination with the Equal Employment Opportunity Commission](https://www.eeoc.gov/filing-charge-discrimination).
 
-<details>
+<details markdown="1">
   <summary>More about employers’ responsibilities</summary>
 
-<p>The ADA includes specific requirements for employers to ensure that people with disabilities have equal access to employment. Learn about these requirements under the <a href="https://www.eeoc.gov/disability-discrimination">Equal Employment Opportunity Commission’s guidance for employers.</a></p>
+The ADA includes specific requirements for employers to ensure that people with disabilities have equal access to employment. Learn about these requirements under the [Equal Employment Opportunity Commission’s guidance for employers](https://www.eeoc.gov/disability-discrimination).
 
 </details>  
 
@@ -110,9 +111,11 @@ The ADA applies to state and local governments even if:
 
 **If you have a complaint:** [File a complaint with the U.S. Department of Justice](https://www.ada.gov/filing_complaint.htm).
 
-<details>
+<details markdown="1">
   <summary>More about state and local governments’ ADA responsibilities</summary>
-  <p>The ADA contains specific requirements for state and local governments to ensure equal access for people with disabilities. Learn about these requirements in the <a href="https://www.ada.gov/regs2010/titleII_2010/title_ii_primer.html">State and Local Government Primer</a>.</p>
+
+The ADA contains specific requirements for state and local governments to ensure equal access for people with disabilities. Learn about these requirements in the [State and Local Government Primer](https://www.ada.gov/regs2010/titleII_2010/title_ii_primer.html).
+
 </details>
 
 ### Public Transit (Title II)
@@ -156,8 +159,11 @@ The ADA applies to state and local governments even if:
 
 **If you have a complaint:** [File a complaint with the U.S. Department of Justice](https://www.ada.gov/filing_complaint.htm).
 
-<details><summary>More about businesses and nonprofits’ ADA responsibilities</summary>
-<p>The ADA contains specific requirements for businesses that are open to the public. Learn more about these requirements: <a href="https://www.ada.gov/regs2010/smallbusiness/smallbusprimer2010.htm">ADA Primer for Small Businesses</a>.</p>
+<details markdown="1">
+<summary>More about businesses and nonprofits’ ADA responsibilities</summary>
+
+The ADA contains specific requirements for businesses that are open to the public. Learn more about these requirements: [ADA Primer for Small Businesses](https://www.ada.gov/regs2010/smallbusiness/smallbusprimer2010.htm).
+
 </details>
 
 ### Telecommunications (Title IV)
@@ -168,17 +174,20 @@ The ADA applies to state and local governments even if:
 
 **If you have a complaint:** [Contact the Telecommunications Relay Services point of contact for your state through the Federal Communications Commission](https://www.fcc.gov/general/trs-points-contact-complaints).
 
-<details><summary>Some areas of life are not covered by the ADA or are covered by other laws</summary>
-<p>Although the ADA applies to many areas of life, it does not cover everything. In some situations, disability discrimination is prohibited by laws other than the ADA.</p>
+<details markdown="1">
+<summary>Some areas of life are not covered by the ADA or are covered by other laws</summary>
 
-<p>While the ADA applies to certain types of housing (e.g., housing at private and public universities and public housing programs), the Fair Housing Act applies to almost all types of housing, both public and privately owned, including housing covered by the ADA.</p>
+Although the ADA applies to many areas of life, it does not cover everything. In some situations, disability discrimination is prohibited by laws other than the ADA.
 
-<ul><li>If you have a complaint about disability discrimination under the Fair Housing Act: <a href="https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint">File a complaint with the Department of Housing and Urban Development</a>.</li></ul>
+While the ADA applies to certain types of housing (e.g., housing at private and public universities and public housing programs), the Fair Housing Act applies to almost all types of housing, both public and privately owned, including housing covered by the ADA.
 
-<p>Disability discrimination during air travel is prohibited by the Air Carriers Access Act.</p>
-<ul><li>If you have a complaint about disability discrimination during air travel: <a href="https://airconsumer.dot.gov/escomplaint/ConsumerForm.cfm">File a complaint with the Department of Transportation’s Office of Aviation Consumer Protection</a>.</li></ul>
+- If you have a complaint about disability discrimination under the Fair Housing Act: [File a complaint with the Department of Housing and Urban Development](https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint).
 
-<p>While religious organizations are exempt from the requirements of title III of the ADA, they would be subject to the employment obligations of title I if they have enough employees to meet the requirements for coverage. Additionally, religious groups or organizations may still have to comply with accessible building codes or other state or federal laws prohibiting discrimination on the basis of disability.</p>
+Disability discrimination during air travel is prohibited by the Air Carriers Access Act.
+
+- If you have a complaint about disability discrimination during air travel: [File a complaint with the Department of Transportation’s Office of Aviation Consumer Protection](https://airconsumer.dot.gov/escomplaint/ConsumerForm.cfm).
+
+While religious organizations are exempt from the requirements of title III of the ADA, they would be subject to the employment obligations of title I if they have enough employees to meet the requirements for coverage. Additionally, religious groups or organizations may still have to comply with accessible building codes or other state or federal laws prohibiting discrimination on the basis of disability.
 </details>
 
 ### Other Important Requirements (Title V)
