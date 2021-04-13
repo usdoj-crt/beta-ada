@@ -5,7 +5,7 @@
     "build": "bundle exec jekyll build",
     "clean": "bundle exec jekyll clean",
     "start": "bundle exec jekyll serve",
-    "start:detach": "bundle exec jekyll serve --detach",
+    "start:detach": "bundle exec jekyll serve --config _config.yml,_config_test.yml --detach",
     "pa11y": "pa11y-ci --sitemap http://127.0.0.1:4000/sitemap.xml",
     "pa11y:json": "pa11y-ci --json --sitemap http://127.0.0.1:4000/sitemap.xml > ./pa11y-ci-results.json",
     "pa11y:save": "pa11y-ci-reporter-html --include-zero-issues -d ./pa11y-results",
