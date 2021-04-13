@@ -25,7 +25,9 @@ The term “substantially limits” is defined broadly and is not meant to be a 
 </details>  
 
 <details>
-<summary>What does <dfn><i>major life activities</i></dfn> mean?</summary>
+<summary>
+What does <dfn><i>major life activities</i></dfn> mean?
+</summary>
 
 Major life activities are the kind of actions that you do every day, including your body’s own internal processes. There are many major life activities in addition to the examples listed here. Some examples include:
 
@@ -60,7 +62,9 @@ There are many disabilities, and the ADA does not list all of them. Some disabil
 To prevent discrimination against people with disabilities, the ADA sets out requirements that apply to most of the organizations and situations you encounter in everyday life. Employers, state and local governments, businesses that are open to the public, commercial facilities, transportation, and telecommunications all have to follow the requirements of the ADA.
 
 <details>
-<summary>The ADA prohibits discrimination based on disability</summary>
+<summary>
+The ADA prohibits discrimination based on disability
+</summary>
 
 Under the ADA, it is illegal to discriminate against someone because of their disability.
 
@@ -80,7 +84,9 @@ The ADA is broken up into five different sections, which are called titles. Diff
 **If you have a complaint:** [File a Charge of Discrimination with the Equal Employment Opportunity Commission](https://www.eeoc.gov/filing-charge-discrimination).
 
 <details>
-<summary>More about employers’ responsibilities</summary>
+<summary>
+More about employers’ responsibilities
+</summary>
 
 The ADA includes specific requirements for employers to ensure that people with disabilities have equal access to employment. Learn about these requirements under the [Equal Employment Opportunity Commission’s guidance for employers](https://www.eeoc.gov/disability-discrimination).
 </details>  
@@ -110,7 +116,9 @@ The ADA applies to state and local governments even if:
 **If you have a complaint:** [File a complaint with the U.S. Department of Justice](https://www.ada.gov/filing_complaint.htm).
 
 <details>
-<summary>More about state and local governments’ ADA responsibilities</summary>
+<summary>
+More about state and local governments’ ADA responsibilities
+</summary>
 
 The ADA contains specific requirements for state and local governments to ensure equal access for people with disabilities. Learn about these requirements in the [State and Local Government Primer](https://www.ada.gov/regs2010/titleII_2010/title_ii_primer.html).
 </details>
@@ -157,7 +165,9 @@ The ADA contains specific requirements for state and local governments to ensure
 **If you have a complaint:** [File a complaint with the U.S. Department of Justice](https://www.ada.gov/filing_complaint.htm).
 
 <details>
-<summary>More about businesses and nonprofits’ ADA responsibilities</summary>
+<summary>
+More about businesses and nonprofits’ ADA responsibilities
+</summary>
 
 The ADA contains specific requirements for businesses that are open to the public. Learn more about these requirements: [ADA Primer for Small Businesses](https://www.ada.gov/regs2010/smallbusiness/smallbusprimer2010.htm).
 </details>
@@ -171,7 +181,9 @@ The ADA contains specific requirements for businesses that are open to the publi
 **If you have a complaint:** [Contact the Telecommunications Relay Services point of contact for your state through the Federal Communications Commission](https://www.fcc.gov/general/trs-points-contact-complaints).
 
 <details>
-<summary>Some areas of life are not covered by the ADA or are covered by other laws</summary>
+<summary>
+Some areas of life are not covered by the ADA or are covered by other laws
+</summary>
 
 Although the ADA applies to many areas of life, it does not cover everything. In some situations, disability discrimination is prohibited by laws other than the ADA.
 
