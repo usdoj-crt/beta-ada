@@ -16,7 +16,7 @@ A person with a disability is someone who:
 - is perceived by others as having such an impairment (such as a person who has scars from a severe burn).
  
 If a person meets this definition, the ADA protects them. Because the ADA is a law, and not a benefit program, you do not need to apply for coverage. 
- 
+
 <details markdown="1">
   <summary>What does <dfn><i>substantially limits</i></dfn> mean?</summary>
   
@@ -66,6 +66,7 @@ To prevent discrimination against people with disabilities, the ADA sets out req
 Under the ADA, it is illegal to discriminate against someone because of their disability.
 
 For example, a local rec center might only be open to people who live in the surrounding zip code. If the rec center refused access to a person with epilepsy because that person lived in a different zip code, that would not be a violation of the ADA because the rec center would not be discriminating on the basis of the person’s disability.
+
 </details> 
 
 The ADA is broken up into five different sections, which are called titles. Different titles set out the requirements for different kinds of organizations. For example, title I of the ADA covers requirements for employers, and title II covers requirements for state and local governments. You can find the relevant title of the ADA noted next to each type of organization below. 
@@ -188,6 +189,7 @@ Disability discrimination during air travel is prohibited by the Air Carriers Ac
 - If you have a complaint about disability discrimination during air travel: [File a complaint with the Department of Transportation’s Office of Aviation Consumer Protection](https://airconsumer.dot.gov/escomplaint/ConsumerForm.cfm).
 
 While religious organizations are exempt from the requirements of title III of the ADA, they would be subject to the employment obligations of title I if they have enough employees to meet the requirements for coverage. Additionally, religious groups or organizations may still have to comply with accessible building codes or other state or federal laws prohibiting discrimination on the basis of disability.
+
 </details>
 
 ### Other Important Requirements (Title V)
