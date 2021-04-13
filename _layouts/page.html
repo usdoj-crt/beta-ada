@@ -13,6 +13,7 @@ associated with it. For example, an about page. {% endcomment %}
       </div>
       <div class="tablet:grid-col-8 tablet:grid-offset-1">
         <h1>{{page.title}}</h1>
+        {% include alert-proto.html %}
         <div class="crt-landing--separator"></div>
         {% if page.lead %}
         <div class="crt-lead">
