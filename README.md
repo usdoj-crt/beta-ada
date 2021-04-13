@@ -46,11 +46,9 @@ site.
 
 #### With locally installed `node` and `ruby`
     $ npm test
-    OR
-    $ bundle exec htmlproofer _site; npx a11y '_site/**/*.html'
 
 #### With Docker
-    $ docker-compose run ruby bundle exec htmlproofer _site; npx a11y '_site/**/*.html'
+    $ docker-compose run node npm test
 
 ## Technologies you should be familiarize yourself with
 
