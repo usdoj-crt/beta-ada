@@ -22,7 +22,7 @@ Accessible parking spaces must have access aisles. Access aisles provide a desig
 
 #### Access aisles must be:
 
-<div class="grid-container">
+<div class="grid-container" markdown="0">
   <div class="grid-row">
     <div class="tablet:grid-col-6">
       <ul class="icon-list">
@@ -45,7 +45,7 @@ Accessible parking spaces must be provided for cars and vans.
 
 #### Car accessible spaces must:
 
-<div class="grid-container">
+<div class="grid-container" markdown="0">
   <div class="grid-row">
     <div class="tablet:grid-col-6">
       <ul class="icon-list">
@@ -62,7 +62,7 @@ Accessible parking spaces must be provided for cars and vans.
 
 #### Van accessible spaces must:
 
-<div class="grid-container">
+<div class="grid-container" markdown="0">
   <div class="grid-row">
     <div class="tablet:grid-col-6">
       <ul class="icon-list">
@@ -151,7 +151,7 @@ accessible parking spaces permitted.</th>
 
 Where parking spaces are limited to 4 or fewer spaces:
 
-<div class="grid-container">
+<div class="grid-container" markdown="0">
   <div class="grid-row">
     <div class="tablet:grid-col-6">
       <ul class="icon-list">
