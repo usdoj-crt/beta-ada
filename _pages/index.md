@@ -14,7 +14,7 @@ cards:
       Effective communication ipsum dolor sit amet, conset tur adipiscing elit, sed do eiusmod.
 ---
 
-<div class="crt-landing--section crt-landing--hero crt-landing--pale">
+<div class="crt-landing--section crt-landing--hero crt-landing--pale" markdown="0">
   <div class="grid-container">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-8">
@@ -40,7 +40,7 @@ cards:
 
 {% include alert.html heading="DOJ issues COVID-19 alert for fraudulent face mask flyers." %}
 
-<div class="crt-landing--section crt-landing--description crt-landing--pale">
+<div class="crt-landing--section crt-landing--description crt-landing--pale" markdown="0">
   <div class="grid-container">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-12">
@@ -86,7 +86,7 @@ cards:
   </div>
 </div>
 
-<div class="crt-landing--section crt-landing--lightblue">
+<div class="crt-landing--section crt-landing--lightblue" markdown="0">
   <div class="grid-container">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-12">
@@ -112,6 +112,7 @@ cards:
 <div
   id="crt-landing--reporting"
   class="crt-landing--section crt-landing--how_to_report crt-landing--blue"
+  markdown="0"
 >
   <div class="grid-container">
     <div class="grid-row grid-gap">
@@ -183,12 +184,12 @@ cards:
   </div>
 </div>
 
-<div class="crt-landing--lightblue">
+<div class="crt-landing--lightblue" markdown="0">
   <div class="grid-container">
     <div class="crt-landing--arrow"></div>
   </div>
 </div>
-<div class="crt-landing--section crt-landing--submit crt-landing--lightblue">
+<div class="crt-landing--section crt-landing--submit crt-landing--lightblue" markdown="0">
   <div class="grid-container">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-10">

@@ -30,4 +30,9 @@
       @extend .crt-landing--separator_sub;
     }
   }
+
+  details > summary > p {
+    display: inline-block;
+    margin: 0;
+  }
 }
