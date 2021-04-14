@@ -30,15 +30,12 @@ cards:
           protects people with disabilities and helps businesses and local
           governments ensure their facilities and services are accessible.
         </p>
-        <a class="usa-button usa-button--big crt-button--large" href="#"
-          >Learn more</a
-        >
       </div>
     </div>
   </div>
 </div>
 
-{% include alert.html heading="DOJ issues COVID-19 alert for fraudulent face mask flyers." %}
+{% include alert.html heading="Help us improve ADA.gov" %}
 
 <div class="crt-landing--section crt-landing--description crt-landing--pale" markdown="0">
   <div class="grid-container">
