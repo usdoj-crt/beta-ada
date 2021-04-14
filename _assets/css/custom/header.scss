@@ -1,6 +1,11 @@
 .crt-landing--header {
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+
+  @include at-media(mobile-lg) {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+  }
 
   .grid-container {
     padding: 0;
@@ -98,5 +103,11 @@
     @include at-media-max(mobile-lg) {
       font-size: $theme-heading-font-size-md-mobile;
     }
+  }
+
+  .usa-nav.is-visible {
+    background-color: color($theme-color-primary-lightest);
+    color: color($theme-color-primary-darker);
+    @include u-shadow(2)
   }
 }

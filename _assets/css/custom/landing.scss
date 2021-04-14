@@ -92,38 +92,22 @@ $arrow-height: 24px;
 }
 
 .crt-landing--hero {
-  background-image: $theme-hero-image;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  min-height: 800px;
-
-  @include at-media-max(mobile-lg) {
+  @include at-media(tablet) {
     background-image: $theme-hero-image;
-    background-color: #436eac;
-    min-height: 600px;
-    color: color("white");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 800px;
+  }
 
-    .h1__display {
-      color: color("white");
-    }
+  @include at-media-max(tablet) {
+    padding-top: 0;
 
     .crt-button--large {
       background: color($theme-color-warning);
       color: black !important;
       margin-top: 0;
     }
-
-    a,
-    a:visited {
-      color: white;
-    }
-  }
-
-  @include at-media-max(desktop) {
-    background-image: $theme-hero-image;
-    background-position: bottom;
-    min-height: 850px;
   }
 
   h1 {
