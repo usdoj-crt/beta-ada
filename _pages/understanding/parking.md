@@ -25,11 +25,12 @@ Accessible parking spaces must have access aisles. Access aisles provide a desig
 <div class="grid-container" markdown="0">
   <div class="grid-row">
     <div class="tablet:grid-col-6">
-      <ul class="icon-list">
-        <li>marked (to discourage parking in them)</li>
-        <li>the same length as the space it serves</li>
-        <li>and level with the parking space it serves</li>
-      </ul>
+      {% capture list %}
+      - marked (to discourage parking in them)
+      - the same length as the space it serves
+      - and level with the parking space it serves
+      {% endcapture %}
+      {% include icon-list.html list=list type="green-check" %}
     </div>
     <div class="tablet:grid-col-6">{% asset project-images/aisle-parking.png alt="A van-accessible parking space sharing an access aisle with an accessible parking space for a car" %}</div>
   </div>
@@ -48,13 +49,14 @@ Accessible parking spaces must be provided for cars and vans.
 <div class="grid-container" markdown="0">
   <div class="grid-row">
     <div class="tablet:grid-col-6">
-      <ul class="icon-list">
-        <li>be at least 96 inches wide</li>
-        <li>have an access aisle at least 60 inches wide</li>
-        <li>have no more than a 2% slope in all directions</li>
-        <li>have a surface that is firm, stable and slip-resistant</li>
-        <li>have a sign with the international symbol of accessibility on it, mounted at least 60 inches above the ground (measured to the bottom of the sign)</li>
-      </ul>
+      {% capture list %}
+      - be at least 96 inches wide
+      - have an access aisle at least 60 inches wide
+      - have no more than a 2% slope in all directions
+      - have a surface that is firm, stable and slip-resistant
+      - have a sign with the international symbol of accessibility on it, mounted at least 60 inches above the ground (measured to the bottom of the sign)
+      {% endcapture %}
+      {% include icon-list.html list=list type="green-check" %}
     </div>
       <div class="tablet:grid-col-6">{% asset project-images/car-accessible.png alt="Accessible parking spaces with 60-inch minimum width access aisle for cars" %}</div>
   </div>
@@ -65,15 +67,16 @@ Accessible parking spaces must be provided for cars and vans.
 <div class="grid-container" markdown="0">
   <div class="grid-row">
     <div class="tablet:grid-col-6">
-      <ul class="icon-list">
-        <li>be at least 96 inches wide</li>
-        <li>have an access aisle at least 96 inches wide</li>
-        <li>have no more than a 2% slope in all directions</li>
-        <li>have a surface that is firm, stable and slip-resistant</li>
-        <li>have two signs, mounted at least 60 inches above the ground (measured to the bottom of the sign)</li>
-        <li>first sign - international symbol of accessibility</li>
-        <li>second sign - stating that the space is van accessible</li>
-      </ul>
+      {% capture list %}
+      - be at least 96 inches wide
+      - have an access aisle at least 96 inches wide
+      - have no more than a 2% slope in all directions
+      - have a surface that is firm, stable and slip-resistant
+      - have two signs, mounted at least 60 inches above the ground (measured to the bottom of the sign)
+      - first sign - international symbol of accessibility
+      - second sign - stating that the space is van accessible
+      {% endcapture %}
+      {% include icon-list.html list=list type="green-check" %}
     </div>
       <div class="tablet:grid-col-6">{% asset project-images/van-accessible.png alt="Minimum 96-inch wide van-accessible parking space with 96-inch minimum width access aisle" %}</div>
   </div>
@@ -154,11 +157,12 @@ Where parking spaces are limited to 4 or fewer spaces:
 <div class="grid-container" markdown="0">
   <div class="grid-row">
     <div class="tablet:grid-col-6">
-      <ul class="icon-list">
-        <li>one (1) van accessible parking space must be provided</li>
-        <li>not required to have a sign with the international symbol of accessibility</li>
-        <li>anyone can park in that space</li>
-      </ul>
+      {% capture list %}
+      - one (1) van accessible parking space must be provided
+      - not required to have a sign with the international symbol of accessibility
+      - anyone can park in that space | red-x
+      {% endcapture %}
+      {% include icon-list.html list=list type="green-check" %}
     </div>
     <div class="tablet:grid-col-6">{% asset project-images/limited-spaces.png alt="Front of a convenience store with four parking spaces, one parking space is a van-accessible space" %}</div>
   </div>
@@ -167,16 +171,22 @@ Where parking spaces are limited to 4 or fewer spaces:
 ### Parking at hospital facilities
 
 #### Hospital outpatient facilities
-
-ten percent (10%) of patient and visitor parking must be accessible
+{% capture list %}
+- ten percent (10%) of patient and visitor parking must be accessible
+{% endcapture %}
+{% include icon-list.html list=list type="error" %}
 
 #### Rehabilitation facilities
-
-twenty percent (20%) of patient and visitor parking must be accessible
+{% capture list %}
+- twenty percent (20%) of patient and visitor parking must be accessible
+{% endcapture %}
+{% include icon-list.html list=list type="error" %}
 
 #### Outpatient physical therapy facilities
-
-twenty percent (20%) of patient and visitor parking must be accessible
+{% capture list %}
+- twenty percent (20%) of patient and visitor parking must be accessible
+{% endcapture %}
+{% include icon-list.html list=list type="error" %}
 
 ## Need more information about accessible parking
 
