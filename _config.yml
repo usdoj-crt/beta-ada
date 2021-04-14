@@ -64,6 +64,9 @@ searchgov:
 # changed if you know what they do
 ##########################################################################################
 
+kramdown:
+  parse_block_html: true
+
 permalink: pretty
 
 include:
