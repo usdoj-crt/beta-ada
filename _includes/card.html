@@ -1,23 +1,22 @@
 <li class="tablet:grid-col-4 usa-card">
   <div class="usa-card__container">
     <header class="usa-card__header">
-      <h2 class="usa-card__heading">{{ include.title }}</h2>
+      <h2 class="usa-card__heading">{{ include.card.title }}</h2>
     </header>
     <div class="usa-card__media">
-      <div class="usa-card__img">
-        <img
-          src="https://designsystem.digital.gov/img/introducing-uswds-2-0/built-to-grow--alt.jpg"
-          alt="A placeholder image"
-        />
+      <div class="usa-card__img height-card-lg {% unless include.card.href%}opacity-40{% endunless %}">
+        {% asset '{{ include.card.image }}' alt='{{ include.card.alt }}' %}
       </div>
     </div>
     <div class="usa-card__body">
       <p>
-        {{ include.description }}
+        {{ include.card.description }}
       </p>
     </div>
     <div class="usa-card__footer">
-      <button class="usa-button">Learn more</button>
+      {% if include.card.href %}
+        <a href="{{ include.card.href | relative_url }}">Learn more</a>
+      {% endif %}
     </div>
   </div>
 </li>

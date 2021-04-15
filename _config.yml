@@ -34,12 +34,12 @@ ga:
 
 # Site Navigation
 primary_navigation:
-  - name: About the ADA
-    url: /about/
-  - name: Understanding the ADA
-    url: /understanding/
+  - name: ADA Guides
+    url: /guides/
   - name: Report a violation
     url: /report/
+  - name: Give us feedback
+    url: /feedback/
 
 # Search.gov configuration
 #

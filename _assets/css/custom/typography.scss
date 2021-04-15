@@ -70,7 +70,14 @@ Usage-specific typography rules
   padding: 0;
   border: none;
   background: none;
+  color: color($theme-link-color);
   text-decoration: underline;
+
+  &:hover {
+    background: none !important;
+    color: color($theme-link-hover-color);
+    text-decoration: underline;
+  }
 }
 
 .usa-prose {
