@@ -3,7 +3,7 @@ permalink: /
 layout: wide
 title: Home
 cards:
-  - title: Intro to the ADA
+  - title: Introduction to the ADA
     description: |-
       Find out how the ADA is structured, and how it protects the rights of people with disabilities.
     image: landing/Intro_ADA-placeholder.png
