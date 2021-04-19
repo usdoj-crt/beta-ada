@@ -1,12 +1,12 @@
----
-layout: base
----
-
-{% comment %}
-This is used for just about every page. It provides the border around the content.
-The home page uses wide.html layout, since it extends full width of page
-{% endcomment %}
-
-<main id="main-content" class="margin-top-0 margin-bottom-0">
-  {{ content }}
-</main>
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  </head>
+  <body>
+    {{ content }}
+  </body>
+</html>

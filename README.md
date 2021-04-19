@@ -1,60 +1,6 @@
-[![CircleCI](https://circleci.com/gh/usdoj-crt/beta-ada.svg?style=svg)](https://circleci.com/gh/usdoj-crt/beta-ada)
-
-[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=usdoj-crt/beta-ada)](https://dependabot.com)
-
 # beta-ada
 
 This site uses [Jekyll](https://jekyllrb.com), a Ruby-based static site generator and is built with the [U.S. Web Design System v 2.0](https://v2.designsystem.digital.gov), a set of reusable, high-quality components for modern websites. Additionally, this site is optimized for deployment on 18F's [Federalist](https://federalist.18f.gov) publishing service.
-
-## Getting Started
-
-### Installation for development
-    $ git clone https://github.com/usdoj-crt/beta-ada
-    $ cd beta-ada
-
-### Running the application
-
-This site requires Ruby and Node.js in order to run locally. For guidance on installing the project's requirements, please see the [Local development environment](https://github.com/usdoj-crt/beta-ada/wiki/Local-development-environment) wiki page.
-
-#### With locally installed `node` and `ruby`
-    $ npm install
-    $ bundle install
-    $ npm start
-    OR
-    $ bundle exec jekyll serve
-
-To build but not serve the site, run `npm run build` or `bundle exec jekyll build`.
-
-#### With Docker
-    $ docker-compose run node npm install
-    $ docker-compose build
-    $ docker-compose up
-
-To build but not serve the site, run:
-```
-docker-compose run ruby bundle exec jekyll build
-```
-.
-
-Note that when built by Federalist, `npm run federalist` is used instead of
-`npm run build`.
-
-Open your web browser to [localhost:4000](http://localhost:4000/) to view your
-site.
-
-### Testing
-
-#### With locally installed `node` and `ruby`
-    $ npm test
-
-#### With Docker
-    $ docker-compose run node npm test
-
-## Technologies you should be familiarize yourself with
-
-- [Jekyll](https://jekyllrb.com/docs/) - The primary site engine that builds your code and content.
-- [Front Matter](https://jekyllrb.com/docs/frontmatter) - The top of each page/post includes keywords within `--` tags. This is meta data that helps Jekyll build the site, but you can also use it to pass custom variables.
-- [U.S. Web Design System v 2.0](https://v2.designsystem.digital.gov)
 
 ## Contributing
 

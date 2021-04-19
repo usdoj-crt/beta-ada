@@ -1,9 +1,0 @@
-_site
-.sass-cache
-.jekyll-metadata
-node_modules
-.bundle
-.jekyll-cache/
-.DS_Store
-pa11y-ci-results.json
-pa11y-results
