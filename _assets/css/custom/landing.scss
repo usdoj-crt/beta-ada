@@ -92,12 +92,15 @@ $arrow-height: 24px;
 }
 
 .crt-landing--hero {
+  padding-top: 0;
+
   @include at-media(tablet) {
     background-image: $theme-hero-image;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     min-height: 600px;
+    padding-top: 3rem;
   }
 }
 
