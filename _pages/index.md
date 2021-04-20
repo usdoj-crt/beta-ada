@@ -15,6 +15,7 @@ cards:
 ---
 
 <div class="crt-landing--section crt-landing--hero crt-landing--pale" markdown="0">
+  {% asset hero-mobile.jpg alt="" class="height-auto width-full tablet:display-none" %}
   <div class="grid-container">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-8">
