@@ -1,7 +1,7 @@
 ---
 title: Accessible parking spaces
 short_title: Parking spaces
-permalink: /understanding/parking/
+permalink: /guides/parking/
 layout: page
 
 lead: |-
