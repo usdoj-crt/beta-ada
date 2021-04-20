@@ -17,9 +17,10 @@ cards:
     href: /guides/service-animals/
   - title: Parking
     description: |-
-      <em>Coming soon!</em>
+      Parking ipsum dolor sit amet, conset tur adipiscing elit, sed do eiusmod.
     image: landing/Parking-placeholder.png
     alt: A man in a wheelchair approaching a vehicle with his hand on the door handle
+    href: /guides/parking/
 ---
 
 <div class="crt-landing--section crt-landing--hero crt-landing--pale" markdown="0">
