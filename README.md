@@ -32,7 +32,6 @@ To build but not serve the site, run:
 ```
 docker-compose run ruby bundle exec jekyll build
 ```
-.
 
 Note that when built by Federalist, `npm run federalist` is used instead of
 `npm run build`.
