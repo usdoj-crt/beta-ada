@@ -1,4 +1,5 @@
-[![CircleCI](https://circleci.com/gh/usdoj-crt/beta-ada.svg?style=svg)](https://circleci.com/gh/usdoj-crt/beta-ada)
+![Pa11y](https://github.com/usdoj-crt/beta-ada/actions/workflows/pa11y.yml/badge.svg)
+
 
 # beta-ada
 
