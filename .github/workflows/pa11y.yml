@@ -22,16 +22,7 @@ jobs:
       - run: npm install
 
       - name: Start server
-        run: npm run start:detach
+        run: bundle exec jekyll serve --config _config.yml,_config_test.yml --detach
 
       - name: Run pa11y-ci
-        run: npm run pa11y:json
-
-      - name: Generate pa11y-ci report
-        run: npm run pa11y:save
-
-      - name: Archive pa11y results
-        uses: actions/upload-artifact@v2
-        with:
-          name: pa11y-report
-          path: pa11y-results
+        run: npm run pa11y
