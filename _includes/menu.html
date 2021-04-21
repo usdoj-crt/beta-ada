@@ -13,6 +13,7 @@
           <a
             class="crt-landing--menu_link{% if nav_item.url == page.permalink or page.url contains nav_item.url or page.permalink contains nav_item.url %} usa-current{% endif %}"
             href="{{ nav_item.url | prepend: site.baseurl}}"
+            data-text="{{ nav_item.name | escape }}"
             >{{ nav_item.name | escape }}</a
           >
         </li>
