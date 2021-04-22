@@ -47,7 +47,6 @@
     max-height: 2rem;
   }
 
-  // again overriding USWDS defaults
   .crt-landing--menu_link {
     color: color($theme-color-primary-darker) !important;
     font-size: $theme-text-font-size-md;
@@ -62,6 +61,26 @@
       border-bottom: 1px solid transparent;
       margin-top: 0.5rem;
       padding: 0.5rem 0 !important;
+      align-items: center;
+      display: inline-flex !important;
+      flex-direction: column;
+      justify-content: space-between;
+
+      &:after {
+        content: attr(data-text);
+        content: attr(data-text) / "";
+        display: block !important;
+        height: 0;
+        visibility: hidden;
+        overflow: hidden;
+        user-select: none;
+        pointer-events: none;
+        font-weight: bold;
+
+        @media speech {
+          display: none;
+        }
+      }
 
       &:hover,
       &.usa-current {
@@ -108,6 +127,6 @@
   .usa-nav.is-visible {
     background-color: color($theme-color-primary-lightest);
     color: color($theme-color-primary-darker);
-    @include u-shadow(2)
+    @include u-shadow(2);
   }
 }
