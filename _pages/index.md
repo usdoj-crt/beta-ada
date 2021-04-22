@@ -92,6 +92,9 @@ cards:
         <p class="crt-landing--largetext">
           The ADA was modeled after the Civil Rights Act of 1964, which prohibits discrimination on the basis of race, color, religion, sex, or national origin. The ADA is an equal opportunity law for people with disabilities.
         </p>
+        <a class="usa-button usa-button--big crt-button--large" href="#"
+          >Learn more ADA history</a
+        >
       </div>
     </div>
 
