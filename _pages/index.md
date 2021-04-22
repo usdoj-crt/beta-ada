@@ -185,7 +185,7 @@ cards:
         <h2 class="h2">
           Think you or someone you know has experienced a disability rights violation?
         </h2>
-        <a class="usa-button usa-button--big crt-button--large" href="#"
+        <a class="usa-button usa-button--big crt-button--large" href="https://civilrights.justice.gov/report/"
           >Submit a report</a
         >
       </div>
