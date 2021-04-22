@@ -7,7 +7,11 @@
       color: color($theme-text-color);
 
       &.usa-current {
-        color: color($theme-color-primary-dark);
+        color: color($theme-color-primary-darker);
+
+        &:after {
+          background-color: color($theme-color-primary-darker);
+        }
       }
     }
   }
@@ -19,16 +23,28 @@
   }
 
   h1 {
-    margin-top: 0;
+    margin: 0;
   }
 
-  & > h2 {
+  h2:not(.usa-alert__heading) {
+    margin-top: 3rem;
+
     &:after {
       content: "";
       display: block;
       margin-top: 0.5rem;
       @extend .crt-landing--separator_sub;
     }
+  }
+
+  h3 {
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+  }
+
+  h3 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
   }
 
   details > summary > p {
