@@ -92,6 +92,9 @@ cards:
         <p class="crt-landing--largetext">
           The ADA was modeled after the Civil Rights Act of 1964, which prohibits discrimination on the basis of race, color, religion, sex, or national origin. The ADA is an equal opportunity law for people with disabilities.
         </p>
+        <a class="usa-button usa-button--big crt-button--large" href="#"
+          >Learn more ADA history</a
+        >
       </div>
     </div>
 
@@ -185,7 +188,7 @@ cards:
         <h2 class="h2">
           Think you or someone you know has experienced a disability rights violation?
         </h2>
-        <a class="usa-button usa-button--big crt-button--large" href="#"
+        <a class="usa-button usa-button--big crt-button--large" href="https://civilrights.justice.gov/report/"
           >Submit a report</a
         >
       </div>

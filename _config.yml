@@ -37,7 +37,8 @@ primary_navigation:
   - name: ADA Guides
     url: /guides/
   - name: Report a violation
-    url: /report/
+    url: https://civilrights.justice.gov/report/
+    external: true
   - name: Give us feedback
     url: /feedback/
 
@@ -78,8 +79,6 @@ exclude:
   - README.md
   - CONTRIBUTING.md
   - LICENSE.md
-  - pa11y-ci-results.json
-  - pa11y-results
   - Dockerfile
   - docker-compose.yml
 
