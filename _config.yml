@@ -76,6 +76,7 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+      sidenav: true
 
 include:
   - _pages
@@ -97,6 +98,7 @@ assets:
       - "IE 11"
       - "not dead"
   sources:
+    - node_modules/uswds/dist/fonts
     - node_modules/uswds/dist/img
     - node_modules/uswds/dist/js
     - node_modules/uswds/dist/scss

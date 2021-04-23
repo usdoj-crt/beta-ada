@@ -1,7 +1,12 @@
----
-layout: base
----
-
-<main id="main-content" class="margin-top-0 margin-bottom-0">
-  {{ content }}
-</main>
+<!DOCTYPE html>
+<html lang="en">
+{% include meta.html %}
+<body>
+  {% include header.html %}
+  <main id="main-content" class="margin-top-0 margin-bottom-0">
+    {{ content }}
+  </main>
+  {% include footer.html %}
+  {% include scripts.html %}
+</body>
+</html>
