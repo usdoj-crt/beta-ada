@@ -70,6 +70,13 @@ kramdown:
 
 permalink: pretty
 
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
 include:
   - _pages
 

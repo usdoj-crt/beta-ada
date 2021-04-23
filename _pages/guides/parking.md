@@ -2,8 +2,6 @@
 title: Accessible parking spaces
 short_title: Parking spaces
 permalink: /guides/parking/
-layout: page
-
 lead: |-
   When state or local governments, businesses and nonprofit organizations provide customer or employee parking in parking lots or garages, accessible parking spaces complying with the Americans with Disabilities Act (ADA) must be provided.
 

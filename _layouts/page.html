@@ -2,26 +2,21 @@
 layout: default
 ---
 
-{% comment %} This template is for a single page that does not have a date
-associated with it. For example, an about page. {% endcomment %}
-
-<div class="crt-page">
-  <div class="grid-container">
-    <div class="grid-row grid-gap">
-      <div class="crt-page--sidenav desktop:grid-col-3">
-        {% include sidenav.html %}
+<div class="crt-page grid-container">
+  <div class="grid-row grid-gap">
+    <div class="crt-page--sidenav desktop:grid-col-3">
+      {% include sidenav.html %}
+    </div>
+    <div class="tablet:grid-col-8 tablet:grid-offset-1">
+      <h1>{{page.title}}</h1>
+      <div class="crt-landing--separator_small"></div>
+      {% include alert-proto.html %}
+      {% if page.lead %}
+      <div class="crt-lead">
+        {{page.lead | markdownify}}
       </div>
-      <div class="desktop:grid-col-8 desktop:grid-offset-1">
-        <h1>{{page.title}}</h1>
-        <div class="crt-landing--separator"></div>
-        {% include alert-proto.html %}
-        {% if page.lead %}
-        <div class="crt-lead">
-          {{page.lead | markdownify}}
-        </div>
-        {% endif %}
-        {{ content }}
-      </div>
+      {% endif %}
+      {{ content }}
     </div>
   </div>
 </div>

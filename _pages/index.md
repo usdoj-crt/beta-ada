@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: wide
+layout: default
 title: Home
 cards:
   - title: Introduction to the ADA
