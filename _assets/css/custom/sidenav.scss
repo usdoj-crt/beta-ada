@@ -11,13 +11,13 @@
 
   .usa-accordion__button {
     background-color: color($theme-color-primary-darker);
-    background-image: url(../../img/usa-icons-bg/remove--white.svg);
+    background-image: asset_url("remove--white.svg");
     color: color('white');
     font-weight: normal;
     @include u-radius("md");
 
     &[aria-expanded="false"] {
-      background-image: url(../../img/usa-icons-bg/add--white.svg);
+      background-image: asset_url("add--white.svg");
     }
   }
 
