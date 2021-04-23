@@ -1,6 +1,5 @@
 ![Pa11y](https://github.com/usdoj-crt/beta-ada/actions/workflows/pa11y.yml/badge.svg)
 
-
 # beta-ada
 
 This site uses [Jekyll](https://jekyllrb.com), a Ruby-based static site generator and is built with the [U.S. Web Design System v 2.0](https://v2.designsystem.digital.gov), a set of reusable, high-quality components for modern websites. Additionally, this site is optimized for deployment on 18F's [Federalist](https://federalist.18f.gov) publishing service.
