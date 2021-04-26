@@ -1,0 +1,39 @@
+.crt-page.grid-container .usa-sidenav {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.crt-page--sidenav {
+  .usa-accordion {
+    margin-bottom: 2rem;
+  }
+
+  .usa-accordion__button {
+    background-color: color($theme-color-primary-darker);
+    background-image: asset_url("remove--white.svg");
+    color: color('white');
+    font-weight: normal;
+    @include u-radius("md");
+
+    &[aria-expanded="false"] {
+      background-image: asset_url("add--white.svg");
+    }
+  }
+
+  .usa-accordion__content {
+    background-color: color($theme-color-primary-lightest);
+    @include u-shadow(2);
+  }
+
+  @include at-media(desktop) {
+    .usa-accordion__content {
+      background: none;
+      padding: 0;
+      @include u-shadow("none");
+
+      &[hidden]{
+        display: block;
+      }
+    }
+  }
+}
