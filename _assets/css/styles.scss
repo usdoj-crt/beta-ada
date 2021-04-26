@@ -28,21 +28,5 @@
 
 // -------------------------------------
 // Import theme custom styles
-
-// Global
 @import "mixins/all";
-
-// Components
-@import "custom/banner";
-@import "custom/buttons";
-@import "custom/card";
-@import "custom/colors";
-@import "custom/footer";
-@import "custom/header";
-@import "custom/page";
-@import "custom/typography";
-@import "custom/separator";
-@import "custom/sidenav";
-
-// Page specific
-@import "custom/landing";
+@import "custom/all";
