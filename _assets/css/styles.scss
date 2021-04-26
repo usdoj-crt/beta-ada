@@ -22,12 +22,12 @@
 
 // -------------------------------------
 // Import individual USWDS packages...
-@import 'packages/required';
-@import 'custom/pipeline';
-@import 'packages/global';
+@import 'scss/packages/required';
+@import 'overrides/all';
+@import 'scss/packages/global';
 
-@import 'packages/uswds-components';
-@import 'packages/uswds-utilities';
+@import 'scss/packages/uswds-components';
+@import 'scss/packages/uswds-utilities';
 
 // -------------------------------------
 // Import theme custom styles
