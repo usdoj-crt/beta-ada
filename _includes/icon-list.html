@@ -11,19 +11,19 @@
       {% when "green-check" %}
       <div class="usa-icon-list__icon text-green">
         <svg class="usa-icon" aria-hidden="true" role="img">
-          <use xlink:href="{{ '/img/sprite.svg#check_circle' | relative_url }}"></use>
+          <use xlink:href="{% asset sprite.svg @path %}#check_circle"></use>
         </svg>
       </div>
       {% when "red-x" %}
       <div class="usa-icon-list__icon text-red">
         <svg class="usa-icon" aria-hidden="true" role="img">
-          <use xlink:href="{{ '/img/sprite.svg#cancel' | relative_url }}"></use>
+          <use xlink:href="{% asset sprite.svg @path %}#cancel"></use>
         </svg>
       </div>
       {% when "error" %}
       <div class="usa-icon-list__icon">
         <svg class="usa-icon" aria-hidden="true" role="img">
-          <use xlink:href="{{ '/img/sprite.svg#error' | relative_url }}"></use>
+          <use xlink:href="{% asset sprite.svg @path %}#error"></use>
         </svg>
       </div>
     {% endcase %}
