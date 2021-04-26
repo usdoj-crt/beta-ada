@@ -1,6 +1,6 @@
 ---
-title: Accessible parking spaces
-short_title: Parking spaces
+title: Accessible Parking Spaces
+short_title: Parking Spaces
 permalink: /guides/parking/
 lead: |-
   When state or local governments, businesses and nonprofit organizations provide customer or employee parking in parking lots or garages, accessible parking spaces complying with the Americans with Disabilities Act (ADA) must be provided.
@@ -8,13 +8,13 @@ lead: |-
   Accessible parking spaces are different then traditional parking spaces. They have specific features that make it easier for people with disabilities to access your programs, goods or services.
 ---
 
-## Features of accessible parking spaces
+## Features
 
 ### Location
 
 In parking lots or garages accessible parking spaces must be located on the shortest accessible route to the accessible entrance. An accessible route is the path a person with a disability takes to enter and move through a building or facility.
 
-### Access aisle
+### Access Aisles
 
 Accessible parking spaces must have access aisles. Access aisles provide a designated area for people who use wheelchairs or other mobility devices to get in and out of their car or van. Mobility devices allow people with disabilities to move about independently. Devices include but are not limited to walkers, canes, crutches, braces, manual or power wheelchairs, Segways and electric scooters.
 
@@ -24,9 +24,9 @@ Accessible parking spaces must have access aisles. Access aisles provide a desig
   <div class="grid-row">
     <div class="tablet:grid-col-6">
       {% capture list %}
-      - marked (to discourage parking in them)
-      - the same length as the space it serves
-      - and level with the parking space it serves
+      - Marked (to discourage parking in them)
+      - The same length as the space it serves
+      - Level with the parking space it serves
       {% endcapture %}
       {% include icon-list.html list=list type="green-check" %}
     </div>
@@ -34,11 +34,11 @@ Accessible parking spaces must have access aisles. Access aisles provide a desig
   </div>
 </div>
 
-Two (2) parking spaces can share an access aisle (except in angled parking).
+Two parking spaces can share an access aisle (except in angled parking).
 
-Access aisle can be placed on either side of the parking space (except in angled parking).
+An access aisle can be placed on either side of the parking space (except in angled parking).
 
-### Parking spaces
+### Parking Spaces
 
 Accessible parking spaces must be provided for cars and vans.
 
@@ -48,11 +48,11 @@ Accessible parking spaces must be provided for cars and vans.
   <div class="grid-row">
     <div class="tablet:grid-col-6">
       {% capture list %}
-      - be at least 96 inches wide
-      - have an access aisle at least 60 inches wide
-      - have no more than a 2% slope in all directions
-      - have a surface that is firm, stable and slip-resistant
-      - have a sign with the international symbol of accessibility on it, mounted at least 60 inches above the ground (measured to the bottom of the sign)
+      - Be at least 96 inches wide
+      - Have an access aisle at least 60 inches wide
+      - Have no more than a 2 percent slope in all directions
+      - Have a surface that is firm, stable and slip-resistant
+      - Have a sign with the international symbol of accessibility on it, mounted at least 60 inches above the ground (measured to the bottom of the sign)
       {% endcapture %}
       {% include icon-list.html list=list type="green-check" %}
     </div>
@@ -66,13 +66,13 @@ Accessible parking spaces must be provided for cars and vans.
   <div class="grid-row">
     <div class="tablet:grid-col-6">
       {% capture list %}
-      - be at least 96 inches wide
-      - have an access aisle at least 96 inches wide
-      - have no more than a 2% slope in all directions
-      - have a surface that is firm, stable and slip-resistant
-      - have two signs, mounted at least 60 inches above the ground (measured to the bottom of the sign)
-      - first sign - international symbol of accessibility
-      - second sign - stating that the space is van accessible
+      - Be at least 96 inches wide
+      - Have an access aisle at least 96 inches wide
+      - Have no more than a 2 percent slope in all directions
+      - Have a surface that is firm, stable and slip-resistant
+      - Have two signs, mounted at least 60 inches above the ground (measured to the bottom of the sign)
+      - First sign: international symbol of accessibility
+      - Second sign: stating that the space is van accessible
       {% endcapture %}
       {% include icon-list.html list=list type="green-check" %}
     </div>
