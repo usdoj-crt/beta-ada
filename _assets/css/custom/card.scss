@@ -1,24 +1,24 @@
-.usa-card__container {
-  position: relative;
+.usa-card {
+  &__container {
+    position: relative;
 
-  a:after {
-    content: "";
-    @include u-position("absolute");
-    @include u-top(0);
-    @include u-left(0);
-    @include u-right(0);
-    @include u-bottom(0);
+    a:after {
+      content: "";
+      @include u-position("absolute");
+      @include u-top(0);
+      @include u-left(0);
+      @include u-right(0);
+      @include u-bottom(0);
+    }
+
+    &:hover {
+      box-shadow: 0 4px 3px 0 rgba(0, 0, 0, 0.1);
+      transform: translateY(-2px);
+      transition: all 0.3s ease;
+    }
   }
 
-  &:hover {
-    box-shadow: 0 4px 3px 0 rgba(0, 0, 0, 0.1);
-    transform: translateY(-2px);
-    transition: all 0.3s ease;
-  }
-}
-
-@include at-media(desktop) {
-  .usa-card:last-child {
-    margin-bottom: 1rem;
+  &__footer a {
+    font-weight: bold;
   }
 }

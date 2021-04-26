@@ -1,0 +1,16 @@
+<div
+  class="crt-landing--section crt-landing--alert crt-blue"
+  markdown="0"
+>
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+      <div class="tablet:grid-col-8">
+        <p class="h2 crt-landing--alert_header">
+          {{ include.alert.heading }}
+        </p>
+        {{ include.alert.content | markdownify }}
+        <a href="{{ include.alert.link.href }}" class="usa-button crt-button--large">{{ include.alert.link.text }}</a>
+      </div>
+    </div>
+  </div>
+</div>

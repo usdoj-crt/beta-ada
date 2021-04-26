@@ -1,3 +1,5 @@
+// Override USWDS mixin to use jekyll-assets asset_url()
+
 @mixin at-font-face($display-name, $file-path, $font-weight, $font-style) {
   $file-path: unquote($file-path);
 

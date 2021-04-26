@@ -12,7 +12,7 @@ layout: default
     <div class="tablet:grid-col-8{% if page.sidenav %} tablet:grid-offset-1{% endif %}">
       <h1>{{page.title}}</h1>
       <div class="crt-landing--separator_small"></div>
-      {% include alert-proto.html %}
+      {% include alert.html %}
       {% if page.lead %}
       <div class="crt-lead">
         {{page.lead | markdownify}}

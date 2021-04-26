@@ -10,26 +10,39 @@
 
 // -------------------------------------
 // Import individual theme settings
-
 @import "uswds-theme-general";
 @import "uswds-theme-typography";
 @import "uswds-theme-spacing";
 @import "uswds-theme-color";
 @import "uswds-theme-utilities";
-
-// components import needs to be last
 @import "uswds-theme-components";
 
 // -------------------------------------
 // Import individual USWDS packages...
-@import 'scss/packages/required';
-@import 'overrides/all';
-@import 'scss/packages/global';
+@import "scss/packages/required";
+@import "overrides/all";
+@import "scss/packages/global";
 
-@import 'scss/packages/uswds-components';
-@import 'scss/packages/uswds-utilities';
+@import "scss/packages/uswds-components";
+@import "scss/packages/uswds-utilities";
 
 // -------------------------------------
 // Import theme custom styles
 
-@import "uswds-theme-custom-styles";
+// Global
+@import "mixins/all";
+
+// Components
+@import "custom/banner";
+@import "custom/buttons";
+@import "custom/card";
+@import "custom/colors";
+@import "custom/footer";
+@import "custom/header";
+@import "custom/page";
+@import "custom/typography";
+@import "custom/separator";
+@import "custom/sidenav";
+
+// Page specific
+@import "custom/landing";

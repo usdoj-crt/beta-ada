@@ -10,13 +10,13 @@
 
   .usa-accordion__button {
     background-color: color($theme-color-primary-darker);
-    background-image: asset_url("remove--white.svg");
-    color: color('white');
+    background-image: asset_url("img/usa-icons-bg/remove--white.svg");
+    color: color("white");
     font-weight: normal;
     @include u-radius("md");
 
     &[aria-expanded="false"] {
-      background-image: asset_url("add--white.svg");
+      background-image: asset_url("img/usa-icons-bg/add--white.svg");
     }
   }
 
@@ -31,7 +31,7 @@
       padding: 0;
       @include u-shadow("none");
 
-      &[hidden]{
+      &[hidden] {
         display: block;
       }
     }

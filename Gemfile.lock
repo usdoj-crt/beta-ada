@@ -121,7 +121,6 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
-  tzinfo-data
 
 RUBY VERSION
    ruby 2.6.6p146
