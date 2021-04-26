@@ -1,5 +1,9 @@
 <head>
-  <meta name="google-site-verification" content="34Ks265Uibpdda984RS0SxVABVZCdlVrdSp61pIdZQ8" />
+  <meta
+    name="google-site-verification"
+    content="34Ks265Uibpdda984RS0SxVABVZCdlVrdSp61pIdZQ8"
+  />
+  <link rel="icon" href="{% asset 'favicon.png' @path %}" />
   <!-- Basic Page Needs
     ================================================== -->
   <meta charset="utf-8" />
@@ -12,19 +16,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <!-- Title and meta description
     ================================================== -->
-  <title>{{site.title}}</title>
-  <meta property="og:title" content="{{site.title}}" />
-  <meta name="description" content="{{site.description}}" />
-  <meta property="og:description" content="{{site.description}}" />
-
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@{{site.twitter}}" />
-  <meta name="twitter:title" content="{{site.title}}" />
-  <meta name="twitter:description" content="{{site.description}}" />
-
-  <meta property="og:type" content="article" />
-  <link rel="canonical" href="{{ page.url | absolute_url }}" />
-  <meta property="og:url" content="{{ page.url | absolute_url }}" />
+  {% seo %}
   <!-- CSS
     ================================================== -->
   {% asset styles.css %}
