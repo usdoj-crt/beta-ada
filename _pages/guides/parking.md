@@ -80,7 +80,7 @@ Accessible parking spaces must be provided for cars and vans.
   </div>
 </div>
 
-## Calculating accessible parking spaces
+## Calculating Accessible Parking Spaces
 
 The number of accessible parking spaces must be considered separately for each parking facility, not based on the total number of parking spaces provided on a site.
 
@@ -89,9 +89,9 @@ The chart below shows the number of accessible spaces required by the [2010 Stan
 <table class="usa-table">
   <thead>
     <tr>
-      <th scope="col">Total number of parking spaces provided in a parking lot or facility.</th>
+      <th scope="col">Total number of parking spaces provided in a parking lot or facility</th>
       <th scope="col">Minimum number of
-accessible parking spaces permitted.</th>
+accessible parking spaces permitted</th>
     </tr>
   </thead>
   <tbody>
@@ -146,19 +146,19 @@ accessible parking spaces permitted.</th>
   </tbody>
 </table>
 
-## Special parking conditions
+## Special Parking Conditions
 
-### Limited parking
+### Limited Parking
 
-Where parking spaces are limited to 4 or fewer spaces:
+Where parking spaces are limited to four or fewer spaces:
 
 <div class="grid-container" markdown="0">
   <div class="grid-row">
     <div class="tablet:grid-col-6">
       {% capture list %}
-      - one (1) van accessible parking space must be provided
-      - not required to have a sign with the international symbol of accessibility
-      - anyone can park in that space | red-x
+      - One van accessible parking space must be provided
+      - Anyone can park in that space
+      - Not required to have a sign with the international symbol of accessibility | red-x
       {% endcapture %}
       {% include icon-list.html list=list type="green-check" %}
     </div>
@@ -166,27 +166,27 @@ Where parking spaces are limited to 4 or fewer spaces:
   </div>
 </div>
 
-### Parking at hospital facilities
+### Parking at Hospital Facilities
 
-#### Hospital outpatient facilities
+#### Hospital Outpatient Facilities
 {% capture list %}
 - ten percent (10%) of patient and visitor parking must be accessible
 {% endcapture %}
 {% include icon-list.html list=list type="error" %}
 
-#### Rehabilitation facilities
+#### Rehabilitation Facilities
 {% capture list %}
 - twenty percent (20%) of patient and visitor parking must be accessible
 {% endcapture %}
 {% include icon-list.html list=list type="error" %}
 
-#### Outpatient physical therapy facilities
+#### Outpatient Physical Therapy Facilities
 {% capture list %}
 - twenty percent (20%) of patient and visitor parking must be accessible
 {% endcapture %}
 {% include icon-list.html list=list type="error" %}
 
-## Need more information about accessible parking
+## Learn More About the ADA and Accessible Parking
 
 You might find the links below helpful:
 
