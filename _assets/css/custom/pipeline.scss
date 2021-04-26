@@ -1,0 +1,41 @@
+@mixin at-font-face($display-name, $file-path, $font-weight, $font-style) {
+  $file-path: unquote($file-path);
+
+  @font-face {
+    font-family: unquote($display-name);
+    font-style: unquote($font-style);
+    font-weight: $font-weight;
+    font-display: fallback;
+    src: asset_url("#{$file-path}.woff2") format("woff2"),
+      asset_url("#{$file-path}.woff") format("woff"),
+      asset_url("#{$file-path}.ttf") format("truetype");
+  }
+}
+
+@mixin generate-font-face(
+  $font-style-src,
+  $output-weights,
+  $display-name,
+  $dir,
+  $font-style
+) {
+  @each $font-weight, $filename in $font-style-src {
+    @each $key, $output-weight in $output-weights {
+      @if $output-weight == $font-weight and $filename {
+        @include at-font-face(
+          "#{$display-name}",
+          "#{$dir}/#{$filename}",
+          #{$font-weight},
+          unquote("#{$font-style}")
+        );
+      }
+    }
+  }
+}
+
+@mixin add-background-svg($image-name, $image-path: $theme-image-path) {
+  $image-name: unquote($image-name);
+  background-image: asset_url("#{$image-name}.svg"),
+    linear-gradient(transparent, transparent);
+  background-repeat: no-repeat;
+}

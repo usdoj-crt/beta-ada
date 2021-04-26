@@ -1,7 +1,8 @@
 ---
 permalink: /search/
-layout: default
 title: Search
+sitemap: false
+sidenav: false
 ---
 
 <script>
@@ -64,15 +65,7 @@ title: Search
 </script>
 
 {% if site.searchgov %}
-<div class="crt-page grid-container">
-  <div class="grid-row grid-gap">
-    <div class="tablet:grid-col-8">
-      <h1>{{page.title}}</h1>
-      <div class="crt-landing--separator_small"></div>
-      <ol id="search-results"></ol>
-    </div>
-  </div>
-</div>
+<ol id="search-results"></ol>
 {% else %}
 <script>
   window.location = "/";
