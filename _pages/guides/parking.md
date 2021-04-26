@@ -51,7 +51,7 @@ Accessible parking spaces must be provided for cars and vans.
       - Be at least 96 inches wide
       - Have an access aisle at least 60 inches wide
       - Have no more than a 2 percent slope in all directions
-      - Have a surface that is firm, stable and slip-resistant
+      - Have a surface that is firm, stable, and slip-resistant
       - Have a sign with the international symbol of accessibility on it, mounted at least 60 inches above the ground (measured to the bottom of the sign)
       {% endcapture %}
       {% include icon-list.html list=list type="green-check" %}
