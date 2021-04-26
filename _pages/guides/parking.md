@@ -170,19 +170,19 @@ Where parking spaces are limited to four or fewer spaces:
 
 #### Hospital Outpatient Facilities
 {% capture list %}
-- ten percent (10%) of patient and visitor parking must be accessible
+- Ten percent of patient and visitor parking must be accessible.
 {% endcapture %}
 {% include icon-list.html list=list type="error" %}
 
 #### Rehabilitation Facilities
 {% capture list %}
-- twenty percent (20%) of patient and visitor parking must be accessible
+- Twenty percent of patient and visitor parking must be accessible.
 {% endcapture %}
 {% include icon-list.html list=list type="error" %}
 
 #### Outpatient Physical Therapy Facilities
 {% capture list %}
-- twenty percent (20%) of patient and visitor parking must be accessible
+- Twenty percent of patient and visitor parking must be accessible.
 {% endcapture %}
 {% include icon-list.html list=list type="error" %}
 
