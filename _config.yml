@@ -99,4 +99,3 @@ assets:
       - "not dead"
   sources:
     - node_modules/uswds/dist
-    - node_modules/netlify-cms/dist

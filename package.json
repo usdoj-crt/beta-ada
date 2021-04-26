@@ -9,7 +9,6 @@
     "test": "npm run pa11y"
   },
   "dependencies": {
-    "netlify-cms": "^2.10.78",
     "uswds": "^2.11.1"
   },
   "devDependencies": {
