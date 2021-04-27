@@ -7,13 +7,19 @@
       {% asset doj-logo.png alt="" %}
     </div>
     <div class="grid-col-auto">
-      <p class="crt-landing--logo_heading flex-align-start">
-        {{ site.title }}
+      <div class="display-flex flex-align-center">
+        <p class="crt-landing--logo_heading">
+          {{ site.title }}
+        </p>
+        {% if site.beta %}
         <span
-          class="usa-tag bg-warning text-primary-darker text-normal text-uppercase margin-left-1 margin-top-05"
+          class="usa-tag usa-tooltip bg-warning text-primary-darker text-uppercase margin-left-1"
+          data-position="bottom"
+          title="{{ site.beta.text }}"
           >Beta</span
         >
-      </p>
+        {% endif %}
+      </div>
       <p class="crt-landing--logo_subheading">
         U.S. Department of Justice<br />
         Civil Rights Division
