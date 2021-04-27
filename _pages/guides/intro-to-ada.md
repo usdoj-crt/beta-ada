@@ -89,8 +89,9 @@ The ADA is broken up into five different sections, which are called titles. Diff
 
   <p>The ADA includes specific requirements for employers to ensure that people with disabilities have equal access to employment. Learn about these requirements under the <a href="https://www.eeoc.gov/disability-discrimination">Equal Employment Opportunity Commission’s guidance for employers.</a></p>
 
-  <p><b>If you have a complaint:</b> <a href="https://www.eeoc.gov/filing-charge-discrimination">File a Charge of Discrimination with the Equal Employment Opportunity Commission</a>.</p>
-
+<details><summary>How to file a complaint</summary>
+  <p><a href="https://www.eeoc.gov/filing-charge-discrimination">File a Charge of Discrimination with the Equal Employment Opportunity Commission</a>.</p>
+</details> 
   </div>
 
   <h3 class="usa-accordion__heading">
@@ -128,7 +129,9 @@ The ADA is broken up into five different sections, which are called titles. Diff
 
 <p>The ADA contains specific requirements for state and local governments to ensure equal access for people with disabilities. Learn about these requirements in the <a href="https://www.ada.gov/regs2010/titleII_2010/title_ii_primer.html">State and Local Government Primer</a>.</p>
 
-<p><b>If you have a complaint:</b> <a href="https://www.ada.gov/filing_complaint.htm">File a complaint with the U.S. Department of Justice</a>.</p>
+<details><summary>How to file a complaint</summary>
+<p><a href="https://www.ada.gov/filing_complaint.htm">File a complaint with the U.S. Department of Justice</a>.</p>
+</details>
 </div>
 
   <h3 class="usa-accordion__heading">
@@ -146,7 +149,9 @@ The ADA is broken up into five different sections, which are called titles. Diff
 
 <p><b>General requirement:</b> public transit systems must provide people with disabilities an equal opportunity to benefit from their services.</p> 
 
-<p><b>If you have a complaint:</b> <a href="https://www.ada.gov/filing_complaint.htm">File a complaint with the U.S. Department of Justice</a> or <a href="https://www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/file-complaint-fta">with the Federal Transit Administration</a>.</p> 
+<details><summary>How to file a complaint</summary>
+<p><a href="https://www.ada.gov/filing_complaint.htm">File a complaint with the U.S. Department of Justice</a> or <a href="https://www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/file-complaint-fta">with the Federal Transit Administration</a>.</p> 
+</details>
 
   </div>
 
@@ -197,7 +202,9 @@ The ADA is broken up into five different sections, which are called titles. Diff
 
 <p>The ADA contains specific requirements for businesses that are open to the public. Learn more about these requirements: <a href="https://www.ada.gov/regs2010/smallbusiness/smallbusprimer2010.htm">ADA Primer for Small Businesses</a>.</p>
 
-<p><b>If you have a complaint:</b> <a href="https://www.ada.gov/filing_complaint.htm">File a complaint with the U.S. Department of Justice</a>.</p>
+<details><summary>How to file a complaint</summary>
+<p><a href="https://www.ada.gov/filing_complaint.htm">File a complaint with the U.S. Department of Justice</a>.</p>
+</details>
 
 </div>  
 
