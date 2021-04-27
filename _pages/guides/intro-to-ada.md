@@ -73,11 +73,13 @@ The ADA is broken up into five different sections, which are called titles. Diff
 
 <div class="usa-accordion" markdown="0">
 
+<h2>Title I</h2>
+
   <h3 class="usa-accordion__heading">
     <button class="usa-accordion__button"
       aria-expanded="true"
       aria-controls="a1">
-      Employment (Title I)
+      Employment
     </button>
   </h3>
   <div id="a1" class="usa-accordion__content usa-prose">
@@ -94,11 +96,13 @@ The ADA is broken up into five different sections, which are called titles. Diff
 </details> 
   </div>
 
+<h2>Title II</h2>
+
   <h3 class="usa-accordion__heading">
     <button class="usa-accordion__button"
       aria-expanded="true"
       aria-controls="a2">
-      State and Local Government Services (Title II)
+      State and Local Government Services
     </button>
   </h3>
   <div id="a2" class="usa-accordion__content usa-prose">
@@ -138,7 +142,7 @@ The ADA is broken up into five different sections, which are called titles. Diff
     <button class="usa-accordion__button"
       aria-expanded="true"
       aria-controls="a3">
-      Public Transit (Title II)
+      Public Transit
     </button>
   </h3>
   <div id="a3" class="usa-accordion__content usa-prose">
@@ -155,11 +159,13 @@ The ADA is broken up into five different sections, which are called titles. Diff
 
   </div>
 
+<h2>Title III</h2>
+
   <h3 class="usa-accordion__heading" id="businesses">
   <button class="usa-accordion__button"
     aria-expanded="true"
     aria-controls="a4">
-    Businesses That Are Open to the Public (Title III)
+    Businesses That Are Open to the Public
   </button>
 </h3>
 <div id="a4" class="usa-accordion__content usa-prose">
@@ -208,11 +214,13 @@ The ADA is broken up into five different sections, which are called titles. Diff
 
 </div>  
 
+<h2>Title IV</h2>
+
   <h3 class="usa-accordion__heading">
     <button class="usa-accordion__button"
       aria-expanded="true"
       aria-controls="a5">
-      Telecommunications (Title IV)
+      Telecommunications
     </button>
   </h3>
   <div id="a5" class="usa-accordion__content usa-prose">
@@ -236,11 +244,13 @@ The ADA is broken up into five different sections, which are called titles. Diff
 </details>
 </div>
 
+<h2>Title V</h2>
+
   <h3 class="usa-accordion__heading">
     <button class="usa-accordion__button"
       aria-expanded="true"
       aria-controls="a6">
-      Other Important Requirements (Title V)
+      Other Important Requirements
     </button>
   </h3>
   <div id="a6" class="usa-accordion__content usa-prose">
