@@ -41,19 +41,31 @@ Major life activities are the kind of actions that you do every day, including y
 
 There are many disabilities, and the ADA regulations do not list all of them. Some disabilities may be visible, and some are not. Some examples of disabilities include:
 
-- Cancer
-- Diabetes
-- Post-traumatic stress disorder
-- HIV
-- Autism
-- Cerebral palsy
-- Deafness
-- Blindness
-- Epilepsy
-- Mobility disabilities such as those requiring the use of a wheelchair
-- Intellectual disabilities
-- Major depressive disorder
-- Traumatic brain injury
+<div class="grid-container" markdown="0">
+  <div class="grid-row">
+    <div class="tablet:grid-col-6">
+    <ul>
+      <li>Cancer</li>
+      <li>Diabetes</li>
+      <li>Post-traumatic stress disorder</li>
+      <li>HIV</li>
+      <li>Autism</li>
+      <li>Cerebral palsy</li>
+      <li>Deafness</li>
+      <li>Blindness</li>
+     </ul> 
+    </div>
+      <div class="tablet:grid-col-6">
+      <ul>
+      <li>Epilepsy</li>
+      <li>Mobility disabilities such as those requiring the use of a wheelchair</li>
+      <li>Intellectual disabilities</li>
+      <li>Major depressive disorder</li>
+      <li>Traumatic brain injury</li>
+      </ul>
+      </div>
+  </div>
+</div>
 
 The ADA covers many other disabilities not listed here.
 
