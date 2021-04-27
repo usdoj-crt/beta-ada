@@ -39,7 +39,7 @@ Major life activities are the kind of actions that you do every day, including y
 
 ### Examples of Disabilities
 
-There are many disabilities, and the ADA does not list all of them. Some disabilities may be visible, and some are not. Some examples of disabilities include:
+There are many disabilities, and the ADA regulations do not list all of them. Some disabilities may be visible, and some are not. Some examples of disabilities include:
 
 - Cancer
 - Diabetes
@@ -54,6 +54,8 @@ There are many disabilities, and the ADA does not list all of them. Some disabil
 - Intellectual disabilities
 - Major depressive disorder
 - Traumatic brain injury
+
+The ADA covers many other disabilities not listed here.
 
 ## The ADA Prohibits Disability Discrimination in Many Areas of Life
 
