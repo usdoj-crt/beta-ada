@@ -18,8 +18,9 @@
             be adding more guides soon.
           </p>
           <ul class="usa-card-group">
-            {% for card in include.cards %} {% include card.html card=card %} {%
-            endfor %}
+            {% for card in include.cards %}
+              {% include card.html card=card %}
+            {% endfor %}
           </ul>
         </div>
       </div>

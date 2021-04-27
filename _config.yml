@@ -92,9 +92,6 @@ exclude:
   - docker-compose.yml
 
 assets:
-  compression: true
-  gzip: true
-  source_maps: true
   autoprefixer:
     browsers:
       - "> 2%"
