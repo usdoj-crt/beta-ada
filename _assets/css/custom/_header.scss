@@ -116,8 +116,9 @@
 
   .crt-landing--logo_heading {
     @extend .usa-footer__logo-heading;
-    display: block;
+    display: flex;
     font-size: $theme-heading-font-size-lg;
+    margin-bottom: 0;
     margin-top: 0.5rem;
     @include at-media-max(mobile-lg) {
       font-size: $theme-heading-font-size-md-mobile;
