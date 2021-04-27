@@ -87,14 +87,9 @@ The ADA is broken up into five different sections, which are called titles. Diff
 
   <p><b>General requirement:</b> Employers must provide people with disabilities an equal opportunity to benefit from the employment-related opportunities available to others. This includes things like recruitment, hiring, promotions, training, pay, and social activities.</p>
 
-  <p><b>If you have a complaint:</b> <a href="https://www.eeoc.gov/filing-charge-discrimination">File a Charge of Discrimination with the Equal Employment Opportunity Commission</a>.</p>
-
-  <details>
-    <summary>More about employers’ responsibilities</summary>
-
   <p>The ADA includes specific requirements for employers to ensure that people with disabilities have equal access to employment. Learn about these requirements under the <a href="https://www.eeoc.gov/disability-discrimination">Equal Employment Opportunity Commission’s guidance for employers.</a></p>
 
-  </details>
+  <p><b>If you have a complaint:</b> <a href="https://www.eeoc.gov/filing-charge-discrimination">File a Charge of Discrimination with the Equal Employment Opportunity Commission</a>.</p>
 
   </div>
 
