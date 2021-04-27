@@ -87,13 +87,11 @@ The ADA is broken up into five different sections, which are called titles. Diff
 
 <div class="usa-accordion" markdown="0">
 
-<h2>Title I</h2>
-
   <h3 class="usa-accordion__heading">
     <button class="usa-accordion__button"
       aria-expanded="true"
       aria-controls="a1">
-      Employment
+      Employment (Title I)
     </button>
   </h3>
   <div id="a1" class="usa-accordion__content usa-prose">
@@ -110,13 +108,11 @@ The ADA is broken up into five different sections, which are called titles. Diff
 </details> 
   </div>
 
-<h2>Title II</h2>
-
   <h3 class="usa-accordion__heading">
     <button class="usa-accordion__button"
       aria-expanded="true"
       aria-controls="a2">
-      State and Local Government Services
+      State and Local Government Services (Title II, Subtitle A)
     </button>
   </h3>
   <div id="a2" class="usa-accordion__content usa-prose">
@@ -156,7 +152,7 @@ The ADA is broken up into five different sections, which are called titles. Diff
     <button class="usa-accordion__button"
       aria-expanded="true"
       aria-controls="a3">
-      Public Transit
+      Public Transit (Title II, Subtitle B)
     </button>
   </h3>
   <div id="a3" class="usa-accordion__content usa-prose">
@@ -173,13 +169,11 @@ The ADA is broken up into five different sections, which are called titles. Diff
 
   </div>
 
-<h2>Title III</h2>
-
   <h3 class="usa-accordion__heading" id="businesses">
   <button class="usa-accordion__button"
     aria-expanded="true"
     aria-controls="a4">
-    Businesses That Are Open to the Public
+    Businesses That Are Open to the Public (Title III)
   </button>
 </h3>
 <div id="a4" class="usa-accordion__content usa-prose">
@@ -228,13 +222,11 @@ The ADA is broken up into five different sections, which are called titles. Diff
 
 </div>  
 
-<h2>Title IV</h2>
-
   <h3 class="usa-accordion__heading">
     <button class="usa-accordion__button"
       aria-expanded="true"
       aria-controls="a5">
-      Telecommunications
+      Telecommunications (Title IV)
     </button>
   </h3>
   <div id="a5" class="usa-accordion__content usa-prose">
@@ -242,16 +234,16 @@ The ADA is broken up into five different sections, which are called titles. Diff
 
 <p><b>General requirement:</b> Telephone companies must provide services to allow callers using voice telephones and callers with hearing and speech disabilities to communicate with each other. Telecommunications companies must also provide closed captioning of federally funded public service announcements.</p>
 
-<p><b>If you have a complaint:</b> <a href="https://www.fcc.gov/general/trs-points-contact-complaints">Contact the Telecommunications Relay Services point of contact for your state through the Federal Communications Commission</a>.</p>
+<details><summary>How to file a complaint</summary>
+<p><a href="https://www.fcc.gov/general/trs-points-contact-complaints">Contact the Telecommunications Relay Services point of contact for your state through the Federal Communications Commission</a>.</p>
+</details>
 </div>
-
-<h2>Title V</h2>
 
   <h3 class="usa-accordion__heading">
     <button class="usa-accordion__button"
       aria-expanded="true"
       aria-controls="a6">
-      Other Important Requirements
+      Other Important Requirements (Title V)
     </button>
   </h3>
   <div id="a6" class="usa-accordion__content usa-prose">
