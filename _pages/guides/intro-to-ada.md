@@ -231,19 +231,6 @@ The ADA is broken up into five different sections, which are called titles. Diff
 <p><b>General requirement:</b> Telephone companies must provide services to allow callers using voice telephones and callers with hearing and speech disabilities to communicate with each other. Telecommunications companies must also provide closed captioning of federally funded public service announcements.</p>
 
 <p><b>If you have a complaint:</b> <a href="https://www.fcc.gov/general/trs-points-contact-complaints">Contact the Telecommunications Relay Services point of contact for your state through the Federal Communications Commission</a>.</p>
-
-<details><summary>Some areas of life are not covered by the ADA or are covered by other laws</summary>
-<p>Although the ADA applies to many areas of life, it does not cover everything. In some situations, disability discrimination is prohibited by laws other than the ADA.</p>
-
-<p>While the ADA applies to certain types of housing (e.g., housing at private and public universities and public housing programs), the Fair Housing Act applies to almost all types of housing, both public and privately owned, including housing covered by the ADA.</p>
-
-<ul><li>If you have a complaint about disability discrimination under the Fair Housing Act: <a href="https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint">File a complaint with the Department of Housing and Urban Development</a>.</li></ul>
-
-<p>Disability discrimination during air travel is prohibited by the Air Carriers Access Act.</p>
-<ul><li>If you have a complaint about disability discrimination during air travel: <a href="https://airconsumer.dot.gov/escomplaint/ConsumerForm.cfm">File a complaint with the Department of Transportation’s Office of Aviation Consumer Protection</a>.</li></ul>
-
-<p>While religious organizations are exempt from the requirements of title III of the ADA, they would be subject to the employment obligations of title I if they have enough employees to meet the requirements for coverage. Additionally, religious groups or organizations may still have to comply with accessible building codes or other state or federal laws prohibiting discrimination on the basis of disability.</p>
-</details>
 </div>
 
 <h2>Title V</h2>
@@ -266,6 +253,21 @@ The ADA is broken up into five different sections, which are called titles. Diff
 </ul>
   </div>
 </div> 
+
+## Other Disability Rights Laws
+Some areas of life are not covered by the ADA or are covered by other laws
+
+Although the ADA applies to many areas of life, it does not cover everything. In some situations, disability discrimination is prohibited by laws other than the ADA.
+
+While the ADA applies to certain types of housing (e.g., housing at private and public universities and public housing programs), the Fair Housing Act applies to almost all types of housing, both public and privately owned, including housing covered by the ADA.
+
+<ul><li>If you have a complaint about disability discrimination under the Fair Housing Act: <a href="https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint">File a complaint with the Department of Housing and Urban Development</a>.</li></ul>
+
+<p>Disability discrimination during air travel is prohibited by the Air Carriers Access Act.</p>
+<ul><li>If you have a complaint about disability discrimination during air travel: <a href="https://airconsumer.dot.gov/escomplaint/ConsumerForm.cfm">File a complaint with the Department of Transportation’s Office of Aviation Consumer Protection</a>.</li></ul>
+
+While religious organizations are exempt from the requirements of title III of the ADA, they would be subject to the employment obligations of title I if they have enough employees to meet the requirements for coverage. Additionally, religious groups or organizations may still have to comply with accessible building codes or other state or federal laws prohibiting discrimination on the basis of disability.
+</details>
 
 ### Federal Agencies’ Roles
 
