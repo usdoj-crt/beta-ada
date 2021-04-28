@@ -5,7 +5,7 @@ title: Home
 
 alert:
   content: |-
-    _We're working to make ADA.gov more useful and accessible. We've launched this beta to share our work in progress. Let us know how we're doing so far._
+    _We're working to make ADA.gov more useful and accessible. We've launched this beta site to share our work in progress. Let us know how we're doing so far._
   heading: |-
     Help us improve ADA.gov
   link:
@@ -46,7 +46,7 @@ cards:
     href: /guides/service-animals/
   - title: Parking
     description: |-
-      Parking ipsum dolor sit amet, conset tur adipiscing elit, sed do eiusmod.
+      Learn about accessible parking features that make it easier for people with disabilities to access programs, goods, and services.
     image: landing/Parking-placeholder.png
     alt: A man in a wheelchair approaching a vehicle with his hand on the door handle
     href: /guides/parking/
