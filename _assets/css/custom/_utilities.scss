@@ -1,0 +1,5 @@
+.column-list {
+  @include at-media(desktop) {
+    column-count: 2;
+  }
+}

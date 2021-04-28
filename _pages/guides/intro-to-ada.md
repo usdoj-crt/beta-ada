@@ -41,31 +41,20 @@ Major life activities are the kind of actions that you do every day, including y
 
 There are many disabilities, and the ADA regulations do not list all of them. Some disabilities may be visible, and some are not. Some examples of disabilities include:
 
-<div class="grid-container" markdown="0">
-  <div class="grid-row">
-    <div class="tablet:grid-col-6">
-    <ul>
-      <li>Cancer</li>
-      <li>Diabetes</li>
-      <li>Post-traumatic stress disorder</li>
-      <li>HIV</li>
-      <li>Autism</li>
-      <li>Cerebral palsy</li>
-      <li>Deafness</li>
-      <li>Blindness</li>
-     </ul> 
-    </div>
-      <div class="tablet:grid-col-6">
-      <ul>
-      <li>Epilepsy</li>
-      <li>Mobility disabilities such as those requiring the use of a wheelchair</li>
-      <li>Intellectual disabilities</li>
-      <li>Major depressive disorder</li>
-      <li>Traumatic brain injury</li>
-      </ul>
-      </div>
-  </div>
-</div>
+- Cancer
+- Diabetes
+- Post-traumatic stress disorder
+- HIV
+- Autism
+- Cerebral palsy
+- Deafness
+- Blindness
+- Epilepsy
+- Mobility disabilities such as those requiring the use of a wheelchair
+- Intellectual disabilities
+- Major depressive disorder
+- Traumatic brain injury
+{:.column-list}
 
 The ADA covers many other disabilities not listed here.
 
@@ -105,19 +94,19 @@ The ADA is broken up into five different sections, which are called titles. Diff
 
 <details><summary>How to file a complaint</summary>
   <p><a href="https://www.eeoc.gov/filing-charge-discrimination">File a Charge of Discrimination with the Equal Employment Opportunity Commission</a>.</p>
-</details> 
+</details>
   </div>
 
-  <h3 class="usa-accordion__heading">
+  <h2 class="usa-accordion__heading">
     <button class="usa-accordion__button"
       aria-expanded="true"
       aria-controls="a2">
       State and Local Government Services (Title II, Subtitle A)
     </button>
-  </h3>
+  </h2>
   <div id="a2" class="usa-accordion__content usa-prose">
 
-  <p><b>Applies to:</b> all services, programs, and activities of state and local governments.</p> 
+  <p><b>Applies to:</b> all services, programs, and activities of state and local governments.</p>
 
 <p>Examples of state and local government activities include:</p>  
 <ul>
@@ -148,34 +137,34 @@ The ADA is broken up into five different sections, which are called titles. Diff
 </details>
 </div>
 
-  <h3 class="usa-accordion__heading">
+  <h2 class="usa-accordion__heading">
     <button class="usa-accordion__button"
       aria-expanded="true"
       aria-controls="a3">
       Public Transit (Title II, Subtitle B)
     </button>
-  </h3>
+  </h2>
   <div id="a3" class="usa-accordion__content usa-prose">
 
 <p><b>Applies to:</b> public transit systems.</p>
 
 <p><b>Note:</b> Private transit systems are also covered by the ADA. For more information, see the section <a href="#businesses">Businesses that are open to the public</a> below.</p>
 
-<p><b>General requirement:</b> public transit systems must provide people with disabilities an equal opportunity to benefit from their services.</p> 
+<p><b>General requirement:</b> public transit systems must provide people with disabilities an equal opportunity to benefit from their services.</p>
 
 <details><summary>How to file a complaint</summary>
-<p><a href="https://www.ada.gov/filing_complaint.htm">File a complaint with the U.S. Department of Justice</a> or <a href="https://www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/file-complaint-fta">with the Federal Transit Administration</a>.</p> 
+<p><a href="https://www.ada.gov/filing_complaint.htm">File a complaint with the U.S. Department of Justice</a> or <a href="https://www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/file-complaint-fta">with the Federal Transit Administration</a>.</p>
 </details>
 
   </div>
 
-  <h3 class="usa-accordion__heading" id="businesses">
+  <h2 class="usa-accordion__heading" id="businesses">
   <button class="usa-accordion__button"
     aria-expanded="true"
     aria-controls="a4">
     Businesses That Are Open to the Public (Title III)
   </button>
-</h3>
+</h2>
 <div id="a4" class="usa-accordion__content usa-prose">
 <p><b>Applies to:</b></p>
 <ul>
@@ -202,7 +191,7 @@ The ADA is broken up into five different sections, which are called titles. Diff
       <li>Airport shuttles</li>
     </ul>
   </li>
-  <li>Commercial facilities (need only comply with requirements <a href="https://www.ada.gov/2010ADAstandards_index.htm">ADA Standards for Accessible Design</a>) 
+  <li>Commercial facilities (need only comply with requirements <a href="https://www.ada.gov/2010ADAstandards_index.htm">ADA Standards for Accessible Design</a>)
 <br>Examples of commercial facilities include:
     <ul>
       <li>Office buildings</li>
@@ -222,13 +211,13 @@ The ADA is broken up into five different sections, which are called titles. Diff
 
 </div>  
 
-  <h3 class="usa-accordion__heading">
+  <h2 class="usa-accordion__heading">
     <button class="usa-accordion__button"
       aria-expanded="true"
       aria-controls="a5">
       Telecommunications (Title IV)
     </button>
-  </h3>
+  </h2>
   <div id="a5" class="usa-accordion__content usa-prose">
 <p><b>Applies to:</b> telecommunication companies.</p>
 
@@ -239,13 +228,13 @@ The ADA is broken up into five different sections, which are called titles. Diff
 </details>
 </div>
 
-  <h3 class="usa-accordion__heading">
+  <h2 class="usa-accordion__heading">
     <button class="usa-accordion__button"
       aria-expanded="true"
       aria-controls="a6">
       Other Important Requirements (Title V)
     </button>
-  </h3>
+  </h2>
   <div id="a6" class="usa-accordion__content usa-prose">
   <p>The ADA also includes other requirements for how to implement the law.</p>
   <p>Examples of these requirements include:</p>
@@ -256,7 +245,7 @@ The ADA is broken up into five different sections, which are called titles. Diff
   <li>Directing certain federal agencies to issue guidance explaining the law</li>
 </ul>
   </div>
-</div> 
+</div>
 
 ## Other Disability Rights Laws
 Some areas of life are not covered by the ADA or are covered by other laws
