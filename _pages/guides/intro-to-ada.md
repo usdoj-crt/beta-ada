@@ -248,7 +248,6 @@ The ADA is broken up into five different sections, which are called titles. Diff
 </div>
 
 ## Other Disability Rights Laws
-Some areas of life are not covered by the ADA or are covered by other laws
 
 Although the ADA applies to many areas of life, it does not cover everything. In some situations, disability discrimination is prohibited by laws other than the ADA.
 
