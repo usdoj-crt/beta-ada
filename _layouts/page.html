@@ -3,20 +3,20 @@ layout: default
 ---
 
 <div class="crt-page grid-container">
-  <div class="grid-row grid-gap">
+  <div class="grid-row grid-gap-xl">
     {% if page.sidenav %}
-    <div class="crt-page--sidenav desktop:grid-col-3">
+    <div class="crt-page--sidenav desktop:grid-col-4">
       {% include sidenav.html %}
     </div>
     {% endif %}
-    <div class="tablet:grid-col-8{% if page.sidenav %} tablet:grid-offset-1{% endif %}">
+    <div class="tablet:grid-col-8">
       <h1>{{page.title}}</h1>
       <div class="crt-landing--separator_small"></div>
       {% include alert.html %}
       {% if page.lead %}
-      <div class="crt-lead">
-        {{page.lead | markdownify}}
-      </div>
+        <div class="crt-lead">
+          {{page.lead | markdownify}}
+        </div>
       {% endif %}
       {{ content }}
     </div>
