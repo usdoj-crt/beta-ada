@@ -4,6 +4,18 @@
 }
 
 .crt-page--sidenav {
+  a {
+    color: color($theme-text-color);
+
+    &.usa-current {
+      color: color($theme-color-primary-darker);
+
+      &:after {
+        background-color: color($theme-color-primary-darker);
+      }
+    }
+  }
+
   .usa-accordion {
     margin-bottom: 2rem;
   }
@@ -26,6 +38,10 @@
   }
 
   @include at-media(desktop) {
+    @include u-position('sticky');
+    @include u-top(3);
+    @include u-flex('align-self-start');
+
     .usa-accordion__content {
       background: none;
       padding: 0;
@@ -33,6 +49,20 @@
 
       &[hidden] {
         display: block;
+      }
+    }
+
+    .usa-sidenav__sublist{
+      a {
+        @include text--body-copy__small();
+      }
+
+      li.active {
+        font-weight: bold;
+
+        a {
+          color: color($theme-color-primary-darker);
+        }
       }
     }
   }

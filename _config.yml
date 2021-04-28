@@ -107,4 +107,5 @@ assets:
     - source: node_modules/uswds/dist/fonts/**/*
       strip: node_modules/uswds/dist/
   sources:
+    - node_modules/gumshoejs/dist
     - node_modules/uswds/dist
