@@ -86,7 +86,7 @@ The ADA is broken up into five different sections, which are called titles. Diff
   <div id="a1" class="usa-accordion__content usa-prose">
   <p><b>Applies to:</b> employers that have 15 or more employees.</p>
 
-  <p><b>Note:</b> When serving the public, all businesses, regardless of their size, must still provide people with disabilities an equal opportunity to access the business’s goods and services. Read more about these requirements under the section for Businesses that are open to the public below.</p>
+  <p><b>Note:</b> When serving the public, all businesses, regardless of their size, must still provide people with disabilities an equal opportunity to access the business’s goods and services. Read more about these requirements under the section for <a href="#businesses">Businesses that are open to the public</a>.</p>
 
   <p><b>General requirement:</b> Employers must provide people with disabilities an equal opportunity to benefit from the employment-related opportunities available to others. This includes things like recruitment, hiring, promotions, training, pay, and social activities.</p>
 
