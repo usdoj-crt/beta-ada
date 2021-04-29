@@ -39,7 +39,7 @@ Major life activities are the kind of actions that you do every day, including y
 
 ### Examples of Disabilities
 
-There are many disabilities, and the ADA does not list all of them. Some disabilities may be visible, and some are not. Some examples of disabilities include:
+There are many disabilities, and the ADA regulations do not list all of them. Some disabilities may be visible, and some are not. Some examples of disabilities include:
 
 - Cancer
 - Diabetes
@@ -54,6 +54,9 @@ There are many disabilities, and the ADA does not list all of them. Some disabil
 - Intellectual disabilities
 - Major depressive disorder
 - Traumatic brain injury
+{:.column-list}
+
+The ADA covers many other disabilities not listed here.
 
 ## The ADA Prohibits Disability Discrimination in Many Areas of Life
 
@@ -71,140 +74,192 @@ For example, a local rec center might only be open to people who live in the sur
 
 The ADA is broken up into five different sections, which are called titles. Different titles set out the requirements for different kinds of organizations. For example, title I of the ADA covers requirements for employers, and title II covers requirements for state and local governments. You can find the relevant title of the ADA noted next to each type of organization below.
 
-### Employment (Title I)
+<div class="usa-accordion" markdown="0">
 
-**Applies to:** employers that have 15 or more employees.
+  <h3 class="usa-accordion__heading">
+    <button class="usa-accordion__button"
+      aria-expanded="true"
+      aria-controls="a1">
+      Employment (Title I)
+    </button>
+  </h3>
+  <div id="a1" class="usa-accordion__content usa-prose">
+  <p><b>Applies to:</b> employers that have 15 or more employees.</p>
 
-**Note:** When serving the public, all businesses, regardless of their size, must still provide people with disabilities an equal opportunity to access the business’s goods and services. Read more about these requirements under the section for Businesses that are open to the public below.
+  <p><b>Note:</b> When serving the public, all businesses, regardless of their size, must still provide people with disabilities an equal opportunity to access the business’s goods and services. Read more about these requirements under the section for <a href="#businesses">Businesses that are open to the public</a>.</p>
 
-**General requirement:** Employers must provide people with disabilities an equal opportunity to benefit from the employment-related opportunities available to others. This includes things like recruitment, hiring, promotions, training, pay, and social activities.
+  <p><b>General requirement:</b> Employers must provide people with disabilities an equal opportunity to benefit from the employment-related opportunities available to others. This includes things like recruitment, hiring, promotions, training, pay, and social activities.</p>
 
-**If you have a complaint:** [File a Charge of Discrimination with the Equal Employment Opportunity Commission](https://www.eeoc.gov/filing-charge-discrimination).
+  <p>The ADA includes specific requirements for employers to ensure that people with disabilities have equal access to employment. Learn about these requirements under the <a href="https://www.eeoc.gov/disability-discrimination">Equal Employment Opportunity Commission’s guidance for employers.</a></p>
 
-<details>
-<summary>
-More about employers’ responsibilities
-</summary>
+<details><summary>How to file a complaint</summary>
+  <p><a href="https://www.eeoc.gov/filing-charge-discrimination">File a Charge of Discrimination with the Equal Employment Opportunity Commission</a>.</p>
+</details>
+  </div>
 
-The ADA includes specific requirements for employers to ensure that people with disabilities have equal access to employment. Learn about these requirements under the [Equal Employment Opportunity Commission’s guidance for employers](https://www.eeoc.gov/disability-discrimination).
-</details>  
+  <h2 class="usa-accordion__heading">
+    <button class="usa-accordion__button"
+      aria-expanded="true"
+      aria-controls="a2">
+      State and Local Government Services (Title II, Subtitle A)
+    </button>
+  </h2>
+  <div id="a2" class="usa-accordion__content usa-prose">
 
-### State and Local Government Services (Title II)
+  <p><b>Applies to:</b> all services, programs, and activities of state and local governments.</p>
 
-**Applies to:** all services, programs, and activities of state and local governments.
+<p>Examples of state and local government activities include:</p>  
+<ul>
+  <li>Public education</li>
+  <li>Employment</li>
+  <li>Transportation</li>
+  <li>Recreation</li>
+  <li>Health care</li>
+  <li>Social services</li>
+  <li>Courts</li>
+  <li>Voting</li>
+  <li>Emergency services</li>
+  <li>Town meetings</li>
+</ul>  
 
-Examples of state and local government activities include:  
-- Public education
-- Employment
-- Transportation
-- Recreation
-- Health care
-- Social services
-- Courts
-- Voting
-- Emergency services
-- Town meetings
+<p>The ADA applies to state and local governments even if:</p>
+<ul>
+<li>the state or local government is small or</li>
+<li>they receive money from the federal government.</li>
+</ul>
 
-The ADA applies to state and local governments even if:
-- the state or local government is small or
-- they receive money from the federal government.
+<p><b>General requirement:</b> State and local governments must provide people with disabilities an equal opportunity to benefit from all of their programs, services, and activities.</p>
 
-**General requirement:** State and local governments must provide people with disabilities an equal opportunity to benefit from all of their programs, services, and activities.
+<p>The ADA contains specific requirements for state and local governments to ensure equal access for people with disabilities. Learn about these requirements in the <a href="https://www.ada.gov/regs2010/titleII_2010/title_ii_primer.html">State and Local Government Primer</a>.</p>
 
-**If you have a complaint:** [File a complaint with the U.S. Department of Justice](https://www.ada.gov/filing_complaint.htm).
+<details><summary>How to file a complaint</summary>
+<p><a href="https://www.ada.gov/filing_complaint.htm">File a complaint with the U.S. Department of Justice</a>.</p>
+</details>
+</div>
 
-<details>
-<summary>
-More about state and local governments’ ADA responsibilities
-</summary>
+  <h2 class="usa-accordion__heading">
+    <button class="usa-accordion__button"
+      aria-expanded="true"
+      aria-controls="a3">
+      Public Transit (Title II, Subtitle B)
+    </button>
+  </h2>
+  <div id="a3" class="usa-accordion__content usa-prose">
 
-The ADA contains specific requirements for state and local governments to ensure equal access for people with disabilities. Learn about these requirements in the [State and Local Government Primer](https://www.ada.gov/regs2010/titleII_2010/title_ii_primer.html).
+<p><b>Applies to:</b> public transit systems.</p>
+
+<p><b>Note:</b> Private transit systems are also covered by the ADA. For more information, see the section <a href="#businesses">Businesses that are open to the public</a> below.</p>
+
+<p><b>General requirement:</b> public transit systems must provide people with disabilities an equal opportunity to benefit from their services.</p>
+
+<details><summary>How to file a complaint</summary>
+<p><a href="https://www.ada.gov/filing_complaint.htm">File a complaint with the U.S. Department of Justice</a> or <a href="https://www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/file-complaint-fta">with the Federal Transit Administration</a>.</p>
 </details>
 
-### Public Transit (Title II)
+  </div>
 
-**Applies to:** public transit systems.
+  <h2 class="usa-accordion__heading" id="businesses">
+  <button class="usa-accordion__button"
+    aria-expanded="true"
+    aria-controls="a4">
+    Businesses That Are Open to the Public (Title III)
+  </button>
+</h2>
+<div id="a4" class="usa-accordion__content usa-prose">
+<p><b>Applies to:</b></p>
+<ul>
+  <li>Businesses and nonprofits serving the public
+<br>Examples of businesses and nonprofits include:
+    <ul>
+      <li>Restaurants</li>
+      <li>Hotels</li>
+      <li>Retail stores</li>
+      <li>Movie theaters</li>
+      <li>Private schools (including housing)</li>
+      <li>Doctors’ offices</li>
+      <li>Day care centers</li>
+      <li>Gyms</li>
+      <li>Organizations offering courses or examinations</li>
+    </ul>
+  </li>
+  <li>Privately operated transit
+<br>Examples of privately operated transit include:
+    <ul>
+      <li>Taxis</li>
+      <li>Intercity and charter buses</li>
+      <li>Hotel shuttles</li>
+      <li>Airport shuttles</li>
+    </ul>
+  </li>
+  <li>Commercial facilities (need only comply with requirements <a href="https://www.ada.gov/2010ADAstandards_index.htm">ADA Standards for Accessible Design</a>)
+<br>Examples of commercial facilities include:
+    <ul>
+      <li>Office buildings</li>
+      <li>Warehouses</li>
+      <li>Factories</li>
+    </ul>
+  </li>
+</ul>
 
-**Note:** Private transit systems are also covered by the ADA. For more information, see the section [Businesses that are open to the public](#businesses-that-are-open-to-the-public-title-iii) below.
+<p><b>General requirement:</b> Businesses must provide people with disabilities an equal opportunity to access the goods or services that they offer.</p>
 
-**General requirement:** public transit systems must provide people with disabilities an equal opportunity to benefit from their services.
+<p>The ADA contains specific requirements for businesses that are open to the public. Learn more about these requirements: <a href="https://www.ada.gov/regs2010/smallbusiness/smallbusprimer2010.htm">ADA Primer for Small Businesses</a>.</p>
 
-**If you have a complaint:** [File a complaint with the U.S. Department of Justice](https://www.ada.gov/filing_complaint.htm) or [with the Federal Transit Administration](https://www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/file-complaint-fta).
-
-### Businesses That Are Open to the Public (Title III)
-
-**Applies to:**
-- Businesses and nonprofits serving the public  
-  Examples of businesses and nonprofits include:
-  - Restaurants
-  - Hotels
-  - Retail stores
-  - Movie theaters
-  - Private schools (including housing)
-  - Doctors’ offices
-  - Day care centers
-  - Gyms
-  - Organizations offering courses or examinations
-- Privately operated transit  
-  Examples of privately operated transit include:
-  - Taxis
-  - Intercity and charter buses
-  - Hotel shuttles
-  - Airport shuttles
-
-- Commercial facilities (need only comply with requirements [ADA Standards for Accessible Design](https://www.ada.gov/2010ADAstandards_index.htm))  
-  Examples of commercial facilities include:
-  - Office buildings
-  - Warehouses
-  - Factories
-
-**General requirement:** Businesses must provide people with disabilities an equal opportunity to access the goods or services that they offer.
-
-**If you have a complaint:** [File a complaint with the U.S. Department of Justice](https://www.ada.gov/filing_complaint.htm).
-
-<details>
-<summary>
-More about businesses and nonprofits’ ADA responsibilities
-</summary>
-
-The ADA contains specific requirements for businesses that are open to the public. Learn more about these requirements: [ADA Primer for Small Businesses](https://www.ada.gov/regs2010/smallbusiness/smallbusprimer2010.htm).
+<details><summary>How to file a complaint</summary>
+<p><a href="https://www.ada.gov/filing_complaint.htm">File a complaint with the U.S. Department of Justice</a>.</p>
 </details>
 
-### Telecommunications (Title IV)
+</div>  
 
-**Applies to:** telecommunication companies.
+  <h2 class="usa-accordion__heading">
+    <button class="usa-accordion__button"
+      aria-expanded="true"
+      aria-controls="a5">
+      Telecommunications (Title IV)
+    </button>
+  </h2>
+  <div id="a5" class="usa-accordion__content usa-prose">
+<p><b>Applies to:</b> telecommunication companies.</p>
 
-**General requirement:** Telephone companies must provide services to allow callers using voice telephones and callers with hearing and speech disabilities to communicate with each other. Telecommunications companies must also provide closed captioning of federally funded public service announcements.
+<p><b>General requirement:</b> Telephone companies must provide services to allow callers using voice telephones and callers with hearing and speech disabilities to communicate with each other. Telecommunications companies must also provide closed captioning of federally funded public service announcements.</p>
 
-**If you have a complaint:** [Contact the Telecommunications Relay Services point of contact for your state through the Federal Communications Commission](https://www.fcc.gov/general/trs-points-contact-complaints).
+<details><summary>How to file a complaint</summary>
+<p><a href="https://www.fcc.gov/general/trs-points-contact-complaints">Contact the Telecommunications Relay Services point of contact for your state through the Federal Communications Commission</a>.</p>
+</details>
+</div>
 
-<details>
-<summary>
-Some areas of life are not covered by the ADA or are covered by other laws
-</summary>
+  <h2 class="usa-accordion__heading">
+    <button class="usa-accordion__button"
+      aria-expanded="true"
+      aria-controls="a6">
+      Other Important Requirements (Title V)
+    </button>
+  </h2>
+  <div id="a6" class="usa-accordion__content usa-prose">
+  <p>The ADA also includes other requirements for how to implement the law.</p>
+  <p>Examples of these requirements include:</p>
+<ul>
+  <li>Prohibiting retaliation against a person who has claimed their rights under the ADA</li>
+  <li>Stating that a person with a disability is not required to accept an aid or accommodation if they do not want to</li>
+  <li>Authorizing courts to award attorneys’ fees to the winning party in a lawsuit under the ADA</li>
+  <li>Directing certain federal agencies to issue guidance explaining the law</li>
+</ul>
+  </div>
+</div>
+
+## Other Disability Rights Laws
 
 Although the ADA applies to many areas of life, it does not cover everything. In some situations, disability discrimination is prohibited by laws other than the ADA.
 
 While the ADA applies to certain types of housing (e.g., housing at private and public universities and public housing programs), the Fair Housing Act applies to almost all types of housing, both public and privately owned, including housing covered by the ADA.
 
-- If you have a complaint about disability discrimination under the Fair Housing Act: [File a complaint with the Department of Housing and Urban Development](https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint).
+<ul><li>If you have a complaint about disability discrimination under the Fair Housing Act: <a href="https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint">File a complaint with the Department of Housing and Urban Development</a>.</li></ul>
 
-Disability discrimination during air travel is prohibited by the Air Carriers Access Act.
-
-- If you have a complaint about disability discrimination during air travel: [File a complaint with the Department of Transportation’s Office of Aviation Consumer Protection](https://airconsumer.dot.gov/escomplaint/ConsumerForm.cfm).
+<p>Disability discrimination during air travel is prohibited by the Air Carriers Access Act.</p>
+<ul><li>If you have a complaint about disability discrimination during air travel: <a href="https://airconsumer.dot.gov/escomplaint/ConsumerForm.cfm">File a complaint with the Department of Transportation’s Office of Aviation Consumer Protection</a>.</li></ul>
 
 While religious organizations are exempt from the requirements of title III of the ADA, they would be subject to the employment obligations of title I if they have enough employees to meet the requirements for coverage. Additionally, religious groups or organizations may still have to comply with accessible building codes or other state or federal laws prohibiting discrimination on the basis of disability.
 </details>
-
-### Other Important Requirements (Title V)
-
-The ADA also includes other requirements for how to implement the law.
-
-Examples of these requirements include:
-- Prohibiting retaliation against a person who has claimed their rights under the ADA.
-- Stating that a person with a disability is not required to accept an aid or accommodation if they do not want to.
-- Authorizing courts to award attorneys’ fees to the winning party in a lawsuit under the ADA.
-- Directing certain federal agencies to issue guidance explaining the law.
 
 ### Federal Agencies’ Roles
 
