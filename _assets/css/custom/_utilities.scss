@@ -3,3 +3,7 @@
     column-count: 2;
   }
 }
+
+.grid-gap-xl {
+  @include grid-gap(6)
+}
