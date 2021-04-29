@@ -1,8 +1,8 @@
-name: pa11y
+name: test
 on: [push]
 jobs:
   build:
-    name: Run pa11y
+    name: Run tests
     runs-on: ubuntu-latest
 
     steps:
@@ -25,4 +25,7 @@ jobs:
         run: bundle exec jekyll serve --config _config.yml,_config_test.yml --detach
 
       - name: Run pa11y-ci
-        run: npm run pa11y
+        run: npm run test:a11y
+
+      - name: Run html-validate
+        run: npm run test:html

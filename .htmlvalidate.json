@@ -1,0 +1,9 @@
+{
+  "extends": ["html-validate:recommended"],
+  "rules": {
+    "element-required-attributes": "off",
+    "no-trailing-whitespace": "off",
+    "svg-focusable": "off",
+    "void-style": "off"
+  }
+}
