@@ -1,14 +1,14 @@
 //= require js/uswds.min.js
 //= require gumshoe.min.js
 
-const spy = new Gumshoe("#toc a", {
+var spy = new Gumshoe("#toc a", {
   nested: true,
   nestedClass: "active-parent"
 });
 
-const toc = document.getElementById("toc");
+var toc = document.getElementById("toc");
 if (toc) {
-  toc.addEventListener("click", event => {
+  toc.addEventListener("click", function(event) {
     if (event.target.tagName !== "A") return;
     expandPanel(event.target.hash);
   });
@@ -22,9 +22,9 @@ window.addEventListener("DOMContentLoaded", function() {
 
 function expandPanel(hash) {
   hash = hash.replace("#", "");
-  const id = document.getElementById(hash);
+  var id = document.getElementById(hash);
   if (!id || !id.classList.contains("usa-accordion__heading")) return;
-  const button = id.querySelector("button");
+  var button = id.querySelector("button");
 
   if (button && button.getAttribute("aria-expanded") !== "true") {
     button.click();
