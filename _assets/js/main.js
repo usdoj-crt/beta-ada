@@ -1,5 +1,5 @@
 //= require js/uswds.min.js
-//= require gumshoe.min.js
+//= require gumshoe.polyfills.min.js
 
 var spy = new Gumshoe("#toc a", {
   nested: true,
