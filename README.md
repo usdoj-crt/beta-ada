@@ -1,4 +1,4 @@
-![Pa11y](https://github.com/usdoj-crt/beta-ada/actions/workflows/pa11y.yml/badge.svg)
+![Tests passing](https://github.com/usdoj-crt/beta-ada/actions/workflows/test.yml/badge.svg)
 
 # beta-ada
 
