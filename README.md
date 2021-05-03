@@ -1,4 +1,4 @@
-![Tests passing](https://github.com/usdoj-crt/beta-ada/actions/workflows/test.yml/badge.svg)
+![Test](https://github.com/usdoj-crt/beta-ada/actions/workflows/test.yml/badge.svg)
 
 # beta-ada
 
