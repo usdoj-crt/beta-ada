@@ -1,6 +1,10 @@
 {
   "defaults": {
     "concurrency": 4,
+    "chromeLaunchConfig": {
+       "ignoreHTTPSErrors": true,
+       "args": ["--disable-dev-shm-usage"]
+     },
     "standard": "WCAG2AA",
     "runners": ["axe"],
     "timeout": 120000
