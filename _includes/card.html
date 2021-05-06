@@ -1,10 +1,12 @@
 <li class="tablet:grid-col-4 usa-card">
   <div class="usa-card__container">
     <header class="usa-card__header">
-      <h2 class="usa-card__heading">{{ include.card.title }}</h2>
+      <h3 class="usa-card__heading">{{ include.card.title }}</h3>
     </header>
     <div class="usa-card__media">
-      <div class="usa-card__img height-card-lg {% unless include.card.href%}opacity-40{% endunless %}">
+      <div
+        class="usa-card__img height-card-lg {% unless include.card.href%}opacity-40{% endunless %}"
+      >
         {% asset '{{ include.card.image }}' alt='{{ include.card.alt }}' %}
       </div>
     </div>
@@ -15,7 +17,11 @@
     </div>
     <div class="usa-card__footer">
       {% if include.card.href %}
-        <a href="{{ include.card.href | relative_url }}">Learn more</a>
+      <a
+        href="{{ include.card.href | relative_url }}"
+        aria-label="Learn more about {{include.card.title_alt | default:include.card.title}}"
+        >Learn more</a
+      >
       {% endif %}
     </div>
   </div>
