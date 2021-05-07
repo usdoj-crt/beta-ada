@@ -33,6 +33,7 @@ history:
 
 cards:
   - title: Introduction to the ADA
+    title_alt: the ADA
     description: |-
       Find out how the ADA is structured, and how it protects the rights of people with disabilities.
     image: landing/Intro_ADA-placeholder.png
