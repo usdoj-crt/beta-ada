@@ -84,7 +84,7 @@ Accessible parking spaces must be provided for cars and vans.
 
 The number of accessible parking spaces must be considered separately for each parking facility, not based on the total number of parking spaces provided on a site.
 
-The chart below shows the number of accessible spaces required by the [2010 Standards](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm%23c2).
+The chart below shows the number of accessible spaces required by the [2010 ADA Standards for Accessible Design](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010282).
 
 <table class="usa-table">
   <thead>
