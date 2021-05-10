@@ -24,65 +24,12 @@ title: "ADA.gov"
 # Uncomment the url line when ready to push to production. If using different branches for multiple
 # custom domains, edit this url parameter in the relevant branch to match the relevant custom domain.
 
-# Display beta label in header
-beta:
-  display: true
-  text: This is a test site. Do not rely on the information provided.
-
-# Digital Analytics Program (DAP) configuration
-dap:
-  agency: DOJ
-
-# Configuration for Google Analytics
-ga:
-  ua: G-XXQSTBSHEN
-google_site_verification: 34Ks265Uibpdda984RS0SxVABVZCdlVrdSp61pIdZQ8
-
-# Site Navigation
-primary_navigation:
-  - name: ADA Guides
-    url: /guides/
-  - name: Report a violation
-    url: https://civilrights.justice.gov/report/
-    external: true
-  - name: Give us feedback
-    url: /feedback/
-
-# Search.gov configuration
-#
-# 1. Create an account with Search.gov https://search.usa.gov/signup
-# 2. Add a new site.
-# 3. Add your site/affiliate name here.
-searchgov:
-  # You should not change this.
-  endpoint: https://search.usa.gov
-
-  # replace this with your search.gov account
-  affiliate: justice-ada
-
-  # replace with your access key
-  access_key: xX1gtb2RcnLbIYkHAcB6IaTRr4ZfN-p16ofcyUebeko=
-
-  # this renders the results within the page instead of sending to user to search.gov
-  inline: true
-
 ##########################################################################################
 # The values below here are more advanced and should only be
 # changed if you know what they do
 ##########################################################################################
 
-kramdown:
-  parse_block_html: true
-
 permalink: pretty
-
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-      sidenav: true
 
 include:
   - _pages
@@ -95,17 +42,3 @@ exclude:
   - LICENSE.md
   - Dockerfile
   - docker-compose.yml
-
-assets:
-  autoprefixer:
-    browsers:
-      - "> 2%"
-      - "last 2 versions"
-      - "IE 11"
-      - "not dead"
-  raw_precompile:
-    - source: node_modules/uswds/dist/fonts/**/*
-      strip: node_modules/uswds/dist/
-  sources:
-    - node_modules/gumshoejs/dist
-    - node_modules/uswds/dist
