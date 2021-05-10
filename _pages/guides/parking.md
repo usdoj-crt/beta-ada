@@ -20,19 +20,14 @@ Accessible parking spaces must have access aisles. Access aisles provide a desig
 
 #### Access aisles must be:
 
-<div class="grid-container" markdown="0">
-  <div class="grid-row">
-    <div class="tablet:grid-col-6">
-      {% capture list %}
-      - Marked (to discourage parking in them)
-      - The same length as the space it serves
-      - Level with the parking space it serves
-      {% endcapture %}
-      {% include icon-list.html list=list type="green-check" %}
-    </div>
-    <div class="tablet:grid-col-6">{% asset project-images/aisle-parking.png alt="A van-accessible parking space sharing an access aisle with an accessible parking space for a car" %}</div>
-  </div>
-</div>
+{% capture list %}
+- Marked (to discourage parking in them)
+- The same length as the space it serves
+- Level with the parking space it serves
+{% endcapture %}
+{% include icon-list.html list=list type="green-check" %}
+
+{% asset project-images/aisle-parking.png alt="A van-accessible parking space sharing an access aisle with an accessible parking space for a car" %}
 
 Two parking spaces can share an access aisle (except in angled parking).
 
@@ -44,41 +39,31 @@ Accessible parking spaces must be provided for cars and vans.
 
 #### Car accessible spaces must:
 
-<div class="grid-container" markdown="0">
-  <div class="grid-row">
-    <div class="tablet:grid-col-6">
-      {% capture list %}
-      - Be at least 96 inches wide
-      - Have an access aisle at least 60 inches wide
-      - Have no more than a 2 percent slope in all directions
-      - Have a surface that is firm, stable, and slip-resistant
-      - Have a sign with the international symbol of accessibility on it, mounted at least 60 inches above the ground (measured to the bottom of the sign)
-      {% endcapture %}
-      {% include icon-list.html list=list type="green-check" %}
-    </div>
-      <div class="tablet:grid-col-6">{% asset project-images/car-accessible.png alt="Accessible parking spaces with 60-inch minimum width access aisle for cars" %}</div>
-  </div>
-</div>
+{% capture list %}
+- Be at least 96 inches wide
+- Have an access aisle at least 60 inches wide
+- Have no more than a 2 percent slope in all directions
+- Have a surface that is firm, stable, and slip-resistant
+- Have a sign with the international symbol of accessibility on it, mounted at least 60 inches above the ground (measured to the bottom of the sign)
+{% endcapture %}
+{% include icon-list.html list=list type="green-check" %}
+
+{% asset project-images/car-accessible.png alt="Accessible parking spaces with 60-inch minimum width access aisle for cars" %}
 
 #### Van accessible spaces must:
 
-<div class="grid-container" markdown="0">
-  <div class="grid-row">
-    <div class="tablet:grid-col-6">
-      {% capture list %}
-      - Be at least 96 inches wide
-      - Have an access aisle at least 96 inches wide
-      - Have no more than a 2 percent slope in all directions
-      - Have a surface that is firm, stable and slip-resistant
-      - Have two signs, mounted at least 60 inches above the ground (measured to the bottom of the sign)
-      - First sign: international symbol of accessibility
-      - Second sign: stating that the space is van accessible
-      {% endcapture %}
-      {% include icon-list.html list=list type="green-check" %}
-    </div>
-      <div class="tablet:grid-col-6">{% asset project-images/van-accessible.png alt="Minimum 96-inch wide van-accessible parking space with 96-inch minimum width access aisle" %}</div>
-  </div>
-</div>
+{% capture list %}
+- Be at least 96 inches wide
+- Have an access aisle at least 96 inches wide
+- Have no more than a 2 percent slope in all directions
+- Have a surface that is firm, stable and slip-resistant
+- Have two signs, mounted at least 60 inches above the ground (measured to the bottom of the sign)
+- First sign: international symbol of accessibility
+- Second sign: stating that the space is van accessible
+{% endcapture %}
+{% include icon-list.html list=list type="green-check" %}
+
+{% asset project-images/van-accessible.png alt="Minimum 96-inch wide van-accessible parking space with 96-inch minimum width access aisle" %}
 
 ## Calculating Accessible Parking Spaces
 
@@ -152,19 +137,14 @@ accessible parking spaces permitted</th>
 
 Where parking spaces are limited to four or fewer spaces:
 
-<div class="grid-container" markdown="0">
-  <div class="grid-row">
-    <div class="tablet:grid-col-6">
-      {% capture list %}
-      - One van accessible parking space must be provided
-      - Anyone can park in that space
-      - Not required to have a sign with the international symbol of accessibility | red-x
-      {% endcapture %}
-      {% include icon-list.html list=list type="green-check" %}
-    </div>
-    <div class="tablet:grid-col-6">{% asset project-images/limited-spaces.png alt="Front of a convenience store with four parking spaces, one parking space is a van-accessible space" %}</div>
-  </div>
-</div>
+{% capture list %}
+- One van accessible parking space must be provided
+- Anyone can park in that space
+- Not required to have a sign with the international symbol of accessibility | red-x
+{% endcapture %}
+{% include icon-list.html list=list type="green-check" %}
+
+{% asset project-images/limited-spaces.png alt="Front of a convenience store with four parking spaces, one parking space is a van-accessible space" %}
 
 ### Parking at Hospital Facilities
 
