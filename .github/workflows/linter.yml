@@ -49,10 +49,10 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: "12"
-      - run: npm install
+      - run: npm install --production
 
       - name: Build site
-        run: bundle exec jekyll build --config _config.yml,_config_test.yml
+        run: bundle exec jekyll build
 
       ################################
       # Run Linter against code base #
@@ -61,8 +61,9 @@ jobs:
         uses: github/super-linter@v3
         env:
           DEFAULT_BRANCH: main
-          FILTER_REGEX_INCLUDE: .*(\_pages|\_site).*
+          FILTER_REGEX_INCLUDE: .*(\_assets|\_pages|\_site).*
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LINTER_RULES_PATH: /
+          VALIDATE_CSS: true
           VALIDATE_HTML: true
           VALIDATE_MARKDOWN: true

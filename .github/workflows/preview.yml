@@ -1,4 +1,4 @@
-name: preview
+name: Add Federalist Preview link
 on:
   pull_request:
     branches:

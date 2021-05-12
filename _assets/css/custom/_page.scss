@@ -2,6 +2,11 @@
   padding-top: 3rem;
   padding-bottom: 3rem;
 
+  details > summary > p {
+    display: inline;
+    margin: 0;
+  }
+
   .crt-lead {
     > p {
       @include text--heading__medium();
@@ -31,10 +36,5 @@
   h4 {
     margin-top: 2rem;
     margin-bottom: 1rem;
-  }
-
-  details > summary > p {
-    display: inline;
-    margin: 0;
   }
 }

@@ -2,8 +2,9 @@
   &__container {
     position: relative;
 
-    a:after {
+    a::after {
       content: "";
+
       @include u-position("absolute");
       @include u-top(0);
       @include u-left(0);
