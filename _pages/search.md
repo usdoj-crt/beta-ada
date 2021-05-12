@@ -1,5 +1,6 @@
 ---
 permalink: /search/
+layout: default
 title: Search
 sitemap: false
 sidenav: false
