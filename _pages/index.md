@@ -47,10 +47,9 @@ cards:
     href: /guides/service-animals/
   - title: Parking
     description: |-
-      Learn about accessible parking features that make it easier for people with disabilities to access programs, goods, and services.
+      <em>Coming soon!</em>
     image: landing/Parking-placeholder.png
     alt: A man in a wheelchair approaching a vehicle with his hand on the door handle
-    href: /guides/parking/
 ---
 
 {% include landing/hero.html hero=page.hero %}

@@ -14,7 +14,7 @@
       <div id="toc" class="usa-accordion__content">
         <ul class="usa-sidenav {% if _pages.size < 2 %}border-bottom-0{% endif %}">
           {% for _page in _pages %}
-          {% unless _page.path contains "index.md" %}
+          {% unless _page.path contains "index.md" or _page.hidden %}
           <li class="usa-sidenav__item">
             <a href="{{ _page.url | relative_url }}" {% if _page.url==page.url %}class="usa-current" {% endif %}>{% if _page.short_title %}{{ _page.short_title }}{% else %}{{ _page.title }}{% endif %}</a>
             {% if _page.url == page.url and page.subnav%}

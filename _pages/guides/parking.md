@@ -1,5 +1,6 @@
 ---
 title: Accessible Parking Spaces
+hidden: true
 short_title: Parking Spaces
 permalink: /guides/parking/
 lead: |-
