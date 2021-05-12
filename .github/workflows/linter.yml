@@ -39,6 +39,21 @@ jobs:
           # Full git history is needed to get a proper list of changed files within `super-linter`
           fetch-depth: 0
 
+      - name: Install Ruby dependencies
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6.6
+          bundler-cache: true
+
+      - name: Install Node.js dependencies
+        uses: actions/setup-node@v2
+        with:
+          node-version: "12"
+      - run: npm install
+
+      - name: Build site
+        run: bundle exec jekyll build --config _config.yml,_config_test.yml
+
       ################################
       # Run Linter against code base #
       ################################
@@ -46,7 +61,8 @@ jobs:
         uses: github/super-linter@v3
         env:
           DEFAULT_BRANCH: main
-          FILTER_REGEX_INCLUDE: .*_pages/.*
+          FILTER_REGEX_INCLUDE: .*(\_pages|\_site).*
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LINTER_RULES_PATH: /
+          VALIDATE_HTML: true
           VALIDATE_MARKDOWN: true
