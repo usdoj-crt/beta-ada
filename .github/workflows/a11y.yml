@@ -1,8 +1,8 @@
-name: test
+name: a11y
 on: [push]
 jobs:
   build:
-    name: Run tests
+    name: Run accessibility tests
     runs-on: ubuntu-latest
 
     steps:
@@ -24,5 +24,5 @@ jobs:
       - name: Start server
         run: bundle exec jekyll serve --config _config.yml,_config_test.yml --detach
 
-      - name: Run tests
-        run: npm run test
+      - name: Run pa11y-ci
+        run: npm run test:a11y
