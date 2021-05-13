@@ -11,12 +11,12 @@ module Jekyll
       output = <<~EOS
         <details>
         <summary markdown="0">
-        <div>
-          #{@title}
-        </div>
+          <div>
+            <span>#{@title}</span>
+          </div>
         </summary>
         <div>
-          #{content}
+        #{content}
         </div>
         </details>
       EOS

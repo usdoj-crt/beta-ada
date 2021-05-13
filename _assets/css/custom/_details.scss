@@ -4,36 +4,38 @@ details {
   & > summary {
     @extend .h4;
 
-    @include u-border-bottom('primary-lighter');
+    @include u-border-bottom("primary-lighter");
     @include add-background-svg("usa-icons/add");
 
-    align-items: center;
     background-position: right units(2.5) center;
     background-size: units(3);
     box-sizing: border-box;
     border-width: 1px;
     cursor: pointer;
-    display: flex;
     list-style: none;
     margin: 0;
     padding: 0 units(3) units(1) 0;
-    text-decoration: none;
     width: 100%;
 
-    &:hover  {
+    & > div {
+      align-items: center;
+      display: flex;
+
+      &::before {
+        background: asset_url("book.svg") no-repeat left center;
+        content: "";
+        flex: none;
+        height: 34px;
+        margin-right: units(1);
+        width: 34px;
+      }
+    }
+
+    &:hover {
       color: color($theme-link-hover-color);
     }
 
-    &::before {
-      background: asset_url("book.svg") no-repeat left center;
-      content: "";
-      display: block;
-      flex: none;
-      height: 34px;
-      margin-right: units(1);
-      width: 34px;
-    }
-
+    &::marker,
     &::-webkit-details-marker {
       display: none;
     }
@@ -44,8 +46,8 @@ details {
   }
 
   & > div {
-   background-color: rgba(236, 241, 247, .5);
-   overflow: hidden;
-   padding: 0 units(2);
- }
+    background-color: rgba(236, 241, 247, 0.5);
+    overflow: hidden;
+    padding: 0 units(2);
+  }
 }
