@@ -5,7 +5,7 @@ title: Home
 
 alert:
   content: |-
-    _We're working to make ADA.gov more useful and accessible. We've launched this beta site to share our work in progress. Let us know how we're doing so far._
+    _We're working to make ADA.gov more user friendly. We've launched this beta site to share our work in progress. Let us know how we're doing so far._
   heading: |-
     Help us improve ADA.gov
   link:
@@ -14,7 +14,7 @@ alert:
 
 hero:
   content: |-
-    Disability rights are civil rights. From voting to parking, the ADA protects people with disabilities and helps businesses and local governments ensure their facilities and services are accessible.
+    Disability rights are civil rights. From voting to parking, the ADA is a law that protects people with disabilities in many areas of public life.
   heading: |-
     The Americans with Disabilities Act (ADA) protects people with disabilities from discrimination.
 
