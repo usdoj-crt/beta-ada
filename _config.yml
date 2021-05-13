@@ -27,7 +27,7 @@ title: "ADA.gov"
 # Display beta label in header
 beta:
   display: true
-  text: This is a test site. Do not rely on the information provided.
+  text: This site is a work in progress. We're still adding content and features.
 
 # Digital Analytics Program (DAP) configuration
 dap:
