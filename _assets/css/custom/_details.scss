@@ -7,7 +7,7 @@ details {
     @include u-border-bottom("primary-lighter");
     @include add-background-svg("usa-icons/add");
 
-    background-position: right units(2.5) center;
+    background-position: right units(1);
     background-size: units(3);
     box-sizing: border-box;
     border-width: 1px;
@@ -18,8 +18,11 @@ details {
     width: 100%;
 
     & > div {
-      align-items: center;
       display: flex;
+
+      & > span {
+        align-self: center;
+      }
 
       &::before {
         background: asset_url("book.svg") no-repeat left center;
