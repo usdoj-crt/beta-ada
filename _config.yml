@@ -46,7 +46,8 @@ primary_navigation:
     url: https://civilrights.justice.gov/report/
     external: true
   - name: Give Us Feedback
-    url: /feedback/
+    url: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit
+    external: true
 
 # Search.gov configuration
 #
