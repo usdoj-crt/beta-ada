@@ -29,12 +29,12 @@ What does <dfn><i>major life activities</i></dfn> mean?
 
 Major life activities are the kind of actions that you do every day, including your body’s own internal processes. There are many major life activities in addition to the examples listed here. Some examples include:
 
-  - Actions like eating, sleeping, speaking, and breathing
-  - Movements like walking, standing, lifting, and bending
-  - Cognitive functions like thinking and concentrating
-  - Sensory functions like seeing and hearing
-  - Tasks like working, reading, learning, and communicating
-  - Regular function of bodily systems like circulation, reproduction, and individual organs
+- Actions like eating, sleeping, speaking, and breathing
+- Movements like walking, standing, lifting, and bending
+- Cognitive functions like thinking and concentrating
+- Sensory functions like seeing and hearing
+- Tasks like working, reading, learning, and communicating
+- Regular function of bodily systems like circulation, reproduction, and individual organs
 </details>
 
 ### Examples of Disabilities

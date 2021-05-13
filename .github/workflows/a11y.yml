@@ -1,28 +1,28 @@
-name: test
+name: Run Accessibility Tests
 on: [push]
 jobs:
   build:
-    name: Run tests
+    name: Run Accessibility Tests
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout source
+      - name: Checkout Source
         uses: actions/checkout@v2
 
-      - name: Install Ruby dependencies
+      - name: Install Ruby Dependencies
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.6.6
           bundler-cache: true
 
-      - name: Install Node.js dependencies
+      - name: Install Node.js Dependencies
         uses: actions/setup-node@v2
         with:
           node-version: "12"
       - run: npm install
 
-      - name: Start server
+      - name: Start Server
         run: bundle exec jekyll serve --config _config.yml,_config_test.yml --detach
 
-      - name: Run tests
-        run: npm run test
+      - name: Run Accessibility Tests
+        run: npm run test:a11y
