@@ -15,18 +15,11 @@ A person with a disability is someone who:
 
 If a person meets this definition, the ADA protects them. Because the ADA is a law, and not a benefit program, you do not need to apply for coverage.
 
-<details>
-<summary>
-What does <dfn><i>substantially limits</i></dfn> mean?
-</summary>
+{% details What does <i>substantially limits</i> mean? %}
 The term “substantially limits” is defined broadly and is not meant to be a demanding standard. An example of a condition that is not substantial is a mild allergy to pollen.
-</details>  
+{% enddetails %}
 
-<details>
-<summary>
-What does <dfn><i>major life activities</i></dfn> mean?
-</summary>
-
+{% details What does <i>major life activities</i> mean? %}
 Major life activities are the kind of actions that you do every day, including your body’s own internal processes. There are many major life activities in addition to the examples listed here. Some examples include:
 
 - Actions like eating, sleeping, speaking, and breathing
@@ -35,7 +28,7 @@ Major life activities are the kind of actions that you do every day, including y
 - Sensory functions like seeing and hearing
 - Tasks like working, reading, learning, and communicating
 - Regular function of bodily systems like circulation, reproduction, and individual organs
-</details>
+{% enddetails %}
 
 ### Examples of Disabilities
 
@@ -62,15 +55,11 @@ The ADA covers many other disabilities not listed here.
 
 To prevent discrimination against people with disabilities, the ADA sets out requirements that apply to most of the organizations and situations you encounter in everyday life. Employers, state and local governments, businesses that are open to the public, commercial facilities, transportation, and telecommunications all have to follow the requirements of the ADA.
 
-<details>
-<summary>
-The ADA prohibits discrimination based on disability
-</summary>
-
+{% details The ADA prohibits discrimination based on disability %}
 Under the ADA, it is illegal to discriminate against someone because of their disability.
 
 For example, a local rec center might only be open to people who live in the surrounding zip code. If the rec center refused access to a person with epilepsy because that person lived in a different zip code, that would not be a violation of the ADA because the rec center would not be discriminating on the basis of the person’s disability.
-</details>
+{% enddetails %}
 
 The ADA is broken up into five different sections, which are called titles. Different titles set out the requirements for different kinds of organizations. For example, title I of the ADA covers requirements for employers, and title II covers requirements for state and local governments. You can find the relevant title of the ADA noted next to each type of organization below.
 
