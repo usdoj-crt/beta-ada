@@ -65,7 +65,9 @@ The ADA is broken up into five different sections, which are called titles. Diff
 
 {% accordion a %}
 {% collapsible %}
-## Employment (Title I)
+## Employment
+
+**Section of the ADA:** Title I
 
 **Applies to:** employers that have 15 or more employees.
 
@@ -79,7 +81,8 @@ The ADA includes specific requirements for employers to ensure that people with 
 {% endcollapsible %}
 
 {% collapsible %}
-## State and Local Government Services (Title II, Subtitle A)
+## State and Local Government Services
+**Section of the ADA:** Title II, Subtitle A
 
 **Applies to:** all services, programs, and activities of state and local governments.
 
@@ -109,7 +112,8 @@ The ADA contains specific requirements for state and local governments to ensure
 {% endcollapsible %}
 
 {% collapsible %}
-## Public Transit (Title II, Subtitle B)
+## Public Transit
+**Section of the ADA:** Title II, Subtitle B
 
 **Applies to:** public transit systems.
 
@@ -121,7 +125,8 @@ The ADA contains specific requirements for state and local governments to ensure
 {% endcollapsible %}
 
 {% collapsible %}
-## Businesses That Are Open to the Public (Title III)
+## Businesses That Are Open to the Public
+**Section of the ADA:** Title III
 
 **Applies to:**
 
@@ -158,7 +163,8 @@ The ADA contains specific requirements for businesses that are open to the publi
 {% endcollapsible %}
 
 {% collapsible %}
-## Telecommunications (Title IV)
+## Telecommunications
+**Section of the ADA:** Title IV
 
 **Applies to:** telecommunication companies.
 
@@ -168,7 +174,8 @@ The ADA contains specific requirements for businesses that are open to the publi
 {% endcollapsible %}
 
 {% collapsible %}
-## Other Important Requirements (Title V)
+## Other Important Requirements
+**Section of the ADA:** Title V
 
 The ADA also includes other requirements for how to implement the law.
 Examples of these requirements include:
