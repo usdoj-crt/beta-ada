@@ -3,7 +3,7 @@
   padding-bottom: 3rem;
 
   .crt-lead {
-    > p {
+    p, li {
       @include text--heading__medium();
     }
   }
