@@ -25,12 +25,9 @@ lead: |-
 {% endcapture %}
 {% include icon-list.html list=list type="red-x" %}
 
-<details>
-<summary>
-More about the difference between emotional support animals and service animals
-</summary>
+{% details More about the difference between emotional support animals and service animals %}
 If the dog's mere presence provides comfort, it is not a service animal under the ADA. But if the dog is trained to perform a task related to a person's disability, it is a service animal under the ADA. For example, if the dog has been trained to sense that an anxiety attack is about to happen and take a specific action to help avoid the attack or lessen its impact, the dog is a service animal.
-</details>
+{% enddetails %}
 
 ## Examples of Service Animal Tasks
 
@@ -90,12 +87,9 @@ Because service animals are not required to wear vests, a dog that is wearing a 
 
 A business or state/local government does not need to allow a service animal if the dog’s presence would fundamentally alter the nature of the goods, services, programs, or activities provided to the public.
 
-<details>
-<summary>
-What does <dfn><i>fundamentally alter</i></dfn> mean?
-</summary>
+{% details What does <i>fundamentally alter</i> mean? %}
 In most settings, a service animal will not fundamentally alter the situation. But in some settings, a service dog could change the nature of the service or program. For example, it may be appropriate to keep a service animal out of an operating room or burn unit where the animal’s presence could compromise a sterile environment. But in general, service animals cannot be restricted from other areas of the hospital where patients or members of the public can go.
-</details>
+{% enddetails %}
 
 Learn more about when a service animal can be kept out in [questions 23-26 in FAQs about service animals and the ADA](https://www.ada.gov/regs2010/service_animal_qa.html).
 
@@ -105,12 +99,9 @@ A business or state/local government can ask someone to remove their service ani
 - The dog is not housebroken.
 - The dog is out of control, and the person cannot get the dog under control.
 
-<details>
-<summary>
-What does <dfn><i>out of control</i></dfn> mean?
-</summary>
-Learn more in <a href="https://www.ada.gov/regs2010/service_animal_qa.html#exc">question 27 in <cite>FAQs about service animals and the ADA</cite></a>.
-</details>
+{% details What does <i>out of control</i> mean?%}
+Learn more in [question 27 in <cite>FAQs about service animals and the ADA</cite>](https://www.ada.gov/regs2010/service_animal_qa.html#exc).
+{% enddetails %}
 
 ## State and Local Laws
 
