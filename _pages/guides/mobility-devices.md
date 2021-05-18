@@ -64,25 +64,20 @@ After considering these factors, an agency or business might establish a policy 
 
 If a person with a disability enters a business or government facility using an OPDMD:
 
-{% capture list %}
+{% list %}
+{% list_item check_circle %}
 You may ask that they provide “credible assurance” that the device is used because of a disability.
-{% endcapture %}
-{% include icon-list.html list=list type="green-check" %}
-<details>
-<summary>
+
 You must accept any of these types of credible assurance:
-</summary>
+
 - A valid, state-issued disability parking placard
 - Other state-issued proof of disability
 - A statement from the person that the OPDMD is used because of a disability, unless the person is observed doing something that contradicts this statement
-</details>
-
-
-{% capture list %}
+{% endlist_item %}
+{% list_item cancel %}
 You may not ask about the nature or extent of someone’s disability. This is also true if someone is using a wheelchair or other manual mobility aid.
-{% endcapture %}
-{% include icon-list.html list=list type="red-x" %}
-
+{% endlist_item %}
+{% endlist %}
 
 ## Learn more about the ADA and Mobility Devices
 
