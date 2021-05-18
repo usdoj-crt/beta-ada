@@ -18,6 +18,11 @@
 
   .usa-accordion {
     margin-bottom: 2rem;
+
+    @include at-media(desktop) {
+      max-height: calc(100vh - 1.5rem * 2);
+      overflow-y: auto;
+    }
   }
 
   .usa-accordion__button {
@@ -38,9 +43,9 @@
   }
 
   @include at-media(desktop) {
-    @include u-position('sticky');
+    @include u-position("sticky");
     @include u-top(3);
-    @include u-flex('align-self-start');
+    @include u-flex("align-self-start");
 
     .usa-accordion__content {
       background: none;
