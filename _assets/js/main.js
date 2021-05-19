@@ -1,19 +1,16 @@
 //= require js/uswds.min.js
 //= require gumshoe.polyfills.min.js
 
-document.querySelector("body").addEventListener("click", function(event) {
-  console.log(event.target);
-});
-
 window.addEventListener("DOMContentLoaded", function() {
+  var touchpoints = document.getElementById("fba-button");
   var touchpointsBtns = document.querySelectorAll(".touchpoints-btn");
 
-  if (touchpointsBtns) {
+  if (touchpoints && touchpointsBtns) {
     for (var i = 0; i < touchpointsBtns.length; i++) {
       touchpointsBtns[i].addEventListener("click", function(event) {
         event.stopImmediatePropagation();
         event.preventDefault();
-        document.getElementById("fba-button").click();
+        touchpoints.click();
       });
     }
   }
