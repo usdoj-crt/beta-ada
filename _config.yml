@@ -106,6 +106,8 @@ assets:
   raw_precompile:
     - source: node_modules/uswds/dist/fonts/**/*
       strip: node_modules/uswds/dist/
+    - source: node_modules/uswds/dist/img/sprite.svg
+      strip: node_modules/uswds/dist/
   sources:
     - node_modules/gumshoejs/dist
     - node_modules/uswds/dist
