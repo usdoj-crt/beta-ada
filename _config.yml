@@ -40,12 +40,12 @@ google_site_verification: 34Ks265Uibpdda984RS0SxVABVZCdlVrdSp61pIdZQ8
 
 # Site Navigation
 primary_navigation:
-  - name: ADA Guides
+  - name: How the ADA Works
     url: /guides/
-  - name: Report a violation
+  - name: File a Complaint
     url: https://civilrights.justice.gov/report/
     external: true
-  - name: Give us feedback
+  - name: Give Us Feedback
     url: /feedback/
 
 # Search.gov configuration
@@ -105,6 +105,8 @@ assets:
       - "not dead"
   raw_precompile:
     - source: node_modules/uswds/dist/fonts/**/*
+      strip: node_modules/uswds/dist/
+    - source: node_modules/uswds/dist/img/sprite.svg
       strip: node_modules/uswds/dist/
   sources:
     - node_modules/gumshoejs/dist

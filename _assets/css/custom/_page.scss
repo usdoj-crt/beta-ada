@@ -4,7 +4,7 @@
 
   .crt-page--content {
     .crt-lead {
-      > p {
+      > p, li {
         @include text--heading__medium();
       }
     }
