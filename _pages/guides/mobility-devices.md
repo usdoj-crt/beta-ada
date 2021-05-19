@@ -65,8 +65,8 @@ After considering these factors, an agency or business might establish a policy 
 
 If a person with a disability enters a business or government facility using an OPDMD:
 
-{% list %}
-{% list_item check_circle %}
+{% list check_circle %}
+{% list_item %}
 You may ask that they provide “credible assurance” that the device is used because of a disability.
 
 You must accept any of these types of credible assurance:

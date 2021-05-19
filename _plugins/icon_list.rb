@@ -3,10 +3,12 @@ module Jekyll
     class ListTag < Liquid::Block
       def initialize(tag_name, block_options, liquid_options)
         super
+          @default_icon_type = block_options.strip
       end
 
       def render(context)
         context.stack do
+          context["default_icon_type"] = @default_icon_type
           @content = super
         end
 
@@ -26,15 +28,16 @@ module Jekyll
 
       def render(context)
         @context = context
+        icon_type = @icon_type.empty? ? context["default_icon_type"] : @icon_type
         site = context.registers[:site]
         converter = site.find_converter_instance(::Jekyll::Converters::Markdown)
         content = converter.convert(super)
 
         output = <<~EOS
           <li class="usa-icon-list__item">
-            <div class="usa-icon-list__icon #{text_color(@icon_type)}">
+            <div class="usa-icon-list__icon #{text_color(icon_type)}">
               <svg class="usa-icon" aria-hidden="true" role="img">
-                <use xlink:href="#{relative_url("assets/img/sprite.svg")}##{@icon_type}"></use>
+                <use xlink:href="#{relative_url("assets/img/sprite.svg")}##{icon_type}"></use>
               </svg>
             </div>
             <div class="usa-icon-list__content">

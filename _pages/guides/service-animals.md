@@ -10,20 +10,18 @@ lead: |-
 ## About Service Animals
 
 ### Service animals are:
-{% capture list %}
-- Dogs
-- Any breed and any size of dog
-- Trained to perform a task directly related to a person’s disability
-{% endcapture %}
-{% include icon-list.html list=list type="green-check" %}
+{% list check_circle %}
+{% list_item %}Dogs{% endlist_item %}
+{% list_item %}Any breed and any size of dog{% endlist_item %}
+{% list_item %}Trained to perform a task directly related to a person’s disability{% endlist_item %}
+{% endlist %}
 
 ### Service animals are not:
-{% capture list %}
-- Required to be certified or go through a professional training program
-- Required to wear a vest or other ID that indicates they’re a service dog
-- Emotional support or comfort dogs, because providing emotional support or comfort is not a task related to a person’s disability
-{% endcapture %}
-{% include icon-list.html list=list type="red-x" %}
+{% list cancel %}
+{% list_item %}Required to be certified or go through a professional training program{% endlist_item %}
+{% list_item %}Required to wear a vest or other ID that indicates they’re a service dog{% endlist_item %}
+{% list_item %}Emotional support or comfort dogs, because providing emotional support or comfort is not a task related to a person’s disability{% endlist_item %}
+{% endlist %}
 
 {% details More about the difference between emotional support animals and service animals %}
 If the dog's mere presence provides comfort, it is not a service animal under the ADA. But if the dog is trained to perform a task related to a person's disability, it is a service animal under the ADA. For example, if the dog has been trained to sense that an anxiety attack is about to happen and take a specific action to help avoid the attack or lessen its impact, the dog is a service animal.
@@ -68,18 +66,20 @@ The [Equal Employment Opportunity Commission](https://www.eeoc.gov/disability-di
 If you are working at a business or state/local government facility and it is unclear to you whether someone’s dog is a service dog, **you may ask for certain information using two questions**.
 
 ### You may ask:
-{% capture list %}
-- Is the dog a service animal required because of a disability?
-- What work or task has the dog been trained to perform?
-{% endcapture %}
-{% include icon-list.html list=list type="green-check" %}
+{% list check_circle %}
+{% list_item %}Is the dog a service animal required because of a disability?{% endlist_item %}
+{% list_item %}What work or task has the dog been trained to perform?{% endlist_item %}
+{% endlist %}
 
 ### You are _not_ allowed to:
-{% capture list %}
-- Request any documentation that the dog is registered, licensed, or certified as a service animal
-- Require that the dog demonstrate its task, or inquire about the nature of the person’s disability
-{% endcapture %}
-{% include icon-list.html list=list type="red-x" %}
+{% list cancel %}
+{% list_item %}
+Request any documentation that the dog is registered, licensed, or certified as a service animal
+{% endlist_item %}
+{% list_item %}
+Require that the dog demonstrate its task, or inquire about the nature of the person’s disability
+{% endlist_item %}
+{% endlist %}
 
 Because service animals are not required to wear vests, a dog that is wearing a vest is not necessarily a service animal. The dog still needs to be trained to perform a task for a person with a disability to be a service animal.
 
@@ -106,18 +106,18 @@ Learn more in [question 27 in <cite>FAQs about service animals and the ADA</cite
 ## State and Local Laws
 
 ### State/local governments can:
-{% capture list %}
-- Require service dogs to be licensed and vaccinated, if all dogs are required to be licensed and vaccinated
-- Offer <em>voluntary</em> service dog registration programs
-{% endcapture %}
-{% include icon-list.html list=list type="green-check" %}
+{% list check_circle %}
+{% list_item %}
+Require service dogs to be licensed and vaccinated, if all dogs are required to be licensed and vaccinated
+{% endlist_item %}
+{% list_item %}Offer <em>voluntary</em> service dog registration programs{% endlist_item %}
+{% endlist %}
 
 ### State/local governments can't:
-{% capture list %}
-- Require certification or registration of service dogs
-- Ban a service dog based on its breed
-{% endcapture %}
-{% include icon-list.html list=list type="red-x" %}
+{% list cancel %}
+{% list_item %}Require certification or registration of service dogs{% endlist_item %}
+{% list_item %}Ban a service dog based on its breed{% endlist_item %}
+{% endlist %}
 
 ## Learn More About the ADA and Service Animals
 The following technical assistance documents provide more helpful information about service animals:
