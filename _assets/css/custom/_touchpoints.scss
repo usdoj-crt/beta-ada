@@ -1,4 +1,9 @@
+#fba-modal-dialog .usa-alert::before {
+  display: none !important;
+}
+
 #fba-modal-title {
+  font-size: $theme-heading-font-size-md !important;
   word-break: normal !important;
   word-wrap: normal !important;
 }
