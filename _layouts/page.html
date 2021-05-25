@@ -5,11 +5,11 @@ layout: default
 <div class="crt-page grid-container">
   <div class="grid-row grid-gap-xl">
     {% if page.sidenav %}
-    <div class="crt-page--sidenav desktop:grid-col-4">
+    <div id="crt-page--sidenav" class="desktop:grid-col-4">
       {% include sidenav.html %}
     </div>
     {% endif %}
-    <div class="crt-page--content tablet:grid-col-8">
+    <div id="crt-page--content" class="tablet:grid-col-8">
       <h1>{{page.title}}</h1>
       <div class="crt-landing--separator_small"></div>
       {% include alert.html %}

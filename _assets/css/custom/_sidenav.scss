@@ -3,7 +3,7 @@
   margin-right: 0;
 }
 
-.crt-page--sidenav {
+#crt-page--sidenav {
   a {
     color: color($theme-text-color);
 
@@ -57,7 +57,7 @@
       }
     }
 
-    .usa-sidenav__sublist{
+    .usa-sidenav__sublist {
       a {
         @include text--body-copy__small();
       }

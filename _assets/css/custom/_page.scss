@@ -2,9 +2,10 @@
   padding-top: 3rem;
   padding-bottom: 3rem;
 
-  .crt-page--content {
+  #crt-page--content {
     .crt-lead {
-      > p, li {
+      > p,
+      li {
         @include text--heading__medium();
       }
     }
