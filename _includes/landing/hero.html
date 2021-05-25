@@ -1,5 +1,11 @@
 <div class="crt-landing--section crt-landing--hero crt-white" markdown="0">
-  {% asset hero-mobile.jpg alt="" class="height-auto width-full tablet:display-none" %}
+  <span
+    class="display-none tablet:display-inline"
+    role="img"
+    aria-label="{{ include.hero.alt.desktop }}"
+  ></span>
+  {% asset hero-mobile.jpg alt="'{{ include.hero.alt.mobile }}'"
+  class="height-auto width-full tablet:display-none" %}
   <div class="grid-container">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-8">

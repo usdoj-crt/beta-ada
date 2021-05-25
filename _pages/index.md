@@ -13,6 +13,11 @@ alert:
     text: Share feedback
 
 hero:
+  alt:
+    desktop: |-
+      Three Black and disabled folx (a non-binary person resting one hand on the wall and the other on her cane, a non-binary person sitting in a power wheelchair, and a woman leaning while standing) resting and chatting on a sidewalk on a sunny day.
+    mobile: |-
+      Five disabled people of color with canes, prosthetic legs, and a wheelchair sit on a rooftop deck, laughing and sharing stories. Greenery and city high-rises are visible in the background.
   content: |-
     Disability rights are civil rights. From voting to parking, the ADA is a law that protects people with disabilities in many areas of public life.
   heading: |-
