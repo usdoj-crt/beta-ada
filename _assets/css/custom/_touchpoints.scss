@@ -1,9 +1,10 @@
-#fba-modal-dialog .usa-alert::before {
-  display: none !important;
-}
+#fba-button {
+    background: color($theme-color-warning);
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    color: color($theme-color-primary-darker) !important;
 
-#fba-modal-title {
-  font-size: $theme-heading-font-size-md !important;
-  word-break: normal !important;
-  word-wrap: normal !important;
+    &:hover {
+      background: color($theme-color-warning-dark);
+    }
 }

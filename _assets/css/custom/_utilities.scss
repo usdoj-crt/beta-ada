@@ -4,6 +4,13 @@
   }
 }
 
+.fixed-tab-button {
+  bottom: 0;
+  position: fixed;
+  right: 12px;
+  z-index: 9999;
+}
+
 .grid-gap-xl {
-  @include grid-gap(6)
+  @include grid-gap(6);
 }

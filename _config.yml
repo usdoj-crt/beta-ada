@@ -48,7 +48,11 @@ primary_navigation:
   - name: Give Us Feedback
     url: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit
     external: true
-    classes: touchpoints-btn
+
+# Configuration for Touchpoints
+touchpoints:
+  name: How can we improve this site?
+  url: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit
 
 # Search.gov configuration
 #
