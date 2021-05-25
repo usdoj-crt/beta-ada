@@ -5,16 +5,17 @@ details {
     @extend .h4;
 
     @include u-border-bottom("primary-lighter");
-    @include add-background-svg("usa-icons/add");
-
-    background-position: right units(1);
+    background-image: asset_url("add--primary.svg"),
+      linear-gradient(transparent, transparent);
+    background-repeat: no-repeat;
+    background-position: right 1.25rem;
     background-size: units(3);
     box-sizing: border-box;
     border-width: 1px;
     cursor: pointer;
     list-style: none;
     margin: 0;
-    padding: 0 units(3) units(1) 0;
+    padding: 0 3.5rem units(1) 0;
     width: 100%;
 
     & > div {
@@ -45,7 +46,9 @@ details {
   }
 
   &[open] > summary {
-    @include add-background-svg("usa-icons/remove");
+    background-image: asset_url("remove--primary.svg"),
+      linear-gradient(transparent, transparent);
+    background-repeat: no-repeat;
   }
 
   & > div {
