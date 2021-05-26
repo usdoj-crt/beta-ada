@@ -6,30 +6,30 @@
       Table of contents
     </button>
   </h4>
-    <nav>
-      {% assign _url = page.url | split: '/' %}
-      {% assign _parent_dir = _url[1] %}
-      {% assign _parent_path = _parent_dir | append: '/index.md' %}
-      {% assign _pages = site.pages | where_exp:"item", "item.url contains _parent_dir" %}
-      <div id="toc" class="usa-accordion__content">
-        <ul class="usa-sidenav {% if _pages.size < 2 %}border-bottom-0{% endif %}">
-          {% for _page in _pages %}
-          {% unless _page.path contains "index.md" or _page.hidden %}
-          <li class="usa-sidenav__item">
-            <a href="{{ _page.url | relative_url }}" {% if _page.url==page.url %}class="usa-current" {% endif %}>{% if _page.short_title %}{{ _page.short_title }}{% else %}{{ _page.title }}{% endif %}</a>
-            {% if _page.url == page.url and page.subnav%}
-            <ul class="usa-sidenav__sublist">
-              {% for _anchor in page.subnav %}
-              <li class="usa-sidenav__item">
-                <a href="{{_anchor.url | relative_url}}">{{_anchor.title}}</a>
-              </li>
-              {% endfor %}
-            </ul>
-            {% endif %}
-          </li>
-          {% endunless %}
-          {% endfor %}
-        </ul>
-      </div>
-    </nav>
+  <nav>
+    {% assign _url = page.url | split: '/' %}
+    {% assign _parent_dir = _url[1] %}
+    {% assign _parent_path = _parent_dir | append: '/index.md' %}
+    {% assign _pages = site.pages | where_exp:"item", "item.url contains _parent_dir" %}
+    <div id="toc" class="usa-accordion__content">
+      <ul class="usa-sidenav {% if _pages.size < 2 %}border-bottom-0{% endif %}">
+        {% for _page in _pages %}
+        {% unless _page.path contains "index.md" or _page.hidden %}
+        <li class="usa-sidenav__item">
+          <a href="{{ _page.url | relative_url }}" {% if _page.url==page.url %}class="usa-current" {% endif %}>{% if _page.short_title %}{{ _page.short_title }}{% else %}{{ _page.title }}{% endif %}</a>
+          {% if _page.url == page.url and page.subnav%}
+          <ul class="usa-sidenav__sublist">
+            {% for _anchor in page.subnav %}
+            <li class="usa-sidenav__item">
+              <a href="{{_anchor.url | relative_url}}">{{_anchor.title}}</a>
+            </li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+        </li>
+        {% endunless %}
+        {% endfor %}
+      </ul>
+    </div>
+  </nav>
 </div>

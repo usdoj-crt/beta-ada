@@ -1,1 +1,10 @@
-<a class="usa-skipnav" href="#main-content">Skip to main content</a>
+{% if page.layout == 'page' and page.sidenav %}
+  {% assign has_side_nav = true %}
+{% else %}
+  {% assign has_side_nav = false %}
+{% endif %}
+
+{% if has_side_nav %}
+<a class="usa-skipnav" href="#crt-page--sidenav">Skip to page navigation</a>
+{% endif %}
+<a class="usa-skipnav" href="#{% if has_side_nav %}crt-page--content{% else %}main-content{% endif %}">Skip to main content</a>
