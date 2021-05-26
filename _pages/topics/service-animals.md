@@ -1,6 +1,6 @@
 ---
 title: Service Animals
-permalink: /guides/service-animals/
+permalink: /topics/service-animals/
 lead: |-
   The ADA explains what businesses and state/local governments must do to make sure that they do not discriminate against a member of the public with a disability who uses a service animal.
 

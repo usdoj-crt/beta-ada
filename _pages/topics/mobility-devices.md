@@ -1,6 +1,6 @@
 ---
 title: Mobility Devices
-permalink: /guides/mobility-devices/
+permalink: /topics/mobility-devices/
 published: false
 lead: |-
    Some people with disabilities use mobility devices to get around. A person with a disability has the right to choose the mobility device best suited to their needs.

@@ -9,7 +9,7 @@ alert:
   heading: |-
     Help us improve ADA.gov
   link:
-    href: #
+    href: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit
     text: Share feedback
 
 hero:
@@ -38,13 +38,13 @@ cards:
       Find out how the ADA is structured, and how it protects the rights of people with disabilities.
     image: landing/Intro_ADA-placeholder.png
     alt: Two women at a restaurant with glasses on the table signing to one another
-    href: /guides/intro-to-ada/
+    href: /topics/intro-to-ada/
   - title: Service animals
     description: |-
       Find out how the ADA defines a service animal, where they can go, and how they assist people with disabilities.
     image: landing/Service_animal-placeholder.png
     alt: A woman in a wheelchair with a dog partially on her lap as the dog holds a TV remote in its mouth
-    href: /guides/service-animals/
+    href: /topics/service-animals/
   - title: Parking
     description: |-
       <em>Coming soon!</em>
