@@ -1,0 +1,26 @@
+.crt-page--content {
+  .usa-accordion__heading:not(:first-child),
+  .usa-prose .usa-accordion__heading:not(:first-child) {
+    margin-top: 1rem;
+  }
+
+  .usa-accordion__button {
+    @extend .h4;
+
+    background-color: color($theme-color-primary-lightest);
+    background-image: asset_url("remove--primary.svg");
+    color: color($theme-color-primary-darker);
+
+    &:hover {
+      background-color: color($theme-color-primary-lighter);
+    }
+
+    &[aria-expanded="false"] {
+      background-image: asset_url("add--primary.svg");
+    }
+  }
+
+  .usa-accordion__content {
+    padding: 1.5rem 1.25rem 2.5rem 1.25rem;
+  }
+}
