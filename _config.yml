@@ -115,5 +115,6 @@ assets:
     - source: node_modules/uswds/dist/img/sprite.svg
       strip: node_modules/uswds/dist/
   sources:
+    - node_modules/anchor-js
     - node_modules/gumshoejs/dist
     - node_modules/uswds/dist
