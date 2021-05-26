@@ -18,6 +18,9 @@
 # Be sure to edit the values below
 ##########################################################################################
 
+languages:
+  - en
+
 title: "ADA.gov"
 # url: "https://example.gov" # the base hostname & protocol for your site, e.g. https://example.com.
 # Required to support the jekyll-sitemap plugin below.
