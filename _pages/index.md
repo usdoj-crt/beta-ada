@@ -55,6 +55,7 @@ cards:
       <em>Coming soon!</em>
     image: landing/parking.jpg
     alt: A man in a wheelchair approaching a vehicle with his hand on the door handle
+    position: top
 ---
 
 {% include landing/hero.html hero=page.hero %}
