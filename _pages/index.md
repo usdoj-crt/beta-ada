@@ -41,19 +41,19 @@ cards:
     title_alt: the ADA
     description: |-
       Find out how the ADA is structured, and how it protects the rights of people with disabilities.
-    image: landing/Intro_ADA-placeholder.png
-    alt: Two women at a restaurant with glasses on the table signing to one another
+    image: landing/intro_ada.jpg
+    alt: A teacher and a student sitting at a table signing to one another
     href: /topics/intro-to-ada/
   - title: Service animals
     description: |-
       Find out how the ADA defines a service animal, where they can go, and how they assist people with disabilities.
-    image: landing/Service_animal-placeholder.png
-    alt: A woman in a wheelchair with a dog partially on her lap as the dog holds a TV remote in its mouth
+    image: landing/service_animals.jpg
+    alt: A service animal helps a blind person down the stairs
     href: /topics/service-animals/
   - title: Parking
     description: |-
       <em>Coming soon!</em>
-    image: landing/Parking-placeholder.png
+    image: landing/parking.jpg
     alt: A man in a wheelchair approaching a vehicle with his hand on the door handle
 ---
 
