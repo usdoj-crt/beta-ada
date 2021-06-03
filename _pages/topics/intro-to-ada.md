@@ -71,7 +71,7 @@ The ADA is broken up into five different sections, which are called titles. Diff
 
 **Section of the ADA:** Title I
 
-**Applies to:** employers that have 15 or more employees, including state/local governments, employment agencies, and labor unions. 
+**Applies to:** employers that have 15 or more employees, including state/local governments, employment agencies, and labor unions.
 
 **General requirement:** Employers must provide people with disabilities an equal opportunity to benefit from the employment-related opportunities available to others. This includes things like recruitment, hiring, promotions, training, pay, and social activities.
 
@@ -129,7 +129,7 @@ The ADA contains specific requirements for state and local governments to ensure
 
 **Applies to:**
 
-- Businesses and nonprofits serving the public  
+- Businesses and nonprofits serving the public 
 Examples of businesses and nonprofits include:
   - Restaurants
   - Hotels
