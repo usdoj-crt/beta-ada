@@ -87,6 +87,8 @@ defaults:
       path: ""
       type: "pages"
     values:
+      image:
+        asset: default-card.png
       layout: "page"
       sidenav: true
 
