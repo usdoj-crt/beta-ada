@@ -25,10 +25,8 @@ title: "ADA.gov"
 # custom domains, edit this url parameter in the relevant branch to match the relevant custom domain.
 description: Disability rights are civil rights. From voting to parking, the ADA is a law that protects people with disabilities in many areas of public life.
 
-# Display beta label in header
-beta:
-  display: true
-  text: This is a test site. Do not rely on the information provided.
+# Display beta disclamers
+beta: true
 
 # Digital Analytics Program (DAP) configuration
 dap:

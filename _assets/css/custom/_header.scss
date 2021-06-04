@@ -108,21 +108,10 @@
 
   .crt-landing--logo_subheading {
     @extend .usa-footer__logo-subheading;
-    font-size: $theme-text-font-size-xs;
-    @include at-media-max(mobile-lg) {
-      @include text--body-copy__xsmall();
-    }
   }
 
   .crt-landing--logo_heading {
     @extend .usa-footer__logo-heading;
-    display: block;
-    font-size: $theme-heading-font-size-lg;
-    margin-bottom: 0;
-    margin-top: 0.5rem;
-    @include at-media-max(mobile-lg) {
-      font-size: $theme-heading-font-size-md-mobile;
-    }
   }
 
   .usa-nav.is-visible {

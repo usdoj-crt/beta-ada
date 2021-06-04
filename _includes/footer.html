@@ -1,20 +1,37 @@
 <footer class="usa-footer usa-footer--slim">
   <div class="usa-footer__secondary-section">
     <div class="grid-container usa-footer__logo-section">
-      <div class="usa-footer__logo grid-row grid-gap-2">
+      <div class="usa-footer__logo grid-row grid-gap-1">
         <div class="grid-col-auto">
-          {% asset doj-logo.png height="64" alt="" %}
+          {% asset doj-logo.png alt="" %}
         </div>
         <div class="grid-col-auto">
-          <p class="usa-footer__logo-heading">
-            ADA.gov
-          </p>
+          <div class="display-flex flex-align-center">
+            <p class="usa-footer__logo-heading">
+              ADA.gov
+            </p>
+            {% if site.beta %}
+            <span
+              class="usa-tag bg-warning text-primary-darker text-uppercase margin-left-1"
+              >Beta</span
+            >
+            {% endif %}
+          </div>
           <p class="usa-footer__logo-subheading">
-            U.S. Department of Justice
-          </p>
-          <p class="usa-footer__logo-subheading">
+            U.S. Department of Justice<br />
             Civil Rights Division
-              </p>
+          </p>
+          <a
+            class="usa-button usa-button--outline display-flex flex-align-center"
+            href="https://www.ada.gov"
+          >
+            <svg class="usa-icon margin-right-1" aria-hidden="true" role="img">
+              <use
+                xlink:href="{% asset img/sprite.svg @path %}#arrow_back"
+              ></use>
+            </svg>
+            Back to the main ADA.gov</a
+          >
         </div>
       </div>
     </div>
