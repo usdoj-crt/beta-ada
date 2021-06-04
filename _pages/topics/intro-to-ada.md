@@ -64,7 +64,7 @@ For example, a fitness center could not exclude a person who uses a wheelchair f
 However, a local rec center might only be open to people who live in the surrounding zip code. If the rec center refused access to a person with epilepsy because that person lived in a different zip code, that would not be a violation of the ADA because the rec center would not be discriminating on the basis of the person’s disability.
 {% enddetails %}
 
-The ADA is broken up into five different sections, which are called titles. Different titles set out the requirements for different kinds of organizations. For example, title I of the ADA covers requirements for employers, and title II covers requirements for state and local governments. You can find the relevant title of the ADA noted next to each type of organization below.
+The ADA is broken up into five different sections, which are called titles. Different titles set out the requirements for different kinds of organizations. For example, Title I of the ADA covers requirements for employers, and Title II covers requirements for state and local governments. You can find the relevant title of the ADA noted next to each type of organization below.
 
 {% accordion a %}
 {% collapsible %}
@@ -76,7 +76,7 @@ The ADA is broken up into five different sections, which are called titles. Diff
 
 **General requirement:** Employers must provide people with disabilities an equal opportunity to benefit from the employment-related opportunities available to others. This includes things like recruitment, hiring, promotions, training, pay, and social activities.
 
-The ADA includes specific requirements for employers to ensure that people with disabilities have equal access to employment. Learn about these requirements under the [Equal Employment Opportunity Commission’s guidance for employers](https://www.eeoc.gov/disability-discrimination).
+The ADA includes specific requirements for employers to ensure that people with disabilities have equal access to employment. Learn more about these requirements on the [Equal Employment Opportunity Commission’s guidance for employers](https://www.eeoc.gov/disability-discrimination).
 
 **How to file a complaint:** [File a Charge of Discrimination with the Equal Employment Opportunity Commission](https://www.eeoc.gov/filing-charge-discrimination).
 {% endcollapsible %}
@@ -119,7 +119,7 @@ The ADA contains specific requirements for state and local governments to ensure
 
 **General requirement:** public transit systems must provide people with disabilities an equal opportunity to benefit from their services.
 
-**Note:** Private transit systems are also covered by the ADA. For more information, see the section <a href="#businesses">Businesses that are open to the public</a> below.
+**Note:** Private transit systems are also covered by the ADA. For more information, see the section <a href="#businesses-that-are-open-to-the-public">Businesses that are open to the public</a> below.
 
 **How to file a complaint:** [File a complaint with the U.S. Department of Justice](https://www.ada.gov/filing_complaint.htm) or [with the Federal Transit Administration](https://www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/file-complaint-fta).
 {% endcollapsible %}
@@ -198,7 +198,7 @@ While the ADA applies to certain types of housing (e.g., housing at private and 
 Disability discrimination during air travel is prohibited by the Air Carriers Access Act.
 - If you have a complaint about disability discrimination during air travel: [File a complaint with the Department of Transportation’s Office of Aviation Consumer Protection](https://airconsumer.dot.gov/escomplaint/ConsumerForm.cfm).
 
-Religious organizations are exempt from the requirements of title III of the ADA. For information about how the ADA’s employment obligations apply to religious entities, visit the EEOC’s website. Additionally, religious groups or organizations may still have to comply with state/local building codes or other  laws prohibiting discrimination on the basis of disability.
+Religious organizations are exempt from the requirements of Title III of the ADA. For information about how the ADA’s employment obligations apply to religious entities, visit the EEOC’s website. Additionally, religious groups or organizations may still have to comply with state/local building codes or other  laws prohibiting discrimination on the basis of disability.
 
 ### Federal Agencies’ Roles
 
