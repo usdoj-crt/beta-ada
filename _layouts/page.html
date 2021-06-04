@@ -12,7 +12,6 @@ layout: default
     <div id="crt-page--content" class="tablet:grid-col-8">
       <h1>{{page.title}}</h1>
       <div class="crt-landing--separator_small"></div>
-      {% include alert.html %}
       {% if page.lead %}
         <div class="crt-lead">
           {{page.lead | markdownify}}
