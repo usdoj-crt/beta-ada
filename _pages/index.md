@@ -2,7 +2,6 @@
 permalink: /
 layout: default
 title: The Americans with Disabilities Act
-description: Disability rights are civil rights. From voting to parking, the ADA is a law that protects people with disabilities in many areas of public life.
 
 alert:
   content: |-
