@@ -26,19 +26,53 @@ footer {
   margin-right: 1.5rem;
 }
 
+.usa-footer__logo {
+  align-items: flex-start !important;
+
+  img {
+    height: 60px;
+    @include at-media-max(mobile-lg) {
+      height: 45px;
+    }
+  }
+
+  .usa-button {
+    box-shadow: inset 0 0 0 2px color($theme-color-warning);
+    color: color($theme-color-warning) !important;
+    margin-top: units(3);
+    padding-left: units(2);
+    padding-right: units(2);
+
+    &:hover {
+      box-shadow: inset 0 0 0 2px color($theme-color-warning-dark);
+      color: color($theme-color-warning-dark) !important;
+    }
+  }
+
+  .usa-tag {
+    line-height: 1.15;
+  }
+}
+
 .usa-footer__logo-section {
   margin-top: 1.25rem;
-  margin-bottom: 2.5rem;
+  margin-bottom: 3rem;
 }
 
 .usa-footer__logo-heading {
   @include text--heading__large();
+  display: block;
+  margin-bottom: 0;
+  margin-top: 0.5rem;
+  @include at-media-max(mobile-lg) {
+    font-size: $theme-heading-font-size-md-mobile;
+  }
   font-weight: bold;
   @include u-font-family("serif");
 }
 
 .usa-footer__logo-subheading {
-  @include text--heading__small();
+  @include text--body-copy__xsmall();
   font-weight: bold;
   margin: 0;
   @include u-font-family("serif");

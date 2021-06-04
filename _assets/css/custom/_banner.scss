@@ -3,6 +3,11 @@ body > .usa-banner {
     font-weight: bold;
   }
 
+  .usa-banner__header {
+    padding-bottom: 0;
+    padding-top: units(1);
+  }
+
   .usa-banner__inner {
     max-width: 87rem;
   }

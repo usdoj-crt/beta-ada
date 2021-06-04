@@ -24,10 +24,8 @@ title: "ADA.gov"
 # Uncomment the url line when ready to push to production. If using different branches for multiple
 # custom domains, edit this url parameter in the relevant branch to match the relevant custom domain.
 
-# Display beta label in header
-beta:
-  display: true
-  text: This is a test site. Do not rely on the information provided.
+# Display beta disclamers
+beta: true
 
 # Digital Analytics Program (DAP) configuration
 dap:
