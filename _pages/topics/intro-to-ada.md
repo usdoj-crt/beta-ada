@@ -76,7 +76,7 @@ The ADA is broken up into five different sections, which are called titles. Diff
 
 **General requirement:** Employers must provide people with disabilities an equal opportunity to benefit from the employment-related opportunities available to others. This includes things like recruitment, hiring, promotions, training, pay, and social activities.
 
-The ADA includes specific requirements for employers to ensure that people with disabilities have equal access to employment. Learn about these requirements under the [Equal Employment Opportunity Commission’s guidance for employers](https://www.eeoc.gov/disability-discrimination).
+The ADA includes specific requirements for employers to ensure that people with disabilities have equal access to employment. Learn more about these requirements on the [Equal Employment Opportunity Commission’s guidance for employers](https://www.eeoc.gov/disability-discrimination).
 
 **How to file a complaint:** [File a Charge of Discrimination with the Equal Employment Opportunity Commission](https://www.eeoc.gov/filing-charge-discrimination).
 {% endcollapsible %}
@@ -119,7 +119,7 @@ The ADA contains specific requirements for state and local governments to ensure
 
 **General requirement:** public transit systems must provide people with disabilities an equal opportunity to benefit from their services.
 
-**Note:** Private transit systems are also covered by the ADA. For more information, see the section <a href="#businesses">Businesses that are open to the public</a> below.
+**Note:** Private transit systems are also covered by the ADA. For more information, see the section <a href="#businesses-that-are-open-to-the-public">Businesses that are open to the public</a> below.
 
 **How to file a complaint:** [File a complaint with the U.S. Department of Justice](https://www.ada.gov/filing_complaint.htm) or [with the Federal Transit Administration](https://www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/file-complaint-fta).
 {% endcollapsible %}
