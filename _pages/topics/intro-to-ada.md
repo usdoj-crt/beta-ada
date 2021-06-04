@@ -117,7 +117,7 @@ The ADA contains specific requirements for state and local governments to ensure
 
 **Applies to:** public transit systems.
 
-**General requirement:** public transit systems must provide people with disabilities an equal opportunity to benefit from their services.
+**General requirement:** Public transit systems must provide people with disabilities an equal opportunity to benefit from their services.
 
 **Note:** Private transit systems are also covered by the ADA. For more information, see the section <a href="#businesses-that-are-open-to-the-public">Businesses that are open to the public</a> below.
 
