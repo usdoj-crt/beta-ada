@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: default
-title: Home
+title: The Americans with Disabilities Act
 
 alert:
   content: |-
