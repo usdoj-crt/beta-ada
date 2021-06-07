@@ -40,7 +40,11 @@ google_site_verification: 34Ks265Uibpdda984RS0SxVABVZCdlVrdSp61pIdZQ8
 # Site Navigation
 primary_navigation:
   - name: ADA Topics
-    url: /topics/
+    children:
+      - name: Intro to ADA
+        url: "/topics/intro-to-ada/"
+      - name: Service Animals
+        url: "/topics/service-animals/"
   - name: File a Complaint
     url: https://civilrights.justice.gov/report/
     external: true
