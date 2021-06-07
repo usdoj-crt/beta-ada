@@ -41,7 +41,7 @@ google_site_verification: 34Ks265Uibpdda984RS0SxVABVZCdlVrdSp61pIdZQ8
 primary_navigation:
   - name: ADA Topics
     children:
-      - name: Intro to ADA
+      - name: Introduction to ADA
         url: "/topics/intro-to-ada/"
       - name: Service Animals
         url: "/topics/service-animals/"
