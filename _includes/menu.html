@@ -14,7 +14,7 @@
           <li class="usa-nav__primary-item">
             <a class="crt-landing--menu_link usa-nav__link{% if basedir == linkdir %} usa-current{% endif %}"
               data-text="{{ nav_item.name | escape }}"
-              href="{{ nav_item.url | prepend: site.baseurl}}"><span>{{ nav_item.name | escape }}</span></a>
+              href="{% if nav_item.external %}{{ nav_item.url }}{% else %}{{ nav_item.url | relative_url }}{% endif %}"><span>{{ nav_item.name | escape }}</span></a>
           </li>
           {% else %}
           {% assign nav_id = 'primary-nav-' | append: forloop.index %}
