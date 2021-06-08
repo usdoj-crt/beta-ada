@@ -3,8 +3,8 @@
   padding-bottom: 1rem;
 
   @include at-media(mobile-lg) {
-    padding-top: 1.5rem;
-    padding-bottom: 1.5rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
   }
 
   .grid-container {
@@ -59,7 +59,6 @@
 
     @include at-media(desktop) {
       border-bottom: 1px solid transparent;
-      margin-top: 0.5rem;
       padding: 0.5rem !important;
       align-items: center;
       display: inline-flex !important;
@@ -123,9 +122,15 @@
     @extend .usa-footer__logo-heading;
   }
 
-  .usa-nav.is-visible {
-    background-color: color($theme-color-primary-lightest);
-    color: color($theme-color-primary-darker);
-    @include u-shadow(2);
+  .usa-nav {
+    @include at-media(desktop) {
+      margin-bottom: -1rem;
+    }
+
+    &.is-visible {
+      background-color: color($theme-color-primary-lightest);
+      color: color($theme-color-primary-darker);
+      @include u-shadow(2);
+    }
   }
 }
