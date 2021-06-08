@@ -16,7 +16,7 @@
     display: flex;
     justify-content: space-between;
 
-    padding: 0 1rem 0 6rem;
+    padding: 0.5rem 1rem 0.5rem 6rem;
 
     @include at-media-max(desktop) {
       padding: 0 1rem;
@@ -60,7 +60,7 @@
     @include at-media(desktop) {
       border-bottom: 1px solid transparent;
       margin-top: 0.5rem;
-      padding: 0.5rem 0 !important;
+      padding: 0.5rem !important;
       align-items: center;
       display: inline-flex !important;
       flex-direction: column;
@@ -79,6 +79,15 @@
 
         @media speech {
           display: none;
+        }
+      }
+
+      &.usa-accordion__button {
+        background-position: right 0.25rem center;
+
+        &[aria-expanded="true"] {
+          color: color("white") !important;
+          font-weight: bold !important;
         }
       }
 
