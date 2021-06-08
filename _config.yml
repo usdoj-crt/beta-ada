@@ -25,6 +25,10 @@ title: "Beta.ADA.gov"
 # custom domains, edit this url parameter in the relevant branch to match the relevant custom domain.
 description: Disability rights are civil rights. From voting to parking, the ADA is a law that protects people with disabilities in many areas of public life.
 
+contact:
+  tollfree: 800-514-0301
+  tty: 800-514-0383
+
 # Display beta disclamers
 beta: true
 

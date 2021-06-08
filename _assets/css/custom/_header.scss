@@ -127,6 +127,10 @@
       margin-bottom: -1rem;
     }
 
+    @include at-media-max(desktop) {
+      width: 18rem;
+    }
+
     &.is-visible {
       background-color: color($theme-color-primary-lightest);
       color: color($theme-color-primary-darker);

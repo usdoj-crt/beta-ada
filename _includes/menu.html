@@ -6,7 +6,7 @@
     <div role="navigation" class="usa-nav" aria-label="Primary navigation">
       <div class="usa-nav__inner">
         <button class="usa-nav__close">{% asset img/usa-icons/close.svg alt="close" %}</button>
-        <ul class="usa-nav__primary usa-accordion">
+        <ul class="usa-nav__primary usa-accordion margin-bottom-1">
           {% for nav_item in include.primary_navigation %}
           {% unless nav_item.children %}
           {% assign basedir = page.url | remove_first: '/' | split: '/' | first | lstrip %}
@@ -29,11 +29,21 @@
               </li>
               {% endfor %}
             </ul>
-
           </li>
           {% endunless %}
           {% endfor %}
         </ul>
+        <div
+          class="display-flex desktop:display-none flex-align-start padding-left-6 padding-right-3 bg-primary-lighter margin-x-neg-3 padding-y-3 line-height-sans-5"
+        >
+          {% asset ic_phone-circle.svg class="margin-right-1" alt="phone" %}
+          <div class="">
+            <span class="display-block margin-bottom-05 text-bold">Questions about the ADA?</span>
+            Talk to us at<br />
+            {{ site.contact.tollfree }}<br />
+            {{ site.contact.tty }} (TTY)
+          </div>
+        </div>
       </div>
     </div>
   </div>
