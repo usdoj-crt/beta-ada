@@ -1004,8 +1004,6 @@ lead: |-
 <p class="margin-left-5">(ii) within a shorter period as prescribed by the regulations of such State; or</p>
 <p class="margin-left-4">(B) the Commission determines that such State program is no longer qualified for certification under subsection (f) of this section.</p>
 
-## TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
-### CHAPTER 5 - WIRE OR RADIO COMMUNICATION
 #### SUBCHAPTER VI - MISCELLANEOUS PROVISIONS
 ##### Sec. 611. Closed-captioning of public service announcements
 <p class="margin-left-1">Any television public service announcement that is produced or funded in whole or in part by any agency or instrumentality of Federal Government shall include closed captioning of the verbal content of such announcement. A television broadcast station licensee</p>
