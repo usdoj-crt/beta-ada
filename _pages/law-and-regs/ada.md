@@ -436,8 +436,8 @@ lead: |-
 ##### Sec. 12150. Interim accessibility requirements
 <p class="margin-left-1">If final regulations have not been issued pursuant to section 12149 of this title, for new construction or alterations for which a valid and appropriate State or local building permit is obtained prior to the issuance of final regulations under such section, and for which the construction or alteration authorized by such permit begins within one year of the receipt of such permit and is completed under the terms of such permit, compliance with the Uniform Federal Accessibility Standards in effect at the time the building permit is issued shall suffice to satisfy the requirement that facilities be readily accessible to and usable by persons with disabilities as required under sections 12146 and 12147 of this title, except that, if such final regulations have not been issued one year after the Architectural and Transportation Barriers Compliance Board has issued the supplemental minimum guidelines required under section 12204(a) of this title, compliance with such supplemental minimum guidelines shall be necessary to satisfy the requirement that facilities be readily accessible to and usable by persons with disabilities prior to issuance of the final regulations.</p>
 
-## Subpart II - Public Transportation by Intercity and Commuter Rail
-### Sec. 12161. Definitions
+### Subpart II - Public Transportation by Intercity and Commuter Rail
+#### Sec. 12161. Definitions
 <p class="margin-left-1"> As used in this subpart:</p>
 <p class="margin-left-4"> (1) Commuter authority</p>
 <p class="margin-left-4">The term "commuter authority" has the meaning given such term in section 24102(4) of title 49.</p>
@@ -455,7 +455,7 @@ lead: |-
 <p class="margin-left-4"> (6) Station</p>
 <p class="margin-left-4">The term "station" means the portion of a property located appurtenant to a right-of-way on which intercity or commuter rail transportation is operated, where such portion is used by the general public and is related to the provision of such transportation, including passenger platforms, designated waiting areas, ticketing areas, restrooms, and, where a public entity providing rail transportation owns the property, concession areas, to the extent that such public entity exercises control over the selection, design, construction, or alteration of the property, but such term does not include flag stops.</p>
 
-### Sec. 12162. Intercity and commuter rail actions considered discriminatory
+#### Sec. 12162. Intercity and commuter rail actions considered discriminatory
 <p class="margin-left-2"> <a name="12162a" id="12162a"></a>(a) Intercity rail transportation</p>
 <p class="margin-left-4"> (1) One car per train rule</p>
 <p class="margin-left-4">It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a person who provides intercity rail transportation to fail to have at least one passenger car per train that is readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, in accordance with regulations issued under section 12164 of this title, as soon as practicable, but in no event later than 5 years after July 26, 1990.</p>
@@ -544,13 +544,13 @@ lead: |-
 <p class="margin-left-4"> (C) Required cooperation</p>
 <p class="margin-left-4">It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for an owner, or person in control, of a station governed by subparagraph (a) or (b) to fail to provide reasonable cooperation to a responsible person with respect to such station in that responsible person's efforts to comply with such subparagraph. An owner, or person in control, of a station shall be liable to a responsible person for any failure to provide reasonable cooperation as required by this subparagraph. Failure to receive reasonable cooperation required by this subparagraph shall not be a defense to a claim of discrimination under this chapter.</p>
 
-### Sec. 12163. Conformance of accessibility standards
+#### Sec. 12163. Conformance of accessibility standards
 <p class="margin-left-1">Accessibility standards included in regulations issued under this subpart shall be consistent with the minimum guidelines issued by the Architectural and Transportation Barriers Compliance Board under section 504(a) of this title.</p>
 
-### Sec. 12164. Regulations
+#### Sec. 12164. Regulations
 <p class="margin-left-1">Not later than 1 year after July 26, 1990, the Secretary of Transportation shall issue regulations, in an accessible format, necessary for carrying out this subpart.</p>
 
-### Sec. 12165. Interim accessibility requirements
+#### Sec. 12165. Interim accessibility requirements
 <p class="margin-left-2"> <a name="12165a" id="12165a"></a>(a) Stations</p>
 <p class="margin-left-2">If final regulations have not been issued pursuant to section 12164 of this title, for new construction or alterations for which a valid and appropriate State or local building permit is obtained prior to the issuance of final regulations under such section, and for which the construction or alteration authorized by such permit begins within one year of the receipt of such permit and is completed under the terms of such permit, compliance with the Uniform Federal Accessibility Standards in effect at the time the building permit is issued shall suffice to satisfy the requirement that stations be readily accessible to and usable by persons with disabilities as required under section 12162(e) of this title, except that, if such final regulations have not been issued one year after the Architectural and Transportation Barriers Compliance Board has issued the supplemental minimum guidelines required under section 12204(a) of this title, compliance with such supplemental minimum guidelines shall be necessary to satisfy the requirement that stations be readily accessible to and usable by persons with disabilities prior to issuance of the final regulations.</p>
 <p class="margin-left-2"> <a name="12165b" id="12165b"></a>(b) Rail passenger cars</p>
