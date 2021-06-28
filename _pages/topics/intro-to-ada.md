@@ -130,7 +130,7 @@ The ADA contains specific requirements for state and local governments to ensure
 
 **Applies to:**
 
-- Businesses and nonprofits serving the public
+- Businesses and nonprofits serving the public.<br>
 Examples of businesses and nonprofits include:
   - Restaurants
   - Hotels
@@ -142,14 +142,14 @@ Examples of businesses and nonprofits include:
   - Gyms
   - Organizations offering courses or examinations
 
-- Privately operated transit  
+- Privately operated transit.  
 Examples of privately operated transit include:
   - Taxis
   - Intercity and charter buses
   - Hotel shuttles
   - Airport shuttles
 
-- Commercial facilities (need only comply with requirements of the [ADA Standards for Accessible Design](https://www.ada.gov/2010ADAstandards_index.htm))  
+- Commercial facilities (need only comply with requirements of the [ADA Standards for Accessible Design](https://www.ada.gov/2010ADAstandards_index.htm)).  
 Examples of commercial facilities include:
   - Office buildings
   - Warehouses
