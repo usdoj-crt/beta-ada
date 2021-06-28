@@ -130,7 +130,7 @@ The ADA contains specific requirements for state and local governments to ensure
 
 **Applies to:**
 
-- Businesses and nonprofits serving the public.<br>
+- Businesses and nonprofits serving the public.  
 Examples of businesses and nonprofits include:
   - Restaurants
   - Hotels
