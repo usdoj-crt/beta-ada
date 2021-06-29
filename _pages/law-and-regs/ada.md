@@ -305,7 +305,7 @@ lead: |-
 <p class="margin-left-4"> (6) Secretary</p>
 <p class="margin-left-4"> The term "Secretary" means the Secretary of Transportation.</p>
 
-##### Sec. 12142. Public entities operating fixed route systems</p>
+##### Sec. 12142. Public entities operating fixed route systems
 <p class="margin-left-2"> <a name="12142a" id="12142a"></a>(a) Purchase and lease of new vehicles</p>
 <p class="margin-left-2">It shall be considered discrimination for purposes of section which operates a fixed route system to purchase or lease a new bus, a new rapid rail vehicle, a new light rail vehicle, or any other new vehicle to be used on such system, if the solicitation for such purchase or lease is made after the 30th day following July 26, 1990, and if such bus, rail vehicle, or other vehicle is not readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs.</p>
 <p class="margin-left-2"> <a name="12142b" id="12142b"></a>(b) Purchase and lease of used vehicles</p>
