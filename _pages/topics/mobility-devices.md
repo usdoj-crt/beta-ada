@@ -2,7 +2,6 @@
 title: Mobility Devices
 description: Some people with disabilities use mobility devices to get around, such as walkers, wheelchairs, or other power-driven devices. A person with a disability has the right to choose the mobility device best suited to their needs. The ADA has different requirements depending on the type of mobility device being used.
 permalink: /topics/mobility-devices/
-published: false
 lead: |-
    Some people with disabilities use mobility devices to get around. A person with a disability has the right to choose the mobility device best suited to their needs.
 

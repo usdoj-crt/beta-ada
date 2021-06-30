@@ -35,10 +35,7 @@ history:
   link:
     href: #
     text: Learn more ADA history
-
----
-
-{% include landing/hero.html hero=page.hero %}
+---{% include landing/hero.html hero=page.hero %}
 
 {% include landing/alert.html alert=page.alert %}
 
