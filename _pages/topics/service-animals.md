@@ -6,6 +6,13 @@ lead: |-
   The ADA explains what businesses and state/local governments must do to make sure that they do not discriminate against a member of the public with a disability who uses a service animal.
 
   Generally, businesses and non-profits that are open to the public as well as state/local governments must allow service animals to go most places where the public can go. This is true even if they have a "no pets" policy.
+card:
+  title: Service animals
+  description: |-
+    Find out how the ADA defines a service animal, where they can go, and how they assist people with disabilities.
+  image: landing/service_animals.jpg
+  alt: A service animal helps a blind person down the stairs
+  href: /topics/service-animals/
 ---
 
 ## About Service Animals

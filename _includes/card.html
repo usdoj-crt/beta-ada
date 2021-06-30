@@ -1,25 +1,25 @@
 <li class="tablet:grid-col-4 usa-card">
   <div class="usa-card__container">
     <header class="usa-card__header">
-      <h3 class="usa-card__heading">{{ include.card.title }}</h3>
+      <h3 class="usa-card__heading">{{ include.card.card.title }}</h3>
     </header>
     <div class="usa-card__media">
       <div
-        class="usa-card__img height-card-lg {% unless include.card.href%}opacity-40{% endunless %}"
+        class="usa-card__img height-card-lg {% unless include.card.card.href%}opacity-40{% endunless %}"
       >
-        {% asset '{{ include.card.image }}' alt='{{ include.card.alt }}' style='object-position: center {{ include.card.position | default: "center" }}' %}
+        {% asset '{{ include.card.card.image }}' alt='{{ include.card.card.alt }}' style='object-position: center {{ include.card.card.position | default: "center" }}' %}
       </div>
     </div>
     <div class="usa-card__body">
       <p>
-        {{ include.card.description }}
+        {{ include.card.card.description }}
       </p>
     </div>
     <div class="usa-card__footer">
-      {% if include.card.href %}
+      {% if include.card.card.href %}
       <a
-        href="{{ include.card.href | relative_url }}"
-        aria-label="Learn more about {{include.card.title_alt | default:include.card.title}}"
+        href="{{ include.card.card.href | relative_url }}"
+        aria-label="Learn more about {{include.card.card.title_alt | default:include.card.card.title}}"
         >Learn more</a
       >
       {% endif %}
