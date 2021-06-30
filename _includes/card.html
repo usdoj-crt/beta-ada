@@ -1,7 +1,11 @@
 <li class="tablet:grid-col-4 usa-card">
   <div class="usa-card__container">
     <header class="usa-card__header">
+      {% if include.heading_level == 2 %}
+      <h2 class="usa-card__heading">{{ include.card.card.title }}</h2>
+      {% else %}
       <h3 class="usa-card__heading">{{ include.card.card.title }}</h3>
+      {% endif %}
     </header>
     <div class="usa-card__media">
       <div
