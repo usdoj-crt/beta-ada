@@ -65,9 +65,16 @@
                 {% asset phone.svg class="icon" alt="phone" %}
               </div>
               <div id="phone-footer" class="usa-footer__links">
-                <p><a href="tel:{{ site.contact.tollfree }}">{{ site.contact.tollfree }}</a></p>
                 <p>
-                  <a href="tel:{{ site.contact.tty }}">{{ site.contact.tty }}</a> (TTY)
+                  <a href="tel:{{ site.contact.tollfree }}"
+                    >{{ site.contact.tollfree }}</a
+                  >
+                </p>
+                <p>
+                  <a href="tel:{{ site.contact.tty }}"
+                    >{{ site.contact.tty }}</a
+                  >
+                  (TTY)
                 </p>
               </div>
             </div>
@@ -139,7 +146,13 @@
             Image attribution
           </div>
           <div class="usa-footer__attribution-names">
-            <p><a href="https://affecttheverb.com/disabledandhere/">Disabled And Here photo collection</a></p>
+            <p>
+              <a
+                class="external-link--popup"
+                href="https://affecttheverb.com/disabledandhere/"
+                >Disabled And Here photo collection</a
+              >
+            </p>
           </div>
         </div>
       </div>
