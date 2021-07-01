@@ -1,0 +1,20 @@
+@media print {
+  * {
+    color: #000 !important;
+  }
+  #crt-page--content {
+    width: 100% !important;
+  }
+  .usa-accordion__content {
+    border-bottom: 1px solid color($theme-color-base-darker);
+    display: block !important;
+  }
+  footer,
+  .usa-banner,
+  .usa-skipnav,
+  .crt-menu--section,
+  #crt-page--sidenav,
+  #fba-button {
+    display: none;
+  }
+}
