@@ -1,6 +1,8 @@
 //= require js/uswds.min.js
 //= require gumshoe.polyfills.min.js
 //= require anchor.min.js
+//= require ./modal.js
+//= require ./redirect-modal.js
 
 var anchors = new AnchorJS();
 anchors.add(
