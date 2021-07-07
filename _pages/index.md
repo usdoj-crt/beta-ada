@@ -36,33 +36,15 @@ history:
     href: #
     text: Learn more ADA history
 
-cards:
-  - title: Introduction to the ADA
-    title_alt: the ADA
-    description: |-
-      Find out how the ADA is structured, and how it protects the rights of people with disabilities.
-    image: landing/intro_ada.jpg
-    alt: A teacher and a student sitting at a table signing to one another
-    href: /topics/intro-to-ada/
-  - title: Service animals
-    description: |-
-      Find out how the ADA defines a service animal, where they can go, and how they assist people with disabilities.
-    image: landing/service_animals.jpg
-    alt: A service animal helps a blind person down the stairs
-    href: /topics/service-animals/
-  - title: Parking
-    description: |-
-      <em>Coming soon!</em>
-    image: landing/parking.jpg
-    alt: A man in a wheelchair approaching a vehicle with his hand on the door handle
-    position: top
 ---
 
 {% include landing/hero.html hero=page.hero %}
 
 {% include landing/alert.html alert=page.alert %}
 
-{% include landing/understand.html cards=page.cards %}
+{% assign pages = site.pages | where_exp:"item","item.permalink contains '/topics/' and item.name != 'index.md'" %}
+{% assign cards = pages | concat: site.data.cards %}
+{% include landing/understand.html cards=cards %}
 
 {% include landing/history.html history=page.history %}
 

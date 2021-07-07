@@ -46,11 +46,7 @@ primary_navigation:
   - name: Home
     url: "/"
   - name: ADA Topics
-    children:
-      - name: Introduction to ADA
-        url: "/topics/intro-to-ada/"
-      - name: Service Animals
-        url: "/topics/service-animals/"
+    url: "/topics/"
   - name: File a Complaint
     url: https://civilrights.justice.gov/report/
     external: true
