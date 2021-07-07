@@ -1,6 +1,16 @@
+@page {
+  size: auto;
+  margin: 20mm;
+}
+
 @media print {
-  * {
-    color: #000 !important;
+  *:not(svg, use, path, [class*="usa-icon"]) {
+    -webkit-print-color-adjust: exact;
+    color: #000;
+    background: #fff;
+  }
+  body {
+    margin: 0px;
   }
   #crt-page--content {
     width: 100% !important;
