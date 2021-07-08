@@ -1,6 +1,5 @@
 ---
 permalink: /search/
-layout: default
 title: Search
 sitemap: false
 sidenav: false
@@ -66,7 +65,8 @@ sidenav: false
 </script>
 
 {% if site.searchgov %}
-<ol id="search-results"></ol>
+
+<ol id="search-results" class="add-list-reset"></ol>
 {% else %}
 <script>
   window.location = "/";
