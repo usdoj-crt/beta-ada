@@ -1009,5 +1009,3 @@ lead: |-
 <p class="margin-left-1">Any television public service announcement that is produced or funded in whole or in part by any agency or instrumentality of Federal Government shall include closed captioning of the verbal content of such announcement. A television broadcast station licensee</p>
 <p class="margin-left-4">(1) shall not be required to supply closed captioning for any such announcement that fails to include it; and</p>
 <p class="margin-left-4">(2) shall not be liable for broadcasting any such announcement without transmitting a closed caption unless the licensee intentionally fails to transmit the closed caption that was included with the announcement.</p>
-
-<p align="left" class="style1">Last updated June 15, 2009</p>
