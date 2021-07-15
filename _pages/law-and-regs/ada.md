@@ -841,7 +841,7 @@ lead: |-
 ### Sec. 12205. Attorney's fees
 <p class="margin-left-1">In any action or administrative proceeding commenced pursuant to this chapter, the court or agency, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney's fee, including litigation expenses, and costs, and the United States shall be liable for the foregoing the same as a private individual. </p>
 
-  <p class="margin-left-1"><a name="12205a" id="12205a"></a>Sec. 12205a. Rule of Construction Regarding Regulatory Authority</p>
+### Sec. 12205a. Rule of Construction Regarding Regulatory Authority
 <p class="margin-left-1">The authority to issue regulations granted to the Equal Employment Opportunity Commission, the Attorney General, and the Secretary of Transportation under this chapter includes the authority to issue regulations implementing the definitions of disability in section 12102 (including rules of construction) and the definitions in section 12103, consistent with the ADA Amendments Act of 2008.</p>
 
 ### Sec. 12206. Technical assistance
