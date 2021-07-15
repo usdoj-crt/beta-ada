@@ -78,6 +78,9 @@ searchgov:
   # this renders the results within the page instead of sending to user to search.gov
   inline: true
 
+  # how many results to display per pages
+  limit: 20
+
 ##########################################################################################
 # The values below here are more advanced and should only be
 # changed if you know what they do
