@@ -1,5 +1,5 @@
 ---
-title: Filing an ADA Complaint
+title: Filing a Complaint
 description: The Americans with Disabilities Act provides an important tool to fight discrimination:  filing a complaint with an appropriate federal agency.  This page outlines the steps to get you started.
 permalink: /topics/filing-complaint/
 published: false
@@ -34,7 +34,7 @@ The nature of your complaint determines where you should file it.  The table bel
 
 Note that if you are filing with the Department of Justice, you may also file:
 
-- By mail by sending the completed ADA complaint form, or a letter containing the same information, to:
+- **By mail** by sending the completed [ADA complaint form](http://www.ada.gov/t2cmpfrm.htm), or a letter containing the same information, to:
 
 U.S. Department of Justice
 Civil Rights Division
@@ -42,6 +42,8 @@ Civil Rights Division
 4CON, 9th Floor
 Washington, DC 20530
 
-- By faxing the completed ADA complaint form, or a letter containing the same information, to: (202) 307-1197
+- **By faxing** the completed [ADA complaint form](http://www.ada.gov/t2cmpfrm.htm), or a letter containing the same information, to: (202) 307-1197
 
 Whichever method you use, remember to keep a copy of your complaint and the original documents for your own records.
+
+If you'd like more information, our answers to common questions is a good place to look.
