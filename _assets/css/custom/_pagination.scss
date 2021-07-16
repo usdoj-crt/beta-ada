@@ -1,0 +1,5 @@
+.usa-pagination__link[disabled] {
+  color: color($theme-color-base);
+  opacity: 1 !important;
+  pointer-events: none;
+}

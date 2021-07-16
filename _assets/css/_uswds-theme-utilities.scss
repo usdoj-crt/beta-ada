@@ -46,7 +46,7 @@ $theme-utility-breakpoints: (
   // 1024px:
     "desktop": true,
   // 1200px:
-    "desktop-lg": false,
+    "desktop-lg": true,
   // 1400px:
     "widescreen": false
 );
@@ -559,7 +559,7 @@ $vertical-align-settings: (
 
 $whitespace-settings: (
   output: true,
-  responsive: false,
+  responsive: true,
   active: false,
   focus: false,
   hover: false,

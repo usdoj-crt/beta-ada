@@ -53,6 +53,7 @@ primary_navigation:
   - name: Give Us Feedback
     url: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit
     external: true
+    classes: display-none desktop-lg:display-block
 
 # Configuration for Touchpoints
 touchpoints:
@@ -69,13 +70,16 @@ searchgov:
   endpoint: https://search.usa.gov
 
   # replace this with your search.gov account
-  affiliate: justice-ada
+  affiliate: justice-ada-beta
 
   # replace with your access key
-  access_key: xX1gtb2RcnLbIYkHAcB6IaTRr4ZfN-p16ofcyUebeko=
+  access_key: R9JA5YunOBaTGydUNm-oJjGCqKQ-zXsulsNskJVe5-c=
 
   # this renders the results within the page instead of sending to user to search.gov
   inline: true
+
+  # how many results to display per pages
+  limit: 20
 
 ##########################################################################################
 # The values below here are more advanced and should only be

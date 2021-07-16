@@ -1,22 +1,53 @@
-{% comment %} 
-  This will redirect the results to /search template which will handle the js loading
-{% endcomment %}
-
 {% if include.searchgov %}
-  {% if include.searchgov.inline == true %}
-    <form id="search_form" class="usa-search usa-search--small" action="{{site.baseurl}}/search/" accept-charset="UTF-8" method="get">
-  {% else %}
-    <form id="search_form" class="usa-search usa-search--small" action="{{include.searchgov.endpoint}}/search" accept-charset="UTF-8" method="get">
-  {% endif %}
-    
-  
+<script>
+//<![CDATA[
+      var usasearch_config = { siteHandle:"{{include.searchgov.affiliate}}" };
+
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+      script.src = "//search.usa.gov/javascripts/remote.loader.js";
+      document.getElementsByTagName("head")[0].appendChild(script);
+
+//]]>
+</script>
+{% if include.searchgov.inline == true %}
+<form
+  id="search_form"
+  class="usa-search usa-search--small margin-bottom-1"
+  action="{{site.baseurl}}/search/"
+  accept-charset="UTF-8"
+  method="get"
+  role="search"
+>
+{% else %}
+<form
+  id="search_form"
+  class="usa-search usa-search--small margin-bottom-1"
+  action="{{include.searchgov.endpoint}}/search"
+  accept-charset="UTF-8"
+  method="get"
+  role="search"
+>
+{% endif %}
     <input name="utf8" type="hidden" value="&#x2713;" />
-    <input name="affiliate" type="hidden" value="{{include.searchgov.affiliate}}" />
-  
-    <div role="search">
-      <label class="usa-sr-only" for="extended-search-field-small">Search small</label>
-      <input class="usa-input usagov-search-autocomplete" id="extended-search-field-small" type="search" name="query" autocomplete="off">
-      <button class="usa-button" type="submit"><span class="usa-sr-only">Search</span></button>
-    </div>
+    <input
+      name="affiliate"
+      type="hidden"
+      id="affiliate"
+      value="{{include.searchgov.affiliate}}"
+    />
+    <label class="usa-sr-only" for="query"
+      >Search {{site.title}}</label
+    >
+    <input
+      class="usa-input radius-left-lg usagov-search-autocomplete"
+      id="query"
+      type="search"
+      name="query"
+      autocomplete="off"
+    />
+    <button class="usa-button bg-primary-darker radius-right-lg" type="submit">
+      <span class="usa-sr-only">Search</span>
+    </button>
   </form>
 {% endif %}
