@@ -25,7 +25,7 @@ If you believe that you or someone else was discriminated against based on a dis
 
 The nature of your complaint determines where you should file it. The table below tells you where to file your complaint.
 
-| Type of Complaint                                              | Where to file online                                                                                                                              |
+| Type of Complaint                                              | Where to File Online                                                                                                                              |
 | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Employment (including issues at work or in applying for a job) | [Equal Employment Opportunity Commission](http://www.eeoc.gov/filing-charge-discrimination)                                                       |
 | Air travel (including airlines and airports)                   | [Department of Transportation](http://www.transportation.gov/airconsumer/complaints-alleging-discriminatory-treatment-against-disabled-travelers) |
