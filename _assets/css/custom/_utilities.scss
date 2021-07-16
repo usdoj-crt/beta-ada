@@ -22,7 +22,3 @@
 .grid-gap-xl {
   @include grid-gap(6);
 }
-
-[hidden] {
-  display: none !important;
-}
