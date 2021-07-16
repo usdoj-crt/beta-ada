@@ -1,0 +1,5 @@
+// Override USWDS mixin to use jekyll-assets asset_url()
+
+.usa-hero {
+  background-image: asset_url("#{$theme-hero-image}");
+}

@@ -1,0 +1,23 @@
+// Override USWDS mixin to use jekyll-assets asset_url()
+
+@mixin external-link(
+  $external-link,
+  $external-link-hover,
+  $image-path: $theme-image-path
+) {
+  &::after {
+    $icon-size: 0.65em;
+    background-image: asset_url("#{$image-path}/#{$external-link}.svg");
+    background-position: 50% 60%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    content: "";
+    display: inline;
+    margin-left: units(2px);
+    padding-left: $icon-size;
+  }
+
+  &:hover::after {
+    @include add-background-svg("#{$external-link-hover}", $image-path);
+  }
+}
