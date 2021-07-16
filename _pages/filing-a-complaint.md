@@ -10,7 +10,7 @@ lead: |-
 
 If you believe that you or someone else was discriminated against based on a disability, you can file an Americans with Disabilities Act (ADA) complaint against:
 
-- a state government or local government, including:
+- a state government or local government, such as:
   - public hospitals
   - public schools
   - other state or local government programs
