@@ -10,6 +10,7 @@ lead: |-
 ## Who You Can File a Complaint Against
 
 If you believe that you or someone else was discriminated against based on a disability, you can file an Americans with Disabilities Act (ADA) complaint against:
+
 - a state government or local government, including:
   - public hospitals
   - public schools
@@ -27,10 +28,9 @@ The nature of your complaint determines where you should file it.  The table bel
 
 | Type of Complaint | Where to file online |
 | ----------------- | -------------------- |
-| Employment (including issues at work or in applying for a job) | Equal Employment Opportunity Commission |
-| Air travel (including airlines and airports) | Department of Transportation |
-| Other | Department of Justice, Civil Rights Division |
-
+| Employment (including issues at work or in applying for a job) | [Equal Employment Opportunity Commission](http://www.eeoc.gov/filing-charge-discrimination) |
+| Air travel (including airlines and airports) | [Department of Transportation](http://www.transportation.gov/airconsumer/complaints-alleging-discriminatory-treatment-against-disabled-travelers) |
+| Other | [Department of Justice, Civil Rights Division](https://civilrights.justice.gov/report/) |
 
 Note that if you are filing with the Department of Justice, you may also file:
 
