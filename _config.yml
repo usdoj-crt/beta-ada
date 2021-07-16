@@ -48,8 +48,7 @@ primary_navigation:
   - name: ADA Topics
     url: "/topics/"
   - name: File a Complaint
-    url: https://civilrights.justice.gov/report/
-    external: true
+    url: "/filing-a-complaint/"
   - name: Give Us Feedback
     url: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit
     external: true
