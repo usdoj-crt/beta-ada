@@ -26,41 +26,62 @@ sidenav: false
     .then(function(res) {
       return res.json();
     })
-    .then(function(posts) {
-      for (item in posts.web.results) {
-        render_result(
-          `
-          <li class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
-            <b class="title"><a href="${posts.web.results[item]["url"]}">${
-            posts.web.results[item]["title"]
+    .then(function(res) {
+      if (res.text_best_bets.length) {
+        res.text_best_bets.forEach(function(item) {
+          render_result(
+            `
+              <li class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
+                <b class="title"><a href="${item.url}">${item.title
               .replace(/\uE000/g, '<span class="bg-yellow">')
-              .replace(/\uE001/g, "</span>")
-          }</a></b>
-            <div class="text-base"> ${posts.web.results[item]["url"]} </div>
-            <div> ${posts.web.results[item]["snippet"]
-              .replace(/\uE000/g, '<span class="bg-yellow">')
-              .replace(/\uE001/g, "</span>")} </div>
-          </li>
-          `,
-          true
-        );
+              .replace(/\uE001/g, "</span>")}</a></b>
+                <div class="text-base"> ${item.url} </div>
+                <div> ${item.description
+                  .replace(/\uE000/g, '<span class="bg-yellow">')
+                  .replace(/\uE001/g, "</span>")} </div>
+              </li>
+              `,
+            true
+          );
+        });
       }
-      return posts.web;
+      return res;
     })
-    .then(function(posts) {
+    .then(function(res) {
+      if (res.web.results.length) {
+        res.web.results.forEach(function(item) {
+          render_result(
+            `
+              <li class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
+                <b class="title"><a href="${item.url}">${item.title
+              .replace(/\uE000/g, '<span class="bg-yellow">')
+              .replace(/\uE001/g, "</span>")}</a></b>
+                <div class="text-base"> ${item.url} </div>
+                <div> ${item.snippet
+                  .replace(/\uE000/g, '<span class="bg-yellow">')
+                  .replace(/\uE001/g, "</span>")} </div>
+              </li>
+              `,
+            true
+          );
+        });
+      }
+      return res;
+    })
+    .then(function(res) {
       var prevLink = document.querySelector(".usa-pagination__previous-page");
       var nextLink = document.querySelector(".usa-pagination__next-page");
       var currentOffset = urlParams.get("offset");
 
       if (currentOffset > 0) {
-        urlParams.set("offset", currentOffset - params.limit);
+        urlParams.set("offset", currentOffset - {{site.searchgov.limit}});
         prevLink.href = `?${urlParams.toString()}`;
       } else {
         prevLink.setAttribute("disabled", "true");
       }
 
-      if (posts.next_offset) {
-        urlParams.set("offset", posts.next_offset);
+      if (res.web.next_offset) {
+        urlParams.set("offset", res.web.next_offset);
         nextLink.href = `?${urlParams.toString()}`;
       } else {
         nextLink.setAttribute("disabled", "true");
