@@ -7,7 +7,7 @@ lead: |-
 
   Generally, businesses and non-profits that are open to the public as well as state/local governments must allow service animals to go most places where the public can go. This is true even if they have a "no pets" policy.
 card:
-  title: Service animals
+  title: Service Animals
   description: |-
     Find out how the ADA defines a service animal, where they can go, and how they assist people with disabilities.
   image: landing/service_animals.jpg
