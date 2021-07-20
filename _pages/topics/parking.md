@@ -7,6 +7,14 @@ lead: |-
   When state or local governments, businesses and non-profit organizations provide customer or employee parking in parking lots or garages, accessible parking spaces complying with the Americans with Disabilities Act (ADA) must be provided.
 
   Accessible parking spaces are different than traditional parking spaces. They have specific features that make it easier for people with disabilities to access your programs, goods or services.
+card:
+  title: Parking
+  description: |-
+    Find out how the ADA requires businesses, non-profits, and state/local governments to provide accessible parking spaces.
+  image: landing/parking.jpg
+  alt: A man in a wheelchair approaching a vehicle with his hand on the door handle
+  position: top
+  href: /topics/parking/
 ---
 
 ## Features
@@ -150,16 +158,19 @@ Where parking spaces are limited to four or fewer spaces:
 ### Parking at Hospital Facilities
 
 #### Hospital Outpatient Facilities
+
 {% list error %}
 {% list_item %}Ten percent of patient and visitor parking must be accessible.{% endlist_item %}
 {% endlist %}
 
 #### Rehabilitation Facilities
+
 {% list error %}
 {% list_item %}Twenty percent of patient and visitor parking must be accessible.{% endlist_item %}
 {% endlist %}
 
 #### Outpatient Physical Therapy Facilities
+
 {% list error %}
 {% list_item %}Twenty percent of patient and visitor parking must be accessible.{% endlist_item %}
 {% endlist %}

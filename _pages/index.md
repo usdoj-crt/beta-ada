@@ -35,13 +35,14 @@ history:
   link:
     href: #
     text: Learn more ADA history
----{% include landing/hero.html hero=page.hero %}
+
+---
+
+{% include landing/hero.html hero=page.hero %}
 
 {% include landing/alert.html alert=page.alert %}
 
-{% assign pages = site.pages | where_exp:"item","item.permalink contains '/topics/' and item.name != 'index.md'" %}
-{% assign cards = pages | concat: site.data.cards %}
-{% include landing/understand.html cards=cards %}
+{% include landing/understand.html %}
 
 {% include landing/history.html history=page.history %}
 
