@@ -8,6 +8,7 @@ lead: |-
   In the ADA, these mobility devices fall into two main categories:
   1. Wheelchairs (manual or power-driven) and manual devices
   2. Other power-driven mobility devices (OPDMDs)
+disclaimer: true
 card:
   title: Mobility Devices
   description: |-

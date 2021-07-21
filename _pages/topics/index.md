@@ -2,7 +2,6 @@
 permalink: /topics/
 title: ADA Topics
 sidenav: false
-show_card: false
 lead: |-
   Information for businesses, state and local governments, and people with disabilities.
 ---
