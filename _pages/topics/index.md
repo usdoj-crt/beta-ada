@@ -8,11 +8,15 @@ lead: |-
 ---
 
 {% assign pages = site.pages | where_exp:"item","item.permalink contains '/topics/' and item.name != 'index.md'" %}
-
 {% assign cards = pages %}
 {% if site.data.cards.first %}
 {% assign cards = cards | concat: site.data.cards %}
 {% endif %}
+
+{% assign featured = cards | where_exp:"item","item.featured" | sort:"weight" %}
+{% assign cards = cards | where_exp:"item","item.featured != true" | sort %}
+
+{% assign cards = featured | concat: cards %}
 
 <div class="grid-row grid-gap">
   <ul class="usa-card-group">
