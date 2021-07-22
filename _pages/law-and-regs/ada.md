@@ -223,7 +223,7 @@ lead: |-
 
 ### Sec. 12114. Illegal use of drugs and alcohol
 <p class="margin-left-2"> <a name="12114a" id="12114a"></a>(a) Qualified individual with a disability</p>
-<p class="margin-left-2">For purposes of this subchapter,  qualified individual with a disability shall not include any employee or applicant who is currently engaging in the illegal use of drugs, when the covered entity acts on the basis of such use.</p>
+<p class="margin-left-2">For purposes of this subchapter, a qualified individual with a disability shall not include any employee or applicant who is currently engaging in the illegal use of drugs, when the covered entity acts on the basis of such use.</p>
 <p class="margin-left-2"> <a name="12114b" id="12114b"></a>(b) Rules of construction</p>
 <p class="margin-left-2">Nothing in subsection (a) of this section shall be construed to exclude as a qualified individual with a disability an individual who</p>
 <p class="margin-left-4">(1) has successfully completed a supervised drug rehabilitation program and is no longer engaging in the illegal use of drugs, or has otherwise been rehabilitated successfully and is no longer engaging in such use;</p>
