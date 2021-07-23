@@ -1,6 +1,6 @@
 ---
 permalink: /topics/
-title: How the ADA Works
+title: ADA Topics
 sidenav: false
 show_card: false
 lead: |-
