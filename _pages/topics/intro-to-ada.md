@@ -8,7 +8,7 @@ card:
   title: Introduction to the ADA
   title_alt: the ADA
   description: |-
-    How the ADA is structured, and how it protects the rights of people with disabilities.
+    How the ADA is structured, and how it protects the rights of people with disabilities
   image: landing/intro_ada.jpg
   alt: A teacher and a student sitting at a table signing to one another
   href: /topics/intro-to-ada/
