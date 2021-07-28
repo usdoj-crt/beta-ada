@@ -9,7 +9,7 @@ lead: |-
 card:
   title: Service Animals
   description: |-
-    Find out how the ADA defines a service animal, where they can go, and how they assist people with disabilities.
+    The definition of a service animal, where they can go, and how they assist people with disabilities
   image: landing/service_animals.jpg
   alt: A service animal helps a blind person down the stairs
   href: /topics/service-animals/
