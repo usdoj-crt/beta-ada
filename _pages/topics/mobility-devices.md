@@ -58,8 +58,11 @@ Businesses and government facilities must consider the following factors when de
 
 {% details More about *legitimate safety requirements* %}
 Businesses and governments can impose legitimate safety requirements for operating the OPDMD within a facility.
+
 For example, a cruise ship may decide that people with disabilities using Segways®  can generally be accommodated, except in constricted areas, such as passageways to cabins that are very narrow and have low ceilings.
+
 Safety requirements must be based on actual risks, not on speculation or stereotypes about a particular type of device or how it might be operated by people with disabilities using them.
+
 Learn more in ADA Requirements: [Other Power-Driven Mobility Devices (OPDMDs)](http://www.ada.gov/opdmd.htm)
 {% enddetails %}
 
