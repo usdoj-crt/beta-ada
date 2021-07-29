@@ -52,7 +52,7 @@ Businesses and government facilities must consider the following factors when de
   - Square footage
   - Furniture placement and density
   - OPDMD storage availability
-- Legitimate safety requirements for operating the OPDMD
+- *Legitimate safety requirements* for operating the OPDMD
 - Risk of serious harm to environmental, natural, or cultural resources
 - Conflicts with federal land management requirements
 
