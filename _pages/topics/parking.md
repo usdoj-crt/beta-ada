@@ -163,7 +163,8 @@ The chart below shows the number of accessible spaces required by the [2010 ADA 
 Where parking spaces are limited to four or fewer spaces:
 
 {% list check_circle %}
-{% list_item %}One van accessible parking space must be provided{% endlist_item %}
+{% list_item %}One van accessible parking space must be provided{% endlist_item %}{%endlist %}
+{% list_item cancel %}
 {% list_item %}A sign identifying the accessible space is not required{% endlist_item %}
 {% endlist %}
 
