@@ -56,7 +56,7 @@ Businesses and government facilities must consider the following factors when de
 - Risk of serious harm to environmental, natural, or cultural resources
 - Conflicts with federal land management requirements
 
-{% details More about *legitimate safety requirements* %}
+{% details More about <em>legitimate safety requirements</em> %}
 Businesses and governments can impose legitimate safety requirements for operating the OPDMD within a facility.
 
 For example, a cruise ship may decide that people with disabilities using Segways®  can generally be accommodated, except in constricted areas, such as passageways to cabins that are very narrow and have low ceilings.
