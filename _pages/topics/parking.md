@@ -164,8 +164,7 @@ Where parking spaces are limited to four or fewer spaces:
 
 {% list check_circle %}
 {% list_item %}One van accessible parking space must be provided{% endlist_item %}
-{% list_item %}A sign identifying the accessible space{% endlist_item %}
-{% list_item cancel %}is not required{% endlist_item %}
+{% list_item %}A sign identifying the accessible space is not required{% endlist_item %}
 {% endlist %}
 
 {% asset project-images/limited-spaces.png alt="Front of a convenience store with four parking spaces, one parking space is a van-accessible space" %}
