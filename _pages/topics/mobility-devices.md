@@ -12,8 +12,8 @@ card:
   title: Mobility Devices
   description: |-
     Find out how the ADA supports those who use walkers, wheelchairs, and other power-driven devices to get around.
-  alt: A man in a wheelchair approaching a vehicle with his hand on the door handle
-  position: top
+  image: landing/mobility-devices.jpg
+  alt: 
   href: /topics/mobility-devices/
 ---
 
