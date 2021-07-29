@@ -1,3 +1,10 @@
+{% assign pages = site.pages | where_exp:"item","item.permalink contains '/topics/' and item.featured" %}
+{% assign cards = pages %}
+{% if site.data.cards.first %}
+{% assign cards = cards | concat: site.data.cards %}
+{% endif %}
+{% assign cards = cards | sort:"weight" %}
+
 <div class="crt-landing--section crt-lightblue" markdown="0">
   <div class="grid-container">
     <div class="grid-row grid-gap">
@@ -17,7 +24,7 @@
             add more soon.
           </p>
           <ul class="usa-card-group">
-            {% for card in include.cards limit:3 %}
+            {% for card in cards limit:3 %}
               {% include card.html card=card %}
             {% endfor %}
           </ul>

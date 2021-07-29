@@ -8,11 +8,18 @@ lead: |-
    In the ADA, these mobility devices fall into two main categories:
    1. Wheelchairs (manual or power-driven) and manually powered devices
    2. Other power-driven mobility devices (OPDMDs)
+card:
+  title: Mobility Devices
+  description: |-
+    Find out how the ADA supports those who use walkers, wheelchairs, and other power-driven devices to get around.
+  alt: A man in a wheelchair approaching a vehicle with his hand on the door handle
+  position: top
+  href: /topics/mobility-devices/
 ---
 
 ## Basic Requirements
 
-**State/local governments and businesses** must allow a person with a disability who uses a *wheelchair or other manually powered mobility aid* into all areas where members of the public are allowed to go.
+**State/local governments and businesses** must allow a person with a disability who uses a _wheelchair or other manually powered mobility aid_ into all areas where members of the public are allowed to go.
 
 **A person with a disability** who uses an OPDMD must be allowed to enter businesses and government facilities unless it can be shown that a particular type of device cannot be safely used.
 
@@ -70,16 +77,16 @@ You must accept any of these types of credible assurance:
 - A valid, state-issued disability parking placard
 - Other state-issued proof of disability
 - A statement from the person that the OPDMD is used because of a disability, unless the person is observed doing something that contradicts this statement
-{% endlist_item %}
-{% list_item cancel %}
-You may not ask about the nature or extent of someone’s disability. This is also true if someone is using a wheelchair or other manual mobility aid.
-{% endlist_item %}
-{% endlist %}
+  {% endlist_item %}
+  {% list_item cancel %}
+  You may not ask about the nature or extent of someone’s disability. This is also true if someone is using a wheelchair or other manual mobility aid.
+  {% endlist_item %}
+  {% endlist %}
 
 ## Learn more about the ADA and Mobility Devices
 
-[ADA Requirements:  Other Power-Driven Mobility Devices (OPDMDs)](https://www.ada.gov/opdmd.htm)
+[ADA Requirements: Other Power-Driven Mobility Devices (OPDMDs)](https://www.ada.gov/opdmd.htm)
 
-[ADA Update:  A Primer for Small Business](https://www.ada.gov/regs2010/smallbusiness/smallbusprimer2010.htm)
+[ADA Update: A Primer for Small Business](https://www.ada.gov/regs2010/smallbusiness/smallbusprimer2010.htm)
 
-[ADA Update:  A Primer for State and Local Governments](https://www.ada.gov/regs2010/titleII_2010/title_ii_primer.html)
+[ADA Update: A Primer for State and Local Governments](https://www.ada.gov/regs2010/titleII_2010/title_ii_primer.html)
