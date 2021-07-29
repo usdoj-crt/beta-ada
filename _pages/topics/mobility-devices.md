@@ -1,13 +1,12 @@
 ---
 title: Mobility Devices
-description: Some people with disabilities use mobility devices to get around, such as walkers, wheelchairs, or other power-driven devices. A person with a disability has the right to choose the mobility device best suited to their needs. The ADA has different requirements depending on the type of mobility device being used.
+description: Some people with disabilities use mobility devices to get around, such as walkers, wheelchairs, or other power-driven devices. People with disabilities may use a variety of mobility devices based on their needs.
 permalink: /topics/mobility-devices/
-published: false
 lead: |-
-   Some people with disabilities use mobility devices to get around. A person with a disability has the right to choose the mobility device best suited to their needs.
+   Some people with disabilities use mobility devices to get around, such as walkers, wheelchairs, or other power-driven devices. People with disabilities may use a variety of mobility devices based on their needs.
 
    In the ADA, these mobility devices fall into two main categories:
-   1. Wheelchairs (manual or power-driven) and manual devices
+   1. Wheelchairs (manual or power-driven) and manually powered devices
    2. Other power-driven mobility devices (OPDMDs)
 ---
 
@@ -19,9 +18,9 @@ lead: |-
 
 ## Wheelchairs and Manually Powered Devices
 
-Wheelchairs are manually operated or power-driven devices used mostly by people have a disability that impacts their ability to get around.
+Wheelchairs are manually operated or power-driven devices designed primarily for people with disabilities to get around.
 
-Manually powered mobility aids include:
+Manually powered devices also include:
 
 - Walkers
 - Canes
@@ -31,11 +30,7 @@ Manually powered mobility aids include:
 
 ## Other Power-Driven Mobility Devices
 
-An “other power-driven mobility device” (OPDMD) is any mobility device:
-1. Not typically designed for people who have disabilities
-
-2. Powered by batteries, fuel, or other engines
-These include:
+An “other power-driven mobility device” (OPDMD) is any mobility device powered by batteries, fuel, or other engines that may be used by people with disabilities to get around.  OPDMDs include:
 - Golf carts
 - Electronic personal assistance mobility devices (EPAMDs) such as Segways®
 - Other devices designed to operate in areas without defined public routes, such as all-terrain vehicles (ATVs)
