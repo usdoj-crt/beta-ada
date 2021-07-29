@@ -13,7 +13,7 @@ card:
   description: |-
     Find out how the ADA supports those who use walkers, wheelchairs, and other power-driven devices to get around.
   image: landing/mobility-devices.jpg
-  alt: 
+  alt:
   href: /topics/mobility-devices/
 ---
 
@@ -33,7 +33,6 @@ Manually powered devices also include:
 - Canes
 - Crutches
 - Braces
-- Wheelchairs
 
 ## Other Power-Driven Mobility Devices
 
@@ -44,11 +43,11 @@ An “other power-driven mobility device” (OPDMD) is any mobility device power
 
 ### Factors to Consider
 
-Businesses and government offices must consider the following factors when deciding whether an OPDMD can be used:
+Businesses and government facilities must consider the following factors when deciding whether an OPDMD can be used:
 
 - Type, size, weight, dimensions and speed of the device
 - Pedestrian traffic in the facility
-- Design and operational characteristics of the facility
+- Design and operational characteristics of the facility, which can include:
   - Indoor or outdoor facility
   - Square footage
   - Furniture placement and density
