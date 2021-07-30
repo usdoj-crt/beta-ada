@@ -13,7 +13,7 @@ card:
   description: |-
     Find out how the ADA supports those who use walkers, wheelchairs, and other power-driven devices to get around.
   image: landing/mobility-devices.jpg
-  alt:
+  alt: A person wearing red shoes operates a power wheelchair
   href: /topics/mobility-devices/
 ---
 
