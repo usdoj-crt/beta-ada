@@ -98,6 +98,8 @@ sidenav: false
         );
       } else {
         document.getElementById("pagination-nav").removeAttribute("hidden");
+        var target = document.querySelector('#top');
+        target.insertAdjacentHTML('afterend', '<div class=" text-base">Sorted by most relevant</div>');
       }
     });
 
