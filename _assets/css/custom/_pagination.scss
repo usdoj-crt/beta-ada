@@ -3,3 +3,7 @@
   opacity: 1 !important;
   pointer-events: none;
 }
+
+.usa-pagination[hidden] {
+  display: none !important;
+}
