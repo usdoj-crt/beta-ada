@@ -99,6 +99,7 @@ defaults:
         asset: default-card.png
       layout: "page"
       sidenav: true
+      weight: 9999
 
 include:
   - _pages
