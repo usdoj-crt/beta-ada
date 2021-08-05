@@ -22,17 +22,3 @@
 .grid-gap-xl {
   @include grid-gap(6);
 }
-
-// Custom margin additions
-
-.margin-left-12 {
-  margin-left: 6.5rem;
-}
-
-.margin-left-16 {
-  margin-left: 8rem;
-}
-
-.margin-left-20 {
-  margin-left: 10rem;
-}
