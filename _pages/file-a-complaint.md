@@ -28,7 +28,7 @@ The nature of your complaint determines where you should file it. The table belo
 | Type of Complaint                                              | Where to File Online                                                                                                                              |
 | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Employment (including issues at work or in applying for a job) | [Equal Employment Opportunity Commission](http://www.eeoc.gov/filing-charge-discrimination)                                                       |
-| Air travel (including airlines and airports)                   | [Department of Transportation](http://www.transportation.gov/airconsumer/complaints-alleging-discriminatory-treatment-against-disabled-travelers) |
+| Air travel (airlines)                   | [Department of Transportation](http://www.transportation.gov/airconsumer/complaints-alleging-discriminatory-treatment-against-disabled-travelers) |
 | Other                                                          | [Department of Justice, Civil Rights Division](https://civilrights.justice.gov/report/)                                                           |
 
 Note that if you are filing with the Department of Justice, you may also file:

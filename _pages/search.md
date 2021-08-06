@@ -100,6 +100,9 @@ sidenav: false
           `<li class="h4" style="list-style: none">No results found</li>`,
           false
         );
+      } else {
+        var target = document.querySelector('#top');
+        target.insertAdjacentHTML('afterend', '<div class=" text-base">Sorted by most relevant</div>');
       }
     });
 
