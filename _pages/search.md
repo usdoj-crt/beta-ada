@@ -73,18 +73,22 @@ sidenav: false
       var nextLink = document.querySelector(".usa-pagination__next-page");
       var currentOffset = urlParams.get("offset");
 
-      if (currentOffset > 0) {
-        urlParams.set("offset", currentOffset - {{site.searchgov.limit}});
-        prevLink.href = `?${urlParams.toString()}`;
-      } else {
-        prevLink.setAttribute("disabled", "true");
-      }
+      if (res.web.total > {{site.searchgov.limit}}) {
+        document.getElementById("pagination-nav").removeAttribute("hidden");
 
-      if (res.web.next_offset) {
-        urlParams.set("offset", res.web.next_offset);
-        nextLink.href = `?${urlParams.toString()}`;
-      } else {
-        nextLink.setAttribute("disabled", "true");
+        if (currentOffset > 0) {
+          urlParams.set("offset", currentOffset - {{site.searchgov.limit}});
+          prevLink.href = `?${urlParams.toString()}`;
+        } else {
+          prevLink.setAttribute("disabled", "true");
+        }
+
+        if (res.web.next_offset) {
+          urlParams.set("offset", res.web.next_offset);
+          nextLink.href = `?${urlParams.toString()}`;
+        } else {
+          nextLink.setAttribute("disabled", "true");
+        }
       }
     })
     .catch(function(ex) {
@@ -96,8 +100,6 @@ sidenav: false
           `<li class="h4" style="list-style: none">No results found</li>`,
           false
         );
-      } else {
-        document.getElementById("pagination-nav").removeAttribute("hidden");
       }
     });
 
