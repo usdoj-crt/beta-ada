@@ -1,25 +1,18 @@
 .crt-landing--header {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-
-  @include at-media(mobile-lg) {
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-  }
-
-  .grid-container {
-    padding: 0;
-    margin: 0;
-  }
+  // padding-top: 1rem;
+  // padding-bottom: 1rem;
+  //
+  // @include at-media(mobile-lg) {
+  //   padding-top: 2rem;
+  //   padding-bottom: 2rem;
+  // }
 
   .crt-landing--header_section {
     display: flex;
-    justify-content: space-between;
+    padding: 1rem 0;
 
-    padding: 0.5rem 1rem 0.5rem 6rem;
-
-    @include at-media-max(desktop) {
-      padding: 0 1rem;
+    @include at-media(mobile-lg) {
+      padding: 2.5rem 0;
     }
   }
 
@@ -98,6 +91,9 @@
   }
 
   .crt-landing--logo_section {
+    margin: 0;
+    padding: 0;
+
     a {
       text-decoration: none;
 
