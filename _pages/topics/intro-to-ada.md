@@ -205,7 +205,7 @@ While the ADA applies to certain types of housing (e.g., housing at private and 
 - If you have a complaint about disability discrimination under the Fair Housing Act: [File a complaint with the Department of Housing and Urban Development](https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint).
 
 Disability discrimination during air travel is prohibited by the Air Carriers Access Act.
-- If you have a complaint about disability discrimination during air travel: [File a complaint with the Department of Transportation’s Office of Aviation Consumer Protection](https://airconsumer.dot.gov/escomplaint/ConsumerForm.cfm).
+- If you have a complaint about disability discrimination during air travel: [File a complaint with the Department of Transportation’s Office of Aviation Consumer Protection](https://www.transportation.gov/airconsumer/complaints-alleging-discriminatory-treatment-against-disabled-travelers).
 
 Religious organizations are exempt from the requirements of Title III of the ADA. For information about how the ADA’s employment obligations apply to religious entities, visit the EEOC’s website. Additionally, religious groups or organizations may still have to comply with state/local building codes or other  laws prohibiting discrimination on the basis of disability.
 
