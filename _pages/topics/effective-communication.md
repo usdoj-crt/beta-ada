@@ -62,12 +62,14 @@ Other solutions may be needed where the information being communicated is more e
 <tbody>
 <tr>
 <th scope="row">A person who is deaf or has hearing loss is attending a town or council meeting.</th>
-<td>Effective communication could require:
+<td markdown="1">
+Effective communication could require:
 
 - sign language interpreter or
 - real time captioning
 
-This will depend on whether the person uses sign language.</td>
+This will depend on whether the person uses sign language.
+</td>
 
 </tr>
 <tr>
