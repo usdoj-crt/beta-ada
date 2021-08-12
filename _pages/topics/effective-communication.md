@@ -6,18 +6,19 @@ lead: |-
   Communicating successfully is essential to providing services to the public or doing business. People with certain disabilities might communicate in different ways.
 
   State/local governments, businesses, and nonprofit organizations must make sure they communicate effectively with people who have communication disabilities.
+
+  Because the nature of communication differs from situation to situation, effective solutions may differ too. For example, buying a car is more complex than buying dinner and requires different solutions.
+
+  The goal is to find a solution that fits the circumstances.
 card:
   title: Effective Communication
   description: |-
     People with certain disabilities might communicate in different ways.
-  image: landing/mobility-devices.jpg
+  image: landing/effective_communication.jpg
   alt: ""
   href: /topics/effective-communication/
 ---
 
-Because the nature of communication differs from situation to situation, effective solutions may differ too. For example, buying a car is more complex than buying dinner and requires different solutions.
-
-The goal is to find a solution that fits the circumstances.
 
 ## Examples of Communication Aids and Services
 
@@ -117,9 +118,7 @@ You may not require a person with a disability to bring their own interpreter. A
 
 ## Sometimes a Specific Communication Aid or Service is Not Required
 
-- Businesses and state/local governments are not required to provide aids and
-  services if providing them would place an “undue burden” on the business or
-  government.
+Businesses and state/local governments are not required to provide aids and services if providing them would place an “undue burden” on the business or government.
 
 {% details More about what undue burden means %}
 An undue burden is a significant difficulty or expense. Whether an undue burden
