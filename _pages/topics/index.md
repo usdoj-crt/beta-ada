@@ -13,7 +13,7 @@ lead: |-
 {% endif %}
 
 {% assign featured = cards | where_exp:"item","item.featured" | sort:"weight" %}
-{% assign cards = cards | where_exp:"item","item.featured != true" | sort %}
+{% assign cards = cards | where_exp:"item","item.featured != true" | sort:"title" %}
 
 {% assign cards = featured | concat: cards %}
 
