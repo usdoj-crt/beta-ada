@@ -15,7 +15,7 @@ card:
   description: |-
     People with certain disabilities might communicate in different ways.
   image: landing/effective_communication.jpg
-  alt: ""
+  alt: "Hands hover over a braille display"
   href: /topics/effective-communication/
 ---
 
