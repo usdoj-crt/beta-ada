@@ -43,20 +43,27 @@ google_site_verification: 34Ks265Uibpdda984RS0SxVABVZCdlVrdSp61pIdZQ8
 
 # Site Navigation
 primary_navigation:
-  - name: Home
+  - name:
+      en: Home
+      es: Casa
     url: "/"
-  - name: ADA Topics
+  - name:
+      en: ADA Topics
+      es: Temas de la ADA
     url: "/topics/"
-  - name: File a Complaint
+  - name:
+      en: File a Complaint
+      es: Presentar una queja
     url: "/file-a-complaint/"
-  - name: Give Us Feedback
+  - name:
+      en: Give Us Feedback
+      es: Danos su opinión
     url: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit
     external: true
     classes: display-none desktop-lg:display-block
 
 # Configuration for Touchpoints
 touchpoints:
-  name: How can we improve this site?
   url: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit
 
 # Search.gov configuration
@@ -101,6 +108,11 @@ defaults:
       sidenav: true
       weight: 9999
       featured: false
+
+languages: ["en", "es"]
+default_lang: "en"
+exclude_from_localization: ["assets"]
+parallel_localization: true
 
 include:
   - _pages

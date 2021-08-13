@@ -1,3 +1,5 @@
+{% assign lang = site.active_lang %}
+
 <footer class="usa-footer usa-footer--slim">
   <div class="usa-footer__secondary-section">
     <div class="grid-container usa-footer__logo-section">
@@ -30,7 +32,7 @@
                 xlink:href="{% asset img/sprite.svg @path %}#arrow_back"
               ></use>
             </svg>
-            Back to the main ADA.gov</a
+            {{site.data["i18n"].links.back_legacy}}</a
           >
         </div>
       </div>
@@ -42,7 +44,7 @@
             id="contact-footer"
             class="usa-footer__heading usa-footer__logo-heading"
           >
-            Contact
+            {{site.data["i18n"].headings.contact}}
             <div class="usa-footer__separator"></div>
           </div>
 
@@ -85,20 +87,20 @@
 
         <div class="tablet:grid-col-6 grid-col-12">
           <div class="usa-footer__heading usa-footer__logo-heading">
-            Links
+            {{site.data["i18n"].headings.links}}
             <div class="usa-footer__separator"></div>
           </div>
 
           <div class="grid-row grid-gap">
             <div class="tablet:grid-col-6 grid-col-12 usa-footer__links">
               <a href="https://www.justice.gov/crt/about">
-                About the division
+                {{site.data["i18n"].links.about}}
               </a>
               <a href="{{ '/file-a-complaint/' | relative_url }}">
-                File a complaint
+                {{site.data["i18n"].links.file_complaint}}
               </a>
               <a href="https://www.justice.gov/doj/privacy-policy">
-                Privacy policy
+                {{site.data["i18n"].links.privacy}}
               </a>
               <a href="https://www.justice.gov/crt/freedom-information-act-0">
                 FOIA
@@ -106,7 +108,7 @@
               <a
                 href="https://www.justice.gov/accessibility/accessibility-information"
               >
-                Accessibility
+                {{site.data["i18n"].links.a11y}}
               </a>
               <a href="https://www.justice.gov">
                 justice.gov
@@ -118,13 +120,13 @@
                 Justice.gov/CRT
               </a>
               <a href="https://oig.justice.gov/">
-                Office of Inspector General
+                {{site.data["i18n"].links.oig}}
               </a>
               <a href="https://www.justice.gov/doj/budget-and-performance">
-                Budget and performance
+                {{site.data["i18n"].links.budget}}
               </a>
               <a href="https://www.justice.gov/legalpolicies">
-                Legal policies and Disclaimers
+                {{site.data["i18n"].links.legal}}
               </a>
               <a href="https://www.usa.gov/">
                 USA.gov
@@ -143,7 +145,7 @@
       <div class="grid-row">
         <div class="grid-col-12">
           <div class="usa-footer__logo-subheading">
-            Image attribution
+            {{site.data["i18n"].headings.attribution}}
           </div>
           <div class="usa-footer__attribution-names">
             <p>

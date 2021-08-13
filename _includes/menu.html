@@ -1,3 +1,5 @@
+{% assign lang = site.active_lang %}
+
 <div class="crt-menu--section grid-col-auto">
   <div class="usa-nav-container usa-header--basic">
     <div class="crt-menu--navbar">
@@ -15,9 +17,9 @@
         <li class="usa-nav__primary-item desktop:text-no-wrap {{ nav_item.classes }}">
           <a
             class="crt-landing--menu_link usa-nav__link{% if basedir == linkdir %} usa-current{% endif %}"
-            data-text="{{ nav_item.name | escape }}"
+            data-text="{{ nav_item.name[lang] | escape }}"
             href="{% if nav_item.external %}{{ nav_item.url }}{% else %}{{ nav_item.url | relative_url }}{% endif %}"
-            ><span>{{ nav_item.name | escape }}</span></a
+            ><span>{{ nav_item.name[lang] | escape }}</span></a
           >
         </li>
         {% else %} {% assign nav_id = 'primary-nav-' | append: forloop.index %}
@@ -25,16 +27,16 @@
           <button
             class="crt-landing--menu_link usa-accordion__button usa-nav__link"
             aria-expanded="false"
-            data-text="{{ nav_item.name | escape }}"
+            data-text="{{ nav_item.name[lang] | escape }}"
             aria-controls="{{ nav_id }}"
           >
-            <span>{{ nav_item.name | escape }}</span>
+            <span>{{ nav_item.name[lang] | escape }}</span>
           </button>
           <ul id="{{ nav_id }}" class="usa-nav__submenu">
             {% for subnav_item in nav_item.children %}
             <li class="usa-nav__submenu-item">
               <a href="{{ subnav_item.url | prepend: site.baseurl }}"
-                >{{ subnav_item.name | escape }}</a
+                >{{ subnav_item.name[lang] | escape }}</a
               >
             </li>
             {% endfor %}
@@ -49,9 +51,9 @@
         {% asset ic_phone-circle.svg class="margin-right-1" alt="phone" %}
         <div>
           <span class="display-block margin-bottom-05 text-bold"
-            >Questions about the ADA?</span
+            >{{site.data["i18n"].hotline.heading}}</span
           >
-          Talk to us at<br />
+          {{site.data["i18n"].hotline.content}}<br />
           {{ site.contact.tollfree }}<br />
           {{ site.contact.tty }} (TTY)
         </div>

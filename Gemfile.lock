@@ -58,6 +58,8 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 2.0)
+    jekyll-polyglot (1.5.0)
+      jekyll (>= 3.0)
     jekyll-redirect-from (0.16.0)
       jekyll (>= 3.3, < 5.0)
     jekyll-sanity (1.6.0)
@@ -118,6 +120,7 @@ DEPENDENCIES
   autoprefixer-rails
   jekyll (~> 4.0)
   jekyll-assets!
+  jekyll-polyglot
   jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap

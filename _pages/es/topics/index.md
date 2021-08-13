@@ -1,8 +1,9 @@
 ---
 permalink: /topics/
-title: ADA Topics
+lang: es
+title: Temas de la ADA
 sidenav: false
-lead: Information for businesses, state and local governments, and people with disabilities.
+lead: Información para empresas, gobiernos estatales y locales y personas con discapacidades.
 ---
 
 {% assign pages = site.pages | where_exp:"item","item.permalink contains '/topics/' and item.name != 'index.md'" %}
