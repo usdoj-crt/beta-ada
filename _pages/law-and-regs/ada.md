@@ -5,7 +5,7 @@ layout: page
 lead: |-
     Editor's Note:
 
-    Following is the current text of the Americans with Disabilities Act of 1990 (ADA), including changes made by the ADA Amendments Act of 2008 (P.L. 110-325), which became effective on January 1, 2009. The ADA was originally enacted in public law format and later rearranged and published in the United States Code. The United States Code is divided into titles and chapters that classify laws according to their subject matter. Titles I, II, III, and V of the original law are codified in Title 42, chapter 126, of the United States Code beginning at section 12101. Title IV of the original law is codified in Title 47, chapter 5, of the United States Code. Since this codification resulted in changes in the numbering system, the Table of Contents provides the section numbers of the ADA as originally enacted in brackets after the codified section numbers and headings.
+    Here is the text of the Americans with Disabilities Act of 1990 (ADA), including changes made by the ADA Amendments Act of 2008. Congress passed the ADA as a “Public Law,” and it originally was in a different format than presented here. To make the law more widely available, the ADA was later reformatted and published in volume 42 (called “title 42”) of the United States Code. One small part of the ADA is found in title 47 of the United States Code. The text below mirrors the law as it is found in the U.S. Code. Because the numbering system is different in the U.S. Code, the headings provide in brackets the title numbers of the ADA as originally enacted.
 ---
 
 ## Title 42 - The Public Health and Welfare
@@ -98,7 +98,7 @@ lead: |-
 <p class="margin-left-1">The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands of the United States, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands. <br>
 </p>
 
-## Subchapter I - Employment
+## Subchapter I - Employment <span class="font-serif-lg">[Title I]</span>
 ### Sec. 12111. Definitions
 
 <p class="margin-left-1"> As used in this subchapter:</p>
@@ -262,7 +262,7 @@ lead: |-
 <p class="margin-left-4"> <a name="12117b" id="12117b"></a>(b) Coordination</p>
 <p class="margin-left-4">The agencies with enforcement authority for actions which allege employment discrimination under this subchapter and under the Rehabilitation Act of 1973 [29 U.S.C. 701 et seq.] shall develop procedures to ensure that administrative complaints filed under this subchapter and under the Rehabilitation Act of 1973 are dealt with in a manner that avoids duplication of effort and prevents imposition of inconsistent or conflicting standards for the same requirements under this subchapter and the Rehabilitation Act of 1973. The Commission, the Attorney General, and the Office of Federal Contract Compliance Programs shall establish such coordinating mechanisms (similar to provisions contained in the joint regulations promulgated by the Commission and the Attorney General at part 42 of title 28 and part 1691 of title 29, Code of Federal Regulations, and the Memorandum of Understanding between the Commission and the Office of Federal Contract Compliance Programs dated January 16, 1981 (46 Fed. Reg. 7435, January 23, 1981)) in regulations implementing this subchapter and Rehabilitation Act of 1973 not later than 18 months after July 26, 1990.</p>
 
-## Subchapter II - Public Services
+## Subchapter II - Public Services <span class="font-serif-lg">[Title II]</span>
 ### Part A - Prohibition Against Discrimination and Other Generally Applicable Provisions
 #### Sec. 12131. Definitions
 <p class="margin-left-1"> As used in this subchapter:</p>
@@ -556,7 +556,7 @@ lead: |-
 <p class="margin-left-4"> <a name="12165b" id="12165b"></a>(b) Rail passenger cars</p>
 <p class="margin-left-4">If final regulations have not been issued pursuant to section 12164 of this title, a person shall be considered to have complied with the requirements of section 12162(a) through (d) of this title that a rail passenger car be readily accessible to and usable by individuals with disabilities, if the design for such car complies with the laws and regulations (including the Minimum Guidelines and Requirements for Accessible Design and such supplemental minimum guidelines as are issued under section 12204(a) of this title) governing accessibility of such cars, to the extent that such laws and regulations are not inconsistent with this subpart and are in effect at the time such design is substantially completed.</p>
 
-## Subchapter III - Public Accommodations and Services by Private Entities
+## Subchapter III - Public Accommodations and Services by Private Entities <span class="font-serif-lg">[Title III]</span>
 ### Sec. 12181. Definitions
 <p class="margin-left-1"> As used in this subchapter:</p>
 <p class="margin-left-8"> (1) Commerce</p>
