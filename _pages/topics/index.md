@@ -3,7 +3,7 @@ permalink: /topics/
 title: ADA Topics
 sidenav: false
 lead: |-
-  Information for businesses, state and local governments, and people with disabilities.
+  Information for people with disabilities, state and local governments, and businesses
 ---
 
 {% assign pages = site.pages | where_exp:"item","item.permalink contains '/topics/' and item.name != 'index.md'" %}
