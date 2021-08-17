@@ -1,9 +1,4 @@
-{% assign pages = site.pages | where_exp:"item","item.permalink contains '/topics/' and item.featured" %}
-{% assign cards = pages %}
-{% if site.data.cards.first %}
-{% assign cards = cards | concat: site.data.cards %}
-{% endif %}
-{% assign cards = cards | sort:"weight" %}
+{% assign cards = site.pages | where_exp:"item","item.permalink contains '/topics/' and item.featured" | sort:"weight" | reverse %}
 
 <div class="crt-landing--section crt-lightblue" markdown="0">
   <div class="grid-container">
