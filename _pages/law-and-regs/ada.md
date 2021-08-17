@@ -789,7 +789,7 @@ lead: |-
 ### Sec. 12189. Examinations and courses
 <p class="margin-left-1">Any person that offers examinations or courses related to applications, licensing, certification, or credentialing for secondary or postsecondary education, professional, or trade purposes shall offer such examinations or courses in a place and manner accessible to persons with disabilities or offer alternative accessible arrangements for such individuals.</p>
 
-## Subchapter IV - Miscellaneous Provisions
+## Subchapter IV - Miscellaneous Provisions <span class="font-serif-lg">[Title V]</span>
 ### Sec. 12201. Construction
 <p class="margin-left-4"> <a name="12201a" id="12201a"></a>(a) In general</p>
 <p class="margin-left-4">Except as otherwise provided in this chapter, nothing in this chapter shall be construed to apply a lesser standard than the standards applied under title V of the Rehabilitation Act of 1973 (29 U.S.C. 790 et seq.) or the regulations issued by Federal agencies pursuant to such title.</p>
