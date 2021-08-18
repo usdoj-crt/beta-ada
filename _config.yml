@@ -45,7 +45,7 @@ google_site_verification: 34Ks265Uibpdda984RS0SxVABVZCdlVrdSp61pIdZQ8
 primary_navigation:
   - name: Home
     url: "/"
-  - name: ADA Topics
+  - name: Topics
     url: "/topics/"
   - name: File a Complaint
     url: "/file-a-complaint/"
