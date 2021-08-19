@@ -1,3 +1,5 @@
+{% assign lang = site.active_lang %}
+
 <nav
   aria-label="Results Pagination"
   class="usa-pagination"
@@ -17,7 +19,7 @@
           ></use>
         </svg>
 
-        <span class="usa-pagination__link-text"> Previous </span>
+        <span class="usa-pagination__link-text"> {{site.data["i18n"].links.previous}} </span>
       </a>
     </li>
 
@@ -27,7 +29,7 @@
         class="usa-pagination__link usa-pagination__next-page"
         aria-label="Next page"
       >
-        <span class="usa-pagination__link-text"> Next </span>
+        <span class="usa-pagination__link-text"> {{site.data["i18n"].links.next}} </span>
 
         <svg class="usa-icon" aria-hidden="true" role="img">
           <use

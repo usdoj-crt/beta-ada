@@ -5,18 +5,17 @@
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-10">
         <h2 class="h1">
-          Topics
+          {{ include.understand.heading }}
         </h2>
         <div class="crt-landing--separator"></div>
         <p class="crt-landing--lead">
-          Information for businesses, state and local governments, and people with disabilities
+          {{ include.understand.lead }}
         </p>
       </div>
       <div class="tablet:grid-col-12">
         <div class="grid-row grid-gap">
           <p class="crt-landing--largetext">
-            <strong>Pick a topic to find out how the ADA works.</strong> We’ll
-            add more soon.
+            {{ include.understand.content }}
           </p>
           <ul class="usa-card-group">
             {% for card in cards limit:3 %}

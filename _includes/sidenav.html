@@ -1,3 +1,5 @@
+{% assign lang = site.active_lang %}
+
 <div class="usa-accordion">
   <h4 class="usa-accordion__heading desktop:display-none">
     <button
@@ -5,7 +7,7 @@
       aria-expanded="false"
       aria-controls="toc"
     >
-      Table of contents
+      {{site.data["i18n"].links.toc}}
     </button>
   </h4>
   <nav id="toc" class="usa-accordion__content" aria-label="Page navigation">

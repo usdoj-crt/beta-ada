@@ -1,3 +1,5 @@
+{% assign lang = site.active_lang %}
+
 <li class="tablet:grid-col-4 usa-card">
   <div class="usa-card__container">
     <header class="usa-card__header">
@@ -24,7 +26,7 @@
       <a
         href="{{ include.card.card.href | relative_url }}"
         aria-label="Learn more about {{include.card.card.title_alt | default:include.card.card.title}}"
-        >Learn more</a
+        >{{site.data["i18n"].links.learn}}</a
       >
       {% endif %}
     </div>

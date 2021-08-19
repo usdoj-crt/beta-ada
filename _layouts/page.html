@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% assign lang = site.active_lang %}
 
 <div class="crt-page grid-container">
   <div class="grid-row grid-gap-xl">
@@ -17,7 +18,7 @@ layout: default
       <div class="crt-landing--separator_small"></div>
       {% if page.lead %}
         <div class="crt-lead">
-          {{page.lead | markdownify}}
+          {{page.lead[lang] | markdownify}}
         </div>
       {% endif %}
       {{ content }}
