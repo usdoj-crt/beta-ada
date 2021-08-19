@@ -56,7 +56,6 @@ primary_navigation:
       en: Give Us Feedback
     url: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit
     external: true
-    classes: display-none desktop-lg:display-block
 
 # Configuration for Touchpoints
 touchpoints:
