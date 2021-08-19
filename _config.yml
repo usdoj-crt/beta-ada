@@ -47,7 +47,7 @@ primary_navigation:
       en: Home
     url: "/"
   - name:
-      en: ADA Topics
+      en: Topics
     url: "/topics/"
   - name:
       en: File a Complaint
