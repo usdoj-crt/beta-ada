@@ -55,8 +55,6 @@ report:
   heading: How to Report a Disability Rights Violation
   lead: |-
     If you believe that you or someone else experienced unlawful discrimination, you can report a disability rights violation.
-  content: |-
-    <strong>Pick a topic to find out how the ADA works.</strong> We’ll add more soon.
   steps:
     - heading: Report using our online form.
       content: |-
