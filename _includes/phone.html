@@ -1,13 +1,11 @@
 {% assign lang = site.active_lang %}
 
 <div
-  class="display-none desktop:display-flex flex-align-center bg-primary-darker text__reverse radius-bottom-md position-absolute pin-right pin-top margin-right-6 padding-x-3 padding-y-2"
+  class="display-none desktop:display-flex flex-align-center bg-primary-darker text__reverse radius-bottom-md position-absolute pin-right pin-top margin-right-4 padding-x-3 padding-y-2"
 >
   {% asset ic_phone-circle.svg class="margin-right-2" alt="phone" %}
   <div>
-    <span class="display-block margin-bottom-05 text-bold"
-      >{{site.data["i18n"].hotline.heading}}</span
-    >
-    {{site.data["i18n"].hotline.content}} {{ site.contact.tollfree }} | {{ site.contact.tty }} (TTY)
+    {{site.data["i18n"].hotline.content}} {{ site.contact.tollfree }} | {{
+    site.contact.tty }} (TTY)
   </div>
 </div>

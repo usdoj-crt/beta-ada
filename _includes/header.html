@@ -1,14 +1,74 @@
-{% include skipnav.html %}
-{% include banner.html %}
-{% if site.beta %} {%
-include banner-beta.html %}
-{% endif %}
-<header class="crt-landing--header crt-lightblue position-relative">
-  {% include phone.html %}
-  <div
-    class="crt-landing--header_section flex-align-center desktop:flex-align-end"
-  >
-    {% include logo.html %}
-    {% include menu.html primary_navigation=site.primary_navigation %}
-  </div>
-</header>
+{% assign lang = site.active_lang %} {% include skipnav.html %} {% include
+banner.html %} {% if site.beta %} {%include banner-beta.html %} {% endif %}
+<div class="crt-landing--header crt-lightblue">
+  <header class="usa-header usa-header--extended">
+    <div class="usa-navbar position-relative">
+      <div class="usa-logo" id="extended-logo">
+        {% include logo.html %}
+      </div>
+      {% include phone.html %}
+      <button class="usa-menu-btn">Menu</button>
+    </div>
+    <nav aria-label="Primary navigation" class="usa-nav">
+      <div class="usa-nav__inner">
+        <button class="usa-nav__close">
+          {% asset img/usa-icons/close.svg alt="close" %}
+        </button>
+        <ul class="usa-nav__primary usa-accordion">
+          {% for nav_item in site.primary_navigation %} {% unless
+          nav_item.children %} {% assign basedir = page.url | remove_first: '/'
+          | split: '/' | first | lstrip %} {% assign linkdir = nav_item.url |
+          replace: "/", "" | lstrip %}
+          <li
+            class="usa-nav__primary-item desktop:text-no-wrap {{ nav_item.classes }}"
+          >
+            <a
+              href="{% if nav_item.external %}{{ nav_item.url }}{% else %}{{ nav_item.url | relative_url }}{% endif %}"
+              class="usa-nav__link{% if basedir == linkdir %} usa-current{% endif %}"
+            >
+              <span>{{ nav_item.name[lang] | escape }}</span>
+            </a>
+          </li>
+          {% else %} {% assign nav_id = 'primary-nav-' | append: forloop.index%}
+          <li
+            class="usa-nav__primary-item desktop:text-no-wrap {{ nav_item.classes }}"
+          >
+            <button
+              class="usa-accordion__button usa-nav__link usa-current"
+              aria-expanded="false"
+              aria-controls="{{ nav_id }}"
+            >
+              <span>{{ nav_item.name[lang] | escape }}</span>
+            </button>
+            <ul id="{{ nav_id }}" class="usa-nav__submenu">
+              {% for subnav_item in nav_item.children %}
+              <li class="usa-nav__submenu-item">
+                <a href="{{ subnav_item.url | prepend: site.baseurl }}"
+                  >{{ subnav_item.name[lang] | escape }}</a
+                >
+              </li>
+              {% endfor %}
+            </ul>
+          </li>
+          {% endunless %} {% endfor %}
+        </ul>
+        <div class="usa-nav__secondary">
+          {% include searchgov/form.html searchgov=site.searchgov %}
+        </div>
+        <div
+          class="display-flex order-3 desktop:display-none flex-align-start padding-left-6 padding-right-3 bg-primary-lighter margin-x-neg-3 padding-y-3 line-height-sans-5"
+        >
+          {% asset ic_phone-circle.svg class="margin-right-1" alt="phone" %}
+          <div>
+            <span class="display-block margin-bottom-05 text-bold"
+              >{{site.data["i18n"].hotline.heading}}</span
+            >
+            {{site.data["i18n"].hotline.content}}<br />
+            {{ site.contact.tollfree }}<br />
+            {{ site.contact.tty }} (TTY)
+          </div>
+        </div>
+      </div>
+    </nav>
+  </header>
+</div>
