@@ -1,3 +1,5 @@
+{% assign lang = site.active_lang %}
+
 {% if page.layout == 'page' and page.sidenav %}
   {% assign has_side_nav = true %}
 {% else %}
@@ -5,6 +7,6 @@
 {% endif %}
 
 {% if has_side_nav %}
-<a class="usa-skipnav" href="#crt-page--sidenav">Skip to page navigation</a>
+<a class="usa-skipnav" href="#crt-page--sidenav">{{site.data["i18n"].links.skip.nav}}</a>
 {% endif %}
-<a class="usa-skipnav" href="#{% if has_side_nav %}crt-page--content{% else %}main-content{% endif %}">Skip to main content</a>
+<a class="usa-skipnav" href="#{% if has_side_nav %}crt-page--content{% else %}main-content{% endif %}">{{site.data["i18n"].links.skip.main}}</a>

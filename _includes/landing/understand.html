@@ -1,23 +1,24 @@
+{% assign cards = site.pages | where_exp:"item","item.permalink contains '/topics/' and item.featured" | sort:"weight" | reverse %}
+
 <div class="crt-landing--section crt-lightblue" markdown="0">
   <div class="grid-container">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-10">
         <h2 class="h1">
-          How the ADA Works
+          {{ include.understand.heading }}
         </h2>
         <div class="crt-landing--separator"></div>
         <p class="crt-landing--lead">
-          Information for businesses, state and local governments, and people with disabilities
+          {{ include.understand.lead }}
         </p>
       </div>
       <div class="tablet:grid-col-12">
         <div class="grid-row grid-gap">
           <p class="crt-landing--largetext">
-            <strong>Pick a topic to find out how the ADA works.</strong> We’ll
-            add more soon.
+            {{ include.understand.content }}
           </p>
           <ul class="usa-card-group">
-            {% for card in include.cards %}
+            {% for card in cards limit:3 %}
               {% include card.html card=card %}
             {% endfor %}
           </ul>

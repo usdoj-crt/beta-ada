@@ -1,11 +1,13 @@
 //= require js/uswds.min.js
 //= require gumshoe.polyfills.min.js
 //= require anchor.min.js
+//= require ./modal.js
+//= require ./redirect-modal.js
+//= require ./print.js
+//= require ./search.js
 
 var anchors = new AnchorJS();
-anchors.add(
-  ".crt-page h2:not(.usa-alert__heading):not(.usa-accordion__heading)"
-);
+anchors.add(".crt-page h2:not([class*='usa'])");
 
 var toc = document.getElementById("toc");
 if (toc) {

@@ -1,6 +1,7 @@
 .crt-page {
   padding-top: 3rem;
   padding-bottom: 3rem;
+  width: 100%;
 
   #crt-page--content {
     .crt-lead {
@@ -14,7 +15,7 @@
       margin: 0;
     }
 
-    h2:not(.usa-alert__heading):not(.usa-accordion__heading) {
+    h2:not(.usa-alert__heading):not(.usa-accordion__heading):not(.usa-card__heading) {
       margin-top: 3rem;
 
       &:after {
@@ -25,7 +26,7 @@
       }
     }
 
-    h3 {
+    h3:not(.usa-card__heading) {
       margin-top: 2.5rem;
       margin-bottom: 1rem;
     }
@@ -33,6 +34,10 @@
     h4 {
       margin-top: 2rem;
       margin-bottom: 1rem;
+    }
+
+    table {
+      @extend .usa-table;
     }
   }
 }

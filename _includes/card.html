@@ -1,26 +1,32 @@
+{% assign lang = site.active_lang %}
+
 <li class="tablet:grid-col-4 usa-card">
   <div class="usa-card__container">
     <header class="usa-card__header">
-      <h3 class="usa-card__heading">{{ include.card.title }}</h3>
+      {% if include.heading_level == 2 %}
+      <h2 class="usa-card__heading">{{ include.card.card.title }}</h2>
+      {% else %}
+      <h3 class="usa-card__heading">{{ include.card.card.title }}</h3>
+      {% endif %}
     </header>
     <div class="usa-card__media">
       <div
-        class="usa-card__img height-card-lg {% unless include.card.href%}opacity-40{% endunless %}"
+        class="usa-card__img height-card-lg {% unless include.card.card.href%}opacity-40{% endunless %}"
       >
-        {% asset '{{ include.card.image }}' alt='{{ include.card.alt }}' style='object-position: center {{ include.card.position | default: "center" }}' %}
+        {% asset '{{ include.card.card.image | default: "landing/default.png" }}' alt='{{ include.card.card.alt }}' style='object-position: center {{ include.card.card.position | default: "center" }}' %}
       </div>
     </div>
     <div class="usa-card__body">
       <p>
-        {{ include.card.description }}
+        {{ include.card.card.description }}
       </p>
     </div>
     <div class="usa-card__footer">
-      {% if include.card.href %}
+      {% if include.card.card.href %}
       <a
-        href="{{ include.card.href | relative_url }}"
-        aria-label="Learn more about {{include.card.title_alt | default:include.card.title}}"
-        >Learn more</a
+        href="{{ include.card.card.href | relative_url }}"
+        aria-label="Learn more about {{include.card.card.title_alt | default:include.card.card.title}}"
+        >{{site.data["i18n"].links.learn}}</a
       >
       {% endif %}
     </div>

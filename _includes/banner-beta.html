@@ -1,3 +1,5 @@
+{% assign lang = site.active_lang %}
+
 <section class="usa-banner crt-banner--beta margin-y-1" aria-label="BETA site">
   <div
     class="usa-banner__inner border-top border-primary-lightest padding-top-1"
@@ -7,9 +9,7 @@
     </div>
     <div class="grid-col-fill">
       <p class="usa-banner__header-text">
-        <strong>This is a BETA site</strong>. It's an early, in-progress version of
-        an improved ADA.gov. If you don't find what you're looking for,
-        <a href="https://www.ada.gov">return to the main ADA.gov</a>
+        {{site.data["i18n"].beta}}
       </p>
     </div>
   </div>

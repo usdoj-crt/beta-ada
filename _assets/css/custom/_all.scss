@@ -9,7 +9,10 @@
 @import "details";
 @import "footer";
 @import "header";
+@import "modal";
+@import "pagination";
 @import "typography";
+@import "search";
 @import "separator";
 @import "sidenav";
 @import "smooth-scroll";
@@ -19,3 +22,4 @@
 // Layout specific
 @import "landing";
 @import "page";
+@import "print";

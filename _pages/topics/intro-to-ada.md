@@ -4,6 +4,16 @@ description: The Americans with Disabilities Act (ADA) is a federal civil rights
 permalink: /topics/intro-to-ada/
 lead: |-
   The Americans with Disabilities Act (ADA) is a federal civil rights law that prohibits discrimination against people with disabilities in everyday activities. The ADA prohibits discrimination on the basis of disability just as other civil rights laws prohibit discrimination on the basis of race, color, sex, national origin, age, and religion. The ADA guarantees that people with disabilities have the same opportunities as everyone else to enjoy employment opportunities, purchase goods and services, and participate in state and local government programs.
+featured: true
+weight: 20
+card:
+  title: Introduction to the ADA
+  title_alt: the ADA
+  description: |-
+    How the ADA is structured, and how it protects the rights of people with disabilities
+  image: landing/intro_ada.jpg
+  alt: A teacher and a student sitting at a table signing to one another
+  href: /topics/intro-to-ada/
 ---
 
 ## The ADA Protects People with Disabilities
@@ -130,7 +140,7 @@ The ADA contains specific requirements for state and local governments to ensure
 
 **Applies to:**
 
-- Businesses and nonprofits serving the public
+- Businesses and nonprofits serving the public.  
 Examples of businesses and nonprofits include:
   - Restaurants
   - Hotels
@@ -142,14 +152,14 @@ Examples of businesses and nonprofits include:
   - Gyms
   - Organizations offering courses or examinations
 
-- Privately operated transit  
+- Privately operated transit.  
 Examples of privately operated transit include:
   - Taxis
   - Intercity and charter buses
   - Hotel shuttles
   - Airport shuttles
 
-- Commercial facilities (need only comply with requirements of the [ADA Standards for Accessible Design](https://www.ada.gov/2010ADAstandards_index.htm))  
+- Commercial facilities (need only comply with requirements of the [ADA Standards for Accessible Design](https://www.ada.gov/2010ADAstandards_index.htm)).  
 Examples of commercial facilities include:
   - Office buildings
   - Warehouses
@@ -196,7 +206,7 @@ While the ADA applies to certain types of housing (e.g., housing at private and 
 - If you have a complaint about disability discrimination under the Fair Housing Act: [File a complaint with the Department of Housing and Urban Development](https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint).
 
 Disability discrimination during air travel is prohibited by the Air Carriers Access Act.
-- If you have a complaint about disability discrimination during air travel: [File a complaint with the Department of Transportation’s Office of Aviation Consumer Protection](https://airconsumer.dot.gov/escomplaint/ConsumerForm.cfm).
+- If you have a complaint about disability discrimination during air travel: [File a complaint with the Department of Transportation’s Office of Aviation Consumer Protection](https://www.transportation.gov/airconsumer/complaints-alleging-discriminatory-treatment-against-disabled-travelers).
 
 Religious organizations are exempt from the requirements of Title III of the ADA. For information about how the ADA’s employment obligations apply to religious entities, visit the EEOC’s website. Additionally, religious groups or organizations may still have to comply with state/local building codes or other  laws prohibiting discrimination on the basis of disability.
 
