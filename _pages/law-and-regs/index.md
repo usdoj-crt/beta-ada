@@ -22,7 +22,7 @@ disabilities in many aspects of public life.
 
 [The Americans with Disabilities Act]( {{'/law-and-regs/ada' | relative_url}})
 
-Learn more about the ADA on our [Introduction to the ADA page]( {{'../topics/intro-to-ada'}}).
+Learn more about the ADA on our [Introduction to the ADA page]( {{'/topics/intro-to-ada'| relative_url}}).
 
 ## The Department’s ADA Regulations
 
@@ -30,8 +30,8 @@ The Department’s ADA regulations are legal requirements that state/local gover
 
 [State and Local Governments (Title II)]( {{'https://www.ada.gov/regs2010/titleII_2010/titleII_2010_regulations.htm'}})
 
-State and Local Governments include state, county, and city government services and programs, offices, and other facilities (such as city parks). Learn more about the basics of Title II on our [Introduction to the ADA page]( {{'../topics/intro-to-ada'}}).
+State and Local Governments include state, county, and city government services and programs, offices, and other facilities (such as city parks). Learn more about the basics of Title II on our [Introduction to the ADA page]( {{'/topics/intro-to-ada' | relative_url}}).
 
 [Public Accommodations and Commercial Facilities (Title III)]( {{'https://www.ada.gov/regs2010/titleIII_2010/titleIII_2010_regulations.htm'}})
 
-Public Accommodations include most businesses and nonprofits that are open to the public. Commercial facilities, like warehouses, need only comply with the ADA Standards for Accessible Design. Learn more about the basics of Title III on our [Introduction to the ADA page]( {{'../topics/intro-to-ada'}}).
+Public Accommodations include most businesses and nonprofits that are open to the public. Commercial facilities, like warehouses, need only comply with the ADA Standards for Accessible Design. Learn more about the basics of Title III on our [Introduction to the ADA page]( {{'/topics/intro-to-ada' | relative_url}}).
