@@ -1,13 +1,12 @@
 ---
 title: Mobility Devices
 description: Some people with disabilities use mobility devices to get around, such as walkers, wheelchairs, or other power-driven devices. People with disabilities may use a variety of mobility devices based on their needs.
-permalink: /topics/mobility-devices/
 lead: |-
-   Some people with disabilities use mobility devices to get around, such as walkers, wheelchairs, or other power-driven devices. People with disabilities may use a variety of mobility devices based on their needs.
+  Some people with disabilities use mobility devices to get around, such as walkers, wheelchairs, or other power-driven devices. People with disabilities may use a variety of mobility devices based on their needs.
 
-   In the ADA, these mobility devices fall into two main categories:
-   1. Wheelchairs (manual or power-driven) and manually powered devices
-   2. Other power-driven mobility devices (OPDMDs)
+  In the ADA, these mobility devices fall into two main categories:
+  1. Wheelchairs (manual or power-driven) and manually powered devices
+  2. Other power-driven mobility devices (OPDMDs)
 card:
   title: Mobility Devices
   description: |-
@@ -36,7 +35,8 @@ Manually powered devices also include:
 
 ## Other Power-Driven Mobility Devices
 
-An “other power-driven mobility device” (OPDMD) is any mobility device powered by batteries, fuel, or other engines that may be used by people with disabilities to get around.  OPDMDs include:
+An “other power-driven mobility device” (OPDMD) is any mobility device powered by batteries, fuel, or other engines that may be used by people with disabilities to get around. OPDMDs include:
+
 - Golf carts
 - Electronic personal assistance mobility devices (EPAMDs) such as Segways®
 - Other devices designed to operate in areas without defined public routes, such as all-terrain vehicles (ATVs)
@@ -52,7 +52,7 @@ Businesses and government facilities must consider the following factors when de
   - Square footage
   - Furniture placement and density
   - OPDMD storage availability
-- *Legitimate safety requirements* for operating the OPDMD
+- _Legitimate safety requirements_ for operating the OPDMD
 - Risk of serious harm to environmental, natural, or cultural resources
 - Conflicts with federal land management requirements
 

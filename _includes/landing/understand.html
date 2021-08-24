@@ -1,5 +1,3 @@
-{% assign cards = site.pages | where_exp:"item","item.permalink contains '/topics/' and item.featured" | sort:"weight" | reverse %}
-
 <div class="crt-landing--section crt-lightblue" markdown="0">
   <div class="grid-container">
     <div class="grid-row grid-gap">
@@ -18,9 +16,8 @@
             {{ include.understand.content }}
           </p>
           <ul class="usa-card-group">
-            {% for card in cards limit:3 %}
-              {% include card.html card=card %}
-            {% endfor %}
+            {% for topic in site.topics limit:3 %} {% include card.html
+            card=topic %} {% endfor %}
           </ul>
         </div>
       </div>
