@@ -740,7 +740,7 @@ $line-height-manual-values: ();
 // .margin
 
 $margin-palettes: ("palette-margin-default");
-$margin-manual-values: ();
+$margin-manual-values: (12: 6rem, 16: 8rem, 20: 10rem);
 $margin-vertical-palettes: ("palette-margin-vertical-default");
 $margin-vertical-manual-values: ();
 $margin-horizontal-palettes: ("palette-margin-horizontal-default");
