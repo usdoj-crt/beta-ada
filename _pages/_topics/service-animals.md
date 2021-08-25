@@ -1,7 +1,6 @@
 ---
 title: Service Animals
 description: The ADA explains what businesses and state/local governments must do to make sure that they do not discriminate against a member of the public with a disability who uses a service animal. Generally, service animals must be allowed to go most places where the public can go. Service animals can be any breed and any size of dog. Service animals are trained to perform a task directly related to a person's disability.
-permalink: /topics/service-animals/
 lead: |-
   The ADA explains what businesses and state/local governments must do to make sure that they do not discriminate against a member of the public with a disability who uses a service animal.
 
@@ -20,6 +19,7 @@ card:
 ## About Service Animals
 
 ### Service animals are:
+
 {% list check_circle %}
 {% list_item %}Dogs{% endlist_item %}
 {% list_item %}Any breed and any size of dog{% endlist_item %}
@@ -27,6 +27,7 @@ card:
 {% endlist %}
 
 ### Service animals are not:
+
 {% list cancel %}
 {% list_item %}Required to be certified or go through a professional training program{% endlist_item %}
 {% list_item %}Required to wear a vest or other ID that indicates they’re a service dog{% endlist_item %}
@@ -50,6 +51,7 @@ A person who has epilepsy may have a dog that is **trained to detect the onset o
 ## Where Service Animals Can Go
 
 Generally, service animals are allowed to be with their person, even in places that don’t allow pets. For example, service dogs can go into:
+
 - Restaurants
 - Shops
 - Hospitals
@@ -57,6 +59,7 @@ Generally, service animals are allowed to be with their person, even in places t
 - Hotels
 
 The ADA also applies to certain types of housing, including:
+
 - Housing at public and private universities
 - Public housing programs run by state, county, and city governments
 - Emergency shelters
@@ -70,18 +73,22 @@ The **Fair Housing Act** applies to many types of housing, both public and priva
 The Air Carrier Access Act, not the ADA, protects the rights of people with disabilities in air travel. For information or to file a complaint, contact the U.S. Department of Transportation, Aviation Consumer Protection Division: 202-366-2220.
 
 ### Other rules apply to employment
+
 The [Equal Employment Opportunity Commission](https://www.eeoc.gov/disability-discrimination) (EEOC) is responsible for administering the ADA in employment settings.
 
 ## Asking if a Dog is a Service Animal
+
 If you are working at a business or state/local government facility and it is unclear to you whether someone’s dog is a service dog, **you may ask for certain information using two questions**.
 
 ### You may ask:
+
 {% list check_circle %}
 {% list_item %}Is the dog a service animal required because of a disability?{% endlist_item %}
 {% list_item %}What work or task has the dog been trained to perform?{% endlist_item %}
 {% endlist %}
 
 ### You are _not_ allowed to:
+
 {% list cancel %}
 {% list_item %}
 Request any documentation that the dog is registered, licensed, or certified as a service animal
@@ -106,6 +113,7 @@ Learn more about when a service animal can be kept out in [questions 23-26 in FA
 ## Asking Someone to Remove Their Service Animal
 
 A business or state/local government can ask someone to remove their service animal if:
+
 - The dog is not housebroken.
 - The dog is out of control, and the person cannot get the dog under control.
 
@@ -116,6 +124,7 @@ Learn more in [question 27 in <cite>FAQs about service animals and the ADA</cite
 ## State and Local Laws
 
 ### State/local governments can:
+
 {% list check_circle %}
 {% list_item %}
 Require service dogs to be licensed and vaccinated, if all dogs are required to be licensed and vaccinated
@@ -124,12 +133,14 @@ Require service dogs to be licensed and vaccinated, if all dogs are required to 
 {% endlist %}
 
 ### State/local governments can't:
+
 {% list cancel %}
 {% list_item %}Require certification or registration of service dogs{% endlist_item %}
 {% list_item %}Ban a service dog based on its breed{% endlist_item %}
 {% endlist %}
 
 ## Learn More About the ADA and Service Animals
+
 The following technical assistance documents provide more helpful information about service animals:
 
 - [Frequently Asked Questions about Service Animals and the ADA](https://www.ada.gov/regs2010/service_animal_qa.html)

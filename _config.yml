@@ -60,6 +60,18 @@ primary_navigation:
     url: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit
     external: true
 
+# Collections
+collections_dir: _pages
+collections:
+  topics:
+    output: true
+    permalink: /:collection/:name/
+    sort_by: card.title
+    order:
+      - intro-to-ada.md
+      - service-animals.md
+      - parking.md
+
 # Configuration for Touchpoints
 touchpoints:
   url: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit
@@ -98,13 +110,11 @@ permalink: pretty
 defaults:
   - scope:
       path: ""
-      type: "pages"
     values:
       image:
         asset: default-card.png
       layout: "page"
       sidenav: true
-      weight: 0
       featured: false
 
 languages: ["en"]

@@ -1,7 +1,6 @@
 ---
 title: Introduction to the Americans with Disabilities Act
 description: The Americans with Disabilities Act (ADA) is a federal civil rights law that prohibits discrimination against people with disabilities in everyday activities. The ADA prohibits discrimination on the basis of disability just as other civil rights laws prohibit discrimination on the basis of race, color, sex, national origin, age, and religion. The ADA is broken up into five different sections, which are called titles. Different titles set out the requirements for different kinds of organizations.
-permalink: /topics/intro-to-ada/
 lead: |-
   The Americans with Disabilities Act (ADA) is a federal civil rights law that prohibits discrimination against people with disabilities in everyday activities. The ADA prohibits discrimination on the basis of disability just as other civil rights laws prohibit discrimination on the basis of race, color, sex, national origin, age, and religion. The ADA guarantees that people with disabilities have the same opportunities as everyone else to enjoy employment opportunities, purchase goods and services, and participate in state and local government programs.
 featured: true
@@ -39,7 +38,7 @@ Major life activities are the kind of activities that you do every day, includin
 - Sensory functions like seeing and hearing
 - Tasks like working, reading, learning, and communicating
 - The operation of major bodily functions like circulation, reproduction, and individual organs
-{% enddetails %}
+  {% enddetails %}
 
 ### Examples of Disabilities
 
@@ -58,7 +57,7 @@ There is a wide variety of disabilities, and the ADA regulations do not list all
 - Intellectual disabilities
 - Major depressive disorder
 - Traumatic brain injury
-{:.column-list}
+  {:.column-list}
 
 The ADA covers many other disabilities not listed here.
 
@@ -78,6 +77,7 @@ The ADA is broken up into five different sections, which are called titles. Diff
 
 {% accordion a %}
 {% collapsible %}
+
 ## Employment
 
 **Section of the ADA:** Title I
@@ -92,12 +92,14 @@ The ADA includes specific requirements for employers to ensure that people with 
 {% endcollapsible %}
 
 {% collapsible %}
+
 ## State and Local Government Services
+
 **Section of the ADA:** Title II, Subtitle A
 
 **Applies to:** all services, programs, and activities of state and local governments.
 
-Examples of state and local government activities include:  
+Examples of state and local government activities include:
 
 - Public education
 - Transportation
@@ -122,7 +124,9 @@ The ADA contains specific requirements for state and local governments to ensure
 {% endcollapsible %}
 
 {% collapsible %}
+
 ## Public Transit
+
 **Section of the ADA:** Title II, Subtitle B
 
 **Applies to:** public transit systems.
@@ -135,13 +139,16 @@ The ADA contains specific requirements for state and local governments to ensure
 {% endcollapsible %}
 
 {% collapsible %}
+
 ## Businesses That Are Open to the Public
+
 **Section of the ADA:** Title III
 
 **Applies to:**
 
 - Businesses and nonprofits serving the public.  
-Examples of businesses and nonprofits include:
+  Examples of businesses and nonprofits include:
+
   - Restaurants
   - Hotels
   - Retail stores
@@ -153,14 +160,15 @@ Examples of businesses and nonprofits include:
   - Organizations offering courses or examinations
 
 - Privately operated transit.  
-Examples of privately operated transit include:
+  Examples of privately operated transit include:
+
   - Taxis
   - Intercity and charter buses
   - Hotel shuttles
   - Airport shuttles
 
 - Commercial facilities (need only comply with requirements of the [ADA Standards for Accessible Design](https://www.ada.gov/2010ADAstandards_index.htm)).  
-Examples of commercial facilities include:
+  Examples of commercial facilities include:
   - Office buildings
   - Warehouses
   - Factories
@@ -173,7 +181,9 @@ The ADA contains specific requirements for businesses that are open to the publi
 {% endcollapsible %}
 
 {% collapsible %}
+
 ## Telecommunications
+
 **Section of the ADA:** Title IV
 
 **Applies to:** telecommunication companies.
@@ -184,7 +194,9 @@ The ADA contains specific requirements for businesses that are open to the publi
 {% endcollapsible %}
 
 {% collapsible %}
+
 ## Other Important Requirements
+
 **Section of the ADA:** Title V
 
 The ADA also includes other requirements for how to implement the law.
@@ -194,8 +206,8 @@ Examples of these requirements include:
 - Stating that a person with a disability is not required to accept an aid or accommodation if they do not want to
 - Authorizing courts to award attorneys’ fees to the winning party in a lawsuit under the ADA
 - Directing certain federal agencies to issue guidance explaining the law
-{% endcollapsible %}
-{% endaccordion %}
+  {% endcollapsible %}
+  {% endaccordion %}
 
 ## Other Disability Rights Laws
 
@@ -206,14 +218,16 @@ While the ADA applies to certain types of housing (e.g., housing at private and 
 - If you have a complaint about disability discrimination under the Fair Housing Act: [File a complaint with the Department of Housing and Urban Development](https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint).
 
 Disability discrimination during air travel is prohibited by the Air Carriers Access Act.
+
 - If you have a complaint about disability discrimination during air travel: [File a complaint with the Department of Transportation’s Office of Aviation Consumer Protection](https://www.transportation.gov/airconsumer/complaints-alleging-discriminatory-treatment-against-disabled-travelers).
 
-Religious organizations are exempt from the requirements of Title III of the ADA. For information about how the ADA’s employment obligations apply to religious entities, visit the EEOC’s website. Additionally, religious groups or organizations may still have to comply with state/local building codes or other  laws prohibiting discrimination on the basis of disability.
+Religious organizations are exempt from the requirements of Title III of the ADA. For information about how the ADA’s employment obligations apply to religious entities, visit the EEOC’s website. Additionally, religious groups or organizations may still have to comply with state/local building codes or other laws prohibiting discrimination on the basis of disability.
 
 ### Federal Agencies’ Roles
 
 Many federal agencies are responsible for enforcing the ADA and other laws that prohibit discrimination on the basis of disability. These agencies receive complaints, conduct investigations, and issue regulations and guidance to explain the law.
 
-Learn more about these agencies and the laws that they implement:  
+Learn more about these agencies and the laws that they implement:
+
 - [ADA Designated Investigative Services](https://www.ada.gov/investag.htm)
 - [A Guide to Federal Disability Rights Laws](https://www.ada.gov/cguide.htm)
