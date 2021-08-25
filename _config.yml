@@ -61,7 +61,7 @@ primary_navigation:
     external: true
 
 # Collections
-collections_dir: _pages
+collections_dir: pages
 collections:
   topics:
     output: true
@@ -123,7 +123,7 @@ exclude_from_localization: ["assets"]
 parallel_localization: true
 
 include:
-  - _pages
+  - pages
 
 exclude:
   - package.json
