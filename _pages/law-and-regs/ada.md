@@ -1,7 +1,6 @@
 ---
 title: Americans with Disabilities Act of 1990, As Amended
 permalink: /law-and-regs/ada/
-layout: page
 lead: |-
     Editor's Note:
 

@@ -2,6 +2,7 @@
 permalink: /topics/
 title: Topics
 sidenav: false
+layout: full
 lead: Information for people with disabilities, state and local governments, and businesses
 ---
 {% assign featured = site.pages | where_exp:"item","item.permalink contains '/topics/' and item.featured" | sort:"weight" | reverse %}
