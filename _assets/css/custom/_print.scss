@@ -22,9 +22,10 @@
   footer,
   .usa-banner,
   .usa-skipnav,
+  .usa-menu-btn,
   .crt-menu--section,
   #crt-page--sidenav,
   #fba-button {
-    display: none;
+    display: none !important;
   }
 }

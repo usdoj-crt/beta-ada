@@ -1,7 +1,6 @@
 ---
 title: Communicating Effectively with People with Disabilities
 description: Communicating successfully is essential to providing services to the public or doing business. People with certain disabilities might communicate in different ways.
-permalink: /topics/effective-communication/
 lead: |-
   Communicating successfully is essential to providing services to the public or doing business. People with certain disabilities might communicate in different ways.
 
@@ -18,7 +17,6 @@ card:
   alt: "Hands hover over a braille display"
   href: /topics/effective-communication/
 ---
-
 
 ## Examples of Communication Aids and Services
 
@@ -70,6 +68,7 @@ Effective communication could require:
 - real time captioning
 
 This will depend on whether the person uses sign language.
+
 </td>
 
 </tr>

@@ -2,7 +2,6 @@
 title: Accessible Parking Spaces
 description: Accessible parking spaces are different than traditional parking spaces. They have specific features that make it easier for people with disabilities to access programs, goods, or services. The ADA requires businesses, non-profits, and state/local governments to provide accessible parking spaces.
 short_title: Parking Spaces
-permalink: /topics/parking/
 lead: |-
   When state or local governments, businesses and non-profit organizations provide parking lots or garages, accessible parking spaces complying with the Americans with Disabilities Act (ADA) must be provided.
 
@@ -72,9 +71,10 @@ Have a sign with the international symbol of accessibility on it, mounted at lea
 {% list_item %}Provide at least 98 inches of vertical clearance (van height) for the parking space, access aisle, and vehicular route{% endlist_item %}
 {% list_item %}Have a surface that is firm, stable, and slip-resistant{% endlist_item %}
 {% list_item %}Have two signs, mounted at least 60 inches above the ground (measured to the bottom of the sign)
+
 - First sign: international symbol of accessibility
 - Second sign: stating that the space is van accessible{% endlist_item %}
-{% endlist %}
+  {% endlist %}
 
 ##### Option #2
 
@@ -85,9 +85,10 @@ Have a sign with the international symbol of accessibility on it, mounted at lea
 {% list_item %}Provide at least 98 inches of vertical clearance for the parking space, access aisle and vehicular route {% endlist_item %}
 {% list_item %}Have a surface that is firm, stable and slip-resistant{% endlist_item %}
 {% list_item %}Have two signs, mounted at least 60 inches above the ground (measured to the bottom of the sign)
+
 - First sign: international symbol of accessibility
 - Second sign: stating that the space is van accessible{% endlist_item %}
-{% endlist %}
+  {% endlist %}
 
 {% asset project-images/van-accessible.png alt="Minimum 96-inch wide van-accessible parking space with 96-inch minimum width access aisle" %}
 
@@ -180,13 +181,13 @@ Where parking spaces are limited to four or fewer spaces:
 #### Rehabilitation Facilities
 
 {% list error %}
-{% list_item %}Twenty percent of patient and visitor parking must be accessible.  At least one of every six accessible parking spaces must be van accessible.{% endlist_item %}
+{% list_item %}Twenty percent of patient and visitor parking must be accessible. At least one of every six accessible parking spaces must be van accessible.{% endlist_item %}
 {% endlist %}
 
 #### Outpatient Physical Therapy Facilities
 
 {% list error %}
-{% list_item %}Twenty percent of patient and visitor parking must be accessible.  At least one of every six accessible parking spaces must be van accessible.{% endlist_item %}
+{% list_item %}Twenty percent of patient and visitor parking must be accessible. At least one of every six accessible parking spaces must be van accessible.{% endlist_item %}
 {% endlist %}
 
 ## Learn More About the ADA and Accessible Parking
