@@ -1,7 +1,7 @@
 ---
 permalink: /topics/
 title: Topics
-sidenav: false
+layout: full
 lead: Information for people with disabilities, state and local governments, and businesses
 ---
 
