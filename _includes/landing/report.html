@@ -21,7 +21,7 @@
           {% for step in include.report.steps %}
             <div class="tablet:grid-col-4 crt-landing--section__item">
               <div class="crt-landing--reporting_column">
-                <div class="h4 crt-landing--icon_gold">1</div>
+                <div class="h4 crt-landing--icon_gold">{{ forloop.index }}</div>
                 <div>
                   <h3 class="text__reverse">
                     {{ step.heading }}
