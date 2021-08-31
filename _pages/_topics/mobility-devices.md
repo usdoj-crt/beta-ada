@@ -6,7 +6,7 @@ lead: |-
 
   In the ADA, these mobility devices fall into two main categories:
   1. Wheelchairs (manual or power-driven) and manually powered devices
-  2. Other power-driven mobility devices (OPDMDs)
+  2. Other powered options, such as golf carts
 card:
   title: Mobility Devices
   description: |-
@@ -33,17 +33,21 @@ Manually powered devices also include:
 - Crutches
 - Braces
 
-## Other Power-Driven Mobility Devices
+## Other Powered Options
 
-An “other power-driven mobility device” (OPDMD) is any mobility device powered by batteries, fuel, or other engines that may be used by people with disabilities to get around. OPDMDs include:
+Other options include any mobility device powered by batteries, fuel, or other engines that may be used by people with disabilities to get around. These include:
 
 - Golf carts
-- Electronic personal assistance mobility devices (EPAMDs) such as Segways®
+- Electronic personal assistance mobility devices such as Segways®
 - Other devices designed to operate in areas without defined public routes, such as all-terrain vehicles (ATVs)
+
+{% details How the ADA regulations refer to golf carts, ATVs, and other powered options %}
+In the ADA regulations, other powered options are referred to as <i>other power-driven mobility devices</i>, or <i>OPDMDs</i>.
+{% enddetails %}
 
 ### Factors to Consider
 
-Businesses and government facilities must consider the following factors when deciding whether an OPDMD can be used:
+Businesses and government facilities must consider the following factors when deciding whether another powered option can be used:
 
 - Type, size, weight, dimensions and speed of the device
 - Pedestrian traffic in the facility
@@ -51,8 +55,8 @@ Businesses and government facilities must consider the following factors when de
   - Indoor or outdoor facility
   - Square footage
   - Furniture placement and density
-  - OPDMD storage availability
-- _Legitimate safety requirements_ for operating the OPDMD
+  - Storage availability
+- _Legitimate safety requirements_ for operation
 - Risk of serious harm to environmental, natural, or cultural resources
 - Conflicts with federal land management requirements
 
@@ -75,7 +79,7 @@ After considering these factors, an agency or business might establish a policy 
 
 ## Asking Someone About Their Mobility Device
 
-If a person with a disability enters a business or government facility using an OPDMD:
+If a person with a disability enters a business or government facility using a cart or other powered option:
 
 {% list check_circle %}
 {% list_item %}
@@ -85,7 +89,7 @@ You must accept any of these types of credible assurance:
 
 - A valid, state-issued disability parking placard
 - Other state-issued proof of disability
-- A statement from the person that the OPDMD is used because of a disability, unless the person is observed doing something that contradicts this statement
+- A statement from the person that the cart or other powered option is used because of a disability, unless the person is observed doing something that contradicts this statement
   {% endlist_item %}
   {% list_item cancel %}
   You may not ask about the nature or extent of someone’s disability. This is also true if someone is using a wheelchair or other manual mobility aid.
