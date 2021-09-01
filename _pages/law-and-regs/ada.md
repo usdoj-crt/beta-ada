@@ -14,7 +14,7 @@ lead: |-
 ### Sec. 12101. Findings and purpose
 
 <p class="margin-left-4"> <a name="12101a" id="12101a"></a>(a) Findings</p>
-<p class="margin-left-4"> The Congress finds that</p>
+<p class="margin-left-4"> The Congress finds that—</p>
 <p class="margin-left-8">(1) physical or mental disabilities in no way diminish a person's right to fully participate in all aspects of society, yet many people with physical or mental disabilities have been precluded from doing so because of discrimination; others who have a record of a disability or are regarded as having a disability also have been subjected to discrimination; </p>
 <p class="margin-left-8">(2) historically, society has tended to isolate and segregate individuals with disabilities, and, despite some improvements, such forms of discrimination against individuals with disabilities continue to be a serious and pervasive social problem;</p>
 <p class="margin-left-8">(3) discrimination against individuals with disabilities persists in such critical areas as employment, housing, public accommodations, education, transportation, communication, recreation, institutionalization, health services, voting, and access to public services;</p>
@@ -25,7 +25,7 @@ lead: |-
 <p class="margin-left-8">(7) the Nation's proper goals regarding individuals with disabilities are to assure equality of opportunity, full participation, independent living, and economic self-sufficiency for such individuals; and</p>
 <p class="margin-left-8">(8) the continuing existence of unfair and unnecessary discrimination and prejudice denies people with disabilities the opportunity to compete on an equal basis and to pursue those opportunities for which our free society is justifiably famous, and costs the United States billions of dollars in unnecessary expenses resulting from dependency and nonproductivity.</p>
 <p class="margin-left-4"> <a name="12101b" id="12101b"></a>(b) Purpose</p>
-<p class="margin-left-4"> It is the purpose of this chapter</p>
+<p class="margin-left-4"> It is the purpose of this chapter—</p>
 <p class="margin-left-8">(1) to provide a clear and comprehensive national mandate for the elimination of discrimination against individuals with disabilities;</p>
 <p class="margin-left-8"> (2) to provide clear, strong, consistent, enforceable standards addressing discrimination against individuals with disabilities;</p>
 <p class="margin-left-8">(3) to ensure that the Federal Government plays a central role in enforcing the standards established in this chapter on behalf of individuals with disabilities; and</p>
@@ -34,7 +34,7 @@ lead: |-
 #### Sec. 12101 note: Findings and Purposes of ADA Amendments Act of 2008, Pub. L. 110-325, §2, Sept. 25, 2008, 122 Stat. 3553, provided that:
 <p class="margin-left-4"><a name="12101notea" id="12101notea"></a>(a) Findings</p>
 
-  <p class="margin-left-4">Congress finds that-</p>
+  <p class="margin-left-4">Congress finds that—</p>
   <p class="margin-left-8">(1) in enacting the Americans with Disabilities Act of 1990 (ADA), Congress intended that the Act "provide a clear and comprehensive national mandate for the elimination of discrimination against individuals with disabilities" and provide broad coverage;</p>
   <p class="margin-left-8">(2) in enacting the ADA, Congress recognized that physical and mental disabilities in no way diminish a person's right to fully participate in all aspects of society, but that people with physical or mental disabilities are frequently precluded from doing so because of prejudice, antiquated attitudes, or the failure to remove societal and institutional barriers;</p>
   <p class="margin-left-8">(3) while Congress expected that the definition of disability under the ADA would be interpreted consistently with how courts had applied the definition of a handicapped individual under the Rehabilitation Act of 1973, that expectation has not been fulfilled;</p>
@@ -44,7 +44,7 @@ lead: |-
   <p class="margin-left-8">(7) in particular, the Supreme Court, in the case of Toyota Motor Manufacturing, Kentucky, Inc. v. Williams, 534 U.S. 184 (2002), interpreted the term "substantially limits" to require a greater degree of limitation than was intended by Congress; and</p>
   <p class="margin-left-8">(8) Congress finds that the current Equal Employment Opportunity Commission ADA regulations defining the term "substantially limits" as "significantly restricted" are inconsistent with congressional intent, by expressing too high a standard.</p>
   <p class="margin-left-4"><a name="12101noteb" id="12101noteb"></a>(b) Purposes</p>
-  <p class="margin-left-4">The purposes of this Act are-</p>
+  <p class="margin-left-4">The purposes of this Act are—</p>
   <p class="margin-left-8">(1) to carry out the ADA's objectives of providing "a clear and comprehensive national mandate for the elimination of discrimination" and "clear, strong, consistent, enforceable standards addressing discrimination" by reinstating a broad scope of protection to be available under the ADA;</p>
   <p class="margin-left-8">(2) to reject the requirement enunciated by the Supreme Court in Sutton v. United Air Lines, Inc., 527 U.S. 471 (1999) and its companion cases that whether an impairment substantially limits a major life activity is to be determined with reference to the ameliorative effects of mitigating measures; </p>
   <p class="margin-left-8">(3) to reject the Supreme Court's reasoning in Sutton v. United Air Lines, Inc., 527 U.S. 471 (1999) with regard to coverage under the third prong of the definition of disability and to reinstate the reasoning of the Supreme Court in School Board of Nassau County v. Arline, 480 U.S. 273 (1987) which set forth a broad view of the third prong of the definition of handicap under the Rehabilitation Act of 1973;</p>
@@ -55,7 +55,7 @@ lead: |-
 ### Sec. 12102.  Definition of disability
 <p class="margin-left-4"> As used in this chapter: </p>
 <p class="margin-left-8"> (1) Disability</p>
-<p class="margin-left-8"> The term "disability" means, with respect to an individual</p>
+<p class="margin-left-8"> The term "disability" means, with respect to an individual—</p>
 <p class="margin-left-12">(A) a physical or mental impairment that substantially limits one or more major life activities of such individual;</p>
 <p class="margin-left-12"> (B) a record of such an impairment; or</p>
 <p class="margin-left-12">(C) being regarded as having such an impairment (as described in paragraph (3)). </p>
@@ -75,20 +75,20 @@ lead: |-
   <p class="margin-left-12">(C) An impairment that substantially limits one major life activity need not limit other major life activities in order to be considered a disability.</p>
   <p class="margin-left-12">(D) An impairment that is episodic or in remission is a disability if it would substantially limit a major life activity when active.</p>
   <p class="margin-left-12">(E)</p>
-  <p class="margin-left-16">(i) The determination of whether an impairment substantially limits a major life activity shall be made without regard to the ameliorative effects of mitigating measures such as </p>
+  <p class="margin-left-16">(i) The determination of whether an impairment substantially limits a major life activity shall be made without regard to the ameliorative effects of mitigating measures such as—</p>
   <p class="margin-left-20">(I) medication, medical supplies, equipment, or appliances, low-vision devices (which do not include ordinary eyeglasses or contact lenses), prosthetics including limbs and devices, hearing aids and cochlear implants or other implantable hearing devices, mobility devices, or oxygen therapy equipment and supplies;</p>
   <p class="margin-left-20">(II) use of assistive technology;</p>
   <p class="margin-left-20">(III) reasonable accommodations or auxiliary aids or services; or</p>
   <p class="margin-left-20">(IV) learned behavioral or adaptive neurological modifications.</p>
   <p class="margin-left-16">(ii) The ameliorative effects of the mitigating measures of ordinary eyeglasses or contact lenses shall be considered in determining whether an impairment substantially limits a major life activity.</p>
-  <p class="margin-left-16"> (iii) As used in this subparagraph</p>
+  <p class="margin-left-16"> (iii) As used in this subparagraph—</p>
   <p class="margin-left-20"> (I) the term "ordinary eyeglasses or contact lenses" means lenses that are intended to fully correct visual acuity or eliminate refractive error; and </p>
   <p class="margin-left-20">(II) the term "low-vision devices" means devices that magnify, enhance, or otherwise augment a visual image.</p>
 
 ### Sec. 12103. Additional definitions
-  <p class="margin-left-1"> As used in this chapter</p>
+  <p class="margin-left-1"> As used in this chapter:</p>
   <p class="margin-left-8"> (1) Auxiliary aids and services</p>
-  <p class="margin-left-8"> The term "auxiliary aids and services" includes</p>
+  <p class="margin-left-8"> The term "auxiliary aids and services" includes—</p>
   <p class="margin-left-12">(A) qualified interpreters or other effective methods of making aurally delivered materials available to individuals with hearing impairments;</p>
   <p class="margin-left-12">(B) qualified readers, taped texts, or other effective methods of making visually delivered materials available to individuals with visual impairments;</p>
   <p class="margin-left-12">(C) acquisition or modification of equipment or devices; and </p>
@@ -113,7 +113,7 @@ lead: |-
 <p class="margin-left-12"> (A) In general</p>
 <p class="margin-left-12">The term "employer" means a person engaged in an industry affecting commerce who has 15 or more employees for each working day in each of 20 or more calendar weeks in the current or preceding calendar year, and any agent of such person, except that, for two years following the effective date of this subchapter, an employer means a person engaged in an industry affecting commerce who has 25 or more employees for each working day in each of 20 or more calendar weeks in the current or preceding year, and any agent of such person.</p>
 <p class="margin-left-12"> (B) Exceptions</p>
-<p class="margin-left-12"> The term "employer" does not include</p>
+<p class="margin-left-12"> The term "employer" does not include—</p>
 <p class="margin-left-16">(i) the United States, a corporation wholly owned by the government of the United States, or an Indian tribe; or</p>
 <p class="margin-left-16">(ii) a bona fide private membership club (other than a labor organization) that is exempt from taxation under section 501(c) of title 26.</p>
 <p class="margin-left-8"> (6) Illegal use of drugs</p>
@@ -133,7 +133,7 @@ lead: |-
 <p class="margin-left-12"> (A) In general</p>
 <p class="margin-left-12">The term "undue hardship" means an action requiring significant difficulty or expense, when considered in light of the factors set forth in subparagraph (B).</p>
 <p class="margin-left-12">(B) Factors to be considered</p>
-<p class="margin-left-12">In determining whether an accommodation would impose an undue hardship on a covered entity, factors to be considered include</p>
+<p class="margin-left-12">In determining whether an accommodation would impose an undue hardship on a covered entity, factors to be considered include—</p>
 <p class="margin-left-16">(i) the nature and cost of the accommodation needed under this chapter;</p>
 <p class="margin-left-16">(ii) the overall financial resources of the facility or facilities involved in the provision of the reasonable accommodation; the number of persons employed at such facility; the effect on expenses and resources, or the impact otherwise of such accommodation upon the operation of the facility;</p>
 <p class="margin-left-16">(iii) the overall financial resources of the covered entity; the overall size of the business of a covered entity with respect to the number of its employees; the number, type, and location of its facilities; and</p>
@@ -143,12 +143,12 @@ lead: |-
 <p class="margin-left-4"> <a name="12112a" id="12112a"></a>(a) General rule</p>
 <p class="margin-left-4">No covered entity shall discriminate against a qualified individual  on the basis of disability in regard to job application procedures, the hiring, advancement, or discharge of employees, employee compensation, job training, and other terms, conditions, and privileges of employment.</p>
 <p class="margin-left-4"> <a name="12112b" id="12112b"></a>(b) Construction</p>
-<p class="margin-left-4">As used in subsection (a) of this section, the term  "discriminate against a qualified individual on the basis of disability" includes</p>
+<p class="margin-left-4">As used in subsection (a) of this section, the term  "discriminate against a qualified individual on the basis of disability" includes—</p>
 <p class="margin-left-8">(1) limiting, segregating, or classifying a job applicant or employee in a way that adversely affects the opportunities or status of such applicant or employee because of the disability of such applicant or employee;</p>
 <p class="margin-left-8">(2) participating in a contractual or other arrangement or relationship that has the effect of subjecting a covered entity's qualified applicant or employee with a disability to the discrimination prohibited by this subchapter (such relationship includes a relationship with an employment or referral agency, labor union, an organization providing fringe benefits to an employee of the covered entity, or an organization providing training and apprenticeship programs);</p>
-<p class="margin-left-8">(3) utilizing standards, criteria, or methods of administration</p>
-<p class="margin-left-12">(A) that have the effect of discrimination on the basis of disability;</p>
-<p class="margin-left-12">(B) that perpetuates the discrimination of others who are subject to common administrative control;</p>
+<p class="margin-left-8">(3) utilizing standards, criteria, or methods of administration—</p>
+<p class="margin-left-12">(A) that have the effect of discrimination on the basis of disability; or</p>
+<p class="margin-left-12">(B) that perpetuate the discrimination of others who are subject to common administrative control;</p>
 <p class="margin-left-8">(4) excluding or otherwise denying equal jobs or benefits to a qualified individual because of the known disability of an individual with whom the qualified individual is known to have a relationship or association;</p>
 <p class="margin-left-8"> (5)</p>
 <p class="margin-left-12">(A) not making reasonable accommodations to the known physical or mental limitations of an otherwise qualified individual with a disability who is an applicant or employee, unless such covered entity can demonstrate that the accommodation would impose an undue hardship on the operation of the business of such covered entity; or</p>
@@ -157,18 +157,18 @@ lead: |-
 <p class="margin-left-8">(7) failing to select and administer tests concerning employment in the most effective manner to ensure that, when such test is administered to a job applicant or employee who has a disability that impairs sensory, manual, or speaking skills, such test results accurately reflect the skills, aptitude, or whatever other factor of such applicant or employee that such test purports to measure, rather than reflecting the impaired sensory, manual, or speaking skills of such employee or applicant (except where such skills are the factors that the test purports to measure).</p>
 <p class="margin-left-4">  <a name="12112c" id="12112c"></a>(c) Covered entities in foreign countries</p>
 <p class="margin-left-8"> (1) In general</p>
-<p class="margin-left-8">It shall not be unlawful under this section for a covered entity to take any action that constitute discrimination under this section with respect to an employee in a workplace in a foreign country if compliance with this section would cause such covered entity to violate the law of the foreign country in which such workplace is located.</p>
+<p class="margin-left-8">It shall not be unlawful under this section for a covered entity to take any action that constitutes discrimination under this section with respect to an employee in a workplace in a foreign country if compliance with this section would cause such covered entity to violate the law of the foreign country in which such workplace is located.</p>
 <p class="margin-left-8"> (2) Control of corporation</p>
 <p class="margin-left-12"> (A) Presumption</p>
 <p class="margin-left-12">If an employer controls a corporation whose place of incorporation is a foreign country, any practice that constitutes discrimination under this section and is engaged in by such corporation shall be presumed to be engaged in by such employer.</p>
 <p class="margin-left-12"> (B) Exception</p>
 <p class="margin-left-12">This section shall not apply with respect to the foreign operations of an employer that is a foreign person not controlled by an American employer.</p>
 <p class="margin-left-12"> (C) Determination</p>
-<p class="margin-left-12">For purposes of this paragraph, the determination of whether an employer controls a corporation shall be based on</p>
+<p class="margin-left-12">For purposes of this paragraph, the determination of whether an employer controls a corporation shall be based on—</p>
 <p class="margin-left-16"> (i) the interrelation of operations;</p>
 <p class="margin-left-16"> (ii) the common management;</p>
 <p class="margin-left-16"> (iii) the centralized control of labor relations; and</p>
-<p class="margin-left-16">(iv) the common ownership or financial control of the employer and the corporation.</p>
+<p class="margin-left-16">(iv) the common ownership or financial control, of the employer and the corporation.</p>
 <p class="margin-left-4"> <a name="12112d" id="12112d"></a>(d) Medical examinations and inquiries</p>
 <p class="margin-left-8"> (1) In general</p>
 <p class="margin-left-8">The prohibition against discrimination as referred to in subsection (a) of this section shall include medical examinations and inquiries.</p>
@@ -178,9 +178,9 @@ lead: |-
 <p class="margin-left-12"> (B) Acceptable inquiry</p>
 <p class="margin-left-12">A covered entity may make preemployment inquiries into the ability of an applicant to perform job-related functions.</p>
 <p class="margin-left-8"> (3) Employment entrance examination</p>
-<p class="margin-left-8">A covered entity may require a medical examination after an offer of employment has been made to a job applicant and prior to the commencement of the employment duties of such applicant, and may condition an offer of employment on the results of such examination, if</p>
+<p class="margin-left-8">A covered entity may require a medical examination after an offer of employment has been made to a job applicant and prior to the commencement of the employment duties of such applicant, and may condition an offer of employment on the results of such examination, if—</p>
 <p class="margin-left-12">(A) all entering employees are subjected to such an examination regardless of disability;</p>
-<p class="margin-left-12">(B) information obtained regarding the medical condition or history of the applicant is collected and maintained on separate forms and in separate medical files and is treated as a confidential medical record, except that</p>
+<p class="margin-left-12">(B) information obtained regarding the medical condition or history of the applicant is collected and maintained on separate forms and in separate medical files and is treated as a confidential medical record, except that—</p>
 <p class="margin-left-16">(i) supervisors and managers may be informed regarding necessary restrictions on the work or duties of the employee and necessary accommodations;</p>
 <p class="margin-left-16">(ii) first aid and safety personnel may be informed, when appropriate, if the disability might require emergency treatment; and</p>
 <p class="margin-left-16">(iii) government officials investigating compliance with this chapter shall be provided relevant information on request; and</p>
@@ -209,7 +209,7 @@ lead: |-
 <p class="margin-left-8">Under this subchapter, a religious organization may require that all applicants and employees conform to the religious tenets of such organization.</p>
 <p class="margin-left-4"> <a name="12113e" id="12113e"></a>(e) List of infectious and communicable diseases</p>
 <p class="margin-left-8"> (1) In general</p>
-<p class="margin-left-8">The Secretary of Health and Human Services, not later than 6 months after July 26, 1990, shall</p>
+<p class="margin-left-8">The Secretary of Health and Human Services, not later than 6 months after July 26, 1990, shall—</p>
 <p class="margin-left-12">(A) review all infectious and communicable diseases which may be transmitted through handling the food supply;</p>
 <p class="margin-left-12">(B) publish a list of infectious and communicable diseases which are transmitted through handling the food supply;</p>
 <p class="margin-left-12">(C) publish the methods by which such diseases are transmitted; and</p>
@@ -224,18 +224,18 @@ lead: |-
 <p class="margin-left-4"> <a name="12114a" id="12114a"></a>(a) Qualified individual with a disability</p>
 <p class="margin-left-4">For purposes of this subchapter, a qualified individual with a disability shall not include any employee or applicant who is currently engaging in the illegal use of drugs, when the covered entity acts on the basis of such use.</p>
 <p class="margin-left-4"> <a name="12114b" id="12114b"></a>(b) Rules of construction</p>
-<p class="margin-left-4">Nothing in subsection (a) of this section shall be construed to exclude as a qualified individual with a disability an individual who</p>
+<p class="margin-left-4">Nothing in subsection (a) of this section shall be construed to exclude as a qualified individual with a disability an individual who—</p>
 <p class="margin-left-8">(1) has successfully completed a supervised drug rehabilitation program and is no longer engaging in the illegal use of drugs, or has otherwise been rehabilitated successfully and is no longer engaging in such use;</p>
 <p class="margin-left-8">(2) is participating in a supervised rehabilitation program and is no longer engaging in such use; or</p>
 <p class="margin-left-8">(3) is erroneously regarded as engaging in such use, but is not engaging in such use;</p>
 <p class="margin-left-8">except that it shall not be a violation of this chapter for a covered entity to adopt or administer reasonable policies or procedures, including but not limited to drug testing, designed to ensure that an individual described in paragraph (1) or (2) is no longer engaging in the illegal use of drugs.</p>
 <p class="margin-left-4"> <a name="12114c" id="12114c"></a>(c) Authority of covered entity</p>
-<p class="margin-left-4"> A covered entity</p>
+<p class="margin-left-4"> A covered entity—</p>
 <p class="margin-left-8">(1) may prohibit the illegal use of drugs and the use of alcohol at the workplace by all employees;</p>
 <p class="margin-left-8"> (2) may require that employees shall not be under the influence of alcohol or be engaging in the illegal use of drugs at the workplace;</p>
 <p class="margin-left-8">(3) may require that employees behave in conformance with the requirements established under the Drug-Free Workplace Act of 1988 (41 U.S.C. 701 et seq.);</p>
 <p class="margin-left-8">(4) may hold an employee who engages in the illegal use of drugs or who is an alcoholic to the same qualification standards for employment or job performance and behavior that such entity holds other employees, even if any unsatisfactory performance or behavior is related to the drug use or alcoholism of such employee; and</p>
-<p class="margin-left-8">(5) may, with respect to Federal regulations regarding alcohol and the illegal use of drugs, require that</p>
+<p class="margin-left-8">(5) may, with respect to Federal regulations regarding alcohol and the illegal use of drugs, require that—</p>
 <p class="margin-left-12">(A) employees comply with the standards established in such regulations of the Department of Defense, if the employees of the covered entity are employed in an industry subject to such regulations, including complying with regulations (if any) that apply to employment in sensitive positions in such an industry, in the case of employees of the covered entity who are employed in such positions (as defined in the regulations of the Department of Defense);</p>
 <p class="margin-left-12">(B) employees comply with the standards established in such regulations of the Nuclear Regulatory Commission, if the employees of the covered entity are employed in an industry subject to such regulations, including complying with regulations (if any) that apply to employment in sensitive positions in such an industry, in the case of employees of the covered entity who are employed in such positions (as defined in the regulations of the Nuclear Regulatory Commission); and</p>
 <p class="margin-left-12">(C) employees comply with the standards established in such regulations of the Department of Transportation, if the employees of the covered entity are employed in a transportation industry subject to such regulations, including complying with such regulations (if any) that apply to employment in sensitive positions in such an industry, in the case of employees of the covered entity who are employed in such positions (as defined in the regulations of the Department of Transportation).</p>
@@ -245,9 +245,9 @@ lead: |-
 <p class="margin-left-8"> (2) Construction</p>
 <p class="margin-left-8">Nothing in this subchapter shall be construed to encourage, prohibit, or authorize the conducting of drug testing for the illegal use of drugs by job applicants or employees or making employment decisions based on such test results.</p>
 <p class="margin-left-4"> <a name="12114e" id="12114e"></a>(e) Transportation employees</p>
-<p class="margin-left-4">Nothing in this subchapter shall be construed to encourage, prohibit, restrict, or authorize the otherwise lawful exercise by entities subject to the jurisdiction of the Department of Transportation of authority to</p>
+<p class="margin-left-4">Nothing in this subchapter shall be construed to encourage, prohibit, restrict, or authorize the otherwise lawful exercise by entities subject to the jurisdiction of the Department of Transportation of authority to—</p>
 <p class="margin-left-8">(1) test employees of such entities in, and applicants for, positions involving safety-sensitive duties for the illegal use of drugs and for on-duty impairment by alcohol; and</p>
-<p class="margin-left-8">(2) remove such persons who test positive for illegal use of drugs and on-duty impairment by alcohol pursuant to paragraph (1) from safety-sensitive duties in implementing subsection (c) of this section.</p>
+<p class="margin-left-8">(2) remove such persons who test positive for illegal use of drugs and on-duty impairment by alcohol pursuant to paragraph (1) from safety-sensitive duties in implementing subsection (c).</p>
 
 ### Sec. 12115. Posting notices
 <p class="margin-left-1">Every employer, employment agency, labor organization, or joint labor-management committee covered under this subchapter shall post notices in an accessible format to applicants, employees, and members describing the applicable provisions of this chapter, in the manner prescribed by section 2000e-10 of this title.</p>
@@ -311,7 +311,7 @@ lead: |-
 <p class="margin-left-4">Subject to subsection (c)(1) of this section, it shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a public entity which operates a fixed route system to purchase or lease, after the 30th day following July 26, 1990, a used vehicle for use on such system unless such entity makes demonstrated good faith efforts to purchase or lease a used vehicle for use on such system that is readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs.</p>
 <p class="margin-left-4"> <a name="12142c" id="12142c"></a>(c) Remanufactured vehicles</p>
 <p class="margin-left-8"> (1) General rule</p>
-<p class="margin-left-8">Except as provided in paragraph (2), it shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a public entity which operates a fixed route system</p>
+<p class="margin-left-8">Except as provided in paragraph (2), it shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a public entity which operates a fixed route system—</p>
 <p class="margin-left-12">(A) to remanufacture a vehicle for use on such system so as to extend its usable life for 5 years or more, which remanufacture begins (or for which the solicitation is made) after the 30th day following July 26, 1990; or</p>
 <p class="margin-left-12">(B) to purchase or lease for use on such system a remanufactured vehicle which has been remanufactured so as to extend its usable life for 5 years or more, which purchase or lease occurs after such 30th day and during the period in which the usable life is extended; unless, after remanufacture, the vehicle is, to the maximum extent feasible, readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs.</p>
 <p class="margin-left-8"> (2) Exception for historic vehicles</p>
@@ -335,7 +335,7 @@ lead: |-
 <p class="margin-left-16">(ii) to any individual with a disability who needs the assistance of a wheelchair lift or other boarding assistance device (and is able with such assistance) to board, ride, and disembark from any vehicle which is readily accessible to and usable by individuals with disabilities if the individual wants to travel on a route on the system during the hours of operation of the system at a time (or within a reasonable period of such time) when such a vehicle is not being used to provide designated public transportation on the route; and</p>
 <p class="margin-left-16">(iii) to any individual with a disability who has a specific impairment-related condition which prevents such individual from traveling to a boarding location or from a disembarking location on such system;</p>
 <p class="margin-left-12">(B) to one other individual accompanying the individual with the disability; and</p>
-<p class="margin-left-12">(C) to other individuals, in addition to the one individual described in subparagraph (a), accompanying the individual with a disability provided that space for these additional individuals are available on the paratransit vehicle carrying the individual with a disability and that the transportation of such additional individuals will not result in a denial of service to individuals with disabilities.</p>
+<p class="margin-left-12">(C) to other individuals, in addition to the one individual described in subparagraph (B), accompanying the individual with a disability provided that space for these additional individuals are available on the paratransit vehicle carrying the individual with a disability and that the transportation of such additional individuals will not result in a denial of service to individuals with disabilities.</p>
 <p class="margin-left-12">For purposes of clauses (i) and (ii) of subparagraph (A), boarding or disembarking from a vehicle does not include travel to the boarding location or from the disembarking location.</p>
 <p class="margin-left-8"> (2) Service area</p>
 <p class="margin-left-8">The regulations issued under this section shall require the provision of paratransit and special transportation services required under this section in the service area of each public entity which operates a fixed route system, other than any portion of the service area in which the public entity solely provides commuter bus service.</p>
@@ -348,7 +348,7 @@ lead: |-
 <p class="margin-left-8"> (6) Public participation</p>
 <p class="margin-left-8">The regulations issued under this section shall require that each public entity which operates a fixed route system hold a public hearing, provide an opportunity for public comment, and consult with individuals with disabilities in preparing its plan under paragraph (7).</p>
 <p class="margin-left-8"> (7) Plans</p>
-<p class="margin-left-8">The regulations issued under this section shall require that each public entity which operates a fixed route system</p>
+<p class="margin-left-8">The regulations issued under this section shall require that each public entity which operates a fixed route system—</p>
 <p class="margin-left-12">(A) within 18 months after July 26, 1990, submit to the Secretary, and commence implementation of, a plan for providing paratransit and other special transportation services which meets the requirements of this section; and</p>
 <p class="margin-left-12">(B) on an annual basis thereafter, submit to the Secretary, and commence implementation of, a plan for providing such services.</p>
 <p class="margin-left-8"> (8) Provision of services by others</p>
@@ -366,12 +366,12 @@ lead: |-
 <p class="margin-left-8">Not later than 90 days after the date of disapproval of a plan under this subsection, the public entity which submitted the plan shall modify the plan to meet the requirements of this section and shall submit to the Secretary, and commence implementation of, such modified plan.</p>
 <p class="margin-left-4"> <a name="12143e" id="12143e"></a>(e) "Discrimination" defined</p>
 <p class="margin-left-4"> As used in subsection (a) of this section, the term "discrimination" includes</p>
-<p class="margin-left-8">(1) a failure of a public entity to which the regulations issued under this section apply to submit, or commence implementation of, a plan in accordance with subsections (c)(6) and (c)(7) of this section;</p>
-<p class="margin-left-8">(2) a failure of such entity to submit, or commence implementation of, a modified plan in accordance with subsection (d) (3) of this section;</p>
+<p class="margin-left-8">(1) a failure of a public entity to which the regulations issued under this section apply to submit, or commence implementation of, a plan in accordance with subsections (c)(6) and (c)(7);</p>
+<p class="margin-left-8">(2) a failure of such entity to submit, or commence implementation of, a modified plan in accordance with subsection (d)(3);</p>
 <p class="margin-left-8">(3) submission to the Secretary of a modified plan under subsection (d)(3) of this section which does not meet the requirements of this section; or</p>
 <p class="margin-left-8">(4) a failure of such entity to provide paratransit or other special transportation services in accordance with the plan or modified plan the public entity submitted to the Secretary under this section.</p>
 <p class="margin-left-4"> <a name="12143f" id="12143f"></a>(f) Statutory construction</p>
-<p class="margin-left-4">Nothing in this section shall be construed as preventing a public entity</p>
+<p class="margin-left-4">Nothing in this section shall be construed as preventing a public entity—</p>
 <p class="margin-left-8">(1) from providing paratransit or other special transportation services at a level which is greater than the level of such services which are required by this section,</p>
 <p class="margin-left-8">(2) from providing paratransit or other special transportation services in addition to those paratransit and special transportation services required by this section, or</p>
 <p class="margin-left-8">(3) from providing such services to individuals in addition to those individuals to whom such services are required to be provided by this section.</p>
@@ -389,7 +389,7 @@ lead: |-
 <p class="margin-left-4"> <a name="12145b" id="12145b"></a>(b) Duration and notice to Congress</p>
 <p class="margin-left-4">Any relief granted under subsection (a) of this section shall be limited in duration by a specified date, and the appropriate committees of Congress shall be notified of any such relief granted.</p>
 <p class="margin-left-4"> <a name="12145c" id="12145c"></a>(c) Fraudulent application</p>
-<p class="margin-left-4">If, at any time, the Secretary has reasonable cause to believe that any relief granted under subsection (a) of this section was fraudulently applied for, the Secretary shall</p>
+<p class="margin-left-4">If, at any time, the Secretary has reasonable cause to believe that any relief granted under subsection (a) of this section was fraudulently applied for, the Secretary shall—</p>
 <p class="margin-left-8"> (1) cancel such relief if such relief is still in effect; and</p>
 <p class="margin-left-8"> (2) take such other action as the Secretary considers appropriate.</p>
 
@@ -404,7 +404,7 @@ lead: |-
 <p class="margin-left-8">For purposes of section 12132 of this title and section 794 of title 29, it shall be considered discrimination for a public entity that provides designated public transportation to fail, in accordance with the provisions of this subsection, to make key stations (as determined under criteria established by the Secretary by regulation) in rapid rail and light rail systems readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs.</p>
 <p class="margin-left-8"> (2) Rapid rail and light rail key stations</p>
 <p class="margin-left-12"> (A) Accessibility</p>
-<p class="margin-left-12">Except as otherwise provided in this paragraph, all key stations (as determined under criteria established by the Secretary by regulation] in rapid rail and light rail systems shall be made readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as soon as practicable but in no event later than the last day of the 3-year period beginning on July 26, 1990.</p>
+<p class="margin-left-12">Except as otherwise provided in this paragraph, all key stations (as determined under criteria established by the Secretary by regulation) in rapid rail and light rail systems shall be made readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as soon as practicable but in no event later than the last day of the 3-year period beginning on July 26, 1990.</p>
 <p class="margin-left-12"> (B) Extension for extraordinarily expensive structural changes</p>
 <p class="margin-left-12">The Secretary may extend the 3-year period under subparagraph (A) up to a 30-year period for key stations in a rapid rail or light rail system which stations need extraordinarily expensive structural changes to, or replacement of, existing facilities; except that by the last day of the 20th year following July 26, 1990, at least 2/3 of such key stations must be readily accessible to and usable by individuals with disabilities.</p>
 <p class="margin-left-8"> (3) Plans and milestones</p>
@@ -417,7 +417,7 @@ lead: |-
 <p class="margin-left-8"> (1) In general</p>
 <p class="margin-left-8">With respect to existing facilities used in the provision of designated public transportation services, it shall be considered discrimination, for purposes of section 12132 of this title and section 794 of title 29, for a public entity to fail to operate a designated public transportation program or activity conducted in such facilities so that, when viewed in the entirety, the program or activity is readily accessible to and usable by individuals with disabilities.</p>
 <p class="margin-left-8"> (2) Exception</p>
-<p class="margin-left-8">Paragraph (1) shall not require a public entity to make structural changes to existing facilities in order to make such facilities accessible to individuals who use wheelchairs, unless and to the extent required by section 12147(a) of this title (relating to alterations) or section 12147(a) of this title (relating to key stations).</p>
+<p class="margin-left-8">Paragraph (1) shall not require a public entity to make structural changes to existing facilities in order to make such facilities accessible to individuals who use wheelchairs, unless and to the extent required by section 12147(a) of this title (relating to alterations) or section 12147(b) of this title (relating to key stations).</p>
 <p class="margin-left-8"> (3) Utilization</p>
 <p class="margin-left-8">Paragraph (1) shall not require a public entity to which paragraph (2) applies, to provide to individuals who use wheelchairs services made available to the general public at such facilities when such individuals could not utilize or benefit from such services provided at such facilities.</p>
 <p class="margin-left-4"> <a name="12148b" id="12148b"></a>(b) One car per train rule</p>
@@ -479,8 +479,8 @@ lead: |-
 <p class="margin-left-16">(iv) have a restroom usable by an individual who uses a wheelchair.</p>
 <p class="margin-left-8"> (3) Accessibility of single-level coaches</p>
 <p class="margin-left-12"> (A) General rule</p>
-<p class="margin-left-12">It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a person who provides intercity rail transportation to fail to have on each train which includes one or more single-level rail passenger coaches</p>
-<p class="margin-left-16"> (i) a number of spaces</p>
+<p class="margin-left-12">It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a person who provides intercity rail transportation to fail to have on each train which includes one or more single-level rail passenger coaches—</p>
+<p class="margin-left-16"> (i) a number of spaces—</p>
 <p class="margin-left-20">(I) to park and secure wheelchairs (to accommodate individuals who wish to remain in their wheelchairs) equal to not less than one-half of the number of single-level rail passenger coaches in such train; and</p>
 <p class="margin-left-20">(II) to fold and store wheelchairs (to accommodate individuals who wish to transfer to coach seats) equal to not less than one-half of the number of single-level rail passenger coaches in such train, as soon as practicable, but in no event later than 5 years after July 26, 1990; and</p>
 <p class="margin-left-12"> (B) Location</p>
@@ -496,9 +496,10 @@ lead: |-
 <p class="margin-left-20">(I) the car adjacent to the end of the dining car through which a wheelchair may enter is itself accessible to a wheelchair;</p>
 <p class="margin-left-20">(II) such passenger can exit to the platform from the car such passenger occupies, move down the platform, and enter the adjacent accessible car described in subclause (I) without the necessity of the train being moved within the station; and</p>
 <p class="margin-left-20">(III) space to park and secure a wheelchair is available in the dining car at the time such passenger wishes to eat (if such passenger wishes to remain in a wheelchair), or space to store and fold a wheelchair is available in the dining car at the time such passenger wishes to eat (if such passenger wishes to transfer to a dining car seat); and</p>
-<p class="margin-left-16">(ii) appropriate auxiliary aids and services, including a hard surface on which to eat, shall be provided to ensure that other equivalent food service is available to individuals with disabilities, including individuals who use wheelchairs, and to passengers traveling with such individuals. Unless not practicable, a person providing intercity rail transportation shall place an accessible car adjacent to the end of a dining car described in clause (I) through which an individual who uses a wheelchair may enter.</p>
+<p class="margin-left-16">(ii) appropriate auxiliary aids and services, including a hard surface on which to eat, shall be provided to ensure that other equivalent food service is available to individuals with disabilities, including individuals who use wheelchairs, and to passengers traveling with such individuals.</p>
+<p class="margin-left-16">Unless not practicable, a person providing intercity rail transportation shall place an accessible car adjacent to the end of a dining car described in clause (I) through which an individual who uses a wheelchair may enter.</p>
 <p class="margin-left-12"> (B) Bi-level dining cars</p>
-<p class="margin-left-12">On any train in which a bi-level dining car is used to provide food service</p>
+<p class="margin-left-12">On any train in which a bi-level dining car is used to provide food service—</p>
 <p class="margin-left-16">(i) if such train includes a bi-level lounge car purchased after July 26, 1990, table service in such lounge car shall be provided to individuals who use wheelchairs and to other passengers; and</p>
 <p class="margin-left-16">(ii) appropriate auxiliary aids and services, including a hard surface on which to eat, shall be provided to ensure that other equivalent food service is available to individuals with disabilities, including individuals who use wheelchairs, and to passengers traveling with such individuals.</p>
 <p class="margin-left-4"> <a name="12162b" id="12162b"></a>(b) Commuter rail transportation</p>
@@ -508,12 +509,12 @@ lead: |-
 <p class="margin-left-12"> (A) General rule</p>
 <p class="margin-left-12">It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a person to purchase or lease any new rail passenger cars for use in commuter rail transportation, and for which a solicitation is made later than 30 days after July 26, 1990, unless all such rail cars are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as prescribed by the Secretary of Transportation in regulations issued under section 12164 of this title.</p>
 <p class="margin-left-12"> (B) Accessibility</p>
-<p class="margin-left-12">For purposes of section 12132 of this title and section 794 of title 29, a requirement that a rail passenger car used in commuter rail transportation be accessible to or readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, shall not be construed to require</p>
+<p class="margin-left-12">For purposes of section 12132 of this title and section 794 of title 29, a requirement that a rail passenger car used in commuter rail transportation be accessible to or readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, shall not be construed to require—</p>
 <p class="margin-left-16">(i) a restroom usable by an individual who uses a wheelchair if no restroom is provided in such car for any passenger;</p>
 <p class="margin-left-16">(ii) space to fold and store a wheelchair; or</p>
 <p class="margin-left-16">(iii) a seat to which a passenger who uses a wheelchair can transfer.</p>
 <p class="margin-left-4"> <a name="12162c" id="12162c"></a>(c) Used rail cars</p>
-<p class="margin-left-4">It shall be considered discrimination for purposes of section 1132 of this title and section 794 of title 29 for a person to purchase or lease a used rail passenger car for use in intercity or commuter rail transportation, unless such person makes demonstrated good faith efforts to purchase or lease a used rail car that is readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as prescribed by the Secretary of Transportation in regulations issued under section 12164 of this title.</p>
+<p class="margin-left-4">It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a person to purchase or lease a used rail passenger car for use in intercity or commuter rail transportation, unless such person makes demonstrated good faith efforts to purchase or lease a used rail car that is readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as prescribed by the Secretary of Transportation in regulations issued under section 12164 of this title.</p>
 <p class="margin-left-4"> <a name="12162d" id="12162d"></a>(d) Remanufactured rail cars</p>
 <p class="margin-left-8"> (1) Remanufacturing</p>
 <p class="margin-left-8">It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a person to remanufacture a rail passenger car for use in intercity or commuter rail transportation so as to extend its usable life for 10 years or more, unless the rail car, to the maximum extent feasible, is made readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as prescribed by the Secretary of Transportation in regulations issued under section 12164 of this title.</p>
@@ -544,7 +545,7 @@ lead: |-
 <p class="margin-left-12">It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for an owner, or person in control, of a station governed by subparagraph (a) or (b) to fail to provide reasonable cooperation to a responsible person with respect to such station in that responsible person's efforts to comply with such subparagraph. An owner, or person in control, of a station shall be liable to a responsible person for any failure to provide reasonable cooperation as required by this subparagraph. Failure to receive reasonable cooperation required by this subparagraph shall not be a defense to a claim of discrimination under this chapter.</p>
 
 #### Sec. 12163. Conformance of accessibility standards
-<p class="margin-left-1">Accessibility standards included in regulations issued under this subpart shall be consistent with the minimum guidelines issued by the Architectural and Transportation Barriers Compliance Board under section 504(a) of this title.</p>
+<p class="margin-left-1">Accessibility standards included in regulations issued under this subpart shall be consistent with the minimum guidelines issued by the Architectural and Transportation Barriers Compliance Board under section 12204 of this title.</p>
 
 #### Sec. 12164. Regulations
 <p class="margin-left-1">Not later than 1 year after July 26, 1990, the Secretary of Transportation shall issue regulations, in an accessible format, necessary for carrying out this subpart.</p>
@@ -559,12 +560,12 @@ lead: |-
 ### Sec. 12181. Definitions
 <p class="margin-left-1"> As used in this subchapter:</p>
 <p class="margin-left-8"> (1) Commerce</p>
-<p class="margin-left-8">The term "commerce" means travel, trade, traffic, commerce, transportation, or communications</p>
+<p class="margin-left-8">The term "commerce" means travel, trade, traffic, commerce, transportation, or communication—</p>
 <p class="margin-left-12"> (A) among the several States;</p>
 <p class="margin-left-12">(B) between any foreign country or any territory or possession and any State; or </p>
 <p class="margin-left-12">(C) between points in the same State but through another State or foreign country.</p>
 <p class="margin-left-8"> (2) Commercial facilities</p>
-<p class="margin-left-8"> The term "commercial facilities" means facilities</p>
+<p class="margin-left-8"> The term "commercial facilities" means facilities—</p>
 <p class="margin-left-12"> (A) that are intended for nonresidential use; and</p>
 <p class="margin-left-12"> (B) whose operations will affect commerce.</p>
 <p class="margin-left-12">Such term shall not include railroad locomotives, railroad freight cars, railroad cabooses, railroad cars described in section 12162 of this title or covered under this subchapter, railroad rights-of-way, or facilities that are covered or expressly exempted from coverage under the Fair Housing Act of 1968 (42 U.S.C. 3601 et seq.).</p>
@@ -660,7 +661,7 @@ lead: |-
 <p class="margin-left-8">(1) a failure to design and construct facilities for first occupancy later than 30 months after July 26, 1990, that are readily accessible to and usable by individuals with disabilities, except where an entity can demonstrate that it is structurally impracticable to meet the requirements of such subsection in accordance with standards set forth or incorporated by reference in regulations issued under this subchapter; and</p>
 <p class="margin-left-8">(2) with respect to a facility or part thereof that is altered by, on behalf of, or for the use of an establishment in a manner that affects or could affect the usability of the facility or part thereof, a failure to make alterations in such a manner that, to the maximum extent feasible, the altered portions of the facility are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs. Where the entity is undertaking an alteration that affects or could affect usability of or access to an area of the facility containing a primary function, the entity shall also make the alterations in such a manner that, to the maximum extent feasible, the path of travel to the altered area and the bathrooms, telephones, and drinking fountains serving the altered area, are readily accessible to and usable by individuals with disabilities where such alterations to the path of travel or the bathrooms, telephones, and drinking fountains serving the altered area are not disproportionate to the overall alterations in terms of cost and scope (as determined under criteria established by the Attorney General).</p>
 <p class="margin-left-4"> <a name="12183b" id="12183b"></a>(b) Elevator</p>
-<p class="margin-left-4">Subsection (a) of this section shall not be construed to require the installation of an elevator for facilities that are less than three stories or have less than 3,000 square feet per story unless the building is a shopping center, a shopping mall, or the professional office of a health care provider or unless the Attorney General determines that a particular category of such facilities requires the installation of elevators based on the usage of such facilities.</p>
+<p class="margin-left-4">Subsection (a) shall not be construed to require the installation of an elevator for facilities that are less than three stories or have less than 3,000 square feet per story unless the building is a shopping center, a shopping mall, or the professional office of a health care provider or unless the Attorney General determines that a particular category of such facilities requires the installation of elevators based on the usage of such facilities.</p>
 
 ### Sec. 12184. Prohibition of discrimination in specified public transportation services provided by private entities
 <p class="margin-left-4"> <a name="12184a" id="12184a"></a>(a) General rule</p>
@@ -683,10 +684,10 @@ lead: |-
 <p class="margin-left-8"> (1) Exception</p>
 <p class="margin-left-8">To the extent that compliance with subsection (a)(2)(C) or (b)(7) of this section would significantly alter the historic or antiquated character of a historical or antiquated rail passenger car, or a rail station served exclusively by such cars, or would result in violation of any rule, regulation, standard, or order issued by the Secretary of Transportation under the Federal Railroad Safety Act of 1970, such compliance shall not be required.</p>
 <p class="margin-left-8"> (2) Definition</p>
-<p class="margin-left-8">As used in this subsection, the term "historical or antiquated rail passenger car" means a rail passenger car</p>
+<p class="margin-left-8">As used in this subsection, the term "historical or antiquated rail passenger car" means a rail passenger car—</p>
 <p class="margin-left-12">(A) which is not less than 30 years old at the time of its use for transporting individuals;</p>
 <p class="margin-left-12">(B) the manufacturer of which is no longer in the business of manufacturing rail passenger cars; and</p>
-<p class="margin-left-12">(C) which</p>
+<p class="margin-left-12">(C) which—</p>
 <p class="margin-left-16">(i) has a consequential association with events or persons significant to the past; or</p>
 <p class="margin-left-16">(ii) embodies, or is being restored to embody, the distinctive characteristics of a type of rail passenger car used in the past, or to represent a time period which has passed.</p>
 
@@ -712,7 +713,7 @@ lead: |-
 <p class="margin-left-4"> <a name="12185d" id="12185d"></a>(d) Deadline</p>
 <p class="margin-left-4">The study required by subsection (a) of this section, along with recommendations by the Office of Technology Assessment, including any policy options for legislative action, shall be submitted to the President and Congress within 36 months after July 26, 1990. If the President determines that compliance with the regulations issued pursuant to section 12186(a)(2)(B) of this title on or before the applicable deadlines specified in section 12186(a)(2)(B) of this title will result in a significant reduction in intercity over-the-road bus service, the President shall extend each such deadline by 1 year.</p>
 <p class="margin-left-4"> <a name="12185e" id="12185e"></a>(e) Review</p>
-<p class="margin-left-4">In developing the study required by subsection (a) of this section, the Office of Technology Assessment shall provide a preliminary draft of such study to the Architectural and Transportation Barriers Compliance Board established under section 792 of title 29. The Board shall have an opportunity to comment on such draft study, and any such comments by the Board made in writing within 120 days after the Board's receipt of the draft study shall be incorporated as part of the final study required to be submitted under subsection (d) of this section.</p>
+<p class="margin-left-4">In developing the study required by subsection (a) of this section, the Office of Technology Assessment shall provide a preliminary draft of such study to the Architectural and Transportation Barriers Compliance Board established under section 792 of title 29. The Board shall have an opportunity to comment on such draft study, and any such comments by the Board made in writing within 120 days after the Board's receipt of the draft study shall be incorporated as part of the final study required to be submitted under subsection (d).</p>
 
 ### Sec. 12186. Regulations
 <p class="margin-left-4"> <a name="12186a" id="12186a"></a>(a) Transportation provisions</p>
@@ -768,8 +769,8 @@ lead: |-
 <p class="margin-left-16">(i) any person or group of persons is engaged in a pattern or practice of discrimination under this subchapter; or</p>
 <p class="margin-left-16">(ii) any person or group of persons has been discriminated against under this subchapter and such discrimination raises an issue of general public importance, the Attorney General may commence a civil action in any appropriate United States district court.</p>
 <p class="margin-left-8"> (2) Authority of court</p>
-<p class="margin-left-8">In a civil action under paragraph (1) (B), the court</p>
-<p class="margin-left-12">(A) may grant any equitable relief that such court considers to be appropriate, including, to the extent required by this subchapter</p>
+<p class="margin-left-8">In a civil action under paragraph (1) (B), the court—</p>
+<p class="margin-left-12">(A) may grant any equitable relief that such court considers to be appropriate, including, to the extent required by this subchapter—</p>
 <p class="margin-left-16">(i) granting temporary, preliminary, or permanent relief;</p>
 <p class="margin-left-16">(ii) providing an auxiliary aid or service, modification of policy, practice, or procedure, or alternative method; and</p>
 <p class="margin-left-16">(iii) making facilities readily accessible to and usable by individuals with disabilities;</p>
@@ -793,13 +794,13 @@ lead: |-
 <p class="margin-left-4"> <a name="12201a" id="12201a"></a>(a) In general</p>
 <p class="margin-left-4">Except as otherwise provided in this chapter, nothing in this chapter shall be construed to apply a lesser standard than the standards applied under title V of the Rehabilitation Act of 1973 (29 U.S.C. 790 et seq.) or the regulations issued by Federal agencies pursuant to such title.</p>
 <p class="margin-left-4"> <a name="12201b" id="12201b"></a>(b) Relationship to other laws</p>
-<p class="margin-left-4">Nothing in this chapter shall be construed to invalidate or limit the remedies, rights, and procedures of any Federal law or law of any State or political subdivision of any State or jurisdiction that provides greater or equal protection for the rights of individuals with disabilities than are afforded by this chapter. Nothing in this chapter shall be construed to preclude the prohibition of, or the imposition of restrictions on, smoking in places of employment covered by subchapter I of this chapter, in transportation covered by subchapter II or III of this chapter, or in places of public accommodation covered by subchapter III of this chapter.</p>
+<p class="margin-left-4">Nothing in this chapter shall be construed to invalidate or limit the remedies, rights, and procedures of any Federal law or law of any State or political subdivision of any State or jurisdiction that provides greater or equal protection for the rights of individuals with disabilities than are afforded by this chapter. Nothing in this chapter shall be construed to preclude the prohibition of, or the imposition of restrictions on, smoking in places of employment covered by subchapter I of this chapter, in transportation covered by subchapter II or III of this chapter, or in places of public accommodation covered by subchapter III.</p>
 <p class="margin-left-4"> <a name="12201c" id="12201c"></a>(c) Insurance</p>
-<p class="margin-left-4">Subchapters I through III of this chapter and title IV of this Act shall not be construed to prohibit or restrict</p>
+<p class="margin-left-4">Subchapters I through III of this chapter and title IV of this Act shall not be construed to prohibit or restrict—</p>
 <p class="margin-left-8">(1) an insurer, hospital or medical service company, health maintenance organization, or any agent, or entity that administers benefit plans, or similar organizations from underwriting risks, classifying risks, or administering such risks that are based on or not inconsistent with State law; or</p>
 <p class="margin-left-8">(2) a person or organization covered by this chapter from establishing, sponsoring, observing or administering the terms of a bona fide benefit plan that are based on underwriting risks, classifying risks, or administering such risks that are based on or not inconsistent with State law; or</p>
 <p class="margin-left-8">(3) a person or organization covered by this chapter from establishing, sponsoring, observing or administering the terms of a bona fide benefit plan that is not subject to State laws that regulate insurance.</p>
-<p class="margin-left-8">Paragraphs (1), (2), and (3) shall not be used as a subterfuge to evade the purposes of subchapter I and III of this chapter.</p>
+<p class="margin-left-8">Paragraphs (1), (2), and (3) shall not be used as a subterfuge to evade the purposes of subchapter I and III.</p>
 <p class="margin-left-4"> <a name="12201d" id="12201d"></a>(d) Accommodations and services</p>
 <p class="margin-left-4">Nothing in this chapter shall be construed to require an individual with a disability to accept an accommodation, aid, service, opportunity, or benefit which such individual chooses not to accept.</p>
 
@@ -822,7 +823,7 @@ lead: |-
 <p class="margin-left-4"> <a name="12203b" id="12203b"></a>(b) Interference, coercion, or intimidation</p>
 <p class="margin-left-4">It shall be unlawful to coerce, intimidate, threaten, or interfere with any individual in the exercise or enjoyment of, or on account of his or her having exercised or enjoyed, or on account of his or her having aided or encouraged any other individual in the exercise or enjoyment of, any right granted or protected by this chapter.</p>
 <p class="margin-left-4"> <a name="12203c" id="12203c"></a>(c) Remedies and procedures</p>
-<p class="margin-left-4">The remedies and procedures available under sections 12117, 12133, and 12188 of this title shall be available to aggrieved persons for violations of subsections (a) and (b) of this section, with respect to subchapter I, subchapter II and subchapter III of this chapter, respectively.</p>
+<p class="margin-left-4">The remedies and procedures available under sections 12117, 12133, and 12188 of this title shall be available to aggrieved persons for violations of subsections (a) and (b), with respect to subchapter I, subchapter II and subchapter III of this chapter, respectively.</p>
 
 ### Sec. 12204. Regulations by Architectural and Transportation Barriers Compliance Board
 <p class="margin-left-4"> <a name="12204a" id="12204a"></a>(a) Issuance of guidelines</p>
@@ -841,7 +842,7 @@ lead: |-
 <p class="margin-left-1">In any action or administrative proceeding commenced pursuant to this chapter, the court or agency, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney's fee, including litigation expenses, and costs, and the United States shall be liable for the foregoing the same as a private individual. </p>
 
 ### Sec. 12205a. Rule of Construction Regarding Regulatory Authority
-<p class="margin-left-1">The authority to issue regulations granted to the Equal Employment Opportunity Commission, the Attorney General, and the Secretary of Transportation under this chapter includes the authority to issue regulations implementing the definitions of disability in section 12102 (including rules of construction) and the definitions in section 12103, consistent with the ADA Amendments Act of 2008.</p>
+<p class="margin-left-1">The authority to issue regulations granted to the Equal Employment Opportunity Commission, the Attorney General, and the Secretary of Transportation under this chapter includes the authority to issue regulations implementing the definitions of disability in section 12102 of this title (including rules of construction) and the definitions in section 12103 of this title, consistent with the ADA Amendments Act of 2008.</p>
 
 ### Sec. 12206. Technical assistance
 <p class="margin-left-4"> <a name="12206a" id="12206a"></a>(a) Plan for assistance</p>
@@ -850,24 +851,24 @@ lead: |-
 <p class="margin-left-8"> (2) Publication of plan</p>
 <p class="margin-left-8">The Attorney General shall publish the plan referred to in paragraph (1) for public comment in accordance with subchapter II of chapter 5 of title 5 (commonly known as the Administrative Procedure Act).</p>
 <p class="margin-left-4"> <a name="12206b" id="12206b"></a>(b) Agency and public assistance</p>
-<p class="margin-left-4">The Attorney General may obtain the assistance of other Federal agencies in carrying out subsection (a) of this section, including the National Council on Disability, the President's Committee on Employment of People with Disabilities, the Small Business Administration, and the Department of Commerce.</p>
+<p class="margin-left-4">The Attorney General may obtain the assistance of other Federal agencies in carrying out subsection (a), including the National Council on Disability, the President's Committee on Employment of People with Disabilities, the Small Business Administration, and the Department of Commerce.</p>
 <p class="margin-left-4"> <a name="12206c" id="12206c"></a>(c) Implementation</p>
 <p class="margin-left-8"> (1) Rendering assistance</p>
 <p class="margin-left-8">Each Federal agency that has responsibility under paragraph (2) for implementing this chapter may render technical assistance to individuals and institutions that have rights or duties under the respective subchapter or subchapters of this chapter for which such agency has responsibility.</p>
 <p class="margin-left-8"> (2) Implementation of subchapters</p>
 <p class="margin-left-12"> (A) Subchapter I</p>
-<p class="margin-left-12">The Equal Employment Opportunity Commission and the Attorney General shall implement the plan for assistance developed under subsection (a) of this section, for subchapter I of this chapter.</p>
+<p class="margin-left-12">The Equal Employment Opportunity Commission and the Attorney General shall implement the plan for assistance developed under subsection (a) of this section, for subchapter I.</p>
 <p class="margin-left-12">(B) Subchapter II</p>
 <p class="margin-left-16"> (i) Part A</p>
-<p class="margin-left-16">The Attorney General shall implement such plan for assistance for part A of subchapter II of this chapter.</p>
+<p class="margin-left-16">The Attorney General shall implement such plan for assistance for part A of subchapter II.</p>
 <p class="margin-left-16"> (ii) Part B</p>
-<p class="margin-left-16">The Secretary of Transportation shall implement such plan for assistance for part B of subchapter II of this chapter.</p>
+<p class="margin-left-16">The Secretary of Transportation shall implement such plan for assistance for part B of subchapter II.</p>
 <p class="margin-left-12"> (C) Subchapter III</p>
 <p class="margin-left-12">The Attorney General, in coordination with the Secretary of Transportation and the Chair of the Architectural Transportation Barriers Compliance Board, shall implement such plan for assistance for subchapter III of this chapter, except for section 12184 of this title, the plan for assistance for which shall be implemented by the Secretary of Transportation.</p>
 <p class="margin-left-12"> (D) Title IV</p>
 <p class="margin-left-12">The Chairman of the Federal Communications Commission, in coordination with the Attorney General, shall implement such plan for assistance for title IV.</p>
 <p class="margin-left-8"> (3) Technical assistance manuals</p>
-<p class="margin-left-8">Each Federal agency that has responsibility under paragraph (2) for implementing this chapter shall, as part of its implementation responsibilities, ensure the availability and provision of appropriate technical assistance manuals to individuals or entities with rights or duties under this chapter no later than six months after applicable final regulations are published under subchapters I, II, and III of this chapter and title IV.</p>
+<p class="margin-left-8">Each Federal agency that has responsibility under paragraph (2) for implementing this chapter shall, as part of its implementation responsibilities, ensure the availability and provision of appropriate technical assistance manuals to individuals or entities with rights or duties under this chapter no later than six months after applicable final regulations are published under subchapters I, II, and III and title IV.</p>
 <p class="margin-left-4"> <a name="12206d" id="12206d"></a>(d) Grants and contracts</p>
 <p class="margin-left-8"> (1) In general</p>
 <p class="margin-left-8">Each Federal agency that has responsibility under subsection  (c) (2) of this section for implementing this chapter may make grants or award contracts to effectuate the purposes of this section, subject to the availability of appropriations. Such grants and contracts may be awarded to individuals, institutions not organized for profit and no part of the net earnings of which inures to the benefit of any private shareholder or individual (including educational institutions), and associations representing individuals who have rights or duties under this chapter. Contracts may be awarded to entities organized for profit, but such entities may not be the recipients or grants described in this paragraph.</p>
@@ -891,7 +892,7 @@ lead: |-
 <p class="margin-left-1">For the purposes of this chapter, the term "disabled" or "disability" shall not apply to an individual solely because that individual is a transvestite.</p>
 
 ### Sec. 12209. Instrumentalities of Congress
-<p class="margin-left-1">The General Accounting Office, the Government Printing Office, and the Library of Congress shall be covered as follows:</p>
+<p class="margin-left-1">The Government Accountability Office, the Government Publishing Office, and the Library of Congress shall be covered as follows:</p>
 <p class="margin-left-8"> (1) In general</p>
 <p class="margin-left-8">The rights and protections under this chapter shall, subject to paragraph (2), apply with respect to the conduct of each instrumentality of the Congress.</p>
 <p class="margin-left-8">(2) Establishment of remedies and procedures by instrumentalities</p>
@@ -901,9 +902,9 @@ lead: |-
 <p class="margin-left-8"> (4) Definition of instrumentalities</p>
 <p class="margin-left-8">For purposes of this section, the term "instrumentality of the Congress" means the following: the General Accounting Office, the Government Printing Office, and the Library of Congress.</p>
 <p class="margin-left-8"> (5) Enforcement of employment rights</p>
-<p class="margin-left-8">The remedies and procedures set forth in section 2000e -16 of this title shall be available to any employee of an instrumentality of the Congress who alleges a violation of the rights and protections under sections 12112 through 12114 of this title that are made applicable by this section, except that the authorities of the Equal Employment Opportunity Commission shall be exercised by the chief official of the instrumentality of the Congress.</p>
+<p class="margin-left-8">The remedies and procedures set forth in section 2000e –16 of this title shall be available to any employee of an instrumentality of the Congress who alleges a violation of the rights and protections under sections 12112 through 12114 of this title that are made applicable by this section, except that the authorities of the Equal Employment Opportunity Commission shall be exercised by the chief official of the instrumentality of the Congress.</p>
 <p class="margin-left-8">(6) Enforcement of rights to public services and accommodations</p>
-<p class="margin-left-8">The remedies and procedures set forth in section 2000e -16 of this title shall be available to any qualified person with a disability who is a visitor, guest, or patron of an instrumentality of Congress and who alleges a violation of the rights and protections under sections 12131 through 12150 of this title or section 12182 or 12183 of this title that are made applicable by this section, except that the authorities of the Equal Employment Opportunity Commission shall be exercised by the chief official of the instrumentality of the Congress.</p>
+<p class="margin-left-8">The remedies and procedures set forth in section 2000e –16 of this title shall be available to any qualified person with a disability who is a visitor, guest, or patron of an instrumentality of Congress and who alleges a violation of the rights and protections under sections 12131 through 12150 of this title or section 12182 or 12183 of this title that are made applicable by this section, except that the authorities of the Equal Employment Opportunity Commission shall be exercised by the chief official of the instrumentality of the Congress.</p>
 <p class="margin-left-8"> (7) Construction</p>
 <p class="margin-left-8">Nothing in this section shall alter the enforcement procedures for individuals with disabilities provided in the General Accounting Office Personnel Act of 1980 and regulations promulgated pursuant to that Act.</p>
 
@@ -944,25 +945,25 @@ lead: |-
 ##### Part I - Common Carrier Regulation
 ###### Sec. 225. Telecommunications services for hearing-impaired and speech-impaired individuals
 <p class="margin-left-4"> <a name="225a" id="225a"></a>(a) Definitions</p>
-<p class="margin-left-4"> As used in this section</p>
+<p class="margin-left-4"> As used in this section—</p>
 <p class="margin-left-8"> (1) Common carrier or carrier</p>
-<p class="margin-left-8">The term "common carrier" or "carrier" includes any common carrier engaged in interstate communication by wire or radio as defined in section 153 of this title and any common carrier engaged in intrastate communication by wire or radio, notwithstanding sections 152(a) and 221(a) of this title.</p>
+<p class="margin-left-8">The term "common carrier" or "carrier" includes any common carrier engaged in interstate communication by wire or radio as defined in section 153 of this title and any common carrier engaged in intrastate communication by wire or radio, notwithstanding sections 152(b) and 221(b) of this title.</p>
 <p class="margin-left-8"> (2) TDD</p>
 <p class="margin-left-8">The term "TDD" means a Telecommunications Device for the Deaf which is a machine that employs graphic communication in the transmission of coded signals through a wire or radio communication system.</p>
 <p class="margin-left-8"> (3) Telecommunications relay services</p>
-<p class="margin-left-8">The term "telecommunications relay services" means telephone transmission relay services that provide the ability for an individual who has a hearing impairment or speech impairment to engage in communication by wire or radio with a hearing individual in a manner that is functionally equivalent to the ability of an individual who does not have a hearing impairment or speech impairment to communicate using voice communication services by wire or radio. Such term includes services that enable two-way communication between an individual who uses a TDD or other nonvoice terminal device and an individual who does not use such a device.</p>
+<p class="margin-left-8">The term "telecommunications relay services" means telephone transmission services that provide the ability for an individual who is deaf, hard of hearing, deaf-blind, or who has a speech disability to engage in communication by wire or radio with one or more individuals in a manner that is functionally equivalent to the ability of a hearing individual who does not have a speech disability to communicate using voice communication services by wire or radio.</p>
 <p class="margin-left-4"> <a name="225b" id="225b"></a>(b) Availability of telecommunications relay service</p>
 <p class="margin-left-8"> (1) In general</p>
 <p class="margin-left-8">In order to carry out the purposes established under section 151 of this title, to make available to all individuals in the United States a rapid, efficient nationwide communication service, and to increase the utility of the telephone system of the Nation, the Commission shall ensure that interstate and intrastate telecommunications relay services are available, to the extent possible and in the most efficient manner, to hearing-impaired and speech-impaired individuals in the United States.</p>
 <p class="margin-left-8"> (2) Use of general authority and remedies</p>
 <p class="margin-left-8">For the purposes of administering and enforcing the provisions of this section and the regulations prescribed thereunder, the Commission shall have the same authority, power, and functions with respect to common carriers engaged in intrastate communication as the Commission has in administering and enforcing the provisions of this subchapter with respect to any common carrier engaged in interstate communication. Any violation of this section by any common carrier engaged in intrastate communication shall be subject to the same remedies, penalties, and procedures as are applicable to a violation of this chapter by a common carrier engaged in interstate communication.</p>
 <p class="margin-left-4"> <a name="225c" id="225c"></a>(c) Provision of services</p>
-<p class="margin-left-4"> Each common carrier providing telephone voice transmission services shall, not later than 3 years after July 26, 1990, provide in compliance with the regulations prescribed under this section, throughout the area in which it offers service, telecommunications relay services, individually, through designees, through a competitively selected vendor, or in concert with other carriers. A common carrier shall be considered to be in compliance with such regulations</p>
+<p class="margin-left-4"> Each common carrier providing telephone voice transmission services shall, not later than 3 years after July 26, 1990, provide in compliance with the regulations prescribed under this section, throughout the area in which it offers service, telecommunications relay services, individually, through designees, through a competitively selected vendor, or in concert with other carriers. A common carrier shall be considered to be in compliance with such regulations—</p>
 <p class="margin-left-8">(1) with respect to intrastate telecommunications relay services in any State that does not have a certified program under subsection (f) of this section and with respect to interstate telecommunications relay services, if such common carrier (or other entity through which the carrier is providing such relay services) is in compliance with the Commission's regulations under subsection (d) of this section; or</p>
 <p class="margin-left-8">(2) with respect to intrastate telecommunications relay services in any State that has a certified program under subsection (f) of this section for such State, if such common carrier (or other entity through which the carrier is providing such relay services) is in compliance with the program certified under subsection (f) of this section for such State.</p>
 <p class="margin-left-4"> <a name="225d" id="225d"></a>(d) Regulations</p>
 <p class="margin-left-8"> (1) In general</p>
-<p class="margin-left-8">The Commission shall, not later than 1 year after July 26, 1990, prescribe regulations to implement this section, including regulations that</p>
+<p class="margin-left-8">The Commission shall, not later than 1 year after July 26, 1990, prescribe regulations to implement this section, including regulations that—</p>
 <p class="margin-left-12">(A) establish functional requirements, guidelines, and operations procedures for telecommunications relay services;</p>
 <p class="margin-left-12">(B) establish minimum standards that shall be met in carrying out subsection (c) of this section;</p>
 <p class="margin-left-12">(C) require that telecommunications relay services operate every day for 24 hours per day;</p>
@@ -976,35 +977,35 @@ lead: |-
 <p class="margin-left-12"> (A) In general</p>
 <p class="margin-left-8">Consistent with the provisions of section 410 of this title, the Commission shall prescribe regulations governing the jurisdictional separation of costs for the services provided pursuant to this section.</p>
 <p class="margin-left-12">(B) Recovering costs</p>
-<p class="margin-left-12">Such regulations shall generally provide that costs caused by interstate telecommunications relay services shall be recovered from all subscribers for every interstate service and costs caused by intrastate telecommunications relay services shall be recovered from the intrastate jurisdiction. In a State that has a certified program under subsection (f) of this section, a State commission shall permit a common carrier to recover the costs incurred in providing intrastate telecommunications relay services by a method consistent with the requirements of this section.</p>
+<p class="margin-left-12">Such regulations shall generally provide that costs caused by interstate telecommunications relay services shall be recovered from all subscribers for every interstate service and costs caused by intrastate telecommunications relay services shall be recovered from the intrastate jurisdiction. In a State that has a certified program under subsection (f), a State commission shall permit a common carrier to recover the costs incurred in providing intrastate telecommunications relay services by a method consistent with the requirements of this section.</p>
 <p class="margin-left-4"> <a name="225e" id="225e"></a>(e) Enforcement</p>
 <p class="margin-left-8"> (1) In general</p>
-<p class="margin-left-8">Subject to subsections (f) and (g) of this section, the Commission shall enforce this section.</p>
+<p class="margin-left-8">Subject to subsections (f) and (g), the Commission shall enforce this section.</p>
 <p class="margin-left-8"> (2) Complaint</p>
 <p class="margin-left-8">The Commission shall resolve, by final order, a complaint alleging a violation of this section within 180 days after the date such complaint is filed.</p>
 <p class="margin-left-4"> <a name="225f" id="225f"></a>(f) Certification</p>
 <p class="margin-left-8"> (1) State documentation</p>
 <p class="margin-left-8">Any State desiring to establish a State program under this section shall submit documentation to the Commission that describes the program of such State for implementing intrastate telecommunications relay services and the procedures and remedies available for enforcing any requirements imposed by the State program.</p>
 <p class="margin-left-8"> (2) Requirements for certification</p>
-<p class="margin-left-8">After review of such documentation, the Commission shall certify the State program if the Commission determines that</p>
-<p class="margin-left-12">(A) the program makes available to hearing-impaired and speech-impaired individuals, either directly, through designees, through a competitively selected vendor, or through regulation of intrastate common carriers, intrastate telecommunications relay services in such State in a manner that meets or exceeds the requirements of regulations prescribed by the Commission under subsection (d) of this section; and</p>
+<p class="margin-left-8">After review of such documentation, the Commission shall certify the State program if the Commission determines that—</p>
+<p class="margin-left-12">(A) the program makes available to hearing-impaired and speech-impaired individuals, either directly, through designees, through a competitively selected vendor, or through regulation of intrastate common carriers, intrastate telecommunications relay services in such State in a manner that meets or exceeds the requirements of regulations prescribed by the Commission under subsection (d); and</p>
 <p class="margin-left-12">(B) the program makes available adequate procedures and remedies for enforcing the requirements of the State program.</p>
 <p class="margin-left-8"> (3) Method of funding</p>
-<p class="margin-left-8">Except as provided in subsection (d) of this section, the Commission shall not refuse to certify a State program based solely on the method such State will implement for funding intrastate telecommunication relay services.</p>
+<p class="margin-left-8">Except as provided in subsection (d), the Commission shall not refuse to certify a State program based solely on the method such State will implement for funding intrastate telecommunication relay services.</p>
 <p class="margin-left-8"> (4) Suspension or revocation of certification</p>
 <p class="margin-left-8">The Commission may suspend or revoke such certification if, after notice and opportunity for hearing, the Commission determines that such certification is no longer warranted. In a State whose program has been suspended or revoked, the Commission shall take such steps as may be necessary, consistent with this section, to ensure continuity of telecommunications relay services.</p>
 <p class="margin-left-4"> <a name="225g" id="225g"></a>(g) Complaint</p>
 <p class="margin-left-8"> (1) Referral of complaint</p>
-<p class="margin-left-8">If a complaint to the Commission alleges a violation of this section with respect to intrastate telecommunications relay services within a State and certification of the program of such State under subsection (f) of this section is in effect, the Commission shall refer such complaint to such State.</p>
+<p class="margin-left-8">If a complaint to the Commission alleges a violation of this section with respect to intrastate telecommunications relay services within a State and certification of the program of such State under subsection (f) is in effect, the Commission shall refer such complaint to such State.</p>
 <p class="margin-left-8"> (2) Jurisdiction of Commission</p>
 <p class="margin-left-8">After referring a complaint to a State under paragraph (1), the Commission shall exercise jurisdiction over such complaint only if</p>
-<p class="margin-left-12">(A) final action under such State program has not been taken on such complaint by such State</p>
+<p class="margin-left-12">(A) final action under such State program has not been taken on such complaint by such State—</p>
 <p class="margin-left-16">(i) within 180 days after the complaint is filed with such State; or</p>
 <p class="margin-left-16">(ii) within a shorter period as prescribed by the regulations of such State; or</p>
-<p class="margin-left-12">(B) the Commission determines that such State program is no longer qualified for certification under subsection (f) of this section.</p>
+<p class="margin-left-12">(B) the Commission determines that such State program is no longer qualified for certification under subsection (f).</p>
 
 #### Subchapter VI - Miscellaneous Provisions
 ##### Sec. 611. Closed-captioning of public service announcements
-<p class="margin-left-1">Any television public service announcement that is produced or funded in whole or in part by any agency or instrumentality of Federal Government shall include closed captioning of the verbal content of such announcement. A television broadcast station licensee</p>
+<p class="margin-left-1">Any television public service announcement that is produced or funded in whole or in part by any agency or instrumentality of Federal Government shall include closed captioning of the verbal content of such announcement. A television broadcast station licensee—</p>
 <p class="margin-left-8">(1) shall not be required to supply closed captioning for any such announcement that fails to include it; and</p>
 <p class="margin-left-8">(2) shall not be liable for broadcasting any such announcement without transmitting a closed caption unless the licensee intentionally fails to transmit the closed caption that was included with the announcement.</p>
