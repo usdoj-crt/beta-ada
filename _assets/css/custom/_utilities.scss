@@ -6,17 +6,11 @@
 
 .fixed-tab-button {
   bottom: 0;
-  margin-right: 0;
   position: fixed;
-  right: 0;
-  width: 100%;
+  margin-right: 0.5rem;
+  right: 12px;
+  width: auto;
   z-index: 9999;
-
-  @include at-media(tablet) {
-    margin-right: 0.5rem;
-    right: 12px;
-    width: auto;
-  }
 }
 
 .grid-gap-xl {
