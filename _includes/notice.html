@@ -1,18 +1,24 @@
 <div class="bg-warning padding-y-2 font-sans-2xs">
   <div class="grid-container">
-      <div class="grid-row grid-gap">
-        <div class="tablet:grid-col-12">
-          {% for post in site.posts limit:1 %}
-
-          <svg class="usa-icon margin-right-1" aria-hidden="true" focusable="false" role="img">
-        <use xlink:href="/assets/img/sprite.svg#warning"></use>
-      </svg>
-
-      {{ post.date | date: "%B %-d, %Y" }} — {{ post.title }} <a class="text-bold text-uppercase text-ink hover:text-ink margin-left-1" href="{{ post.url | relative_url }}">Learn more ></a>
-
-          {% endfor %}
-
-  </div>
-  </div>
+    <div class="grid-row grid-gap">
+      <div class="tablet:grid-col-12">
+        {% for post in site.categories.notices limit:1 %}
+        <svg
+          class="usa-icon margin-right-05"
+          aria-hidden="true"
+          focusable="false"
+          role="img"
+        >
+          <use xlink:href="/assets/img/sprite.svg#warning"></use>
+        </svg>
+        {{ post.date | date: "%B %-d, %Y" }} — {{ post.title }}
+        <a
+          class="text-bold text-uppercase text-ink hover:text-ink margin-left-05"
+          href="{{ post.url | relative_url }}"
+          >Learn more ></a
+        >
+        {% endfor %}
+      </div>
+    </div>
   </div>
 </div>
