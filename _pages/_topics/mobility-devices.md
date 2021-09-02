@@ -20,7 +20,7 @@ card:
 
 **State/local governments and businesses** must allow a person with a disability who uses a _wheelchair or other manually powered mobility aid_ into all areas where members of the public are allowed to go.
 
-**A person with a disability** who uses an OPDMD must be allowed to enter businesses and government facilities unless it can be shown that a particular type of device cannot be safely used.
+**A person with a disability** who uses a golf cart or other powered option must be allowed to enter businesses and government facilities unless it can be shown that a particular type of device cannot be safely used.
 
 ## Wheelchairs and Manually Powered Devices
 
