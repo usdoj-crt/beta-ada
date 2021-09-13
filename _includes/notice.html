@@ -11,7 +11,7 @@
         >
           <use xlink:href="/assets/img/sprite.svg#warning"></use>
         </svg>
-        {{ post.date | date: "%B %-d, %Y" }} — {{ post.title }}
+        {{ post.title }}
         <a
           class="text-bold text-uppercase text-ink hover:text-ink margin-left-05"
           href="{{ post.url | relative_url }}"
