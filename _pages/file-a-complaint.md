@@ -11,9 +11,9 @@ lead: |-
 If you believe that you or someone else was discriminated against based on a disability, you can file an Americans with Disabilities Act (ADA) complaint against:
 
 - a state government or local government, such as:
-  - public hospitals
-  - public schools
-  - other state or local government programs
+  - public hospital
+  - public school
+  - other state or local government program
 
 - a private business that serves the public, such as a:
   - restaurant
@@ -21,28 +21,56 @@ If you believe that you or someone else was discriminated against based on a dis
   - retail store
   - hotel
 
-## Where to File Your Complaint
+## Where and How to File Your Complaint
 
-The nature of your complaint determines where you should file it. The table below tells you where to file your complaint.
+The nature of your complaint determines where you should file it. The table below tells you where and how to file your complaint.
 
-| Type of Complaint                                              | Where to File Online                                                                                                                              |
-| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Employment (including issues at work or in applying for a job) | [Equal Employment Opportunity Commission](http://www.eeoc.gov/filing-charge-discrimination)                                                       |
-| Air travel (airlines)                   | [Department of Transportation](http://www.transportation.gov/airconsumer/complaints-alleging-discriminatory-treatment-against-disabled-travelers) |
-| Other                                                          | [Department of Justice, Civil Rights Division](https://civilrights.justice.gov/report/)                                                           |
+<table>
+<thead>
+<tr>
+<th>Type of Complaint</th>
+<th>Agency to File With</th>
+<th>Where and How to File Online</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Employment (e.g., issues at work or in applying for a job)</td>
+<td>Equal Employment Opportunity Commission (EEOC)</td>
+<td>Follow instructions on the <a href="http://www.eeoc.gov/filing-charge-discrimination">EEOC site</a></td>
+</tr>
+<tr>
+<td>Air travel (involving a specific airline)</td>
+<td>Department of Transportation (DOT)</td>
+<td>Follow instructions on the <a href="http://www.transportation.gov/airconsumer/complaints-alleging-discriminatory-treatment-against-disabled-travelers">DOT site</a></td>
+</tr>
+<tr>
+<td>Housing (e.g., denied housing or denied an accessible living space based on disability)</td>
+<td>Department of Housing and Urban Development (HUD)</td>
+<td>Follow instructions on the <a href="https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint">HUD site</a></td>
+</tr>
+<tr>
+<td>Complaints involving anything else</td>
+<td>Department of Justice, Civil Rights Division</td>
+<td>There are three options for filing:  
+  <ol>
+<li>Online</li>
+Follow instructions on the <a href="https://civilrights.justice.gov/report/">DOJ site</a>  
+<li>Mail</li>
+Fill out and send the <a href="http://www.ada.gov/t2cmpfrm.htm">paper complaint</a> or a letter with the same information to:  
+<p>U.S. Department of Justice<br />  
+Civil Rights Division<br />
+950 Pennsylvania Avenue, NW<br />  
+4CON, 9th Floor<br />
+Washington, DC 20530</p> 
+<li>Fax</li>
+Send to (202) 307-1197
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
 
-Note that if you are filing with the Department of Justice, you may also file:
-
-- **By mail** by sending the completed [ADA complaint form](http://www.ada.gov/t2cmpfrm.htm), or a letter containing the same information, to:
-
-U.S. Department of Justice
-Civil Rights Division
-950 Pennsylvania Avenue, NW
-4CON, 9th Floor
-Washington, DC 20530
-
-- **By faxing** the completed [ADA complaint form](http://www.ada.gov/t2cmpfrm.htm), or a letter containing the same information, to: (202) 307-1197
-
-Whichever method you use, remember to keep a copy of your complaint and the original documents for your own records.
+Remember to keep a copy of your complaint and the original documents for your own records.
 
 If you'd like more information, our answers to [common questions](https://www.ada.gov/filing_complaint.htm) is a good place to look.
