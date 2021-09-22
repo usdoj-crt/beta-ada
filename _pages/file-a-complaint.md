@@ -32,7 +32,7 @@ The nature of your complaint determines where you should file it. The table belo
 | Housing (e.g., denied housing or denied an accessible living space based on disability)                 | Department of Housing and Urban Development (HUD) | Follow the instructions on the [HUD site](https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint)
 | Complaints involving anything else                                                          | Department of Justice, Civil Rights Division                                                           | [See below](#filing)
 
-## <a name="filing"></a>Filing a Complaint with the Department of Justice, Civil Rights Division  
+## Filing a Complaint with the Department of Justice, Civil Rights Division  
 There are three options for filing:  
 1. Online  
 Follow instructions on the [DOJ site](https://civilrights.justice.gov/report/)  
