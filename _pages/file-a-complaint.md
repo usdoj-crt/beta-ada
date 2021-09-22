@@ -30,19 +30,23 @@ The nature of your complaint determines where you should file it. The table belo
 | Employment (e.g., issues at work or in applying for a job) | Equal Employment Opportunity Commission (EEOC) | Follow instructions on the [EEOC site](http://www.eeoc.gov/filing-charge-discrimination)                                                       |
 | Air travel (involving a specific airline)                   | Department of Transportation (DOT) | Follow instructions on the [DOT site](http://www.transportation.gov/airconsumer/complaints-alleging-discriminatory-treatment-against-disabled-travelers)
 | Housing (e.g., denied housing or denied an accessible living space based on disability)                 | Department of Housing and Urban Development (HUD) | Follow the instructions on the [HUD site](https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint)
-| Complaints involving anything else                                                          | Department of Justice, Civil Rights Division                                                           | There are three options for filing:  [Online](https://civilrights.justice.gov/report/), [Mail](#mail), or [Fax](#fax)
+| Complaints involving anything else                                                          | Department of Justice, Civil Rights Division                                                           | [See below](#filing)
 
-Note that if you are filing with the Department of Justice, you may also file:
+## <a name="filing"></a>Filing a Complaint with the Department of Justice, Civil Rights Division  
+There are three options for filing:  
+1. Online  
+Follow instructions on the [DOJ site](https://civilrights.justice.gov/report/)  
 
-* <a name="mail"></a>Mail the completed [ADA complaint form](http://www.ada.gov/t2cmpfrm.htm), or a letter containing the same information, to:
-
->> U.S. Department of Justice  
+2.  Mail  
+Fill out and send the paper [ADA complaint form](http://www.ada.gov/t2cmpfrm.htm), or a letter containing the same information, to:  
+>U.S. Department of Justice  
 Civil Rights Division  
 950 Pennsylvania Avenue, NW  
 4CON, 9th Floor  
-Washington, DC 20530
+Washington, DC 20530  
 
-* <a name="fax"></a>Fax the completed [ADA complaint form](http://www.ada.gov/t2cmpfrm.htm), or a letter containing the same information, to: (202) 307-1197
+3. Fax  
+Send to (202) 307-1197  
 
 Remember to keep a copy of your complaint and the original documents for your own records.
 
