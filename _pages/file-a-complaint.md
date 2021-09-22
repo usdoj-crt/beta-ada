@@ -27,9 +27,9 @@ The nature of your complaint determines where you should file it. The table belo
 
 | Type of Complaint                                              | Agency to File With                                              | How to File                                                                                                                             |
 | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Employment (e.g., issues at work or in applying for a job) | [Equal Employment Opportunity Commission](http://www.eeoc.gov/filing-charge-discrimination) | Follow instructions on the EEOC site                                                       |
-| Air travel (involving a specific airline)                   | [Department of Transportation](http://www.transportation.gov/airconsumer/complaints-alleging-discriminatory-treatment-against-disabled-travelers) | Follow instructions on the DOT site
-| Housing (e.g., denied housing or denied an accessible living space based on disability)                 | [Department of Housing and Urban Development](https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint) | Follow the instructions on the HUD site
+| Employment (e.g., issues at work or in applying for a job) | Equal Employment Opportunity Commission (EEOC) | Follow instructions on the [EEOC site](http://www.eeoc.gov/filing-charge-discrimination)                                                       |
+| Air travel (involving a specific airline)                   | Department of Transportation (DOT) | Follow instructions on the [DOT site](http://www.transportation.gov/airconsumer/complaints-alleging-discriminatory-treatment-against-disabled-travelers)
+| Housing (e.g., denied housing or denied an accessible living space based on disability)                 | Department of Housing and Urban Development (HUD) | Follow the instructions on the [HUD site](https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint)
 | Complaints involving anything else                                                          | [Department of Justice, Civil Rights Division](https://civilrights.justice.gov/report/)                                                           | There are three options for filing:  Online, Mail, Fax
 
 <!--Note that if you are filing with the Department of Justice, you may also file:
