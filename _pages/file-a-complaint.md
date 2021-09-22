@@ -30,7 +30,7 @@ The nature of your complaint determines where you should file it. The table belo
 | Employment (e.g., issues at work or in applying for a job) | Equal Employment Opportunity Commission (EEOC) | Follow instructions on the [EEOC site](http://www.eeoc.gov/filing-charge-discrimination)                                                       |
 | Air travel (involving a specific airline)                   | Department of Transportation (DOT) | Follow instructions on the [DOT site](http://www.transportation.gov/airconsumer/complaints-alleging-discriminatory-treatment-against-disabled-travelers)
 | Housing (e.g., denied housing or denied an accessible living space based on disability)                 | Department of Housing and Urban Development (HUD) | Follow the instructions on the [HUD site](https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint)
-| Complaints involving anything else                                                          | Department of Justice, Civil Rights Division                                                           | There are three options for filing:  [Online](https://civilrights.justice.gov/report/), [Mail](https://www.ada.gov/t2cmpfrm.htm), or Fax (202) 387-1197
+| Complaints involving anything else                                                          | Department of Justice, Civil Rights Division                                                           | There are three options for filing:  [Online](https://civilrights.justice.gov/report/), [Mail](https://www.ada.gov/t2cmpfrm.htm), or Fax (202) 307-1197
 
 <!--Note that if you are filing with the Department of Justice, you may also file:
 
