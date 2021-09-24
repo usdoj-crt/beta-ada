@@ -56,7 +56,9 @@ Generally, service animals are allowed to be with their person, even in places t
 - Shops
 - Hospitals
 - Schools
-- Hotels
+- Hotels  
+
+EXAMPLE:  A restaurant offers indoor and outdoor seating.  A woman arrives at the restaurant with her service dog and asks to sit inside.  The restaurant cannot require the woman to dine outside because of her service dog.
 
 The ADA also applies to certain types of housing, including:
 
