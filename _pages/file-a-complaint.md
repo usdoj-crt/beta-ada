@@ -37,7 +37,7 @@ There are three options for filing:
 1. Online  
 Follow instructions on the [DOJ site](https://civilrights.justice.gov/report/)  
 1. Mail  
-Fill out and send the paper [ADA complaint form](https://www.ada.gov/t2cmpfrm.htm) a letter containing the same information, to:  
+Fill out and send the paper [ADA complaint form]({{ site.baseurl }} /downloads/test-pdf.pdf) a letter containing the same information, to:  
 >U.S. Department of Justice  
 Civil Rights Division  
 950 Pennsylvania Avenue, NW  
