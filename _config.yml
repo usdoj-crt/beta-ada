@@ -133,7 +133,7 @@ exclude:
   - LICENSE.md
   - Dockerfile
   - docker-compose.yml
-  - complaint_form_sep2021.pdf
+  - downloads/**
 
 assets:
   autoprefixer:
