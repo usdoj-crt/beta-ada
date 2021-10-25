@@ -19,12 +19,18 @@
   }
 }
 
-.crt-phone {
-  a {
-    color: white;
-    font-weight: normal;
-    text-decoration: none;
-  }
+.usa-header {
+  .crt-phone {
+    a {
+      color: white;
+      font-weight: normal;
+      text-decoration: none;
+      border-bottom: 1px solid;
+      &:hover {
+        color: color($theme-color-base-light);
+      }
+    }
+}
 
 }
 
