@@ -68,14 +68,15 @@
               </div>
               <div id="phone-footer" class="usa-footer__links">
                 <p>
+                  <a href="{{ site.contact.link | relative_url }}">{{ site.contact.link_title }}</a>
+                  </p>
+                <p>
                   <a href="tel:{{ site.contact.tollfree }}"
-                    >{{ site.contact.tollfree }}</a
-                  >
+                    >{{ site.contact.tollfree }}</a>
                 </p>
                 <p>
                   <a href="tel:{{ site.contact.tty }}"
-                    >{{ site.contact.tty }}</a
-                  >
+                    >{{ site.contact.tty }}</a>
                   (TTY)
                 </p>
               </div>

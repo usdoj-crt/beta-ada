@@ -19,6 +19,21 @@
   }
 }
 
+.usa-header {
+  .crt-phone {
+    a {
+      color: white;
+      font-weight: normal;
+      text-decoration: none;
+      border-bottom: 1px solid;
+      &:hover {
+        color: color($theme-color-base-light);
+      }
+    }
+}
+
+}
+
 .crt-landing--logo_subheading {
   @extend .usa-footer__logo-subheading;
 }
