@@ -22,4 +22,4 @@ businesses, and state/local governments. All calls are confidential.
 - How to file a complaint
 - Answers to technical questions  
 
-Note that if your call about employment discrimination, housing discrimination, or air travel, you may be referred to another federal agency for assistance.
+Note that if your call is about employment discrimination, housing discrimination, or air travel, you may be referred to another federal agency for assistance.
