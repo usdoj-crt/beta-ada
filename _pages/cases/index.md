@@ -22,14 +22,14 @@ Our matters are both large and small.  For example, we might work on a nationwid
 
 Our matters also cover a range of disability rights issues and contexts, such as:  
 
-- Communication with People with Disabilities
-- Criminal Justice
+- Communication with people with disabilities
+- Criminal justice
 - Education
 - Employment
-- Health Care
-- Physical Accessibility
+- Health care
+- Physical accessibility
 - Segregation of people with disabilities (also known as Olmstead work)
-- Service Animals
+- Service animals
 - Technology
 - Transportation
 - Voting
