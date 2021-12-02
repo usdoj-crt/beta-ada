@@ -1,13 +1,13 @@
 // Imports:
 //= require ./renderSearchResults.js
-//= require ../templates/pagination/paginationTemplate.js
 //= require ./applyFocusStyling.js
 //= require ./createRange.js
+//= require ./constants.js
+//= require ../templates/pagination/paginationTemplate.js
 //= require ../templates/search/textBestBetsTemplate.js
 //= require ../templates/search/searchResultsTemplate.js
 //= require ../templates/search/sortedByTemplate.js
 //= require ../templates/search/noResultsTemplate.js
-//= require ./constants.js
 
 const renderSearchPage = (searchResults, urlParams) => {
   const results = searchResults;
