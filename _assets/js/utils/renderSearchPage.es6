@@ -53,15 +53,17 @@ const renderSearchPage = (searchResults, urlParams) => {
       if (currentOffset > 0) {
         urlParams.set("offset", currentOffset - NUMBER_OF_RESULTS);
         prevLink.href = `?${urlParams.toString()}`;
+        prevLink.ariaDisabled = 'false';
       } else {
-        prevLink.setAttribute("disabled", "true");
+        prevLink.ariaDisabled = 'true';
       }
 
       if (results.web.next_offset) {
         urlParams.set("offset", results.web.next_offset);
         nextLink.href = `?${urlParams.toString()}`;
+        nextLink.ariaDisabled = 'false';
       } else {
-        nextLink.setAttribute("disabled", "true");
+        nextLink.ariaDisabled = 'true';
       }
     }
   }

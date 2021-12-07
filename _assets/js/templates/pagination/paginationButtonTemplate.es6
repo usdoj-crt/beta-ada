@@ -5,7 +5,7 @@ const paginationButton = (offsetVal, index, resultsArr) => {
       <a
         href="?${offsetUtils.setOffsetParam(offsetVal)}"
         class="usa-pagination__button"
-        aria-label="${offsetVal === resultsArr[resultsArr.length - 1] ? "Last page" : "Page " + (index + 1)}"
+        aria-label="${offsetVal === resultsArr[resultsArr.length - 1] ? "Page " + (index + 1) +  " - Last page" : "Page " + (index + 1)}"
         data-offset= ${offsetVal}
       >
         ${index + 1}
