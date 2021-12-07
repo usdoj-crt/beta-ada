@@ -55,6 +55,7 @@ const renderSearchPage = (searchResults, urlParams) => {
         prevLink.href = `?${urlParams.toString()}`;
         prevLink.ariaDisabled = 'false';
       } else {
+        prevLink.setAttribute('disabled', 'true');
         prevLink.ariaDisabled = 'true';
       }
 
@@ -63,6 +64,7 @@ const renderSearchPage = (searchResults, urlParams) => {
         nextLink.href = `?${urlParams.toString()}`;
         nextLink.ariaDisabled = 'false';
       } else {
+        nextLink.setAttribute('disabled', 'true');
         nextLink.ariaDisabled = 'true';
       }
     }

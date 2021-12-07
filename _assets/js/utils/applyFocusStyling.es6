@@ -9,9 +9,11 @@ const applyFocusStyling = () => {
   allButtonsArr.forEach((button) => {
     if (currentOffset === "" && button.dataset.offset === "0") {
       button.classList.add("usa-current");
+      button.setAttribute('aria-current', 'true');
     }
     if (button.dataset.offset === currentOffset) {
       button.classList.add("usa-current");
+      button.setAttribute('aria-current', 'true');
     }
   });
 };
