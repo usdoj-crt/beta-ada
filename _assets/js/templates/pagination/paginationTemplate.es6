@@ -3,10 +3,12 @@
 //= require ./previousButtonTemplate.js
 //= require ./ellipsisTemplate.js
 //= require ./paginationButtonTemplate.js
+//= require ./pageNumber.js
 //= require ../../utils/paginationLogic/index.js
 
 const paginationTemplate = (resultsArr, urlParams) => {
   const offsetInt = parseInt(urlParams.get("offset"));
+  pageNumber(resultsArr);
   if (resultsArr.length <= 7) {
     return `
         ${previousButton()}
@@ -64,5 +66,5 @@ const paginationTemplate = (resultsArr, urlParams) => {
           resultsArr.indexOf(resultsArr[resultsArr.length - 1]),
           resultsArr
         )}
-        ${nextButton()}`;
+        ${nextButton()}`;   
 };

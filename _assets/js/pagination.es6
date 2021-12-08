@@ -50,7 +50,7 @@ if (window.location.search) {
   let req = new XMLHttpRequest();
   req.addEventListener("load", reqLoaded);
   req.open("GET", searchEndpoint);
-  req.timeout = 10000; //timeout after 10 seconds
+  req.timeout = 5000; //timeout after 5 seconds
   req.addEventListener("timeout", reqTimeout);
   req.send();
 }

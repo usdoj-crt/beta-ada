@@ -1,18 +1,18 @@
 //= require ../../utils/offsetUtils.js
 
 const paginationButton = (offsetVal, index, resultsArr) => {
-  let currOffset = offsetUtils.getOffsetParam();
+  let currentOffset = offsetUtils.getOffsetParam();
   let ariaLabel = "";
   let ariaCurrent = "false";
   if (
-    currOffset !== offsetVal &&
+    currentOffset !== offsetVal &&
     offsetVal === resultsArr[resultsArr.length - 1]
   ) {
     ariaLabel = "Last page; Page " + (index + 1);
-  } else if (currOffset !== offsetVal) {
+  } else if (currentOffset !== offsetVal) {
     ariaLabel = "Page " + (index + 1);
   }
-  if (currOffset === offsetVal) {
+  if (currentOffset === offsetVal) {
     ariaCurrent = "true";
   }
   return `<li class="usa-pagination__item usa-pagination__page-no">

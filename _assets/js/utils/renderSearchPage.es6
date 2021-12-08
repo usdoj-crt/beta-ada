@@ -28,7 +28,7 @@ const renderSearchPage = (searchResults, urlParams) => {
     }
     // Grab our pagination list node that will contain the pagination:
     const pagination_list = document.querySelectorAll(
-      "ul.usa-pagination__list"
+      "ol.usa-pagination__list"
     )[0];
     // Put the fetched results into a list, and render in the DOM:
     webResults.forEach(function (item) {
