@@ -57,6 +57,7 @@ const renderSearchPage = (searchResults, urlParams) => {
       } else {
         prevLink.setAttribute('disabled', 'true');
         prevLink.ariaDisabled = 'true';
+        //prevLink.style.display = 'none';
       }
 
       if (results.web.next_offset) {
@@ -66,6 +67,7 @@ const renderSearchPage = (searchResults, urlParams) => {
       } else {
         nextLink.setAttribute('disabled', 'true');
         nextLink.ariaDisabled = 'true';
+        //nextLink.style.display = 'none';
       }
     }
   }

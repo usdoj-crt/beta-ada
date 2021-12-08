@@ -7,7 +7,7 @@
 
 const paginationTemplate = (resultsArr, urlParams) => {
   const offsetInt = parseInt(urlParams.get("offset"));
-  if (resultsArr.length <= 5) {
+  if (resultsArr.length <= 7) {
     return `
         ${previousButton()}
         ${resultsArr

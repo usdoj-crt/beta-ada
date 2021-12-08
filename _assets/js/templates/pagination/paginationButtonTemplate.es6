@@ -8,7 +8,7 @@ const paginationButton = (offsetVal, index, resultsArr) => {
     currOffset !== offsetVal &&
     offsetVal === resultsArr[resultsArr.length - 1]
   ) {
-    ariaLabel = "Page " + (index + 1) + " - Last page";
+    ariaLabel = "Last page; Page " + (index + 1);
   } else if (currOffset !== offsetVal) {
     ariaLabel = "Page " + (index + 1);
   }
