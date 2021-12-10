@@ -7,6 +7,7 @@ lead: |-
   In the ADA, these mobility devices fall into two main categories:
   1. Wheelchairs (manual or power-driven) and manually powered devices
   2. Other powered options, such as golf carts
+print: true
 card:
   title: Mobility Devices
   description: |-
