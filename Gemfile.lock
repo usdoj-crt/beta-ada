@@ -130,7 +130,6 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
-  sprockets (~> 4.0)
   webrick (~> 1.7)
 
 RUBY VERSION
