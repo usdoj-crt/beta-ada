@@ -1,7 +1,7 @@
 //= require js/uswds.min.js
 //= require gumshoe.polyfills.min.js
-//= require anchor.min.js
-//= require_directory ./utils/polyfills/
+//= require anchor.min.js 
+//= require_directory ./utils/polyfills
 //= require ./modal.js
 //= require ./redirect-modal.js
 //= require ./pagination.js
