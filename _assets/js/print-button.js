@@ -7,6 +7,8 @@ function printPage() {
 }
 
 // Assign an event listener - on click do this
-printButton.addEventListener('click', function(){
-    printPage();
-});
+if (printButton) {
+    printButton.addEventListener('click', function(){
+        printPage();
+    });
+}
