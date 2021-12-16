@@ -4,6 +4,7 @@
 //= require ./modal.js
 //= require ./redirect-modal.js
 //= require ./print.js
+//= require ./print-button.js
 //= require ./search.js
 
 var anchors = new AnchorJS();
