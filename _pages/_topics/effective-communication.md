@@ -9,6 +9,7 @@ lead: |-
   Because the nature of communication differs from situation to situation, effective solutions may differ too. For example, buying a car is more complex than buying dinner and requires different solutions.
 
   The goal is to find a solution that fits the circumstances.
+print: true
 card:
   title: Effective Communication
   description: |-

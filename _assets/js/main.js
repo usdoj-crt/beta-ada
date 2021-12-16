@@ -6,6 +6,7 @@
 //= require ./redirect-modal.js
 //= require ./pagination.js
 //= require ./print.js
+//= require ./print-button.js
 //= require ./search.js
 
 var anchors = new AnchorJS();

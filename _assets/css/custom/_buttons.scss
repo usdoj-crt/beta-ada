@@ -9,3 +9,16 @@
     background: color($theme-link-hover-color);
   }
 }
+
+@media screen and (min-width: 0px) {
+  #crt-page--printbutton--wrapper {
+    display: none;
+  }  
+}
+
+@media screen and (min-width: 1024px) {
+  #crt-page--printbutton--wrapper {
+    display: block;
+  }  
+}
+
