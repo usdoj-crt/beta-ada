@@ -49,4 +49,38 @@ Send to (202) 307-1197
 
 Remember to keep a copy of your complaint and the original documents for your own records.
 
-If you'd like more information, our answers to [common questions](https://www.ada.gov/filing_complaint.htm) is a good place to look.
+If you'd like more information, our answers to [common questions](https://www.ada.gov/filing_complaint.htm) is a good place to look.  
+
+## After You File a Complaint  
+
+We might refer your complaint to:  
+
+- The [ADA Mediation Program](#mp)
+- A federal agency that handles the types of issues your complaint raises  
+
+We could also:  
+
+- Contact you for more information  
+- [Investigate your complaint](#ic), which could lead to a settlement or a lawsuit  
+
+Unfortunately, we cannot investigate every complaint. We will let you know if we are unable to mediate, refer, or investigate your complaint.  
+
+### When You Will Hear From Us  
+
+We receive many ADA complaints from people around the United States. So, our review can take up to three months.  
+
+If you have not heard from us after three months, you can call the ADA Information Line to check your complaint’s status. You can reach the ADA Information Line at 1-800-514-0301 (voice) or 1-800-514-0383 (TTY).  
+
+Even if we do not take any formal action, your complaint provides us with valuable information, helping us find issues affecting multiple people or communities, and helping us understand emerging trends and topics.  
+
+### <a name="mp"></a>ADA Mediation Program  
+
+Mediation is a process that does not involve the courts. Mediation typically involves one or more meetings between you, the organization you complained about, and an impartial mediator, and it is designed to help you reach a mutual agreement. It can be a fair and quick way to resolve ADA complaints. It is confidential and voluntary.  
+
+If we think that your complaint might be a good fit for mediation, we will contact you and the organization you complained about. We will ask if you are both willing to participate in mediation.  
+
+### <a name="ic"></a>If we investigate your complaint:  
+
+An investigator or attorney will contact you to get more information.  
+
+The Department will not give your name or other personal information to anyone unless it is necessary for enforcement activities or is required by law.
