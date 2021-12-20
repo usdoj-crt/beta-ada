@@ -6,6 +6,7 @@
 //= require ./print.js
 //= require ./print-button.js
 //= require ./search.js
+//= require ./test2.js
 
 var anchors = new AnchorJS();
 anchors.add(".crt-page h2:not([class*='usa'])");
