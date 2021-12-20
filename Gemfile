@@ -3,6 +3,7 @@ ruby '>= 2.6.6'
 
 gem "jekyll", "~> 4.0"
 gem "autoprefixer-rails"
+gem "webrick", "~> 1.7"
 
 group :jekyll_plugins do
   gem 'jekyll-polyglot'
