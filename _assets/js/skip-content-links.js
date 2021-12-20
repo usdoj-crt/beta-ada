@@ -6,12 +6,12 @@ var skipToMain = document.getElementById('crt-skipnav-main');
 // Assign an event listener
 if (skipSideNav) {
     skipSideNav.addEventListener('click', function(){
-        scrollToElement(skipSideNav.getAttribute('data-target'))
+        scrollToElement(skipSideNav.getAttribute('data-scrollto'))
     });
 }
 
 if (skipToMain) {
     skipToMain.addEventListener('click', function(){
-        scrollToElement(skipSideNav.getAttribute('data-target'))
+        scrollToElement(skipSideNav.getAttribute('data-scrollto'))
     });
 }
