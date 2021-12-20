@@ -28,6 +28,10 @@ GEM
       public_suffix (>= 2.0.2, < 5.0)
     autoprefixer-rails (10.2.4.0)
       execjs
+    babel-source (5.8.35)
+    babel-transpiler (0.7.0)
+      babel-source (>= 4.0, < 6)
+      execjs (~> 2.0)
     colorator (1.1.0)
     concurrent-ruby (1.1.8)
     em-websocket (0.5.2)
@@ -111,7 +115,6 @@ GEM
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.7.0)
-    webrick (1.7.0)
     zeitwerk (2.4.2)
 
 PLATFORMS
@@ -119,13 +122,13 @@ PLATFORMS
 
 DEPENDENCIES
   autoprefixer-rails
+  babel-transpiler
   jekyll (~> 4.0)
   jekyll-assets!
   jekyll-polyglot
   jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
-  webrick (~> 1.7)
 
 RUBY VERSION
    ruby 2.6.6p146
