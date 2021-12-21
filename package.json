@@ -14,6 +14,6 @@
   },
   "devDependencies": {
     "pa11y-ci": "^3.0.1",
-    "postcss-scss": "^4.0.2"
+    "stylelint-config-standard-scss": "^3.0.0"
   }
 }
