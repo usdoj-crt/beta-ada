@@ -8,8 +8,8 @@
 ========================================
 */
 
-// -------------------------------------
-// Import individual theme settings
+/* ------------------------------------- */
+/* Import individual theme settings */
 @import "uswds-theme-general";
 @import "uswds-theme-typography";
 @import "uswds-theme-spacing";
@@ -17,8 +17,8 @@
 @import "uswds-theme-utilities";
 @import "uswds-theme-components";
 
-// -------------------------------------
-// Import individual USWDS packages...
+/* ------------------------------------- */
+/* Import individual USWDS packages... */
 @import "scss/packages/required";
 @import "overrides/all";
 @import "scss/packages/global";
@@ -26,7 +26,7 @@
 @import "scss/packages/uswds-components";
 @import "scss/packages/uswds-utilities";
 
-// -------------------------------------
-// Import theme custom styles
+/* ------------------------------------- */
+/* Import theme custom styles */
 @import "mixins/all";
 @import "custom/all";

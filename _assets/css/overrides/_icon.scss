@@ -1,4 +1,4 @@
-// Override USWDS mixin to use jekyll-assets asset_url()
+/* Override USWDS mixin to use jekyll-assets asset_url() */
 
 @mixin add-color-icon($icon-object, $contrast-bg) {
   $filename-base: map-get($icon-object, "name");
@@ -57,7 +57,7 @@
     #{$width} #{$height};
   $image-props: asset_url("#{$path}/#{$filename-ie11}") no-repeat center / #{$width} #{$height};
 
-  // Default background shorthand for browsers that don't support mask or supports.
+  /* Default background shorthand for browsers that don't support mask or supports. */
   background: $image-props;
   display: inline-block;
   height: if($container-height, $container-height, $height);
@@ -66,7 +66,7 @@
     transform: rotate($rotate);
   }
 
-  // Mask supported styles
+  /* Mask supported styles */
   @supports (mask: url("")) {
     background: none;
     background-color: color($color);

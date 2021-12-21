@@ -17,12 +17,12 @@ https://designsystem.digital.gov/design-tokens
 ----------------------------------------
 */
 
-// Accordion
+/* Accordion */
 $theme-accordion-border-width: 0.5;
 $theme-accordion-border-color: "base-lightest";
 $theme-accordion-font-family: "heading";
 
-// Alert
+/* Alert */
 $theme-alert-bar-width: 1;
 $theme-alert-font-family: "ui";
 $theme-alert-icon-size: 4;
@@ -33,13 +33,13 @@ $theme-alert-text-reverse-color: default;
 $theme-alert-link-color: default;
 $theme-alert-link-reverse-color: default;
 
-// Banner
+/* Banner */
 $theme-banner-background-color: "white";
 $theme-banner-font-family: "ui";
 $theme-banner-link-color: "primary-darker";
 $theme-banner-max-width: "desktop";
 
-// Breadcrumb
+/* Breadcrumb */
 $theme-breadcrumb-background-color: "default";
 $theme-breadcrumb-font-size: "sm";
 $theme-breadcrumb-font-family: "body";
@@ -50,13 +50,13 @@ $theme-breadcrumb-padding-top: 2;
 $theme-breadcrumb-padding-x: 0;
 $theme-breadcrumb-separator-color: "base";
 
-// Button
+/* Button */
 $theme-button-font-family: "ui";
 $theme-button-border-radius: "md";
 $theme-button-small-width: 6;
 $theme-button-stroke-width: 2px;
 
-// Card
+/* Card */
 $theme-card-border-color: "base-lighter";
 $theme-card-border-radius: "lg";
 $theme-card-border-width: 2px;
@@ -69,15 +69,15 @@ $theme-card-margin-bottom: 4;
 $theme-card-padding-perimeter: 3;
 $theme-card-padding-y: 2;
 
-// Collection
+/* Collection */
 $theme-collection-font-family: "ui";
 $theme-collection-header-typeset: "ui", "md", 3;
 
-// Footer
+/* Footer */
 $theme-footer-font-family: "body";
 $theme-footer-max-width: "desktop";
 
-// Form and input
+/* Form and input */
 $theme-checkbox-border-radius: "sm";
 $theme-form-font-family: "ui";
 $theme-input-line-height: 3;
@@ -91,20 +91,20 @@ $theme-input-tile-border-width: 2px;
 $theme-input-tile-border-color: "base-lighter";
 $theme-input-tile-border-color-selected: "primary-light";
 
-// Header
+/* Header */
 $theme-header-font-family: "ui";
 $theme-header-logo-text-width: 33%;
 $theme-header-max-width: "desktop";
 $theme-header-min-width: "desktop";
 
-// Hero
+/* Hero */
 $theme-hero-image: asset_url("hero.jpg");
 
-// Icon List
+/* Icon List */
 $theme-icon-list-font-family: "body";
 $theme-icon-list-title-font-family: "heading";
 
-// Identifier
+/* Identifier */
 $theme-identifier-background-color: "base-darkest";
 $theme-identifier-font-family: "ui";
 $theme-identifier-identity-domain-color: "base-light";
@@ -112,20 +112,20 @@ $theme-identifier-max-width: "desktop";
 $theme-identifier-primary-link-color: default;
 $theme-identifier-secondary-link-color: "base-light";
 
-// Modal
+/* Modal */
 $theme-modal-border-radius: "lg";
 $theme-modal-default-max-width: "mobile-lg";
 $theme-modal-lg-content-max-width: "tablet";
 $theme-modal-lg-max-width: "tablet-lg";
 
-// Pagination
+/* Pagination */
 $theme-pagination-background-color: "default";
 $theme-pagination-breakpoint: "tablet";
 $theme-pagination-button-border-radius: "md";
 $theme-pagination-button-border-width: 1px;
 $theme-pagination-font-family: "ui";
 
-// Process List
+/* Process List */
 $theme-process-list-counter-background-color: "white";
 $theme-process-list-counter-border-color: "ink";
 $theme-process-list-counter-border-width: 0.5;
@@ -143,22 +143,22 @@ $theme-process-list-heading-color: "ink";
 $theme-process-list-heading-font-family: "ui";
 $theme-process-list-heading-font-size: "lg";
 
-// Navigation
+/* Navigation */
 $theme-navigation-font-family: "ui";
 $theme-megamenu-columns: 3;
 
-// Search
+/* Search */
 $theme-search-font-family: "ui";
 $theme-search-min-width: 27ch;
 
-// Sidenav
+/* Sidenav */
 $theme-sidenav-current-border-width: 0.5;
 $theme-sidenav-font-family: "ui";
 
-// Site Alert
+/* Site Alert */
 $theme-site-alert-max-width: "desktop";
 
-// Step indicator
+/* Step indicator */
 $step-indicator-background-color: "white";
 $theme-step-indicator-counter-gap: 0.5;
 $theme-step-indicator-counter-border-width: 0.5;
@@ -176,7 +176,7 @@ $theme-step-indicator-segment-gap: 2px;
 $theme-step-indicator-segment-height: 1;
 $theme-step-indicator-text-pending-color: "base-dark";
 
-// Summary box
+/* Summary box */
 $theme-summary-box-background-color: "info-lighter";
 $theme-summary-box-border-color: "info-light";
 $theme-summary-box-border-width: 1px;
@@ -185,7 +185,7 @@ $theme-summary-box-font-family: "ui";
 $theme-summary-box-link-color: default;
 $theme-summary-box-text-color: default;
 
-// Table
+/* Table */
 $theme-table-border-color: default;
 $theme-table-header-background-color: "base-lighter";
 $theme-table-header-text-color: default;
@@ -198,7 +198,7 @@ $theme-table-sorted-stripe-background-color: "blue-cool-10v";
 $theme-table-sorted-icon-color: default;
 $theme-table-unsorted-icon-color: "base";
 
-// Tooltips
+/* Tooltips */
 $theme-tooltip-background-color: "ink";
 $theme-tooltip-font-color: "base-lightest";
 $theme-tooltip-font-size: "xs";

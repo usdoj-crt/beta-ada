@@ -31,23 +31,23 @@ used by utilities or layout grid
 */
 
 $theme-utility-breakpoints: (
-  // 160px:
+  /* 160px: */
     "card": false,
-  // 240px:
+  /* 240px: */
     "card-lg": false,
-  // 320px:
+  /* 320px: */
     "mobile": false,
-  // 480px:
+  /* 480px: */
     "mobile-lg": true,
-  // 640px:
+  /* 640px: */
     "tablet": true,
-  // 800px:
+  /* 800px: */
     "tablet-lg": false,
-  // 1024px:
+  /* 1024px: */
     "desktop": true,
-  // 1200px:
+  /* 1200px: */
     "desktop-lg": true,
-  // 1400px:
+  /* 1400px: */
     "widescreen": false
 );
 
@@ -590,154 +590,154 @@ Values
 ----------------------------------------
 */
 
-// .add-aspect
+/* .add-aspect */
 
 $add-aspect-palettes: ();
 $add-aspect-manual-values: ();
 
-// .align-items
+/* .align-items */
 
 $align-items-palettes: ("palette-align-items-default");
 $align-items-manual-values: ();
 
-// .align-self
+/* .align-self */
 
 $align-self-palettes: ("palette-align-self-default");
 $align-self-manual-values: ();
 
-// .background-color
+/* .background-color */
 
 $background-color-palettes: ();
 $background-color-manual-values: ();
 
-// .border
+/* .border */
 
 $border-palettes: ("palette-border-default");
 $border-manual-values: ();
 
-// .border-color
+/* .border-color */
 
 $border-color-palettes: ();
 $border-color-manual-values: ();
 
-// .border-radius
+/* .border-radius */
 
 $border-radius-palettes: ("palette-border-radius-default");
 $border-radius-manual-values: ();
 
-// .border-style
+/* .border-style */
 
 $border-style-palettes: ("palette-border-style-default");
 $border-style-manual-values: ();
 
-// .border-width
+/* .border-width */
 
 $border-width-palettes: ("palette-border-width-default");
 $border-width-manual-values: ();
 
-// .bottom
+/* .bottom */
 
 $bottom-palettes: ("palette-bottom-default");
 
 $bottom-manual-values: ();
 
-// .box-shadow
+/* .box-shadow */
 
 $box-shadow-palettes: ("palette-box-shadow-default");
 
 $box-shadow-manual-values: ();
 
-// .circle
+/* .circle */
 
 $circle-palettes: ("palette-circle-default");
 $circle-manual-values: ();
 
-// .color
+/* .color */
 
 $color-palettes: ();
 $color-manual-values: ();
 
-// .cursor
+/* .cursor */
 
 $cursor-palettes: ("palette-cursor-default");
 $cursor-manual-values: ();
 
-// .display
+/* .display */
 
 $display-palettes: ("palette-display-default");
 $display-manual-values: ();
 
-// .flex
+/* .flex */
 
 $flex-palettes: ("palette-flex-default");
 $flex-manual-values: ();
 
-// .flex-direction
+/* .flex-direction */
 
 $flex-direction-palettes: ("palette-flex-direction-default");
 $flex-direction-manual-values: ();
 
-// .flex-wrap
+/* .flex-wrap */
 
 $flex-wrap-palettes: ("palette-flex-wrap-default");
 $flex-wrap-manual-values: ();
 
-// .float
+/* .float */
 
 $float-palettes: ("palette-float-default");
 $float-manual-values: ();
 
-// .font
+/* .font */
 
 $font-palettes: ("palette-font-default");
 $font-manual-values: ();
 
-// .font-family
+/* .font-family */
 
 $font-family-palettes: ("palette-font-family-default");
 $font-family-manual-values: ();
 
-// .font-feature-settings
+/* .font-feature-settings */
 
 $font-feature-palettes: ("palette-font-feature-settings-default");
 $font-feature-manual-values: ();
 
-// .font-style
+/* .font-style */
 
 $font-style-palettes: ("palette-font-style-default");
 $font-style-manual-values: ();
 
-// .font-weight
+/* .font-weight */
 
 $font-weight-palettes: ("palette-font-weight-default");
 $font-weight-manual-values: ();
 
-// .height
+/* .height */
 
 $height-palettes: ("palette-height-default");
 $height-manual-values: ();
 
-// .justify-content
+/* .justify-content */
 
 $justify-content-palettes: ("palette-justify-content-default");
 $justify-content-manual-values: ();
 
-// .left
+/* .left */
 
 $left-palettes: ("palette-left-default");
 $left-manual-values: ();
 
-// .letter-spacing
+/* .letter-spacing */
 
 $letter-spacing-palettes: ("palette-letter-spacing-default");
 $letter-spacing-manual-values: ();
 
-// .line-height
+/* .line-height */
 
 $line-height-palettes: ("palette-line-height-default");
 $line-height-manual-values: ();
 
-// .margin
+/* .margin */
 
 $margin-palettes: ("palette-margin-default");
 $margin-manual-values: (12: 6rem, 16: 8rem, 20: 10rem);
@@ -746,122 +746,122 @@ $margin-vertical-manual-values: ();
 $margin-horizontal-palettes: ("palette-margin-horizontal-default");
 $margin-horizontal-manual-values: ();
 
-// .max-height
+/* .max-height */
 
 $max-height-palettes: ("palette-max-height-default");
 $max-height-manual-values: ();
 
-// .max-width
+/* .max-width */
 
 $max-width-palettes: ("palette-max-width-default");
 $max-width-manual-values: ();
 
-// .measure
+/* .measure */
 
 $measure-palettes: ("palette-measure-default");
 $measure-manual-values: ();
 
-// .min-height
+/* .min-height */
 
 $min-height-palettes: ("palette-min-height-default");
 $min-height-manual-values: ();
 
-// .min-width
+/* .min-width */
 
 $min-width-palettes: ("palette-min-width-default");
 $min-width-manual-values: ();
 
-// .opacity
+/* .opacity */
 
 $opacity-palettes: ("palette-opacity-default");
 $opacity-manual-values: ();
 
-// .order
+/* .order */
 
 $order-palettes: ("palette-order-default");
 $order-manual-values: ();
 
-// .outline
+/* .outline */
 
 $outline-palettes: ("palette-outline-default");
 $outline-manual-values: ();
 
-// .outline-color
+/* .outline-color */
 
 $outline-color-palettes: ("palette-outline-color-default");
 $outline-color-manual-values: ();
 
-// .overflow
+/* .overflow */
 
 $overflow-palettes: ("palette-overflow-default");
 $overflow-manual-values: ();
 
-// .padding
+/* .padding */
 
 $padding-palettes: ("palette-padding-default");
 $padding-manual-values: ();
 
-// .position
+/* .position */
 
 $position-palettes: ("palette-position-default");
 $position-manual-values: ();
 
-// .right
+/* .right */
 
 $right-palettes: ("palette-right-default");
 $right-manual-values: ();
 
-// .square
+/* .square */
 
 $square-palettes: ("palette-square-default");
 $square-manual-values: ();
 
-// .text-align
+/* .text-align */
 
 $text-align-palettes: ("palette-text-align-default");
 $text-align-manual-values: ();
 
-// .text-decoration
+/* .text-decoration */
 
 $text-decoration-palettes: ("palette-text-decoration-default");
 $text-decoration-manual-values: ();
 
-// .text-decoration-color
+/* .text-decoration-color */
 
 $text-decoration-color-palettes: ();
 $text-decoration-color-manual-values: ();
 
-// .text-indent
+/* .text-indent */
 
 $text-indent-palettes: ("palette-text-indent-default");
 $text-indent-manual-values: ();
 
-// .text-transform
+/* .text-transform */
 
 $text-transform-palettes: ("palette-text-transform-default");
 $text-transform-manual-values: ();
 
-// .top
+/* .top */
 
 $top-palettes: ("palette-top-default");
 $top-manual-values: ();
 
-// .vertical-align
+/* .vertical-align */
 
 $vertical-align-palettes: ("palette-vertical-align-default");
 $vertical-align-manual-values: ();
 
-// .white-space
+/* .white-space */
 
 $whitespace-palettes: ("palette-white-space-default");
 $whitespace-manual-values: ();
 
-// .width
+/* .width */
 
 $width-palettes: ("palette-width-default");
 $width-manual-values: ();
 
-// .z-index
+/* .z-index */
 
 $z-index-palettes: ("palette-z-index-default");
 $z-index-manual-values: ();
