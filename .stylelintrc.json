@@ -1,7 +1,13 @@
 {
-  "extends": "stylelint-config-standard-scss",
+  "extends": "stylelint-config-recommended",
   "rules": {
     "at-rule-no-unknown": null,
     "no-descending-specificity": null
-  }
+  },
+  "overrides": [
+    {
+      "files": ["**/*.scss"],
+      "customSyntax": "postcss-scss",
+      "rules": {}
+    }]
 }
