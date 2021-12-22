@@ -6,7 +6,7 @@
        "args": ["--disable-dev-shm-usage"]
      },
     "hideElements": "#fba-button",
-    "standard": "WCAG2AAA",
+    "standard": "WCAG2AA",
     "runners": ["axe"],
     "timeout": 120000
   }
