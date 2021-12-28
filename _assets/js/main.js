@@ -7,6 +7,7 @@
 //= require ./pagination.js
 //= require ./print.js
 //= require ./print-button.js
+//= require ./skip-content-links.js
 //= require ./search.js
 
 var anchors = new AnchorJS();

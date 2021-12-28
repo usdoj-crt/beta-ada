@@ -5,6 +5,7 @@ layout: default
   <div class="grid-row grid-gap-xl">
     {% if page.sidenav %}
     <div id="crt-page--sidenav" class="desktop:grid-col-4">
+      <div aria-hidden="true" id="crt-page--sidenav-target"></div>
       {% include sidenav.html %}
       {% if page.print %}
         {% include print-button.html %}
@@ -12,6 +13,7 @@ layout: default
     </div>
     {% endif %}
     <div id="crt-page--content" class="{% if page.sidenav %}tablet:grid-col-8{% endif %}">
+      <div aria-hidden="true" id="crt-page--content-target"></div>
       {% if page.disclaimer %}
       {% include alert.html title="This is a test site. Do not rely on the information provided." text="This webpage is a prototype meant for user research. It has not undergone final review for legal accuracy and is not intended to provide legal guidance." %}
       {% endif %}
