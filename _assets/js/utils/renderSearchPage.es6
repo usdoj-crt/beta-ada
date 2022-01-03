@@ -8,9 +8,11 @@
 //= require ../templates/search/searchResultsTemplate.js
 //= require ../templates/search/sortedByTemplate.js
 //= require ../templates/search/noResultsTemplate.js
+//= require ../templates/search/totalResultsTemplate.js
 
 const renderSearchPage = (searchResults, urlParams) => {
   const results = searchResults;
+  console.log(results);
   const { NUMBER_OF_RESULTS } = paginationConstants();
   const textResults = results.text_best_bets;
   const webResults = results.web.results;
@@ -80,7 +82,7 @@ const renderSearchPage = (searchResults, urlParams) => {
     const target = document.querySelector("#top");
     target.insertAdjacentHTML(
       "afterend",
-      sortedBy()
+      totalResults(results.web.total)
     );
   }
 };
