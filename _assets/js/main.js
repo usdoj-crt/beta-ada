@@ -4,7 +4,6 @@
 //= require_directory ./utils/polyfills
 //= require ./modal.js
 //= require ./redirect-modal.js
-//= require ./pagination.js
 //= require ./print.js
 //= require ./print-button.js
 //= require ./skip-content-links.js

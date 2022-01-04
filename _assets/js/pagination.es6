@@ -9,8 +9,6 @@
 const { NUMBER_OF_RESULTS, SEARCH_ENDPOINT, AFFILIATE, ACCESS_KEY } =
   paginationConstants();
 
-// If there's search content, run the code, otherwise, don't:
-if (window.location.search) {
   // Set up the search parameters:
   const urlParams = new URLSearchParams(window.location.search);
   const searchEndpoint = new URL(SEARCH_ENDPOINT);
@@ -53,4 +51,3 @@ if (window.location.search) {
   req.timeout = 5000; //timeout after 5 seconds
   req.addEventListener("timeout", reqTimeout);
   req.send();
-}

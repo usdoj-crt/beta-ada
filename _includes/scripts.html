@@ -27,3 +27,6 @@
 <script src="https://unpkg.com/core-js-bundle@3.0.0/index.js"></script>
 
 {% asset main.js !type %}
+{% if page.title == 'Search' %}
+{% asset pagination.js !type %}
+{% endif %}
