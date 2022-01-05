@@ -10,10 +10,8 @@
 //= require ../templates/search/noResultsTemplate.js
 //= require ../templates/search/totalResultsTemplate.js
 
-const renderSearchPage = (searchResults, urlParams) => {
+const renderSearchPage = (searchResults, urlParams, numberOfResults) => {
   const results = searchResults;
-  console.log(results);
-  const { NUMBER_OF_RESULTS } = paginationConstants();
   const textResults = results.text_best_bets;
   const webResults = results.web.results;
   // Then check if this key has any values:
@@ -38,7 +36,7 @@ const renderSearchPage = (searchResults, urlParams) => {
     });
     // FOR PAGINATION:
     // Generate our results pages array:
-    const offsetValueArray = createRange(0, results.web.total, NUMBER_OF_RESULTS);
+    const offsetValueArray = createRange(0, results.web.total, numberOfResults);
     // Generate our html template:
     let page_links = paginationTemplate(offsetValueArray, urlParams);
     // Put our template into the DOM:
@@ -49,11 +47,11 @@ const renderSearchPage = (searchResults, urlParams) => {
     const prevLink = document.querySelector(".usa-pagination__previous-page");
     const nextLink = document.querySelector(".usa-pagination__next-page");
     const currentOffset = urlParams.get("offset");
-    if (results.web.total > NUMBER_OF_RESULTS) {
+    if (results.web.total > numberOfResults) {
       document.getElementById("pagination-nav").removeAttribute("hidden");
 
       if (currentOffset > 0) {
-        urlParams.set("offset", currentOffset - NUMBER_OF_RESULTS);
+        urlParams.set("offset", currentOffset - numberOfResults);
         prevLink.href = `?${urlParams.toString()}`;
         prevLink.ariaDisabled = 'false';
       } else {
