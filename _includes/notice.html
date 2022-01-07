@@ -11,11 +11,10 @@
         >
           <use xlink:href="/assets/img/sprite.svg#warning"></use>
         </svg>
-        {{ post.title }}
         <a
-          class="text-bold text-uppercase text-ink hover:text-ink margin-left-05"
+          class="text-no-underline hover:text-ink hover:text-underline"
           href="{{ post.url | relative_url }}"
-          >Learn more ></a
+          >{{ post.title }}</a
         >
         {% endfor %}
       </div>
