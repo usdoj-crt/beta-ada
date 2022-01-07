@@ -18,7 +18,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (6.1.4.4)
+    activesupport (6.1.3.1)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
@@ -26,24 +26,24 @@ GEM
       zeitwerk (~> 2.3)
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
-    autoprefixer-rails (10.4.0.0)
-      execjs (~> 2)
+    autoprefixer-rails (10.2.4.0)
+      execjs
     colorator (1.1.0)
-    concurrent-ruby (1.1.9)
-    em-websocket (0.5.3)
+    concurrent-ruby (1.1.8)
+    em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
-      http_parser.rb (~> 0)
+      http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
-    execjs (2.8.1)
+    execjs (2.7.0)
     extras (0.3.0)
       forwardable-extended (~> 2.5)
-    fastimage (2.2.6)
-    ffi (1.15.4)
+    fastimage (2.2.3)
+    ffi (1.15.0)
     forwardable-extended (2.6.0)
-    http_parser.rb (0.8.0)
-    i18n (1.8.11)
+    http_parser.rb (0.6.0)
+    i18n (1.8.10)
       concurrent-ruby (~> 1.0)
-    jekyll (4.2.1)
+    jekyll (4.2.0)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
@@ -81,25 +81,25 @@ GEM
     liquid-tag-parser (2.0.2)
       extras (~> 0.3)
       liquid (>= 3.0, < 5.0)
-    listen (3.7.0)
+    listen (3.5.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    mini_portile2 (2.7.1)
-    minitest (5.15.0)
-    nokogiri (1.13.0)
-      mini_portile2 (~> 2.7.0)
+    mini_portile2 (2.5.1)
+    minitest (5.14.4)
+    nokogiri (1.11.5)
+      mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.6)
-    racc (1.6.0)
+    racc (1.5.2)
     rack (2.2.3)
-    rb-fsevent (0.11.0)
+    rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.5)
-    rouge (3.27.0)
+    rouge (3.26.0)
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
@@ -110,9 +110,8 @@ GEM
       unicode-display_width (~> 1.1, >= 1.1.1)
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
-    unicode-display_width (1.8.0)
-    webrick (1.7.0)
-    zeitwerk (2.5.3)
+    unicode-display_width (1.7.0)
+    zeitwerk (2.4.2)
 
 PLATFORMS
   ruby
@@ -125,10 +124,9 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
-  webrick (~> 1.7)
 
 RUBY VERSION
-   ruby 2.7.4p191
+   ruby 2.6.6p146
 
 BUNDLED WITH
    1.17.3
