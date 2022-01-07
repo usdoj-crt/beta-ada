@@ -1,8 +1,8 @@
-let offsetUtils = (function () {
+var offsetUtils = (function () {
   // Get the current offset value:
-  const getOffsetParam = () => {
-    const searchParams = new URLSearchParams(window.location.search);
-    const offset = searchParams.get("offset");
+  function getOffsetParam() {
+    var searchParams = new URLSearchParams(window.location.search);
+    var offset = searchParams.get("offset");
     if (offset !== null) {
       return offset;
     } else {
@@ -10,7 +10,7 @@ let offsetUtils = (function () {
     }
   };
   // Get the url params offset value and convert it to a string. This is used to set the href link for each pagination button.
-  const setOffsetParam = (offsetValue) => {
+  function setOffsetParam(offsetValue){
     let searchParams = new URLSearchParams(window.location.search);
     searchParams.set("offset", offsetValue);
     return searchParams.toString();

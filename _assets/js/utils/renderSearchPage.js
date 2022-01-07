@@ -10,10 +10,10 @@
 //= require ../templates/search/noResultsTemplate.js
 //= require ../templates/search/totalResultsTemplate.js
 
-const renderSearchPage = (searchResults, urlParams, numberOfResults) => {
-  const results = searchResults;
-  const textResults = results.text_best_bets;
-  const webResults = results.web.results;
+function renderSearchPage(searchResults, urlParams, numberOfResults) {
+  var results = searchResults;
+  var textResults = results.text_best_bets;
+  var webResults = results.web.results;
   // Then check if this key has any values:
   if (textResults.length) {
     textResults.forEach(function (item) {
@@ -27,7 +27,7 @@ const renderSearchPage = (searchResults, urlParams, numberOfResults) => {
       urlParams.set("offset", 0);
     }
     // Grab our pagination list node that will contain the pagination:
-    const pagination_list = document.querySelectorAll(
+    var pagination_list = document.querySelectorAll(
       "ol.usa-pagination__list"
     )[0];
     // Put the fetched results into a list, and render in the DOM:
@@ -36,7 +36,7 @@ const renderSearchPage = (searchResults, urlParams, numberOfResults) => {
     });
     // FOR PAGINATION:
     // Generate our results pages array:
-    const offsetValueArray = createRange(0, results.web.total, numberOfResults);
+    var offsetValueArray = createRange(0, results.web.total, numberOfResults);
     // Generate our html template:
     let page_links = paginationTemplate(offsetValueArray, urlParams);
     // Put our template into the DOM:
@@ -44,9 +44,9 @@ const renderSearchPage = (searchResults, urlParams, numberOfResults) => {
     // Apply focus styling to our new pagination list:
     applyFocusStyling();
     // Previous and Next button functionality:
-    const prevLink = document.querySelector(".usa-pagination__previous-page");
-    const nextLink = document.querySelector(".usa-pagination__next-page");
-    const currentOffset = urlParams.get("offset");
+    var prevLink = document.querySelector(".usa-pagination__previous-page");
+    var nextLink = document.querySelector(".usa-pagination__next-page");
+    var currentOffset = urlParams.get("offset");
     if (results.web.total > numberOfResults) {
       document.getElementById("pagination-nav").removeAttribute("hidden");
 
@@ -54,20 +54,22 @@ const renderSearchPage = (searchResults, urlParams, numberOfResults) => {
         urlParams.set("offset", currentOffset - numberOfResults);
         prevLink.href = `?${urlParams.toString()}`;
         prevLink.ariaDisabled = 'false';
+        prevLink.tabIndex = 0;
       } else {
         prevLink.setAttribute('disabled', 'true');
         prevLink.ariaDisabled = 'true';
-        //prevLink.style.display = 'none';
+        prevLink.tabIndex = -1;
       }
 
       if (results.web.next_offset) {
         urlParams.set("offset", results.web.next_offset);
         nextLink.href = `?${urlParams.toString()}`;
         nextLink.ariaDisabled = 'false';
+        nextLink.tabIndex = 0;
       } else {
         nextLink.setAttribute('disabled', 'true');
         nextLink.ariaDisabled = 'true';
-        //nextLink.style.display = 'none';
+        nextLink.tabIndex = -1;
       }
     }
   }
@@ -77,7 +79,7 @@ const renderSearchPage = (searchResults, urlParams, numberOfResults) => {
       false
     );
   } else {
-    const target = document.querySelector("#top");
+    var target = document.querySelector("#top");
     target.insertAdjacentHTML(
       "afterend",
       totalResults(results.web.total)

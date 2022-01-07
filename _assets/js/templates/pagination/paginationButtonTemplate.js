@@ -1,9 +1,9 @@
 //= require ../../utils/offsetUtils.js
 
-const paginationButton = (offsetVal, index, resultsArr) => {
-  let currentOffset = offsetUtils.getOffsetParam();
-  let ariaLabel = "";
-  let ariaCurrent = "false";
+function paginationButton(offsetVal, index, resultsArr) {
+  var currentOffset = offsetUtils.getOffsetParam();
+  var ariaLabel = "";
+  var ariaCurrent = "false";
   if (
     currentOffset !== offsetVal &&
     offsetVal === resultsArr[resultsArr.length - 1]
@@ -15,7 +15,7 @@ const paginationButton = (offsetVal, index, resultsArr) => {
   if (currentOffset === offsetVal) {
     ariaCurrent = "true";
   }
-  return `<li class="usa-pagination__item usa-pagination__page-no">
+  return `<li class="usa-pagination__item usa-pagination__page-no display-none tablet:display-block">
       <a
         href="?${offsetUtils.setOffsetParam(offsetVal)}"
         class="usa-pagination__button"

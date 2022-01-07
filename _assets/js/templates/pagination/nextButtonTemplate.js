@@ -1,5 +1,5 @@
-const nextButton = () => {
-  return `<li class="usa-pagination__item usa-pagination__arrow">
+function nextButton() {
+  return `<li class="usa-pagination__item usa-pagination__arrow display-flex">
           <a
             href="javascript:void(0);"
             class="usa-pagination__link usa-pagination__next-page"
