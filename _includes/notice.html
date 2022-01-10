@@ -3,19 +3,14 @@
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-12">
         {% for post in site.categories.notices limit:1 %}
-        <svg
-          class="usa-icon margin-right-05"
-          aria-hidden="true"
-          focusable="false"
-          role="img"
-        >
-          <use xlink:href="/assets/img/sprite.svg#warning"></use>
-        </svg>
-        {{ post.title }}
+        {% asset img/usa-icons/warning.svg class="usa-icon margin-right-05"
+        aria-hidden="true"
+        focusable="false"
+        role="img"%}
         <a
-          class="text-bold text-uppercase text-ink hover:text-ink margin-left-05"
+          class="text-no-underline hover:text-ink hover:text-underline"
           href="{{ post.url | relative_url }}"
-          >Learn more ></a
+          >{{ post.title }}</a
         >
         {% endfor %}
       </div>
