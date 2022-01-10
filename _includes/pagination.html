@@ -6,37 +6,5 @@
   id="pagination-nav"
   hidden
 >
-  <ul class="usa-pagination__list">
-    <li class="usa-pagination__item usa-pagination__arrow">
-      <a
-        href="javascript:void(0);"
-        class="usa-pagination__link usa-pagination__previous-page"
-        aria-label="Previous page"
-      >
-        <svg class="usa-icon" aria-hidden="true" role="img">
-          <use
-            xlink:href="{% asset img/sprite.svg @path %}#navigate_before"
-          ></use>
-        </svg>
-
-        <span class="usa-pagination__link-text"> {{site.data["i18n"].links.previous}} </span>
-      </a>
-    </li>
-
-    <li class="usa-pagination__item usa-pagination__arrow">
-      <a
-        href="javascript:void(0);"
-        class="usa-pagination__link usa-pagination__next-page"
-        aria-label="Next page"
-      >
-        <span class="usa-pagination__link-text"> {{site.data["i18n"].links.next}} </span>
-
-        <svg class="usa-icon" aria-hidden="true" role="img">
-          <use
-            xlink:href="{% asset img/sprite.svg @path %}#navigate_next"
-          ></use>
-        </svg>
-      </a>
-    </li>
-  </ul>
+  <ol class="usa-pagination__list"></ol>
 </nav>
