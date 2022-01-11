@@ -13,7 +13,7 @@ const paginationTemplate = (resultsArr, urlParams) => {
     return `
         ${previousButton()}
         ${resultsArr
-          .map((offsetValue, index, resArr) => {
+          .map(function(offsetValue, index, resArr) {
             return paginationButton(offsetValue, index, resArr);
           })
           .join(" ")}
@@ -29,7 +29,7 @@ const paginationTemplate = (resultsArr, urlParams) => {
             : ellipsis(offsetInt, resultsArr)
         }
         ${resultsArr
-          .map((offsetValue, index, resArr) => {
+          .map(function(offsetValue, index, resArr) {
             // If it is either the first page or last page, render nothing. The first and last page buttons are fixed.
             if (
               index === 0 ||
@@ -66,5 +66,5 @@ const paginationTemplate = (resultsArr, urlParams) => {
           resultsArr.indexOf(resultsArr[resultsArr.length - 1]),
           resultsArr
         )}
-        ${nextButton()}`;   
+        ${nextButton()}`;
 };

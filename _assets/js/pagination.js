@@ -23,15 +23,15 @@ var ACCESS_KEY = paginationConstants.ACCESS_KEY;
     limit: NUMBER_OF_RESULTS,
   };
 
-  Object.keys(searchParams).forEach((key) =>
+  Object.keys(searchParams).forEach(function(key) {
     searchEndpoint.searchParams.append(key, searchParams[key])
-  );
+  });
   // Get the results, convert them to JSON, then render them:
   // When the results are returned, check that the status is 200
   // then render the results:
   function reqLoaded () {
     if (this.status === 200) {
-      let resJSON = JSON.parse(this.responseText);
+      var resJSON = JSON.parse(this.responseText);
       renderSearchPage(resJSON , urlParams, NUMBER_OF_RESULTS);
     } else {
       renderSearchResults(

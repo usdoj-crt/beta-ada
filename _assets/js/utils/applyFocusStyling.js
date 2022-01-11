@@ -6,7 +6,7 @@ function applyFocusStyling() {
   var allPaginationButtons = document.querySelectorAll("a.usa-pagination__button");
   var allButtonsArr = Array.prototype.slice.call(allPaginationButtons);
   var currentOffset = offsetUtils.getOffsetParam();
-  allButtonsArr.forEach((button) => {
+  allButtonsArr.forEach(function(button) {
     if (currentOffset === "" && button.dataset.offset === "0") {
       button.classList.add("usa-current");
       button.setAttribute('aria-current', 'true');
