@@ -7,3 +7,26 @@
 .usa-pagination[hidden] {
   display: none !important;
 }
+
+// Overrides the USWDS styling for the pagination buttons
+.usa-pagination__button {
+  color: #f0f0f0 !important;
+}
+
+.usa-pagination__button:hover {
+  background-color: #2378C3 !important;
+}
+
+.usa-pagination__button.usa-current {
+  background-color: #FFFFFF !important;
+  color: #2378C3 !important;
+  border: 1px solid #2378C3;
+}
+
+.usa-pagination__item span {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #000;
+}
