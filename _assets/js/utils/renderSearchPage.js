@@ -26,6 +26,11 @@ function renderSearchPage(searchResults, urlParams, numberOfResults) {
     if (urlParams.get("offset") === null) {
       urlParams.set("offset", 0);
     }
+    // Cap the results total since search.gov is only returning 1000 results:
+    var webTotalResults = results.web.total;
+    if (webTotalResults > 1000) {
+      webTotalResults = 1000;
+    }
     // Grab our pagination list node that will contain the pagination:
     var pagination_list = document.querySelectorAll(
       "ol.usa-pagination__list"
@@ -36,7 +41,7 @@ function renderSearchPage(searchResults, urlParams, numberOfResults) {
     });
     // FOR PAGINATION:
     // Generate our results pages array:
-    var offsetValueArray = createRange(0, results.web.total, numberOfResults);
+    var offsetValueArray = createRange(0, webTotalResults, numberOfResults);
     // Generate our html template:
     let page_links = paginationTemplate(offsetValueArray, urlParams);
     // Put our template into the DOM:
@@ -47,7 +52,7 @@ function renderSearchPage(searchResults, urlParams, numberOfResults) {
     var prevLink = document.querySelector(".usa-pagination__previous-page");
     var nextLink = document.querySelector(".usa-pagination__next-page");
     var currentOffset = urlParams.get("offset");
-    if (results.web.total > numberOfResults) {
+    if (webTotalResults > numberOfResults) {
       document.getElementById("pagination-nav").removeAttribute("hidden");
 
       if (currentOffset > 0) {
@@ -82,7 +87,7 @@ function renderSearchPage(searchResults, urlParams, numberOfResults) {
     var target = document.querySelector("#top");
     target.insertAdjacentHTML(
       "afterend",
-      totalResults(results.web.total)
+      totalResults(webTotalResults)
     );
   }
 };
