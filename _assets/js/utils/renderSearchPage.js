@@ -84,7 +84,7 @@ function renderSearchPage(searchResults, urlParams, numberOfResults) {
       false
     );
   } else {
-    var target = document.querySelector("#top");
+    var target = document.querySelector(".crt-landing--separator_small");
     target.insertAdjacentHTML(
       "afterend",
       totalResults(webTotalResults)
