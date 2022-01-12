@@ -5,9 +5,8 @@
 //= require ./paginationButtonTemplate.js
 //= require ./pageNumber.js
 //= require ../../utils/paginationLogic/index.js
-
-const paginationTemplate = (resultsArr, urlParams) => {
-  const offsetInt = parseInt(urlParams.get("offset"));
+var paginationTemplate = function(resultsArr, urlParams) {
+  var offsetInt = parseInt(urlParams.get("offset"));
   pageNumber(resultsArr);
   if (resultsArr.length <= 7) {
     return `
