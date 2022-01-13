@@ -5,7 +5,7 @@
        "ignoreHTTPSErrors": true,
        "args": ["--disable-dev-shm-usage"]
      },
-    "hideElements": ["#fba-button", ".usa-current.usa-nav__link", ".usa-accordion__button", ".pa11y-skip"],
+    "hideElements": ["#fba-button", ".usa-current.usa-nav__link", ".pa11y-skip"],
     "standard": "WCAG2AA",
     "runners": ["axe"],
     "timeout": 120000
