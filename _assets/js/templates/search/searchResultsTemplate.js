@@ -4,7 +4,7 @@ function searchResultsTemplate(content) {
         <b class="title"><a href="${content.url}">${content.title
           .replace(/\uE000/g, '<span class="bg-yellow">')
           .replace(/\uE001/g, "</span>")}</a></b>
-      <div class="text-base"> ${content.url} </div>
+      <div class="text-base content-url"> ${content.url} </div>
       <div> ${content.snippet
           .replace(/\uE000/g, '<span class="bg-yellow">')
           .replace(/\uE001/g, "</span>")} </div>

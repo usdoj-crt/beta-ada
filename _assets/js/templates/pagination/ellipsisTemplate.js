@@ -1,9 +1,9 @@
 function ellipsis() {
   return `<li
     class="usa-pagination__item usa-pagination__overflow display-none tablet:display-block"
-    role="none presentation"
+    role="none"
     tabindex='-1'
   >
-    <span> … </span>
+    <span class="text-bold"> … </span>
   </li>`;
 };

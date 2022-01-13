@@ -3,6 +3,7 @@
 //= require ./applyFocusStyling.js
 //= require ./createRange.js
 //= require ./constants.js
+//= require ./wrapUrls.js
 //= require ../templates/pagination/paginationTemplate.js
 //= require ../templates/search/textBestBetsTemplate.js
 //= require ../templates/search/searchResultsTemplate.js
@@ -84,10 +85,15 @@ function renderSearchPage(searchResults, urlParams, numberOfResults) {
       false
     );
   } else {
-    var target = document.querySelector("#top");
+    var target = document.querySelector(".crt-landing--separator_small");
     target.insertAdjacentHTML(
       "afterend",
       totalResults(webTotalResults)
     );
+    var urlsToWrap = document.querySelectorAll(".content-url");
+    Array.prototype.forEach.call(urlsToWrap, function(url) {
+      var wrapped = wrapUrls(url.innerHTML);
+      return (url.innerHTML = wrapped);
+    });
   }
 };
