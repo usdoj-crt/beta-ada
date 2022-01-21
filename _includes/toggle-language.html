@@ -5,6 +5,6 @@
 {% endif %}
 
 <div id="crt-page--langtogglebutton--wrapper" class="display-flex flex-column flex-align-end margin-bottom-2">
-    <a href={{href}} id="crt-page--langtogglebutton" class="text-bold">{% if lang=="en" %} En espa&ntilde;ol {% elsif lang=="es" %} English {% endif %}</a>
+    <a href={{href | relative_url}} id="crt-page--langtogglebutton" class="text-bold">{% if lang=="en" %} En espa&ntilde;ol {% elsif lang=="es" %} English {% endif %}</a>
 </div>
   

@@ -68,7 +68,7 @@ primary_navigation:
       es: Presente una queja
     url: 
       en: "/file-a-complaint/"
-      es: "/es/presente-una-queha"
+      es: "/es/presente-una-queha/"
   - name:
       en: Cases
       es: Casos
