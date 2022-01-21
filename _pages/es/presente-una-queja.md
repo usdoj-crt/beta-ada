@@ -57,7 +57,7 @@ Si desea información adicional, una buena opción sería consultar nuestras res
 Puede que remitamos su queja a:  
 
 - El [programa de mediación de la ADA](#mp)
-- Una agencia federal que se encarga de los tipos de problemas que su queja menciona 
+- Una agencia federal que se encarga de los tipos de problemas que su queja menciona
 
 También puede que:  
 
@@ -76,7 +76,7 @@ Incluso si no tomamos ninguna medida formal, su queja nos provee con informació
 
 ### <a name="mp"></a>Programa de mediación de la ADA  
 
-La mediación es un proceso en no involucra los tribunales. Típicamente, la mediación conlleva una o más reuniones entre usted, la organización de la cual se quejó y un mediador imparcial, y está diseñada para ayudarle a llegar a un acuerdo mutuo. Puede ser una manera equitativa y rápida para resolver quejas al amparo de la ADA. Es confidencial y voluntario. 
+La mediación es un proceso en no involucra los tribunales. Típicamente, la mediación conlleva una o más reuniones entre usted, la organización de la cual se quejó y un mediador imparcial, y está diseñada para ayudarle a llegar a un acuerdo mutuo. Puede ser una manera equitativa y rápida para resolver quejas al amparo de la ADA. Es confidencial y voluntario.
 
 Si nosotros pensamos que su queja podría resolverse mediante la mediación, nos comunicaremos con usted y con la organización de la cual usted quejó. Preguntaremos si las dos partes están dispuestas a participar en un proceso de mediación.  
 
