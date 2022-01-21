@@ -23,8 +23,8 @@ banner.html %} {% if site.beta %} {%include banner-beta.html %} {% endif %}
         <ul class="usa-nav__primary usa-accordion">
           {% for nav_item in site.primary_navigation %} {% unless
           nav_item.children %} {% assign basedir = page.url | remove_first: '/'
-          | split: '/' | first | lstrip %} {% assign linkdir = nav_item.url[lang] |
-          replace: "/", "" | lstrip %}
+          | split: '/' | first | lstrip %} {% assign linkdir = nav_item.url[lang] | remove_first: '/'
+          | split: '/' | first | lstrip  %}
           <li
             class="usa-nav__primary-item desktop:text-no-wrap {{ nav_item.classes }}"
           >
