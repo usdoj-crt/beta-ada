@@ -1,0 +1,28 @@
+beta: |-
+  <strong>Este es un sitio BETA</strong>. Es una versión temprana en desarrollo de un ADA.gov mejorado. Si usted no encuentra lo que busca, <a href="https://www.ada.gov">vuelva al sitio principal de ADA.gov</a>
+links:
+  a11y: Accessibility
+  about: About the division
+  budget: Budget and performance
+  cases: Casos
+  file_complaint: Presente una queja
+  back_legacy: Back to the main ADA.gov
+  learn: Learn more
+  legal: Legal policies and Disclaimers
+  next: Next
+  oig: Office of Inspector General
+  previous: Previous
+  privacy: Privacy policy
+  skip:
+    main: Skip to main content
+    nav: Skip to page navigation
+  toc: Table of contents
+  touchpoints: How can we improve this site?
+  contact: Línea de información de la ADA
+headings:
+  attribution: Image attribution
+  contact: Contact
+  links: Links
+hotline:
+  heading: Línea Informativa de la ADA
+  content: Hable con nosotros al
