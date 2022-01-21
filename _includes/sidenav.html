@@ -1,4 +1,5 @@
-{% assign lang = site.active_lang %}
+{% assign lang = page.lang %}
+{% if lang==nil %}{% assign lang="en" %}{% endif %}
 
 <div class="usa-accordion">
   <h4 class="usa-accordion__heading desktop:display-none">
@@ -7,7 +8,7 @@
       aria-expanded="false"
       aria-controls="toc"
     >
-      {{site.data["i18n"].links.toc}}
+      {{site.data[lang]["i18n"].links.toc}}
     </button>
   </h4>
   <nav id="toc" class="usa-accordion__content" aria-label="Page navigation">

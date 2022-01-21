@@ -1,8 +1,9 @@
-{% assign lang = site.active_lang %}
+{% assign lang = page.lang %}
+{% if lang==nil %}{% assign lang="en" %}{% endif %}
 
 <a
   id="fba-button"
   class="display-none tablet:display-block fixed-tab-button usa-button crt-button--large"
   href="{{ site.touchpoints.url }}"
-  >{{site.data["i18n"].links.touchpoints}}</a
+  >{{site.data[lang]["i18n"].links.touchpoints}}</a
 >

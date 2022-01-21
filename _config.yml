@@ -47,21 +47,27 @@ google_site_verification: 34Ks265Uibpdda984RS0SxVABVZCdlVrdSp61pIdZQ8
 primary_navigation:
   - name:
       en: Home
+      es: Página principal
     url: "/"
   - name:
       en: Topics
+      es: Temas
     url: "/topics/"
   - name:
-      en: Law & Regulations
+      en: Laws & Regulations
+      es: Leyes y reglamentos
     url: "/law-and-regs/"
   - name:
       en: File a Complaint
+      es: Presente una queja
     url: "/file-a-complaint/"
   - name:
       en: Cases
+      es: Casos
     url: "/cases/"
   - name:
       en: Give Us Feedback
+      es: Denos su opinión
     url: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit
     external: true
 

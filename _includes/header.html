@@ -1,5 +1,11 @@
-{% assign lang = site.active_lang %} {% include skipnav.html %} {% include
+{% include skipnav.html %} {% include
 banner.html %} {% if site.beta %} {%include banner-beta.html %} {% endif %}
+{% assign lang = page.lang %}
+{% if lang==nil %}{% assign lang="en" %}{% endif %}
+{% assign shrink = "" %}
+{% unless lang=="en" %}
+{% assign shrink = "shrink-search" %}
+{% endunless %}
 <div class="crt-landing--header crt-lightblue">
   <header class="usa-header usa-header--extended">
     <div class="usa-navbar position-relative">
@@ -52,7 +58,7 @@ banner.html %} {% if site.beta %} {%include banner-beta.html %} {% endif %}
           </li>
           {% endunless %} {% endfor %}
         </ul>
-        <div class="usa-nav__secondary">
+        <div class="usa-nav__secondary {{shrink}}">
           {% include searchgov/form.html searchgov=site.searchgov %}
         </div>
         <div
@@ -61,9 +67,9 @@ banner.html %} {% if site.beta %} {%include banner-beta.html %} {% endif %}
           {% asset ic_phone-circle.svg class="margin-right-1" alt="phone" %}
           <div>
             <span class="display-block margin-bottom-05 text-bold"
-              >{{site.data["i18n"].hotline.heading}}</span
+              >{{site.data[lang]["i18n"].hotline.heading}}</span
             >
-            {{site.data["i18n"].hotline.content}}<br />
+            {{site.data[lang]["i18n"].hotline.content}}<br />
             {{ site.contact.tollfree }}<br />
             {{ site.contact.tty }} (TTY)
           </div>

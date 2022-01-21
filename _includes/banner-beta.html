@@ -1,4 +1,5 @@
-{% assign lang = site.active_lang %}
+{% assign lang = page.lang %}
+{% if lang==nil %}{% assign lang="en" %}{% endif %}
 
 <section class="usa-banner crt-banner--beta margin-y-1" aria-label="BETA site">
   <div
@@ -9,7 +10,7 @@
     </div>
     <div class="grid-col-fill">
       <p class="usa-banner__header-text">
-        {{site.data["i18n"].beta}}
+        {{site.data[lang]["i18n"].beta}}
       </p>
     </div>
   </div>
