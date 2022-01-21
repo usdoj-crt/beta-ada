@@ -23,13 +23,13 @@ banner.html %} {% if site.beta %} {%include banner-beta.html %} {% endif %}
         <ul class="usa-nav__primary usa-accordion">
           {% for nav_item in site.primary_navigation %} {% unless
           nav_item.children %} {% assign basedir = page.url | remove_first: '/'
-          | split: '/' | first | lstrip %} {% assign linkdir = nav_item.url |
+          | split: '/' | first | lstrip %} {% assign linkdir = nav_item.url[lang] |
           replace: "/", "" | lstrip %}
           <li
             class="usa-nav__primary-item desktop:text-no-wrap {{ nav_item.classes }}"
           >
             <a
-              href="{% if nav_item.external %}{{ nav_item.url }}{% else %}{{ nav_item.url | relative_url }}{% endif %}"
+              href="{% if nav_item.external %}{{ nav_item.url[lang] }}{% else %}{{ nav_item.url[lang] | relative_url }}{% endif %}"
               class="usa-nav__link{% if basedir == linkdir %} usa-current{% endif %}"
             >
               <span>{{ nav_item.name[lang] | escape }}</span>
