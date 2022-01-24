@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-{% capture locale %}{{ page.url | truncate: 3, "" | remove: "/" }}{% endcapture %}
-{% if locale == "" %} {% assign locale=site.default_lang %} {% endif %}
-<html lang={{locale}}>
+{% assign lang = page.lang %}
+{% if lang==nil %}{% assign lang="en" %}{% endif %}
+<html lang={{lang}}>
 {% include meta.html %}
 <body>
   {% include header.html %}

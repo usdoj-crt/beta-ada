@@ -11,18 +11,10 @@
         </div>
         <div class="grid-col-fill tablet:grid-col-auto">
           <p class="usa-banner__header-text">
-            {% if lang=="en" %}
-            An official website of the United States government
-            {% elsif lang=="es" %}
-            Un sitio web oficial del Gobierno de los Estados Unidos
-            {% endif %}
+            {{site.data[lang]["i18n"].banner.header-text}}
           </p>
           <p class="usa-banner__header-action" aria-hidden="true">
-            {% if lang=="en" %}
-            Here’s how you know
-            {% elsif lang=="es" %}
-            Así es como lo sabe
-            {% endif %}
+            {{site.data[lang]["i18n"].banner.header-action}}
           </p>
         </div>
         <button
@@ -31,11 +23,7 @@
           aria-controls="gov-banner-default"
           type="button"
         >
-          <span class="usa-banner__button-text">{% if lang=="en" %}
-            Here’s how you know
-            {% elsif lang=="es" %}
-            Así es como lo sabe
-            {% endif %}</span>
+          <span class="usa-banner__button-text">{{site.data[lang]["i18n"].banner.header-action}}</span>
         </button>
       </div>
     </header>

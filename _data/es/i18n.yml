@@ -26,3 +26,8 @@ headings:
 hotline:
   heading: Línea Informativa de la ADA
   content: Hable con nosotros al
+banner:
+  header-text: Un sitio web oficial del Gobierno de los Estados Unidos
+  header-action: Así es como lo sabe 
+language-toggle: English
+file-a-complaint-link: /file-a-complaint/
