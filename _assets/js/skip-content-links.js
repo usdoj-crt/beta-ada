@@ -12,6 +12,6 @@ if (skipSideNav) {
 
 if (skipToMain) {
     skipToMain.addEventListener('click', function(){
-        scrollToElement(skipSideNav.getAttribute('data-scrollto'))
+        scrollToElement(skipToMain.getAttribute('data-scrollto'))
     });
 }

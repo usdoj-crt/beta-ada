@@ -9,6 +9,7 @@
 .shrink-search {
   min-width: 2rem !important;
   right: 1rem !important;
+  max-width: 27ch !important;
 }
 
 @include at-media(desktop) {
