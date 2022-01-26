@@ -2,6 +2,6 @@
 {% if lang==nil %}{% assign lang="en" %}{% endif %}
 
 <div id="crt-page--langtogglebutton--wrapper" class="display-flex flex-column flex-align-end margin-bottom-2">
-    <a href={{site.data[lang]['i18n'].file-a-complaint-link | relative_url}} id="crt-page--langtogglebutton" class="text-bold">{{site.data[lang]["i18n"].language-toggle}}</a>
+    <a href={{site.data[lang]['i18n'].toggle_link | relative_url}} id="crt-page--langtogglebutton" class="text-bold">{{site.data[lang]["i18n"].language-toggle}}</a>
 </div>
   

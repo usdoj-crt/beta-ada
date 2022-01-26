@@ -33,8 +33,9 @@ hotline:
 banner:
   header-text: Un sitio web oficial del Gobierno de los Estados Unidos
   header-action: Así es como lo sabe 
+file-a-complaint-link: /es/presente-una-queja/
 language-toggle: English
-file-a-complaint-link: /file-a-complaint/
+toggle_link: /file-a-complaint/
 footer:
   foia: FOIA [Ley de Libertad de Información]
   photo_collection: Colección de fotos Discapacitado y Aquí

@@ -33,8 +33,9 @@ hotline:
 banner:
   header-text: An official website of the United States government
   header-action: Here’s how you know 
+file-a-complaint-link: /file-a-complaint/
 language-toggle: En espa&ntilde;ol
-file-a-complaint-link: /es/presente-una-queja/
+toggle_link: /es/presente-una-queja/
 footer:
   foia: FOIA
   photo_collection: Disabled And Here photo collection
