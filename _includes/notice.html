@@ -1,3 +1,6 @@
+{% assign lang = page.lang %}
+{% if lang==nil %}{% assign lang="en" %}{% endif %}
+
 <div class="bg-warning padding-y-2 font-sans-2xs">
   <div class="grid-container">
     <div class="grid-row grid-gap">
@@ -10,7 +13,7 @@
         <a
           class="text-no-underline hover:text-ink hover:text-underline"
           href="{{ post.url | relative_url }}"
-          >{{ post.title }}</a
+          >{% if lang=="en" %}{{ post.title }}{% elsif lang=="es" %}{{post.title_es}}{% endif %}</a
         >
         {% endfor %}
       </div>

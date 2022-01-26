@@ -11,18 +11,17 @@
         <div class="grid-col-auto">
           <div class="display-flex flex-align-center">
             <p class="usa-footer__logo-heading">
-              ADA.gov
+              {{site.data[lang]["i18n"].headings.logo_heading}}
             </p>
             {% if site.beta %}
             <span
               class="usa-tag bg-warning text-primary-darker text-uppercase margin-left-1"
-              >Beta</span
+              >{{site.data[lang]["i18n"].headings.beta_span}}</span
             >
             {% endif %}
           </div>
           <p class="usa-footer__logo-subheading">
-            U.S. Department of Justice<br />
-            Civil Rights Division
+            {{site.data[lang]["i18n"].headings.logo_subheading}}
           </p>
           <a
             class="usa-button usa-button--outline display-flex flex-align-center"
@@ -105,7 +104,7 @@
                 {{site.data[lang]["i18n"].links.privacy}}
               </a>
               <a href="https://www.justice.gov/crt/freedom-information-act-0">
-                FOIA
+                {{site.data[lang]["i18n"].footer.foia}}
               </a>
               <a
                 href="https://www.justice.gov/accessibility/accessibility-information"
@@ -160,7 +159,7 @@
               <a
                 class="external-link--popup"
                 href="https://affecttheverb.com/disabledandhere/"
-                >Disabled And Here photo collection</a
+                >{{site.data[lang]["i18n"].footer.photo_collection}}</a
               >
             </p>
           </div>

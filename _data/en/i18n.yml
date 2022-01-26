@@ -24,6 +24,9 @@ headings:
   attribution: Image attribution
   contact: Contact
   links: Links
+  logo_heading: ADA.gov
+  beta_span: Beta
+  logo_subheading: U.S. Department of Justice <br/> Civil Rights Division
 hotline:
   heading: ADA Information Line
   content: Talk to us at
@@ -32,3 +35,6 @@ banner:
   header-action: Here’s how you know 
 language-toggle: En espa&ntilde;ol
 file-a-complaint-link: /es/presente-una-queja/
+footer:
+  foia: FOIA
+  photo_collection: Disabled And Here photo collection

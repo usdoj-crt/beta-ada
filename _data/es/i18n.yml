@@ -1,29 +1,32 @@
 beta: |-
   <strong>Este es un sitio BETA</strong>. Es una versión temprana en desarrollo de un ADA.gov mejorado. Si usted no encuentra lo que busca, <a href="https://www.ada.gov">vuelva al sitio principal de ADA.gov</a>
 links:
-  a11y: Accessibility
-  about: About the division
-  budget: Budget and performance
+  a11y: Accesibilidad
+  about: SOBRE LA DIVISIÓN
+  budget: PRESUPUESTO Y RENDIMIENTO
   cases: Casos
   file_complaint: Presente una queja
-  back_legacy: Back to the main ADA.gov
+  back_legacy: Volver al sitio principal de ADA.gov
   learn: Learn more
-  legal: Legal policies and Disclaimers
+  legal: POLÍTICAS LEGALES Y DESCARGOS
   next: Next
-  oig: Office of Inspector General
+  oig: OFICINA DEL INSPECTOR GENERAL
   previous: Previous
-  privacy: Privacy policy
+  privacy: POLÍTICA DE PRIVACIDAD
   skip:
     main: Skip to main content
     nav: Skip to page navigation
   toc: Table of contents
-  touchpoints: How can we improve this site?
+  touchpoints: ¿Cómo podemos mejorar este sitio?
   contact: Línea de información de la ADA
   menu: Menu
 headings:
-  attribution: Image attribution
-  contact: Contact
-  links: Links
+  attribution: Atribución de imágenes
+  contact: Contacto
+  links: Enlaces
+  logo_heading: ADA.gov
+  beta_span: Beta
+  logo_subheading: Departamento de Justicia de los EE. UU. <br/> División de Derechos Civiles
 hotline:
   heading: Línea Informativa de la ADA
   content: Hable con nosotros al
@@ -32,3 +35,6 @@ banner:
   header-action: Así es como lo sabe 
 language-toggle: English
 file-a-complaint-link: /file-a-complaint/
+footer:
+  foia: FOIA [Ley de Libertad de Información]
+  photo_collection: Colección de fotos Discapacitado y Aquí
