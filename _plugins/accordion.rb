@@ -42,7 +42,7 @@ module Jekyll
 
         output = <<~EOS
           <h2 class="usa-accordion__heading" id="#{heading ? heading['id'] : ''}">
-            <button class="usa-accordion__button"
+            <button class="usa-accordion__button pa11y-skip"
               aria-expanded="true"
               aria-controls="#{collapsedID}">
               #{heading ? heading.text : ""}
