@@ -12,7 +12,7 @@ module Jekyll
         <details>
         <summary markdown="0">
           <div>
-            <span>#{@title}</span>
+            <span class="pa11y-skip">#{@title}</span>
           </div>
         </summary>
         <div>
