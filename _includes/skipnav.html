@@ -8,12 +8,6 @@
 {% endif %}
 
 {% if has_side_nav %}
-<<<<<<< HEAD
-<a class="usa-skipnav" id="crt-skipnav-sidenav" href="#crt-page--sidenav-target" data-scrollto="crt-page--sidenav">{{site.data[lang]["i18n"].links.skip.nav}}</a>
-{% endif %}
-<a class="usa-skipnav" id="crt-skipnav-main" data-scrollto="crt-page--content" href="#{% if has_side_nav %}crt-page--content-target{% else %}main-content{% endif %}">{{site.data[lang]["i18n"].links.skip.main}}</a>
-=======
 <a class="usa-skipnav" href="#crt-page--sidenav">{{site.data["i18n"].links.skip.nav}}</a>
 {% endif %}
 <a class="usa-skipnav" href="#{% if has_side_nav %}crt-page--content{% else %}main-content{% endif %}">{{site.data["i18n"].links.skip.main}}</a>
->>>>>>> b76f6ce6937cf8da5897339b6d4b61a1b587fdda
