@@ -24,7 +24,7 @@ banner.html %} {% if site.beta %} {%include banner-beta.html %} {% endif %}
           >
             <a
               href="{% if nav_item.external %}{{ nav_item.url }}{% else %}{{ nav_item.url | relative_url }}{% endif %}"
-              class="usa-nav__link{% if basedir == linkdir %} usa-current{% endif %}"
+              class="usa-nav__link{% if basedir == linkdir %} usa-current pa11y-skip{% endif %}"
             >
               <span>{{ nav_item.name[lang] | escape }}</span>
             </a>

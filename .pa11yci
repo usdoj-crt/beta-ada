@@ -1,11 +1,11 @@
 {
   "defaults": {
-    "concurrency": 4,
+    "concurrency": 1,
     "chromeLaunchConfig": {
        "ignoreHTTPSErrors": true,
        "args": ["--disable-dev-shm-usage"]
      },
-    "hideElements": "#fba-button",
+    "hideElements": ["#fba-button", "pa11y-skip"],
     "standard": "WCAG2AA",
     "runners": ["axe"],
     "timeout": 120000
