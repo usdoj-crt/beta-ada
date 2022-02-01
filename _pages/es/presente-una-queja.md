@@ -42,7 +42,7 @@ Siga las instrucciones en el [sitio web del DOJ](https://civilrights.justice.gov
 Rellene y envíe la versión impresa del [Formulario de quejas al amparo de la ADA](https://www.ada.gov/CRT-ReportPDF-Sep2021.pdf) or o una carta que contiene la misma información, a:  
 >U.S. Department of Justice  
 Civil Rights Division  
-950 Pennsylvania Avenue, NW   
+950 Pennsylvania Avenue, NW
 Washington, DC 20530  
 
 1. Por fax  
