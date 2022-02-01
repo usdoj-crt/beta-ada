@@ -42,7 +42,7 @@ Follow instructions on the [DOJ site](https://civilrights.justice.gov/report/)
 Fill out and send the paper [ADA Complaint Form](https://www.ada.gov/CRT-ReportPDF-Sep2021.pdf) or a letter containing the same information, to:  
 >U.S. Department of Justice  
 Civil Rights Division  
-950 Pennsylvania Avenue, NW 
+950 Pennsylvania Avenue, NW
 Washington, DC 20530  
 
 1. Fax  
