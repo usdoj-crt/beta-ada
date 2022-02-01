@@ -32,7 +32,12 @@ hotline:
   content: Talk to us at
 banner:
   header-text: An official website of the United States government
-  header-action: Here’s how you know 
+  header-action: Here’s how you know
+  block_copy_official: Official websites use .gov
+  block_copy_official_sub: A <strong>.gov</strong> website belongs to an official government organization in the United States.
+  block_copy_https: Secure .gov websites use HTTPS
+  block_copy_https_lock: A <strong>lock</strong>
+  block_copy_https_sub: or <strong>https://</strong> means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites. 
 file-a-complaint-link: /file-a-complaint/
 language-toggle: En espa&ntilde;ol
 toggle_link: /es/presente-una-queja/
