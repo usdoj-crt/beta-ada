@@ -38,7 +38,6 @@ banner:
   block_copy_https: Secure .gov websites use HTTPS
   block_copy_https_lock: A <strong>lock</strong>
   block_copy_https_sub: or <strong>https://</strong> means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
-file-a-complaint-link: /file-a-complaint/
 footer:
   foia: FOIA
   photo_collection: Disabled And Here photo collection
