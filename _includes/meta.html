@@ -1,4 +1,5 @@
 {% assign lang = page.lang %}
+{% assign ref = page.ref %}
 {% if lang==nil %}{% assign lang="en" %}{% endif %}
 {% assign pages=site.pages | where:"ref", page.ref | sort: lang %}
 
@@ -17,9 +18,9 @@
     ================================================== -->
   {% seo %}
   <meta http-equiv="Content-Language" content={{lang}}>
-  {% for page in pages %}
-    {% if page.lang!=lang and page.ref %}
-      <link rel="alternate" hreflang={{page.lang}} href={{page.url | relative}}>
+  {% for item in pages %}
+    {% if item.lang!=lang and item.ref!=nil and item.ref==ref %}
+      <link rel="alternate" hreflang={{item.lang}} href={{item.url | relative}}>
     {% endif%}
   {% endfor %}
   <!-- CSS

@@ -1,7 +1,12 @@
 {% assign lang = page.lang %}
+{% assign ref = page.ref %}
 {% if lang==nil %}{% assign lang="en" %}{% endif %}
+{% assign pages=site.pages | where:"ref", ref | sort: lang %}
 
 <div id="crt-page--langtogglebutton--wrapper" class="display-flex flex-column flex-align-end margin-bottom-2">
-    <a href={{site.data[lang]['i18n'].toggle_link | relative_url}} id="crt-page--langtogglebutton" class="text-bold">{{site.data[lang]["i18n"].language-toggle}}</a>
+{% for item in pages %}
+    {% if item.lang!=lang and item.ref!=nil and item.ref==ref %}
+    <a href={{item.url | relative_url}} id="crt-page--langtogglebutton" class="text-bold">{% if item.lang=='es' %}{{ 'En espa&ntilde;ol ''}}{% elsif item.lang=='en' %}{{ 'English' }}{% endif %}</a>
+    {% endif%}
+{% endfor %}
 </div>
-  
