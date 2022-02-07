@@ -6,7 +6,7 @@
 ></script>
 {% endif %}
 
-{% if site.ga.ua %}
+{% if site.ga.ua and jekyll.environment=="production" %}
 <!-- Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga.ua }}"></script>
 <script>
