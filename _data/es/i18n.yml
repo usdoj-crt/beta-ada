@@ -1,25 +1,37 @@
+aria:
+  banner_official: Sitio Web Oficial del Gobierno
+  banner_flag: Bandera de EE. UU.
+  banner_beta: Sitio beta
+  primary_navigation: Navegación principal
+  search: Buscar
+  close: Cerrar
+  phone: Teléfono
+  mail: Correo
+  side_nav: Navegación de páginas
 beta: |-
   <strong>Este es un sitio BETA</strong>. Es una versión temprana en desarrollo de un ADA.gov mejorado. Si usted no encuentra lo que busca, <a href="https://www.ada.gov">vuelva al sitio principal de ADA.gov</a>
 links:
   a11y: Accesibilidad
   about: SOBRE LA DIVISIÓN
+  back: Volver
   budget: PRESUPUESTO Y RENDIMIENTO
   cases: Casos
+  continue: Continuar
   file_complaint: Presente una queja
   back_legacy: Volver al sitio principal de ADA.gov
-  learn: Learn more
+  learn: Aprenda más
   legal: POLÍTICAS LEGALES Y DESCARGOS
-  next: Next
+  next: Próxima
   oig: OFICINA DEL INSPECTOR GENERAL
-  previous: Previous
+  previous: Previa
   privacy: POLÍTICA DE PRIVACIDAD
   skip:
-    main: Skip to main content
-    nav: Skip to page navigation
-  toc: Table of contents
+    main: Ir al contenido principal
+    nav: Ir a la navegación de páginas
+  toc: Tabla de contenidos
   touchpoints: ¿Cómo podemos mejorar este sitio?
   contact: Línea de información de la ADA
-  menu: Menu
+  menu: Menú
 headings:
   attribution: Atribución de imágenes
   contact: Contacto
@@ -38,6 +50,12 @@ banner:
   block_copy_https: Los sitios web seguros .gov usan HTTPS
   block_copy_https_lock: Un <strong>candado</strong>
   block_copy_https_sub: o https:// significa que usted se conectó de forma segura a un sitio web .gov. Comparta información sensible sólo en sitios web oficiales y seguros.
+  padlock_title: Candado
+  padlock_description: Un candado cerrado
 footer:
   foia: FOIA [Ley de Libertad de Información]
   photo_collection: Colección de fotos Discapacitado y Aquí
+redirect_modal:
+  header: Usted está abandonando ahora un sitio web del Departamento de Justicia
+  redirect_text: Será redirigido automáticamente a&#58;
+  disclaimer_text: El Departamento de Justicia no respalda las organizaciones u opiniones representados por este sitio y no toma ninguna responsabilidad por, ni tampoco controla, la precisión, la accesibilidad, el cumplimiento de los derechos de autor o la marca o la legalidad del material contenido en este sitio.

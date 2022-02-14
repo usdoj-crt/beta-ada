@@ -1,13 +1,13 @@
 {% assign lang = page.lang %}
 {% if lang==nil %}{% assign lang="en" %}{% endif %}
 
-<section class="usa-banner" aria-label="Official government website">
+<section class="usa-banner" aria-label="{{site.data[lang]['i18n'].aria.banner_official}}">
   <div class="usa-accordion">
     <header class="usa-banner__header">
       <div class="usa-banner__inner">
         <div class="grid-col-auto">
           {% asset img/us_flag_small.png class="usa-banner__header-flag"
-          alt="U.S. flag" %}
+          alt="{{site.data[lang]['i18n'].aria.banner_flag}}" %}
         </div>
         <div class="grid-col-fill tablet:grid-col-auto">
           <p class="usa-banner__header-text">
@@ -66,9 +66,9 @@
                   aria-labelledby="banner-lock-title-default banner-lock-description-default"
                   focusable="false"
                 >
-                  <title id="banner-lock-title-default">Lock</title>
+                  <title id="banner-lock-title-default">{{site.data[lang]['i18n'].banner.padlock_title}}</title>
                   <desc id="banner-lock-description-default">
-                    A locked padlock
+                    {{site.data[lang]['i18n'].banner.padlock_description}}
                   </desc>
                   <path
                     fill="#000000"

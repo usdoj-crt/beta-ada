@@ -1,10 +1,22 @@
+aria:
+  banner_official: Official Goverment Website
+  banner_flag: U.S.Flag
+  banner_beta: Beta Site
+  primary_navigation: Primary navigation
+  search: Search Beta.ADA.gov
+  close: close
+  phone: phone
+  mail: mail
+  side_nav: Page navigation
 beta: |-
   <strong>This is a BETA site</strong>. It's an early, in-progress version of an improved ADA.gov. If you don't find what you're looking for, <a href="https://www.ada.gov">return to the main ADA.gov</a>
 links:
   a11y: Accessibility
   about: About the division
+  back: Back
   budget: Budget and performance
   cases: Cases
+  continue: Continue
   file_complaint: File a complaint
   back_legacy: Back to the main ADA.gov
   learn: Learn more
@@ -38,6 +50,13 @@ banner:
   block_copy_https: Secure .gov websites use HTTPS
   block_copy_https_lock: A <strong>lock</strong>
   block_copy_https_sub: or <strong>https://</strong> means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+  padlock_title: Lock
+  padlock_description: A locked padlock
 footer:
   foia: FOIA
   photo_collection: Disabled And Here photo collection
+redirect_modal:
+  header: You are now leaving a Department of Justice website
+  redirect_text: You will be automatically redirected to a&#58;
+  disclaimer_text: The Department of Justice does not endorse the organizations or views represented by this site and takes no responsibility for, and exercises no control over, the accuracy, accessibility, copyright or trademark compliance or legality of the material contained on this site.
+

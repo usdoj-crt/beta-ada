@@ -1,7 +1,7 @@
 {% assign lang = page.lang %}
 {% if lang==nil %}{% assign lang="en" %}{% endif %}
 
-<section class="usa-banner crt-banner--beta margin-y-1" aria-label="BETA site">
+<section class="usa-banner crt-banner--beta margin-y-1" aria-label="{{site.data[lang]['i18n'].aria.banner_beta}}">
   <div
     class="usa-banner__inner border-top border-primary-lightest padding-top-1"
   >

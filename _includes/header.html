@@ -1,5 +1,5 @@
-{% include skipnav.html %} 
-{% include banner.html %} 
+{% include skipnav.html %}
+{% include banner.html %}
 {% if site.beta %} {%include banner-beta.html %} {% endif %}
 {% assign lang = page.lang %}
 {% if lang==nil %}{% assign lang="en" %}{% endif %}
@@ -16,10 +16,10 @@
       {% include phone.html %}
       <button class="usa-menu-btn">{{site.data[lang]["i18n"].links.menu}}</button>
     </div>
-    <nav aria-label="Primary navigation" class="usa-nav">
+    <nav aria-label="{{site.data[lang]['i18n'].aria.primary_navigation}}" class="usa-nav">
       <div class="usa-nav__inner">
         <button class="usa-nav__close">
-          {% asset img/usa-icons/close.svg alt="close" %}
+          {% asset img/usa-icons/close.svg alt="{{site.data[lang]['i18n'].aria.close}}" %}
         </button>
         <ul class="usa-nav__primary usa-accordion">
           {% for nav_item in site.primary_navigation %} {% unless
@@ -65,7 +65,7 @@
         <div
           class="display-flex order-3 desktop:display-none flex-align-start padding-left-6 padding-right-3 bg-primary-lighter margin-x-neg-3 padding-y-3 line-height-sans-5"
         >
-          {% asset ic_phone-circle.svg class="margin-right-1" alt="phone" %}
+          {% asset ic_phone-circle.svg class="margin-right-1" alt="{{site.data[lang]['i18n'].aria.phone}}" %}
           <div>
             <span class="display-block margin-bottom-05 text-bold"
               >{{site.data[lang]["i18n"].hotline.heading}}</span

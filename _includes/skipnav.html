@@ -8,6 +8,6 @@
 {% endif %}
 
 {% if has_side_nav %}
-<a class="usa-skipnav" href="#crt-page--sidenav">{{site.data["i18n"].links.skip.nav}}</a>
+<a class="usa-skipnav" href="#crt-page--sidenav">{{site.data[lang]["i18n"].links.skip.nav}}</a>
 {% endif %}
-<a class="usa-skipnav" href="#{% if has_side_nav %}crt-page--content{% else %}main-content{% endif %}">{{site.data["i18n"].links.skip.main}}</a>
+<a class="usa-skipnav" href="#{% if has_side_nav %}crt-page--content{% else %}main-content{% endif %}">{{site.data[lang]["i18n"].links.skip.main}}</a>
