@@ -34,54 +34,54 @@ The nature of your complaint determines where you should file it. The table belo
 | Housing (e.g., denied housing or denied an accessible living space based on disability)                 | Department of Housing and Urban Development (HUD) | Follow the instructions on the [HUD site](https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint)
 | Complaints involving anything else                                                          | Department of Justice, Civil Rights Division                                                           | [See below](#filing-a-complaint-with-the-department-of-justice-civil-rights-division)
 
-## Filing a Complaint with the Department of Justice, Civil Rights Division  
-There are three options for filing:  
-1. Online  
-Follow instructions on the [DOJ site](https://civilrights.justice.gov/report/)  
-1. Mail  
-Fill out and send the paper [ADA Complaint Form](https://www.ada.gov/CRT-ReportPDF-Sep2021.pdf) or a letter containing the same information, to:  
->U.S. Department of Justice  
-Civil Rights Division  
-950 Pennsylvania Avenue, NW
-Washington, DC 20530  
+## Filing a Complaint with the Department of Justice, Civil Rights Division
+There are three options for filing:
+1. Online
+Follow instructions on the [DOJ site](https://civilrights.justice.gov/report/)
+1. Mail
+Fill out and send the paper [ADA Complaint Form](https://www.ada.gov/CRT-ReportPDF-Sep2021.pdf) or a letter containing the same information, to:
+>U.S. Department of Justice<br/>
+Civil Rights Division<br/>
+950 Pennsylvania Avenue, NW<br/>
+Washington, DC 20530
 
-1. Fax  
-Send to (202) 307-1197  
+1. Fax
+Send to (202) 307-1197
 
 Remember to keep a copy of your complaint and the original documents for your own records.
 
-If you'd like more information, our answers to [common questions](https://www.ada.gov/filing_complaint.htm) is a good place to look.  
+If you'd like more information, our answers to [common questions](https://www.ada.gov/filing_complaint.htm) is a good place to look.
 
-## After You File a Complaint  
+## After You File a Complaint
 
-We might refer your complaint to:  
+We might refer your complaint to:
 
 - The [ADA Mediation Program](#mp)
-- A federal agency that handles the types of issues your complaint raises  
+- A federal agency that handles the types of issues your complaint raises
 
-We could also:  
+We could also:
 
-- Contact you for more information  
-- [Investigate your complaint](#ic), which could lead to a settlement or a lawsuit  
+- Contact you for more information
+- [Investigate your complaint](#ic), which could lead to a settlement or a lawsuit
 
-Unfortunately, we cannot investigate every complaint. We will let you know if we are unable to mediate, refer, or investigate your complaint.  
+Unfortunately, we cannot investigate every complaint. We will let you know if we are unable to mediate, refer, or investigate your complaint.
 
-### When You Will Hear From Us  
+### When You Will Hear From Us
 
-We receive many ADA complaints from people around the United States. So, our review can take up to three months.  
+We receive many ADA complaints from people around the United States. So, our review can take up to three months.
 
-If you have not heard from us after three months, you can call the ADA Information Line to check your complaint’s status. You can reach the ADA Information Line at 1-800-514-0301 (voice) or 1-800-514-0383 (TTY).  
+If you have not heard from us after three months, you can call the ADA Information Line to check your complaint’s status. You can reach the ADA Information Line at 1-800-514-0301 (voice) or 1-800-514-0383 (TTY).
 
-Even if we do not take any formal action, your complaint provides us with valuable information, helping us find issues affecting multiple people or communities, and helping us understand emerging trends and topics.  
+Even if we do not take any formal action, your complaint provides us with valuable information, helping us find issues affecting multiple people or communities, and helping us understand emerging trends and topics.
 
-### <a name="mp"></a>ADA Mediation Program  
+### <a name="mp"></a>ADA Mediation Program
 
-Mediation is a process that does not involve the courts. Mediation typically involves one or more meetings between you, the organization you complained about, and an impartial mediator, and it is designed to help you reach a mutual agreement. It can be a fair and quick way to resolve ADA complaints. It is confidential and voluntary.  
+Mediation is a process that does not involve the courts. Mediation typically involves one or more meetings between you, the organization you complained about, and an impartial mediator, and it is designed to help you reach a mutual agreement. It can be a fair and quick way to resolve ADA complaints. It is confidential and voluntary.
 
-If we think that your complaint might be a good fit for mediation, we will contact you and the organization you complained about. We will ask if you are both willing to participate in mediation.  
+If we think that your complaint might be a good fit for mediation, we will contact you and the organization you complained about. We will ask if you are both willing to participate in mediation.
 
-### <a name="ic"></a>If we investigate your complaint:  
+### <a name="ic"></a>If we investigate your complaint:
 
-An investigator or attorney will contact you to get more information.  
+An investigator or attorney will contact you to get more information.
 
 The Department will not give your name or other personal information to anyone unless it is necessary for enforcement activities or is required by law.
