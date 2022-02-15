@@ -6,6 +6,12 @@
   background-color: color($theme-color-primary-darker);
 }
 
+.shrink-search {
+  min-width: 2rem !important;
+  right: 1rem !important;
+  max-width: 27ch !important;
+}
+
 @include at-media(desktop) {
   .usa-search--small input[type="search"] {
     border-color: color("white");

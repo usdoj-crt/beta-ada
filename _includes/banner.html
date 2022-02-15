@@ -1,17 +1,20 @@
-<section class="usa-banner" aria-label="Official government website">
+{% assign lang = page.lang %}
+{% if lang==nil %}{% assign lang="en" %}{% endif %}
+
+<section class="usa-banner" aria-label="{{site.data[lang]['i18n'].aria.banner_official}}">
   <div class="usa-accordion">
     <header class="usa-banner__header">
       <div class="usa-banner__inner">
         <div class="grid-col-auto">
           {% asset img/us_flag_small.png class="usa-banner__header-flag"
-          alt="U.S. flag" %}
+          alt="{{site.data[lang]['i18n'].aria.banner_flag}}" %}
         </div>
         <div class="grid-col-fill tablet:grid-col-auto">
           <p class="usa-banner__header-text">
-            An official website of the United States government
+            {{site.data[lang]["i18n"].banner.header-text}}
           </p>
           <p class="usa-banner__header-action" aria-hidden="true">
-            Here’s how you know
+            {{site.data[lang]["i18n"].banner.header-action}}
           </p>
         </div>
         <button
@@ -20,7 +23,7 @@
           aria-controls="gov-banner-default"
           type="button"
         >
-          <span class="usa-banner__button-text">Here’s how you know</span>
+          <span class="usa-banner__button-text">{{site.data[lang]["i18n"].banner.header-action}}</span>
         </button>
       </div>
     </header>
@@ -35,11 +38,10 @@
           <div class="usa-media-block__body">
             <p>
               <strong>
-                Official websites use .gov
+                {{ site.data[lang]["i18n"].banner.block_copy_official }}
               </strong>
               <br />
-              A <strong>.gov</strong> website belongs to an official government
-              organization in the United States.
+              {{ site.data[lang]["i18n"].banner.block_copy_official_sub }}
             </p>
           </div>
         </div>
@@ -49,10 +51,10 @@
           <div class="usa-media-block__body">
             <p>
               <strong>
-                Secure .gov websites use HTTPS
+                {{ site.data[lang]["i18n"].banner.block_copy_https }}
               </strong>
               <br />
-              A <strong>lock</strong> (
+              {{ site.data[lang]["i18n"].banner.block_copy_https_lock }} (
               <span class="icon-lock"
                 ><svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -64,9 +66,9 @@
                   aria-labelledby="banner-lock-title-default banner-lock-description-default"
                   focusable="false"
                 >
-                  <title id="banner-lock-title-default">Lock</title>
+                  <title id="banner-lock-title-default">{{site.data[lang]['i18n'].banner.padlock_title}}</title>
                   <desc id="banner-lock-description-default">
-                    A locked padlock
+                    {{site.data[lang]['i18n'].banner.padlock_description}}
                   </desc>
                   <path
                     fill="#000000"
@@ -74,9 +76,7 @@
                     d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z"
                   /></svg
               ></span>
-              ) or <strong>https://</strong> means you’ve safely connected to
-              the .gov website. Share sensitive information only on official,
-              secure websites.
+              ) {{ site.data[lang]["i18n"].banner.block_copy_https_sub }}
             </p>
           </div>
         </div>

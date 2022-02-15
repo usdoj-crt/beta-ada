@@ -1,3 +1,6 @@
+{% assign lang = page.lang %}
+{% if lang==nil %}{% assign lang="en" %}{% endif %}
+
 <div class="grid-container crt-landing--logo_section">
   <a
     href="{{ '/' | relative_url }}"
@@ -9,18 +12,17 @@
     <div class="grid-col">
       <div class="display-flex flex-align-center">
         <p class="crt-landing--logo_heading">
-          ADA.gov
+          {{site.data[lang]["i18n"].headings.logo_heading}}
         </p>
         {% if site.beta %}
         <span
           class="usa-tag bg-warning text-primary-darker text-uppercase margin-left-1"
-          >Beta</span
+          >{{site.data[lang]["i18n"].headings.beta_span}}</span
         >
         {% endif %}
       </div>
       <p class="crt-landing--logo_subheading">
-        U.S. Department of Justice<br />
-        Civil Rights Division
+        {{site.data[lang]["i18n"].headings.logo_subheading}}
       </p>
     </div>
   </a>

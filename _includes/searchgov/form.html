@@ -36,7 +36,7 @@
       id="affiliate"
       value="{{include.searchgov.affiliate}}"
     />
-    <label class="usa-sr-only" for="query">Search {{site.title}}</label>
+    <label class="usa-sr-only" for="query">{{site.data[lang]["i18n"].aria.search}} {{site.title}}</label>
     <input
       class="usa-input radius-left-lg"
       id="query"
@@ -45,7 +45,7 @@
       autocomplete="off"
     />
     <button class="usa-button radius-right-lg" type="submit">
-      <span class="usa-sr-only">Search</span>
+      <span class="usa-sr-only">{{site.data[lang]["i18n"].aria.search}}</span>
     </button>
   </form>
   {% endif %}

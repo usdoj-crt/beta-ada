@@ -47,22 +47,40 @@ google_site_verification: 34Ks265Uibpdda984RS0SxVABVZCdlVrdSp61pIdZQ8
 primary_navigation:
   - name:
       en: Home
-    url: "/"
+      es: Página principal
+    url: 
+      en: "/"
+      es: "/"
   - name:
       en: Topics
-    url: "/topics/"
+      es: Temas
+    url: 
+      en: "/topics/"
+      es: "/topics/"
   - name:
-      en: Law & Regulations
-    url: "/law-and-regs/"
+      en: Laws & Regulations
+      es: Leyes y reglamentos
+    url: 
+      en: "/law-and-regs/"
+      es: "/law-and-regs/"
   - name:
       en: File a Complaint
-    url: "/file-a-complaint/"
+      es: Presente una queja
+    url: 
+      en: "/file-a-complaint/"
+      es: "/es/presente-una-queja/"
   - name:
       en: Cases
-    url: "/cases/"
+      es: Casos
+    url:
+      en: "/cases/"
+      es: "/cases/" 
   - name:
       en: Give Us Feedback
-    url: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit
+      es: Denos su opinión
+    url:
+      en: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit
+      es: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit 
     external: true
 
 # Collections

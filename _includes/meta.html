@@ -1,3 +1,8 @@
+{% assign lang = page.lang %}
+{% assign ref = page.ref %}
+{% if lang==nil %}{% assign lang="en" %}{% endif %}
+{% assign pages=site.pages | where:"ref", page.ref | sort: lang %}
+
 <head>
   <link rel="icon" href="{% asset 'favicon.png' @path %}" />
   <!-- Basic Page Needs
@@ -12,7 +17,12 @@
   <!-- Title and meta description
     ================================================== -->
   {% seo %}
-  {% I18n_Headers %}
+  <meta http-equiv="Content-Language" content={{lang}}>
+  {% for item in pages %}
+    {% if item.lang!=lang and item.ref!=nil and item.ref==ref %}
+      <link rel="alternate" hreflang={{item.lang}} href={{item.url | relative}}>
+    {% endif%}
+  {% endfor %}
   <!-- CSS
     ================================================== -->
   {% asset styles.css %}

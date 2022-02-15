@@ -11,9 +11,12 @@ layout: default
       {% endif %}
     </div>
     {% endif %}
-    <div id="crt-page--content" class="mobile-lg:grid-col {% if page.sidenav %}tablet:grid-col-8{% endif %}">
+    <div id="crt-page--content" class="mobile-lg:grid-col {% if page.sidenav %}tablet:grid-col-12 desktop:grid-col-8{% endif %}">
       {% if page.disclaimer %}
       {% include alert.html title="This is a test site. Do not rely on the information provided." text="This webpage is a prototype meant for user research. It has not undergone final review for legal accuracy and is not intended to provide legal guidance." %}
+      {% endif %}
+      {% if page.title=="File a Complaint" or page.title=="Presente una queja"%}
+        {% include toggle-language.html %}
       {% endif %}
       <h1 id="top">{{page.title}}</h1>
       <div class="crt-landing--separator_small"></div>

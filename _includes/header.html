@@ -1,5 +1,12 @@
-{% assign lang = site.active_lang %} {% include skipnav.html %} {% include
-banner.html %} {% if site.beta %} {%include banner-beta.html %} {% endif %}
+{% include skipnav.html %}
+{% include banner.html %}
+{% if site.beta %} {%include banner-beta.html %} {% endif %}
+{% assign lang = page.lang %}
+{% if lang==nil %}{% assign lang="en" %}{% endif %}
+{% assign shrink = "" %}
+{% unless lang=="en" %}
+{% assign shrink = "shrink-search" %}
+{% endunless %}
 <div class="crt-landing--header crt-lightblue">
   <header class="usa-header usa-header--extended">
     <div class="usa-navbar position-relative">
@@ -7,24 +14,24 @@ banner.html %} {% if site.beta %} {%include banner-beta.html %} {% endif %}
         {% include logo.html %}
       </div>
       {% include phone.html %}
-      <button class="usa-menu-btn">Menu</button>
+      <button class="usa-menu-btn">{{site.data[lang]["i18n"].links.menu}}</button>
     </div>
-    <nav aria-label="Primary navigation" class="usa-nav">
+    <nav aria-label="{{site.data[lang]['i18n'].aria.primary_navigation}}" class="usa-nav">
       <div class="usa-nav__inner">
         <button class="usa-nav__close">
-          {% asset img/usa-icons/close.svg alt="close" %}
+          {% asset img/usa-icons/close.svg alt="{{site.data[lang]['i18n'].aria.close}}" %}
         </button>
         <ul class="usa-nav__primary usa-accordion">
           {% for nav_item in site.primary_navigation %} {% unless
           nav_item.children %} {% assign basedir = page.url | remove_first: '/'
-          | split: '/' | first | lstrip %} {% assign linkdir = nav_item.url |
-          replace: "/", "" | lstrip %}
+          | split: '/' | first | lstrip %} {% assign linkdir = nav_item.url[lang] | remove_first: '/'
+          | split: '/' | first | lstrip  %}
           <li
             class="usa-nav__primary-item desktop:text-no-wrap {{ nav_item.classes }}"
           >
             <a
-              href="{% if nav_item.external %}{{ nav_item.url }}{% else %}{{ nav_item.url | relative_url }}{% endif %}"
-              class="usa-nav__link{% if basedir == linkdir %} usa-current pa11y-skip{% endif %}"
+              href="{% if nav_item.external %}{{ nav_item.url[lang] }}{% else %}{{ nav_item.url[lang] | relative_url }}{% endif %}"
+              class="usa-nav__link{% if basedir == linkdir %} usa-current pa11y-skip {% endif %}"
             >
               <span>{{ nav_item.name[lang] | escape }}</span>
             </a>
@@ -52,18 +59,18 @@ banner.html %} {% if site.beta %} {%include banner-beta.html %} {% endif %}
           </li>
           {% endunless %} {% endfor %}
         </ul>
-        <div class="usa-nav__secondary">
+        <div class="usa-nav__secondary {{shrink}}">
           {% include searchgov/form.html searchgov=site.searchgov %}
         </div>
         <div
           class="display-flex order-3 desktop:display-none flex-align-start padding-left-6 padding-right-3 bg-primary-lighter margin-x-neg-3 padding-y-3 line-height-sans-5"
         >
-          {% asset ic_phone-circle.svg class="margin-right-1" alt="phone" %}
+          {% asset ic_phone-circle.svg class="margin-right-1" alt="{{site.data[lang]['i18n'].aria.phone}}" %}
           <div>
             <span class="display-block margin-bottom-05 text-bold"
-              >{{site.data["i18n"].hotline.heading}}</span
+              >{{site.data[lang]["i18n"].hotline.heading}}</span
             >
-            {{site.data["i18n"].hotline.content}}<br />
+            {{site.data[lang]["i18n"].hotline.content}}<br />
             {{ site.contact.tollfree }}<br />
             {{ site.contact.tty }} (TTY)
           </div>

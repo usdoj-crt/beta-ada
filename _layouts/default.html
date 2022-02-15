@@ -1,5 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
+{% assign lang = page.lang %}
+{% if lang==nil %}{% assign lang="en" %}{% endif %}
+<html lang={{lang}}>
 {% include meta.html %}
 <body>
   {% include header.html %}
