@@ -5,12 +5,13 @@
     "build": "bundle exec JEKYLL_ENV=production jekyll build",
     "clean": "bundle exec jekyll clean",
     "start": "bundle exec jekyll serve --livereload",
-    "test:a11y": "pa11y-ci --sitemap http://127.0.0.1:4000/sitemap.xml"
+    "test:a11y": "pa11y-ci --sitemap http://127.0.0.1:4000/sitemap.xml",
+    "test:landing": "pa11y-ci --config ./pa11y_scripts/.ada-landing.json"
   },
   "dependencies": {
     "anchor-js": "^4.3.1",
     "gumshoejs": "^5.1.2",
-    "uswds": "^2.11.1"
+    "uswds": "^2.12.0"
   },
   "devDependencies": {
     "pa11y-ci": "^3.0.1"
