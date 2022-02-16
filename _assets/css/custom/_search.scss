@@ -4,6 +4,9 @@
 
 .usa-search--small [type="submit"] {
   background-color: color($theme-color-primary-darker);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 1.5rem;
 }
 
 .shrink-search {
