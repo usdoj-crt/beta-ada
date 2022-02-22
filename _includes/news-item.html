@@ -1,24 +1,21 @@
-{% assign page=site.news %}
-<ul class="usa-collection">
-  {% for news-item in page %}
-  <li class="usa-collection__item">
+{% assign pages=site.pages | where_exp:"item", "item.news-item" %} {% assign
+posts=site.posts | where_exp:"item", "item.news-item" %} {% assign
+topics=site.topics | where_exp:"item", "item.news-item" %} {% assign
+pagesAndPosts = pages | concat: posts | concat: topics | sort:"publish-date" %}
+
+<ul class="usa-collection grid-row flex-wrap">
+  {% for news-item in pagesAndPosts | limit:4 %}
+  <li class="usa-collection__item mobile:grid-col-12 tablet:grid-col-6 tablet:margin-top-0 tablet:padding-top-0 tablet:border-0">
     <div>
+      <p class="usa-collection__meta-item"><time datetime="{{news-item.publish-date | date_to_long_rfc822}}"
+        >{{ news-item.publish-date}}
+      </time></p>
       <h3 class="usa-collection__heading">
         <a class="usa-link" href="{{ news-item.permalink | relative}}"
-          >{{ news-item.title }}</a
+          >{{ news-item.title | truncatewords: 15 }}</a
         >
       </h3>
-      <p class="usa-collection__description">{{ news-item.description }}</p>
-      {% if news-item.meta %}
-      <ul class="usa-collection__meta" aria-label="More information">
-        <li class="usa-collection__meta-item">{{ news-item.byline }}</li>
-        <li class="usa-collection__meta-item">
-          <time datetime="{{news-item.time | date_to_long_rfc822}}"
-            >{{ news-item.time | date: %B %d, %Y}}
-          </time>
-        </li>
-      </ul>
-
+      <p class="mobile:display-none padding-right-2">{{ news-item.description | truncatewords: 20 }}</p>
       {% if news-item.meta.tags.length>0 %}
       <ul class="usa-collection__meta" aria-label="Topics">
         {% for tag in news-item.meta.tags %}
@@ -27,7 +24,7 @@
         </li>
         {% endfor %}
       </ul>
-      {% endif %} {% endif %}
+      {% endif %}
     </div>
   </li>
   {% endfor %}

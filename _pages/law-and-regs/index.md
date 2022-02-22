@@ -2,6 +2,8 @@
 permalink: /law-and-regs/
 title: Law and Regulations
 sidenav: false
+news-item: true
+publish-date: October, 22nd 2021
 ---
 
 When we talk about what the ADA requires on ADA.gov, we are usually referring to two sources:

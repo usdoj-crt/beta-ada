@@ -16,6 +16,8 @@ card:
   alt: A man in a wheelchair approaching a vehicle with his hand on the door handle
   position: top
   href: /topics/parking/
+news-item: true
+publish-date: February, 10th 2022
 ---
 
 ## Features
