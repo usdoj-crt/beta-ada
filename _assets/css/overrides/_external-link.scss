@@ -1,20 +1,22 @@
 // Override USWDS mixin to use jekyll-assets asset_url()
 
 @mixin external-link(
-  $external-link,
-  $external-link-hover,
-  $image-path: $theme-image-path
+  $external-link: 'usa-icons/launch',
+  $external-link-hover: 'usa-icons/launch',
+  $image-path: $theme-image-path,
+  $contrast-bg: "base-darker"
 ) {
   &::after {
-    $icon-size: 0.65em;
+    $external-link-size: 1.75ex;
     background-image: asset_url("#{$image-path}/#{$external-link}.svg");
-    background-position: 50% 60%;
     background-repeat: no-repeat;
     background-size: 100%;
     content: "";
     display: inline;
+    height: $external-link-size;
+    width: $external-link-size;
     margin-left: units(2px);
-    padding-left: $icon-size;
+    vertical-align: middle;
   }
 
   &:hover::after {
