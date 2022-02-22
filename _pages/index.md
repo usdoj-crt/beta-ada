@@ -51,6 +51,11 @@ history:
     or national origin. The ADA is an equal opportunity law for people
     with disabilities.
 
+news:
+  heading: New on beta.ADA.gov
+  lead: |-
+    Explore the new content we've added to beta.ADA.gov
+
 report:
   heading: How to Report a Disability Rights Violation
   lead: |-
@@ -71,9 +76,13 @@ report:
     text: File a complaint
 ---
 
+{% assign pages=site.pages %}
+
 {% include landing/hero.html hero=page.hero %}
 
 {% include landing/alert.html alert=page.alert %}
+
+{% include landing/news.html news=page.news %}
 
 {% include landing/understand.html understand=page.understand %}
 

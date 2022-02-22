@@ -48,25 +48,25 @@ primary_navigation:
   - name:
       en: Home
       es: Página principal
-    url: 
+    url:
       en: "/"
       es: "/"
   - name:
       en: Topics
       es: Temas
-    url: 
+    url:
       en: "/topics/"
       es: "/topics/"
   - name:
       en: Laws & Regulations
       es: Leyes y reglamentos
-    url: 
+    url:
       en: "/law-and-regs/"
       es: "/law-and-regs/"
   - name:
       en: File a Complaint
       es: Presente una queja
-    url: 
+    url:
       en: "/file-a-complaint/"
       es: "/es/presente-una-queja/"
   - name:
@@ -74,13 +74,13 @@ primary_navigation:
       es: Casos
     url:
       en: "/cases/"
-      es: "/cases/" 
+      es: "/cases/"
   - name:
       en: Give Us Feedback
       es: Denos su opinión
     url:
       en: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit
-      es: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit 
+      es: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit
     external: true
 
 # Collections
@@ -94,7 +94,23 @@ collections:
       - intro-to-ada.md
       - service-animals.md
       - parking.md
-
+  news:
+    item:
+        title: Mobility Devices
+        description: Some people with disabilities use mobility devices to get around, such as walkers, wheelchairs, or other power-driven devices. People with disabilities may use a variety of mobility devices based on their needs.
+        permalink: /topics/mobility-devices/
+    item2:
+        title: Accessible Parking Spaces
+        description: Accessible parking spaces are different than traditional parking spaces. They have specific features that make it easier for people with disabilities to access programs, goods, or services. The ADA requires businesses, non-profits, and state/local governments to provide accessible parking spaces.
+        permalink: /topics/parking/
+    item3:
+        title: Service Animals
+        description: The ADA explains what businesses and state/local governments must do to make sure that they do not discriminate against a member of the public with a disability who uses a service animal. Generally, service animals must be allowed to go most places where the public can go. Service animals can be any breed and any size of dog. Service animals are trained to perform a task directly related to a person's disability.
+        permalink: /topics/service-animals/
+    item4:
+        title: File a Complaint
+        description: "The Americans with Disabilities Act provides an important tool to fight discrimination: filing a complaint with an appropriate federal agency.  This page outlines the steps to get you started."
+        permalink: /file-a-complaint/
 # Configuration for Touchpoints
 touchpoints:
   url: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit
