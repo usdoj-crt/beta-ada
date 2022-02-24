@@ -16,7 +16,7 @@ card:
   alt: A service animal helps a blind person down the stairs
   href: /topics/service-animals/
 news-item: true
-publish-date: February, 21st 2022
+publish-date: February 18th, 2022
 ---
 
 ## About Service Animals

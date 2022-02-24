@@ -17,7 +17,7 @@ card:
   position: top
   href: /topics/parking/
 news-item: true
-publish-date: February, 10th 2022
+publish-date: February 10th, 2022
 ---
 
 ## Features
