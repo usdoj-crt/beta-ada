@@ -1,3 +1,5 @@
+{% assign lang = page.lang %}
+{% if lang==nil %}{% assign lang="en" %}{% endif %}
 {% if include.searchgov %}
 <script>
   //<![CDATA[
@@ -45,7 +47,8 @@
       autocomplete="off"
     />
     <button class="usa-button radius-right-lg" type="submit">
-      <span class="usa-sr-only">{{site.data[lang]["i18n"].aria.search}}</span>
+      {% asset img/usa-icons-bg/search--white.svg class="desktop:display-none" alt="{{site.data[lang]['i18n'].aria.search}}" %}
+      <span class="usa-sr-only">Search Beta.ADA.gov</span>
     </button>
   </form>
   {% endif %}
