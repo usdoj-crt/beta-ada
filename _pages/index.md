@@ -76,8 +76,6 @@ report:
     text: File a complaint
 ---
 
-{% assign pages=site.pages %}
-
 {% include landing/hero.html hero=page.hero %}
 
 {% include landing/alert.html alert=page.alert %}

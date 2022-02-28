@@ -1,21 +1,26 @@
-{% assign pages=site.pages | where_exp:"item", "item.news-item" %} {% assign
-posts=site.posts | where_exp:"item", "item.news-item" %} {% assign
-topics=site.topics | where_exp:"item", "item.news-item" %} {% assign
-pagesAndPosts = pages | concat: posts | concat: topics | sort:"publish-date" %}
+{% assign pages=site.pages %}
+{% assign posts=site.posts %}
+{% assign topics=site.topics %}
+{% assign pagesAndPosts = pages | concat: posts | concat: topics | where_exp:"item", "item.news-item" | sort:"publish-date" %}
 
 <ul class="usa-collection grid-row flex-wrap">
-  {% for news-item in pagesAndPosts reversed | limit:4 %}
-  <li class="usa-collection__item mobile:grid-col-12 border-base-light tablet:grid-col-6 tablet:margin-top-0 tablet:padding-top-0 tablet:border-0 padding-right-6">
+  {% for news-item in pagesAndPosts reversed %}
+  {% unless forloop.index>4 %}
+  <li
+    class="usa-collection__item mobile:grid-col-12 border-base-light tablet:grid-col-6 tablet:margin-top-0 tablet:padding-top-0 tablet:border-0 padding-right-6"
+  >
     <div>
-      <p class="usa-collection__meta-item"><time datetime="{{news-item.publish-date | date_to_long_rfc822}}"
-        >{{ news-item.publish-date}}
-      </time></p>
+      <p class="usa-collection__meta-item">
+        <time datetime="{{news-item.publish-date | date_to_long_rfc822}}"
+          >{{ news-item.publish-date | date: "%B %d, %Y"}}
+        </time>
+      </p>
       <h3 class="usa-collection__heading">
         <a class="usa-link" href="{{ news-item.permalink | relative}}"
           >{{ news-item.title | truncatewords: 15 }}</a
         >
       </h3>
-      <p class="mobile:display-none">{{ news-item.description | truncatewords: 20 }}</p>
+      <p>{{ news-item.description | truncatewords: 20 }}</p>
       {% if news-item.meta.tags.length>0 %}
       <ul class="usa-collection__meta" aria-label="Topics">
         {% for tag in news-item.meta.tags %}
@@ -27,5 +32,6 @@ pagesAndPosts = pages | concat: posts | concat: topics | sort:"publish-date" %}
       {% endif %}
     </div>
   </li>
+  {% endunless %}
   {% endfor %}
 </ul>
