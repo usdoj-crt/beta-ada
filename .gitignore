@@ -5,3 +5,4 @@ node_modules
 .bundle
 .jekyll-cache/
 .DS_Store
+/_assets/js/dist
