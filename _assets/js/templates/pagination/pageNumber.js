@@ -1,5 +1,7 @@
+import { getOffsetParam } from "../../utils/offsetUtils";
+
 export default function pageNumber(resArray) {
-    var currentOffset = parseInt(offsetUtils.getOffsetParam());
+    var currentOffset = parseInt(getOffsetParam());
     var  currentPage;
     if (resArray.indexOf(currentOffset) >= 0) {
       currentPage = resArray.indexOf(currentOffset) + 1;

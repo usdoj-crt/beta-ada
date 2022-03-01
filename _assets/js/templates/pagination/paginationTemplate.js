@@ -6,7 +6,7 @@ import paginationButton from "./paginationButtonTemplate";
 import pageNumber from "./pageNumber";
 import { firstPage, secondPageEtc, intermediatePages, secondToLastPage, lastPage } from "../../utils/paginationLogic/index"
 
-export default paginationTemplate = function(resultsArr, urlParams) {
+export default function paginationTemplate(resultsArr, urlParams) {
   var offsetInt = parseInt(urlParams.get("offset"));
   pageNumber(resultsArr);
   if (resultsArr.length <= 7) {
