@@ -8,7 +8,7 @@
     "clean:js": "prettier --write \"_assets/js/**/*.js\"",
     "lint:js": "prettier --check \"_assets/js/**/*.js\"",
     "start:js": "webpack --progress --watch",
-    "start": "npm run build:js && bundle exec jekyll serve --livereload",
+    "start": "npm run start:js & bundle exec jekyll serve --livereload",
     "test:a11y": "pa11y-ci --sitemap http://127.0.0.1:4000/sitemap.xml"
   },
   "dependencies": {
