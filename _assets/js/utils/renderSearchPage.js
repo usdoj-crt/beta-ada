@@ -1,17 +1,15 @@
 // Imports:
-//= require ./renderSearchResults.js
-//= require ./applyFocusStyling.js
-//= require ./createRange.js
-//= require ./constants.js
-//= require ./wrapUrls.js
-//= require ../templates/pagination/paginationTemplate.js
-//= require ../templates/search/textBestBetsTemplate.js
-//= require ../templates/search/searchResultsTemplate.js
-//= require ../templates/search/sortedByTemplate.js
-//= require ../templates/search/noResultsTemplate.js
-//= require ../templates/search/totalResultsTemplate.js
+import renderSearchResults from "./renderSearchResults";
+import applyFocusStyling from "./applyFocusStyling";
+import createRange from "./createRange";
+import wrapUrls from "./wrapUrls";
+import paginationTemplate from "../templates/pagination/paginationTemplate";
+import textBestBetsTemplate from "../templates/search/textBestBetsTemplate";
+import searchResultsTemplate from "../templates/search/searchResultsTemplate";
+import noResults from "../templates/search/noResultsTemplate";
+import totalResults from "../templates/search/totalResultsTemplate";
 
-function renderSearchPage(searchResults, urlParams, numberOfResults) {
+export default function renderSearchPage(searchResults, urlParams, numberOfResults) {
   var results = searchResults;
   var textResults = results.text_best_bets;
   var webResults = results.web.results;

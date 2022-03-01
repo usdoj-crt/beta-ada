@@ -1,4 +1,4 @@
-function textBestBetsTemplate(content) {
+export default function textBestBetsTemplate(content) {
    return `
     <li class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
       <b class="title"><a href="${content.url}">${content.title

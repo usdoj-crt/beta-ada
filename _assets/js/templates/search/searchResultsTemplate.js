@@ -1,4 +1,4 @@
-function searchResultsTemplate(content) {
+export default function searchResultsTemplate(content) {
   return `
         <li class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
         <b class="title"><a href="${content.url}">${content.title

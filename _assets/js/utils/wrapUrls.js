@@ -5,7 +5,7 @@
 // @see Turabian 2018, 20.4.2
 // Adapted from: https://css-tricks.com/better-line-breaks-for-long-urls/
 
-function wrapUrls(url) {
+export default function wrapUrls(url) {
   // Split the URL into an array to distingish double slashes from single slashes
   var doubleSlash = url.split("//");
   // Format the strings on either side of double slashes separately

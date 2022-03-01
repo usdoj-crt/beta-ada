@@ -1,7 +1,8 @@
 //= require ../../utils/offsetUtils.js
+import {getOffsetParam, setOffsetParam} from "../../utils/offsetUtils";
 
-function paginationButton(offsetVal, index, resultsArr) {
-  var currentOffset = offsetUtils.getOffsetParam();
+export default function paginationButton(offsetVal, index, resultsArr) {
+  var currentOffset = getOffsetParam();
   var ariaLabel = "";
   var ariaCurrent = "false";
   if (
@@ -17,7 +18,7 @@ function paginationButton(offsetVal, index, resultsArr) {
   }
   return `<li class="usa-pagination__item usa-pagination__page-no display-none tablet:display-block">
       <a
-        href="?${offsetUtils.setOffsetParam(offsetVal)}"
+        href="?${setOffsetParam(offsetVal)}"
         class="usa-pagination__button bg-primary-darker"
         aria-label="${ariaLabel}""
         aria-current=${ariaCurrent}

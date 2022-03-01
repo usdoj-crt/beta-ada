@@ -1,4 +1,4 @@
-function pageNumber(resArray) {
+export default function pageNumber(resArray) {
     var currentOffset = parseInt(offsetUtils.getOffsetParam());
     var  currentPage;
     if (resArray.indexOf(currentOffset) >= 0) {

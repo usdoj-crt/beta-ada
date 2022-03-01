@@ -1,4 +1,4 @@
-function createRange(start, end, step) {
+export default function createRange(start, end, step) {
     var range = [];
     if (start === end) return range.push(start);
     if (end % step === 0) {

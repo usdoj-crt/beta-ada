@@ -1,11 +1,12 @@
 // Imports:
-//= require ./nextButtonTemplate.js
-//= require ./previousButtonTemplate.js
-//= require ./ellipsisTemplate.js
-//= require ./paginationButtonTemplate.js
-//= require ./pageNumber.js
-//= require ../../utils/paginationLogic/index.js
-var paginationTemplate = function(resultsArr, urlParams) {
+import nextButton from "./nextButtonTemplate";
+import previousButton from "./previousButtonTemplate";
+import ellipsis from "./ellipsisTemplate";
+import paginationButton from "./paginationButtonTemplate";
+import pageNumber from "./pageNumber";
+import { firstPage, secondPageEtc, intermediatePages, secondToLastPage, lastPage } from "../../utils/paginationLogic/index"
+
+export default paginationTemplate = function(resultsArr, urlParams) {
   var offsetInt = parseInt(urlParams.get("offset"));
   pageNumber(resultsArr);
   if (resultsArr.length <= 7) {
@@ -35,19 +36,19 @@ var paginationTemplate = function(resultsArr, urlParams) {
               index === resultsArr.indexOf(resultsArr[resultsArr.length - 1])
             ) {
               // If you are on the first page, render the next three page buttons.
-            } else if (paginationLogic.firstPage(offsetValue, offsetInt)) {
+            } else if (firstPage(offsetValue, offsetInt)) {
               return paginationButton(offsetValue, index, resArr);
               // If you are on the second page, render the second page button, third page button and fourth page button:
-            } else if (paginationLogic.secondPageEtc(offsetValue, offsetInt)) {
+            } else if (secondPageEtc(offsetValue, offsetInt)) {
               return paginationButton(offsetValue, index, resArr);
               // If you are on the second to last page, render that page button and the previous two page buttons.
-            } else if (paginationLogic.secondToLastPage(offsetValue, offsetInt, resultsArr)) {
+            } else if (secondToLastPage(offsetValue, offsetInt, resultsArr)) {
               return paginationButton(offsetValue, index, resArr);
               // If you are on the last page, render the previous 3 page buttons.
-            } else if (paginationLogic.lastPage(offsetValue, offsetInt, resultsArr)) {
+            } else if (lastPage(offsetValue, offsetInt, resultsArr)) {
               return paginationButton(offsetValue, index, resArr);
               // If you are on any other page, render that page button, the previous page button and the next page button.
-            } else if (paginationLogic.intermediatePages(urlParams, offsetValue, offsetInt)) {
+            } else if (intermediatePages(urlParams, offsetValue, offsetInt)) {
               return paginationButton(offsetValue, index, resArr);
             }
           })
