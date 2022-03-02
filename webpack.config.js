@@ -4,8 +4,8 @@ module.exports = {
   mode: process.env.NODE_ENV || "development",
   entry: './_assets/js/pagination.js',
   output: {
-    path: path.resolve(__dirname, './_assets/js/', 'build'),
-    filename: 'pagination-build.js',
+    path: path.resolve(__dirname, './_assets/js/'),
+    filename: 'pagination-compiled.js',
   },
   module: {
     rules: [
