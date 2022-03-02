@@ -1,19 +1,19 @@
 import { getOffsetParam } from "../../utils/offsetUtils";
 
 export default function pageNumber(resArray) {
-    var currentOffset = parseInt(getOffsetParam());
-    var  currentPage;
+    const currentOffset = parseInt(getOffsetParam());
+    let currentPage;
     if (resArray.indexOf(currentOffset) >= 0) {
       currentPage = resArray.indexOf(currentOffset) + 1;
     } else {
       currentPage = resArray.indexOf(currentOffset) + 2;
     }
-    var lastPage = resArray.length;
-    var templateContent = `${currentPage} of ${lastPage}`;
-    var para = document.createElement("p");
-    var newContent = document.createTextNode(templateContent);
+    const lastPage = resArray.length;
+    let templateContent = `${currentPage} of ${lastPage}`;
+    const para = document.createElement("p");
+    const newContent = document.createTextNode(templateContent);
     para.appendChild(newContent);
     para.classList.add('margin-left-205');
-    var target = document.getElementById('pagination-nav');
+    const target = document.getElementById('pagination-nav');
     target.append(para);
 }

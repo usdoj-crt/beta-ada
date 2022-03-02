@@ -2,9 +2,9 @@
 import {getOffsetParam, setOffsetParam} from "../../utils/offsetUtils";
 
 export default function paginationButton(offsetVal, index, resultsArr) {
-  var currentOffset = getOffsetParam();
-  var ariaLabel = "";
-  var ariaCurrent = "false";
+  const currentOffset = getOffsetParam();
+  let ariaLabel = "";
+  let ariaCurrent = "false";
   if (
     currentOffset !== offsetVal &&
     offsetVal === resultsArr[resultsArr.length - 1]

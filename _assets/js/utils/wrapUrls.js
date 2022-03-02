@@ -7,9 +7,9 @@
 
 export default function wrapUrls(url) {
   // Split the URL into an array to distingish double slashes from single slashes
-  var doubleSlash = url.split("//");
+  const doubleSlash = url.split("//");
   // Format the strings on either side of double slashes separately
-  var formatted = doubleSlash.map(function(str) {
+  const formatted = doubleSlash.map(function(str) {
     return str
           .replace(/(?<after>:)/giu, "$1<wbr>")
           // Before a single slash, tilde, period, comma, hyphen, underline, question mark, number sign, or percent symbol
