@@ -33,10 +33,12 @@ Github Super Linter does not support using Prettier. Prettier is a bit different
 ## Considered Options
 
 * Webpack + Babel
+* Gulp
 * ESBuild
 * Parcel
 
 ## Decision Outcome
 
-Chosen option: "Webpack and Babel", because though ESBuild compiles much faster, Webpack is more widely supported, and has a much larger user base. It is better tested as a result. It is easier to target older browsers and has more plugins built out already as well. ESBuild could be a worthy replacement as the build time is considerably faster and the configuration is much simpler. But I want ESBuild to get to version 1 and have broader support before we consider using it. Another consideration for the future is integrating ESLint via Github's Super Linter.
+Chosen option: "Webpack and Babel", because though ESBuild compiles much faster, Webpack is more widely supported, and has a much larger user base. You might be wondering why Gulp wasn't chosen given that USWDS uses Gulp and it is already integrated into the CRT Portal stack. Well, the answer is two fold: 1. I'm concerned about long-term support 2. I'd be using Webpack and Babel anyway with Gulp. So I decided to skip the extra dependency and just go with Webpack and Babel.
+It is easier to target older browsers and has more plugins built out already as well. ESBuild could be a worthy replacement as the build time is considerably faster and the configuration is much simpler. But I want ESBuild to get to version 1 and have broader support before we consider using it. Another consideration for the future is integrating ESLint via Github's Super Linter.
 
