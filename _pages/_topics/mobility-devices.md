@@ -15,8 +15,7 @@ card:
   image: landing/mobility-devices.jpg
   alt: A person wearing red shoes operates a power wheelchair
   href: /topics/mobility-devices/
-news-item: true
-publish-date: 2022-02-28 00:00:00
+
 ---
 
 ## Basic Requirements
