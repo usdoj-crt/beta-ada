@@ -4,7 +4,7 @@ module.exports = {
   mode: process.env.NODE_ENV || "development",
   entry: './_assets/js/pagination.js',
   output: {
-    path: path.resolve(__dirname, './_assets/js/'),
+    path: path.resolve(__dirname, './_assets/js/', 'dist'),
     filename: 'pagination-compiled.js',
   },
   module: {
