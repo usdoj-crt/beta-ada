@@ -1,11 +1,7 @@
 // Pagination Constants:
-function paginationConstants() {
-  var constants = {
-    NUMBER_OF_RESULTS: 20,
-    SEARCH_ENDPOINT: 'https://search.usa.gov/api/v2/search/i14y',
-    AFFILIATE: 'justice-ada-beta',
-    ACCESS_KEY: 'R9JA5YunOBaTGydUNm-oJjGCqKQ-zXsulsNskJVe5-c='
-  }
+const NUMBER_OF_RESULTS = 20;
+const SEARCH_ENDPOINT = 'https://search.usa.gov/api/v2/search/i14y';
+const ACCESS_KEY = 'R9JA5YunOBaTGydUNm-oJjGCqKQ-zXsulsNskJVe5-c=';
+const AFFILIATE = 'justice-ada-beta';
 
-  return constants
-}
+export { NUMBER_OF_RESULTS, SEARCH_ENDPOINT, ACCESS_KEY, AFFILIATE };

@@ -1,20 +1,19 @@
 // Imports:
-//= require ./renderSearchResults.js
-//= require ./applyFocusStyling.js
-//= require ./createRange.js
-//= require ./constants.js
-//= require ./wrapUrls.js
-//= require ../templates/pagination/paginationTemplate.js
-//= require ../templates/search/textBestBetsTemplate.js
-//= require ../templates/search/searchResultsTemplate.js
-//= require ../templates/search/sortedByTemplate.js
-//= require ../templates/search/noResultsTemplate.js
-//= require ../templates/search/totalResultsTemplate.js
+import renderSearchResults from "./renderSearchResults";
+import applyFocusStyling from "./applyFocusStyling";
+import createRange from "./createRange";
+import wrapUrls from "./wrapUrls";
+import paginationTemplate from "../templates/pagination/paginationTemplate";
+import textBestBetsTemplate from "../templates/search/textBestBetsTemplate";
+import searchResultsTemplate from "../templates/search/searchResultsTemplate";
+import noResults from "../templates/search/noResultsTemplate";
+import totalResults from "../templates/search/totalResultsTemplate";
 
-function renderSearchPage(searchResults, urlParams, numberOfResults) {
-  var results = searchResults;
-  var textResults = results.text_best_bets;
-  var webResults = results.web.results;
+export default function renderSearchPage(searchResults, urlParams, numberOfResults) {
+  const results = searchResults;
+  const textResults = results.text_best_bets;
+  const webResults = results.web.results;
+  const webTotalResults = results.web.total;
   // Then check if this key has any values:
   if (textResults.length) {
     textResults.forEach(function (item) {
@@ -28,12 +27,11 @@ function renderSearchPage(searchResults, urlParams, numberOfResults) {
       urlParams.set("offset", 0);
     }
     // Cap the results total since search.gov is only returning 1000 results:
-    var webTotalResults = results.web.total;
     if (webTotalResults > 1000) {
       webTotalResults = 1000;
     }
     // Grab our pagination list node that will contain the pagination:
-    var pagination_list = document.querySelectorAll(
+    const pagination_list = document.querySelectorAll(
       "ol.usa-pagination__list"
     )[0];
     // Put the fetched results into a list, and render in the DOM:
@@ -42,17 +40,17 @@ function renderSearchPage(searchResults, urlParams, numberOfResults) {
     });
     // FOR PAGINATION:
     // Generate our results pages array:
-    var offsetValueArray = createRange(0, webTotalResults, numberOfResults);
+    const offsetValueArray = createRange(0, webTotalResults, numberOfResults);
     // Generate our html template:
-    let page_links = paginationTemplate(offsetValueArray, urlParams);
+    const page_links = paginationTemplate(offsetValueArray, urlParams);
     // Put our template into the DOM:
     pagination_list.innerHTML = page_links;
     // Apply focus styling to our new pagination list:
     applyFocusStyling();
     // Previous and Next button functionality:
-    var prevLink = document.querySelector(".usa-pagination__previous-page");
-    var nextLink = document.querySelector(".usa-pagination__next-page");
-    var currentOffset = urlParams.get("offset");
+    const prevLink = document.querySelector(".usa-pagination__previous-page");
+    const nextLink = document.querySelector(".usa-pagination__next-page");
+    const currentOffset = urlParams.get("offset");
     if (webTotalResults > numberOfResults) {
       document.getElementById("pagination-nav").removeAttribute("hidden");
 
@@ -85,14 +83,14 @@ function renderSearchPage(searchResults, urlParams, numberOfResults) {
       false
     );
   } else {
-    var target = document.querySelector(".crt-landing--separator_small");
+    const target = document.querySelector(".crt-landing--separator_small");
     target.insertAdjacentHTML(
       "afterend",
       totalResults(webTotalResults)
     );
-    var urlsToWrap = document.querySelectorAll(".content-url");
+    const urlsToWrap = document.querySelectorAll(".content-url");
     Array.prototype.forEach.call(urlsToWrap, function(url) {
-      var wrapped = wrapUrls(url.innerHTML);
+      const wrapped = wrapUrls(url.innerHTML);
       return (url.innerHTML = wrapped);
     });
   }

@@ -1,4 +1,4 @@
-function previousButton() {
+export default function previousButton() {
     return `<li class="usa-pagination__item usa-pagination__arrow display-flex">
     <a
       href="javascript:void(0);"
