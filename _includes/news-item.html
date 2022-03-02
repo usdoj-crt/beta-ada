@@ -22,11 +22,7 @@
           >{{ news-item.title | truncatewords: 15 }}</a
         >
       </h3>
-      {% if pagesAndPostsSize> 1 %}
       <p>{{ news-item.description | truncatewords: 20 }}</p>
-      {% else %}
-      <p>{{ news-item.description }}</p>
-      {% endif %}
       {% if news-item.meta.tags.length>0 %}
       <ul class="usa-collection__meta" aria-label="Topics">
         {% for tag in news-item.meta.tags %}
