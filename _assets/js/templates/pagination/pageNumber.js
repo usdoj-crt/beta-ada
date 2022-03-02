@@ -9,7 +9,7 @@ export default function pageNumber(resArray) {
       currentPage = resArray.indexOf(currentOffset) + 2;
     }
     const lastPage = resArray.length;
-    let templateContent = `${currentPage} of ${lastPage}`;
+    const templateContent = `${currentPage} of ${lastPage}`;
     const para = document.createElement("p");
     const newContent = document.createTextNode(templateContent);
     para.appendChild(newContent);
