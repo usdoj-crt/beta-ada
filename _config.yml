@@ -155,6 +155,9 @@ exclude:
   - LICENSE.md
   - Dockerfile
   - docker-compose.yml
+  - babel.config.json
+  - webpack.config.js
+  - /docs
 
 assets:
   autoprefixer:

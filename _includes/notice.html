@@ -13,7 +13,7 @@
         <a
           class="text-no-underline hover:text-ink hover:text-underline"
           href="{{ post.url | relative_url }}"
-          >{% if lang=="en" %}{{ post.title }}{% elsif lang=="es" %}{{post.title_es}}{% endif %}</a
+          >{% if lang=="en" %}{{ post.notice_text }}{% elsif lang=="es" %}{{post.notice_text_es}}{% endif %}</a
         >
         {% endfor %}
       </div>
