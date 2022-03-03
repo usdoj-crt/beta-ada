@@ -50,8 +50,6 @@ Send to (202) 307-1197
 
 Remember to keep a copy of your complaint and the original documents for your own records.
 
-If you'd like more information, our answers to [common questions](https://www.ada.gov/filing_complaint.htm) is a good place to look.
-
 ## After You File a Complaint
 
 We might refer your complaint to:
