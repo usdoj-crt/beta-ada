@@ -39,7 +39,7 @@ Existen tres opciones para la presentación de una queja:
 1. En línea
 Siga las instrucciones en el [sitio web del DOJ](https://civilrights.justice.gov/report/)
 1. Por correo ordinario
-Rellene y envíe la versión impresa del [Formulario de quejas al amparo de la ADA](https://www.ada.gov/CRT-ReportPDF-Sep2021.pdf) or o una carta que contiene la misma información, a:
+Rellene y envíe la versión impresa del [Formulario de quejas al amparo de la ADA (en inglés)](https://www.ada.gov/CRT-ReportPDF-Sep2021.pdf) or o una carta que contiene la misma información, a:
 >U.S. Department of Justice<br/>
 Civil Rights Division<br/>
 950 Pennsylvania Avenue, NW<br/>
