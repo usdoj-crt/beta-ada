@@ -14,12 +14,12 @@
         {% include logo.html %}
       </div>
       {% include phone.html %}
-      <button class="usa-menu-btn">{{site.data[lang]["i18n"].links.menu}}</button>
+      <button class="usa-menu-btn">{{site.data["en"]["i18n"].links.menu}}</button>
     </div>
-    <nav aria-label="{{site.data[lang]['i18n'].aria.primary_navigation}}" class="usa-nav">
+    <nav aria-label="{{site.data['en']['i18n'].aria.primary_navigation}}" class="usa-nav">
       <div class="usa-nav__inner">
         <button class="usa-nav__close">
-          {% asset img/usa-icons/close.svg alt="{{site.data[lang]['i18n'].aria.close}}" %}
+          {% asset img/usa-icons/close.svg alt="{{site.data["en"]['i18n'].aria.close}}" %}
         </button>
         <ul class="usa-nav__primary usa-accordion">
           {% for nav_item in site.primary_navigation %} {% unless
@@ -30,10 +30,10 @@
             class="usa-nav__primary-item desktop:text-no-wrap {{ nav_item.classes }}"
           >
             <a
-              href="{% if nav_item.external %}{{ nav_item.url[lang] }}{% else %}{{ nav_item.url[lang] | relative_url }}{% endif %}"
-              class="usa-nav__link{% if basedir == linkdir %} usa-current pa11y-skip {% endif %}"
+              href="{% if nav_item.external %}{{ nav_item.url['en'] }}{% else %}{{ nav_item.url['en'] | relative_url }}{% endif %}"
+              class="usa-nav__link{% if basedir == linkdir %} usa-current pa11y-skip {% elsif basedir=='es' and linkdir=='file-a-complaint' %} usa-current pa11y-skip {% endif %}"
             >
-              <span>{{ nav_item.name[lang] | escape }}</span>
+              <span>{{ nav_item.name["en"] | escape }}</span>
             </a>
           </li>
           {% else %} {% assign nav_id = 'primary-nav-' | append: forloop.index%}
@@ -45,7 +45,7 @@
               aria-expanded="false"
               aria-controls="{{ nav_id }}"
             >
-              <span>{{ nav_item.name[lang] | escape }}</span>
+              <span>{{ nav_item.name["en"] | escape }}</span>
             </button>
             <ul id="{{ nav_id }}" class="usa-nav__submenu">
               {% for subnav_item in nav_item.children %}
@@ -65,12 +65,12 @@
         <div
           class="display-flex order-3 desktop:display-none flex-align-start padding-left-6 padding-right-3 bg-primary-lighter margin-x-neg-3 padding-y-3 line-height-sans-5"
         >
-          {% asset ic_phone-circle.svg class="margin-right-1" alt="{{site.data[lang]['i18n'].aria.phone}}" %}
+          {% asset ic_phone-circle.svg class="margin-right-1" alt="{{site.data["en"]['i18n'].aria.phone}}" %}
           <div>
             <span class="display-block margin-bottom-05 text-bold"
-              >{{site.data[lang]["i18n"].hotline.heading}}</span
+              >{{site.data["en"]["i18n"].hotline.heading}}</span
             >
-            {{site.data[lang]["i18n"].hotline.content}}<br />
+            {{site.data["en"]["i18n"].hotline.content}}<br />
             {{ site.contact.tollfree }}<br />
             {{ site.contact.tty }} (TTY)
           </div>
