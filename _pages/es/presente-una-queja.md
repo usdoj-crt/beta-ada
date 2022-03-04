@@ -50,8 +50,6 @@ Envíelo a (202) 307-1197
 
 Recuerde que debe guardar una copia de su queja y los documentos originales entre sus registros.
 
-Si desea información adicional, una buena opción sería consultar nuestras respuestas a [preguntas frecuentes](https://www.ada.gov/filing_complaint.htm).
-
 ## Después de que presente una queja
 
 Puede que remitamos su queja a:

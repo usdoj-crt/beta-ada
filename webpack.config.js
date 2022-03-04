@@ -5,7 +5,7 @@ module.exports = {
   entry: './_assets/js/pagination.js',
   output: {
     path: path.resolve(__dirname, './_assets/js/', 'dist'),
-    filename: 'pagination.js',
+    filename: 'pagination-compiled.js',
   },
   module: {
     rules: [

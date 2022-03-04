@@ -50,8 +50,6 @@ Send to (202) 307-1197
 
 Remember to keep a copy of your complaint and the original documents for your own records.
 
-If you'd like more information, our answers to [common questions](https://www.ada.gov/filing_complaint.htm) is a good place to look.
-
 ## After You File a Complaint
 
 We might refer your complaint to:
@@ -76,7 +74,7 @@ Even if we do not take any formal action, your complaint provides us with valuab
 
 ### <a name="mp"></a>ADA Mediation Program
 
-Mediation is a process that does not involve the courts. Mediation typically involves one or more meetings between you, the organization you complained about, and an impartial mediator, and it is designed to help you reach a mutual agreement. It can be a fair and quick way to resolve ADA complaints. It is confidential and voluntary.
+The [ADA Mediation Program](https://www.ada.gov/mediate.htm) is an important part of ADA compliance and does not involve the courts. Mediation typically involves one or more meetings between you, the organization you complained about, and an impartial mediator, and it is designed to help you reach a mutual agreement. It can be a fair and quick way to resolve ADA complaints. It is confidential and voluntary.
 
 If we think that your complaint might be a good fit for mediation, we will contact you and the organization you complained about. We will ask if you are both willing to participate in mediation.
 

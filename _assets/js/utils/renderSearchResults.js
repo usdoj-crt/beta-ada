@@ -1,5 +1,5 @@
-function renderSearchResults(content, append = true) {
-  var previous = document.getElementById("search-results").innerHTML;
+export default function renderSearchResults(content, append = true) {
+  const previous = document.getElementById("search-results").innerHTML;
   if (append) {
     document.getElementById("search-results").innerHTML = previous + content;
   } else {
