@@ -13,7 +13,7 @@ export default function renderSearchPage(searchResults, urlParams, numberOfResul
   const results = searchResults;
   const textResults = results.text_best_bets;
   const webResults = results.web.results;
-  const webTotalResults = results.web.total;
+  let webTotalResults = results.web.total;
   // Then check if this key has any values:
   if (textResults.length) {
     textResults.forEach(function (item) {
