@@ -1,3 +1,12 @@
 .usa-collection__meta-item time {
     font-size: 1rem;
 }
+
+.usa-collection__description {
+    @include at-media(mobile-lg) {
+        max-width: 55ch;
+    }
+    @include at-media(desktop) {
+        max-width: 85ch;
+    }
+}
