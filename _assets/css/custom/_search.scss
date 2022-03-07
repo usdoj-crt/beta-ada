@@ -15,6 +15,10 @@
   max-width: 27ch !important;
 }
 
+label.usa-sr-only {
+  color: white;
+}
+
 @include at-media(desktop) {
   .usa-search--small input[type="search"] {
     border-color: color("white");
