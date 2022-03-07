@@ -2,7 +2,7 @@
   {% for news-item in include.items reversed %}
   {% unless forloop.index>4 %}
   <li
-    class="usa-collection__item mobile:grid-col-12 border-base-light {% if pagesAndPostsSize> 1 %} tablet:grid-col-6 {% else %} tablet:grid-col-12 maxw-full {% endif %} tablet:margin-top-0 tablet:padding-top-0 tablet:border-0 padding-right-6"
+    class="usa-collection__item mobile:grid-col-12 border-base-light {% if include.size> 1 %} tablet:grid-col-6 {% else %} tablet:grid-col-12 maxw-full {% endif %} tablet:margin-top-0 tablet:padding-top-0 tablet:border-0 padding-right-6"
   >
     <div>
       <p class="usa-collection__meta-item">
