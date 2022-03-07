@@ -1,3 +1,10 @@
+{% assign pages=site.pages %}
+{% assign posts=site.posts %}
+{% assign topics=site.topics %}
+{% assign pagesAndPosts = pages | concat: posts | concat: topics | where_exp:"item", "item.news-item" | sort:"publish-date" %}
+{% assign pagesAndPostsSize = pagesAndPosts | size %}
+
+{% unless pagesAndPostsSize==0 %}
 <div class="crt-landing--section crt-white" markdown="0">
   <div class="grid-container">
     <div class="grid-row grid-gap">
@@ -5,8 +12,9 @@
         <h2 class="h1">{{ include.news.heading }}</h2>
         <div class="crt-landing--separator"></div>
         <p class="crt-landing--lead">{{ include.news.lead }}</p>
-        {% include news-item.html %}
+        {% include news-item.html items=pagesAndPosts %}
       </div>
     </div>
   </div>
 </div>
+{% endunless %}

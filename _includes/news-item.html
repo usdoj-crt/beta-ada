@@ -1,12 +1,5 @@
-{% assign pages=site.pages %}
-{% assign posts=site.posts %}
-{% assign topics=site.topics %}
-{% assign pagesAndPosts = pages | concat: posts | concat: topics | where_exp:"item", "item.news-item" | sort:"publish-date" %}
-{% assign pagesAndPostsSize = pagesAndPosts | size %}
-
-
 <ul class="usa-collection grid-row flex-wrap">
-  {% for news-item in pagesAndPosts reversed %}
+  {% for news-item in include.items reversed %}
   {% unless forloop.index>4 %}
   <li
     class="usa-collection__item mobile:grid-col-12 border-base-light {% if pagesAndPostsSize> 1 %} tablet:grid-col-6 {% else %} tablet:grid-col-12 maxw-full {% endif %} tablet:margin-top-0 tablet:padding-top-0 tablet:border-0 padding-right-6"
