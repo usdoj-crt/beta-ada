@@ -9,17 +9,17 @@ lead: |-
 ---
 
 Accessibility specialists are available to answer questions from individuals,
-businesses, and state/local governments. All calls are confidential.  
+businesses, and state/local governments. All calls are confidential.
 
-## When We Are Open  
+## When We Are Open
 
-- Monday, Tuesday, Wednesday, Friday: 9:30 a.m. to 12:00 p.m. and 3:00-5:00 p.m. ET  
-- Thursday: 2:30 p.m. to 5:00 p.m. ET  
+- Monday, Tuesday, Wednesday, Friday: 9:30 a.m. to 12:00 p.m. and 3:00-5:00 p.m. ET
+- Thursday: 2:30 p.m. to 5:00 p.m. ET
 
-## What Information We Provide  
+## What Information We Provide
 - Requirements of the ADA
 - How the ADA applies to your situation
 - How to file a complaint
-- Answers to technical questions  
+- Answers to technical questions
 
 Note that if your call is about employment discrimination, housing discrimination, or air travel, you may be referred to another federal agency for assistance.

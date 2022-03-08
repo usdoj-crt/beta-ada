@@ -94,7 +94,6 @@ collections:
       - intro-to-ada.md
       - service-animals.md
       - parking.md
-
 # Configuration for Touchpoints
 touchpoints:
   url: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit

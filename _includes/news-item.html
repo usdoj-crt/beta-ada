@@ -1,0 +1,32 @@
+<ul class="usa-collection grid-row flex-wrap">
+  {% for news-item in include.items reversed %}
+  {% unless forloop.index>4 %}
+  <li
+    class="usa-collection__item mobile:grid-col-12 border-base-light {% if include.size> 1 %} tablet:grid-col-6 {% else %} tablet:grid-col-12 maxw-full {% endif %} tablet:margin-top-0 tablet:padding-top-0 tablet:border-0 padding-right-6"
+  >
+    <div>
+      <p class="usa-collection__meta-item">
+        <time datetime="{{news-item.publish-date | date_to_long_rfc822}}"
+          >{{ news-item.publish-date | date: "%B %d, %Y"}}
+        </time>
+      </p>
+      <h3 class="usa-collection__heading">
+        <a class="usa-link" href="{{ news-item.permalink | relative}}"
+          >{{ news-item.title | truncatewords: 15 }}</a
+        >
+      </h3>
+      <p class="usa-collection__description">{{ news-item.description | truncatewords: 20 }}</p>
+      {% if news-item.meta.tags.length>0 %}
+      <ul class="usa-collection__meta" aria-label="Topics">
+        {% for tag in news-item.meta.tags %}
+        <li class="usa-collection__meta-item usa-tag usa-tag--new">
+          {{ tag }}
+        </li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </div>
+  </li>
+  {% endunless %}
+  {% endfor %}
+</ul>
