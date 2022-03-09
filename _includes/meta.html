@@ -19,7 +19,7 @@
   {% seo %}
   <meta http-equiv="Content-Language" content={{lang}}>
   {% for item in pages %}
-    {% if item.lang!=lang and item.ref!=nil and item.ref==ref %}
+    {% if item.ref!=nil and item.ref==ref %}
       <link rel="alternate" hreflang={{item.lang}} href={{item.url | relative}}>
     {% endif%}
   {% endfor %}
