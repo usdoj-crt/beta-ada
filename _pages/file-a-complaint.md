@@ -36,16 +36,16 @@ The nature of your complaint determines where you should file it. The table belo
 
 ## Filing a Complaint with the Department of Justice, Civil Rights Division
 There are three options for filing:
-1. Online
+1. Online:
 Follow instructions on the [DOJ site](https://civilrights.justice.gov/report/)
-1. Mail
+1. Mail:
 Fill out and send the paper [ADA Complaint Form](https://www.ada.gov/CRT-ReportPDF-Sep2021.pdf) or a letter containing the same information, to:
 >U.S. Department of Justice<br/>
 Civil Rights Division<br/>
 950 Pennsylvania Avenue, NW<br/>
 Washington, DC 20530
 
-1. Fax
+1. Fax:
 Send to (202) 307-1197
 
 Remember to keep a copy of your complaint and the original documents for your own records.
