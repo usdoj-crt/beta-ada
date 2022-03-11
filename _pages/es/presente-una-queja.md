@@ -6,6 +6,8 @@ lead: |-
   La ley de Estadounidenses con Discapacidades ofrece una herramienta importante para la lucha contra la discriminación: el relleno de una queja ante la agencia federal apropiada. Esta página explica los pasos que usted debe tomar para comenzar.
 lang: "es"
 ref: complaint
+news-item: true
+publish-date: 2022-03-10 00:00:00
 ---
 
 ## Contra quién se puede presentar una queja
