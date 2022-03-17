@@ -6,7 +6,7 @@ lead: |-
   This guidance describes how state and local governments and businesses open to the public can make sure that their websites are accessible to people with disabilities as required by the Americans with Disabilities Act (ADA).
 lang: "en"
 news-item: true
-publish-date: 2022-03-17
+publish-date: 2022-03-17 00:00:00
 
 ---
 [Learn more about businesses' and state and local governments' ADA responsibilities.]( {{'/topics/intro-to-ada'| relative_url}})  
