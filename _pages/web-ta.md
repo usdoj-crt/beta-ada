@@ -6,18 +6,18 @@ lead: |-
   This guidance describes how state and local governments and businesses open to the public can make sure that their websites are accessible to people with disabilities as required by the Americans with Disabilities Act (ADA).
 lang: "en"
 news-item: true
-publish-date: 2022-03-17 00:00:00
+publish-date: 2022-03-17 00:00:00.
 
 ---
 [Learn more about businesses' and state and local governments' ADA responsibilities.]( {{'/topics/intro-to-ada'| relative_url}})  
 
 ## Why Website Accessibility Matters
 
-**Inaccessible web content means that people with disabilities are denied equal access to information.  An inaccessible website can exclude people just as much as steps at an entrance to a physical location.  Ensuring web accessibility for people with disabilities is a priority for the Department of Justice.  In recent years, a multitude of services have moved online and people rely on websites like never before for all aspects of daily living.  For example, accessing voting information, finding up-to-date health and safety resources, and looking up mass transit schedules and fare information increasingly depend on having access to websites.**  
+**Inaccessible web content means that people with disabilities are denied equal access to information.  An inaccessible website can exclude people just as much as steps at an entrance to a physical location.  Ensuring web accessibility for people with disabilities is a priority for the Department of Justice.  In recent years, a multitude of services have moved online and people rely on websites like never before for all aspects of daily living.  For example, accessing voting information, finding up-to-date health and safety resources, and looking up mass transit schedules and fare information increasingly depend on having access to websites.**
 
-People with disabilities navigate the web in a variety of ways.  People who are blind may use screen readers, which are devices that speak the text that appears on a screen.  People who are deaf or hard of hearing may use captioning.  And people whose disabilities affect their ability to grasp and use a mouse may use voice recognition software to control their computers and other devices with verbal commands.  
+People with disabilities navigate the web in a variety of ways.  People who are blind may use screen readers, which are devices that speak the text that appears on a screen.  People who are deaf or hard of hearing may use captioning.  And people whose disabilities affect their ability to grasp and use a mouse may use voice recognition software to control their computers and other devices with verbal commands.
 
-The ways that websites are designed and set up can create unnecessary barriers that make it difficult or impossible for people with disabilities to use websites, just as physical barriers like steps can prevent some people with disabilities from entering a building.  These barriers on the web keep people with disabilities from accessing information and programs that businesses and state and local governments make available to the public online.  But these barriers can be prevented or removed so that websites are accessible to people with disabilities.  
+The ways that websites are designed and set up can create unnecessary barriers that make it difficult or impossible for people with disabilities to use websites, just as physical barriers like steps can prevent some people with disabilities from entering a building.  These barriers on the web keep people with disabilities from accessing information and programs that businesses and state and local governments make available to the public online.  But these barriers can be prevented or removed so that websites are accessible to people with disabilities.
 
 ## Examples of Website Accessibility Barriers
 
@@ -32,8 +32,7 @@ The ways that websites are designed and set up can create unnecessary barriers t
 - **Inaccessible online forms.**  People with disabilities may not be able to fill out, understand, and accurately submit forms without things like:
     - Labels that screen readers can convey to their users (such as text that reads “credit card number” where that number should be entered);
     - Clear instructions; and
-    - Error indicators (such as alerts telling the user a form field is missing or incorrect).  
-
+    - Error indicators (such as alerts telling the user a form field is missing or incorrect).
 
 - **Mouse-only navigation (lack of keyboard navigation).**  People with disabilities who cannot use a mouse or trackpad will not be able to access web content if they cannot navigate a website using a keyboard.
 
