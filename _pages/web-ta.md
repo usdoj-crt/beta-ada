@@ -1,7 +1,7 @@
 ---
 title: Guidance on Web Accessibility and the ADA
 description: "The Department of Justice published guidance today on web accessibility and the Americans with Disabilities Act (ADA).  It explains how state and local governments (entities covered by ADA Title II) and businesses open to the public (entities covered by ADA Title III) can make sure their websites are accessible to people with disabilities in line with the ADA’s requirements."
-permalink: /web_ta/
+permalink: /web-ta/
 lead: |-
   This guidance describes how state and local governments and businesses open to the public can make sure that their websites are accessible to people with disabilities as required by the Americans with Disabilities Act (ADA).
 lang: "en"
@@ -127,4 +127,4 @@ When Congress enacted the ADA in 1990, it intended for the ADA to keep pace with
 - [Section508.gov](https://www.section508.gov/): a website published by the GSA with tools and training on implementing website accessibility requirements under Section 508.  
 - [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/wai/standards-guidelines/wcag/): guidelines published by the Web Accessibility Initiative of the World Wide Web Consortium.  
 
-[^1]:  <i>See</i> 42 U.S.C. &sect;&sect; 12132, 12182(a); 28 C.F.R. &sect;&sect; 35.130, 35.160(a), 36.201, 36.303(c).
+[^1]:  See 42 U.S.C. &sect;&sect; 12132, 12182(a); 28 C.F.R. &sect;&sect; 35.130, 35.160(a), 36.201, 36.303(c).
