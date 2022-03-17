@@ -55,6 +55,8 @@ news:
   heading: New on beta.ADA.gov
   lead: |-
     Explore the new content we've added to beta.ADA.gov
+  link:
+    text: Guidance on Web Accessibility and the ADA
 
 report:
   heading: How to Report a Disability Rights Violation
