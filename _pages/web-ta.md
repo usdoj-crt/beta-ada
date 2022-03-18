@@ -30,9 +30,9 @@ The ways that websites are designed and set up can create unnecessary barriers t
 - **No captions on videos.**  People with hearing disabilities may not be able to understand information communicated in a video if the video does not have captions.
 
 - **Inaccessible online forms.**  People with disabilities may not be able to fill out, understand, and accurately submit forms without things like:
-    - Labels that screen readers can convey to their users (such as text that reads “credit card number” where that number should be entered);  
-    - Clear instructions; and  
-    - Error indicators (such as alerts telling the user a form field is missing or incorrect).
+  - Labels that screen readers can convey to their users (such as text that reads “credit card number” where that number should be entered);
+  - Clear instructions; and
+  - Error indicators (such as alerts telling the user a form field is missing or incorrect).
 
 - **Mouse-only navigation (lack of keyboard navigation).**  People with disabilities who cannot use a mouse or trackpad will not be able to access web content if they cannot navigate a website using a keyboard.
 
