@@ -128,7 +128,7 @@ When Congress enacted the ADA in 1990, it intended for the ADA to keep pace with
 
 <div class="footnotes" role="doc-endnotes">
 <ol>
-<li id="fn:1" role="doc-endnote">
+<li id="fn:1">
 <p><i>See</i> 42 U.S.C. §§ 12132, 12182(a); 28 C.F.R. §§ 35.130, 35.160(a), 36.201, 36.303(c).&nbsp;<a href="#fnref:1" class="reversefootnote">1</a></p>
 </li>
 </ol>
