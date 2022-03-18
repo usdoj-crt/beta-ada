@@ -11,9 +11,8 @@
         </time>
       </p>
       <h3 class="usa-collection__heading">
-        <a class="usa-link" href="{{ news-item.permalink | relative}}"
-          >{{ news-item.title | truncatewords: 15 }}</a
-        >
+        <a class="usa-link" href="{{ news-item.permalink | relative }}"
+          >{{ news-item.title | truncatewords: 15 }}</a>
       </h3>
       <p class="usa-collection__description">{{ news-item.description | truncatewords: 20 }}</p>
       {% if news-item.meta.tags.length>0 %}
