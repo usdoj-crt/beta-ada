@@ -87,14 +87,23 @@ Existing technical standards provide helpful guidance concerning how to ensure a
 The [resources section](#res) has links to organizations that explain how to make websites accessible.  Examples of what businesses should do to make websites accessible include (but are not limited to) the following practices:  
 
 - **Color contrast in text.**  Sufficient color contrast between the text and the background allows people with limited vision or color blindness to read text that uses color.  
+
 - **Text cues when using color in text.**  When using text color to provide information (such as red text to indicate required form fields), including text cues is important for people who cannot perceive the color.  For example, include the word “required” in addition to red text for required form fields.  
+
 - **Text alternatives (“alt text”) in images.**  Text alternatives convey the purpose of an image, including pictures, illustrations, charts, etc.  Text alternatives are used by people who do not see the image, such as people who are blind and use screen readers to hear the alt text read out loud.  To be useful, the text should be short and descriptive.  
+
 - **Video captions.**  Videos can be made accessible by including synchronized captions that are accurate and identify any speakers in the video.  
+
 - **Online forms.**  Labels, keyboard access, and clear instructions are important for forms to be accessible.  Labels allow people who are blind and using screen readers to understand what to do with each form field, such as by explaining what information goes in each box of a job application form.  It is also important to make sure that people who are using screen readers are automatically informed when they enter a form field incorrectly.  This includes clearly identifying what the error is and how to resolve it (such as an automatic alert telling the user that a date was entered in the wrong format).  
+
 - **Text size and zoom capability.**  People with vision disabilities may need to be able to use a browser’s zoom capabilities to increase the size of the font so they can see things more clearly.  
+
 - **Headings.**  When sections of a website are separated by visual headings, building those headings into the website’s layout when designing the page allows people who are blind to use them to navigate and understand the layout of the page.  
+
 - **Keyboard and mouse navigation.**  Keyboard access means users with disabilities can navigate web content using keystrokes, rather than a mouse.  
+
 - **Checking for accessibility.**  Automated accessibility checkers and overlays that identify or fix problems with your website can be helpful tools, but like other automated tools such as spelling or grammar checkers, they need to be used carefully.  A “clean” report does not necessarily mean everything is accessible.  Also, a report that includes a few errors does not necessarily mean there are accessibility barriers.  Pairing a manual check of a website with the use of automated checkers can give you a better sense of the accessibility of your website.  
+
 - **Reporting accessibility issues.**  Websites that provide a way for the public to report accessibility problems allow website owners to fix accessibility issues.  
 
 **This is not a complete list of things to consider.**  There are many existing resources to help businesses and state and local governments with making websites accessible to people with disabilities, [some of which are included at the end of this document](#res).
