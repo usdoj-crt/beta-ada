@@ -6,7 +6,7 @@ lead: |-
   This guidance describes how state and local governments and businesses open to the public can make sure that their websites are accessible to people with disabilities as required by the Americans with Disabilities Act (ADA).
 lang: "en"
 news-item: true
-publish-date: 2022-03-17 00:00:00.
+publish-date: 2022-03-17 00:00:00
 
 ---
 [Learn more about businesses' and state and local governments' ADA responsibilities.]( {{'/topics/intro-to-ada'| relative_url}})  
@@ -30,8 +30,8 @@ The ways that websites are designed and set up can create unnecessary barriers t
 - **No captions on videos.**  People with hearing disabilities may not be able to understand information communicated in a video if the video does not have captions.
 
 - **Inaccessible online forms.**  People with disabilities may not be able to fill out, understand, and accurately submit forms without things like:
-    - Labels that screen readers can convey to their users (such as text that reads “credit card number” where that number should be entered);
-    - Clear instructions; and
+    - Labels that screen readers can convey to their users (such as text that reads “credit card number” where that number should be entered);  
+    - Clear instructions; and  
     - Error indicators (such as alerts telling the user a form field is missing or incorrect).
 
 - **Mouse-only navigation (lack of keyboard navigation).**  People with disabilities who cannot use a mouse or trackpad will not be able to access web content if they cannot navigate a website using a keyboard.
@@ -75,7 +75,7 @@ A website with inaccessible features can limit the ability of people with disabi
 
 **Businesses and state and local governments have flexibility in how they comply with the ADA’s general requirements of nondiscrimination and effective communication.  But they must comply with the ADA’s requirements.**  
 
-The Department of Justice does not have a regulation setting out detailed standards, but the Department’s longstanding interpretation of the general nondiscrimination and effective communication provisions applies to web accessibility.<a href="#ftn1"><sup>1</sup></a>
+The Department of Justice does not have a regulation setting out detailed standards, but the Department’s longstanding interpretation of the general nondiscrimination and effective communication provisions applies to web accessibility.<a href="#ftn1">1</a>
 
 Businesses and state and local governments can currently choose how they will ensure that the programs, services, and goods they provide online are accessible to people with disabilities.  
 
