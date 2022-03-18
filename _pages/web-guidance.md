@@ -75,7 +75,7 @@ A website with inaccessible features can limit the ability of people with disabi
 
 **Businesses and state and local governments have flexibility in how they comply with the ADA’s general requirements of nondiscrimination and effective communication.  But they must comply with the ADA’s requirements.**  
 
-The Department of Justice does not have a regulation setting out detailed standards, but the Department’s longstanding interpretation of the general nondiscrimination and effective communication provisions applies to web accessibility.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>
+The Department of Justice does not have a regulation setting out detailed standards, but the Department’s longstanding interpretation of the general nondiscrimination and effective communication provisions applies to web accessibility.<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>
 
 Businesses and state and local governments can currently choose how they will ensure that the programs, services, and goods they provide online are accessible to people with disabilities.  
 
@@ -129,7 +129,7 @@ When Congress enacted the ADA in 1990, it intended for the ADA to keep pace with
 <div class="footnotes" role="doc-endnotes">
 <ol>
 <li id="fn:1" role="doc-endnote">
-<p><i>See</i> 42 U.S.C. §§ 12132, 12182(a); 28 C.F.R. §§ 35.130, 35.160(a), 36.201, 36.303(c).&nbsp;<a href="#fnref:1" class="reversefootnote" role="doc-backlink">1</a></p>
+<p><i>See</i> 42 U.S.C. §§ 12132, 12182(a); 28 C.F.R. §§ 35.130, 35.160(a), 36.201, 36.303(c).&nbsp;<a href="#fnref:1" class="reversefootnote">1</a></p>
 </li>
 </ol>
 </div>
