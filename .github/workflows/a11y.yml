@@ -28,8 +28,5 @@ jobs:
         run: npm run test:a11y-desktop
 
       - name: Run Accessibility Tests -- Mobile
-<<<<<<< HEAD
-        run: npm run test:a11y-mobile
-=======
         run: npm run test:ally-mobile
->>>>>>> 42b990b (Added new config file with mobile viewports, updated package json and github actions)
+
