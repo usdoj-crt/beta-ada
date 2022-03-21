@@ -23,7 +23,8 @@
     },
     "actions": [
       "click element button.usa-accordion__button.usa-banner__button",
-      "click element button.usa-menu-btn"
+      "click element button.usa-menu-btn",
+      "click element button[aria-controls='toc']"
     ]
   }
 }

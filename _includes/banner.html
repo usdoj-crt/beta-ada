@@ -1,4 +1,5 @@
-{% assign lang = "en" %} {% if lang==nil %}{% assign lang="en" %}{% endif %}
+{% assign lang = "en" %}
+{% if lang==nil %}{% assign lang="en" %}{% endif %}
 
 <section class="usa-banner" aria-label="{{site.data[lang]['i18n'].aria.banner_official}}">
   <div class="usa-accordion">
@@ -9,10 +10,10 @@
           alt="{{site.data[lang]['i18n'].aria.banner_flag}}" %}
         </div>
         <div class="grid-col-fill tablet:grid-col-auto">
-          <!-- Put in pa11y-skip below -->
-          <p class="usa-banner__header-text">{{site.data[lang]["i18n"].banner.header-text}}</p>
-          <!-- Put in pa11y-skip below -->
-          <p class="usa-banner__header-action" aria-hidden="true">
+          <p class="usa-banner__header-text pa11y-skip">
+            {{site.data[lang]["i18n"].banner.header-text}}
+          </p>
+          <p class="usa-banner__header-action pa11y-skip" aria-hidden="true">
             {{site.data[lang]["i18n"].banner.header-action}}
           </p>
         </div>
@@ -22,31 +23,36 @@
           aria-controls="gov-banner-default"
           type="button"
         >
-          <span class="usa-banner__button-text"
-            >{{site.data[lang]["i18n"].banner.header-action}}</span
-          >
+          <span class="usa-banner__button-text">{{site.data[lang]["i18n"].banner.header-action}}</span>
         </button>
       </div>
     </header>
-    <div class="usa-banner__content usa-accordion__content" id="gov-banner-default">
+    <div
+      class="usa-banner__content usa-accordion__content"
+      id="gov-banner-default"
+    >
       <div class="grid-row grid-gap-lg">
         <div class="usa-banner__guidance tablet:grid-col-6">
-          {% asset img/icon-dot-gov.svg class="usa-banner__icon usa-media-block__img" alt=""
-          role="img" aria-hidden="true" %}
+          {% asset img/icon-dot-gov.svg class="usa-banner__icon
+          usa-media-block__img" alt="" role="img" aria-hidden="true" %}
           <div class="usa-media-block__body">
             <p>
-              <strong> {{ site.data[lang]["i18n"].banner.block_copy_official }} </strong>
+              <strong>
+                {{ site.data[lang]["i18n"].banner.block_copy_official }}
+              </strong>
               <br />
               {{ site.data[lang]["i18n"].banner.block_copy_official_sub }}
             </p>
           </div>
         </div>
         <div class="usa-banner__guidance tablet:grid-col-6">
-          {% asset img/icon-https.svg class="usa-banner__icon usa-media-block__img" role="img"
-          alt="" aria-hidden="true" %}
+          {% asset img/icon-https.svg class="usa-banner__icon
+          usa-media-block__img" role="img" alt="" aria-hidden="true" %}
           <div class="usa-media-block__body">
             <p>
-              <strong> {{ site.data[lang]["i18n"].banner.block_copy_https }} </strong>
+              <strong>
+                {{ site.data[lang]["i18n"].banner.block_copy_https }}
+              </strong>
               <br />
               {{ site.data[lang]["i18n"].banner.block_copy_https_lock }} (
               <span class="icon-lock"
@@ -60,9 +66,7 @@
                   aria-labelledby="banner-lock-title-default banner-lock-description-default"
                   focusable="false"
                 >
-                  <title id="banner-lock-title-default">
-                    {{site.data[lang]['i18n'].banner.padlock_title}}
-                  </title>
+                  <title id="banner-lock-title-default">{{site.data[lang]['i18n'].banner.padlock_title}}</title>
                   <desc id="banner-lock-description-default">
                     {{site.data[lang]['i18n'].banner.padlock_description}}
                   </desc>
