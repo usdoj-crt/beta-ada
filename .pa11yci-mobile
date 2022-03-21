@@ -1,0 +1,18 @@
+{
+  "defaults": {
+    "concurrency": 1,
+    "chromeLaunchConfig": {
+       "ignoreHTTPSErrors": true,
+       "args": ["--disable-dev-shm-usage"]
+     },
+    "hideElements": ["#fba-button", ".pa11y-skip"],
+    "standard": "WCAG2AA",
+    "runners": ["axe"],
+    "timeout": 120000,
+    "viewport": {
+      "width": 390,
+      "height": 844,
+      "mobile": true
+  }
+  }
+}
