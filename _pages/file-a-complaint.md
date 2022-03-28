@@ -40,11 +40,11 @@ There are three options for filing an ADA complaint:
 1. **Online**<br/>
 <span>File a compliant by submitting a report on the Department of Justice's [Civil Rights Divison website](https://civilrights.justice.gov/report/).</span>
 2. **Mail**<br/>
-<span>Fill out and send the paper [ADA Complaint Form](https://www.ada.gov/CRT-ReportPDF-Sep2021.pdf) or a letter containing the same information, to:
+<span>Fill out and send the paper [ADA Complaint Form](https://www.ada.gov/CRT-ReportPDF-Sep2021.pdf) or a letter containing the same information, to:</span>
 >U.S. Department of Justice<br/>
 Civil Rights Division<br/>
 950 Pennsylvania Avenue, NW<br/>
-Washington, DC 20530</span>
+Washington, DC 20530
 
 
 3. **Fax**<br/>
