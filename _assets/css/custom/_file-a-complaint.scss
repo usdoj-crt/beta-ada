@@ -1,0 +1,9 @@
+.filing-options li::marker {
+    font-weight: bold;
+}
+
+.filing-options span {
+    display: inline-block;
+    position: relative;
+    margin-left: -20px;
+}
