@@ -1,5 +1,5 @@
 .filing-options li::marker {
-    font-weight: bold;
+    @include heading--three();
 }
 
 .filing-options span {

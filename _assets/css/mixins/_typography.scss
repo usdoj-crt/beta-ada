@@ -62,3 +62,11 @@ $theme-body-copy-line-height: 1.625;
     font-size: $theme-heading-font-size-lg;
   }
 }
+
+@mixin heading--three {
+  font-size: $theme-heading-font-size-md;
+  line-height: 1.5;
+  font-family: family("heading");
+  font-weight: $theme-font-weight-bold;
+  color: color($theme-color-primary-darker);
+}
