@@ -34,22 +34,23 @@ The nature of your complaint determines where you should file it. The table belo
 | Housing (e.g., denied housing or denied an accessible living space based on disability)                 | Department of Housing and Urban Development (HUD) | Follow the instructions on the [HUD site](https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint)
 | Complaints involving anything else                                                          | Department of Justice, Civil Rights Division                                                           | [See below](#filing-a-complaint-with-the-department-of-justice-civil-rights-division)
 
-## Filing a Complaint with the Department of Justice, Civil Rights Division
-There are three options for filing:
-1. Online:
-Follow instructions on the [DOJ site](https://civilrights.justice.gov/report/)
-1. Mail:
-Fill out and send the paper [ADA Complaint Form](https://www.ada.gov/CRT-ReportPDF-Sep2021.pdf) or a letter containing the same information, to:
+## Filing an ADA Complaint with the Department of Justice, Civil Rights Division
+There are three options for filing an ADA complaint:
+<div class="filing-options">
+1. ### Online <br/>
+<span>File a compliant by submitting a report on the Department of Justice's [Civil Rights Divison website](https://civilrights.justice.gov/report/).</span>
+2. ### Mail <br/>
+<span>Fill out and send the paper [ADA Complaint Form](https://www.ada.gov/CRT-ReportPDF-Sep2021.pdf) or a letter containing the same information, to:</span>
 >U.S. Department of Justice<br/>
 Civil Rights Division<br/>
 950 Pennsylvania Avenue, NW<br/>
 Washington, DC 20530
 
-1. Fax:
-Send to (202) 307-1197
 
-Remember to keep a copy of your complaint and the original documents for your own records.
+3. ### Fax <br/>
+<span>Fill out and send the paper [ADA Complaint Form](https://www.ada.gov/CRT-ReportPDF-Sep2021.pdf) or a letter containing the same information, and fax to (202) 307-1197. <br/><br/>Remember to keep a copy of your complaint and the original documents for your own records.</span>
 
+</div>
 ## After You File a Complaint
 
 We might refer your complaint to:
