@@ -38,7 +38,7 @@ The nature of your complaint determines where you should file it. The table belo
 There are three options for filing an ADA complaint:
 <div class="filing-options">
 1. ### Online <br/>
-<span>File a compliant by submitting a report on the Department of Justice's [Civil Rights Divison website](https://civilrights.justice.gov/report/).</span>
+<span>File a complaint by submitting a report on the Department of Justice's [Civil Rights Division website](https://civilrights.justice.gov/report/).</span>
 2. ### Mail <br/>
 <span>Fill out and send the paper [ADA Complaint Form](https://www.ada.gov/CRT-ReportPDF-Sep2021.pdf) or a letter containing the same information, to:</span>
 >U.S. Department of Justice<br/>
