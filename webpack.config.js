@@ -2,10 +2,13 @@ const path = require('path');
 
 module.exports = {
   mode: process.env.NODE_ENV || "development",
-  entry: './_assets/js/pagination.js',
+  entry: {
+    pagination: './_assets/js/pagination.js',
+    menuFix: './_assets/js/utils/menuSetTabindex.js'
+  },
   output: {
     path: path.resolve(__dirname, './_assets/js/', 'dist'),
-    filename: 'pagination-compiled.js',
+    filename: '[name]-compiled.js',
   },
   module: {
     rules: [
