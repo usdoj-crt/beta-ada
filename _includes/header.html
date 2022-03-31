@@ -1,34 +1,23 @@
-{% include skipnav.html %}
-{% include banner.html %}
-{% if site.beta %} {%include banner-beta.html %} {% endif %}
-{% assign lang = page.lang %}
-{% if lang==nil %}{% assign lang="en" %}{% endif %}
-{% assign shrink = "" %}
-{% unless lang=="en" %}
-{% assign shrink = "shrink-search" %}
-{% endunless %}
-<div class="crt-landing--header crt-lightblue">
-  <header class="usa-header usa-header--extended">
+{% include skipnav.html %} {% include banner.html %} {% if site.beta %} {%include banner-beta.html
+%} {% endif %} {% assign lang = page.lang %} {% if lang==nil %}{% assign lang="en" %}{% endif %} {%
+assign shrink = "" %} {% unless lang=="en" %} {% assign shrink = "shrink-search" %} {% endunless %}
+<header class="usa-header usa-header--extended">
+  <div class="crt-landing--header crt-lightblue">
     <div class="usa-navbar position-relative">
-      <div class="usa-logo" id="extended-logo">
-        {% include logo.html %}
-      </div>
+      <div class="usa-logo" id="extended-logo">{% include logo.html %}</div>
       {% include phone.html %}
       <button class="usa-menu-btn">{{site.data["en"]["i18n"].links.menu}}</button>
     </div>
     <nav aria-label="{{site.data['en']['i18n'].aria.primary_navigation}}" class="usa-nav">
       <div class="usa-nav__inner">
         <button class="usa-nav__close">
-          {% asset img/usa-icons/close.svg alt="{{site.data["en"]['i18n'].aria.close}}" %}
+          {% asset img/usa-icons/close.svg alt="{{site.data['en']['i18n'].aria.close}}" %}
         </button>
         <ul class="usa-nav__primary usa-accordion">
-          {% for nav_item in site.primary_navigation %} {% unless
-          nav_item.children %} {% assign basedir = page.url | remove_first: '/'
-          | split: '/' | first | lstrip %} {% assign linkdir = nav_item.url[lang] | remove_first: '/'
-          | split: '/' | first | lstrip  %}
-          <li
-            class="usa-nav__primary-item desktop:text-no-wrap {{ nav_item.classes }}"
-          >
+          {% for nav_item in site.primary_navigation %} {% unless nav_item.children %} {% assign
+          basedir = page.url | remove_first: '/' | split: '/' | first | lstrip %} {% assign linkdir
+          = nav_item.url[lang] | remove_first: '/' | split: '/' | first | lstrip %}
+          <li class="usa-nav__primary-item desktop:text-no-wrap {{ nav_item.classes }}">
             <a
               href="{% if nav_item.external %}{{ nav_item.url['en'] }}{% else %}{{ nav_item.url['en'] | relative_url }}{% endif %}"
               class="usa-nav__link{% if basedir == linkdir %} usa-current pa11y-skip {% elsif basedir=='es' and linkdir=='file-a-complaint' %} usa-current pa11y-skip {% endif %}"
@@ -37,9 +26,7 @@
             </a>
           </li>
           {% else %} {% assign nav_id = 'primary-nav-' | append: forloop.index%}
-          <li
-            class="usa-nav__primary-item desktop:text-no-wrap {{ nav_item.classes }}"
-          >
+          <li class="usa-nav__primary-item desktop:text-no-wrap {{ nav_item.classes }}">
             <button
               class="usa-accordion__button usa-nav__link usa-current"
               aria-expanded="false"
@@ -65,7 +52,8 @@
         <div
           class="display-flex order-3 desktop:display-none flex-align-start padding-left-6 padding-right-3 bg-primary-lighter margin-x-neg-3 padding-y-3 line-height-sans-5"
         >
-          {% asset ic_phone-circle.svg class="margin-right-1" alt="{{site.data["en"]['i18n'].aria.phone}}" %}
+          {% asset ic_phone-circle.svg class="margin-right-1"
+          alt="{{site.data["en"]['i18n'].aria.phone}}" %}
           <div>
             <span class="display-block margin-bottom-05 text-bold"
               >{{site.data["en"]["i18n"].hotline.heading}}</span
@@ -77,5 +65,5 @@
         </div>
       </div>
     </nav>
-  </header>
-</div>
+  </div>
+</header>

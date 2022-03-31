@@ -1,0 +1,9 @@
+.filing-options li::marker {
+    @include heading--three();
+}
+
+.filing-options span {
+    display: inline-block;
+    position: relative;
+    margin-left: -20px;
+}
