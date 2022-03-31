@@ -9,7 +9,7 @@ const hideNonNavItems = () => {
   nonNavElements = document.querySelectorAll(NON_NAV_ELEMENTS);
 
   nonNavElements.forEach((nonNavElement) => {
-    nonNavElement.setAttribute('tabindex', '-1');
+    nonNavElement.setAttribute('disabled', true);
   });
 };
 
@@ -22,7 +22,7 @@ const showNonNavItems = () => {
 
   // Remove aria-hidden from non-header elements
   nonNavElements.forEach((nonNavElement) => {
-    nonNavElement.removeAttribute('tabindex');
+    nonNavElement.removeAttribute('disabled');
   });
 };
 
