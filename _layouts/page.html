@@ -6,6 +6,9 @@ layout: default
     {% if page.sidenav %}
     <div id="crt-page--sidenav" class="desktop:grid-col-4">
       {% include sidenav.html %}
+      {% if page.related-content %}
+        {% include related-content.html %}
+      {% endif %}
       {% if page.print %}
         {% include print-button.html %}
       {% endif %}
