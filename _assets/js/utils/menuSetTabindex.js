@@ -1,37 +1,44 @@
-// Extending the functionality of the navigation.js code from USWDS
-const NON_NAV_ELEMENTS = 'body > *:not(.usa-header):not([aria-hidden])';
-const NON_NAV_HIDDEN = '[data-nav-hidden]';
+import flatDeep from './flattenArray.js';
 
+// Extending the functionality of the navigation.js code from USWDS
 const MENUBUTTON = document.querySelector('button.usa-menu-btn');
 const CLOSEBUTTON = document.querySelector('button.usa-nav__close');
+const NONNAVELEMENTS = document.querySelectorAll('body > *:not(.usa-header):not([aria-hidden])');
 
-const hideNonNavItems = () => {
-  nonNavElements = document.querySelectorAll(NON_NAV_ELEMENTS);
+const getChildrenElements = (nonNavElements) => {
+    let childrenArray = [];
+      nonNavElements.forEach((element) => {
+      childrenArray.push(Array.from(element.children));
+    });
+    return childrenArray;
+};
 
-  nonNavElements.forEach((nonNavElement) => {
-    nonNavElement.setAttribute('disabled', true);
+const hideNonNavItems = (nonNavArr) => {
+  nonNavArr.forEach((nonNavElement) => {
+    //Add tabindex to non-header elements
+    nonNavElement.setAttribute('tabindex', '-1');
   });
 };
 
-const showNonNavItems = () => {
-  nonNavElements = document.querySelectorAll(NON_NAV_HIDDEN);
-
-  if (!nonNavElements) {
+const showNonNavItems = (nonNavArr) => {
+  if (nonNavArr.length === 0) {
     return;
   }
-
-  // Remove aria-hidden from non-header elements
-  nonNavElements.forEach((nonNavElement) => {
-    nonNavElement.removeAttribute('disabled');
+  // Remove tabindex from non-header elements
+  nonNavArr.forEach((nonNavElement) => {
+    nonNavElement.removeAttribute('tabindex');
   });
 };
 
-// Toggle all non-header elements #3527.
+// Toggle all non-header elements.
 const toggleNonNavItems = (active) => {
+  let childArr = getChildrenElements(NONNAVELEMENTS);
+    let flattenedChildArr = flatDeep(childArr, Infinity);
+    console.log(flattenedChildArr);
   if (active) {
-    showNonNavItems();
+    showNonNavItems(flattenedChildArr);
   } else {
-    hideNonNavItems();
+    hideNonNavItems(flattenedChildArr);
   }
 };
 
