@@ -1,7 +1,7 @@
 {% assign projectTags = site.data.tags.allowed-tags %} {% assign pages=site.pages %} {% assign
 posts=site.posts %} {% assign topics=site.topics %} {% assign pagesAndPosts = pages | concat: posts
-| concat: topics | sort:"title" %}
-{% assign tag_array=[] %}
+| concat: topics | sort:"title" %} 
+
 <div
   class="usa-summary-box border-0 margin-0 bg-primary-lighter"
   role="region"
@@ -10,14 +10,12 @@ posts=site.posts %} {% assign topics=site.topics %} {% assign pagesAndPosts = pa
   <div class="usa-summary-box__body">
     <h3 class="usa-summary-box__heading" id="summary-box-title">Related content</h3>
     <div class="usa-summary-box__text">
-      {% for post in pagesAndPosts %} {% for tag in page.tags %} {% if post.tags contains tag
-      %} {% assign tag_array = tag_array | push: tag %}
-      {% unless tag_array contains tag %}
+      {% for tag in page.tags %} {% for post in pagesAndPosts %} {% if site.data.tags.allowed-tags contains tag%}
+      {% if post.tags contains tag %} {% if post.url != page.url %}
       <div class="margin-1">
-        <a class="usa-summary-box__link" href="{{ post.url }}">{{ tag | capitalize }}</a>
+        <a class="usa-summary-box__link" href="{{ post.url }}">{{ post.title }}</a>
       </div>
-      {% endunless %}
-      {% endif %} {% endfor %} {% endfor %}
+      {% endif %} {% endif %} {% endif %} {% endfor %} {% endfor %}
     </div>
   </div>
 </div>
