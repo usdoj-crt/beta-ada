@@ -76,7 +76,7 @@ However, a local rec center might only be open to people who live in the surroun
 
 The ADA is broken up into five different sections, which are called titles. Different titles set out the requirements for different kinds of organizations. For example, Title I of the ADA covers requirements for employers, and Title II covers requirements for state and local governments. You can find the relevant title of the ADA noted next to each type of organization below.
 
-{% accordion a %}
+{% accordion a multiselect %}
 {% collapsible %}
 
 ## Employment
