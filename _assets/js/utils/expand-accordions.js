@@ -5,7 +5,7 @@ const config = { attributes: true, childList: true, subtree: true };
 const openAccordionsButton = document.querySelector('#crt-page--expandaccordions');
 
 // Select the node that will be observed for mutations
-const accordionNode = document.querySelector('div.measure-6>div.usa-accordion');
+const contentNode = document.querySelector('#crt-page--content');
 
 // Grab all of the accordions and convert the Nodelist into an array:
 const getAccordions = () => {
@@ -24,7 +24,7 @@ const getAccordionButtons = () => {
 
 // Grab all of the <details> elements and convert the Nodelist into an array:
 const getDetails = () => {
-  let details = Array.from(document.getElementsByTagName('details'));
+  let details = Array.from(document.querySelectorAll('details'));
   return details;
 };
 
@@ -49,6 +49,7 @@ const expandAccordions = () => {
     let accordions = getAccordions();
     let buttons = getAccordionButtons();
     let details = getDetails();
+    // Manage accordion state:
     accordions.forEach((accordion) => {
       if (expanded && accordion.getAttribute('hidden') !== null) {
         accordion.removeAttribute('hidden');
@@ -57,6 +58,7 @@ const expandAccordions = () => {
         accordion.setAttribute('hidden', 'hidden');
       }
     });
+    // Manage accordion buttons state:
     buttons.forEach((button) => {
       if (expanded) {
         button.setAttribute('aria-expanded', 'true');
@@ -65,12 +67,15 @@ const expandAccordions = () => {
         button.setAttribute('aria-expanded', 'false');
       }
     });
+    // Manage details state:
     details.forEach((detail) => {
       if (expanded && detail.getAttribute('open') === null) {
         detail.setAttribute('open', 'open');
+        detail.setAttribute('data-detail-open', 'true');
       }
       if (!expanded && detail.getAttribute('open') !== null) {
         detail.removeAttribute('open');
+        detail.setAttribute('data-detail-open', 'false');
       }
     });
   });
@@ -79,6 +84,7 @@ const expandAccordions = () => {
 const toggleAccordionButtons = () => {
   let buttons = getAccordionButtons();
   let details = getDetails();
+  // Listen for events on the accordion buttons and trigger toggle button side effect
   buttons.forEach((button) => {
     button.addEventListener('click', (e) => {
       e.preventDefault();
@@ -89,18 +95,22 @@ const toggleAccordionButtons = () => {
       }
     });
   });
+  // Listen for events on the details element, manage details state and trigger toggle button side effect
   details.forEach((detail) => {
-    detail.firstChild.addEventListener('click', (e) => {
-      e.preventDefault();
-      if (e.target.parent.getAttribute('open') === null) {
+    detail.addEventListener('click', () => {
+      if (detail.getAttribute('open') === null) {
+        detail.setAttribute('data-detail-open', 'true');
         openAccordionsButton.setAttribute('data-open', 'false');
         toggleButtonText(openAccordionsButton);
         return;
+      } else {
+        detail.setAttribute('data-detail-open', 'false');
       }
     });
   });
 };
 
+// Consolidate accordion buttons and detail elements states into a single array and use to update the toggle button state.
 const checkAccordionButtons = () => {
   let buttons = getAccordionButtons();
   let details = getDetails();
@@ -109,20 +119,23 @@ const checkAccordionButtons = () => {
     btnArr.push(button.getAttribute('aria-expanded'));
   }
   for (let detail of details) {
-    btnArr.push(detail.getAttribute('open'));
+    btnArr.push(detail.getAttribute('data-detail-open'));
   }
-  if (!btnArr.includes('true') && !btnArr.includes('open')) {
+  if (!btnArr.includes('true') && !btnArr.includes('data-detail-open')) {
     openAccordionsButton.setAttribute('data-open', 'true');
     toggleButtonText(openAccordionsButton);
   }
-  return btnArr.includes('true');
+  return btnArr.includes('true') && btnArr.includes('data-detail-open');
 };
 
-// On mutation, run check all buttons:
+// On mutation, run check all buttons: when the state of a button changes, get the new array of button and detail states.
 // Callback function to execute when mutations are observed
 const callback = function (mutationsList, observer) {
   for (const mutation of mutationsList) {
-    if (mutation.attributeName === 'aria-expanded') {
+    if (
+      mutation.attributeName === 'aria-expanded' ||
+      mutation.attributeName === 'data-detail-open'
+    ) {
       checkAccordionButtons();
     }
   }
@@ -132,7 +145,9 @@ const callback = function (mutationsList, observer) {
 const observer = new MutationObserver(callback);
 
 // Start observing the target node for configured mutations
-observer.observe(accordionNode, config);
+observer.observe(contentNode, config);
 
+// Initialize the event handlers
+checkAccordionButtons();
 toggleAccordionButtons();
 expandAccordions();

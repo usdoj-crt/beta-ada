@@ -9,7 +9,7 @@ module Jekyll
       content = super
 
       output = <<~EOS
-        <details>
+        <details data-detail-open="false">
         <summary markdown="0">
           <div>
             <span class="pa11y-skip">#{@title}</span>
