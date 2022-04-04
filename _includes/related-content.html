@@ -27,9 +27,11 @@
     <h3 class="usa-summary-box__heading" id="summary-box-title">Related content</h3>
     <div class="usa-summary-box__text">
     {% for link in tagArray %}  
+    {% unless link.url==nil %}
       <div class="margin-1">
-        <a class="usa-summary-box__link" href="{{ link.url }}">{{ link.title }}</a>
+        <a class="usa-summary-box__link" href="{{ link.url | relative_url }}">{{ link.title }}</a>
       </div>
+      {% endunless %}
     {% endfor %}
     </div>
   </div>
