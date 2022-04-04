@@ -1,6 +1,22 @@
-{% assign projectTags = site.data.tags.allowed-tags %} {% assign pages=site.pages %} {% assign
-posts=site.posts %} {% assign topics=site.topics %} {% assign pagesAndPosts = pages | concat: posts
-| concat: topics | sort:"title" %} 
+{% assign projectTags = site.data.tags.allowed-tags %} 
+{% assign pages=site.pages %} 
+{% assign posts=site.posts %} 
+{% assign topics=site.topics %} 
+{% assign pagesAndPosts = pages | concat: posts | concat: topics | sort:"title" %}
+{% assign tagArray = 'a,b' | split:"," %} 
+{% for tag in page.tags %} 
+  {% for post in pagesAndPosts %} 
+    {% if site.data.tags.allowed-tags contains tag%}
+      {% if post.tags contains tag %} 
+        {% if post.url != page.url %}
+          {% assign tagArray = tagArray | push: post %}
+        {% endif %} 
+      {% endif %} 
+    {% endif %} 
+  {% endfor %} 
+{% endfor %}
+
+{% assign tagArray = tagArray | uniq %}
 
 <div
   class="usa-summary-box border-0 margin-0 bg-primary-lighter"
@@ -10,12 +26,11 @@ posts=site.posts %} {% assign topics=site.topics %} {% assign pagesAndPosts = pa
   <div class="usa-summary-box__body">
     <h3 class="usa-summary-box__heading" id="summary-box-title">Related content</h3>
     <div class="usa-summary-box__text">
-      {% for tag in page.tags %} {% for post in pagesAndPosts %} {% if site.data.tags.allowed-tags contains tag%}
-      {% if post.tags contains tag %} {% if post.url != page.url %}
+    {% for link in tagArray %}  
       <div class="margin-1">
-        <a class="usa-summary-box__link" href="{{ post.url }}">{{ post.title }}</a>
+        <a class="usa-summary-box__link" href="{{ link.url }}">{{ link.title }}</a>
       </div>
-      {% endif %} {% endif %} {% endif %} {% endfor %} {% endfor %}
+    {% endfor %}
     </div>
   </div>
 </div>

@@ -5,6 +5,7 @@ permalink: /cases/
 sidenav: false
 lead: |-
   The Department of Justice enforces the ADA through lawsuits and settlement agreements to achieve greater access, inclusion, and equal opportunity for people with disabilities.
+tags: [service animals, web guidance, title ii, title iii]
 ---
 ## Check Out Our Cases  
 
