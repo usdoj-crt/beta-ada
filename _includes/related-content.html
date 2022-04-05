@@ -24,15 +24,24 @@
   aria-labelledby="summary-box-title"
 >
   <div class="usa-summary-box__body">
-    <h3 class="usa-summary-box__heading" id="summary-box-title">Related content</h3>
+    <h3 class="usa-summary-box__heading desktop:display-none" id="summary-box-title">
+      <button class="usa-accordion__button" aria-expanded="false" aria-controls="">
+        Related Content
+      </button>
+    </h3>
+    <h3 class="mobileLarge:display-none desktop:display-block">
+      Related Content
+    </h3>
     <div class="usa-summary-box__text">
+      <ul class="usa-nav__primary usa-accordion">
     {% for link in tagArray %}  
     {% unless link.url==nil %}
-      <div class="margin-1">
+      <li class="margin-1 desktop:text-no-wrap">
         <a class="usa-summary-box__link" href="{{ link.url | relative_url }}">{{ link.title }}</a>
-      </div>
+      </li>
       {% endunless %}
     {% endfor %}
+    </ul>
     </div>
   </div>
 </div>
