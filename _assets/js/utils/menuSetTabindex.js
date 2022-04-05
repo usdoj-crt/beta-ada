@@ -1,15 +1,19 @@
-import flatDeep from './flattenArray.js';
-
 // Extending the functionality of the navigation.js code from USWDS
 const MENUBUTTON = document.querySelector('button.usa-menu-btn');
 const CLOSEBUTTON = document.querySelector('button.usa-nav__close');
 const NONNAVELEMENTS = document.querySelectorAll('body > *:not(.usa-header):not([aria-hidden])');
+let childrenArray = [];
 
 const getChildrenElements = (nonNavElements) => {
-  let childrenArray = [];
-  nonNavElements.forEach((element) => {
-    childrenArray.push(Array.from(element.children));
-  });
+  let nonNavArray = Array.from(nonNavElements);
+  for (let i=0; i<nonNavArray.length; i++) {
+    if (nonNavArray[i].nodeType === 1) {
+      childrenArray.push(nonNavArray[i]);
+    }
+    if (nonNavArray[i].hasChildNodes()) {
+      getChildrenElements(nonNavArray[i].childNodes);
+    }
+  }
   return childrenArray;
 };
 
@@ -43,11 +47,11 @@ const showNonNavItems = (nonNavArr) => {
 // Toggle all non-header elements.
 const toggleNonNavItems = (active) => {
   let childArr = getChildrenElements(NONNAVELEMENTS);
-  let flattenedChildArr = flatDeep(childArr, Infinity);
+  //let flattenedChildArr = flatDeep(childArr, Infinity);
   if (active) {
-    showNonNavItems(flattenedChildArr);
+    showNonNavItems(childArr);
   } else {
-    hideNonNavItems(flattenedChildArr);
+    hideNonNavItems(childArr);
   }
 };
 
