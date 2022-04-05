@@ -19,24 +19,24 @@
 {% assign tagArray = tagArray | uniq %}
 
 <div
-  class="usa-summary-box border-0 margin-0 bg-primary-lighter"
+  class="usa-summary-box border-0 margin-0 padding-0 bg-primary-lighter"
   role="region"
   aria-labelledby="summary-box-title"
 >
-  <div class="usa-summary-box__body">
-    <h3 class="usa-summary-box__heading desktop:display-none" id="summary-box-title">
-      <button class="usa-accordion__button" aria-expanded="false" aria-controls="">
+  <div class="usa-summary-box__body usa-accordion">
+    <h4 class="usa-summary-box__heading desktop:display-none" id="summary-box-title">
+      <button class="usa-accordion__button bg-base-lightest" aria-expanded="false" aria-controls="summary-box-content">
         Related Content
       </button>
-    </h3>
-    <h3 class="mobileLarge:display-none desktop:display-block">
+    </h4>
+    <h4 class="mobile:display-none desktop:display-block">
       Related Content
-    </h3>
-    <div class="usa-summary-box__text">
+    </h4>
+    <div class="usa-summary-box__text" id="summary-box-content">
       <ul class="usa-nav__primary usa-accordion">
     {% for link in tagArray %}  
     {% unless link.url==nil %}
-      <li class="margin-1 desktop:text-no-wrap">
+      <li class="margin-1">
         <a class="usa-summary-box__link" href="{{ link.url | relative_url }}">{{ link.title }}</a>
       </li>
       {% endunless %}
