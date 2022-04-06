@@ -1,16 +1,28 @@
-{% assign projectTags = site.data.tags.allowed-tags %} {% assign pages=site.pages %} {% assign
-posts=site.posts %} {% assign topics=site.topics %} {% assign pagesAndPosts = pages | concat: posts
-| concat: topics | sort:"title" %} {% assign tagArray = 'a,b' | split:"," %} {% for tag in page.tags
-%} {% for post in pagesAndPosts %} {% if site.data.tags.allowed-tags contains tag%} {% if post.tags
-contains tag %} {% if post.url != page.url %} {% assign tagArray = tagArray | push: post %} {% endif
-%} {% endif %} {% endif %} {% endfor %} {% endfor %} {% assign tagArray = tagArray | uniq %}
+{% assign projectTags = site.data.tags.allowed-tags %} 
+{% assign pages=site.pages %} 
+{% assign posts=site.posts %} 
+{% assign topics=site.topics %} 
+{% assign pagesAndPosts = pages | concat: posts | concat: topics | sort:"title" %} 
+{% assign tagArray = 'a,b' | split:"," %} 
+{% for tag in page.tags %} 
+  {% for post in pagesAndPosts %} 
+    {% if site.data.tags.allowed-tags contains tag%} 
+      {% if post.tags contains tag %} 
+        {% if post.url != page.url %} 
+          {% assign tagArray = tagArray | push: post %} 
+        {% endif %} 
+      {% endif %} 
+    {% endif %} 
+  {% endfor %} 
+{% endfor %} 
+{% assign tagArray = tagArray | uniq %}
 
 <div
   class="usa-summary-box border-0 mobile:padding-0 desktop:padding-2 bg-primary-lighter"
   role="region"
   aria-labelledby="summary-box-title"
 >
-  <div class="usa-accordion usa-summary-box__body mobile:margin-bottom-4 desktop:margin-bottom-0">
+  <div class="usa-accordion usa-summary-box__body mobile:margin-bottom-2 desktop:margin-bottom-0">
     <h4 class="usa-summary-box__heading desktop:display-none" id="summary-box-title">
       <button
         class="usa-accordion__button"

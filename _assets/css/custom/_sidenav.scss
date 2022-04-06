@@ -34,7 +34,7 @@
   }
 
   .usa-accordion:not(.usa-summary-box__body) {
-    margin-bottom: 2rem;
+    // margin-bottom: 2rem;
 
     @include at-media(desktop) {
       max-height: calc(100vh - 1.5rem * 2);
