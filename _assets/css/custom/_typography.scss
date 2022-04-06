@@ -31,11 +31,7 @@ h2,
 
 h3,
 .h3 {
-  font-size: $theme-heading-font-size-md;
-  line-height: 1.5;
-  font-family: family("heading");
-  font-weight: $theme-font-weight-bold;
-  color: color($theme-color-primary-darker);
+  @include heading--three();
 }
 
 h4,
