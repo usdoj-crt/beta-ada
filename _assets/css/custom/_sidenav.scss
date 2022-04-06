@@ -19,7 +19,6 @@
   .usa-accordion .usa-summary-box__heading .usa-accordion__button {
     @extend .h4;
     background-color: color($theme-color-primary-lighter);
-    background-image: asset_url("remove--primary.svg");
     color: color($theme-color-primary-darker);
     background-image: asset_url("img/usa-icons/remove.svg");
 
