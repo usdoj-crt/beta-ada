@@ -16,6 +16,16 @@
     }
   }
 
+  .usa-sidenav__sublist {
+    li {
+      a {
+        &:focus {
+          background-color: color($theme-color-base-lightest)
+        }
+      }
+    }
+  }
+
   .usa-accordion {
     margin-bottom: 2rem;
 
