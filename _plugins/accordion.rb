@@ -6,6 +6,7 @@ module Jekyll
       def initialize(tag_name, block_options, liquid_options)
         super
         @accordionID = "accordion-#{block_options.strip}"
+        @multi = block_options 
       end
 
       def render(context)
@@ -14,7 +15,12 @@ module Jekyll
           context["collapsed_idx"] = 1
           @content = super
         end
-        output = %(<div class="usa-accordion">#{@content}</div>)
+        if @multi.match?(/multiselect/)
+            multiselect = 'aria-multiselectable="true"'
+        else  
+            multiselect = ''
+        end 
+        output = %(<div class="usa-accordion" #{multiselect}>#{@content}</div>)
 
         output
       end
