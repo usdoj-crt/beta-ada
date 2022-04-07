@@ -14,7 +14,7 @@ The Department of Justice continues to receive many questions about how the Amer
 <div class='flex-9'>
 ## Definition of a Service Animal But What if the Title is Like Really Really Really Long?
 </div>
-<div class="flex-3 flex-align-end">
+<div class="flex-3 clearfix">
 {% include expand-accordions.html %}
 </div>
 </div>
