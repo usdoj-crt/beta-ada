@@ -52,6 +52,7 @@ banner:
   block_copy_https_sub: o https:// significa que usted se conectó de forma segura a un sitio web .gov. Comparta información sensible sólo en sitios web oficiales y seguros.
   padlock_title: Candado
   padlock_description: Un candado cerrado
+  doj_seal: Official Seal of the United States Department of Justice
 footer:
   foia: FOIA [Ley de Libertad de Información]
   photo_collection: Colección de fotos Discapacitado y Aquí

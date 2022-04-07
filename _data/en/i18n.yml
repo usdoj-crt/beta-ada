@@ -52,6 +52,7 @@ banner:
   block_copy_https_sub: or <strong>https://</strong> means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
   padlock_title: Lock
   padlock_description: A locked padlock
+  doj_seal: Official Seal of the United States Department of Justice
 footer:
   foia: FOIA
   photo_collection: Disabled And Here photo collection
