@@ -19,7 +19,7 @@ The Department of Justice continues to receive many questions about how the Amer
 </div>
 </div>
 
-{% accordion %}
+{% accordion example-id %}
 
 {% collapsible %}
 
