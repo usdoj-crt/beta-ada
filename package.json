@@ -9,7 +9,8 @@
     "lint:js": "prettier --check \"_assets/js/**/*.js\"",
     "start:js": "webpack --progress --watch",
     "start": "npm run start:js & bundle exec jekyll serve --livereload",
-    "test:a11y": "pa11y-ci --sitemap http://127.0.0.1:4000/sitemap.xml"
+    "test:a11y-desktop": "pa11y-ci --config ./.pa11yci-desktop --sitemap http://127.0.0.1:4000/sitemap.xml",
+    "test:a11y-mobile": "pa11y-ci --config ./.pa11yci-mobile --sitemap http://127.0.0.1:4000/sitemap.xml"
   },
   "dependencies": {
     "anchor-js": "^4.3.1",
