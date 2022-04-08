@@ -4,14 +4,14 @@
 <div class="usa-accordion">
   <h4 class="usa-accordion__heading desktop:display-none">
     <button
-      class="usa-accordion__button"
+      class="usa-accordion__button pa11y-skip"
       aria-expanded="false"
       aria-controls="toc"
     >
       {{site.data[lang]["i18n"].links.toc}}
     </button>
   </h4>
-  <nav id="toc" class="usa-accordion__content" aria-label="{{site.data[lang]['i18n'].aria.side_nav}}">
+  <nav id="toc" class="usa-accordion__content pa11y-skip" aria-label="{{site.data[lang]['i18n'].aria.side_nav}}">
     <ul class="usa-sidenav">
       <li class="usa-sidenav__item">
         <a href="#top" class="usa-current">{% if page.short_title %}{{ page.short_title }}{% else %}{{ page.title }}{% endif %}</a>
