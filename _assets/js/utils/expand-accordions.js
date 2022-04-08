@@ -32,11 +32,11 @@ const getDetails = () => {
 const toggleButtonText = (button) => {
   if (button.getAttribute('data-open') === 'true') {
     button.setAttribute('data-open', 'false');
-    button.innerText = 'Show all sections';
+    button.innerText = 'Open all sections';
     return false;
   } else if (button.getAttribute('data-open') === 'false') {
     button.setAttribute('data-open', 'true');
-    button.innerText = 'Hide all sections';
+    button.innerText = 'Close all sections';
     return true;
   }
 };
