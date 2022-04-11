@@ -13,7 +13,7 @@ The Department of Justice continues to receive many questions about how the Amer
 
 <div class='grid-row flex-no-wrap' id="expand-header-wrapper">
 <div class='mobile:grid-row tablet:grid-col-10 desktop: grid-col-8'>
-## Definition of a Service Animal 
+## Definition of a Service Animal
 {:.mobile:margin-top-1 .tablet:margin-top-6}
 </div>
 <div class="mobile:order-first tablet:order-2 mobile:grid-row tablet:grid-col-2 desktop:grid-col-4 clearfix">
