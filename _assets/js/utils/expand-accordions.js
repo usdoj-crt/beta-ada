@@ -16,9 +16,9 @@ const getAccordions = () => {
   return accordions;
 };
 
-// Grab all of the accordion buttons and convert the Nodelist into an array:
+// Grab all of the accordion buttons except for the table of contents button and convert the Nodelist into an array:
 const getAccordionButtons = () => {
-  let buttons = Array.from(document.querySelectorAll('button.usa-accordion__button.pa11y-skip'));
+  let buttons = Array.from(document.querySelectorAll('button.usa-accordion__button.pa11y-skip')).filter(button => button.getAttribute('aria-controls') !== 'toc');
   return buttons;
 };
 

@@ -15,11 +15,13 @@
       margin: 0;
     }
 
-    h2:not(.usa-alert__heading):not(.usa-accordion__heading):not(.usa-card__heading) {
+    h2:not(.usa-alert__heading):not(.usa-accordion__heading):not(.usa-card__heading):not([class*='mobile\:margin-']) {
       margin-top: 3rem;
+    }
 
+    h2:not(.usa-alert__heading):not(.usa-accordion__heading):not(.usa-card__heading) {
       &:after {
-        content: "";
+        content: '';
         display: block;
         margin-top: 0.5rem;
         @extend .crt-landing--separator_sub;
