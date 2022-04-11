@@ -8,3 +8,39 @@
       background: color($theme-color-warning-dark);
     }
 }
+
+#fba-modal-dialog {
+  background-color: none;
+  background: none;
+  border: none;
+  margin: 0px;
+  max-width: 100%;
+}
+
+#fba-modal-dialog .wrapper {
+  padding: 0px !important;
+}
+
+.questions input,
+.questions textarea {
+  border: solid 1px #767676 !important; 
+  border-radius: 4px !important;
+}
+
+#fba-modal-title,
+.fba-instructions,
+.touchpoints-form-disclaimer {
+  display: none;
+}
+
+.usa-label[for=answer_01] {
+  margin-top: 0px !important;
+}
+
+#fba-modal-dialog .usa-banner {
+  background-color: #fff !important;
+}
+
+#fba-modal-dialog .usa-banner__inner {
+  padding-left: 0px !important;
+}
