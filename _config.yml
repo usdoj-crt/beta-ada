@@ -81,7 +81,6 @@ primary_navigation:
     url:
       en: "/feedback/"
       es: "/feedback/"
-    external: true
 
 # Collections
 collections_dir: _pages
