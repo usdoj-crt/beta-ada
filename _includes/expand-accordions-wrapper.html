@@ -1,0 +1,15 @@
+<div class="grid-row flex-no-wrap" id="expand-header-wrapper" markdown='0'>
+  <div class="mobile:grid-row tablet:grid-col-10 desktop: grid-col-8">
+    <h2
+      id="{{ include.expand-heading  | replace: ' ', '-' | downcase }}"
+      class="mobile:margin-top-1 tablet:margin-top-6"
+    >
+      {{ include.expand-heading }}
+    </h2>
+  </div>
+  <div
+    class="mobile:order-first tablet:order-2 mobile:grid-row tablet:grid-col-2 desktop:grid-col-4 clearfix"
+  >
+    {% include expand-accordions-button.html %}
+  </div>
+</div>

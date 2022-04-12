@@ -11,17 +11,9 @@ print: 'true'
 The Department of Justice continues to receive many questions about how the Americans with Disabilities Act (ADA) applies to service animals. The ADA requires State and local government agencies, businesses, and non-profit organizations (covered entities) that provide goods or services to the public to make "reasonable modifications" in their policies, practices, or procedures when necessary to accommodate people with disabilities. The service animal rules fall under this general principle. Accordingly, entities that have a "no pets" policy generally must modify the policy to allow service animals into their facilities. This publication provides guidance on the ADA's service animal provisions and should be read in conjunction with the publication [ADA Revised Requirements: Service Animals](http://www.ada.gov/service_animals_2010.htm).
 
 
-<div class='grid-row flex-no-wrap' id="expand-header-wrapper">
-<div class='mobile:grid-row tablet:grid-col-10 desktop: grid-col-8'>
-## Definition of a Service Animal
-{:.mobile:margin-top-1 .tablet:margin-top-6}
-</div>
-<div class="mobile:order-first tablet:order-2 mobile:grid-row tablet:grid-col-2 desktop:grid-col-4 clearfix">
-{% include expand-accordions.html %}
-</div>
-</div>
+{% include expand-accordions-wrapper.html expand-heading="Definition of a Service Animal" %}
 
-{% accordion %}
+{% accordion expandable %}
 
 {% collapsible %}
 
@@ -237,16 +229,16 @@ For people with disabilities, this publication is available in alternate formats
 
 Duplication of this document is encouraged.
 
-{% details title 1 %}
+{% details title 1 expand %}
 The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations. %}
 
 This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.  
 {% enddetails %}
 
-{% details Title 2%}
+{% details Title 2 expand %}
 Details 2.  
 {% enddetails %}
 
-{% details Title 3%}
+{% details Title 3 expand%}
 details 3.
 {% enddetails %}

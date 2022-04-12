@@ -10,7 +10,7 @@ const contentNode = document.querySelector('#crt-page--content');
 // Grab all of the accordions and convert the Nodelist into an array:
 const getAccordions = () => {
   let regexp = /accordion\-*/gm;
-  let accordions = Array.from(document.querySelectorAll('div.usa-accordion__content')).filter(
+  let accordions = Array.from(document.querySelectorAll('.expand div.usa-accordion__content')).filter(
     (accordion) => accordion.id.match(regexp)
   );
   return accordions;
@@ -18,13 +18,13 @@ const getAccordions = () => {
 
 // Grab all of the accordion buttons except for the table of contents button and convert the Nodelist into an array:
 const getAccordionButtons = () => {
-  let buttons = Array.from(document.querySelectorAll('button.usa-accordion__button.pa11y-skip')).filter(button => button.getAttribute('aria-controls') !== 'toc');
+  let buttons = Array.from(document.querySelectorAll('.expand button.usa-accordion__button.pa11y-skip'));
   return buttons;
 };
 
 // Grab all of the <details> elements and convert the Nodelist into an array:
 const getDetails = () => {
-  let details = Array.from(document.querySelectorAll('details'));
+  let details = Array.from(document.querySelectorAll('details.expand'));
   return details;
 };
 
@@ -87,7 +87,6 @@ const toggleAccordionButtons = () => {
   // Listen for events on the accordion buttons and trigger toggle button side effect
   buttons.forEach((button) => {
     button.addEventListener('click', (e) => {
-      e.preventDefault();
       if (e.target.getAttribute('aria-expanded') === 'false') {
         openAccordionsButton.setAttribute('data-open', 'false');
         toggleButtonText(openAccordionsButton);
