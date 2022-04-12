@@ -38,9 +38,10 @@
 }
 
 #fba-modal-dialog .usa-banner {
-  background-color: #fff !important;
+  display: none;
 }
 
-#fba-modal-dialog .usa-banner__inner {
-  padding-left: 0px !important;
+.questions .white-bg:nth-child(1),
+.questions .white-bg:nth-child(2) {
+  display: none;
 }

@@ -79,8 +79,8 @@ primary_navigation:
       en: Give Us Feedback
       es: Denos su opinión
     url:
-      en: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit
-      es: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit
+      en: "/feedback/"
+      es: "/feedback/"
     external: true
 
 # Collections
