@@ -17,12 +17,3 @@
   @include grid-gap(6);
 }
 
-#expand-header-wrapper {
-  @media (max-width: '800px') {
-    flex-direction: column;
-
-    #crt-page--expandaccordions--wrapper {
-      float: left;
-    }
-  }
-}

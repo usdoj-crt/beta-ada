@@ -44,7 +44,6 @@ const toggleButtonText = (button) => {
 // When we click the expand or close button, loop over the accordions and their buttons and either hide them or show them depending on the state of the button
 const expandAccordions = () => {
   openAccordionsButton.addEventListener('click', function (e) {
-    e.preventDefault();
     let expanded = toggleButtonText(openAccordionsButton);
     let accordions = getAccordions();
     let buttons = getAccordionButtons();
