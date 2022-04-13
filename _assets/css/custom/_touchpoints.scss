@@ -41,7 +41,12 @@
   display: none;
 }
 
-.questions .white-bg:nth-child(1),
-.questions .white-bg:nth-child(2) {
-  display: none;
+#fba-modal-dialog .usa-button{
+  background-color: color($theme-color-primary-darker);
+  &:hover {
+    background-color: color($theme-link-hover-color) !important;
+  }
+  &:focus {
+    background-color: color($theme-link-hover-color) !important;
+  }
 }
