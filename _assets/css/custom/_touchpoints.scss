@@ -29,8 +29,13 @@
 
 #fba-modal-title,
 .fba-instructions,
-.touchpoints-form-disclaimer {
+#fba-modal-dialog hr {
   display: none;
+}
+
+#fba-modal-dialog .grid-container {
+  margin-left: 0px !important;
+  padding-left: 0px !important;
 }
 
 .usa-label[for=answer_01] {

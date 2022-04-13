@@ -1,9 +1,9 @@
 ---
 title: Give Us Feedback
-description: "Please tell us how we can make this beta version of ADA.gov better by sharing your thoughts, concerns or questions."
+description: "Please tell us how we can make this site better."
 permalink: /feedback/
 lead: |-
-    Please tell us how we can make this beta version of ADA.gov better by sharing your thoughts, concerns or questions.
+    Please tell us how we can make this site better. Thank you.
 lang: "en"
 sidenav: false
 ---
