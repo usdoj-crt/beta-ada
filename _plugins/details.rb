@@ -4,7 +4,7 @@ module Jekyll
       super
       @expand = ''
       @options = block_options.strip.split(' ')
-      if @options[-1,1] == ['expand']
+      if @options[-1,1] == ['expandable']
         @options.delete_at(-1)
         @expand = 'expand'
       end
