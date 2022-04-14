@@ -10,7 +10,9 @@
     {{ content }}
   </main>
   {% include footer.html %}
+  {% unless page.title == "Give Us Feedback" %}
   {% include touchpoints.html %}
+  {% endunless %}
   {% include redirect-modal.html %}
   {% include scripts.html %}
 </body>
