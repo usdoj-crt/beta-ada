@@ -58,4 +58,9 @@
       background-color: color($theme-link-hover-color) !important;
     }
   }
+ 
+  .usa-alert::before {
+    display: none !important;
+  }
+
 }
