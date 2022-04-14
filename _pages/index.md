@@ -10,7 +10,7 @@ alert:
   heading: |-
     Help us improve ADA.gov
   link:
-    href: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit
+    href: https://beta.ada.gov/feedback/
     text: Share feedback
 
 hero:
