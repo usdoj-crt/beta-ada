@@ -9,12 +9,13 @@ module Jekyll
         @expand = 'expand'
       end
       @title = @options.join(" ")
+      @id = @options.join("-").downcase
     end
 
     def render(context)
       content = super
       output = <<~EOS
-        <details class="#{@expand}" data-detail-open="false">
+        <details id="#{@id}" class="#{@expand}" data-detail-open="false">
         <summary markdown="0">
           <div>
             <span class="pa11y-skip">#{@title}</span>

@@ -9,8 +9,8 @@ const contentNode = document.querySelector('#crt-page--content');
 
 // Grab all of the accordions and convert the Nodelist into an array:
 const getAccordions = () => {
-  let regexp = /accordion\-*/gm;
-  let accordions = Array.from(document.querySelectorAll('.expand div.usa-accordion__content')).filter(
+  const regexp = /accordion-expandable\-*/gm;
+  const accordions = Array.from(document.querySelectorAll('.expand div.usa-accordion__content')).filter(
     (accordion) => accordion.id.match(regexp)
   );
   return accordions;
@@ -18,7 +18,7 @@ const getAccordions = () => {
 
 // Grab all of the accordion buttons except for the table of contents button and convert the Nodelist into an array:
 const getAccordionButtons = () => {
-  let buttons = Array.from(document.querySelectorAll('.expand button.usa-accordion__button.pa11y-skip'));
+  const buttons = Array.from(document.querySelectorAll('.expand button.usa-accordion__button.pa11y-skip'));
   return buttons;
 };
 
@@ -28,14 +28,27 @@ const getDetails = () => {
   return details;
 };
 
+// Generate a list of all the controllable element ids so we can reference them using aria-controls in our button.
+const getItemIds = () => {
+  let ids = [];
+  getAccordions().forEach(acc => ids.push(acc.id))
+  getDetails().forEach(det => ids.push(det.id))
+  ids = ids.join(" ");
+  openAccordionsButton.setAttribute('aria-controls', ids);
+}
+
+getItemIds();
+
 // Change the text within the open all button and swap the value of the data open attribute:
 const toggleButtonText = (button) => {
   if (button.getAttribute('data-open') === 'true') {
     button.setAttribute('data-open', 'false');
+    button.setAttribute('aria-expanded', 'false');
     button.innerText = 'Open all sections';
     return false;
   } else if (button.getAttribute('data-open') === 'false') {
     button.setAttribute('data-open', 'true');
+    button.setAttribute('aria-expanded', 'true');
     button.innerText = 'Close all sections';
     return true;
   }
@@ -131,7 +144,9 @@ const checkAccordionButtons = () => {
 const callback = function (mutationsList, observer) {
   for (const mutation of mutationsList) {
     if (
-      mutation.attributeName === 'aria-expanded' ||
+      // If the aria expanded attribute changes, but not on the main open all section button fire check our accordion state
+      (mutation.attributeName === 'aria-expanded' && mutation.target.id !== 'crt-page--expandaccordions') ||
+      // Also check if the state of the details elements changes, if so re-run the check accordion buttons so we can update our main button
       mutation.attributeName === 'data-detail-open'
     ) {
       checkAccordionButtons();
