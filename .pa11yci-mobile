@@ -20,10 +20,6 @@
       "width": 390,
       "height": 844,
       "mobile": true
-    },
-    "actions": [
-      "click element button.usa-accordion__button.usa-banner__button",
-      "click element button.usa-menu-btn"
-    ]
+    }
   }
 }
