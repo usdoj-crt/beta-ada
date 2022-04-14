@@ -58,9 +58,17 @@
       background-color: color($theme-link-hover-color) !important;
     }
   }
- 
+  
+  .usa-alert {
+    padding-top: 0px !important;
+  }
+
   .usa-alert::before {
     display: none !important;
+  }
+
+  .usa-alert--success {
+    background-position-y: center;
   }
 
 }
