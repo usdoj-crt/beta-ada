@@ -31,7 +31,7 @@ const config = {
   workers: process.env.CI ? 1 : undefined,
   /* Reporter to use. See https://playwright.dev/docs/test-reporters */
   reporter: 'html',
-  testIgnore: '**/example.*',
+  testIgnore: '**/example*',
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
     /* Maximum time each action such as `click()` can take. Defaults to 0 (no limit). */
@@ -46,7 +46,8 @@ const config = {
   },
 
   /* Configure projects for major browsers */
-  projects: [
+  // This will be configured on a test-by-test basis, so some of this will be overwritten locally
+   projects: [
     {
       name: 'chromium',
       use: {
@@ -95,7 +96,7 @@ const config = {
     //     channel: 'chrome',
     //   },
     // },
-  ],
+   ],
 
   /* Folder for test artifacts such as screenshots, videos, traces, etc. */
    outputDir: 'test-results/',

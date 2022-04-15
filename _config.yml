@@ -157,6 +157,8 @@ exclude:
   - babel.config.json
   - webpack.config.js
   - /docs
+  - /tests
+  - /playwright-report
 
 assets:
   autoprefixer:
