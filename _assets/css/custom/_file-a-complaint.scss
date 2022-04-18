@@ -1,9 +1,40 @@
-.filing-options li::marker {
-    @include heading--three();
-}
+$print: 'usa-icons/print';
+$language: 'usa-icons/language';
+$email: 'usa-icons/mail_outline';
 
-.filing-options span {
+.filing-options {
+  $image-path: $theme-image-path;
+
+  ol {
+    counter-reset: options;
+    list-style: none;
+
+    li::before {
+        color: #162e51;
+        background-color: grey;
+        border-radius: 24px;
+        position:absolute;
+        left: 2rem;
+        width: 24px;
+        height: 24px;
+        margin-top: 0.25rem;
+    }
+
+    li:first-child::before {
+      content: asset_url('#{$image-path}/#{$language}.svg');
+    }
+
+    li:nth-child(2)::before {
+      content: asset_url('#{$image-path}/#{$print}.svg');
+    }
+
+    li:nth-child(3)::before {
+      content: asset_url('#{$image-path}/#{$email}.svg');
+    }
+  }
+  span {
     display: inline-block;
     position: relative;
     margin-left: -20px;
+  }
 }
