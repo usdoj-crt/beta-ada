@@ -1,35 +1,36 @@
-$print: 'usa-icons/print';
-$language: 'usa-icons/language';
-$email: 'usa-icons/mail_outline';
+$print: 'print';
+$language: 'language';
+$email: 'mail_outline';
 
 .filing-options {
-  $image-path: $theme-image-path;
-
   ol {
     counter-reset: options;
     list-style: none;
 
     li::before {
-        color: #162e51;
-        background-color: grey;
-        border-radius: 24px;
-        position:absolute;
-        left: 2rem;
-        width: 24px;
-        height: 24px;
-        margin-top: 0.25rem;
+      color: #162e51;
+      background-color: #f2f2f2;
+      border-radius: 36px;
+      position: absolute;
+      left: 2rem;
+      width: 36px;
+      height: 36px;
+      padding: 2px;
+      content: '';
+      background-position: center;
+      background-repeat: no-repeat;
     }
 
     li:first-child::before {
-      content: asset_url('#{$image-path}/#{$language}.svg');
+      background-image: asset_url('#{$language}.svg');
     }
 
     li:nth-child(2)::before {
-      content: asset_url('#{$image-path}/#{$print}.svg');
+      background-image: asset_url('#{$print}.svg');
     }
 
     li:nth-child(3)::before {
-      content: asset_url('#{$image-path}/#{$email}.svg');
+      background-image: asset_url('#{$email}.svg');
     }
   }
   span {
