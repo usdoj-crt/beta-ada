@@ -39,7 +39,7 @@ Existen tres opciones para la presentación de una queja:
 <div class="filing-options">
 <ol>
 <li>
-<h3 class="margin-left-1">1. En línea</h3> 
+<h3 class="margin-left-1">1. En línea</h3>
 <br/>
 <span>Siga las instrucciones en el <a href="https://civilrights.justice.gov/report/">sitio web del DOJ.</a></span>
 </li>
