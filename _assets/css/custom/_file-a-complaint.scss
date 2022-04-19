@@ -26,11 +26,11 @@ $email: 'mail_outline';
     }
 
     li:nth-child(2)::before {
-      background-image: asset_url('#{$print}.svg');
+      background-image: asset_url('#{$email}.svg');
     }
 
     li:nth-child(3)::before {
-      background-image: asset_url('#{$email}.svg');
+      background-image: asset_url('#{$print}.svg');
     }
   }
   span {
