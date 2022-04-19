@@ -23,7 +23,7 @@ test.describe('Toggle translations', () => {
     await expect(page.locator('link[rel="alternate"] >> nth=0')).toHaveAttribute('href', enURL);
     await expect(page.locator('link[rel="alternate"] >> nth=0')).toHaveAttribute('hreflang', 'en');
 
-    // //Should have spanish alternate
+    // Should have spanish alternate
     await expect(page.locator('link[rel="alternate"] >> nth=1')).toHaveAttribute('href', esURL);
     await expect(page.locator('link[rel="alternate"] >> nth=1')).toHaveAttribute('hreflang', 'es');
 
@@ -49,7 +49,7 @@ test.describe('Toggle translations', () => {
     await expect(page.locator('link[rel="alternate"] >> nth=0')).toHaveAttribute('href', enURL);
     await expect(page.locator('link[rel="alternate"] >> nth=0')).toHaveAttribute('hreflang', 'en');
 
-    // //Should have spanish alternate
+    // Should have spanish alternate
     await expect(page.locator('link[rel="alternate"] >> nth=1')).toHaveAttribute('href', esURL);
     await expect(page.locator('link[rel="alternate"] >> nth=1')).toHaveAttribute('hreflang', 'es');
 

@@ -82,30 +82,10 @@ const config = {
         ...devices['iPhone 12'],
       },
     },
-
-    /* Test against branded browsers. */
-    // {
-    //   name: 'Microsoft Edge',
-    //   use: {
-    //     channel: 'msedge',
-    //   },
-    // },
-    // {
-    //   name: 'Google Chrome',
-    //   use: {
-    //     channel: 'chrome',
-    //   },
-    // },
    ],
 
   /* Folder for test artifacts such as screenshots, videos, traces, etc. */
-   outputDir: 'test-results/',
-
-  /* Run your local dev server before starting the tests */
-  // webServer: {
-  //   command: 'npm run start',
-  //   port: 4000
-  //  },
+   outputDir: './test-results/',
 };
 
 module.exports = config;

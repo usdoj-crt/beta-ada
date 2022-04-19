@@ -156,8 +156,10 @@ exclude:
   - docker-compose.yml
   - babel.config.json
   - webpack.config.js
+  - playwright.config.js
   - /docs
   - /tests
+  - /test-results
   - /playwright-report
 
 assets:
