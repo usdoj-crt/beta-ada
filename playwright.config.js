@@ -53,6 +53,7 @@ const config = {
       use: {
         ...devices['Desktop Chrome'],
       },
+      testIgnore: [/.*mobile.spec.ts/, '**/example*'],
     },
 
     {
@@ -60,6 +61,7 @@ const config = {
       use: {
         ...devices['Desktop Firefox'],
       },
+      testIgnore: [/.*mobile.spec.ts/, '**/example*'],
     },
 
     {
@@ -67,6 +69,7 @@ const config = {
       use: {
         ...devices['Desktop Safari'],
       },
+      testIgnore: [/.*mobile.spec.ts/, '**/example*'],
     },
 
     /* Test against mobile viewports. */
@@ -75,12 +78,14 @@ const config = {
       use: {
         ...devices['Pixel 5'],
       },
+      testIgnore: [/.*desktop.spec.ts/, '**/example*'],
     },
     {
       name: 'Mobile Safari',
       use: {
         ...devices['iPhone 12'],
       },
+      testIgnore: [/.*desktop.spec.ts/, '**/example*'],
     },
    ],
 
