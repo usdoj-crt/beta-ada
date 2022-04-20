@@ -1,4 +1,4 @@
-{% assign lang = "en" %}
+{% assign lang = "es" %}
 {% if lang==nil %}{% assign lang="en" %}{% endif %}
 
 <footer class="usa-footer usa-footer--slim">
@@ -97,7 +97,7 @@
               <a href="https://www.justice.gov/crt/about">
                 {{site.data[lang]["i18n"].links.about}}
               </a>
-              <a href="{{ site.data[lang]['i18n'].file-a-complaint-link | relative_url }}">
+              <a href="{{site.data[lang]['i18n'].links.file-a-complaint-link | relative_url }}">
                 {{site.data[lang]["i18n"].links.file_complaint}}
               </a>
               <a href="https://www.justice.gov/doj/privacy-policy">
