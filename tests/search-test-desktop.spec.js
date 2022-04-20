@@ -32,9 +32,9 @@ test('Desktop tests', async ({ page }) => {
   );
 
   // Click text=Previous Page 1 … 45 46 47 48 Next Page 48 of 48
-  await page.locator('[aria-label="Previous Page"]').click();
+  await page.locator('[aria-label="Previous page"]').click();
   await expect(page).toHaveURL(
-    'http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test&offset=900'
+    'http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test&offset=920'
   );
 
   // Click [aria-label="Page 1"]
@@ -44,13 +44,13 @@ test('Desktop tests', async ({ page }) => {
   );
 
   // Click text=Next Page
-  await page.locator('[aria-label="Next Page"]').click();
+  await page.locator('[aria-label="Next page"]').click();
   await expect(page).toHaveURL(
     'http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test&offset=20'
   );
 
   // Click text=Previous Page
-  await page.locator('[aria-label="Previous Page"]').click();
+  await page.locator('[aria-label="Previous page"]').click();
   await expect(page).toHaveURL(
     'http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test&offset=0'
   );

@@ -53,7 +53,7 @@ const config = {
       use: {
         ...devices['Desktop Chrome'],
       },
-      testIgnore: [/.*mobile.spec.ts/, '**/example*'],
+      testIgnore: [/.*mobile.spec.js/, '**/example*'],
     },
 
     {
@@ -61,7 +61,7 @@ const config = {
       use: {
         ...devices['Desktop Firefox'],
       },
-      testIgnore: [/.*mobile.spec.ts/, '**/example*'],
+      testIgnore: [/.*mobile.spec.js/, '**/example*'],
     },
 
     {
@@ -69,7 +69,7 @@ const config = {
       use: {
         ...devices['Desktop Safari'],
       },
-      testIgnore: [/.*mobile.spec.ts/, '**/example*'],
+      testIgnore: [/.*mobile.spec.js/, '**/example*'],
     },
 
     /* Test against mobile viewports. */
@@ -78,14 +78,14 @@ const config = {
       use: {
         ...devices['Pixel 5'],
       },
-      testIgnore: [/.*desktop.spec.ts/, '**/example*'],
+      testIgnore: [/.*desktop.spec.js/, '**/example*'],
     },
     {
       name: 'Mobile Safari',
       use: {
         ...devices['iPhone 12'],
       },
-      testIgnore: [/.*desktop.spec.ts/, '**/example*'],
+      testIgnore: [/.*desktop.spec.js/, '**/example*'],
     },
    ],
 

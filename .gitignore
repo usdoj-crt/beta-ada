@@ -7,3 +7,5 @@ node_modules
 .DS_Store
 test-results/
 playwright-report/
+/tests/snapshot-testing.spec.js-snapshots
+/test-results
