@@ -3,7 +3,8 @@ const path = require('path');
 module.exports = {
   mode: process.env.NODE_ENV || "development",
   entry: {
-    pagination: './_assets/js/pagination.js'
+    pagination: './_assets/js/pagination.js',
+    accordion: './_assets/js/utils/expand-accordions.js'
   },
   output: {
     path: path.resolve(__dirname, './_assets/js/', 'dist'),
