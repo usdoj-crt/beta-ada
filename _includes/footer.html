@@ -141,7 +141,7 @@
       </div>
     </div>
   </div>
-  {% if page.url == "/" or page.collection == 'topics' or page.permalink == "/topics/" %}
+  {% if page.url == "/" or page.permalink == "/topics/" %}
   <div class="usa-footer__attribution usa-dark-background">
     <div class="grid-container">
       <div class="grid-row">
@@ -160,17 +160,24 @@
             <p>
               <a
                 class="external-link--popup"
+                href="https://stock.adobe.com/"
+                >Adobe Stock</a
+              >
+            </p>
+            <p>
+              <a
+                class="external-link--popup"
                 href="https://affecttheverb.com/disabledandhere/"
                 >{{site.data[lang]["i18n"].footer.photo_collection}}</a
               >
             </p>
             {% endif %}
-            {% if page.collection == 'topics' or page.permalink == "/topics/" %}
+            {% if page.permalink == "/topics/" %}
             <p>
               <a
                 class="external-link--popup"
                 href="https://stock.adobe.com/"
-                >Adobe Stock Images</a
+                >Adobe Stock</a
               >
             </p>
             {% endif %}
