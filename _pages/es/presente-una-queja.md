@@ -37,18 +37,28 @@ La naturaleza de su queja determina dónde usted debe presentarla. La tabla a co
 ## Para la presentación de una queja ante la División de Derechos Civiles del Departamento de Justicia
 Existen tres opciones para la presentación de una queja:
 <div class="filing-options">
-1. ### En línea <br/>
-<span>Siga las instrucciones en el [sitio web del DOJ](https://civilrights.justice.gov/report/)</span>
-1. ### Por correo ordinario <br/>
-<span>Rellene y envíe la versión impresa del [Formulario de quejas al amparo de la ADA (en inglés)](https://www.ada.gov/CRT-ReportPDF-Sep2021.pdf) or o una carta que contiene la misma información, a:</span>
->U.S. Department of Justice<br/>
+<ol>
+<li>
+<h3 class="margin-left-1">1. En línea</h3>
+<span>Siga las instrucciones en el <a class="pa11y-skip" href="https://civilrights.justice.gov/report/">sitio web del DOJ.</a></span>
+</li>
+
+<li>
+<h3 class="margin-left-1">2. Por correo ordinario</h3>
+<span>Rellene y envíe la versión impresa del <a class="pa11y-skip" href="https://www.ada.gov/CRT-ReportPDF-Sep2021.pdf">Formulario de quejas al amparo de la ADA (en inglés)</a> or o una carta que contiene la misma información, a:</span>
+U.S. Department of Justice<br/>
 Civil Rights Division<br/>
 950 Pennsylvania Avenue, NW<br/>
 Washington, DC 20530
+</li>
 
-1. ### Por fax <br/>
-<span>Rellene y envíe la versión impresa del [Formulario de quejas al amparo de la ADA (en inglés)](https://www.ada.gov/CRT-ReportPDF-Sep2021.pdf) or o una carta que contiene la misma información, envíelo a (202) 307-1197. <br/><br/>Recuerde que debe guardar una copia de su queja y los documentos originales entre sus registros.</span>
+<li>
+<h3 class="margin-left-1">3. Por fax</h3>
+<span>Rellene y envíe la versión impresa del <a class="pa11y-skip" href="https://www.ada.gov/CRT-ReportPDF-Sep2021.pdf">Formulario de quejas al amparo de la ADA (en inglés)</a> or o una carta que contiene la misma información, envíelo a (202) 307-1197. <br/><br/>Recuerde que debe guardar una copia de su queja y los documentos originales entre sus registros.</span>
+</li>
+</ol>
 </div>
+
 ## Después de que presente una queja
 
 Puede que remitamos su queja a:
