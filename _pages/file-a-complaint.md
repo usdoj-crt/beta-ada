@@ -37,20 +37,27 @@ The nature of your complaint determines where you should file it. The table belo
 ## Filing an ADA Complaint with the Department of Justice, Civil Rights Division
 There are three options for filing an ADA complaint:
 <div class="filing-options">
-1. ### Online <br/>
-<span>File a complaint by submitting a report on the Department of Justice's [Civil Rights Division website](https://civilrights.justice.gov/report/).</span>
-2. ### Mail <br/>
-<span>Fill out and send the paper [ADA Complaint Form](https://www.ada.gov/CRT-ReportPDF-Sep2021.pdf){: .pa11y-skip} or a letter containing the same information, to:</span>
->U.S. Department of Justice<br/>
+<ol>
+<li>
+<h3 class="margin-left-1">1. Online</h3>
+<span>File a complaint by submitting a report on the Department of Justice's <a href="https://civilrights.justice.gov/report/">Civil Rights Division website</a>.</span>
+</li>
+
+<li>
+<h3 class="margin-left-1">2. Mail</h3>
+<span>Fill out and send the paper <a class="pa11y-skip" href="https://www.ada.gov/CRT-ReportPDF-Sep2021.pdf">ADA Complaint Form</a> or a letter containing the same information, to:</span>
+U.S. Department of Justice<br/>
 Civil Rights Division<br/>
 950 Pennsylvania Avenue, NW<br/>
 Washington, DC 20530
-
-
-3. ### Fax <br/>
-<span>Fill out and send the paper [ADA Complaint Form](https://www.ada.gov/CRT-ReportPDF-Sep2021.pdf){: .pa11y-skip} or a letter containing the same information, and fax to (202) 307-1197. <br/><br/>Remember to keep a copy of your complaint and the original documents for your own records.</span>
-
+</li>
+<li>
+<h3 class="margin-left-1">3. Fax</h3>
+<span>Fill out and send the paper <a class="pa11y-skip" href="https://www.ada.gov/CRT-ReportPDF-Sep2021.pdf">ADA Complaint Form </a> or a letter containing the same information, and fax to (202) 307-1197. <br/><br/>Remember to keep a copy of your complaint and the original documents for your own records.</span>
+</li>
+</ol>
 </div>
+
 ## After You File a Complaint
 
 We might refer your complaint to:
