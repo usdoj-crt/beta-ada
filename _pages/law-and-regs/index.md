@@ -2,7 +2,6 @@
 permalink: /law-and-regs/
 title: Law and Regulations
 sidenav: false
-tags: [title ii]
 ---
 
 When we talk about what the ADA requires on ADA.gov, we are usually referring to two sources:

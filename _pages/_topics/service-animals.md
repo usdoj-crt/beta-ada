@@ -15,7 +15,6 @@ card:
   image: landing/service_animals.jpg
   alt: A service animal helps a blind person down the stairs
   href: /topics/service-animals/
-tags: [service animals, title II]
 ---
 
 ## About Service Animals

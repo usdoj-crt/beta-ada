@@ -1,53 +1,24 @@
-{% assign projectTags = site.data.tags.allowed-tags %} 
-{% assign pages=site.pages %} 
-{% assign posts=site.posts %} 
-{% assign topics=site.topics %} 
-{% assign pagesAndPosts = pages | concat: posts | concat: topics | sort:"title" %} 
-{% assign tagArray = 'a,b' | split:"," %} 
-{% for tag in page.tags %} 
-  {% for post in pagesAndPosts %} 
-    {% if site.data.tags.allowed-tags contains tag%} 
-      {% if post.tags contains tag %} 
-        {% if post.url != page.url %} 
-          {% assign tagArray = tagArray | push: post %} 
-        {% endif %} 
-      {% endif %} 
-    {% endif %} 
-  {% endfor %} 
-{% endfor %} 
-{% assign tagArray = tagArray | uniq %}
+{% assign projectTags = site.data.tags.allowed-tags %} {% assign pages=site.pages %} {% assign
+posts=site.posts %} {% assign topics=site.topics %} {% assign pagesAndPosts = pages | concat: posts
+| concat: topics | sort:"title" %} {% assign tagArray = 'a,b' | split:"," %} {% for tag in page.tags
+%} {% for post in pagesAndPosts %} {% if site.data.tags.allowed-tags contains tag%} {% if post.tags
+contains tag %} {% if post.url != page.url %} {% assign tagArray = tagArray | push: post %} {% endif
+%} {% endif %} {% endif %} {% endfor %} {% endfor %} {% assign tagArray = tagArray | uniq %}
+{% assign tagSize = tagArray | size %}
 
 <div
-  class="usa-summary-box border-0 mobile:padding-0 desktop:padding-2 bg-primary-lighter"
+  class="usa-summary-box related-content-container border-0 padding-2 bg-primary-lighter {% if tagSize <= 2 %} one-col {% elsif tagSize > 2 %} two-col {% endif %}"
   role="region"
   aria-labelledby="summary-box-title"
 >
-  <div class="usa-accordion usa-summary-box__body mobile:margin-bottom-2 desktop:margin-bottom-0">
-    <h4 class="usa-summary-box__heading desktop:display-none" id="summary-box-title">
-      <button
-        class="usa-accordion__button"
-        aria-expanded="false"
-        aria-controls="summary-box-content"
-      >
-        Related Content
-      </button>
-    </h4>
-    <h3 class="usa-summary-box__heading mobile:display-none desktop:display-block">Related Content</h3>
-    <div class="usa-summary-box__text desktop:display-none" id="summary-box-content">
-      <ul class="margin-top-0 usa-nav__primary usa-accordion">
-        {% for link in tagArray %} {% unless link.url==nil %}
-        <li class="margin-1">
-          <a class="usa-summary-box__link" href="{{ link.url | relative_url }}"><span class="text-underline">{{ link.title }}</span></a>
-        </li>
-        {% endunless %} {% endfor %}
-      </ul>
+  <h3 class="usa-summary-box__heading" id="related-content-header">
+    Related Content
+  </h3>
+  <div class="usa-summary-box__text">
+    {% for link in tagArray %} {% unless link.url==nil %}
+    <div class="margin-1">
+      <a class="usa-summary-box__link" href="{{ link.url | relative_url }}">{{ link.title }}</a>
     </div>
-    <div class="usa-summary-box__text mobile:display-none desktop:display-block">
-        {% for link in tagArray %} {% unless link.url==nil %}
-        <div class="margin-1">
-          <a class="usa-summary-box__link" href="{{ link.url | relative_url }}">{{ link.title }}</a>
-        </div>
-        {% endunless %} {% endfor %}
-    </div>
+    {% endunless %} {% endfor %}
   </div>
 </div>

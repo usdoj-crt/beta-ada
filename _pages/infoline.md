@@ -6,7 +6,6 @@ lead: |-
   Have questions about the ADA? Call the U.S. Department of Justice ADA Information Line
   - 800-514-0301 (voice)
   - 800-514-0383 (TTY)
-tags: [service animals, web guidance, title ii]
 ---
 
 Accessibility specialists are available to answer questions from individuals,
