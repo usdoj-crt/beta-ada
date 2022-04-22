@@ -141,6 +141,7 @@
       </div>
     </div>
   </div>
+  {% if page.title == "The Americans with Disabilities Act" or page.permalink == "/topics/" %}
   <div class="usa-footer__attribution usa-dark-background">
     <div class="grid-container">
       <div class="grid-row">
@@ -149,11 +150,13 @@
             {{site.data[lang]["i18n"].headings.attribution}}
           </div>
           <div class="usa-footer__attribution-names">
+            {% if page.title == "The Americans with Disabilities Act" %}
             <p>
               <a
                 class="external-link--popup"
-                href="https://unsplash.com/"
-                >Unsplash</a>: Jon Tyson
+                href="https://stock.adobe.com/"
+                >Adobe Stock</a
+              >
             </p>
             <p>
               <a
@@ -162,9 +165,20 @@
                 >{{site.data[lang]["i18n"].footer.photo_collection}}</a
               >
             </p>
+            {% endif %}
+            {% if page.permalink == "/topics/" %}
+            <p>
+              <a
+                class="external-link--popup"
+                href="https://stock.adobe.com/"
+                >Adobe Stock</a
+              >
+            </p>
+            {% endif %}
           </div>
         </div>
       </div>
     </div>
   </div>
+  {% endif %}
 </footer>
