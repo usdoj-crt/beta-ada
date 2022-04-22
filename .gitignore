@@ -5,7 +5,6 @@ node_modules
 .bundle
 .jekyll-cache/
 .DS_Store
+playwright-report/
 test-results/
 playwright-report/
-/tests/snapshot-testing.spec.js-snapshots
-/test-results
