@@ -8,8 +8,6 @@ lang: "en"
 news-item: true
 publish-date: 2022-03-18 00:00:00
 print: true
-related-content: true
-tags: [intro]
 ---
 [Learn more about businesses' and state and local governments' ADA responsibilities.]( {{'/topics/intro-to-ada'| relative_url}})
 
