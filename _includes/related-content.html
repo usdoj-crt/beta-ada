@@ -1,0 +1,24 @@
+{% assign projectTags = site.data.tags.allowed-tags %} {% assign pages=site.pages %} {% assign
+posts=site.posts %} {% assign topics=site.topics %} {% assign pagesAndPosts = pages | concat: posts
+| concat: topics | sort:"title" %} {% assign tagArray = 'a,b' | split:"," %} {% for tag in page.tags
+%} {% for post in pagesAndPosts %} {% if site.data.tags.allowed-tags contains tag%} {% if post.tags
+contains tag %} {% if post.url != page.url %} {% assign tagArray = tagArray | push: post %} {% endif
+%} {% endif %} {% endif %} {% endfor %} {% endfor %} {% assign tagArray = tagArray | uniq %}
+{% assign tagSize = tagArray | size %}
+
+<div
+  class="usa-summary-box related-content-container border-0 padding-2 bg-primary-lighter {% if tagSize <= 2 %} one-col {% elsif tagSize > 2 %} two-col {% endif %}"
+  role="region"
+  aria-labelledby="related-content-header"
+>
+  <h3 class="usa-summary-box__heading" id="related-content-header">
+    Related Content
+  </h3>
+  <div class="usa-summary-box__text">
+    {% for link in tagArray %} {% unless link.url==nil %}
+    <div class="margin-1">
+      <a class="usa-summary-box__link" href="{{ link.url | relative_url }}">{{ link.title }}</a>
+    </div>
+    {% endunless %} {% endfor %}
+  </div>
+</div>
