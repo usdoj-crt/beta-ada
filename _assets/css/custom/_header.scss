@@ -44,12 +44,14 @@
 
 .usa-menu-btn {
   @include u-radius("md");
-  padding: 0.25rem 0.5rem;
+  padding: 0.75rem 1.25rem;
   text-transform: unset;
   background: color($theme-color-primary-darker);
   color: color($theme-color-primary-lightest);
-  max-height: 2rem;
+  max-height: 3rem;
   margin-right: 1rem;
+  font-size: 1rem;
+  font-weight: 700;
 }
 
 .usa-header--extended .usa-navbar {
