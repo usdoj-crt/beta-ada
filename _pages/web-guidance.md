@@ -143,4 +143,4 @@ When Congress enacted the ADA in 1990, it intended for the ADA to keep pace with
 </ol>
 </div>
 
-{% include download-pdf.html pdf="parking.pdf" %}
+{% include download-pdf.html pdf="parking.pdf" title="Parking Guidance" %}
