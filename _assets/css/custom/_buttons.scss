@@ -10,7 +10,8 @@
   }
 }
 
-#crt-page--printbutton {
+#crt-page--printbutton,
+#crt-page--expandaccordions {
   background-color: color($theme-color-primary-darker);
   &:hover {
     background: color($theme-link-hover-color);
@@ -24,14 +25,4 @@ span.usa-sr-only {
   color: black;
 }
 
-@media screen and (min-width: 0px) {
-  #crt-page--printbutton--wrapper {
-    display: none;
-  }
-}
 
-@media screen and (min-width: 1024px) {
-  #crt-page--printbutton--wrapper {
-    display: block;
-  }
-}

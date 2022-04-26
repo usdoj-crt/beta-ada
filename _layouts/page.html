@@ -27,6 +27,9 @@ layout: default
           </div>
         {% endif %}
         {{ content }}
+        {% if page.related-content %}
+          {% include related-content.html %}
+        {% endif %}
         {% if page.title == 'Give Us Feedback' %}
           <div id="touchpoints-container"></div>
         {% endif %}
