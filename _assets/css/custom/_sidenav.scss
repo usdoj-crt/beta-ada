@@ -4,7 +4,7 @@
 }
 
 #crt-page--sidenav {
-  a:not(#crt-page--downloadpdf) {
+  a:not(.crt-page--downloadpdf-link):not(.crt-page--downloadpdf-button) {
     color: color($theme-text-color);
 
     &.usa-current {

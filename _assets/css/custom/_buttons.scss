@@ -12,7 +12,7 @@
 
 #crt-page--printbutton,
 #crt-page--expandaccordions,
-#crt-page--downloadpdf {
+.crt-page--downloadpdf-button {
   background-color: color($theme-color-primary-darker);
   &:hover {
     background: color($theme-link-hover-color);
@@ -22,7 +22,7 @@
   }
 }
 
-#crt-page--downloadpdf {
+.crt-page--downloadpdf-button {
   color: white;
 }
 

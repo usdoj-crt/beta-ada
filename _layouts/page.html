@@ -6,7 +6,9 @@ layout: default
     {% if page.sidenav %}
     <div id="crt-page--sidenav" class="desktop:grid-col-4">
       {% include sidenav.html %}
-      {% if page.print %}
+      {% if page.sidenav-pdf%}
+      {% include download-pdf.html filename=page.sidenav-pdf.filename title=page.sidenav-pdf.title %}
+      {% elsif page.print and page.sidenav-pdf==nil %}
         {% include print-button.html %}
       {% endif %}
     </div>
