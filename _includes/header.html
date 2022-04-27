@@ -2,13 +2,13 @@
 %} {% endif %} {% assign lang = page.lang %} {% if lang==nil %}{% assign lang="en" %}{% endif %} {%
 assign shrink = "" %} {% unless lang=="en" %} {% assign shrink = "shrink-search" %} {% endunless %}
 <header class="usa-header usa-header--extended">
-  <div class="crt-landing--header crt-lightblue">
+  <div class="crt-landing--header crt-lightblue height-card">
     <div class="usa-navbar position-relative">
       <div class="usa-logo" id="extended-logo">{% include logo.html %}</div>
       {% include phone.html %}
       <button class="usa-menu-btn">{{site.data["en"]["i18n"].links.menu}}</button>
     </div>
-    <nav aria-label="{{site.data['en']['i18n'].aria.primary_navigation}}" class="usa-nav">
+    <nav aria-label="{{site.data['en']['i18n'].aria.primary_navigation}}" class="usa-nav margin-top-3">
       <div class="usa-nav__inner">
         <button class="usa-nav__close">
           {% asset img/usa-icons/close.svg alt="{{site.data['en']['i18n'].aria.close}}" %}
