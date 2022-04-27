@@ -74,6 +74,10 @@ test.describe('Desktop tests', () => {
     // Expect there to be a pagination feature:
     await expect(page.locator('nav[aria-label="Results Pagination"]')).toHaveCount(1);
 
+    await page.locator('a[aria-label="Page 2"]').click();
+
+    await expect(page).toHaveURL('http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test&offset=20');
+
     // Expect there to be a previous button that is disabled:
     await expect(page.locator('a[aria-label="Previous page"]')).not.toHaveAttribute(
       'disabled',
@@ -184,76 +188,129 @@ test.describe('Desktop tests', () => {
     );
   });
 
-
-  test('Next Page Button', async ({page}) => {
-
-    await page.goto('http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test');
-
-    page.locator('a[aria-label="Next page"]').click();
-
-    await exppect(page).toHaveURL('http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test&offset=20');
+  test('Next Page Button', async ({ page }) => {
+    await page.goto(
+      'http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test'
+    );
 
     page.locator('a[aria-label="Next page"]').click();
 
-    await expect(page).toHaveURL('http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test&offset=40');
+    await expect(page).toHaveURL(
+      'http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test&offset=20'
+    );
 
-    await page.goto('http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test&offset=940');
+    page.locator('a[aria-label="Next page"]').click();
+
+    await expect(page).toHaveURL(
+      'http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test&offset=40'
+    );
+
+    await page.goto(
+      'http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test&offset=940'
+    );
 
     await expect(page.locator('a[aria-label="Next page"]')).toHaveAttribute('disabled', 'true');
-
   });
 
-  test('Previous Page Button', async ({page}) => {
-
-    await page.goto('http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test');
-
-    page.locator('a[aria-label="Previous page"]').toHaveAttribute('disabled', 'true');
-
-    await page.goto('http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test&offset=940');
-
-    page.locator('a[aria-label="Previous page"]').click();
-
-    await exppect(page).toHaveURL('http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test&offset=920');
-
-    page.locator('a[aria-label="Previous page"]').click();
-
-    await expect(page).toHaveURL('http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test&offset=900');
-
-    await page.goto('http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test&offset=20');
-
-    page.locator('a[aria-label="Previous page"]').click();
-
-    await expect(page).toHaveURL('http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test&offset=0');
+  test('Previous Page Button', async ({ page }) => {
+    await page.goto(
+      'http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test'
+    );
 
     await expect(page.locator('a[aria-label="Previous page"]')).toHaveAttribute('disabled', 'true');
 
+    await page.goto(
+      'http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test&offset=940'
+    );
+
+    page.locator('a[aria-label="Previous page"]').click();
+
+    await expect(page).toHaveURL(
+      'http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test&offset=920'
+    );
+
+    page.locator('a[aria-label="Previous page"]').click();
+
+    await expect(page).toHaveURL(
+      'http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test&offset=900'
+    );
+
+    await page.goto(
+      'http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test&offset=20'
+    );
+
+    page.locator('a[aria-label="Previous page"]').click();
+
+    await expect(page).toHaveURL(
+      'http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test&offset=0'
+    );
+
+    await expect(page.locator('a[aria-label="Previous page"]')).toHaveAttribute('disabled', 'true');
   });
 
-
-  test('First pagination button', async ({page}) => {
-
-    await page.goto('http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test');
+  test('First pagination button', async ({ page }) => {
+    await page.goto(
+      'http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test'
+    );
     // Expect there to be a first page button:
     await expect(page.locator('a[aria-label="Page 1"]')).toHaveAttribute('aria-current', 'true');
     await expect(page.locator('a[aria-label="Page 1"]')).toHaveAttribute('data-offset', '0');
 
-    await page.goto('http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test&offset=100');
+    await page.goto(
+      'http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test&offset=100'
+    );
     // Expect there to be a first page button:
     await expect(page.locator('a[aria-label="Page 1"]')).toHaveAttribute('aria-current', 'false');
     await expect(page.locator('a[aria-label="Page 1"]')).toHaveAttribute('data-offset', '0');
 
+    page.locator('a[aria-label="Page 1"]').click();
 
+    await expect(page).toHaveURL(
+      'http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test&offset=0'
+    );
   });
 
-  test('Interim pagination button', async ({page}) => {
-    
+  test('Interim pagination button', async ({ page }) => {
+    await page.goto(
+      'http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test'
+    );
+    // Expect there to be a fourth page button:
+    await expect(page.locator('a[aria-label="Page 4"]')).toHaveAttribute('aria-current', 'false');
+    await expect(page.locator('a[aria-label="Page 4"]')).toHaveAttribute('data-offset', '60');
+    // Click the fourth page button:
+    page.locator('a[aria-label="Page 4"]').click();
+    await expect(page).toHaveURL(
+      'http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test&offset=60'
+    );
+    await expect(page.locator('a[aria-label="Page 4"]')).toHaveAttribute('aria-current', 'true');
+    // Expect there to be a third page button:
+    await expect(page.locator('a[aria-label="Page 3"]')).toHaveAttribute('aria-current', 'false');
+    await expect(page.locator('a[aria-label="Page 3"]')).toHaveAttribute('data-offset', '40');
+    // Expect there to be a fifth page button:
+    await expect(page.locator('a[aria-label="Page 5"]')).toHaveAttribute('aria-current', 'false');
+    await expect(page.locator('a[aria-label="Page 5"]')).toHaveAttribute('data-offset', '80');
   });
 
-  test('Last pagination button', async ({page}) => {
-    
+  test('Last pagination button', async ({ page }) => {
+    await page.goto(
+      'http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test'
+    );
+    // Expect there to be a fourth page button:
+    await expect(page.locator('a[aria-label="Last page; Page 48"]')).toHaveAttribute('aria-current', 'false');
+    await expect(page.locator('a[aria-label="Last page; Page 48"]')).toHaveAttribute('data-offset', '940');
+    // Click the fourth page button:
+    page.locator('a[aria-label="Last page; Page 48"]').click();
+    await expect(page).toHaveURL(
+      'http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test&offset=940'
+    );
+    await expect(page.locator('a[aria-label="Last page; Page 48"]')).toHaveAttribute('aria-current', 'true');
+    // Expect there to be a third page button:
+    await expect(page.locator('a[aria-label="Page 47"]')).toHaveAttribute('aria-current', 'false');
+    await expect(page.locator('a[aria-label="Page 47"]')).toHaveAttribute('data-offset', '920');
+    // Expect there to be a fifth page button:
+    await expect(page.locator('a[aria-label="Page 46"]')).toHaveAttribute('aria-current', 'false');
+    await expect(page.locator('a[aria-label="Page 46"]')).toHaveAttribute('data-offset', '900');
   });
-
-
 });
 
 // // Functions to intercept our api call and deliver our mocked data:

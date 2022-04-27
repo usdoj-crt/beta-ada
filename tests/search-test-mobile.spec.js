@@ -18,6 +18,18 @@ test('Mobile tests', async ({ page }) => {
     'http://localhost:4000/search/?utf8=%E2%9C%93&affiliate=justice-ada-beta&query=test'
   );
 
+  // Expect there to be 20 results on the page:
+  await expect(page.locator('div.content-url')).toHaveCount(20);
+
+  // Expect there to be a pagination feature:
+  await expect(page.locator('nav[aria-label="Results Pagination"]')).toHaveCount(1);
+
+  // Expect there to be a previous button that is disabled:
+  await expect(page.locator('a[aria-label="Previous page"]')).toHaveAttribute('disabled', 'true');
+
+  // Expect there to be a next button that is enabled:
+  await expect(page.locator('a[aria-label="Next page"]')).not.toHaveAttribute('disabled', 'true');
+
   // Click text=Next Page
   await page.locator('text=Next Page').click();
   await expect(page).toHaveURL(
@@ -26,6 +38,9 @@ test('Mobile tests', async ({ page }) => {
 
   // Click text=946 results found
   await expect(page.locator('div[role="status"]')).toHaveText('946 results found');
+
+  // Expect there to be a previous button that is not disabled:
+  await expect(page.locator('a[aria-label="Previous page"]')).not.toHaveAttribute('disabled', 'true');
 
   // Click text=Next Page
   await page.locator('[aria-label="Next page"]').click();
