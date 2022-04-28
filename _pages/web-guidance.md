@@ -8,10 +8,6 @@ lang: "en"
 news-item: true
 publish-date: 2022-03-18 00:00:00
 print: true
-sidenav-pdf: 
-  title: Parking
-  filename: parking.pdf
-
 ---
 [Learn more about businesses' and state and local governments' ADA responsibilities.]( {{'/topics/intro-to-ada'| relative_url}})
 
@@ -146,5 +142,3 @@ When Congress enacted the ADA in 1990, it intended for the ADA to keep pace with
 </li>
 </ol>
 </div>
-
-{% include download-pdf.html filename="parking.pdf" title="Parking" %}
