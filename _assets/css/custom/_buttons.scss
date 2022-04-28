@@ -11,8 +11,7 @@
 }
 
 #crt-page--printbutton,
-#crt-page--expandaccordions,
-.crt-page--downloadpdf-button {
+#crt-page--expandaccordions {
   background-color: color($theme-color-primary-darker);
   &:hover {
     background: color($theme-link-hover-color);
@@ -21,11 +20,6 @@
     background: color($theme-link-hover-color);
   }
 }
-
-.crt-page--downloadpdf-button {
-  color: white;
-}
-
 
 span.usa-sr-only {
   color: black;
