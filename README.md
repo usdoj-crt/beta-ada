@@ -41,11 +41,46 @@ site.
 
 ### Testing
 
-#### With locally installed `node` and `ruby`
-    $ npm test
+UI & Snapshot testing is accomplished using [Playwright](https://playwright.dev/). 
+
+UI Tests confirm that individual features of the interface perform as expected, while Snapshot testing looks for changes in each page from a previous, stored version and flags any changes.
+
+Currently testing is only available on development branches, though the plan is to eventually add Snapshot testing to our Github Actions suite.
+
+To run:
+
+### Initialize Playwright Test on your computer:
+
+In the root directory of the beta-ada/ project folder, run the following command:
+```
+npm init playwright@latest
+```
+
+A series of prompts will appear after that, these will help initialize your project.
+
+Follow these steps to correctly initialize your project. Note you only need to initialize the project once.
+
+1. Do you want to use TypeScript or JavaScript?
+- JavaScript
+
+2. Where to put your end-to-end tests?
+- tests
+
+3. Add a Github Actions workflow?
+- n
+
+4. Playwright will then download playwright versions of the chromium, webkit and firefox browsers.
+
+5. A `playwright.config.js` file already exists, DO NOT OVERRIDE IT.
+- n 
+
+You are now initialized! Also, it's assumed that you've run `npm install` by now, but if you haven't already, go ahead and do that to install Playwright.
+
+#### To Test locally with `node` and `Playwright`
+    $ npm run test:ui
 
 #### With Docker
-    $ docker-compose run node npm test
+    $ docker-compose run node npm run test:ui
 
 ## Technologies you should familiarize yourself with
 

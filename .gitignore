@@ -5,3 +5,6 @@ node_modules
 .bundle
 .jekyll-cache/
 .DS_Store
+playwright-report/
+test-results/
+playwright-report/

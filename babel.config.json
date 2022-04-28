@@ -4,7 +4,11 @@
       "@babel/preset-env",
       {
         "useBuiltIns": "entry",
-        "corejs": "^3.21.1"
+        "corejs": "^3.21.1",
+        "targets": 
+          {
+            "node": "current"
+          }
       }
     ]
   ]
