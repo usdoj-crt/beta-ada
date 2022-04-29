@@ -1,15 +1,21 @@
 module Jekyll
   class DetailsTag < Liquid::Block
-    def initialize(tag_name, title, liquid_options)
+    def initialize(tag_name, block_options, liquid_options)
       super
-      @title = title
+      @expand = ''
+      @options = block_options.strip.split(' ')
+      if @options[-1,1] == ['expandable']
+        @options.delete_at(-1)
+        @expand = 'expand'
+      end
+      @title = @options.join(" ")
+      @id = @options.join("-").downcase
     end
 
     def render(context)
       content = super
-
       output = <<~EOS
-        <details>
+        <details id="#{@id}" class="#{@expand}" data-detail-open="false">
         <summary markdown="0">
           <div>
             <span class="pa11y-skip">#{@title}</span>

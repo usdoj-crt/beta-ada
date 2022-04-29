@@ -12,7 +12,7 @@ jobs:
       - name: Install Ruby Dependencies
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.6.6
+          ruby-version: 2.7.0
           bundler-cache: true
 
       - name: Install Node.js Dependencies
@@ -24,5 +24,9 @@ jobs:
       - name: Start Server
         run: bundle exec jekyll serve --config _config.yml,_config_test.yml --detach
 
-      - name: Run Accessibility Tests
-        run: npm run test:a11y
+      - name: Run Accessibility Tests -- Desktop
+        run: npm run test:a11y-desktop
+
+      - name: Run Accessibility Tests -- Mobile
+        run: npm run test:a11y-mobile
+

@@ -81,9 +81,8 @@ primary_navigation:
       en: Give Us Feedback
       es: Denos su opinión
     url:
-      en: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit
-      es: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit
-    external: true
+      en: "/feedback/"
+      es: "/feedback/"
 
 # Collections
 collections_dir: _pages
@@ -159,7 +158,11 @@ exclude:
   - docker-compose.yml
   - babel.config.json
   - webpack.config.js
+  - playwright.config.js
   - /docs
+  - /tests
+  - /test-results
+  - /playwright-report
 
 assets:
   autoprefixer:
