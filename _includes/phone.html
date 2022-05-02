@@ -1,7 +1,7 @@
 {% assign lang = "en" %}
 {% if lang==nil %}{% assign lang="en" %}{% endif %}
-<div
-  class="crt-phone display-none desktop:display-flex flex-align-center bg-primary-darker text__reverse radius-bottom-md position-absolute pin-right pin-top margin-right-4 padding-x-3 padding-y-2"
+<div markdown="0"
+  class="crt-phone display-none desktop:display-flex flex-align-start bg-primary-darker maxh-15 text__reverse radius-bottom-md radius-left-md position-absolute pin-right pin-top margin-right-4 padding-x-3 padding-y-1"
 >
   {% asset ic_phone-circle.svg class="margin-right-2" alt="{{site.data[lang]['i18n'].aria.phone}}" %}
   <div>
@@ -11,7 +11,7 @@
       >
       <br />
       {{site.data[lang]["i18n"].hotline.content}} {{ site.contact.tollfree }} | {{
-      site.contact.tty }} (TTY)
+      site.contact.tty }} (TTY) <ul class="margin-0 padding-left-2"><li class="font-sans-2xs">{{ site.contact.time1 }}</li> <li class="font-sans-2xs">{{ site.contact.time2 }}</li></ul>
     </p>
   </div>
 </div>
