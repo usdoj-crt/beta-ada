@@ -1,7 +1,7 @@
-import { getOffsetParam } from "../../utils/offsetUtils";
+import { getSearchParam } from "../../utils/searchParamUtils";
 
 export default function pageNumber(resArray) {
-    const currentOffset = parseInt(getOffsetParam());
+    const currentOffset = parseInt(getSearchParam('offset'));
     let currentPage;
     if (resArray.indexOf(currentOffset) >= 0) {
       currentPage = resArray.indexOf(currentOffset) + 1;
