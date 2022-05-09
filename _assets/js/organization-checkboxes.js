@@ -1,5 +1,3 @@
-import { replaceState } from './utils/replaceHistory';
-
 // Get our checkboxes:
 const checkboxes = document.getElementsByClassName('usa-checkbox__input');
 const checkboxState = {
@@ -9,11 +7,11 @@ const checkboxState = {
 
 Array.from(checkboxes).forEach((checkbox) => {
   checkbox.addEventListener('change', (event) => {
+      // Update the check box state
     if (event.target.checked) {
         checkboxState[event.target.value] = event.target.checked;
     } else {
         checkboxState[event.target.value] = event.target.checked;
     }
-    replaceState(checkboxState, 'updatedState', `/resources?org=title-ii=${checkboxState['title-ii']};title-iii=${checkboxState['title-iii']}`)
   });
 });
