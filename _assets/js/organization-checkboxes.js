@@ -1,48 +1,19 @@
-import { pushStateToURL, replaceState } from './utils/replaceHistory';
-import { getSearchParam, setSearchParam } from './utils/searchParamUtils';
+import { replaceState } from './utils/replaceHistory';
 
 // Get our checkboxes:
 const checkboxes = document.getElementsByClassName('usa-checkbox__input');
-const searchParams = new URLSearchParams(window.location.search);
-
-const updateState = (e) => {
-  let allParams = searchParams.getAll('org');
-  replaceState(
-    e.target.value,
-    'checked',
-    `/resources?org=${allParams}`
-  );
+const checkboxState = {
+    "title-ii": false,
+    "title-iii": false
 };
-
-const deleteParam = (e) => {
-    let allParams = searchParams.getAll('org');
-    console.log(allParams);
-    const remove = allParams.indexOf(e.target.value);
-    if (remove > -1) {
-        allParams.splice(remove, 1)
-    };
-    console.log(allParams);
-    replaceState(
-        e.target.value,
-        'checked',
-        `/resources?org=${allParams}`
-      );
-}
 
 Array.from(checkboxes).forEach((checkbox) => {
   checkbox.addEventListener('change', (event) => {
-    if (getSearchParam('org') === '' && event.target.checked) {
-      replaceState(event.target.value, 'initial', `/resources?org=${event.target.value}`);
+    if (event.target.checked) {
+        checkboxState[event.target.value] = event.target.checked;
+    } else {
+        checkboxState[event.target.value] = event.target.checked;
     }
-    console.log(searchParams.getAll('org'));
-    // If checked, add target value to url
-    if (getSearchParam('org') !== '' && event.target.checked) {
-      searchParams.append('org', event.target.value);
-      updateState(event);
-    }
-    // If unchecked remove target value from url
-    if (getSearchParam('org') !== '' && !event.target.checked) {
-      deleteParam(event);
-    }
+    replaceState(checkboxState, 'updatedState', `/resources?org=title-ii=${checkboxState['title-ii']};title-iii=${checkboxState['title-iii']}`)
   });
 });
