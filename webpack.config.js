@@ -5,7 +5,7 @@ module.exports = {
   entry: {
     pagination: './_assets/js/pagination.js',
     accordion: './_assets/js/utils/expand-accordions.js',
-    checkboxes: './_assets/js/organization-checkboxes.js'
+    taResources: './_assets/js/ta-selectors.js'
   },
   output: {
     path: path.resolve(__dirname, './_assets/js/', 'dist'),
