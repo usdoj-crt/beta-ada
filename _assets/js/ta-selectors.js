@@ -1,10 +1,10 @@
 import { replaceState } from "./utils/replaceHistory";
-import tags from "./templates/tags";
+import renderTags from "./templates/tags";
 
 // Get our checkboxes:
 const checkboxes = document.getElementsByClassName('usa-checkbox__input');
 // Get our dropdown:
-const dropdown = document.getElementById('ta-category-selector');
+const dropdown = document.getElementById('category');
 // Get our tag node:
 const tagNode = document.getElementById('selector-tags');
 // Create a new unordered list to put our tags:
@@ -22,7 +22,7 @@ const selectorState = {
 
 const updateDOMandURL = () => {
   replaceState(selectorState, 'updatedState', `/resources/?org=title-ii=${selectorState['title-ii']};title-iii=${selectorState['title-iii']};category=${selectorState['category']}`)
-  tags(list, selectorState);
+  renderTags(list, selectorState);
 }
 
 // Update checkbox state:
@@ -43,4 +43,5 @@ dropdown.addEventListener('change', (event)=> {
   selectorState['category'] = event.target.value;
   updateDOMandURL();
 });
+
 

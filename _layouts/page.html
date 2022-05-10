@@ -23,9 +23,6 @@ layout: default
         {% include toggle-language.html %}
       {% endif %}
       <h1 id="top">{{page.title}}</h1>
-      {% if page.title == 'Resources' %}
-        {% include selector-tags.html %}
-      {% endif %}
       <div class="crt-landing--separator_small"></div>
       <div class="measure-6">
         {% if page.lead %}
@@ -33,6 +30,9 @@ layout: default
             {{page.lead | markdownify}}
           </div>
         {% endif %}
+        {% if page.title == 'Resources' %}
+        {% include selector-tags.html %}
+      {% endif %}
         {{ content }}
         {% if page.related-content %}
           {% include related-content.html %}

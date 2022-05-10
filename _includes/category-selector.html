@@ -1,6 +1,6 @@
-<label class="usa-label h2" for="ta-category-selector">Category</label>
+<label class="usa-label h2" for="category">Category</label>
 <div class="usa-combo-box">
-  <select class="usa-select" name="ta-category-selector" id="ta-category-selector">
+  <select class="usa-select" name="category" id="category">
     <option value>Select a category</option>
     {% for tag in site.data.tags.allowed-tags %}
     <option value="{{tag | replace: ' ', '-'}}">{{tag | capitalize}}</option>
