@@ -8,7 +8,7 @@ lang: "en"
 ---
 The Department of Justice continues to receive many questions about how the Americans with Disabilities Act (ADA) applies to service animals. The ADA requires State and local government agencies, businesses, and non-profit organizations (covered entities) that provide goods or services to the public to make "reasonable modifications" in their policies, practices, or procedures when necessary to accommodate people with disabilities. The service animal rules fall under this general principle. Accordingly, entities that have a "no pets" policy generally must modify the policy to allow service animals into their facilities. This publication provides guidance on the ADA's service animal provisions and should be read in conjunction with the publication [ADA Revised Requirements: Service Animals](http://www.ada.gov/service_animals_2010.htm).  
 
-{% include expand-accordions-wrapper.html expand-heading='Definition of a Service Animal' %} 
+{% include expand-accordions-wrapper.html expand-heading='Definition of a Service Animal' %}
 
 {% details Q1. What is a service animal? expandable %}
 A.  Under the ADA, a service animal is defined as a dog that has been individually trained to do work or perform tasks for an individual with a disability.  The task(s) performed by the dog must be directly related to the person's disability.
