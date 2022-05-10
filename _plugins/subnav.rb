@@ -19,7 +19,7 @@ class Subnav < Jekyll::Generator
             end
           end
           content.css('h2').each do |heading|
-            doc.data["subnav"] << { "title" => heading.text, "url" => [doc.url, heading].join("#") }
+            doc.data["subnav"] << { "title" => heading.text, "url" => [doc.url, heading['id']].join("#") }
           end
         end
       end
