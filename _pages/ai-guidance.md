@@ -8,6 +8,9 @@ lang: "en"
 news-item: true
 publish-date: 2022-05-12 12:00:00
 print: true
+sidenav-pdf: 
+  title: Algorithms, Artificial Intelligence, and Disability Discrimination in Hiring
+  filename: 
 ---
 
 ## How employers use algorithms and artificial intelligence  
