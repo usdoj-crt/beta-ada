@@ -50,9 +50,9 @@ When it is not obvious what service an animal provides, only limited inquiries a
 [www.ADA.gov](https://www.ada.gov)  
 
 To receive e-mail notifications when new ADA information is available,
-visit the ADA Website’s home page to sign up for email updates.     
+visit the ADA Website’s home page to sign up for email updates.   
 
-**ADA Information LIne**
+**ADA Information Line**
 
 800-514-0301 (Voice) and 800-514-0383 (TTY)
 
