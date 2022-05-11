@@ -1,4 +1,7 @@
 export default function renderSelector(selector, state) {
-    document.getElementById(selector).checked = state[selector];
-    document.getElementById(selector).value = state[selector];
+    if (selector.includes('title')) {
+        document.getElementById(selector).checked = state[selector];
+    } else {
+        document.getElementById(selector).value = state[selector];
+    }
 }
