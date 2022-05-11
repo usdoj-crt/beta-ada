@@ -9,7 +9,7 @@ layout: default
       {% if page.print%}
         {% include print-button.html %}
       {% endif %}
-      {% if page.sidenav-pdf.title and page.sidenav-pdf.filename%}
+      {% if page.sidenav-pdf.title and page.sidenav-pdf.filename %}
         {% include download-pdf.html filename=page.sidenav-pdf.filename title=page.sidenav-pdf.title %}
       {% endif %}
     </div>
