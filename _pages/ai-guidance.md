@@ -1,7 +1,7 @@
 ---
 title: Algorithms, Artificial Intelligence, and Disability Discrimination in Hiring
 description: "This guidance explains how algorithms and artificial intelligence can lead to disability discrimination in hiring."
-permalink: /ai--guidance/
+permalink: /ai-guidance/
 lead: |-
   This guidance explains how algorithms and artificial intelligence can lead to disability discrimination in hiring.  The Department of Justice enforces disability discrimination laws with respect to state and local government employers. The Equal Employment Opportunity Commission (EEOC) enforces disability discrimination laws with respect to employers in the private sector and the federal government. The obligation to avoid disability discrimination in employment applies to both public and private employers.
 lang: "en"
