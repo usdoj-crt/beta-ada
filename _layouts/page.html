@@ -8,10 +8,13 @@ layout: default
       {% if page.title =='Resources' %}
         {% include ta-left-rail.html %}
       {% else %}
-        {% include sidenav.html %}
-        {% if page.print %}
-          {% include print-button.html %}
-        {% endif %}
+      {% include sidenav.html %}
+      {% endif %}
+      {% if page.print%}
+        {% include print-button.html %}
+      {% endif %}
+      {% if page.sidenav-pdf.title and page.sidenav-pdf.filename %}
+        {% include download-pdf.html filename=page.sidenav-pdf.filename title=page.sidenav-pdf.title %}
       {% endif %}
     </div>
     {% endif %}
@@ -19,7 +22,7 @@ layout: default
       {% if page.disclaimer %}
       {% include alert.html title="This is a test site. Do not rely on the information provided." text="This webpage is a prototype meant for user research. It has not undergone final review for legal accuracy and is not intended to provide legal guidance." %}
       {% endif %}
-      {% if page.title=="File a Complaint" or page.title=="Presente una queja"%}
+      {% if page.ref!=nil %}
         {% include toggle-language.html %}
       {% endif %}
       <h1 id="top">{{page.title}}</h1>

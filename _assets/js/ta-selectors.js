@@ -1,5 +1,5 @@
 import { replaceState } from "./utils/replaceHistory";
-import renderTags from "./templates/tags";
+import renderBadges from "./templates/badges/renderBadges";
 
 // Get our checkboxes:
 const checkboxes = document.getElementsByClassName('usa-checkbox__input');
@@ -20,9 +20,10 @@ const selectorState = {
     "category": ""
 };
 
-const updateDOMandURL = () => {
+// Update badges and update the url:
+const updateDOMandURL = (parentID) => {
   replaceState(selectorState, 'updatedState', `/resources/?org=title-ii=${selectorState['title-ii']};title-iii=${selectorState['title-iii']};category=${selectorState['category']}`)
-  renderTags(list, selectorState);
+  renderBadges(list, selectorState, parentID);
 }
 
 // Update checkbox state:
@@ -34,14 +35,14 @@ Array.from(checkboxes).forEach((checkbox) => {
     } else {
         selectorState[event.target.value] = event.target.checked;
     }
-    updateDOMandURL();
+    updateDOMandURL(event.target.id);
   });
 });
 
 // Update dropdown state:
 dropdown.addEventListener('change', (event)=> {
   selectorState['category'] = event.target.value;
-  updateDOMandURL();
+  updateDOMandURL(event.target.name);
 });
 
 
