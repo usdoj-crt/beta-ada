@@ -6,11 +6,11 @@ lead: |-
   This guidance explains how algorithms and artificial intelligence can lead to disability discrimination in hiring.  The [Department of Justice](https://www.ada.gov/employment.htm) enforces disability discrimination laws with respect to state and local government employers. The [Equal Employment Opportunity Commission](https://www.eeoc.gov/employees-job-applicants) (EEOC) enforces disability discrimination laws with respect to employers in the private sector and the federal government. The obligation to avoid disability discrimination in employment applies to both public and private employers.
 lang: "en"
 news-item: true
-publish-date: 2022-05-12 12:00:00
+publish-date: 2022-05-12 00:00:00
 print: true
-sidenav-pdf: 
+sidenav-pdf:
   title: Algorithms, Artificial Intelligence, and Disability Discrimination in Hiring
-  filename: 
+  filename:
 ---
 
 ## How employers use algorithms and artificial intelligence  
@@ -78,7 +78,7 @@ A **reasonable accommodation** is a change in the way things are usually done to
 
 Examples of accommodations include allowing use of assistive equipment, modifying policies, or making other changes to the way the hiring process or job is performed.
 
->For example, if a city government uses an online interview program that does not work with a blind applicant’s computer screen-reader program, the government must provide a reasonable accommodation for the interview, such as an accessible version of the program,1 unless it would create an undue hardship for the city government.
+>For example, if a city government uses an online interview program that does not work with a blind applicant’s computer screen-reader program, the government must provide a reasonable accommodation for the interview, such as an accessible version of the program<sup id="fnref:7"><a href="#fn:7" class="footnote" rel="footnote">7</a></sup>,unless it would create an undue hardship for the city government.
 
 Some examples of practices that employers using hiring technologies may need to implement to ensure that applicants receive needed reasonable accommodations include:
 
@@ -92,7 +92,7 @@ If you believe your employment rights have been violated because of a disability
 
 If you believe that you or someone else was discriminated against based on a disability because of a state or local government employer’s use of a hiring technology, you can also file a complaint with the Department of Justice. [Information on the DOJ complaint process is available here](https://civilrights.justice.gov/).
 
-For more detail on the topics addressed here and the impact of software, algorithms, and AI on employees, please see the EEOC’s technical assistance document, The Americans with Disabilities Act and the Use of Software, Algorithms, and Artificial Intelligence to Assess Job Applicants and Employees. [add link when issued] Anyone with questions about the impact of software, algorithms, and AI on employees can reach the EEOC at 1-202-921-3191 (voice), 1-800-669-6820 (TTY), or 1-844-234-5122 (ASL Video Phone).
+For more detail on the topics addressed here and the impact of software, algorithms, and AI on employees, please see the EEOC’s technical assistance document, [The Americans with Disabilities Act and the Use of Software, Algorithms, and Artificial Intelligence to Assess Job Applicants and Employees](https://www.eeoc.gov/laws/guidance/americans-disabilities-act-and-use-software-algorithms-and-artificial-intelligence). [add link when issued] Anyone with questions about the impact of software, algorithms, and AI on employees can reach the EEOC at 1-202-921-3191 (voice), 1-800-669-6820 (TTY), or 1-844-234-5122 (ASL Video Phone).
 
 In addition, anyone can call the ADA Information Line at 1-800-514-0301 (voice) or 1-800-514-0383 (TTY) with questions about their rights or responsibilities under the ADA. ADA Specialists are available to answer questions on Monday, Tuesday, Wednesday, and Friday from 9:30 a.m. to 5:30 p.m. (Eastern Time). On Thursday, the Information Line is staffed from 12:30 p.m. to 5:30 p.m. (Eastern Time).
 
@@ -115,6 +115,9 @@ In addition, anyone can call the ADA Information Line at 1-800-514-0301 (voice) 
 </li>
 <li id="fn:6">
 <p><i>See</i> 42 U.S.C. &sect; 12112(b)(5); 29 C.F.R. &sect; 1630.9. <a href="#fnref:6" class="reversefootnote">6</a></p>
+</li>
+<li id="fn:7">
+<p>Existing technical standards provide helpful guidance concerning how to ensure the accessibility of website features. These include the Web Content Accessibility Guidelines (WCAG) and the Section 508 Standards, which the federal government uses for its own websites.  More information is in this guidance document - https://beta.ada.gov/web-guidance/ The employer and the individual with a disability should engage in an informal process to clarify the applicant’s needs and to identify a reasonable accommodation. <a href="#fnref:7" class="reversefootnote">7</a></p>
 </li>
 </ol>
 </div>
