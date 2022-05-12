@@ -10,7 +10,7 @@ publish-date: 2022-05-12 00:00:00
 print: true
 sidenav-pdf:
   title: Algorithms, Artificial Intelligence, and Disability Discrimination in Hiring
-  filename:
+  filename: ai-guidance.pdf
 ---
 
 ## How employers use algorithms and artificial intelligence  
