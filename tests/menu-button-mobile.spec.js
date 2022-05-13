@@ -49,7 +49,6 @@ test.describe('Mobile Menu tests', () => {
     await expect(page.locator('a.usa-skipnav')).toHaveAttribute('aria-hidden', 'true');
     // Banners should not receive focus
     await expect(page.locator('section[aria-label="Official Goverment Website"]')).toHaveAttribute('aria-hidden', 'true');
-
     await expect(page.locator('section[aria-label="Beta Site"]')).toHaveAttribute('aria-hidden', 'true');
   });
 });

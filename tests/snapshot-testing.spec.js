@@ -16,6 +16,8 @@ const COMMUNICATION = 'topics/effective-communication/';
 const INFOLINE = 'infoline/';
 const COVID = 'notices/2021/08/25/covid-qa/';
 const WEB = 'web-guidance/';
+const AI = 'ai-guidance/';
+const RESOURCES = 'resources/';
 
 test('Match screenshots of each page', async ({ page }) => {
   await page.goto(HOME);
@@ -61,5 +63,11 @@ test('Match screenshots of each page', async ({ page }) => {
   expect(await page.screenshot()).toMatchSnapshot();
 
   await page.goto(`${HOME}${WEB}`);
+  expect(await page.screenshot()).toMatchSnapshot();
+
+  await page.goto(`${HOME}${AI}`);
+  expect(await page.screenshot()).toMatchSnapshot();
+
+  await page.goto(`${HOME}${RESOURCES}`);
   expect(await page.screenshot()).toMatchSnapshot();
 });
