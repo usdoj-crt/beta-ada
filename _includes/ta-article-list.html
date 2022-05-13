@@ -5,7 +5,7 @@
     <ul class="usa-collection">
         {% for resource in resources %}
         {% if resource.tags %}
-        <li class="usa-collection__item {% for tag in resource.tags %}{% if site.data.tags.allowed-tags contains tag %}{{ tag | replace: ' ', '-' }}{% endif %} {% endfor %} ">
+        <li class="usa-collection__item visibilityTarget {% for tag in resource.tags %}{% if site.data.tags.allowed-tags contains tag %}{{ tag | replace: ' ', '-' }}{% endif %} {% endfor %} ">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading">
             <a

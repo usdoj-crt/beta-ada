@@ -1,5 +1,6 @@
 import { replaceState } from "./utils/replaceHistory";
 import renderBadges from "./templates/badges/renderBadges";
+import toggleVisibility from "./utils/toggleVisibility";
 
 // Get our checkboxes:
 const checkboxes = document.getElementsByClassName('usa-checkbox__input');
@@ -36,6 +37,7 @@ Array.from(checkboxes).forEach((checkbox) => {
         selectorState[event.target.value] = event.target.checked;
     }
     updateDOMandURL(event.target.id);
+    toggleVisibility(selectorState);
   });
 });
 
@@ -43,6 +45,7 @@ Array.from(checkboxes).forEach((checkbox) => {
 dropdown.addEventListener('change', (event)=> {
   selectorState['category'] = event.target.value;
   updateDOMandURL(event.target.name);
+  toggleVisibility(selectorState);
 });
 
 
