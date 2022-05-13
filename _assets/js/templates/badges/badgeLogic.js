@@ -1,5 +1,6 @@
 import { replaceState } from '../../utils/replaceHistory';
 import renderSelector from '../../utils/updateTASelectors';
+import toggleVisibility from "../../utils/toggleVisibility";
 
 export default function badgeLogic(node, state, tagContainer, tag, value) {
   if ((state[value] !== '' || state[value] === true) && !document.getElementById(tag)) {
@@ -17,6 +18,7 @@ export default function badgeLogic(node, state, tagContainer, tag, value) {
       );
       renderSelector(value, state);
       document.getElementById(tag).remove();
+      toggleVisibility(state);
     });
   } else if (
     typeof state[value] === 'string' &&
@@ -38,8 +40,10 @@ export default function badgeLogic(node, state, tagContainer, tag, value) {
       );
       renderSelector(value, state);
       document.getElementById(tag).remove();
+      toggleVisibility(state);
     });
   } else if ((state[value] === false && document.getElementById(tag)) || (typeof state[value] === 'string' && state[value] === "" && document.getElementById(tag)) ) {
     document.getElementById(tag).remove();
+    toggleVisibility(state);
   }
 }
