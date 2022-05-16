@@ -18,50 +18,50 @@ test.describe('TA Landing Page UI Tests', () => {
     await expect(page.locator('label[for="title-iii"]')).toContainText('Businesses');
 
     // Check the boxes
-    await page.locator('#title-ii').click();
-    // Make sure the checkbox is checked:
-    await expect(page.locator('#title-ii')).toBeChecked();
+    await page.locator('label:has-text("State and local government")').click();
+    // Make sure the button is checked:
+    await expect(page.isChecked('label:has-text("State and local government")')).toBeTruthy();
     // Confirm that the URL updates in the way expected
-    await expect(
-      page.toHaveURL('http://localhost:4000/resources/?org=title-ii=true;title-iii=false;category=')
+    await expect(page).toHaveURL(
+      'http://localhost:4000/resources/?org=title-ii=true;title-iii=false;category='
     );
     // Confirm the corresponding badge appears on the page
     await expect(page.locator('#titleTwoTag')).toBeVisible();
     // Make sure the content is filtered appropriately:
-    await expect(page.locator('.title-ii')).toBeVisible();
+    const titleTwoResults = await page.locator('.title-ii').count();
+    await expect(titleTwoResults).toBeGreaterThanOrEqual(1);
 
-    await page.locator('#title-iii').click();
-    // Make sure the checkbox is checked
-    await expect(page.locator('#title-iii')).toBeChecked();
+    await page.locator('label:has-text("Businesses")').click();
+    // Make sure the button is checked:
+    await expect(page.isChecked('label:has-text("Businesses")')).toBeTruthy();
     // Confirm that the URL updates in the way expected
-    await expect(
-      page.toHaveURL('http://localhost:4000/resources/?org=title-ii=true;title-iii=true;category=')
+    await expect(page).toHaveURL(
+      'http://localhost:4000/resources/?org=title-ii=true;title-iii=true;category='
     );
     // Confirm the corresponding badge appears on the page
     await expect(page.locator('#titleThreeTag')).toBeVisible();
     // Make sure the content is filtered appropriately:
-    await expect(page.locator('.title-iii')).toBeVisible();
+    const titleThreeResults = await page.locator('.title-ii').count();
+    await expect(titleThreeResults).toBeGreaterThanOrEqual(1);
 
     // Confirm the corresponding badge is removed when the checkbox is unchecked
-    await page.locator('#title-ii').click();
-    // Make sure the checkbox is checked:
-    await expect(page.locator('#title-ii')).not.toBeChecked();
+    await page.locator('label:has-text("State and local government")').click();
+    // Make sure the button is unchecked:
+    expect(await page.isChecked('label:has-text("State and local government")')).toBeFalsy();
     // Confirm that the URL updates in the way expected
-    await expect(
-      page.toHaveURL('http://localhost:4000/resources/?org=title-ii=false;title-iii=true;category=')
+    await expect(page).toHaveURL(
+      'http://localhost:4000/resources/?org=title-ii=false;title-iii=true;category='
     );
     // Confirm the corresponding badge appears on the page
     await expect(page.locator('#titleTwoTag')).not.toBeVisible();
 
     // Confirm the corresponding badge is removed when the checkbox is unchecked
-    await page.locator('#title-iii').click();
-    // Make sure the checkbox is checked:
-    await expect(page.locator('#title-iii')).not.toBeChecked();
+    await page.locator('label:has-text("Businesses")').click();
+    // Make sure the button is checked:
+    expect(await page.isChecked('label:has-text("Businesses")')).toBeFalsy();
     // Confirm that the URL updates in the way expected
-    await expect(
-      page.toHaveURL(
-        'http://localhost:4000/resources/?org=title-ii=false;title-iii=false;category='
-      )
+    await expect(page).toHaveURL(
+      'http://localhost:4000/resources/?org=title-ii=false;title-iii=false;category='
     );
     // Confirm the corresponding badge appears on the page
     await expect(page.locator('#titleThreeTag')).not.toBeVisible();
@@ -69,12 +69,11 @@ test.describe('TA Landing Page UI Tests', () => {
 
   test('Combobox tests', async ({ page }) => {
     // Confirm the combobox updates the URL with the appropriate selection
-    await page.selectOption('select[name="category"]', 'service-animals');
+    await page.locator('[aria-label="Toggle the dropdown list"]').click();
+    await page.locator('li[role="option"]:has-text("Service animals")').click();
     // Confirm that the URL updates in the way expected
-    await expect(
-      page.toHaveURL(
-        'http://localhost:4000/resources/?org=title-ii=false;title-iii=false;category=service-animals'
-      )
+    await expect(page).toHaveURL(
+      'http://localhost:4000/resources/?org=title-ii=false;title-iii=false;category=service-animals'
     );
     // Confirm the corresponding badge appears on the page
     await expect(page.locator('#categoryTag')).toBeVisible();
@@ -82,27 +81,50 @@ test.describe('TA Landing Page UI Tests', () => {
     await expect(page.locator('#categoryTag')).toContainText('service-animal');
 
     // Click the combobox clear button
-    await page.locator('button[aria-label="Clear the select contents"]').click();
+    await page.locator('[aria-label="Clear the select contents"]').click();
 
     // Confirm the badge is removed when the combobox value is cleared
     await expect(page.locator('#categoryTag')).not.toBeVisible();
 
     // Confirm that the URL updates in the way expected
-    await expect(
-      page.toHaveURL(
-        'http://localhost:4000/resources/?org=title-ii=false;title-iii=false;category='
-      )
+    await expect(page).toHaveURL(
+      'http://localhost:4000/resources/?org=title-ii=false;title-iii=false;category='
     );
   });
 
-  //test('Badge Tests', async ({ page }) => {
-    // Check both checkboxes
-    // Select a value from the combobox
-    // Find the close button on the badge by visible text
-    // Find the close button on the badge by the aria label
-    // Click the close button
-    // Check the value of the checkboxes and combobox
-    // Confirm the url is correct
-    // After each badge is removed, check the filtered page content
-  //});
+  test('Badge Tests', async ({ page }) => {
+    // Click the Title 2 checkbox:
+    await page.locator('label:has-text("State and local government")').click();
+    // Make sure the url is updated
+    await expect(page).toHaveURL(
+      'http://localhost:4000/resources/?org=title-ii=true;title-iii=false;category='
+    );
+    // Click label:has-text("Businesses")
+    await page.locator('label:has-text("Businesses")').click();
+    await expect(page).toHaveURL(
+      'http://localhost:4000/resources/?org=title-ii=true;title-iii=true;category='
+    );
+    // Click [aria-label="Toggle the dropdown list"]
+    await page.locator('[aria-label="Toggle the dropdown list"]').click();
+    // Click li[role="option"]:has-text("Service animals")
+    await page.locator('li[role="option"]:has-text("Service animals")').click();
+    await expect(page).toHaveURL(
+      'http://localhost:4000/resources/?org=title-ii=true;title-iii=true;category=service-animals'
+    );
+    // Click text=X Press enter to remove State and Local government filter.
+    await page.locator('text=X Press enter to remove State and Local government filter.').click();
+    await expect(page).toHaveURL(
+      'http://localhost:4000/resources/?org=title-ii=false;title-iii=true;category=service-animals'
+    );
+    // Click text=X Press enter to remove Businesses filter.
+    await page.locator('text=X Press enter to remove Businesses filter.').click();
+    await expect(page).toHaveURL(
+      'http://localhost:4000/resources/?org=title-ii=false;title-iii=false;category=service-animals'
+    );
+    // Click text=X Press enter to remove service-animals filter.
+    await page.locator('text=X Press enter to remove service-animals filter.').click();
+    await expect(page).toHaveURL(
+      'http://localhost:4000/resources/?org=title-ii=false;title-iii=false;category='
+    );
+  });
 });
