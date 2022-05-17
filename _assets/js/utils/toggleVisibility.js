@@ -1,8 +1,4 @@
 export default function toggleVisibility(state) {
-    // If none, do not filter
-    // If 1 filter by one
-    // If two, filter by both
-    // If three filter by all
     const elements = Array.from(document.querySelectorAll('li.visibilityTarget'));
     const titleTwo = state['title-ii'];
     const titleThree = state['title-iii'];

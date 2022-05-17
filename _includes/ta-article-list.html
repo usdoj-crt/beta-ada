@@ -1,19 +1,19 @@
 {% assign resources=site.resources %} 
 
-<div class="grid-row grid-gap" markdown="0">
+<div class="grid-row grid-gap" role="status" markdown="0">
   <div class="tablet:grid-col-6">
     <ul class="usa-collection">
         {% for resource in resources %}
         {% if resource.tags %}
         <li class="usa-collection__item visibilityTarget {% for tag in resource.tags %}{% if site.data.tags.allowed-tags contains tag %}{{ tag | replace: ' ', '-' }}{% endif %} {% endfor %} ">
         <div class="usa-collection__body">
-          <h3 class="usa-collection__heading">
+          <h2 class="usa-collection__heading">
             <a
               class="usa-link"
               href="{{ resource.url | relative_url }}"
               >{{ resource.title }}</a
             >
-          </h3>
+          </h2>
           <p class="usa-collection__description">
             {{ resource.description }}
           </p>

@@ -127,4 +127,33 @@ test.describe('TA Landing Page UI Tests', () => {
       'http://localhost:4000/resources/?org=title-ii=false;title-iii=false;category='
     );
   });
+
+  test('URL provides state', async ({ page }) => {
+    // Checkboxes should not be checked initially:
+    await expect(page.locator('#title-ii')).not.toBeChecked();
+    await expect(page.locator('#title-iii')).not.toBeChecked();
+    // Checkboxes should be checked and badges should exist:
+    await page.goto('http://localhost:4000/resources/?org=title-ii=true;title-iii=true;category=');
+    // Make sure the buttons are checked:
+    await expect(page.isChecked('label:has-text("State and local government")')).toBeTruthy();
+    await expect(page.isChecked('label:has-text("Businesses")')).toBeTruthy();
+    // Check the value of the combobox (should be 'Select a Category')
+    await expect(page.locator('input[role="combobox"]')).toHaveValue('Select a category');
+    // Expect the checkbox badges to be visible:
+    await expect(page.locator('text=X Press enter to remove State and local government filter.')).toBeVisible();
+    await expect(page.locator('text=X Press enter to remove Businesses filter.')).toBeVisible();
+   
+    // Now lets test only the combobox:
+    await page.goto('http://localhost:4000/resources/?org=title-ii=false;title-iii=false;category=service-animals');
+    // Make sure the buttons are not checked:
+    expect( await page.isChecked('label:has-text("State and local government")')).toBeFalsy();
+    expect( await page.isChecked('label:has-text("Businesses")')).toBeFalsy();
+    // Check the value of the combobox (should be 'Service animals')
+    await expect(page.locator('input[role="combobox"]')).toHaveValue('Service animals');
+    // Expect the checkbox badges not to be visible:
+    await expect(page.locator('text=X Press enter to remove State and local government filter.')).not.toBeVisible();
+    await expect(page.locator('text=X Press enter to remove Businesses filter.')).not.toBeVisible();
+    // Expect the combobox badge to exist:
+    await expect(page.locator('text=X Press enter to remove service-animals filter.')).toBeVisible();
+  })
 });
