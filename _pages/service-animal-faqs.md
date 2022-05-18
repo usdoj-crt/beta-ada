@@ -5,6 +5,10 @@ permalink: /service-animals-faqs/
 lead: |-
   Many people with disabilities use a service animal in order to fully participate in everyday life.  Dogs can be trained to perform many important tasks to assist people with disabilities, such as providing stability for a person who has difficulty walking, picking up items for a person who uses a wheelchair, preventing a child with autism from wandering away, or alerting a person who has hearing loss when someone is approaching from behind.  
 lang: "en"
+publish-date: 2015-07-20 00:00:00
+related-content: true
+tags:
+  - service animals
 ---
 The Department of Justice continues to receive many questions about how the Americans with Disabilities Act (ADA) applies to service animals. The ADA requires State and local government agencies, businesses, and non-profit organizations (covered entities) that provide goods or services to the public to make "reasonable modifications" in their policies, practices, or procedures when necessary to accommodate people with disabilities. The service animal rules fall under this general principle. Accordingly, entities that have a "no pets" policy generally must modify the policy to allow service animals into their facilities. This publication provides guidance on the ADA's service animal provisions and should be read in conjunction with the publication [ADA Revised Requirements: Service Animals](http://www.ada.gov/service_animals_2010.htm).  
 

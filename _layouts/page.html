@@ -37,6 +37,13 @@ layout: default
           </div>
         {% endif %}
         {{ content }}
+        {% if page.publish-date %}
+        <p class="text-thin font-sans-3xs">
+          <time datetime="{{page.publish-date | date_to_long_rfc822}}"
+            >{{ page.publish-date | date: "%B %d, %Y"}}
+          </time>
+        </p>
+        {% endif %}
         {% if page.related-content %}
           {% include related-content.html %}
         {% endif %}
