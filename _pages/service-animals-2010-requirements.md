@@ -1,10 +1,15 @@
 ---
-title: ADA Requirements Service Animals
+title: "ADA Requirements: Service Animals"
 description: "The Department of Justice published revised final regulations implementing the Americans with Disabilities Act (ADA) for title II (State and local government services) and title III (public accommodations and commercial facilities) on September 15, 2010, in the Federal Register."
 permalink: /service-animals-2010-requirements/
 lead: |-
   The Department of Justice published revised final regulations implementing the Americans with Disabilities Act (ADA) for title II (State and local government services) and title III (public accommodations and commercial facilities) on September 15, 2010, in the Federal Register. These requirements, or rules, contain updated requirements, including the 2010 Standards for Accessible Design (2010 Standards).
 lang: "en"
+related-content: true
+tags: 
+  - service animals
+publish-date: 2011-07-12 00:00:00 
+updated-date: 2020-02-24 00:00:00
 ---
 ## Overview
 
@@ -50,7 +55,7 @@ When it is not obvious what service an animal provides, only limited inquiries a
 [www.ADA.gov](https://www.ada.gov)  
 
 To receive e-mail notifications when new ADA information is available,
-visit the ADA Website’s home page to sign up for email updates.   
+visit the ADA Website’s home page to sign up for email updates.
 
 **ADA Information Line**
 
@@ -61,8 +66,9 @@ M-W, F 9:30 a.m. – 5:30 p.m., Th 12:30 p.m. – 5:30 p.m. (Eastern Time) to sp
 
 For persons with disabilities, this publication is available in alternate formats.  Duplication of this document is encouraged.
 
-{% details %}
+## About this Guidance
+
 The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.
 
 This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
-{% enddetails %}
+
