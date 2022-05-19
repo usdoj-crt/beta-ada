@@ -3,6 +3,7 @@ import renderBadges from './templates/badges/renderBadges';
 import toggleVisibility from './utils/toggleVisibility';
 import checkURL from './utils/checkURLOnLoad';
 import renderSelector from './utils/updateTASelectors';
+import totalResults from './templates/search/totalResultsTemplate';
 
 // Get our checkboxes:
 const checkboxes = document.getElementsByClassName('usa-checkbox__input');
@@ -43,7 +44,10 @@ Array.from(checkboxes).forEach((checkbox) => {
       selectorState[event.target.value] = event.target.checked;
     }
     updateDOMandURL(event.target.id);
-    toggleVisibility(selectorState);
+    document.getElementById('resultsListTarget').innerHTML = totalResults(
+      toggleVisibility(selectorState),
+      'item'
+    );
   });
 });
 
@@ -51,7 +55,10 @@ Array.from(checkboxes).forEach((checkbox) => {
 dropdown.addEventListener('change', (event) => {
   selectorState['category'] = event.target.value;
   updateDOMandURL(event.target.name);
-  toggleVisibility(selectorState);
+  document.getElementById('resultsListTarget').innerHTML = totalResults(
+    toggleVisibility(selectorState),
+    'item'
+  );
 });
 
 // Update the dropdown value when the url is called:
@@ -65,7 +72,15 @@ function setSelectedValue(selectObj, valueToSet) {
   }
 }
 
+function getInitiallyVisibleItems() {
+  document.getElementById('resultsListTarget').innerHTML = totalResults(
+    Array.from(document.querySelectorAll('li.visibilityTarget')).length,
+    'item'
+  );
+}
+
 window.onload = function () {
+  getInitiallyVisibleItems();
   const params = checkURL('org');
   if (params.length === 3) {
     if (params[0].includes('true')) {
@@ -86,6 +101,9 @@ window.onload = function () {
       document.querySelector('input[role="combobox"]').setAttribute('aria-activedescendant', '');
       setSelectedValue(document.querySelector('select[name="category"]'), selectorState.category);
     }
-    toggleVisibility(selectorState);
+    document.getElementById('resultsListTarget').innerHTML = totalResults(
+      toggleVisibility(selectorState),
+      'item'
+    );
   }
 };
