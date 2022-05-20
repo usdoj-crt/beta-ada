@@ -20,18 +20,20 @@ tagNode.append(list);
 // Initialize state:
 const selectorState = {
   'title-ii': false,
-  'title-iii': false,
-  category: '',
+  'title-iii': false
 };
+
+// Category Array:
+const categoryArray = [];
 
 // Update badges and update the url:
 const updateDOMandURL = (parentID) => {
   replaceState(
     selectorState,
     'updatedState',
-    `/resources/?org=title-ii=${selectorState['title-ii']};title-iii=${selectorState['title-iii']};category=${selectorState['category']}`
+    `/resources/?org=title-ii=${selectorState['title-ii']};title-iii=${selectorState['title-iii']};category=${categoryArray.join(',')}`
   );
-  renderBadges(list, selectorState, parentID);
+  renderBadges(list, selectorState, categoryArray, parentID);
 };
 
 // Update checkbox state:
@@ -53,7 +55,9 @@ Array.from(checkboxes).forEach((checkbox) => {
 
 // Update dropdown state:
 dropdown.addEventListener('change', (event) => {
-  selectorState['category'] = event.target.value;
+  if (event.target.value !== '' && (categoryArray.includes(event.target.value) === false)) {
+    categoryArray.push(event.target.value);
+  }
   updateDOMandURL(event.target.name);
   document.getElementById('resultsListTarget').innerHTML = totalResults(
     toggleVisibility(selectorState),
@@ -85,22 +89,22 @@ window.onload = function () {
   if (params.length === 3) {
     if (params[0].includes('true')) {
       selectorState['title-ii'] = true;
-      renderBadges(list, selectorState, 'title-ii');
+      renderBadges(list, selectorState, categoryArray, 'title-ii');
       renderSelector('title-ii', selectorState);
     }
     if (params[1].includes('true')) {
       selectorState['title-iii'] = true;
-      renderBadges(list, selectorState, 'title-iii');
+      renderBadges(list, selectorState, categoryArray, 'title-iii');
       renderSelector('title-iii', selectorState);
     }
-    if (params[2].split('=').length >= 2) {
-      const category = params[2].split('=');
-      selectorState['category'] = category[1];
-      renderBadges(list, selectorState, 'category');
-      document.querySelector('div.usa-combo-box').classList.add('usa-combo-box--pristine');
-      document.querySelector('input[role="combobox"]').setAttribute('aria-activedescendant', '');
-      setSelectedValue(document.querySelector('select[name="category"]'), selectorState.category);
-    }
+    // if (params[2].split('=').length >= 2) {
+    //   const category = params[2].split('=');
+    //   selectorState['category'] = category[1];
+    //   renderBadges(list, selectorState, categoryArray, 'category');
+    //   document.querySelector('div.usa-combo-box').classList.add('usa-combo-box--pristine');
+    //   document.querySelector('input[role="combobox"]').setAttribute('aria-activedescendant', '');
+    //   setSelectedValue(document.querySelector('select[name="category"]'), selectorState.category);
+    // }
     document.getElementById('resultsListTarget').innerHTML = totalResults(
       toggleVisibility(selectorState),
       'item'

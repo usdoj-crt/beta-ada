@@ -3,7 +3,7 @@
   <p>Filter the page content by category</p></label
 >
 <div class="usa-combo-box">
-  <select class="usa-select" name="category" id="category">
+  <select class="usa-select" name="category" id="category" multiple>
     <option value>Select a category</option>
     {% for tag in site.data.tags.allowed-tags %}
     <option value="{{tag | replace: ' ', '-'}}">{{tag | capitalize}}</option>
