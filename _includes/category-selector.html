@@ -6,7 +6,9 @@
   <select class="usa-select" name="category" id="category" multiple>
     <option value>Select a category</option>
     {% for tag in site.data.tags.allowed-tags %}
+    {% unless tag=='title ii' or tag=='title iii' %}
     <option value="{{tag | replace: ' ', '-'}}">{{tag | capitalize}}</option>
+    {% endunless %}
     {% endfor %}
   </select>
 </div>

@@ -1,7 +1,16 @@
 export default function renderSelector(selector, state) {
-    if (selector.includes('title')) {
-        document.getElementById(selector).checked = state[selector];
-    } else {
-        document.getElementById(selector).value = state[selector];
-    }
+  let id = selector.id.replace('-badge', '');
+  // Update the check box state
+  if (id === 'title-ii' || id === 'title-iii') {
+      if (document.getElementById(id).dataset.checked === 'true') {
+        document.getElementById(id).checked = false;
+        document.getElementById(id).dataset.checked = false;
+      } else if (document.getElementById(id).dataset.checked === 'false') {
+        document.getElementById(id).checked = true;
+        document.getElementById(id).dataset.checked = true;
+      }
+  } else {
+      // Update combobox value
+      document.getElementById('category').value = ""
+  }
 }

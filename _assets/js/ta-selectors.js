@@ -18,51 +18,42 @@ list.classList.add('usa-button-group');
 tagNode.append(list);
 
 // Initialize state:
-const selectorState = {
-  'title-ii': false,
-  'title-iii': false
-};
-
-// Category Array:
-const categoryArray = [];
+let selectorState = [];
 
 // Update badges and update the url:
-const updateDOMandURL = (parentID) => {
+const updateDOMandURL = () => {
   replaceState(
     selectorState,
     'updatedState',
-    `/resources/?org=title-ii=${selectorState['title-ii']};title-iii=${selectorState['title-iii']};category=${categoryArray.join(',')}`
+    `/resources/?filters=${selectorState.join(';')}`
   );
-  renderBadges(list, selectorState, categoryArray, parentID);
+  renderBadges(list, selectorState);
 };
 
 // Update checkbox state:
 Array.from(checkboxes).forEach((checkbox) => {
   checkbox.addEventListener('change', (event) => {
     // Update the check box state
-    if (event.target.checked) {
-      selectorState[event.target.value] = event.target.checked;
-    } else {
-      selectorState[event.target.value] = event.target.checked;
+    if (event.target.dataset.checked === 'true') {
+      event.target.dataset.checked = false;
+      let index = selectorState.indexOf(event.target.value)
+      selectorState.splice(index, 1);
+      // Find and remove badge:
+      document.getElementById(`${event.target.value}-badge`).remove();
+    } else if (event.target.dataset.checked === 'false') {
+      event.target.dataset.checked = true;
+      selectorState.push(event.target.value);
     }
-    updateDOMandURL(event.target.id);
-    document.getElementById('resultsListTarget').innerHTML = totalResults(
-      toggleVisibility(selectorState),
-      'item'
-    );
+    updateDOMandURL();
   });
 });
 
 // Update dropdown state:
 dropdown.addEventListener('change', (event) => {
-  if (event.target.value !== '' && (categoryArray.includes(event.target.value) === false)) {
-    categoryArray.push(event.target.value);
+  if (event.target.value !== '' && (selectorState.includes(event.target.value) === false)) {
+    selectorState.push(event.target.value);
   }
-  updateDOMandURL(event.target.name);
-  document.getElementById('resultsListTarget').innerHTML = totalResults(
-    toggleVisibility(selectorState),
-    'item'
-  );
+  updateDOMandURL();
 });
 
 // Update the dropdown value when the url is called:
