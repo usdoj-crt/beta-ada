@@ -52,12 +52,21 @@ Array.from(checkboxes).forEach((checkbox) => {
 dropdown.addEventListener('change', (event) => {
   if (event.target.value !== '' && selectorState.includes(event.target.value) === false) {
     selectorState.push(event.target.value);
+    let listItems = document.querySelectorAll('.usa-combo-box__list-option');
+    listItems.forEach(item => {
+      if (selectorState.includes(item.dataset.value)) {
+        item.setAttribute('aria-selected', 'true');
+        item.setAttribute('tabindex', '0');
+        item.classList.add('usa-combo-box__list-option--selected');
+      }      
+    })
   }
   updateDOMandURL();
 });
 
 
 function setSelectedValue(state) {
+  // Set checkboxes on load:
  if (state.includes('title-ii')) {
   document.getElementById('title-ii').checked = true; 
   document.getElementById('title-ii').dataset.checked = true;
@@ -66,6 +75,7 @@ function setSelectedValue(state) {
   document.getElementById('title-iii').checked = true;
   document.getElementById('title-iii').dataset.checked = true;
  }
+ // Set dropdown on load:
  for (let item in state) {
    if (TAGS.includes(state[item]) && state[item] !=='title-ii' && state[item]!=='title-iii') {
      let normalizedTag = state[item].split('-').join(" ");

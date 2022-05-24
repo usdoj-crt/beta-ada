@@ -10,10 +10,21 @@ export default function badgeLogic(node, element, state) {
       document.getElementById(element.id).remove();
       let value = element.id.replace('-badge', '');
       let index = state.indexOf(value);
+      let listItems = document.querySelectorAll('.usa-combo-box__list-option');
+      listItems.forEach((item) => {
+        if (value === item.dataset.value) {
+          item.setAttribute('aria-selected', 'false');
+          item.setAttribute('tabindex', '-1');
+          item.classList.remove('usa-combo-box__list-option--selected');
+        }
+      });
       state.splice(index, 1);
       replaceState(state, 'updatedState', `/resources/?filters=${state.join(';')}`);
       renderSelector(element, state);
-      document.getElementById('resultsListTarget').innerHTML = totalResults(toggleVisibility(state), 'item');
+      document.getElementById('resultsListTarget').innerHTML = totalResults(
+        toggleVisibility(state),
+        'item'
+      );
     });
   }
 }
