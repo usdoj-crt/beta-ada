@@ -1,9 +1,4 @@
 allowed-tags:
-  - service animals
-  - title ii
-  - title iii
-  - web guidance
-  - intro
   - child care centers
   - curb ramps
   - education
@@ -12,3 +7,8 @@ allowed-tags:
   - emergency management
   - employment
   - healthcare
+  - intro
+  - service animals
+  - title ii
+  - title iii
+  - web guidance

@@ -6,7 +6,13 @@ export default function renderBages(node, state) {
     let tagBadge = document.createElement('li');
     tagBadge.classList.add('usa-button-group__item', 'categoryTag');
     tagBadge.setAttribute('id', `${state[item]}-badge`);
-    tagBadge.innerHTML = badge(state[item]);
+    if (state[item]=== 'title-ii') {
+      tagBadge.innerHTML = badge('State and local government');
+    } else if (state[item]==='title-iii') {
+      tagBadge.innerHTML = badge('Businesses');
+    } else {
+      tagBadge.innerHTML = badge(state[item]);
+    }
     badgeLogic(node, tagBadge, state);
   }
 }
