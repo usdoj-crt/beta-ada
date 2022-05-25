@@ -69,8 +69,8 @@ test.describe('TA Landing Page UI Tests', () => {
 
   test('Combobox tests', async ({ page }) => {
     // Confirm the combobox updates the URL with the appropriate selection
-    await page.locator('[aria-label="Toggle the dropdown list"]').click();
-    await page.locator('li[role="option"]:has-text("Service animals")').click();
+    await page.locator('span:has-text("Select a category")').click();
+    await page.locator('label:has-text("Service animals")').click();
     // Confirm that the URL updates in the way expected
     await expect(page).toHaveURL(
       'http://localhost:4000/resources/?filters=service-animals'
@@ -79,8 +79,9 @@ test.describe('TA Landing Page UI Tests', () => {
     await expect(page.locator('#service-animals-badge')).toBeVisible();
 
     // Add another badge:
-    await page.locator('[aria-label="Toggle the dropdown list"]').click();
-    await page.locator('li[role="option"]:has-text("Eligibility criteria")').click();
+    await page.locator('label:has-text("Eligibility criteria")').click();
+    // Confirm the corresponding badge appears on the page
+    await expect(page.locator('#eligibility-criteria-badge')).toBeVisible()
     // Confirm that the URL updates in the way expected
     await expect(page).toHaveURL(
       'http://localhost:4000/resources/?filters=service-animals;eligibility-criteria'
@@ -100,9 +101,9 @@ test.describe('TA Landing Page UI Tests', () => {
       'http://localhost:4000/resources/?filters=title-ii;title-iii'
     );
     // Click [aria-label="Toggle the dropdown list"]
-    await page.locator('[aria-label="Toggle the dropdown list"]').click();
+    await page.locator('span:has-text("Select a category")').click();
     // Click li[role="option"]:has-text("Service animals")
-    await page.locator('li[role="option"]:has-text("Service animals")').click();
+    await page.locator('label:has-text("Service animals")').click();
     await expect(page).toHaveURL(
       'http://localhost:4000/resources/?filters=title-ii;title-iii;service-animals'
     );
@@ -129,7 +130,7 @@ test.describe('TA Landing Page UI Tests', () => {
     await expect(page.isChecked('label:has-text("State and local government")')).toBeTruthy();
     await expect(page.isChecked('label:has-text("Businesses")')).toBeTruthy();
     // Check the value of the combobox (should be 'Select a Category')
-    await expect(page.locator('input[role="combobox"]')).toHaveValue('Select a category');
+    await expect(page.locator('span:has-text("Select a category")')).toBeVisible();
     // Expect the checkbox badges to be visible:
     await expect(page.locator('text=X Press enter to remove State and local government filter.')).toBeVisible();
     await expect(page.locator('text=X Press enter to remove Businesses filter.')).toBeVisible();
@@ -140,7 +141,7 @@ test.describe('TA Landing Page UI Tests', () => {
     expect( await page.isChecked('label:has-text("State and local government")')).toBeFalsy();
     expect( await page.isChecked('label:has-text("Businesses")')).toBeFalsy();
     // Check the value of the combobox (should be 'Service animals')
-    await expect(page.locator('input[role="combobox"]')).toHaveValue('Service animals');
+    await expect(page.isChecked('label:has-text("Service animals")')).toBeTruthy();
     // Expect the checkbox badges not to be visible:
     await expect(page.locator('text=X Press enter to remove State and local government filter.')).not.toBeVisible();
     await expect(page.locator('text=X Press enter to remove Businesses filter.')).not.toBeVisible();

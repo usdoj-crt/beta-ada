@@ -6,7 +6,7 @@ import totalResults from '../search/totalResultsTemplate';
 export default function badgeLogic(node, element, state) {
   if (!document.getElementById(element.id)) {
     node.appendChild(element);
-    document.querySelector(`#${element.id} button`).addEventListener('click', function (event) {
+    document.querySelector(`#${element.id} button`).addEventListener('click', function () {
       document.getElementById(element.id).remove();
       let value = element.id.replace('-badge', '');
       let index = state.indexOf(value);

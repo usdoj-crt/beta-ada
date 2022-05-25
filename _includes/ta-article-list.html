@@ -1,8 +1,9 @@
 {% assign resources=site.resources %} 
 <div id="resultsListTarget" role="status" class="margin-y-1"></div>
+{% include selector-tags.html %}
 <div class="grid-row grid-gap" markdown="0">
   <div class="tablet:grid-col-6">
-    <ul class="usa-collection">
+    <ul class="usa-collection" aria-label="List of resources">
         {% for resource in resources %}
         {% if resource.tags %}
         <li class="usa-collection__item visibilityTarget {% for tag in resource.tags %}{% if site.data.tags.allowed-tags contains tag %}{{ tag | replace: ' ', '-' }}{% endif %} {% endfor %} ">

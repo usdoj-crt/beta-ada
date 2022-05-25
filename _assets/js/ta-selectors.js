@@ -14,6 +14,7 @@ const dropdownButton = document.getElementById('category-expand');
 const tagNode = document.getElementById('selector-tags');
 // Create a new unordered list to put our tags:
 const list = document.createElement('ul');
+list.setAttribute('aria-label','List of applied filters.');
 list.classList.add('usa-button-group');
 // Add the list to our container div:
 tagNode.append(list);
