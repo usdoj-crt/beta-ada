@@ -4,11 +4,12 @@ import toggleVisibility from './utils/toggleVisibility';
 import checkURL from './utils/checkURLOnLoad';
 import totalResults from './templates/search/totalResultsTemplate';
 import { TAGS } from './utils/constants';
+import expandTarget from './utils/expandTarget';
 
 // Get our checkboxes:
 const checkboxes = document.getElementsByClassName('usa-checkbox__input');
 // Get our dropdown:
-const dropdown = document.getElementById('category');
+const dropdownButton = document.getElementById('category-expand');
 // Get our tag node:
 const tagNode = document.getElementById('selector-tags');
 // Create a new unordered list to put our tags:
@@ -48,42 +49,17 @@ Array.from(checkboxes).forEach((checkbox) => {
   });
 });
 
-// Update dropdown state:
-dropdown.addEventListener('change', (event) => {
-  if (event.target.value !== '' && selectorState.includes(event.target.value) === false) {
-    selectorState.push(event.target.value);
-    let listItems = document.querySelectorAll('.usa-combo-box__list-option');
-    listItems.forEach(item => {
-      if (selectorState.includes(item.dataset.value)) {
-        item.setAttribute('aria-selected', 'true');
-        item.setAttribute('tabindex', '0');
-        item.classList.add('usa-combo-box__list-option--selected');
-      }      
-    })
-  }
-  updateDOMandURL();
-});
-
+dropdownButton.addEventListener('click', ()=> {
+  expandTarget("category-list-container");
+})
 
 function setSelectedValue(state) {
   // Set checkboxes on load:
- if (state.includes('title-ii')) {
-  document.getElementById('title-ii').checked = true; 
-  document.getElementById('title-ii').dataset.checked = true;
- }
- if (state.includes('title-iii')){
-  document.getElementById('title-iii').checked = true;
-  document.getElementById('title-iii').dataset.checked = true;
- }
- // Set dropdown on load:
  for (let item in state) {
-   if (TAGS.includes(state[item]) && state[item] !=='title-ii' && state[item]!=='title-iii') {
-     let normalizedTag = state[item].split('-').join(" ");
-     document.getElementById('category').value = `${normalizedTag[0].toUpperCase() + normalizedTag.substring(1)}`;
-     document.querySelector('.usa-combo-box').classList.add('usa-combo-box--pristine');
-   } else {
-    document.getElementById('category').value = 'Select a category';
-   }
+   if (TAGS.includes(state[item])) {
+    document.getElementById(state[item]).checked = true; 
+    document.getElementById(state[item]).dataset.checked = true;
+   } 
  }
 }
 
