@@ -7,6 +7,8 @@
   min-width: 6rem;
   position: relative;
   width: 18rem;
+  margin-right: 1rem;
+  margin-bottom: 2rem;
 
   &:focus-within {
     .content {
@@ -25,6 +27,10 @@
     border: 1px solid;
   }
 
+  button {
+    width: 100%;
+  }
+
   .crt-dropdown-container {
     display: flex;
     flex-direction: column;
@@ -33,8 +39,6 @@
   &__title {
     @include flex-container();
     background-color: color('white');
-    border: 0;
-    border-radius: 0;
     box-shadow: none;
     cursor: pointer;
     font-size: $theme-text-font-size-md;
@@ -78,16 +82,6 @@
     width: 1rem;
   }
 }
-
-.crt-dropdown {
-  margin-right: 1rem;
-  margin-bottom: 2rem;
-
-  button {
-    width: 100%;
-  }
-}
-
 .crt-dropdown:last-of-type {
   margin-top: 0rem;
 }
