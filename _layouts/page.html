@@ -40,8 +40,6 @@ layout: default
             {{page.lead | markdownify}}
           </div>
         {% endif %}
-        {% if page.title == 'Resources' %}
-      {% endif %}
         {{ content }}
         {% if page.related-content %}
           {% include related-content.html %}
