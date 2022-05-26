@@ -9,6 +9,7 @@ import expandTarget from './utils/expandTarget';
 // Get our checkboxes:
 const checkboxes = document.getElementsByClassName('usa-checkbox__input');
 // Get our dropdown:
+const dropdownContainer = document.getElementsByClassName('crt-dropdown')[0];
 const dropdownButton = document.getElementById('category-expand');
 // Get our tag node:
 const tagNode = document.getElementById('selector-tags');
@@ -31,6 +32,15 @@ const updateDOMandURL = () => {
     'item'
   );
 };
+
+// Close the dropdown if user clicks outside of it:
+// close the custom select when clicking outside.
+document.addEventListener("click", (e) => {
+  const didClickedOutside = !dropdownContainer.contains(e.target);
+  if (didClickedOutside && !document.getElementById("category-list-container").hasAttribute('hidden')) {
+    expandTarget("category-list-container");
+  }
+});
 
 // Update checkbox state:
 Array.from(checkboxes).forEach((checkbox) => {
