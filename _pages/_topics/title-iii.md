@@ -1,18 +1,18 @@
 ---
-title: State and Local Governments
-description: If you are part of a state/local government program or a person with a disability, there are many aspects of the ADA that you should be familiar with.
+title: Businesses That Are Open to the Public
+description: If you are a business or a person with a disability, there are many aspects of the ADA that you should be familiar with. The information below is intended to help get you started.
 lead: |-
-  The ADA is meant to ensure that people with disabilities can fully participate in all aspects of civic life. Under Title II, all state/local governments must follow the ADA regardless of their size.  
+  The ADA is meant to ensure that people with disabilities can fully participate in all aspects of life.  Almost all types of businesses that serve the public, regardless of their size or the age of their buildings, must follow the ADA.
 
-  If you are part of a state/local government program or a person with a disability, there are many aspects of the ADA that you should be familiar with. The information below is intended to help get you started.
+  If you are a business or a person with a disability, there are many aspects of the ADA that you should be familiar with. The information below is intended to help get you started.  
 print: true
 card:
-  title: State and Local Governments
+  title: Businesses That Are Open to the Public
   description: |-
-    If you are part of a state/local government program or a person with a disability, there are many aspects of the ADA that you should be familiar with.
+    If you are a business or a person with a disability, there are many aspects of the ADA that you should be familiar with. The information below is intended to help get you started.
   image: landing/intro_ada.jpg
   alt: "Image TBD"
-  href: /topics/title-ii/
+  href: /topics/title-iii/
 ---
 
 ## Title II Applies to State/Local Programs
