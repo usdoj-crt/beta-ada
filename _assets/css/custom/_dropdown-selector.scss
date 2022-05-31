@@ -89,3 +89,15 @@
 #expand-less {
   display: none;
 }
+
+#category-filter-list {
+
+  list-style-type: none;
+
+  li::-webkit-details-marker { 
+    display:none; 
+  };
+  li::marker {
+    display:none;
+  }
+}
