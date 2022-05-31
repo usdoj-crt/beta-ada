@@ -1,0 +1,16 @@
+#selector-tags {
+  .button-wrapper {
+    display: flex;
+    flex-direction: row;
+    @include at-media(mobile) {
+      width: max-content;
+    }
+    @include at-media(tablet) {
+      width: 100%;
+    }
+    justify-content: flex-start;
+  }
+  .button-wrapper button {
+    width: min-content;
+  }
+}
