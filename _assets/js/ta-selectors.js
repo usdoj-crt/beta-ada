@@ -64,11 +64,6 @@ window.onload = function () {
     if (didClickedOutside && !listContainer.hasAttribute('hidden')) {
       expandTarget(listContainer.id);
     }
-  });
-  // Hide all options from the tab order:
-  optionsArray.forEach((option) => {
-    option.setAttribute('tabindex', '-1');
-  });
-  
+  });  
   updateDOMandURL(selectorState);
 };
