@@ -78,11 +78,17 @@ primary_navigation:
       en: "/cases/"
       es: "/cases/"
   - name:
-      en: Give Us Feedback
-      es: Denos su opinión
+      en: Resources
+      es: Resources
     url:
-      en: "/feedback/"
-      es: "/feedback/"
+      en: "/resources/"
+      es: "/resources/"
+  # - name:
+  #     en: Give Us Feedback
+  #     es: Denos su opinión
+  #   url:
+  #     en: "/feedback/"
+  #     es: "/feedback/"
 
 # Collections
 collections_dir: _pages

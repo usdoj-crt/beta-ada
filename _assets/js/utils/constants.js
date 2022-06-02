@@ -4,6 +4,8 @@ const SEARCH_ENDPOINT = 'https://search.usa.gov/api/v2/search/i14y';
 const ACCESS_KEY = 'R9JA5YunOBaTGydUNm-oJjGCqKQ-zXsulsNskJVe5-c=';
 const AFFILIATE = 'justice-ada-beta';
 const TAGS = [
+  'artificial-intelligence',
+  'hiring',
   'service-animals',
   'title-ii',
   'title-iii',

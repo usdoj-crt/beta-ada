@@ -1,18 +1,20 @@
 import { replaceState } from '../../utils/replaceHistory';
-import renderSelector from '../../utils/updateTASelectors';
-import toggleVisibility from '../../utils/toggleVisibility';
+import toggleSelectorState from '../../utils/taSelectors/updateTASelectors';
+import toggleVisibility from '../../utils/taSelectors/toggleVisibility';
 import totalResults from '../search/totalResultsTemplate';
 
-export default function badgeLogic(node, element, state) {
+export default function badgeLogic(element, state) {
+  // Get our unordered list to put badges in:
+  const badgeList = document.querySelector('#selector-badges ul');
   if (!document.getElementById(element.id)) {
-    node.appendChild(element);
+    badgeList.appendChild(element);
     document.querySelector(`#${element.id} button`).addEventListener('click', function () {
       document.getElementById(element.id).remove();
-      let value = element.id.replace('-badge', '');
-      let index = state.indexOf(value);
+      const value = element.id.replace('-badge', '');
+      const index = state.indexOf(value);
       state.splice(index, 1);
       replaceState(state, 'updatedState', `/resources/?filters=${state.join(';')}`);
-      renderSelector(element, state);
+      toggleSelectorState(element, state);
       document.getElementById('resultsListTarget').innerHTML = totalResults(
         toggleVisibility(state),
         'item'

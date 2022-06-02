@@ -1,7 +1,8 @@
 {% assign pages=site.pages %}
 {% assign posts=site.posts %}
 {% assign topics=site.topics %}
-{% assign pagesAndPosts = pages | concat: posts | concat: topics | where_exp:"item", "item.news-item" | sort:"publish-date" %}
+{% assign resources=site.resources %}
+{% assign pagesAndPosts = pages | concat: posts | concat: topics | concat: resources | where_exp:"item", "item.news-item" | sort:"publish-date" %}
 {% assign pagesAndPostsSize = pagesAndPosts | size %}
 
 {% unless pagesAndPostsSize==0 %}

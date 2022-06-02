@@ -1,7 +1,7 @@
 import badgeLogic from './badgeLogic';
 import badge from './badgeTemplate';
 
-export default function renderBages(node, state) {
+export default function renderBages(state) {
   for (const item in state) {
     let tagBadge = document.createElement('li');
     tagBadge.classList.add('usa-button-group__item', 'categoryTag');
@@ -13,6 +13,6 @@ export default function renderBages(node, state) {
     } else {
       tagBadge.innerHTML = badge(state[item]);
     }
-    badgeLogic(node, tagBadge, state);
+    badgeLogic(tagBadge, state);
   }
 }

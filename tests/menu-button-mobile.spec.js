@@ -7,7 +7,7 @@ const LINKS = [
   'Laws & Regulations',
   'File a Complaint',
   'Cases',
-  'Give Us Feedback',
+  'Resources',
 ];
 const INFOLINE = 'ADA Information Line';
 
