@@ -5,7 +5,7 @@
   <svg class="usa-icon margin-right-1" aria-hidden="true" role="img">
     <use xlink:href="{% asset img/sprite.svg @path %}#arrow_back"></use>
   </svg>
-  <ol vocab="http://schema.org/"
+  <ol class="padding-left-1" vocab="http://schema.org/"
   typeof="BreadcrumbList" class="usa-breadcrumb__list">
     {% assign crumbs = page.url | remove:'/index.html' | remove:'/es' | remove: '/notices' | remove: '/2021' | remove: '/08' | remove: '/25' | split: '/' %}
     <li property="itemListElement"
