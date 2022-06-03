@@ -1,0 +1,22 @@
+{% assign lang = page.lang %}
+{% if lang==nil %}{% assign lang="en" %}{% endif %}
+
+<nav class="usa-breadcrumb" aria-label="Breadcrumbs">
+  <svg class="usa-icon margin-right-1" aria-hidden="true" role="img">
+    <use xlink:href="{% asset img/sprite.svg @path %}#arrow_back"></use>
+  </svg>
+  <ol class="usa-breadcrumb__list">
+    {% assign crumbs = page.url | remove:'/index.html' | remove:'/es' | remove: '/notices' | remove: '/2021' | remove: '/08' | remove: '/25' | split: '/' %}
+    <li class="usa-breadcrumb__list-item"><a href="/">{{ site.primary_navigation[0].name[lang] }}</a></li>
+    {% for crumb in crumbs offset: 1 %}
+    <li class="usa-breadcrumb__list-item">
+      {% if forloop.last %} {{ page.title }} {% else %}
+      <a
+        href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}"
+        >{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a
+      >
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ol>
+</nav>
