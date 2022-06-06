@@ -1,4 +1,4 @@
-import badgeLogic from './badgeLogic';
+import attachBadge from './attachBadge';
 import badge from './badgeTemplate';
 
 export default function renderBages(state) {
@@ -13,6 +13,6 @@ export default function renderBages(state) {
     } else {
       tagBadge.innerHTML = badge(state[item]);
     }
-    badgeLogic(tagBadge, state);
+    attachBadge(tagBadge, state);
   }
 }

@@ -8,7 +8,7 @@ export default function toggleVisibility(state) {
     }
     else {
       element.style.display='none';
-      let classes = Array.from(element.classList);
+      const classes = Array.from(element.classList);
       classes.forEach(item => {
         if (state.includes(item) && !visibleElements.includes(element)) {
           element.style.display = 'block';

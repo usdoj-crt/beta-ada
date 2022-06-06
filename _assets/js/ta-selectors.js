@@ -1,7 +1,7 @@
 import { TAGS } from './utils/constants';
 import expandTarget from './utils/taSelectors/expandTarget';
 import updateDOMandURL from './utils/taSelectors/updateDomAndURL';
-import doKeyAction from './utils/taSelectors/doKeyAction';
+import dropDownKeyListener from './utils/taSelectors/dropDownKeyListener';
 import { getSearchParam } from './utils/searchParamUtils';
 
 // Get our checkboxes:
@@ -20,7 +20,7 @@ let selectorState = [];
 
 // Replicate keyboard functionality from select elements:
 dropdownContainer.addEventListener('keyup', (e) => {
-  doKeyAction(e.key, selectorState, listContainer, optionsArray, dropdownButton);
+  dropDownKeyListener(e.key, selectorState, listContainer, optionsArray, dropdownButton);
 });
 
 // Add event listener to checkboxes to update state:
@@ -29,7 +29,7 @@ Array.from(checkboxes).forEach((checkbox) => {
     // Update the check box state
     if (event.target.dataset.checked === 'true') {
       event.target.dataset.checked = false;
-      let index = selectorState.indexOf(event.target.value);
+      const index = selectorState.indexOf(event.target.value);
       selectorState.splice(index, 1);
       // Find and remove badge:
       document.getElementById(`${event.target.value}-badge`).remove();
@@ -50,7 +50,14 @@ window.onload = function () {
   // If selector state is empty string, set to empty array
   if (selectorState[0] === '') {
     selectorState = [];
-  };
+  }
+  // Remove items not allowed in the tags list:
+  const tempState = selectorState.filter((item) => {
+    if (TAGS.includes(item)) {
+      return item;
+    }
+  });
+  selectorState = tempState;
   // Set checkboxes on load:
   for (let item in selectorState) {
     if (TAGS.includes(selectorState[item])) {
@@ -64,6 +71,6 @@ window.onload = function () {
     if (didClickedOutside && !listContainer.hasAttribute('hidden')) {
       expandTarget(listContainer.id);
     }
-  });  
+  });
   updateDOMandURL(selectorState);
 };

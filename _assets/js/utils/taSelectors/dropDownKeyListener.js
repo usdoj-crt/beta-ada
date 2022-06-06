@@ -3,7 +3,7 @@ import findFocus from '../findFocus';
 import expandTarget from './expandTarget';
 import updateDOMandURL from './updateDomAndURL';
 
-export default function doKeyAction(whichKey, state, listContainer, optionsArray, dropdownButton) {
+export default function dropDownKeyListener(whichKey, state, listContainer, optionsArray, dropdownButton) {
     const currentFocus = findFocus();
     switch (whichKey) {
       case 'Enter':

@@ -11,7 +11,7 @@ const TAGS = [
   'title-iii',
   'web-guidance',
   'intro',
-  'child-care-centers',
+  'child-care',
   'curb-ramps',
   'education',
   'effective-communication',
@@ -19,6 +19,8 @@ const TAGS = [
   'emergency-management',
   'employment',
   'healthcare',
+  'parking',
+  'mobility-devices',
 ];
 
 export { NUMBER_OF_RESULTS, SEARCH_ENDPOINT, ACCESS_KEY, AFFILIATE, TAGS };
