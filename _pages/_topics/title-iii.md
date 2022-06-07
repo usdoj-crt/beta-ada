@@ -39,11 +39,13 @@ Examples of commercial facilities include:
   - Warehouses
   - Factories
 
-Learn about the few categories that Title III does not apply to:
+### Learn about the few categories that Title III does not apply to:
 
-{% details Title III does not apply to %}
-- [Religious organizations]( {{'/topics/intro-to-ada'| relative_url}})
-- Private clubs (Specific requirements must be met. Charging membership/annual fees does not automatically mean the business is exempt.)
+{% details Title III does not apply to: %}
+{% list cancel %}
+{% list_item %}[Religious organizations]( {{'/topics/intro-to-ada'| relative_url}}){% endlist_item %}
+{% list_item %} Private clubs (Specific requirements must be met. Charging membership/annual fees does not automatically mean the business is exempt.){% endlist_item %}
+{% endlist %}
 {% enddetails %}
 
 ## General Requirement
@@ -61,7 +63,7 @@ For example, as a business, you must:
 - Allow service animals to be with their person even if you have a no pets policy.
 - Follow specific standards for physical accessibility when building or altering a building or facility.
 - Follow specific requirements for ticket sales and testing accommodations.
-- Remove architectural barriers in buildings when it is readily achievable to do so.
+- Remove architectural barriers in buildings when it is <em>readily achievable to do so</em>.
 
 {% details What are architectural barriers? %}
 Architectural barriers are physical elements of a building that prevent movement or access for people with disabilities. For example, a business that is only accessible by stairs creates a barrier for wheelchair users.
@@ -90,14 +92,12 @@ Businesses must make “reasonable modifications” in their policies, practices
 <tr>
 <th scope="row">A person with a service dog tries to enter a buffet restaurant that has a “no pets” policy.</th>
 <td>The restaurant allows the person to enter the restaurant with their service dog.  
-
-Learn more about <a href="/topics/service-animals/">service animals</a>.</td>
+<p>Learn more about <a href="/topics/service-animals/">service animals</a>.</p></td>
 </tr>
 <tr>
 <th scope="row">A person with a mobility disability is looking to use an electric scooter at an amusement park to get around even though the amusement park doesn’t usually allow motorized devices.</th>
 <td>The amusement park grants an exception to the policy and allows the person to use their electric scooter.  
-
-Learn more about requirements related to <a href="/topics/mobility-devices/">mobility devices</a>.</td>
+<p>Learn more about requirements related to <a href="/topics/mobility-devices/">mobility devices</a>.</p></td>
 </tr>
 <tr>
 <th scope="row">A clothing store only allows one person in the fitting room at a time. A customer with a disability wants her companion to accompany her in the fitting room to help her try on clothes.</th>
@@ -106,9 +106,9 @@ Learn more about requirements related to <a href="/topics/mobility-devices/">mob
 </tbody>
 </table>
 
-A business does not need to modify a policy if it would fundamentally alter the nature of the business’s goods or services.
+A business does not need to modify a policy if it would <em>fundamentally alter</em> the nature of the business’s goods or services.
 
-{% details What does fundamentally alter mean? %}
+{% details What does <em>fundamentally alter</em> mean? %}
 A fundamental alteration would be something that causes a change in the essential nature of your business. For example, a clothing store is not required to provide dressing assistance for a customer with a disability if this is not a service provided to other customers.
 {% enddetails %}
 
@@ -257,5 +257,5 @@ Also see:
 - [Section 406](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#marker-1012120)
 {% enddetails %}
 
-Learn more about these and other requirements
-- Small Business Primer
+### Learn more about these and other requirements
+[Small Business Primer](https://www.ada.gov/regs2010/smallbusiness/smallbusprimer2010.htm)

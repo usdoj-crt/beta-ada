@@ -19,7 +19,7 @@ card:
 
 Examples of state/local service, programs, or activities that need to comply with the ADA include:
 - Public education (schools)
-- [Public Transportation]( {{'/topics/intro-to-ada'| relative_url}})
+- [Public Transportation]( {{'/topics/intro-to-ada#public-transit'| relative_url}})
 - Recreation
 - Health care
 - Social services
@@ -43,8 +43,8 @@ Title II of the ADA requires state/local governments to give people with disabil
 The ADA also includes specific requirements for state/local governments. For example, if you are part of a state/local government you must:
 - Communicate with people with disabilities as effectively as you communicate with others.
 - Make reasonable modifications to policies, practices, and procedures where needed to make sure that a person with a disability can access the state/local government’s programs, services, or activities.
-- Allow [service animals](https://beta.ada.gov/topics/service-animals/) to be with their person even if you have a no pets policy.
-- Provide program access by ensuring that individuals with disabilities are not excluded from programs because existing buildings or facilities are inaccessible to them.
+- Allow [service animals]( {{'/topics/service-animals'| relative_url}}) to be with their person even if you have a no pets policy.
+- Provide <em>program access</em> by ensuring that individuals with disabilities are not excluded from programs because existing buildings or facilities are inaccessible to them.
 - Follow specific standards for physical accessibility when building or altering a building or facility.
 - Follow specific requirements for ticket sales and testing accommodations.
 
@@ -54,7 +54,7 @@ You can also learn about these and other requirements in the [State and Local Go
 
 ## Making Reasonable Modifications
 
-State/local governments need to make reasonable modifications when necessary to accommodate people with disabilities. Here are some examples of specific scenarios involving a person with a disability that could be resolved with a reasonable modification:
+State/local governments need to make <em>reasonable modifications</em> when necessary to accommodate people with disabilities. Here are some examples of specific scenarios involving a person with a disability that could be resolved with a reasonable modification:
 
 <table class="usa-table">
 <thead>
@@ -72,19 +72,20 @@ State/local governments need to make reasonable modifications when necessary to 
 <th scope="row">A person with a service dog tries to enter a public library that has a “no pets” rule.</th>
 <td>The city makes an exception to its “no pets” in public libraries and other city buildings to allow people with disabilities to use their service dogs.  
 
-Learn more about [service animals]( {{'/topics/service-animals'| relative_url}}).</td>
+<p>Learn more about <a href="/topics/service-animals/">service animals</a>.</p></td>
 </tr>
 <tr>
-<th scope="row">[A person with a mobility disability tries to access a state park on his Segway; the park does not normally allow motorized vehicles on park trails.]( {{'/topics/mobility-devices'| relative_url}})</th>
+<th scope="row">A person with a mobility disability tries to access a state park on his Segway; the park does not normally allow motorized vehicles on park trails.</th>
 <td>The state park grants an exemption from its rule and permits the visitor to use his Segway on the park’s walking trails.
-Learn more about requirements related to mobility devices.</td>
+
+<p>Learn more about requirements related to <a href="/topics/mobility-devices/">mobility devices</a>.</p></td>
 </tr>
 </tbody>
 </table>
 
-A state/local government does not need to modify a policy if it would fundamentally alter the nature of the program, service, or activity.
+A state/local government does not need to modify a policy if it would <em>fundamentally alter</em> the nature of the program, service, or activity.
 
-{% details What does fundamentally alter mean? %}
+{% details What does <em>fundamentally alter</em> mean? %}
 A fundamental alteration is something that would change the essential nature of the entity's programs or services. For example, a local government would not be required to move a beach volleyball tournament to an indoor court.
 {% enddetails %}
 
@@ -101,19 +102,20 @@ Communication is an essential part of providing service to the public.  The ADA 
 </thead>
 <tbody>
 <tr>
-<td>A person with hearing loss tries to access their county tax office with complex questions about property tax assessments.</td>
+<th scope="row">A person with hearing loss tries to access their county tax office with complex questions about property tax assessments.</th>
 <td>The clerk in the county tax office provides a sign language interpreter who can assist with communicating about the property tax assessments.
-Learn more about other aids or services that can be used to provide [effective communication](https://beta.ada.gov/topics/effective-communication/).</td></tr>
-<tr><td>A person with low vision who uses a screen reader wants to register to vote using the state government’s online form.</td>
+
+<p>Learn more about other aids or services that can be used to provide <a href="/topics/effective-communication/">effective communication</a>.</p></td></tr>
+<tr><th scope="row">A person with low vision who uses a screen reader wants to register to vote using the state government’s online form.</th>
 <td>The elections office ensures that their online forms are accessible to people who use screen readers.</td></tr>
 </tbody>
 </table>
 
-We provide more examples on our page about [effective communication](https://beta.ada.gov/topics/effective-communication/). That page also includes information about when a state/local government may not be required to provide a particular aid or service.
+We provide more examples on our page about [effective communication]( {{'/topics/effective-communication'| relative_url}}). That page also includes information about when a state/local government may not be required to provide a particular aid or service.
 
 ## Access to Programs and Services in Existing Facilities
 
-State/local governments are required to provide program access. The program access requirement ensures that individuals with disabilities are not excluded from any program or service because existing buildings and facilities are inaccessible. State/local governments must look at their programs/services in their entirety or as a whole to ensure that they are accessible to individuals with disabilities. They can meet this obligation in a variety of ways. Here are some examples:
+State/local governments are required to provide <em>program access</em>. The program access requirement ensures that individuals with disabilities are not excluded from any program or service because existing buildings and facilities are inaccessible. State/local governments must look at their programs/services in their entirety or as a whole to ensure that they are accessible to individuals with disabilities. They can meet this obligation in a variety of ways. Here are some examples:
 
 <table class="usa-table">
 <thead>
@@ -124,11 +126,11 @@ State/local governments are required to provide program access. The program acce
 </thead>
 <tbody>
 <tr>
-<td>A person with a mobility disability wants to borrow books from the town’s public library after reviewing the book catalog online. The library has not been altered since before the ADA was passed and has stairs and narrow doorways that make it inaccessible to her.</td>
+<th scope="row">A person with a mobility disability wants to borrow books from the town’s public library after reviewing the book catalog online. The library has not been altered since before the ADA was passed and has stairs and narrow doorways that make it inaccessible to her.</th>
 <td>Staff provides curb-side service to allow the person to check out and return materials.</td>
 </tr>
 <tr>
-<td>A third-grade student who uses a wheelchair attends a two-story school built before the ADA, and not altered since then; the school does not have an elevator.</td>
+<th scope="row">A third-grade student who uses a wheelchair attends a two-story school built before the ADA, and not altered since then; the school does not have an elevator.</th>
 <td>The school locates the third-grade classroom on the first-floor.</td>
 </tr>
 </tbody>
@@ -155,9 +157,9 @@ Learn more about program access and the limitations on this requirement in the [
 </thead>
 <tbody>
 <tr>
-<td>An older adult with a learning disability is enrolled in a community college and requests additional time to take the placement test.</td>
+<th scope="row">An older adult with a learning disability is enrolled in a community college and requests additional time to take the placement test.</th>
 <td>The community college grants the applicant extended time to take the exam.
-Learn more about providing <a href="https://www.ada.gov/regs2014/testing_accommodations.html">testing accommodations</a>.</td>
+<p>Learn more about providing <a href="https://www.ada.gov/regs2014/testing_accommodations.html">testing accommodations</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -171,14 +173,16 @@ Learn more about providing <a href="https://www.ada.gov/regs2014/testing_accommo
 </thead>
 <tbody>
 <tr>
-<td>A wheelchair user tries to buy accessible seating to a state university college football game and is directed to call the box office because accessible seating is not available for purchase online.</td>
+<th scope="row">A wheelchair user tries to buy accessible seating to a state university college football game and is directed to call the box office because accessible seating is not available for purchase online.</th>
 <td>The university makes accessible seating available for purchase online.
-Learn more about requirements for <a href="https://www.ada.gov/ticketing_2010.htm">ticket sales</a>.</td>
+<p>Learn more about requirements for <a href="https://www.ada.gov/ticketing_2010.htm">ticket sales</a>.</p></td>
 </tr>
 </tbody>
 </table>
 
 ## New Construction and Alterations
+
+When state/local governments build or alter facilities, they must make them accessible to people with disabilities. To make them accessible, state/local governments need to follow the ADA Standards for Accessible Design. The information below is intended to help get you started.
 
 ### ADA Standards Basics
 
@@ -186,11 +190,11 @@ Learn more about requirements for <a href="https://www.ada.gov/ticketing_2010.ht
 - Contains important information, including definitions for key terms used in the
 Standards.
 {% enddetails %}
-{% details [Chapter 2: Scoping](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#c2) %}
+{% details Chapter 2: Scoping %}
 - Explains which elements and how many of them must be accessible. Scoping covers
 newly built facilities and altered portions of older facilities.
 {% enddetails %}
-{% details [Chapters 3 – 10: Design and Technical Requirements](https://www.ada.gov/2010ADAstandards_index.htm) %}
+{% details Chapters 3 – 10: Design and Technical Requirements %}
 - Provides design and technical requirements for elements, spaces, buildings, and
 facilities.
 {% enddetails %}
@@ -201,24 +205,24 @@ facilities.
 [Section 206](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010125) and [Chapter 4](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#c4)
 {% enddetails %}
 
-{% details [Parking Spaces](https://beta.ada.gov/topics/parking/) %}
+{% details Parking Spaces %}
 - [Section 208](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010282) and [502](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1006250)
-Also see:
-- [Section 209.4](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010369) (Valet parking)
+<p>Also see:</p>
+- [Section 209.4 (Valet Parking)](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010369)
 - [Section 216 (Signs)](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010471)
-  - 216.5 exception #1 (Limited parking)
+  - [216.5 exception #1](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010471) (Limited parking)
 {% enddetails %}
 
 {% details Sales and Service %}
 - [Section 227](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1011009) and [904](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#marker-1006947)
-Note: Sections cover sales and service areas, such as check-out aisles and sales and service counters.
+<p>Note: Sections cover sales and service areas, such as check-out aisles and sales and service counters.</p>
 {% enddetails %}
 
 {% details Dining Surfaces %}
 - [Section 226](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1011000) and [902](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1006229)  
-Also see:
-- [Section 206.2.5](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010125) (Restaurants and Cafeterias)
-- [Section 226.2](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1011000) (Dispersion, applies to dinning surfaces)
+<p>Also see:</p>
+- [Section 206.2.5 (Restaurants and Cafeterias)](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010125)
+- [Section 226.2 (Dispersion, applies to dinning surfaces)](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1011000)
 {% enddetails %}
 
 {% details Dressing, Fitting and Locker Rooms %}
@@ -237,5 +241,5 @@ Also see:
 - [Section 406](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#marker-1012120)
 {% enddetails %}
 
-## Learn more about these and other requirements
+### Learn more about these and other requirements
 [State and Local Government Primer](https://www.ada.gov/regs2010/titleII_2010/title_ii_primer.html)
