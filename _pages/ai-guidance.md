@@ -94,7 +94,7 @@ If you believe that you or someone else was discriminated against based on a dis
 
 For more detail on the topics addressed here and the impact of software, algorithms, and artificial intelligence on employees, please see the EEOC’s technical assistance document, [The Americans with Disabilities Act and the Use of Software, Algorithms, and Artificial Intelligence to Assess Job Applicants and Employees](https://www.eeoc.gov/laws/guidance/americans-disabilities-act-and-use-software-algorithms-and-artificial-intelligence).  Anyone with questions about the impact of software, algorithms, and artificial intelligence on employees can reach the EEOC at 1-202-921-3191 (voice), 1-800-669-6820 (TTY), or 1-844-234-5122 (ASL Video Phone).
 
-In addition, anyone can call the ADA Information Line at 1-800-514-0301 (voice) or 1-800-514-0383 (TTY) with questions about their rights or responsibilities under the ADA. ADA Specialists are available to answer questions on Monday, Tuesday, Wednesday, and Friday from 9:30 a.m. to 5:30 p.m. (Eastern Time). On Thursday, the Information Line is staffed from 12:30 p.m. to 5:30 p.m. (Eastern Time).
+In addition, anyone can call the ADA Information Line at 1-800-514-0301 (voice) or 1-800-514-0383 (TTY) with questions about their rights or responsibilities under the ADA. ADA Specialists are available to answer questions on Monday, Tuesday, Wednesday, and Friday from 9:30 a.m. to 12:00 p.m. and 3:00 p.m. to 5:30 p.m. (Eastern Time). On Thursday, the Information Line is staffed from 2:30 p.m. to 5:30 p.m. (Eastern Time).
 
 <div class="footnotes">
 <ol>
