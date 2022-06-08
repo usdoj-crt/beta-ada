@@ -51,7 +51,19 @@ layout: default
         </div>
         {% endif %} 
         {{ content }} 
-        {% if page.publish-date %}
+        {% if page.publish-date and page.updated-date %}
+        <p class="text-thin font-sans-3xs">
+          Originally issued:
+          <time datetime="{{page.publish-date | date_to_long_rfc822}}"
+            >{{ page.publish-date | date: "%B %d, %Y"}}
+          </time>
+        </p> <p class="text-thin font-sans-3xs">
+          Last updated:
+          <time datetime="{{page.publish-date | date_to_long_rfc822}}"
+            >{{ page.updated-date | date: "%B %d, %Y"}}
+          </time>
+        </p>
+        {% elsif page.publish-date %}
         <p class="text-thin font-sans-3xs">
           <time datetime="{{page.publish-date | date_to_long_rfc822}}"
             >{{ page.publish-date | date: "%B %d, %Y"}}

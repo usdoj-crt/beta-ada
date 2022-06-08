@@ -18,6 +18,8 @@ const COVID = 'notices/2021/08/25/covid-qa/';
 const WEB = 'web-guidance/';
 const AI = 'ai-guidance/';
 const RESOURCES = 'resources/';
+const SAFAQS = 'service-animal-faqs/';
+const SAREQS = 'service-animals-2010-requirements/';
 
 test('Match screenshots of each page', async ({ page }) => {
   await page.goto(HOME);
@@ -69,5 +71,11 @@ test('Match screenshots of each page', async ({ page }) => {
   expect(await page.screenshot()).toMatchSnapshot();
 
   await page.goto(`${HOME}${RESOURCES}`);
+  expect(await page.screenshot()).toMatchSnapshot();
+
+  await page.goto(`${HOME}${RESOURCES}${SAFAQS}`);
+  expect(await page.screenshot()).toMatchSnapshot();
+
+  await page.goto(`${HOME}${RESOURCES}${SAREQS}`);
   expect(await page.screenshot()).toMatchSnapshot();
 });
