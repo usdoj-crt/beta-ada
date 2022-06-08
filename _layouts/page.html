@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <div class="crt-page grid-container">
   <div class="grid-row grid-gap-xl">
     {% if page.sidenav %}
@@ -18,34 +19,56 @@ layout: default
       {% endif %}
     </div>
     {% endif %}
-    <div id="crt-page--content" class="mobile-lg:grid-col {% if page.sidenav %}tablet:grid-col-12 desktop:grid-col-8{% endif %}">
-      {% if page.disclaimer %}
-      {% include alert.html title="This is a test site. Do not rely on the information provided." text="This webpage is a prototype meant for user research. It has not undergone final review for legal accuracy and is not intended to provide legal guidance." %}
-      {% endif %}
-      {% if page.ref!=nil %}
-        {% include toggle-language.html %}
-      {% endif %}
+    <div
+      id="crt-page--content"
+      class="mobile-lg:grid-col {% if page.sidenav %}tablet:grid-col-12 desktop:grid-col-8{% endif %}"
+    >
+      {% if page.disclaimer %} {% include alert.html title="This is a test site. Do not rely on the
+      information provided." text="This webpage is a prototype meant for user research. It has not
+      undergone final review for legal accuracy and is not intended to provide legal guidance." %}
+      {% endif %} {% if page.ref!=nil %} {% include toggle-language.html %} {% endif %}
       <h1 id="top">{{page.title}}</h1>
       <div class="crt-landing--separator_small"></div>
       <div class="measure-6">
         {% if page.lead %}
-          <div class="crt-lead">
-            {% if page.publish-date %}
-        <p>
+        <div class="crt-lead">
+          {% if page.publish-date and page.updated-date %}
+          <p>
+            Last updated:
+            <time datetime="{{page.publish-date | date_to_long_rfc822}}"
+              >{{ page.updated-date | date: "%B %d, %Y"}}
+            </time>
+          </p>
+          {% elsif page.publish-date %}
+          <p>
+            <time datetime="{{page.publish-date | date_to_long_rfc822}}"
+              >{{ page.publish-date | date: "%B %d, %Y"}}
+            </time>
+          </p>
+          {% endif %} {{page.lead | markdownify}}
+        </div>
+        {% endif %} {{ content }} {% if page.publish-date and page.updated-date %}
+        <p class="text-thin font-sans-3xs">
+          Originally issued:
           <time datetime="{{page.publish-date | date_to_long_rfc822}}"
             >{{ page.publish-date | date: "%B %d, %Y"}}
           </time>
         </p>
-        {% endif %}
-            {{page.lead | markdownify}}
-          </div>
-        {% endif %}
-        {{ content }}
-        {% if page.related-content %}
-          {% include related-content.html %}
-        {% endif %}
-        {% if page.title == 'Give Us Feedback' %}
-          <div id="touchpoints-container"></div>
+        <p class="text-thin font-sans-3xs">
+          Last updated:
+          <time datetime="{{page.publish-date | date_to_long_rfc822}}"
+            >{{ page.updated-date | date: "%B %d, %Y"}}
+          </time>
+        </p>
+        {% elsif page.publish-date %}
+        <p class="text-thin font-sans-3xs">
+          <time datetime="{{page.publish-date | date_to_long_rfc822}}"
+            >{{ page.publish-date | date: "%B %d, %Y"}}
+          </time>
+        </p>
+        {% endif %} {% if page.related-content %} {% include related-content.html %} {% endif %} {%
+        if page.title == 'Give Us Feedback' %}
+        <div id="touchpoints-container"></div>
         {% endif %}
       </div>
     </div>

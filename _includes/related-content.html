@@ -1,6 +1,6 @@
 {% assign projectTags = site.data.tags.allowed-tags %} {% assign pages=site.pages %} {% assign
-posts=site.posts %} {% assign topics=site.topics %} {% assign pagesAndPosts = pages | concat: posts
-| concat: topics | sort:"title" %} {% assign tagArray = 'a,b' | split:"," %} {% for tag in page.tags
+posts=site.posts %} {% assign topics=site.topics %} {% assign resources=site.resources %} {% assign pagesAndPosts = pages | concat: posts
+| concat: topics | concat: resources | sort:"title" %} {% assign tagArray = 'a,b' | split:"," %} {% for tag in page.tags
 %} {% for post in pagesAndPosts %} {% if site.data.tags.allowed-tags contains tag%} {% if post.tags
 contains tag %} {% if post.url != page.url %} {% assign tagArray = tagArray | push: post %} {% endif
 %} {% endif %} {% endif %} {% endfor %} {% endfor %} {% assign tagArray = tagArray | uniq %}
