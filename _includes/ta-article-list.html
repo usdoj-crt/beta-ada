@@ -1,4 +1,4 @@
-{% assign resources=site.resources %} 
+{% assign resources=site.resources | sort: 'title'  %} 
 <div id="resultsListTarget" role="status" class="margin-y-1"></div>
 {% include selector-tags.html %}
 <div class="grid-row grid-gap" markdown="0">
