@@ -1,6 +1,6 @@
 $arrow-height: 24px;
 
-.crt-landing--section {
+.crt-landing--section:not(.crt-landing--hero) {
   padding-top: 3rem;
   padding-bottom: 3rem;
 
@@ -42,9 +42,7 @@ $arrow-height: 24px;
     background-image: $theme-hero-image;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
-    min-height: 600px;
-    padding-top: 3rem;
+    background-position: bottom;
   }
 }
 

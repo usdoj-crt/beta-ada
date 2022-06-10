@@ -37,7 +37,7 @@ $theme-alert-link-reverse-color: default;
 $theme-banner-background-color: "white";
 $theme-banner-font-family: "ui";
 $theme-banner-link-color: "primary-darker";
-$theme-banner-max-width: "desktop";
+$theme-banner-max-width: 95rem;
 
 // Breadcrumb
 $theme-breadcrumb-background-color: "default";
@@ -75,7 +75,7 @@ $theme-collection-header-typeset: "ui", "md", 3;
 
 // Footer
 $theme-footer-font-family: "body";
-$theme-footer-max-width: "desktop";
+$theme-footer-max-width: 95rem;
 
 // Form and input
 $theme-checkbox-border-radius: "sm";
@@ -92,7 +92,7 @@ $theme-input-tile-border-width: 2px;
 // Header
 $theme-header-font-family: "ui";
 $theme-header-logo-text-width: 33%;
-$theme-header-max-width: "desktop";
+$theme-header-max-width: 95rem;
 $theme-header-min-width: "desktop";
 
 // Hero
@@ -154,7 +154,7 @@ $theme-sidenav-current-border-width: 0.5;
 $theme-sidenav-font-family: "ui";
 
 // Site Alert
-$theme-site-alert-max-width: "desktop";
+$theme-site-alert-max-width: 95rem;
 
 // Step indicator
 $step-indicator-background-color: "white";
