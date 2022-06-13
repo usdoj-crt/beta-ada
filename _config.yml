@@ -49,30 +49,35 @@ google_site_verification: 34Ks265Uibpdda984RS0SxVABVZCdlVrdSp61pIdZQ8
 primary_navigation:
   - name:
       en: Home
+      en-short: Home
       es: Página principal
     url:
       en: "/"
       es: "/"
   - name:
       en: Explore Featured Topics
+      en-short: Explore Topics
       es: Explore Featured Topics
     url:
       en: "/topics/"
       es: "/topics/"
   - name:
-      en: Review Laws, Regulations and Standards
-      es: Review Laws, Regulations and Standards
+      en: Review Laws, Regulations & Standards
+      en-short: Review Laws & Regulations
+      es: Review Laws, Regulations & Standards
     url:
       en: "/law-and-regs/"
       es: "/law-and-regs/"
   - name:
-      en: View Guidance and Resource Materials
-      es: View Guidance and Resource Materials
+      en: View Guidance & Resource Materials
+      en-short: View Guidance
+      es: View Guidance & Resource Materials
     url:
       en: "/resources/"
       es: "/resources/"
   - name:
       en: File a Complaint
+      en-short: File a Complaint
       es: Presente una queja
     url:
       en: "/file-a-complaint/"

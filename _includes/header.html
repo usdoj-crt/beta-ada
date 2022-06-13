@@ -22,17 +22,19 @@ assign shrink = "" %} {% unless lang=="en" %} {% assign shrink = "shrink-search"
               href="{% if nav_item.external %}{{ nav_item.url['en'] }}{% else %}{{ nav_item.url['en'] | relative_url }}{% endif %}"
               class="usa-nav__link{% if basedir == linkdir %} usa-current pa11y-skip {% elsif basedir=='es' and linkdir=='file-a-complaint' %} usa-current pa11y-skip {% endif %}"
             >
-              <span>{{ nav_item.name["en"] | escape }}</span>
+              <span class="desktop:display-none widescreen:display-block">{{ nav_item.name["en"] | escape }}</span>
+              <span class="mobile:display-none desktop:display-block widescreen:display-none">{{ nav_item.name["en-short"] | escape }}</span>
             </a>
           </li>
           {% else %} {% assign nav_id = 'primary-nav-' | append: forloop.index%}
-          <li class="usa-nav__primary-item desktop:text-no-wrap {{ nav_item.classes }}">
+          <li class="usa-nav__primary-item desktop:text-no-wrap widescreen:text-no-wrap {{ nav_item.classes }}">
             <button
               class="usa-accordion__button usa-nav__link usa-current"
               aria-expanded="false"
               aria-controls="{{ nav_id }}"
             >
-              <span>{{ nav_item.name["en"] | escape }}</span>
+            <span class="desktop:display-none widescreen:display-block">{{ nav_item.name["en"] | escape }}</span>
+            <span class="mobile:display-none desktop:display-block widescreen:display-none">{{ nav_item.name["en-short"] | escape }}</span>
             </button>
             <ul id="{{ nav_id }}" class="usa-nav__submenu">
               {% for subnav_item in nav_item.children %}
