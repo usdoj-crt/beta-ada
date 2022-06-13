@@ -5,11 +5,10 @@ const ACCESS_KEY = 'R9JA5YunOBaTGydUNm-oJjGCqKQ-zXsulsNskJVe5-c=';
 const AFFILIATE = 'justice-ada-beta';
 const TAGS = [
   'artificial-intelligence',
-  'hiring',
   'service-animals',
   'title-ii',
   'title-iii',
-  'web-guidance',
+  'web-access',
   'intro',
   'child-care',
   'curb-ramps',

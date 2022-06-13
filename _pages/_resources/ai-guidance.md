@@ -12,7 +12,9 @@ sidenav-pdf:
   filename: ai-guidance.pdf
 tags:
   - artificial intelligence
-  - hiring
+  - employment
+  - title ii
+  - title iii
 ---
 
 ## How employers use algorithms and artificial intelligence  
