@@ -201,25 +201,28 @@ When businesses build or alter buildings or other facilities, they must make the
 ### ADA Standards Basics
 
 {% details Chapter 1: Application and Administration %}
-- Contains important information, including definitions for key terms used in the Standards.
+[Contains important information, including definitions for key terms used in the
+Standards](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#c1)
 {% enddetails %}
 
 {% details Chapter 2: Scoping %}
-- Explains which elements and how many of them must be accessible. Scoping covers newly built facilities and altered portions of older facilities.
+[Explains which elements and how many of them must be accessible. Scoping covers
+newly built facilities and altered portions of older facilities](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#c2)
 {% enddetails %}
 
 {% details Chapters 3 – 10:  Design and Technical Requirements %}
-- Provides design and technical requirements for elements, spaces, buildings, and facilities.
+[Provides design and technical requirements for elements, spaces, buildings, and
+facilities](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#c3)
 {% enddetails %}
 
 ### Common Topics
 
 {% details Accessible Route %}
-- [Section 206](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010125) and [Chapter 4](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#c4)
+[Section 206](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010125) and [Chapter 4](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#c4)
 {% enddetails %}
 
 {% details Parking Spaces %}
-- Section [208](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010282) and [502](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1006250)
+Section [208](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010282) and [502](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1006250)
 
 Also see:
 - [Section 209.4 (Valet parking)](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010369)
@@ -228,13 +231,13 @@ Also see:
 {% enddetails %}
 
 {% details Sales and Service %}
-- Section [227](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1011009) and [904](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#marker-1006947)
+Section [227](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1011009) and [904](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#marker-1006947)
 
 <p>Note: Sections cover sales and service areas, such as check-out aisles and sales and service counters.</p>
 {% enddetails %}
 
 {% details Dining Surfaces %}
-- Section [226](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1011000) and [902](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1006229)
+Section [226](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1011000) and [902](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1006229)
 
 Also see:
 - [Section 206.2.5 (Restaurants and Cafeterias)](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010125)
@@ -242,19 +245,19 @@ Also see:
 {% enddetails %}
 
 {% details Dressing, Fitting and Locker Rooms %}
-- Sections [222](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010754) and [803](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#marker-1008681)
+Sections [222](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010754) and [803](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#marker-1008681)
 {% enddetails %}
 
 {% details Door, Doorways, and Gates %}
-- [Section 404](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1006675)
+[Section 404](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1006675)
 {% enddetails %}
 
 {% details Ramps %}
-- [Section 405](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1006877)
+[Section 405](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1006877)
 {% enddetails %}
 
 {% details Curb ramps %}
-- [Section 406](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#marker-1012120)
+[Section 406](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#marker-1012120)
 {% enddetails %}
 
 ### Learn more about these and other requirements
