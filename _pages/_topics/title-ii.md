@@ -10,8 +10,8 @@ card:
   title: State and Local Governments
   description: |-
     If you are part of a state/local government program or a person with a disability, there are many aspects of the ADA that you should be familiar with.
-  image: landing/intro_ada.jpg
-  alt: "Image TBD"
+  image: landing/title-ii.jpg
+  alt: "alt-text"
   href: /topics/title-ii/
 ---
 
