@@ -6,7 +6,7 @@ lead: |-
   This guide provides an overview of Federal civil rights laws that ensure equal opportunity for people with disabilities. To find out more about how these laws may apply to you, contact the agencies and organizations listed below.
 lang: "en"
 news-item: false
-publish-date: 2022-06-15 00:00:00
+publish-date: 2022-06-16 00:00:00
 print: true
 ---
 ## Americans with Disabilities Act (ADA)
@@ -123,12 +123,12 @@ Complaints of Fair Housing Act violations may be filed with the U.S. Department 
 >Washington, D.C. 20410  
 >(800) 669-9777 (voice)  
 >(800) 927-9275 (TTY)  
->[www.hud.gov/offices/fheo](https://www.hud.gov/offices/fheo)  
+>[https://www.hud.gov/program_offices/fair_housing_equal_opp/disability_main](https://www.hud.gov/program_offices/fair_housing_equal_opp/disability_main)  
 
 For questions about the accessibility provisions of the Fair Housing Act, contact Fair Housing Accessibility FIRST at:  
 
 >(888) 341-7781 (voice/TTY)  
->[www.fairhousingfirst.org](https://www.fairhousingfirst.org)  
+>[https://www.hud.gov/program_offices/fair_housing_equal_opp/accessibility_first_home](https://www.hud.gov/program_offices/fair_housing_equal_opp/accessibility_first_home)  
 
 For publications, you may call the Housing and Urban Development Customer Service Center at:  
 >(800) 767-7468 (voice/relay)
@@ -251,7 +251,7 @@ An accessible information technology system is one that can be operated in a var
 >CIO 508 Coordinator  
 >1800 F Street, N.W.  
 >Washington, DC 20405-0001  
->[www.gsa.gov/portal/content/105254](www.gsa.gov/portal/content/105254)  
+>[www.gsa.gov/portal/content/105254](http://www.gsa.gov/portal/content/105254)  
 
 >U.S. Architectural and Transportation Barriers Compliance Board  
 >1331 F Street, N.W., Suite 1000  
