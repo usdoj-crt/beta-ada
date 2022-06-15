@@ -46,7 +46,7 @@ Complaints of title II violations may be filed with the Department of Justice wi
 >Civil Rights Division  
 >950 Pennsylvania Avenue, N.W.  
 >Disability Rights Section  
->Washington, D.C. 20530   
+>Washington, D.C. 20530  
 >(800) 514-0301 (voice)  
 >(800) 514-0383 (TTY)  
 >[ADA.gov](https://www.ada.gov)
@@ -184,7 +184,7 @@ The Attorney General may initiate civil law suits where there is reasonable caus
 >Special Litigation Section  
 >Washington, D.C. 20530  
 >(877) 218-5228 (voice/TTY)  
->[https://www.justice.gov/crt/rights-persons-disabilities](https://www.justice.gov/crt/rights-persons-disabilities)    
+>[https://www.justice.gov/crt/rights-persons-disabilities](https://www.justice.gov/crt/rights-persons-disabilities)  
 
 ## Individuals with Disabilities Education Act
 
@@ -199,7 +199,7 @@ If parents disagree with the proposed IEP, they can request a due process hearin
 >Office of Special Education and Rehabilitative Services  
 >U.S. Department of Education  
 >400 Maryland Avenue, S.W.  
->Washington, D.C. 20202-7100   
+>Washington, D.C. 20202-7100  
 >(202) 245-7459 (voice/TTY)  
 >[www.ed.gov/about/offices/list/osers/osep](https://www.ed.gov/about/offices/list/osers/osep)  
 
@@ -252,7 +252,7 @@ An accessible information technology system is one that can be operated in a var
 >1800 F Street, N.W.  
 >Washington, DC 20405-0001  
 >[www.gsa.gov/portal/content/105254](http://www.gsa.gov/portal/content/105254)  
-
+<br>
 >U.S. Architectural and Transportation Barriers Compliance Board  
 >1331 F Street, N.W., Suite 1000  
 >Washington, DC 20004-1111  
@@ -277,7 +277,7 @@ The Architectural Barriers Act (ABA) requires that buildings and facilities that
 >(800) 514-0301 (voice)  
 >(800) 514-0383 (TTY)  
 >[ADA.gov](https://www.ada.gov/infoline.htm)  
-
+<br>
 >ADA National Network  
 >(800) 949-4232 (voice/TTY)  
 >[www.adata.org](https://www.adata.org)  
@@ -335,8 +335,8 @@ The Architectural Barriers Act (ABA) requires that buildings and facilities that
 >Over 20 Implementing Regulations for federally assisted programs, including:
 >34 CFR Part 104 (Department of Education)  
 >45 CFR Part 84 (Department of Health and Human Services)  
->28 CFR §§ 42.501 et seq.
-
+>28 CFR §§ 42.501 et seq.  
+<br>
 >Over 95 Implementing Regulations for federally conducted programs, including:  
 >28 CFR Part 39 (Department of Justice)
 
