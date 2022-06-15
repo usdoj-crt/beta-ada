@@ -120,6 +120,6 @@ In addition, anyone can call the ADA Information Line at 1-800-514-0301 (voice) 
 <i>See</i> 42 U.S.C. &sect; 12112(b)(5); 29 C.F.R. &sect; 1630.9.
 {% endfnbody %}
 {% fnbody 7 %}
-Existing technical standards provide helpful guidance concerning how to ensure the accessibility of website features. These include the Web Content Accessibility Guidelines (WCAG) and the Section 508 Standards, which the federal government uses for its own websites.  More information is in this guidance document - [https://beta.ada.gov/web-guidance/](https://beta.ada.gov/web-guidance/) The employer and the individual with a disability should engage in an informal process to clarify the applicant’s needs and to identify a reasonable accommodation.
+Existing technical standards provide helpful guidance concerning how to ensure the accessibility of website features. These include the Web Content Accessibility Guidelines (WCAG) and the Section 508 Standards, which the federal government uses for its own websites.  [More information is in this guidance document.](https://beta.ada.gov/web-guidance/) The employer and the individual with a disability should engage in an informal process to clarify the applicant’s needs and to identify a reasonable accommodation.
 {% endfnbody %}
 {% endfootnotes %}
