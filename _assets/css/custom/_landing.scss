@@ -42,7 +42,16 @@ $arrow-height: 24px;
     background-image: $theme-hero-image;
     background-repeat: no-repeat;
     background-size: cover;
+    min-height: 400px;
     background-position: bottom;
+  }
+
+  @include at-media(widescreen) {
+    min-height: 600px;
+  }
+
+  @media (min-width: 1700px) {
+    background-position: center;
   }
 }
 
