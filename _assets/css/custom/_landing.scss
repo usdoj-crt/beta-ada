@@ -47,7 +47,7 @@ $arrow-height: 24px;
   }
 
   @include at-media(widescreen) {
-    min-height: 600px;
+    min-height: 550px;
   }
 
   @media (min-width: 1700px) {
