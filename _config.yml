@@ -49,40 +49,39 @@ google_site_verification: 34Ks265Uibpdda984RS0SxVABVZCdlVrdSp61pIdZQ8
 primary_navigation:
   - name:
       en: Home
+      en-short: Home
       es: Página principal
     url:
       en: "/"
       es: "/"
   - name:
-      en: Topics
-      es: Temas
+      en: Explore Featured Topics
+      en-short: Explore Topics
+      es: Explore Featured Topics
     url:
       en: "/topics/"
       es: "/topics/"
   - name:
-      en: Laws & Regulations
-      es: Leyes y reglamentos
+      en: Review Laws, Regulations & Standards
+      en-short: Review Laws & Regulations
+      es: Review Laws, Regulations & Standards
     url:
       en: "/law-and-regs/"
       es: "/law-and-regs/"
   - name:
+      en: View Guidance & Resource Materials
+      en-short: View Guidance
+      es: View Guidance & Resource Materials
+    url:
+      en: "/resources/"
+      es: "/resources/"
+  - name:
       en: File a Complaint
+      en-short: File a Complaint
       es: Presente una queja
     url:
       en: "/file-a-complaint/"
       es: "/es/presente-una-queja/"
-  - name:
-      en: Cases
-      es: Casos
-    url:
-      en: "/cases/"
-      es: "/cases/"
-  - name:
-      en: Give Us Feedback
-      es: Denos su opinión
-    url:
-      en: "/feedback/"
-      es: "/feedback/"
 
 # Collections
 collections_dir: _pages
@@ -95,6 +94,9 @@ collections:
       - intro-to-ada.md
       - service-animals.md
       - parking.md
+  resources:
+    output: true
+    permalink: /:collection/:name/
 # Configuration for Touchpoints
 touchpoints:
   url: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit
