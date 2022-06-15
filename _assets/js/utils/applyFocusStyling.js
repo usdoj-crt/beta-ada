@@ -1,10 +1,10 @@
-import { getOffsetParam } from "./offsetUtils";
+import { getSearchParam } from "./searchParamUtils";
 // Apply focus styling for the active button:
 export default function applyFocusStyling() {
   // offset value in this case will equal the data-offset
   const allPaginationButtons = document.querySelectorAll("a.usa-pagination__button");
   const allButtonsArr = Array.prototype.slice.call(allPaginationButtons);
-  const currentOffset = getOffsetParam();
+  const currentOffset = getSearchParam('offset');
   allButtonsArr.forEach(function(button) {
     if (currentOffset === "" && button.dataset.offset === "0") {
       button.classList.add("usa-current");

@@ -17,7 +17,7 @@
       margin: 0;
     }
 
-    h2:not(.usa-alert__heading):not(.usa-accordion__heading):not(.usa-card__heading) {
+    h2:not(.usa-alert__heading):not(.usa-accordion__heading):not(.usa-card__heading):not(.ta-article-heading) {
       margin-top: 3rem;
       &:after {
         content: '';

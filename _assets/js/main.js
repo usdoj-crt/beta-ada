@@ -8,7 +8,7 @@
 //= require ./search.js
 
 var anchors = new AnchorJS();
-anchors.add(".crt-page h2:not([class*='usa'])");
+anchors.add(".crt-page h2:not([class*='usa']) h2:not(.noAnchor)");
 
 var toc = document.getElementById("toc");
 if (toc) {

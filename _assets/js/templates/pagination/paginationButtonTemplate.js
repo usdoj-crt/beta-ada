@@ -1,8 +1,8 @@
 //= require ../../utils/offsetUtils.js
-import {getOffsetParam, setOffsetParam} from "../../utils/offsetUtils";
+import {getSearchParam, setSearchParam} from "../../utils/searchParamUtils";
 
 export default function paginationButton(offsetVal, index, resultsArr) {
-  const currentOffset = getOffsetParam();
+  const currentOffset = getSearchParam('offset');
   let ariaLabel = "";
   let ariaCurrent = "false";
   if (
@@ -18,7 +18,7 @@ export default function paginationButton(offsetVal, index, resultsArr) {
   }
   return `<li class="usa-pagination__item usa-pagination__page-no display-none tablet:display-block">
       <a
-        href="?${setOffsetParam(offsetVal)}"
+        href="?${setSearchParam('offset', offsetVal)}"
         class="usa-pagination__button bg-primary-darker"
         aria-label="${ariaLabel}""
         aria-current=${ariaCurrent}
