@@ -1,6 +1,6 @@
 ---
 permalink: /resources/
-title: Resources
+title: View Guidance & Resource Materials
 lead: Information for people with disabilities, state and local governments, and businesses
 ---
 
