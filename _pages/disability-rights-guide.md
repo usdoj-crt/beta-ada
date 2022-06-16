@@ -34,7 +34,7 @@ For information on how to accommodate a specific individual with a disability, c
 >(877) 781-9403 (TTY)  
 >[askjan.org](http://askjan.org)  
 
-### ADA Title II: State and Local Government Activities
+### ADA Title II: State and Local Government Activities  
 
 Title II covers all activities of State and local governments regardless of the government entity's size or receipt of Federal funding. Title II requires that State and local governments give people with disabilities an equal opportunity to benefit from all of their programs, services, and activities (e.g. public education, employment, transportation, recreation, health care, social services, courts, voting, and town meetings).
 
@@ -95,7 +95,7 @@ Title IV addresses telephone and television access for people with hearing and s
 >Washington, D.C. 20554  
 >(888) 225-5322 (Voice)  
 >(888) 835-5322 (TTY)  
->[https://www.fcc.gov/general/disability-rights-office](https://www.fcc.gov/general/disability-rights-office)  
+>[www.fcc.gov/general/disability-rights-office](https://www.fcc.gov/general/disability-rights-office)  
 
 ## Telecommunications Act
 
@@ -147,7 +147,7 @@ The Air Carrier Access Act prohibits discrimination in air transportation by dom
 >(202) 366-0511 (TTY)  
 >(800) 778-4838 (voice)  
 >(800) 455-9880 (TTY)  
->[https://www.transportation.gov/airconsumer/disability](https://www.transportation.gov/airconsumer/disability)  
+>[www.transportation.gov/airconsumer/disability](https://www.transportation.gov/airconsumer/disability)
 
 ## Voting Accessibility for the Elderly and Handicapped Act  
 
