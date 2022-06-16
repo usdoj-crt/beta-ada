@@ -1,7 +1,6 @@
 ---
 title: Algorithms, Artificial Intelligence, and Disability Discrimination in Hiring
 description: "This guidance explains how algorithms and artificial intelligence can lead to disability discrimination in hiring."
-permalink: /ai-guidance/
 lead: |-
   This guidance explains how algorithms and artificial intelligence can lead to disability discrimination in hiring.  The [Department of Justice](https://www.ada.gov/employment.htm) enforces disability discrimination laws with respect to state and local government employers. The [Equal Employment Opportunity Commission](https://www.eeoc.gov/employees-job-applicants) (EEOC) enforces disability discrimination laws with respect to employers in the private sector and the federal government. The obligation to avoid disability discrimination in employment applies to both public and private employers.
 lang: "en"
@@ -11,6 +10,11 @@ print: true
 sidenav-pdf:
   title: Algorithms, Artificial Intelligence, and Disability Discrimination in Hiring
   filename: ai-guidance.pdf
+tags:
+  - artificial intelligence
+  - employment
+  - title ii
+  - title iii
 ---
 
 ## How employers use algorithms and artificial intelligence  
@@ -32,7 +36,7 @@ Many hiring technologies are software programs that use algorithms or artificial
 
 The Americans with Disabilities Act (ADA) is a federal law that seeks to remove barriers for people with disabilities in everyday activities, including employment.  
 
-**The ADA applies to all parts of employment, including how an employer selects, tests, or promotes employees. An employer who chooses to use a hiring technology must ensure that its use does not cause unlawful discrimination on the basis of disability.<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>**  
+**The ADA applies to all parts of employment, including how an employer selects, tests, or promotes employees. An employer who chooses to use a hiring technology must ensure that its use does not cause unlawful discrimination on the basis of disability. {% fn 1 %}  
 
 **The ADA bars discrimination against people with many different types of disabilities.**
 
@@ -44,13 +48,13 @@ Some examples of conditions that may be disabilities include: diabetes, cerebral
 
 ## When employers’ use of hiring technologies may violate the ADA
 
-**Employers must avoid using hiring technologies in ways that discriminate against people with disabilities. This includes when an employer uses another company’s discriminatory hiring technologies.<sup id="fnref:2"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>**
+**Employers must avoid using hiring technologies in ways that discriminate against people with disabilities. This includes when an employer uses another company’s discriminatory hiring technologies.{% fn 2 %}**
 
 Even where an employer does not mean to discriminate, its use of a hiring technology may still lead to unlawful discrimination. For example, some hiring technologies try to predict who will be a good employee by comparing applicants to current successful employees. Because people with disabilities have historically been excluded from many jobs and may not be a part of the employer’s current staff, this may result in discrimination. Employers must carefully evaluate the information used to build their hiring technologies.
 
 ### Screening Out People with Disabilities
 
-**Employers also violate the ADA if their hiring technologies unfairly screen out a qualified individual with a disability. Employers can use qualification standards that are job-related and consistent with business necessity. But employers must provide requested reasonable accommodations that will allow applicants or employees with disabilities to meet those standards, unless doing so would be an undue hardship. When designing or choosing hiring technologies to assess whether applicants or employees have required skills, employers must evaluate whether those technologies unlawfully screen out individuals with disabilities.<sup id="fnref:3"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup>**
+**Employers also violate the ADA if their hiring technologies unfairly screen out a qualified individual with a disability. Employers can use qualification standards that are job-related and consistent with business necessity. But employers must provide requested reasonable accommodations that will allow applicants or employees with disabilities to meet those standards, unless doing so would be an undue hardship. When designing or choosing hiring technologies to assess whether applicants or employees have required skills, employers must evaluate whether those technologies unlawfully screen out individuals with disabilities. {% fn 3 %}**
 
 Employers should examine hiring technologies before use, and regularly when in use, to assess whether they screen out individuals with disabilities who can perform the essential functions of the job with or without required reasonable accommodations.
 
@@ -66,19 +70,19 @@ Some hiring technologies require an applicant to take a test that includes an al
 
 >For example, an applicant to a school district with a vision impairment may get passed over for a staff assistant job because they do poorly on a computer-based test that requires them to see, even though that applicant is able to do the job.
 
-If a test or technology eliminates someone because of disability when that person can actually do the job, an employer must instead use an accessible test that measures the applicant’s job skills, not their disability, or make other adjustments to the hiring process so that a qualified person is not eliminated because of a disability.<sup id="fnref:4"><a href="#fn:4" class="footnote" rel="footnote">4</a></sup>
+If a test or technology eliminates someone because of disability when that person can actually do the job, an employer must instead use an accessible test that measures the applicant’s job skills, not their disability, or make other adjustments to the hiring process so that a qualified person is not eliminated because of a disability.{% fn 4 %}
 
-In addition, employers must ensure that they do not unlawfully seek medical or disability-related information or conduct medical exams through their use of hiring technologies.<sup id="fnref:5"><a href="#fn:5" class="footnote" rel="footnote">5</a></sup> For more information about this, see the [EEOC’s Enforcement Guidance: Preemployment Disability-Related Questions and Medical Examinations](https://www.eeoc.gov/laws/guidance/enforcement-guidance-disability-related-inquiries-and-medical-examinations-employees).
+In addition, employers must ensure that they do not unlawfully seek medical or disability-related information or conduct medical exams through their use of hiring technologies.{% fn 5 %} For more information about this, see the [EEOC’s Enforcement Guidance: Preemployment Disability-Related Questions and Medical Examinations](https://www.eeoc.gov/laws/guidance/enforcement-guidance-disability-related-inquiries-and-medical-examinations-employees).
 
 ### Reasonable accommodations for applicants with disabilities.
 
-The ADA requires that employers provide reasonable accommodations to individuals with disabilities, including during the hiring process, unless doing so would create an undue hardship for the employer.<sup id="fnref:6"><a href="#fn:6" class="footnote" rel="footnote">6</a></sup>
+The ADA requires that employers provide reasonable accommodations to individuals with disabilities, including during the hiring process, unless doing so would create an undue hardship for the employer.{% fn 6 %}
 
 A **reasonable accommodation** is a change in the way things are usually done to give equal opportunities to a person with a disability in applying for a job, performing a job, or accessing the benefits and privileges of employment.
 
 Examples of accommodations include allowing use of assistive equipment, modifying policies, or making other changes to the way the hiring process or job is performed.
 
->For example, if a city government uses an online interview program that does not work with a blind applicant’s computer screen-reader program, the government must provide a reasonable accommodation for the interview, such as an accessible version of the program<sup id="fnref:7"><a href="#fn:7" class="footnote" rel="footnote">7</a></sup>,unless it would create an undue hardship for the city government.
+>For example, if a city government uses an online interview program that does not work with a blind applicant’s computer screen-reader program, the government must provide a reasonable accommodation for the interview, such as an accessible version of the program{% fn 7 %}, unless it would create an undue hardship for the city government.
 
 Some examples of practices that employers using hiring technologies may need to implement to ensure that applicants receive needed reasonable accommodations include:
 
@@ -94,30 +98,28 @@ If you believe that you or someone else was discriminated against based on a dis
 
 For more detail on the topics addressed here and the impact of software, algorithms, and artificial intelligence on employees, please see the EEOC’s technical assistance document, [The Americans with Disabilities Act and the Use of Software, Algorithms, and Artificial Intelligence to Assess Job Applicants and Employees](https://www.eeoc.gov/laws/guidance/americans-disabilities-act-and-use-software-algorithms-and-artificial-intelligence).  Anyone with questions about the impact of software, algorithms, and artificial intelligence on employees can reach the EEOC at 1-202-921-3191 (voice), 1-800-669-6820 (TTY), or 1-844-234-5122 (ASL Video Phone).
 
-In addition, anyone can call the ADA Information Line at 1-800-514-0301 (voice) or 1-800-514-0383 (TTY) with questions about their rights or responsibilities under the ADA. ADA Specialists are available to answer questions on Monday, Tuesday, Wednesday, and Friday from 9:30 a.m. to 5:30 p.m. (Eastern Time). On Thursday, the Information Line is staffed from 12:30 p.m. to 5:30 p.m. (Eastern Time).
+In addition, anyone can call the ADA Information Line at 1-800-514-0301 (voice) or 1-800-514-0383 (TTY) with questions about their rights or responsibilities under the ADA. ADA Specialists are available to answer questions on Monday, Tuesday, Wednesday, and Friday from 9:30 a.m. to 12:00 p.m. and 3:00 p.m. to 5:30 p.m. (Eastern Time). On Thursday, the Information Line is staffed from 2:30 p.m. to 5:30 p.m. (Eastern Time).
 
-<div class="footnotes">
-<ol>
-<li id="fn:1">
-<p><i>See</i> 42 U.S.C. &sect; 12112; 29 C.F.R. &sect; 1630.4. <a href="#fnref:1" class="reversefootnote">1</a></p>
-</li>
-<li id="fn:2">
-<p><i>See</i> 42 U.S.C. &sect; 12112; 29 C.F.R. &sect;&sect; 1630.4, 1630.6. <a href="#fnref:2" class="reversefootnote">2</a></p>
-</li>
-<li id="fn:3">
-<p><i>See</i> 42 U.S.C. &sect; 12112(a), (b)(2), (b)(5), (b)(6); 29 C.F.R. &sect;&sect; 1630.4, 1630.6, 1630.9, 1630.10. <a href="#fnref:3" class="reversefootnote">3</a></p>
-</li>
-<li id="fn:4">
-<p><i>See</i> 42 U.S.C. &sect; 12112(b)(5), (b)(7); 29 C.F.R. &sect;&sect; 1630.9, 1630.11. <a href="#fnref:4" class="reversefootnote">4</a></p>
-</li>
-<li id="fn:5">
-<p><i>See</i> 42 U.S.C. &sect; 12112(d); 29 C.F.R. &sect; 1630.14. <a href="#fnref:5" class="reversefootnote">5</a></p>
-</li>
-<li id="fn:6">
-<p><i>See</i> 42 U.S.C. &sect; 12112(b)(5); 29 C.F.R. &sect; 1630.9. <a href="#fnref:6" class="reversefootnote">6</a></p>
-</li>
-<li id="fn:7">
-<p>Existing technical standards provide helpful guidance concerning how to ensure the accessibility of website features. These include the Web Content Accessibility Guidelines (WCAG) and the Section 508 Standards, which the federal government uses for its own websites.  More information is in this guidance document - https://beta.ada.gov/web-guidance/ The employer and the individual with a disability should engage in an informal process to clarify the applicant’s needs and to identify a reasonable accommodation. <a href="#fnref:7" class="reversefootnote">7</a></p>
-</li>
-</ol>
-</div>
+{% footnotes %}
+{% fnbody 1 %}
+<i>See</i> 42 U.S.C. &sect; 12112; 29 C.F.R. &sect; 1630.4.
+{% endfnbody %}
+{% fnbody 2 %}
+<i>See</i> 42 U.S.C. &sect; 12112; 29 C.F.R. &sect;&sect; 1630.4, 1630.6.
+{% endfnbody %}
+{% fnbody 3 %}
+<i>See</i> 42 U.S.C. &sect; 12112(a), (b)(2), (b)(5), (b)(6); 29 C.F.R. &sect;&sect; 1630.4, 1630.6, 1630.9, 1630.10.
+{% endfnbody %}
+{% fnbody 4 %}
+<i>See</i> 42 U.S.C. &sect; 12112(b)(5), (b)(7); 29 C.F.R. &sect;&sect; 1630.9, 1630.11.
+{% endfnbody %}
+{% fnbody 5 %}
+<i>See</i> 42 U.S.C. &sect; 12112(d); 29 C.F.R. &sect; 1630.14.
+{% endfnbody %}
+{% fnbody 6 %}
+<i>See</i> 42 U.S.C. &sect; 12112(b)(5); 29 C.F.R. &sect; 1630.9.
+{% endfnbody %}
+{% fnbody 7 %}
+Existing technical standards provide helpful guidance concerning how to ensure the accessibility of website features. These include the Web Content Accessibility Guidelines (WCAG) and the Section 508 Standards, which the federal government uses for its own websites.  [More information is in this guidance document.](https://beta.ada.gov/web-guidance/) The employer and the individual with a disability should engage in an informal process to clarify the applicant’s needs and to identify a reasonable accommodation.
+{% endfnbody %}
+{% endfootnotes %}
