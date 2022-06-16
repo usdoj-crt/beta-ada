@@ -8,6 +8,8 @@
 {% endif %}
 
 {% if has_side_nav %}
+{% unless page.title == 'Resources'%}
 <a class="usa-skipnav" href="#crt-page--sidenav">{{site.data[lang]["i18n"].links.skip.nav}}</a>
+{% endunless %}
 {% endif %}
 <a class="usa-skipnav" href="#{% if has_side_nav %}crt-page--content{% else %}main-content{% endif %}">{{site.data[lang]["i18n"].links.skip.main}}</a>

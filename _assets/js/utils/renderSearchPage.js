@@ -86,7 +86,7 @@ export default function renderSearchPage(searchResults, urlParams, numberOfResul
     const target = document.querySelector(".crt-landing--separator_small");
     target.insertAdjacentHTML(
       "afterend",
-      totalResults(webTotalResults)
+      totalResults(webTotalResults, 'Result')
     );
     const urlsToWrap = document.querySelectorAll(".content-url");
     Array.prototype.forEach.call(urlsToWrap, function(url) {

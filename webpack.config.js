@@ -4,7 +4,8 @@ module.exports = {
   mode: process.env.NODE_ENV || "development",
   entry: {
     pagination: './_assets/js/pagination.js',
-    accordion: './_assets/js/utils/expand-accordions.js'
+    accordion: './_assets/js/expand-accordions.js',
+    taResources: './_assets/js/ta-selectors.js'
   },
   output: {
     path: path.resolve(__dirname, './_assets/js/', 'dist'),
