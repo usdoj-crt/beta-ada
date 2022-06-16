@@ -10,7 +10,7 @@ card:
   title: Businesses That Are Open to the Public
   description: |-
     If you are a business or a person with a disability, there are many aspects of the ADA that you should be familiar with. The information below is intended to help get you started.
-  image: landing/title-iii.jpg
+  image: landing/title-iii.gif
   alt: "A sign hanging inside a storefront window reads Welcome. We are Open. Please come in"
   href: /topics/title-iii/
 ---
