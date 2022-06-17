@@ -32,3 +32,9 @@ State and local governments include state, county, and city government services 
 [Public Accommodations and Commercial Facilities (Title III)]( {{'https://www.ada.gov/regs2010/titleIII_2010/titleIII_2010_regulations.htm'}})
 
 Public accommodations include most businesses and nonprofits that are open to the public. Commercial facilities, like warehouses, need only comply with the ADA Standards for Accessible Design. Learn more about the basics of Title III on our [Introduction to the ADA page]( {{'/topics/intro-to-ada' | relative_url}}).
+
+## Cases
+
+The Americans with Disabilities Act provides an important tool to fight discrimination: filing a complaint with an appropriate federal agency.  This page outlines the steps to get you started.
+
+[View the Cases page](/law-and-regs/cases)
