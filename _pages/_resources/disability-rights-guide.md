@@ -1,7 +1,7 @@
 ---
 title: Guide to Disability Rights Laws
 description: "A guidance document that provides a brief overview of ten Federal laws that protect the rights of people with disabilities and provides information about the Federal agencies to contact for more information."
-permalink: /disability-rights-guide/
+permalink: /resources/disability-rights-guide/
 lead: |-
   This guide provides an overview of Federal civil rights laws that ensure equal opportunity for people with disabilities. To find out more about how these laws may apply to you, contact the agencies and organizations listed below.
 lang: "en"
