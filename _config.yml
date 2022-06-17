@@ -70,7 +70,7 @@ primary_navigation:
       es: "/law-and-regs/"
   - name:
       en: View Guidance & Resource Materials
-      en-short: View Guidance
+      en-short: View Resources
       es: View Guidance & Resource Materials
     url:
       en: "/resources/"
