@@ -8,6 +8,10 @@ lang: "en"
 news-item: false
 publish-date: 2022-06-16 00:00:00
 print: true
+tags:
+  - employment
+  - title ii
+  - title iii 
 ---
 ## Americans with Disabilities Act (ADA)
 
