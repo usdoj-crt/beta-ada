@@ -3,6 +3,7 @@ import expandTarget from './utils/taSelectors/expandTarget';
 import updateDOMandURL from './utils/taSelectors/updateDomAndURL';
 import dropDownKeyListener from './utils/taSelectors/dropDownKeyListener';
 import { getSearchParam } from './utils/searchParamUtils';
+import { accessStorage } from './utils/getSetlocalStorage';
 
 // Get our checkboxes:
 const checkboxes = document.getElementsByClassName('usa-checkbox__input');
@@ -46,8 +47,13 @@ dropdownButton.addEventListener('click', () => {
 });
 
 window.onload = function () {
-  selectorState = getSearchParam('filters').split(';');
-  // If selector state is empty string, set to empty array
+  // If there is something in local storage, grab that state and use it:
+  if (accessStorage('filters') !== null && getSearchParam('filters') === '') {
+    selectorState = accessStorage('filters').split(';');
+  } else {
+    selectorState = getSearchParam('filters').split(';');
+  }
+   // If selector state is empty string, set to empty array
   if (selectorState[0] === '') {
     selectorState = [];
   }

@@ -52,7 +52,7 @@ test('Match screenshots of each page', async ({ page }) => {
   await page.goto(`${HOME}${COMPLAINTES}`);
   expect(await page.screenshot()).toMatchSnapshot();
 
-  await page.goto(`${HOME}${CASES}`);
+  await page.goto(`${HOME}${LAWS}${CASES}`);
   expect(await page.screenshot()).toMatchSnapshot();
 
   await page.goto(`${HOME}${FEEDBACK}`);

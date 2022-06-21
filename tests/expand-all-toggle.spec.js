@@ -1,7 +1,7 @@
 const { test, expect } = require('@playwright/test');
 test('Test the open all accordions toggle', async ({ page }) => {
   // Go to http://localhost:4000/
-  await page.goto('http://localhost:4000/service-animals-faqs/');
+  await page.goto('http://localhost:4000/resources/service-animals-faqs/');
   // Click text=Open all sections
   await page.locator('text=Open all sections').click();
   // Click summary:has-text("Q1. What is a service animal?")
