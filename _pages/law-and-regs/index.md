@@ -37,4 +37,4 @@ Public accommodations include most businesses and nonprofits that are open to th
 
 The Americans with Disabilities Act provides an important tool to fight discrimination: filing a complaint with an appropriate federal agency.  This page outlines the steps to get you started.
 
-[View the Cases page](/law-and-regs/cases)
+[View the Cases page]( {{'/law-and-regs/cases' | relative_url}})
