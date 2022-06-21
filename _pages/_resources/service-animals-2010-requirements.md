@@ -6,11 +6,11 @@ lead: |-
   The Department of Justice published revised final regulations implementing the Americans with Disabilities Act (ADA) for title II (State and local government services) and title III (public accommodations and commercial facilities) on September 15, 2010, in the Federal Register. These requirements, or rules, contain updated requirements, including the 2010 Standards for Accessible Design (2010 Standards).
 lang: "en"
 related-content: true
-tags: 
+tags:
   - service animals
   - title ii
   - title iii
-publish-date: 2011-07-12 00:00:00 
+publish-date: 2011-07-12 00:00:00
 updated-date: 2020-02-24 00:00:00
 ---
 ## Overview
@@ -48,22 +48,12 @@ When it is not obvious what service an animal provides, only limited inquiries a
 
 ## Miniature Horses  
 
-**In addition to the provisions about service dogs, the Department’s ADA regulations have a separate provision about miniature horses that have been individually trained to do work or perform tasks for people with disabilities.** (Miniature horses generally range in height from 24 inches to 34 inches measured to the shoulders and generally weigh between 70 and 100 pounds.) Entities covered by the ADA must modify their policies to permit miniature horses where reasonable. The regulations set out four assessment factors to assist entities in determining whether miniature horses can be accommodated in their facility. The assessment factors are (1) whether the miniature horse is housebroken; (2) whether the miniature horse is under the owner’s control; (3) whether the facility can accommodate the miniature horse’s type, size, and weight; and (4) whether the miniature horse’s presence will not compromise legitimate safety requirements necessary for safe operation of the facility.
+**In addition to the provisions about service dogs, the Department’s ADA regulations have a separate provision about miniature horses that have been individually trained to do work or perform tasks for people with disabilities.** (Miniature horses generally range in height from 24 inches to 34 inches measured to the shoulders and generally weigh between 70 and 100 pounds.) Entities covered by the ADA must modify their policies to permit miniature horses where reasonable. The regulations set out four assessment factors to assist entities in determining whether miniature horses can be accommodated in their facility. The assessment factors are (1) whether the miniature horse is housebroken; (2) whether the miniature horse is under the owner’s control; (3) whether the facility can accommodate the miniature horse’s type, size, and weight; and (4) whether the miniature horse’s presence will not compromise legitimate safety requirements necessary for safe operation of the facility.  
 
-**For more information about the ADA, please visit our website or call our toll-free number.**
+**For more information about the ADA, please visit [ADA.gov](https://www.ada.gov) or call our toll-free number.**
 
-**ADA Website**  
-
-[www.ADA.gov](https://www.ada.gov)  
-
-To receive e-mail notifications when new ADA information is available,
-visit the ADA Website’s home page to sign up for email updates.
-
-**ADA Information Line**
-
-800-514-0301 (Voice) and 800-514-0383 (TTY)
-
-24 hours a day to order publications by mail.
-M-W, F 9:30 a.m. – 5:30 p.m., Th 12:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. All calls are confidential.
+**ADA INFORMATION LINE**  
+800-514-0301 (Voice) and 800-514-0383 (TTY)  
+M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.  
 
 For persons with disabilities, this publication is available in alternate formats.  Duplication of this document is encouraged.
