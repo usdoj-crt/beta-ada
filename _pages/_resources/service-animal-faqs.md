@@ -1,6 +1,7 @@
 ---
 title: Frequently Asked Questions about Service Animals and the ADA
 description: "This document provides guidance and answers about the ADA's service animal provisions."
+permalink: /resources/service-animals-faqs/
 lead: |-
   Many people with disabilities use a service animal in order to fully participate in everyday life.  Dogs can be trained to perform many important tasks to assist people with disabilities, such as providing stability for a person who has difficulty walking, picking up items for a person who uses a wheelchair, preventing a child with autism from wandering away, or alerting a person who has hearing loss when someone is approaching from behind.  
 lang: "en"

@@ -3,11 +3,10 @@ const { test, expect } = require('@playwright/test');
 const HOME = 'http://localhost:4000/';
 const LINKS = [
   'Home',
-  'Topics',
-  'Laws & Regulations',
+  'Explore Featured Topics',
+  'Review Laws, Regulations & Standards',
   'File a Complaint',
-  'Cases',
-  'Resources',
+  'View Guidance & Resource Materials',
 ];
 const INFOLINE = 'ADA Information Line';
 
