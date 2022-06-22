@@ -9,17 +9,7 @@ const TAGS = [
   'title-ii',
   'title-iii',
   'web-access',
-  'intro',
-  'child-care',
-  'curb-ramps',
-  'education',
-  'effective-communication',
-  'eligibility-criteria',
-  'emergency-management',
-  'employment',
-  'healthcare',
-  'parking',
-  'mobility-devices',
+  'employment'
 ];
 
 export { NUMBER_OF_RESULTS, SEARCH_ENDPOINT, ACCESS_KEY, AFFILIATE, TAGS };

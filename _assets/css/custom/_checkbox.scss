@@ -8,7 +8,7 @@
 
 .multicheckboxes-container {
   @include u-border(1px, $theme-color-primary-darker);
-  height: 13rem; // just enough to accommodate 5 checkboxes
+  height: 10rem; // 13rem just enough to accommodate 5 checkboxes
   overflow-y: scroll;
   position: relative;
   border-radius: 3px;
