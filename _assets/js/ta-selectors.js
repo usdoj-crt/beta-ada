@@ -4,6 +4,7 @@ import updateDOMandURL from './utils/taSelectors/updateDomAndURL';
 import dropDownKeyListener from './utils/taSelectors/dropDownKeyListener';
 import { getSearchParam } from './utils/searchParamUtils';
 import { accessStorage } from './utils/getSetlocalStorage';
+import userClickedAnchorLink from './utils/userClickedAnchorLink';
 
 // Get our checkboxes:
 const checkboxes = document.getElementsByClassName('usa-checkbox__input');
@@ -15,6 +16,8 @@ const dropdownButton = document.getElementById('category-expand');
 const optionsArray = Array.from(document.querySelectorAll('.checkbox-option'));
 // Get our category container:
 const listContainer = document.getElementById('category-list-container');
+// Define our param name for both localStorage key and search param name:
+const paramName = 'filters';
 
 // Initialize state:
 let selectorState = [];
@@ -51,11 +54,11 @@ window.onload = function () {
   // We want to use local storage in the case that someone is navigating by links to return to the resources page
   // This won't invoke the browser's history, so we need another way to grab the previous state of the checkboxes
   // When navigating via link, the search params in the link will be empty, so if we have them in local storage, lets use them:
-  if (accessStorage('filters') !== null && getSearchParam('filters') === '') {
-    selectorState = accessStorage('filters').split(';');
+  if (userClickedAnchorLink(paramName)) {
+    selectorState = accessStorage(paramName).split(';');
   } else {
   // If we have search params available in the URL, use them to populate state
-    selectorState = getSearchParam('filters').split(';');
+    selectorState = getSearchParam(paramName).split(';');
   }
   // Remove items not allowed in the tags list:
   const tempState = selectorState.filter((item) => {
