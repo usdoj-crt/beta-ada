@@ -1,4 +1,4 @@
-import storageAvailable from "./localStorageAvailable";
+import storageAvailable from './localStorageAvailable';
 
 function setStorage(name, data) {
   if (storageAvailable('localStorage')) {
@@ -7,12 +7,7 @@ function setStorage(name, data) {
 }
 
 function accessStorage(name) {
-  let storageContent;
-  if (storageAvailable('localStorage')) {
-    storageContent = localStorage.getItem(name);
-    return storageContent;
-}
+  return storageAvailable('localStorage') ? localStorage.getItem(name) : ''
 }
 
-
-export {accessStorage, setStorage};
+export { accessStorage, setStorage };
