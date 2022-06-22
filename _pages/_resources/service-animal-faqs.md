@@ -179,20 +179,11 @@ A. No.  The Air Carrier Access Act is the Federal law that protects the rights 
 
 ## Resources  
 
-For more information about the ADA, please visit our website or call our toll-free number.  
+For more information about the ADA, please visit [ADA.gov](https://www.ada.gov) or call our toll-free number.  
 
-<div align="center">
-[ADA website](https://www.ada.gov)
-</div>
-
-To receive e-mail notifications when new ADA information is available, visit the ADA Website's home page and click the link near the bottom of the right-hand column.  
-<div align="center">
 **ADA INFORMATION LINE**  
-
 800-514-0301 (Voice) and 800-514-0383 (TTY)  
-
-M-W, F 9:30 a.m. – 5:30 p.m. , Th 12:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.
-</div>
+M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.  
 
 For people with disabilities, this publication is available in alternate formats.  
 

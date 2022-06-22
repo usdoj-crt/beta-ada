@@ -149,5 +149,5 @@ Require service dogs to be licensed and vaccinated, if all dogs are required to 
 
 The following technical assistance documents provide more helpful information about service animals:
 
-- [Frequently Asked Questions about Service Animals and the ADA](https://www.ada.gov/regs2010/service_animal_qa.html)
-- [ADA Requirements: Service Animals](https://www.ada.gov/service_animals_2010.htm)
+- [Frequently Asked Questions about Service Animals and the ADA]( {{'/resources/service-animals-faqs' | relative_url}})
+- [ADA Requirements: Service Animals]( {{'/resources/service-animals-2010-requirements' | relative_url}})
