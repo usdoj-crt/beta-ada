@@ -2,6 +2,7 @@ import { replaceState } from '../../utils/replaceHistory';
 import toggleSelectorState from '../../utils/taSelectors/updateTASelectors';
 import toggleVisibility from '../../utils/taSelectors/toggleVisibility';
 import totalResults from '../search/totalResultsTemplate';
+import { setStorage } from '../../utils/getSetlocalStorage';
 
 export default function attachBadge(element, state) {
   // Get our unordered list to put badges in:
@@ -15,6 +16,7 @@ export default function attachBadge(element, state) {
         const index = state.indexOf(value);
         state.splice(index, 1);
         replaceState(state, 'updatedState', `/resources/?filters=${state.join(';')}`);
+        setStorage('filters', state.join(';'));
         toggleSelectorState(element, state);
         document.getElementById('resultsListTarget').innerHTML = totalResults(
           toggleVisibility(state),
