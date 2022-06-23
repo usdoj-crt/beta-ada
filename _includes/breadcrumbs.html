@@ -1,0 +1,28 @@
+{% assign lang = page.lang %}
+{% if lang==nil %}{% assign lang="en" %}{% endif %}
+
+<nav class="usa-breadcrumb" aria-label="Breadcrumbs">
+  <svg class="usa-icon margin-right-1" aria-hidden="true" role="img">
+    <use xlink:href="{% asset img/sprite.svg @path %}#arrow_back"></use>
+  </svg>
+  <ol class="padding-left-1" vocab="http://schema.org/"
+  typeof="BreadcrumbList" class="usa-breadcrumb__list">
+    {% assign crumbs = page.url | remove:'/index.html' | remove:'/es' | remove: '/notices' | remove: '/2021' | remove: '/08' | remove: '/25' | split: '/' %}
+    <li property="itemListElement"
+    typeof="ListItem" class="usa-breadcrumb__list-item"><a property="item"
+    typeof="WebPage" href="/"><span property="name">{{ site.primary_navigation[0].name[lang] }}</span></a><meta property="position" content="1" /></li>
+    {% for crumb in crumbs offset: 1 %}
+    <li property="itemListElement"
+    typeof="ListItem" class="usa-breadcrumb__list-item">
+      {% if forloop.last %} {{ page.title }} {% else %}
+      <a aria-label="{{ crumb | replace:'-',' ' | remove:'.html' | capitalize | replace:'Topics','Explore Featured Topics' | replace:'Law and regs','Review Laws, Regulations & Standards' | replace:'Resources','View Guidance & Resource Materials' }}" property="item"
+      typeof="WebPage"
+        href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}"
+        ><span property="name">
+          {{ crumb | replace:'-',' ' | remove:'.html' | capitalize | replace:'Topics','Explore Featured Topics' | replace:'Law and regs','Review Laws, Regulations & Standards' | replace:'Resources','View Guidance & Resource Materials' | truncate: 25, '...' }}</span></a
+      ><meta property="position" content="{{crumb_limit}}" />
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ol>
+</nav>

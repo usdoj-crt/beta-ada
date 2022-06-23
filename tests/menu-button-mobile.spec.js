@@ -4,9 +4,12 @@ const HOME = 'http://localhost:4000/';
 const LINKS = [
   'Home',
   'Explore Featured Topics',
+  'Explore Topics',
   'Review Laws, Regulations & Standards',
+  'Review Laws & Regulations',
   'File a Complaint',
   'View Guidance & Resource Materials',
+  'View Resources'
 ];
 const INFOLINE = 'ADA Information Line';
 
@@ -32,6 +35,8 @@ test.describe('Mobile Menu tests', () => {
       LINKS[3],
       LINKS[4],
       LINKS[5],
+      LINKS[6],
+      LINKS[7],
     ]);
   });
 

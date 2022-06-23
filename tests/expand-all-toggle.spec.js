@@ -1,9 +1,9 @@
 const { test, expect } = require('@playwright/test');
 test('Test the open all accordions toggle', async ({ page }) => {
   // Go to http://localhost:4000/
-  await page.goto('http://localhost:4000/service-animals-faqs/');
+  await page.goto('http://localhost:4000/resources/service-animals-faqs/');
   // Click text=Open all sections
-  await page.locator('text=Open all sections').click();
+  await page.locator('button:has-text("Open all sections")').click();
   // Click summary:has-text("Q1. What is a service animal?")
   await page.locator('summary:has-text("Q1. What is a service animal?")').click();
   // Click summary:has-text("Q2. What does do work or perform tasks mean?")
@@ -13,13 +13,9 @@ test('Test the open all accordions toggle', async ({ page }) => {
   // Click summary:has-text("Q4. If someone's dog calms them when having an anxiety attack, does this qualify")
   await page.locator('summary:has-text("Q4. If someone\'s dog calms them when having an anxiety attack, does this qualify")').click();
   // Click text=Close all sections
-  await page.locator('text=Close all sections').click();
+  await page.locator('button:has-text("Close all sections")').click();
   // Click summary:has-text("Q16. Must a service animal be allowed to ride in an ambulance with its handler?")
   await page.locator('summary:has-text("Q16. Must a service animal be allowed to ride in an ambulance with its handler?")').click();
-  // Click text=Close all sections
-  await page.locator('text=Close all sections').click();
-  // Click text=Open all sections
-  await page.locator('text=Open all sections').click();
   // Click summary:has-text("Q1. What is a service animal?")
   await page.locator('summary:has-text("Q1. What is a service animal?")').click();
   // Click summary:has-text("Q2. What does do work or perform tasks mean?")
@@ -95,7 +91,7 @@ test('Test the open all accordions toggle', async ({ page }) => {
   // Click summary:has-text("Q37. Do commercial airlines have to comply with the ADA?")
   await page.locator('summary:has-text("Q37. Do commercial airlines have to comply with the ADA?")').click();
   // Click text=Open all sections
-  await page.locator('text=Open all sections').click();
+  await page.locator('button:has-text("Close all sections")').click();
 
-  await expect(page.locator('#crt-page--expandaccordions')).toHaveText('Close all sections');
+  await expect(page.locator('#crt-page--expandaccordions')).toHaveText('Open all sections');
 });
