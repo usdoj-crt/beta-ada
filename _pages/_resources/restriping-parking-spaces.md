@@ -16,6 +16,8 @@ n addition, businesses or privately owned facilities that provide goods or servi
 
 This compliance brief provides information about the features of accessible car and van parking spaces and how many accessible spaces are required when parking facilities are restriped.  
 
+{% asset project-images/shared-van-car-space-2010.jpg alt="An illustration showing a van-accessible parking space sharing an access aisle with an accessible parking space for a car" %}
+
 The required number of accessible parking spaces must be calculated separately for each parking facility, not calculated based on the total number of parking spaces provided on a site. One of six (or fraction of six) accessible parking spaces, but always at least one, must be van accessible.  
 
 Parking for hospital outpatient facilities, rehabilitation facilities, outpatient physical therapy facilities or residential facilities have substantially different requirements for accessibility (see 2010 Standards 208.2).  
@@ -137,6 +139,8 @@ Accessible parking spaces may be clustered in one or more facilities if equivale
 
 ## Features of Accessible Parking Spaces  
 
+{% asset project-images/60-96-space.jpg alt="An illustration of accessible parking spaces with 60-inch Minimum Width Access Aisle for Cars." %}
+
 ### Notes:  
 
 1. Parking space identification sign with the international symbol of accessibility complying with 703.7.2.1 mounted 60 inches minimum above the ground surface measured to the bottom of the sign.  
@@ -159,6 +163,8 @@ Access aisles may be located on either side of the parking space except for angl
 
 Van-accessible parking spaces incorporate the features of accessible parking spaces on the previous page and require the following additional features: a "van accessible" designation on the sign; different widths for the van parking space or the access aisle; and at least 98 inches of vertical clearance for the van parking space, access aisle, and vehicular route to and from the van-accessible space. The first image below shows a van-accessible space with a 60-inch minimum width access aisle. The second image shows a van-accessible space with a 96-inch minimum width access aisle. Both configurations are permitted and requirements for van-accessible signage and vertical clearance apply to both configurations.  
 
+{% asset project-images/60-132-space.jpg alt="An illustration of a minimum 132 inch wide van-accessible parking space with 60-inch minimum width access aisle." %}
+
 ### Notes (for illustrations above and below):  
 
 1. Parking space identification sign with the international symbol of accessibility and designation, "van accessible." Note, where four or fewer parking spaces are provided on a site, a sign identifying the accessible space, which must be van-accessible, is not required.  
@@ -166,6 +172,10 @@ Van-accessible parking spaces incorporate the features of accessible parking spa
 2. Vertical clearance of 98 inches minimum to accommodate van height at the vehicle parking space, the adjacent access aisle, and on the vehicular route to and from the van-accessible space.  
 
 3. Van parking space must be 132 inches wide minimum with an adjacent 60-inch wide minimum access aisle. A van parking space of 96 inches wide minimum width an adjacent 96-inch wide minimum access aisle is also permitted (see below).  
+
+{% asset project-images/96-96-space.jpg alt="An illustration of a minimum 96 inch wide van-accessible parking space with 96-inch minimum width access aisle." %}
+
+{% asset project-images/4-spaces-exception.jpg alt="An illustration showing the front of a convenience store with four parking spaces.  One parking space is a van-accessible space." %}
 
 ## Resources  
 
