@@ -8,6 +8,9 @@ lang: "en"
 news-item: true
 publish-date: 2022-03-18 00:00:00
 print: true
+sidenav-pdf:
+  title: Guidance on Web Accessibility and the ADA
+  filename: web-guidance.pdf
 tags:
   - web access
   - title ii
