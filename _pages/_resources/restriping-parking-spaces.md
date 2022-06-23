@@ -16,7 +16,7 @@ n addition, businesses or privately owned facilities that provide goods or servi
 
 This compliance brief provides information about the features of accessible car and van parking spaces and how many accessible spaces are required when parking facilities are restriped.  
 
-{% asset project-images/shared-van-car-space-2010.jpg alt="An illustration showing a van-accessible parking space sharing an access aisle with an accessible parking space for a car" %}
+{% asset project-images/shared-van-car-space-2010.jpg alt="An illustration showing a van-accessible parking space sharing an access aisle with an accessible parking space for a car" %}  
 
 The required number of accessible parking spaces must be calculated separately for each parking facility, not calculated based on the total number of parking spaces provided on a site. One of six (or fraction of six) accessible parking spaces, but always at least one, must be van accessible.  
 
@@ -25,109 +25,73 @@ Parking for hospital outpatient facilities, rehabilitation facilities, outpatien
 ## Minimum Number of Accessible Parking Spaces  
 <table class="usa-table">
 <thead>
-
 <tr>
-	<th scope="col">Total Number of Parking Spaces Provided in Parking Facility</th>
-						<th scope="col">(Column A) Minimum Number of Accessible Parking Spaces (car and van)</th>
-						<th scope="col">Mininum Number of Van-Accessible Parking Spaces (1 of six accessible spaces)</th>
-					</tr>
-          </thead>
-          <tbody>
-					<tr>
-						<th scope="row">
-							1 to 25
-					  </th>
-						<td>
-							1
-					  </td>
-						<td>
-							1
-						</td>
-					</tr>
-					<tr>
-						<th scope="row">26 to 50
-      </th>
-						<td>2
-      </td>
-						<td>1
-					  </td>
-					</tr>
-					<tr>
-						<th scope="row">51 to 75
-      </th>
-						<td>3
-      </td>
-						<td>1
-					  </td>
-					</tr>
-					<tr>
-						<th scope="row">76 to 100
-      </th>
-						<td>4
-      </td>
-						<td>1
-					  </td>
-					</tr>
-					<tr>
-						<th scope="row">101 to 150
-      </th>
-						<td>5
-      </td>
-						<td>1
-					  </td>
-					</tr>
-					<tr>
-						<th scope="row">151 to 200
-      </th>
-						<td>6
-      </td>
-						<td>1
-					  </td>
-					</tr>
-					<tr>
-						<th scope="row">201 to 300
-      </th>
-						<td>7
-      </td>
-						<td>2
-					  </td>
-					</tr>
-					<tr>
-						<th scope="row">301 to 400
-      </th>
-						<td>8
-      </td>
-						<td>2
-					  </td>
-					</tr>
-					<tr>
-						<th scope="row">401 to 500
-      </th>
-						<td>9
-      </td>
-						<td>2
-					  </td>
-					</tr>
-					<tr>
-					<th scope="row">500 to 1000
-      </th>
-						<td>2% of total parking <br/>provided in each <br/>lot or structure
-      </td>
-						<td>1/6 of Column A*
-					  </td>
-					</tr>
-					<tr>
-					<th scope="row">1001 and over
-					  </th>
-						<td>20 plus 1 <br/>for each 100 over 1000
-      </td>
-						<td>1/6 of Column A*
-					  </td>
-					</tr>
-                    <tr>
-                      <td colspan="3" align="right">*one out of every 6 accessible spaces</td></tr>
-				</tbody>
-		  </table>
+<th scope="col">Total Number of Parking Spaces Provided in Parking Facility</th>
+<th scope="col">(Column A) Minimum Number of Accessible Parking Spaces (car and van)</th>
+<th scope="col">Mininum Number of Van-Accessible Parking Spaces (1 of six accessible spaces)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">1 to 25</th>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<th scope="row">26 to 50</th>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<th scope="row">51 to 75</th>
+<td>3</td>
+<td>1</td>
+</tr>
+<tr>
+<th scope="row">76 to 100</th>
+<td>4</td>
+<td>1</td>
+</tr>
+<tr>
+<th scope="row">101 to 150</th>
+<td>5</td>
+<td>1</td>
+</tr>
+<tr>
+<th scope="row">151 to 200</th>
+<td>6</td>
+<td>1</td>
+</tr>
+<tr>
+<th scope="row">201 to 300</th>
+<td>7</td>
+<td>2</td>
+</tr>
+<tr>
+<th scope="row">301 to 400</th>
+<td>8</td>
+<td>2</td>
+</tr>
+<tr>
+<th scope="row">401 to 500</th>
+<td>9</td>
+<td>2</td>
+</tr>
+<tr>
+<th scope="row">500 to 1000</th>
+<td>2% of total parking <br/>provided in each <br/>lot or structure</td>
+<td>1/6 of Column A*</td>
+</tr>
+<tr>
+<th scope="row">1001 and over</th>
+<td>20 plus 1 <br/>for each 100 over 1000</td>
+<td>1/6 of Column A*</td>
+</tr>
+<tr>
+<td colspan="3" align="right">*one out of every 6 accessible spaces</td>
+</tr>
+</tbody>
+</table>  
 
 ## Location  
 
@@ -139,7 +103,7 @@ Accessible parking spaces may be clustered in one or more facilities if equivale
 
 ## Features of Accessible Parking Spaces  
 
-{% asset project-images/60-96-space.jpg alt="An illustration of accessible parking spaces with 60-inch Minimum Width Access Aisle for Cars." %}
+{% asset project-images/60-96-space.jpg alt="An illustration of accessible parking spaces with 60-inch Minimum Width Access Aisle for Cars." %}  
 
 ### Notes:  
 
@@ -157,13 +121,13 @@ Accessible parking spaces may be clustered in one or more facilities if equivale
 
 Where parking spaces are marked with lines, width measurements of parking spaces and access aisles are to centerlines, except for the end space which may include the full width of the line.  
 
-Access aisles may be located on either side of the parking space except for angled van parking spaces which must have access aisles located on the passenger side of the parking spaces.
+Access aisles may be located on either side of the parking space except for angled van parking spaces which must have access aisles located on the passenger side of the parking spaces.  
 
 ## Additional Features of Van-Accessible Parking Spaces  
 
 Van-accessible parking spaces incorporate the features of accessible parking spaces on the previous page and require the following additional features: a "van accessible" designation on the sign; different widths for the van parking space or the access aisle; and at least 98 inches of vertical clearance for the van parking space, access aisle, and vehicular route to and from the van-accessible space. The first image below shows a van-accessible space with a 60-inch minimum width access aisle. The second image shows a van-accessible space with a 96-inch minimum width access aisle. Both configurations are permitted and requirements for van-accessible signage and vertical clearance apply to both configurations.  
 
-{% asset project-images/60-132-space.jpg alt="An illustration of a minimum 132 inch wide van-accessible parking space with 60-inch minimum width access aisle." %}
+{% asset project-images/60-132-space.jpg alt="An illustration of a minimum 132 inch wide van-accessible parking space with 60-inch minimum width access aisle." %}  
 
 ### Notes (for illustrations above and below):  
 
@@ -173,21 +137,21 @@ Van-accessible parking spaces incorporate the features of accessible parking spa
 
 3. Van parking space must be 132 inches wide minimum with an adjacent 60-inch wide minimum access aisle. A van parking space of 96 inches wide minimum width an adjacent 96-inch wide minimum access aisle is also permitted (see below).  
 
-{% asset project-images/96-96-space.jpg alt="An illustration of a minimum 96 inch wide van-accessible parking space with 96-inch minimum width access aisle." %}
+{% asset project-images/96-96-space.jpg alt="An illustration of a minimum 96 inch wide van-accessible parking space with 96-inch minimum width access aisle." %}  
 
-{% asset project-images/4-spaces-exception.jpg alt="An illustration showing the front of a convenience store with four parking spaces.  One parking space is a van-accessible space." %}
+{% asset project-images/4-spaces-exception.jpg alt="An illustration showing the front of a convenience store with four parking spaces.  One parking space is a van-accessible space." %}  
 
 ## Resources  
 
 For more information about the ADA, please visit our website or call our toll-free number.
 
-[ADA.gov](https://www.ada.gov)
+[ADA.gov](https://www.ada.gov)  
 
 ADA Information Line  
 800-514-0301 (Voice) and  800-514-0383 (TTY)  
-Call Monday – Wednesday, Friday 9:30 a.m. – 5:30 p.m., Thursday 12:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.
+Call Monday – Wednesday, Friday 9:30 a.m. – 5:30 p.m., Thursday 12:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.  
 
-For people with disabilities, this publication is available in alternate formats.
+For people with disabilities, this publication is available in alternate formats.  
 
 ## Reference
 
