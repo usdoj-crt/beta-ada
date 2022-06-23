@@ -28,7 +28,7 @@ Parking for hospital outpatient facilities, rehabilitation facilities, outpatien
 
 <tr>
 	<th scope="col">Total Number of Parking Spaces Provided in Parking Facility</th>
-						<th scope="col">(Column A) Minimum Number of <br/>Accessible Parking Spaces <br />(car and van)</th>
+						<th scope="col">(Column A) Minimum Number of Accessible Parking Spaces (car and van)</th>
 						<th scope="col">Mininum Number of Van-Accessible Parking Spaces (1 of six accessible spaces)</th>
 					</tr>
           </thead>
@@ -191,8 +191,7 @@ For people with disabilities, this publication is available in alternate formats
 
 ## Reference
 
-[2010 ADA Standards for Accessible Design](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm)
-(also available from the ADA Information Line)  
+[2010 ADA Standards for Accessible Design](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm)  
 
 Sections [208](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010282) & [502](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1006250) Parking Spaces  
 
