@@ -11,12 +11,11 @@ class Subnav < Jekyll::Generator
         docs.each do |doc|
           content = Nokogiri::HTML(parser.convert(doc.content))
           doc.data["subnav"] = []
-          content.css('h2', 'p').each do |heading|
+          content.css('*').each do |heading|
             if heading.name == 'h2'
-              puts 'Heading'
               doc.data["subnav"] << { "title" => heading.text, "url" => [doc.url, heading['id']].join("#") }
-            elsif heading.name == 'p' and heading.text.include? "expand-heading="
-              puts 'Paragraph' 
+            end
+            if heading.name == 'p' and heading.text.include? "expand-heading="
               title = heading.text[heading.text=~/=/..-3].gsub("=", "").strip
               title = title[1..-2]
               doc.data["subnav"] << { "title" => title, "url" => [doc.url, title.downcase.gsub(" ", "-")].join("#") }
@@ -30,12 +29,11 @@ class Subnav < Jekyll::Generator
       if page.ext == ".md"
         doc = Nokogiri::HTML(parser.convert(page['content']))
         page.data["subnav"] = []
-        doc.css('h2', 'p').each do |heading|
+        doc.css('*').each do |heading|
           if heading.name == 'h2'
-            puts 'Heading'
             page.data["subnav"] << { "title" => heading.text, "url" => [page.url, heading['id']].join("#") }
-          elsif heading.name == 'p' and heading.text.include? "expand-heading="
-            puts 'Paragraph'
+          end
+          if heading.name == 'p' and heading.text.include? "expand-heading="
             title = heading.text[heading.text=~/=/..-3].gsub("=", "").strip
             title = title[1..-2]
             page.data["subnav"] << { "title" => title, "url" => [page.url, title.downcase.gsub(" ", "-")].join("#") }
