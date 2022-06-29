@@ -176,11 +176,10 @@ const callback = function (mutationsList, observer) {
 // Create an observer instance linked to the callback function
 const observer = new MutationObserver(callback);
 
-
-// Only do anything if the toogle button is on the page:
+// Only do anything if the toggle button is on the page:
 if (openAccordionsButton) {
-  // Start observing the target node for configured mutations
-  observer.observe(contentNode, config);
+  // Start observing the target node for configured mutations:
+  observer.observe(contentNode, config)
   //Get our list of item ids so we know what elements the button is controlling:
   getItemIds();
   

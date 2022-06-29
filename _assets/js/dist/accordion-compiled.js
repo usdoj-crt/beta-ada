@@ -30,3 +30,4 @@ eval("// Options for the observer (which mutations to observe)\nconst config = {
 /******/ 	
 /******/ })()
 ;
+
