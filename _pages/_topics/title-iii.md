@@ -194,34 +194,34 @@ We provide more examples on our page about <a href="/topics/effective-communicat
 </tbody>
 </table>
 
-## New Construction and Alterations
+{% include expand-accordions-wrapper.html expand-heading='New Construction and Alterations' %}
 
-When businesses build or alter buildings or other facilities, they must make them accessible to people with disabilities. To make them accessible, businesses need to follow the [ADA Standards for Accessible Design](https://www.ada.gov/2010ADAstandards_index.htm). The information below is intended to help get you started.
+When businesses build or alter buildings or other facilities, they must make them accessible to people with disabilities. To make them accessible, businesses need to follow the [ADA Standards for Accessible Design](https://www.ada.gov/2010ADAstandards_index.htm). The information below is intended to help get you started.  
 
 ### ADA Standards Basics
 
-{% details Chapter 1: Application and Administration %}
+{% details Chapter 1: Application and Administration expandable %}
 [Contains important information, including definitions for key terms used in the
 Standards](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#c1)
 {% enddetails %}
 
-{% details Chapter 2: Scoping %}
+{% details Chapter 2: Scoping expandable %}
 [Explains which elements and how many of them must be accessible. Scoping covers
 newly built facilities and altered portions of older facilities](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#c2)
 {% enddetails %}
 
-{% details Chapters 3 – 10:  Design and Technical Requirements %}
+{% details Chapters 3 – 10:  Design and Technical Requirements expandable %}
 [Provides design and technical requirements for elements, spaces, buildings, and
 facilities](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#c3)
 {% enddetails %}
 
 ### Common Topics
 
-{% details Accessible Route %}
+{% details Accessible Route expandable %}
 [Section 206](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010125) and [Chapter 4](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#c4)
 {% enddetails %}
 
-{% details Parking Spaces %}
+{% details Parking Spaces expandable %}
 Section [208](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010282) and [502](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1006250)
 
 Also see:
@@ -230,13 +230,13 @@ Also see:
   - [216.5 exception #1 (Limited parking)](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010471)
 {% enddetails %}
 
-{% details Sales and Service %}
+{% details Sales and Service expandable %}
 Section [227](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1011009) and [904](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#marker-1006947)
 
 <p>Note: Sections cover sales and service areas, such as check-out aisles and sales and service counters.</p>
 {% enddetails %}
 
-{% details Dining Surfaces %}
+{% details Dining Surfaces expandable %}
 Section [226](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1011000) and [902](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1006229)
 
 Also see:
@@ -244,19 +244,19 @@ Also see:
 - [Section 226.2 (Dispersion, applies to dinning surfaces)](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1011000)
 {% enddetails %}
 
-{% details Dressing, Fitting and Locker Rooms %}
+{% details Dressing, Fitting and Locker Rooms expandable %}
 Sections [222](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010754) and [803](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#marker-1008681)
 {% enddetails %}
 
-{% details Door, Doorways, and Gates %}
+{% details Door, Doorways, and Gates expandable %}
 [Section 404](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1006675)
 {% enddetails %}
 
-{% details Ramps %}
+{% details Ramps expandable %}
 [Section 405](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1006877)
 {% enddetails %}
 
-{% details Curb ramps %}
+{% details Curb ramps expandable %}
 [Section 406](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#marker-1012120)
 {% enddetails %}
 
