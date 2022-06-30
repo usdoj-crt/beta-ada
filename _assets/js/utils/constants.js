@@ -10,6 +10,7 @@ const TAGS = [
   'title-iii',
   'web-access',
   'employment'
+  'effective-communication'
 ];
 
 export { NUMBER_OF_RESULTS, SEARCH_ENDPOINT, ACCESS_KEY, AFFILIATE, TAGS };
