@@ -8,7 +8,7 @@
     "clean:js": "prettier --write \"_assets/js/**/*.js\"",
     "lint:js": "prettier --check \"_assets/js/**/*.js\"",
     "start:js": "webpack --progress --watch",
-    "start": "npm run start:js & bundle exec jekyll serve --livereload",
+    "start": "npm run start:js & bundle exec jekyll serve --livereload --trace",
     "test:a11y-desktop": "pa11y-ci --config ./.pa11yci-desktop --sitemap http://127.0.0.1:4000/sitemap.xml",
     "test:a11y-mobile": "pa11y-ci --config ./.pa11yci-mobile --sitemap http://127.0.0.1:4000/sitemap.xml",
     "test:ui": "npm run start:js & bundle exec jekyll serve --detach && playwright test"
@@ -31,4 +31,3 @@
     "webpack-cli": "^4.9.2"
   }
 }
-
