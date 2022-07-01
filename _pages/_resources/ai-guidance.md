@@ -2,6 +2,8 @@
 title: Algorithms, Artificial Intelligence, and Disability Discrimination in Hiring
 description: "This guidance explains how algorithms and artificial intelligence can lead to disability discrimination in hiring."
 permalink: /resources/ai-guidance/
+redirect_from:
+  - /ai-guidance/
 lead: |-
   This guidance explains how algorithms and artificial intelligence can lead to disability discrimination in hiring.  The [Department of Justice](https://www.ada.gov/employment.htm) enforces disability discrimination laws with respect to state and local government employers. The [Equal Employment Opportunity Commission](https://www.eeoc.gov/employees-job-applicants) (EEOC) enforces disability discrimination laws with respect to employers in the private sector and the federal government. The obligation to avoid disability discrimination in employment applies to both public and private employers.
 lang: "en"
@@ -18,7 +20,7 @@ tags:
   - title iii
 ---
 
-## How employers use algorithms and artificial intelligence  
+## How employers use algorithms and artificial intelligence
 
 **Employers, including state and local government employers, increasingly use hiring technologies to help them select new employees.**
 
@@ -29,23 +31,23 @@ For example, employers might use technology:
 - to use computer-based tests to measure an applicant’s skills or abilities; and
 - to score applicants’ resumes.
 
-Many hiring technologies are software programs that use algorithms or artificial intelligence. An **algorithm** is a set of steps for a computer to accomplish a task—for example, searching for certain words in a group of resumes. **Artificial intelligence** generally means that a computer is completing a task that is usually done by a person—for example, recognizing facial expressions during a video interview.  
+Many hiring technologies are software programs that use algorithms or artificial intelligence. An **algorithm** is a set of steps for a computer to accomplish a task—for example, searching for certain words in a group of resumes. **Artificial intelligence** generally means that a computer is completing a task that is usually done by a person—for example, recognizing facial expressions during a video interview.
 
 **While these technologies may be useful tools for some employers, they may also result in unlawful discrimination against certain groups of applicants, including people with disabilities.**
 
 ## How the ADA protects against disability discrimination in hiring
 
-The Americans with Disabilities Act (ADA) is a federal law that seeks to remove barriers for people with disabilities in everyday activities, including employment.  
+The Americans with Disabilities Act (ADA) is a federal law that seeks to remove barriers for people with disabilities in everyday activities, including employment.
 
-**The ADA applies to all parts of employment, including how an employer selects, tests, or promotes employees. An employer who chooses to use a hiring technology must ensure that its use does not cause unlawful discrimination on the basis of disability. {% fn 1 %}  
+**The ADA applies to all parts of employment, including how an employer selects, tests, or promotes employees. An employer who chooses to use a hiring technology must ensure that its use does not cause unlawful discrimination on the basis of disability. {% fn 1 %}
 
 **The ADA bars discrimination against people with many different types of disabilities.**
 
-Some examples of conditions that may be disabilities include: diabetes, cerebral palsy, deafness, blindness, epilepsy, mobility disabilities, intellectual disabilities, autism, and mental health disabilities. A disability will affect each person differently.  
+Some examples of conditions that may be disabilities include: diabetes, cerebral palsy, deafness, blindness, epilepsy, mobility disabilities, intellectual disabilities, autism, and mental health disabilities. A disability will affect each person differently.
 
 **When designing or choosing hiring technologies, employers must consider how their tools could impact different disabilities.**
 
->For example, a state transportation agency that designs its hiring technology to avoid discriminating against blind applicants may still violate the ADA if its technology discriminates against applicants with autism or epilepsy.  
+>For example, a state transportation agency that designs its hiring technology to avoid discriminating against blind applicants may still violate the ADA if its technology discriminates against applicants with autism or epilepsy.
 
 ## When employers’ use of hiring technologies may violate the ADA
 
