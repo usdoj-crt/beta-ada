@@ -3,7 +3,7 @@
   "version": "1.3.0",
   "scripts": {
     "federalist": "npm run build:js",
-    "build": "npm run build:js && JEKYLL_ENV=production bundle exec jekyll build",
+    "build": "npm run webpack --progress bundle exec jekyll build",
     "build:js": "`npm bin`/webpack",
     "clean": "bundle exec jekyll clean",
     "clean:js": "prettier --write \"_assets/js/**/*.js\"",
