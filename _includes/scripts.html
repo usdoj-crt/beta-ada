@@ -4,33 +4,29 @@
   id="_fed_an_ua_tag"
   src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency={{site.dap.agency}}{% if site.dap.subagency %}&subagency={{site.dap.subagency}}{% endif %}"
 ></script>
-{% endif %}
-
-{% if site.ga.ua and jekyll.environment=="production" %}
+{% endif %} {% if site.ga.ua and jekyll.environment=="production" %}
 <!-- Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga.ua }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
-  function gtag() { dataLayer.push(arguments); }
+  function gtag() {
+    dataLayer.push(arguments);
+  }
   gtag('js', new Date());
 
   /**
-    * `forceSSL` was used for analytics.js (the older Google Analytics script).
-    * It isn't documented for gtag.js, but the term occurs in the gtag.js code;
-    * figure it doesn't hurt to leave it in. -@afeld, 5/29/19
-    */
-  gtag('config', '{{ site.ga.ua }}', { 'anonymize_ip': true, 'forceSSL': true });
+   * `forceSSL` was used for analytics.js (the older Google Analytics script).
+   * It isn't documented for gtag.js, but the term occurs in the gtag.js code;
+   * figure it doesn't hurt to leave it in. -@afeld, 5/29/19
+   */
+  gtag('config', '{{ site.ga.ua }}', { anonymize_ip: true, forceSSL: true });
 </script>
-{% endif %}
-
-{% asset main.js !type %}
-{% asset dist/accordion-compiled.js !type %}
-{% if page.title == 'Search' %}
-{% asset dist/pagination-compiled.js !type %}
-{% endif %}
+{% endif %} 
+{% asset main.js !type %} 
+{% asset dist/accordion-compiled.js !type %} 
+{% if page.title == 'Search' %} {% asset dist/pagination-compiled.js !type %} {% endif %} 
 {% if page.title == 'Give Us Feedback' %}
 <script src="https://touchpoints.app.cloud.gov/touchpoints/73c5715c.js" async></script>
-{% endif %}
-{% if page.title == 'View Guidance & Resource Materials'%}
-{% asset dist/taResources-compiled.js %}
-{% endif %}
+{% endif %} 
+{% if page.title == 'View Guidance & Resource Materials'%} 
+{% asset dist/taResources-compiled.js %} {% endif %}
