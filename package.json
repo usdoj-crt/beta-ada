@@ -2,7 +2,7 @@
   "name": "federalist-uswds-jekyll",
   "version": "1.3.0",
   "scripts": {
-    "federalist": "`npm bin`/webpack `NODE_ENV=production",
+    "federalist": "npm NODE_ENV=production bin/webpack --progress",
     "build": "npm run build:js && JEKYLL_ENV=production bundle exec jekyll build",
     "build:js": "NODE_ENV=production webpack --progress",
     "clean": "bundle exec jekyll clean",
