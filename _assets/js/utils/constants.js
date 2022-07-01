@@ -9,7 +9,7 @@ const TAGS = [
   'title-ii',
   'title-iii',
   'web-access',
-  'employment'
+  'employment',
   'effective-communication'
 ];
 
