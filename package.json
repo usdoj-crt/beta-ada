@@ -4,7 +4,7 @@
   "scripts": {
     "federalist": "npm run build:js",
     "build": "npm run build:js && JEKYLL_ENV=production bundle exec jekyll build",
-    "build:js": "npm webpack",
+    "build:js": "`npm bin`/webpack",
     "clean": "bundle exec jekyll clean",
     "clean:js": "prettier --write \"_assets/js/**/*.js\"",
     "lint:js": "prettier --check \"_assets/js/**/*.js\"",
