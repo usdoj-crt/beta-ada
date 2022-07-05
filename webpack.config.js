@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  mode: "production",
+  mode: process.env.NODE_ENV || "production",
   entry: {
     pagination: './_assets/js/pagination.js',
     accordion: './_assets/js/expand-accordions.js',
