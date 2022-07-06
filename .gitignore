@@ -8,3 +8,4 @@ node_modules
 playwright-report/
 test-results/
 playwright-report/
+/_assets/js/dist/
