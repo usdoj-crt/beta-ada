@@ -25,7 +25,9 @@ $arrow-height: 24px;
       margin-top: 0;
     }
   }
+}
 
+.crt-landing--section {
   &__item {
     &:not(:last-child) {
       @include at-media-max(mobile-lg) {

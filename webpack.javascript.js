@@ -5,7 +5,7 @@ module.exports = {
   entry: {
     pagination: './_assets/js/pagination.js',
     accordion: './_assets/js/expand-accordions.js',
-    taResources: './_assets/js/ta-selectors.js'
+    taResources: './_assets/js/ta-selectors.js',
   },
   output: {
     path: path.resolve(__dirname, './_assets/js/', 'dist'),

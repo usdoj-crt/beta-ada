@@ -179,6 +179,7 @@ assets:
     - source: node_modules/uswds/dist/img/sprite.svg
       strip: node_modules/uswds/dist/
     - source: _pdfs/*
+    - source: _assets/css
   sources:
     - node_modules/anchor-js
     - node_modules/gumshoejs/dist

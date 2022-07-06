@@ -8,16 +8,17 @@
     "clean": "bundle exec jekyll clean",
     "clean:js": "prettier --write \"_assets/js/**/*.js\"",
     "lint:js": "prettier --check \"_assets/js/**/*.js\"",
-    "start:js": "NODE_ENV=development webpack --progress --watch",
-    "start": "npm run start:js & bundle exec jekyll serve --livereload --trace",
+    "start:js": "NODE_ENV=development webpack --config webpack.javascript.js --progress --watch",
+    "start:sass": "webpack --config webpack.sass.js --progress --watch",
+    "start": "npm run start:sass && npm run start:js & bundle exec jekyll serve --livereload --trace",
     "test:a11y-desktop": "pa11y-ci --config ./.pa11yci-desktop --sitemap http://127.0.0.1:4000/sitemap.xml",
     "test:a11y-mobile": "pa11y-ci --config ./.pa11yci-mobile --sitemap http://127.0.0.1:4000/sitemap.xml",
     "test:ui": "npm run start:js & bundle exec jekyll serve --detach && playwright test"
   },
   "dependencies": {
-    "anchor-js": "^4.3.1",
     "@babel/core": "^7.17.9",
     "@babel/preset-env": "^7.16.11",
+    "anchor-js": "^4.3.1",
     "babel-loader": "^8.2.3",
     "core-js": "^3.21.1",
     "gumshoejs": "^5.1.2",
@@ -28,7 +29,11 @@
   "devDependencies": {
     "@playwright/test": "^1.21.1",
     "babel-jest": "^28.0.2",
+    "css-loader": "^6.7.1",
+    "mini-css-extract-plugin": "^2.6.1",
     "pa11y-ci": "^3.0.1",
-    "prettier": "^2.5.1"
+    "prettier": "^2.5.1",
+    "sass": "^1.53.0",
+    "sass-loader": "^13.0.2"
   }
 }
