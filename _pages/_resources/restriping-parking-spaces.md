@@ -6,6 +6,7 @@ lead: |-
   When a business or State or local government restripes parking spaces in a parking lot or parking structure (parking facilities), it must provide accessible parking spaces as required by the 2010 ADA Standards for Accessible Design (2010 Standards).  
 lang: "en"
 publish-date: 2015-12-01 00:00:00
+print: true
 related-content: true
 tags:
   - parking
@@ -16,7 +17,9 @@ In addition, businesses or privately owned facilities that provide goods or serv
 
 This compliance brief provides information about the features of accessible car and van parking spaces and how many accessible spaces are required when parking facilities are restriped.  
 
-{% asset project-images/shared-van-car-space-2010.jpg alt="An illustration showing a van-accessible parking space sharing an access aisle with an accessible parking space for a car" %}  
+| {% asset project-images/shared-van-car-space-2010.jpg alt="An illustration showing a van-accessible parking space sharing an access aisle with an accessible parking space for a car" %} |  
+|:--:|  
+| <b>One of six accessible parking space, but always at least one, must be van-accessible</b> |
 
 The required number of accessible parking spaces must be calculated separately for each parking facility, not calculated based on the total number of parking spaces provided on a site. One of six (or fraction of six) accessible parking spaces, but always at least one, must be van accessible.  
 
@@ -80,15 +83,12 @@ Parking for hospital outpatient facilities, rehabilitation facilities, outpatien
 <tr>
 <th scope="row">500 to 1000</th>
 <td>2% of total parking <br/>provided in each <br/>lot or structure</td>
-<td>1/6 of Column A*</td>
+<td>1/6 of Column A (one out of every 6 accessible spaces)</td>
 </tr>
 <tr>
 <th scope="row">1001 and over</th>
 <td>20 plus 1 <br/>for each 100 over 1000</td>
-<td>1/6 of Column A*</td>
-</tr>
-<tr>
-<td colspan="3" align="right">*one out of every 6 accessible spaces</td>
+<td>1/6 of Column A (one out of every 6 accessible spaces)</td>
 </tr>
 </tbody>
 </table>  
@@ -103,7 +103,9 @@ Accessible parking spaces may be clustered in one or more facilities if equivale
 
 ## Features of Accessible Parking Spaces  
 
-{% asset project-images/60-96-space.jpg alt="An illustration of accessible parking spaces with 60-inch Minimum Width Access Aisle for Cars." %}  
+| {% asset project-images/60-96-space.jpg alt="An illustration of accessible parking spaces with 60-inch Minimum Width Access Aisle for Cars." %} |  
+|:--:|
+| <b>Accessible Parking Spaces with 60-inch Minimum Width Access Aisle for Cars</b> |
 
 ### Notes:  
 
@@ -127,7 +129,9 @@ Access aisles may be located on either side of the parking space except for angl
 
 Van-accessible parking spaces incorporate the features of accessible parking spaces on the previous page and require the following additional features: a "van accessible" designation on the sign; different widths for the van parking space or the access aisle; and at least 98 inches of vertical clearance for the van parking space, access aisle, and vehicular route to and from the van-accessible space. The first image below shows a van-accessible space with a 60-inch minimum width access aisle. The second image shows a van-accessible space with a 96-inch minimum width access aisle. Both configurations are permitted and requirements for van-accessible signage and vertical clearance apply to both configurations.  
 
-{% asset project-images/60-132-space.jpg alt="An illustration of a minimum 132 inch wide van-accessible parking space with 60-inch minimum width access aisle." %}  
+| {% asset project-images/60-132-space.jpg alt="An illustration of a minimum 132 inch wide van-accessible parking space with 60-inch minimum width access aisle." %}|  
+|:--:|  
+| <b>Van-Accessible Parking Space with 60-inch Minimum Width Access Aisle</b> |  
 
 ### Notes (for illustrations above and below):  
 
