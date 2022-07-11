@@ -5,7 +5,7 @@ permalink: /resources/restriping-parking-spaces/
 lead: |-
   When a business or State or local government restripes parking spaces in a parking lot or parking structure (parking facilities), it must provide accessible parking spaces as required by the 2010 ADA Standards for Accessible Design (2010 Standards).  
 lang: "en"
-publish-date: 2015-12-01 00:00:00
+publish-date: 2015-12-1 00:00:00
 print: true
 related-content: true
 tags:
@@ -141,19 +141,21 @@ Van-accessible parking spaces incorporate the features of accessible parking spa
 
 3. Van parking space must be 132 inches wide minimum with an adjacent 60-inch wide minimum access aisle. A van parking space of 96 inches wide minimum width an adjacent 96-inch wide minimum access aisle is also permitted (see below).  
 
-{% asset project-images/96-96-space.jpg alt="An illustration of a minimum 96 inch wide van-accessible parking space with 96-inch minimum width access aisle." %}  
+| {% asset project-images/96-96-space.jpg alt="An illustration of a minimum 96 inch wide van-accessible parking space with 96-inch minimum width access aisle." %} |
+|:--:|
+| <b>Van-Accessible Parking Space with 96-inch Minimum Width Access Aisle</b> |
 
-{% asset project-images/4-spaces-exception.jpg alt="An illustration showing the front of a convenience store with four parking spaces.  One parking space is a van-accessible space." %}  
+| {% asset project-images/4-spaces-exception.jpg alt="An illustration showing the front of a convenience store with four parking spaces.  One parking space is a van-accessible space." %} |
+|:--:|
+| <b>Where four or fewer parking spaces are provided on a site, signage identifying the van-accessible parking space is not required.</b> |
 
 ## Resources  
 
-For more information about the ADA, please visit our website or call our toll-free number.
+For more information about the ADA, please visit [ADA.gov](https://www.ada.gov) or call our toll-free number.
 
-[ADA.gov](https://www.ada.gov)  
-
-ADA Information Line  
-800-514-0301 (Voice) and  800-514-0383 (TTY)  
-Call Monday – Wednesday, Friday 9:30 a.m. – 5:30 p.m., Thursday 12:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.  
+**ADA Information Line**  
+800-514-0301 (Voice) and 800-514-0383 (TTY)  
+M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.  
 
 For people with disabilities, this publication is available in alternate formats.  
 
@@ -164,3 +166,5 @@ For people with disabilities, this publication is available in alternate formats
 Sections [208](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010282) & [502](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1006250) Parking Spaces  
 
 Section [206](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010125) Accessible Route  
+
+Duplication of this document is encouraged.  
