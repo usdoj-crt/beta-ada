@@ -117,13 +117,11 @@ In addition, covered entities are not required to provide any particular aid or 
 
 A critical and often overlooked component of ensuring success is comprehensive and ongoing staff training. Covered entities may have established good policies, but if front line staff are not aware of them or do not know how to implement them, problems can arise. Covered entities should teach staff about the ADA's requirements for communicating effectively with people who have communication disabilities. Many local disability organizations, including Centers for Independent Living, conduct ADA trainings in their communities. The Department's ADA Information Line can provide local contact information for these organizations.  
 
-For more information about the ADA, please visit our website or call our toll-free number.
+For more information about the ADA, please visit [ADA.gov](https://www.ada.gov) or call our toll-free number.  
 
-[ADA.gov](https://www.ada.gov)  
-
-ADA Information Line  
-800-514-0301 (Voice) and  800-514-0383 (TTY)  
-Call Monday – Wednesday, Friday 9:30 a.m. – 5:30 p.m., Thursday 12:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.  
+**ADA INFORMATION LINE**  
+800-514-0301 (Voice) and 800-514-0383 (TTY)  
+M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.  
 
 For people with disabilities, this publication is available in alternate formats.  
 
