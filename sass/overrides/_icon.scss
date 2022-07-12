@@ -1,5 +1,3 @@
-// Override USWDS mixin to use jekyll-assets asset_url()
-
 @mixin add-color-icon($icon-object, $contrast-bg) {
   $filename-base: map-get($icon-object, "name");
   $svg-height: map-get($icon-object, "svg-height");
@@ -53,9 +51,9 @@
     "usa-icons/#{$filename-base}.svg"
   );
 
-  $mask-props: asset_url("#{$path}/usa-icons/#{$filename-base}.svg") no-repeat center /
+  $mask-props: url("#{$path}/usa-icons/#{$filename-base}.svg") no-repeat center /
     #{$width} #{$height};
-  $image-props: asset_url("#{$path}/#{$filename-ie11}") no-repeat center / #{$width} #{$height};
+  $image-props: url("#{$path}/#{$filename-ie11}") no-repeat center / #{$width} #{$height};
 
   // Default background shorthand for browsers that don't support mask or supports.
   background: $image-props;

@@ -5,7 +5,7 @@ details {
     @extend .h4;
 
     @include u-border-bottom("primary-lighter");
-    background-image: asset_url("add--primary.svg"),
+    background-image: url("/assets/images/add--primary.svg"),
       linear-gradient(transparent, transparent);
     background-repeat: no-repeat;
     background-position: right units(1);
@@ -26,7 +26,7 @@ details {
       }
 
       &::before {
-        background: asset_url("book.svg") no-repeat left center;
+        background: url("/assets/images/book.svg") no-repeat left center;
         content: "";
         flex: none;
         height: 34px;
@@ -46,7 +46,7 @@ details {
   }
 
   &[open] > summary {
-    background-image: asset_url("remove--primary.svg"),
+    background-image: url("/assets/images/remove--primary.svg"),
       linear-gradient(transparent, transparent);
     background-repeat: no-repeat;
   }

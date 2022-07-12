@@ -27,7 +27,7 @@ label.usa-sr-only {
   .usa-search--small [type="submit"],
   .usa-search--small .usa-search__submit {
     background-color: color($theme-color-base-lighter);
-    background-image: asset_url("img/usa-icons/search.svg");
+    background-image: url("/assets/img/usa-icons/search.svg");
 
     &:hover {
       background-color: color("gray-cool-20");

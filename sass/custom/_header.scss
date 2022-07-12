@@ -105,7 +105,7 @@
     }
 
     .usa-nav__primary button[aria-expanded="false"] {
-      background-image: asset_url("img/usa-icons-bg/expand_more--white.svg");
+      background-image: url("/assets/img/usa-icons-bg/expand_more--white.svg");
     }
 
     .usa-nav__primary-item > .usa-current::after,
