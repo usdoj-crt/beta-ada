@@ -19,12 +19,11 @@
 
 // -------------------------------------
 // Import individual USWDS packages...
-@import "/node_modules/uswds/dist/scss/packages/_required";
 @import "overrides/_all";
-@import "/node_modules/uswds/dist/scss/packages/_global";
-
-@import "/node_modules/uswds/dist/scss/packages/_uswds-components";
-@import "/node_modules/uswds/dist/scss/packages/_uswds-utilities";
+@import "node_modules/uswds/dist/scss/packages/_required";
+@import "node_modules/uswds/dist/scss/packages/_global";
+@import "node_modules/uswds/dist/scss/packages/_uswds-components";
+@import "node_modules/uswds/dist/scss/packages/_uswds-utilities";
 
 // -------------------------------------
 // Import theme custom styles

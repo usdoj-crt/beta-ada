@@ -22,15 +22,15 @@ $email: 'mail_outline';
     }
 
     li:first-child::before {
-      background-image: url('/assets/images/#{$language}.svg');
+      background-image: url('../../images/#{$language}.svg');
     }
 
     li:nth-child(2)::before {
-      background-image: url('/assets/images/#{$email}.svg');
+      background-image: url('../../images/#{$email}.svg');
     }
 
     li:nth-child(3)::before {
-      background-image: url('/assets/images/#{$print}.svg');
+      background-image: url('../../images/#{$print}.svg');
     }
   }
   span {
