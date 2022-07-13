@@ -1,4 +1,4 @@
-(function() {
+export default function() {
   var beforePrint = function() {
     document.querySelectorAll("details").forEach(detail => {
       detail.setAttribute("open", true);
@@ -23,4 +23,4 @@
 
   window.onbeforeprint = beforePrint;
   window.onafterprint = afterPrint;
-})();
+};
