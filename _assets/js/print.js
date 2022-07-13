@@ -1,26 +1,26 @@
-export default function() {
-  var beforePrint = function() {
+const preparePageForPrint = function() {
+  const beforePrint = function() {
     document.querySelectorAll("details").forEach(detail => {
       detail.setAttribute("open", true);
     });
   };
-  var afterPrint = function() {
+  const afterPrint = function() {
     document.querySelectorAll("details").forEach(detail => {
       detail.removeAttribute("open");
     });
   };
 
   if (window.matchMedia) {
-    var mediaQueryList = window.matchMedia("print");
-    mediaQueryList.addListener(function(mql) {
-      if (mql.matches) {
+    const mediaQueryList = window.matchMedia("print");
+      if (mediaQueryList.matches) {
         beforePrint();
       } else {
         afterPrint();
       }
-    });
-  }
-
+    };
+  
   window.onbeforeprint = beforePrint;
   window.onafterprint = afterPrint;
 };
+
+preparePageForPrint();
