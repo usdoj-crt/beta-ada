@@ -1,16 +1,23 @@
 import { toggleButtonText } from './utils/expandAccordions/setToggleButtonState';
+import expandButtonTextIsOpen from './utils/expandAccordions/expandButtonTextIsOpen';
 
 const preparePageForPrint = function () {
   // Grab the button that will toggle the accordion opening:
   const openAccordionsButton = document.querySelector('#crt-page--expandaccordions');
 
   const beforePrint = function () {
+    // If the button exists, and the accordions are closed then toggle the button state so it is open:
+    if (expandButtonTextIsOpen(openAccordionsButton)) {
+      toggleButtonText(openAccordionsButton);
+    }
+
     document.querySelectorAll('details').forEach((detail) => {
       detail.setAttribute('open', true);
     });
   };
   const afterPrint = function () {
-    if (openAccordionsButton) {
+    // If the button exists, and the accordions are open then toggle the button state so it is closed:
+    if (expandButtonTextIsOpen(openAccordionsButton) === false) {
       toggleButtonText(openAccordionsButton);
     }
 
