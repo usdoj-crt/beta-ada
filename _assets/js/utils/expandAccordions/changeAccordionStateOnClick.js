@@ -1,5 +1,5 @@
 import getAccordions from './getAccordions';
-import getAccordionButtons from './getAccoridionButtons';
+import getAccordionButtons from './getAccordionButtons';
 import getDetails from './getDetails';
 import { toggleButtonText } from './setToggleButtonState';
 import { openDetails, closeDetails } from "./setDetailsElementState";
