@@ -2,32 +2,33 @@
   "name": "federalist-uswds-jekyll",
   "version": "1.3.0",
   "scripts": {
-    "build": "npm run build:js && JEKYLL_ENV=production bundle exec jekyll build",
-    "build:js": "NODE_ENVIRONMENT=production webpack --progress",
+    "federalist": "npm run build:js",
+    "build": "npm run webpack --progress bundle exec jekyll build",
+    "build:js": "`npm bin`/webpack",
     "clean": "bundle exec jekyll clean",
     "clean:js": "prettier --write \"_assets/js/**/*.js\"",
     "lint:js": "prettier --check \"_assets/js/**/*.js\"",
-    "start:js": "webpack --progress --watch",
-    "start": "npm run start:js & bundle exec jekyll serve --livereload",
+    "start:js": "NODE_ENV=development webpack --progress --watch",
+    "start": "npm run start:js & bundle exec jekyll serve --livereload --trace",
     "test:a11y-desktop": "pa11y-ci --config ./.pa11yci-desktop --sitemap http://127.0.0.1:4000/sitemap.xml",
     "test:a11y-mobile": "pa11y-ci --config ./.pa11yci-mobile --sitemap http://127.0.0.1:4000/sitemap.xml",
     "test:ui": "npm run start:js & bundle exec jekyll serve --detach && playwright test"
   },
   "dependencies": {
     "anchor-js": "^4.3.1",
-    "core-js": "^3.21.1",
-    "gumshoejs": "^5.1.2",
-    "uswds": "^2.13.1"
-  },
-  "devDependencies": {
     "@babel/core": "^7.17.9",
     "@babel/preset-env": "^7.16.11",
-    "@playwright/test": "^1.21.1",
-    "babel-jest": "^28.0.2",
     "babel-loader": "^8.2.3",
-    "pa11y-ci": "^3.0.1",
-    "prettier": "^2.5.1",
+    "core-js": "^3.21.1",
+    "gumshoejs": "^5.1.2",
+    "uswds": "^2.13.1",
     "webpack": "^5.69.1",
     "webpack-cli": "^4.9.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.21.1",
+    "babel-jest": "^28.0.2",
+    "pa11y-ci": "^3.0.1",
+    "prettier": "^2.5.1"
   }
 }

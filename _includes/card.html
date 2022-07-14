@@ -1,7 +1,7 @@
 {% assign lang = page.lang %}
 {% if lang==nil %}{% assign lang="en" %}{% endif %}
 
-<li class="tablet:grid-col-4 usa-card">
+<li class="tablet:grid-col-4 usa-card" {% if include.card.card.title == 'Service Animals' and page.title == 'The Americans with Disabilities Act' %} id="gtm-service-animals-card" {% endif %} >
   <div class="usa-card__container">
     <header class="usa-card__header">
       {% if include.heading_level == 2 %}

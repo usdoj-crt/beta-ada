@@ -23,59 +23,59 @@ const SAREQS = 'service-animals-2010-requirements/';
 
 test('Match screenshots of each page', async ({ page }) => {
   await page.goto(HOME);
-  expect(await page.screenshot()).toMatchSnapshot();
+  expect(await page.screenshot()).toMatchSnapshot({ maxDiffPixels: 50 });
 
   await page.goto(`${HOME}${TOPICS}`);
-  expect(await page.screenshot()).toMatchSnapshot();
+  expect(await page.screenshot()).toMatchSnapshot({ maxDiffPixels: 50 });
 
   await page.goto(`${HOME}${INTRO}`);
-  expect(await page.screenshot()).toMatchSnapshot();
+  expect(await page.screenshot()).toMatchSnapshot({ maxDiffPixels: 50 });
 
   await page.goto(`${HOME}${SERVICE}`);
-  expect(await page.screenshot()).toMatchSnapshot();
+  expect(await page.screenshot()).toMatchSnapshot({ maxDiffPixels: 50 });
 
   await page.goto(`${HOME}${PARKING}`);
-  expect(await page.screenshot()).toMatchSnapshot();
+  expect(await page.screenshot()).toMatchSnapshot({ maxDiffPixels: 50 });
 
   await page.goto(`${HOME}${MOBILITY}`);
-  expect(await page.screenshot()).toMatchSnapshot();
+  expect(await page.screenshot()).toMatchSnapshot({ maxDiffPixels: 50 });
 
   await page.goto(`${HOME}${COMMUNICATION}`);
-  expect(await page.screenshot()).toMatchSnapshot();
+  expect(await page.screenshot()).toMatchSnapshot({ maxDiffPixels: 50 });
 
   await page.goto(`${HOME}${LAWS}`);
-  expect(await page.screenshot()).toMatchSnapshot();
+  expect(await page.screenshot()).toMatchSnapshot({ maxDiffPixels: 50 });
 
   await page.goto(`${HOME}${COMPLAINT}`);
-  expect(await page.screenshot()).toMatchSnapshot();
+  expect(await page.screenshot()).toMatchSnapshot({ maxDiffPixels: 50 });
 
   await page.goto(`${HOME}${COMPLAINTES}`);
-  expect(await page.screenshot()).toMatchSnapshot();
+  expect(await page.screenshot()).toMatchSnapshot({ maxDiffPixels: 50 });
 
-  await page.goto(`${HOME}${CASES}`);
-  expect(await page.screenshot()).toMatchSnapshot();
+  await page.goto(`${HOME}${LAWS}${CASES}`);
+  expect(await page.screenshot()).toMatchSnapshot({ maxDiffPixels: 50 });
 
   await page.goto(`${HOME}${FEEDBACK}`);
-  expect(await page.screenshot()).toMatchSnapshot();
+  expect(await page.screenshot()).toMatchSnapshot({ maxDiffPixels: 50 });
 
   await page.goto(`${HOME}${INFOLINE}`);
-  expect(await page.screenshot()).toMatchSnapshot();
+  expect(await page.screenshot()).toMatchSnapshot({ maxDiffPixels: 50 });
 
   await page.goto(`${HOME}${COVID}`);
-  expect(await page.screenshot()).toMatchSnapshot();
+  expect(await page.screenshot()).toMatchSnapshot({ maxDiffPixels: 50 });
 
   await page.goto(`${HOME}${RESOURCES}${WEB}`);
-  expect(await page.screenshot()).toMatchSnapshot();
+  expect(await page.screenshot()).toMatchSnapshot({ maxDiffPixels: 50 });
 
   await page.goto(`${HOME}${RESOURCES}${AI}`);
-  expect(await page.screenshot()).toMatchSnapshot();
+  expect(await page.screenshot()).toMatchSnapshot({ maxDiffPixels: 50 });
 
   await page.goto(`${HOME}${RESOURCES}`);
-  expect(await page.screenshot()).toMatchSnapshot();
+  expect(await page.screenshot()).toMatchSnapshot({ maxDiffPixels: 50 });
 
   await page.goto(`${HOME}${RESOURCES}${SAFAQS}`);
-  expect(await page.screenshot()).toMatchSnapshot();
+  expect(await page.screenshot()).toMatchSnapshot({ maxDiffPixels: 50 });
 
   await page.goto(`${HOME}${RESOURCES}${SAREQS}`);
-  expect(await page.screenshot()).toMatchSnapshot();
+  expect(await page.screenshot()).toMatchSnapshot({ maxDiffPixels: 50 });
 });
