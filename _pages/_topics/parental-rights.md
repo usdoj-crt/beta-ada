@@ -1,6 +1,6 @@
 ---
 title: Rights of Parents with Disabilities
-description: The page can help child welfare agencies and family courts understand their obligations under Federal law to ensure that parents and prospective parents with disabilities receive equal treatment and equal access to parenting opportunities.
+description: This document can help child welfare agencies and family courts understand their obligations under Federal law to ensure that parents and prospective parents with disabilities receive equal treatment and equal access to parenting opportunities.
 lead: |-
   State and local child welfare agencies, as well as courts, are responsible for protecting your children and families. But they also need to ensure that as a  parent, guardian, or  prospective parent with a disability, you are not discriminated against based on disability. By doing so, courts and agencies not only will be helping to place your children in safe and caring homes—they will also be complying with the ADA.
 print: true
@@ -33,12 +33,17 @@ All services offered by child welfare agencies and courts need to comply with th
 
 ## Individualized Treatment for Parents  
 
-When making important decisions regarding a parent or prospective parent with a disability, a child welfare agency or a court must conduct an individualized assessment of the parent’s ability to provide for their child’s needs, wellbeing, and welfare. This means they must:  
-- Make a fair determination as to the parent’s ability to care for a child.  
-- Assess the parent on an individual basis.  
+When making important decisions regarding a parent or prospective parent with a disability, a child welfare agency or a court must conduct an individualized assessment of the parent’s ability to provide for their child’s needs, wellbeing, and welfare.  
 
+This means they must:  
+{% list check_circle %}
+{% list_item %}Make a fair determination as to the parent’s ability to care for a child.{% endlist_item %}
+{% list_item %}Assess the parent on an individual basis.{% endlist_item %}
+{% endlist %}
 They must not:  
-Rely on stereotypes about people with disabilities and how they parent.  
+{% list cancel %}
+{% list_item %}Rely on stereotypes about people with disabilities and how they parent.{% endlist_item %}
+{% endlist %}  
 
 ## Examples of How Child Welfare Agencies and Courts Can Provide Equal Access  
 
@@ -46,13 +51,12 @@ There are many different actions that a child welfare agency or court generally 
 
 For example, a child welfare agency or court generally must:  
 - Provide an interpreter at a court hearing for a father who is deaf and uses sign language.  
+- Provide large print and electronically accessible adoption materials for a prospective parent who is interested in adoption and has a vision disability.  
+  - Check out our information on [communicating effectively with people with disabilities]( {{'/resources/effective-communication' | relative_url}}) to learn more.  
 
 {% details Learn more about how the ADA protects others involved in the child welfare system who have a need for disability-related aids or services in order to communicate effectively—such as a relative or friend of a person seeking or receiving child welfare services. %}
 Check out Question and Answer 3 in [Protecting the Rights of Parents and Prospective Parents with Disabilities](https://www.ada.gov/doj_hhs_ta/child_welfare_ta.html).
 {% enddetails %}
-
-- Provide large print and electronically accessible adoption materials for a prospective parent who is interested in adoption and has a vision disability.  
-  - Check out our information on [communicating effectively with people with disabilities]( {{'/resources/effective-communication' | relative_url}}) to learn more.  
 
 An agency or court may also need to:  
 - Provide hands-on and individualized instruction to a  mother with an intellectual disability so that she can participate in parenting classes that are ordinarily provided in a group classroom format.  
