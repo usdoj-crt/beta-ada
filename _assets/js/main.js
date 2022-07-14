@@ -3,7 +3,6 @@
 //= require anchor.min.js 
 //= require ./modal.js
 //= require ./redirect-modal.js
-//= require ./print.js
 //= require ./print-button.js
 //= require ./search.js
 
