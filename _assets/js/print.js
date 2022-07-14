@@ -7,8 +7,8 @@ const preparePageForPrint = function () {
 
   const beforePrint = function () {
     // If the button exists, and the accordions are closed then toggle the button state so it is open:
-    if (expandButtonTextIsOpen(openAccordionsButton)) {
-      toggleButtonText(openAccordionsButton);
+    if (openAccordionsButton) {
+      expandButtonTextIsOpen(openAccordionsButton) ? toggleButtonText(openAccordionsButton) : null;
     }
 
     document.querySelectorAll('details').forEach((detail) => {
@@ -17,8 +17,8 @@ const preparePageForPrint = function () {
   };
   const afterPrint = function () {
     // If the button exists, and the accordions are open then toggle the button state so it is closed:
-    if (expandButtonTextIsOpen(openAccordionsButton) === false) {
-      toggleButtonText(openAccordionsButton);
+    if (openAccordionsButton) {
+      expandButtonTextIsOpen(openAccordionsButton) === false ? toggleButtonText(openAccordionsButton) : null;
     }
 
     document.querySelectorAll('details').forEach((detail) => {
