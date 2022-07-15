@@ -9,7 +9,8 @@ const TAGS = [
   'title-ii',
   'title-iii',
   'web-access',
-  'employment'
+  'employment',
+  'effective-communication'
 ];
 
 export { NUMBER_OF_RESULTS, SEARCH_ENDPOINT, ACCESS_KEY, AFFILIATE, TAGS };
