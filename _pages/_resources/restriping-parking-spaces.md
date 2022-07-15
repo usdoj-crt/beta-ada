@@ -153,7 +153,7 @@ Van-accessible parking spaces incorporate the features of accessible parking spa
 
 For more information about the ADA, please visit [ADA.gov](https://www.ada.gov) or call our toll-free number.
 
-**ADA Information Line**  
+[ADA Information Line]( {{'/infoline'| relative_url}})  
 800-514-0301 (Voice) and 800-514-0383 (TTY)  
 M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.  
 
