@@ -14,3 +14,5 @@ const printButtonFunction = () => {
         });
     }
 }
+
+printButtonFunction();
