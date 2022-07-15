@@ -1,4 +1,4 @@
-const printButtonFunction = () => {
+const printButton = () => {
     // Grab our print button:
     const printButton = document.getElementById('crt-page--printbutton');
     
@@ -15,4 +15,4 @@ const printButtonFunction = () => {
     }
 }
 
-printButtonFunction();
+printButton();
