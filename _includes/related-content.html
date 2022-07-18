@@ -1,23 +1,25 @@
-{% assign projectTags = site.data.tags.allowed-tags %} 
-{% assign pages=site.pages %} {% assign posts=site.posts %} 
-{% assign topics=site.topics %} 
-{% assign resources=site.resources %} 
-{% assign pagesAndPosts = pages | concat: posts | concat: topics | concat: resources | sort:"title" %} 
-{% assign tagArray = 'a,b' | split:"," %} 
-{% for tag in page.tags %} 
-{% for post in pagesAndPosts %} 
-{% if site.data.tags.allowed-tags contains tag and tag!='title ii' and tag!='title iii'  %} 
-{% if post.tags contains tag %} 
-{% if post.url != page.url %} 
-{% assign tagArray = tagArray | push: post %} 
-{% endif %} 
-{% endif %} 
-{% endif %} 
-{% endfor %} 
-{% endfor %} 
+{% assign projectTags = site.data.tags.allowed-tags %}
+{% assign pages=site.pages %} {% assign posts=site.posts %}
+{% assign topics=site.topics %}
+{% assign resources=site.resources %}
+{% assign pagesAndPosts = pages | concat: posts | concat: topics | concat: resources | sort:"title" %}
+<!-- The array containing the tags needs to be initialized with some content, not sure why -->
+{% assign tagArray = 'a,b' | split:"," %}
+{% for tag in page.tags %}
+{% for post in pagesAndPosts %}
+{% if site.data.tags.allowed-tags contains tag and tag!='title ii' and tag!='title iii'  %}
+{% if post.tags contains tag %}
+{% if post.url != page.url %}
+{% assign tagArray = tagArray | push: post %}
+{% endif %}
+{% endif %}
+{% endif %}
+{% endfor %}
+{% endfor %}
 {% assign tagArray = tagArray | uniq %}
 {% assign tagSize = tagArray | size %}
 
+{% if tagSize > 2 %}
 <div
   class="usa-summary-box related-content-container border-0 padding-2 bg-primary-lighter {% if tagSize <= 2 %} one-col {% elsif tagSize > 2 %} two-col {% endif %}"
   role="region"
@@ -27,10 +29,12 @@
     Related Content
   </h3>
   <div class="usa-summary-box__text">
-    {% for link in tagArray %} {% unless link.url==nil %}
+    {% for link in tagArray %}
+    {% unless link.url==nil %}
     <div class="margin-1">
       <a class="usa-summary-box__link" href="{{ link.url | relative_url }}">{{ link.title }}</a>
     </div>
     {% endunless %} {% endfor %}
   </div>
 </div>
+{% endif %}

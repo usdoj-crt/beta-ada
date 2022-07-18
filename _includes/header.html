@@ -6,11 +6,11 @@ assign shrink = "" %} {% unless lang=="en" %} {% assign shrink = "shrink-search"
     <div class="usa-navbar position-relative border-bottom-0">
       <div class="usa-logo" id="extended-logo">{% include logo.html %}</div>
       {% include phone.html %}
-      <button class="usa-menu-btn">{{site.data["en"]["i18n"].links.menu}}</button>
+      <button aria-expanded="false" class="usa-menu-btn">{{site.data["en"]["i18n"].links.menu}}</button>
     </div>
     <nav aria-label="{{site.data['en']['i18n'].aria.primary_navigation}}" class="usa-nav desktop:margin-top-3">
       <div class="usa-nav__inner">
-        <button class="usa-nav__close">
+        <button aria-expanded="true" class="usa-nav__close">
           {% asset img/usa-icons/close.svg alt="{{site.data['en']['i18n'].aria.close}}" %}
         </button>
         <ul class="usa-nav__primary usa-accordion">
