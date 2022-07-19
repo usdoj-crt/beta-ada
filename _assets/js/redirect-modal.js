@@ -1,12 +1,12 @@
 const redirectModal = () => {
   // note that modal.js must be loaded beforehand
-  const dom = document;
+  let dom = document;
   const modal_el = dom.getElementById("external-link--modal");
   const span = dom.getElementById("external-link--address");
   const links = dom.querySelectorAll(".external-link--popup");
   const continue_button = dom.getElementById("external-link--continue");
   let redirect;
-  for (const i = 0; i < links.length; i++) {
+  for (let i = 0; i < links.length; i++) {
     const link = links[i];
     link.onclick = function(event) {
       const href = event.target.href;

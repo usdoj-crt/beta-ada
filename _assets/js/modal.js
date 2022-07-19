@@ -1,5 +1,5 @@
 const modal = () => {
-  const dom = document;
+  let dom = document;
   window.CRT = window.CRT || {};
 
   const previous_onkeydown = dom.onkeydown;
