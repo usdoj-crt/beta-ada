@@ -3,7 +3,6 @@
 //= require anchor.min.js 
 //= require ./modal.js
 //= require ./redirect-modal.js
-//= require ./search.js
 
 var anchors = new AnchorJS();
 anchors.add(".crt-page h2:not([class*='usa']) h2:not(.noAnchor)");
