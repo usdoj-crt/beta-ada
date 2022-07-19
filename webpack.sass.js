@@ -35,11 +35,8 @@ module.exports = {
               sourceMap: true,
               sassOptions: {
                 includePaths: [
-                  './node_modules/uswds/dist/scss',
-                  './node_modules/uswds/dist/scss/packages/_required',
-                  './node_modules/uswds/dist/scss/packages/_global',
-                  './node_modules/uswds/dist/scss/packages/_uswds-components',
-                  './node_modules/uswds/dist/scss/packages/_uswds-utilities',
+                  "./node_modules/@uswds",
+                  "./node_modules/@uswds/uswds/packages",
                 ],
               },
             },

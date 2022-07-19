@@ -10,22 +10,18 @@
 
 // -------------------------------------
 // Import individual theme settings
-@import "_uswds-theme-general";
-@import "_uswds-theme-typography";
-@import "_uswds-theme-spacing";
-@import "_uswds-theme-color";
-@import "_uswds-theme-utilities";
-@import "_uswds-theme-components";
+@forward "uswds-theme-general";
+@forward "uswds-theme-typography";
+@forward "uswds-theme-spacing";
+@forward "uswds-theme-color";
+@forward "uswds-theme-utilities";
+@forward "uswds-theme-components";
 
 // -------------------------------------
 // Import individual USWDS packages...
-@import "overrides/_all";
-@import "node_modules/uswds/dist/scss/packages/_required";
-@import "node_modules/uswds/dist/scss/packages/_global";
-@import "node_modules/uswds/dist/scss/packages/_uswds-components";
-@import "node_modules/uswds/dist/scss/packages/_uswds-utilities";
+@forward "overrides/_all";
 
 // -------------------------------------
 // Import theme custom styles
-@import "mixins/_all";
-@import "custom/_all";
+@forward "mixins/_all";
+@forward "custom/_all";
