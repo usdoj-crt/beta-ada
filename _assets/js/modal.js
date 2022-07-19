@@ -9,7 +9,7 @@ const modal = () => {
   window.CRT.openModal = function (modal_el) {
     dom.onkeydown = function (event) {
       event = event || window.event;
-      const isEscape = false;
+      let isEscape = false;
       if ('key' in event) {
         isEscape = event.key === 'Escape' || event.key === 'Esc';
       } else {
@@ -18,7 +18,7 @@ const modal = () => {
       if (isEscape) {
         window.CRT.closeModal(modal_el);
       }
-      const isTab = false;
+      let isTab = false;
       if ('key' in event) {
         isTab = event.key === 'Tab';
       } else {
