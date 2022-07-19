@@ -10,12 +10,8 @@
 
 // -------------------------------------
 // Import individual theme settings
-@forward "uswds-theme-general";
-@forward "uswds-theme-typography";
-@forward "uswds-theme-spacing";
-@forward "uswds-theme-color";
-@forward "uswds-theme-utilities";
-@forward "uswds-theme-components";
+@forward "uswds-theme";
+@forward "uswds";
 
 // -------------------------------------
 // Import individual USWDS packages...

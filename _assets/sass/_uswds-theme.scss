@@ -1,0 +1,207 @@
+// CUSTOM SETTINGS
+
+@use "uswds-core" with (
+    /* ----------------------------------------
+    COLOR SETTINGS
+    ----------------------------------------
+    Read more about settings and
+    USWDS color tokens in the documentation:
+    https://designsystem.digital.gov/design-tokens/color
+    ----------------------------------------
+    */
+    /*
+    ----------------------------------------
+    Theme palette colors
+    ----------------------------------------
+    */
+    // Base colors
+    $theme-color-base-family: "gray",
+    $theme-color-base-light: "gray-30",
+    $theme-color-base: "gray-50",
+    $theme-color-base-darker: "gray-70",
+    $theme-color-base-ink: "gray-warm-80",
+
+    // Primary colors
+    $theme-color-primary-lightest: "blue-warm-5",
+    $theme-color-primary-lighter: "blue-warm-10",
+    $theme-color-primary: "blue-warm-70v",
+
+    // Links
+    $theme-link-color: "blue-warm-80v",
+    $theme-link-visited-color: "blue-warm-80v",
+    $theme-link-hover-color: "blue-50",
+    $theme-link-dark-hover-color: "blue-warm-30v",
+
+    /*----------------------------------------
+    COMPONENT SETTINGS
+    ----------------------------------------
+    Read more about settings and
+    USWDS style tokens in the documentation:
+    https://designsystem.digital.gov/design-tokens
+    ----------------------------------------
+    */
+
+    // Accordion
+    $theme-accordion-font-family: "heading",
+
+    // Banner
+    $theme-banner-background-color: "white",
+    $theme-banner-link-color: "primary-darker",
+    $theme-banner-max-width: 95rem,
+
+    // Footer
+    $theme-footer-max-width: 95rem,
+
+    // Header
+    $theme-header-max-width: 95rem,
+
+    // Hero
+    $theme-hero-image: asset_url("hero.jpg"),
+
+    // Site Alert
+    $theme-site-alert-max-width: 95rem,
+
+    /*----------------------------------------
+    GENERAL SETTINGS
+    ----------------------------------------
+    Read more about settings and
+    USWDS style tokens in the documentation:
+    https://designsystem.digital.gov/design-tokens
+    ----------------------------------------
+    */
+    /*
+    ----------------------------------------
+    Image path
+    ----------------------------------------
+    Relative image file path
+    ----------------------------------------
+    */
+    $theme-image-path: "img",
+    /*
+    ----------------------------------------
+    Show compile warnings
+    ----------------------------------------
+    Show Sass warnings when functions and
+    mixins use non-standard tokens.
+    AND
+    Show updates and notifications.
+    ----------------------------------------
+    */
+    $theme-show-compile-warnings: false,
+    $theme-show-notifications: false,
+
+    /*
+    ----------------------------------------
+    Focus styles
+    ----------------------------------------
+    */
+    $theme-focus-offset: 2px,
+    $theme-focus-width: 2px,
+
+    /*----------------------------------------
+    SPACING SETTINGS
+    ----------------------------------------
+    Read more about settings and
+    USWDS spacing units tokens in the
+    documentation:
+    https://designsystem.digital.gov/design-tokens/spacing-units
+    ----------------------------------------
+    */
+
+    /*
+    ----------------------------------------
+    Grid container max-width
+    ----------------------------------------
+    mobile
+    mobile-lg
+    tablet
+    tablet-lg
+    desktop
+    desktop-lg
+    widescreen
+    ----------------------------------------
+    */
+
+    $theme-grid-container-max-width: 95rem,
+
+
+    /*----------------------------------------
+    TYPOGRAPHY SETTINGS
+    ----------------------------------------
+    Read more about settings and
+    USWDS typography tokens in the documentation:
+    https://designsystem.digital.gov/design-tokens/typesetting/font-family/
+    ----------------------------------------
+    */
+
+    $theme-font-path: "fonts",
+
+    // sans-serif
+    $theme-font-type-sans: "public-sans",
+
+    // Headings -- not used
+    $theme-h1-font-size: "xl",
+    $theme-h2-font-size: "lg",
+    $theme-h3-font-size: "md",
+    $theme-heading-line-height: 3,
+    $theme-display-font-size: "3xl", // not used
+
+    /*
+    ----------------------------------------
+    Utility breakpoints
+    ----------------------------------------
+    Which breakpoints does your project
+    need? Select as `true` any breakpoint
+    used by utilities or layout grid
+    ----------------------------------------
+    */
+
+    $theme-utility-breakpoints: (
+    // 320px:
+    "mobile": true,
+    // 1200px:
+    "desktop-lg": true,
+    // 1400px:
+    "widescreen": true
+    ),
+
+    /*
+    ----------------------------------------
+    Global colors
+    ----------------------------------------
+    The following palettes will be added to
+    - background-color
+    - border-color
+    - color
+    - text-decoration-color
+    ----------------------------------------
+    */
+    $global-color-palettes: ("palette-color-default", "palette-color-state"),
+
+    /*
+    ----------------------------------------
+    Settings
+    ----------------------------------------
+    */
+
+    $align-items-settings: (
+    responsive: true
+    ),
+
+    $whitespace-settings: (
+    responsive: true
+    ),
+
+    $width-settings: (
+    responsive: fals
+    ),
+
+    /*
+    ----------------------------------------
+    Values
+    ----------------------------------------
+    */
+    // .margin
+    $margin-manual-values: (12: 6rem, 16: 8rem, 20: 10rem)
+
+)
