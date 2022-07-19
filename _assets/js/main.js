@@ -1,7 +1,6 @@
 //= require js/uswds.min.js
 //= require gumshoe.polyfills.min.js
-//= require anchor.min.js 
-//= require ./search.js
+//= require anchor.min.js
 
 var anchors = new AnchorJS();
 anchors.add(".crt-page h2:not([class*='usa']) h2:not(.noAnchor)");
