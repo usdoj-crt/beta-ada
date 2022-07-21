@@ -5,7 +5,12 @@ module.exports = {
   entry: {
     pagination: './_assets/js/pagination.js',
     accordion: './_assets/js/expand-accordions.js',
-    taResources: './_assets/js/ta-selectors.js'
+    taResources: './_assets/js/ta-selectors.js',
+    print: './_assets/js/print.js',
+    printButton: "./_assets/js/print-button.js",
+    modal: "./_assets/js/modal.js",
+    redirectModal: "./_assets/js/redirect-modal.js",
+    search: "./_assets/js/search.js"
   },
   output: {
     path: path.resolve(__dirname, './_assets/js/', 'dist'),

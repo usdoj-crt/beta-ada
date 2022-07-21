@@ -1,18 +1,19 @@
-(function(root) {
+const redirectModal = () => {
   // note that modal.js must be loaded beforehand
-  var modal_el = document.getElementById("external-link--modal");
-  var span = document.getElementById("external-link--address");
-  var links = document.querySelectorAll(".external-link--popup");
-  var continue_button = document.getElementById("external-link--continue");
-  var redirect;
-  for (var i = 0; i < links.length; i++) {
-    var link = links[i];
+  let dom = document;
+  const modal_el = dom.getElementById("external-link--modal");
+  const span = dom.getElementById("external-link--address");
+  const links = dom.querySelectorAll(".external-link--popup");
+  const continue_button = dom.getElementById("external-link--continue");
+  let redirect;
+  for (let i = 0; i < links.length; i++) {
+    const link = links[i];
     link.onclick = function(event) {
-      var href = event.target.href;
+      const href = event.target.href;
       event.preventDefault();
       // display the actual redirect link
       span.innerHTML = '<a href="' + href + '">' + href + "</a>";
-      root.CRT.openModal(modal_el);
+      window.CRT.openModal(modal_el);
       // set timeout for redirect
       clearTimeout(redirect);
       redirect = setTimeout(function() {
@@ -25,11 +26,13 @@
       // set up "continue" button to immediately redirect
       continue_button.onclick = function(event) {
         event.preventDefault();
-        var href = span.children[0].href;
+        const href = span.children[0].href;
         window.location.href = href;
       };
     };
   }
-  var cancel_modal = document.getElementById("external-link--cancel");
-  root.CRT.cancelModal(modal_el, cancel_modal);
-})(window);
+  const cancel_modal = dom.getElementById("external-link--cancel");
+  window.CRT.cancelModal(modal_el, cancel_modal);
+};
+
+redirectModal();
