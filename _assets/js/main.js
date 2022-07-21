@@ -1,13 +1,17 @@
-//= require js/uswds.min.js
-//= require gumshoe.polyfills.min.js
-//= require anchor.min.js
+import Gumshoe from "../../node_modules/gumshoejs"
+import AnchorJS from "anchor-js";
+import modal from "./modal";
+import redirectModal from "./redirect-modal";
+import printButton from "./print-button";
+import print from "./print";
+import search from "./search";
 
-var anchors = new AnchorJS();
+const anchors = new AnchorJS();
 anchors.add(".crt-page h2:not([class*='usa']) h2:not(.noAnchor)");
 
-var toc = document.getElementById("toc");
+const toc = document.getElementById("toc");
 if (toc) {
-  var spy = new Gumshoe("#toc a", {
+  let spy = new Gumshoe("#toc a", {
     nested: true,
     nestedClass: "active-parent"
   });
@@ -23,6 +27,12 @@ window.addEventListener("DOMContentLoaded", function() {
     expandPanel(location.hash);
   }
 });
+
+modal();
+redirectModal();
+print();
+printButton();
+search();
 
 function expandPanel(hash) {
   hash = hash.replace("#", "");

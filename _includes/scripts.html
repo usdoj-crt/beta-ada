@@ -22,13 +22,9 @@
   gtag('config', '{{ site.ga.ua }}', { anonymize_ip: true, forceSSL: true });
 </script>
 {% endif %}
-{% asset main.js !type %}
-{% asset dist/modal-compiled.js !type %}
-{% asset dist/redirectModal-compiled.js !type %}
-{% asset dist/print-compiled.js !type %}
-{% asset dist/printButton-compiled.js !type %}
+{% asset dist/uswds-compiled.js !type %}
+{% asset dist/main-compiled.js !type %}
 {% asset dist/accordion-compiled.js !type %}
-{% asset dist/search-compiled.js !type %}
 {% if page.title == 'Search' %} {% asset dist/pagination-compiled.js !type %} {% endif %}
 {% if page.title == 'Give Us Feedback' %}
 <script src="https://touchpoints.app.cloud.gov/touchpoints/73c5715c.js" async></script>
