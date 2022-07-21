@@ -6,8 +6,7 @@ module.exports = {
     accordion: './_assets/js/expand-accordions.js',
     main: "./_assets/js/main.js",
     pagination: './_assets/js/pagination.js',
-    taResources: './_assets/js/ta-selectors.js',
-    uswds: "./node_modules/uswds/src/js/start"
+    taResources: './_assets/js/ta-selectors.js'
   },
   output: {
     path: path.resolve(__dirname, './_assets/js/', 'dist'),

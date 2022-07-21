@@ -1,10 +1,16 @@
-import Gumshoe from "../../node_modules/gumshoejs"
+import Gumshoe from "gumshoejs"
 import AnchorJS from "anchor-js";
 import modal from "./modal";
 import redirectModal from "./redirect-modal";
 import printButton from "./print-button";
 import print from "./print";
 import search from "./search";
+
+modal();
+redirectModal();
+print();
+printButton();
+search();
 
 const anchors = new AnchorJS();
 anchors.add(".crt-page h2:not([class*='usa']) h2:not(.noAnchor)");
@@ -28,19 +34,13 @@ window.addEventListener("DOMContentLoaded", function() {
   }
 });
 
-modal();
-redirectModal();
-print();
-printButton();
-search();
-
 function expandPanel(hash) {
-  hash = hash.replace("#", "");
+  let hashReplaced = hash.replace("#", "");
 
-  var id = document.getElementById(hash);
+  const id = document.getElementById(hashReplaced);
   if (!id || !id.classList.contains("usa-accordion__heading")) return;
 
-  var button = id.querySelector("button");
+  const button = id.querySelector("button");
   if (button && button.getAttribute("aria-expanded") !== "true") {
     button.click();
   }
