@@ -77,7 +77,7 @@ Por desgracia, nos podemos investigar cada queja. Nosotros le avisaremos si no p
 
 Nosotros recibimos muchas quejas en virtud de la ADA de personas por todo Estados Unidos. Por lo tanto, nuestra revisión puede tardar hasta tres meses.
 
-Si, acabado este período de tres meses y todavía no nos hemos comunicado con usted, puede llamar a la línea informativa de la ADA para comprobar el estado de su queja. Puede comunicarse con la línea informativa al 1-800-514-0301 (voz) o 1800-514-0383 (TTY).
+Si, acabado este período de tres meses y todavía no nos hemos comunicado con usted, puede llamar a [la línea informativa de la ADA]( {{'/infoline/' | relative_url}}) para comprobar el estado de su queja. Puede comunicarse con la línea informativa al 1-800-514-0301 (voz) o 1800-514-0383 (TTY).
 
 Incluso si no tomamos ninguna medida formal, su queja nos provee con información importante, nos ayuda a identificar problemas que afectan a múltiples personas o grupos y nos ayuda a entender tendencias y temas emergentes.
 
