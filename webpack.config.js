@@ -3,14 +3,10 @@ const path = require('path');
 module.exports = {
   mode: process.env.NODE_ENV || "production",
   entry: {
-    pagination: './_assets/js/pagination.js',
     accordion: './_assets/js/expand-accordions.js',
-    taResources: './_assets/js/ta-selectors.js',
-    print: './_assets/js/print.js',
-    printButton: "./_assets/js/print-button.js",
-    modal: "./_assets/js/modal.js",
-    redirectModal: "./_assets/js/redirect-modal.js",
-    search: "./_assets/js/search.js"
+    main: "./_assets/js/main.js",
+    pagination: './_assets/js/pagination.js',
+    taResources: './_assets/js/ta-selectors.js'
   },
   output: {
     path: path.resolve(__dirname, './_assets/js/', 'dist'),

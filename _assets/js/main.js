@@ -1,13 +1,23 @@
-//= require js/uswds.min.js
-//= require gumshoe.polyfills.min.js
-//= require anchor.min.js
+import Gumshoe from "gumshoejs"
+import AnchorJS from "anchor-js";
+import modal from "./modal";
+import redirectModal from "./redirect-modal";
+import printButton from "./print-button";
+import print from "./print";
+import search from "./search";
 
-var anchors = new AnchorJS();
+modal();
+redirectModal();
+print();
+printButton();
+search();
+
+const anchors = new AnchorJS();
 anchors.add(".crt-page h2:not([class*='usa']) h2:not(.noAnchor)");
 
-var toc = document.getElementById("toc");
+const toc = document.getElementById("toc");
 if (toc) {
-  var spy = new Gumshoe("#toc a", {
+  let spy = new Gumshoe("#toc a", {
     nested: true,
     nestedClass: "active-parent"
   });
@@ -25,12 +35,12 @@ window.addEventListener("DOMContentLoaded", function() {
 });
 
 function expandPanel(hash) {
-  hash = hash.replace("#", "");
+  let hashReplaced = hash.replace("#", "");
 
-  var id = document.getElementById(hash);
+  const id = document.getElementById(hashReplaced);
   if (!id || !id.classList.contains("usa-accordion__heading")) return;
 
-  var button = id.querySelector("button");
+  const button = id.querySelector("button");
   if (button && button.getAttribute("aria-expanded") !== "true") {
     button.click();
   }

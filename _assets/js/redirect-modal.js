@@ -35,4 +35,4 @@ const redirectModal = () => {
   window.CRT.cancelModal(modal_el, cancel_modal);
 };
 
-redirectModal();
+export default redirectModal;

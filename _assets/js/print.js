@@ -39,4 +39,4 @@ const preparePageForPrint = function () {
   window.onafterprint = afterPrint;
 };
 
-preparePageForPrint();
+export default preparePageForPrint;
