@@ -11,8 +11,8 @@ card:
   title_alt: Parental Rights
   description: |-
     Parents and prospective parents with disabilities are entitled to equal treatment and equal access to parenting opportunities.
-  image: landing/intro_ada.jpg
-  alt: alt text goes here
+  image: landing/parental-rights.jpg
+  alt: Asian American father hugging his son
   href: /topics/parental-rights/
 ---
 
