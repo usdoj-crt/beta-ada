@@ -3,8 +3,9 @@ const path = require('path');
 module.exports = {
   mode: process.env.NODE_ENV || "production",
   entry: {
-    pagination: './_assets/js/pagination.js',
     accordion: './_assets/js/expand-accordions.js',
+    main: "./_assets/js/main.js",
+    pagination: './_assets/js/pagination.js',
     taResources: './_assets/js/ta-selectors.js'
   },
   output: {

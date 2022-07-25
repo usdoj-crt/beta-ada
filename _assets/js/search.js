@@ -1,9 +1,13 @@
-var queryString = window.location.search;
+const search = () => {
+  const queryString = window.location.search;
 
-if (queryString) {
-  var input = document.getElementById("query");
-  var params = new URLSearchParams(queryString.substring(1));
-  var value = params.get("query");
+  if (queryString) {
+    const input = document.getElementById('query');
+    const params = new URLSearchParams(queryString.substring(1));
+    const value = params.get('query');
 
-  if (value) input.value = value;
-}
+    if (value) input.value = value;
+  }
+};
+
+export default search;

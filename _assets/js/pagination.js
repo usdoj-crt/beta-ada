@@ -1,6 +1,7 @@
 import renderSearchResults from './utils/renderSearchResults';
 import { NUMBER_OF_RESULTS, SEARCH_ENDPOINT, ACCESS_KEY, AFFILIATE } from './utils/constants';
 import renderSearchPage from './utils/renderSearchPage';
+import noResults from './templates/search/noResultsTemplate';
 
 // Set up the search parameters:
 let urlParams = new URLSearchParams(window.location.search);
