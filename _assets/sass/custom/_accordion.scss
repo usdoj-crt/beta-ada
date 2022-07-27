@@ -1,3 +1,5 @@
+@use "uswds-core" as *;
+
 #crt-page--content {
   .usa-accordion__heading:not(:first-child),
   .usa-prose .usa-accordion__heading:not(:first-child) {

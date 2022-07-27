@@ -1,3 +1,5 @@
+@use "uswds-core" as *;
+
 @mixin add-background-svg($image-name, $image-path: $theme-image-path) {
   $image-name: unquote($image-name);
   background-image: url("#{$image-path}/#{$image-name}.svg"),

@@ -174,14 +174,14 @@ assets:
       - "IE 11"
       - "not dead"
   raw_precompile:
-    - source: node_modules/uswds/dist/fonts/**/*
-      strip: node_modules/uswds/dist/
-    - source: node_modules/uswds/dist/img/sprite.svg
-      strip: node_modules/uswds/dist/
+    - source: node_modules/@uswds/uswds/dist/fonts/**/*
+      strip: node_modules/@uswds/uswds/dist/
+    - source: node_modules/@uswds/uswds/dist/img/sprite.svg
+      strip: node_modules/@uswds/uswds/dist/
     - source: _pdfs/*
     - source: _assets/css
     - source: _assets/images
   sources:
     - node_modules/anchor-js
     - node_modules/gumshoejs/dist
-    - node_modules/uswds/dist
+    - node_modules/@uswds/uswds/dist

@@ -1,3 +1,5 @@
+@use "uswds-core" as *;
+
 @mixin format-input {
   & + [class$="__label"]::before {
     @content;

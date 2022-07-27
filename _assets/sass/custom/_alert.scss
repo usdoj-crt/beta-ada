@@ -1,3 +1,5 @@
+@use "uswds-core" as *;
+
 .usa-alert,
 .usa-alert__heading {
   color: color($theme-text-color) !important;
