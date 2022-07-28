@@ -1,5 +1,7 @@
 @use "uswds-core" as *;
 
+@use 'variables' as *;
+
 #crt-page--content {
   .usa-accordion__heading:not(:first-child),
   .usa-prose .usa-accordion__heading:not(:first-child) {
@@ -7,7 +9,7 @@
   }
 
   .usa-accordion__button {
-    @extend .h4;
+    @extend .h4 !optional;
 
     background-color: color($theme-color-primary-lightest);
     background-image: url("../../images/add--primary.svg");

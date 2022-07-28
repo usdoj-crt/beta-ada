@@ -159,7 +159,8 @@ exclude:
   - Dockerfile
   - docker-compose.yml
   - babel.config.json
-  - webpack.config.js
+  - webpack.javascript.js
+  - webpack.sass.js
   - playwright.config.js
   - /docs
   - /tests
@@ -180,7 +181,7 @@ assets:
       strip: node_modules/@uswds/uswds/dist/
     - source: _pdfs/*
     - source: _assets/css
-    - source: _assets/images
+    - source: _assets/images/*
   sources:
     - node_modules/anchor-js
     - node_modules/gumshoejs/dist

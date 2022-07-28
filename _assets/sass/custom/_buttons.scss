@@ -1,4 +1,5 @@
 @use "uswds-core" as *;
+@use 'variables' as *;
 
 .crt-button--large {
   background-color: color($theme-color-primary-darker);
@@ -17,6 +18,7 @@
 .crt-page--downloadpdf-button {
   background-color: color($theme-color-primary-darker);
   &:hover {
+    color: white !important;
     background: color($theme-link-hover-color);
   }
   &:focus {

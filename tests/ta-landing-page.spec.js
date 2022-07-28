@@ -24,8 +24,8 @@ test.describe('TA Landing Page UI Tests', () => {
     // Confirm the corresponding badge appears on the page
     await expect(page.locator('#title-ii-badge')).toBeVisible();
     // Make sure the content is filtered appropriately:
-    const titleTwoResults = await page.locator('.title-ii').count();
-    await expect(titleTwoResults).toBeGreaterThanOrEqual(5);
+    const titleTwoResults = await page.locator('.visibilityTarget:visible').count();
+    await expect(titleTwoResults).toBeGreaterThanOrEqual(7);
 
     await page.locator('label:has-text("Businesses")').click();
     // Make sure the button is checked:
@@ -37,8 +37,8 @@ test.describe('TA Landing Page UI Tests', () => {
     // Confirm the corresponding badge appears on the page
     await expect(page.locator('#title-iii-badge')).toBeVisible();
     // Make sure the content is filtered appropriately:
-    const titleThreeResults = await page.locator('.title-ii').count();
-    await expect(titleThreeResults).toBeGreaterThanOrEqual(5);
+    const titleThreeResults = await page.locator('.visibilityTarget:visible').count();
+    await expect(titleThreeResults).toBeGreaterThanOrEqual(7);
 
     // Confirm the corresponding badge is removed when the checkbox is unchecked
     await page.locator('label:has-text("State and local government")').click();
@@ -74,11 +74,17 @@ test.describe('TA Landing Page UI Tests', () => {
     );
     // Confirm the corresponding badge appears on the page
     await expect(page.locator('#service-animals-badge')).toBeVisible();
+    // Make sure the content is filtered appropriately:
+    const serviceAnimalResults = await page.locator('.visibilityTarget:visible').count();
+    await expect(serviceAnimalResults).toBeGreaterThanOrEqual(2);
 
-    // Add another badge:
+    // Add another badge and confirm that filtering is exclusive:
     await page.locator('label:has-text("Web access")').click();
     // Confirm the corresponding badge appears on the page
-    await expect(page.locator('#web-access-badge')).toBeVisible()
+    await expect(page.locator('#web-access-badge')).toBeVisible();
+    // Make sure the content is filtered appropriately:
+    const serviceAnimalAndWebAccessResults = await page.locator('.visibilityTarget:visible').count();
+    await expect(serviceAnimalAndWebAccessResults).toBe(0);
     // Confirm that the URL updates in the way expected
     await expect(page).toHaveURL(
       'http://localhost:4000/resources/?filters=service-animals;web-access'

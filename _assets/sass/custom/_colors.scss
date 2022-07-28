@@ -1,4 +1,5 @@
 @use "uswds-core" as *;
+@use 'variables' as *;
 
 .crt-blue {
   background-color: color($theme-color-primary-darker);

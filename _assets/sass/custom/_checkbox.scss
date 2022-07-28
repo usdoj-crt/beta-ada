@@ -1,7 +1,8 @@
 @use "uswds-core" as *;
+@use 'variables' as *;
 
 .crt-checkbox {
-  @extend .crt-dropdown;
+  @extend .crt-dropdown !optional;
 
   .crt-checkbox__label {
     padding-left: 0;
@@ -26,7 +27,7 @@
 }
 
 .crt-radio__label_area {
-  @extend .usa-radio__label;
+  @extend .usa-radio__label !optional;
   margin-bottom: 1rem;
   padding-left: 0;
   text-indent: 0;

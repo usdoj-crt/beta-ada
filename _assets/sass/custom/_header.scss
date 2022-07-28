@@ -1,4 +1,5 @@
 @use "uswds-core" as *;
+@use 'variables' as *;
 
 .crt-landing--logo_section {
   margin: 0;
@@ -37,11 +38,11 @@
 }
 
 .crt-landing--logo_subheading {
-  @extend .usa-footer__logo-subheading;
+  @extend .usa-footer__logo-subheading !optional;
 }
 
 .crt-landing--logo_heading {
-  @extend .usa-footer__logo-heading;
+  @extend .usa-footer__logo-heading !optional;
 }
 
 .usa-menu-btn {

@@ -1,10 +1,11 @@
 @use "uswds-core" as *;
+@use 'variables' as *;
 
 details {
   margin-bottom: units(2.5);
 
   & > summary {
-    @extend .h4;
+    @extend .h4 !optional;
 
     @include u-border-bottom("primary-lighter");
     background-image: url("../../images/add--primary.svg"),

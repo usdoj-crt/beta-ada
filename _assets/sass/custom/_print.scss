@@ -1,4 +1,5 @@
 @use "uswds-core" as *;
+@use 'variables' as *;
 
 @page {
   size: auto;
@@ -28,7 +29,10 @@
   .usa-menu-btn,
   .crt-menu--section,
   #crt-page--sidenav,
-  #fba-button {
+  #fba-button,
+  .usa-breadcrumb, 
+  #warning-banner,
+  #crt-page--expandaccordions--wrapper {
     display: none !important;
   }
 }

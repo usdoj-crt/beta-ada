@@ -1,4 +1,5 @@
 @use "uswds-core" as *;
+@use 'variables' as *;
 
 .crt-page {
   padding-top: 2rem;
@@ -25,7 +26,7 @@
         content: '';
         display: block;
         margin-top: 0.5rem;
-        @extend .crt-landing--separator_sub;
+        @extend .crt-landing--separator_sub !optional;
       }
     }
 
@@ -40,7 +41,7 @@
     }
 
     table {
-      @extend .usa-table;
+      @extend .usa-table !optional;
     }
   }
 }

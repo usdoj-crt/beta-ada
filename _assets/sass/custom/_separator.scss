@@ -1,4 +1,5 @@
 @use "uswds-core" as *;
+@use 'variables' as *;
 
 .crt-landing--separator {
   margin-top: 1.5rem;
@@ -10,7 +11,7 @@
 }
 
 .crt-landing--separator_small {
-  @extend .crt-landing--separator;
+  @extend .crt-landing--separator !optional;
   margin-top: 1rem;
   margin-bottom: 1rem;
 }

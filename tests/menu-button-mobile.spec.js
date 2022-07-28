@@ -23,7 +23,7 @@ test.describe('Mobile Menu tests', () => {
 
   test('Close the menu', async ({ page }) => {
     // Close the main menu:
-    await page.locator('button:has(img[alt="close"])').click();
+    await page.locator('button:has(img[alt="close menu"])').click();
   });
 
   test('Find each link in the menu', async ({ page }) => {

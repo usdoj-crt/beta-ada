@@ -14,7 +14,7 @@ module.exports = {
   module: {
     rules: [
       {
-        test: /\.(sass|scss|svg|png|jpe?g)$/,
+        test: /\.(scss|svg|png|jpe?g)$/,
         use: [
           MiniCssExtractPlugin.loader,
           {

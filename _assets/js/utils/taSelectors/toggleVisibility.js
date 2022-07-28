@@ -1,21 +1,17 @@
 export default function toggleVisibility(state) {
   const elements = Array.from(document.querySelectorAll('li.visibilityTarget'));
-  const visibleElements = [];
   elements.forEach((element) => {
-    if (state.length === 0 && !visibleElements.includes(element)) {
+    if (state.length === 0) {
       element.style.display='block';
-      visibleElements.push(element);  
     }
     else {
-      element.style.display='none';
-      const classes = Array.from(element.classList);
-      classes.forEach(item => {
-        if (state.includes(item) && !visibleElements.includes(element)) {
-          element.style.display = 'block';
-          visibleElements.push(element);
+      element.style.display='block';
+      const tagList = element.dataset.tags;
+      state.forEach(tag => {
+        if (!tagList.includes(tag)) {
+          element.style.display = 'none';
         }
       })
     }
   });
-  return visibleElements.length;
 }
