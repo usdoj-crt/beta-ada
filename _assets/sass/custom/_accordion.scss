@@ -12,7 +12,7 @@
     @extend .h4 !optional;
 
     background-color: color($theme-color-primary-lightest);
-    background-image: url("../../images/add--primary.svg");
+    background-image: url("./assets/images/add--primary.svg");
     color: color($theme-color-primary-darker);
 
     &:hover {
@@ -20,7 +20,7 @@
     }
 
     &[aria-expanded="false"] {
-      background-image: url("../../images/add--primary.svg");
+      background-image: url("./assets/images/add--primary.svg");
     }
   }
 

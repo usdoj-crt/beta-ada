@@ -182,6 +182,7 @@ assets:
     - source: _pdfs/*
     - source: _assets/css
     - source: _assets/images/*
+      strip: _assets/
   sources:
     - node_modules/anchor-js
     - node_modules/gumshoejs/dist
