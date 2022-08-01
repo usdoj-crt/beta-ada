@@ -24,12 +24,6 @@ module.exports = {
             }
           },
           {
-            loader: 'resolve-url-loader', //resolve-url-loader needs to come *BEFORE* sass-loader
-            options: {
-              sourceMap: true,
-            },
-          },
-          {
             loader: 'sass-loader',
             options: {
               sourceMap: true,

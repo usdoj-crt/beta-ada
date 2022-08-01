@@ -81,6 +81,142 @@ $theme-body-copy-line-height: 1.625;
   color: color($theme-color-primary-darker);
 }
 
+@mixin add-background-svg($image-name, $image-path: $theme-image-path) {
+  $image-name: unquote($image-name);
+  background-image: url("#{$image-path}/#{$image-name}.svg"),
+    linear-gradient(transparent, transparent);
+  background-repeat: no-repeat;
+}
+
+@mixin format-input {
+  & + [class$="__label"]::before {
+    @content;
+  }
+}
+
+.usa-checkbox__input {
+  &:checked,
+  &:checked:disabled {
+    @include format-input {
+      background-position: center center;
+      background-size: units(1.5) auto;
+      @media print {
+        background-image: none;
+        background-color: color("white");
+        content: url("#{$theme-image-path}/checkbox-check-print.svg");
+        text-indent: 0;
+      }
+    }
+  }
+}
+
+@mixin external-link(
+  $external-link: 'usa-icons/launch',
+  $external-link-hover: 'usa-icons/launch',
+  $image-path: $theme-image-path,
+  $contrast-bg: "base-darker"
+) {
+  &::after {
+    $external-link-size: 1.75ex;
+    background-image: url("#{$image-path}/#{$external-link}.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    content: "";
+    display: inline;
+    height: $external-link-size;
+    width: $external-link-size;
+    margin-left: units(2px);
+    vertical-align: middle;
+  }
+
+  &:hover::after {
+    @include add-background-svg("#{$external-link-hover}", $image-path);
+  }
+}
+
+.usa-hero {
+  background-image: $theme-hero-image;
+}
+
+@mixin add-color-icon($icon-object, $contrast-bg) {
+  $filename-base: map-get($icon-object, "name");
+  $svg-height: map-get($icon-object, "svg-height");
+  $svg-width: map-get($icon-object, "svg-width");
+  $aspect: $svg-width / $svg-height;
+  $height: if(
+    unitless(map-get($icon-object, "height")),
+    units(map-get($icon-object, "height")),
+    map-get($icon-object, "height")
+  );
+  $width: $height * $aspect;
+  $container-height: if(
+    map-has-key($icon-object, "container-height"),
+    units(map-get($icon-object, "container-height")),
+    null
+  );
+  $container-width: if(
+    map-has-key($icon-object, "container-width"),
+    units(map-get($icon-object, "container-width")),
+    null
+  );
+  $color: if(
+    map-has-key($icon-object, "color"),
+    map-get($icon-object, "color"),
+    "ink"
+  );
+  $color-variant: if(
+    map-has-key($icon-object, "color-variant"),
+    map-get($icon-object, "color-variant"),
+    "white"
+  );
+  $color-hover: if(
+    map-has-key($icon-object, "color-hover"),
+    map-get($icon-object, "color-hover"),
+    null
+  );
+  $rotate: if(
+    map-has-key($icon-object, "rotate"),
+    map-get($icon-object, "rotate"),
+    null
+  );
+  $path: if(
+    map-has-key($icon-object, "path"),
+    map-get($icon-object, "path"),
+    $theme-image-path
+  );
+  $ie11-variant: get-color-token-from-bg($contrast-bg, "white", "black");
+  $filename-ie11: if(
+    $ie11-variant == "white",
+    "usa-icons-bg/#{$filename-base}--white.svg",
+    "usa-icons/#{$filename-base}.svg"
+  );
+
+  $mask-props: url("#{$path}/usa-icons/#{$filename-base}.svg") no-repeat center /
+    #{$width} #{$height};
+  $image-props: url("#{$path}/#{$filename-ie11}") no-repeat center / #{$width} #{$height};
+
+  // Default background shorthand for browsers that don't support mask or supports.
+  background: $image-props;
+  display: inline-block;
+  height: if($container-height, $container-height, $height);
+  width: if($container-width, $container-width, $width);
+  @if $rotate {
+    transform: rotate($rotate);
+  }
+
+  // Mask supported styles
+  @supports (mask: url("")) {
+    background: none;
+    background-color: color($color);
+    mask: $mask-props;
+    @if $color-hover {
+      &:hover {
+        background-color: color($color-hover);
+      }
+    }
+  }
+}
+
 /******************************************
 Heading and body type styles
 ******************************************/

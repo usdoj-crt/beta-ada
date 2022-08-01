@@ -33,10 +33,10 @@
     @extend .h4 !optional;
     background-color: color($theme-color-primary-lighter);
     color: color($theme-color-primary-darker);
-    background-image: url('./assets/images/remove.svg');
+    background-image: url('./images/remove.svg');
 
     &[aria-expanded='false'] {
-      background-image: url('./assets/images/add.svg');
+      background-image: url('./images/add.svg');
     }
   }
 
@@ -64,13 +64,13 @@
 
   .usa-accordion__button {
     background-color: color($theme-color-primary-darker);
-    background-image: url('./assets/img/usa-icons-bg/remove--white.svg');
+    background-image: url('./img/usa-icons-bg/remove--white.svg');
     color: color('white');
     font-weight: normal;
     @include u-radius('md');
 
     &[aria-expanded='false'] {
-      background-image: url('./assets/img/usa-icons-bg/add--white.svg');
+      background-image: url('./img/usa-icons-bg/add--white.svg');
     }
   }
 

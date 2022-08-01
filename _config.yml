@@ -177,10 +177,11 @@ assets:
   raw_precompile:
     - source: node_modules/@uswds/uswds/dist/fonts/**/*
       strip: node_modules/@uswds/uswds/dist/
+    - source: node_modules/@uswds/uswds/dist/img/**/*
+      strip: node_modules/@uswds/uswds/dist/
     - source: node_modules/@uswds/uswds/dist/img/sprite.svg
       strip: node_modules/@uswds/uswds/dist/
     - source: _pdfs/*
-    - source: _assets/css
     - source: _assets/images/*
       strip: _assets/
   sources:
