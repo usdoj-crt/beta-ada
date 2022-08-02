@@ -9,7 +9,6 @@
 @media print {
   *:not(svg, use, path, [class*="usa-icon"]) {
     -webkit-print-color-adjust: exact;
-    print-color-adjust: exact;
     color: #000;
     background: #fff;
   }
