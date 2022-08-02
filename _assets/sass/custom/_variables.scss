@@ -285,3 +285,11 @@ a:visited {
 blockquote a {
   overflow-wrap: break-word;
 }
+
+.flex-align-center {
+  align-items: center;
+}
+
+.flex-align-end {
+  align-items: flex-end;
+}
