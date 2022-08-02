@@ -44,7 +44,7 @@ $arrow-height: 24px;
   padding-top: 0;
 
   @include at-media(tablet) {
-    background-image: $theme-hero-image;
+    background-image: url($theme-hero-image);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 400px;

@@ -26,7 +26,7 @@
   $theme-footer-max-width: 95rem,
   // Hero
   // *** FIX ME URL *** //
-  $theme-hero-image: 'hero.jpg',
+  $theme-hero-image: 'images/hero.jpg',
   // Site Alert
   $theme-site-alert-max-width: 95rem,
   $theme-image-path: 'img',
@@ -39,15 +39,26 @@
   $theme-font-path: 'fonts',
   // sans-serif
   $theme-font-type-sans: 'public-sans',
-  $theme-utility-breakpoints:
-    (
-      // 320px:
-      'mobile': true,
-      // 1200px:
-      'desktop-lg': true,
-      // 1400px:
-      'widescreen': true
-    ),
+  $theme-utility-breakpoints: (
+  // 160px:
+    "card": false,
+  // 240px:
+    "card-lg": false,
+  // 320px:
+    "mobile": true,
+  // 480px:
+    "mobile-lg": true,
+  // 640px:
+    "tablet": true,
+  // 800px:
+    "tablet-lg": false,
+  // 1024px:
+    "desktop": true,
+  // 1200px:
+    "desktop-lg": true,
+  // 1400px:
+    "widescreen": true
+),
   $global-color-palettes: ('palette-color-default', 'palette-color-state'),
   $align-items-settings: (responsive: true),
 
