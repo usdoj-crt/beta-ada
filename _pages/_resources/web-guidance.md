@@ -7,7 +7,7 @@ redirect_from:
 lead: |-
   This guidance describes how state and local governments and businesses open to the public can make sure that their websites are accessible to people with disabilities as required by the Americans with Disabilities Act (ADA).
 lang: "en"
-news-item: true
+news-item: false
 publish-date: 2022-03-18 00:00:00
 print: true
 sidenav-pdf:
