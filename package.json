@@ -15,9 +15,9 @@
     "test:ui": "npm run start:js & bundle exec jekyll serve --detach && playwright test"
   },
   "dependencies": {
-    "anchor-js": "^4.3.1",
     "@babel/core": "^7.17.9",
     "@babel/preset-env": "^7.16.11",
+    "anchor-js": "^4.3.1",
     "babel-loader": "^8.2.3",
     "core-js": "^3.21.1",
     "gumshoejs": "^5.1.2",
