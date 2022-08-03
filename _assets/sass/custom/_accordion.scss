@@ -12,7 +12,7 @@
     @extend .h4 !optional;
 
     background-color: color($theme-color-primary-lightest);
-    background-image: url("./images/add--primary.svg");
+    background-image: url("./images/remove--primary.svg");
     color: color($theme-color-primary-darker);
 
     &:hover {
