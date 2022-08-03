@@ -25,7 +25,16 @@
   .usa-menu-btn,
   .crt-menu--section,
   #crt-page--sidenav,
-  #fba-button {
+  #fba-button,
+  .usa-breadcrumb,
+  #warning-banner,
+  #crt-page--expandaccordions--wrapper {
     display: none !important;
+  }
+
+  #crt-page--content .usa-accordion__button,
+  #crt-page--content .usa-accordion__button[aria-expanded="false"],
+  .usa-accordion__button {
+    background-image: none;
   }
 }

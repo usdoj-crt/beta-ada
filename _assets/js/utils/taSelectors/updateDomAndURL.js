@@ -3,6 +3,7 @@ import renderBadges from '../../templates/badges/renderBadges';
 import toggleVisibility from './toggleVisibility';
 import totalResults from '../../templates/search/totalResultsTemplate';
 import { setStorage } from '../getSetlocalStorage';
+import countVisibleArticles from './countVisibleArticles';
 
 // Update badges and update the url:
 export default function updateDOMandURL(state) {
@@ -11,8 +12,9 @@ export default function updateDOMandURL(state) {
   // Set state in local storage
   setStorage('filters', state.join(';'));
   renderBadges(state);
+  toggleVisibility(state),
   document.getElementById('resultsListTarget').innerHTML = totalResults(
-    toggleVisibility(state),
+    countVisibleArticles(),
     'item'
   );
 };
