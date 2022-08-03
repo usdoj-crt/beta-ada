@@ -1,0 +1,335 @@
+# CMS Configuration
+# Backend is a required field. 
+backend:
+  # Specifies which git service will be used for the backend.
+  # Federalist requires Github. Users must have write permissions to the Github repo. 
+  name: github
+  # Our code repository:
+  repo: usdoj-crt/beta-ada
+  # Base URL - OAuth client hostname
+  base_url: https://federalistapp.18f.gov
+  # Auth Endpoint: Path to append to base_url for authentication requests.
+  auth_endpoint: external/auth/github
+  # Preview Context: Deploy preview links provide a way to view live content when it has not been published.
+  preview_context: federalist/build
+  # Branch - the branch in the repository to fetch content from and push published changes to.
+  branch: main
+  # Pull (or Merge) Requests label prefix when using editorial workflow.
+  cms_label_prefix: netlify-cms/
+
+# Publish mode: Editorial workflow provides more control over the publishing process. All unpublished entries will be arranged in a board according to their status, and they can be further reviewed and edited before going live.
+# Optional field.
+publish_mode: editorial_workflow
+
+# Media Folder: The media_folder option specifies the folder path where uploaded files should be saved, relative to the base of the repo.
+# Required.
+media_folder: _assets/images
+
+# Search: since site search is already managed by Federalist, we are going to set this value to false. It defaults to true.
+search: false
+
+# Slug type: The slug option allows you to change how filenames for entries are created and sanitized. It also applies to filenames of media inserted via the default media library.
+slug: 
+  # Sanitize filenames (slugs) according to RFC3986. The only allowed characters are (0-9, a-z, A-Z, _, -, ~).
+  encoding: ascii
+  # Set to true to remove diacritics from slug characters before sanitizing. This is often helpful when using ascii encoding.
+  clean_accents: true
+  # The replacement string used to substitute unsafe characters, defaults to -.
+  sanitize_replacement: "-"
+
+collections:
+  # Site settings:
+  
+  # Pages:
+  - label: Pages
+    name: pages
+    files: 
+    # 404 error page:
+      - label: "404"
+        name: "404"
+        file: _pages/404.md
+        fields:  
+          - label: Permalink
+            name: permalink
+            widget: string
+          - label: Title
+            name: title
+            widget: string
+          - label: Sitemap
+            name: sitemap
+            widget: boolean
+          - label: Sidenav
+            name: sidenav
+            widget: boolean
+          - label: Body
+            name: body
+            widget: markdown
+    # File a complaint page:
+      - label: File a Complaint
+        name: file-a-complaint
+        file: _pages/file-a-complaint.md
+        fields:   
+          - label: Title
+            name: title
+            widget: string
+          - label: Description
+            name: description
+            widget: string
+          - label: Permalink
+            name: permalink
+            widget: string
+          - label: Lead
+            name: lead
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
+      # Index page:
+      - label: Index
+        name: index
+        file: _pages/index.md
+        fields:   
+          - label: Permalink
+            name: permalink
+            widget: string
+          - label: Layout
+            name: layout
+            widget: hidden
+            default: default
+          - label: Title
+            name: title
+            widget: string
+          - label: Description
+            name: description
+            widget: string
+          # Alert component data
+          - label: Alert
+            name: alert
+            widget: object
+            collapsed: true
+            fields:
+              - label: Content
+                name: content
+                widget: string
+              - label: Heading
+                name: heading
+                widget: string
+              - label: Link
+                name: link
+                widget: object
+                fields:
+                  - label: Href
+                    name: href
+                    widget: string
+                  - label: Link Text
+                    name: text
+                    widget: string
+          # Hero component data
+          - label: Hero
+            name: hero
+            widget: object
+            fields: 
+              - label: Alt
+                name: alt 
+                widget: object
+                fields:   
+                  - label: Desktop
+                    name: desktop
+                    widget: string
+                  - label: Mobile
+                    name: mobile
+                    widget: string
+              - label: Content
+                name: content
+                widget: string
+              - label: Heading
+                name: heading
+                widget: string
+          # Understand section data
+          - label: Understand
+            name: understand
+            widget: object
+            fields: 
+              - label: Heading
+                name: heading
+                widget: string
+              - label: Lead
+                name: lead
+                widget: string
+              - label: Content
+                name: content
+                widget: string
+          # History section data
+          - label: History
+            name: history
+            widget: object
+            fields:
+              - label: Content
+                name: content
+                widget: string
+              - label: Heading
+                name: heading
+                widget: string
+              - label: Lead
+                name: lead
+                widget: string
+              - label: Paragraph1
+                name: paragraph1
+                widget: string
+              - label: Paragraph2
+                name: paragraph2
+                widget: string
+          # Report section data
+          - label: Report
+            name: report
+            widget: object
+            fields:
+              - label: Heading
+                name: heading
+                widget: string
+              - label: Lead
+                name: lead
+                widget: string
+              - label: Steps
+                name: steps
+                widget: list
+                fields: 
+                  - label: Heading
+                    name: heading
+                    widget: string
+                  - label: Content
+                    name: content
+                    widget: string
+              - label: Subheading
+                name: subheading
+                widget: string
+              - label: Link
+                name: link
+                widget: object
+                fields: 
+                  - label: Text
+                    name: text
+                    widget: string
+          # Index page markdown content
+          - label: Body
+            name: body
+            widget: markdown
+      # Infoline page: 
+      - label: Infoline
+        name: infoline
+        file: _pages/infoline.md
+        fields: 
+          - label: Title
+            name: title
+            widget: string
+          - label: Desciption
+            name: description
+            widget: string
+          - label: Permalink
+            name: permalink
+            widget: string
+          - label: Lead
+            name: lead
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
+      # Topics page:
+      - label: Topics
+        name: topics
+        file: _pages/topics.md
+        fields:
+        - label: Permalink
+          name: permalink
+          widget: string
+        - label: Title
+          name: title
+          widget: string
+        - label: Layout
+          name: layout
+          widget: hidden
+        - label: Lead
+          name: lead
+          widget: string
+        - label: Body
+          name: body
+          widget:  markdown
+    # Subpages which share the same information structure can be edited in folder collections
+    # Topic pages:
+  - label: Topics
+    name: topics
+    folder: _pages/_topics
+    create: true
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Description
+        name: description
+        widget: string
+      - label: Lead
+        name: lead
+        widget: string
+      - label: Featured
+        name: featured
+        widget: boolean
+      - label: Weight
+        name: weight
+        widget: number
+      - label: Card
+        name: card
+        widget: object
+        collapsed: false
+        fields: 
+          - label: Title
+            name: title
+            widget: string
+          - label: Description
+            name: description
+            widget: string
+          - label: Image
+            name: image
+            widget: image
+          - label: Alt
+            name: alt
+            widget: string
+          - label: Href
+            name: href
+            widget: string
+      - label: Body
+        name: body
+        widget: markdown
+    # Laws and regulations pages
+  - label: Law and Regs
+    name: law-and-regs
+    folder: _pages/law-and-regs
+    create: true
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Lead
+        name: lead
+        widget: string
+      - label: Permalink
+        name: permalink
+        widget: string
+      - label: Sidenav
+        name: sidenav
+        widget: boolean
+      - label: Body
+        name: body
+        widget: markdown
+    # Posts under the Notices pages
+  - label: Notices
+    name: notices-posts
+    folder: notices/_posts
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: 
+      - label: Title
+        name: title
+        widget: string
+      - label: Body
+        name: body
+        widget: markdown
