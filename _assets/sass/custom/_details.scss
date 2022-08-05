@@ -3,6 +3,9 @@
 
 details {
   margin-bottom: units(2.5);
+  ::-webkit-details-marker {
+    display: none;
+  }
 
   & > summary {
     @extend .h4 !optional;
