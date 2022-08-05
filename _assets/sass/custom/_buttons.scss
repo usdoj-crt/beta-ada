@@ -24,6 +24,7 @@
   &:focus {
     background: color($theme-link-hover-color);
   }
+  width: max-content;
 }
 
 .crt-page--downloadpdf-button {
