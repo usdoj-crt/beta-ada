@@ -1,8 +1,8 @@
 # CMS Configuration
-# Backend is a required field. 
+# Backend is a required field.
 backend:
   # Specifies which git service will be used for the backend.
-  # Federalist requires Github. Users must have write permissions to the Github repo. 
+  # Federalist requires Github. Users must have write permissions to the Github repo.
   name: github
   # Our code repository:
   repo: usdoj-crt/beta-ada
@@ -29,7 +29,7 @@ media_folder: _assets/images
 search: false
 
 # Slug type: The slug option allows you to change how filenames for entries are created and sanitized. It also applies to filenames of media inserted via the default media library.
-slug: 
+slug:
   # Sanitize filenames (slugs) according to RFC3986. The only allowed characters are (0-9, a-z, A-Z, _, -, ~).
   encoding: ascii
   # Set to true to remove diacritics from slug characters before sanitizing. This is often helpful when using ascii encoding.
@@ -39,16 +39,16 @@ slug:
 
 collections:
   # Site settings:
-  
+
   # Pages:
   - label: Pages
     name: pages
-    files: 
+    files:
     # 404 error page:
       - label: "404"
         name: "404"
         file: _pages/404.md
-        fields:  
+        fields:
           - label: Permalink
             name: permalink
             widget: string
@@ -68,18 +68,25 @@ collections:
       - label: File a Complaint
         name: file-a-complaint
         file: _pages/file-a-complaint.md
-        fields:   
+        fields:
           - label: Title
             name: title
             widget: string
           - label: Description
             name: description
-            widget: string
+            widget: text
           - label: Permalink
             name: permalink
             widget: string
           - label: Lead
             name: lead
+            widget: text
+          - label: Language
+            name: lang
+            widget: string
+            default: 'en'
+          - label: Translation Reference
+            name: ref
             widget: string
           - label: Body
             name: body
@@ -88,7 +95,7 @@ collections:
       - label: Index
         name: index
         file: _pages/index.md
-        fields:   
+        fields:
           - label: Permalink
             name: permalink
             widget: string
@@ -101,7 +108,7 @@ collections:
             widget: string
           - label: Description
             name: description
-            widget: string
+            widget: text
           # Alert component data
           - label: Alert
             name: alert
@@ -110,7 +117,7 @@ collections:
             fields:
               - label: Content
                 name: content
-                widget: string
+                widget: text
               - label: Heading
                 name: heading
                 widget: string
@@ -128,37 +135,37 @@ collections:
           - label: Hero
             name: hero
             widget: object
-            fields: 
+            fields:
               - label: Alt
-                name: alt 
+                name: alt
                 widget: object
-                fields:   
+                fields:
                   - label: Desktop
                     name: desktop
-                    widget: string
+                    widget: text
                   - label: Mobile
                     name: mobile
-                    widget: string
+                    widget: text
               - label: Content
                 name: content
-                widget: string
+                widget: text
               - label: Heading
                 name: heading
-                widget: string
+                widget: text
           # Understand section data
           - label: Understand
             name: understand
             widget: object
-            fields: 
+            fields:
               - label: Heading
                 name: heading
                 widget: string
               - label: Lead
                 name: lead
-                widget: string
+                widget: text
               - label: Content
                 name: content
-                widget: string
+                widget: text
           # History section data
           - label: History
             name: history
@@ -166,19 +173,30 @@ collections:
             fields:
               - label: Content
                 name: content
-                widget: string
+                widget: text
               - label: Heading
                 name: heading
                 widget: string
               - label: Lead
                 name: lead
-                widget: string
+                widget: text
               - label: Paragraph1
                 name: paragraph1
-                widget: string
+                widget: text
               - label: Paragraph2
                 name: paragraph2
+                widget: text
+          # News section data
+          - label: News
+            name: News
+            widget: object
+            fields:
+              - label: Heading
+                name: heading
                 widget: string
+              - label: Lead
+                name: lead
+                widget: text
           # Report section data
           - label: Report
             name: report
@@ -189,11 +207,11 @@ collections:
                 widget: string
               - label: Lead
                 name: lead
-                widget: string
+                widget: text
               - label: Steps
                 name: steps
                 widget: list
-                fields: 
+                fields:
                   - label: Heading
                     name: heading
                     widget: string
@@ -202,11 +220,11 @@ collections:
                     widget: string
               - label: Subheading
                 name: subheading
-                widget: string
+                widget: text
               - label: Link
                 name: link
                 widget: object
-                fields: 
+                fields:
                   - label: Text
                     name: text
                     widget: string
@@ -214,23 +232,23 @@ collections:
           - label: Body
             name: body
             widget: markdown
-      # Infoline page: 
+      # Infoline page:
       - label: Infoline
         name: infoline
         file: _pages/infoline.md
-        fields: 
+        fields:
           - label: Title
             name: title
             widget: string
           - label: Desciption
             name: description
-            widget: string
+            widget: text
           - label: Permalink
             name: permalink
             widget: string
           - label: Lead
             name: lead
-            widget: string
+            widget: text
           - label: Body
             name: body
             widget: markdown
@@ -247,10 +265,28 @@ collections:
           widget: string
         - label: Layout
           name: layout
+          default: full
           widget: hidden
         - label: Lead
           name: lead
+          widget: text
+        - label: Body
+          name: body
+          widget:  markdown
+      # Resources page:
+      - label: Resources
+        name: Resources
+        file: _pages/resources.md
+        fields:
+        - label: Permalink
+          name: permalink
           widget: string
+        - label: Title
+          name: title
+          widget: string
+        - label: Lead
+          name: lead
+          widget: text
         - label: Body
           name: body
           widget:  markdown
@@ -266,36 +302,129 @@ collections:
         widget: string
       - label: Description
         name: description
+        widget: text
+      - label: Short Title
+        name: short title
         widget: string
       - label: Lead
         name: lead
-        widget: string
+        widget: text
       - label: Featured
         name: featured
         widget: boolean
-      - label: Weight
-        name: weight
-        widget: number
+      - label: Print
+        name: print
+        widget: boolean
+      - label: Related Content
+        name: related content
+        widget: boolean
+      - label: Tags
+        name: tags
+        widget: select
+        options: ["artificial intelligence", "effective communication" , "employment","service animals","title ii","title iii","web access"]
+        multiple: true
+        min: 0
       - label: Card
         name: card
         widget: object
         collapsed: false
-        fields: 
+        fields:
           - label: Title
             name: title
             widget: string
+          - label: Title Alt
+            name: title alt
+            widget: string
           - label: Description
             name: description
-            widget: string
+            widget: text
           - label: Image
             name: image
             widget: image
           - label: Alt
             name: alt
             widget: string
+          - label: Position
+            name: position
+            widget: string
           - label: Href
             name: href
             widget: string
+      - label: Body
+        name: body
+        widget: markdown
+  # Resources pages:
+  - label: Resources
+    name: resources
+    folder: _pages/_resources
+    create: true
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Description
+        name: description
+        widget: text
+      - label: Lead
+        name: lead
+        widget: text
+      - label: Permalink
+        name: permalink
+        widget: string
+      - label: Redirect from
+        name: redirect_from
+        widget: select
+        multiple: true
+        options: ["/ai-guidance/", "/web-guidance/"]
+        min: 0
+      - label: Language
+        name: lang
+        widget: select
+        multiple: false
+        default: "en"
+        options: ["en", "es"]
+      - label: Print
+        name: print
+        widget: boolean
+      - label: Publish Date
+        name: publish-date
+        widget: datetime
+        default: ""
+        date_format: "YYYY-MM-DD" # e.g. 24.12.2021
+        time_format: "hh:mm:ss" # e.g. 21:07
+        format: "LLL"
+        picker_utc: false
+      - label: Updated On Date
+        name: updated-date
+        widget: datetime
+        default: ""
+        date_format: "YYYY-MM-DD" # e.g. 24.12.2021
+        time_format: "hh:mm:ss" # e.g. 21:07
+        format: "LLL"
+        picker_utc: false
+      - label: News Item
+        name: news-item
+        widget: boolean
+      - label: Sidenav PDF
+        name: sidenav-pdf
+        widget: object
+        fields:
+          - label: Title
+            name: title
+            widget: string
+          - label: Filename
+            name: filename
+            widget: string
+      - label: Related Content
+        name: related content
+        widget: boolean
+        default: false
+      - label: Tags
+        name: tags
+        widget: select
+        options: ["artificial intelligence", "effective communication" , "employment","parking","service animals","title ii","title iii","web access"]
+        multiple: true
+        min: 0
       - label: Body
         name: body
         widget: markdown
@@ -310,7 +439,7 @@ collections:
         widget: string
       - label: Lead
         name: lead
-        widget: string
+        widget: text
       - label: Permalink
         name: permalink
         widget: string
@@ -326,9 +455,37 @@ collections:
     folder: notices/_posts
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields: 
+    fields:
       - label: Title
         name: title
+        widget: string
+      - label: Body
+        name: body
+        widget: markdown
+  # Spanish Translations
+  - label: Español
+    name: es
+    folder: _pages/es/
+    create: true
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Description
+        name: description
+        widget: text
+      - label: Permalink
+        name: permalink
+        widget: string
+      - label: Lead
+        name: lead
+        widget: text
+      - label: Language
+        name: lang
+        default: 'es'
+        widget: string
+      - label: Translation Reference
+        name: Reference
         widget: string
       - label: Body
         name: body
