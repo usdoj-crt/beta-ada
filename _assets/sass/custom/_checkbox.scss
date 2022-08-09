@@ -1,0 +1,80 @@
+@use "uswds-core" as *;
+@use 'variables' as *;
+
+.crt-checkbox {
+  @extend .crt-dropdown !optional;
+
+  .crt-checkbox__label {
+    padding-left: 0;
+  }
+}
+
+.multicheckboxes-container {
+  @include u-border(1px, $theme-color-primary-darker);
+  height: 14rem;
+  overflow-y: scroll;
+  position: relative;
+  border-radius: 3px;
+
+  ul {
+    padding: 0;
+    margin: 0.5rem;
+    .crt-checkbox__label::before {
+      width: 1rem;
+      height: 1rem;
+    }
+  }
+}
+
+.crt-radio__label_area {
+  @extend .usa-radio__label !optional;
+  margin-bottom: 1rem;
+  padding-left: 0;
+  text-indent: 0;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  &:before {
+    top: 0;
+    vertical-align: middle;
+  }
+
+  .label-text {
+    position: relative;
+    bottom: units(3);
+    margin-bottom: 0;
+
+    .question--label {
+      margin-top: 0;
+      margin-bottom: units(1);
+      padding-left: units(5);
+      border-bottom: 1px solid color($theme-color-base-lighter);
+      padding-bottom: 0.5rem;
+    }
+
+    ul {
+      padding-inline-start: 20px;
+    }
+
+    .examples-title {
+      @include text--body-copy__small();
+      text-transform: uppercase;
+      font-weight: bold;
+      color: color($theme-color-base-darker);
+    }
+
+    .examples {
+      margin-top: units(1);
+    }
+
+    @include at-media('mobile-lg') {
+      .help-text__small,
+      .examples-title,
+      ul.examples {
+        padding-left: units(5) !important;
+      }
+    }
+  }
+}

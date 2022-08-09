@@ -1,0 +1,43 @@
+@use "uswds-core" as *;
+@use 'variables' as *;
+
+@page {
+  size: auto;
+  margin: 20mm;
+}
+
+@media print {
+  *:not(svg, use, path, [class*="usa-icon"]) {
+    -webkit-print-color-adjust: exact;
+    color: #000;
+    background: #fff;
+  }
+  body {
+    margin: 0px;
+  }
+  #crt-page--content {
+    width: 100% !important;
+  }
+  .usa-accordion__content {
+    border-bottom: 1px solid color($theme-color-base-darker);
+    display: block !important;
+  }
+  footer,
+  .usa-banner,
+  .usa-skipnav,
+  .usa-menu-btn,
+  .crt-menu--section,
+  #crt-page--sidenav,
+  #fba-button,
+  .usa-breadcrumb,
+  #warning-banner,
+  #crt-page--expandaccordions--wrapper {
+    display: none !important;
+  }
+
+  #crt-page--content .usa-accordion__button,
+  #crt-page--content .usa-accordion__button[aria-expanded="false"],
+  .usa-accordion__button {
+    background-image: none;
+  }
+}

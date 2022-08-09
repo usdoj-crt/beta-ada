@@ -1,0 +1,29 @@
+@use "uswds-core" as *;
+@use 'variables' as *;
+
+#selector-badges {
+  .button-wrapper {
+    display: flex;
+    flex-direction: row;
+    background-color: transparent;
+    color: #162e51;
+    box-shadow: none;
+    border: 1px solid #1a4480;
+    @include at-media(mobile) {
+      width: max-content;
+    }
+    @include at-media(tablet) {
+      width: 100%;
+    }
+    justify-content: flex-start;
+
+    button {
+      width: min-content;
+    }
+
+    svg {
+      width: 16px;
+      height: 16px;
+    }
+  }
+}
