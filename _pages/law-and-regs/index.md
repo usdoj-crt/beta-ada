@@ -35,6 +35,6 @@ Public accommodations include most businesses and nonprofits that are open to th
 
 ## Cases
 
-The Department of Justice enforces the ADA through lawsuits and settlement agreements to achieve greater access, inclusion, and equal opportunity for people with disabilities. This page outlines the steps to get you started.
+The Department of Justice enforces the ADA through lawsuits and settlement agreements to achieve greater access, inclusion, and equal opportunity for people with disabilities.
 
 [View the Cases page]( {{'/law-and-regs/cases' | relative_url}})
