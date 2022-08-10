@@ -1,0 +1,41 @@
+@use "uswds-core" as *;
+@use 'variables' as *;
+
+.usa-summary-box {
+  #related-content-header {
+    margin-top: 0.5rem !important;
+  }
+}
+
+.one-col {
+  @include at-media-max(mobile) {
+    width: 100%;
+    .usa-summary-box__text {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+  @include at-media(tablet) {
+    width: max-content;
+    .usa-summary-box__text {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+}
+
+.two-col {
+  @include at-media-max(mobile) {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  @include at-media(tablet) {
+    width: 100%;
+    .usa-summary-box__text {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: auto;
+    }
+  }
+}
