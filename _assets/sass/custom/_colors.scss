@@ -1,0 +1,22 @@
+@use "uswds-core" as *;
+@use 'variables' as *;
+
+.crt-blue {
+  background-color: color($theme-color-primary-darker);
+  color: color("white");
+}
+
+.crt-lightblue {
+  background-color: color($theme-color-primary-lightest);
+  color: color($theme-color-primary-darker);
+}
+
+.crt-white {
+  background-color: color("white");
+  color: color($theme-color-primary-darker);
+}
+
+.crt-accent-lightest {
+  background-color: #f2f2f2;
+  color: color($theme-color-primary-darker);
+}
