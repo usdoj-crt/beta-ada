@@ -159,7 +159,8 @@ exclude:
   - Dockerfile
   - docker-compose.yml
   - babel.config.json
-  - webpack.config.js
+  - webpack.javascript.js
+  - webpack.sass.js
   - playwright.config.js
   - /docs
   - /tests
@@ -174,12 +175,20 @@ assets:
       - "IE 11"
       - "not dead"
   raw_precompile:
-    - source: node_modules/uswds/dist/fonts/**/*
-      strip: node_modules/uswds/dist/
-    - source: node_modules/uswds/dist/img/sprite.svg
-      strip: node_modules/uswds/dist/
+    - source: node_modules/@uswds/uswds/dist/fonts/**/*
+      strip: node_modules/@uswds/uswds/dist/
+    - source: node_modules/@uswds/uswds/dist/img/*
+      strip: node_modules/@uswds/uswds/dist/
+    - source: node_modules/@uswds/uswds/dist/img/usa-icons/*
+      strip: node_modules/@uswds/uswds/dist/
+    - source: node_modules/@uswds/uswds/dist/img/usa-icons-bg/*
+      strip: node_modules/@uswds/uswds/dist/
+    - source: node_modules/@uswds/uswds/dist/img/sprite.svg
+      strip: node_modules/@uswds/uswds/dist/
     - source: _pdfs/*
+    - source: _assets/images/*
+      strip: _assets/
   sources:
     - node_modules/anchor-js
     - node_modules/gumshoejs/dist
-    - node_modules/uswds/dist
+    - node_modules/@uswds/uswds/dist

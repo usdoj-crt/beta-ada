@@ -1,0 +1,38 @@
+@use "uswds-core" as *;
+@use 'variables' as *;
+
+.crt-button--large {
+  background-color: color($theme-color-primary-darker);
+  color: color("white") !important;
+  font-weight: bold !important;
+  margin-top: 0.5rem;
+  padding: 1rem 2rem;
+
+  &:hover {
+    background: color($theme-link-hover-color);
+  }
+}
+
+#crt-page--printbutton,
+#crt-page--expandaccordions,
+.crt-page--downloadpdf-button {
+  background-color: color($theme-color-primary-darker);
+  &:hover {
+    color: white !important;
+    background: color($theme-link-hover-color);
+  }
+  &:focus {
+    background: color($theme-link-hover-color);
+  }
+  width: max-content;
+}
+
+.crt-page--downloadpdf-button {
+  color: white;
+}
+
+span.usa-sr-only {
+  color: black;
+}
+
+
