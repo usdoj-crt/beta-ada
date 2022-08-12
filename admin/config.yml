@@ -58,7 +58,7 @@ collections:
           - label: Sitemap
             name: sitemap
             widget: boolean
-          - label: Sidenav
+          - label: Enable Sidenav
             name: sidenav
             widget: boolean
           - label: Body
@@ -78,7 +78,7 @@ collections:
           - label: Permalink
             name: permalink
             widget: string
-          - label: Lead
+          - label: Lead text
             name: lead
             widget: text
           - label: Language
@@ -88,7 +88,8 @@ collections:
           - label: Translation Reference
             name: ref
             widget: string
-          - label: Body
+            required: false
+          - label: Body Content
             name: body
             widget: markdown
       # Index page:
@@ -99,7 +100,7 @@ collections:
           - label: Permalink
             name: permalink
             widget: string
-          - label: Layout
+          - label: Page Layout
             name: layout
             widget: hidden
             default: default
@@ -160,7 +161,7 @@ collections:
               - label: Heading
                 name: heading
                 widget: string
-              - label: Lead
+              - label: Lead Text
                 name: lead
                 widget: text
               - label: Content
@@ -177,15 +178,16 @@ collections:
               - label: Heading
                 name: heading
                 widget: string
-              - label: Lead
+              - label: Lead Text
                 name: lead
                 widget: text
-              - label: Paragraph1
+              - label: First Paragraph
                 name: paragraph1
                 widget: text
-              - label: Paragraph2
+              - label: Second Paragraph
                 name: paragraph2
                 widget: text
+                required: false
           # News section data
           - label: News
             name: News
@@ -194,7 +196,7 @@ collections:
               - label: Heading
                 name: heading
                 widget: string
-              - label: Lead
+              - label: Lead Text
                 name: lead
                 widget: text
           # Report section data
@@ -205,7 +207,7 @@ collections:
               - label: Heading
                 name: heading
                 widget: string
-              - label: Lead
+              - label: Lead Text
                 name: lead
                 widget: text
               - label: Steps
@@ -229,7 +231,7 @@ collections:
                     name: text
                     widget: string
           # Index page markdown content
-          - label: Body
+          - label: Body Content
             name: body
             widget: markdown
       # Infoline page:
@@ -246,10 +248,10 @@ collections:
           - label: Permalink
             name: permalink
             widget: string
-          - label: Lead
+          - label: Lead Text
             name: lead
             widget: text
-          - label: Body
+          - label: Body Content
             name: body
             widget: markdown
       # Topics page:
@@ -267,10 +269,10 @@ collections:
           name: layout
           default: full
           widget: hidden
-        - label: Lead
+        - label: Lead Text
           name: lead
           widget: text
-        - label: Body
+        - label: Body Content
           name: body
           widget:  markdown
       # Resources page:
@@ -284,10 +286,10 @@ collections:
         - label: Title
           name: title
           widget: string
-        - label: Lead
+        - label: Lead Text
           name: lead
           widget: text
-        - label: Body
+        - label: Body Content
           name: body
           widget:  markdown
     # Subpages which share the same information structure can be edited in folder collections
@@ -306,24 +308,28 @@ collections:
       - label: Short Title
         name: short title
         widget: string
-      - label: Lead
+      - label: Lead Text
         name: lead
         widget: text
       - label: Featured
         name: featured
         widget: boolean
+        required: false
       - label: Print
         name: print
         widget: boolean
+        required: false
       - label: Related Content
         name: related content
         widget: boolean
+        required: false
       - label: Tags
         name: tags
         widget: select
         options: ["artificial intelligence", "effective communication" , "employment","service animals","title ii","title iii","web access"]
         multiple: true
         min: 0
+        required: false
       - label: Card
         name: card
         widget: object
@@ -350,7 +356,7 @@ collections:
           - label: Href
             name: href
             widget: string
-      - label: Body
+      - label: Body Content
         name: body
         widget: markdown
   # Resources pages:
@@ -365,7 +371,7 @@ collections:
       - label: Description
         name: description
         widget: text
-      - label: Lead
+      - label: Lead Text
         name: lead
         widget: text
       - label: Permalink
@@ -377,6 +383,7 @@ collections:
         multiple: true
         options: ["/ai-guidance/", "/web-guidance/"]
         min: 0
+        required: false
       - label: Language
         name: lang
         widget: select
@@ -386,6 +393,7 @@ collections:
       - label: Print
         name: print
         widget: boolean
+        required: false
       - label: Publish Date
         name: publish-date
         widget: datetime
@@ -394,6 +402,7 @@ collections:
         time_format: "hh:mm:ss" # e.g. 21:07
         format: "LLL"
         picker_utc: false
+        required: false
       - label: Updated On Date
         name: updated-date
         widget: datetime
@@ -402,9 +411,11 @@ collections:
         time_format: "hh:mm:ss" # e.g. 21:07
         format: "LLL"
         picker_utc: false
+        required: false
       - label: News Item
         name: news-item
         widget: boolean
+        required: false
       - label: Sidenav PDF
         name: sidenav-pdf
         widget: object
@@ -415,17 +426,20 @@ collections:
           - label: Filename
             name: filename
             widget: string
+        required: false
       - label: Related Content
         name: related content
         widget: boolean
         default: false
+        required: false
       - label: Tags
         name: tags
         widget: select
         options: ["artificial intelligence", "effective communication" , "employment","parking","service animals","title ii","title iii","web access"]
         multiple: true
         min: 0
-      - label: Body
+        required: false
+      - label: Body Content
         name: body
         widget: markdown
     # Laws and regulations pages
@@ -437,7 +451,7 @@ collections:
       - label: Title
         name: title
         widget: string
-      - label: Lead
+      - label: Lead Text
         name: lead
         widget: text
       - label: Permalink
@@ -446,7 +460,7 @@ collections:
       - label: Sidenav
         name: sidenav
         widget: boolean
-      - label: Body
+      - label: Body Content
         name: body
         widget: markdown
     # Posts under the Notices pages
@@ -459,7 +473,7 @@ collections:
       - label: Title
         name: title
         widget: string
-      - label: Body
+      - label: Body Content
         name: body
         widget: markdown
   # Spanish Translations
@@ -477,7 +491,7 @@ collections:
       - label: Permalink
         name: permalink
         widget: string
-      - label: Lead
+      - label: Lead Text
         name: lead
         widget: text
       - label: Language
@@ -487,6 +501,6 @@ collections:
       - label: Translation Reference
         name: Reference
         widget: string
-      - label: Body
+      - label: Body Content
         name: body
         widget: markdown
