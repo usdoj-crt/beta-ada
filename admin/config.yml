@@ -55,7 +55,6 @@ collections:
           - label: Title
             name: title
             widget: string
-            pattern: ['/(\<script\b[^>]*>([\s\S]*?)<\/script>)/gm', "JavaScript tags are not allowed"]
           - label: Sitemap
             name: sitemap
             widget: boolean
