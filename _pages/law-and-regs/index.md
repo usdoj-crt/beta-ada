@@ -42,4 +42,4 @@ The Department of Justice enforces the ADA through lawsuits and settlement agree
 
 ## Design Standards
 
-[View the 1991 Design Standards]({{'/law-and-regs/design-standards/1991-design-standards' | relative_url }})
+[View the 1991 and 2010 Design Standards]({{'/law-and-regs/design-standards' | relative_url }})
