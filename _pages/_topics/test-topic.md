@@ -11,7 +11,7 @@ tags:
   - effective communication
 card:
   href: /topics/test-topic/
-  image: /_assets/images/well-cello-there.png
+  image: /images/yum.png
   title: test topic
   description: Here is a test topic
   title alt: test topic
