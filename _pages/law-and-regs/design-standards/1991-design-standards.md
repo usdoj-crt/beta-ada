@@ -1,6 +1,6 @@
 ---
 title: ADA Standards for Accessible Design Title III Regulation 28 CFR Part 36 (1991)
-description:
+description: TBD
 permalink: /law-and-regs/design-standards/1991-design-standards
 lead: |-
   Editor's Note:
