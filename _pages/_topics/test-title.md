@@ -13,7 +13,7 @@ card:
   title: asd
   title alt: asd
   description: asdasd
-  image: /images/nice.png
+  image: /images/chomp.png
   alt: asd
   href: /topics/test-topic-2
   position: "9"
