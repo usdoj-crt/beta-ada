@@ -1,5 +1,5 @@
 ---
-title: test topic
+title: test topic 2
 description: Here is a test topic
 short title: Test
 lead: Here is some lead text
