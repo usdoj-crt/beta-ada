@@ -190,7 +190,7 @@ collections:
                 required: false
           # News section data
           - label: News
-            name: News
+            name: news
             widget: object
             fields:
               - label: Heading
