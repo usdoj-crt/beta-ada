@@ -1,8 +1,9 @@
 ---
 permalink: /topics/
-title: Explore Featured Topics
+title: Explore Featured Topics 2
 layout: full
-lead: Information for people with disabilities, state and local governments, and businesses
+lead: Information for people with disabilities, state and local governments, and
+  businesses
 ---
 
 <div class="grid-row grid-gap">
