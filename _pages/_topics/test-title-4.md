@@ -7,7 +7,7 @@ card:
   title: test title 4
   title alt: test title 4
   description: test title 4
-  image: /images/heck_yeah.gif
+  image: /images/download-3-.jpeg
   alt: dusty
   position: "1"
   href: /topics/test-topic-4
