@@ -32,7 +32,7 @@ State and local governments are required by Title II to provide *program access*
 
 There are two versions on the ADA Standards:
 
-- [1991 ADA Standards]({{'/law-and-regs/design-standards/1991-design-standards | relative_url'}}) (link TBD)
+- [1991 ADA Standards]( {{'/law-and-regs/design-standards/1991-design-standards' | relative_url}}) (link TBD)
 - [2010 ADA Standards]( {{'/law-and-regs/design-standards/2010-stds' | relative_url}})  (link TBD still)
 
 Knowing when the 1991 or the 2010 ADA Standards apply to buildings and facilities is important in determining if your building or facility complies with the ADA. The [ADA Requirements: Effective Date and Compliance Date guide](https://www.ada.gov/revised_effective_dates-2010.htm) helps to explain which version of the ADA Standards to use and when.
