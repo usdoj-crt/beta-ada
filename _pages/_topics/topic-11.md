@@ -10,6 +10,6 @@ card:
   alt: topic-11
   position: topic-11
   href: /topics/topic-11
-  image: images/billy-hunt-nava130506.jpg
+  image: img_b41926cffcf7-1.jpeg
 ---
 /topics/topic-11
