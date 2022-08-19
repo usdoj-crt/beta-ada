@@ -7,7 +7,7 @@ card:
   title: test-topic-8
   title alt: test-topic-8
   description: test-topic-8
-  image: /gmgtj7c2.jpg
+  image: /download.jpeg
   alt: test-topic-8
   position: "1"
   href: /topics/test-topic-8
