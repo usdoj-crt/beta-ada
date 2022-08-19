@@ -1,15 +1,24 @@
 ---
-title: Algorithms, Artificial Intelligence, and Disability Discrimination in Hiring
-description: "This guidance explains how algorithms and artificial intelligence can lead to disability discrimination in hiring."
+title: Algorithms, Artificial Intelligence, and Disability Discrimination in Hiring 2
+description: This guidance explains how algorithms and artificial intelligence
+  can lead to disability discrimination in hiring.
+lead: This guidance explains how algorithms and artificial intelligence can lead
+  to disability discrimination in hiring.  The [Department of
+  Justice](https://www.ada.gov/employment.htm) enforces disability
+  discrimination laws with respect to state and local government employers. The
+  [Equal Employment Opportunity
+  Commission](https://www.eeoc.gov/employees-job-applicants) (EEOC) enforces
+  disability discrimination laws with respect to employers in the private sector
+  and the federal government. The obligation to avoid disability discrimination
+  in employment applies to both public and private employers.
 permalink: /resources/ai-guidance/
 redirect_from:
   - /ai-guidance/
-lead: |-
-  This guidance explains how algorithms and artificial intelligence can lead to disability discrimination in hiring.  The [Department of Justice](https://www.ada.gov/employment.htm) enforces disability discrimination laws with respect to state and local government employers. The [Equal Employment Opportunity Commission](https://www.eeoc.gov/employees-job-applicants) (EEOC) enforces disability discrimination laws with respect to employers in the private sector and the federal government. The obligation to avoid disability discrimination in employment applies to both public and private employers.
-lang: "en"
-news-item: false
-publish-date: 2022-05-12 00:00:00
+lang: en
 print: true
+publish-date: 2022-05-12 00:00:00
+updated-date: ""
+news-item: false
 sidenav-pdf:
   title: Algorithms, Artificial Intelligence, and Disability Discrimination in Hiring
   filename: ai-guidance.pdf
