@@ -339,7 +339,7 @@ A critical, but often overlooked component to ensuring success is adequate and o
 
 Finally, training staff to properly assist with transfers and lifts, and to use positioning aids correctly will minimize the chance of injury for both patients and staff. Staff should be instructed to ask patients with disabilities if they need help before providing assistance and, if they do, how best they can help. People with mobility disabilities are not all the same - they use mobility devices of different types, sizes and weight, transfer in different ways, and have varying levels of physical ability. Make sure that staff know, especially if they are unsure, that it is not only permissible, but encouraged, to ask questions. Understanding what assistance, if any, is needed and how to provide it, will go a long way toward providing safe and accessible health care for people with mobility disabilities.  
 
-## Resources  
+<hr>
 
 For more information about the ADA, please visit [ADA.gov](https://www.ada.gov) or call our toll-free number.  
 
@@ -347,8 +347,8 @@ For more information about the ADA, please visit [ADA.gov](https://www.ada.gov) 
 800-514-0301 (Voice) and 800-514-0383 (TTY)  
 M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.  
 
-For people with disabilities, this publication is available in alternate formats.  
+For people with disabilities, this publication is available in alternate formats. Reproduction of this document is encouraged. 
 
 For more information about Section 504,visit the [Department of Health and Human Services Office for Civil Rights website](https://www.hhs.gov/ocr).  You may also search the list of [HHS OCR regional offices](https://www.hhs.gov/ocr/about-us/contact-us/index.html) near you.
 
-Section 504's requirements for new construction and alterations to buildings and facilities are found at 45 C.F.R. Part 84, Subpart C for recipients of federal financial assistance.  The regulations are available at [https://www.hhs.gov/ocr/about-us/contact-us/index.html](https://www.hhs.gov/ocr/about-us/contact-us/index.html)
+Section 504's requirements for new construction and alterations to buildings and facilities are found at 45 C.F.R. Part 84, Subpart C for recipients of federal financial assistance.  The regulations are available at [https://www.hhs.gov/ocr/about-us/contact-us/index.html](https://www.hhs.gov/ocr/about-us/contact-us/index.html)  
