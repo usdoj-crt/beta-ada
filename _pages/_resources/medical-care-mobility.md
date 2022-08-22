@@ -22,7 +22,6 @@ The ADA requires access to medical care services and the facilities where the se
 ### Services and Facilities  
 
 Both Title II and Title III of the ADA and Section 504 require that medical care providers provide individuals with disabilities:
-
 - full and equal access to their health care services and facilities; and  
 - reasonable modifications to policies, practices, and procedures when necessary to make health care services fully available to individuals with disabilities, unless the modifications would fundamentally alter the nature of the services (i.e. alter the essential nature of the services).  
 
@@ -216,7 +215,7 @@ Some individuals will need only a steady hand from a staff person in order to tr
 
 Patients who can complete an independent transfer may prefer to do so for reasons of safety and simplicity.  
 
-#### Using Patient Lifts                    
+#### Using Patient Lifts  
 
 Medical providers may need a lift in order to transfer some patients safely onto an exam table. Patient lifts may move along the floor or be mounted on an overhead track attached to the ceiling or to a free-standing frame. A staff person operates the lift.
 
@@ -347,7 +346,7 @@ For more information about the ADA, please visit [ADA.gov](https://www.ada.gov) 
 800-514-0301 (Voice) and 800-514-0383 (TTY)  
 M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.  
 
-For people with disabilities, this publication is available in alternate formats. Reproduction of this document is encouraged. 
+For people with disabilities, this publication is available in alternate formats. Reproduction of this document is encouraged.  
 
 For more information about Section 504,visit the [Department of Health and Human Services Office for Civil Rights website](https://www.hhs.gov/ocr).  You may also search the list of [HHS OCR regional offices](https://www.hhs.gov/ocr/about-us/contact-us/index.html) near you.
 
