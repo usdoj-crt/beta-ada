@@ -14,6 +14,6 @@ card:
   alt: me!
   position: center
   description: This is a test landing page.
-  href: /topics/
+  href: /topics/test-topic
 ---
 Stuff about Jack
