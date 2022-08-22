@@ -47,7 +47,7 @@ In addition, covered entities must allow people with disabilities who use any OP
 
 - For some facilities -- such as a hospital, a shopping mall, a large home improvement store with wide aisles, a public park, or an outdoor amusement park -- covered entities will likely determine that certain classes of OPDMDs being used by people with disabilities can be accommodated. These entities must allow people with disabilities using these types of OPDMDs into all areas where members of the public are allowed to go.  
 
-- In some cases, even in facilities such as those described above, an OPDMD can be accommodated in some areas of a facility, but not in others because of legitimate safety concerns. For example, a cruise ship may decide that people with disabilities using Segways® can generally be accommodated, except in constricted areas, such as passageways to cabins that are very narrow and have low ceilings.    
+- In some cases, even in facilities such as those described above, an OPDMD can be accommodated in some areas of a facility, but not in others because of legitimate safety concerns. For example, a cruise ship may decide that people with disabilities using Segways® can generally be accommodated, except in constricted areas, such as passageways to cabins that are very narrow and have low ceilings.  
 
 - For other facilities -- such as a small convenience store, or a small town manager's office -- covered entities may determine that certain classes of OPDMDs cannot be accommodated. In that case, they are still required to serve a person with a disability using one of these devices in an alternate manner if possible, such as providing curbside service or meeting the person at an alternate location.  
 
