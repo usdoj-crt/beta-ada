@@ -7,7 +7,6 @@ lead: |-
   Generally, businesses and non-profits that are open to the public as well as state/local governments must allow service animals to go most places where the public can go. This is true even if they have a "no pets" policy.
 print: true
 featured: true
-weight: 10
 card:
   title: Service Animals
   description: |-
