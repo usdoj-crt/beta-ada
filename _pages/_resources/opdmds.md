@@ -34,8 +34,6 @@ In recent years, some people with mobility disabilities have begun using less tr
 People with disabilities have the right to choose whatever mobility device best suits their needs. For example, someone may choose to use a manual wheelchair rather than a power wheelchair because it enables her to maintain her upper body strength. Similarly, someone who is able to stand may choose to use a Segway® rather than a manual wheelchair because of the health benefits gained by standing. A facility may be required to allow a type of device that is generally prohibited when being used by someone without a disability when it is being used by a person who needs it because of a mobility disability.  
 
 | {% asset project-images/opdmd1.jpg alt="Drawing of a person in a power wheelchair, a man on a Segway<sup>®</sup>, and a person sitting in a golf car" %} |  
-|:-:|
-| <b>Three people each on a mobility device; a power wheelchair, a Segway&reg; and a golf car</b> |
 
 For example, if golf cars are generally prohibited in a park, the park may be required to allow a golf car when it is being used because of a person's mobility disability, unless there is a legitimate safety reason that it cannot be accommodated.  
 
@@ -51,9 +49,7 @@ In addition, covered entities must allow people with disabilities who use any OP
 
 - For other facilities -- such as a small convenience store, or a small town manager's office -- covered entities may determine that certain classes of OPDMDs cannot be accommodated. In that case, they are still required to serve a person with a disability using one of these devices in an alternate manner if possible, such as providing curbside service or meeting the person at an alternate location.  
 
-| {% asset project-images/opdmd2.jpg alt="Drawing of a person using a Segway<sup>®</sup> reaching for an item in a grocery store cooler" %} |  
-|:-:|
-| <b>A person using a Segway&reg; in a grocery store</b> |  
+| {% asset project-images/opdmd2.jpg alt="Drawing of a person using a Segway<sup>®</sup> reaching for an item in a grocery store cooler" %} |   
 
 Covered entities are encouraged to develop written policies specifying which kinds of OPDMDs will be permitted and where and when they will be permitted, based on the following assessment factors.  
 
@@ -75,8 +71,6 @@ Based on these assessment factors, the Department of Justice expects that device
 In deciding whether a type of OPDMD can be accommodated, covered entities must consider all assessment factors and, where appropriate, should develop and publicize rules for people with disabilities using these devices.  
 
 | {% asset project-images/opdmd3.jpg alt="Drawing of a man with two small children and a person using a Segway<sup>®</sup> passing in a store aisle" %} |  
-|:-:|
-| <b>Shoppers and a person using a Segway&reg; pass each other in a store aisle</b> |
 
 Such rules may include –  
 - requiring the user to operate the device at the speed of pedestrian traffic;
@@ -89,8 +83,6 @@ identifying specific locations, terms, or circumstances (if any) where the devic
 An entity that determines it can accommodate one or more types of OPDMDs in its facility is allowed to ask the person using the device to provide credible assurance that the device is used because of a disability.  
 
 | {% asset project-images/opdmd4.jpg alt="Drawing of a store employee having a conversation with a person using a Segway<sup>®</sup>" %} |  
-|:-:|
-| <b>A store employee communicates with a person using a Segway&reg;</b> |
 
 If the person presents a valid, State-issued disability parking placard or card or a State-issued proof of disability, that must be accepted as credible assurance on its face. If the person does not have this documentation, but states verbally that the OPDMD is being used because of a mobility disability, that also must be accepted as credible assurance, unless the person is observed doing something that contradicts the assurance. For example, if a person is observed running and jumping, that may be evidence that contradicts the person's assertion of a mobility disability. However, it is very important for covered entities and their staff to understand that the fact that a person with a disability is able to walk for a short distance does not necessarily contradict a verbal assurance -- many people with mobility disabilities can walk, but need their mobility device for longer distances or uneven terrain. This is particularly true for people who lack stamina, have poor balance, or use mobility devices because of respiratory, cardiac, or neurological disabilities. A covered entity cannot ask people about their disabilities.  
 
