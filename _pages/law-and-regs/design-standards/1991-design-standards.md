@@ -56,113 +56,113 @@ The text of these guidelines does not contain notes or footnotes. Additional inf
 
 ### 3.4 General Terminology
 
- <em>comply with. </em> Meet one or more specifications of these guidelines.<br>
+ <em>**comply with.**</em> Meet one or more specifications of these guidelines.<br>
 
- <em>if, if ... then. </em> Denotes a specification that applies only when the conditions described are present.<br>
+ <em>**if, if ... then.**</em> Denotes a specification that applies only when the conditions described are present.<br>
 
- <em>may. </em> Denotes an option or alternative.<br>
+ <em>**may.**</em> Denotes an option or alternative.<br>
 
- <em>shall. </em> Denotes a mandatory specification or requirement.<br>
+ <em>**shall.**</em> Denotes a mandatory specification or requirement.<br>
 
- <em>should. </em> Denotes a mendation.<br>
+ <em>**should.**</em> Denotes a mendation.<br>
 
- <em>Access Aisle. </em> An accessible pedestrian space between elements, such as parking spaces, seating, and desks, that provides clearances appropriate for use of the elements.<br>
+ <em>**Access Aisle.**</em> An accessible pedestrian space between elements, such as parking spaces, seating, and desks, that provides clearances appropriate for use of the elements.<br>
 
- <em>Accessible. </em> Describes a site, building, facility, or portion thereof that complies with these guidelines.<br>
+ <em>**Accessible.**</em> Describes a site, building, facility, or portion thereof that complies with these guidelines.<br>
 
- <em>Accessible Element. </em> An element specified by these guidelines (for example, telephone, controls, and the like).<br>
+ <em>**Accessible Element.**</em> An element specified by these guidelines (for example, telephone, controls, and the like).<br>
 
- <em>Accessible Route. </em> A continuous unobstructed path connecting all accessible elements and spaces of a building or facility. Interior accessible routes may include corridors, floors, ramps, elevators, lifts, and clear floor space at fixtures. Exterior accessible routes may include parking access aisles, curb ramps, crosswalks at vehicular ways, walks, ramps, and lifts.<br>
+ <em>**Accessible Route.**</em> A continuous unobstructed path connecting all accessible elements and spaces of a building or facility. Interior accessible routes may include corridors, floors, ramps, elevators, lifts, and clear floor space at fixtures. Exterior accessible routes may include parking access aisles, curb ramps, crosswalks at vehicular ways, walks, ramps, and lifts.<br>
 
- <em>Accessible Space. </em> Space that complies with these guidelines.<br>
+ <em>**Accessible Space.**</em> Space that complies with these guidelines.<br>
 
- <em>Adaptability. </em> The ability of certain building spaces and elements, such as kitchen counters, sinks, and grab bars, to be added or altered so as to accommodate the needs of individuals with or without disabilities or to accommodate the needs of persons with different types or degrees of disability.<br>
+ <em>**Adaptability.**</em> The ability of certain building spaces and elements, such as kitchen counters, sinks, and grab bars, to be added or altered so as to accommodate the needs of individuals with or without disabilities or to accommodate the needs of persons with different types or degrees of disability.<br>
 
- <em>Addition. </em> An expansion, extension, or increase in the gross floor area of a building or facility.<br>
+ <em>**Addition.**</em> An expansion, extension, or increase in the gross floor area of a building or facility.<br>
 
- <em>Administrative Authority. </em> A governmental agency that adopts or enforces regulations and guidelines for the design, construction, or alteration of buildings and facilities.<br>
+ <em>**Administrative Authority.**</em> A governmental agency that adopts or enforces regulations and guidelines for the design, construction, or alteration of buildings and facilities.<br>
 
- <em>Alteration. </em> An alteration is a change to a building or facility made by, on behalf of, or for the use of a public accommodation or commercial facility, that affects or could affect the usability of the building or facility or part thereof. Alterations include, but are not limited to, remodeling, renovation, rehabilitation, reconstruction, historic restoration, changes or rearrangement of the structural parts or elements, and changes or rearrangement in the plan configuration of walls and full-height partitions. Normal maintenance, reroofing, painting or wallpapering, or changes to mechanical and electrical systems are not alterations unless they affect the usability of the building or facility.<br>
+ <em>**Alteration.**</em> An alteration is a change to a building or facility made by, on behalf of, or for the use of a public accommodation or commercial facility, that affects or could affect the usability of the building or facility or part thereof. Alterations include, but are not limited to, remodeling, renovation, rehabilitation, reconstruction, historic restoration, changes or rearrangement of the structural parts or elements, and changes or rearrangement in the plan configuration of walls and full-height partitions. Normal maintenance, reroofing, painting or wallpapering, or changes to mechanical and electrical systems are not alterations unless they affect the usability of the building or facility.<br>
 
- <em>Area of Rescue Assistance. </em> An area, which has direct access to an exit, where people who are unable to use stairs may remain temporarily in safety to await further instructions or assistance during emergency evacuation.<br>
+ <em>**Area of Rescue Assistance.**</em> An area, which has direct access to an exit, where people who are unable to use stairs may remain temporarily in safety to await further instructions or assistance during emergency evacuation.<br>
 
- <em>Assembly Area. </em> A room or space accommodating a group of individuals for recreational, educational, political, social, or amusement purposes, or for the consumption of food and drink. Automatic Door. A door equipped with a power-operated mechanism and controls that open and close the door automatically upon receipt of a momentary actuating signal. The switch that begins the automatic cycle may be a photoelectric device, floor mat, or manual switch (see power-assisted door).<br>
+ <em>**Assembly Area.**</em> A room or space accommodating a group of individuals for recreational, educational, political, social, or amusement purposes, or for the consumption of food and drink. Automatic Door. A door equipped with a power-operated mechanism and controls that open and close the door automatically upon receipt of a momentary actuating signal. The switch that begins the automatic cycle may be a photoelectric device, floor mat, or manual switch (see power-assisted door).<br>
 
- <em>Building. </em> Any structure used and intended for supporting or sheltering any use or occupancy.<br>
+ <em>**Building.**</em> Any structure used and intended for supporting or sheltering any use or occupancy.<br>
 
- <em>Circulation Path. </em> An exterior or interior way of passage from one place to another for pedestrians, including, but not limited to, walks, hallways, courtyards, stairways, and stair landings.<br>
+ <em>**Circulation Path.**</em> An exterior or interior way of passage from one place to another for pedestrians, including, but not limited to, walks, hallways, courtyards, stairways, and stair landings.<br>
 
- <em>Clear. </em> Unobstructed.<br>
+ <em>**Clear.**</em> Unobstructed.<br>
 
- <em>Clear Floor Space. </em> The minimum unobstructed floor or ground space required to accommodate a single, stationary wheelchair and occupant.<br>
+ <em>**Clear Floor Space.**</em> The minimum unobstructed floor or ground space required to accommodate a single, stationary wheelchair and occupant.<br>
 
- <em>Closed Circuit Telephone. </em> A telephone with dedicated line(s) such as a house phone, courtesy phone or phone that must be used to gain entrance to a facility.<br>
+ <em>**Closed Circuit Telephone.**</em> A telephone with dedicated line(s) such as a house phone, courtesy phone or phone that must be used to gain entrance to a facility.<br>
 
- <em>Common Use. </em> Refers to those interior and exterior rooms, spaces, or elements that are made available for the use of a restricted group of people (for example, occupants of a homeless shelter, the occupants of an office building, or the guests of such occupants).<br>
+ <em>**Common Use.**</em> Refers to those interior and exterior rooms, spaces, or elements that are made available for the use of a restricted group of people (for example, occupants of a homeless shelter, the occupants of an office building, or the guests of such occupants).<br>
 
- <em>Cross Slope. </em> The slope that is perpendicular to the direction of travel (see running slope).<br>
+ <em>**Cross Slope.**</em> The slope that is perpendicular to the direction of travel (see running slope).<br>
 
- <em>Curb Ramp. </em> A short ramp cutting through a curb or built up to it.<br>
+ <em>**Curb Ramp.**</em> A short ramp cutting through a curb or built up to it.<br>
 
- <em>Detectable Warning. </em> A standardized surface feature built in or applied to walking surfaces or other elements to warn visually impaired people of hazards on a circulation path.<br>
+ <em>**Detectable Warning.**</em> A standardized surface feature built in or applied to walking surfaces or other elements to warn visually impaired people of hazards on a circulation path.<br>
 
- <em>Dwelling Unit. </em> A single unit which provides a kitchen or food preparation area, in addition to rooms and spaces for living, bathing, sleeping, and the like. Dwelling units include a single family home or a townhouse used as a transient group home; an apartment building used as a shelter; guestrooms in a hotel that provide sleeping accommodations and food preparation areas; and other similar facilities used on a transient basis. For purposes of these guidelines, use of the term &quot;Dwelling Unit&quot; does not imply the unit is used as a residence.<br>
+ <em>**Dwelling Unit.**</em> A single unit which provides a kitchen or food preparation area, in addition to rooms and spaces for living, bathing, sleeping, and the like. Dwelling units include a single family home or a townhouse used as a transient group home; an apartment building used as a shelter; guestrooms in a hotel that provide sleeping accommodations and food preparation areas; and other similar facilities used on a transient basis. For purposes of these guidelines, use of the term &quot;Dwelling Unit&quot; does not imply the unit is used as a residence.<br>
 
- <em>Egress, Means of. </em> A continuous and unobstructed way of exit travel from any point in a building or facility to a public way. A means of egress comprises vertical and horizontal travel and may include intervening room spaces, doorways, hallways, corridors, passageways, balconies, ramps, stairs, enclosures, lobbies, horizontal exits, courts and yards. An accessible means of egress is one that complies with these guidelines and does not include stairs, steps, or escalators. Areas of rescue assistance or evacuation elevators may be included as part of accessible means of egress.<br>
+ <em>**Egress, Means of.**</em> A continuous and unobstructed way of exit travel from any point in a building or facility to a public way. A means of egress comprises vertical and horizontal travel and may include intervening room spaces, doorways, hallways, corridors, passageways, balconies, ramps, stairs, enclosures, lobbies, horizontal exits, courts and yards. An accessible means of egress is one that complies with these guidelines and does not include stairs, steps, or escalators. Areas of rescue assistance or evacuation elevators may be included as part of accessible means of egress.<br>
 
- <em>Element. </em> An architectural or mechanical component of a building, facility, space, or site, e.g., telephone, curb ramp, door, drinking fountain, seating, or water closet.<br>
+ <em>**Element.**</em> An architectural or mechanical component of a building, facility, space, or site, e.g., telephone, curb ramp, door, drinking fountain, seating, or water closet.<br>
 
- <em>Entrance. </em> Any access point to a building or portion of a building or facility used for the purpose of entering. An entrance includes the approach walk, the vertical access leading to the entrance platform, the entrance platform itself, vestibules if provided, the entry door(s) or gate(s), and the hardware of the entry door(s) or gate(s).<br>
+ <em>**Entrance.**</em> Any access point to a building or portion of a building or facility used for the purpose of entering. An entrance includes the approach walk, the vertical access leading to the entrance platform, the entrance platform itself, vestibules if provided, the entry door(s) or gate(s), and the hardware of the entry door(s) or gate(s).<br>
 
- <em>Facility. </em> All or any portion of buildings, structures, site improvements, complexes, equipment, roads, walks, passageways, parking lots, or other real or personal property located on a site.<br>
+ <em>**Facility.**</em> All or any portion of buildings, structures, site improvements, complexes, equipment, roads, walks, passageways, parking lots, or other real or personal property located on a site.<br>
 
- <em>Ground Floor. </em> Any occupiable floor less than one story above or below grade with direct access to grade. A building or facility always has at least one ground floor and may have more than one ground floor as where a split level entrance has been provided or where a building is built into a hillside.<br>
+ <em>**Ground Floor.**</em> Any occupiable floor less than one story above or below grade with direct access to grade. A building or facility always has at least one ground floor and may have more than one ground floor as where a split level entrance has been provided or where a building is built into a hillside.<br>
 
- <em>Mezzanine or Mezzanine Floor. </em> That portion of a story which is an intermediate floor level placed within the story and having occupiable space above and below its floor.<br>
+ <em>**Mezzanine or Mezzanine Floor.**</em> That portion of a story which is an intermediate floor level placed within the story and having occupiable space above and below its floor.<br>
 
- <em>Marked Crossing. </em> A crosswalk or other identified path intended for pedestrian use in crossing a vehicular way.<br>
+ <em>**Marked Crossing.**</em> A crosswalk or other identified path intended for pedestrian use in crossing a vehicular way.<br>
 
- <em>Multifamily Dwelling. </em> Any building containing more than two dwelling units.<br>
+ <em>**Multifamily Dwelling.**</em> Any building containing more than two dwelling units.<br>
 
- <em>Occupiable. </em> A room or enclosed space designed for human occupancy in which individuals congregate for amusement, educational or similar purposes, or in which occupants are engaged at labor, and which is equipped with means of egress, light, and ventilation.<br>
+ <em>**Occupiable.**</em> A room or enclosed space designed for human occupancy in which individuals congregate for amusement, educational or similar purposes, or in which occupants are engaged at labor, and which is equipped with means of egress, light, and ventilation.<br>
 
- <em>Operable Part. </em> A part of a piece of equipment or appliance used to insert or withdraw objects, or to activate, deactivate, or adjust the equipment or appliance (for example, coin slot, pushbutton, handle).<br>
+ <em>**Operable Part.**</em> A part of a piece of equipment or appliance used to insert or withdraw objects, or to activate, deactivate, or adjust the equipment or appliance (for example, coin slot, pushbutton, handle).<br>
 
- <em>Path of Travel. </em> (Reserved).<br>
+ <em>**Path of Travel.**</em> (Reserved).<br>
 
- <em>Power-assisted Door. </em> A door used for human passage with a mechanism that helps to open the door, or relieves the opening resistance of a door, upon the activation of a switch or a continued force applied to the door itself.<br>
+ <em>**Power-assisted Door.**</em> A door used for human passage with a mechanism that helps to open the door, or relieves the opening resistance of a door, upon the activation of a switch or a continued force applied to the door itself.<br>
 
- <em>Public Use. </em> Describes interior or exterior rooms or spaces that are made available to the general public. Public use may be provided at a building or facility that is privately or publicly owned.<br>
+ <em>**Public Use.**</em> Describes interior or exterior rooms or spaces that are made available to the general public. Public use may be provided at a building or facility that is privately or publicly owned.<br>
 
- <em>Ramp. </em> A walking surface which has a running slope greater than 1:20.<br>
+ <em>**Ramp.**</em> A walking surface which has a running slope greater than 1:20.<br>
 
- <em>Running Slope. </em> The slope that is parallel to the direction of travel (see cross slope).<br>
+ <em>**Running Slope.**</em> The slope that is parallel to the direction of travel (see cross slope).<br>
 
- <em>Service Entrance. </em> An entrance intended primarily for delivery of goods or services.<br>
+ <em>**Service Entrance.**</em> An entrance intended primarily for delivery of goods or services.<br>
 
- <em>Signage. </em> Displayed verbal, symbolic, tactile, and pictorial information.<br>
+ <em>**Signage.**</em> Displayed verbal, symbolic, tactile, and pictorial information.<br>
 
- <em>Site. </em> A parcel of land bounded by a property line or a designated portion of a public right-of-way.<br>
+ <em>**Site.**</em> A parcel of land bounded by a property line or a designated portion of a public right-of-way.<br>
 
- <em>Site Improvement. </em> Landscaping, paving for pedestrian and vehicular ways, outdoor lighting, recreational facilities, and the like, added to a site.<br>
+ <em>**Site Improvement.**</em> Landscaping, paving for pedestrian and vehicular ways, outdoor lighting, recreational facilities, and the like, added to a site.<br>
 
- <em>Sleeping Accommodations. </em> Rooms in which people sleep; for example, dormitory and hotel or motel guest rooms or suites.<br>
+ <em>**Sleeping Accommodations.**</em> Rooms in which people sleep; for example, dormitory and hotel or motel guest rooms or suites.<br>
 
- <em>Space. </em> A definable area, e.g., room, toilet room, hall, assembly area, entrance, storage room, alcove, courtyard, or lobby.<br>
+ <em>**Space.**</em> A definable area, e.g., room, toilet room, hall, assembly area, entrance, storage room, alcove, courtyard, or lobby.<br>
 
- <em>Story. </em> That portion of a building included between the upper surface of a floor and upper surface of the floor or roof next above. If such portion of a building does not include occupiable space, it is not considered a story for purposes of these guidelines. There may be more than one floor level within a story as in the case of a mezzanine or mezzanines.<br>
+ <em>**Story.**</em> That portion of a building included between the upper surface of a floor and upper surface of the floor or roof next above. If such portion of a building does not include occupiable space, it is not considered a story for purposes of these guidelines. There may be more than one floor level within a story as in the case of a mezzanine or mezzanines.<br>
 
- <em>Structural Frame. </em> The structural frame shall be considered to be the columns and the girders, beams, trusses and spandrels having direct connections to the columns and all other members which are essential to the stability of the building as a whole.<br>
+ <em>**Structural Frame.**</em> The structural frame shall be considered to be the columns and the girders, beams, trusses and spandrels having direct connections to the columns and all other members which are essential to the stability of the building as a whole.<br>
 
- <em>Tactile. </em> Describes an object that can be perceived using the sense of touch.<br>
+ <em>**Tactile.**</em> Describes an object that can be perceived using the sense of touch.<br>
 
- <em>Text Telephone. </em> Machinery or equipment that employs interactive graphic (i.e., typed) communications through the transmission of coded signals across the standard telephone network. Text telephones can include, for example, devices known as TDD's (telecommunication display devices or telecommunication devices for deaf persons) or computers.<br>
+ <em>**Text Telephone.**</em> Machinery or equipment that employs interactive graphic (i.e., typed) communications through the transmission of coded signals across the standard telephone network. Text telephones can include, for example, devices known as TDD's (telecommunication display devices or telecommunication devices for deaf persons) or computers.<br>
 
- <em>Transient Lodging. </em> A building, facility, or portion thereof, excluding inpatient medical care facilities, that contains one or more dwelling units or sleeping accommodations. Transient lodging may include, but is not limited to, resorts, group homes, hotels, motels, and dormitories.<br>
+ <em>**Transient Lodging.**</em> A building, facility, or portion thereof, excluding inpatient medical care facilities, that contains one or more dwelling units or sleeping accommodations. Transient lodging may include, but is not limited to, resorts, group homes, hotels, motels, and dormitories.<br>
 
- <em>Vehicular Way. </em> A route intended for vehicular traffic, such as a street, driveway, or parking lot.<br>
+ <em>**Vehicular Way.**</em> A route intended for vehicular traffic, such as a street, driveway, or parking lot.<br>
 
- <em>Walk. </em> An exterior pathway with a prepared surface intended for pedestrian use, including general pedestrian areas such as plazas and courts.<br>
+ <em>**Walk.**</em> An exterior pathway with a prepared surface intended for pedestrian use, including general pedestrian areas such as plazas and courts.<br>
 
 NOTE: Sections 4.1.1 through 4.1.7 are different from ANSI A117.1 in their entirety and are printed in standard type (ANSI A117.1 does not include scoping provisions).
 
@@ -390,7 +390,7 @@ Each addition to an existing building or facility shall be regarded as an altera
 The minimum clear width for single wheelchair passage shall be 32 in (815 mm) at a point and 36 in (915 mm) continuously (see [Fig. 1](#fig1) and [24(e)](#fig24e)).
 
 <figure id="fig1">
-**Figure 1**
+**Figure 1**<br/>
 {% asset design-standards/figure_1_minimum_clear_width_for_single_wheelchair.gif alt="figure 1" %}
 <figcaption>
 **Figure 1. Minimum Clear Width for Single Wheelchair.** The minimum clear width for single wheelchair passage shall be 32 inches (815 mm) at a point for a maximum length of 24 inches and 36 inches (915 mm) continuously.
@@ -398,7 +398,7 @@ The minimum clear width for single wheelchair passage shall be 32 in (815 mm) at
 </figure>
 
 <figure id="fig24e">
-**Figure 24e**
+**Figure 24e**<br/>
 {% asset design-standards/figure_24e_max_doorway_depth.gif alt="figure 24 e" %}
 <figcaption>
 **Figure 24(e) Maximum Doorway Depth.** Clear width is 32 inches (815 mm) minimum measured from the one side wall to the face of the opposite side wall. The maximum depth of the opening shown is 24 inches (810 mm).
