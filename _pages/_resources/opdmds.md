@@ -47,9 +47,9 @@ In addition, covered entities must allow people with disabilities who use any OP
 
 - In some cases, even in facilities such as those described above, an OPDMD can be accommodated in some areas of a facility, but not in others because of legitimate safety concerns. For example, a cruise ship may decide that people with disabilities using Segways® can generally be accommodated, except in constricted areas, such as passageways to cabins that are very narrow and have low ceilings.  
 
-- For other facilities -- such as a small convenience store, or a small town manager's office -- covered entities may determine that certain classes of OPDMDs cannot be accommodated. In that case, they are still required to serve a person with a disability using one of these devices in an alternate manner if possible, such as providing curbside service or meeting the person at an alternate location.  
+>| {% asset project-images/opdmd2.jpg alt="Drawing of a person using a Segway<sup>®</sup> reaching for an item in a grocery store cooler" %} |  
 
-| {% asset project-images/opdmd2.jpg alt="Drawing of a person using a Segway<sup>®</sup> reaching for an item in a grocery store cooler" %} |  
+- For other facilities -- such as a small convenience store, or a small town manager's office -- covered entities may determine that certain classes of OPDMDs cannot be accommodated. In that case, they are still required to serve a person with a disability using one of these devices in an alternate manner if possible, such as providing curbside service or meeting the person at an alternate location.  
 
 Covered entities are encouraged to develop written policies specifying which kinds of OPDMDs will be permitted and where and when they will be permitted, based on the following assessment factors.  
 
