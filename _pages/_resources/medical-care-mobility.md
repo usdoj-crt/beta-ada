@@ -231,7 +231,6 @@ Overhead track lifts include ceiling mounted lifts and lifts mounted on a frame 
 Ceiling mounted lifts are permanently mounted to the ceiling structure and run along one or more tracks. These lifts require no extra maneuvering space in the room adjacent to the exam table and require little storage space. However, they cannot be used in multiple exam rooms, since they are permanently attached to the ceiling structure.  
 
 | {% asset project-images/AssistTrnsMntdOrhdLift.jpg alt="Drawing illustrating a permanently mounted overhead lift transferring a woman from her wheelchair to an exam table.  Two people assist with the transfer and operate the lift." %} |  
-|:-:|  
 
 1. Ceiling structure must support weight of lift and person.  
 2. Overhead track lifts can be used in rooms with limited floor space or where an exam table cannot accommodate a portable floor lift.  
@@ -262,7 +261,6 @@ When it is not feasible or possible to use a lift, another option is an adjustab
 There are many types of radiologic technologies and equipment associated with them, including MRI, x-ray, CT scan, bone densitometry, mammography, and ultrasound. Most of these technologies require the patient to lie on a flat surface that is part of the equipment. The accessibility issues related to transfer to the surface are similar to those addressed previously under Examination Tables and Chairs. However, because the technology is often integrated into the table, the table may not be able to be lowered sufficiently. In these cases, use of a patient lift or another transfer and positioning technique is particularly important for access to this equipment.  
 
 | {% asset project-images/AssistTrnsfrDensitometer.jpg alt="Drawing showing a woman being moved from a stretcher to a table at a densitometer.  Three people assist with the lateral transfer." %} |  
-|:-:|  
 
 1. Set stretcher height to be level with table surface for lateral transfer.  
 2. Adequate floor space to maneuver and position stretcher.  
