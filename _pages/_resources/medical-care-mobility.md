@@ -229,7 +229,7 @@ Overhead track lifts include ceiling mounted lifts and lifts mounted on a frame 
 
 Ceiling mounted lifts are permanently mounted to the ceiling structure and run along one or more tracks. These lifts require no extra maneuvering space in the room adjacent to the exam table and require little storage space. However, they cannot be used in multiple exam rooms, since they are permanently attached to the ceiling structure.  
 
-| {% asset project-images/AssistTransFstOverHdLft.jpg alt="Drawing illustrating a permanently mounted overhead lift transferring a woman from her wheelchair to an exam table.  Two people assist with the transfer and operate the lift." %} |  
+| {% asset project-images/AssistTrnsMntdOrhdLift.jpg alt="Drawing illustrating a permanently mounted overhead lift transferring a woman from her wheelchair to an exam table.  Two people assist with the transfer and operate the lift." %} |  
 
 1. Ceiling structure must support weight of lift and person.  
 2. Overhead track lifts can be used in rooms with limited floor space or where an exam table cannot accommodate a portable floor lift.  
