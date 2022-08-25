@@ -37,8 +37,7 @@ In addition, all buildings, including those built before the ADA went into effec
 
 {% details Can I tell a patient that I cannot treat her because I don't have accessible medical equipment? expandable %}  
 **Generally no.** You cannot deny service to a patient whom you would otherwise serve because she has a disability. You must examine the patient as you would any patient. In order to do so, you may need to provide an accessible exam table, an accessible stretcher or gurney, or a patient lift, or have enough trained staff available who can assist the patient to transfer.  
-{% enddetails %}
-
+{% enddetails %}  
 
 {% details Is it OK to tell a patient who has a disability to bring along someone who can help at the exam? expandable %}  
 **No.** If a patient chooses to bring along a friend or family member to the appointment, they may. However, a patient with a disability, just like other individuals, may come to an appointment alone, and the provider must provide reasonable assistance to enable the individual to receive the medical care. This assistance may include helping the patient to undress and dress, get on and off the exam table or other equipment, and lie back and be positioned on the examination table or other equipment. Once on the exam table, some patients may need a staff person to stay with them to help maintain balance and positioning. The provider should ask the patient if he or she needs any assistance and, if so, what is the best way to help.  
@@ -230,7 +229,7 @@ Overhead track lifts include ceiling mounted lifts and lifts mounted on a frame 
 
 Ceiling mounted lifts are permanently mounted to the ceiling structure and run along one or more tracks. These lifts require no extra maneuvering space in the room adjacent to the exam table and require little storage space. However, they cannot be used in multiple exam rooms, since they are permanently attached to the ceiling structure.  
 
-| {% asset project-images/AssistTrnsMntdOrhdLift.jpg alt="Drawing illustrating a permanently mounted overhead lift transferring a woman from her wheelchair to an exam table.  Two people assist with the transfer and operate the lift." %} |  
+| {% asset project-images/AssistTransFstOverHdLft.jpg alt="Drawing illustrating a permanently mounted overhead lift transferring a woman from her wheelchair to an exam table.  Two people assist with the transfer and operate the lift." %} |  
 
 1. Ceiling structure must support weight of lift and person.  
 2. Overhead track lifts can be used in rooms with limited floor space or where an exam table cannot accommodate a portable floor lift.  
@@ -239,7 +238,7 @@ Ceiling mounted lifts are permanently mounted to the ceiling structure and run a
 
 Another type of overhead lift is supported from a frame that rests on the floor. Free-standing, nonpermanent overhead track lifts are a good solution when the provider does not want the lift to be permanently installed or where the existing ceiling structure cannot support a ceiling-mounted overhead lift. The medical provider should choose the type of lift that will work best with the exam tables, the space, and the ceiling or floor structure of the medical facility.
 
-| {% asset project-images/AssistTrnsMntdOrhdLift.jpg alt="Drawing showing a free standing overhead lift transferring a man to an exam table.  Two people assist with the transfer and operate the lift." %} |  
+| {% asset project-images/AssistTransFstOverHdLft.jpg alt="Drawing showing a free standing overhead lift transferring a man to an exam table.  Two people assist with the transfer and operate the lift." %} |  
 
 1. Free-standing overhead track lift systems function like ceiling-mounted lifts and do not require modifications to existing construction.  
 2. While not as portable as floor lifts with wheels, these lifts are movable and can be relocated as needs or services change.  
