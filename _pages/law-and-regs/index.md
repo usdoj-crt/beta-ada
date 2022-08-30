@@ -26,8 +26,8 @@ Learn more about the ADA on our [Introduction to the ADA page]( {{'/topics/intro
 DOJ is responsible for issuing regulations under Titles II and III of the Americans with Disabilities Act (ADA) that explain the rights of people with disabilities and the obligations of those covered by the law.  
 
 - For more information about the ADA generally, check out [Introduction to the Americans with Disabilities Act]( {{'/topics/intro-to-ada' | relative_url}}).  
-  - For more information about Title II of the ADA, see [State and Local Governments]( {{'/topics/title-ii' | relative_url}}).  
-  - For more information about Title III of the ADA, see [Businesses That Are Open to the Public]( {{'/topics/title-iii' | relative_url}}).  
+- For more information about Title II of the ADA, see [State and Local Governments]( {{'/topics/title-ii' | relative_url}}).  
+- For more information about Title III of the ADA, see [Businesses That Are Open to the Public]( {{'/topics/title-iii' | relative_url}}).  
 
 {% details What is a regulation? %}  
 A regulation (also called a "rule") is a set of requirements issued by a federal agency to implement laws passed by Congress.  When Congress passes laws, many details are often left to federal agencies to flesh out in regulations.  For example, when Congress passed the ADA, it gave DOJ the authority to issue regulations that explain the rights and obligations under Titles II and III of the ADA.  
