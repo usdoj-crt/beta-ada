@@ -88,6 +88,8 @@ Nor are they required to wear service animal vests or patches, or to use a speci
 
 The ADA requires that service animals be under the control of the handler at all times and be harnessed, leashed, or tethered, unless these devices interfere with the service animal's work or the individual's disability prevents him from using these devices. Individuals who cannot use such devices must maintain control of the animal through voice, signal, or other effective controls.  
 
+| {% asset project-images/building-entry-svc_animal.jpg alt="A woman using a wheelchair and her service animal enter a building." height="300" width="225" %} |  
+
 Public entities may exclude service animals only if 1) the dog is out of control and the handler cannot or does not regain control; or 2) the dog is not housebroken. If a service animal is excluded, the individual must be allowed to enter the facility without the service animal.  
 
 Public entities may not require documentation, such as proof that the animal has been certified, trained, or licensed as a service animal, as a condition for entry. In situations where it is not apparent that the dog is a service animal, a public entity may ask only two questions: 1) is the animal required because of a disability? and 2) what work or task has the dog been trained to perform? Public entities may not ask about the nature or extent of an individual's disability.  
@@ -101,9 +103,9 @@ For additional information, see [ADA 2010 Revised Requirements: Service Animals]
 Allowing mobility devices into a facility is another type of “reasonable modification” necessary to accommodate people who have disabilities.  
 
 People with mobility, circulatory, or respiratory disabilities use a variety of devices for mobility. Some use walkers, canes, crutches, or braces while others use manual or power wheelchairs or electric scooters, all of which are primarily designed for use by people with disabilities. Public entities must allow people with disabilities who use these devices into all areas where the public is allowed to go.  
-
-[image]  
-
+<center>
+{% asset project-images/segway-opdmd.jpg alt="A woman using a wheelchair and her service animal enter a building." height="300" width="175" %}  
+</center>
 Advances in technology have given rise to new power-driven devices that are not necessarily designed specifically for people with disabilities, but are being used by some people with disabilities for mobility. The term “other power-driven mobility devices” is used in the ADA regulations to refer to any mobility device powered by batteries, fuel, or other engines, whether or not they are designed primarily for use by individuals with mobility disabilities, for the purpose of locomotion. Such devices include Segways®, golf cars, and other devices designed to operate in non-pedestrian areas. Public entities must allow individuals with disabilities who use these devices into all areas where the public is allowed to go, unless the entity can demonstrate that the particular type of device cannot be accommodated because of legitimate safety requirements. Such safety requirements must be based on actual risks, not on speculation or stereotypes about a particular class of devices or how individuals will operate them.  
 
 Public entities must consider these factors in determining whether to permit other power-driven mobility devices on their premises:  
