@@ -17,6 +17,8 @@ card:
   image: landing/effective_communication.jpg
   alt: "Hands hover over a braille display"
   href: /topics/effective-communication/
+tags:
+  - topics
 ---
 
 ## Examples of Communication Aids and Services

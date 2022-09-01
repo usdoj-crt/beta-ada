@@ -13,6 +13,8 @@ card:
   image: landing/intro_ada.jpg
   alt: A teacher and a student sitting at a table signing to one another
   href: /topics/intro-to-ada/
+tags:
+  - topics
 ---
 
 ## The ADA Protects People with Disabilities

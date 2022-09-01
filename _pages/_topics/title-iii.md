@@ -4,7 +4,7 @@ description: If you are a business or a person with a disability, there are many
 lead: |-
   The ADA is meant to ensure that people with disabilities can fully participate in all aspects of life.  Almost all types of businesses that serve the public, regardless of their size or the age of their buildings, must follow the ADA.
 
-  If you are a business or a person with a disability, there are many aspects of the ADA that you should be familiar with. The information below is intended to help get you started.  
+  If you are a business or a person with a disability, there are many aspects of the ADA that you should be familiar with. The information below is intended to help get you started.
 print: true
 card:
   title: Businesses That Are Open to the Public
@@ -13,6 +13,8 @@ card:
   image: landing/title-iii.gif
   alt: "A sign hanging inside a storefront window reads Welcome. We are Open. Please come in"
   href: /topics/title-iii/
+tags:
+  - topics
 ---
 
 ## Title III Applies to Businesses
@@ -73,7 +75,7 @@ Architectural barriers are physical elements of a building that prevent movement
 Readily achievable means easy to do without much difficulty or expense. This standard is based on the business’s size and resources. So, a business with more resources is expected to remove more barriers than a business with fewer resources. The ADA strikes a careful balance between increasing access for people with disabilities and understanding the financial challenges of many small businesses.
 {% enddetails %}
 
-You can find examples of these requirements and how they look in practice in the tables below.  
+You can find examples of these requirements and how they look in practice in the tables below.
 
 You can also learn more about these and other requirements in the [ADA Primer for Small Businesses](https://www.ada.gov/regs2010/smallbusiness/smallbusprimer2010.htm).
 
@@ -91,12 +93,12 @@ Businesses must make “reasonable modifications” in their policies, practices
 <tbody>
 <tr>
 <th scope="row">A person with a service dog tries to enter a buffet restaurant that has a “no pets” policy.</th>
-<td>The restaurant allows the person to enter the restaurant with their service dog.  
+<td>The restaurant allows the person to enter the restaurant with their service dog.
 <p>Learn more about <a href="/topics/service-animals/">service animals</a>.</p></td>
 </tr>
 <tr>
 <th scope="row">A person with a mobility disability is looking to use an electric scooter at an amusement park to get around even though the amusement park doesn’t usually allow motorized devices.</th>
-<td>The amusement park grants an exception to the policy and allows the person to use their electric scooter.  
+<td>The amusement park grants an exception to the policy and allows the person to use their electric scooter.
 <p>Learn more about requirements related to <a href="/topics/mobility-devices/">mobility devices</a>.</p></td>
 </tr>
 <tr>
@@ -152,7 +154,7 @@ We provide more examples on our page about <a href="/topics/effective-communicat
 <tbody>
 <tr>
 <th scope="row"> A person with dyslexia requests additional time to take an admissions exam for a private graduate school program.</th>
-<td>The testing body grants the applicant extended time to take the admissions exam.  
+<td>The testing body grants the applicant extended time to take the admissions exam.
 
 <p>Learn more about providing <a href="https://www.ada.gov/regs2014/testing_accommodations.html">testing accommodations</a>.</p></td>
 </tr>
@@ -169,7 +171,7 @@ We provide more examples on our page about <a href="/topics/effective-communicat
 <tbody>
 <tr>
 <th scope="row">A concert venue requires that customers with disabilities call the box office to purchase accessible seating.</th>
-<td>The venue makes accessible seating available for purchase online.  
+<td>The venue makes accessible seating available for purchase online.
 
 <p>Learn more about <a href="https://www.ada.gov/ticketing_2010.htm">ticket sales</a>.</p></td>
 </tr>
@@ -186,7 +188,7 @@ We provide more examples on our page about <a href="/topics/effective-communicat
 <tbody>
 <tr>
 <th scope="row">A person who uses a wheelchair has difficulty accessing items at a local grocery store because it hasn’t been updated since before the ADA was passed.</th>
-<td>The store rearranges tables and displays that block access to shopping aisles and provides a clerk to assist the customer with getting items that are out of reach.  
+<td>The store rearranges tables and displays that block access to shopping aisles and provides a clerk to assist the customer with getting items that are out of reach.
 
 <p>Learn more about <a href="https://www.ada.gov/regs2010/smallbusiness/smallbusprimer2010.htm#readilyachievable">readily achievable barrier removal</a></p>.
 </td>
@@ -196,7 +198,7 @@ We provide more examples on our page about <a href="/topics/effective-communicat
 
 {% include expand-accordions-wrapper.html expand-heading='New Construction and Alterations' %}
 
-When businesses build or alter buildings or other facilities, they must make them accessible to people with disabilities. To make them accessible, businesses need to follow the [ADA Standards for Accessible Design](https://www.ada.gov/2010ADAstandards_index.htm). The information below is intended to help get you started.  
+When businesses build or alter buildings or other facilities, they must make them accessible to people with disabilities. To make them accessible, businesses need to follow the [ADA Standards for Accessible Design](https://www.ada.gov/2010ADAstandards_index.htm). The information below is intended to help get you started.
 
 ### ADA Standards Basics
 

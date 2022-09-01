@@ -17,6 +17,7 @@ card:
 related-content: true
 tags:
   - service animals
+  - topics
 ---
 
 ## About Service Animals

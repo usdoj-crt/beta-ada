@@ -32,6 +32,12 @@ layout: default
       <h1 id="top">{{page.title}}</h1>
       <div class="crt-landing--separator_small"></div>
       {% if page.sidenav %}
+      {% assign tagArray = 'regs,topics,resources' | split:',' %}
+      {% for tag in tagArray %}
+      {% if page.tags contains tag %}
+        {% include content-tag-icon.html tag=tag %}
+      {% endif %}
+      {% endfor %}
       <div class="measure-6">
         {% else %}
         <div class="measure-12">

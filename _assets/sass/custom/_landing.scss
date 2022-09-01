@@ -99,6 +99,12 @@ $arrow-height: 24px;
   @include text--body-copy__small();
 }
 
+.crt-landing--icon-tag {
+  @include text--heading__medium();
+  font-family: family("heading");
+  font-weight: $theme-font-weight-bold;
+}
+
 .crt-landing--how_to_report {
   .crt-landing--largetext {
     @include at-media-max(mobile-lg) {

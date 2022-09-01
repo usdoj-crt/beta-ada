@@ -2,7 +2,7 @@
 title: State and Local Governments
 description: If you are part of a state/local government program or a person with a disability, there are many aspects of the ADA that you should be familiar with.
 lead: |-
-  The ADA is meant to ensure that people with disabilities can fully participate in all aspects of civic life. Under Title II, all state/local governments must follow the ADA regardless of their size.  
+  The ADA is meant to ensure that people with disabilities can fully participate in all aspects of civic life. Under Title II, all state/local governments must follow the ADA regardless of their size.
 
   If you are part of a state/local government program or a person with a disability, there are many aspects of the ADA that you should be familiar with. The information below is intended to help get you started.
 print: true
@@ -13,6 +13,8 @@ card:
   image: landing/title-ii.gif
   alt: "An aerial view of a city; includes city hall, streets, sidewalks, cars, and other government and non-government buildings"
   href: /topics/title-ii/
+tags:
+  - topics
 ---
 
 ## Title II Applies to State/Local Programs
@@ -70,7 +72,7 @@ State/local governments need to make <em>reasonable modifications</em> when nece
 </tr>
 <tr>
 <th scope="row">A person with a service dog tries to enter a public library that has a “no pets” rule.</th>
-<td>The city makes an exception to its “no pets” in public libraries and other city buildings to allow people with disabilities to use their service dogs.  
+<td>The city makes an exception to its “no pets” in public libraries and other city buildings to allow people with disabilities to use their service dogs.
 
 <p>Learn more about <a href="/topics/service-animals/">service animals</a>.</p></td>
 </tr>
@@ -178,13 +180,13 @@ Learn more about program access and the limitations on this requirement in the [
 <p>Learn more about requirements for <a href="https://www.ada.gov/ticketing_2010.htm">ticket sales</a>.</p></td>
 </tr>
 </tbody>
-</table>  
+</table>
 
 {% include expand-accordions-wrapper.html expand-heading='New Construction and Alterations' %}
 
-When state/local governments build or alter facilities, they must make them accessible to people with disabilities. To make them accessible, state/local governments need to follow the ADA Standards for Accessible Design. The information below is intended to help get you started.  
+When state/local governments build or alter facilities, they must make them accessible to people with disabilities. To make them accessible, state/local governments need to follow the ADA Standards for Accessible Design. The information below is intended to help get you started.
 
-### ADA Standards Basics  
+### ADA Standards Basics
 
 {% details Chapter 1: Application and Administration expandable %}
 [Contains important information, including definitions for key terms used in the
@@ -219,7 +221,7 @@ facilities](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#c
 {% enddetails %}
 
 {% details Dining Surfaces expandable %}
-[Section 226](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1011000) and [902](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1006229)  
+[Section 226](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1011000) and [902](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1006229)
 <p>Also see:</p>
 - [Section 206.2.5 (Restaurants and Cafeterias)](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010125)
 - [Section 226.2 (Dispersion, applies to dinning surfaces)](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1011000)

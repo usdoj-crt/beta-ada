@@ -18,6 +18,7 @@ tags:
   - employment
   - title ii
   - title iii
+  - resources
 ---
 
 ## How employers use algorithms and artificial intelligence

@@ -1,0 +1,12 @@
+<div class='grid-container margin-left-0 padding-left-0'>
+<div class='grid-row flex-row'>
+{% case include.tag %}
+{% when 'topics' %}
+<div class="display-flex flex-align-center">{% asset featured_topics.svg alt=""  class='padding-right-1' %}<strong><p class="crt-landing--icon-tag">Featured Topics</p></strong></div>
+{% when 'regs' %}
+<div class="display-flex flex-align-center">{% asset laws_regs_standards.png alt="" class='padding-right-1' %}<strong><p class="crt-landing--icon-tag">Laws, Regulations & Standards</p></strong></div>
+{% when 'resources' %}
+<div class="display-flex flex-align-center">{% asset guidance_resource_materials.svg alt="" class='padding-right-1' %}<strong><p class="crt-landing--icon-tag">Guidance and Resource Materials</p></strong></div>
+{% endcase %}
+</div>
+</div>

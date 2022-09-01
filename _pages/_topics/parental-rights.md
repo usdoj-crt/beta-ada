@@ -13,6 +13,8 @@ card:
   image: landing/parental-rights.jpg
   alt: Asian American father hugging his son
   href: /topics/parental-rights/
+tags:
+  - topics
 ---
 
 {% details Learn more about the parts of the ADA that state/local governments need to comply with %}
