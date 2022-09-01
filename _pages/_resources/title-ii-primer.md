@@ -14,7 +14,7 @@ tags:
   - title ii
   - title iii
 ---
-The Department of Justice revised its regulations implementing the ADA in September 2010. The new rules clarify issues that arose over the previous 20 years and contain new requirements, including the 2010 ADA Standards for Accessible Design (2010 Standards). This document provides general guidance to assist State and local governments in understanding and complying with the ADA's requirements. For more comprehensive information about specific requirements, government officials can consult the regulation, the 2010 Standards, and the Department's technical assistance publications.  
+The Department of Justice revised its regulations implementing the ADA in September 2010. The new rules clarify issues that arose over the previous 20 years and contain new requirements, including the 2010 ADA Standards for Accessible Design (2010 Standards). This document provides general guidance to assist State and local governments in understanding and complying with the ADA's requirements. For more comprehensive information about specific requirements, government officials can consult the [regulation](https://www.ada.gov/regs2010/titleII_2010/titleII_2010_regulations.htm), the [2010 Standards](https://www.ada.gov/regs2010/titleII_2010/2010ADAstandards_index.htm), and the [Department's technical assistance publications]( {{'/resources/'| relative_url}})  .  
 
 ## Who is Protected by the ADA?  
 
@@ -24,7 +24,7 @@ The ADA protects the rights of people who have a physical or mental impairment t
 
 Title II of the ADA applies to all State and local governments and all departments, agencies, special purpose districts, and other instrumentalities of State or local government (“public entities”). It applies to all programs, services, or activities of public entities, from adoption services to zoning regulation. Title II entities that contract with other entities to provide public services (such as non-profit organizations that operate drug treatment programs or convenience stores that sell state lottery tickets) also have an obligation to ensure that their contractors do not discriminate against people with disabilities.  
 
-## GENERAL NONDISCRIMINATION REQUIREMENTS  
+## General Nondiscrimination Requirements  
 
 ### Basic Principles  
 
@@ -76,7 +76,7 @@ Only "reasonable" modifications are required. When only one staff person is on d
 - At a hot lunch program for elderly town residents, staff are not obliged to feed a woman with a disability who needs assistance in eating, if it does not provide this service for others. However, the woman should be allowed to bring an attendant to assist her. If she can feed herself but cannot cut large pieces of food into bite-sized pieces, it is reasonable to ask staff to cut up the food.  
 - If a city requires a 12-foot set-back from the curb in the central business district, it may be reasonable to grant a 3-foot variance for a store wishing to install a ramp at its entrance to meet its ADA obligations. If the set-back is smaller and the ramp would obstruct pedestrian traffic, granting the variance may "fundamentally alter" the purpose of the public sidewalk.  
 
-## Service Animals  
+### Service Animals  
 
 Under the ADA, a service animal is defined as a dog that has been individually trained to do work or perform tasks for an individual with a disability. The task(s) performed by the dog must be directly related to the person’s disability. For example, many people who are blind or have low vision use dogs to guide and assist them with orientation. Many individuals who are deaf use dogs to alert them to sounds. People with mobility disabilities often use dogs to pull their wheelchairs or retrieve items. People with epilepsy may use a dog to warn them of an imminent seizure, and individuals with psychiatric disabilities may use a dog to remind them to take medication. Dogs can also be trained to detect the onset of a seizure or panic attack and to help the person avoid the attack or be safe during the attack. Under the ADA, “comfort,” “therapy,” or “emotional support” animals do not meet the definition of a service animal because they have not been trained to do work or perform a specific task related to a person’s disability.  
 
@@ -103,9 +103,9 @@ For additional information, see [ADA 2010 Revised Requirements: Service Animals]
 Allowing mobility devices into a facility is another type of “reasonable modification” necessary to accommodate people who have disabilities.  
 
 People with mobility, circulatory, or respiratory disabilities use a variety of devices for mobility. Some use walkers, canes, crutches, or braces while others use manual or power wheelchairs or electric scooters, all of which are primarily designed for use by people with disabilities. Public entities must allow people with disabilities who use these devices into all areas where the public is allowed to go.  
-<center>
+
 {% asset project-images/segway-opdmd.jpg alt="A woman using a wheelchair and her service animal enter a building." height="300" width="175" %}  
-</center>
+
 Advances in technology have given rise to new power-driven devices that are not necessarily designed specifically for people with disabilities, but are being used by some people with disabilities for mobility. The term “other power-driven mobility devices” is used in the ADA regulations to refer to any mobility device powered by batteries, fuel, or other engines, whether or not they are designed primarily for use by individuals with mobility disabilities, for the purpose of locomotion. Such devices include Segways®, golf cars, and other devices designed to operate in non-pedestrian areas. Public entities must allow individuals with disabilities who use these devices into all areas where the public is allowed to go, unless the entity can demonstrate that the particular type of device cannot be accommodated because of legitimate safety requirements. Such safety requirements must be based on actual risks, not on speculation or stereotypes about a particular class of devices or how individuals will operate them.  
 
 Public entities must consider these factors in determining whether to permit other power-driven mobility devices on their premises:  
@@ -146,7 +146,7 @@ Staff who answer the telephone must accept and treat relay calls just like other
 
 For additional information, including the performance standards for VRI, see [ADA 2010 Revised Requirements: Effective Communication](( {{'/resources/effective-communication' | relative_url}})).  
 
-## MAKING THE BUILT ENVIRONMENT ACCESSIBLE  
+## Making the Built Environment Accessible   
 
 The ADA's regulations and the ADA Standards for Accessible Design, originally published in 1991, set the minimum standard for what makes a facility accessible. Only elements that are built-in (fixed in place) are addressed in the Standards. While the updated 2010 Standards, which became effective on March 15, 2012, retain many of the original provisions in the 1991 Standards, there are some significant differences. The Standards are used when determining if a public entity's programs or services are accessible under the ADA. However, they apply differently depending on whether the entity is providing access to programs or services in existing facilities or is altering an existing facility or building a new facility.  
 
@@ -202,17 +202,17 @@ The 2010 Standards also contain requirements for recreational facilities that we
 - Swimming pools, wading pools, and spas  
 - Shooting facilities with firing positions  
 - Residential facilities and dwelling units  
-- Miscellaneous
- - Team or player seating  
- - Accessible route to bowling lanes  
- - Accessible route in court sports facilities  
+- Miscellaneous  
+  - Team or player seating  
+  - Accessible route to bowling lanes  
+  - Accessible route in court sports facilities  
 {% enddetails %}  
 
 ### Alterations  
 
 When a public entity chooses to alter any of its facilities, the elements and spaces being altered must comply with the 2010 Standards. An alteration is defined as remodeling, renovating, rehabilitating, reconstructing, changing or rearranging structural parts or elements, changing or rearranging plan configuration of walls and full-height or other fixed partitions, or making other changes that affect (or could affect) the usability of the facility. Examples include restriping a parking lot, moving walls, moving a fixed ATM to another location, installing a new service counter or display shelves, changing a doorway entrance, or replacing fixtures, flooring or carpeting. Normal maintenance, reroofing, painting, wallpapering, or other changes that do not affect the usability of a facility are not considered alterations. The 2010 Standards set minimum accessibility requirements for alterations. In situations where strict compliance with the Standards is technically infeasible, the entity must comply to the maximum extent feasible. “Technically infeasible” is defined as something that has little likelihood of being accomplished because existing structural conditions would require removing or altering a load-bearing member that is an essential part of the structural frame; or because other existing physical or site constraints prohibit modifications or additions that comply fully with the Standards. The 2010 Standards also contain an exemption for certain alterations that would threaten or destroy the historic significance of an historic property.  
 
-#### New Construction  
+### New Construction  
 
 The ADA requires that all new facilities built by public entities must be accessible to and usable by people with disabilities. The 2010 Standards set out the minimum accessibility requirements for newly constructed facilities.  
 
@@ -241,9 +241,9 @@ Dining and Work Surfaces -- Sections 226 and 902. The provisions regarding acces
 Dressing, Fitting, and Locker Rooms -- Sections 222 and 803.  
 {% enddetails %}
 
-## Highlights of the 2010 Standards  
+### Highlights of the 2010 Standards  
 
-### Parking
+#### Parking
 The chart below indicates the number of accessible spaces required by the 2010 Standards. One out of every six accessible spaces must be van-accessible.  
 
 <table class="usa-table">
@@ -305,23 +305,25 @@ Public entities with very limited parking (four or fewer spaces) must have one v
 
 An accessible parking space must have an access aisle, which allows a person using a wheelchair or other mobility device to get in and out of the car or van. Accessible parking spaces (including access aisles) must be level (maximum slope 1:48 in all directions) and each access aisle must adjoin an accessible route.  
 
->A man using a wheelchair is exiting his van at a van-accessible parking space. The illustration has notes explaining the following requirements, starting at the top left and moving counterclockwise:  Signage: international symbol of accessibility placed in front of the parking space mounted at least 60 inches above the ground, measured to the bottom of the sign. Van accessible spaces include the designation van accessible.  Van Accessible Spaces: 2010 Standards one for every six accessible spaces (1991 Standards required one for every eight)  Width of space for car: 8 feet minimum  Width of space for van: 11 feet minimum (although it may be 8 feet wide if its access aisle is 8 feet wide)  Access aisle:  Width: 5 feet minimum (if aisle serves car and van spaces)  Length: full length of parking space  
+| {% asset project-images/title_ii_primer_clip.jpg alt="A man using a wheelchair is exiting his van at a van-accessible parking space. The illustration has notes explaining the following requirements, starting at the top left and moving counterclockwise:  Signage: international symbol of accessibility placed in front of the parking space mounted at least 60 inches above the ground, measured to the bottom of the sign. Van accessible spaces include the designation van accessible.  Van Accessible Spaces: 2010 Standards one for every six accessible spaces (1991 Standards required one for every eight)  Width of space for car: 8 feet minimum  Width of space for van: 11 feet minimum (although it may be 8 feet wide if its access aisle is 8 feet wide)  Access aisle:  Width: 5 feet minimum (if aisle serves car and van spaces)  Length: full length of parking space" height="500" width="700" %} |  
 
->An overview of accessible parking requirements  
+#### Accessible Entrances  
 
-### Accessible Entrances  
+One small step at an entrance can make it impossible for individuals using wheelchairs, walkers, canes, or other mobility devices to enter a public facility. Removing this barrier may be accomplished in a number of ways, such as installing a ramp or a lift or regrading the walkway to provide an accessible route. If the main entrance cannot be made accessible, an alternate accessible entrance can be used.  
 
-One small step at an entrance can make it impossible for individuals using wheelchairs, walkers, canes, or other mobility devices to enter a public facility. Removing this barrier may be accomplished in a number of ways, such as installing a ramp or a lift or regrading the walkway to provide an accessible route. If the main entrance cannot be made accessible, an alternate accessible entrance can be used. If there are several entrances and only one is accessible, a sign should be posted at the inaccessible entrances directing individuals to the accessible entrance. This entrance must be open whenever other public entrances are open.  
+| {% asset project-images/sign-to-entrance.jpg alt="sign identifies the location of the nearest accessible entrance." height="150" width="225" %} |
 
-### Accessible Routes to Programs and Services  
+If there are several entrances and only one is accessible, a sign should be posted at the inaccessible entrances directing individuals to the accessible entrance. This entrance must be open whenever other public entrances are open.   
+
+#### Accessible Routes to Programs and Services  
 
 The path a person with a disability takes to enter and move through a facility is called an "accessible route." This route, which must be at least three feet wide, must remain accessible and not be blocked by items such as vending or ice machines, newspaper dispensers, furniture, filing cabinets, display racks, or potted plants. Similarly, accessible toilet stalls and accessible service counters must not be cluttered with materials or supplies. The accessible route should be the same, or be located in the same area as, the general route used by people without mobility disabilities.  
 
-### Shelves, Sales and Service Counters, and Check-Out Aisles  
+#### Shelves, Sales and Service Counters, and Check-Out Aisles  
 
 The obligation to provide program access also applies to merchandise shelves, sales and service counters, and check-out aisles. Shelves used by the public must be on an accessible route with enough space to allow individuals using mobility devices to access merchandise or materials. However, shelves may be of any height since they are not subject to the ADA's reach range requirements. A portion of sales and service counters must be accessible to people who use mobility devices. If a facility has check-out aisles, at least one must be usable by people with mobility disabilities, though more are required in larger venues.  
 
-## PLANNING FOR SUCCESS  
+## Planning for Success  
 
 Being proactive is the best way to ensure ADA compliance. Many public entities have adopted a general ADA nondiscrimination policy, a specific policy on service animals, a specific policy on effective communication, or specific policies on other ADA topics. Staff also need instructions about how to access the auxiliary aids and services needed to communicate with people who have vision, hearing, or speech disabilities. Public entities should also make staff aware of the free information resources for answers to ADA questions. And officials should be familiar with the 2010 Standards before undertaking any alterations or new construction projects. Training staff on the ADA, conducting periodic self-evaluations of the accessibility of the public entity's policies, programs and facilities, and developing a transition plan to remove barriers are other proactive steps to ensure ADA compliance.  
 
@@ -335,9 +337,13 @@ For more information, see ADA Best Practices Tool Kit for State and Local Govern
 
 ### Staff Training  
 
-A critical, but often overlooked, component of ensuring success is comprehensive and ongoing staff training. staff training session for front line staff and volunteersPublic entities may have good policies, but if front line staff or volunteers are not aware of them or do not know how to implement them, problems can arise. It is important that staff -- especially front line staff who routinely interact with the public -- understand the requirements on modifying policies and practices, communicating with and assisting customers, accepting calls placed through the relay system, and identifying alternate ways to provide access to programs and services when necessary to accommodate individuals with a mobility disability. Many local disability organizations, including Centers for Independent Living, conduct ADA trainings in their communities. The Department of Justice or the National Network of ADA Centers can provide local contact information for these organizations.
+A critical, but often overlooked, component of ensuring success is comprehensive and ongoing staff training. staff training session for front line staff and volunteersPublic entities may have good policies, but if front line staff or volunteers are not aware of them or do not know how to implement them, problems can arise.  
 
-### ADA INFORMATION RESOURCES  
+| {% asset project-images/staff-training.jpg alt="staff training session for front line staff and volunteers" height="300" width="225" %} |
+
+It is important that staff -- especially front line staff who routinely interact with the public -- understand the requirements on modifying policies and practices, communicating with and assisting customers, accepting calls placed through the relay system, and identifying alternate ways to provide access to programs and services when necessary to accommodate individuals with a mobility disability. Many local disability organizations, including Centers for Independent Living, conduct ADA trainings in their communities. The Department of Justice or the National Network of ADA Centers can provide local contact information for these organizations.
+
+## ADA Information Resources
 
 For more information about the revised ADA regulations, the 2010 Standards, and the ADA, please visit [ADA.gov](https://www.ada.gov) or call our toll-free number.
 
@@ -345,13 +351,13 @@ For more information about the revised ADA regulations, the 2010 Standards, and 
 800-514-0301 (Voice) and 800-514-0383 (TTY)  
 M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.  
 
-**[National Network of ADA Centers](https://adata.org)**  
+[National Network of ADA Centers](https://adata.org)  
 
 Ten regional centers are funded by the U.S. Department of Education to provide ADA technical assistance to businesses, States and localities, and people with disabilities. One toll-free number connects you to the center in your region:  
 
 >800-949-4232 (Voice and TTY)  
 
-**[Access Board](https://www.access-board.gov/)**  
+[Access Board](https://www.access-board.gov/)  
 
 For technical assistance on the ADA/ABA Guidelines:  
 >800-872-2253 (Voice)  
