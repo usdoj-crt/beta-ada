@@ -55,23 +55,30 @@ primary_navigation:
       en: "/"
       es: "/"
   - name:
-      en: Explore Featured Topics
-      en-short: Explore Topics
-      es: Explore Featured Topics
+      en: Featured Topics
+      en-short: Featured Topics
+      es: Featured Topics
     url:
       en: "/topics/"
       es: "/topics/"
   - name:
-      en: Review Laws, Regulations & Standards
-      en-short: Review Laws & Regulations
-      es: Review Laws, Regulations & Standards
+      en: Laws, Regulations & Standards
+      en-short: Laws & Regulations
+      es: Laws, Regulations & Standards
     url:
       en: "/law-and-regs/"
       es: "/law-and-regs/"
   - name:
-      en: View Guidance & Resource Materials
-      en-short: View Resources
-      es: View Guidance & Resource Materials
+      en: Guidance & Resource Materials
+      en-short: Resources
+      es: Guidance & Resource Materials
+    url:
+      en: "/resources/"
+      es: "/resources/"
+  - name:
+      en: Enforcement
+      en-short: Enforcement
+      es: Enforcement
     url:
       en: "/resources/"
       es: "/resources/"
