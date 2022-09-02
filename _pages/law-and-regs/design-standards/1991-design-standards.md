@@ -37,7 +37,7 @@ Departures from particular technical and scoping requirements of this guideline 
 Graphic conventions are shown in Table 1:
 
 <figure id="table1">
-**Table 1**
+**Table 1**<br/>
 {% asset design-standards/table_1_graphic_conventions.gif alt="Table 1: Graphic Conventions" %}
 <figcaption>
 The table describes graphic conventions used in the ADA Standards for Accessible Design for showing dimensions on figures, how the direction of approach is denoted, centerline designation and boundary of clear floor area. All dimensions are shown in inches above the measure line, with the metric equivalent below. Where the dimension does not fit conveniently between lines, the measure line is extended beyond the lines and the dimension placed above (and below) the extension.
