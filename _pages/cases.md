@@ -1,5 +1,5 @@
 ---
-title: Cases
+title: Enforcement
 description: "The Americans with Disabilities Act provides an important tool to fight discrimination: filing a complaint with an appropriate federal agency.  This page outlines the steps to get you started."
 permalink: /cases/
 redirect_from:
@@ -8,7 +8,7 @@ sidenav: false
 lead: |-
   The Department of Justice enforces the ADA through lawsuits and settlement agreements to achieve greater access, inclusion, and equal opportunity for people with disabilities.
 ---
-## Check Out Our Cases
+## Check Out Cases and Other Enforcement Matters
 
 **2021 - Present**
 
