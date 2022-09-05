@@ -88,7 +88,9 @@ Nor are they required to wear service animal vests or patches, or to use a speci
 
 The ADA requires that service animals be under the control of the handler at all times and be harnessed, leashed, or tethered, unless these devices interfere with the service animal's work or the individual's disability prevents him from using these devices. Individuals who cannot use such devices must maintain control of the animal through voice, signal, or other effective controls.  
 
-| {% asset project-images/building-entry-svc_animal.jpg alt="A woman using a wheelchair and her service animal enter a building." height="300" width="225" %} |  
+<figure id="building-entry">
+{% asset project-images/building-entry-svc_animal.jpg alt="A woman using a wheelchair and her service animal enter a building." height="300" width="225" %}  
+</figure>  
 
 Public entities may exclude service animals only if 1) the dog is out of control and the handler cannot or does not regain control; or 2) the dog is not housebroken. If a service animal is excluded, the individual must be allowed to enter the facility without the service animal.  
 
@@ -104,7 +106,7 @@ Allowing mobility devices into a facility is another type of “reasonable modif
 
 People with mobility, circulatory, or respiratory disabilities use a variety of devices for mobility. Some use walkers, canes, crutches, or braces while others use manual or power wheelchairs or electric scooters, all of which are primarily designed for use by people with disabilities. Public entities must allow people with disabilities who use these devices into all areas where the public is allowed to go.  
 
-{% asset project-images/segway-opdmd.jpg alt="A woman using a wheelchair and her service animal enter a building." height="300" width="175" %}  
+{% asset project-images/segway-opdmd.jpg alt="A man with prosthetic legs using a Segway" height="350" width="200" %}  
 
 Advances in technology have given rise to new power-driven devices that are not necessarily designed specifically for people with disabilities, but are being used by some people with disabilities for mobility. The term “other power-driven mobility devices” is used in the ADA regulations to refer to any mobility device powered by batteries, fuel, or other engines, whether or not they are designed primarily for use by individuals with mobility disabilities, for the purpose of locomotion. Such devices include Segways®, golf cars, and other devices designed to operate in non-pedestrian areas. Public entities must allow individuals with disabilities who use these devices into all areas where the public is allowed to go, unless the entity can demonstrate that the particular type of device cannot be accommodated because of legitimate safety requirements. Such safety requirements must be based on actual risks, not on speculation or stereotypes about a particular class of devices or how individuals will operate them.  
 
@@ -171,7 +173,7 @@ There are limits to a public entity's program access obligations. Entities are n
 
 A key concept is that public programs and services, when viewed in their entirety, must be accessible to people with disabilities, but not all facilities must necessarily be made accessible. For example, if a city has multiple public swimming pools and limited resources, it can decide which pools to make accessible based on factors such as the geographic distribution of the sites, the availability of public transportation, the hours of operation, and the particular programs offered at each site so that the swimming program as a whole is accessible to and usable by people with disabilities.  
 
-Another key concept is that public entities have an ongoing obligation to make programs and services accessible to people with disabilities. This means that if many access improvements are needed, and there are insufficient resources to accomplish them in a single year, they can be spread out over time. It also means that rising or falling revenues can affect whether or not an access improvement can be completed in a given year. What might have been seen as an undue burden during an economic downturn could become possible when the economy improves and revenues increase. Thus, public entities should periodically reassess what steps they can take to make their programs and services accessible. Public entities should also consult with people with disabilities in setting priorities for achieving program access. (See Planning for Success.)  
+Another key concept is that public entities have an ongoing obligation to make programs and services accessible to people with disabilities. This means that if many access improvements are needed, and there are insufficient resources to accomplish them in a single year, they can be spread out over time. It also means that rising or falling revenues can affect whether or not an access improvement can be completed in a given year. What might have been seen as an undue burden during an economic downturn could become possible when the economy improves and revenues increase. Thus, public entities should periodically reassess what steps they can take to make their programs and services accessible. Public entities should also consult with people with disabilities in setting priorities for achieving program access. See [Planning for Success](#suc)  
 
 Temporary access interruptions for maintenance, repair, or operational activities are permitted, but must be remedied as soon as possible and may not extend beyond a reasonable period of time. Staff must be prepared to assist individuals with disabilities during these interruptions. For example, if the accessible route to a biology lab is temporarily blocked by chairs from a classroom that is being cleaned, staff must be available to move the chairs so a student who uses a wheelchair can get to the lab. In addition, if an accessible feature such as an elevator breaks down, public entities must ensure that repairs are made promptly and that improper or inadequate maintenance does not cause repeated failures. Entities must also ensure that no new barriers are created that impede access by people with disabilities. For example, routinely storing a garbage bin or piling snow in accessible parking spaces makes them unusable and inaccessible to people with mobility disabilities.  
 
@@ -189,8 +191,8 @@ If a facility was in compliance with the 1991 Standards or UFAS as of March 15, 
 
 The 2010 Standards also contain requirements for recreational facilities that were not addressed in the 1991 Standards or UFAS. These include swimming pools, play areas, exercise machines, court sport facilities, and boating and fishing piers. Because there were no previous accessibility standards for these types of facilities, the safe harbor does not apply. The program access rules apply, and the 2010 Standards must be followed when structural change is needed to achieve program access.  
 
-{% details New Requirements in the 2010 Standards %}  
-- Not Subject to the Safe Harbor  
+{% details New Requirements in the 2010 Standards Not Subject to the Safe Harbor %}  
+
 - Amusement rides  
 - Recreational boating facilities  
 - Exercise machines and equipment  
@@ -305,13 +307,18 @@ Public entities with very limited parking (four or fewer spaces) must have one v
 
 An accessible parking space must have an access aisle, which allows a person using a wheelchair or other mobility device to get in and out of the car or van. Accessible parking spaces (including access aisles) must be level (maximum slope 1:48 in all directions) and each access aisle must adjoin an accessible route.  
 
-| {% asset project-images/title_ii_primer_clip.jpg alt="A man using a wheelchair is exiting his van at a van-accessible parking space. The illustration has notes explaining the following requirements, starting at the top left and moving counterclockwise:  Signage: international symbol of accessibility placed in front of the parking space mounted at least 60 inches above the ground, measured to the bottom of the sign. Van accessible spaces include the designation van accessible.  Van Accessible Spaces: 2010 Standards one for every six accessible spaces (1991 Standards required one for every eight)  Width of space for car: 8 feet minimum  Width of space for van: 11 feet minimum (although it may be 8 feet wide if its access aisle is 8 feet wide)  Access aisle:  Width: 5 feet minimum (if aisle serves car and van spaces)  Length: full length of parking space" height="500" width="700" %} |  
+<figure id="parking-overview">  
+{% asset project-images/title_ii_primer_clip.jpg alt="A man using a wheelchair is exiting his van at a van-accessible parking space. The illustration has notes explaining the following requirements, starting at the top left and moving counterclockwise:  Signage: international symbol of accessibility placed in front of the parking space mounted at least 60 inches above the ground, measured to the bottom of the sign. Van accessible spaces include the designation van accessible.  Van Accessible Spaces: 2010 Standards one for every six accessible spaces (1991 Standards required one for every eight)  Width of space for car: 8 feet minimum  Width of space for van: 11 feet minimum (although it may be 8 feet wide if its access aisle is 8 feet wide)  Access aisle:  Width: 5 feet minimum (if aisle serves car and van spaces)  Length: full length of parking space" height="500" width="700" %}  
+<figcaption>
+**An overview of accessible parking requirements**  
+</figcaption>
+</figure>
 
 #### Accessible Entrances  
 
 One small step at an entrance can make it impossible for individuals using wheelchairs, walkers, canes, or other mobility devices to enter a public facility. Removing this barrier may be accomplished in a number of ways, such as installing a ramp or a lift or regrading the walkway to provide an accessible route. If the main entrance cannot be made accessible, an alternate accessible entrance can be used.  
 
-| {% asset project-images/sign-to-entrance.jpg alt="sign identifies the location of the nearest accessible entrance." height="150" width="225" %} |
+{% asset project-images/sign-to-entrance.jpg alt="sign identifies the location of the nearest accessible entrance." height="150" width="225" %}  
 
 If there are several entrances and only one is accessible, a sign should be posted at the inaccessible entrances directing individuals to the accessible entrance. This entrance must be open whenever other public entrances are open.   
 
@@ -323,7 +330,7 @@ The path a person with a disability takes to enter and move through a facility i
 
 The obligation to provide program access also applies to merchandise shelves, sales and service counters, and check-out aisles. Shelves used by the public must be on an accessible route with enough space to allow individuals using mobility devices to access merchandise or materials. However, shelves may be of any height since they are not subject to the ADA's reach range requirements. A portion of sales and service counters must be accessible to people who use mobility devices. If a facility has check-out aisles, at least one must be usable by people with mobility disabilities, though more are required in larger venues.  
 
-## Planning for Success  
+## <a name="suc"></a>Planning for Success  
 
 Being proactive is the best way to ensure ADA compliance. Many public entities have adopted a general ADA nondiscrimination policy, a specific policy on service animals, a specific policy on effective communication, or specific policies on other ADA topics. Staff also need instructions about how to access the auxiliary aids and services needed to communicate with people who have vision, hearing, or speech disabilities. Public entities should also make staff aware of the free information resources for answers to ADA questions. And officials should be familiar with the 2010 Standards before undertaking any alterations or new construction projects. Training staff on the ADA, conducting periodic self-evaluations of the accessibility of the public entity's policies, programs and facilities, and developing a transition plan to remove barriers are other proactive steps to ensure ADA compliance.  
 
@@ -339,7 +346,7 @@ For more information, see ADA Best Practices Tool Kit for State and Local Govern
 
 A critical, but often overlooked, component of ensuring success is comprehensive and ongoing staff training. staff training session for front line staff and volunteersPublic entities may have good policies, but if front line staff or volunteers are not aware of them or do not know how to implement them, problems can arise.  
 
-| {% asset project-images/staff-training.jpg alt="staff training session for front line staff and volunteers" height="300" width="225" %} |
+{% asset project-images/staff-training.jpg alt="staff training session for front line staff and volunteers" height="300" width="225" %}
 
 It is important that staff -- especially front line staff who routinely interact with the public -- understand the requirements on modifying policies and practices, communicating with and assisting customers, accepting calls placed through the relay system, and identifying alternate ways to provide access to programs and services when necessary to accommodate individuals with a mobility disability. Many local disability organizations, including Centers for Independent Living, conduct ADA trainings in their communities. The Department of Justice or the National Network of ADA Centers can provide local contact information for these organizations.
 
