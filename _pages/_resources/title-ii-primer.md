@@ -148,7 +148,7 @@ Staff who answer the telephone must accept and treat relay calls just like other
 
 For additional information, including the performance standards for VRI, see [ADA 2010 Revised Requirements: Effective Communication](( {{'/resources/effective-communication' | relative_url}})).  
 
-## Making the Built Environment Accessible   
+## Making the Built Environment Accessible  
 
 The ADA's regulations and the ADA Standards for Accessible Design, originally published in 1991, set the minimum standard for what makes a facility accessible. Only elements that are built-in (fixed in place) are addressed in the Standards. While the updated 2010 Standards, which became effective on March 15, 2012, retain many of the original provisions in the 1991 Standards, there are some significant differences. The Standards are used when determining if a public entity's programs or services are accessible under the ADA. However, they apply differently depending on whether the entity is providing access to programs or services in existing facilities or is altering an existing facility or building a new facility.  
 
@@ -320,7 +320,7 @@ One small step at an entrance can make it impossible for individuals using wheel
 
 {% asset project-images/sign-to-entrance.jpg alt="sign identifies the location of the nearest accessible entrance." height="150" width="225" %}  
 
-If there are several entrances and only one is accessible, a sign should be posted at the inaccessible entrances directing individuals to the accessible entrance. This entrance must be open whenever other public entrances are open.   
+If there are several entrances and only one is accessible, a sign should be posted at the inaccessible entrances directing individuals to the accessible entrance. This entrance must be open whenever other public entrances are open.  
 
 #### Accessible Routes to Programs and Services  
 
