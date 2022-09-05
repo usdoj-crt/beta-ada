@@ -27,7 +27,7 @@ The exception is child care centers that are actually run by religious entities 
 Private child care centers that are operating on the premises of a religious organization, however, are generally **not** exempt from title III. Where such areas are leased by a child care program not controlled or operated by the religious organization, title III applies to the child care program but not the religious organization. For example, if a private child care program is operated out of a church, pays rent to the church, and has no other connection to the church, the program has to comply with title III but the church does not.  
 {% enddetails %}
 
-##  General Information  
+## General Information  
 
 {% details Q3. What are the basic requirements of title III? expandable %}  
 A: The ADA requires that child care providers not discriminate against persons with disabilities on the basis of disability, that is, that they provide children and parents with disabilities with an equal opportunity to participate in the child care center's programs and services. Specifically:  
