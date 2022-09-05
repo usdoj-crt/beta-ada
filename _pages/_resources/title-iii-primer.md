@@ -182,7 +182,7 @@ If a business chooses to alter elements that were in compliance with the 1991 St
 
 The revised ADA rules and the 2010 Standards contain new requirements for elements in existing facilities that were not addressed in the original 1991 Standards. These include recreation facilities such as swimming pools, play areas, exercise machines, miniature golf facilities, and bowling alleys. Because these elements were not included in the 1991 Standards, they are not subject to the safe harbor. Therefore, on or after March 15, 2012, public accommodations must remove architectural barriers to elements subject to the new requirements in the 2010 Standards when it is readily achievable to do so. For example, a hotel must determine whether it is readily achievable to make its swimming pool accessible to people with mobility disabilities by installing a lift or a ramp as specified in the 2010 Standards.  
 
-{% details New Requirements in the 2010 Standards Not Subject to the Safe Harbor %}   
+{% details New Requirements in the 2010 Standards Not Subject to the Safe Harbor %}  
 - Amusement rides  
 - Recreational boating facilities  
 - Exercise machines and equipment  
