@@ -37,14 +37,13 @@ You can consult the ADA Checklist for Polling Places as a quick reference to che
 
 The ADA’s regulations and the ADA Standards for Accessible Design set out fully what makes a facility accessible. Use them to determine the accessibility of any facility being considered for use as a polling place. Any alterations made to a polling place must comply with the ADA Standards for Accessible Design.  
 
-## Planning Ahead—Selecting Accessible Polling Places  
+### Planning Ahead—Selecting Accessible Polling Places  
 
 If you are an election official planning ahead for election day, you can check out places you might use as a polling place or vote center—like libraries or fire stations. When doing so, you can assess whether the location already has basic accessibility features needed by most voters with disabilities or can be made accessible on election day using temporary solutions to remove barriers. You can use the table below and the [ADA Checklist for Polling Places](https://www.ada.gov/votingchecklist.htm) to help you do so. If temporary solutions would not work, and permanent changes cannot be made to fix
 barriers, then the election official must identify an alternative, accessible polling place or vote center.  
 
-## Common Barriers and Potential Temporary Solutions  
-
 <table class="usa-table">
+ <caption>Common Barriers and Potential Temporary Solutions</caption>
   <thead>
     <tr>
       <th scope="col">Barrier Potential</th>
@@ -82,7 +81,7 @@ barriers, then the election official must identify an alternative, accessible po
 
 Learn more about temporary solutions for common accessibility problems in [Solutions for Five Common ADA Access Problems at Polling Places](https://www.ada.gov/ada_voting/voting_solutions_ta/polling_place_solutions.htm).
 
-## Ballot Drop Boxes  
+### Ballot Drop Boxes  
 
 Ballot drop boxes may be used to provide voters with an alternative to returning an absentee or mail-in ballot through U.S. mail. Election officials should select ballot drop box locations that comply with the ADA’s regulations and the ADA Standards for Accessible Design, including an accessible route and a ballot drop box with accessible features.  
 
