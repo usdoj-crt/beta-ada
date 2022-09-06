@@ -36,13 +36,14 @@ Departures from particular technical and scoping requirements of this guideline 
 
 Graphic conventions are shown in Table 1:
 
-<figure id="table1">
-**Table 1**<br/>
-{% asset design-standards/table_1_graphic_conventions.gif alt="Table 1: Graphic Conventions" %}
-<figcaption>
+{% figure Table 1 %}
+
+{% asset design-standards/figure_24e_max_doorway_depth.gif alt="figure 24 e" %}
+
+{% figcaption %}
 The table describes graphic conventions used in the ADA Standards for Accessible Design for showing dimensions on figures, how the direction of approach is denoted, centerline designation and boundary of clear floor area. All dimensions are shown in inches above the measure line, with the metric equivalent below. Where the dimension does not fit conveniently between lines, the measure line is extended beyond the lines and the dimension placed above (and below) the extension.
-</figcaption>
-</figure>
+{% endfigcaption %}
+{% endfigure %}
 
 Dimensions that are not marked minimum or maximum are absolute, unless otherwise indicated in the text or captions.
 
@@ -389,47 +390,43 @@ Each addition to an existing building or facility shall be regarded as an altera
 
 The minimum clear width for single wheelchair passage shall be 32 in (815 mm) at a point and 36 in (915 mm) continuously (see [Fig. 1](#fig1) and [24(e)](#fig24e)).
 
-<figure id="fig1">
-**Figure 1**<br/>
+{% figure Figure 1 %}
 {% asset design-standards/figure_1_minimum_clear_width_for_single_wheelchair.gif alt="figure 1" %}
-<figcaption>
-**Figure 1. Minimum Clear Width for Single Wheelchair.** The minimum clear width for single wheelchair passage shall be 32 inches (815 mm) at a point for a maximum length of 24 inches and 36 inches (915 mm) continuously.
-</figcaption>
-</figure>
+{% figcaption %}
+The minimum clear width for single wheelchair passage shall be 32 inches (815 mm) at a point for a maximum length of 24 inches and 36 inches (915 mm) continuously.
+{% endfigcaption %}
+{% endfigure %}
 
-<figure id="fig24e">
-**Figure 24e**<br/>
+{% figure Figure 24e %}
 {% asset design-standards/figure_24e_max_doorway_depth.gif alt="figure 24 e" %}
-<figcaption>
-**Figure 24(e) Maximum Doorway Depth.** Clear width is 32 inches (815 mm) minimum measured from the one side wall to the face of the opposite side wall. The maximum depth of the opening shown is 24 inches (810 mm).
-</figcaption>
-</figure>
+{% figcaption %}
+<strong>Maximum Doorway Depth.</strong> Clear width is 32 inches (815 mm) minimum measured from the one side wall to the face of the opposite side wall. The maximum depth of the opening shown is 24 inches (810 mm).
+{% endfigcaption %}
+{% endfigure %}
 
 #### 4.2.2 Width for Wheelchair Passing
 
 The minimum width for two wheelchairs to pass is 60 in (1525 mm) (see [Fig. 2](#fig2)).
 
-<figure id="fig2">
-**Figure 2**
+{% figure Figure 2 %}
 {% asset design-standards/fig_2_min_clear_width_two_wheelchairs.gif alt="figure 2" %}
-<figcaption>
-**Figure 2.** Minimum Clear Width for Two Wheelchairs. Minimum clear width for two wheelchairs to pass is 60 inches (1525 mm).
-</figcaption>
-</figure>
+{% figcaption %}
+Minimum clear width for two wheelchairs to pass is 60 inches (1525 mm).
+{% endfigcaption %}
+{% endfigure %}
 
 #### 4.2.3* Wheelchair Turning Space
 
 The space required for a wheelchair to make a 180-degree turn is a clear space of 60 in (1525 mm) diameter (see [Fig. 3(a)](#fig3)) or a T-shaped space (see [Fig. 3(b)](#fig3)).
 
-<figure id="fig3">
-**Figure 3**
+{% figure Figure 3 %}
 {% asset design-standards/fig_3_wheelchair_turning_space.gif alt="figure 3" %}
-<figcaption>
-**Figure 3.** Figure 3. Wheelchair Turning Space.<br/>
+{% figcaption %}
+Wheelchair Turning Space.<br/>
 Figure 3(a) 60-inch (1525-mm) Diameter Turning Space.<br/>
 Figure 3(b) T-Shaped Space for 180 degree Turns. The T-shaped space must be a minimum of 36 inches (915 mm) in width. The space forming the top of the "T" must extend at least 12 inches (305 mm) beyond the intersection in each direction and the space forming the base of the "T" must extend at least 24 inches (610 mm) beyond the intersection. The "T" fits within a 60 inches (1525 mm) square.
-</figcaption>
-</figure>
+{% endfigcaption %}
+{% endfigure %}
 
 #### 4.2.4* Clear Floor or Ground Space for Wheelchairs
 
@@ -437,13 +434,12 @@ Figure 3(b) T-Shaped Space for 180 degree Turns. The T-shaped space must be a mi
 
 The minimum clear floor or ground space required to accommodate a single, stationary wheelchair and occupant is 30 in by 48 in (760 mm by 1220 mm) (see [Fig. 4](#fig4)),
 
-<figure id="fig4">
-**Figure 4**
+{% figure Figure 4 %}
 {% asset design-standards/fig_4_min_clear_floor_space_wheelchairs.gif alt="figure 4" %}
-<figcaption>
-**Figure 4.** Minimum Clear Floor Space for Wheelchairs.
-</figcaption>
-</figure>
+{% figcaption %}
+Minimum Clear Floor Space for Wheelchairs.
+{% endfigcaption %}
+{% endfigure %}
 
 see [Fig. 4(a)](#fig4a)).
 
@@ -451,7 +447,7 @@ see [Fig. 4(a)](#fig4a)).
 **Figure 4a**
 {% asset design-standards/fig_4a_clear_floor_space.gif alt="figure 4a" %}
 <figcaption>
-**Figure 4a.** Clear Floor Space. 30 inches (760 mm) by 48 inches (1220 mm).
+Clear Floor Space. 30 inches (760 mm) by 48 inches (1220 mm).
 </figcaption>
 </figure>
 
@@ -461,7 +457,7 @@ The minimum clear floor or ground space for wheelchairs may be positioned for fo
 **Figure 4b**
 {% asset design-standards/fig_4b_forward_approach.gif alt="figure 4b" %}
 <figcaption>
-**Figure 4b.** Forward Approach. With a wheelchair facing a wall, element or surface -- 30 inches (760 mm) wide by 48 inches (1220 mm) deep.
+Forward Approach. With a wheelchair facing a wall, element or surface -- 30 inches (760 mm) wide by 48 inches (1220 mm) deep.
 </figcaption>
 </figure>
 
@@ -470,8 +466,7 @@ and [Fig.4(c)](#fig4c)).
 <figure id="fig4c">
 **Figure 4c**
 {% asset design-standards/fig_4c_parallel_approach.gif alt="figure 4c" %}
-<figcaption>
-**Figure 4c.** Parallel Approach. With a wheelchair postioned beside a wall, element or surface to the side -- 48 inches (1220 mm) long by 30 inches (760 mm) wide.
+<figcaption>Parallel Approach. With a wheelchair postioned beside a wall, element or surface to the side -- 48 inches (1220 mm) long by 30 inches (760 mm) wide.
 </figcaption>
 </figure>
 
@@ -484,8 +479,7 @@ One full unobstructed side of the clear floor or ground space for a wheelchair s
 <figure id="fig4d">
 **Figure 4d**
 {% asset design-standards/fig_4d_clear_floor_space_alcoves.gif alt="figure 4d" %}
-<figcaption>
-**Figure 4d.** Clear Floor Space in Alcoves. For a forward approach, where the depth of the alcove is equal to or less than 24 inches (610 mm), the required clear floor space is 30 inches (760 mm) wide by 48 inches (1220 mm) deep. For a parallel (side) approach, where the depth of the alcove is equal to or less than 15 inches (380 mm), the width is 30 inches (760 mm) and the length is 48 inches (1220 mm).
+<figcaption>Clear Floor Space in Alcoves. For a forward approach, where the depth of the alcove is equal to or less than 24 inches (610 mm), the required clear floor space is 30 inches (760 mm) wide by 48 inches (1220 mm) deep. For a parallel (side) approach, where the depth of the alcove is equal to or less than 15 inches (380 mm), the width is 30 inches (760 mm) and the length is 48 inches (1220 mm).
 </figcaption>
 </figure>
 
@@ -495,7 +489,7 @@ and [Fig. 4(e)](#fig4e).
 **Figure 4e**
 {% asset design-standards/fig_4e_additional_maneuvering_clearances.gif alt="figure 4e" %}
 <figcaption>
-**Figure 4e.** Figure 4(e) Additional Maneuvering Clearances for Alcoves. For a forward approach, if the depth of the alcove is greater than 24 inches (610 mm), then in addition to the 30 inches (760 mm) width, a maneuvering clearance of 6 inches (150 mm) in width is required, for a total width of 36 inches (915 mm).
+Additional Maneuvering Clearances for Alcoves. For a forward approach, if the depth of the alcove is greater than 24 inches (610 mm), then in addition to the 30 inches (760 mm) width, a maneuvering clearance of 6 inches (150 mm) in width is required, for a total width of 36 inches (915 mm).
 
 For a parallel approach, where the depth of the alcove is greater than 15 inches (380 mm), then in addition to the 48 inches (1220 mm) length, an additional maneuvering clearance of 12 inches (305 mm) in length is required, for a total length of 60 inches (1525 mm).
 </figcaption>
