@@ -38,7 +38,7 @@ Graphic conventions are shown in Table 1:
 
 {% figure Table 1 %}
 
-{% asset design-standards/figure_24e_max_doorway_depth.gif alt="figure 24 e" %}
+{% asset design-standards/table_1_graphic_conventions.gif alt="Table 1" %}
 
 {% figcaption %}
 The table describes graphic conventions used in the ADA Standards for Accessible Design for showing dimensions on figures, how the direction of approach is denoted, centerline designation and boundary of clear floor area. All dimensions are shown in inches above the measure line, with the metric equivalent below. Where the dimension does not fit conveniently between lines, the measure line is extended beyond the lines and the dimension placed above (and below) the extension.
@@ -388,7 +388,7 @@ Each addition to an existing building or facility shall be regarded as an altera
 
 #### 4.2.1* Wheelchair Passage Width
 
-The minimum clear width for single wheelchair passage shall be 32 in (815 mm) at a point and 36 in (915 mm) continuously (see [Fig. 1](#fig1) and [24(e)](#fig24e)).
+The minimum clear width for single wheelchair passage shall be 32 in (815 mm) at a point and 36 in (915 mm) continuously (see [Fig. 1](#figure1) and [24(e)](#figure24e)).
 
 {% figure Figure 1 %}
 {% asset design-standards/figure_1_minimum_clear_width_for_single_wheelchair.gif alt="figure 1" %}
@@ -406,7 +406,7 @@ The minimum clear width for single wheelchair passage shall be 32 inches (815 mm
 
 #### 4.2.2 Width for Wheelchair Passing
 
-The minimum width for two wheelchairs to pass is 60 in (1525 mm) (see [Fig. 2](#fig2)).
+The minimum width for two wheelchairs to pass is 60 in (1525 mm) (see [Fig. 2](#figure2)).
 
 {% figure Figure 2 %}
 {% asset design-standards/fig_2_min_clear_width_two_wheelchairs.gif alt="figure 2" %}
@@ -417,7 +417,7 @@ Minimum clear width for two wheelchairs to pass is 60 inches (1525 mm).
 
 #### 4.2.3* Wheelchair Turning Space
 
-The space required for a wheelchair to make a 180-degree turn is a clear space of 60 in (1525 mm) diameter (see [Fig. 3(a)](#fig3)) or a T-shaped space (see [Fig. 3(b)](#fig3)).
+The space required for a wheelchair to make a 180-degree turn is a clear space of 60 in (1525 mm) diameter (see [Fig. 3(a)](#figure3)) or a T-shaped space (see [Fig. 3(b)](#figure3)).
 
 {% figure Figure 3 %}
 {% asset design-standards/fig_3_wheelchair_turning_space.gif alt="figure 3" %}
@@ -432,7 +432,7 @@ Figure 3(b) T-Shaped Space for 180 degree Turns. The T-shaped space must be a mi
 
 ##### 4.2.4.1 Size and Approach
 
-The minimum clear floor or ground space required to accommodate a single, stationary wheelchair and occupant is 30 in by 48 in (760 mm by 1220 mm) (see [Fig. 4](#fig4)),
+The minimum clear floor or ground space required to accommodate a single, stationary wheelchair and occupant is 30 in by 48 in (760 mm by 1220 mm) (see [Fig. 4](#figure4)),
 
 {% figure Figure 4 %}
 {% asset design-standards/fig_4_min_clear_floor_space_wheelchairs.gif alt="figure 4" %}
@@ -441,59 +441,56 @@ Minimum Clear Floor Space for Wheelchairs.
 {% endfigcaption %}
 {% endfigure %}
 
-see [Fig. 4(a)](#fig4a)).
+see [Fig. 4(a)](#figure4a)).
 
-<figure id="fig4a">
-**Figure 4a**
+{% figure Figure 4a %}
 {% asset design-standards/fig_4a_clear_floor_space.gif alt="figure 4a" %}
-<figcaption>
+{% figcaption %}
 Clear Floor Space. 30 inches (760 mm) by 48 inches (1220 mm).
-</figcaption>
-</figure>
+{% endfigcaption %}
+{% endfigure %}
 
-The minimum clear floor or ground space for wheelchairs may be positioned for forward or parallel approach to an object (see [Fig. 4(b)](#fig4b)
+The minimum clear floor or ground space for wheelchairs may be positioned for forward or parallel approach to an object (see [Fig. 4(b)](#figure4b)
 
-<figure id="fig4b">
-**Figure 4b**
+{% figure Figure 4b %}
 {% asset design-standards/fig_4b_forward_approach.gif alt="figure 4b" %}
-<figcaption>
+{% figcaption %}
 Forward Approach. With a wheelchair facing a wall, element or surface -- 30 inches (760 mm) wide by 48 inches (1220 mm) deep.
-</figcaption>
-</figure>
+{% endfigcaption %}
+{% endfigure %}
 
-and [Fig.4(c)](#fig4c)).
+and [Fig.4(c)](#figure4c)).
 
-<figure id="fig4c">
-**Figure 4c**
+{% figure Figure 4c %}
 {% asset design-standards/fig_4c_parallel_approach.gif alt="figure 4c" %}
-<figcaption>Parallel Approach. With a wheelchair postioned beside a wall, element or surface to the side -- 48 inches (1220 mm) long by 30 inches (760 mm) wide.
-</figcaption>
-</figure>
+{% figcaption %}
+Parallel Approach. With a wheelchair postioned beside a wall, element or surface to the side -- 48 inches (1220 mm) long by 30 inches (760 mm) wide.
+{% endfigcaption %}
+{% endfigure %}
 
 Clear floor or ground space for wheelchairs may be part of the knee space required under some objects.
 
 ##### 4.2.4.2 Relationship of Maneuvering Clearance to Wheelchair Spaces
 
-One full unobstructed side of the clear floor or ground space for a wheelchair shall adjoin or  overlap an accessible route or adjoin another wheelchair clear floor space. If a clear floor space is located in an alcove or otherwise confined on all or part of three sides, additional maneuvering clearances shall be provided as shown in [Fig. 4(d)](#fig4d)
+One full unobstructed side of the clear floor or ground space for a wheelchair shall adjoin or  overlap an accessible route or adjoin another wheelchair clear floor space. If a clear floor space is located in an alcove or otherwise confined on all or part of three sides, additional maneuvering clearances shall be provided as shown in [Fig. 4(d)](#figure4d)
 
-<figure id="fig4d">
-**Figure 4d**
+{% figure Figure 4d %}
 {% asset design-standards/fig_4d_clear_floor_space_alcoves.gif alt="figure 4d" %}
-<figcaption>Clear Floor Space in Alcoves. For a forward approach, where the depth of the alcove is equal to or less than 24 inches (610 mm), the required clear floor space is 30 inches (760 mm) wide by 48 inches (1220 mm) deep. For a parallel (side) approach, where the depth of the alcove is equal to or less than 15 inches (380 mm), the width is 30 inches (760 mm) and the length is 48 inches (1220 mm).
-</figcaption>
-</figure>
+{% figcaption %}
+Clear Floor Space in Alcoves. For a forward approach, where the depth of the alcove is equal to or less than 24 inches (610 mm), the required clear floor space is 30 inches (760 mm) wide by 48 inches (1220 mm) deep. For a parallel (side) approach, where the depth of the alcove is equal to or less than 15 inches (380 mm), the width is 30 inches (760 mm) and the length is 48 inches (1220 mm).
+{% endfigcaption %}
+{% endfigure %}
 
-and [Fig. 4(e)](#fig4e).
+and [Fig. 4(e)](#figure4e).
 
-<figure id="fig4e">
-**Figure 4e**
+{% figure Figure 4e %}
 {% asset design-standards/fig_4e_additional_maneuvering_clearances.gif alt="figure 4e" %}
-<figcaption>
+{% figcaption %}
 Additional Maneuvering Clearances for Alcoves. For a forward approach, if the depth of the alcove is greater than 24 inches (610 mm), then in addition to the 30 inches (760 mm) width, a maneuvering clearance of 6 inches (150 mm) in width is required, for a total width of 36 inches (915 mm).
 
 For a parallel approach, where the depth of the alcove is greater than 15 inches (380 mm), then in addition to the 48 inches (1220 mm) length, an additional maneuvering clearance of 12 inches (305 mm) in length is required, for a total length of 60 inches (1525 mm).
-</figcaption>
-</figure>
+{% endfigcaption %}
+{% endfigure %}
 
 ##### 4.2.4.3 Surfaces for Wheelchair Spaces
 
@@ -501,11 +498,60 @@ Clear floor or ground spaces for wheelchairs shall comply with 4.5.
 
 ##### 4.2.5* Forward Reach
 
-If the clear floor space only allows forward approach to an object, the maximum high forward reach allowed shall be 48 in (1220 mm) (see <a href="91standards_figures/fig5.htm" title="Fig. 5">Fig. 5</a> and <a href="91standards_figures/fig5a.htm" title="Fig. 5(a)">Fig. 5(a)</a>). The minimum low forward reach is 15 in (380 mm). If the high forward reach is over an obstruction, reach and clearances shall be as shown in <a href="91standards_figures/fig5b.htm" title="Fig. 5(b)">Fig. 5(b)</a>.
+If the clear floor space only allows forward approach to an object, the maximum high forward reach allowed shall be 48 in (1220 mm) (see [Fig. 5](#figure5) and [Fig. 5(a)](#figure5a)). The minimum low forward reach is 15 in (380 mm). If the high forward reach is over an obstruction, reach and clearances shall be as shown in [Fig. 5(b)](#figure5b).
+
+{% figure Figure 5 %}
+{% asset design-standards/fig_5_forward_reach.gif alt="figure 5" %}
+{% figcaption %}
+<strong>Forward Reach</strong>
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 5a %}
+{% asset design-standards/fig_5a_high_forward_reach.gif alt="figure 5a" %}
+{% figcaption %}
+<strong>High Forward Reach Limit.</strong> Facing a wall, surface or element -- maximum reach height is 48 inches (1220 mm) and minimum low forward reach height is 15 inches (380 mm). Clear floor space 48 inches (1220 mm) deep and 30 inches (760 mm) wide.
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 5b %}
+{% asset design-standards/fig_5b_max_forward_reach_over_obstruction.gif alt="figure 5b" %}
+{% figcaption %}
+<strong>Maximum Forward Reach over an Obstruction.</strong> The maximum depth of an obstruction with knee space below is 25 inches (635 mm). When the obstruction is less than 20 inches (510 mm) deep, the maximum high forward reach is 48 inches (1220 mm). When the depth of the obstruction is greater than 20 inches (510 mm) and less than 25 inches (635 mm), the maximum high forward reach is 44 inches (1120 mm). A clear floor space 48 inches (1220 mm) long and 30 inches (760 mm) wide is provided.
+{% endfigcaption %}
+{% endfigure %}
 
 ##### 4.2.6* Side Reach
 
-If the clear floor space allows parallel approach by a person in a wheelchair, the maximum high side reach allowed shall be 54 in (1370 mm) and the low side reach shall be no less than 9 in (230 mm) above the floor (<a href="91standards_figures/fig6.htm" title="Fig 6">Fig 6</a>, <a href="91standards_figures/fig6a.htm" title="Fig. 6(a)">Fig. 6(a)</a> and <a href="91standards_figures/fig6b.htm" title="Fig (b)">Fig (b)</a>). If the side reach is over an obstruction, the reach and clearances shall be as shown in <a href="91standards_figures/fig6c.htm" title="Fig 6(c)">Fig 6(c)</a>.
+If the clear floor space allows parallel approach by a person in a wheelchair, the maximum high side reach allowed shall be 54 in (1370 mm) and the low side reach shall be no less than 9 in (230 mm) above the floor ([Fig 6](#figure6), [Fig. 6(a)](#figure6a) and [Fig (b)](#figure6b)). If the side reach is over an obstruction, the reach and clearances shall be as shown in [Fig 6(c)](#figure6c)</a>.
+
+{% figure Figure 6 %}
+{% asset design-standards/fig_6_side_reach.gif alt="figure 6" %}
+{% figcaption %}
+<strong>Side Reach</strong>
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 6a %}
+{% asset design-standards/fig_6a_clear_floor_space_parallel.gif alt="figure 6a" %}
+{% figcaption %}
+<strong>Clear Floor Space Parallel Approach.</strong> The clear floor space 48 inches (1220 mm) long and 30 inches (760 mm) wide is no more than 10 inches (255 mm) from the side wall, surface or element.
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 6b %}
+{% asset design-standards/fig_6b_high_and_low_side_reach_limits.gif alt="figure 6b" %}
+{% figcaption %}
+<strong>High and Low Side Reach Limits.</strong> For a parallel approach the maximum high side reach is 54 inches (1370 mm) and the minimum low side reach is 9 inches (230 mm). The clear floor space is no more than 10 inches (255 mm) from the wall, surface or element.
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 6c %}
+{% asset design-standards/fig_6c_max_side_reach_obstruction.gif alt="figure 6c" %}
+{% figcaption %}
+<strong>Maximum Side Reach over Obstruction.</strong> If the depth of the obstruction is 24 inches (610 mm) and the maximum height of the obstruction is 34 inches (865 mm), the maximum high side reach over the obstruction is 46 inches (1170 mm).
+{% endfigcaption %}
+{% endfigure %}
 
 ### 4.3 Accessible Route
 
@@ -522,7 +568,29 @@ All walks, halls, corridors, aisles, skywalks, tunnels, and other spaces that ar
 
 #### 4.3.3 Width
 
-The minimum clear width of an accessible route shall be 36 in (915 mm) except at doors (see 4.13.5 and 4.13.6). If a person in a wheelchair must make a turn around an obstruction, the minimum clear width of the accessible route shall be as shown in <a href="91standards_figures/fig7.htm" title="Fig. 7">Fig. 7</a>, <a href="91standards_figures/fig7a.htm" title="Fig. 7(a)">Fig. 7(a)</a> and <a href="91standards_figures/fig7b.htm" title="Fig 7(b)">Fig 7(b)</a>.
+The minimum clear width of an accessible route shall be 36 in (915 mm) except at doors (see 4.13.5 and 4.13.6). If a person in a wheelchair must make a turn around an obstruction, the minimum clear width of the accessible route shall be as shown in [Fig. 7](#figure7), [Fig. 7(a)](#figure7a) and [Fig 7(b)](#figure7b).
+
+{% figure Figure 7 %}
+{% asset design-standards/fig_7_accessible_route.gif alt="figure 7" %}
+{% figcaption %}
+<strong>Accessible Route</strong>
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 7a %}
+{% asset design-standards/fig_7a_90_degree_turn.gif alt="figure 7a" %}
+{% figcaption %}
+<strong>90 degree turn.</strong> A 90 degree turn can be made from a 36 inches (915 mm) wide passage into another 36 inches (915 mm) passage if the depth of each leg is a minimum of 48 inches (1220 mm) on the inside dimensions of the turn.
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 7b %}
+{% asset design-standards/fig_7b_turns_around_obstruction.gif alt="figure 7b" %}
+{% figcaption %}
+<strong>Turns around an Obstruction.</strong> A U-turn around an obstruction less than 48 inches (1220 mm) wide may be made if the width of the passages approaching and exiting the turn is a minimum of 42 inches (1065 mm) and the base of the U-turn space is a minimum of 48 inches (1220 mm) wide.
+{% endfigcaption %}
+{% endfigure %}
+
 
 #### 4.3.4 Passing Space
 
@@ -586,11 +654,55 @@ Each area of rescue assistance shall be identified by a sign which states &quot;
 
 #### 4.4.1* General
 
-Objects projecting from walls (for example, telephones) with their leading edges between 27 in and 80 in (685 mm and 2030 mm) above the finished floor shall protrude no more than 4 in (100 mm) into walks, halls, corridors, passageways, or aisles (see <a href="91standards_figures/fig8a.htm" title="Fig. 8(a)">Fig. 8(a)</a>). Objects mounted with their leading edges at or below 27 in (685 mm) above the finished floor may protrude any amount (see <a href="91standards_figures/fig8a.htm" title="Fig. 8(a)">Fig. 8(a)</a> and <a href="91standards_figures/fig8b.htm" title="(b)">(b)</a>). Free-standing objects mounted on posts or pylons may overhang 12 in (305 mm) maximum from 27 in to 80 in (685 mm to 2030 mm) above the ground or finished floor (see <a href="91standards_figures/fig8c.htm" title="Fig. 8(c)">Fig. 8(c)</a> and <a href="91standards_figures/fig8d.htm" title="d">(d)</a>). Protruding objects shall not reduce the clear width of an accessible route or maneuvering space (see <a href="91standards_figures/fig8e.htm" title="Fig. 8(e)">Fig. 8(e)</a>).
+Objects projecting from walls (for example, telephones) with their leading edges between 27 in and 80 in (685 mm and 2030 mm) above the finished floor shall protrude no more than 4 in (100 mm) into walks, halls, corridors, passageways, or aisles (see [Fig. 8(a)](#figure8a)). Objects mounted with their leading edges at or below 27 in (685 mm) above the finished floor may protrude any amount (see [Fig. 8(a)](#figure8a) and [(b)](#figure8b)). Free-standing objects mounted on posts or pylons may overhang 12 in (305 mm) maximum from 27 in to 80 in (685 mm to 2030 mm) above the ground or finished floor (see [Fig. 8(c)](#figure8c) and [(d)](#figure8d)</a>). Protruding objects shall not reduce the clear width of an accessible route or maneuvering space (see [Fig. 8(e)](#figure8e)).
+
+{% figure Figure 8a %}
+{% asset design-standards/fig_8a_walking_parallel_to_wall.gif alt="figure 8a" %}
+{% figcaption %}
+<strong>Walking Parallel to a Wall.</strong> Objects projecting from walls cannot project more than 4 inches (100 mm) if the lowest point of the object is higher than 27 inches (685 mm) and below 80 inches (2030 mm) above the floor, walk or circulation path. Objects projecting from walls that have the lowest point below 27 inches (685 mm) may project any amount.
+
+The minimum head clearance of overhead objects is 80 inches (2030 mm).
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 8b %}
+{% asset design-standards/fig_8b_walking_perpendicular_to_wall.gif alt="figure 8b" %}
+{% figcaption %}
+<strong>Walking Perpendicular to a Wall.</strong> Objects projecting from walls must have the bottom edge no higher than 27 inches (685 mm) above the floor, walk or circulation path.
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 8c %}
+{% asset design-standards/fig_8c_free_standing_objects.gif alt="figure 8c" %}
+{% figcaption %}
+<strong>Free-Standing Overhanging Objects.</strong> (Shows a horizontal panel mounted on two posts). When the horizontal distance between detectable posts or detectable objects is greater than 12 inches (302 mm), the maximum height to the bottom of the free-standing object is 27 inches (685 mm).
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 8d %}
+{% asset design-standards/fig_8d_objects_mounted_on_pylons.gif alt="figure 8d" %}
+{% figcaption %}
+<strong>Objects Mounted on Posts or Pylons.</strong> The diagram illustrates an area where an overhang can be greater than 12 inches (305 mm) where the object cannot be approached on the side of the overhang.
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 8e %}
+{% asset design-standards/fig_8e_example_protection.gif alt="figure 8e" %}
+{% figcaption %}
+<strong>Example of Protection around Wall-Mounted Objects and Measurements of Clear Widths.</strong> The minimum clear width for continuous passage is 36 inches (915 mm). 32 inches (815 mm) is the minimum clear width for a maximum distance of 24 inches (610 mm). The maximum distance an object can protrude beyond a wing wall is 4 inches (100 mm).
+{% endfigcaption %}
+{% endfigure %}
 
 #### 4.4.2 Head Room
 
-Walks, halls, corridors, passageways, aisles, or other circulation spaces shall have 80 in (2030 mm) minimum clear head room (see <a href="91standards_figures/fig8a.htm" title="Fig. 8(a)">Fig. 8(a)</a>). If vertical clearance of an area adjoining an accessible route is reduced to less than 80 in (nominal dimension), a barrier to warn blind or visually-impaired persons shall be provided (see <a href="91standards_figures/fig8c1.htm" title="Fig. 8(c-1)">Fig. 8(c-1)</a>).
+Walks, halls, corridors, passageways, aisles, or other circulation spaces shall have 80 in (2030 mm) minimum clear head room (see [Fig. 8(a)](#figure8a)). If vertical clearance of an area adjoining an accessible route is reduced to less than 80 in (nominal dimension), a barrier to warn blind or visually-impaired persons shall be provided (see [Fig. 8(c-1)](#figure8c1)).
+
+{% figure Figure 8 C-1 %}
+{% asset design-standards/fig_8c1_overhead_hazards.gif alt="figure 8c-1" %}
+{% figcaption %}
+<strong>Overhead Hazards.</strong> As an example, the diagram illustrates a stair whose underside descends across a pathway. Where the headroom is less than 80 inches (2030 mm), protection is offered by a railing which can be no higher than 27 inches (685 mm) to ensure detectability.
+{% endfigcaption %}
+{% endfigure %}
 
 ### 4.5 Ground and Floor Surfaces
 
@@ -600,15 +712,50 @@ Ground and floor surfaces along accessible routes and in accessible rooms and sp
 
 #### 4.5.2 Changes in Level
 
-Changes in level up to 1/4 in (6 mm) may be vertical and without edge treatment (see <a href="91standards_figures/fig7c.htm"  title="Fig. 7(c)">Fig. 7(c)</a> ). Changes in level between 1/4 in and 1/2 in (6 mm and 13 mm) shall be beveled with a slope no greater than 1:2 (see <a href="91standards_figures/fig7d.htm" title="Fig. 7(d)">Fig. 7(d)</a> ). Changes in level greater than 1/2 in (13 mm) shall be accomplished by means of a ramp that complies with 4.7 or 4.8.
+Changes in level up to 1/4 in (6 mm) may be vertical and without edge treatment (see [Fig. 7(c)](#figure7c) ). Changes in level between 1/4 in and 1/2 in (6 mm and 13 mm) shall be beveled with a slope no greater than 1:2 (see [Fig. 7(d)](#figure7d) ). Changes in level greater than 1/2 in (13 mm) shall be accomplished by means of a ramp that complies with 4.7 or 4.8.
+
+{% figure Figure 7c %}
+{% asset design-standards/fig_7c_changes_in_level.gif alt="figure 7c" %}
+{% figcaption %}
+<strong>Changes in level.</strong> The maximum vertical rise is 1/4 inch (6.5 mm).
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 7d %}
+{% asset design-standards/fig_7d_changes_in_level.gif alt="figure 7d" %}
+{% figcaption %}
+<strong>Changes in level.</strong> A change in level of 1/4 inch (6.5 mm) to 1/2 inch (13 mm) must have a sloped surface no steeper than 1:2 (rise to run).
+{% endfigcaption %}
+{% endfigure %}
 
 #### 4.5.3* Carpet
 
-If carpet or carpet tile is used on a ground or floor surface, then it shall be securely attached; have a firm cushion, pad, or backing, or no cushion or pad; and have a level loop, textured loop, level cut pile, or level cut/uncut pile texture. The maximum pile thickness shall be 1/2 in (13 mm) (see <a href="91standards_figures/fig8f.htm" title="Fig. 8(f)">Fig. 8(f)</a>). Exposed edges of carpet shall be fastened to floor surfaces and have trim along the entire length of the exposed edge. Carpet edge trim shall comply with 4.5.2.
+If carpet or carpet tile is used on a ground or floor surface, then it shall be securely attached; have a firm cushion, pad, or backing, or no cushion or pad; and have a level loop, textured loop, level cut pile, or level cut/uncut pile texture. The maximum pile thickness shall be 1/2 in (13 mm) (see [Fig. 8(f)](#figure8f)). Exposed edges of carpet shall be fastened to floor surfaces and have trim along the entire length of the exposed edge. Carpet edge trim shall comply with 4.5.2.
+
+{% figure Figure 8f %}
+{% asset design-standards/fig_8f_carpet_pile_thickness.gif alt="figure 8f" %}
+{% figcaption %}
+<strong>Carpet Pile Thickness.</strong> The maximum carpet pile thickness shall be 1/2 inch (13 mm).
+{% endfigcaption %}
+{% endfigure %}
 
 #### 4.5.4 Gratings
 
-If gratings are located in walking surfaces, then they shall have spaces no greater than 1/2 in (13 mm) wide in one direction (see <a href="91standards_figures/fig8g.htm" title="Fig. 8(g)">Fig. 8(g)</a>). If gratings have elongated openings, then they shall be placed so that the long dimension is perpendicular to the dominant direction of travel (see <a href="91standards_figures/fig8h.htm" title="Fig. 8(h)">Fig. 8(h)</a>).
+If gratings are located in walking surfaces, then they shall have spaces no greater than 1/2 in (13 mm) wide in one direction (see [Fig. 8(g)](#figure8g)). If gratings have elongated openings, then they shall be placed so that the long dimension is perpendicular to the dominant direction of travel (see [Fig. 8(h)](#figure8h)).
+
+{% figure Figure 8g %}
+{% asset design-standards/fig_8g_gratings.gif alt="figure 8g" %}
+{% figcaption %}
+<strong>Gratings.</strong> Spaces in gratings shall be no greater than 1/2 inch (13 mm) in one direction. The 1/2 inch (13 mm) spacing is shown parallel to the predominant direction of travel.
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 8h %}
+{% asset design-standards/fig_8h_grating_orientation.gif alt="figure 8h" %}
+{% figcaption %}
+<strong>Grating Orientation.</strong> Figure shows a grating with the long dimension prependicular to the route of travel.
+{% endfigcaption %}
+{% endfigure %}
 
 ### 4.6 Parking and Passenger Loading Zones
 
@@ -622,7 +769,14 @@ Accessible parking spaces serving a particular building shall be located on the 
 
 #### 4.6.3* Parking Spaces
 
-Accessible parking spaces shall be at least 96 in (2440 mm) wide. Parking access aisles shall be part of an accessible route to the building or facility entrance and shall comply with 4.3. Two accessible parking spaces may share a common access aisle (see <a href="91standards_figures/fig9.htm" title="Fig. 9">Fig. 9</a>). Parked vehicle overhangs shall not reduce the clear width of an accessible route. Parking spaces and access aisles shall be level with surface slopes not exceeding 1:50 (2%) in all directions.
+Accessible parking spaces shall be at least 96 in (2440 mm) wide. Parking access aisles shall be part of an accessible route to the building or facility entrance and shall comply with 4.3. Two accessible parking spaces may share a common access aisle (see [Fig. 9](#figure9)). Parked vehicle overhangs shall not reduce the clear width of an accessible route. Parking spaces and access aisles shall be level with surface slopes not exceeding 1:50 (2%) in all directions.
+
+{% figure Figure 9 %}
+{% asset design-standards/fig_9_dimensions_of_parking_spaces.gif alt="figure 9" %}
+{% figcaption %}
+<strong> Dimensions of Parking Spaces.</strong> The access aisle shall be a minimum of 60 inches (1525 mm) wide for cars except a minimum of 96 inches (2440 mm) wide for van-accessible parking spaces. The width of the parking space shall be a minimum of 96 inches (2440 mm). The accessible route connected to the access aisle shall be a minimum of 36 inches (915 mm) wide.
+{% endfigcaption %}
+{% endfigure %}
 
 #### 4.6.4* Signage
 
@@ -634,7 +788,14 @@ Provide minimum vertical clearance of 114 in (2895 mm) at accessible passenger l
 
 #### 4.6.6 Passenger Loading Zones
 
-Passenger loading zones shall provide an access aisle at least 60 in (1525 mm) wide and 20 ft (240 in)(6100 mm) long adjacent and parallel to the vehicle pull-up space (see <a href="91standards_figures/fig10.htm" title="Fig. 10">Fig. 10</a>). If there are curbs between the access aisle and the vehicle pull-up space, then a curb ramp complying with 4.7 shall be provided. Vehicle standing spaces and access aisles shall be level with surface slopes not exceeding 1:50 (2%) in all directions.
+Passenger loading zones shall provide an access aisle at least 60 in (1525 mm) wide and 20 ft (240 in)(6100 mm) long adjacent and parallel to the vehicle pull-up space (see [Fig. 10](#figure10)). If there are curbs between the access aisle and the vehicle pull-up space, then a curb ramp complying with 4.7 shall be provided. Vehicle standing spaces and access aisles shall be level with surface slopes not exceeding 1:50 (2%) in all directions.
+
+{% figure Figure 10 %}
+{% asset design-standards/fig_10_access_aisle.gif alt="figure 10" %}
+{% figcaption %}
+<strong>Access Aisle at Passenger Loading Zones.</strong> The access aisle shall be a minimum of 240 inches long (6100 mm) and 60 inches wide (1525 mm) positioned with the long side parallel to the vehicle.
+{% endfigcaption %}
+{% endfigure %}
 
 ### 4.7 Curb Ramps
 
@@ -644,7 +805,14 @@ Curb ramps complying with 4.7 shall be provided wherever an accessible route cro
 
 #### 4.7.2 Slope
 
-Slopes of curb ramps shall comply with 4.8.2. The slope shall be measured as shown in <a href="91standards_figures/fig11.htm" title="Fig. 11">Fig. 11</a>. Transitions from ramps to walks, gutters, or streets shall be flush and free of abrupt changes. Maximum slopes of adjoining gutters, road surface immediately adjacent to the curb ramp, or accessible route shall not exceed 1:20.
+Slopes of curb ramps shall comply with 4.8.2. The slope shall be measured as shown in [Fig. 11](#figure11). Transitions from ramps to walks, gutters, or streets shall be flush and free of abrupt changes. Maximum slopes of adjoining gutters, road surface immediately adjacent to the curb ramp, or accessible route shall not exceed 1:20.
+
+{% figure Figure 11 %}
+{% asset design-standards/fig_11_measurement_of_curb_ramp_slopes.gif alt="figure 11" %}
+{% figcaption %}
+<strong>Measurement of Curb Ramp Slopes.</strong> The ramp slope is a ratio expressed as the vertical rise divided by the horizontal run. X is the horizontal plane (level) and Y is the vertical plane. The adjoining slope at walk or street shall not exceed 1:20 (sloping towards the curb ramp surface).
+{% endfigcaption %}
+{% endfigure %}
 
 #### 4.7.3 Width
 
@@ -656,11 +824,32 @@ Surfaces of curb ramps shall comply with 4.5.
 
 #### 4.7.5 Sides of Curb Ramps
 
-If a curb ramp is located where pedestrians must walk across the ramp, or where it is not protected by handrails or guardrails, it shall have flared sides; the maximum slope of the flare shall be 1:10 (see <a href="91standards_figures/fig12a.htm" title="Fig. 12(a)">Fig. 12(a)</a>). Curb ramps with returned curbs may be used where pedestrians would not normally walk across the ramp (see <a href="91standards_figures/fig12b.htm" title="Fig. 12(b)">Fig. 12(b)</a>).
+If a curb ramp is located where pedestrians must walk across the ramp, or where it is not protected by handrails or guardrails, it shall have flared sides; the maximum slope of the flare shall be 1:10 (see [Fig. 12(a)](#figure12a)). Curb ramps with returned curbs may be used where pedestrians would not normally walk across the ramp (see [Fig. 12(b)](#figure12b)).
+
+{% figure Figure 12a %}
+{% asset design-standards/fig_12a_flared_sides.gif alt="figure 12a" %}
+{% figcaption %}
+<strong>Flared Sides.</strong> The maximum slope of the flared sides shall be 1:10. If the landing depth at the top of a curb ramp is less than 48 inches (1220 mm), then the slope of the flared side shall not be steeper than 1:12.
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 12b %}
+{% asset design-standards/fig_12b_returned_curb.gif alt="figure 12b" %}
+{% figcaption %}
+<strong>Returned Curb.</strong> A returned curb ramp has plantings or other non-walking surfaces on both sides of the curb ramp.
+{% endfigcaption %}
+{% endfigure %}
 
 #### 4.7.6 Built-up Curb Ramps
 
-Built-up curb ramps shall be located so that they do not project into vehicular traffic lanes (see <a href="91standards_figures/fig13.htm" title="Fig. 13">Fig. 13</a>).
+Built-up curb ramps shall be located so that they do not project into vehicular traffic lanes (see [Fig. 13](#figure13)).
+
+{% figure Figure 13 %}
+{% asset design-standards/fig_13_build_up_curb_ramp.gif alt="figure 13" %}
+{% figcaption %}
+<strong>Built-Up Curb Ramp.</strong> The width of the ramp is 36 inches (915mm) minimum. Side flares shall be 1:10 maximum.
+{% endfigcaption %}
+{% endfigure %}
 
 #### 4.7.7 Detectable Warnings
 
