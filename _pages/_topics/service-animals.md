@@ -123,7 +123,7 @@ A business or state/local government can ask someone to remove their service ani
 - The dog is out of control, and the person cannot get the dog under control.
 
 {% details What does <i>out of control</i> mean?%}
-Learn more in [question 27 in <cite>FAQs about service animals and the ADA</cite>]( {{'/resources/service-animal-faq/'| relative_url}}).
+Learn more in [question 27 in <cite>FAQs about service animals and the ADA</cite>]( {{'/resources/service-animal-faqs/'| relative_url}}).
 {% enddetails %}
 
 ## State and Local Laws
