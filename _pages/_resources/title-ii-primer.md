@@ -11,8 +11,8 @@ publish-date: 2015-06-08 00:00:00
 print: true
 related-content: true
 tags:
+  - state and local government
   - title ii
-  - title iii
 ---
 The Department of Justice revised its regulations implementing the ADA in September 2010. The new rules clarify issues that arose over the previous 20 years and contain new requirements, including the 2010 ADA Standards for Accessible Design (2010 Standards). This document provides general guidance to assist State and local governments in understanding and complying with the ADA's requirements. For more comprehensive information about specific requirements, government officials can consult the [regulation](https://www.ada.gov/regs2010/titleII_2010/titleII_2010_regulations.htm), the [2010 Standards](https://www.ada.gov/regs2010/titleII_2010/2010ADAstandards_index.htm), and the [Department's technical assistance publications]( {{'/resources/'| relative_url}})  .  
 
