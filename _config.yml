@@ -80,8 +80,8 @@ primary_navigation:
       en-short: Enforcement
       es: Enforcement
     url:
-      en: "/resources/"
-      es: "/resources/"
+      en: "/cases/"
+      es: "/cases/"
   - name:
       en: File a Complaint
       en-short: File a Complaint
