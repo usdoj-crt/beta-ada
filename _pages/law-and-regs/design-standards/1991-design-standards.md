@@ -861,15 +861,50 @@ Curb ramps shall be located or protected to prevent their obstruction by parked 
 
 #### 4.7.9 Location at Marked Crossings
 
-Curb ramps at marked crossings shall be wholly contained within the markings, excluding any flared sides (see <a href="91standards_figures/fig15.htm" title="Fig. 15">Fig. 15</a>).
+Curb ramps at marked crossings shall be wholly contained within the markings, excluding any flared sides (see [Fig. 15](#figure15)).
+
+{% figure Figure 15 %}
+{% asset design-standards/fig_15_curb_ramps_at_marked_crossings.gif alt="figure 15" %}
+{% figcaption %}
+<strong>Curb Ramps at Marked Crossings.</strong>
+{% endfigcaption %}
+{% endfigure %}
 
 #### 4.7.10 Diagonal Curb Ramps
 
-If diagonal (or corner type) curb ramps have returned curbs or other well-defined edges, such edges shall be parallel to the direction of pedestrian flow. The bottom of diagonal curb ramps shall have 48 in (1220 mm) minimum clear space as shown in <a href="91standards_figures/fig15c.htm" title="Fig. 15(c)">Fig. 15(c)</a> and <a href="91standards_figures/fig15d.htm" title="d">(d)</a>. If diagonal curb ramps are provided at marked crossings, the 48 in (1220 mm) clear space shall be within the markings (see <a href="91standards_figures/fig15c.htm" title="Fig. 15(c)">Fig. 15(c)</a> and <a href="91standards_figures/fig15d.htm" title="(d)">(d)</a>). If diagonal curb ramps have flared sides, they shall also have at least a 24 in (610 mm) long segment of straight curb located on each side of the curb ramp and within the marked crossing (see <a href="91standards_figures/fig15c.htm"  title="Fig. 15(c)">Fig. 15(c)</a>).
+If diagonal (or corner type) curb ramps have returned curbs or other well-defined edges, such edges shall be parallel to the direction of pedestrian flow. The bottom of diagonal curb ramps shall have 48 in (1220 mm) minimum clear space as shown in [Fig. 15(c)](#figure15c) and [(d)](#figure15d)</a>. If diagonal curb ramps are provided at marked crossings, the 48 in (1220 mm) clear space shall be within the markings (see [Fig. 15(c)](#figure15c) and [(d)](#figure15d)). If diagonal curb ramps have flared sides, they shall also have at least a 24 in (610 mm) long segment of straight curb located on each side of the curb ramp and within the marked crossing (see [Fig. 15(c)](#figure15c)).
+
+{% figure Figure 15c %}
+{% asset design-standards/fig_15c.gif alt="figure 15c" %}
+{% figcaption %}
+Diagonal curb ramps are located at each corner of the intersection. There are flared sides on each diagonal curb ramp. The cross walks are placed so a minimum 48 inch (1220 mm) long clear space is provided at the bottom of the curb ramp inside the marked cross walk. An accessible route is provided across the island in the intersection.
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 15d %}
+{% asset design-standards/fig_15d.gif alt="figure 15d" %}
+{% figcaption %}
+Similar to 15(c) except that returned curb ramps are provided at each corner of the intersection. A minimum 48 inch (1220 mm) long clear floor space is provided at the bottom of the curb ramp within the marked crossing area. A well defined edge is provided at the side of each curb ramp.
+{% endfigcaption %}
+{% endfigure %}
 
 #### 4.7.11 Islands
 
-Any raised islands in crossings shall be cut through level with the street or have curb ramps at both sides and a level area at least 48 in (1220 mm) long between the curb ramps in the part of the island intersected by the crossings (see <a href="91standards_figures/fig15a.htm" title="Fig. 15(a)">Fig. 15(a)</a> and <a href="91standards_figures/fig15b.htm" title="(b)">(b)</a>).
+Any raised islands in crossings shall be cut through level with the street or have curb ramps at both sides and a level area at least 48 in (1220 mm) long between the curb ramps in the part of the island intersected by the crossings (see[Fig. 15(a)](#figure15a) and [(b)](#figure15b)).
+
+{% figure Figure 15a %}
+{% asset design-standards/fig_15a.gif alt="figure 15a" %}
+{% figcaption %}
+Two flared-side curb ramps at each corner of the intersection. Each curb ramp is parallel to the direction of travel of pedestrians crossing the intersection. The curb ramps are in line with the marked crosswalk. An accessible route is provided through the island in the intersection.
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 15b %}
+{% asset design-standards/fig_15b.gif alt="figure 15b" %}
+{% figcaption %}
+Similar to 15(a) except the curb ramps do not extend the entire width of the cross walk. The curb ramp section and the side flares are located within the marked cross walk area on a segment of the straight curb.
+{% endfigcaption %}
+{% endfigure %}
 
 ### 4.8 Ramps
 
@@ -879,7 +914,14 @@ Any part of an accessible route with a slope greater than 1:20 shall be consider
 
 #### 4.8.2* Slope and Rise
 
-The least possible slope shall be used for any ramp. The maximum slope of a ramp in new construction shall be 1:12. The maximum rise for any run shall be 30 in (760 mm) (see <a href="91standards_figures/fig16.htm"  title="Fig. 16">Fig. 16</a>). Curb ramps and ramps to be constructed on existing sites or in existing buildings or facilities may have slopes and rises as allowed in 4.1.6(3)(a) if space limitations prohibit the use of a 1:12 slope or less.
+The least possible slope shall be used for any ramp. The maximum slope of a ramp in new construction shall be 1:12. The maximum rise for any run shall be 30 in (760 mm) (see [Fig. 16](#figure16)). Curb ramps and ramps to be constructed on existing sites or in existing buildings or facilities may have slopes and rises as allowed in 4.1.6(3)(a) if space limitations prohibit the use of a 1:12 slope or less.
+
+{% figure Figure 16 %}
+{% asset design-standards/fig_16_components_of_single_ramp.gif alt="figure 16" %}
+{% figcaption %}
+<strong>Components of a Single Ramp Run and Sample Ramp Dimensions.</strong> Components include a level landing at the top of the ramp, the surface of the ramp and a level landing at the bottom of the ramp. The rise of the ramp is the vertical dimension and the horizontal projection or run of the ramp is the horizontal dimension. If the slope of a ramp is between 1:12 and 1:16, the maximum rise shall be 30 inches (760 mm) and the maximum horizontal run shall be 30 feet (9 m). If the slope of the ramp is between 1:16 and 1:20, the maximum rise shall be 30 inches (760 mm) and the maximum horizontal run shall be 40 feet (12 m).
+{% endfigcaption %}
+{% endfigure %}
 
 #### 4.8.3 Clear Width
 
@@ -899,12 +941,25 @@ Ramps shall have level landings at bottom and top of each ramp and each ramp run
 If a ramp run has a rise greater than 6 in (150 mm) or a horizontal projection greater than 72 in (1830 mm), then it shall have handrails on both sides. Handrails are not required on curb ramps or adjacent to seating in assembly areas. Handrails shall comply with 4.26 and shall have the following features:
 
 1. Handrails shall be provided along both sides of ramp segments. The inside handrail on switchback or dogleg ramps shall always be continuous.
-2. If handrails are not continuous, they shall extend at least 12 in (305 mm) beyond the top and bottom of the ramp segment and shall be parallel with the floor or ground surface (see <a href="91standards_figures/fig17.htm" title="Fig. 17">Fig. 17</a>).
+2. If handrails are not continuous, they shall extend at least 12 in (305 mm) beyond the top and bottom of the ramp segment and shall be parallel with the floor or ground surface (see [Fig. 17](#figure17)).
 3. The clear space between the handrail and the wall shall be 1 - 1/2 in (38 mm).
 4. Gripping surfaces shall be continuous.
 5. Top of handrail gripping surfaces shall be mounted between 34 in and 38 in (865 mm and 965 mm) above ramp surfaces.
 6. Ends of handrails shall be either rounded or returned smoothly to floor, wall, or post.
 7. Handrails shall not rotate within their fittings.
+
+{% figure Figure 17 %}
+{% asset design-standards/fig_17_examples_of_edge_protection.gif alt="figure 17" %}
+{% figcaption %}
+<strong>Examples of Edge Protection and Handrail Extensions. </strong>Four types of edge protection and handrail design are shown. The first ramp (top) labeled "Curb" shows a handrail horizontal projection of 12 inches (305 mm) minimum at the top and bottom of the ramp. The horizontal projection begins at the point were the sloped ramp surface stops. Edge protection on both sides of the ramp is a raised surface at least 2 inches (50 mm) high. A minimum clear width of 36 inches (915 mm) is provided between handrails and the edge protection. A lower railing is shown parallel to the ramp mounted no higher than 27 inches (685 mm) above the ramp.
+
+The second ramp (second from top) labeled "Wall" shows a railing mounted on a solid wall. The handrails on both sides have horizontal projections as above. A minimum of 36 inches (915 mm) is provided between handrails.
+
+The third ramp (third from top) labeled "Vertical Guard Rail" has a series of vertical guard rails or pickets. The top of the handrail is shown as 34 - 38 inches (865 mm - 965 mm) above the ramp and landings (applies to all handrails on accessible ramps). A minimum of 36 inches (915 mm) is provided between handrails.
+
+The fourth ramp (fourth from top) labeled "Railing with Extended Platform" shows a railing without edge protection on the ramp surface. The ramp surface extends a minimum of 12 inches (305 mm) to the side of the handrail. The handrail detail is the same as the first example with a bottom rail no more than 27 inches (305 mm) above the ramp and landings. A minimum of 36 inches (915 mm) is provided between handrails.
+{% endfigcaption %}
+{% endfigure %}
 
 #### 4.8.6 Cross Slope and Surfaces
 
@@ -912,7 +967,7 @@ The cross slope of ramp surfaces shall be no greater than 1:50. Ramp surfaces sh
 
 #### 4.8.7 Edge Protection
 
-Ramps and landings with drop-offs shall have curbs, walls, railings, or projecting surfaces that prevent people from slipping off the ramp. Curbs shall be a minimum of 2 in (50 mm) high (see <a href="91standards_figures/fig17.htm" title="Fig. 17">Fig. 17</a>).
+Ramps and landings with drop-offs shall have curbs, walls, railings, or projecting surfaces that prevent people from slipping off the ramp. Curbs shall be a minimum of 2 in (50 mm) high (see [Fig. 17](#figure17)).
 
 #### 4.8.8 Outdoor Conditions
 
@@ -926,23 +981,65 @@ Stairs required to be accessible by 4.1 shall comply with 4.9.
 
 #### 4.9.2 Treads and Risers
 
-On any given flight of stairs, all steps shall have uniform riser heights and uniform tread widths. Stair treads shall be no less than 11 in (280 mm) wide, measured from riser to riser (see <a href="91standards_figures/fig18a.htm"  title="Fig. 18(a)">Fig. 18(a)</a>). Open risers are not permitted.
+On any given flight of stairs, all steps shall have uniform riser heights and uniform tread widths. Stair treads shall be no less than 11 in (280 mm) wide, measured from riser to riser (see [Fig. 18(a)](#figure18a)). Open risers are not permitted.
+
+{% figure Figure 18a %}
+{% asset design-standards/fig_18a_flush_riser.gif alt="figure 18a" %}
+{% figcaption %}
+<strong>Flush Riser.</strong> Each stair tread is 11 inches (280 mm) deep minimum with a sloped riser. The nosing shall project no more than 1-1/2 inches (38 mm).
+{% endfigcaption %}
+{% endfigure %}
 
 #### 4.9.3 Nosings
 
-The undersides of nosings shall not be abrupt. The radius of curvature at the leading edge of the tread shall be no greater than 1/2 in (13 mm). Risers shall be sloped or the underside of the nosing shall have an angle not less than 60 degrees from the horizontal. Nosings shall project no more than 1-1/2 in (38 mm) (see <a href="91standards_figures/fig18.htm" title="Fig. 18">Fig. 18</a>).
+The undersides of nosings shall not be abrupt. The radius of curvature at the leading edge of the tread shall be no greater than 1/2 in (13 mm). Risers shall be sloped or the underside of the nosing shall have an angle not less than 60 degrees from the horizontal. Nosings shall project no more than 1-1/2 in (38 mm) (see [Fig. 18](#figure18)).
+
+{% figure Figure 18 %}
+{% asset design-standards/fig_18_usable_tread.gif alt="figure 18" %}
+{% figcaption %}
+<strong>Usable Tread Width and Examples of Acceptable Nosings.</strong>
+{% endfigcaption %}
+{% endfigure %}
 
 #### 4.9.4 Handrails
 
 Stairways shall have handrails at both sides of all stairs. Handrails shall comply with 4.26 and shall have the following features:
 
-1. Handrails shall be continuous along both sides of stairs. The inside handrail on switchback or dogleg stairs shall always be continuous (see <a href="91standards_figures/fig19a.htm" title="Fig. 19(a)">Fig. 19(a)</a> and <a href="91standards_figures/fig19b.htm" title="(b)">(b)</a>).
-2. If handrails are not continuous, they shall extend at least 12 in (305 mm) beyond the top riser and at least 12 in (305 mm) plus the width of one tread beyond the bottom riser. At the top, the extension shall be parallel with the floor or ground surface. At the bottom, the handrail shall continue to slope for a distance of the width of one tread from the bottom riser; the remainder of the extension shall be horizontal (see <a href="91standards_figures/fig19c.htm"  title="Fig. 19(c)">Fig. 19(c)</a> and <a href="91standards_figures/fig19d.htm"  title="(d)">(d)</a>). Handrail extensions shall comply with 4.4.
+1. Handrails shall be continuous along both sides of stairs. The inside handrail on switchback or dogleg stairs shall always be continuous (see [Fig. 19(a)](#figure19a) and [(b)](#figure19b)).
+2. If handrails are not continuous, they shall extend at least 12 in (305 mm) beyond the top riser and at least 12 in (305 mm) plus the width of one tread beyond the bottom riser. At the top, the extension shall be parallel with the floor or ground surface. At the bottom, the handrail shall continue to slope for a distance of the width of one tread from the bottom riser; the remainder of the extension shall be horizontal (see [Fig. 19(c)](#figure19c) and [(d)](#figure19d)). Handrail extensions shall comply with 4.4.
 3. The clear space between handrails and wall shall be 1-1/2 in (38 mm).
 4. Gripping surfaces shall be uninterrupted by newel posts, other construction elements, or obstructions.
 5. Top of handrail gripping surface shall be mounted between 34 in and 38 in (865 mm and 965 mm) above stair nosings.
 6. Ends of handrails shall be either rounded or returned smoothly to floor, wall or post.
 7. Handrails shall not rotate within their fittings.
+
+{% figure Figure 19a %}
+{% asset design-standards/fig_19a_plan.gif alt="figure 19a" %}
+{% figcaption %}
+<strong>Plan.</strong> Handrails that are not continuous must have a horizontal extension at the top and bottom of the run. A minimum 12 inch (305 mm) horizontal extension is required at each top riser (indicated in the figure by the dimension X). A minimum 12 inch (305 mm) horizontal extension plus the width of one tread is required at each bottom riser (indicated by the dimension Y).
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 19b %}
+{% asset design-standards/fig_19b_elevation_of_center_handrail.gif alt="figure 19b" %}
+{% figcaption %}
+<strong>Elevation of Center Handrail.</strong> Illustrates a continuous handrail without a horizontal extension.
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 19c %}
+{% asset design-standards/fig_19c_extension_at_bottom.gif alt="figure 19c" %}
+{% figcaption %}
+<strong> Extension at Bottom of Run.</strong> Illustrates a horizontal extension at the bottom of a stair. A 12 inch (305 mm) horizontal extension is shown plus the width of one tread. In the drawing this distance is indicated by the dimension Y. The tread width is measured from the front of the nosing to the front of the next nosing of the tread above, measured horizontally. The end of the handrail extension is returned down towards the floor and then to the support post in the same detail as in 19(d) below.
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 19d %}
+{% asset design-standards/fig_19d_extension_at_top.gif alt="figure 19d" %}
+{% figcaption %}
+<strong>Extension at Top of Run.</strong> A 12 inch (305 mm) horizontal extension is shown. The extension starts at the nosing of the top tread and continues for at least 12 inches (305 mm) before the railing turns. This is also indicated as dimension X. The figure illustrates a handrail extension that returns to the support post with a lower horizontal segment less than 27 inches (685 mm)above the floor.
+{% endfigcaption %}
+{% endfigure %}
 
 #### 4.9.5 Detectable Warnings at Stairs
 
@@ -964,29 +1061,43 @@ Elevator operation shall be automatic. Each car shall be equipped with a self-le
 
 #### 4.10.3 Hall Call Buttons
 
-Call buttons in elevator lobbies and halls shall be centered at 42 in (1065 mm) above the floor. Such call buttons shall have visual signals to indicate when each call is registered and when each call is answered. Call buttons shall be a minimum of 3/4 in (19 mm) in the smallest dimension. The button designating the up direction shall be on top. (See <a href="91standards_figures/fig20.htm" title="Fig. 20">Fig. 20</a>.) Buttons shall be raised or flush. Objects mounted beneath hall call buttons shall not project into the elevator lobby more than 4 in (100 mm).
+Call buttons in elevator lobbies and halls shall be centered at 42 in (1065 mm) above the floor. Such call buttons shall have visual signals to indicate when each call is registered and when each call is answered. Call buttons shall be a minimum of 3/4 in (19 mm) in the smallest dimension. The button designating the up direction shall be on top. (See [Fig. 20](#figure20).) Buttons shall be raised or flush. Objects mounted beneath hall call buttons shall not project into the elevator lobby more than 4 in (100 mm).
+
+{% figure Figure 20 %}
+{% asset design-standards/fig_20_hoistway.gif alt="figure 20" %}
+{% figcaption %}
+<strong>Hoistway and Elevator Entrances.</strong> Hall call buttons shall be mounted 42 inches (1065 mm) measured from the floor to the centerline between the buttons. Hall lanterns shall be mounted 72 inches (1830 mm) minimum measured from the floor to the centerline beteen the up and down indicators. Raised and Braille characters on hoistway entrances shall be mounted with the centerline at 60 inches (1525 mm) above the floor. Sensors for the required door protective and reopening device shall detect an obstruction passing through the door opening at heights of 5 inches (125 mm), indicated by a dashed line A and 29 inches (735 mm), indicated by a dashed line B. Each is measured from the floor. A note indicates, "The automatic door reopening device is activated if an object passes through either line A or line B. Line A and line B represent the vertical locations of the door reopening device not requiring contact."
+{% endfigcaption %}
+{% endfigure %}
 
 #### 4.10.4 Hall Lanterns
 
 A visible and audible signal shall be provided at each hoistway entrance to indicate which car is answering a call. Audible signals shall sound once for the up direction and twice for the down direction or shall have verbal annunciators that say &quot;up&quot; or &quot;down.&quot; Visible signals shall have the following features:
 
-1. Hall lantern fixtures shall be mounted so that their centerline is at least 72 in (1830 mm) above the lobby floor. (See <a href="91standards_figures/fig20.htm" title="Fig. 20">Fig. 20</a>.)
+1. Hall lantern fixtures shall be mounted so that their centerline is at least 72 in (1830 mm) above the lobby floor. (See [Fig. 20](#figure20).)
 2. Visual elements shall be at least 2-1/2 in (64 mm) in the smallest dimension.
 3. Signals shall be visible from the vicinity of the hall call button (see Fig. 20). In-car lanterns located in cars, visible from the vicinity of hall call buttons, and conforming to the above requirements, shall be acceptable.
 
 #### 4.10.5 Raised and Braille Characters on Hoistway Entrances
 
-All elevator hoistway entrances shall have raised and Braille floor designations provided on both jambs. The centerline of the characters shall be 60 in (1525 mm) above finish floor. Such characters shall be 2 in (50 mm) high and shall comply with 4.30.4. Permanently applied plates are acceptable if they are permanently fixed to the jambs. (See <a href="91standards_figures/fig20.htm"  title="Fig. 20">Fig. 20</a>.)
+All elevator hoistway entrances shall have raised and Braille floor designations provided on both jambs. The centerline of the characters shall be 60 in (1525 mm) above finish floor. Such characters shall be 2 in (50 mm) high and shall comply with 4.30.4. Permanently applied plates are acceptable if they are permanently fixed to the jambs. (See [Fig. 20](#figure20).)
 
 #### 4.10.6\* Door Protective and Reopening Device
 
-Elevator doors shall open and close automatically. They shall be provided with a reopening device that will stop and reopen a car door and hoistway door automatically if the door becomes obstructed by an object or person. The device shall be capable of completing these operations without requiring contact for an obstruction passing through the opening at heights of 5 in and 29 in (125 mm and 735 mm) above finish floor (See <a href="91standards_figures/fig20.htm" title="Fig. 20">Fig. 20</a>). Door reopening devices shall remain effective for at least 20 seconds. After such an interval, doors may close in accordance with the requirements of ASME A17.1-1990.
+Elevator doors shall open and close automatically. They shall be provided with a reopening device that will stop and reopen a car door and hoistway door automatically if the door becomes obstructed by an object or person. The device shall be capable of completing these operations without requiring contact for an obstruction passing through the opening at heights of 5 in and 29 in (125 mm and 735 mm) above finish floor (See [Fig. 20](#figure20)). Door reopening devices shall remain effective for at least 20 seconds. After such an interval, doors may close in accordance with the requirements of ASME A17.1-1990.
 
 #### 4.10.7\* Door and Signal Timing for Hall Calls
 
 The minimum acceptable time from notification that a car is answering a call until the doors of that car start to close shall be calculated from the following equation:
 >T = D/(1.5 ft/s) or T = D/(445 mm/s)
-<br/>where T total time in seconds and D distance (in feet or millimeters) from a point in the lobby or corridor 60 in (1525 mm) directly in front of the farthest call button controlling that car to the centerline of its hoistway door (see <a href="91standards_figures/fig21.htm" title="Fig. 21">Fig. 21</a>). For cars with in-car lanterns, T begins when the lantern is visible from the vicinity of hall call buttons and an audible signal is sounded. The minimum acceptable notification time shall be 5 seconds.
+<br/>where T total time in seconds and D distance (in feet or millimeters) from a point in the lobby or corridor 60 in (1525 mm) directly in front of the farthest call button controlling that car to the centerline of its hoistway door (see [Fig. 21](#figure21)). For cars with in-car lanterns, T begins when the lantern is visible from the vicinity of hall call buttons and an audible signal is sounded. The minimum acceptable notification time shall be 5 seconds.
+
+{% figure Figure 21 %}
+{% asset design-standards/fig_21_graph_of_timing_eq.gif alt="figure 21" %}
+{% figcaption %}
+<strong>Graph of Timing Equation.</strong> The y axis is T, time in seconds and the x axis is D, distance in feet. The "Acceptable" range is above a line on the graph indicated as follows: If D = 5 to 8 feet, then T = 5 seconds. If D = 8 to 18 feet, T increases at approximately 1:1 with the end of the line at D = 18 feet and T = 12 seconds. The maximum value shown for T is 13 seconds and for D is 18 feet. Values below the line on the graph are indicated as "Unacceptable."
+{% endfigcaption %}
+{% endfigure %}
 
 #### 4.10.8 Door Delay for Car Calls
 
@@ -994,7 +1105,14 @@ The minimum time for elevator doors to remain fully open in response to a car ca
 
 #### 4.10.9 Floor Plan of Elevator Cars
 
-The floor area of elevator cars shall provide space for wheelchair users to enter the car, maneuver within reach of controls, and exit from the car. Acceptable door opening and inside dimensions shall be as shown in <a href="91standards_figures/fig22.htm" title="Fig. 22">Fig. 22</a>. The clearance between the car platform sill and the edge of any hoistway landing shall be no greater than 1-1/4 in (32 mm).
+The floor area of elevator cars shall provide space for wheelchair users to enter the car, maneuver within reach of controls, and exit from the car. Acceptable door opening and inside dimensions shall be as shown in [Fig. 22](#figure22). The clearance between the car platform sill and the edge of any hoistway landing shall be no greater than 1-1/4 in (32 mm).
+
+{% figure Figure 22 %}
+{% asset design-standards/fig_22_min_dimensions_of_elevator_cars.gif alt="figure 22" %}
+{% figcaption %}
+<strong>Minimum Dimensions of Elevator Cars.</strong>
+{% endfigcaption %}
+{% endfigure %}
 
 #### 4.10.10 Floor Surfaces
 
@@ -1009,9 +1127,37 @@ The level of illumination at the car controls, platform, and car threshold and l
 Elevator control panels shall have the following features:
 
 1. Buttons. All control buttons shall be at least 3/4 in (19 mm) in their smallest dimension. They shall be raised or flush.
-2. Tactile, Braille, and Visual Control Indicators. All control buttons shall be designated by Braille and by raised standard alphabet characters for letters, arabic characters for numerals, or standard symbols as shown in <a href="91standards_figures/fig23a.htm" title="Fig. 23(a)">Fig. 23(a)</a>, and as required in ASME A17.1-1990. Raised and Braille characters and symbols shall comply with 4.30. The call button for the main entry floor shall be designated by a raised star at the left of the floor designation (see <a href="91standards_figures/fig23a.htm" title="Fig. 23(a)">Fig. 23(a)</a>). All raised designations for control buttons shall be placed immediately to the left of the button to which they apply. Applied plates, permanently attached, are an acceptable means to provide raised control designations. Floor buttons shall be provided with visual indicators to show when each call is registered. The visual indicators shall be extinguished when each call is answered.
-3. Height. All floor buttons shall be no higher than 54 in (1370 mm) above the finish floor for side approach and 48 in (1220 mm) for front approach. Emergency controls, including the emergency alarm and emergency stop, shall be grouped at the bottom of the panel and shall have their centerlines no less than 35 in (890 mm) above the finish floor (see <a href="91standards_figures/fig23a.htm" title="Fig. 23(a)">Fig. 23(a)</a> and <a href="91standards_figures/fig23b.htm" title="(b)">(b)</a>).
-4. Location. Controls shall be located on a front wall if cars have center opening doors, and at the side wall or at the front wall next to the door if cars have side opening doors (see <a href="91standards_figures/fig23c.htm" title="Fig. 23(c)">Fig. 23(c)</a> and <a href="91standards_figures/fig23d.htm" title="(d)">(d)</a>).
+2. Tactile, Braille, and Visual Control Indicators. All control buttons shall be designated by Braille and by raised standard alphabet characters for letters, arabic characters for numerals, or standard symbols as shown in [Fig. 23(a)](#figure23a), and as required in ASME A17.1-1990. Raised and Braille characters and symbols shall comply with 4.30. The call button for the main entry floor shall be designated by a raised star at the left of the floor designation (see [Fig. 23(a)](#figure23a)). All raised designations for control buttons shall be placed immediately to the left of the button to which they apply. Applied plates, permanently attached, are an acceptable means to provide raised control designations. Floor buttons shall be provided with visual indicators to show when each call is registered. The visual indicators shall be extinguished when each call is answered.
+3. Height. All floor buttons shall be no higher than 54 in (1370 mm) above the finish floor for side approach and 48 in (1220 mm) for front approach. Emergency controls, including the emergency alarm and emergency stop, shall be grouped at the bottom of the panel and shall have their centerlines no less than 35 in (890 mm) above the finish floor (see [Fig. 23(a)](#figure23a) and [(b)](#figure23b)).
+4. Location. Controls shall be located on a front wall if cars have center opening doors, and at the side wall or at the front wall next to the door if cars have side opening doors (see [Fig. 23(c)](#figure23c) and [(d)](#figure23a)).
+
+{% figure Figure 23a %}
+{% asset design-standards/fig_23a_panel_detail.gif alt="figure 23a" %}
+{% figcaption %}
+<strong>Panel Detail.</strong> The diagram illustrates the symbols used for the following control buttons: floor numerals and letters, main entry floor (star), door closed (two arrows pointing together), door open (two arrows pointing apart), emergency alarm (bell symbol), and emergency stop (X within an octagon). The diagram further states that the octagon symbol for the emergency stop shall be raised but the X (inside the octagon) is not. The numeral height for floor indicators and symbols is 5/8 inch (16 mm) and the control button diameter is 3/4 inch (19 mm).
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 23b %}
+{% asset design-standards/fig_23b_car_control_height.gif alt="figure 23b" %}
+{% figcaption %}
+<strong>Car Control Height.</strong> Maximum height for control buttons and mechanisms is 54 inches (1370 mm). Minimum height is 35 inches (890 mm).
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 23c %}
+{% asset design-standards/fig_23c_alternate_locations_of_panel.gif alt="figure 23c" %}
+{% figcaption %}
+<strong>Alternate Locations of Panel with Center Opening Door.</strong> Control panel locations are shown on either side of the center opening door.
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 23d %}
+{% asset design-standards/fig_23d_alternate_locations_of_panel.gif alt="figure 23d" %}
+{% figcaption %}
+<strong> Alternate Locations of Panel with Side Opening Door.</strong> Control panel locations are shown to the right of the side opening door and to the left on the adjacent wall.
+{% endfigcaption %}
+{% endfigure %}
 
 #### 4.10.13* Car Position Indicators
 
@@ -1065,7 +1211,35 @@ If doorways have two independently operated door leaves, then at least one leaf 
 
 #### 4.13.5 Clear Width
 
-Doorways shall have a minimum clear opening of 32 in (815 mm) with the door open 90 degrees, measured between the face of the door and the opposite stop (see <a href="91standards_figures/fig24a.htm" title="Fig. 24(a)">Fig. 24(a)</a>, <a href="91standards_figures/fig24b.htm" title="(b)"><strong>(b)</strong></a>, <a href="91standards_figures/fig24c.htm" title="(c)">(c)</a>, and <a href="91standards_figures/fig24d.htm" title="(d)">(d)</a>). Openings more than 24 in (610 mm) in depth shall comply with 4.2.1 and 4.3.3 (see <a href="91standards_figures/fig24e.htm" title="Fig. 24(e)">Fig. 24(e)</a>). <br/>**EXCEPTION**: Doors not requiring full user passage, such as shallow closets, may have the clear opening reduced to 20 in (510 mm) minimum.
+Doorways shall have a minimum clear opening of 32 in (815 mm) with the door open 90 degrees, measured between the face of the door and the opposite stop (see [Fig. 24(a)](#figure24a), [(b)](#figure24b),[(c)](#figure24c), and [(d)](#figure24d)). Openings more than 24 in (610 mm) in depth shall comply with 4.2.1 and 4.3.3 (see [Fig. 24(e)](#figure24e)). <br/>**EXCEPTION**: Doors not requiring full user passage, such as shallow closets, may have the clear opening reduced to 20 in (510 mm) minimum.
+
+{% figure Figure 24a %}
+{% asset design-standards/fig_24a.gif alt="figure 24a" %}
+{% figcaption %}
+<strong>Panel Detail.</strong> The diagram illustrates the symbols used for the following control buttons: floor numerals and letters, main entry floor (star), door closed (two arrows pointing together), door open (two arrows pointing apart), emergency alarm (bell symbol), and emergency stop (X within an octagon). The diagram further states that the octagon symbol for the emergency stop shall be raised but the X (inside the octagon) is not. The numeral height for floor indicators and symbols is 5/8 inch (16 mm) and the control button diameter is 3/4 inch (19 mm).
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 24b %}
+{% asset design-standards/fig_24b_hinged_door.gif alt="figure 24b" %}
+{% figcaption %}
+<strong>Detail.</strong> Clear width is 32 inches (815 mm) minimum measured from the face of the door (open 90 degrees) to the face of the doorstop.
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 24c %}
+{% asset design-standards/fig_24c_sliding_door.gif alt="figure 24c" %}
+{% figcaption %}
+<strong>Sliding Door.</strong> Clear width is 32 inches (815 mm) minimum measured from the end of the door to the face of the doorstop.
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 24d %}
+{% asset design-standards/fig_24d_folding_door.gif alt="figure 24d" %}
+{% figcaption %}
+<strong>Folding Door.</strong> Clear width is 32 inches (815 mm) minimum measured from the end of the door (fully open) to the face of the doorstop.
+{% endfigcaption %}
+{% endfigure %}
 
 #### 4.13.6 Maneuvering Clearances at Doors
 
