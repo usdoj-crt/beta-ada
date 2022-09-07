@@ -13,7 +13,8 @@ const TAGS = [
   'effective-communication',
   'parking',
   'medical-care',
-  'mobility-devices'
+  'mobility-devices',
+  'child-care'
 ];
 
 export { NUMBER_OF_RESULTS, SEARCH_ENDPOINT, ACCESS_KEY, AFFILIATE, TAGS };
