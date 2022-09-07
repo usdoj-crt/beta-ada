@@ -10,6 +10,7 @@ lang: 'en'
 publish-date: 2014-03-14 00:00:00
 sidenav: true
 print: true
+back-to-top: true
 ---
 
 ## Purpose
