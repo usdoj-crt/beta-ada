@@ -1,7 +1,6 @@
-import renderSearchResults from './utils/renderSearchResults';
 import { NUMBER_OF_RESULTS, SEARCH_ENDPOINT, ACCESS_KEY, AFFILIATE } from './utils/constants';
 import renderSearchPage from './utils/renderSearchPage';
-import noResults from './templates/search/noResultsTemplate';
+import totalResults from './templates/search/totalResultsTemplate';
 
 // Set up the search parameters:
 let urlParams = new URLSearchParams(window.location.search);
@@ -13,6 +12,7 @@ let searchParams = {
   offset: urlParams.get('offset') || 0,
   limit: NUMBER_OF_RESULTS,
 };
+const target = document.getElementById('totalResultsTarget');
 
 Object.keys(searchParams).forEach(function (key) {
   searchEndpoint.searchParams.append(key, searchParams[key]);
@@ -21,16 +21,12 @@ Object.keys(searchParams).forEach(function (key) {
 // When the results are returned, check that the status is 200
 // then render the results:
 function reqLoaded() {
-  if (this.status === 200) {
-    let resJSON = JSON.parse(this.responseText);
-    renderSearchPage(resJSON, urlParams, NUMBER_OF_RESULTS);
-  } else {
-    renderSearchResults(`${noResults()}`, false);
-  }
+  let resJSON = JSON.parse(this.responseText);
+  renderSearchPage(resJSON, urlParams, NUMBER_OF_RESULTS);
 }
 // If timeout:
 function reqTimeout() {
-  renderSearchResults(`${noResults()}`, false);
+  target.innerHTML = totalResults(webTotalResults, 'result');
 }
 
 let req = new XMLHttpRequest();
