@@ -21,20 +21,36 @@ disabilities in many aspects of public life.
 
 Learn more about the ADA on our [Introduction to the ADA page]( {{'/topics/intro-to-ada'| relative_url}}).
 
-## The Department’s ADA Regulations
+## ADA Regulations
 
-The Department’s ADA regulations are legal requirements that state/local governments and many businesses must follow. The regulations are divided into titles. The Department of Justice writes the Title III regulation and part of the Title II regulation.
+DOJ is responsible for issuing regulations under Titles II and III of the Americans with Disabilities Act (ADA) that explain the rights of people with disabilities and the obligations of those covered by the law.
 
-[State and Local Governments (Title II)]( {{'https://www.ada.gov/regs2010/titleII_2010/titleII_2010_regulations.htm'}})
+- For more information about the ADA generally, check out [Introduction to the Americans with Disabilities Act]( {{'/topics/intro-to-ada' | relative_url}}).
+- For more information about Title II of the ADA, see [State and Local Governments]( {{'/topics/title-ii' | relative_url}}).
+- For more information about Title III of the ADA, see [Businesses That Are Open to the Public]( {{'/topics/title-iii' | relative_url}}).
 
-State and local governments include state, county, and city government services and programs, offices, and other facilities (such as city parks). Learn more about the basics of Title II on our [Introduction to the ADA page]( {{'/topics/intro-to-ada' | relative_url}}).
+{% details What is a regulation? %}
+A regulation (also called a "rule") is a set of requirements issued by a federal agency to implement laws passed by Congress.  When Congress passes laws, many details are often left to federal agencies to flesh out in regulations.  For example, when Congress passed the ADA, it gave DOJ the authority to issue regulations that explain the rights and obligations under Titles II and III of the ADA.
+{% enddetails %}
 
-[Public Accommodations and Commercial Facilities (Title III)]( {{'https://www.ada.gov/regs2010/titleIII_2010/titleIII_2010_regulations.htm'}})
+Check out DOJ’s current ADA regulations:
 
-Public accommodations include most businesses and nonprofits that are open to the public. Commercial facilities, like warehouses, need only comply with the ADA Standards for Accessible Design. Learn more about the basics of Title III on our [Introduction to the ADA page]( {{'/topics/intro-to-ada' | relative_url}}).
+- [Title II](https://www.ada.gov/regs2010/titleII_2010/title_ii_primer.html) (State and Local Governments)
+- [Title III](https://www.ada.gov/regs2010/titleIII_2010/titleIII_2010_regulations.htm) (Public Accommodations and Commercial Facilities)
 
-## Cases
+In the [Spring 2022 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain), DOJ announced that it plans to issue new ADA regulations on the following topics:
+
+- [Medical Diagnostic Equipment](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202204&RIN=1190-AA78) (Titles II and III)
+- [Website Accessibility](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202204&RIN=1190-AA79) (Title II)
+- [The Public Right-of-Way](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202204&RIN=1190-AA77) (Title II)
+- [Equipment and Furniture](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202204&RIN=1190-AA76) (Titles II and III)
+
+{% details What is the Unified Agenda? %}
+The [Unified Agenda](https://www.reginfo.gov/public/jsp/eAgenda/UA_About.myjsp) provides information about federal agencies’ regulatory priorities and the specific regulations that they plan to issue in the short and long term.
+{% enddetails %}
+
+<!-- ## Cases
 
 The Department of Justice enforces the ADA through lawsuits and settlement agreements to achieve greater access, inclusion, and equal opportunity for people with disabilities.
 
-[View the Cases page]( {{'/law-and-regs/cases' | relative_url}})
+[View the Cases page]( {{'/cases' | relative_url}}) -->
