@@ -1243,11 +1243,28 @@ Doorways shall have a minimum clear opening of 32 in (815 mm) with the door open
 
 #### 4.13.6 Maneuvering Clearances at Doors
 
-Minimum maneuvering clearances at doors that are not automatic or power-assisted shall be as shown in <a href="91standards_figures/fig25.htm" title="Fig. 25">Fig. 25</a>. The floor or ground area within the required clearances shall be level and clear.<br/>**EXCEPTION**: Entry doors to acute care hospital bedrooms for in-patients shall be exempted from the requirement for space at the latch side of the door (see dimension &quot;x&quot; in <a href="91standards_figures/fig25.htm" title="Fig. 25">Fig. 25</a>) if the door is at least 44 in (1120 mm) wide.
+Minimum maneuvering clearances at doors that are not automatic or power-assisted shall be as shown in [Fig. 25](#figure25). The floor or ground area within the required clearances shall be level and clear.<br/>**EXCEPTION**: Entry doors to acute care hospital bedrooms for in-patients shall be exempted from the requirement for space at the latch side of the door (see dimension &quot;x&quot; in [Fig. 25](#figure25)) if the door is at least 44 in (1120 mm) wide.
+
+{% figure Figure 25 %}
+{% asset design-standards/fig_25_maneuvering_clearances.gif alt="figure 25" %}
+{% figcaption %}
+<strong>Maneuvering Clearances at Doors.</strong>
+NOTE: All doors in alcoves shall comply with the clearances for front approaches.
+Depending on the direction of approach, diagrams (a) through (f) illustrate minimum maneuvering space depths and latch side clearances for both push and pull sides of swinging, sliding and folding doors. (4.13.6).
+{% endfigcaption %}
+{% endfigure %}
 
 #### 4.13.7 Two Doors in Series
 
-The minimum space between two hinged or pivoted doors in series shall be 48 in (1220 mm) plus the width of any door swinging into the space. Doors in series shall swing either in the same direction or away from the space between the doors (see <a href="91standards_figures/fig26.htm" title="Fig. 26">Fig. 26</a>).
+The minimum space between two hinged or pivoted doors in series shall be 48 in (1220 mm) plus the width of any door swinging into the space. Doors in series shall swing either in the same direction or away from the space between the doors (see [Fig. 26](#figure26)).
+
+{% figure Figure 26 %}
+{% asset design-standards/fig_26_two_hinged_doors.gif alt="figure 26" %}
+{% figcaption %}
+<strong>Two Hinged Doors in Series.</strong>
+The minimum space between two hinged or pivoted doors in series shall be 48 inches (1220 mm) plus the width of any door swinging into the space. Doors in series shall swing either in the same direction or away from the space between the doors.
+{% endfigcaption %}
+{% endfigure %}
 
 #### 4.13.8* Thresholds at Doorways
 
@@ -1306,8 +1323,36 @@ Controls shall comply with 4.27.4. Unit controls shall be front mounted or side 
 
 #### 4.15.5 Clearances
 
-1. Wall- and post-mounted cantilevered units shall have a clear knee space between the bottom of the apron and the floor or ground at least 27 in (685 mm) high, 30 in (760 mm) wide, and 17 in to 19 in (430 mm to 485 mm) deep (see <a href="91standards_figures/fig27a.htm"  title="Fig. 27(a)">Fig. 27(a)</a> and <a href="91standards_figures/fig27b.htm" title="(b)">(b)</a>). Such units shall also have a minimum clear floor space 30 in by 48 in (760 mm by 1220 mm) to allow a person in a wheelchair to approach the unit facing forward.
-2. Free-standing or built-in units not having a clear space under them shall have a clear floor space at least 30 in by 48 in (760 mm by 1220 mm) that allows a person in a wheelchair to make a parallel approach to the unit (see <a href="91standards_figures/fig27c.htm" title="Fig. 27(c)">Fig. 27(c)</a> and <a href="91standards_figures/fig27d.htm" title="(d)">(d)</a>). This clear floor space shall comply with 4.2.4.
+1. Wall- and post-mounted cantilevered units shall have a clear knee space between the bottom of the apron and the floor or ground at least 27 in (685 mm) high, 30 in (760 mm) wide, and 17 in to 19 in (430 mm to 485 mm) deep (see [Fig. 27(a)](#figure27a) and [(b)](#figure27b)). Such units shall also have a minimum clear floor space 30 in by 48 in (760 mm by 1220 mm) to allow a person in a wheelchair to approach the unit facing forward.
+2. Free-standing or built-in units not having a clear space under them shall have a clear floor space at least 30 in by 48 in (760 mm by 1220 mm) that allows a person in a wheelchair to make a parallel approach to the unit (see [Fig. 27(c)](#figure27c) and [(d)](#figure27d)). This clear floor space shall comply with 4.2.4.
+
+{% figure Figure 27a %}
+{% asset design-standards/fig_27a_spout_height.gif alt="figure 27a" %}
+{% figcaption %}
+<strong>Spout Height and Knee Clearance.</strong> The front edge of the fountain must extend 17 to 19 inches (430 - 485 mm) from the wall. The 27 inches (685 mm) high minimum clear knee space must be free of equipment or obstructions for a minimum of 8 inches (205 mm) extending from the front edge of the fountain back toward the wall. In addition, a minimum 9 inches (230 mm) high toe clearance space must be provided extending back toward the wall to a distance no more than 6 inches (150 mm) from the back wall. The toe clearance space must be free of equipment or obstructions.
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 27b %}
+{% asset design-standards/fig_27b_clear_floor_space.gif alt="figure 27b" %}
+{% figcaption %}
+<strong>Clear Floor Space.</strong> A 48 inch (1220 mm) minimum by 30 inch (760 mm) minimum clear floor space is required for a forward approach to a wall-mounted fountain. If the wall-mounted fountain is in an alcove, the minimum width of the alcove is 30 inches (760 mm) and the depth is 24 inches (610 mm) maximum.
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 27c %}
+{% asset design-standards/fig_27c_free_standing_fountain.gif alt="figure 27c" %}
+{% figcaption %}
+<strong>Free-Standing Fountain or Cooler.</strong> A 48 inch (1220 mm) minimum by 30 inch (760 mm) minimum clear floor space is required for a side approach (long side parallel to the front of the fountain or cooler).
+{% endfigcaption %}
+{% endfigure %}
+ ---
+{% figure Figure 27d %}
+{% asset design-standards/fig_27d_built_in_fountain.gif alt="figure 27d" %}
+{% figcaption %}
+<strong>Built-in Fountain or Cooler.</strong> A 48 inch (1220 mm) minimum by 30 inch (760 mm) minimum clear floor space is required for a side approach (long side parallel to the front of the fountain or cooler). The recess for the fountain is not to exceed the fountain depth.
+{% endfigcaption %}
+{% endfigure %}
 
 ### 4.16 Water Closets
 
