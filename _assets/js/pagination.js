@@ -25,7 +25,6 @@ function reqLoaded() {
   if (this.status === 200) {
     let resJSON = JSON.parse(this.responseText);
     renderSearchPage(resJSON, urlParams, NUMBER_OF_RESULTS);
-    target.innerHTML = totalResults(webTotalResults, 'result');
   } else {
     target.innerHTML = totalResults(null, 'result');
   }
