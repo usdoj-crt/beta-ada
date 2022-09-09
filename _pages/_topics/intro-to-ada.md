@@ -120,7 +120,7 @@ The ADA applies to state and local governments even if:
 
 The ADA contains specific requirements for state and local governments to ensure equal access for people with disabilities. Learn about these requirements in the [State and Local Government Primer](https://www.ada.gov/regs2010/titleII_2010/title_ii_primer.html).
 
-**How to file a complaint:** [File a complaint with the U.S. Department of Justice](https://www.ada.gov/filing_complaint.htm).
+**How to file a complaint:** [File a complaint with the U.S. Department of Justice]( {{'/file-a-complaint/'| relative_url}}).
 {% endcollapsible %}
 
 {% collapsible %}
@@ -135,7 +135,7 @@ The ADA contains specific requirements for state and local governments to ensure
 
 **Note:** Private transit systems are also covered by the ADA. For more information, see the section <a href="#businesses-that-are-open-to-the-public">Businesses that are open to the public</a> below.
 
-**How to file a complaint:** [File a complaint with the U.S. Department of Justice](https://www.ada.gov/filing_complaint.htm) or [with the Federal Transit Administration](https://www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/file-complaint-fta).
+**How to file a complaint:** [File a complaint with the U.S. Department of Justice]( {{'/file-a-complaint/'| relative_url}}) or [with the Federal Transit Administration](https://www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/file-complaint-fta).
 {% endcollapsible %}
 
 {% collapsible %}
@@ -177,7 +177,7 @@ The ADA contains specific requirements for state and local governments to ensure
 
 The ADA contains specific requirements for businesses that are open to the public. Learn more about these requirements: [ADA Primer for Small Businesses](https://www.ada.gov/regs2010/smallbusiness/smallbusprimer2010.htm).
 
-**How to file a complaint:** [File a complaint with the U.S. Department of Justice](https://www.ada.gov/filing_complaint.htm).
+**How to file a complaint:** [File a complaint with the U.S. Department of Justice]( {{'/file-a-complaint/'| relative_url}}).
 {% endcollapsible %}
 
 {% collapsible %}
@@ -230,4 +230,4 @@ Many federal agencies are responsible for enforcing the ADA and other laws that 
 Learn more about these agencies and the laws that they implement:
 
 - [ADA Designated Investigative Services](https://www.ada.gov/investag.htm)
-- [A Guide to Federal Disability Rights Laws](https://www.ada.gov/cguide.htm)
+- [A Guide to Federal Disability Rights Laws]( {{'/resources/disability-rights-guide/'| relative_url}})
