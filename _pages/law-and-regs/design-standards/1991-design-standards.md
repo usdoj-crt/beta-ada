@@ -10,6 +10,7 @@ lang: 'en'
 publish-date: 2014-03-14 00:00:00
 sidenav: true
 print: true
+back-to-top: true
 ---
 
 ## Purpose
@@ -1432,8 +1433,8 @@ Clear floor space for water closets not in stalls shall comply with [Fig. 28](#f
 <strong>Clear Floor Space at Water Closets.</strong>
 [Note: Figure 28 applies to water closets not installed in toilet stalls. Figure 30 covers toilet stalls.]
 For a side or forward approach, the water closet must be located along the back wall and the centerline of the water closet must be 18 inches (455 mm) from the side wall with the side grab bar.
-For a forward approach/transfer, when a lavatory is installed beside the water closet, there must be a clear floor space at the water closet that is a minimum 48 inches (1220 mm) in width (parallel to the back wall) and a minimum of 66 inches (1675 mm) in length. An accessible lavatory may overlap the clear floor space at the back wall as long as a minimum 18 inches (455 mm) clearance is maintained between the centerline of the water closet and the nearest edge of the lavatory. Grab bars are provided on the side and back wall ([see figure 29](#figure29)).
-For a side approach/transfer, when a lavatory is installed beside the water closet, there must be a clear floor space at the water closet that is a minimum of 48 inches (1220 mm) in width (parallel to the back wall) and a minimum of 56 inches (1420 mm) in length. An accessible lavatory may overlap the clear floor space at the back wall as along as a minimum 18 inches (455 mm) clearance is maintained between the centerline of the water closet and the nearest edge of the lavatory. Grab bars are provided on the side and back wall ([see figure 29](#figure29)).
+For a forward approach/transfer, when a lavatory is installed beside the water closet, there must be a clear floor space at the water closet that is a minimum 48 inches (1220 mm) in width (parallel to the back wall) and a minimum of 66 inches (1675 mm) in length. An accessible lavatory may overlap the clear floor space at the back wall as long as a minimum 18 inches (455 mm) clearance is maintained between the centerline of the water closet and the nearest edge of the lavatory. Grab bars are provided on the side and back wall (<a href="#figure29">see figure 29</a>).
+For a side approach/transfer, when a lavatory is installed beside the water closet, there must be a clear floor space at the water closet that is a minimum of 48 inches (1220 mm) in width (parallel to the back wall) and a minimum of 56 inches (1420 mm) in length. An accessible lavatory may overlap the clear floor space at the back wall as along as a minimum 18 inches (455 mm) clearance is maintained between the centerline of the water closet and the nearest edge of the lavatory. Grab bars are provided on the side and back wall (<a href="#figure29">see figure 29</a>).
 For a forward and side approach or for a lateral transfer, there must be a clear floor space at the water closet that is a minimum of 60 inches (1525 mm) in width (parallel to the back wall) and a minimum of 56 inches (1420 mm) in length. There must be a clear floor space of 42 inches (1066 mm) minimum from the centerline of the water closet to the nearest obstruction/wall. A lavatory may not overlap this clear space. Grab bars are provided on the side and back wall ([see figure 29](#figure29)).
 {% endfigcaption %}
 {% endfigure %}
@@ -3185,11 +3186,38 @@ Table A2, reprinted from a National Institute of Disability and Rehabilitation R
 
 **Table A2. Summary of Assistive Listening Devices**
 
-| System                                                                                                                                                                              | Advantages                                                                                                                                                            | Disadvantages                                                                                                                                                                                                           | Typical Applications                                                                                             |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| Induction Loop Transmitter: Transducer wired to induction loop around listening area.<br/><br/> Receiver: Self- contained induction receiver or personal hearing aid with telecoil. | Cost-Effective Low Maintenance Easy to use Unobtrusive May be possible to integrate into existing public address system. Some hearing aids can function as receivers. | Signal spills over to adjacent rooms. Susceptible to electrical interference. Limited portability Inconsistent signal strength Head position affects signal strength. Lack of standards for induction coil performance. | Meeting areas<br/> Theaters<br/> Churches and Temples<br/> Conference rooms<br/> Classrooms<br/> TV viewing      |
-| FM Transmitter: Flashlight-sized worn by speaker.<br/> Receiver: With personal hearing aid via DAI or induction neck-loop and telecoil; or self- contained with earphone(s).        | Highly portable. Different channels allow use by different groups within the same room. High user mobility Variable for large range of hearing losses.                | High cost of receivers. Equipment fragile. Equipment obtrusive. High maintenance. Expensive to maintain. Custom fitting to individual user may be required.                                                             | Classrooms<br/> Tour groups<br/> Meeting areas<br/> Outdoor events<br/> One-on-one                               |
-| Infrared Transmitter: Emitter in line-of-sight with receiver. <br/><br/>Receiver: Self-contained. Or with personal hearing aid via DAI or induction neckloop and telecoil.          | Easy to use. Insures privacy or confidentiality Moderate cost Can often be integrated into existing public address system.                                            | Line-of-sight required between emitter and receiver. Ineffective outdoors. Limited portability. Requires installation.                                                                                                  | Theaters<br/> Churches and Temples<br/> Auditoriums<br/> Meetings requiring<br/> confidentiality<br/> TV viewing |
+<div class="usa-table-container--scrollable" tabindex="0">
+<table class="usa-table usa-table--compact">
+  <thead>
+    <tr>
+      <th>System</th>
+      <th>Advantages</th>
+      <th>Disadvantages</th>
+      <th>Typical Applications</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Induction Loop Transmitter:<br/> Transducer wired to induction loop around listening area.<br><br> Receiver:<br/> Self- contained induction receiver or personal hearing aid with telecoil.</td>
+      <td>Cost-Effective.<br/> Low Maintenance.<br/> Easy to use.<br/> Unobtrusive.<br/> May be possible to integrate into existing public address system.<br/> Some hearing aids can function as receivers.</td>
+      <td>Signal spills over to adjacent rooms.<br/> Susceptible to electrical interference.<br/> Limited portability.<br/> Inconsistent signal strength.<br/> Head position affects signal strength.<br/> Lack of standards for induction coil performance.</td>
+      <td>Meeting areas<br> Theaters<br> Churches and Temples<br> Conference rooms<br> Classrooms<br> TV viewing</td>
+    </tr>
+    <tr>
+      <td>FM Transmitter: Flashlight-sized worn by speaker.<br> Receiver: With personal hearing aid via DAI or induction neck-loop and telecoil;<br/> or self- contained with earphone(s).</td>
+      <td>Highly portable.<br/> Different channels allow use by different groups within the same room.<br/> High user mobility Variable for large range of hearing losses.</td>
+      <td>High cost of receivers.<br/> Equipment fragile.<br/> Equipment obtrusive.<br/> High maintenance.<br/> Expensive to maintain.<br/> Custom fitting to individual user may be required.</td>
+      <td>Classrooms<br> Tour groups<br> Meeting areas<br> Outdoor events<br> One-on-one</td>
+    </tr>
+    <tr>
+      <td>Infrared Transmitter:<br/> Emitter in line-of-sight with receiver. <br><br>Receiver:<br/> Self-contained.<br/> Or with personal hearing aid via DAI or induction neckloop and telecoil.</td>
+      <td>Easy to use.<br/> Insures privacy or confidentiality.<br/> Moderate cost.<br/> Can often be integrated into existing public address system.</td>
+      <td>Line-of-sight required between emitter and receiver.<br/> Ineffective outdoors.<br/> Limited portability.<br/> Requires installation.</td>
+      <td>Theaters<br> Churches and Temples<br> Auditoriums<br> Meetings requiring<br> confidentiality<br> TV viewing</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 Source: Rehab Brief, National Institute on Disability and Rehabilitation Research, Washington, DC, Vol. XII, No. 10, (1990).
 
