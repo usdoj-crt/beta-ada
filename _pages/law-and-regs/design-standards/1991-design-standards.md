@@ -437,7 +437,6 @@ The space required for a wheelchair to make a 180-degree turn is a clear space o
 The minimum clear floor or ground space required to accommodate a single, stationary wheelchair and occupant is 30 in by 48 in (760 mm by 1220 mm) (see [Fig. 4](#figure4)), see [Fig. 4(a)](#figure4a)). The minimum clear floor or ground space for wheelchairs may be positioned for forward or parallel approach to an object (see [Fig. 4(b)](#figure4b) and [Fig.4(c)](#figure4c)).
 
 Clear floor or ground space for wheelchairs may be part of the knee space required under some objects.
-
 {% figure Figure 4 %}
 {% asset design-standards/fig_4_min_clear_floor_space_wheelchairs.gif alt="figure 4" %}
 {% figcaption %}
@@ -469,7 +468,6 @@ Parallel Approach. With a wheelchair postioned beside a wall, element or surface
 ##### 4.2.4.2 Relationship of Maneuvering Clearance to Wheelchair Spaces
 
 One full unobstructed side of the clear floor or ground space for a wheelchair shall adjoin or  overlap an accessible route or adjoin another wheelchair clear floor space. If a clear floor space is located in an alcove or otherwise confined on all or part of three sides, additional maneuvering clearances shall be provided as shown in [Fig. 4(d)](#figure4d) and [Fig. 4(e)](#figure4e).
-
 {% figure Figure 4d %}
 {% asset design-standards/fig_4d_clear_floor_space_alcoves.gif alt="figure 4d" %}
 {% figcaption %}
