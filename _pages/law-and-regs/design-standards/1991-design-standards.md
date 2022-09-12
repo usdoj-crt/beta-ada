@@ -2972,8 +2972,8 @@ In many small facilities, single-user restrooms may be the only facilities provi
 
 Recommendations:
 
-1.  In new construction, accessible single-user restrooms may be desirable in some situations because they can accommodate a wide variety of building users. However, they cannot be used in lieu of making the multi-stall toilet rooms accessible as required.
-2.  Where strict compliance to the guidelines for accessible toilet facilities is technically infeasible in the alteration of existing facilities, accessible &quot;unisex&quot; toilets are a reasonable alternative. 3. In designing accessible single-user restrooms, the provisions of adequate space to allow a side transfer will provide accommodation to the largest number of wheelchair users.
+1. In new construction, accessible single-user restrooms may be desirable in some situations because they can accommodate a wide variety of building users. However, they cannot be used in lieu of making the multi-stall toilet rooms accessible as required.
+2. Where strict compliance to the guidelines for accessible toilet facilities is technically infeasible in the alteration of existing facilities, accessible &quot;unisex&quot; toilets are a reasonable alternative. 3. In designing accessible single-user restrooms, the provisions of adequate space to allow a side transfer will provide accommodation to the largest number of wheelchair users.
 
 ### A4.23 Bathrooms, Bathing Facilities, and Shower Rooms
 
