@@ -5,7 +5,6 @@ lead: |-
   The Americans with Disabilities Act (ADA) is a federal civil rights law that prohibits discrimination against people with disabilities in everyday activities. The ADA prohibits discrimination on the basis of disability just as other civil rights laws prohibit discrimination on the basis of race, color, sex, national origin, age, and religion. The ADA guarantees that people with disabilities have the same opportunities as everyone else to enjoy employment opportunities, purchase goods and services, and participate in state and local government programs.
 print: true
 featured: true
-weight: 20
 card:
   title: Introduction to the ADA
   title_alt: the ADA
@@ -121,7 +120,7 @@ The ADA applies to state and local governments even if:
 
 The ADA contains specific requirements for state and local governments to ensure equal access for people with disabilities. Learn about these requirements in the [State and Local Government Primer](https://www.ada.gov/regs2010/titleII_2010/title_ii_primer.html).
 
-**How to file a complaint:** [File a complaint with the U.S. Department of Justice](https://www.ada.gov/filing_complaint.htm).
+**How to file a complaint:** [File a complaint with the U.S. Department of Justice]( {{'/file-a-complaint/'| relative_url}}).
 {% endcollapsible %}
 
 {% collapsible %}
@@ -136,7 +135,7 @@ The ADA contains specific requirements for state and local governments to ensure
 
 **Note:** Private transit systems are also covered by the ADA. For more information, see the section <a href="#businesses-that-are-open-to-the-public">Businesses that are open to the public</a> below.
 
-**How to file a complaint:** [File a complaint with the U.S. Department of Justice](https://www.ada.gov/filing_complaint.htm) or [with the Federal Transit Administration](https://www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/file-complaint-fta).
+**How to file a complaint:** [File a complaint with the U.S. Department of Justice]( {{'/file-a-complaint/'| relative_url}}) or [with the Federal Transit Administration](https://www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/file-complaint-fta).
 {% endcollapsible %}
 
 {% collapsible %}
@@ -147,7 +146,7 @@ The ADA contains specific requirements for state and local governments to ensure
 
 **Applies to:**
 
-- Businesses and nonprofits serving the public.  
+- Businesses and nonprofits serving the public.
   Examples of businesses and nonprofits include:
 
   - Restaurants
@@ -160,7 +159,7 @@ The ADA contains specific requirements for state and local governments to ensure
   - Gyms
   - Organizations offering courses or examinations
 
-- Privately operated transit.  
+- Privately operated transit.
   Examples of privately operated transit include:
 
   - Taxis
@@ -168,7 +167,7 @@ The ADA contains specific requirements for state and local governments to ensure
   - Hotel shuttles
   - Airport shuttles
 
-- Commercial facilities (need only comply with requirements of the [ADA Standards for Accessible Design](https://www.ada.gov/2010ADAstandards_index.htm)).  
+- Commercial facilities (need only comply with requirements of the [ADA Standards for Accessible Design](https://www.ada.gov/2010ADAstandards_index.htm)).
   Examples of commercial facilities include:
   - Office buildings
   - Warehouses
@@ -178,7 +177,7 @@ The ADA contains specific requirements for state and local governments to ensure
 
 The ADA contains specific requirements for businesses that are open to the public. Learn more about these requirements: [ADA Primer for Small Businesses](https://www.ada.gov/regs2010/smallbusiness/smallbusprimer2010.htm).
 
-**How to file a complaint:** [File a complaint with the U.S. Department of Justice](https://www.ada.gov/filing_complaint.htm).
+**How to file a complaint:** [File a complaint with the U.S. Department of Justice]( {{'/file-a-complaint/'| relative_url}}).
 {% endcollapsible %}
 
 {% collapsible %}
@@ -231,4 +230,4 @@ Many federal agencies are responsible for enforcing the ADA and other laws that 
 Learn more about these agencies and the laws that they implement:
 
 - [ADA Designated Investigative Services](https://www.ada.gov/investag.htm)
-- [A Guide to Federal Disability Rights Laws](https://www.ada.gov/cguide.htm)
+- [A Guide to Federal Disability Rights Laws]( {{'/resources/disability-rights-guide/'| relative_url}})
