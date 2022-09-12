@@ -15,7 +15,7 @@ tags:
 
 More than 50 million Americans – 18% of our population – have disabilities, and each is a potential customer. People with disabilities are living more independently and participating more actively in their communities. They and their families want to patronize businesses that welcome customers with disabilities. In addition, approximately 71.5 million baby boomers will be over age 65 by the year 2030 and will be demanding products, services, and environments that meet their age-related physical needs. Studies show that once people with disabilities find a business where they can shop or get services in an accessible manner, they become repeat customers.  
 
-People with disabilities have too often been excluded from everyday activities: shopping at a corner store, going to a neighborhood restaurant or movie with family and friends, or using the swimming pool at a hotel on the family vacation.  The ADA is a Federal civil rights law that prohibits discrimination against people with disabilities and opens doors for full participation in all aspects of everyday life.  This publication provides general guidance to help business owners understand how to comply with the Department's revised ADA regulations and the 2010 Standards, its design standards for accessible buildings.  The ADA applies to both the built environment and to policies and procedures that affect how a business provides goods and services to its customers.  Using this guidance, a small business owner or manager can ensure that it will not unintentionally exclude people with disabilities and will know when it needs to remove barriers in its existing facilities.  If you are planning to build a new facility or alter an existing one, please see New Construction and Alterations for specific guidance on these types of projects.  Businesses should consult the [revised ADA regulations](https://www.ada.gov/2010_regs.htm) and the [2010 Standards](https://www.ada.gov/2010ADAstandards_index.htm) for more comprehensive information about specific requirements.  
+People with disabilities have too often been excluded from everyday activities: shopping at a corner store, going to a neighborhood restaurant or movie with family and friends, or using the swimming pool at a hotel on the family vacation.  The ADA is a Federal civil rights law that prohibits discrimination against people with disabilities and opens doors for full participation in all aspects of everyday life.  This publication provides general guidance to help business owners understand how to comply with the Department's revised ADA regulations and the 2010 Standards, its design standards for accessible buildings.  The ADA applies to both the built environment and to policies and procedures that affect how a business provides goods and services to its customers.  Using this guidance, a small business owner or manager can ensure that it will not unintentionally exclude people with disabilities and will know when it needs to remove barriers in its existing facilities.  If you are planning to build a new facility or alter an existing one, please see [New Construction and Alterations](https://www.ada.gov/regs2010/smallbusiness/smallbusprimer2010.htm#newconstruction) for specific guidance on these types of projects.  Businesses should consult the [revised ADA regulations](https://www.ada.gov/2010_regs.htm) and the [2010 Standards](https://www.ada.gov/2010ADAstandards_index.htm) for more comprehensive information about specific requirements.  
 
 ## Who is Covered by the ADA?  
 
@@ -50,7 +50,7 @@ Businesses need to know two important deadlines for compliance. Starting March 1
 </tbody>
 </table>  
 
-For additional details, see [ADA 2010 Revised Requirements: Effective Date/ Compliance Date]( {{'/resources/effective-communication'| relative_url}}) .
+For additional details, see [ADA 2010 Revised Requirements: Effective Date/ Compliance Date](https://www.ada.gov/revised_effective_dates-2010.htm) .
 
 ## General Nondiscrimination Requirements  
 
@@ -172,7 +172,9 @@ The ADA's regulations and the ADA Standards for Accessible Design, originally pu
 If your business facility was built or altered in the past 20 years in compliance with the 1991 Standards, or you removed barriers to specific elements in compliance with those Standards, you do not have to make further modifications to those elements – even if the new standards have different requirements for them – to comply with the 2010 Standards. This provision is applied on an element-by-element basis and is referred to as the "safe harbor." The following examples illustrate how the safe harbor applies:  
 
 >The 2010 Standards lower the mounting height for light switches and thermostats from 54 inches to 48 inches. If your light switches are already installed at 54 inches in compliance with the 1991 Standards, you are not required to lower them to 48 inches.  
+
 >The 1991 Standards require one van accessible space for every eight accessible spaces. The 2010 Standards require one van accessible space for every six accessible spaces. If you have complied with the 1991 Standards, you are not required to add additional van accessible spaces to meet the 2010 Standards.  
+
 >The 2010 Standards contain new requirements for the input, numeric, and function keys (e.g. "enter," "clear," and "correct") on automatic teller machine (ATM) keypads. If an existing ATM complies with the 1991 Standards, no further modifications are required to the keypad.  
 
 If a business chooses to alter elements that were in compliance with the 1991 Standards, the safe harbor no longer applies to those elements. For example, if you restripe your parking lot, which is considered an alteration, you will now have to meet the ratio of van accessible spaces in the 2010 Standards. Similarly, if you relocate a fixed ATM, which is considered an alteration, you will now have to meet the keypad requirements in the 2010 Standards. The ADA's definition of an alteration is discussed later in this publication.  
@@ -215,7 +217,7 @@ Determining what is readily achievable will vary from business to business and s
 
 #### Barrier Removal Before March 15, 2012  
 
-Businesses removing barriers before March 15, 2012, have the choice of using either the 1991 Standards or the 2010 Standards. You must use only one standard for removing barriers in an entire facility. For example, you cannot choose the 1991 Standards for accessible routes and the 2010 Standards for restrooms. (See, ADA 2010 Revised Requirements: Effective Date / Compliance Date at www.ada.gov/ revisedeffectivedates-2010.htm). Remember that if an element complies with the 1991 Standards, a business is not required to make any changes to that element until such time as the business decides to alter that element.  
+Businesses removing barriers before March 15, 2012, have the choice of using either the 1991 Standards or the 2010 Standards. You must use only one standard for removing barriers in an entire facility. For example, you cannot choose the 1991 Standards for accessible routes and the 2010 Standards for restrooms. (See, *ADA 2010 Revised Requirements: Effective Date / Compliance Date* at [https://www.ada.gov/revised_effective_dates-2010.htm](https://www.ada.gov/revised_effective_dates-2010.htm). Remember that if an element complies with the 1991 Standards, a business is not required to make any changes to that element until such time as the business decides to alter that element.  
 
 <table class="usa-table">
 <caption>Compliance Dates and Applicable Standards for Readily Achievable Barrier Removal, New Construction, and Alterations</caption>
@@ -488,6 +490,4 @@ This publication is available in alternate formats for persons with disabilities
 
 This document has been developed for small businesses in accordance with the Small Business Regulatory Enforcement Flexibility Act of 1996.  
 
-Duplication of this document is encouraged.  
-
-last updated: March 16, 2011
+Duplication of this document is encouraged.
