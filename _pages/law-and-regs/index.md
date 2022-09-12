@@ -50,8 +50,6 @@ In the [Spring 2022 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMai
 The [Unified Agenda](https://www.reginfo.gov/public/jsp/eAgenda/UA_About.myjsp) provides information about federal agencies’ regulatory priorities and the specific regulations that they plan to issue in the short and long term.
 {% enddetails %}
 
-<!-- ## Cases
+## Design Standards
 
-The Department of Justice enforces the ADA through lawsuits and settlement agreements to achieve greater access, inclusion, and equal opportunity for people with disabilities.
-
-[View the Cases page]( {{'/cases' | relative_url}}) -->
+[View the 1991 and 2010 Design Standards]({{'/law-and-regs/design-standards' | relative_url }})
