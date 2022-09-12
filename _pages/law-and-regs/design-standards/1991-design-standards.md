@@ -283,7 +283,7 @@ Accessible buildings and facilities shall meet the following minimum requirement
     | ----------- | ----------- |
     | 1 or more single unit | 1 per floor |
     | 1 bank<sup id="17a2"><a href="/law-and-regs/design-standards/1991-design-standards#17a2-note">2</a></sup> | 1 per floor |
-    | 2 or more banks<sup id="17a2"><a href="/law-and-regs/design-standards/1991-design-standards#17a2-note">2</a></sup> | 1 per bank. Accessible unit may be installed as a single unit in proximity (either visible or with signage) to the bank. At least one public telephone per floor shall meet the requirements for a forward reach telephone<sup id="17a3"><a href="/law-and-regs/design-standards/1991-design-standards#17a3-note">3</a></sup>. |
+    | 2 or more banks<sup><a href="/law-and-regs/design-standards/1991-design-standards#17a2-note">2</a></sup> | 1 per bank. Accessible unit may be installed as a single unit in proximity (either visible or with signage) to the bank. At least one public telephone per floor shall meet the requirements for a forward reach telephone<sup id="17a3"><a href="/law-and-regs/design-standards/1991-design-standards#17a3-note">3</a></sup>. |
 
     <sup id="17a1-note"><a href="/law-and-regs/design-standards/1991-design-standards#17a1">1</a></sup> Additional public telephones may be installed at any height. Unless otherwise specified, accessible telephones may be either forward or side reach telephones.
     <sup id="17a2-note"><a href="/law-and-regs/design-standards/1991-design-standards#17a2">2</a></sup> A bank consists of two or more adjacent public telephones, often installed as a unit.
@@ -347,13 +347,13 @@ Each addition to an existing building or facility shall be regarded as an altera
        - (c) Elevators:
          - (i) If safety door edges are provided in existing automatic elevators, automatic door reopening devices may be omitted (see 4.10.6).
          - (ii) Where existing shaft configuration or technical infeasibility prohibits strict compliance with 4.10.9, the minimum car plan dimensions may be reduced by the minimum amount necessary, but in no case shall the inside car area be smaller than 48 in by 48 in.
-         - (iii) Equivalent facilitation may be provided with an elevator car of different dimensions when usability can be demonstrated and when all other elements required to be accessible comply with the applicable provisions of 4.10. For example, an elevator of 47 in by 69 in (1195 mm by 1755 mm) with a door opening on the narrow dimension, could accommodate the standard wheelchair clearances shown in Figure 4.
+         - (iii) Equivalent facilitation may be provided with an elevator car of different dimensions when usability can be demonstrated and when all other elements required to be accessible comply with the applicable provisions of 4.10. For example, an elevator of 47 in by 69 in (1195 mm by 1755 mm) with a door opening on the narrow dimension, could accommodate the standard wheelchair clearances shown in [Figure 4](#figure4).
        - (d) Doors:
          - (i) Where it is technically infeasible to comply with clear opening width requirements of 4.13.5, a projection of 5/8 in maximum will be permitted for the latch side stop.
          - (ii) If existing thresholds are 3/4 in high or less, and have (or are modified to have) a beveled edge on each side, they may remain.
        - (e) Toilet Rooms:
          - (i) Where it is technically infeasible to comply with 4.22 or 4.23, the installation of at least one unisex toilet/bathroom per floor, located in the same area as existing toilet facilities, will be permitted in lieu of modifying existing toilet facilities to be accessible. Each unisex toilet room shall contain one water closet complying with 4.16 and one lavatory complying with 4.19, and the door shall have a privacy latch.
-         - (ii) Where it is technically infeasible to install a required standard stall (Fig. 30(a)), or where other codes prohibit reduction of the fixture count (i.e., removal of a water closet in order to create a double-wide stall), either alternate stall (Fig.30(b)) may be provided in lieu of the standard stall.
+         - (ii) Where it is technically infeasible to install a required standard stall ([Fig. 30(a)](#figure30a)), or where other codes prohibit reduction of the fixture count (i.e., removal of a water closet in order to create a double-wide stall), either alternate stall ([Fig.30(b)](#figure30b)) may be provided in lieu of the standard stall.
          - (iii) When existing toilet or bathing facilities are being altered and are not made accessible, signage complying with 4.30.1, 4.30.2, 4.30.3, 4.30.5, and 4.30.7 shall be provided indicating the location of the nearest accessible toilet or bathing facility within the facility.
        - (f) Assembly Areas:
          - (i) Where it is technically infeasible to disperse accessible seating throughout an altered assembly area, accessible seating areas may be clustered. Each accessible seating area shall have provisions for companion seating and shall be located on an accessible route that also serves as a means of emergency egress.
@@ -422,9 +422,11 @@ The space required for a wheelchair to make a 180-degree turn is a clear space o
 {% figure Figure 3 %}
 {% asset design-standards/fig_3_wheelchair_turning_space.gif alt="figure 3" %}
 {% figcaption %}
-Wheelchair Turning Space.<br/>
-Figure 3(a) 60-inch (1525-mm) Diameter Turning Space.<br/>
-Figure 3(b) T-Shaped Space for 180 degree Turns. The T-shaped space must be a minimum of 36 inches (915 mm) in width. The space forming the top of the "T" must extend at least 12 inches (305 mm) beyond the intersection in each direction and the space forming the base of the "T" must extend at least 24 inches (610 mm) beyond the intersection. The "T" fits within a 60 inches (1525 mm) square.
+<strong>Wheelchair Turning Space.</strong>
+
+<strong>Figure 3(a) 60-inch (1525-mm) Diameter Turning Space.</strong>
+
+<strong>Figure 3(b) T-Shaped Space for 180 degree Turns.</strong> The T-shaped space must be a minimum of 36 inches (915 mm) in width. The space forming the top of the "T" must extend at least 12 inches (305 mm) beyond the intersection in each direction and the space forming the base of the "T" must extend at least 24 inches (610 mm) beyond the intersection. The "T" fits within a 60 inches (1525 mm) square.
 {% endfigcaption %}
 {% endfigure %}
 
@@ -432,7 +434,9 @@ Figure 3(b) T-Shaped Space for 180 degree Turns. The T-shaped space must be a mi
 
 ##### 4.2.4.1 Size and Approach
 
-The minimum clear floor or ground space required to accommodate a single, stationary wheelchair and occupant is 30 in by 48 in (760 mm by 1220 mm) (see [Fig. 4](#figure4)),
+The minimum clear floor or ground space required to accommodate a single, stationary wheelchair and occupant is 30 in by 48 in (760 mm by 1220 mm) (see [Fig. 4](#figure4)), see [Fig. 4(a)](#figure4a)). The minimum clear floor or ground space for wheelchairs may be positioned for forward or parallel approach to an object (see [Fig. 4(b)](#figure4b) and [Fig.4(c)](#figure4c)).
+
+Clear floor or ground space for wheelchairs may be part of the knee space required under some objects.
 
 {% figure Figure 4 %}
 {% asset design-standards/fig_4_min_clear_floor_space_wheelchairs.gif alt="figure 4" %}
@@ -440,27 +444,21 @@ The minimum clear floor or ground space required to accommodate a single, statio
 Minimum Clear Floor Space for Wheelchairs.
 {% endfigcaption %}
 {% endfigure %}
-
-see [Fig. 4(a)](#figure4a)).
-
+ ---
 {% figure Figure 4a %}
 {% asset design-standards/fig_4a_clear_floor_space.gif alt="figure 4a" %}
 {% figcaption %}
 Clear Floor Space. 30 inches (760 mm) by 48 inches (1220 mm).
 {% endfigcaption %}
 {% endfigure %}
-
-The minimum clear floor or ground space for wheelchairs may be positioned for forward or parallel approach to an object (see [Fig. 4(b)](#figure4b)
-
+ ---
 {% figure Figure 4b %}
 {% asset design-standards/fig_4b_forward_approach.gif alt="figure 4b" %}
 {% figcaption %}
 Forward Approach. With a wheelchair facing a wall, element or surface -- 30 inches (760 mm) wide by 48 inches (1220 mm) deep.
 {% endfigcaption %}
 {% endfigure %}
-
-and [Fig.4(c)](#figure4c)).
-
+ ---
 {% figure Figure 4c %}
 {% asset design-standards/fig_4c_parallel_approach.gif alt="figure 4c" %}
 {% figcaption %}
@@ -468,11 +466,9 @@ Parallel Approach. With a wheelchair postioned beside a wall, element or surface
 {% endfigcaption %}
 {% endfigure %}
 
-Clear floor or ground space for wheelchairs may be part of the knee space required under some objects.
-
 ##### 4.2.4.2 Relationship of Maneuvering Clearance to Wheelchair Spaces
 
-One full unobstructed side of the clear floor or ground space for a wheelchair shall adjoin or  overlap an accessible route or adjoin another wheelchair clear floor space. If a clear floor space is located in an alcove or otherwise confined on all or part of three sides, additional maneuvering clearances shall be provided as shown in [Fig. 4(d)](#figure4d)
+One full unobstructed side of the clear floor or ground space for a wheelchair shall adjoin or  overlap an accessible route or adjoin another wheelchair clear floor space. If a clear floor space is located in an alcove or otherwise confined on all or part of three sides, additional maneuvering clearances shall be provided as shown in [Fig. 4(d)](#figure4d) and [Fig. 4(e)](#figure4e).
 
 {% figure Figure 4d %}
 {% asset design-standards/fig_4d_clear_floor_space_alcoves.gif alt="figure 4d" %}
@@ -480,9 +476,7 @@ One full unobstructed side of the clear floor or ground space for a wheelchair s
 Clear Floor Space in Alcoves. For a forward approach, where the depth of the alcove is equal to or less than 24 inches (610 mm), the required clear floor space is 30 inches (760 mm) wide by 48 inches (1220 mm) deep. For a parallel (side) approach, where the depth of the alcove is equal to or less than 15 inches (380 mm), the width is 30 inches (760 mm) and the length is 48 inches (1220 mm).
 {% endfigcaption %}
 {% endfigure %}
-
-and [Fig. 4(e)](#figure4e).
-
+ ---
 {% figure Figure 4e %}
 {% asset design-standards/fig_4e_additional_maneuvering_clearances.gif alt="figure 4e" %}
 {% figcaption %}
@@ -523,7 +517,7 @@ If the clear floor space only allows forward approach to an object, the maximum 
 
 ##### 4.2.6* Side Reach
 
-If the clear floor space allows parallel approach by a person in a wheelchair, the maximum high side reach allowed shall be 54 in (1370 mm) and the low side reach shall be no less than 9 in (230 mm) above the floor ([Fig 6](#figure6), [Fig. 6(a)](#figure6a) and [Fig (b)](#figure6b)). If the side reach is over an obstruction, the reach and clearances shall be as shown in [Fig 6(c)](#figure6c)</a>.
+If the clear floor space allows parallel approach by a person in a wheelchair, the maximum high side reach allowed shall be 54 in (1370 mm) and the low side reach shall be no less than 9 in (230 mm) above the floor ([Fig. 6](#figure6), [Fig. 6(a)](#figure6a) and [Fig. (b)](#figure6b)). If the side reach is over an obstruction, the reach and clearances shall be as shown in [Fig. 6(c)](#figure6c).
 
 {% figure Figure 6 %}
 {% asset design-standards/fig_6_side_reach.gif alt="figure 6" %}
@@ -568,7 +562,7 @@ All walks, halls, corridors, aisles, skywalks, tunnels, and other spaces that ar
 
 #### 4.3.3 Width
 
-The minimum clear width of an accessible route shall be 36 in (915 mm) except at doors (see 4.13.5 and 4.13.6). If a person in a wheelchair must make a turn around an obstruction, the minimum clear width of the accessible route shall be as shown in [Fig. 7](#figure7), [Fig. 7(a)](#figure7a) and [Fig 7(b)](#figure7b).
+The minimum clear width of an accessible route shall be 36 in (915 mm) except at doors (see 4.13.5 and 4.13.6). If a person in a wheelchair must make a turn around an obstruction, the minimum clear width of the accessible route shall be as shown in [Fig. 7](#figure7), [Fig. 7(a)](#figure7a) and [Fig. 7(b)](#figure7b).
 
 {% figure Figure 7 %}
 {% asset design-standards/fig_7_accessible_route.gif alt="figure 7" %}
@@ -1076,7 +1070,7 @@ A visible and audible signal shall be provided at each hoistway entrance to indi
 
 1. Hall lantern fixtures shall be mounted so that their centerline is at least 72 in (1830 mm) above the lobby floor. (See [Fig. 20](#figure20).)
 2. Visual elements shall be at least 2-1/2 in (64 mm) in the smallest dimension.
-3. Signals shall be visible from the vicinity of the hall call button (see Fig. 20). In-car lanterns located in cars, visible from the vicinity of hall call buttons, and conforming to the above requirements, shall be acceptable.
+3. Signals shall be visible from the vicinity of the hall call button (see [Fig. 20](#figure20)). In-car lanterns located in cars, visible from the vicinity of hall call buttons, and conforming to the above requirements, shall be acceptable.
 
 #### 4.10.5 Raised and Braille Characters on Hoistway Entrances
 
@@ -1585,21 +1579,14 @@ Except as specified in 9.1.2, shower stall size and clear floor space shall comp
 {% figure Figure 35a %}
 {% asset design-standards/fig_35a.gif alt="figure 35a" %}
 {% figcaption %}
-<strong>Grab Bars at Bathtubs.</strong> Controls are required to be located in an area between the open edge and the midpoint of the tub ("offset") and to be located at the foot of the tub.
+<strong>36 in by 36 inches (915 mm by 915 mm) Stall (Transfer Shower with seat).</strong> The clear floor space alongside the opening to the shower shall be a minimum of 48 inches (1220 mm) in length by a minimum of 36 inches (915 mm) in width and allow for a parallel approach. The clear floor space shall extend 12 inches (305 mm) beyond the shower wall on which the seat is mounted.
 {% endfigcaption %}
 {% endfigure %}
  ---
 {% figure Figure 35b %}
 {% asset design-standards/fig_35b.gif alt="figure 35b" %}
 {% figcaption %}
-<strong>Grab Bars at Bathtubs.</strong> Controls are required to be located in an area between the open edge and the midpoint of the tub ("offset") and to be located at the foot of the tub.
-{% endfigcaption %}
-{% endfigure %}
- ---
-{% figure Figure 57a %}
-{% asset design-standards/fig_57a.gif alt="figure 57a" %}
-{% figcaption %}
-<strong>Grab Bars at Bathtubs.</strong> Controls are required to be located in an area between the open edge and the midpoint of the tub ("offset") and to be located at the foot of the tub.
+<strong>30 in by 60 inches (760 mm by 1525 mm) Stall (Roll-in Shower).</strong> The clear floor space alongside the opening to the shower shall be a minimum of 60 inches (1220 mm) in length by a minimum of 36 inches (915 mm) in width. If the controls are located on the back (long) wall, they must be a maximum of 27 inches (685 mm) from a side wall. An accessible lavatory may be located in the clear floor space at the end of the shower. Grab bars are shown on all three walls of the shower.
 {% endfigcaption %}
 {% endfigure %}
 
@@ -1760,7 +1747,7 @@ A clear floor space at least 30 in by 48 in (760 mm by 1220 mm) complying with 4
 
 #### 4.25.3 Height
 
-Accessible storage spaces shall be within at least one of the reach ranges specified in 4.2.5 and 4.2.6 (see [Fig. 5](#figure5) and [Fig 6](#figure6)). Clothes rods or shelves shall be a maximum of 54 in (1370 mm) above the finish floor for a side approach. Where the distance from the wheelchair to the clothes rod or shelf exceeds 10 in (255 mm) (as in closets without accessible doors) the height and depth to the rod or shelf shall comply with [Fig. 38(a)](#figure38a) and [Fig. 38(b)](#figure38b).
+Accessible storage spaces shall be within at least one of the reach ranges specified in 4.2.5 and 4.2.6 (see [Fig. 5](#figure5) and [Fig. 6](#figure6)). Clothes rods or shelves shall be a maximum of 54 in (1370 mm) above the finish floor for a side approach. Where the distance from the wheelchair to the clothes rod or shelf exceeds 10 in (255 mm) (as in closets without accessible doors) the height and depth to the rod or shelf shall comply with [Fig. 38(a)](#figure38a) and [Fig. 38(b)](#figure38b).
 
 {% figure Figure 38a %}
 {% asset design-standards/fig_38a.gif alt="figure 38a" %}
@@ -1949,7 +1936,7 @@ Where permanent identification is provided for rooms and spaces, signs shall be 
 1. Facilities and elements required to be identified as accessible by 4.1 shall use the international symbol of accessibility. The symbol shall be displayed as shown in [Fig. 43(a)](#figure43a) and [(b)](#figure43b).
 2. Volume Control Telephones. Telephones required to have a volume control by 4.1.3(17)(b) shall be identified by a sign containing a depiction of a telephone handset with radiating sound waves.
 3. Text Telephones. Text telephones required by 4.1.3(17)(c) shall be identified by the international TDD symbol ([Fig 43(c)](#figure43c)). In addition, if a facility has a public text telephone, directional signage indicating the location of the nearest text telephone shall be placed adjacent to all banks of telephones which do not contain a text telephone. Such directional signage shall include the international TDD symbol. If a facility has no banks of telephones, the directional signage shall be provided at the entrance (e.g., in a building directory).
-4. Assistive Listening Systems. In assembly areas where permanently installed assistive listening systems are required by 4.1.3(19)(b) the availability of such systems shall be identified with signage that includes the international symbol of access for hearing loss ([Fig 43(d)](#figure43d)).
+4. Assistive Listening Systems. In assembly areas where permanently installed assistive listening systems are required by 4.1.3(19)(b) the availability of such systems shall be identified with signage that includes the international symbol of access for hearing loss ([Fig. 43(d)](#figure43d)).
 
 {% figure Figure 43a %}
 {% asset design-standards/fig_43a.gif alt="figure 43a" %}
@@ -1998,9 +1985,9 @@ A clear floor or ground space at least 30 in by 48 in (760 mm by 1220 mm) that a
 {% figcaption %}
 <strong>Mounting Heights and Clearances for Telephones.</strong>
 
-**Figure 44(a) Side Reach Possible.** If a parallel approach is provided at a telephone in an enclosure, the wing walls and shelf may extend beyond the face of the telephone a maximum of 10 inches (255 mm). The wing walls and shelf may not overlap the required clear space. Space between wing wall and shelf width are shown as "Any width." The controls shall be located no higher than 54 inches (1370 mm) above the floor and the wing walls shall extend downward to 27 inches (685 mm) or less above the floor. A clear floor space at least 48 inches (1220 mm) long by 30 inches (760 mm) wide is required with the long side parallel to the telephone. Telephone and enclosure are shown as wall-mounted or with optional post and base.
+<strong>Figure 44(a) Side Reach Possible.</strong> If a parallel approach is provided at a telephone in an enclosure, the wing walls and shelf may extend beyond the face of the telephone a maximum of 10 inches (255 mm). The wing walls and shelf may not overlap the required clear space. Space between wing wall and shelf width are shown as "Any width." The controls shall be located no higher than 54 inches (1370 mm) above the floor and the wing walls shall extend downward to 27 inches (685 mm) or less above the floor. A clear floor space at least 48 inches (1220 mm) long by 30 inches (760 mm) wide is required with the long side parallel to the telephone. Telephone and enclosure are shown as wall-mounted or with optional post and base.
 
-**Figure 44(b) Forward Reach Required.** If a forward approach is provided at a telephone with an enclosure, the shelf may extend beyond the face of the telephone a maximum of 20 inches (510 mm) into the required clear floor space. Wing walls may extend beyond the face of the telephone a maximum of 24 inches (610 mm). If wing walls extend more than 24 inches (610 mm) beyond the face of the telephone, an additional 6 inches (150 mm) in width of clear floor space shall be provided, creating a clear floor space of 36 in by 48 inches (910 mm by 1220 mm). Wing walls shall extend downward to 27 inches (685 mm) or less above the floor. The highest operable part shall be located no higher than 48 inches (1220 mm) above the floor. Telephone and enclosure are shown as wall-mounted or with optional post and base.
+<strong>Figure 44(b) Forward Reach Required.</strong> If a forward approach is provided at a telephone with an enclosure, the shelf may extend beyond the face of the telephone a maximum of 20 inches (510 mm) into the required clear floor space. Wing walls may extend beyond the face of the telephone a maximum of 24 inches (610 mm). If wing walls extend more than 24 inches (610 mm) beyond the face of the telephone, an additional 6 inches (150 mm) in width of clear floor space shall be provided, creating a clear floor space of 36 in by 48 inches (910 mm by 1220 mm). Wing walls shall extend downward to 27 inches (685 mm) or less above the floor. The highest operable part shall be located no higher than 48 inches (1220 mm) above the floor. Telephone and enclosure are shown as wall-mounted or with optional post and base.
 {% endfigcaption %}
 {% endfigure %}
 
@@ -2078,9 +2065,9 @@ Each wheelchair location shall provide minimum clear ground or floor spaces as s
 {% figcaption %}
 <strong>Space Requirements for Wheelchair Seating Spaces in Series.</strong>
 
-**Figure 46(a) Forward or Rear Access.** If seating space for two wheelchair users is accessed from the front or rear, the minimum space required is 48 inches (1220 mm) deep by 66 inches (1675 mm) wide.
+<strong>Figure 46(a) Forward or Rear Access.</strong> If seating space for two wheelchair users is accessed from the front or rear, the minimum space required is 48 inches (1220 mm) deep by 66 inches (1675 mm) wide.
 
-**Figure 46(b) Side Access.** If seating space for two wheelchair users is accessed from the side, the minimum space required is 60 inches (1525 mm) deep by 66 inches (1675 mm) wide.
+<strong>Figure 46(b) Side Access.</strong> If seating space for two wheelchair users is accessed from the side, the minimum space required is 60 inches (1525 mm) deep by 66 inches (1675 mm) wide.
 {% endfigcaption %}
 {% endfigure %}
 
@@ -2515,7 +2502,7 @@ New stations in rapid rail, light rail, commuter rail, intercity bus, intercity 
 14. Where public address systems are provided to convey information to the public in terminals, stations, or other fixed facilities, a means of conveying the same or equivalent information to persons with hearing loss or who are deaf shall be provided.
 15. Where clocks are provided for use by the general public, the clock face shall be uncluttered so that its elements are clearly visible. Hands, numerals, and/or digits shall contrast with the background either light-on-dark or dark-on-light. Where clocks are mounted overhead, numerals and/or digits shall comply with 4.30.3. Clocks shall be placed in uniform locations throughout the facility and system to the maximum extent practicable.
 16. Where provided in below grade stations, escalators shall have a minimum clear width of 32 inches. At the top and bottom of each escalator run, at least two contiguous treads shall be level beyond the comb plate before the risers begin to form. All escalator treads shall be marked by a strip of clearly contrasting color, 2 inches in width, placed parallel to and on the nose of each step. The strip shall be of a material that is at least as slip resistant as the remainder of the tread. The edge of the tread shall be apparent from both ascending and descending directions.
-17. Where provided, elevators shall be glazed or have transparent panels to allow an unobstructed view both in to and out of the car. Elevators shall comply with 4.10.<br/>**EXCEPTION:** Elevator cars with a clear floor area in which a 60 inch diameter circle can be inscribed may be substituted for the minimum car dimensions of 4.10, Fig. 22.
+17. Where provided, elevators shall be glazed or have transparent panels to allow an unobstructed view both in to and out of the car. Elevators shall comply with 4.10.<br/>**EXCEPTION:** Elevator cars with a clear floor area in which a 60 inch diameter circle can be inscribed may be substituted for the minimum car dimensions of 4.10, [Fig. 22](#figure22).
 18. Where provided, ticketing areas shall permit persons with disabilities to obtain a ticket and check baggage and shall comply with 7.2.
 19. Where provided, baggage check-in and retrieval systems shall be on an accessible route complying with 4.3, and shall have space immediately adjacent complying with 4.2. If unattended security barriers are provided, at least one gate shall comply with 4.13. Gates which must be pushed open by wheelchair or mobility aid users shall have a smooth continuous surface extending from 2 inches above the floor to 27 inches above the floor.
 
@@ -2554,7 +2541,6 @@ New stations in rapid rail, light rail, commuter rail, intercity bus, intercity 
 (Reserved).
 
 ## Appendix
-
 This appendix contains materials of an advisory nature and provides additional information that should help the reader to understand the minimum requirements of the guidelines or to design buildings or facilities for greater accessibility. The paragraph numbers correspond to the sections or paragraphs of the guideline to which the material relates and are therefore not consecutive (for example, A4.2.1 contains additional information relevant to 4.2.1). Sections of the guidelines for which additional material appears in this appendix have been indicated by an asterisk. Nothing in this appendix shall in any way obviate any obligation to comply with the requirements of the guidelines itself.
 
 ### A2.2 Equivalent Facilitation
@@ -2675,7 +2661,16 @@ It is essential that emergency communication not be dependent on voice communica
 
 Service animals are trained to recognize and avoid hazards. However, most people with severe impairments of vision use the long cane as an aid to mobility. The two principal cane techniques are the touch technique, where the cane arcs from side to side and touches points outside both shoulders; and the diagonal technique, where the cane is held in a stationary position diagonally across the body with the cane tip touching or just above the ground at a point outside one shoulder and the handle or grip extending to a point outside the other shoulder. The touch technique is used primarily in uncontrolled areas, while the diagonal technique is used primarily in certain limited, controlled, and familiar environments. Cane users are often trained to use both techniques.
 
-Potential hazardous objects are noticed only if they fall within the detection range of canes (see <a href="91standards_figures/figA4.htm" title="Fig. A4">Fig. A4</a>). Visually impaired people walking toward an object can detect an overhang if its lowest surface is not higher than 27 in (685 mm). When walking alongside protruding objects, they cannot detect overhangs. Since proper cane and service animal techniques keep people away from the edge of a path or from walls, a slight overhang of no more than 4 in (100 mm) is not hazardous.
+Potential hazardous objects are noticed only if they fall within the detection range of canes (see [Fig. A4](#figurea4)). Visually impaired people walking toward an object can detect an overhang if its lowest surface is not higher than 27 in (685 mm). When walking alongside protruding objects, they cannot detect overhangs. Since proper cane and service animal techniques keep people away from the edge of a path or from walls, a slight overhang of no more than 4 in (100 mm) is not hazardous.
+
+{% figure Figure A4 %}
+{% asset design-standards/fig_a4.gif alt="figure a4" %}
+{% figcaption %}
+<strong>Cane Technique.</strong> One figure shows the front view of a man walking with a white cane. The detectable area is shown as a cone-shaped marked by a dashed line that is horizontal at 27 inches (685 mm) high and with each end extending at an angle down to the floor. The cone shaped space is wider at the floor than at 27 inches (685 mm) high. No width is specified at the 27 inch (685 mm) height but it appears to be slightly wider than the width of the person using the cane. The width of the detectable area at the floor is 6 inches (150 mm) wider than at 27 inches (685 mm) on the right and 6 inches (150 mm) wider on the left of the person. This indicates the space used as the white cane is held and swept side-to-side.
+
+The second figure shows a top (plan) view of the way a person uses a white cane to sweep side-to-side as a person walks forward. The forward pace (right and left sweep of a cane) length is shown as between 36 to 60 inches (915 - 1525 mm) for each sweep cycle.
+{% endfigcaption %}
+{% endfigure %}
 
 ### A4.5 Ground and Floor Surfaces
 
@@ -2697,11 +2692,25 @@ Much more needs to be done in developing both quantitative and qualitative crite
 
 #### A4.6.3 Parking Spaces
 
-The increasing use of vans with side-mounted lifts or ramps by persons with disabilities has necessitated some revisions in specifications for parking spaces and adjacent access aisles. The typical accessible parking space is 96 in (2440 mm) wide with an adjacent 60 in (1525 mm) access aisle. However, this aisle does not permit lifts or ramps to be deployed and still leave room for a person using a wheelchair or other mobility aid to exit the lift platform or ramp. In tests conducted with actual lift/van/wheelchair combinations, (under a Board-sponsored Accessible Parking and Loading Zones Project) researchers found that a space and aisle totaling almost 204 in (5180 mm) wide was needed to deploy a lift and exit conveniently. The &quot;van accessible&quot; parking space required by these guidelines provides a 96 in (2440 mm) wide space with a 96 in (2440 mm) adjacent access aisle which is just wide enough to maneuver and exit from a side mounted lift. If a 96 in (2440 mm) access aisle is placed between two spaces, two &quot;van accessible&quot; spaces are created. Alternatively, if the wide access aisle is provided at the end of a row (an area often unused), it may be possible to provide the wide access aisle without additional space (see <a href="91standards_figures/figA5a.htm" title="Fig. A5(a)">Fig. A5(a)</a>).
+The increasing use of vans with side-mounted lifts or ramps by persons with disabilities has necessitated some revisions in specifications for parking spaces and adjacent access aisles. The typical accessible parking space is 96 in (2440 mm) wide with an adjacent 60 in (1525 mm) access aisle. However, this aisle does not permit lifts or ramps to be deployed and still leave room for a person using a wheelchair or other mobility aid to exit the lift platform or ramp. In tests conducted with actual lift/van/wheelchair combinations, (under a Board-sponsored Accessible Parking and Loading Zones Project) researchers found that a space and aisle totaling almost 204 in (5180 mm) wide was needed to deploy a lift and exit conveniently. The &quot;van accessible&quot; parking space required by these guidelines provides a 96 in (2440 mm) wide space with a 96 in (2440 mm) adjacent access aisle which is just wide enough to maneuver and exit from a side mounted lift. If a 96 in (2440 mm) access aisle is placed between two spaces, two &quot;van accessible&quot; spaces are created. Alternatively, if the wide access aisle is provided at the end of a row (an area often unused), it may be possible to provide the wide access aisle without additional space (see [Fig. A5(a)](#figurea5a)).
+
+{% figure Figure A5a %}
+{% asset design-standards/fig_a5a.gif alt="figure a5a" %}
+{% figcaption %}
+<strong>Van Accessible Space at End Row.</strong> A minimum 96 inch (2440 mm) wide vehicle space is shown with a minimum 96 inch (2440 mm) wide marked access aisle beside the vehicle space.
+{% endfigcaption %}
+{% endfigure %}
 
 A sign is needed to alert van users to the presence of the wider aisle, but the space is not intended to be restricted only to vans.
 
-&quot;Universal&quot; Parking Space Design. An alternative to the provision of a percentage of spaces with a wide aisle, and the associated need to include additional signage, is the use of what has been called the &quot;universal&quot; parking space design. Under this design, all accessible spaces are 132 in (3350 mm) wide with a 60 in (1525 mm) access aisle (see <a href="91standards_figures/figA5b.htm" title="Fig. A5(a)">Fig. A5(b)</a>). One advantage to this design is that no additional signage is needed because all spaces can accommodate a van with a side-mounted lift or ramp. Also, there is no competition between cars and vans for spaces since all spaces can accommodate either. Furthermore, the wider space permits vehicles to park to one side or the other within the 132 in (3350 mm) space to allow persons to exit and enter the vehicle on either the driver or passenger side, although, in some cases, this would require exiting or entering without a marked access aisle.
+&quot;Universal&quot; Parking Space Design. An alternative to the provision of a percentage of spaces with a wide aisle, and the associated need to include additional signage, is the use of what has been called the &quot;universal&quot; parking space design. Under this design, all accessible spaces are 132 in (3350 mm) wide with a 60 in (1525 mm) access aisle (see [Fig. A5(b)](#figurea5b)). One advantage to this design is that no additional signage is needed because all spaces can accommodate a van with a side-mounted lift or ramp. Also, there is no competition between cars and vans for spaces since all spaces can accommodate either. Furthermore, the wider space permits vehicles to park to one side or the other within the 132 in (3350 mm) space to allow persons to exit and enter the vehicle on either the driver or passenger side, although, in some cases, this would require exiting or entering without a marked access aisle.
+
+{% figure Figure A5b %}
+{% asset design-standards/fig_a5b.gif alt="figure a5b" %}
+{% figcaption %}
+<strong>Universal Parking Space Design.</strong> A minimum 132 inch (3350 mm) wide vehicle space is shown with a minimum 60 inch (1525 mm) marked access aisle. Two minimum 132 inch wide (2440 mm) vehicle spaces sharing a 60 inch (1525 mm) minimum width access aisle take up a minimum of 324 inches (8225 mm).
+{% endfigcaption %}
+{% endfigure %}
 
 An essential consideration for any design is having the access aisle level with the parking space. Since a person with a disability, using a lift or ramp, must maneuver within the access aisle, the aisle cannot include a ramp or sloped area. The access aisle must be connected to an accessible route to the appropriate accessible entrance of a building or facility. The parking access aisle must either blend with the accessible route or have a curb ramp complying with 4.7. Such a curb ramp opening must be located within the access aisle boundaries, not within the parking space boundaries. Unfortunately, many facilities are designed with a ramp that is blocked when any vehicle parks in the accessible space. Also, the required dimensions of the access aisle cannot be restricted by planters, curbs or wheel stops.
 
@@ -2817,7 +2826,18 @@ eight preferences for toilet seats vary considerably among disabled people. High
 
 #### A4.16.4 Grab Bars
 
-<a href="91standards_figures/figA6.htm" title="Fig. A6(a) and (b)">Fig. A6(a) and (b)</a> show the diagonal and side approaches most commonly used to transfer from a wheelchair to a water closet. Some wheelchair users can transfer from the front of the toilet while others use a 90-degree approach. Most people who use the two additional approaches can also use either the diagonal approach or the side approach.
+[Fig. A6(a) and (b)](#figurea6) show the diagonal and side approaches most commonly used to transfer from a wheelchair to a water closet. Some wheelchair users can transfer from the front of the toilet while others use a 90-degree approach. Most people who use the two additional approaches can also use either the diagonal approach or the side approach.
+
+{% figure Figure A6 %}
+{% asset design-standards/fig_a6.gif alt="figure a6" %}
+{% figcaption %}
+<strong>Wheelchair Transfers.</strong>
+
+<strong>Diagonal Approach.</strong> Shows a person using a wheelchair approaching a water closet or toilet (toilet) from the front and turning to the left to position the wheelchair at a diagonal to the water closet or toilet. The centerline toilet is shown as 18 inches (455 mm) from the closest side wall. The edge of the clear floor space on the opposite side of the toilet is shown as 18 - 30 inches (455 - 760 mm) from the edge of the clear floor space to the centerline of the toilet. Four illustrations show the transfer from the wheelchair to the seat of the toilet. In (1), the user takes a transfer position, swings footrest out of the way, and sets brakes. In (2), the user removes the armrest closest to the toilet, and transfers by pivoting counterclockwise and moving from the wheelchair seat towards the toilet seat. In (3), the user moves the wheelchair out of the way and changes position (some people fold chair or pivot it 90 degrees to the toilet). In (4), the user positions on toilet, and releases brake.
+
+<strong>Side Approach.</strong> Shows a person using a wheelchair positioned to one side of a toilet. The back of the wheelchair is facing the wall that is behind the toilet. In the figure, the toilet is to the left of the wheelchair user. The centerline toilet is shown as 18 inches (455 mm) from the closest side wall. The edge of the clear floor space on the opposite side of the toilet is shown as 42 inches (1065 mm) from the edge of the clear floor space to the centerline of the toilet. Three illustrations show the transfer from the wheelchair to the toilet. In (1), the user takes the transfer position adjacent to the toilet, removes the armrest closest to the toilet and sets brakes. In (2), the user transfers from the wheelchair to the seat of the toilet by sliding sideways from the wheelchair seat onto the toilet seat. In (3), the user positions on the toilet seat. The wheelchair remains positioned beside the toilet.
+{% endfigcaption %}
+{% endfigure %}
 
 #### A4.16.5 Flush Controls
 
@@ -2827,7 +2847,7 @@ Flush valves and related plumbing can be located behind walls or to the side of 
 
 #### A4.17.3 Size and Arrangement
 
-This section requires use of the 60 in (1525 mm) standard stall (<a href="91standards_figures/fig30a.htm" title="Figure 30(a)">Figure 30(a)</a>) and permits the 36 in (915 mm) or 48 in (1220 mm) wide alternate stall (<a href="91standards_figures/fig30b.htm" title="Figure 30(b)">Figure 30(b)</a>) only in alterations where provision of the standard stall is technically infeasible or where local plumbing codes prohibit reduction in the number of fixtures. A standard stall provides a clear space on one side of the water closet to enable persons who use wheelchairs to perform a side or diagonal transfer from the wheelchair to the water closet. However, some persons with disabilities who use mobility aids such as walkers, canes or crutches are better able to use the two parallel grab bars in the 36 in (915 mm) wide alternate stall to achieve a standing position.
+This section requires use of the 60 in (1525 mm) standard stall ([Figure 30(a)](#figure30a)) and permits the 36 in (915 mm) or 48 in (1220 mm) wide alternate stall ([Figure 30(b)](#figure30b)) only in alterations where provision of the standard stall is technically infeasible or where local plumbing codes prohibit reduction in the number of fixtures. A standard stall provides a clear space on one side of the water closet to enable persons who use wheelchairs to perform a side or diagonal transfer from the wheelchair to the water closet. However, some persons with disabilities who use mobility aids such as walkers, canes or crutches are better able to use the two parallel grab bars in the 36 in (915 mm) wide alternate stall to achieve a standing position.
 
 In large toilet rooms, where six or more toilet stalls are provided, it is therefore required that a 36 in (915 mm) wide stall with parallel grab bars be provided  <em>in addition </em> to the standard stall required in new construction. The 36 in (915 mm) width is necessary to achieve proper use of the grab bars; wider stalls would position the grab bars too far apart to be easily used and narrower stalls would position the grab bars too close to the water closet. Since the stall is primarily intended for use by persons using canes, crutches and walkers, rather than wheelchairs, the length of the stall could be conventional. The door, however, must swing outward to ensure a usable space for people who use crutches or walkers.
 
@@ -2853,7 +2873,7 @@ Shower stalls that are 36 in by 36 in (915 mm by 915 mm) wide provide additional
 
 In many small facilities, single-user restrooms may be the only facilities provided for all building users. In addition, the guidelines allow the use of &quot;unisex&quot; or &quot;family&quot; accessible toilet rooms in alterations when technical infeasibility can be demonstrated. Experience has shown that the provision of accessible &quot;unisex&quot; or single-user restrooms is a reasonable way to provide access for wheelchair users and any attendants, especially when attendants are of the opposite sex. Since these facilities have proven so useful, it is often considered advantageous to install a &quot;unisex&quot; toilet room in new facilities in addition to making the multi-stall restrooms accessible, especially in shopping malls, large auditoriums, and convention centers.
 
-<a href="91standards_figures/fig28.htm" title="Figure 28">Figure 28</a> (section 4.16) provides minimum clear floor space dimensions for toilets in accessible &quot;unisex&quot; toilet rooms. The dotted lines designate the minimum clear floor space, depending on the direction of approach, required for wheelchair users to transfer onto the water closet. The dimensions of 48 in (1220 mm) and 60 in (1525 mm), respectively, correspond to the space required for the two common transfer approaches utilized by wheelchair users (see <a href="91standards_figures/figA6.htm" title="Fig. A6">Fig. A6</a>). It is important to keep in mind that the placement of the lavatory to the immediate side of the water closet will preclude the side approach transfer illustrated in <a href="91standards_figures/figA6.htm" title="Figure A6(b)">Figure A6(b)</a>. To accommodate the side transfer, the space adjacent to the water closet must remain clear of obstruction for 42 in (1065 mm) from the centerline of the toilet (<a href="91standards_figures/fig28.htm" title="Figure 28">Figure 28</a>) and the lavatory must not be located within this clear space. A turning circle or T-turn, the clear floor space at the lavatory, and maneuvering space at the door must be considered when determining the possible wall locations. A privacy latch or other accessible means of ensuring privacy during use should be provided at the door.
+[Figure 28](#figure28) (section 4.16) provides minimum clear floor space dimensions for toilets in accessible &quot;unisex&quot; toilet rooms. The dotted lines designate the minimum clear floor space, depending on the direction of approach, required for wheelchair users to transfer onto the water closet. The dimensions of 48 in (1220 mm) and 60 in (1525 mm), respectively, correspond to the space required for the two common transfer approaches utilized by wheelchair users (see [Fig. A6](#figurea6a)). It is important to keep in mind that the placement of the lavatory to the immediate side of the water closet will preclude the side approach transfer illustrated in [Figure A6(b)](#figurea6b). To accommodate the side transfer, the space adjacent to the water closet must remain clear of obstruction for 42 in (1065 mm) from the centerline of the toilet ([Figure 28](#figure28) ) and the lavatory must not be located within this clear space. A turning circle or T-turn, the clear floor space at the lavatory, and maneuvering space at the door must be considered when determining the possible wall locations. A privacy latch or other accessible means of ensuring privacy during use should be provided at the door.
 
 Recommendations:
 
@@ -2864,7 +2884,18 @@ Recommendations:
 
 #### A4.23.3 Clear Floor Space
 
-<a href="91standards_figures/figA7.htm" title="Figure A7">Figure A7</a> shows two possible configurations of a toilet room with a roll-in shower. The specific shower shown is designed to fit exactly within the dimensions of a standard bathtub. Since the shower does not have a lip, the floor space can be used for required maneuvering space. This would permit a toilet room to be smaller than would be permitted with a bathtub and still provide enough floor space to be considered accessible. This design can provide accessibility in facilities where space is at a premium (i.e., hotels and medical care facilities). The alternate roll-in shower (<a href="91standards_figures/fig57b.htm" title="Fig. 57b">Fig. 57b</a>) also provides sufficient room for the &quot;T-turn&quot; and does not require plumbing to be on more than one wall.
+[Figure A7](#figurea7) shows two possible configurations of a toilet room with a roll-in shower. The specific shower shown is designed to fit exactly within the dimensions of a standard bathtub. Since the shower does not have a lip, the floor space can be used for required maneuvering space. This would permit a toilet room to be smaller than would be permitted with a bathtub and still provide enough floor space to be considered accessible. This design can provide accessibility in facilities where space is at a premium (i.e., hotels and medical care facilities). The alternate roll-in shower ([Fig. 57b](#figure57b)) also provides sufficient room for the &quot;T-turn&quot; and does not require plumbing to be on more than one wall.
+
+{% figure Figure A7 %}
+{% asset design-standards/fig_a7.gif alt="figure a7" %}
+{% figcaption %}
+Figure A7. shows two possible configurations of a small toilet room with a roll-in shower.
+
+<strong>Figure A7(a).</strong> Shows a room that is 90 inches long and 60 inches wide. A 32 inch wide doorway is located near the middle of the 90 inch long wall, one side of the doorway is adjacent to the opening of the shower, 30 inches from the back wall of the shower. A roll-in shower is located to the right of the doorway along one of the 60 inch wide walls. The shower is 30 inches deep and has an 18 inch deep seat located at the end of the shower adjacent to the doorway. On the wall opposite the doorway, a water closet is located in the corner (to the left) and a lavatory is located directly across from the doorway. A side and rear grab bar is shown at the water closet. The centerline of the water closet is 18 inches from the side wall. The centerline of the lavatory is 30 inches from the centerline of the water closet.
+
+<strong>Figure A7(b).</strong> Shows a room that is 93 inches long and 60 inches wide. A 32 inch wide doorway is located near the middle of one of the long walls. A roll-in shower with the same dimensions and shower seat as in A7(a). above is located to the left of the doorway. A lavatory and water closet are located on the 60 inch wide wall to the right of the doorway. Two grab bars are installed at the water closet on the side wall and back wall. The side grab bar extends along the long wall opposite the doorway into the roll-in shower. The centerline of the water closet is 18 inches from the side wall. The centerline of the lavatory is 27 inches from the centerline of the water closet.
+{% endfigcaption %}
+{% endfigure %}
 
 #### A4.23.9 Medicine Cabinets
 
@@ -3022,9 +3053,9 @@ Table A1 shows convenient counter heights for seated persons. The great variety 
 | ---------- | ---------- |
 | Seated in a wheelchair: <br/> Manual work- | | |
 | Desk or removable armrests | 26 660 | 30 760 |
-| Fixed, full-size armrests<sup id="a4-32-4-2"><a href="/law-and-regs/design-standards/1991-design-standards#a4-32-4-2-note">2</a></sup> | 32<sup id="a4-32-4-3"><a href="/law-and-regs/design-standards/1991-design-standards#a4-32-4-3-note">3</a></sup> 815 | 32<sup id="a4-32-4-3"><a href="/law-and-regs/design-standards/1991-design-standards#a4-32-4-3-note">3</a></sup> 815 |
+| Fixed, full-size armrests<sup id="a4-32-4-2"><a href="/law-and-regs/design-standards/1991-design-standards#a4-32-4-2-note">2</a></sup> | 32<sup id="a4-32-4-3"><a href="/law-and-regs/design-standards/1991-design-standards#a4-32-4-3-note">3</a></sup> 815 | 32<sup><a href="/law-and-regs/design-standards/1991-design-standards#a4-32-4-3-note">3</a></sup> 815 |
 | Light, detailed work: <br/> Desk or removable armrests | 29 735 | 34 865 |
-| Fixed, full-size armrests<sup id="a4-32-4-2"><a href="/law-and-regs/design-standards/1991-design-standards#a4-32-4-2-note">2</a></sup> | 32<sup id="a4-32-4-3"><a href="/law-and-regs/design-standards/1991-design-standards#a4-32-4-3-note">3</a></sup> 815 | 34 865 |
+| Fixed, full-size armrests<sup><a href="/law-and-regs/design-standards/1991-design-standards#a4-32-4-2-note">2</a></sup> | 32<sup><a href="/law-and-regs/design-standards/1991-design-standards#a4-32-4-3-note">3</a></sup> 815 | 34 865 |
 | Seated in a 16 in (405 mm) high chair: | | |
 | Manual work | 26 660 | 27 685 |
 | Light, detailed work  | 28 710 | 31 785 |
