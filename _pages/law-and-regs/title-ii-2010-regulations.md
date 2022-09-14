@@ -320,6 +320,7 @@ NOTE: These provisions update the relevant portions of the title II regulation t
 - (a) Purpose. The purpose of this part is to <strong>implement</strong> subtitle A of title II of the Americans with Disabilities Act of 1990 (42 U.S. C. 12131<strong>–12134</strong>), <strong>as amended by the ADA Amendments Act of 2008 (ADA Amendments Act) (Public Law 110–325, 122 Stat. 3553 (2008))</strong>, which prohibits discrimination on the basis of disability by public entities.
 
 - <strong>(b) Broad coverage. The primary purpose of the ADA Amendments Act is to make it easier for people with disabilities to obtain protection under the ADA.  Consistent with the ADA Amendments Act&rsquo;s purpose of reinstating a broad scope of protection under the ADA, the definition of &ldquo;disability&rdquo; in this part shall be construed broadly in favor of expansive coverage to the maximum extent permitted by the terms of the ADA.  The primary object of attention in cases brought under the ADA should be whether entities covered under the ADA have complied with their obligations and whether discrimination has occurred, not whether the individual meets the definition of disability. The question of whether an individual meets the definition of disability under this part should not demand extensive analysis. </strong>
+
 ### <a name="a35102" id="a35102"></a>&sect; 35.102 Application.
 - (a) Except as provided in paragraph (b) of this section, this part
 applies to all services, programs, and activities provided or made
@@ -390,11 +391,8 @@ Other power-driven mobility device means any mobility device powered by batterie
 
 Public entity means&#8212;
 - (1) Any State or local government;
-- (2) Any department, agency, special purpose district, or other
-instrumentality of a State or States or local government; and
-- (3) The National Railroad Passenger Corporation, and any commuter
-authority (as defined in section 103(8) of the Rail Passenger Service
-Act).
+- (2) Any department, agency, special purpose district, or other instrumentality of a State or States or local government; and
+- (3) The National Railroad Passenger Corporation, and any commuter authority (as defined in section 103(8) of the Rail Passenger Service Act).
 
 Qualified individual with a disability means an individual with a disability who, with or without reasonable modifications to rules, policies, or practices, the removal of architectural, communication, or transportation barriers, or the provision of auxiliary aids and services, meets the essential eligibility requirements for the receipt of services or the participation in programs or activities provided by a public entity.
 
@@ -512,11 +510,12 @@ that would be prohibited by this part.
   - <strong> (2) Compulsive gambling, kleptomania, or pyromania; or</strong>
   - <strong> (3) Psychoactive substance use disorders resulting from current illegal use of drugs.</strong>
 
-### &sect;&sect; <a name="a35109" id="a35109"></a>35.109&#8212;35.129 [Reserved]
+### &sect;&sect; <a name="a35109" id="a35109"></a>35.109&#8212;35.129 \[Reserved\]
 
 ## <a name="subpartb" id="subpartb"></a>Subpart B&#8212;General Requirements
 
 ### &sect; <a name="a35130" id="a35130"></a>35.130 General prohibitions against discrimination
+
 - (a) No qualified individual with a disability shall, on the basis of disability, be excluded from participation in or be denied the benefits of the services, programs, or activities of a public entity, or be subjected to discrimination by any public entity.
 - (b)
   - (1) A public entity, in providing any aid, benefit, or
@@ -552,7 +551,7 @@ activities that are not separate or different, despite the existence of permissi
 - (f) A public entity may not place a surcharge on a particular individual with a disability or any group of individuals with disabilities to cover the costs of measures, such as the provision of auxiliary aids or program accessibility, that are required to provide that individual or group with the nondiscriminatory treatment required by the Act or this part.
 - (g) A public entity shall not exclude or otherwise deny equal services, programs, or activities to an individual or entity because of the known disability of an individual with whom the individual or entity is known to have a relationship or association.
 - (h) A public entity may impose legitimate safety requirements necessary for the safe operation of its services, programs, or activities. However, the public entity must ensure that its safety requirements are based on actual risks, not on mere speculation, stereotypes, or generalizations about individuals with disabilities.
-  - <strong>(i) Nothing in this part shall  provide the basis for a claim that an individual without a disability was  subject to discrimination because of a lack of disability, including a  claim that an individual with a disability was granted a reasonable  modification that was denied to an individual without a disability.</strong>
+- <strong>(i) Nothing in this part shall  provide the basis for a claim that an individual without a disability was  subject to discrimination because of a lack of disability, including a  claim that an individual with a disability was granted a reasonable  modification that was denied to an individual without a disability.</strong>
 
 ### &sect; <a name="a35131" id="a35131"></a>35.131 Illegal use of drugs
 
@@ -774,279 +773,142 @@ Except as otherwise provided in &sect; 35.150, no qualified individual with a di
     - (i) Newly constructed or altered facilities or elements covered by &sect;&sect; 35.151(a) or (b) that were constructed or altered before March 15, 2012, and that do not comply with the 1991 Standards or with UFAS shall before March 15, 2012, be made accessible in accordance with either the 1991 Standards, UFAS, or the 2010 Standards.
     - (ii) Newly constructed or altered facilities or elements covered by &sect;&sect; 35.151(a) or (b) that were constructed or altered before March 15, 2012 and that do not comply with the 1991 Standards or with UFAS shall, on or after March 15, 2012, be made accessible in accordance with the 2010 Standards.
 
-</ul> </li> <p align="center" class="caption">Appendix to &sect; 35.151(c) </ul> <table align="center" border="0" cellpadding="0" cellspacing="0"> <tbody>
-<tr> <th class="column_head">Compliance Date for New Construction or
-Alterations</th> <th class="column_head">Applicable Standards</th>
+#### Appendix to &sect; 35.151(c)
+
+<table> <tbody>
+<tr> <th>Compliance Date for New Construction or
+Alterations</th> <th>Applicable Standards</th>
 </tr>
 <tr> <td>Before September 15, 2010 </td> <td>1991 Standards or UFAS</td>
 </tr>
 <tr> <td>On or after September 15, 2010, and before March 15, 2012</td> <td>1991 Standards, UFAS, or 2010 Standards</td>
 </tr>
 <tr> <td>On or after March 15, 2012 </td> <td>2010 Standards</td>
-</tr> </tbody> </table> <ul> <li>(d) Scope of coverage. The 1991 Standards and the 2010
-Standards apply to fixed or built-in elements of buildings, structures,
-site improvements, and pedestrian routes or vehicular ways located on a
-site. Unless specifically stated otherwise, the advisory notes, appendix
-notes, and figures contained in the 1991 Standards and the 2010
-Standards explain or illustrate the requirements of the rule; they do
-not establish enforceable requirements. </li> <li>(e) Social service center establishments. Group homes,
-halfway houses, shelters, or similar social service center
-establishments that provide either temporary sleeping accommodations or
-residential dwelling units that are subject to this section shall comply
-with the provisions of the 2010 Standards applicable to residential
-facilities, including, but not limited to, the provisions in sections
-233 and 809.
-<ul> <li>(1) In sleeping rooms with more than 25 beds covered by this
-section, a minimum of 5% of the beds shall have clear floor space
-complying with section 806.2.3 of the 2010 Standards. </li> <li>(2) Facilities with more than 50 beds covered by this section
-that provide common use bathing facilities, shall provide at least one
-roll-in shower with a seat that complies with the relevant provisions of
-section 608 of the 2010 Standards. Transfer-type showers are not
-permitted in lieu of a roll-in shower with a seat, and the exceptions in
-sections 608.3 and 608.4 for residential dwelling units are not
-permitted. When separate shower facilities are provided for men and for
-women, at least one roll-in shower shall be provided for each group. </li>
-</ul> </li> <li>(f) Housing at a place of education. Housing at a place
-of education that is subject to this section shall comply with the
-provisions of the 2010 Standards applicable to transient lodging,
-including, but not limited to, the requirements for transient lodging
-guest rooms in sections 224 and 806 subject to the following exceptions.
-For the purposes of the application of this section, the term &quot;sleeping
-room&quot; is intended to be used interchangeably with the term &quot;guest room&quot;
-as it is used in the transient lodging standards.
-<ul> <li>(1) Kitchens within housing units containing accessible
-sleeping rooms with mobility features (including suites and clustered
-sleeping rooms) or on floors containing accessible sleeping rooms with
-mobility features shall provide turning spaces that comply with section
-809.2.2 of the 2010 Standards and kitchen work surfaces that comply with
-section 804.3 of the 2010 Standards. </li> <li>(2) Multi-bedroom housing units containing accessible sleeping
-rooms with mobility features shall have an accessible route throughout
-the unit in accordance with section 809.2 of the 2010 Standards. </li> <li>(3) Apartments or townhouse facilities that are provided by or
-on behalf of a place of education, which are leased on a year-round
-basis exclusively to graduate students or faculty, and do not contain
-any public use or common use areas available for educational
-programming, are not subject to the transient lodging standards and
-shall comply with the requirements for residential facilities in
-sections 233 and 809 of the 2010 Standards. </li>
-</ul> </li> <li>(g) Assembly areas. Assembly areas subject to this
-section shall comply with the provisions of the 2010 Standards
-applicable to assembly areas, including, but not limited to, sections
-221 and 802. In addition, assembly areas shall ensure that&#8212;
-<ul> <li>(1) In stadiums, arenas, and grandstands, wheelchair spaces
-and companion seats are dispersed to all levels that include seating
-served by an accessible route; </li> <li>(2) Assembly areas that are required to horizontally disperse
-wheelchair spaces and companion seats by section 221.2.3.1 of the 2010
-Standards and have seating encircling, in whole or in part, a field of
-play or performance area shall disperse wheelchair spaces and companion
-seats around that field of play or performance area; </li> <li>(3) Wheelchair spaces and companion seats are not located on
-(or obstructed by) temporary platforms or other movable structures,
-except that when an entire seating section is placed on temporary
-platforms or other movable structures in an area where fixed seating is
-not provided, in order to increase seating for an event, wheelchair
-spaces and companion seats may be placed in that section. When
-wheelchair spaces and companion seats are not required to accommodate
-persons eligible for those spaces and seats, individual, removable seats
-may be placed in those spaces and seats; </li> <li>(4) Stadium-style movie theaters shall locate wheelchair
-spaces and companion seats on a riser or cross-aisle in the stadium
-section that satisfies at least one of the following criteria&#8212;
-<ul> <li>(i) It is located within the rear 60% of the seats provided in an auditorium; or </li> <li>(ii) It is located within the area of an auditorium in which the vertical viewing angles (as measured to the top of the screen) are from the 40th to the 100th percentile of vertical viewing angles for all seats as ranked from the seats in the first row (1st percentile) to seats in the back row (100th percentile). </li>
-</ul> </li>
-</ul> </li> <li>(h) Medical care facilities. Medical care facilities that
-are subject to this section shall comply with the provisions of the
-2010 Standards applicable to medical care facilities, including, but not
-limited to, sections 223 and 805. In addition, medical care facilities
-that do not specialize in the treatment of conditions that affect
-mobility shall disperse the accessible patient bedrooms required by
-section 223.2.1 of the 2010 Standards in a manner that is proportionate
-by type of medical specialty. </li> <li>(i) Curb ramps.
-<ul> <li>(1) Newly constructed or altered streets, roads, and highways
-must contain curb ramps or other sloped areas at any intersection having
-curbs or other barriers to entry from a street level pedestrian
-walkway. </li> <li>(2) Newly constructed or altered street level pedestrian
-walkways must contain curb ramps or other sloped areas at intersections
-to streets, roads, or highways. </li>
-</ul> </li> <li>(j) Facilities with residential dwelling units for sale to
-individual owners.
-<ul> <li>(1) Residential dwelling units designed and constructed or
-altered by public entities that will be offered for sale to individuals
-shall comply with the requirements for residential facilities in the
-2010 Standards including sections 233 and 809. </li> <li>(2) The requirements of paragraph (1) also apply to housing
-programs that are operated by public entities where design and
-construction of particular residential dwelling units take place only
-after a specific buyer has been identified. In such programs, the
-covered entity must provide the units that comply with the requirements
-for accessible features to those pre-identified buyers with disabilities
-who have requested such a unit. </li>
-</ul> </li> <li>(k) Detention and correctional facilities.
-<ul> <li>(1) New construction of jails, prisons, and other detention
-and correctional facilities shall comply with the 2010 Standards except
-that public entities shall provide accessible mobility features
-complying with section 807.2 of the 2010 Standards for a minimum of 3%,
-but no fewer than one, of the total number of cells in a facility. Cells
-with mobility features shall be provided in each classification level. </li> <li>(2) Alterations to detention and correctional facilities. Alterations
-to jails, prisons, and other detention and correctional facilities
-shall comply with the 2010 Standards except that public entities shall
-provide accessible mobility features complying with section 807.2 of the
-2010 Standards for a minimum of 3%, but no fewer than one, of the total
-number of cells being altered until at least 3%, but no fewer than one,
-of the total number of cells in a facility shall provide mobility
-features complying with section 807.2. Altered cells with mobility
-features shall be provided in each classification level. However, when
-alterations are made to specific cells, detention and correctional
-facility operators may satisfy their obligation to provide the required
-number of cells with mobility features by providing the required
-mobility features in substitute cells (cells other than those where
-alterations are originally planned), provided that each substitute cell&#8212;
-<ul> <li>(i) Is located within the same prison site; </li> <li>(ii) Is integrated with other cells to the maximum extent feasible; </li> <li>(iii) Has, at a minimum, equal physical access as the altered cells to areas used by inmates or detainees for visitation, dining, recreation, educational programs, medical services, work programs, religious services, and participation in other programs that the facility offers to inmates or detainees; and, </li> <li>(iv) If it is technically infeasible to locate a substitute cell within the same prison site, a substitute cell must be provided at another prison site within the corrections system. </li>
-</ul> </li> <li>(3) With respect to medical and long-term care facilities in
-jails, prisons, and other detention and correctional facilities, public
-entities shall apply the 2010 Standards technical and scoping
-requirements for those facilities irrespective of whether those
-facilities are licensed. </li>
-</ul> </li> </ul> ### &sect; <a name="a35152" id="a35152"></a>35.152 Jails, detention and correctional facilities, and community correctional facilities. <ul> <li>(a) General. This section applies to public entities that
-are responsible for the operation or management of adult and juvenile
-justice jails, detention and correctional facilities, and community
-correctional facilities, either directly or through contractual,
-licensing, or other arrangements with public or private entities, in
-whole or in part, including private correctional facilities. </li> <li>(b) Discrimination prohibited.
-<ul> <li>(1) Public entities shall ensure that qualified inmates or
-detainees with disabilities shall not, because a facility is
-inaccessible to or unusable by individuals with disabilities, be
-excluded from participation in, or be denied the benefits of, the
-services, programs, or activities of a public entity, or be subjected to
-discrimination by any public entity. </li> <li>(2) Public entities shall ensure that inmates or detainees
-with disabilities are housed in the most integrated setting appropriate
-to the needs of the individuals. Unless it is appropriate to make an
-exception, a public entity&#8211;
-<ul> <li>(i) Shall not place inmates or detainees with disabilities in inappropriate security classifications because no accessible cells or beds are available; </li> <li>(ii) Shall not place inmates or detainees with disabilities in designated medical areas unless they are actually receiving medical care or treatment; </li> <li>(iii) Shall not place inmates or detainees with disabilities in facilities that do not offer the same programs as the facilities where they would otherwise be housed; and </li> <li>(iv) Shall not deprive inmates or detainees with disabilities of visitation with family members by placing them in distant facilities where they would not otherwise be housed. </li>
-</ul> </li> <li>(3) Public entities shall implement reasonable policies,
-including physical modifications to additional cells in accordance with
-the 2010 Standards, so as to ensure that each inmate with a disability
-is housed in a cell with the accessible elements necessary to afford the
-inmate access to safe, appropriate housing. </li>
-</ul> </li> </ul> ### &sect;&sect; <a name="a35153" id="a35153"></a>35.153&#8212;35.159 [Reserved] <h2><a name="subparte" id="subparte"></a>Subpart E&#8212;Communications</h2> ### <a name="a35160" id="a35160"></a>&sect; 35.160 General. <ul> <li>(a)
-<ul> <li>(1) A public entity shall take appropriate steps to ensure
-that communications with applicants, participants, members of the
-public, and companions with disabilities are as effective as
-communications with others.</li> <li>(2) For purposes of this section, &#8220;companion&#8221; means a family
-member, friend, or associate of an individual seeking access to a
-service, program, or activity of a public entity, who, along with such
-individual, is an appropriate person with whom the public entity should
-communicate. </li>
-</ul> </li> <li>(b)
-<ul> <li>(1) A public entity shall furnish appropriate auxiliary aids
-and services where necessary to afford qualified individuals with
-disabilities, including applicants, participants, companions, and
-members of the public, an equal opportunity to participate in, and enjoy
-the benefits of, a service, program, or activity of a public entity. </li> <li>(2) The type of auxiliary aid or service necessary to ensure
-effective communication will vary in accordance with the method of
-communication used by the individual; the nature, length, and complexity
-of the communication involved; and the context in which the
-communication is taking place. In determining what types of auxiliary
-aids and services are necessary, a public entity shall give primary
-consideration to the requests of individuals with disabilities. In order
-to be effective, auxiliary aids and services must be provided in
-accessible formats, in a timely manner, and in such a way as to protect
-the privacy and independence of the individual with a disability. </li>
-</ul> </li> <li>(c)
-<ul> <li>(1) A public entity shall not require an individual with a
-disability to bring another individual to interpret for him or her. </li> <li>(2) A public entity shall not rely on an adult accompanying an
-individual with a disability to interpret or facilitate communication
-except&#8212;
-<ul> <li>(i) In an emergency involving an imminent threat to the safety or welfare of an individual or the public where there is no interpreter available; or </li> <li>(ii) Where the individual with a disability specifically requests that the accompanying adult interpret or facilitate communication, the accompanying adult agrees to provide such assistance, and reliance on that adult for such assistance is appropriate under the circumstances. </li>
-</ul> </li> <li>(3) A public entity shall not rely on a minor child to
-interpret or facilitate communication, except in an emergency involving
-an imminent threat to the safety or welfare of an individual or the
-public where there is no interpreter available. </li>
-</ul> </li> <li>(d) Video remote interpreting (VRI) services. A public
-entity that chooses to provide qualified interpreters via VRI services
-shall ensure that it provides&#8212;
-<ul> <li>(1) Real-time, full-motion video and audio over a dedicated
-high-speed, wide-bandwidth video connection or wireless connection that
-delivers high-quality video images that do not produce lags, choppy,
-blurry, or grainy images, or irregular pauses in communication; </li> <li>(2) A sharply delineated image that is large enough to display
-the interpreter's face, arms, hands, and fingers, and the participating
-individual's face, arms, hands, and fingers, regardless of his or her
-body position; </li> <li>(3) A clear, audible transmission of voices; and </li> <li>(4) Adequate training to users of the technology and other
-involved individuals so that they may quickly and efficiently set up and
-operate the VRI. </li>
-</ul> </li> </ul> ### &sect; <a name="a35161" id="a35161"></a>35.161 Telecommunications. <ul> <li>(a) Where a public entity communicates by telephone with
-applicants and beneficiaries, text telephones (TTYs) or equally
-effective telecommunications systems shall be used to communicate with
-individuals who are deaf or hard of hearing or have speech impairments.</li> <li>(b) When a public entity uses an automated-attendant system,
-including, but not limited to, voice mail and messaging, or an
-interactive voice response system, for receiving and directing incoming
-telephone calls, that system must provide effective real-time
-communication with individuals using auxiliary aids and services,
-including TTYs and all forms of FCC-approved telecommunications relay
-system, including Internet-based relay systems. </li> <li>(c) A public entity shall respond to telephone calls from a
-telecommunications relay service established under title IV of the ADA
-in the same manner that it responds to other telephone calls. </li> </ul> ### &sect; <a name="a35162" id="a35162"></a>35.162 Telephone emergency services
+</tr> </tbody> </table>
 
-Telephone emergency services, including 911 services, shall provide direct access to individuals who use TDD's and computer modems. ### &sect; <a name="a35163" id="a35163"></a>35.163 Information and signage <ul> <li>(a) A public entity shall ensure that interested persons,
+- (d) Scope of coverage. The 1991 Standards and the 2010 Standards apply to fixed or built-in elements of buildings, structures, site improvements, and pedestrian routes or vehicular ways located on a site. Unless specifically stated otherwise, the advisory notes, appendix notes, and figures contained in the 1991 Standards and the 2010 Standards explain or illustrate the requirements of the rule; they do not establish enforceable requirements.
+- (e) Social service center establishments. Group homes, halfway houses, shelters, or similar social service center establishments that provide either temporary sleeping accommodations or residential dwelling units that are subject to this section shall comply with the provisions of the 2010 Standards applicable to residential facilities, including, but not limited to, the provisions in sections 233 and 809.
+  - (1) In sleeping rooms with more than 25 beds covered by this section, a minimum of 5% of the beds shall have clear floor space complying with section 806.2.3 of the 2010 Standards.
+  - (2) Facilities with more than 50 beds covered by this section that provide common use bathing facilities, shall provide at least one roll-in shower with a seat that complies with the relevant provisions of section 608 of the 2010 Standards. Transfer-type showers are not permitted in lieu of a roll-in shower with a seat, and the exceptions in sections 608.3 and 608.4 for residential dwelling units are not permitted. When separate shower facilities are provided for men and for women, at least one roll-in shower shall be provided for each group.
+- (f) Housing at a place of education. Housing at a place of education that is subject to this section shall comply with the provisions of the 2010 Standards applicable to transient lodging, including, but not limited to, the requirements for transient lodging guest rooms in sections 224 and 806 subject to the following exceptions. For the purposes of the application of this section, the term &quot;sleeping room&quot; is intended to be used interchangeably with the term &quot;guest room&quot; as it is used in the transient lodging standards.
+  - (1) Kitchens within housing units containing accessible sleeping rooms with mobility features (including suites and clustered sleeping rooms) or on floors containing accessible sleeping rooms with mobility features shall provide turning spaces that comply with section 809.2.2 of the 2010 Standards and kitchen work surfaces that comply with section 804.3 of the 2010 Standards.
+  - (2) Multi-bedroom housing units containing accessible sleeping rooms with mobility features shall have an accessible route throughout the unit in accordance with section 809.2 of the 2010 Standards.
+  - (3) Apartments or townhouse facilities that are provided by or on behalf of a place of education, which are leased on a year-round basis exclusively to graduate students or faculty, and do not contain any public use or common use areas available for educational programming, are not subject to the transient lodging standards and shall comply with the requirements for residential facilities in sections 233 and 809 of the 2010 Standards.
+- (g) Assembly areas. Assembly areas subject to this section shall comply with the provisions of the 2010 Standards applicable to assembly areas, including, but not limited to, sections 221 and 802. In addition, assembly areas shall ensure that&#8212;
+  - (1) In stadiums, arenas, and grandstands, wheelchair spaces and companion seats are dispersed to all levels that include seating served by an accessible route;
+  - (2) Assembly areas that are required to horizontally disperse wheelchair spaces and companion seats by section 221.2.3.1 of the 2010 Standards and have seating encircling, in whole or in part, a field of play or performance area shall disperse wheelchair spaces and companion seats around that field of play or performance area;
+  - (3) Wheelchair spaces and companion seats are not located on (or obstructed by) temporary platforms or other movable structures, except that when an entire seating section is placed on temporary platforms or other movable structures in an area where fixed seating is not provided, in order to increase seating for an event, wheelchair spaces and companion seats may be placed in that section. When wheelchair spaces and companion seats are not required to accommodate persons eligible for those spaces and seats, individual, removable seats may be placed in those spaces and seats;
+  - (4) Stadium-style movie theaters shall locate wheelchair spaces and companion seats on a riser or cross-aisle in the stadium section that satisfies at least one of the following criteria&#8212;
+    - (i) It is located within the rear 60% of the seats provided in an auditorium; or
+    - (ii) It is located within the area of an auditorium in which the vertical viewing angles (as measured to the top of the screen) are from the 40th to the 100th percentile of vertical viewing angles for all seats as ranked from the seats in the first row (1st percentile) to seats in the back row (100th percentile).
+- (h) Medical care facilities. Medical care facilities that are subject to this section shall comply with the provisions of the 2010 Standards applicable to medical care facilities, including, but not limited to, sections 223 and 805. In addition, medical care facilities that do not specialize in the treatment of conditions that affect mobility shall disperse the accessible patient bedrooms required by section 223.2.1 of the 2010 Standards in a manner that is proportionate by type of medical specialty.
+  - (i) Curb ramps.
+    - (1) Newly constructed or altered streets, roads, and highways must contain curb ramps or other sloped areas at any intersection having curbs or other barriers to entry from a street level pedestrian walkway.
+    - (2) Newly constructed or altered street level pedestrian walkways must contain curb ramps or other sloped areas at intersections to streets, roads, or highways.
+- (j) Facilities with residential dwelling units for sale to individual owners.
+  - (1) Residential dwelling units designed and constructed or altered by public entities that will be offered for sale to individuals shall comply with the requirements for residential facilities in the 2010 Standards including sections 233 and 809.
+  - (2) The requirements of paragraph (1) also apply to housing programs that are operated by public entities where design and construction of particular residential dwelling units take place only after a specific buyer has been identified. In such programs, the covered entity must provide the units that comply with the requirements for accessible features to those pre-identified buyers with disabilities who have requested such a unit. </li> </ul>
+  - (k) Detention and correctional facilities.
+    - (1) New construction of jails, prisons, and other detention and correctional facilities shall comply with the 2010 Standards except that public entities shall provide accessible mobility features complying with section 807.2 of the 2010 Standards for a minimum of 3%, but no fewer than one, of the total number of cells in a facility. Cells with mobility features shall be provided in each classification level.
+    - (2) Alterations to detention and correctional facilities. Alterations to jails, prisons, and other detention and correctional facilities shall comply with the 2010 Standards except that public entities shall provide accessible mobility features complying with section 807.2 of the 2010 Standards for a minimum of 3%, but no fewer than one, of the total number of cells being altered until at least 3%, but no fewer than one, of the total number of cells in a facility shall provide mobility features complying with section 807.2. Altered cells with mobility features shall be provided in each classification level. However, when alterations are made to specific cells, detention and correctional facility operators may satisfy their obligation to provide the required number of cells with mobility features by providing the required mobility features in substitute cells (cells other than those where alterations are originally planned), provided that each substitute cell&#8212;
+      - (i) Is located within the same prison site;
+      - (ii) Is integrated with other cells to the maximum extent feasible;
+      - (iii) Has, at a minimum, equal physical access as the altered cells to areas used by inmates or detainees for visitation, dining, recreation, educational programs, medical services, work programs, religious services, and participation in other programs that the facility offers to inmates or detainees; and,
+      - (iv) If it is technically infeasible to locate a substitute cell within the same prison site, a substitute cell must be provided at another prison site within the corrections system.
+    - (3) With respect to medical and long-term care facilities in jails, prisons, and other detention and correctional facilities, public entities shall apply the 2010 Standards technical and scoping requirements for those facilities irrespective of whether those facilities are licensed.
+
+### &sect; <a name="a35152" id="a35152"></a>35.152 Jails, detention and correctional facilities, and community correctional facilities.
+
+- (a) General. This section applies to public entities that are responsible for the operation or management of adult and juvenile justice jails, detention and correctional facilities, and community correctional facilities, either directly or through contractual, licensing, or other arrangements with public or private entities, in whole or in part, including private correctional facilities.
+- (b) Discrimination prohibited.
+  - (1) Public entities shall ensure that qualified inmates or detainees with disabilities shall not, because a facility is inaccessible to or unusable by individuals with disabilities, be excluded from participation in, or be denied the benefits of, the services, programs, or activities of a public entity, or be subjected to discrimination by any public entity.
+  - (2) Public entities shall ensure that inmates or detainees with disabilities are housed in the most integrated setting appropriate to the needs of the individuals. Unless it is appropriate to make an exception, a public entity&#8211;
+    - (i) Shall not place inmates or detainees with disabilities in inappropriate security classifications because no accessible cells or beds are available;
+    - (ii) Shall not place inmates or detainees with disabilities in designated medical areas unless they are actually receiving medical care or treatment;
+    - (iii) Shall not place inmates or detainees with disabilities in facilities that do not offer the same programs as the facilities where they would otherwise be housed; and
+    - (iv) Shall not deprive inmates or detainees with disabilities of visitation with family members by placing them in distant facilities where they would not otherwise be housed.
+  - (3) Public entities shall implement reasonable policies, including physical modifications to additional cells in accordance with the 2010 Standards, so as to ensure that each inmate with a disability is housed in a cell with the accessible elements necessary to afford the inmate access to safe, appropriate housing.
+
+### &sect;&sect; <a name="a35153" id="a35153"></a>35.153&#8212;35.159 \[Reserved\]
+
+## <a name="subparte" id="subparte"></a>Subpart E&#8212;Communications
+
+### <a name="a35160" id="a35160"></a>&sect; 35.160 General.
+
+- (a)
+  - (1) A public entity shall take appropriate steps to ensure that communications with applicants, participants, members of the public, and companions with disabilities are as effective as communications with others.
+  - (2) For purposes of this section, &#8220;companion&#8221; means a family member, friend, or associate of an individual seeking access to a service, program, or activity of a public entity, who, along with such individual, is an appropriate person with whom the public entity should communicate.
+- (b)
+  - (1) A public entity shall furnish appropriate auxiliary aids and services where necessary to afford qualified individuals with disabilities, including applicants, participants, companions, and members of the public, an equal opportunity to participate in, and enjoy the benefits of, a service, program, or activity of a public entity.
+  - (2) The type of auxiliary aid or service necessary to ensure effective communication will vary in accordance with the method of communication used by the individual; the nature, length, and complexity of the communication involved; and the context in which the communication is taking place. In determining what types of auxiliary aids and services are necessary, a public entity shall give primary consideration to the requests of individuals with disabilities. In order to be effective, auxiliary aids and services must be provided in accessible formats, in a timely manner, and in such a way as to protect the privacy and independence of the individual with a disability.
+- (c)
+  - (1) A public entity shall not require an individual with a disability to bring another individual to interpret for him or her.
+  - (2) A public entity shall not rely on an adult accompanying an individual with a disability to interpret or facilitate communication except&#8212;
+    - (i) In an emergency involving an imminent threat to the safety or welfare of an individual or the public where there is no interpreter available; or
+    - (ii) Where the individual with a disability specifically requests that the accompanying adult interpret or facilitate communication, the accompanying adult agrees to provide such assistance, and reliance on that adult for such assistance is appropriate under the circumstances.
+  - (3) A public entity shall not rely on a minor child to interpret or facilitate communication, except in an emergency involving an imminent threat to the safety or welfare of an individual or the public where there is no interpreter available.
+- (d) Video remote interpreting (VRI) services. A public entity that chooses to provide qualified interpreters via VRI services shall ensure that it provides&#8212;
+  - (1) Real-time, full-motion video and audio over a dedicated high-speed, wide-bandwidth video connection or wireless connection that delivers high-quality video images that do not produce lags, choppy, blurry, or grainy images, or irregular pauses in communication;
+  - (2) A sharply delineated image that is large enough to display the interpreter's face, arms, hands, and fingers, and the participating individual's face, arms, hands, and fingers, regardless of his or her body position;
+  - (3) A clear, audible transmission of voices; and
+  - (4) Adequate training to users of the technology and other involved individuals so that they may quickly and efficiently set up and operate the VRI.
+
+### &sect; <a name="a35161" id="a35161"></a>35.161 Telecommunications.
+
+- (a) Where a public entity communicates by telephone with applicants and beneficiaries, text telephones (TTYs) or equally effective telecommunications systems shall be used to communicate with individuals who are deaf or hard of hearing or have speech impairments.
+- (b) When a public entity uses an automated-attendant system,including, but not limited to, voice mail and messaging, or aninteractive voice response system, for receiving and directing incomingtelephone calls, that system must provide effective real-timecommunication with individuals using auxiliary aids and services,including TTYs and all forms of FCC-approved telecommunications relaysystem, including Internet-based relay systems.
+- (c) A public entity shall respond to telephone calls from atelecommunications relay service established under title IV of the ADAin the same manner that it responds to other telephone calls.
+
+### &sect; <a name="a35162" id="a35162"></a>35.162 Telephone emergency services
+
+Telephone emergency services, including 911 services, shall provide direct access to individuals who use TDD's and computer modems.
+
+### &sect; <a name="a35163" id="a35163"></a>35.163 Information and signage
+- (a) A public entity shall ensure that interested persons,
 including persons with impaired vision or hearing, can obtain
 information as to the existence and location of accessible services,
 activities, and facilities.</li> <li>(b) A public entity shall provide signage at all inaccessible
 entrances to each of its facilities, directing users to an accessible
 entrance or to a location at which they can obtain information about
 accessible facilities. The international symbol for accessibility shall
-be used at each accessible entrance of a facility. </li> </ul> ### &sect; <a name="a35164" id="a35164"></a>35.164 Duties
+be used at each accessible entrance of a facility. </li> </ul>
 
-This subpart does not require a public entity to take any action that it can demonstrate would result in a fundamental alteration in the nature of a service, program, or activity or in undue financial and administrative burdens. In those circumstances where personnel of the public entity believe that the proposed action would fundamentally alter the service, program, or activity or would result in undue financial and administrative burdens, a public entity has the burden of proving that compliance with this subpart would result in such alteration or burdens. The decision that compliance would result in such alteration or burdens must be made by the head of the public entity or his or her designee after considering all resources available for use in the funding and operation of the service, program, or activity and must be accompanied by a written statement of the reasons for reaching that conclusion. If an action required to comply with this subpart would result in such an alteration or such burdens, a public entity shall take any other action that would not result in such an alteration or such burdens but would nevertheless ensure that, to the maximum extent possible, individuals with disabilities receive the benefits or services provided by the public entity. ### &sect;&sect; <a name="a35165" id="a35165"></a>35.165&#8212;35.169 [Reserved] <h2><a name="subpartf" id="subpartf"></a>Subpart F&#8212;Compliance Procedures</h2> ### &sect; <a name="a35170" id="a35170"></a>35.170 Complaints <ul> <li>(a) Who may file. An individual who believes that he or
-she or a specific class of individuals has been subjected to
-discrimination on the basis of disability by a public entity may, by
-himself or herself or by an authorized representative, file a complaint
-under this part.</li> <li>(b) Time for filing. A complaint must be filed not later
-than 180 days from the date of the alleged discrimination, unless the
-time for filing is extended by the designated agency for good cause
-shown. A complaint is deemed to be filed under this section on the date
-it is first filed with any Federal agency. </li> <li>(c) Where to file. An individual may file a complaint
-with any agency that he or she believes to be the appropriate agency
-designated under subpart G of this part, or with any agency that
-provides funding to the public entity that is the subject of the
-complaint, or with the Department of Justice for referral as provided in
-&sect;35.171(a)(2). </li> </ul> ### &sect;<a name="a35171" id="a35171"></a> 35.171 Acceptance of complaints <ul> <li>(a) Receipt of complaints.
-<ul> <li>(1)
-<ul> <li>(i) Any Federal agency that receives a complaint of discrimination on the basis of disability by a public entity shall promptly review the complaint to determine whether it has jurisdiction over the complaint under section 504.</li> <li>(ii) If the agency does not have section 504 jurisdiction, it shall promptly determine whether it is the designated agency under subpart G of this part responsible for complaints filed against that public entity. </li>
-</ul> </li> <li>(2)
-<ul> <li>(i) If an agency other than the Department of Justice determines that it does not have section 504 jurisdiction and is not the designated agency, it shall promptly refer the complaint to the appropriate designated agency, the agency that has section 504 jurisdiction, or the Department of Justice, and so notify the complainant. </li> <li>(ii) When the Department of Justice receives a complaint for which it does not have jurisdiction under section 504 and is not the designated agency, it may exercise jurisdiction pursuant to &sect; 35.190(e) or refer the complaint to an agency that does have jurisdiction under section 504 or to the appropriate agency designated in subpart G of this part or, in the case of an employment complaint that is also subject to title I of the Act, to the Equal Employment Opportunity Commission. </li>
-</ul> </li> <li>(3)
-<ul> <li>(i) If the agency that receives a complaint has section 504 jurisdiction, it shall process the complaint according to its procedures for enforcing section 504. </li> <li>(ii) If the agency that receives a complaint does not have section 504 jurisdiction, but is the designated agency, it shall process the complaint according to the procedures established by this subpart. </li>
-</ul> </li>
-</ul> </li> <li>(b) Employment complaints.
-<ul> <li>(1) If a complaint alleges employment discrimination subject
-to title I of the Act, and the agency has section 504 jurisdiction, the
-agency shall follow the procedures issued by the Department of Justice
-and the Equal Employment Opportunity Commission under section 107(b) of
-the Act. </li> <li>(2) If a complaint alleges employment discrimination subject
-to title I of the Act, and the designated agency does not have section
-504 jurisdiction, the agency shall refer the complaint to the Equal
-Employment Opportunity Commission for processing under title I of the
-Act. </li> <li>(3) Complaints alleging employment discrimination subject to
-this part, but not to title I of the Act shall be processed in
-accordance with the procedures established by this subpart. </li>
-</ul> </li> <li>(c) Complete complaints.
-<ul> <li>(1) A designated agency shall accept all complete complaints
-under this section and shall promptly notify the complainant and the
-public entity of the receipt and acceptance of the complaint. </li> <li>(2) If the designated agency receives a complaint that is not
-complete, it shall notify the complainant and specify the additional
-information that is needed to make the complaint a complete complaint.
-If the complainant fails to complete the complaint, the designated
-agency shall close the complaint without prejudice. </li>
-</ul> </li> </ul> ### &sect; <a name="a35172" id="a35172"></a>35.172 Investigations and compliance reviews. <ul> <li>(a) The designated agency shall investigate complaints for which
-it is responsible under &sect; 35.171. </li> <li>(b) The designated agency may conduct compliance reviews of public
-entities in order to ascertain whether there has been a failure to
-comply with the nondiscrimination requirements of this part. </li> <li>(c) Where appropriate, the designated agency shall attempt
-informal resolution of any matter being investigated under this section,
-and, if resolution is not achieved and a violation is found, issue to
-the public entity and the complainant, if any, a Letter of Findings that
-shall include&#8212;
-<ul> <li>(1) Findings of fact and conclusions of law; </li> <li>(2) A description of a remedy for each violation found
-(including compensatory damages where appropriate); and </li> <li>(3) Notice of the rights and procedures available under
-paragraph (d) of this section and &sect;&sect; 35.173 and 35.174. </li>
-</ul> </li> <li>(d) At any time, the complainant may file a private suit pursuant
-to section 203 of the Act, 42 U.S.C. 12133, whether or not the
-designated agency finds a violation. </li> </ul> ### &sect; <a name="a35173" id="a35173"></a>35.173 Voluntary compliance agreements <ul> <li>(a) When the designated agency issues a noncompliance Letter of
+### &sect; <a name="a35164" id="a35164"></a>35.164 Duties
+
+This subpart does not require a public entity to take any action that it can demonstrate would result in a fundamental alteration in the nature of a service, program, or activity or in undue financial and administrative burdens. In those circumstances where personnel of the public entity believe that the proposed action would fundamentally alter the service, program, or activity or would result in undue financial and administrative burdens, a public entity has the burden of proving that compliance with this subpart would result in such alteration or burdens. The decision that compliance would result in such alteration or burdens must be made by the head of the public entity or his or her designee after considering all resources available for use in the funding and operation of the service, program, or activity and must be accompanied by a written statement of the reasons for reaching that conclusion. If an action required to comply with this subpart would result in such an alteration or such burdens, a public entity shall take any other action that would not result in such an alteration or such burdens but would nevertheless ensure that, to the maximum extent possible, individuals with disabilities receive the benefits or services provided by the public entity.
+
+### &sect;&sect; <a name="a35165" id="a35165"></a>35.165&#8212;35.169 \[Reserved\]
+
+## <a name="subpartf" id="subpartf"></a>Subpart F&#8212;Compliance Procedures
+
+### &sect; <a name="a35170" id="a35170"></a>35.170 Complaints
+
+- (a) Who may file. An individual who believes that he or she or a specific class of individuals has been subjected to discrimination on the basis of disability by a public entity may, by himself or herself or by an authorized representative, file a complaint under this part.
+- (b) Time for filing. A complaint must be filed not later than 180 days from the date of the alleged discrimination, unless the time for filing is extended by the designated agency for good cause shown. A complaint is deemed to be filed under this section on the date it is first filed with any Federal agency.
+- (c) Where to file. An individual may file a complaint with any agency that he or she believes to be the appropriate agency designated under subpart G of this part, or with any agency that provides funding to the public entity that is the subject of the complaint, or with the Department of Justice for referral as provided in &sect;35.171(a)(2).
+
+### &sect;<a name="a35171" id="a35171"></a> 35.171 Acceptance of complaints
+- (a) Receipt of complaints.
+  - (1)
+    - (i) Any Federal agency that receives a complaint of discrimination on the basis of disability by a public entity shall promptly review the complaint to determine whether it has jurisdiction over the complaint under section 504.
+    - (ii) If the agency does not have section 504 jurisdiction, it shall promptly determine whether it is the designated agency under subpart G of this part responsible for complaints filed against that public entity.
+  - (2)
+    - (i) If an agency other than the Department of Justice determines that it does not have section 504 jurisdiction and is not the designated agency, it shall promptly refer the complaint to the appropriate designated agency, the agency that has section 504 jurisdiction, or the Department of Justice, and so notify the complainant.
+    - (ii) When the Department of Justice receives a complaint for which it does not have jurisdiction under section 504 and is not the designated agency, it may exercise jurisdiction pursuant to &sect; 35.190(e) or refer the complaint to an agency that does have jurisdiction under section 504 or to the appropriate agency designated in subpart G of this part or, in the case of an employment complaint that is also subject to title I of the Act, to the Equal Employment Opportunity Commission.
+  - (3)
+    - (i) If the agency that receives a complaint has section 504 jurisdiction, it shall process the complaint according to its procedures for enforcing section 504.
+    - (ii) If the agency that receives a complaint does not have section 504 jurisdiction, but is the designated agency, it shall process the complaint according to the procedures established by this subpart.
+- (b) Employment complaints.
+  - (1) If a complaint alleges employment discrimination subject to title I of the Act, and the agency has section 504 jurisdiction, the agency shall follow the procedures issued by the Department of Justice and the Equal Employment Opportunity Commission under section 107(b) of the Act.
+  - (2) If a complaint alleges employment discrimination subject to title I of the Act, and the designated agency does not have section 504 jurisdiction, the agency shall refer the complaint to the Equal Employment Opportunity Commission for processing under title I of the Act.
+  - (3) Complaints alleging employment discrimination subject to this part, but not to title I of the Act shall be processed in accordance with the procedures established by this subpart.
+- (c) Complete complaints.
+  - (1) A designated agency shall accept all complete complaints under this section and shall promptly notify the complainant and the public entity of the receipt and acceptance of the complaint.
+  - (2) If the designated agency receives a complaint that is not complete, it shall notify the complainant and specify the additional information that is needed to make the complaint a complete complaint. If the complainant fails to complete the complaint, the designated agency shall close the complaint without prejudice.
+
+### &sect; <a name="a35172" id="a35172"></a>35.172 Investigations and compliance reviews. <ul> <li>(a) The designated agency shall investigate complaints for which it is responsible under &sect; 35.171. </li> <li>(b) The designated agency may conduct compliance reviews of public entities in order to ascertain whether there has been a failure to comply with the nondiscrimination requirements of this part. </li> <li>(c) Where appropriate, the designated agency shall attempt informal resolution of any matter being investigated under this section, and, if resolution is not achieved and a violation is found, issue to the public entity and the complainant, if any, a Letter of Findings that shall include&#8212; <ul> <li>(1) Findings of fact and conclusions of law; </li> <li>(2) A description of a remedy for each violation found (including compensatory damages where appropriate); and </li> <li>(3) Notice of the rights and procedures available under paragraph (d) of this section and &sect;&sect; 35.173 and 35.174. </li> </ul> </li> <li>(d) At any time, the complainant may file a private suit pursuant to section 203 of the Act, 42 U.S.C. 12133, whether or not the designated agency finds a violation. </li> </ul>
+
+### &sect; <a name="a35173" id="a35173"></a>35.173 Voluntary compliance agreements <ul> <li>(a) When the designated agency issues a noncompliance Letter of
 Findings, the designated agency shall&#8212;
 <ul> <li>(1) Notify the Assistant Attorney General by forwarding a copy
 of the Letter of Findings to the Assistant Attorney General; and </li> <li>(2) Initiate negotiations with the public entity to secure
@@ -1065,7 +927,7 @@ Where appropriate and to the extent authorized by law, the use of alternative me
 
 A public entity shall not be excused from compliance with the requirements of this part because of any failure to receive technical assistance, including any failure in the development or dissemination of any technical assistance manual authorized by the Act. ### &sect; <a name="a35178" id="a35178"></a>35.178 State immunity.
 
-A State shall not be immune under the eleventh amendment to the Constitution of the United States from an action in Federal or State court of competent jurisdiction for a violation of this Act. In any action against a State for a violation of the requirements of this Act, remedies (including remedies both at law and in equity) are available for such a violation to the same extent as such remedies are available for such a violation in an action against any public or private entity other than a State. ### &sect;&sect; <a name="a35179" id="a35179"></a>35.179&#8212;35.189 [Reserved] <h2><a name="subpartg" id="subpartg"></a>Subpart G&#8212;Designated Agencies</h2> ### &sect; <a name="a35190" id="a35190"></a>35.190 Designated Agencies. <ul> <li>(a) The Assistant Attorney General shall coordinate the compliance
+A State shall not be immune under the eleventh amendment to the Constitution of the United States from an action in Federal or State court of competent jurisdiction for a violation of this Act. In any action against a State for a violation of the requirements of this Act, remedies (including remedies both at law and in equity) are available for such a violation to the same extent as such remedies are available for such a violation in an action against any public or private entity other than a State. ### &sect;&sect; <a name="a35179" id="a35179"></a>35.179&#8212;35.189 \[Reserved\] <h2><a name="subpartg" id="subpartg"></a>Subpart G&#8212;Designated Agencies</h2> ### &sect; <a name="a35190" id="a35190"></a>35.190 Designated Agencies. <ul> <li>(a) The Assistant Attorney General shall coordinate the compliance
 activities of Federal agencies with respect to State and local
 government components, and shall provide policy guidance and
 interpretations to designated agencies to ensure the consistent and
@@ -1118,7 +980,7 @@ complaint. </li> <li>(e) When the Department receives a complaint directed to th
 Attorney General alleging a violation of this part that may fall within
 the jurisdiction of a designated agency or another Federal agency that
 may have jurisdiction under section 504, the Department may exercise its
-discretion to retain the complaint for investigation under this part. </li> </ul> ### <a name="a35191" id="a35191"></a>&sect;&sect; 35.191&#8212;35.999 [Reserved]
+discretion to retain the complaint for investigation under this part. </li> </ul> ### <a name="a35191" id="a35191"></a>&sect;&sect; 35.191&#8212;35.999 \[Reserved\]
  </div>
 </div>
 
