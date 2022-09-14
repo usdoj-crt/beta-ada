@@ -13,9 +13,9 @@ const blockDisplay = 'mobile:display-block';
 const noDisplay = 'mobile:display-none';
 // Target element for intersection observer:
 const topElement = 'crt-page--sidenav';
-const target = document.getElementById(topElement);
+const observerTarget = document.getElementById(topElement);
 // Observer Options:
-let options = {
+const options = {
   root: null,
   rootMargin: '0px',
   threshold: 1.0,
@@ -33,6 +33,7 @@ const hide = () => {
 
 // Function to check scroll position, set flags for scrolling up, and for calling toggleShow
 const checkYPos = () => {
+  console.log('checking pos...')
   // Get page-Y-offset value with every scroll
   let scroll = window.pageYOffset;
 
@@ -67,6 +68,6 @@ const checkForIntersection = (entries, observer) => {
 // Observer:
 let intObserver = new IntersectionObserver(checkForIntersection, options);
 // Observe:
-intObserver.observe(target);
-const handleScroll = debounce(checkYPos, 10);
+intObserver.observe(observerTarget);
+const handleScroll = debounce(checkYPos, 50);
 document.addEventListener('scroll', handleScroll);
