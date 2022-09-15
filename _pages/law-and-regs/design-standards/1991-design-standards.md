@@ -13,7 +13,7 @@ print: true
 back-to-top: true
 ---
 
-## Purpose
+## 1. Purpose
 
 This document sets guidelines for accessibility to places of public accommodation and commercial facilities by individuals with disabilities. These guidelines are to be applied during the design, construction, and alteration of such buildings and facilities to the extent required by regulations issued by Federal agencies, including the Department of Justice, under the Americans with Disabilities Act of 1990.
 
@@ -21,7 +21,7 @@ The technical specifications 4.2 through 4.35, of these guidelines are the same 
 
 The illustrations and text of ANSI A117.1 are reproduced with permission from the American National Standards Institute. Copies of the standard may be purchased from the American National Standards Institute at 1430 Broadway, New York, New York 10018.
 
-## General
+## 2. General
 
 ### 2.1 Provisions for Adults
 
@@ -31,7 +31,7 @@ The specifications in these guidelines are based upon adult dimensions and anthr
 
 Departures from particular technical and scoping requirements of this guideline by the use of other designs and technologies are permitted where the alternative designs and technologies used will provide substantially equivalent or greater access to and usability of the facility.
 
-## Miscellaneous Instructions and Definitions
+## 3. Miscellaneous Instructions and Definitions
 
 ### 3.1 Graphic Conventions
 
@@ -170,29 +170,20 @@ The text of these guidelines does not contain notes or footnotes. Additional inf
 
 NOTE: Sections 4.1.1 through 4.1.7 are different from ANSI A117.1 in their entirety and are printed in standard type (ANSI A117.1 does not include scoping provisions).
 
-## Accessible Elements and Spaces: Scope and Technical Requirements
+## 4. Accessible Elements and Spaces: Scope and Technical Requirements
 
 ### 4.1 Minimum Requirements
 
 #### 4.1.1\* Application
 
-1. General. All areas of newly designed or newly constructed buildings and facilities required to be accessible by 4.1.2 and 4.1.3 and altered portions of existing buildings and facilities required to be accessible by 4.1.6 shall comply with these guidelines, 4.1 through 4.35, unless otherwise provided in this section or as modified in a special application section.
-2. Application Based on Building Use. Special application sections 5 through 10 provide additional requirements for restaurants and cafeterias, medical care facilities, business and mercantile, libraries, accessible transient lodging, and transportation facilities. When a building or facility contains more than one use covered by a special application section, each portion shall comply with the requirements for that use.
-3. Areas Used Only by Employees as Work Areas. Areas that are used only as work areas shall be designed and constructed so that individuals with disabilities can approach, enter, and exit the areas. These guidelines do not require that any areas used only as work areas be constructed to permit maneuvering within the work area or be constructed or equipped (i.e., with racks or shelves) to be accessible.
-4. Temporary Structures. These guidelines cover temporary buildings or facilities as well as permanent facilities. Temporary buildings and facilities are not of permanent construction but are extensively used or are essential for public use for a period of time. Examples of temporary buildings or facilities covered by these guidelines include, but are not limited to:
-
-   - reviewing stands
-   - temporary classrooms
-   - bleacher areas
-   - exhibit areas
-   - temporary banking facilities
-   - temporary health screening services
-   - or temporary safe pedestrian passageways around a construction site.
-     Structures, sites and equipment directly associated with the actual processes of construction, such as scaffolding, bridging, materials hoists, or construction trailers are not included.
+- (1) General. All areas of newly designed or newly constructed buildings and facilities required to be accessible by 4.1.2 and 4.1.3 and altered portions of existing buildings and facilities required to be accessible by 4.1.6 shall comply with these guidelines, 4.1 through 4.35, unless otherwise provided in this section or as modified in a special application section.
+- (2) Application Based on Building Use. Special application sections 5 through 10 provide additional requirements for restaurants and cafeterias, medical care facilities, business and mercantile, libraries, accessible transient lodging, and transportation facilities. When a building or facility contains more than one use covered by a special application section, each portion shall comply with the requirements for that use.
+- (3)\* Areas Used Only by Employees as Work Areas. Areas that are used only as work areas shall be designed and constructed so that individuals with disabilities can approach, enter, and exit the areas. These guidelines do not require that any areas used only as work areas be constructed to permit maneuvering within the work area or be constructed or equipped (i.e., with racks or shelves) to be accessible.
+- (4) Temporary Structures. These guidelines cover temporary buildings or facilities as well as permanent facilities. Temporary buildings and facilities are not of permanent construction but are extensively used or are essential for public use for a period of time. Examples of temporary buildings or facilities covered by these guidelines include, but are not limited to: reviewing stands, temporary classrooms, bleacher areas, exhibit areas, temporary banking facilities, temporary health screening services, or temporary safe pedestrian passageways around a construction site. Structures, sites and equipment directly associated with the actual processes of construction, such as scaffolding, bridging, materials hoists, or construction trailers are not included.
 
 5. General **EXCEPTIONS**.
-   - In new construction, a person or entity is not required to meet fully the requirements of these guidelines where that person or entity can demonstrate that it is structurally impracticable to do so. Full compliance will be considered structurally impracticable only in those rare circumstances when the unique characteristics of terrain prevent the incorporation of accessibility features. If full compliance with the requirements of these guidelines is structurally impracticable, a person or entity shall comply with the requirements to the extent it is not structurally impracticable. Any portion of the building or facility which can be made accessible shall comply to the extent that it is not structurally impracticable.
-   - Accessibility is not required to (i) observation galleries used primarily for security purposes; or (ii) in non-occupiable spaces accessed only by ladders, catwalks, crawl spaces, very narrow passageways, or freight (non-passenger) elevators, and frequented only by service personnel for repair purposes; such spaces include, but are not limited to, elevator pits, elevator penthouses, piping or equipment catwalks.
+   - (a) In new construction, a person or entity is not required to meet fully the requirements of these guidelines where that person or entity can demonstrate that it is structurally impracticable to do so. Full compliance will be considered structurally impracticable only in those rare circumstances when the unique characteristics of terrain prevent the incorporation of accessibility features. If full compliance with the requirements of these guidelines is structurally impracticable, a person or entity shall comply with the requirements to the extent it is not structurally impracticable. Any portion of the building or facility which can be made accessible shall comply to the extent that it is not structurally impracticable.
+   - (b) Accessibility is not required to (i) observation galleries used primarily for security purposes; or (ii) in non-occupiable spaces accessed only by ladders, catwalks, crawl spaces, very narrow passageways, or freight (non-passenger) elevators, and frequented only by service personnel for repair purposes; such spaces include, but are not limited to, elevator pits, elevator penthouses, piping or equipment catwalks.
 
 #### 4.1.2 Accessible Sites and Exterior Facilities: New Construction
 
@@ -2255,7 +2246,7 @@ Every accessible dressing room shall have a 24 in by 48 in (610 mm by 1220 mm) b
 
 Where mirrors are provided in dressing rooms of the same use, then in an accessible dressing room, a full-length mirror, measuring at least 18 in wide by 54 in high (460 mm by 1370 mm), shall be mounted in a position affording a view to a person on the bench as well as to a person in a standing position. **NOTE**: Sections 4.1.1 through 4.1.7 and sections 5 through 10 are different from ANSI A117.1 in their entirety and are printed in standard type.
 
-## Restaurants and Cafeterias
+## 5. Restaurants and Cafeterias
 
 ### 5.1\* General
 
@@ -2312,7 +2303,7 @@ Spaces for vending machines and other equipment shall comply with 4.2 and shall 
 
 (Reserved).
 
-## Medical Care Facilities
+## 6. Medical Care Facilities
 
 ### 6.1 General
 
@@ -2344,7 +2335,7 @@ Provide accessible patient bedrooms in compliance with 4.1 through 4.35. Accessi
 
 Where toilet/bath rooms are provided as a part of a patient bedroom, each patient bedroom that is required to be accessible shall have an accessible toilet/bath room that complies with 4.22 or 4.23 and shall be on an accessible route.
 
-## Business and Mercantile
+## 7. Business and Mercantile
 
 ### 7.1 General
 
@@ -2382,7 +2373,7 @@ Examples of check-out aisles of different &quot;design&quot; include those which
 
 Any device used to prevent the removal of shopping carts from store premises shall not prevent access or egress to people in wheelchairs. An alternate entry that is equally convenient to that provided for the ambulatory population is acceptable.
 
-## Libraries
+## 8. Libraries
 
 ### 8.1 General
 
@@ -2422,7 +2413,7 @@ The minimum width between fixed stacks is 36 inches (915 mm).
 {% endfigcaption %}
 {% endfigure %}
 
-## Accessible Transient Lodging
+## 9. Accessible Transient Lodging
 
 1. Except as specified in the special technical provisions of this section, accessible transient lodging shall comply with the applicable requirements of 4.1 through 4.35. Transient lodging includes facilities or portions thereof used for sleeping accommodations, when not classed as a medical care facility.
 
@@ -2555,7 +2546,7 @@ In new construction all public use and common use areas are required to be desig
 Accessible sleeping rooms shall be provided in conformance with the table in 9.1.2 and shall comply with 9.2 Accessible Units, Sleeping Rooms and Suites (where the items are provided). Additional sleeping rooms that comply with 9.3 Sleeping Accommodations for Persons with Hearing Impairments shall be provided in conformance with the table provided in 9.1.3.
 In facilities with multi-bed rooms or spaces, a percentage of the beds equal to the table provided in 9.1.2 shall comply with 9.2.2(1).
 
-## Transportation Facilities
+## 10. Transportation Facilities
 
 ### 10.1 General
 
@@ -2651,9 +2642,9 @@ Specific examples of equivalent facilitation are found in the following sections
 9.1.4 Classes of Sleeping Accommodations<br/>
 9.2.2(6)(d) Requirements for Accessible Units, Sleeping Rooms, and Suites
 
-#### A4.1.1 Application
+#### A4.1.1\* Application.
 
-##### A4.1.1(3) Areas Used Only by Employees as Work Areas
+##### A4.1.1(3)\* Areas Used Only by Employees as Work Areas
 
 Where there are a series of individual work stations of the same type (e.g., laboratories, service counters, ticket booths), 5%, but not less than one, of each type of work station should be constructed so that an individual with disabilities can maneuver within the work stations. Rooms housing individual offices in a typical office building must meet the requirements of the guidelines concerning doors, accessible routes, etc. but do not need to allow for maneuvering space around individual desks. Modifications required to permit maneuvering within the work area may be accomplished as a reasonable accommodation to individual employees with disabilities under Title I of the ADA. Consideration should also be given to placing shelves in employee work areas at a convenient height for accessibility or installing commercially available shelving that is adjustable so that reasonable accommodations can be made in the future. If work stations are made accessible they should comply with the applicable provisions of 4.2 through 4.35.
 
