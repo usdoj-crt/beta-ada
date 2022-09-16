@@ -74,7 +74,7 @@ Communication aids or services are also not required in the rare situations wher
 
 If an aid or service would result in an undue burden or fundamental alteration, the provider needs to provide an alternative aid or service if possible.  
 
-Learn more about these requirements and limitations in ADA Requirements: [Effective Communication and Communicating Effectively with People with Disabilities]( {{'/resources/effective-communication/'| relative_url}}).  
+Learn more about these requirements and limitations in ADA Requirements: [Effective Communication]( {{'/resources/effective-communication/'| relative_url}}) and  [Communicating Effectively with People with Disabilities]( {{'/topics/effective-communication/'| relative_url}}).  
 
 ## Telehealth providers may sometimes need to make reasonable modifications to their typical practices to make sure patients with disabilities can access their services  
 
