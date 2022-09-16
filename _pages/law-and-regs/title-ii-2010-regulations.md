@@ -44,9 +44,7 @@ ADA and to the provision of program accessibility under title II of the ADA are 
 
 ### Enactment of the ADA and Issuance of the 1991 Regulations
 
-On July 26, 1990, President George H.W. Bush signed into law the ADA, a comprehensive civil rights law prohibiting discrimination on the basis of disability.<a href="#ftnt1">1</a> <a name="rftnt1" id="rftnt1"></a>The ADA broadly protects the rights of individuals with disabilities in employment, access to State and local government services, places of public accommodation, transportation, and other important areas of American life. The ADA also requires newly designed and constructed or altered State and local government facilities, public accommodations, and commercial facilities to be readily accessible to and usable by individuals with disabilities. 42 U.S.C. 12101 _et seq_. Section 204(a) of the ADA directs the Attorney
-General to issue regulations implementing part A of title II but exempts matters within the scope of the authority of the Secretary of Transportation
-under section 223, 229, or 244. _See_ 42 U.S.C. 12134. Section 229(a) and section 244 of the ADA direct the Secretary of Transportation to issue regulations implementing part B of title II, except for section 223. _See_ 42 U.S.C 12149; 42 U.S.C. 12164. Title II, which this rule addresses, applies to State and local government entities, and, in subtitle A, protects qualified individuals with disabilities from discrimination on the basis of disability in services, programs, and activities provided by State and local government entities. Title II extends the prohibition on discrimination established by section 504 of the Rehabilitation Act of 1973, as amended, 29 U.S.C. 794, to all activities of State and local governments regardless of whether these entities receive Federal financial assistance. 42 U.S.C. 12131B65.
+On July 26, 1990, President George H.W. Bush signed into law the ADA, a comprehensive civil rights law prohibiting discrimination on the basis of disability.{% fn 1 %}The ADA broadly protects the rights of individuals with disabilities in employment, access to State and local government services, places of public accommodation, transportation, and other important areas of American life. The ADA also requires newly designed and constructed or altered State and local government facilities, public accommodations, and commercial facilities to be readily accessible to and usable by individuals with disabilities. 42 U.S.C. 12101 _et seq_. Section 204(a) of the ADA directs the Attorney General to issue regulations implementing part A of title II but exempts matters within the scope of the authority of the Secretary of Transportation under section 223, 229, or 244. _See_ 42 U.S.C. 12134. Section 229(a) and section 244 of the ADA direct the Secretary of Transportation to issue regulations implementing part B of title II, except for section 223. _See_ 42 U.S.C 12149; 42 U.S.C. 12164. Title II, which this rule addresses, applies to State and local government entities, and, in subtitle A, protects qualified individuals with disabilities from discrimination on the basis of disability in services, programs, and activities provided by State and local government entities. Title II extends the prohibition on discrimination established by section 504 of the Rehabilitation Act of 1973, as amended, 29 U.S.C. 794, to all activities of State and local governments regardless of whether these entities receive Federal financial assistance. 42 U.S.C. 12131B65.
 
 Title III prohibits discrimination on the basis of disability in the activities of places of public accommodation (businesses that are generally open to the public and that fall into one of twelve categories listed in the ADA, such as restaurants, movie theaters, schools, day care facilities, recreational
 facilities, and doctors' offices) and requires newly constructed or altered places of public accommodation—as well as commercial facilities (privately
@@ -133,7 +131,7 @@ From an economic perspective (as specified in OMB Circular A–4), the results o
 
 Under this set of assumptions, the final rules have an expected NPV of $9.3 billion (7 percent discount rate) and $40.4 billion (3 percent discount rate). _See_ Final RIA, table ES–1 &amp; figure ES– 2.
 
-**Expected Impact of the Rules <sup><a href="#ftnt2">2</a></sup>(in billions)**
+**Expected Impact of the Rules {% fn 2 %} (in billions)**
 
 <table cellspacing="0" cellpadding="0"> <tr> <th width="74">Discount rate</th> <th width="74">Expected NPV</th> <th width="74">Total <br />  Expected PV  (Benefits)</th> <th width="74">Total <br />  Expected PV (Costs)</th> </tr> <tr> <td width="74" valign="top">3%</td> <td width="74" valign="top">$40.4</td> <td width="74" valign="top">$66.2</td> <td width="74" valign="top">$25.8</td> </tr> <tr> <td width="74" valign="top">7%</td> <td width="74" valign="top">$9.3</td> <td width="74" valign="top">$22.0</td> <td width="74" valign="top">$12.8</td> </tr> </table>
 
@@ -307,9 +305,14 @@ Administrative practice and procedure, Buildings and facilities, Civil rights, C
 
 - By the authority vested in me as Attorney General by law, including 28 U.S.C. 509 and 510, 5 U.S.C. 301, and section 204 of the Americans with Disabilities Act of 1990, Pub. L. 101– 336, 42 U.S.C. 12134, and for the reasons set forth in Appendix A to 28 CFR part 35, chapter I of title 28 of the Code of Federal Regulations shall be amended as follows—
 
-<a href="#rftnt1">1</a><a name="ftnt1" id="ftnt1"></a> On September 25, 2008, President George W. Bush signed into law the Americans with Disabilities Amendments Act of 2008 (ADA Amendments Act), Public Law 110-325. The ADA Amendments Act amended the ADA definition of disability to clarify its coverage of persons with disabilities and to provide guidance on the application of the definition. This final rule does not contain regulatory language implementing the ADA Amendments Act. The Department intends to publish a supplemental rule to amend the regulatory definition of "disability'' to implement the changes mandated by that law.
-
-<a href="">2</a><a name="ftnt2" id="ftnt2"></a>The analysis assumes these regulations will be in force for 15 years. Incremental costs and benefits are calculated for all construction, alterations, and barrier removal that is expected to occur during these 15 years. The analysis also assumes that any new or revised ADA rules enacted 15 years from now will include a safe harbor provision. Thus, any facilities constructed in year 14 of the final rules are assumed to continue to generate benefits to users, and to incur any operating or replacement costs for the life of these buildings, which is assumed to be 40 years.regularly taught in rehabilitation and occupational therapy. Currently, persons who use side or parallel transfer methods from their wheelchairs are faced with a stark choice at establishments with single-user toilet rooms—_i.e._, patronize the establishment but run the risk of needing assistance when using the restroom, travel with someone who would be able to provide assistance in toileting, or forgo the visit entirely. The revised water closet clearance regulations would make single-user toilet rooms accessible to all persons who use wheelchairs, not just those with the physical strength, balance, and dexterity and the training to use a front-transfer method. Single-user toilet rooms are located in a wide variety of public and private facilities, including restaurants, fast-food establishments, schools, retail stores, parks, sports stadiums, and hospitals. Final promulgation of these requirements might thus, for example, enable a person who uses a side or parallel transfer method to use the restroom (or use the restroom independently) at his or her local coffee shop for the first time.
+{% footnotes %}
+{% fnbody 1 %}
+On September 25, 2008, President George W. Bush signed into law the Americans with Disabilities Amendments Act of 2008 (ADA Amendments Act), Public Law 110-325. The ADA Amendments Act amended the ADA definition of disability to clarify its coverage of persons with disabilities and to provide guidance on the application of the definition. This final rule does not contain regulatory language implementing the ADA Amendments Act. The Department intends to publish a supplemental rule to amend the regulatory definition of "disability'' to implement the changes mandated by that law.
+{% endfnbody %}
+{% fnbody 2 %}
+The analysis assumes these regulations will be in force for 15 years. Incremental costs and benefits are calculated for all construction, alterations, and barrier removal that is expected to occur during these 15 years. The analysis also assumes that any new or revised ADA rules enacted 15 years from now will include a safe harbor provision. Thus, any facilities constructed in year 14 of the final rules are assumed to continue to generate benefits to users, and to incur any operating or replacement costs for the life of these buildings, which is assumed to be 40 years.regularly taught in rehabilitation and occupational therapy. Currently, persons who use side or parallel transfer methods from their wheelchairs are faced with a stark choice at establishments with single-user toilet rooms—_i.e._, patronize the establishment but run the risk of needing assistance when using the restroom, travel with someone who would be able to provide assistance in toileting, or forgo the visit entirely. The revised water closet clearance regulations would make single-user toilet rooms accessible to all persons who use wheelchairs, not just those with the physical strength, balance, and dexterity and the training to use a front-transfer method. Single-user toilet rooms are located in a wide variety of public and private facilities, including restaurants, fast-food establishments, schools, retail stores, parks, sports stadiums, and hospitals. Final promulgation of these requirements might thus, for example, enable a person who uses a side or parallel transfer method to use the restroom (or use the restroom independently) at his or her local coffee shop for the first time.
+{% endfnbody %}
+{% endfootnotes %}
 
 ## Title II Regulations Revised Final Title II Regulation with Integrated Text
 
@@ -317,27 +320,27 @@ NOTE: These provisions update the relevant portions of the title II regulation t
 
 <strong>Part 35 Nondiscrimination on the Basis of Disability in State and Local Government Services <br /> (as amended by the final rule published on August 11, 2016)</strong>
 
-<a name="anchor3508" id="anchor3508"></a>**Authority: 5 U.S.C. 301; 28 U.S.C. 509, 510; 42 U.S.C. 12134, 12131, and 12205a.**
+**Authority: 5 U.S.C. 301; 28 U.S.C. 509, 510; 42 U.S.C. 12134, 12131, and 12205a.**
 
-## <a name="subparta" id="subparta"></a>Subpart A&#8212;General
+## Subpart A&#8212;General
 
-### <a name="a35101" id="a35101"></a>&sect; 35.101 Purpose and broad coverage.
+### &sect; 35.101 Purpose and broad coverage.
 
 - (a) Purpose. The purpose of this part is to <strong>implement</strong> subtitle A of title II of the Americans with Disabilities Act of 1990 (42 U.S. C. 12131<strong>–12134</strong>), <strong>as amended by the ADA Amendments Act of 2008 (ADA Amendments Act) (Public Law 110–325, 122 Stat. 3553 (2008))</strong>, which prohibits discrimination on the basis of disability by public entities.
 
 - <strong>(b) Broad coverage. The primary purpose of the ADA Amendments Act is to make it easier for people with disabilities to obtain protection under the ADA. Consistent with the ADA Amendments Act&rsquo;s purpose of reinstating a broad scope of protection under the ADA, the definition of &ldquo;disability&rdquo; in this part shall be construed broadly in favor of expansive coverage to the maximum extent permitted by the terms of the ADA. The primary object of attention in cases brought under the ADA should be whether entities covered under the ADA have complied with their obligations and whether discrimination has occurred, not whether the individual meets the definition of disability. The question of whether an individual meets the definition of disability under this part should not demand extensive analysis. </strong>
 
-### <a name="a35102" id="a35102"></a>&sect; 35.102 Application.
+### &sect; 35.102 Application.
 
 - (a) Except as provided in paragraph (b) of this section, this part applies to all services, programs, and activities provided or made available by public entities.
 - (b) To the extent that public transportation services, programs, and activities of public entities are covered by subtitle B of title II of the ADA, they are not subject to the requirements of this part.
 
-### &sect;<a name="a35103" id="a35103"></a> 35.103 Relationship to other laws.
+### &sect; 35.103 Relationship to other laws.
 
 - (a) Rule of interpretation. Except as otherwise provided in this part, this part shall not be construed to apply a lesser standard than the standards applied under title V of the Rehabilitation Act of 1973 or the regulations issued by Federal agencies pursuant to that title.
 - (b) Other laws. This part does not invalidate or limit the remedies, rights, and procedures of any other Federal laws, or State or local laws (including State common law) that provide greater or equal protection for the rights of individuals with disabilities or individuals associated with them.
 
-### &sect; <a name="a35104" id="a35104"></a>35.104 Definitions.
+### &sect; 35.104 Definitions.
 
 > For purposes of this part, the term&#8212;
 
@@ -406,7 +409,7 @@ Video remote interpreting (VRI) service means an interpreting service that uses 
 
 Wheelchair means a manually-operated or power-driven device designed primarily for use by an individual with a mobility disability for the main purpose of indoor, or of both indoor and outdoor locomotion. This definition does not apply to Federal wilderness areas; wheelchairs in such areas are defined in section 508(c)(2) of the ADA, 42 U.S.C. 12207 (c)(2).
 
-### &sect; <a name="a35105" id="a35105"></a>35.105 Self-evaluation.
+### &sect; 35.105 Self-evaluation.
 
 - (a) A public entity shall, within one year of the effective date of this part, evaluate its current services, policies, and practices,
   and the effects thereof, that do not or may not meet the requirements of this part and, to the extent modification of any such services, policies, and practices is required, the public entity shall proceed to make the necessary modifications.
@@ -417,17 +420,17 @@ Wheelchair means a manually-operated or power-driven device designed primarily f
   - (3) A description of any modifications made.
 - (d) If a public entity has already complied with the self-evaluation requirement of a regulation implementing section 504 of the Rehabilitation Act of 1973, then the requirements of this section shall apply only to those policies and practices that were not included in the previous self- evaluation.
 
-### &sect; <a name="a35106" id="a35106"></a>35.106 Notice
+### &sect; 35.106 Notice
 
 A public entity shall make available to applicants, participants, beneficiaries, and other interested persons information regarding the provisions of this part and its applicability to the services, programs, or activities of the public entity, and make such information available to them in such manner as the head of the entity finds necessary to apprise such persons of the protections against discrimination assured them by the Act and this part.
 
-### &sect; <a name="a35107" id="a35107"></a>35.107 Designation of responsible employee and adoption of grievance procedures
+### &sect; 35.107 Designation of responsible employee and adoption of grievance procedures
 
 - (a) Designation of responsible employee. A public entity that employs 50 or more persons shall designate at least one employee to
   coordinate its efforts to comply with and carry out its responsibilities under this part, including any investigation of any complaint communicated to it alleging its noncompliance with this part or alleging any actions that would be prohibited by this part. The public entity shall make available to all interested individuals the name, office address, and telephone number of the employee or employees designated pursuant to this paragraph.
 - (b) Complaint procedure. A public entity that employs 50 or more persons shall adopt and publish grievance procedures providing for prompt and equitable resolution of complaints alleging any action that would be prohibited by this part.
 
-<a name="a35108"></a><strong>§ 35.108 Definition of disability</strong>
+<strong>§ 35.108 Definition of disability</strong>
 
 - **(a)**
   - **(1) Disability means, with respect to an individual:**
@@ -503,11 +506,11 @@ A public entity shall make available to applicants, participants, beneficiaries,
   - <strong> (2) Compulsive gambling, kleptomania, or pyromania; or</strong>
   - <strong> (3) Psychoactive substance use disorders resulting from current illegal use of drugs.</strong>
 
-### &sect;&sect; <a name="a35109" id="a35109"></a>35.109&#8212;35.129 \[Reserved\]
+### &sect;&sect; 35.109&#8212;35.129 \[Reserved\]
 
-## <a name="subpartb" id="subpartb"></a>Subpart B&#8212;General Requirements
+## Subpart B&#8212;General Requirements
 
-### &sect; <a name="a35130" id="a35130"></a>35.130 General prohibitions against discrimination
+### &sect; 35.130 General prohibitions against discrimination
 
 - (a) No qualified individual with a disability shall, on the basis of disability, be excluded from participation in or be denied the benefits of the services, programs, or activities of a public entity, or be subjected to discrimination by any public entity.
 - (b)
@@ -539,7 +542,7 @@ A public entity shall make available to applicants, participants, beneficiaries,
 - (h) A public entity may impose legitimate safety requirements necessary for the safe operation of its services, programs, or activities. However, the public entity must ensure that its safety requirements are based on actual risks, not on mere speculation, stereotypes, or generalizations about individuals with disabilities.
 - <strong>(i) Nothing in this part shall provide the basis for a claim that an individual without a disability was subject to discrimination because of a lack of disability, including a claim that an individual with a disability was granted a reasonable modification that was denied to an individual without a disability.</strong>
 
-### &sect; <a name="a35131" id="a35131"></a>35.131 Illegal use of drugs
+### &sect; 35.131 Illegal use of drugs
 
 - (a) General.
   - (1) Except as provided in paragraph (b) of this section, this part does not prohibit discrimination against an individual based on that individual's current illegal use of drugs.</li> <li>(2) A public entity shall not discriminate on the basis of illegal use of drugs against an individual who is not engaging in current illegal use of drugs and who&#8212;
@@ -553,26 +556,26 @@ A public entity shall make available to applicants, participants, beneficiaries,
   - (1) This part does not prohibit a public entity from adopting or administering reasonable policies or procedures, including but not limited to drug testing, designed to ensure that an individual who formerly engaged in the illegal use of drugs is not now engaging in current illegal use of drugs.
   - (2) Nothing in paragraph (c) of this section shall be construed to encourage, prohibit, restrict, or authorize the conduct of testing for the illegal use of drugs.
 
-### &sect; <a name="a35132" id="a35132"></a>35.132 Smoking
+### &sect; 35.132 Smoking
 
 This part does not preclude the prohibition of, or the imposition of restrictions on, smoking in transportation covered by this part.
 
-### &sect; <a name="a35133" id="a35133"></a>35.133 Maintenance of accessible features
+### &sect; 35.133 Maintenance of accessible features
 
 - (a) A public entity shall maintain in operable working condition those features of facilities and equipment that are required to be readily accessible to and usable by persons with disabilities by the Act or this part.
 - (b) This section does not prohibit isolated or temporary interruptions in service or access due to maintenance or repairs.
 - (c) If the 2010 Standards reduce the technical requirements or the number of required accessible elements below the number required by the 1991 Standards, the technical requirements or the number of accessible elements in a facility subject to this part may be reduced in accordance with the requirements of the 2010 Standards.
 
-### &sect; <a name="a35134" id="a35134"></a>35.134 Retaliation or coercion
+### &sect; 35.134 Retaliation or coercion
 
 - (a) No private or public entity shall discriminate against any individual because that individual has opposed any act or practice made unlawful by this part, or because that individual made a charge, testified, assisted, or participated in any manner in an investigation, proceeding, or hearing under the Act or this part.
 - (b) No private or public entity shall coerce, intimidate, threaten, or interfere with any individual in the exercise or enjoyment of, or on account of his or her having exercised or enjoyed, or on account of his or her having aided or encouraged any other individual in the exercise or enjoyment of, any right granted or protected by the Act or this part.
 
-### &sect; <a name="a35135" id="a35135"></a>35.135 Personal devices and services
+### &sect; 35.135 Personal devices and services
 
 This part does not require a public entity to provide to individuals with disabilities personal devices, such as wheelchairs; individually prescribed devices, such as prescription eyeglasses or hearing aids; readers for personal use or study; or services of a personal nature including assistance in eating, toileting, or dressing.
 
-### &sect; <a name="a35136" id="a35136"></a>35.136 Service animals
+### &sect; 35.136 Service animals
 
 - (a) General. Generally, a public entity shall modify its policies, practices, or procedures to permit the use of a service animal by an individual with a disability.
 - (b) Exceptions. A public entity may ask an individual with a disability to remove a service animal from the premises if&#8212;
@@ -593,7 +596,7 @@ This part does not require a public entity to provide to individuals with disabi
     - (iv) Whether the miniature horse's presence in a specific facility compromises legitimate safety requirements that are necessary for safe operation.
   - (3) Other requirements. Paragraphs 35.136 (c) through (h) of this section, which apply to service animals, shall also apply to miniature horses.
 
-### &sect; <a name="a35137" id="a35137"></a>35.137 Mobility devices.
+### &sect; 35.137 Mobility devices.
 
 - (a) Use of wheelchairs and manually-powered mobility aids. A public entity shall permit individuals with mobility disabilities to use wheelchairs and manually-powered mobility aids, such as walkers, crutches, canes, braces, or other similar devices designed for use by individuals with mobility disabilities in any areas open to pedestrian use.
 - (b)
@@ -608,7 +611,7 @@ This part does not require a public entity to provide to individuals with disabi
   - 1. Inquiry about disability. A public entity shall not ask an individual using a wheelchair or other power-driven mobility device questions about the nature and extent of the individual's disability.
   - (2) Inquiry into use of other power-driven mobility device. A public entity may ask a person using an other power-driven mobility device to provide a credible assurance that the mobility device is required because of the person's disability. A public entity that permits the use of an other power-driven mobility device by an individual with a mobility disability shall accept the presentation of a valid, State-issued, disability parking placard or card, or other State-issued proof of disability as a credible assurance that the use of the other power-driven mobility device is for the individual's mobility disability. In lieu of a valid, State-issued disability parking placard or card, or State-issued proof of disability, a public entity shall accept as a credible assurance a verbal representation, not contradicted by observable fact, that the other power-driven mobility device is being used for a mobility disability. A &#8220;valid&#8221; disability placard or card is one that is presented by the individual to whom it was issued and is otherwise in compliance with the State of issuance&#8217;s requirements for disability placards or cards.
 
-### &sect; <a name="a35138" id="a35138"></a>35.138 Ticketing
+### &sect; 35.138 Ticketing
 
 - (a)
   - (1) For the purposes of this section, &#8220;accessible seating&#8221; is defined as wheelchair spaces and companion seats that comply with sections 221 and 802 of the 2010 Standards along with any other seats required to be offered for sale to the individual with a disability pursuant to paragraph (d) of this section.
@@ -647,29 +650,29 @@ This part does not require a public entity to provide to individuals with disabi
   - (2) Series-of-events tickets. For series-of-events tickets, it is permissible to ask the individual purchasing the tickets for accessible seating to attest in writing that the accessible seating is for a person who has a mobility disability or a disability that requires the use of the accessible features that are provided in the accessible seating.
   - (3) Investigation of fraud. A public entity may investigate the potential misuse of accessible seating where there is good cause to believe that such seating has been purchased fraudulently.
 
-### &sect; <a name="a35139" id="a35139"></a>35.139 Direct threat.
+### &sect; 35.139 Direct threat.
 
 - (a) This part does not require a public entity to permit an individual to participate in or benefit from the services, programs, or activities of that public entity when that individual poses a direct threat to the health or safety of others.
 - (b) In determining whether an individual poses a direct threat to the health or safety of others, a public entity must make an individualized assessment, based on reasonable judgment that relies on current medical knowledge or on the best available objective evidence, to ascertain: the nature, duration, and severity of the risk; the probability that the potential injury will actually occur; and whether reasonable modifications of policies, practices, or procedures or the provision of auxiliary aids or services will mitigate the risk.
 
-## <a name="subpartc" id="subpartc"></a>Subpart C&#8212;Employment
+## Subpart C&#8212;Employment
 
-### &sect;<a name="a35140" id="a35140"></a> 35.140 Employment discrimination prohibited
+### &sect; 35.140 Employment discrimination prohibited
 
 - (a) No qualified individual with a disability shall, on the basis of disability, be subjected to discrimination in employment under any service, program, or activity conducted by a public entity.
 - (b)
   - (1) For purposes of this part, the requirements of title I of the Act, as established by the regulations of the Equal Employment Opportunity Commission in 29 CFR part 1630, apply to employment in any service, program, or activity conducted by a public entity if that public entity is also subject to the jurisdiction of title I.
   - (2) For the purposes of this part, the requirements of section 504 of the Rehabilitation Act of 1973, as established by the regulations of the Department of Justice in 28 CFR part 41, as those requirements pertain to employment, apply to employment in any service, program, or activity conducted by a public entity if that public entity is not also subject to the jurisdiction of title I.
 
-### &sect;&sect; <a name="a35141" id="a35141"></a>35.141&#8212;35.148 \[Reserved\]
+### &sect;&sect; 35.141&#8212;35.148 \[Reserved\]
 
-## <a name="subpartd" id="subpartd"></a>Subpart D&#8212;Program Accessibility
+## Subpart D&#8212;Program Accessibility
 
-### &sect; <a name="a35149" id="a35149"></a>35.149 Discrimination prohibited.
+### &sect; 35.149 Discrimination prohibited.
 
 Except as otherwise provided in &sect; 35.150, no qualified individual with a disability shall, because a public entity's facilities are inaccessible to or unusable by individuals with disabilities, be excluded from participation in, or be denied the benefits of the services, programs, or activities of a public entity, or be subjected to discrimination by any public entity.
 
-### &sect; <a name="a35150" id="a35150"></a>35.150 Existing facilities
+### &sect; 35.150 Existing facilities
 
 - (a) General. A public entity shall operate each service, program, or activity so that the service, program, or activity, when viewed in its entirety, is readily accessible to and usable by individuals with disabilities. This paragraph does not&#8212;
   - (1) Necessarily require a public entity to make each of its existing facilities accessible to and usable by individuals with disabilities;
@@ -711,7 +714,7 @@ Except as otherwise provided in &sect; 35.150, no qualified individual with a di
   - (iv) Indicate the official responsible for implementation of the plan.
 - (4) If a public entity has already complied with the transition plan requirement of a Federal agency regulation implementing section 504 of the Rehabilitation Act of 1973, then the requirements of this paragraph (d) shall apply only to those policies and practices that were not included in the previous transition plan.
 
-### &sect; <a name="a35151" id="a35151"></a>35.151 New construction and alterations
+### &sect; 35.151 New construction and alterations
 
 - (a) Design and construction.
   - (1) Each facility or part of a facility constructed by, on behalf of, or for the use of a public entity shall be designed and constructed in such manner that the facility or part of the facility is readily accessible to and usable by individuals with disabilities, if the construction was commenced after January 26, 1992.
@@ -806,7 +809,7 @@ Alterations</th> <th>Applicable Standards</th>
       - (iv) If it is technically infeasible to locate a substitute cell within the same prison site, a substitute cell must be provided at another prison site within the corrections system.
     - (3) With respect to medical and long-term care facilities in jails, prisons, and other detention and correctional facilities, public entities shall apply the 2010 Standards technical and scoping requirements for those facilities irrespective of whether those facilities are licensed.
 
-### &sect; <a name="a35152" id="a35152"></a>35.152 Jails, detention and correctional facilities, and community correctional facilities.
+### &sect; 35.152 Jails, detention and correctional facilities, and community correctional facilities.
 
 - (a) General. This section applies to public entities that are responsible for the operation or management of adult and juvenile justice jails, detention and correctional facilities, and community correctional facilities, either directly or through contractual, licensing, or other arrangements with public or private entities, in whole or in part, including private correctional facilities.
 - (b) Discrimination prohibited.
@@ -818,11 +821,11 @@ Alterations</th> <th>Applicable Standards</th>
     - (iv) Shall not deprive inmates or detainees with disabilities of visitation with family members by placing them in distant facilities where they would not otherwise be housed.
   - (3) Public entities shall implement reasonable policies, including physical modifications to additional cells in accordance with the 2010 Standards, so as to ensure that each inmate with a disability is housed in a cell with the accessible elements necessary to afford the inmate access to safe, appropriate housing.
 
-### &sect;&sect; <a name="a35153" id="a35153"></a>35.153&#8212;35.159 \[Reserved\]
+### &sect;&sect; 35.153&#8212;35.159 \[Reserved\]
 
-## <a name="subparte" id="subparte"></a>Subpart E&#8212;Communications
+## Subpart E&#8212;Communications
 
-### <a name="a35160" id="a35160"></a>&sect; 35.160 General.
+### &sect; 35.160 General.
 
 - (a)
   - (1) A public entity shall take appropriate steps to ensure that communications with applicants, participants, members of the public, and companions with disabilities are as effective as communications with others.
@@ -842,17 +845,17 @@ Alterations</th> <th>Applicable Standards</th>
   - (3) A clear, audible transmission of voices; and
   - (4) Adequate training to users of the technology and other involved individuals so that they may quickly and efficiently set up and operate the VRI.
 
-### &sect; <a name="a35161" id="a35161"></a>35.161 Telecommunications.
+### &sect; 35.161 Telecommunications.
 
 - (a) Where a public entity communicates by telephone with applicants and beneficiaries, text telephones (TTYs) or equally effective telecommunications systems shall be used to communicate with individuals who are deaf or hard of hearing or have speech impairments.
 - (b) When a public entity uses an automated-attendant system,including, but not limited to, voice mail and messaging, or aninteractive voice response system, for receiving and directing incomingtelephone calls, that system must provide effective real-timecommunication with individuals using auxiliary aids and services,including TTYs and all forms of FCC-approved telecommunications relaysystem, including Internet-based relay systems.
 - (c) A public entity shall respond to telephone calls from atelecommunications relay service established under title IV of the ADAin the same manner that it responds to other telephone calls.
 
-### &sect; <a name="a35162" id="a35162"></a>35.162 Telephone emergency services
+### &sect; 35.162 Telephone emergency services
 
 Telephone emergency services, including 911 services, shall provide direct access to individuals who use TDD's and computer modems.
 
-### &sect; <a name="a35163" id="a35163"></a>35.163 Information and signage
+### &sect; 35.163 Information and signage
 
 - (a) A public entity shall ensure that interested persons,
   including persons with impaired vision or hearing, can obtain
@@ -863,21 +866,21 @@ Telephone emergency services, including 911 services, shall provide direct acces
   accessible facilities. The international symbol for accessibility shall
   be used at each accessible entrance of a facility. </li> </ul>
 
-### &sect; <a name="a35164" id="a35164"></a>35.164 Duties
+### &sect; 35.164 Duties
 
 This subpart does not require a public entity to take any action that it can demonstrate would result in a fundamental alteration in the nature of a service, program, or activity or in undue financial and administrative burdens. In those circumstances where personnel of the public entity believe that the proposed action would fundamentally alter the service, program, or activity or would result in undue financial and administrative burdens, a public entity has the burden of proving that compliance with this subpart would result in such alteration or burdens. The decision that compliance would result in such alteration or burdens must be made by the head of the public entity or his or her designee after considering all resources available for use in the funding and operation of the service, program, or activity and must be accompanied by a written statement of the reasons for reaching that conclusion. If an action required to comply with this subpart would result in such an alteration or such burdens, a public entity shall take any other action that would not result in such an alteration or such burdens but would nevertheless ensure that, to the maximum extent possible, individuals with disabilities receive the benefits or services provided by the public entity.
 
-### &sect;&sect; <a name="a35165" id="a35165"></a>35.165&#8212;35.169 \[Reserved\]
+### &sect;&sect; 35.165&#8212;35.169 \[Reserved\]
 
-## <a name="subpartf" id="subpartf"></a>Subpart F&#8212;Compliance Procedures
+## Subpart F&#8212;Compliance Procedures
 
-### &sect; <a name="a35170" id="a35170"></a>35.170 Complaints
+### &sect; 35.170 Complaints
 
 - (a) Who may file. An individual who believes that he or she or a specific class of individuals has been subjected to discrimination on the basis of disability by a public entity may, by himself or herself or by an authorized representative, file a complaint under this part.
 - (b) Time for filing. A complaint must be filed not later than 180 days from the date of the alleged discrimination, unless the time for filing is extended by the designated agency for good cause shown. A complaint is deemed to be filed under this section on the date it is first filed with any Federal agency.
 - (c) Where to file. An individual may file a complaint with any agency that he or she believes to be the appropriate agency designated under subpart G of this part, or with any agency that provides funding to the public entity that is the subject of the complaint, or with the Department of Justice for referral as provided in &sect;35.171(a)(2).
 
-### &sect;<a name="a35171" id="a35171"></a> 35.171 Acceptance of complaints
+### &sect; 35.171 Acceptance of complaints
 
 - (a) Receipt of complaints.
   - (1)
@@ -897,7 +900,7 @@ This subpart does not require a public entity to take any action that it can dem
   - (1) A designated agency shall accept all complete complaints under this section and shall promptly notify the complainant and the public entity of the receipt and acceptance of the complaint.
   - (2) If the designated agency receives a complaint that is not complete, it shall notify the complainant and specify the additional information that is needed to make the complaint a complete complaint. If the complainant fails to complete the complaint, the designated agency shall close the complaint without prejudice.
 
-### &sect; <a name="a35172" id="a35172"></a>35.172 Investigations and compliance reviews.
+### &sect; 35.172 Investigations and compliance reviews.
 
 - (a) The designated agency shall investigate complaints for which it is responsible under &sect; 35.171.
 - (b) The designated agency may conduct compliance reviews of public entities in order to ascertain whether there has been a failure to comply with the nondiscrimination requirements of this part.
@@ -907,7 +910,7 @@ This subpart does not require a public entity to take any action that it can dem
   - (3) Notice of the rights and procedures available under paragraph (d) of this section and &sect;&sect; 35.173 and 35.174.
 - (d) At any time, the complainant may file a private suit pursuant to section 203 of the Act, 42 U.S.C. 12133, whether or not the designated agency finds a violation.
 
-### &sect; <a name="a35173" id="a35173"></a>35.173 Voluntary compliance agreements
+### &sect; 35.173 Voluntary compliance agreements
 
 - (a) When the designated agency issues a noncompliance Letter of Findings, the designated agency shall&#8212;
   - (1) Notify the Assistant Attorney General by forwarding a copy of the Letter of Findings to the Assistant Attorney General; and
@@ -921,31 +924,31 @@ This subpart does not require a public entity to take any action that it can dem
   - (4) Provide assurance that discrimination will not recur; and
   - (5) Provide for enforcement by the Attorney General.
 
-### &sect;<a name="a35174" id="a35174"></a> 35.174 Referral.
+### &sect; 35.174 Referral.
 
 If the public entity declines to enter into voluntary compliance negotiations or if negotiations are unsuccessful, the designated agency shall refer the matter to the Attorney General with a recommendation for appropriate action.
 
-### &sect; <a name="a35175" id="a35175"></a>35.175 Attorney's fees.
+### &sect; 35.175 Attorney's fees.
 
 In any action or administrative proceeding commenced pursuant to the Act or this part, the court or agency, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney's fee, including litigation expenses, and costs, and the United States shall be liable for the foregoing the same as a private individual.
 
-### &sect; <a name="a35176" id="a35176"></a>35.176 Alternative means of dispute resolution.
+### &sect; 35.176 Alternative means of dispute resolution.
 
 Where appropriate and to the extent authorized by law, the use of alternative means of dispute resolution, including settlement negotiations, conciliation, facilitation, mediation, factfinding, minitrials, and arbitration, is encouraged to resolve disputes arising under the Act and this part.
 
-### &sect;<a name="a35177" id="a35177"></a> 35.177 Effect of unavailability of technical assistance.
+### &sect; 35.177 Effect of unavailability of technical assistance.
 
 A public entity shall not be excused from compliance with the requirements of this part because of any failure to receive technical assistance, including any failure in the development or dissemination of any technical assistance manual authorized by the Act.
 
-### &sect; <a name="a35178" id="a35178"></a>35.178 State immunity.
+### &sect; 35.178 State immunity.
 
 A State shall not be immune under the eleventh amendment to the Constitution of the United States from an action in Federal or State court of competent jurisdiction for a violation of this Act. In any action against a State for a violation of the requirements of this Act, remedies (including remedies both at law and in equity) are available for such a violation to the same extent as such remedies are available for such a violation in an action against any public or private entity other than a State.
 
-### &sect;&sect; <a name="a35179" id="a35179"></a>35.179&#8212;35.189 \[Reserved\]
+### &sect;&sect; 35.179&#8212;35.189 \[Reserved\]
 
-## <a name="subpartg" id="subpartg"></a>Subpart G&#8212;Designated Agencies
+## Subpart G&#8212;Designated Agencies
 
-### &sect; <a name="a35190" id="a35190"></a>35.190 Designated Agencies.
+### &sect; 35.190 Designated Agencies.
 
 - (a) The Assistant Attorney General shall coordinate the compliance activities of Federal agencies with respect to State and local government components, and shall provide policy guidance and interpretations to designated agencies to ensure the consistent and effective implementation of the requirements of this part.
 - (b) The Federal agencies listed in paragraph (b)(1)-(8) of this section shall have responsibility for the implementation of subpart F of this part for components of State and local governments that exercise responsibilities, regulate, or administer services, programs, or activities in the following functional areas.
@@ -961,9 +964,9 @@ A State shall not be immune under the eleventh amendment to the Constitution of 
 - (d) If two or more agencies have apparent responsibility over a complaint, the Assistant Attorney General shall determine which one of the agencies shall be the designated agency for purposes of that complaint.
 - (e) When the Department receives a complaint directed to the Attorney General alleging a violation of this part that may fall within the jurisdiction of a designated agency or another Federal agency that may have jurisdiction under section 504, the Department may exercise its discretion to retain the complaint for investigation under this part.
 
-### <a name="a35191" id="a35191"></a>&sect;&sect; 35.191&#8212;35.999 \[Reserved\]
+### &sect;&sect; 35.191&#8212;35.999 \[Reserved\]
 
-## <a name="a2010guidance" id="a2010guidance"></a>Title II Regulations: 2010 Guidance and Section-by-Section Analysis
+## Title II Regulations: 2010 Guidance and Section-by-Section Analysis
 
 <strong>Appendix A to Part 35—Guidance to Revisions to ADA Regulation on Nondiscrimination on the Basis of Disability in State and Local Government Services</strong>
 Note: This Appendix contains guidance providing a section-by-section analysis of the revisions to 28 CFR part 35 published on September 15, 2010.
@@ -1444,7 +1447,7 @@ In Appendix A of the Department's 1991 title II regulation, the Department inclu
 
 ### Section 35.150(b)(2) Safe harbor
 
-The ‘‘program accessibility'' requirement in regulations implementing title II of the Americans with Disabilities Act requires that each service, program, or activity, when viewed in its entirety, be readily accessible to and usable by individuals with disabilities. 28 CFR 35.150(a). Because title II evaluates a public entity's programs, services, and activities in their entirety, public entities have flexibility in addressing accessibility issues. Program access does not necessarily require a public entity to make each of its existing facilities accessible to and usable by individuals with disabilities, and public entities are not required to make structural changes to existing facilities where other methods are effective in achieving program access. See id. <a name="rftnt3" id="rftnt3"></a><sup><a href="#ftnt3">3</a></sup> Public entities do, however, have program access considerations that are independent of, but may coexist with, requirements imposed by new construction or alteration requirements in those same facilities.
+The ‘‘program accessibility'' requirement in regulations implementing title II of the Americans with Disabilities Act requires that each service, program, or activity, when viewed in its entirety, be readily accessible to and usable by individuals with disabilities. 28 CFR 35.150(a). Because title II evaluates a public entity's programs, services, and activities in their entirety, public entities have flexibility in addressing accessibility issues. Program access does not necessarily require a public entity to make each of its existing facilities accessible to and usable by individuals with disabilities, and public entities are not required to make structural changes to existing facilities where other methods are effective in achieving program access. See id. {% fn 3 %} Public entities do, however, have program access considerations that are independent of, but may coexist with, requirements imposed by new construction or alteration requirements in those same facilities.
 
 Where a public entity opts to alter existing facilities to comply with its program access requirements, the entity must meet the accessibility requirements for alterations set out in &sect; 35.151. Under the final rule, these alterations will be subject to the 2010 Standards. The 2010 Standards introduce technical and scoping specifications for many elements not covered by the 1991 Standards. In existing facilities, these supplemental requirements need to be taken into account by a public entity in ensuring program access. Also included in the 2010 Standards are revised technical and scoping requirements for a number of elements that were addressed in the 1991 Standards. These revised requirements reflect incremental changes that were added either because of additional study by the Access Board or in order to harmonize requirements with the model codes.
 
@@ -2021,7 +2024,7 @@ Attorney areas and witness stands. The 1991 Standards do not require that public
 
 Those who commented on access to judicial facilities and courtrooms uniformly favored the adoption of the 2010 Standards. Virtually all of the commenters stated that accessible judicial facilities are crucial to ensuring that individuals with disabilities are afforded due process under law and have an equal opportunity to participate in the judicial process. None of the commenters favored returning this requirement to the Access Board for further consideration.
 
-The majority of commenters, including many disability rights and advocacy organizations, stated that it is crucial for individuals with disabilities to have effective and meaningful access to our judicial system so as to afford them due process under law. They objected to asking the Access Board to reconsider this requirement. In addition to criticizing the initial RIA for virtually ignoring the intangible and non-monetary benefits associated with accessible courtrooms, these commenters frequently cited the Supreme Court's decision in Tennessee v. Lane, 541 U.S. 509, 531 (2004),<sup><a href="#ftnt4">4</a></sup> <a name="rftnt4" id="rftnt4"></a>as ample justification for the requirement, noting the Court's finding that ‘‘\[t\]he unequal treatment of disabled persons in the administration of judicial services has a long history, and has persisted despite several legislative efforts to remedy the problem of disability discrimination.'' Id. at 531. These commenters also made a number of observations, including the following: providing effective access to individuals with mobility impairments is not possible when architectural barriers impede their path of travel and negatively emphasize an individual's disability; the perception generated by makeshift accommodations discredits witnesses and attorneys with disabilities, who should not be stigmatized or treated like second-class citizens; the cost of accessibility modifications to existing courthouses can often be significantly decreased by planning ahead, by focusing on low-cost options that provide effective access, and by addressing existing barriers when reasonable modifications to the courtroom can be made; by planning ahead and by following best practices, jurisdictions can avoid those situations where it is apparent that someone's disability is the reason why ad hoc arrangements have to be made prior to the beginning of court proceedings; and accessibility should be a key concern during the planning and construction process so as to ensure that both courtroom grandeur and accessibility are achieved. One commenter stated that, in order for attorneys with disabilities to perform their professional duties to their clients and the court, it is essential that accessible courtrooms, conference rooms, law libraries, judicial chambers, and other areas of a courthouse be made barrier-free by taking accessible design into account prior to construction.
+The majority of commenters, including many disability rights and advocacy organizations, stated that it is crucial for individuals with disabilities to have effective and meaningful access to our judicial system so as to afford them due process under law. They objected to asking the Access Board to reconsider this requirement. In addition to criticizing the initial RIA for virtually ignoring the intangible and non-monetary benefits associated with accessible courtrooms, these commenters frequently cited the Supreme Court's decision in Tennessee v. Lane, 541 U.S. 509, 531 (2004), {% fn 4%} as ample justification for the requirement, noting the Court's finding that ‘‘\[t\]he unequal treatment of disabled persons in the administration of judicial services has a long history, and has persisted despite several legislative efforts to remedy the problem of disability discrimination.'' Id. at 531. These commenters also made a number of observations, including the following: providing effective access to individuals with mobility impairments is not possible when architectural barriers impede their path of travel and negatively emphasize an individual's disability; the perception generated by makeshift accommodations discredits witnesses and attorneys with disabilities, who should not be stigmatized or treated like second-class citizens; the cost of accessibility modifications to existing courthouses can often be significantly decreased by planning ahead, by focusing on low-cost options that provide effective access, and by addressing existing barriers when reasonable modifications to the courtroom can be made; by planning ahead and by following best practices, jurisdictions can avoid those situations where it is apparent that someone's disability is the reason why ad hoc arrangements have to be made prior to the beginning of court proceedings; and accessibility should be a key concern during the planning and construction process so as to ensure that both courtroom grandeur and accessibility are achieved. One commenter stated that, in order for attorneys with disabilities to perform their professional duties to their clients and the court, it is essential that accessible courtrooms, conference rooms, law libraries, judicial chambers, and other areas of a courthouse be made barrier-free by taking accessible design into account prior to construction.
 
 Numerous commenters identified a variety of benefits that would accrue as a result of requiring judicial facilities to be accessible. These included the following: maintaining the decorum of the courtroom and eliminating the disruption of court proceedings when individuals confront physical barriers; providing an accessible route to the witness stand and attorney area and clear floor space to accommodate a wheelchair within the witness area; establishing crucial lines of sight between the judge, jury, witnesses, and attorneys—which commenters described as crucial; ensuring that the judge and the jury will not miss key visual indicators of a witness; maintaining a witness's or attorney's dignity and credibility; shifting the focus from a witness's disability to the substance of that person's testimony; fostering the independence of an individual with disability; allowing persons with mobility impairments to testify as witnesses, including as expert witnesses; ensuring the safety of various participants in a courtroom proceeding; and avoiding unlawful discrimination. One commenter stated that equal access to the well of the courtroom for both attorney and client is important for equal participation and representation in our court system. Other commenters indicated that accessible judicial facilities benefit a wide range of people, including many persons without disabilities, senior citizens, parents using strollers with small children, and attorneys and court personnel wheeling documents into the courtroom. One commenter urged the adoption of the work area provisions because they would result in better workplace accessibility and increased productivity. Several commenters urged the adoption of the rule because it harmonizes the ADAAG with the model IBC, the standards developed by the American National Standards Institute (ANSI), and model codes that have been widely adopted by State and local building departments, thus increasing the prospects for better understanding and compliance with the ADAAG by architects, designers, and builders.
 
@@ -2121,11 +2124,16 @@ Dated: July 23, 2010.
 
 Eric H. Holder, Jr., Attorney General.
 
-<a href="#rftnt3"><sup>3</sup></a><a name="ftnt3" id="ftnt3"></a>The term &quot;existing facility&quot; is defined in &sect; 35.104 as amended by this rule.
+{% footnotes %}
+{% fnbody 3 %}
+The term &quot;existing facility&quot; is defined in &sect; 35.104 as amended by this rule.
+{% endfnbody %}
+{% fnbody 4 %}
+The Supreme Court in Tennessee v. Lane, 541 U.S. 509, 5330534 (2004), held that title II of the ADA constitutes a valid exercise of Congress' enforcement power under the Fourteenth Amendment in cases implicating the fundamental access to the courts.
+{% endfnbody %}
+{% endfootnotes %}
 
-<sup><a href="#rftnt4">4</a></sup> <a name="ftnt4" id="ftnt4"></a>The Supreme Court in Tennessee v. Lane, 541 U.S. 509, 5330534 (2004), held that title II of the ADA constitutes a valid exercise of Congress' enforcement power under the Fourteenth Amendment in cases implicating the fundamental access to the courts.
-
-## <a name="a1991preamble" id="a1991preamble"></a>Title II Regulations; 1991 Preamble and Section-by-Section Analysis
+## Title II Regulations; 1991 Preamble and Section-by-Section Analysis
 
 ### Appendix B to Part 35—Guidance on ADA Regulation on Nondiscrimination on the Basis of Disability in State and Local Government Services Originally Published July 26, 1991
 
@@ -2481,7 +2489,7 @@ In the proposed regulation the Department cross-referenced the regulations imple
 
 The Department, together with the other Federal agencies responsible for the enforcement of Federal laws prohibiting employment discrimination on the basis of disability, recognizes the potential for jurisdictional overlap that exists with respect to coverage of public entities and the need to avoid problems related to overlapping coverage. The other Federal agencies include the Equal Employment Opportunity Commission, which is the agency primarily responsible for enforcement of title I of the ADA, the Department of Labor, which is the agency responsible for enforcement of section 503 of the Rehabilitation Act of 1973, and 26 Federal agencies with programs of Federal financial assistance, which are responsible for enforcing section 504 in those programs. Section 107 of the ADA requires that coordination mechanisms be developed in connection with the administrative enforcement of complaints alleging discrimination under title I and complaints alleging discrimination in employment in violation of the Rehabilitation Act. Although the ADA does not specifically require inclusion of employment complaints under title II in the coordinating mechanisms required by title I, Federal investigations of title II employment complaints will be coordinated on a government-wide basis also. The Department is currently working with the EEOC and other affected Federal agencies to develop effective coordinating mechanisms, and final regulations on this issue will be issued on or before January 26, 1992.
 
-## <a name="subpartd2" id="subpartd2"></a>Subpart D -- Program Accessibility
+## Subpart D -- Program Accessibility
 
 ### &sect;35.149 Discrimination prohibited.
 
@@ -2713,13 +2721,13 @@ Justice will be referred to the apropriate agency.
 
 Several commenters proposed a stronger role for the Department of Justice, especially with respect to the receipt and assignment of complaints, and the overall monitoring of the effectiveness of the enforcement activities of Federal agencies. As discussed above, &sect;&sect; 35.170 and 35.171 have been revised to provide for referral of complaints by the Department of Justice to appropriate enforcement agencies. Also, language has been added to &sect;35.190(a) of the final regulation stating that the Assistant Attorney General shall provide policy guidance and interpretations to designated agencies to ensure the consistent and effective implementation of this part.
 
-## <a name="pool-ext" id="pool-ext"></a>Title II Regulations; Pool Extension Final Rule Guidance and Section-by Section Analysis
+## Title II Regulations; Pool Extension Final Rule Guidance and Section-by Section Analysis
 
 NOTE: The Guidance and Section-by-Section Analysis for the updates made by the Pool Extension Final Rule can be found at:
 
 [https://www.ada.gov/regs2010/ADAregs2012/finalrule_existingpools_FR_may21.htm](regs2010/ADAregs2012/finalrule_existingpools_FR_may21.htm).
 
-## <a name="adaaa" id="adaaa"></a>Title II Regulations; ADA Amendments Act Final Rule Guidance and Section-by-Section Analysis
+## Title II Regulations; ADA Amendments Act Final Rule Guidance and Section-by-Section Analysis
 
 <strong>APPENDIX C TO PART 35—GUIDANCE TO REVISIONS TO ADA TITLE II AND TITLE III REGULATIONS REVISING THE MEANING AND INTERPRETATION OF THE DEFINITION OF &ldquo;DISABILITY&rdquo; AND OTHER PROVISIONS IN ORDER TO INCORPORATE THE REQUIREMENTS OF THE ADA AMENDMENTS ACT</strong>
 
