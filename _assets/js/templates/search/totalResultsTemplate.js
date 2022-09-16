@@ -13,10 +13,10 @@ export default function totalResults(resultsTotal=0, type="results") {
     if (resultsTotal === 1) {
         return equalToOne;
     }
-    if (resultsTotal < 1) {
+    if (resultsTotal === 0) {
         return lessThanOne;
     }
-    if (resultsTotal === null) {
+    if (resultsTotal === -1) {
         return errorMessage;
     }
 }

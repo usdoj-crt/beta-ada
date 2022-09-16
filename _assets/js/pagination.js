@@ -26,12 +26,12 @@ function reqLoaded() {
     let resJSON = JSON.parse(this.responseText);
     renderSearchPage(resJSON, urlParams, NUMBER_OF_RESULTS);
   } else {
-    target.innerHTML = totalResults(null, 'result');
+    target.innerHTML = totalResults(-1, 'result');
   }
 }
 // If timeout:
 function reqTimeout() {
-  target.innerHTML = totalResults(null, 'result');
+  target.innerHTML = totalResults(-1, 'result');
 }
 
 let req = new XMLHttpRequest();
