@@ -34,10 +34,10 @@ They do not include:
 Child care providers must:  
 
 {% list check_circle %}
-{% list_item %}Make an individualized assessment about whether they can meet the particular needs of a child with a disability.{% endlist_item %}
+{% list_item %}Make an *individualized assessment* about whether they can meet the particular needs of a child with a disability.{% endlist_item %}
 {% endlist %}
 
-{% details What do we mean by individualized assessment under the ADA? %}  
+{% details What do we mean by <em>individualized assessment</em> under the ADA? %}  
 The question of whether a child care center can meet a child’s needs must not be based on  negative feelings or assumptions about children with disabilities. This is why blanket policies that exclude children with certain types of disabilities are unlawful. Parents or guardians can be valuable resources to help child care centers meet the individualized needs of their children.
 {% enddetails %}  
 
@@ -45,12 +45,12 @@ The question of whether a child care center can meet a child’s needs must not 
 {% list_item %}Make reasonable modifications to their policies and practices to allow for children with disabilities to participate. Here are examples of some common reasonable modifications:{% endlist_item %}
 {% endlist %}
 
-- Change a toilet training policy to assist a child with Down syndrome who, due to her disability, requires assistance with going to the bathroom.  
-- Change a discipline policy to ensure that a child with autism has equal access to the program with appropriate supports, such as training staff to aid the child in deescalating behavior when the child acts out.  
-- Change a medication policy so that a trained staff person may assist a child with diabetes in the administration of insulin or Glucagon, an emergency, life-saving medication for individuals with diabetes.  
+- *Change a toilet training policy* to assist a child with Down syndrome who, due to her disability, requires assistance with going to the bathroom.  
+- *Change a discipline policy* to ensure that a child with autism has equal access to the program with appropriate supports, such as training staff to aid the child in deescalating behavior when the child acts out.  
+- *Change a medication policy* so that a trained staff person may assist a child with diabetes in the administration of insulin or Glucagon, an emergency, life-saving medication for individuals with diabetes.  
 
 {% list check_circle %}
-{% list_item %}Provide appropriate aids and services needed to effectively communicate with children or adults with disabilities.{% endlist_item %}
+{% list_item %}Provide appropriate aids and services needed to [effectively communicate]( {{'/resources/effective-communication/'| relative_url}}) with children or adults with disabilities.{% endlist_item %}
 {% endlist %}  
 
 - If a child care center is closing early due to bad weather, that may mean using different methods—not just calls but emails or text messages—to communicate with deaf or hard of hearing parents or guardians.  
