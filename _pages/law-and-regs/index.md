@@ -1,15 +1,15 @@
 ---
-permalink: /law-and-regs/title-ii-2010-regulations/
+permalink: /law-and-regs/
 title: Review Laws, Regulations & Standards
-lead: |-
-    When we talk about what the ADA requires on ADA.gov, we are usually referring to two sources:
-    1. The text of the ADA, also referred to as the ADA statute, passed by Congress in
-    1990 and later amended.
-    2. Regulations developed by the Department of Justice that state/local governments
-    and many businesses must follow to ensure that they do not discriminate against
-    people with disabilities.
 sidenav: false
 ---
+
+When we talk about what the ADA requires on ADA.gov, we are usually referring to two sources:
+1. The text of the ADA, also referred to as the ADA statute, passed by Congress in
+1990 and later amended.
+2. Regulations developed by the Department of Justice that state/local governments
+and many businesses must follow to ensure that they do not discriminate against
+people with disabilities.
 
 ## The Americans with Disabilities Act (ADA)
 
