@@ -1,5 +1,5 @@
 ---
-permalink: /law-and-regs/
+permalink: /law-and-regs/title-ii-2010-regulations/
 title: Review Laws, Regulations & Standards
 sidenav: false
 ---
