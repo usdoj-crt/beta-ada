@@ -10,8 +10,8 @@ card:
   title_alt: telehealth
   description: |-
     The ADA prohibits healthcare providers from discriminating on the basis of disability. This is true when health care is provided in person or through “telehealth.”
-  image: landing/voting.jpg
-  alt: "A vote here sign at a polling place on election day"
+  image: landing/telehealth.jpg
+  alt: "photo of a person on a video call with a doctor"
   href: /topics/telehealth/
 ---
 ## What is telehealth?  
