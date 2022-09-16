@@ -33,7 +33,6 @@ const hide = () => {
 
 // Function to check scroll position, set flags for scrolling up, and for calling toggleShow
 const checkYPos = () => {
-  console.log('checking pos...')
   // Get page-Y-offset value with every scroll
   let scroll = window.pageYOffset;
 
