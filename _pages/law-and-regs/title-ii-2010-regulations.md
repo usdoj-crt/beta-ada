@@ -2167,7 +2167,7 @@ Paragraph (b) makes clear that Congress did not intend to displace any of the ri
 
 With respect to State law, a plaintiff may choose to pursue claims under a State law that does not confer greater substantive rights, or even confers fewer substantive rights, if the alleged violation is protected under the alternative law and the remedies are greater. For example, a person with a physical disability could seek damages under a State law that allows compensatory and punitive damages for discrimination on the basis of physical disability, but not on the basis of mental disability. In that situation, the State law would provide narrower coverage, by excluding mental disabilities, but broader remedies, and an individual covered by both laws could choose to bring an action under both laws. Moreover, State tort claims confer greater remedies and are not preempted by the ADA. A plaintiff may join a State tort claim to a case brought under the ADA. In such a case, the plaintiff must, of course, prove all the elements of the State tort claim in order to prevail under that cause of action.
 
-### &sect; 35.104 Definitions.
+**&sect; 35.104 Definitions.**
 
 &quot;Act.&quot; The word &quot;Act&quot; is used in this part to refer to the Americans with Disabilities Act of 1990, Pub. L. 101-336, which is also referred to as the &quot;ADA.&quot;
 
