@@ -10,8 +10,8 @@ card:
   title_alt: voting
   description: |-
     The ADA requires state and local governments and their election officials to ensure that people with disabilities have a full and equal opportunity to vote in all elections.
-  image: landing/parental-rights.jpg
-  alt: Voting rights alt text
+  image: landing/voting.jpg
+  alt: "A vote here sign at a polling place on election day"
   href: /topics/voting/
 ---
 If you are an election official, you can use the information below to help make voting accessible and resolve some common accessibility barriers. If you are a person with a disability, the information should help you understand how the ADA protects your right to vote.  
