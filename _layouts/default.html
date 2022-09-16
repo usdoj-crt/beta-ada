@@ -13,6 +13,9 @@
     {{ content }}
   </main>
   {% include footer.html %}
+  {% unless page.back-to-top == nil or page.back-to-top == false  %}
+  {% include back-to-top.html %}
+  {% endunless %}
   {% unless page.title == "Give Us Feedback" %}
   {% include touchpoints.html %}
   {% endunless %}
