@@ -50,6 +50,3 @@ In the [Spring 2022 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMai
 The [Unified Agenda](https://www.reginfo.gov/public/jsp/eAgenda/UA_About.myjsp) provides information about federal agencies’ regulatory priorities and the specific regulations that they plan to issue in the short and long term.
 {% enddetails %}
 
-## Design Standards
-
-[View the 1991 and 2010 Design Standards]({{'/law-and-regs/design-standards' | relative_url }})
