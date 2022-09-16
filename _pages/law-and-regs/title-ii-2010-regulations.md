@@ -340,7 +340,7 @@ NOTE: These provisions update the relevant portions of the title II regulation t
 - (a) Rule of interpretation. Except as otherwise provided in this part, this part shall not be construed to apply a lesser standard than the standards applied under title V of the Rehabilitation Act of 1973 or the regulations issued by Federal agencies pursuant to that title.
 - (b) Other laws. This part does not invalidate or limit the remedies, rights, and procedures of any other Federal laws, or State or local laws (including State common law) that provide greater or equal protection for the rights of individuals with disabilities or individuals associated with them.
 
-### &sect; 35.104 Definitions.
+### Section 35.104 Definitions.
 
 > For purposes of this part, the term&#8212;
 
@@ -1439,7 +1439,7 @@ One commenter argued that face-to-face contact between the venue and the ticket 
 
 Some commenters asked whether it is permissible for assembly areas to have voluntary clubs where individuals with disabilities self-identify to the public entity in order to become a member of a club that entitles them to purchase accessible seating reserved for club members or otherwise receive priority in purchasing accessible seating. The Department agrees that such clubs are permissible, provided that a reasonable amount of accessible seating remains available at all prices and dispersed at all locations for individuals with disabilities who are non-members.
 
-### &sect; 35.139 Direct threat.
+#### &sect; 35.139 Direct threat.
 
 In Appendix A of the Department's 1991 title II regulation, the Department included a detailed discussion of ‘‘direct threat'' that, among other things, explained that ‘‘the principles established in &sect; 36.208 of the Department's [title III] regulation'' were ‘‘applicable'' as well to title II, insofar as ‘‘questions of safety are involved.'' 28 CFR part 35, app. A at 565 (2009). In the final rule, the Department has included specific requirements related to ‘‘direct threat'' that parallel those in the title III rule. These requirements are found in new &sect; 35.139.
 
