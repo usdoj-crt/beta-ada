@@ -139,8 +139,10 @@ The ADA is not the only federal law that safeguards the voting rights of a perso
     <tr>
       <th scope="row">Help America Vote Act of 2002</th>
       <td>Requires election officials responsible for conducting federal elections to:  
-      - provide at least one accessible voting system for persons with disabilities at each polling place; and  
-      - ensure that the accessible voting system provides the same privacy and independence that other voters receive.</td>
+      <ul>
+      <li>provide at least one accessible voting system for persons with disabilities at each polling place; and</li>  
+      <li>ensure that the accessible voting system provides the same privacy and independence that other voters receive.</li>
+      </ul></td>
       </tr>
       </tbody>
       </table>  
