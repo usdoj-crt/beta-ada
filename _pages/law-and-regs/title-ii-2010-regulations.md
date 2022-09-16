@@ -650,7 +650,7 @@ This part does not require a public entity to provide to individuals with disabi
   - (2) Series-of-events tickets. For series-of-events tickets, it is permissible to ask the individual purchasing the tickets for accessible seating to attest in writing that the accessible seating is for a person who has a mobility disability or a disability that requires the use of the accessible features that are provided in the accessible seating.
   - (3) Investigation of fraud. A public entity may investigate the potential misuse of accessible seating where there is good cause to believe that such seating has been purchased fraudulently.
 
-### &sect; 35.139 Direct threat.
+### Section 35.139 Direct threat.
 
 - (a) This part does not require a public entity to permit an individual to participate in or benefit from the services, programs, or activities of that public entity when that individual poses a direct threat to the health or safety of others.
 - (b) In determining whether an individual poses a direct threat to the health or safety of others, a public entity must make an individualized assessment, based on reasonable judgment that relies on current medical knowledge or on the best available objective evidence, to ascertain: the nature, duration, and severity of the risk; the probability that the potential injury will actually occur; and whether reasonable modifications of policies, practices, or procedures or the provision of auxiliary aids or services will mitigate the risk.
@@ -976,7 +976,7 @@ This section provides a detailed description of the Department's changes to the 
 
 ## Subpart A—General
 
-### Section 35.104 Definitions.
+### &sect; 35.104 Definitions.
 
 #### ‘‘1991 Standards'' and ‘‘2004 ADAAG''
 
@@ -1439,7 +1439,7 @@ One commenter argued that face-to-face contact between the venue and the ticket 
 
 Some commenters asked whether it is permissible for assembly areas to have voluntary clubs where individuals with disabilities self-identify to the public entity in order to become a member of a club that entitles them to purchase accessible seating reserved for club members or otherwise receive priority in purchasing accessible seating. The Department agrees that such clubs are permissible, provided that a reasonable amount of accessible seating remains available at all prices and dispersed at all locations for individuals with disabilities who are non-members.
 
-#### &sect; 35.139 Direct threat.
+### &sect; 35.139 Direct threat.
 
 In Appendix A of the Department's 1991 title II regulation, the Department included a detailed discussion of ‘‘direct threat'' that, among other things, explained that ‘‘the principles established in &sect; 36.208 of the Department's [title III] regulation'' were ‘‘applicable'' as well to title II, insofar as ‘‘questions of safety are involved.'' 28 CFR part 35, app. A at 565 (2009). In the final rule, the Department has included specific requirements related to ‘‘direct threat'' that parallel those in the title III rule. These requirements are found in new &sect; 35.139.
 
