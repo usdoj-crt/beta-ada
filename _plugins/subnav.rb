@@ -19,7 +19,7 @@ class Subnav < Jekyll::Generator
       if page.ext == ".md"
         doc = Nokogiri::HTML(parser.convert(page['content']))
         process_headings(page, doc)
-        end
+      end
       end
   end
 
@@ -27,15 +27,8 @@ class Subnav < Jekyll::Generator
   def process_headings(document, heading_list)
       document.data["subnav"] = []
       heading_list.css('*').each do |heading|
-        if heading.name == 'h2'
+        if heading.name == 'h2' or (heading.name == 'p' and heading.text.include? "expand-heading=")
           document.data['subnav'] << to_nav_item(document, heading).tap do |item|
-            item["children"] = subheadings(heading).map { |h3| to_nav_item(document, h3) }
-          end
-        end
-        if heading.name == 'p' and heading.text.include? "expand-heading="
-          title = heading.text[heading.text=~/=/..-3].gsub("=", "").strip
-          title = title[1..-2]
-          document.data['subnav'] << to_nav_item(document, title).tap do |item|
             item["children"] = subheadings(heading).map { |h3| to_nav_item(document, h3) }
           end
         end
@@ -44,15 +37,20 @@ class Subnav < Jekyll::Generator
 
   # Converts a heading into a hash of the info for a link
   def to_nav_item(page, heading)
-    if heading.respond_to?(:text)
-      text = heading.text
+    if heading.name == 'p'
+      title = heading.text[heading.text=~/=/..-3].gsub("=", "").strip
+      title = title[1..-2]
+      return {
+        "title" => title,
+        "url" => [page.url,  title.downcase.gsub(" ", "-")].join("#")
+      }
+
     else
-      text = heading
+      return {
+        "title" => heading.text,
+        "url" => [page.url,  heading['id']].join("#")
+      }
     end
-    return {
-      "title" => text,
-      "url" => [page.url, heading['id']].join("#")
-    }
   end
 
   # Returns an enumerator of all H3s "belonging" to an H2
