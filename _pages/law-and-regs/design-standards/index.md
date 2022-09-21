@@ -7,14 +7,14 @@ lang: "en"
 sidenav: false
 ---
 
-The ADA Standards for Accessible Design (“ADA Standards”) cover:  
-- Newly constructed buildings and facilities;  
-- Alterations—such as, renovations and other changes that affect usability—made to
-buildings and facilities;  
-- Making architectural changes in existing state and local government buildings to provide “program access”; and  
-- Removing architectural barriers that are easily accomplishable without much difficulty
-or expense in existing buildings of businesses.  
+The ADA Standards for Accessible Design (“ADA Standards”) cover:
 
+- Newly constructed buildings and facilities;
+- Alterations—such as, renovations and other changes that affect usability—made to
+buildings and facilities;
+- Making architectural changes in existing state and local government buildings to provide “program access”; and
+- Removing architectural barriers that are easily accomplishable without much difficulty
+or expense in existing buildings of businesses.
 
 {% details What are <em>architectural barriers</em>? %}
 Architectural barriers are physical elements of a building that prevent movement or access for people with disabilities. For example, if the only way to get to the entrance of a business is by using stairs, those stairs are a barrier for wheelchair users.
@@ -28,11 +28,11 @@ Readily achievable means easy to do without much difficulty or expense. This is 
 State and local governments are required by Title II to provide *program access*. The *program access* requirement makes sure that individuals with disabilities are not excluded from any program, service, or activity provided by the state or local government because existing buildings and facilities are inaccessible. State and local governments must look at their programs, services and activities in their entirety or as a whole to ensure that they are accessible to individuals with disabilities.
 {% enddetails %}
 
-## Versions of the ADA Standards  
+## Versions of the ADA Standards
 
 There are two versions on the ADA Standards:
 
-- 1991 ADA Standards (link TBD)  
+- [1991 ADA Standards]( {{'/law-and-regs/design-standards/1991-design-standards' | relative_url}})
 - [2010 ADA Standards]( {{'/law-and-regs/design-standards/2010-stds' | relative_url}})  (link TBD still)
 
-Knowing when the 1991 or the 2010 ADA Standards apply to buildings and facilities is important in determining if your building or facility complies with the ADA. The [ADA Requirements: Effective Date and Compliance Date guide](https://www.ada.gov/revised_effective_dates-2010.htm) helps to explain which version of the ADA Standards to use and when.  
+Knowing when the 1991 or the 2010 ADA Standards apply to buildings and facilities is important in determining if your building or facility complies with the ADA. The [ADA Requirements: Effective Date and Compliance Date guide](https://www.ada.gov/revised_effective_dates-2010.htm) helps to explain which version of the ADA Standards to use and when.
