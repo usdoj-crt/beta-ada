@@ -16,6 +16,8 @@ card:
 tags:
   - child care
 related-content: true
+news-item: true
+publish-date: 2022-09-16 00:00:00
 ---
 ## About Child Care Centers
 
