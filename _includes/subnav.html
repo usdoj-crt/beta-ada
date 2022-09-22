@@ -1,9 +1,13 @@
 <ul class="usa-sidenav__sublist">
   {% if page.title == 'ADA Standards for Accessible Design Title III Regulation 28 CFR Part 36 (1991)' %} {% for item in include.collection %}
+  {% assign arr_size = item.collection | size %}
+  {% if arr_size >= 1 %}
+    <!-- Accordiong -->
+  {% endif %}
   <li class="usa-sidenav__item">
     <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
   </li>
-  {% if item.children.size > 0 %} {% include subnav.html collection=item.children %} {% endif %} {%
+  {% if item.children.size > 0 %} {% assign next_level = include.level | plus: 1 %} {% include subnav.html collection=item.children %} {% endif %} {%
   endfor %} {% else %} {% for item in include.collection %}
   <li class="usa-sidenav__item">
     <a href="{{ item.url | relative_url }}">{{ item.title }}</a>

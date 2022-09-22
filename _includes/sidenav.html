@@ -10,6 +10,6 @@
     <a href="#top" class="usa-current"
       >{% if page.short_title %}{{ page.short_title }}{% else %}{{ page.title }}{% endif %}</a
     ></li>
-    {% include subnav.html collection = page.subnav %}
+    {% include subnav.html collection = page.subnav level=0 %}
   </ul>
 </nav>
