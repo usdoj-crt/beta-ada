@@ -13,6 +13,9 @@ card:
   image: landing/childcare.jpg
   alt: "a child with down-syndrome is playing guitar and sitting with kids and a teacher"
   href: /topics/child-care-centers/
+tags:
+  - child care
+related-content: true
 news-item: true
 publish-date: 2022-09-16 00:00:00
 ---
