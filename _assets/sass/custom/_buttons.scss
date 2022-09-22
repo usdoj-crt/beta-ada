@@ -15,7 +15,8 @@
 
 #crt-page--printbutton,
 #crt-page--expandaccordions,
-.crt-page--downloadpdf-button {
+.crt-page--downloadpdf-button,
+#crt-back-to-top-button {
   background-color: color($theme-color-primary-darker);
   &:hover {
     color: white !important;

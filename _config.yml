@@ -178,6 +178,7 @@ exclude:
   - /tests
   - /test-results
   - /playwright-report
+  - /mock_data
 
 assets:
   autoprefixer:
