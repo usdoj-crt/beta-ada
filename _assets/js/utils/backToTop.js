@@ -17,8 +17,8 @@ const observerTarget = document.getElementById(topElement);
 // Observer Options:
 const options = {
   root: null,
-  rootMargin: '0px',
-  threshold: 1.0,
+  rootMargin: '10px',
+  threshold: 0.5,
 };
 
 // Functions to toggle classes
@@ -68,5 +68,5 @@ const checkForIntersection = (entries, observer) => {
 let intObserver = new IntersectionObserver(checkForIntersection, options);
 // Observe:
 intObserver.observe(observerTarget);
-const handleScroll = debounce(checkYPos, 50);
+const handleScroll = debounce(checkYPos, 5);
 document.addEventListener('scroll', handleScroll);
