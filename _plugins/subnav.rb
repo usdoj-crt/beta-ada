@@ -24,7 +24,7 @@ class Subnav < Jekyll::Generator
         end
       end
     end
- 
+
     site.pages.each do |page|
       if page.ext == ".md"
         doc = Nokogiri::HTML(parser.convert(page['content']))
