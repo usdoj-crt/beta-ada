@@ -79,6 +79,45 @@
     @include u-shadow(2);
   }
 
+  .usa-sidenav__sublist {
+
+    .crt-sidenav-subnav-item{
+      font-family: Public Sans Web, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol !important;
+    }
+
+    li.usa-accordion {
+      // margin-bottom: 2rem;
+      margin-top: 0px;
+      @include at-media(desktop) {
+        overflow-y: visible;
+      }
+
+      .usa-accordion__content {
+        box-shadow: none;
+      }
+    }
+
+    * .usa-accordion__button {
+      color: #2e2e2a;
+      background-image: url("./images/remove.svg");
+      background-color: transparent;
+      border-radius: 0px;
+      font-size: 1rem;
+      padding-left: 2rem;
+      font-family: Public Sans Web, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+      border-top-style: solid;
+      border-top-width: 1px;
+      border-top-color: rgb(223, 225, 226);
+      padding-bottom: 0px;
+
+      &[aria-expanded="false"] {
+        background-image: url("./images/add.svg");
+      }
+
+
+    }
+  }
+
   @include at-media(desktop) {
     @include u-position('sticky');
     @include u-top(3);
@@ -98,40 +137,13 @@
       a {
         @include text--body-copy__small();
       }
-
-      .crt-sidenav-subnav-item{
-        font-family: Public Sans Web, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol !important;
-      }
-
-      li.usa-accordion {
-        // margin-bottom: 2rem;
-        margin-top: 0px;
-        @include at-media(desktop) {
-          overflow-y: visible;
-        }
-      }
-
       * .usa-accordion__button {
         color: #2e2e2a;
         @include text--body-copy__small();
-        background-image: url("./images/remove.svg");
-        background-color: color('white');
-        border-radius: 0px;
-        padding-left: 2rem;
-        font-family: Public Sans Web, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
-        border-top-style: solid;
-        border-top-width: 1px;
-        border-top-color: rgb(223, 225, 226);
-        padding-bottom: 0px;
-
         &:focus, &:hover {
           background-color: color($theme-color-base-lightest);
         }
-
-        &[aria-expanded="false"] {
-          background-image: url("./images/add.svg");
-        }
-      }
+    }
 
       * .usa-accordion__content {
         &[hidden] {

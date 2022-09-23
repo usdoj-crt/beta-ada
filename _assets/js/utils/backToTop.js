@@ -18,7 +18,7 @@ const observerTarget = document.getElementById(topElement);
 const options = {
   root: null,
   rootMargin: '10px',
-  threshold: 0.5,
+  threshold: 0.05,
 };
 
 // Functions to toggle classes
