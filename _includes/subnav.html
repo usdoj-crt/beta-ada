@@ -1,5 +1,5 @@
 <ul class="usa-sidenav__sublist">
-  {% if page.title == 'ADA Standards for Accessible Design Title III Regulation 28 CFR Part 36 (1991)' %} {% for item in include.collection %}
+  {% if page.subnavigation == true %} {% for item in include.collection %}
   {% if include.level == 0 and item.children.size > 0 %}
   <li class="usa-accordion">
   <button
