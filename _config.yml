@@ -107,9 +107,14 @@ collections:
 # Configuration for Touchpoints
 touchpoints:
   url: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit
+# Configuration for Gov Devliery:
+govdelivery:
+  title: Subscribe to our newsletter for ADA updates
+  url: https://public.govdelivery.com/accounts/USDOJ/subscriber/new?category_id=USDOJ_C26
+  link_text: Sign Up
 
 # Search.gov configuration
-#
+# NOTE: The configuration is actually set in the Javascript code: /_assets/js/utils/constants.js
 # 1. Create an account with Search.gov https://search.usa.gov/signup
 # 2. Add a new site.
 # 3. Add your site/affiliate name here.
@@ -173,6 +178,7 @@ exclude:
   - /tests
   - /test-results
   - /playwright-report
+  - /mock_data
 
 assets:
   autoprefixer:
