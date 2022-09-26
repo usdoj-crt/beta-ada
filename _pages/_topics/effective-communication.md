@@ -17,6 +17,9 @@ card:
   image: landing/effective_communication.jpg
   alt: "Hands hover over a braille display"
   href: /topics/effective-communication/
+tags:
+  - effective communication
+related-content: true
 ---
 
 ## Examples of Communication Aids and Services
@@ -131,6 +134,6 @@ may be able to use paper and pen to write back and forth to complete the
 transaction.
 {% enddetails %}
 
-Communication aids or services are also not required in the rare situations where they would fundamentally alter the nature of the goods or services you provide to the public. Learn more in [ADA Requirements: Effective Communication]( {{'/resources/effective-communication'| relative_url}}).  
+Communication aids or services are also not required in the rare situations where they would fundamentally alter the nature of the goods or services you provide to the public. Learn more in [ADA Requirements: Effective Communication]( {{'/resources/effective-communication'| relative_url}}).
 
 If an aid or service would result in an undue burden or fundamental alteration, an alternative aid or service needs to be provided if possible.
