@@ -212,12 +212,12 @@ An accessible site shall meet the following minimum requirements:
 
 Except as provided in 5(b), access aisles adjacent to accessible spaces shall be 60 in (1525 mm) wide minimum.
 
-   - 5(b) One in every eight accessible spaces, but not less than one, shall be served by an access aisle 96 in (2440 mm) wide minimum and shall be designated "van accessible" as required by 4.6.4. The vertical clearance at such spaces shall comply with 4.6.5. All such spaces may be grouped on one level of a parking structure.<br/>**EXCEPTION**: Provision of all required parking spaces in conformance with &quot;Universal Parking Design&quot; (see appendix A4.6.3) is permitted.
-   - 5(c) If passenger loading zones are provided, then at least one passenger loading zone shall comply with 4.6.6.
-   - 5(d) At facilities providing medical care and other services for persons with mobility impairments, parking spaces complying with 4.6 shall be provided in accordance with 4.1.2(5)(a) except as follows:
-     - (i) Outpatient units and facilities: 10 percent of the total number of parking spaces provided serving each such outpatient unit or facility;
-     - (ii) Units and facilities that specialize in treatment or services for persons with mobility impairments: 20 percent of the total number of parking spaces provided serving each such unit or facility
-   - 5(e)\* Valet parking: Valet parking facilities shall provide a passenger loading zone complying with 4.6.6 located on an accessible route to the entrance of the facility. Paragraphs 5(a), 5(b), and 5(d) of this section do not apply to valet parking facilities.
+- 5(b) One in every eight accessible spaces, but not less than one, shall be served by an access aisle 96 in (2440 mm) wide minimum and shall be designated "van accessible" as required by 4.6.4. The vertical clearance at such spaces shall comply with 4.6.5. All such spaces may be grouped on one level of a parking structure.<br/>**EXCEPTION**: Provision of all required parking spaces in conformance with &quot;Universal Parking Design&quot; (see appendix A4.6.3) is permitted.
+- 5(c) If passenger loading zones are provided, then at least one passenger loading zone shall comply with 4.6.6.
+- 5(d) At facilities providing medical care and other services for persons with mobility impairments, parking spaces complying with 4.6 shall be provided in accordance with 4.1.2(5)(a) except as follows:
+  - (i) Outpatient units and facilities: 10 percent of the total number of parking spaces provided serving each such outpatient unit or facility;
+  - (ii) Units and facilities that specialize in treatment or services for persons with mobility impairments: 20 percent of the total number of parking spaces provided serving each such unit or facility
+- 5(e)\* Valet parking: Valet parking facilities shall provide a passenger loading zone complying with 4.6.6 located on an accessible route to the entrance of the facility. Paragraphs 5(a), 5(b), and 5(d) of this section do not apply to valet parking facilities.
 
 1. If toilet facilities are provided on a site, then each such public or common use toilet facility shall comply with 4.22. If bathing facilities are provided on a site, then each such public or common use bathing facility shall comply with 4.23. <br/>For single user portable toilet or bathing units clustered at a single location, at least 5% but no less than one toilet unit or bathing unit complying with 4.22 or 4.23 shall be installed at each cluster whenever typical inaccessible units are provided.
    Accessible units shall be identified by the International Symbol of Accessibility.<br/>
