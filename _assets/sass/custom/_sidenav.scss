@@ -90,6 +90,7 @@
       margin-top: 0px;
       @include at-media(desktop) {
         overflow-y: visible;
+        display: inline;
       }
 
       .usa-accordion__content {
