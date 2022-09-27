@@ -1,12 +1,13 @@
 ---
-title: Americans with Disabilities Act Title III Regulations Test
-description: "The 2010 Standards set minimum requirements – both scoping and technical -- for newly designed and constructed or altered State and local government facilities, public accommodations, and commercial facilities to be readily accessible to and usable by individuals with disabilities."
-permalink: /law-and-regs/title-iii-regsulations/
+title: Americans with Disabilities Act Title III Regulations
+description: ""
+permalink: /law-and-regs/title-iii-regulations/
 lang: "en"
 publish-date: 2012-03-08 00:00:00
 related-content: true
 print: true
 ---
+
 ## Title III Regulations Supplementary Information
 
 **DEPARTMENT OF JUSTICE**
@@ -47,7 +48,7 @@ The ADA also requires the Department to develop regulations with respect to exis
 
 **Enactment of the ADA and Issuance of the 1991 Regulations**  
 
-On July 26, 1990, President George H.W. Bush signed into law the ADA, a comprehensive civil rights law prohibiting discrimination on the basis of disability.<sup><a href="#ftnt1">1</a></sup> <a name="rftnt1" id="rftnt1"></a> The ADA broadly protects the rights of individuals with disabilities in employment, access to State and local government services, places of public accommodation, transportation, and other important areas of American life. The ADA also requires newly designed and constructed or altered State and local government facilities, public accommodations, and commercial facilities to be readily accessible to and usable by individuals with disabilities. 42 U.S.C. 12101 **et seq**. Section 306(a) of the ADA directs the Secretary of Transportation to issue regulations for demand responsive or fixed route systems operated by private entities not primarily engaged in the business of transporting people (sections 302(b)(2)(B) and (C)) and for private entities that are primarily engaged in the business of transporting people (section 304).*See* 42 U.S.C. 12182(b), 12184, 12186(a). Section 306(b) directs the Attorney General to promulgate regulations to carry out the provisions of the rest of title III. 42 U.S.C. 12186(b).  
+On July 26, 1990, President George H.W. Bush signed into law the ADA, a comprehensive civil rights law prohibiting discrimination on the basis of disability.<sup><a href="#ftnt1">1</a></sup> <a name="rftnt1" id="rftnt1"></a> The ADA broadly protects the rights of individuals with disabilities in employment, access to State and local government services, places of public accommodation, transportation, and other important areas of American life. The ADA also requires newly designed and constructed or altered State and local government facilities, public accommodations, and commercial facilities to be readily accessible to and usable by individuals with disabilities. 42 U.S.C. 12101 **et seq**. Section 306(a) of the ADA directs the Secretary of Transportation to issue regulations for demand responsive or fixed route systems operated by private entities not primarily engaged in the business of transporting people (sections 302(b)(2)(B) and (C)) and for private entities that are primarily engaged in the business of transporting people (section 304).  *See* 42 U.S.C. 12182(b), 12184, 12186(a). Section 306(b) directs the Attorney General to promulgate regulations to carry out the provisions of the rest of title III. 42 U.S.C. 12186(b).  
 
 Title II applies to State and local government entities, and, in Subtitle A, protects qualified individuals with disabilities from discrimination on the basis of disability in services, programs, and activities provided by State and local government entities. Title II extends the prohibition on discrimination established by section 504 of the Rehabilitation Act of 1973, as amended, 29 U.S.C. 794 (section 504), to all activities of State and local governments regardless of whether these entities receive Federal financial assistance. 42 U.S.C. 12131–65.  
 
@@ -59,7 +60,7 @@ The Access Board's publication of the 2004 ADA/ABA Guidelines was the culminatio
 
 **Development of the 2004 ADA/ABA Guidelines**  
 
-In 1994, the Access Board began the process of updating the 1991 ADAAG by establishing an advisory committee composed of members of the design and construction industry, the building code community, and State and local government entities, as well as individuals with disabilities. In 1998, the Access Board added specific guidelines on State and local government facilities, 63 FR 2000 (Jan. 13, 1998), and building elements designed for use by children, 63 FR 2060 (Jan. 13, 1998). In 1999, based largely on the report and recommendations of the advisory committee, the Access Board issued a notice of proposed rulemaking (NPRM) to update and revise its ADA and ABA Accessibility Guidelines.*See* 64 FR 62248 (Nov. 16, 1999). In 2000, the Access Board added specific guidelines on play areas.*See* 65 FR 62498 (Oct. 18, 2000). The Access Board released an interim draft of its guidelines to the public on April 2, 2002, 67 FR 15509, in order to provide an opportunity for entities with model codes to consider amendments that would promote further harmonization. In September of 2002, the Access Board set forth specific guidelines on recreation facilities. 67 FR 56352 (Sept. 3, 2002).  
+In 1994, the Access Board began the process of updating the 1991 ADAAG by establishing an advisory committee composed of members of the design and construction industry, the building code community, and State and local government entities, as well as individuals with disabilities. In 1998, the Access Board added specific guidelines on State and local government facilities, 63 FR 2000 (Jan. 13, 1998), and building elements designed for use by children, 63 FR 2060 (Jan. 13, 1998). In 1999, based largely on the report and recommendations of the advisory committee, the Access Board issued a notice of proposed rulemaking (NPRM) to update and revise its ADA and ABA Accessibility Guidelines.  *See* 64 FR 62248 (Nov. 16, 1999). In 2000, the Access Board added specific guidelines on play areas.  *See* 65 FR 62498 (Oct. 18, 2000). The Access Board released an interim draft of its guidelines to the public on April 2, 2002, 67 FR 15509, in order to provide an opportunity for entities with model codes to consider amendments that would promote further harmonization. In September of 2002, the Access Board set forth specific guidelines on recreation facilities. 67 FR 56352 (Sept. 3, 2002).  
 
 By the date of its final publication on July 23, 2004, the 2004 ADA/ABA Guidelines had been the subject of extraordinary review and public participation. The Access Board received more than 2,500 comments from individuals with disabilities, affected industries, State and local governments, and others. The Access Board provided further opportunity for participation by holding public hearings.  
 
@@ -97,15 +98,15 @@ The Department of Justice regulation implementing title III, 28 CFR 36.103, prov
 (b) *Section 504*. This part does not affect the obligations of a recipient of Federal financial assistance to comply with the requirements of section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794) and regulations issued by Federal agencies implementing section 504.  
 (c) *Other laws*. This part does not invalidate or limit the remedies, rights, and procedures of any other Federal, State, or local laws (including State common law) that provide greater or equal protection for the rights of individuals with disabilities or individuals associated with them.  
 
-These provisions remain unchanged by the final rule. The Department recognizes that public accommodations subject to title III of the ADA may also be subject to title I of the ADA, which prohibits discrimination on the basis of disability in employment; section 504 of the Rehabilitation Act of 1973 and other Federal statutes that prohibit discrimination on the basis of disability in the programs and activities of recipients of Federal financial assistance; and other Federal statutes such as the Air Carrier Access Act (ACAA), 49 U.S.C. 41705*et seq*, and the Fair Housing Act (FHAct), 42 U.S.C. 3601*et seq*. Compliance with the Department's title II and title III regulations does not ensure compliance with other Federal statutes.  
+These provisions remain unchanged by the final rule. The Department recognizes that public accommodations subject to title III of the ADA may also be subject to title I of the ADA, which prohibits discrimination on the basis of disability in employment; section 504 of the Rehabilitation Act of 1973 and other Federal statutes that prohibit discrimination on the basis of disability in the programs and activities of recipients of Federal financial assistance; and other Federal statutes such as the Air Carrier Access Act (ACAA), 49 U.S.C. 41705 *et seq*, and the Fair Housing Act (FHAct), 42 U.S.C. 3601 *et seq*. Compliance with the Department's title II and title III regulations does not ensure compliance with other Federal statutes.  
 
-Public accommodations that are subject to the ADA as well as other Federal disability discrimination laws must be aware of the requirements of all applicable laws and must comply with these laws and their implementing regulations. Although in many cases similar provisions of different statutes are interpreted to impose similar requirements, there are circumstances in which similar provisions are applied differently because of the nature of the covered entity or activity, or because of distinctions between the statutes. For example, emotional support animals that do not qualify as service animals under the Department's title III regulations may nevertheless qualify as permitted reasonable accommodations for persons with disabilities under the FHAct and the ACAA.  *See, *e.g.*, Overlook Mutual Homes, Inc. v. Spencer,* 666 F. Supp. 2d 850 (S.D. Ohio 2009). Public accommodations that operate housing facilities must ensure that they apply the reasonable accommodation requirements of the FHAct in determining whether to allow a particular animal needed by a person with a disability into housing and may not use the ADA definition as a justification for reducing their FHAct obligations. In addition, nothing in the ADA prevents a public accommodation subject to one statute from modifying its policies and providing greater access in order to assist individuals with disabilities in achieving access to entities subject to other Federal statutes. For example, a quick service restaurant at an airport is, as a public accommodation, subject to the title III requirements, not to the ACAA requirements. Conversely, an air carrier that flies in and out of the same airport is required to comply with the ACAA, but is not covered by title III of the ADA. If a particular animal is a service animal for purposes of the ACAA and is thus allowed on an airplane, but is not a service animal for purposes of the ADA, nothing in the ADA prohibits an airport restaurant from allowing a ticketed passenger with a disability who is traveling with a service animal that meets the ACAA's definition of a service animal to bring that animal into the facility even though under the ADA's definition of service animal the animal lawfully could be excluded.  
+Public accommodations that are subject to the ADA as well as other Federal disability discrimination laws must be aware of the requirements of all applicable laws and must comply with these laws and their implementing regulations. Although in many cases similar provisions of different statutes are interpreted to impose similar requirements, there are circumstances in which similar provisions are applied differently because of the nature of the covered entity or activity, or because of distinctions between the statutes. For example, emotional support animals that do not qualify as service animals under the Department's title III regulations may nevertheless qualify as permitted reasonable accommodations for persons with disabilities under the FHAct and the ACAA.  *See*, *e.g.*, Overlook Mutual Homes, Inc. v. Spencer,* 666 F. Supp. 2d 850 (S.D. Ohio 2009). Public accommodations that operate housing facilities must ensure that they apply the reasonable accommodation requirements of the FHAct in determining whether to allow a particular animal needed by a person with a disability into housing and may not use the ADA definition as a justification for reducing their FHAct obligations. In addition, nothing in the ADA prevents a public accommodation subject to one statute from modifying its policies and providing greater access in order to assist individuals with disabilities in achieving access to entities subject to other Federal statutes. For example, a quick service restaurant at an airport is, as a public accommodation, subject to the title III requirements, not to the ACAA requirements. Conversely, an air carrier that flies in and out of the same airport is required to comply with the ACAA, but is not covered by title III of the ADA. If a particular animal is a service animal for purposes of the ACAA and is thus allowed on an airplane, but is not a service animal for purposes of the ADA, nothing in the ADA prohibits an airport restaurant from allowing a ticketed passenger with a disability who is traveling with a service animal that meets the ACAA's definition of a service animal to bring that animal into the facility even though under the ADA's definition of service animal the animal lawfully could be excluded.  
 
 **Organization of This Rule**  
 
 Throughout this rule, the original ADA Standards, which are republished as Appendix D to 28 CFR part 36, will be referred to as the "1991 Standards." The original title III regulation, codified at 28 CFR part 36 (2009), will be referred to as the "1991 regulation" or the "1991 title III regulation." ADA Chapter 1, ADA Chapter 2, and Chapters 3 through 10 of the 2004 ADA/ABA Guidelines, 36 CFR part 1191, app. B and D (2009), will be referred to as the "2004 ADAAG." The Department's Notice of Proposed Rulemaking, 73 FR 34508 (June 17, 2008), will be referred to as the "NPRM." As noted above, the 2004 ADAAG, taken together with the requirements contained in subpart D of 28 CFR part 36 (New Construction and Alterations) of the final rule, will be referred to as the "2010 Standards." The amendments made to the 1991 title III regulation and the adoption of the 2004 ADAAG, taken together, will be referred to as the "final rule."  
 
-In performing the required periodic review of its existing regulation, the Department has reviewed the title III regulation section by section, and, as a result, has made several clarifications and amendments in this rule. Appendix A of the final rule, "Guidance on Revisions to ADA Regulation on Nondiscrimination on the Basis of Disability by Public Accommodations and Commercial Facilities," codified as Appendix A to 28 CFR part 36, provides the Department's response to comments and its explanations of the changes to the regulation. The section entitled "Section-by-Section Analysis and Response to Comments" in Appendix A provides a detailed discussion of the changes to the title III regulation. The Section-by-Section Analysis follows the order of the 1991 title III regulation, except that regulatory sections that remain unchanged are not referenced. The discussion within each section explains the changes and the reasoning behind them, as well as the Department's response to related public comments. Subject areas that deal with more than one section of the regulation include references to the related sections, where appropriate. The Section-by-Section Analysis also discusses many of the questions asked by the Department for specific public response. The section of Appendix A entitled "Other Issues" discusses public comment on several issues of concern to the Department that were the subject of questions that are not specifically addressed in the Section-by-Section Analysis.  
+In performing the required periodic review of its existing regulation, the Department has reviewed the title III regulation section by section, and, as a result, has made several clarifications and amendments in this rule. Appendix A of the final rule, "Guidance on Revisions to ADA Regulation on Nondiscrimination on the Basis of Disability by Public Accommodations and Commercial Facilities," codified as Appendix A to 28 CFR part 36, provides the Department's response to comments and its explanations of the changes to the regulation. The section entitled "Section-by-Section Analysis and Response to Comments" in   provides a detailed discussion of the changes to the title III regulation. The Section-by-Section Analysis follows the order of the 1991 title III regulation, except that regulatory sections that remain unchanged are not referenced. The discussion within each section explains the changes and the reasoning behind them, as well as the Department's response to related public comments. Subject areas that deal with more than one section of the regulation include references to the related sections, where appropriate. The Section-by-Section Analysis also discusses many of the questions asked by the Department for specific public response. The section of   entitled "Other Issues" discusses public comment on several issues of concern to the Department that were the subject of questions that are not specifically addressed in the Section-by-Section Analysis.  
 
 The Department's description of the 2010 Standards, as well as a discussion of the public comments on specific sections of the 2004 ADAAG, is found in <a href="reg3_2010_appendix_b.htm">Appendix B of this final rule, "Analysis and Commentary on the 2010 ADA Standards for Accessible Design,"</a> codified as Appendix B to 28 CFR part 36.  
 
@@ -116,8 +117,9 @@ This final rule only addresses issues that were identified in the NPRM as subjec
 **ADDITIONAL INFORMATION:**  
 **Regulatory Process Matters (SBREFA, Regulatory Flexibility Act, and Executive Orders)**  
 
-The Department must provide two types of assessments as part of its final rule: An analysis of the costs and benefits of adopting the changes contained in this rule, and a periodic review of its existing regulations to consider their impact on small entities, including small businesses, small nonprofit organizations, and small governmental jurisdictions.  *See* E.O. 12866, 58 FR 51735, 3 CFR, 1994 Comp., p. 638, as amended; Regulatory Flexibility Act of 1980 (RFA), 5 U.S.C. 601 *et seq*, as amended by the Small Business Regulatory Enforcement Fairness Act of 1996 (SBREFA), 5 U.S.C. 610(a); OMB Circular A–4, available at *http://www.whitehouse.gov/OMB/circulars/a004/a-4.pdf* (last visited June 24, 2010); E.O. 13272, 67 FR 53461, 3 CFR, 2003 Comp., p. 247.
-<p> In the NPRM, the Department kept open the possibility that, if warranted by public comments received on an issue raised by the 2004 ADAAG or by the results of the Department's Initial Regulatory Impact Analysis (Initial RIA), available at *http://www.ada.gov/NPRM2008/ria.htm*, showing that the likely costs of making a particular feature or facility accessible were disproportionate to the benefits (including both monetized and nonmonetized benefits) to persons with disabilities, the Attorney General, as a member of the Access Board, could return the issue to the Access Board for further consideration. After careful consideration, the Department has determined that it is unnecessary to return any issues to the Access Board for additional consideration.  
+The Department must provide two types of assessments as part of its final rule: An analysis of the costs and benefits of adopting the changes contained in this rule, and a periodic review of its existing regulations to consider their impact on small entities, including small businesses, small nonprofit organizations, and small governmental jurisdictions.  *See* E.O. 12866, 58 FR 51735, 3 CFR, 1994 Comp., p. 638, as amended; Regulatory Flexibility Act of 1980 (RFA), 5 U.S.C. 601 *et seq*, as amended by the Small Business Regulatory Enforcement Fairness Act of 1996 (SBREFA), 5 U.S.C. 610(a); OMB Circular A–4, available at http://www.whitehouse.gov/OMB/circulars/a004/a-4.pdf (last visited June 24, 2010); E.O. 13272, 67 FR 53461, 3 CFR, 2003 Comp., p. 247.  
+
+In the NPRM, the Department kept open the possibility that, if warranted by public comments received on an issue raised by the 2004 ADAAG or by the results of the Department's Initial Regulatory Impact Analysis (Initial RIA), available at http://www.ada.gov/NPRM2008/ria.htm, showing that the likely costs of making a particular feature or facility accessible were disproportionate to the benefits (including both monetized and nonmonetized benefits) to persons with disabilities, the Attorney General, as a member of the Access Board, could return the issue to the Access Board for further consideration. After careful consideration, the Department has determined that it is unnecessary to return any issues to the Access Board for additional consideration.  
 
 **Executive Order 12866**  
 
@@ -133,21 +135,32 @@ The Final RIA estimates the benefits and costs for all new (referred to as "supp
 
 From an economic perspective (as specified in OMB Circular A–B4), the results of the Final RIA demonstrate that the Department's final rules increase social resources and thus represent a public good because monetized benefits exceed monetized costs—that is, the regulations have a positive net present value (NPV). Indeed, under every scenario assessed in the Final RIA, the final rules have a positive NPV. The Final RIA's first scenario examines the incremental impact of the final rules using the "main" set of assumptions (**i.e.**, assuming a primary baseline (1991 Standards), that the safe harbor applies, and that for title III entities barrier removal is readily achievable for 50 percent of elements subject to supplemental requirements).  
 
-Under this set of assumptions, the final rules have an expected NPV of $9.3 billion (7 percent discount rate) and $40.4 billion (3 percent discount rate).  *See* Final RIA, table ES–1 &amp; figure ES–2.  
+Under this set of assumptions, the final rules have an expected NPV of $9.3 billion (7 percent discount rate) and $40.4 billion (3 percent discount rate).  *See* Final RIA, table ES–1 and figure ES–2.  
 
 <table class="usa-table">
- <caption>**Expected Impact of the Rules<sup><a href="#ftnt2">2</a></sup>** (in billions)<a name="rftnt2" id="rftnt2"></a></caption>
- <thead>
- <tr>
- <th scope="col">Discount rate</th>
- <th scope="col>Expected NPV</th>
- <th scope="col">Total Expected PV (Benefits)</th>
- <th scope="col">Total Expected PV (Costs)</th>
+<thead>
+<tr>
+<th scope="col">Discount rate</th>
+<th scope="col>Expected NPV</th>
+<th scope="col">Total Expected PV (Benefits)</th>
+<th scope="col">Total Expected PV (Costs)</th>
+</tr>
 </thead>
 <tbody>
 <tr>
-<th scope="row"></td>
-<td></td>
+<th scope="row">Test</th>
+<td>Table</td>
+<td>Table</td>
+</tr>
+<tr>
+<th scope="row">Test</th>
+<td>Table</td>
+<td>Table</td>
+</tr>
+<tr>
+<th scope="row">Test</th>
+<td>Table</td>
+<td>Table</td>
 </tr>
 </tbody>
 </table>  
@@ -162,687 +175,748 @@ Because of the complex nature of its cost-benefit analysis, the Department is pr
 
 For public and private facilities covered by the final rules, it is estimated that there are currently about 11 million single-user toilet rooms with out-swinging doors. The majority of these types of single-user toilet rooms, nearly 7 million, are assumed to be located at "Indoor Service Establishments," a broad facility group that encompasses various types of indoor retail stores such as bakeries, grocery stores, clothing stores, and hardware stores. Based on construction industry data, it was estimated that approximately 3 percent of existing single-user toilet rooms with out-swinging doors would be altered each year, and that the number of newly constructed facilities with these types of toilet rooms would increase at the rate of about 1 percent each year. However, due to the widespread adoption at the State and local level of model code provisions that mirror Req. #28, it is further understood that about half of all existing facilities assumed to have single-user toilet rooms with out-swinging doors already are covered by State or local building codes that require equivalent water closet clearances. Due to the general element-by-element safe harbor provision in the final rules, no unaltered single-user toilet rooms that comply with the current 1991 Standards will be required to retrofit to meet the revised clearance requirements in the final rules.  
 
- With respect to new construction, it is assumed that each single-user toilet room with an out-swinging door will last the life of the building, about 40 years. For alterations, the amount of time such a toilet room will be used depends upon the remaining life of the building (**i.e.*,* a period of time between 1 and 39 years).  
+With respect to new construction, it is assumed that each single-user toilet room with an out-swinging door will last the life of the building, about 40 years. For alterations, the amount of time such a toilet room will be used depends upon the remaining life of the building (**i.e.*,* a period of time between 1 and 39 years).  
 
- Summing up monetized benefits to users with disabilities across all types of public and private facilities covered by the final rules, and assuming 46 percent of covered facilities nationwide are located in jurisdictions that have adopted the relevant equivalent IBC/ ANSI model code provisions, it is expected that the revised requirement for water closet clearance in single-user toilet rooms with out-swinging doors will result in net benefits of approximately $900 million over the life of these regulations.  
+Summing up monetized benefits to users with disabilities across all types of public and private facilities covered by the final rules, and assuming 46 percent of covered facilities nationwide are located in jurisdictions that have adopted the relevant equivalent IBC/ ANSI model code provisions, it is expected that the revised requirement for water closet clearance in single-user toilet rooms with out-swinging doors will result in net benefits of approximately $900 million over the life of these regulations.  
 
- *General description of monetized benefits for water closet clearance in single-user toilet rooms—in-swinging doors (Req. # 32).*For the water closet clearance in single-user toilet rooms with the in-swinging door requirement (Req. #32), the expert panel determined that the primary beneficiaries would be persons who use wheelchairs. As compared to single-user toilet rooms with out-swinging doors, those with in-swinging doors tend to be larger (in terms of square footage) in order to accommodate clearance for the in-swinging door and, thus, are already likely to have adequate clear floor space for persons with disabilities who use other types of mobility aids such as walkers and crutches.  
+*General description of monetized benefits for water closet clearance in single-user toilet rooms—in-swinging doors (Req. # 32).*For the water closet clearance in single-user toilet rooms with the in-swinging door requirement (Req. #32), the expert panel determined that the primary beneficiaries would be persons who use wheelchairs. As compared to single-user toilet rooms with out-swinging doors, those with in-swinging doors tend to be larger (in terms of square footage) in order to accommodate clearance for the in-swinging door and, thus, are already likely to have adequate clear floor space for persons with disabilities who use other types of mobility aids such as walkers and crutches.  
 
- The expert benefits panel estimated that single-user toilet rooms with in-swinging doors are used less frequently on average—about once every 20 visits to a facility with such a toilet room by a person who uses a wheelchair—than their counterpart toilet rooms with out-swinging doors. This panel also determined that, on average, each user would realize a time savings of about 9 minutes as a result of the enhanced clearances required by this revised standard.  
+The expert benefits panel estimated that single-user toilet rooms with in-swinging doors are used less frequently on average—about once every 20 visits to a facility with such a toilet room by a person who uses a wheelchair—than their counterpart toilet rooms with out-swinging doors. This panel also determined that, on average, each user would realize a time savings of about 9 minutes as a result of the enhanced clearances required by this revised standard.  
 
- The RIA estimates that there are about 4 million single-user toilet rooms with in-swinging doors in existing facilities. About half of the single-user toilet rooms with in-swinging doors are assumed to be located in single-level stores, and about a quarter of them are assumed to be located in restaurants. Based on construction industry data, it was estimated that approximately 3 percent of existing single-user toilet rooms with in-swinging doors would be altered each year, and that the number of newly constructed facilities with these types of toilet rooms would increase at the rate of about 1 percent each year. However, due to the widespread adoption at the State and local level of model code provisions that mirror Req. #32, it is further understood that slightly more than 70 percent of all existing facilities assumed to have single-user toilet rooms with in-swinging doors already are covered by State or local building codes that require equivalent water closet clearances. Due to the general element-by-element safe harbor provision in the final rules, no unaltered single-user toilet rooms that comply with the current 1991 Standards will be required to retrofit to meet the revised clearance requirements in the final rules.  
+The RIA estimates that there are about 4 million single-user toilet rooms with in-swinging doors in existing facilities. About half of the single-user toilet rooms with in-swinging doors are assumed to be located in single-level stores, and about a quarter of them are assumed to be located in restaurants. Based on construction industry data, it was estimated that approximately 3 percent of existing single-user toilet rooms with in-swinging doors would be altered each year, and that the number of newly constructed facilities with these types of toilet rooms would increase at the rate of about 1 percent each year. However, due to the widespread adoption at the State and local level of model code provisions that mirror Req. #32, it is further understood that slightly more than 70 percent of all existing facilities assumed to have single-user toilet rooms with in-swinging doors already are covered by State or local building codes that require equivalent water closet clearances. Due to the general element-by-element safe harbor provision in the final rules, no unaltered single-user toilet rooms that comply with the current 1991 Standards will be required to retrofit to meet the revised clearance requirements in the final rules.  
 
- Similar to the assumptions for Req. #28, it is assumed that newly constructed single-user toilet rooms with in-swinging doors will last the life of the building, about 40 years. For alterations, the amount of time such a toilet room will be used depends upon the remaining life of the building (**i.e.*, *a period of time between 1 and 39 years). Over this time period, the total estimated value of benefits to users of water closets with in-swinging doors from the time they will save and decreased discomfort they will experience is nearly $12 million.  
+Similar to the assumptions for Req. #28, it is assumed that newly constructed single-user toilet rooms with in-swinging doors will last the life of the building, about 40 years. For alterations, the amount of time such a toilet room will be used depends upon the remaining life of the building (**i.e.*, *a period of time between 1 and 39 years). Over this time period, the total estimated value of benefits to users of water closets with in-swinging doors from the time they will save and decreased discomfort they will experience is nearly $12 million.  
 
- *Additional benefits of water closet clearance standards.* The standards requiring sufficient space in single-user toilet rooms for a wheelchair user to effect a side or parallel transfer are among the most costly (in monetary terms) of the new provisions in the Access Board's guidelines that the Department adopts in this rule—but also, the Department believes, one of the most beneficial in non-monetary terms. Although the monetized costs of these requirements substantially exceed the monetized benefits, the additional benefits that persons with disabilities will derive from greater safety, enhanced independence, and the avoidance of stigma and humiliation— benefits that the Department's economic model could not put in monetary terms—are, in the Department's experience and considered judgment, likely to be quite high. Wheelchair users, including veterans returning from our Nation's wars with disabilities, are taught to transfer onto toilets from the side. Side transfers are the safest, most efficient, and most independence-promoting way for wheelchair users to get onto the toilet. The opportunity to effect a side transfer will often obviate the need for a wheelchair user or individual with another type of mobility impairment to obtain the assistance of another person to engage in what is, for most people, among the most private of activities. Executive Order 12866 refers explicitly not only to monetizable costs and benefits but also to "distributive impacts" and "equity,"*See* E.O. 12866, section 1(a), and it is important to recognize that the ADA is intended to provide important benefits that are distributional and equitable in character. These water closet clearance provisions will have non-monetized benefits that promote equal access and equal opportunity for individuals with disabilities, and will further the ADA' s purpose of providing "a clear and comprehensive national mandate for the elimination of discrimination against individuals with disabilities." 42 U.S.C. 12101(b)(1).  
+*Additional benefits of water closet clearance standards.* The standards requiring sufficient space in single-user toilet rooms for a wheelchair user to effect a side or parallel transfer are among the most costly (in monetary terms) of the new provisions in the Access Board's guidelines that the Department adopts in this rule—but also, the Department believes, one of the most beneficial in non-monetary terms. Although the monetized costs of these requirements substantially exceed the monetized benefits, the additional benefits that persons with disabilities will derive from greater safety, enhanced independence, and the avoidance of stigma and humiliation— benefits that the Department's economic model could not put in monetary terms—are, in the Department's experience and considered judgment, likely to be quite high. Wheelchair users, including veterans returning from our Nation's wars with disabilities, are taught to transfer onto toilets from the side. Side transfers are the safest, most efficient, and most independence-promoting way for wheelchair users to get onto the toilet. The opportunity to effect a side transfer will often obviate the need for a wheelchair user or individual with another type of mobility impairment to obtain the assistance of another person to engage in what is, for most people, among the most private of activities. Executive Order 12866 refers explicitly not only to monetizable costs and benefits but also to "distributive impacts" and "equity,"*See* E.O. 12866, section 1(a), and it is important to recognize that the ADA is intended to provide important benefits that are distributional and equitable in character. These water closet clearance provisions will have non-monetized benefits that promote equal access and equal opportunity for individuals with disabilities, and will further the ADA' s purpose of providing "a clear and comprehensive national mandate for the elimination of discrimination against individuals with disabilities." 42 U.S.C. 12101(b)(1).  
 
- The Department's calculations indicated that, in fact, people with the relevant disabilities would have to place only a very small monetary value on these quite substantial benefits for the costs and benefits of these water closet clearance standards to break even. To make these calculations, the Department separated out toilet rooms with out-swinging doors from those with in-swinging doors, because the costs and benefits of the respective water closet clearance requirements are significantly different. The Department estimates that, assuming 46 percent of covered facilities nationwide are located in jurisdictions that have adopted the relevant equivalent IBC/ANSI model code provisions, the costs of the requirement as applied to toilet rooms with out-swinging doors will exceed the monetized benefits by $454 million, an annualized net cost of approximately $32.6 million. But a large number of people with disabilities will realize benefits of independence, safety, and avoided stigma and humiliation as a result of the requirement's application in this context. Based on the estimates of its expert panel and its own experience, the Department believes that both wheelchair users and people with a variety of other mobility disabilities will benefit. The Department estimates that people with the relevant disabilities will use a newly accessible single-user toilet room with an out-swinging door approximately 677 million times per year. Dividing the $32.6 million annual cost by the 677 million annual uses, the Department concludes that for the costs and benefits to break even in this context, people with the relevant disabilities will have to value safety, independence, and the avoidance of stigma and humiliation at just under 5 cents per visit. The Department believes, based on its experience and informed judgment, that 5 cents substantially understates the value people with the relevant disabilities would place on these benefits in this context.  
+The Department's calculations indicated that, in fact, people with the relevant disabilities would have to place only a very small monetary value on these quite substantial benefits for the costs and benefits of these water closet clearance standards to break even. To make these calculations, the Department separated out toilet rooms with out-swinging doors from those with in-swinging doors, because the costs and benefits of the respective water closet clearance requirements are significantly different. The Department estimates that, assuming 46 percent of covered facilities nationwide are located in jurisdictions that have adopted the relevant equivalent IBC/ANSI model code provisions, the costs of the requirement as applied to toilet rooms with out-swinging doors will exceed the monetized benefits by $454 million, an annualized net cost of approximately $32.6 million. But a large number of people with disabilities will realize benefits of independence, safety, and avoided stigma and humiliation as a result of the requirement's application in this context. Based on the estimates of its expert panel and its own experience, the Department believes that both wheelchair users and people with a variety of other mobility disabilities will benefit. The Department estimates that people with the relevant disabilities will use a newly accessible single-user toilet room with an out-swinging door approximately 677 million times per year. Dividing the $32.6 million annual cost by the 677 million annual uses, the Department concludes that for the costs and benefits to break even in this context, people with the relevant disabilities will have to value safety, independence, and the avoidance of stigma and humiliation at just under 5 cents per visit. The Department believes, based on its experience and informed judgment, that 5 cents substantially understates the value people with the relevant disabilities would place on these benefits in this context.  
 
- There are substantially fewer single-user toilet rooms with in-swinging doors, and substantially fewer people with disabilities will benefit from making those rooms accessible. While both wheelchair users and individuals with other ambulatory disabilities will benefit from the additional space in a room with an out-swinging door, the Department believes, based on the estimates of its expert panel and its own experience, that wheelchair users likely will be the primary beneficiaries of the in-swinging door requirement. The Department estimates that people with the relevant disabilities will use a newly accessible single-user toilet room with an in-swinging door approximately 8.7 million times per year. Moreover, the alteration costs to make a single-user toilet room with an in-swinging door accessible are substantially higher (because of the space taken up by the door) than the equivalent costs of making a room with an out-swinging door accessible. Thus, the Department calculates that, assuming 72 percent of covered facilities nationwide are located in jurisdictions that have adopted the relevant equivalent IBC/ANSI model code provisions, the costs of applying the toilet room accessibility standard to rooms with in-swinging doors will exceed the monetized benefits of doing so by $266.3 million over the life of the regulations, or approximately $19.14 million per year. Dividing the $19.14 million annual cost by the 8.7 million annual uses, the Department concludes that for the costs and benefits to break even in this context, people with the relevant disabilities will have to value safety, independence, and the avoidance of stigma and humiliation at approximately $2.20 per visit. The Department believes, based on its experience and informed judgment, that this figure approximates, and probably understates, the value wheelchair users place on safety, independence, and the avoidance of stigma and humiliation in this context.
- <p> *Alternate Scenarios* <br />
- Another scenario in the Final RIA explores the incremental impact of varying the assumptions concerning the percentage of existing elements subject to supplemental requirements for which barrier removal would be readily achievable. Readily achievable barrier removal rates are modeled at 0 percent, 50 percent, and 100 percent levels. The results of this scenario show that the expected NPV is positive for each readily achievable barrier removal rate and that varying this assumed rate has little impact on expected NPV.*See* Final RIA, figure ES–3.
- <p> A third set of analyses in the Final RIA demonstrates the impact of using alternate baselines based on model codes instead of the primary baseline. The IBC model codes, which have been widely adopted by State and local jurisdictions around the country, are significant because many of the requirements in the final rules mirror accessibility provisions in the IBC model codes (or standards incorporated therein by reference, such as ANSI A117.1). The actual economic impact of the Department's final rules is, therefore, tempered by the fact that many jurisdictions nationwide have already adopted and are enforcing portions of the final rules—indeed, this was one of the goals underlying the Access Board's efforts to harmonize the 2004 ADAAG Standards with the model codes. However, capturing the economic impact of this reality poses a difficult modeling challenge due to the variety of methods by which States and localities have adopted the IBC/ANSI model codes (**e.g.*, *in whole, in part, and with or without amendments), as well as the lack of a national "facility census' establishing the location, type, and age of existing ADA-covered facilities.
- <p> As a result, in the first set of alternate IBC baseline analyses, the Final RIA assumes that all of the three IBC model codes—IBC 2000, IBC 2003, and IBC 2006—have been fully adopted by all jurisdictions and apply to all facilities nationwide. As with the primary baseline scenarios examined in the Final RIA, use of these three alternate IBC baselines results in positive expected NPVs in all cases.*See* Final RIA, figure ES–4. These results also indicate that IBC 2000 and IBC 2006 respectively have the highest and lowest expected NPVs. These results are due to changes in the make-up of the set of requirements that is included in each alternative baseline.
- <p> Additionally, a second, more limited alternate baseline analysis in the Final RIA uses a State-specific and requirement-specific alternate IBC/ANSI baseline in order to demonstrate the likely actual incremental impact of an illustrative subset of 20 requirements under current conditions nationwide. For this analysis, research was conducted on a subset of 20 requirements in the final rules that have negative net present values under the primary baseline and readily identifiable IBC/ANSI counterparts to determine the extent to which they each respectively have been adopted at the State or local level. With respect to facilities, the population of adopting jurisdictions was used as a proxy for facility location. In other words, it was assumed that the number of ADA-covered facilities respectively compliant with these 20 requirements was equal to the percentage of the United States population (based on statistics from the Census Bureau) currently residing in those States or local jurisdictions that have adopted the IBC/ANSI counterparts to these requirements. The results of this more limited analysis, using State-specific and requirement-specific alternate IBC/ANSI baselines for these 20 requirements, demonstrate that the widespread adoption of IBC model codes by States and localities significantly lessens the financial impact of these specific requirements. Indeed, the Final RIA estimates that, if the NPVs for these 20 requirements resulting from the requirement-specific alternate IBC/ANSI baseline are substituted for their respective results under the primary baseline, the overall NPV for the final rules increases from $9.2 billion to $12.0 billion.*See* Final RIA, section 6.2.2 &amp; table 10.
- <p> *Benefits Not Monetized in the Formal**Analysis* Finally, the RIA recognizes that additional benefits are likely to result from the new standards. Many of these benefits are more difficult to quantify. Among the potential benefits that have been discussed by researchers and advocates are reduced administrative costs due to harmonized guidelines, increased business opportunities, increased social development, and improved health benefits. For example, the final rules will substantially increase accessibility at newly scoped facilities such as recreation facilities and judicial facilities, which previously have been very difficult for persons with disabilities to access. Areas where the Department believes entities may incur benefits that are not monetized in the formal analysis include, but may not be limited to, the following:
- <p> *Use benefits accruing to persons with disabilities. *The final rules should improve the overall sense of well-being of persons with disabilities, who will know that public entities and places of public accommodation are generally accessible, and who will have improved individual experiences. Some of the most frequently cited qualitative benefits of increased access are the increase in one's personal sense of dignity that arises from increased access and the decrease in possibly humiliating incidents due to accessibility barriers. Struggling to join classmates on a stage, to use a bathroom with too little clearance, or to enter a swimming pool all negatively affect a person's sense of independence and can lead to humiliating accidents, derisive comments, or embarrassment. These humiliations, together with feelings of being stigmatized as different or inferior from being relegated to use other, less comfortable or pleasant elements of a facility (such as a bathroom instead of a kitchen sink for rinsing a coffee mug at work), all have a negative effect on persons with disabilities.
- <p> *Use benefits accruing to persons without disabilities.*Improved accessibility can affect more than just the rule's target population; persons without disabilities may also benefit from many of the requirements. Even though the requirements were not designed to benefit persons without disabilities, any time savings or easier access to a facility experienced by persons without disabilities are also benefits that should properly be attributed to that change in accessibility. Curb cuts in sidewalks make life easier for those using wheeled suitcases or pushing a baby stroller. For people with a lot of luggage or a need to change clothes, the larger bathroom stalls can be highly valued. A ramp into a pool can allow a child (or adult) with a fear of water to ease into that pool. All are examples of "unintended" benefits of the rule. And ideally, all should be part of the calculus of the benefits to society of the rule.
- <p> *Social benefits.* Evidence supports the notion that children with and without disabilities benefit in their social development from interaction with one another. Therefore, there will likely be social development benefits generated by an increase in accessible play areas. However, these benefits are nearly impossible to quantify for several reasons. First, there is no guarantee that accessibility will generate play opportunities between children with and without disabilities. Second, there may be substantial overlap between interactions at accessible play areas and interactions at other facilities, such as schools and religious facilities. Third, it is not certain what the unit of measurement for social development should be.
- <p> *Non-use benefits.* There are additional, indirect benefits to society that arise from improved accessibility. For instance, resource savings may arise from reduced social service agency outlays when people are able to access centralized points of service delivery rather than receiving home-based care. Home-based and other social services may include home health care visits and welfare benefits. Third-party employment effects can arise when enhanced accessibility results in increasing rates of consumption by disabled and non-disabled populations, which in turn results in reduced unemployment.
- <p> Two additional forms of benefits are discussed less often, let alone quantified: Option value and existence value. Option value is the value that people with and without disabilities derive from the option of using accessible facilities at some point in the future. As with insurance, people derive benefit from the knowledge that the option to use the accessible facility exists, even if it ultimately goes unused. Simply because an individual is a nonuser of accessible elements today does not mean that he or she will remain so tomorrow. In any given year, there is some probability that an individual will develop a disability (either temporary or permanent) that will necessitate use of these features. For example, the 2000 Census found that 41.9 percent of adults 65 years and older identified themselves as having a disability. Census Bureau figures, moreover, project that the number of people 65 years and older will more than double between 2000 and 2030—from 35 million to 71.5 million. Therefore, even individuals who have no direct use for accessibility features today get a direct benefit from the knowledge of their existence should such individuals need them in the future.
- <p> Existence value is the benefit that individuals get from the plain existence of a good, service or resource—in this case, accessibility. It can also be described as the value that people both with and without disabilities derive from the guarantees of equal treatment and non-discrimination that are accorded through the provision of accessible facilities. In other words, people value living in a country that affords protections to individuals with disabilities, whether or not they themselves are directly or indirectly affected. Unlike use benefits and option value, existence value does not require an individual ever to use the resource or plan on using the resource in the future. There are numerous reasons why individuals might value accessibility even if they do not require it now and do not anticipate needing it in the future.
- <p> *Costs Not Monetized in the Formal Analysis* The Department also recognizes that in addition to benefits that cannot reasonably be quantified or monetized, there may be negative consequences and costs that fall into this category as well. The absence of a quantitative assessment of such costs in the formal regulatory analysis is not meant to minimize their importance to affected entities; rather, it reflects the inherent difficulty in estimating those costs. Areas where the Department believes entities may incur costs that are not monetized in the formal analysis include, but may not be limited to, the following:
- <p> *Costs from deferring or forgoing alterations*. Entities covered by the final rules may choose to delay otherwise desired alterations to their facilities due to the increased incremental costs imposed by compliance with the new requirements. This may lead to facility deterioration and decrease in the value of such facilities. In extreme cases, the costs of complying with the new requirements may lead some entities to opt to not build certain facilities at all. For example, the Department estimates that the incremental costs of building a new wading pool associated with the final rules will increase by about $142,500 on average. Some facilities may opt to not build such pools to avoid incurring this increased cost.
- <p> *Loss of productive space while modifying an existing facility.* During complex alterations, such as where moving walls or plumbing systems will be necessary to comply with the final rules, productive space may be unavailable until the alterations are complete. For example, a hotel altering its bathrooms to comply with the final rules will be unable to allow guests to occupy these rooms while construction activities are underway, and thus the hotel may forgo revenue from these rooms during this time. While the amount of time necessary to perform alterations varies significantly, the costs associated with unproductive space could be high in certain cases, especially if space is already limited or if an entity or facility is located in an area where real estate values are particularly high (**e.g.*, *New York or San Francisco).
- <p> *Expert fees.* Another type of cost to entities that is not monetized in the formal analysis is legal fees to determine what, if anything, a facility needs to do in order to comply with the new rules or to respond to lawsuits. Several commenters indicated that entities will incur increased legal costs because the requirements are changing for the first time since 1991. Since litigation risk could increase, entities could spend more on legal fees than in the past. Likewise, covered entities may face incremental costs when undertaking alterations because their engineers, architects, or other consultants may also need to consider what modifications are necessary to comply with the new requirements. The Department has not quantified the incremental costs of the services of these kinds of experts.
- <p> *Reduction in facility value and losses to individuals without disabilities due to the new accessibility requirements.* It is possible that some changes made by entities to their facilities in order to comply with the new requirements may result in fewer individuals without disabilities using such facilities (because of decreased enjoyment) and may create a disadvantage for individuals without disabilities, even though the change might increase accessibility for individuals with disabilities. For example, the new requirements for wading pools might decrease the value of the pool to the entity that owns it due to fewer individuals using it (because the new requirements for a sloped entry might make the pool too shallow). Similarly, several commenters from the miniature golf industry expressed concern that it would be difficult to comply with the regulations for accessible holes without significantly degrading the experience for other users. Finally, with respect to costs to individuals who do not have disabilities, a very tall person, for example, may be inconvenienced by having to reach further for a lowered light switch.
- <p>**Section 610 Review**
- <p> The Department also is required to conduct a periodic regulatory review pursuant to section 610 of the RFA, as amended by the SBREFA.
- <p> The review requires agencies to consider five factors: (1) The continued need for the rule; (2) the nature of complaints or comments received concerning the rule from the public; (3) the complexity of the rule; (4) the extent to which the rule overlaps, duplicates, or conflicts with other Federal rules, and, to the extent feasible, with State and local governmental rules; and (5) the length of time since the rule has been evaluated or the degree to which technology, economic conditions, or other factors have changed in the area affected by the rule. 5 U.S.C. 610(b). Based on these factors, the agency is required to determine whether to continue the rule without change or to amend or rescind the rule, to minimize any significant economic impact of the rule on a substantial number of small entities.*See**id.* 610(a).
- <p> In developing the 2010 Standards, the Department reviewed the 1991 Standards section by section, and, as a result, has made several clarifications and amendments in both the title II and title III implementing regulations. The changes reflect the Department's analysis and review of complaints or comments from the public, as well as changes in technology. Many of the amendments aim to clarify and simplify the obligations of covered entities. As discussed in greater detail above, one significant goal of the development of the 2004 ADAAG was to eliminate duplication or overlap in Federal accessibility guidelines, as well as to harmonize the Federal guidelines with model codes. The Department also has worked to create harmony where appropriate between the requirements of titles II and III. Finally, while the regulation is required by statute and there is a continued need for it as a whole, the Department proposes several modifications that are intended to reduce its effects on small entities.
- <p> The Department has consulted with the Small Business Administration's Office of Advocacy about this process. The Office of Advocacy has advised that although the process followed by the Department was ancillary to the proposed adoption of revised ADA Standards, the steps taken to solicit public input and to respond to public concerns are functionally equivalent to the process required to complete a section 610 review. Therefore, this rulemaking fulfills the Department's obligations under the RFA.
- <p>**Final Regulatory Flexibility Analysis**
- <p> This final rule also has been reviewed by the Small Business Administration's Office of Advocacy (Advocacy) in accordance with Executive Order 13272, 67 FR 53461, 3 CFR, 2003 Comp., p. 247. Chapter Seven of the Final RIA demonstrates that the final rule will not have a significant economic impact on a substantial number of small entities. The Department has also conducted a final regulatory flexibility analysis (FRFA) as a component of this rulemaking. Collectively, the ANPRM, NPRM, Initial RIA, Final RIA, and 2010 Standards include all of the elements of a FRFA required by the RFA.*See* 5 U.S.C. 604(a)(1)–(5).
- <p> Section 604(a) lists the specific requirements for a FRFA. The Department has addressed these RFA requirements throughout the ANPRM, NPRM, the 2010 Standards, and the RIA. In summary, the Department has satisfied its FRFA obligations under section 604(a) by providing the following:
- <p> 1. *Succinct summaries of the need for, and objectives of, the final rule.* The Department is issuing this final rule in order to comply with its obligations under both the ADA and the SBREFA. The Department is also updating or amending certain provisions of the existing title III regulation so that they are consistent with the title II regulations and comport with the Department's legal and practical experiences in enforcing the ADA. <br />
+There are substantially fewer single-user toilet rooms with in-swinging doors, and substantially fewer people with disabilities will benefit from making those rooms accessible. While both wheelchair users and individuals with other ambulatory disabilities will benefit from the additional space in a room with an out-swinging door, the Department believes, based on the estimates of its expert panel and its own experience, that wheelchair users likely will be the primary beneficiaries of the in-swinging door requirement. The Department estimates that people with the relevant disabilities will use a newly accessible single-user toilet room with an in-swinging door approximately 8.7 million times per year. Moreover, the alteration costs to make a single-user toilet room with an in-swinging door accessible are substantially higher (because of the space taken up by the door) than the equivalent costs of making a room with an out-swinging door accessible. Thus, the Department calculates that, assuming 72 percent of covered facilities nationwide are located in jurisdictions that have adopted the relevant equivalent IBC/ANSI model code provisions, the costs of applying the toilet room accessibility standard to rooms with in-swinging doors will exceed the monetized benefits of doing so by $266.3 million over the life of the regulations, or approximately $19.14 million per year. Dividing the $19.14 million annual cost by the 8.7 million annual uses, the Department concludes that for the costs and benefits to break even in this context, people with the relevant disabilities will have to value safety, independence, and the avoidance of stigma and humiliation at approximately $2.20 per visit. The Department believes, based on its experience and informed judgment, that this figure approximates, and probably understates, the value wheelchair users place on safety, independence, and the avoidance of stigma and humiliation in this context.  
 
- <p> The ADA requires the Department to adopt enforceable accessibility standards under the ADA that are consistent with the Access Board's minimum accessibility guidelines and requirements. Accordingly, this rule adopts ADA Chapter 1, ADA Chapter 2, and Chapters 3 through 10 of the 2004 ADA/ABA Guidelines as part of the 2010 Standards, which will give the guidelines legal effect with respect to the Department's title II and title III regulations.
- <p> Under the SBREFA, the Department is required to perform a periodic review of its 1991 rule because the rule may have a significant economic impact on a substantial number of small entities. The SBREFA also requires the Department to make a regulatory assessment of the costs and benefits of any significant regulatory action.*See* preamble sections of the final rules for titles II and III entitled "Summary"; Department of Justice Advanced Notice of Proposed Rulemaking, 69 FR 58768, 58768B70, (Sept. 30, 2004) (outlining the regulatory history, goals, and rationale underlying the Department's proposal to revise its regulations implementing titles II and III of the ADA); and Department of Justice Notice of Proposed Rulemaking, 73 FR 34508, 34508B14 (June 17, 2008) (outlining the regulatory history and rationale underlying the Department's proposal to revise its regulations implementing titles II and III of the ADA).
- <p> 2.* Summaries of significant issues raised by public comments in response to the Department's initial regulatory flexibility analysis (IRFA) and discussions of regulatory revisions made as a result of such comments. *The majority of the comments received by the Department addressing its IRFA set forth in the title III NPRM were submitted by the Advocacy. Advocacy acknowledged that the Department took into account the comments and concerns of small businesses; however, Advocacy remained concerned about certain items in the Department's NPRM and requested clarification or additional guidance on certain items.
- <p> *General Safe Harbor. *Advocacy expressed support for the Department's proposal to allow an element-by-element safe harbor for elements that now comply with the 1991 Standards and encouraged the Department to include specific technical assistance in the Small Business Compliance Guide that the Department is required to publish pursuant to section 212 of the SBREFA, 5 U.S.C. 610 **et seq**. Advocacy requested that technical assistance outlining which standards are subject to the safe harbor be included in the Department's guidance. The Department has provided a list of the new requirements in the 2010 Standards that are not eligible for the safe harbor in &sect; 36.304(d)(2)(iii)(A)–(L) of the final rule and plans to include additional information about the application of the safe harbor in the Department's Small Business Compliance Guide. Advocacy also requested that guidance regarding the two effective dates for regulations also be provided, and the Department plans to include such guidance in its Small Business Compliance Guide.
- <p> *Small Business Safe Harbor. *Advocacy expressed disappointment that the Department did not include a small business safe harbor in the final rule. In the NPRM, the Department proposed to include a small business safe harbor. Advocacy conceptually supported this safe harbor but had concerns regarding its application. Commenters from both the disability community and the business community uniformly, and quite adamantly, opposed the Department's proposal. Some business commenters suggested alternative safe harbors, but there was no common thread among their suggestions that would enable the Department to craft a proposal that would draw support from the affected communities.
- <p> Advocacy recommended that the Department continue to study how the proposed small business safe harbor might be made workable in future rulemakings, and recommended that the Department also seek other alternatives that minimize the economic impact of the ADA rulemakings in the future. The Department is mindful of its obligations under the SBREFA and will be sensitive to the need to mitigate costs for small businesses in any future rulemaking; however, based on the information currently available, the Department has declined to commit to a specific regulatory approach in the final rule.
- <p> *Indirect Costs.* Advocacy and other commenters representing business interests expressed concern that businesses would incur substantial indirect costs under the final rule for accessibility consultants, legal counsel, training, and the development of new policies and procedures. The Department believes that such "indirect costs," even assuming they would occur as described by these commenters, are not properly attributed to the Department's final rule implementing the ADA.
- <p> The vast majority of the new requirements are incremental changes subject to a safe harbor. All businesses currently in compliance with the 1991 Standards will neither need to undertake further retrofits nor require the services of a consultant to tell them so. If, on the other hand, elements at an existing facility are not currently in compliance with the 1991 Standards, then the cost of making such a determination and bringing these elements into compliance are not properly attributed to the final rule, but to lack of compliance with the 1991 Standards.
- <p> For the limited number of requirements in the final rule that are supplemental, the Department believes that covered entities simply need to determine whether they have an element covered by a supplemental requirement (**e.g.*, *a swimming pool) and then conduct any necessary barrier removal work either in-house or by contacting a local contractor. Determining whether such an element exists is expected to take only a minimal amount of staff time. Nevertheless, Chapter 5 of the Final RIA has a high-end estimate of the additional management costs of such evaluation (from 1 to 8 hours of staff time).
- <p> The Department also anticipates that businesses will incur minimal costs for accessibility consultants to ensure compliance with the new requirements for New Construction and Alterations in the final rule. Both the 2004 ADAAG and the proposed requirements have been made public for some time and are already being incorporated into design plans by architects and builders. Further, in adopting the final rule, the Department has sought to harmonize, to the greatest extent possible, the ADA Standards with model codes that have been adopted on a widespread basis by State and local jurisdictions across the country. Accordingly, many of the requirements in the final rule are already incorporated into building codes nationwide. Additionally, it is assumed to be part of the regular course of business—and thereby incorporated into standard professional services or construction contracts—for architects and contractors to keep abreast of changes in applicable Federal, State, and local laws and building codes. Given these considerations, the Department has determined that the additional costs, if any, for architectural or contractor services that arise out of the final rule should be minimal.
- <p> Some commenters stated that the final rule would require them to develop new policies or manuals to retrain employees on the revised ADA standards. However, it is the Department's view that because the revised and supplemental requirements address architectural issues and features, the final rule would require minimal, if any, changes to the overall policies and procedures of covered entities.
- <p> Finally, commenters representing business interests expressed the view that the final rule would cause businesses to incur significant legal costs in order to defend ADA lawsuits. However, regulatory impact analyses are not an appropriate forum for assessing the cost covered entities may bear, or the repercussions they may face, for failing to comply (or allegedly failing to comply) with current law.*See* Final RIA, Ch. 3, section 3.1.4, "Other Management Transition Costs"; Ch. 5,"Updates to the Regulatory Impact Analysis"; and table 15, "Impact of NPV of Estimated Managerial Costs for Supplemental Requirements at All Facilities."
- <p>
- 3. *Estimates of the number and type of small entities to which the final rule will apply*. The Department estimates that the final rule will apply to approximately three million small entities or facilities covered by title III.*See* Final RIA, Ch. 7, "Small Business Impact Analysis," table 17, and app. 5, "Small Business Data"; *see also* 73 FR 36964, 36996–37009 (June 30, 2008) (estimating the number of small entities the Department believes may be impacted by the NPRM and calculating the likely incremental economic impact of the rule on small facilities/entities versus "typical" (**i.e.*, *average-sized facilities/entities).
- <p> 4. *A description of the projected reporting, record-keeping, and other compliance requirements of the final rule, including an estimate of the classes of small entities that will be subject to the requirement and the type of professional skills necessary for preparation of the report or record.* The final rule imposes no new recordkeeping or reporting requirements.*See* preamble section entitled "Paperwork Reduction Act." Small entities may incur costs as a result of complying with the final rules. These costs are detailed in the Final RIA, Chapter 7, "Small Business Impact Analysis" and accompanying Appendix 5, "Small Business Data."
- <p>
- 5. D*escriptions of the steps taken by the Department to minimize any significant economic impact on small entities consistent with the stated objectives of the ADA, including the reasons for selecting the alternatives adopted in the final rule and for rejecting other significant alternatives. *From the outset of this rulemaking, the Department has been mindful of small entities and has taken numerous steps to minimize the impact of the final rule on small businesses. Several of these steps are summarized below.
- <p> As an initial matter, the Department— as a voting member of the Access Board—was extensively involved in the development of the 2004 ADAAG. These guidelines, which are incorporated into the 2010 Standards, reflect a conscious effort to mitigate any significant economic impact on small businesses in several respects. First, one of the express goals of the 2004 ADAAG is harmonization of Federal accessibility guidelines with industry standards and model codes that often form the basis of State and local building codes, thereby minimizing the impact of these guidelines on all covered entities, but especially small businesses. Second, the 2004 ADAAG is the product of a 10-year rulemaking effort in which a host of private and public entities, including small business groups, worked cooperatively to develop accessibility guidelines that achieved an appropriate balance between accessibility and cost. For example, as originally recommended by the Access Board's Recreation Access Advisory Committee, all holes on a miniature golf course would be required to be accessible except for sloped surfaces where the ball could not come to rest. *See, *e.g.*,* "ADA Accessibility Guidelines for Buildings and Facilities—Recreation Facilities and Outdoor Developed Areas," Access Board Advance Notice of Proposed Rulemaking, 59 FR 48542 (Sept. 21, 1994). Miniature golf trade groups and facility operators, who are nearly all small businesses, expressed significant concern that such requirements would be prohibitively expensive, would require additional space, and might fundamentally alter the nature of their courses. *See, e.g*., "ADA Accessibility Guidelines for Buildings and Facilities—Recreation Facilities," Access Board Notice of Proposed Rulemaking, 64 FR 37326 (July 9, 1999). In consideration of such concerns and after holding informational meetings with miniature golf representatives and persons with disabilities, the Access Board significantly revised the final miniature golf guidelines. The final guidelines not only reduced significantly the number of holes required to be accessible to 50 percent of all holes (with one break in the sequence of consecutive holes permitted), but also added an exemption for carpets used on playing surfaces, modified ramp landing slope and size requirements, and reduced the space required for start of play areas. *See, *e.g.*, *Americans with Disabilities Act (ADA) Accessibility Guidelines for Buildings and Facilities—Recreation Facilities Final Rule, 36 CFR parts 1190 and 1191.
- <p> The Department also published an ANPRM to solicit public input on the adoption of the 2004 ADAAG as the revised Federal accessibility standards implementing titles II and III of the ADA. Among other things, the ANPRM specifically invited comment from small entities regarding the proposed rule's potential economic impact and suggested regulatory alternatives to ameliorate any such impact.*See* "Nondiscrimination on the Basis of Disability by Public Accommodations and in Commercial Facilities," Department of Justice Advance Notice of Proposed Rulemaking, 69 FR 58768, 58778–79 (Sept. 30, 2004). The Department received over 900 comments, and small business interests figured prominently.*See* "*Nondiscrimination on the Basis of Disability by Public Accommodations and in Commercial Facilities," Department of Justice Notice of Proposed Rulemaking, 73 FR 34508, 34511, 34550 *(June 17, 2008).
- <p> Subsequently, when the Department published its NPRM in June 2008, several regulatory proposals were included to address concerns raised by the small business community in ANPRM comments. First, to mitigate costs to existing facilities, the Department proposed an element-by-element safe harbor that would exempt elements in compliance with applicable technical and scoping requirements in the 1991 Standards from any retrofit obligations under the revised title III rule.* Id.* at 34514–15, 34532–33. While this proposed safe harbor applied to title III covered entities irrespective of size, it was small businesses that especially stood to benefit since, according to comments from small business advocates, small businesses are more likely to operate in older buildings and facilities. The title III NPRM also offered for public comment a novel safe harbor provision specifically designed to address small business advocates' request for clearer guidance on the readily achievable barrier removal requirement. This proposal provided that qualified small businesses would be deemed to have satisfied their readily achievable barrier removal obligations for a given year if, during that tax year, they had spent at least 1 percent of their respective gross revenues undertaking measures in compliance with title III barrier removal requirements. *Id.* at 34538–39. Lastly, the NPRM sought public input on the inclusion of reduced scoping provisions for certain types of small existing recreation facilities (**i.e.*,* swimming pools, play areas, and saunas). *Id. *at 34515, 34534–37.
- <p> During the NPRM comment period, the Department engaged in considerable public outreach to the small business community. A public hearing was held in Washington, D.C., during which nearly 50 persons, including several small business owners, testified in person or by phone.*See**Transcript of the Public Hearing on Notices of Proposed Rulemaking* (July 15, 2008), available at *www.ada.gov/NPRM2008/ public_hearing_transcript.htm*. This hearing was also streamed live over the Internet. By the end of the 60-day comment period, the Department had also received nearly 4,500 public comments on the title III NPRM, including a significant number of comments reflecting small businesses' perspectives on a wide range of regulatory issues.
- <p> In addition to soliciting input from small entities through the formal process for public comment, the Department also targeted the small business community with less formal regulatory discussions, including a Small Business Roundtable convened by the Office of Advocacy and held at the offices of the Small Business Administration in Washington, D.C., and an informational question-and-answer session concerning the titles II and III NPRMs at the Department of Justice in which business representatives attended in-person and by telephone. These outreach efforts provided the small business community with information on the NPRM proposals being considered by the Department and gave small businesses the opportunity to ask questions of the Department and provide feedback.
- <p> As a result of the feedback provided by representatives of small business interests on the title III NPRM, the Department was able to assess the impact of various alternatives on small businesses before adopting its final rule and took steps to minimize any significant impact on small entities. Most notably, the final rule retains the element-by-element safe harbor for which the small business community voiced strong support.*See* Appendix A discussion of removal of barriers (&sect; 36.304). The Department believes that this element-by-element safe harbor provision will go a long way toward mitigating the economic impact of the final rule on existing facilities owned or operated by small businesses. Indeed, as demonstrated in the Final RIA, the element-by-element safe harbor will provide substantial relief to small businesses that is estimated at $ 7.5 billion over the expected life of the final rule.
- <p> Additional regulatory measures mitigating the economic impact of the final rule on title III-covered entities (including small businesses) include deletion of the proposed requirement for captioning of safety and emergency information on scoreboards at sporting venues, retention of the proposed path of travel safe harbor, extension of the compliance date of the 2010 Standards as applied to new construction and alterations from 6 months to 18 months after publication of the final rule, and, in response to public comments, modification of the triggering event for application of the 2010 Standards to new construction and alterations from a unitary approach (commencement of physical construction) to a two-pronged approach (date of last application for building permit or commencement of physical construction) depending on whether a building permit is or is not required for the type of construction at issue by State or local building authorities.*See* Appendix A discussions of captioning at sporting venues (&sect; 36.303), alterations and path of travel (&sect; 36.403), and compliance dates and triggering events for new construction and alterations (&sect; 36.406).
- <p> Two sets of proposed alternative measures that would have potentially provided some cost savings to small businesses—the safe harbor for qualified small businesses and reduced scoping for certain existing recreation facilities—were not adopted by the Department in the final rule. As discussed in more depth previously, the safe harbor for qualified small businesses was omitted from the final rule because the general safe harbor already provides significant relief for small businesses located in existing facilities, the proposed safe harbor provision lacked support from the small business community and no consensus emerged from business commenters concerning feasible bases for the final regulatory provision, and commenters noted practical considerations that would potentially make some small businesses incur greater expense or administrative burden.*See* Appendix A discussion of the safe harbor for qualified small businesses (&sect; 36.304).
- <p> The Department also omitted the proposals to reduce scoping for certain existing recreation facilities in the final rule. While these proposals were not specific to small entities, they nonetheless might have mitigated the impact of the final rule for some small businesses that owned or operated existing facilities at which these recreational elements were located.*See* Appendix A discussion of reduced scoping for play areas and other recreation facilities (&sect; 36.304). The Department gave careful consideration to how best to insulate small businesses from overly burdensome barrier removal costs under the 2010 Standards for existing small play areas, swimming pools, and saunas, while still providing accessible and integrated recreation facilities that are of great importance to persons with disabilities. The Department concluded that the existing readily achievable barrier removal standard, rather than specific exemptions for these types of existing facilities, is the most efficacious method by which to protect small businesses.
- <p> Once the final rule is promulgated, small businesses will also have a wealth of documents to assist them in complying with the 2010 Standards. For example, accompanying the final rule in the**Federal Register** is the Department's"Analysis and Commentary on the 2010 ADA Standards for Accessible Design," which provides a plain language description of the revised scoping and technical requirements in these Standards and provides illustrative figures. The Department also expects to publish guidance specifically tailored to small businesses in the form of a small business compliance guide, as well as to publish technical assistance materials of general interest to all covered entities following promulgation of the final rule. Additionally, the Access Board has published a number of guides that discuss and illustrate application of the 2010 Standards to play areas and various types of recreation facilities.
- <p>**Executive Order 13132: Federalism**
- <p> Executive Order 13132, 64 FR 43255, 3 CFR, 2000 Comp., p. 206, requires executive branch agencies to consider whether a rule will have federalism implications. That is, the rulemaking agency must determine whether the rule is likely to have substantial direct effects on State and local governments, a substantial direct effect on the relationship between the Federal government and the States and localities, or a substantial direct effect on the distribution of power and responsibilities among the different levels of government. If an agency believes that a rule is likely to have federalism implications, it must consult with State and local elected officials about how to minimize or eliminate the effects.
- <p> Title III of the ADA covers public accommodations and commercial facilities. These facilities are generally subject to regulation by different levels of government, including Federal, State, and local governments. The ADA and the 2010 Standards set minimum civil rights protections for individuals with disabilities that in turn may affect the implementation of State and local laws, particularly building codes. The 2010 Standards address federalism concerns and mitigate federalism implications, particularly the provisions that streamline the administrative process for State and local governments seeking ADA code certification under title III.
- <p> As a member of the Access Board, the Department was privy to substantial feedback from State and local governments throughout the development of the Board's 2004 guidelines. Before those guidelines were finalized as the 2004 ADA/ABA Guidelines, they addressed and minimized federalism concerns expressed by State and local governments during the development process. Because the Department adopted ADA Chapter 1, ADA Chapter 2, and Chapters 3 through 10 of the 2004 ADA/ABA Guidelines as part of the 2010 Standards, the steps taken in the 2004 ADA/ABA Guidelines to address federalism concerns are reflected in the 2010 Standards.
- <p> The Department also solicited and received input from public entities in the September 2004 ANPRM and the June 2008 NPRM. Through the ANPRM and NPRM processes, the Department solicited comments from elected State and local officials and their representative national organizations about the potential federalism implications. The Department received comments addressing whether the ANPRM and NPRM directly affected State and local governments, the relationship between the Federal government and the States, and the distribution of power and responsibilities among the various levels of government. The rule preempts State laws affecting entities subject to the ADA only to the extent that those laws conflict with the requirements of the ADA, as set forth in the rule.
- <p>**National Technology Transfer and Advancement Act of 1995**
- <p> The National Technology Transfer and Advancement Act of 1995 (NTTAA) directs that, as a general matter, all Federal agencies and departments shall use technical standards that are developed or adopted by voluntary consensus standards bodies, which are private, generally non-profit organizations that develop technical standards or specifications using well-defined procedures that require openness, balanced participation among affected interests and groups, fairness and due process, and an opportunity for appeal, as a means to carry out policy objectives or activities. Public Law 104– 113 section 12(d)(1) (15 U.S.C. 272 Note). In addition, the NTTAA directs agencies to consult with voluntary, private sector, consensus standards bodies and requires that agencies participate with such bodies in the development of technical standards when such participation is in the public interest and is compatible with agency and departmental missions, authorities, priorities, and budget resources. *Id. *section 12(d)1). The Department, as a member of the Access Board, was an active participant in the lengthy process of developing the 2004 ADAAG, on which the 2010 Standards are based. As part of this update, the Board has made its guidelines more consistent with model building codes, such as the IBC, and industry standards. It coordinated extensively with model code groups and standard-setting bodies throughout the process so that differences could be reconciled. As a result, an historic level of harmonization has been achieved that has brought about improvements to the guidelines, as well as to counterpart provisions in the IBC and key industry standards, including those for accessible facilities issued through the American National Standards Institute.
- <p>**Plain Language Instructions**
- <p> The Department makes every effort to promote clarity and transparency in its rulemaking. In any regulation, there is a tension between drafting language that is simple and straightforward and drafting language that gives full effect to issues of legal interpretation. The Department operates a toll-free ADA Information Line (800) 514–0301(voice); (800) 514–0383 (TTY) that the public is welcome to call at any time to obtain assistance in understanding anything in this rule. If any commenter has suggestions for how the regulation could be written more clearly, please contact Janet L. Blizard, Deputy Chief, Disability Rights Section, whose contact information is provided in the introductory section of this rule, entitled**FOR FURTHER INFORMATION CONTACT.**
- <p>**Paperwork Reduction Act**
- <p> The Paperwork Reduction Act of 1980 (PRA) requires agencies to clear forms and recordkeeping requirements with OMB before they can be introduced. 44 U.S.C. 3501 *et seq*. This rule does not contain any paperwork or recordkeeping requirements and does not require clearance under the PRA.
- <p>**Unfunded Mandates Reform Act**
- <p> Section 4(2) of the Unfunded Mandates Reform Act of 1995, 2 U.S.C. 1503(2), excludes from coverage under that Act any proposed or final Federal regulation that "establishes or enforces any statutory rights that prohibit discrimination on the basis of race, color, religion, sex, national origin, age, handicap, or disability." Accordingly, this rulemaking is not subject to the provisions of the Unfunded Mandates Reform Act.
- <p>**List of Subjects for 28 CFR Part 36**
- <p> Administrative practice and procedure, Buildings and facilities, Business and industry, Civil rights, Individuals with disabilities, Penalties, Reporting and recordkeeping requirements.
- <p> *•*By the authority vested in me as Attorney General by law, including 28 U.S.C. 509 and 510, 5 U.S.C. 301, and section 306 of the Americans with Disabilities Act of 1990, Public Law 101–336 (42 U.S.C. 12186), and for the reasons set forth in Appendix A to 28 CFR part 36, chapter I of title 28 of the Code of Federal Regulations is amended as follows:
- <div class="ftnote">
- <p><a href="#rftnt1">1</a> <a name="ftnt1" id="ftnt1"></a>On September 25, 2008, President George W.Bush signed into law the Americans with Disabilities Amendments Act of 2008 (ADA Amendments Act), Public Law 110–325. The ADA Amendments Act amended the ADA definition of disability to clarify its coverage of persons with disabilities and to provide guidance on the application of the definition. This final rule does not contain regulatory language implementing the ADA Amendments Act. The Department intends to publish a supplemental rule to amend the regulatory definition of "disability" to implement the changes mandated by that law.
- <p> <a href="#rftnt2">2</a> <a name="ftnt2" id="ftnt2"></a>The analysis assumes these regulations will be in force for 15 years. Incremental costs and benefits are calculated for all construction, alterations, and barrier removal that is expected to occur during these 15 years. The analysis also assumes that any new or revised ADA rules enacted 15 years from now will include a safe harbor provision. Thus, any facilities constructed in year 14 of the final rules are assumed to continue to generate benefits to users, and to incur any operating or replacement costs for the life of these buildings, which is assumed to be 40 years.
-</div>
- <p>&nbsp;
- </div>
-</div>
-<div class="section" id="2010reg">
- <div class="section_content">
- <h1>Title III Regulations <br />
- Revised Final Title III Regulation
- with Integrated Text</h1>
- <p class="section-intro">NOTE: These provisions update the relevant portions of the title III regulation to incorporate changes made to the regulatory text through January 17, 2017. These modifications stem from the Pool Extension Final Rule (77 FR 30174, published May 21, 2012), the ADA Amendments Act Final Rule (81 FR 53202, published Aug. 11, 2016), and the Movie Captioning and Audio Description Final Rule (81 FR 87348, published Dec. 2, 2016). All section headings and changes are noted in bold.
- <h3 style="font-size: larger"><a id="anchor3508" name="anchor3508"></a>Part 36 Nondiscrimination on the Basis of Disability in Public Accommodations and Commercial Facilities (*as amended by the final rules published on August 11, 2016, and December 2, 2016*)</h3>
-<p>**Authority:****5 U.S.C. 301; 28 U.S.C. 509, 510; 42 U.S.C. 12186(b) and 12205a.**
- <h2><a name="subparta" id="subparta"></a>Subpart A – General</h2>
- <h3>&sect; <a name="a101" id="a101"></a>36.101 Purpose and broad coverage.</h3>
- <ul>
- <li>**(a) *Purpose****.* The purpose of this part is to implement title III of the Americans with Disabilities Act of 1990 (42 U.S.C. 12181**–12189), as amended by the ADA Amendments Act of 2008 (ADA Amendments Act) (Public Law 110–325, 122 Stat. 3553 (2008))**, which prohibits discrimination on the basis of disability by**covered**public accommodations and requires places of public accommodation and commercial facilities to be designed, constructed, and altered in compliance with the accessibility standards established by this part.
- </li></ul><blockquote>
- <p>**(b) *Broad coverage.*The primary purpose of the ADA Amendments Act is to make it easier for people with disabilities to obtain protection under the ADA. Consistent with the ADA Amendments Act's purpose of reinstating a broad scope of protection under the ADA, the definition of &ldquo;disability&rdquo; in this part shall be construed broadly in favor of expansive coverage to the maximum extent permitted by the terms of the ADA. The primary object of attention in cases brought under the ADA should be whether entities covered under the ADA have complied with their obligations and whether discrimination has occurred, not whether the individual meets the definition of &ldquo;disability.&rdquo; The question of whether an individual meets the definition of &ldquo;disability&rdquo; under this part should not demand extensive analysis.**
-</blockquote>
- <blockquote>
- <p>&nbsp;
- </blockquote>
-<h3>&sect; <a name="a102" id="a102"></a>36.102 Application.</h3>
- <ul>
- <li>(a) *General*. This part applies to any –
- <ul>
- <li>(1) Public accommodation; </li>
- <li>(2) Commercial facility; or </li>
- <li>(3) Private entity that offers examinations or courses related to applications, licensing, certification, or credentialing for secondary or postsecondary education, professional, or trade purposes. </li>
- </ul>
- </li>
- <li>(b) *Public accommodations*.
- <ul>
- <li>(1) The requirements of this part applicable to public accommodations are set forth in subparts B, C, and D of this part. </li>
- <li>(2) The requirements of subparts B and C of this part obligate a public accommodation only with respect to the operations of a place of public accommodation. </li>
- <li>(3) The requirements of subpart D of this part obligate a public accommodation only with respect to –
- <ul>
- <li>(i) A facility used as, or designed or constructed for use as, a place of public accommodation; or </li>
- <li>(ii) A facility used as, or designed and constructed for use as, a commercial facility. </li>
- </ul>
- </li>
- </ul>
- </li>
- <li>(c) Commercial facilities. The requirements of this part applicable to commercial facilities are set forth in subpart D of this part. </li>
- <li>(d) *Examinations and courses*. The requirements of this part applicable to private entities that offer examinations or courses as specified in paragraph (a) of this section are set forth in &sect; 36.309. </li>
- <li>(e) *Exemptions and exclusions*. This part does not apply to any private club (except to the extent that the facilities of the private club are made available to customers or patrons of a place of public accommodation), or to any religious entity or public entity. </li>
- </ul>
- <h3>&sect; <a name="a103" id="a103"></a>36.103 Relationship to other laws.</h3>
- <ul>
- <li>(a) *Rule of interpretation*. Except as otherwise provided in this part, this part shall not be construed to apply a lesser standard than the standards applied under title V of the Rehabilitation Act of 1973 (29 U.S.C. 791) or the regulations issued by Federal agencies pursuant to that title. </li>
- <li>(b) *Section 504*. This part does not affect the obligations of a recipient of Federal financial assistance to comply with the requirements of section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794) and regulations issued by Federal agencies implementing section 504. </li>
- <li>(c) *Other laws*. This part does not invalidate or limit the remedies, rights, and procedures of any other Federal laws, or State or local laws (including State common law) that provide greater or equal protection for the rights of individuals with disabilities or individuals associated with them. </li>
- </ul>
- <h3>&sect;<a name="a104" id="a104"></a> 36.104 Definitions.</h3>
- <p>For purposes of this part, the term–
- <p>*1991 Standards* means requirements set forth in the ADA Standards for Accessible Design, originally published on July 26, 1991, and republished as Appendix D to this part.
- <p>*2004 ADAAG* means the requirements set forth in appendices B and D to 36 CFR part 1191 (2009).
- <p>*2010 Standards* means the 2010 ADA Standards for Accessible Design, which consist of the 2004 ADAAG and the requirements contained in subpart D of this part.
- <p>*Act* means the Americans with Disabilities Act of 1990 (Pub. L. 101 - 336, 104 Stat. 327, 42 U.S.C. 12101 - 12213 and 47 U.S.C. 225 and 611).
- <p>*Commerce* means travel, trade, traffic, commerce, transportation, or communication –
- <ul>
- <li>(1) Among the several States; </li>
- <li>(2) Between any foreign country or any territory or possession and any State; or </li>
- <li>(3) Between points in the same State but through another State or foreign country. </li>
- </ul>
- <p>*Commercial facilities* means facilities –
- <ul>
- <li>(1) Whose operations will affect commerce; </li>
- <li>(2) That are intended for nonresidential use by a private entity; and </li>
- <li>(3) That are not –
- <ul>
- <li>(i) Facilities that are covered or expressly exempted from coverage under the Fair Housing Act of 1968, as amended (42 U.S.C. 3601 - 3631); </li>
- <li>(ii) Aircraft; or </li>
- <li>(iii) Railroad locomotives, railroad freight cars, railroad cabooses, commuter or intercity passenger rail cars (including coaches, dining cars, sleeping cars, lounge cars, and food service cars), any other railroad cars described in section 242 of the Act or covered under title II of the Act, or railroad rights-of-way. For purposes of this definition, &quot;rail&quot; and &quot;railroad&quot; have the meaning given the term &quot;railroad&quot; in section 202(e) of the Federal Railroad Safety Act of 1970 (45 U.S.C. 431(e)). </li>
- </ul>
- </li>
- </ul>
- <p>*Current illegal use of drugs* means illegal use of drugs that occurred recently enough to justify a reasonable belief that a person's drug use is current or that continuing use is a real and ongoing problem.
- <p>*Direct threat* means a significant risk to the health or safety of others that cannot be eliminated by a modification of policies, practices, or procedures, or by the provision of auxiliary aids or services, as provided in &sect; 36.208.
- <p>*Disability*. The definition of *disability* can be found at &sect; 36.105.
-<p>*Drug* means a controlled substance, as defined in schedules I through V of section 202 of the Controlled Substances Act (21 U.S.C. 812).
- <p>*Existing facility *means a facility in existence on any given date, without regard to whether the facility may also be considered newly constructed or altered under this part.
- <p>*Facility* means all or any portion of buildings, structures, sites, complexes, equipment, rolling stock or other conveyances, roads, walks, passageways, parking lots, or other real or personal property, including the site where the building, property, structure, or equipment is located.
- <p>Housing at a* place of education* means housing operated by or on behalf of an elementary, secondary, undergraduate, or postgraduate school, or other place of education, including dormitories, suites, apartments, or other places of residence.
- <p>*Illegal use of drugs* means the use of one or more drugs, the possession or distribution of which is unlawful under the Controlled Substances Act (21 U.S.C. 812). The term &quot;illegal use of drugs&quot; does not include the use of a drug taken under supervision by a licensed health care professional, or other uses authorized by the Controlled Substances Act or other provisions of Federal law.
- <p>*Individual with a disability* means a person who has a disability. The term &quot;individual with a disability&quot; does not include an individual who is currently engaging in the illegal use of drugs, when the private entity acts on the basis of such use.
- <p>*Other power-driven mobility device *means any mobility device powered by batteries, fuel, or other engines – whether or not designed primarily for use by individuals with mobility disabilities – that is used by individuals with mobility disabilities for the purpose of locomotion, including golf cars, electronic personal assistance mobility devices (EPAMDs), such as the Segway® PT, or any mobility device designed to operate in areas without defined pedestrian routes, but that is not a wheelchair within the meaning of this section. This definition does not apply to Federal wilderness areas; wheelchairs in such areas are defined in section 508(c)(2) of the ADA, 42 U.S.C. 12207(c)(2).
- <p>*Place of public accommodation* means a facility operated by a private entity whose operations affect commerce and fall within at least one of the following categories –
- <ul>
- <li>(1) Place of lodging, except for an establishment located within a facility that contains not more than five rooms for rent or hire and that actually is occupied by the proprietor of the establishment as the residence of the proprietor. For purposes of this part, a facility is a &quot;place of lodging&quot; if it is –
- <ul>
- <li>(i) An inn, hotel, or motel; or </li>
- <li>(ii) A facility that –
- <ul>
- <li>(A) Provides guest rooms for sleeping for stays that primarily are short-term in nature (generally 30 days or less) where the occupant does not have the right to return to a specific room or unit after the conclusion of his or her stay; and </li>
- <li>(B) Provides guest rooms under conditions and with amenities similar to a hotel, motel, or inn, including the following –
- <ul>
- <li>(*1*) On- or off-site management and reservations service; </li>
- <li>(*2*) Rooms available on a walk-up or call-in basis; </li>
- <li>(*3*) Availability of housekeeping or linen service; and </li>
- <li>(*4*) Acceptance of reservations for a guest room type without guaranteeing a particular unit or room until check-in, and without a prior lease or security deposit. </li>
- </ul>
- </li>
- </ul>
- </li>
- </ul>
- </li>
- <li>(2) A restaurant, bar, or other establishment serving food or drink; </li>
- <li>(3) A motion picture house, theater, concert hall, stadium, or other place of exhibition or entertainment; </li>
- <li>(4) An auditorium, convention center, lecture hall, or other place of public gathering; </li>
- <li>(5) A bakery, grocery store, clothing store, hardware store, shopping center, or other sales or rental establishment; </li>
- <li>(6) A laundromat, dry-cleaner, bank, barber shop, beauty shop, travel service, shoe repair service, funeral parlor, gas station, office of an accountant or lawyer, pharmacy, insurance office, professional office of a health care provider, hospital, or other service establishment; </li>
- <li>(7) A terminal, depot, or other station used for specified public transportation; </li>
- <li>(8) A museum, library, gallery, or other place of public display or collection; </li>
- <li>(9) A park, zoo, amusement park, or other place of recreation; </li>
- <li>(10) A nursery, elementary, secondary, undergraduate, or postgraduate private school, or other place of education; </li>
- <li>(11) A day care center, senior citizen center, homeless shelter, food bank, adoption agency, or other social service center establishment; and </li>
- <li>(12) A gymnasium, health spa, bowling alley, golf course, or other place of exercise or recreation. </li>
- </ul>
- <p>*Private club* means a private club or establishment exempted from coverage under title II of the Civil Rights Act of 1964 (42 U.S.C. 2000a(e)).
- <p>*Private entity* means a person or entity other than a public entity.
- <p>*Public accommodation* means a private entity that owns, leases (or leases to), or operates a place of public accommodation.
- <p>*Public entity* means –
- <ul>
- <li>(1) Any State or local government; </li>
- <li>(2) Any department, agency, special purpose district, or other instrumentality of a State or States or local government; and </li>
- <li>(3) The National Railroad Passenger Corporation, and any commuter authority (as defined in section 103(8) of the Rail Passenger Service Act). (45 U.S.C. 541) </li>
- </ul>
- <p>*Qualified interpreter* means an interpreter who, via a video remote interpreting (VRI) service or an on-site appearance, is able to interpret effectively, accurately, and impartially, both receptively and expressively, using any necessary specialized vocabulary. Qualified interpreters include, for example, sign language interpreters, oral transliterators, and cued-language transliterators.
- <p>*Qualified reader* means a person who is able to read effectively, accurately, and impartially using any necessary specialized vocabulary.
- <p>*Readily achievable* means easily accomplishable and able to be carried out without much difficulty or expense. In determining whether an action is readily achievable factors to be considered include –
- <ul>
- <li>(1) The nature and cost of the action needed under this part; </li>
- <li>(2) The overall financial resources of the site or sites involved in the action; the number of persons employed at the site; the effect on expenses and resources; legitimate safety requirements that are necessary for safe operation, including crime prevention measures; or the impact otherwise of the action upon the operation of the site; </li>
- <li>(3) The geographic separateness, and the administrative or fiscal relationship of the site or sites in question to any parent corporation or entity; </li>
- <li>(4) If applicable, the overall financial resources of any parent corporation or entity; the overall size of the parent corporation or entity with respect to the number of its employees; the number, type, and location of its facilities; and </li>
- <li>(5) If applicable, the type of operation or operations of any parent corporation or entity, including the composition, structure, and functions of the workforce of the parent corporation or entity. </li>
- </ul>
- <p>*Religious entity* means a religious organization, including a place of worship.
- <p>*Service animal *means any dog that is individually trained to do work or perform tasks for the benefit of an individual with a disability, including a physical, sensory, psychiatric, intellectual, or other mental disability. Other species of animals, whether wild or domestic, trained or untrained, are not service animals for the purposes of this definition. The work or tasks performed by a service animal must be directly related to the individual's disability. Examples of work or tasks include, but are not limited to, assisting individuals who are blind or have low vision with navigation and other tasks, alerting individuals who are deaf or hard of hearing to the presence of people or sounds, providing non-violent protection or rescue work, pulling a wheelchair, assisting an individual during a seizure, alerting individuals to the presence of allergens, retrieving items such as medicine or the telephone, providing physical support and assistance with balance and stability to individuals with mobility disabilities, and helping persons with psychiatric and neurological disabilities by preventing or interrupting impulsive or destructive behaviors. The crime deterrent effects of an animal's presence and the provision of emotional support, well-being, comfort, or companionship do not constitute work or tasks for the purposes of this definition.
- <p>*Specified public transportation* means transportation by bus, rail, or any other conveyance (other than by aircraft) that provides the general public with general or special service (including charter service) on a regular and continuing basis.
- <p>*State* means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
- <p>*Undue burden* means significant difficulty or expense. In determining whether an action would result in an undue burden, factors to be considered include –
- <ul>
- <li>(1) The nature and cost of the action needed under this part; </li>
- <li>(2) The overall financial resources of the site or sites involved in the action; the number of persons employed at the site; the effect on expenses and resources; legitimate safety requirements that are necessary for safe operation, including crime prevention measures; or the impact otherwise of the action upon the operation of the site; </li>
- <li>(3) The geographic separateness, and the administrative or fiscal relationship of the site or sites in question to any parent corporation or entity; </li>
- <li>(4) If applicable, the overall financial resources of any parent corporation or entity; the overall size of the parent corporation or entity with respect to the number of its employees; the number, type, and location of its facilities; and </li>
- <li>(5) If applicable, the type of operation or operations of any parent corporation or entity, including the composition, structure, and functions of the workforce of the parent corporation or entity. </li>
- </ul>
- <p>*Video remote interpreting (VRI) service* means an interpreting service that uses video conference technology over dedicated lines or wireless technology offering high-speed, wide-bandwidth video connection that delivers high-quality video images as provided in &sect; 36.303(f).
- <p>*Wheelchair *means a manually-operated or power-driven device designed primarily for use by an individual with a mobility disability for the main purpose of indoor or of both indoor and outdoor locomotion. This definition does not apply to Federal wilderness areas; wheelchairs in such areas are defined in section 508(c)(2) of the ADA, 42 U.S.C. 12207(c)(2).
- <p><a name="a105"></a>**&sect; 36.105 Definition of &ldquo;disability.&rdquo;**
- <ul type="disc">
- <li>** (a)**</li>
- <ul type="circle">
- <li>**(1)*Disability* means, with respect to an individual:**</li>
- <ul type="square">
- <li>**(i) A physical or mental impairment that substantially limits one or more of the major life activities of such individual;**</li>
- <li>**(ii) A record of such an impairment; or**</li>
- <li>**(iii) Being regarded as having such an impairment as described in paragraph (f) of this section.**</li>
- </ul>
- <li>**(2)*Rules of construction.***</li>
- <ul type="square">
- <li>**(i) The definition of &ldquo;disability&rdquo; shall be construed broadly in favor of expansive coverage, to the maximum extent permitted by the terms of the ADA.**</li>
- <li>**(ii) An individual may establish coverage under any one or more of the three prongs of the definition of disability in paragraph (a)(1) of this section, the &ldquo;actual disability&rdquo; prong in paragraph (a)(1)(i) of this section, the &ldquo;record of&rdquo; prong in paragraph (a)(1)(ii) of this section, or the &ldquo;regarded as&rdquo; prong in paragraph (a)(1)(iii) of this section.**</li>
- <li>**(iii) Where an individual is not challenging a public accommodation's failure to provide reasonable modifications under &sect; 36.302, it is generally unnecessary to proceed under the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prongs, which require a showing of an impairment that substantially limits a major life activity or a record of such an impairment. In these cases, the evaluation of coverage can be made solely under the &ldquo;regarded as&rdquo; prong of the definition of &ldquo;disability,&rdquo; which does not require a showing of an impairment that substantially limits a major life activity or a record of such an impairment. An individual may choose, however, to proceed under the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prong regardless of whether the individual is challenging a public accommodation's failure to provide reasonable modifications.**</li>
- </ul>
- </ul>
- <li>**(b)**</li>
- <ul type="circle">
- <li>**(1)*Physical or mental impairment* means:**</li>
- <ul type="square">
- <li>**(i) Any physiological disorder or condition, cosmetic disfigurement, or anatomical loss affecting one or more body systems, such as: neurological, musculoskeletal, special sense organs, respiratory (including speech organs), cardiovascular, reproductive, digestive, genitourinary, immune, circulatory, hemic, lymphatic, skin, and endocrine; or**</li>
- <li>**(ii) Any mental or psychological disorder such as intellectual disability, organic brain syndrome, emotional or mental illness, and specific learning disability.**</li>
- </ul>
- <li>**(2)*Physical or mental impairment* includes, but is not limited to, contagious and noncontagious diseases and conditions such as the following: orthopedic, visual, speech and hearing impairments, cerebral palsy, epilepsy, muscular dystrophy, multiple sclerosis, cancer, heart disease, diabetes, intellectual disability, emotional illness, dyslexia and other specific learning disabilities, Attention Deficit Hyperactivity Disorder, Human Immunodeficiency Virus infection (whether symptomatic or asymptomatic), tuberculosis, drug addiction, and alcoholism.**</li>
- <li>**(3)*Physical or mental impairment* does not include homosexuality or bisexuality.**</li>
- </ul>
- <li>**(c)**</li>
- <ul type="circle">
- <li>**(1) * Major life activities* include, but are not limited to:**</li>
- <ul type="square">
- <li>**(i) Caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, sitting, reaching, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, writing, communicating, interacting with others, and working; and**</li>
- <li>**(ii) The operation of a *major bodily function*, such as the functions of the immune system, special sense organs and skin, normal cell growth, and digestive, genitourinary, bowel, bladder, neurological, brain, respiratory, circulatory, cardiovascular, endocrine, hemic, lymphatic, musculoskeletal, and reproductive systems. The operation of a major bodily function includes the operation of an individual organ within a body system.**</li>
- </ul>
- <li>** (2)* Rules of construction.***</li>
- <ul type="square">
- <li>**(i) In determining whether an impairment substantially limits a major life activity, the term *major* shall not be interpreted strictly to create a demanding standard.**</li>
- <li>**(ii) Whether an activity is a *major life activity* is not determined by reference to whether it is of *central* importance to daily life.**</li>
- </ul>
- </ul>
- <li>**(d)*Substantially limits.***</li>
- <ul type="circle">
- <li>**(1)*Rules of construction.* The following rules of construction apply when determining whether an impairment substantially limits an individual in a major life activity.**</li>
- <ul type="square">
- <li>**(i) The term &ldquo;substantially limits&rdquo; shall be construed broadly in favor of expansive coverage, to the maximum extent permitted by the terms of the ADA. &ldquo;Substantially limits&rdquo; is not meant to be a demanding standard.**</li>
- <li>**(ii) The primary object of attention in cases brought under title III of the ADA should be whether public accommodations have complied with their obligations and whether discrimination has occurred, not the extent to which an individual's impairment substantially limits a major life activity. Accordingly, the threshold issue of whether an impairment substantially limits a major life activity should not demand extensive analysis.**</li>
- <li>**(iii) An impairment that substantially limits one major life activity does not need to limit other major life activities in order to be considered a substantially limiting impairment.**</li>
- <li>**(iv) An impairment that is episodic or in remission is a disability if it would substantially limit a major life activity when active.**</li>
- <li>**(v) An impairment is a disability within the meaning of this part if it substantially limits the ability of an individual to perform a major life activity as compared to most people in the general population. An impairment does not need to prevent, or significantly or severely restrict, the individual from performing a major life activity in order to be considered substantially limiting. Nonetheless, not every impairment will constitute a disability within the meaning of this section.**</li>
- <li>**(vi) The determination of whether an impairment substantially limits a major life activity requires an individualized assessment. However, in making this assessment, the term &ldquo;substantially limits&rdquo; shall be interpreted and applied to require a degree of functional limitation that is lower than the standard for substantially limits applied prior to the ADA Amendments Act.**</li>
- <li>**(vii) The comparison of an individual's performance of a major life activity to the performance of the same major life activity by most people in the general population usually will not require scientific, medical, or statistical evidence. Nothing in this paragraph (d)(1) is intended, however, to prohibit or limit the presentation of scientific, medical, or statistical evidence in making such a comparison where appropriate.**</li>
- <li>**(viii) The determination of whether an impairment substantially limits a major life activity shall be made without regard to the ameliorative effects of mitigating measures. However, the ameliorative effects of ordinary eyeglasses or contact lenses shall be considered in determining whether an impairment substantially limits a major life activity. Ordinary eyeglasses or contact lenses are lenses that are intended to fully correct visual acuity or to eliminate refractive error.**</li>
- <li>**(ix) The six-month &ldquo;transitory&rdquo; part of the &ldquo;transitory and minor&rdquo; exception in paragraph (f)(2) of this section does not apply to the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prongs of the definition of &ldquo;disability.&rdquo; The effects of an impairment lasting or expected to last less than six months can be substantially limiting within the meaning of this section for establishing an actual disability or a record of a disability.**</li>
- </ul>
- <li>**(2)*Predictable assessments.***</li>
- <ul type="square">
- <li>**(i) The principles set forth in the rules of construction in this section are intended to provide for more generous coverage and application of the ADA's prohibition on discrimination through a framework that is predictable, consistent, and workable for all individuals and entities with rights and responsibilities under the ADA.**</li>
- <li>**(ii) Applying these principles, the individualized assessment of some types of impairments will, in virtually all cases, result in a determination of coverage under paragraph (a)(1)(i) of this section (the &ldquo;actual disability&rdquo; prong) or paragraph (a)(1)(ii) of this section (the &ldquo;record of&rdquo; prong). Given their inherent nature, these types of impairments will, as a factual matter, virtually always be found to impose a substantial limitation on a major life activity. Therefore, with respect to these types of impairments, the necessary individualized assessment should be particularly simple and straightforward.**</li>
- <li>**(iii) For example, applying these principles it should easily be concluded that the set forth in paragraphs (d)(2)(iii)(A) through (K) types of impairments will, at a minimum, substantially limit the major life activities indicated. The types of impairments described in this paragraph may substantially limit additional major life activities (including major bodily functions) not explicitly listed in paragraphs (d)(2)(iii)(A) through (K).**</li>
- <ul type="square">
- <li>** (A) Deafness substantially limits hearing;**</li>
- <li>**(B) Blindness substantially limits seeing;**</li>
- <li>**(C) Intellectual disability substantially limits brain function;**</li>
- <li>**(D) Partially or completely missing limbs or mobility impairments requiring the use of a wheelchair substantially limit musculoskeletal function;**</li>
- <li>**(E) Autism substantially limits brain function;**</li>
- <li>**(F) Cancer substantially limits normal cell growth;**</li>
- <li>**(G) Cerebral palsy substantially limits brain function;**</li>
- <li>**(H) Diabetes substantially limits endocrine function;**</li>
- <li>**(I) Epilepsy, muscular dystrophy, and multiple sclerosis each substantially limits neurological function;**</li>
- <li>**(J) Human Immunodeficiency Virus (HIV) infection substantially limits immune function; and**</li>
- <li>**(K) Major depressive disorder, bipolar disorder, post-traumatic stress disorder, traumatic brain injury, obsessive compulsive disorder, and schizophrenia each substantially limits brain function.**</li>
- </ul>
- </ul>
- <li>**(3)*Condition, manner, or duration.***</li>
- <ul type="square">
- <li>**(i) At all times taking into account the principles set forth in the rules of construction, in determining whether an individual is substantially limited in a major life activity, it may be useful in appropriate cases to consider, as compared to most people in the general population, the conditions under which the individual performs the major life activity; the manner in which the individual performs the major life activity; or the duration of time it takes the individual to perform the major life activity, or for which the individual can perform the major life activity.**</li>
- <li>**(ii) Consideration of facts such as condition, manner, or duration may include, among other things, consideration of the difficulty, effort or time required to perform a major life activity; pain experienced when performing a major life activity; the length of time a major life activity can be performed; or the way an impairment affects the operation of a major bodily function. In addition, the non-ameliorative effects of mitigating measures, such as negative side effects of medication or burdens associated with following a particular treatment regimen, may be considered when determining whether an individual's impairment substantially limits a major life activity.**</li>
- <li>**(iii) In determining whether an individual has a disability under the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prongs of the definition of &ldquo;disability,&rdquo; the focus is on how a major life activity is substantially limited, and not on what outcomes an individual can achieve. For example, someone with a learning disability may achieve a high level of academic success, but may nevertheless be substantially limited in one or more major life activities, including, but not limited to, reading, writing, speaking, or learning because of the additional time or effort he or she must spend to read, write, speak, or learn compared to most people in the general population.**</li>
- <li>**(iv) Given the rules of construction set forth in this section, it may often be unnecessary to conduct an analysis involving most or all of the facts related to condition, manner, or duration. This is particularly true with respect to impairments such as those described in paragraph (d)(2)(iii) of this section, which by their inherent nature should be easily found to impose a substantial limitation on a major life activity, and for which the individualized assessment should be particularly simple and straightforward.**</li>
- </ul>
- <li>**(4)*Mitigating measures *include, but are not limited to:**</li>
- <ul type="square">
- <li>**(i) Medication, medical supplies, equipment, appliances, low-vision devices (defined as devices that magnify, enhance, or otherwise augment a visual image, but not including ordinary eyeglasses or contact lenses), prosthetics including limbs and devices, hearing aid(s) and cochlear implant(s) or other implantable hearing devices, mobility devices, and oxygen therapy equipment and supplies;**</li>
- <li>**(ii) Use of assistive technology;**</li>
- <li>**(iii) Reasonable modifications or auxiliary aids or services as defined in this regulation;**</li>
- <li>**(iv) Learned behavioral or adaptive neurological modifications; or**</li>
- <li>**(v) Psychotherapy, behavioral therapy, or physical therapy.**</li>
- </ul>
- </ul>
- <li>**(e)*Has a record of such an impairment.***</li>
- <ul type="circle">
- <li>**(1) An individual has a record of such an impairment if the individual has a history of, or has been misclassified as having, a mental or physical impairment that substantially limits one or more major life activities.**</li>
- <li>**(2)*Broad construction.* Whether an individual has a record of an impairment that substantially limited a major life activity shall be construed broadly to the maximum extent permitted by the ADA and should not demand extensive analysis. An individual will be considered to fall within this prong of the definition of &ldquo;disability&rdquo; if the individual has a history of an impairment that substantially limited one or more major life activities when compared to most people in the general population, or was misclassified as having had such an impairment. In determining whether an impairment substantially limited a major life activity, the principles articulated in paragraph (d)(1) of this section apply.**</li>
- <li>**(3)*Reasonable modification.* An individual with a record of a substantially limiting impairment may be entitled to a reasonable modification if needed and related to the past disability.**</li>
- </ul>
- <li>**(f)*Is regarded as having such an impairment.* The following principles apply under the &ldquo;regarded&rdquo; as prong of the definition of &ldquo;disability&rdquo; (paragraph (a)(1)(iii) of this section):**</li>
- <ul type="circle">
- <li>**(1) Except as set forth in paragraph (f)(2) of this section, an individual is &ldquo;regarded as having such an impairment&rdquo; if the individual is subjected to a prohibited action because of an actual or perceived physical or mental impairment, whether or not that impairment substantially limits, or is perceived to substantially limit, a major life activity, even if the public accommodation asserts, or may or does ultimately establish, a defense to the action prohibited by the ADA.**</li>
- <li>**(2) An individual is not &ldquo;regarded as having such an impairment&rdquo; if the public accommodation demonstrates that the impairment is, objectively, both &ldquo;transitory&rdquo; and &ldquo;minor.&rdquo; A public accommodation may not defeat &ldquo;regarded as&rdquo; coverage of an individual simply by demonstrating that it subjectively believed the impairment was transitory and minor; rather, the public accommodation must demonstrate that the impairment is (in the case of an actual impairment) or would be (in the case of a perceived impairment), objectively, both &ldquo;transitory&rdquo; and &ldquo;minor.&rdquo; For purposes of this section, &ldquo;transitory&rdquo; is defined as lasting or expected to last six months or less.**</li>
- <li>**(3) Establishing that an individual is &ldquo;regarded as having such an impairment&rdquo; does not, by itself, establish liability. Liability is established under title III of the ADA only when an individual proves that a public accommodation discriminated on the basis of disability within the meaning of title III of the ADA, 42 U.S.C. 12181–12189.**</li>
- </ul>
- <li>**(g)*Exclusions.* The term &ldquo;disability&rdquo; does not include—**</li>
- <ul type="circle">
- <li>**(1) Transvestism, transsexualism, pedophilia, exhibitionism, voyeurism, gender identity disorders not resulting from physical impairments, or other sexual behavior disorders;**</li>
- <li>**(2) Compulsive gambling, kleptomania, or pyromania; or**</li>
- <li>**(3) Psychoactive substance use disorders resulting from current illegal use of drugs. **</li>
- </ul>
- </ul>
-<h3>&nbsp;</h3>
- <p>**&sect;&sect; <a name="a106" id="a106"></a>36.106 – 36.199 [Reserved]**
-<p>&nbsp;
- <h2><a name="asubpartb" id="asubpartb"></a>Subpart B – General Requirements</h2>
- <h3>&sect; <a name="a201" id="a201"></a>36.201 General.</h3>
- <ul>
- <li>(a) *Prohibition of discrimination*. No individual shall be discriminated against on the basis of disability in the full and equal enjoyment of the goods, services, facilities, privileges, advantages, or accommodations of any place of public accommodation by any private entity who owns, leases (or leases to), or operates a place of public accommodation. </li>
- <li>(b) *Landlord and tenant responsibilities*. Both the landlord who owns the building that houses a place of public accommodation and the tenant who owns or operates the place of public accommodation are public accommodations subject to the requirements of this part. As between the parties, allocation of responsibility for complying with the obligations of this part may be determined by lease or other contract. </li>
- <li>**(c) *Claims of no disability.* Nothing in this part shall provide the basis for a claim that an individual without a disability was subject to discrimination because of a lack of disability, including a claim that an individual with a disability was granted a reasonable modification that was denied to an individual without a disability.**</li>
- </ul>
- <ul>
- <li></li>
- </ul>
- <h3>&sect; <a name="a202" id="a202"></a>36.202 Activities.</h3>
- <ul>
- <li>(a) *Denial of participation*. A public accommodation shall not subject an individual or class of individuals on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements, to a denial of the opportunity of the individual or class to participate in or benefit from the goods, services, facilities, privileges, advantages, or accommodations of a place of public accommodation. </li>
- <li>(b) *Participation in unequal benefit*. A public accommodation shall not afford an individual or class of individuals, on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements, with the opportunity to participate in or benefit from a good, service, facility, privilege, advantage, or accommodation that is not equal to that afforded to other individuals. </li>
- <li>(c) *Separate benefit*. A public accommodation shall not provide an individual or class of individuals, on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements with a good, service, facility, privilege, advantage, or accommodation that is different or separate from that provided to other individuals, unless such action is necessary to provide the individual or class of individuals with a good, service, facility, privilege, advantage, or accommodation, or other opportunity that is as effective as that provided to others. </li>
- <li>(d) *Individual or class of individuals*. For purposes of paragraphs (a) through (c) of this section, the term &quot;individual or class of individuals&quot; refers to the clients or customers of the public accommodation that enters into the contractual, licensing, or other arrangement. </li>
- </ul>
- <h3>&sect; <a name="a203" id="a203"></a>36.203 Integrated settings.</h3>
- <ul>
- <li>(a) *General*. A public accommodation shall afford goods, services, facilities, privileges, advantages, and accommodations to an individual with a disability in the most integrated setting appropriate to the needs of the individual. </li>
- <li>(b) *Opportunity to participate*. Notwithstanding the existence of separate or different programs or activities provided in accordance with this subpart, a public accommodation shall not deny an individual with a disability an opportunity to participate in such programs or activities that are not separate or different. </li>
- <li>(c) *Accommodations and services*.
- <ul>
- <li>(1) Nothing in this part shall be construed to require an individual with a disability to accept an accommodation, aid, service, opportunity, or benefit available under this part that such individual chooses not to accept. </li>
- <li>(2) Nothing in the Act or this part authorizes the representative or guardian of an individual with a disability to decline food, water, medical treatment, or medical services for that individual. </li>
- </ul>
- </li>
- </ul>
- <h3>&sect; <a name="a204" id="a204"></a>36.204 Administrative methods.</h3>
- <p>A public accommodation shall not, directly or through contractual or other arrangements, utilize standards or criteria or methods of administration that have the effect of discriminating on the basis of disability, or that perpetuate the discrimination of others who are subject to common administrative control.
- <h3>&sect; <a name="a205" id="a205"></a>36.205 Association.</h3>
- <p>A public accommodation shall not exclude or otherwise deny equal goods, services, facilities, privileges, advantages, accommodations, or other opportunities to an individual or entity because of the known disability of an individual with whom the individual or entity is known to have a relationship or association.
- <h3>&sect; <a name="a206" id="a206"></a>36.206 Retaliation or coercion.</h3>
- <ul>
- <li>(a) No private or public entity shall discriminate against any individual because that individual has opposed any act or practice made unlawful by this part, or because that individual made a charge, testified, assisted, or participated in any manner in an investigation, proceeding, or hearing under the Act or this part. </li>
- <li>(b) No private or public entity shall coerce, intimidate, threaten, or interfere with any individual in the exercise or enjoyment of, or on account of his or her having exercised or enjoyed, or on account of his or her having aided or encouraged any other individual in the exercise or enjoyment of, any right granted or protected by the Act or this part. </li>
- <li>(c) Illustrations of conduct prohibited by this section include, but are not limited to:
- <ul>
- <li>(1) Coercing an individual to deny or limit the benefits, services, or advantages to which he or she is entitled under the Act or this part; </li>
- <li>(2) Threatening, intimidating, or interfering with an individual with a disability who is seeking to obtain or use the goods, services, facilities, privileges, advantages, or accommodations of a public accommodation; </li>
- <li>(3) Intimidating or threatening any person because that person is assisting or encouraging an individual or group entitled to claim the rights granted or protected by the Act or this part to exercise those rights; or </li>
- <li>(4) Retaliating against any person because that person has participated in any investigation or action to enforce the Act or this part. </li>
- </ul>
- </li>
- </ul>
- <h3>&sect; <a name="a207" id="a207"></a>36.207 Places of public accommodation located in private residences.</h3>
- <ul>
- <li>(a) When a place of public accommodation is located in a private residence, the portion of the residence used exclusively as a residence is not covered by this part, but that portion used exclusively in the operation of the place of public accommodation or that portion used both for the place of public accommodation and for residential purposes is covered by this part. </li>
- <li>(b) The portion of the residence covered under paragraph (a) of this section extends to those elements used to enter the place of public accommodation, including the homeowner's front sidewalk, if any, the door or entryway, and hallways; and those portions of the residence, interior or exterior, available to or used by customers or clients, including restrooms. </li>
- </ul>
- <h3>&sect;<a name="a208" id="a208"></a> 36.208 Direct threat.</h3>
- <ul>
- <li>(a) This part does not require a public accommodation to permit an individual to participate in or benefit from the goods, services, facilities, privileges, advantages and accommodations of that public accommodation when that individual poses a direct threat to the health or safety of others. </li>
- <li>(b) In determining whether an individual poses a direct threat to the health or safety of others, a public accommodation must make an individualized assessment, based on reasonable judgment that relies on current medical knowledge or on the best available objective evidence, to ascertain: The nature, duration, and severity of the risk; the probability that the potential injury will actually occur; and whether reasonable modifications of policies, practices, or procedures or the provision of auxiliary aids or services will mitigate the risk. </li>
- </ul>
- <h3>&sect; <a name="a209" id="a209"></a>36.209 Illegal use of drugs.</h3>
- <ul>
- <li>(a) *General*.
- <ul>
- <li>(1) Except as provided in paragraph (b) of this section, this part does not prohibit discrimination against an individual based on that individual's current illegal use of drugs. </li>
- <li>(2) A public accommodation shall not discriminate on the basis of illegal use of drugs against an individual who is not engaging in current illegal use of drugs and who –
- <ul>
- <li>(i) Has successfully completed a supervised drug rehabilitation program or has otherwise been rehabilitated successfully; </li>
- <li>(ii) Is participating in a supervised rehabilitation program; or </li>
- <li>(iii) Is erroneously regarded as engaging in such use. </li>
- </ul>
- </li>
- </ul>
- </li>
- <li>(b) *Health and drug rehabilitation services*.
- <ul>
- <li>(1) A public accommodation shall not deny health services, or services provided in connection with drug rehabilitation, to an individual on the basis of that individual's current illegal use of drugs, if the individual is otherwise entitled to such services. </li>
- <li>(2) A drug rehabilitation or treatment program may deny participation to individuals who engage in illegal use of drugs while they are in the program. </li>
- </ul>
- </li>
- <li>(c) *Drug testing*.
- <ul>
- <li>(1) This part does not prohibit a public accommodation from adopting or administering reasonable policies or procedures, including but not limited to drug testing, designed to ensure that an individual who formerly engaged in the illegal use of drugs is not now engaging in current illegal use of drugs. </li>
- <li>(2) Nothing in this paragraph (c) shall be construed to encourage, prohibit, restrict, or authorize the conducting of testing for the illegal use of drugs. </li>
- </ul>
- </li>
- </ul>
- <h3>&sect; <a name="a210" id="a210"></a>36.210 Smoking.</h3>
- <p>This part does not preclude the prohibition of, or the imposition of restrictions on, smoking in places of public accommodation.
- <h3>&sect; <a name="a211" id="a211"></a>36.211 Maintenance of accessible features.</h3>
- <ul>
- <li>(a) A public accommodation shall maintain in operable working condition those features of facilities and equipment that are required to be readily accessible to and usable by persons with disabilities by the Act or this part. </li>
- <li>(b) This section does not prohibit isolated or temporary interruptions in service or access due to maintenance or repairs. </li>
- <li>(c) If the 2010 Standards reduce the technical requirements or the number of required accessible elements below the number required by the 1991 Standards, the technical requirements or the number of accessible elements in a facility subject to this part may be reduced in accordance with the requirements of the 2010 Standards. </li>
- </ul>
- <h3>&sect; <a name="a212" id="a212"></a>36.212 Insurance.</h3>
- <ul>
- <li>(a) This part shall not be construed to prohibit or restrict –
- <ul>
- <li>(1) An insurer, hospital or medical service company, health maintenance organization, or any agent, or entity that administers benefit plans, or similar organizations from underwriting risks, classifying risks, or administering such risks that are based on or not inconsistent with State law; or </li>
- <li>(2) A person or organization covered by this part from establishing, sponsoring, observing or administering the terms of a bona fide benefit plan that are based on underwriting risks, classifying risks, or administering such risks that are based on or not inconsistent with State law; or </li>
- <li>(3) A person or organization covered by this part from establishing, sponsoring, observing or administering the terms of a bona fide benefit plan that is not subject to State laws that regulate insurance. </li>
- </ul>
- </li>
- <li>(b) Paragraphs (a) (1), (2), and (3) of this section shall not be used as a subterfuge to evade the purposes of the Act or this part. </li>
- <li>(c) A public accommodation shall not refuse to serve an individual with a disability because its insurance company conditions coverage or rates on the absence of individuals with disabilities. </li>
- </ul>
- <h3>&sect; <a name="a213" id="a213"></a>36.213 Relationship of subpart B to subparts C and D of this part.</h3>
- <p>Subpart B of this part sets forth the general principles of nondiscrimination applicable to all entities subject to this part. Subparts C and D of this part provide guidance on the application of the statute to specific situations. The specific provisions, including the limitations on those provisions, control over the general provisions in circumstances where both specific and general provisions apply.
- <h3>&sect;&sect; <a name="a214" id="a214"></a>36.214 – 36.299 [Reserved]</h3>
- <h2><a name="subpartc" id="subpartc"></a>Subpart C – Specific Requirements</h2>
- <h3>&sect; <a name="a301" id="a301"></a>36.301 Eligibility criteria.</h3>
- <ul>
- <li>(a) *General*. A public accommodation shall not impose or apply eligibility criteria that screen out or tend to screen out an individual with a disability or any class of individuals with disabilities from fully and equally enjoying any goods, services, facilities, privileges, advantages, or accommodations, unless such criteria can be shown to be necessary for the provision of the goods, services, facilities, privileges, advantages, or accommodations being offered. </li>
- <li>(b) *Safety*. A public accommodation may impose legitimate safety requirements that are necessary for safe operation. Safety requirements must be based on actual risks and not on mere speculation, stereotypes, or generalizations about individuals with disabilities. </li>
- <li>(c) *Charges*. A public accommodation may not impose a surcharge on a particular individual with a disability or any group of individuals with disabilities to cover the costs of measures, such as the provision of auxiliary aids, barrier removal, alternatives to barrier removal, and reasonable modifications in policies, practices, or procedures, that are required to provide that individual or group with the nondiscriminatory treatment required by the Act or this part. </li>
- </ul>
- <h3>&sect; <a name="a302" id="a302"></a>36.302 Modifications in policies, practices, or procedures.</h3>
- <ul>
- <li>(a) *General*. A public accommodation shall make reasonable modifications in policies, practices, or procedures, when the modifications are necessary to afford goods, services, facilities, privileges, advantages, or accommodations to individuals with disabilities, unless the public accommodation can demonstrate that making the modifications would fundamentally alter the nature of the goods, services, facilities, privileges, advantages, or accommodations. </li>
- <li>(b) *Specialties* –
- <ul>
- <li>(1) *General*. A public accommodation may refer an individual with a disability to another public accommodation, if that individual is seeking, or requires, treatment or services outside of the referring public accommodation's area of specialization, and if, in the normal course of its operations, the referring public accommodation would make a similar referral for an individual without a disability who seeks or requires the same treatment or services. </li>
- <li>(2) *Illustration* – *medical specialties*. A health care provider may refer an individual with a disability to another provider, if that individual is seeking, or requires, treatment or services outside of the referring provider's area of specialization, and if the referring provider would make a similar referral for an individual without a disability who seeks or requires the same treatment or services. A physician who specializes in treating only a particular condition cannot refuse to treat an individual with a disability for that condition, but is not required to treat the individual for a different condition. </li>
- </ul>
- </li>
- <li>(c) *Service animals*.
- <ul>
- <li>(1) *General*. Generally, a public accommodation shall modify policies, practices, or procedures to permit the use of a service animal by an individual with a disability. </li>
- <li>(2) *Exceptions*. A public accommodation may ask an individual with a disability to remove a service animal from the premises if:
- <ul>
- <li>(i) The animal is out of control and the animal's handler does not take effective action to control it; or </li>
- <li>(ii) The animal is not housebroken. </li>
- </ul>
- </li>
- <li>(3) *If an animal is properly excluded*. If a public accommodation properly excludes a service animal under &sect; 36.302(c)(2), it shall give the individual with a disability the opportunity to obtain goods, services, and accommodations without having the service animal on the premises. </li>
- <li>(4) *Animal under handler's control*. A service animal shall be under the control of its handler. A service animal shall have a harness, leash, or other tether, unless either the handler is unable because of a disability to use a harness, leash, or other tether, or the use of a harness, leash, or other tether would interfere with the service animal's safe, effective performance of work or tasks, in which case the service animal must be otherwise under the handler's control (*e.g.*, voice control, signals, or other effective means). </li>
- <li>(5) *Care or supervision*. A public accommodation is not responsible for the care or supervision of a service animal. </li>
- <li>(6) *Inquiries*. A public accommodation shall not ask about the nature or extent of a person's disability, but may make two inquiries to determine whether an animal qualifies as a service animal. A public accommodation may ask if the animal is required because of a disability and what work or task the animal has been trained to perform. A public accommodation shall not require documentation, such as proof that the animal has been certified, trained, or licensed as a service animal. Generally, a public accommodation may not make these inquiries about a service animal when it is readily apparent that an animal is trained to do work or perform tasks for an individual with a disability (*e.g.*, the dog is observed guiding an individual who is blind or has low vision, pulling a person's wheelchair, or providing assistance with stability or balance to an individual with an observable mobility disability). </li>
- <li>(7) *Access to areas of a public accommodation*. Individuals with disabilities shall be permitted to be accompanied by their service animals in all areas of a place of public accommodation where members of the public, program participants, clients, customers, patrons, or invitees, as relevant, are allowed to go. </li>
- <li>(8) *Surcharges*. A public accommodation shall not ask or require an individual with a disability to pay a surcharge, even if people accompanied by pets are required to pay fees, or to comply with other requirements generally not applicable to people without pets. If a public accommodation normally charges individuals for the damage they cause, an individual with a disability may be charged for damage caused by his or her service animal. </li>
- <li>(9) *Miniature horses*.
- <ul>
- <li>(i) A public accommodation shall make reasonable modifications in policies, practices, or procedures to permit the use of a miniature horse by an individual with a disability if the miniature horse has been individually trained to do work or perform tasks for the benefit of the individual with a disability. </li>
- <li>(ii) *Assessment factors*. In determining whether reasonable modifications in policies, practices, or procedures can be made to allow a miniature horse into a specific facility, a public accommodation shall consider –
- <ul>
- <li>(A) The type, size, and weight of the miniature horse and whether the facility can accommodate these features; </li>
- <li>(B) Whether the handler has sufficient control of the miniature horse; </li>
- <li>(C) Whether the miniature horse is housebroken; and </li>
- <li>(D) Whether the miniature horse's presence in a specific facility compromises legitimate safety requirements that are necessary for safe operation. </li>
- </ul>
- </li>
- <li>(iii) *Other requirements*. Sections 36.302(c)(3) through (c)(8), which apply to service animals, shall also apply to miniature horses. </li>
- </ul>
- </li>
- </ul>
- </li>
- <li>(d) *Check-out aisles*. A store with check-out aisles shall ensure that an adequate number of accessible check-out aisles are kept open during store hours, or shall otherwise modify its policies and practices, in order to ensure that an equivalent level of convenient service is provided to individuals with disabilities as is provided to others. If only one check-out aisle is accessible, and it is generally used for express service, one way of providing equivalent service is to allow persons with mobility impairments to make all their purchases at that aisle. </li>
- <li>(e)
- <ul>
- <li>(1) *Reservations made by places of lodging*. A public accommodation that owns, leases (or leases to), or operates a place of lodging shall, with respect to reservations made by any means, including by telephone, in-person, or through a third party –
- <ul>
- <li>(i) Modify its policies, practices, or procedures to ensure that individuals with disabilities can make reservations for accessible guest rooms during the same hours and in the same manner as individuals who do not need accessible rooms; </li>
- <li>(ii) Identify and describe accessible features in the hotels and guest rooms offered through its reservations service in enough detail to reasonably permit individuals with disabilities to assess independently whether a given hotel or guest room meets his or her accessibility needs; </li>
- <li>(iii) Ensure that accessible guest rooms are held for use by individuals with disabilities until all other guest rooms of that type have been rented and the accessible room requested is the only remaining room of that type; </li>
- <li>(iv) Reserve, upon request, accessible guest rooms or specific types of guest rooms and ensure that the guest rooms requested are blocked and removed from all reservations systems; and </li>
- <li>(v) Guarantee that the specific accessible guest room reserved through its reservations service is held for the reserving customer, regardless of whether a specific room is held in response to reservations made by others. </li>
- </ul>
- </li>
- <li>(2) *Exception*. The requirements in paragraphs (iii), (iv), and (v) of this section do not apply to reservations for individual guest rooms or other units not owned or substantially controlled by the entity that owns, leases, or operates the overall facility. </li>
- <li>(3) *Compliance date*. The requirements in this section will apply to reservations made on or after March 15, 2012. </li>
- </ul>
- </li>
- <li>(f) *Ticketing*.
- <ul>
- <li>(1)
- <ul>
- <li>(i) For the purposes of this section, &quot;accessible seating&quot; is defined as wheelchair spaces and companion seats that comply with sections 221 and 802 of the 2010 Standards along with any other seats required to be offered for sale to the individual with a disability pursuant to paragraph (4) of this section. </li>
- <li>(ii) *Ticket sales*. A public accommodation that sells tickets for a single event or series of events shall modify its policies, practices, or procedures to ensure that individuals with disabilities have an equal opportunity to purchase tickets for accessible seating –
- <ul>
- <li>(A) During the same hours; </li>
- <li>(B) During the same stages of ticket sales, including, but not limited to, pre-sales, promotions, lotteries, wait-lists, and general sales; </li>
- <li>(C) Through the same methods of distribution; </li>
- <li>(D) In the same types and numbers of ticketing sales outlets, including telephone service, in-person ticket sales at the facility, or third-party ticketing services, as other patrons; and </li>
- <li>(E) Under the same terms and conditions as other tickets sold for the same event or series of events. </li>
- </ul>
- </li>
- </ul>
- </li>
- <li>(2) *Identification of available accessible seating*. A public accommodation that sells or distributes tickets for a single event or series of events shall, upon inquiry –
- <ul>
- <li>(i) Inform individuals with disabilities, their companions, and third parties purchasing tickets for accessible seating on behalf of individuals with disabilities of the locations of all unsold or otherwise available accessible seating for any ticketed event or events at the facility; </li>
- <li>(ii) Identify and describe the features of available accessible seating in enough detail to reasonably permit an individual with a disability to assess independently whether a given accessible seating location meets his or her accessibility needs; and </li>
- <li>(iii) Provide materials, such as seating maps, plans, brochures, pricing charts, or other information, that identify accessible seating and information relevant thereto with the same text or visual representations as other seats, if such materials are provided to the general public. </li>
- </ul>
- </li>
- <li>(3) *Ticket prices*. The price of tickets for accessible seating for a single event or series of events shall not be set higher than the price for other tickets in the same seating section for the same event or series of events. Tickets for accessible seating must be made available at all price levels for every event or series of events. If tickets for accessible seating at a particular price level cannot be provided because barrier removal in an existing facility is not readily achievable, then the percentage of tickets for accessible seating that should have been available at that price level but for the barriers (determined by the ratio of the total number of tickets at that price level to the total number of tickets in the assembly area) shall be offered for purchase, at that price level, in a nearby or similar accessible location. </li>
- <li>(4) *Purchasing multiple tickets*.
- <ul>
- <li>(i) *General*. For each ticket for a wheelchair space purchased by an individual with a disability or a third-party purchasing such a ticket at his or her request, a public accommodation shall make available for purchase three additional tickets for seats in the same row that are contiguous with the wheelchair space, provided that at the time of purchase there are three such seats available. A public accommodation is not required to provide more than three contiguous seats for each wheelchair space. Such seats may include wheelchair spaces. </li>
- <li>(ii) *Insufficient additional contiguous seats available*. If patrons are allowed to purchase at least four tickets, and there are fewer than three such additional contiguous seat tickets available for purchase, a public accommodation shall offer the next highest number of such seat tickets available for purchase and shall make up the difference by offering tickets for sale for seats that are as close as possible to the accessible seats. </li>
- <li>(iii) *Sales limited to fewer than four tickets*. If a public accommodation limits sales of tickets to fewer than four seats per patron, then the public accommodation is only obligated to offer as many seats to patrons with disabilities, including the ticket for the wheelchair space, as it would offer to patrons without disabilities. </li>
- <li>(iv) *Maximum number of tickets patrons may purchase exceeds four*. If patrons are allowed to purchase more than four tickets, a public accommodation shall allow patrons with disabilities to purchase up to the same number of tickets, including the ticket for the wheelchair space. </li>
- <li>(v) *Group sales*. If a group includes one or more individuals who need to use accessible seating because of a mobility disability or because their disability requires the use of the accessible features that are provided in accessible seating, the group shall be placed in a seating area with accessible seating so that, if possible, the group can sit together. If it is necessary to divide the group, it should be divided so that the individuals in the group who use wheelchairs are not isolated from their group. </li>
- </ul>
- </li>
- <li>(5) *Hold and release of tickets for accessible seating*.
- <ul>
- <li>(i) *Tickets for accessible seating may be released for sale in certain limited circumstances*. A public accommodation may release unsold tickets for accessible seating for sale to individuals without disabilities for their own use for a single event or series of events only under the following circumstances –
- <ul>
- <li>(A) When all non-accessible tickets (excluding luxury boxes, club boxes, or suites) have been sold; </li>
- <li>(B) When all non-accessible tickets in a designated seating area have been sold and the tickets for accessible seating are being released in the same designated area; or </li>
- <li>(C) When all non-accessible tickets in a designated price category have been sold and the tickets for accessible seating are being released within the same designated price category. </li>
- </ul>
- </li>
- <li>(ii) *No requirement to release accessible tickets*. Nothing in this paragraph requires a facility to release tickets for accessible seating to individuals without disabilities for their own use. </li>
- <li>(iii) *Release of series-of-events tickets on a series-of-events basis*.
- <ul>
- <li>(A) *Series-of-events tickets sell-out when no ownership rights are attached.* When series-of-events tickets are sold out and a public accommodation releases and sells accessible seating to individuals without disabilities for a series of events, the public accommodation shall establish a process that prevents the automatic reassignment of the accessible seating to such ticket holders for future seasons, future years, or future series, so that individuals with disabilities who require the features of accessible seating and who become newly eligible to purchase tickets when these series-of-events tickets are available for purchase have an opportunity to do so. </li>
- <li>(B) *Series-of-events tickets when ownership rights are attached*. When series-of-events tickets with an ownership right in accessible seating areas are forfeited or otherwise returned to a public accommodation, the public accommodation shall make reasonable modifications in its policies, practices, or procedures to afford individuals with mobility disabilities or individuals with disabilities that require the features of accessible seating an opportunity to purchase such tickets in accessible seating areas. </li>
- </ul>
- </li>
- </ul>
- </li>
- </ul>
- <blockquote>
- <p>(6) *Ticket transfer*. Individuals with disabilities who hold tickets for accessible seating shall be permitted to transfer tickets to third parties under the same terms and conditions and to the same extent as other spectators holding the same type of tickets, whether they are for a single event or series of events.
- <p>(7) *Secondary ticket market*.
- <blockquote>
- <p>(i) A public accommodation shall modify its policies, practices, or procedures to ensure that an individual with a disability may use a ticket acquired in the secondary ticket market under the same terms and conditions as other individuals who hold a ticket acquired in the secondary ticket market for the same event or series of events.
- <p>(ii) If an individual with a disability acquires a ticket or series of tickets to an inaccessible seat through the secondary market, a public accommodation shall make reasonable modifications to its policies, practices, or procedures to allow the individual to exchange his ticket for one to an accessible seat in a comparable location if accessible seating is vacant at the time the individual presents the ticket to the public accommodation.
- </blockquote>
- <p>(8) *Prevention of fraud in purchase of tickets for accessible seating*. A public accommodation may not require proof of disability, including, for example, a doctor's note, before selling tickets for accessible seating.
- <blockquote>
- <p>(i) *Single-event tickets*. For the sale of single-event tickets, it is permissible to inquire whether the individual purchasing the tickets for accessible seating has a mobility disability or a disability that requires the use of the accessible features that are provided in accessible seating, or is purchasing the tickets for an individual who has a mobility disability or a disability that requires the use of the accessible features that are provided in the accessible seating.
- <p>(ii) *Series-of-events tickets*. For series-of-events tickets, it is permissible to ask the individual purchasing the tickets for accessible seating to attest in writing that the accessible seating is for a person who has a mobility disability or a disability that requires the use of the accessible features that are provided in the accessible seating.
- <p>(iii) *Investigation of fraud*. A public accommodation may investigate the potential misuse of accessible seating where there is good cause to believe that such seating has been purchased fraudulently.
- </blockquote>
- </blockquote>
- </li>
- <li>**(g) *Reasonable modifications for individuals &ldquo;regarded as&rdquo; having a disability. *A public accommodation is not required to provide a reasonable modification to an individual who meets the definition of &ldquo;disability&rdquo; solely under the &ldquo;regarded as&rdquo; prong of the definition of &ldquo;disability&rdquo; at &sect; 36.105(a)(1)(iii).**</li>
- </ul>
- <h3>&sect; <a name="a303" id="a303"></a>36.303 Auxiliary aids and services.</h3>
- <ul>
- <li>(a) *General*. A public accommodation shall take those steps that may be necessary to ensure that no individual with a disability is excluded, denied services, segregated or otherwise treated differently than other individuals because of the absence of auxiliary aids and services, unless the public accommodation can demonstrate that taking those steps would fundamentally alter the nature of the goods, services, facilities, privileges, advantages, or accommodations being offered or would result in an undue burden, *i.e.*, significant difficulty or expense. </li>
- <li>(b) *Examples*. The term &quot;auxiliary aids and services&quot; includes –
- <ul>
- <li>(1) Qualified interpreters on-site or through video remote interpreting (VRI) services; notetakers; real-time computer-aided transcription services; written materials; exchange of written notes; telephone handset amplifiers; assistive listening devices; assistive listening systems; telephones compatible with hearing aids; closed caption decoders; open and closed captioning, including real-time captioning; voice, text, and video-based telecommunications products and systems, including text telephones (TTYs), videophones, and captioned telephones, or equally effective telecommunications devices; videotext displays; accessible electronic and information technology; or other effective methods of making aurally delivered information available to individuals who are deaf or hard of hearing; </li>
- <li>(2) Qualified readers; taped texts; audio recordings; Brailled materials and displays; screen reader software; magnification software; optical readers; secondary auditory programs (SAP); large print materials; accessible electronic and information technology; or other effective methods of making visually delivered materials available to individuals who are blind or have low vision; </li>
- <li>(3) Acquisition or modification of equipment or devices; and </li>
- <li>(4) Other similar services and actions. </li>
- </ul>
- </li>
- <li>(c) *Effective communication*.
- <ul>
- <li>(1) A public accommodation shall furnish appropriate auxiliary aids and services where necessary to ensure effective communication with individuals with disabilities. This includes an obligation to provide effective communication to companions who are individuals with disabilities.
- <ul>
- <li>(i) For purposes of this section, &quot;companion&quot; means a family member, friend, or associate of an individual seeking access to, or participating in, the goods, services, facilities, privileges, advantages, or accommodations of a public accommodation, who, along with such individual, is an appropriate person with whom the public accommodation should communicate. </li>
- <li>(ii) The type of auxiliary aid or service necessary to ensure effective communication will vary in accordance with the method of communication used by the individual; the nature, length, and complexity of the communication involved; and the context in which the communication is taking place. A public accommodation should consult with individuals with disabilities whenever possible to determine what type of auxiliary aid is needed to ensure effective communication, but the ultimate decision as to what measures to take rests with the public accommodation, provided that the method chosen results in effective communication. In order to be effective, auxiliary aids and services must be provided in accessible formats, in a timely manner, and in such a way as to protect the privacy and independence of the individual with a disability. </li>
- </ul>
- </li>
- <li>(2) A public accommodation shall not require an individual with a disability to bring another individual to interpret for him or her. </li>
- <li>(3) A public accommodation shall not rely on an adult accompanying an individual with a disability to interpret or facilitate communication, except –
- <ul>
- <li>(i) In an emergency involving an imminent threat to the safety or welfare of an individual or the public where there is no interpreter available; or </li>
- <li>(ii) Where the individual with a disability specifically requests that the accompanying adult interpret or facilitate communication, the accompanying adult agrees to provide such assistance, and reliance on that adult for such assistance is appropriate under the circumstances. </li>
- </ul>
- </li>
- <li>(4) A public accommodation shall not rely on a minor child to interpret or facilitate communication, except in an emergency involving an imminent threat to the safety or welfare of an individual or the public where there is no interpreter available. </li>
- </ul>
- </li>
- <li>(d) *Telecommunications*.
- <ul>
- <li>(1) When a public accommodation uses an automated-attendant system, including, but not limited to, voicemail and messaging, or an interactive voice response system, for receiving and directing incoming telephone calls, that system must provide effective real-time communication with individuals using auxiliary aids and services, including text telephones (TTYs) and all forms of FCC-approved telecommunications relay systems, including Internet-based relay systems. </li>
- <li>(2) A public accommodation that offers a customer, client, patient, or participant the opportunity to make outgoing telephone calls using the public accommodation's equipment on more than an incidental convenience basis shall make available public telephones, TTYs, or other telecommunications products and systems for use by an individual who is deaf or hard of hearing, or has a speech impairment. </li>
- <li>(3) A public accommodation may use relay services in place of direct telephone communication for receiving or making telephone calls incident to its operations. </li>
- <li>(4) A public accommodation shall respond to telephone calls from a telecommunications relay service established under title IV of the ADA in the same manner that it responds to other telephone calls. </li>
- <li>(5) This part does not require a public accommodation to use a TTY for receiving or making telephone calls incident to its operations. </li>
- </ul>
- </li>
- <li>(e) *Closed caption decoders*. Places of lodging that provide televisions in five or more guest rooms and hospitals that provide televisions for patient use shall provide, upon request, a means for decoding captions for use by an individual with impaired hearing. </li>
- <li>(f) *Video remote interpreting (VRI) services*. A public accommodation that chooses to provide qualified interpreters via VRI service shall ensure that it provides –
- <ul>
- <li>(1) Real-time, full-motion video and audio over a dedicated high-speed, wide-bandwidth video connection or wireless connection that delivers high-quality video images that do not produce lags, choppy, blurry, or grainy images, or irregular pauses in communication; </li>
- <li>(2) A sharply delineated image that is large enough to display the interpreter's face, arms, hands, and fingers, and the participating individual's face, arms, hands, and fingers, regardless of his or her body position; </li>
- <li>(3) A clear, audible transmission of voices; and </li>
- <li>(4) Adequate training to users of the technology and other involved individuals so that they may quickly and efficiently set up and operate the VRI. </li>
- </ul>
- </li>
- <li></li>
- <li>**(g) *Movie theater captioning and audio description.***</li>
- <ul type="circle">
- <li>**(1)*Definitions*. For the purposes of this paragraph (g)—**</li>
- <ul type="square">
- <li>**(i)*Analog movie* means a movie exhibited in analog film format.**</li>
- <li>**(ii)*Audio description* means the spoken narration of a movie’s key visual elements, such as the action, settings, facial expressions, costumes, and scene changes.*Audio description* generally requires the use of an audio description device for delivery to a patron.**</li>
- <li>**(iii)*Audio description device* means the individual device that a patron may use at any seat to hear audio description.**</li>
- <li>**(iv)*Captioning device* means the individual device that a patron may use at any seat to view closed movie captioning.**</li>
- <li>**(v)* Closed movie captioning* means the written display of a movie’s dialogue and non-speech information, such as music, the identity of the character who is speaking, and other sounds or sound effects.*Closed movie captioning* generally requires the use of a captioning device for delivery of the captions to the patron.**</li>
- <li>**(vi)* Digital movie* means a movie exhibited in digital cinema format.**</li>
- <li>**(vii)*Movie theater* means a facility, other than a drive-in theater, that is owned, leased by, leased to, or operated by a public accommodation and that contains one or more auditoriums that are used primarily for the purpose of showing movies to the public for a fee.**</li>
- <li>**(viii)*Open movie captioning* means the written on-screen display of a movie’s dialogue and non-speech information, such as music, the identity of the character who is speaking, and other sounds and sound effects.**</li>
- </ul>
- <li>**(2)*General*. A public accommodation shall ensure that its movie theater auditoriums provide closed movie captioning and audio description whenever they exhibit a digital movie that is distributed with such features. Application of the requirements of paragraph (g) of this section is deferred for any movie theater auditorium that exhibits analog movies exclusively, but may be addressed in a future rulemaking.**</li>
- <li>**(3)*Minimum requirements for captioning devices*. (i) A public accommodation shall provide a minimum number of fully operational captioning devices at its movie theaters in accordance with the following Table:**</li>
- </ul>
- </ul>
- <table border="1" cellspacing="1" cellpadding="1">
+*Alternate Scenarios*  
+
+Another scenario in the Final RIA explores the incremental impact of varying the assumptions concerning the percentage of existing elements subject to supplemental requirements for which barrier removal would be readily achievable. Readily achievable barrier removal rates are modeled at 0 percent, 50 percent, and 100 percent levels. The results of this scenario show that the expected NPV is positive for each readily achievable barrier removal rate and that varying this assumed rate has little impact on expected NPV.  *See* Final RIA, figure ES–3.  
+
+A third set of analyses in the Final RIA demonstrates the impact of using alternate baselines based on model codes instead of the primary baseline. The IBC model codes, which have been widely adopted by State and local jurisdictions around the country, are significant because many of the requirements in the final rules mirror accessibility provisions in the IBC model codes (or standards incorporated therein by reference, such as ANSI A117.1). The actual economic impact of the Department's final rules is, therefore, tempered by the fact that many jurisdictions nationwide have already adopted and are enforcing portions of the final rules—indeed, this was one of the goals underlying the Access Board's efforts to harmonize the 2004 ADAAG Standards with the model codes. However, capturing the economic impact of this reality poses a difficult modeling challenge due to the variety of methods by which States and localities have adopted the IBC/ANSI model codes (**e.g.*, *in whole, in part, and with or without amendments), as well as the lack of a national "facility census' establishing the location, type, and age of existing ADA-covered facilities.  
+
+As a result, in the first set of alternate IBC baseline analyses, the Final RIA assumes that all of the three IBC model codes—IBC 2000, IBC 2003, and IBC 2006—have been fully adopted by all jurisdictions and apply to all facilities nationwide. As with the primary baseline scenarios examined in the Final RIA, use of these three alternate IBC baselines results in positive expected NPVs in all cases.  *See* Final RIA, figure ES–4. These results also indicate that IBC 2000 and IBC 2006 respectively have the highest and lowest expected NPVs. These results are due to changes in the make-up of the set of requirements that is included in each alternative baseline.  
+
+Additionally, a second, more limited alternate baseline analysis in the Final RIA uses a State-specific and requirement-specific alternate IBC/ANSI baseline in order to demonstrate the likely actual incremental impact of an illustrative subset of 20 requirements under current conditions nationwide. For this analysis, research was conducted on a subset of 20 requirements in the final rules that have negative net present values under the primary baseline and readily identifiable IBC/ANSI counterparts to determine the extent to which they each respectively have been adopted at the State or local level. With respect to facilities, the population of adopting jurisdictions was used as a proxy for facility location. In other words, it was assumed that the number of ADA-covered facilities respectively compliant with these 20 requirements was equal to the percentage of the United States population (based on statistics from the Census Bureau) currently residing in those States or local jurisdictions that have adopted the IBC/ANSI counterparts to these requirements. The results of this more limited analysis, using State-specific and requirement-specific alternate IBC/ANSI baselines for these 20 requirements, demonstrate that the widespread adoption of IBC model codes by States and localities significantly lessens the financial impact of these specific requirements. Indeed, the Final RIA estimates that, if the NPVs for these 20 requirements resulting from the requirement-specific alternate IBC/ANSI baseline are substituted for their respective results under the primary baseline, the overall NPV for the final rules increases from $9.2 billion to $12.0 billion.  *See* Final RIA, section 6.2.2 &amp; table 10.  
+
+*Benefits Not Monetized in the Formal Analysis* Finally, the RIA recognizes that additional benefits are likely to result from the new standards. Many of these benefits are more difficult to quantify. Among the potential benefits that have been discussed by researchers and advocates are reduced administrative costs due to harmonized guidelines, increased business opportunities, increased social development, and improved health benefits. For example, the final rules will substantially increase accessibility at newly scoped facilities such as recreation facilities and judicial facilities, which previously have been very difficult for persons with disabilities to access. Areas where the Department believes entities may incur benefits that are not monetized in the formal analysis include, but may not be limited to, the following:  
+
+*Use benefits accruing to persons with disabilities.*  The final rules should improve the overall sense of well-being of persons with disabilities, who will know that public entities and places of public accommodation are generally accessible, and who will have improved individual experiences. Some of the most frequently cited qualitative benefits of increased access are the increase in one's personal sense of dignity that arises from increased access and the decrease in possibly humiliating incidents due to accessibility barriers. Struggling to join classmates on a stage, to use a bathroom with too little clearance, or to enter a swimming pool all negatively affect a person's sense of independence and can lead to humiliating accidents, derisive comments, or embarrassment. These humiliations, together with feelings of being stigmatized as different or inferior from being relegated to use other, less comfortable or pleasant elements of a facility (such as a bathroom instead of a kitchen sink for rinsing a coffee mug at work), all have a negative effect on persons with disabilities.  
+
+*Use benefits accruing to persons without disabilities.*  Improved accessibility can affect more than just the rule's target population; persons without disabilities may also benefit from many of the requirements. Even though the requirements were not designed to benefit persons without disabilities, any time savings or easier access to a facility experienced by persons without disabilities are also benefits that should properly be attributed to that change in accessibility. Curb cuts in sidewalks make life easier for those using wheeled suitcases or pushing a baby stroller. For people with a lot of luggage or a need to change clothes, the larger bathroom stalls can be highly valued. A ramp into a pool can allow a child (or adult) with a fear of water to ease into that pool. All are examples of "unintended" benefits of the rule. And ideally, all should be part of the calculus of the benefits to society of the rule.  
+
+*Social benefits.* Evidence supports the notion that children with and without disabilities benefit in their social development from interaction with one another. Therefore, there will likely be social development benefits generated by an increase in accessible play areas. However, these benefits are nearly impossible to quantify for several reasons. First, there is no guarantee that accessibility will generate play opportunities between children with and without disabilities. Second, there may be substantial overlap between interactions at accessible play areas and interactions at other facilities, such as schools and religious facilities. Third, it is not certain what the unit of measurement for social development should be.  
+
+*Non-use benefits.* There are additional, indirect benefits to society that arise from improved accessibility. For instance, resource savings may arise from reduced social service agency outlays when people are able to access centralized points of service delivery rather than receiving home-based care. Home-based and other social services may include home health care visits and welfare benefits. Third-party employment effects can arise when enhanced accessibility results in increasing rates of consumption by disabled and non-disabled populations, which in turn results in reduced unemployment.  
+
+Two additional forms of benefits are discussed less often, let alone quantified: Option value and existence value. Option value is the value that people with and without disabilities derive from the option of using accessible facilities at some point in the future. As with insurance, people derive benefit from the knowledge that the option to use the accessible facility exists, even if it ultimately goes unused. Simply because an individual is a nonuser of accessible elements today does not mean that he or she will remain so tomorrow. In any given year, there is some probability that an individual will develop a disability (either temporary or permanent) that will necessitate use of these features. For example, the 2000 Census found that 41.9 percent of adults 65 years and older identified themselves as having a disability. Census Bureau figures, moreover, project that the number of people 65 years and older will more than double between 2000 and 2030—from 35 million to 71.5 million. Therefore, even individuals who have no direct use for accessibility features today get a direct benefit from the knowledge of their existence should such individuals need them in the future.  
+
+Existence value is the benefit that individuals get from the plain existence of a good, service or resource—in this case, accessibility. It can also be described as the value that people both with and without disabilities derive from the guarantees of equal treatment and non-discrimination that are accorded through the provision of accessible facilities. In other words, people value living in a country that affords protections to individuals with disabilities, whether or not they themselves are directly or indirectly affected. Unlike use benefits and option value, existence value does not require an individual ever to use the resource or plan on using the resource in the future. There are numerous reasons why individuals might value accessibility even if they do not require it now and do not anticipate needing it in the future.  
+
+*Costs Not Monetized in the Formal Analysis* The Department also recognizes that in addition to benefits that cannot reasonably be quantified or monetized, there may be negative consequences and costs that fall into this category as well. The absence of a quantitative assessment of such costs in the formal regulatory analysis is not meant to minimize their importance to affected entities; rather, it reflects the inherent difficulty in estimating those costs. Areas where the Department believes entities may incur costs that are not monetized in the formal analysis include, but may not be limited to, the following:  
+
+*Costs from deferring or forgoing alterations*. Entities covered by the final rules may choose to delay otherwise desired alterations to their facilities due to the increased incremental costs imposed by compliance with the new requirements. This may lead to facility deterioration and decrease in the value of such facilities. In extreme cases, the costs of complying with the new requirements may lead some entities to opt to not build certain facilities at all. For example, the Department estimates that the incremental costs of building a new wading pool associated with the final rules will increase by about $142,500 on average. Some facilities may opt to not build such pools to avoid incurring this increased cost.  
+
+*Loss of productive space while modifying an existing facility.* During complex alterations, such as where moving walls or plumbing systems will be necessary to comply with the final rules, productive space may be unavailable until the alterations are complete. For example, a hotel altering its bathrooms to comply with the final rules will be unable to allow guests to occupy these rooms while construction activities are underway, and thus the hotel may forgo revenue from these rooms during this time. While the amount of time necessary to perform alterations varies significantly, the costs associated with unproductive space could be high in certain cases, especially if space is already limited or if an entity or facility is located in an area where real estate values are particularly high (**e.g.**, *New York or San Francisco).  
+
+*Expert fees.* Another type of cost to entities that is not monetized in the formal analysis is legal fees to determine what, if anything, a facility needs to do in order to comply with the new rules or to respond to lawsuits. Several commenters indicated that entities will incur increased legal costs because the requirements are changing for the first time since 1991. Since litigation risk could increase, entities could spend more on legal fees than in the past. Likewise, covered entities may face incremental costs when undertaking alterations because their engineers, architects, or other consultants may also need to consider what modifications are necessary to comply with the new requirements. The Department has not quantified the incremental costs of the services of these kinds of experts.  
+
+*Reduction in facility value and losses to individuals without disabilities due to the new accessibility requirements.* It is possible that some changes made by entities to their facilities in order to comply with the new requirements may result in fewer individuals without disabilities using such facilities (because of decreased enjoyment) and may create a disadvantage for individuals without disabilities, even though the change might increase accessibility for individuals with disabilities. For example, the new requirements for wading pools might decrease the value of the pool to the entity that owns it due to fewer individuals using it (because the new requirements for a sloped entry might make the pool too shallow). Similarly, several commenters from the miniature golf industry expressed concern that it would be difficult to comply with the regulations for accessible holes without significantly degrading the experience for other users. Finally, with respect to costs to individuals who do not have disabilities, a very tall person, for example, may be inconvenienced by having to reach further for a lowered light switch.  
+
+### Section 610 Review  
+
+The Department also is required to conduct a periodic regulatory review pursuant to section 610 of the RFA, as amended by the SBREFA.  
+
+The review requires agencies to consider five factors: (1) The continued need for the rule; (2) the nature of complaints or comments received concerning the rule from the public; (3) the complexity of the rule; (4) the extent to which the rule overlaps, duplicates, or conflicts with other Federal rules, and, to the extent feasible, with State and local governmental rules; and (5) the length of time since the rule has been evaluated or the degree to which technology, economic conditions, or other factors have changed in the area affected by the rule. 5 U.S.C. 610(b). Based on these factors, the agency is required to determine whether to continue the rule without change or to amend or rescind the rule, to minimize any significant economic impact of the rule on a substantial number of small entities.  *See* id. 610(a).  
+
+In developing the 2010 Standards, the Department reviewed the 1991 Standards section by section, and, as a result, has made several clarifications and amendments in both the title II and title III implementing regulations. The changes reflect the Department's analysis and review of complaints or comments from the public, as well as changes in technology. Many of the amendments aim to clarify and simplify the obligations of covered entities. As discussed in greater detail above, one significant goal of the development of the 2004 ADAAG was to eliminate duplication or overlap in Federal accessibility guidelines, as well as to harmonize the Federal guidelines with model codes. The Department also has worked to create harmony where appropriate between the requirements of titles II and III. Finally, while the regulation is required by statute and there is a continued need for it as a whole, the Department proposes several modifications that are intended to reduce its effects on small entities.  
+
+The Department has consulted with the Small Business Administration's Office of Advocacy about this process. The Office of Advocacy has advised that although the process followed by the Department was ancillary to the proposed adoption of revised ADA Standards, the steps taken to solicit public input and to respond to public concerns are functionally equivalent to the process required to complete a section 610 review. Therefore, this rulemaking fulfills the Department's obligations under the RFA.  
+
+## Final Regulatory Flexibility Analysis  
+
+This final rule also has been reviewed by the Small Business Administration's Office of Advocacy (Advocacy) in accordance with Executive Order 13272, 67 FR 53461, 3 CFR, 2003 Comp., p. 247. Chapter Seven of the Final RIA demonstrates that the final rule will not have a significant economic impact on a substantial number of small entities. The Department has also conducted a final regulatory flexibility analysis (FRFA) as a component of this rulemaking. Collectively, the ANPRM, NPRM, Initial RIA, Final RIA, and 2010 Standards include all of the elements of a FRFA required by the RFA.*See* 5 U.S.C. 604(a)(1)–(5).  
+
+Section 604(a) lists the specific requirements for a FRFA. The Department has addressed these RFA requirements throughout the ANPRM, NPRM, the 2010 Standards, and the RIA. In summary, the Department has satisfied its FRFA obligations under section 604(a) by providing the following:  
+
+1. *Succinct summaries of the need for, and objectives of, the final rule.* The Department is issuing this final rule in order to comply with its obligations under both the ADA and the SBREFA. The Department is also updating or amending certain provisions of the existing title III regulation so that they are consistent with the title II regulations and comport with the Department's legal and practical experiences in enforcing the ADA.  
+
+The ADA requires the Department to adopt enforceable accessibility standards under the ADA that are consistent with the Access Board's minimum accessibility guidelines and requirements. Accordingly, this rule adopts ADA Chapter 1, ADA Chapter 2, and Chapters 3 through 10 of the 2004 ADA/ABA Guidelines as part of the 2010 Standards, which will give the guidelines legal effect with respect to the Department's title II and title III regulations.  
+
+Under the SBREFA, the Department is required to perform a periodic review of its 1991 rule because the rule may have a significant economic impact on a substantial number of small entities. The SBREFA also requires the Department to make a regulatory assessment of the costs and benefits of any significant regulatory action.  *See* preamble sections of the final rules for titles II and III entitled "Summary"; Department of Justice Advanced Notice of Proposed Rulemaking, 69 FR 58768, 58768B70, (Sept. 30, 2004) (outlining the regulatory history, goals, and rationale underlying the Department's proposal to revise its regulations implementing titles II and III of the ADA); and Department of Justice Notice of Proposed Rulemaking, 73 FR 34508, 34508B14 (June 17, 2008) (outlining the regulatory history and rationale underlying the Department's proposal to revise its regulations implementing titles II and III of the ADA).  
+
+2. *Summaries of significant issues raised by public comments in response to the Department's initial regulatory flexibility analysis (IRFA) and discussions of regulatory revisions made as a result of such comments.*  The majority of the comments received by the Department addressing its IRFA set forth in the title III NPRM were submitted by the Advocacy. Advocacy acknowledged that the Department took into account the comments and concerns of small businesses; however, Advocacy remained concerned about certain items in the Department's NPRM and requested clarification or additional guidance on certain items.  
+
+*General Safe Harbor*. Advocacy expressed support for the Department's proposal to allow an element-by-element safe harbor for elements that now comply with the 1991 Standards and encouraged the Department to include specific technical assistance in the Small Business Compliance Guide that the Department is required to publish pursuant to section 212 of the SBREFA, 5 U.S.C. 610 **et seq**.  
+
+Advocacy requested that technical assistance outlining which standards are subject to the safe harbor be included in the Department's guidance. The Department has provided a list of the new requirements in the 2010 Standards that are not eligible for the safe harbor in &sect; 36.304(d)(2)(iii)(A)–(L) of the final rule and plans to include additional information about the application of the safe harbor in the Department's Small Business Compliance Guide. Advocacy also requested that guidance regarding the two effective dates for regulations also be provided, and the Department plans to include such guidance in its Small Business Compliance Guide.  
+
+*Small Business Safe Harbor.*  Advocacy expressed disappointment that the Department did not include a small business safe harbor in the final rule. In the NPRM, the Department proposed to include a small business safe harbor. Advocacy conceptually supported this safe harbor but had concerns regarding its application. Commenters from both the disability community and the business community uniformly, and quite adamantly, opposed the Department's proposal. Some business commenters suggested alternative safe harbors, but there was no common thread among their suggestions that would enable the Department to craft a proposal that would draw support from the affected communities.  
+
+Advocacy recommended that the Department continue to study how the proposed small business safe harbor might be made workable in future rulemakings, and recommended that the Department also seek other alternatives that minimize the economic impact of the ADA rulemakings in the future. The Department is mindful of its obligations under the SBREFA and will be sensitive to the need to mitigate costs for small businesses in any future rulemaking; however, based on the information currently available, the Department has declined to commit to a specific regulatory approach in the final rule.  
+
+*Indirect Costs.* Advocacy and other commenters representing business interests expressed concern that businesses would incur substantial indirect costs under the final rule for accessibility consultants, legal counsel, training, and the development of new policies and procedures. The Department believes that such "indirect costs," even assuming they would occur as described by these commenters, are not properly attributed to the Department's final rule implementing the ADA.
+
+The vast majority of the new requirements are incremental changes subject to a safe harbor. All businesses currently in compliance with the 1991 Standards will neither need to undertake further retrofits nor require the services of a consultant to tell them so. If, on the other hand, elements at an existing facility are not currently in compliance with the 1991 Standards, then the cost of making such a determination and bringing these elements into compliance are not properly attributed to the final rule, but to lack of compliance with the 1991 Standards.  
+
+For the limited number of requirements in the final rule that are supplemental, the Department believes that covered entities simply need to determine whether they have an element covered by a supplemental requirement (**e.g.*, *a swimming pool) and then conduct any necessary barrier removal work either in-house or by contacting a local contractor. Determining whether such an element exists is expected to take only a minimal amount of staff time. Nevertheless, Chapter 5 of the Final RIA has a high-end estimate of the additional management costs of such evaluation (from 1 to 8 hours of staff time).  
+
+The Department also anticipates that businesses will incur minimal costs for accessibility consultants to ensure compliance with the new requirements for New Construction and Alterations in the final rule. Both the 2004 ADAAG and the proposed requirements have been made public for some time and are already being incorporated into design plans by architects and builders. Further, in adopting the final rule, the Department has sought to harmonize, to the greatest extent possible, the ADA Standards with model codes that have been adopted on a widespread basis by State and local jurisdictions across the country. Accordingly, many of the requirements in the final rule are already incorporated into building codes nationwide. Additionally, it is assumed to be part of the regular course of business—and thereby incorporated into standard professional services or construction contracts—for architects and contractors to keep abreast of changes in applicable Federal, State, and local laws and building codes. Given these considerations, the Department has determined that the additional costs, if any, for architectural or contractor services that arise out of the final rule should be minimal.  
+
+Some commenters stated that the final rule would require them to develop new policies or manuals to retrain employees on the revised ADA standards. However, it is the Department's view that because the revised and supplemental requirements address architectural issues and features, the final rule would require minimal, if any, changes to the overall policies and procedures of covered entities.  
+
+Finally, commenters representing business interests expressed the view that the final rule would cause businesses to incur significant legal costs in order to defend ADA lawsuits. However, regulatory impact analyses are not an appropriate forum for assessing the cost covered entities may bear, or the repercussions they may face, for failing to comply (or allegedly failing to comply) with current law.  *See* Final RIA, Ch. 3, section 3.1.4, "Other Management Transition Costs"; Ch. 5,"Updates to the Regulatory Impact Analysis"; and table 15, "Impact of NPV of Estimated Managerial Costs for Supplemental Requirements at All Facilities."  
+
+3. *Estimates of the number and type of small entities to which the final rule will apply*. The Department estimates that the final rule will apply to approximately three million small entities or facilities covered by title III.*See* Final RIA, Ch. 7, "Small Business Impact Analysis," table 17, and app. 5, "Small Business Data"; *see also* 73 FR 36964, 36996–37009 (June 30, 2008) (estimating the number of small entities the Department believes may be impacted by the NPRM and calculating the likely incremental economic impact of the rule on small facilities/entities versus "typical" (**i.e.*, *average-sized facilities/entities).  
+
+4. *A description of the projected reporting, record-keeping, and other compliance requirements of the final rule, including an estimate of the classes of small entities that will be subject to the requirement and the type of professional skills necessary for preparation of the report or record.* The final rule imposes no new recordkeeping or reporting requirements.*See* preamble section entitled "Paperwork Reduction Act." Small entities may incur costs as a result of complying with the final rules. These costs are detailed in the Final RIA, Chapter 7, "Small Business Impact Analysis" and accompanying Appendix 5, "Small Business Data."  
+
+5. D*escriptions of the steps taken by the Department to minimize any significant economic impact on small entities consistent with the stated objectives of the ADA, including the reasons for selecting the alternatives adopted in the final rule and for rejecting other significant alternatives. *From the outset of this rulemaking, the Department has been mindful of small entities and has taken numerous steps to minimize the impact of the final rule on small businesses. Several of these steps are summarized below.  
+
+As an initial matter, the Department— as a voting member of the Access Board—was extensively involved in the development of the 2004 ADAAG. These guidelines, which are incorporated into the 2010 Standards, reflect a conscious effort to mitigate any significant economic impact on small businesses in several respects. First, one of the express goals of the 2004 ADAAG is harmonization of Federal accessibility guidelines with industry standards and model codes that often form the basis of State and local building codes, thereby minimizing the impact of these guidelines on all covered entities, but especially small businesses. Second, the 2004 ADAAG is the product of a 10-year rulemaking effort in which a host of private and public entities, including small business groups, worked cooperatively to develop accessibility guidelines that achieved an appropriate balance between accessibility and cost. For example, as originally recommended by the Access Board's Recreation Access Advisory Committee, all holes on a miniature golf course would be required to be accessible except for sloped surfaces where the ball could not come to rest. *See*, **e.g.**. "ADA Accessibility Guidelines for Buildings and Facilities—Recreation Facilities and Outdoor Developed Areas," Access Board Advance Notice of Proposed Rulemaking, 59 FR 48542 (Sept. 21, 1994). Miniature golf trade groups and facility operators, who are nearly all small businesses, expressed significant concern that such requirements would be prohibitively expensive, would require additional space, and might fundamentally alter the nature of their courses. *See*, **e.g**., "ADA Accessibility Guidelines for Buildings and Facilities—Recreation Facilities," Access Board Notice of Proposed Rulemaking, 64 FR 37326 (July 9, 1999). In consideration of such concerns and after holding informational meetings with miniature golf representatives and persons with disabilities, the Access Board significantly revised the final miniature golf guidelines. The final guidelines not only reduced significantly the number of holes required to be accessible to 50 percent of all holes (with one break in the sequence of consecutive holes permitted), but also added an exemption for carpets used on playing surfaces, modified ramp landing slope and size requirements, and reduced the space required for start of play areas. *See, *e.g.*, *Americans with Disabilities Act (ADA) Accessibility Guidelines for Buildings and Facilities—Recreation Facilities Final Rule, 36 CFR parts 1190 and 1191.  
+
+The Department also published an ANPRM to solicit public input on the adoption of the 2004 ADAAG as the revised Federal accessibility standards implementing titles II and III of the ADA. Among other things, the ANPRM specifically invited comment from small entities regarding the proposed rule's potential economic impact and suggested regulatory alternatives to ameliorate any such impact.  *See* "Nondiscrimination on the Basis of Disability by Public Accommodations and in Commercial Facilities," Department of Justice Advance Notice of Proposed Rulemaking, 69 FR 58768, 58778–79 (Sept. 30, 2004). The Department received over 900 comments, and small business interests figured prominently.  *See* "Nondiscrimination on the Basis of Disability by Public Accommodations and in Commercial Facilities," Department of Justice Notice of Proposed Rulemaking, 73 FR 34508, 34511, 34550 *(June 17, 2008).  
+
+Subsequently, when the Department published its NPRM in June 2008, several regulatory proposals were included to address concerns raised by the small business community in ANPRM comments. First, to mitigate costs to existing facilities, the Department proposed an element-by-element safe harbor that would exempt elements in compliance with applicable technical and scoping requirements in the 1991 Standards from any retrofit obligations under the revised title III rule.* Id.* at 34514–15, 34532–33. While this proposed safe harbor applied to title III covered entities irrespective of size, it was small businesses that especially stood to benefit since, according to comments from small business advocates, small businesses are more likely to operate in older buildings and facilities. The title III NPRM also offered for public comment a novel safe harbor provision specifically designed to address small business advocates' request for clearer guidance on the readily achievable barrier removal requirement. This proposal provided that qualified small businesses would be deemed to have satisfied their readily achievable barrier removal obligations for a given year if, during that tax year, they had spent at least 1 percent of their respective gross revenues undertaking measures in compliance with title III barrier removal requirements. *Id.* at 34538–39. Lastly, the NPRM sought public input on the inclusion of reduced scoping provisions for certain types of small existing recreation facilities (**i.e.** swimming pools, play areas, and saunas). *Id.* at 34515, 34534–37.  
+
+During the NPRM comment period, the Department engaged in considerable public outreach to the small business community. A public hearing was held in Washington, D.C., during which nearly 50 persons, including several small business owners, testified in person or by phone.*See* Transcript of the Public Hearing on Notices of Proposed Rulemaking *(July 15, 2008), available at *www.ada.gov/NPRM2008/public_hearing_transcript.htm*. This hearing was also streamed live over the Internet. By the end of the 60-day comment period, the Department had also received nearly 4,500 public comments on the title III NPRM, including a significant number of comments reflecting small businesses' perspectives on a wide range of regulatory issues.  
+
+In addition to soliciting input from small entities through the formal process for public comment, the Department also targeted the small business community with less formal regulatory discussions, including a Small Business Roundtable convened by the Office of Advocacy and held at the offices of the Small Business Administration in Washington, D.C., and an informational question-and-answer session concerning the titles II and III NPRMs at the Department of Justice in which business representatives attended in-person and by telephone. These outreach efforts provided the small business community with information on the NPRM proposals being considered by the Department and gave small businesses the opportunity to ask questions of the Department and provide feedback.  
+
+As a result of the feedback provided by representatives of small business interests on the title III NPRM, the Department was able to assess the impact of various alternatives on small businesses before adopting its final rule and took steps to minimize any significant impact on small entities. Most notably, the final rule retains the element-by-element safe harbor for which the small business community voiced strong support.  *See* Appendix A discussion of removal of barriers (&sect; 36.304). The Department believes that this element-by-element safe harbor provision will go a long way toward mitigating the economic impact of the final rule on existing facilities owned or operated by small businesses. Indeed, as demonstrated in the Final RIA, the element-by-element safe harbor will provide substantial relief to small businesses that is estimated at $ 7.5 billion over the expected life of the final rule.  
+
+Additional regulatory measures mitigating the economic impact of the final rule on title III-covered entities (including small businesses) include deletion of the proposed requirement for captioning of safety and emergency information on scoreboards at sporting venues, retention of the proposed path of travel safe harbor, extension of the compliance date of the 2010 Standards as applied to new construction and alterations from 6 months to 18 months after publication of the final rule, and, in response to public comments, modification of the triggering event for application of the 2010 Standards to new construction and alterations from a unitary approach (commencement of physical construction) to a two-pronged approach (date of last application for building permit or commencement of physical construction) depending on whether a building permit is or is not required for the type of construction at issue by State or local building authorities.*See* Appendix A discussions of captioning at sporting venues (&sect; 36.303), alterations and path of travel (&sect; 36.403), and compliance dates and triggering events for new construction and alterations (&sect; 36.406).  
+
+Two sets of proposed alternative measures that would have potentially provided some cost savings to small businesses—the safe harbor for qualified small businesses and reduced scoping for certain existing recreation facilities—were not adopted by the Department in the final rule. As discussed in more depth previously, the safe harbor for qualified small businesses was omitted from the final rule because the general safe harbor already provides significant relief for small businesses located in existing facilities, the proposed safe harbor provision lacked support from the small business community and no consensus emerged from business commenters concerning feasible bases for the final regulatory provision, and commenters noted practical considerations that would potentially make some small businesses incur greater expense or administrative burden.*See* Appendix A discussion of the safe harbor for qualified small businesses (&sect; 36.304).  
+
+The Department also omitted the proposals to reduce scoping for certain existing recreation facilities in the final rule. While these proposals were not specific to small entities, they nonetheless might have mitigated the impact of the final rule for some small businesses that owned or operated existing facilities at which these recreational elements were located.*See* Appendix A discussion of reduced scoping for play areas and other recreation facilities (&sect; 36.304). The Department gave careful consideration to how best to insulate small businesses from overly burdensome barrier removal costs under the 2010 Standards for existing small play areas, swimming pools, and saunas, while still providing accessible and integrated recreation facilities that are of great importance to persons with disabilities. The Department concluded that the existing readily achievable barrier removal standard, rather than specific exemptions for these types of existing facilities, is the most efficacious method by which to protect small businesses.  
+
+Once the final rule is promulgated, small businesses will also have a wealth of documents to assist them in complying with the 2010 Standards. For example, accompanying the final rule in the **Federal Register** is the Department's"Analysis and Commentary on the 2010 ADA Standards for Accessible Design," which provides a plain language description of the revised scoping and technical requirements in these Standards and provides illustrative figures. The Department also expects to publish guidance specifically tailored to small businesses in the form of a small business compliance guide, as well as to publish technical assistance materials of general interest to all covered entities following promulgation of the final rule. Additionally, the Access Board has published a number of guides that discuss and illustrate application of the 2010 Standards to play areas and various types of recreation facilities.  
+
+**Executive Order 13132: Federalism**  
+
+Executive Order 13132, 64 FR 43255, 3 CFR, 2000 Comp., p. 206, requires executive branch agencies to consider whether a rule will have federalism implications. That is, the rulemaking agency must determine whether the rule is likely to have substantial direct effects on State and local governments, a substantial direct effect on the relationship between the Federal government and the States and localities, or a substantial direct effect on the distribution of power and responsibilities among the different levels of government. If an agency believes that a rule is likely to have federalism implications, it must consult with State and local elected officials about how to minimize or eliminate the effects.  
+
+Title III of the ADA covers public accommodations and commercial facilities. These facilities are generally subject to regulation by different levels of government, including Federal, State, and local governments. The ADA and the 2010 Standards set minimum civil rights protections for individuals with disabilities that in turn may affect the implementation of State and local laws, particularly building codes. The 2010 Standards address federalism concerns and mitigate federalism implications, particularly the provisions that streamline the administrative process for State and local governments seeking ADA code certification under title III.  
+
+As a member of the Access Board, the Department was privy to substantial feedback from State and local governments throughout the development of the Board's 2004 guidelines. Before those guidelines were finalized as the 2004 ADA/ABA Guidelines, they addressed and minimized federalism concerns expressed by State and local governments during the development process. Because the Department adopted ADA Chapter 1, ADA Chapter 2, and Chapters 3 through 10 of the 2004 ADA/ABA Guidelines as part of the 2010 Standards, the steps taken in the 2004 ADA/ABA Guidelines to address federalism concerns are reflected in the 2010 Standards.  
+
+The Department also solicited and received input from public entities in the September 2004 ANPRM and the June 2008 NPRM. Through the ANPRM and NPRM processes, the Department solicited comments from elected State and local officials and their representative national organizations about the potential federalism implications. The Department received comments addressing whether the ANPRM and NPRM directly affected State and local governments, the relationship between the Federal government and the States, and the distribution of power and responsibilities among the various levels of government. The rule preempts State laws affecting entities subject to the ADA only to the extent that those laws conflict with the requirements of the ADA, as set forth in the rule.  
+
+**National Technology Transfer and Advancement Act of 1995**  
+
+The National Technology Transfer and Advancement Act of 1995 (NTTAA) directs that, as a general matter, all Federal agencies and departments shall use technical standards that are developed or adopted by voluntary consensus standards bodies, which are private, generally non-profit organizations that develop technical standards or specifications using well-defined procedures that require openness, balanced participation among affected interests and groups, fairness and due process, and an opportunity for appeal, as a means to carry out policy objectives or activities. Public Law 104– 113 section 12(d)(1) (15 U.S.C. 272 Note). In addition, the NTTAA directs agencies to consult with voluntary, private sector, consensus standards bodies and requires that agencies participate with such bodies in the development of technical standards when such participation is in the public interest and is compatible with agency and departmental missions, authorities, priorities, and budget resources. *Id. *section 12(d)1). The Department, as a member of the Access Board, was an active participant in the lengthy process of developing the 2004 ADAAG, on which the 2010 Standards are based. As part of this update, the Board has made its guidelines more consistent with model building codes, such as the IBC, and industry standards. It coordinated extensively with model code groups and standard-setting bodies throughout the process so that differences could be reconciled. As a result, an historic level of harmonization has been achieved that has brought about improvements to the guidelines, as well as to counterpart provisions in the IBC and key industry standards, including those for accessible facilities issued through the American National Standards Institute.  
+
+**Plain Language Instructions**  
+
+The Department makes every effort to promote clarity and transparency in its rulemaking. In any regulation, there is a tension between drafting language that is simple and straightforward and drafting language that gives full effect to issues of legal interpretation. The Department operates a toll-free ADA Information Line (800) 514–0301(voice); (800) 514–0383 (TTY) that the public is welcome to call at any time to obtain assistance in understanding anything in this rule. If any commenter has suggestions for how the regulation could be written more clearly, please contact Janet L. Blizard, Deputy Chief, Disability Rights Section, whose contact information is provided in the introductory section of this rule, entitled **FOR FURTHER INFORMATION CONTACT.**  
+
+**Paperwork Reduction Act**  
+
+The Paperwork Reduction Act of 1980 (PRA) requires agencies to clear forms and recordkeeping requirements with OMB before they can be introduced. 44 U.S.C. 3501 *et seq*. This rule does not contain any paperwork or recordkeeping requirements and does not require clearance under the PRA.  
+
+**Unfunded Mandates Reform Act**  
+
+Section 4(2) of the Unfunded Mandates Reform Act of 1995, 2 U.S.C. 1503(2), excludes from coverage under that Act any proposed or final Federal regulation that "establishes or enforces any statutory rights that prohibit discrimination on the basis of race, color, religion, sex, national origin, age, handicap, or disability." Accordingly, this rulemaking is not subject to the provisions of the Unfunded Mandates Reform Act.  
+
+**List of Subjects for 28 CFR Part 36**  
+
+Administrative practice and procedure, Buildings and facilities, Business and industry, Civil rights, Individuals with disabilities, Penalties, Reporting and recordkeeping requirements.  
+
+- By the authority vested in me as Attorney General by law, including 28 U.S.C. 509 and 510, 5 U.S.C. 301, and section 306 of the Americans with Disabilities Act of 1990, Public Law 101–336 (42 U.S.C. 12186), and for the reasons set forth in Appendix A to 28 CFR part 36, chapter I of title 28 of the Code of Federal Regulations is amended as follows  
+
+<div class="ftnote"><a href="#rftnt1">1</a> <a name="ftnt1" id="ftnt1"></a>On September 25, 2008, President George W.Bush signed into law the Americans with Disabilities Amendments Act of 2008 (ADA Amendments Act), Public Law 110–325. The ADA Amendments Act amended the ADA definition of disability to clarify its coverage of persons with disabilities and to provide guidance on the application of the definition. This final rule does not contain regulatory language implementing the ADA Amendments Act. The Department intends to publish a supplemental rule to amend the regulatory definition of "disability" to implement the changes mandated by that law.  
+
+<a href="#rftnt2">2</a> <a name="ftnt2" id="ftnt2"></a>The analysis assumes these regulations will be in force for 15 years. Incremental costs and benefits are calculated for all construction, alterations, and barrier removal that is expected to occur during these 15 years. The analysis also assumes that any new or revised ADA rules enacted 15 years from now will include a safe harbor provision. Thus, any facilities constructed in year 14 of the final rules are assumed to continue to generate benefits to users, and to incur any operating or replacement costs for the life of these buildings, which is assumed to be 40 years.
+</div>  
+
+## Title III Regulations - Revised Final Title III Regulation with Integrated Text  
+
+NOTE: These provisions update the relevant portions of the title III regulation to incorporate changes made to the regulatory text through January 17, 2017. These modifications stem from the Pool Extension Final Rule (77 FR 30174, published May 21, 2012), the ADA Amendments Act Final Rule (81 FR 53202, published Aug. 11, 2016), and the Movie Captioning and Audio Description Final Rule (81 FR 87348, published Dec. 2, 2016). All section headings and changes are noted in bold.  
+
+## Part 36 Nondiscrimination on the Basis of Disability in Public Accommodations and Commercial Facilities (*as amended by the final rules published on August 11, 2016, and December 2, 2016*)  
+
+**Authority:****5 U.S.C. 301; 28 U.S.C. 509, 510; 42 U.S.C. 12186(b) and 12205a.**  
+
+### Subpart A – General  
+
+***&sect; <a name="a101" id="a101"></a>36.101 Purpose and broad coverage.***  
+
+- **(a) *Purpose****.* The purpose of this part is to implement title III of the Americans with Disabilities Act of 1990 (42 U.S.C. 12181**–12189), as amended by the ADA Amendments Act of 2008 (ADA Amendments Act) (Public Law 110–325, 122 Stat. 3553 (2008))**, which prohibits discrimination on the basis of disability by**covered**public accommodations and requires places of public accommodation and commercial facilities to be designed, constructed, and altered in compliance with the accessibility standards established by this part.  
+
+**(b) *Broad coverage.*The primary purpose of the ADA Amendments Act is to make it easier for people with disabilities to obtain protection under the ADA. Consistent with the ADA Amendments Act's purpose of reinstating a broad scope of protection under the ADA, the definition of &ldquo;disability&rdquo; in this part shall be construed broadly in favor of expansive coverage to the maximum extent permitted by the terms of the ADA. The primary object of attention in cases brought under the ADA should be whether entities covered under the ADA have complied with their obligations and whether discrimination has occurred, not whether the individual meets the definition of &ldquo;disability.&rdquo; The question of whether an individual meets the definition of &ldquo;disability&rdquo; under this part should not demand extensive analysis.**  
+
+### &sect; <a name="a102" id="a102"></a>36.102 Application.  
+
+(a) *General*. This part applies to any –  
+
+(1) Public accommodation;  
+(2) Commercial facility; or  
+(3) Private entity that offers examinations or courses related to applications, licensing, certification, or credentialing for secondary or postsecondary education, professional, or trade purposes.  
+
+(b) *Public accommodations*.  
+
+(1) The requirements of this part applicable to public accommodations are set forth in subparts B, C, and D of this part.  
+(2) The requirements of subparts B and C of this part obligate a public accommodation only with respect to the operations of a place of public accommodation.  
+(3) The requirements of subpart D of this part obligate a public accommodation only with respect to  
+
+(i) A facility used as, or designed or constructed for use as, a place of public accommodation; or  
+(ii) A facility used as, or designed and constructed for use as, a commercial facility.  
+
+(c) Commercial facilities. The requirements of this part applicable to commercial facilities are set forth in subpart D of this part.  
+
+(d) *Examinations and courses*. The requirements of this part applicable to private entities that offer examinations or courses as specified in paragraph (a) of this section are set forth in &sect; 36.309.  
+
+(e) *Exemptions and exclusions*. This part does not apply to any private club (except to the extent that the facilities of the private club are made available to customers or patrons of a place of public accommodation), or to any religious entity or public entity.  
+
+### &sect; <a name="a103" id="a103"></a>36.103 Relationship to other laws.  
+
+(a) *Rule of interpretation*. Except as otherwise provided in this part, this part shall not be construed to apply a lesser standard than the standards applied under title V of the Rehabilitation Act of 1973 (29 U.S.C. 791) or the regulations issued by Federal agencies pursuant to that title.  
+
+(b) *Section 504*. This part does not affect the obligations of a recipient of Federal financial assistance to comply with the requirements of section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794) and regulations issued by Federal agencies implementing section 504.  
+
+(c) *Other laws*. This part does not invalidate or limit the remedies, rights, and procedures of any other Federal laws, or State or local laws (including State common law) that provide greater or equal protection for the rights of individuals with disabilities or individuals associated with them.  
+
+### &sect;<a name="a104" id="a104"></a> 36.104 Definitions.  
+
+For purposes of this part, the term-  
+
+*1991 Standards* means requirements set forth in the ADA Standards for Accessible Design, originally published on July 26, 1991, and republished as Appendix D to this part.  
+
+*2004 ADAAG* means the requirements set forth in appendices B and D to 36 CFR part 1191 (2009).  
+
+*2010 Standards* means the 2010 ADA Standards for Accessible Design, which consist of the 2004 ADAAG and the requirements contained in subpart D of this part.  
+
+*Act* means the Americans with Disabilities Act of 1990 (Pub. L. 101 - 336, 104 Stat. 327, 42 U.S.C. 12101 - 12213 and 47 U.S.C. 225 and 611).  
+
+*Commerce* means travel, trade, traffic, commerce, transportation, or communication -  
+
+(1) Among the several States;  
+(2) Between any foreign country or any territory or possession and any State; or  
+(3) Between points in the same State but through another State or foreign country.  
+
+*Commercial facilities* means facilities –  
+
+(1) Whose operations will affect commerce;  
+(2) That are intended for nonresidential use by a private entity; and  
+(3) That are not –  
+
+(i) Facilities that are covered or expressly exempted from coverage under the Fair Housing Act of 1968, as amended (42 U.S.C. 3601 - 3631);  
+(ii) Aircraft; or  
+(iii) Railroad locomotives, railroad freight cars, railroad cabooses, commuter or intercity passenger rail cars (including coaches, dining cars, sleeping cars, lounge cars, and food service cars), any other railroad cars described in section 242 of the Act or covered under title II of the Act, or railroad rights-of-way. For purposes of this definition, &quot;rail&quot; and &quot;railroad&quot; have the meaning given the term &quot;railroad&quot; in section 202(e) of the Federal Railroad Safety Act of 1970 (45 U.S.C. 431(e)).  
+
+*Current illegal use of drugs* means illegal use of drugs that occurred recently enough to justify a reasonable belief that a person's drug use is current or that continuing use is a real and ongoing problem.  
+
+*Direct threat* means a significant risk to the health or safety of others that cannot be eliminated by a modification of policies, practices, or procedures, or by the provision of auxiliary aids or services, as provided in &sect; 36.208.  
+
+*Disability*. The definition of *disability* can be found at &sect; 36.105.  
+
+*Drug* means a controlled substance, as defined in schedules I through V of section 202 of the Controlled Substances Act (21 U.S.C. 812).  
+
+*Existing facility *means a facility in existence on any given date, without regard to whether the facility may also be considered newly constructed or altered under this part.  
+
+*Facility* means all or any portion of buildings, structures, sites, complexes, equipment, rolling stock or other conveyances, roads, walks, passageways, parking lots, or other real or personal property, including the site where the building, property, structure, or equipment is located.  
+
+Housing at a* place of education* means housing operated by or on behalf of an elementary, secondary, undergraduate, or postgraduate school, or other place of education, including dormitories, suites, apartments, or other places of residence.  
+
+*Illegal use of drugs* means the use of one or more drugs, the possession or distribution of which is unlawful under the Controlled Substances Act (21 U.S.C. 812). The term &quot;illegal use of drugs&quot; does not include the use of a drug taken under supervision by a licensed health care professional, or other uses authorized by the Controlled Substances Act or other provisions of Federal law.  
+
+*Individual with a disability* means a person who has a disability. The term &quot;individual with a disability&quot; does not include an individual who is currently engaging in the illegal use of drugs, when the private entity acts on the basis of such use.  
+
+*Other power-driven mobility device *means any mobility device powered by batteries, fuel, or other engines – whether or not designed primarily for use by individuals with mobility disabilities – that is used by individuals with mobility disabilities for the purpose of locomotion, including golf cars, electronic personal assistance mobility devices (EPAMDs), such as the Segway® PT, or any mobility device designed to operate in areas without defined pedestrian routes, but that is not a wheelchair within the meaning of this section. This definition does not apply to Federal wilderness areas; wheelchairs in such areas are defined in section 508(c)(2) of the ADA, 42 U.S.C. 12207(c)(2).  
+
+*Place of public accommodation* means a facility operated by a private entity whose operations affect commerce and fall within at least one of the following categories -  
+
+(1) Place of lodging, except for an establishment located within a facility that contains not more than five rooms for rent or hire and that actually is occupied by the proprietor of the establishment as the residence of the proprietor. For purposes of this part, a facility is a &quot;place of lodging&quot; if it is –  
+
+(i) An inn, hotel, or motel; or  
+(ii) A facility that –  
+
+(A) Provides guest rooms for sleeping for stays that primarily are short-term in nature (generally 30 days or less) where the occupant does not have the right to return to a specific room or unit after the conclusion of his or her stay; and  
+(B) Provides guest rooms under conditions and with amenities similar to a hotel, motel, or inn, including the following –  
+
+(*1*) On- or off-site management and reservations service;  
+(*2*) Rooms available on a walk-up or call-in basis;  
+(*3*) Availability of housekeeping or linen service; and  
+(*4*) Acceptance of reservations for a guest room type without guaranteeing a particular unit or room until check-in, and without a prior lease or security deposit.  
+
+(2) A restaurant, bar, or other establishment serving food or drink;  
+(3) A motion picture house, theater, concert hall, stadium, or other place of exhibition or entertainment;  
+(4) An auditorium, convention center, lecture hall, or other place of public gathering;  
+(5) A bakery, grocery store, clothing store, hardware store, shopping center, or other sales or rental establishment;  
+(6) A laundromat, dry-cleaner, bank, barber shop, beauty shop, travel service, shoe repair service, funeral parlor, gas station, office of an accountant or lawyer, pharmacy, insurance office, professional office of a health care provider, hospital, or other service establishment;  
+(7) A terminal, depot, or other station used for specified public transportation;  
+(8) A museum, library, gallery, or other place of public display or collection;  
+(9) A park, zoo, amusement park, or other place of recreation;  
+(10) A nursery, elementary, secondary, undergraduate, or postgraduate private school, or other place of education;  
+(11) A day care center, senior citizen center, homeless shelter, food bank, adoption agency, or other social service center establishment; and  
+(12) A gymnasium, health spa, bowling alley, golf course, or other place of exercise or recreation.  
+
+*Private club* means a private club or establishment exempted from coverage under title II of the Civil Rights Act of 1964 (42 U.S.C. 2000a(e)).  
+
+*Private entity* means a person or entity other than a public entity.  
+
+*Public accommodation* means a private entity that owns, leases (or leases to), or operates a place of public accommodation.  
+
+*Public entity* means –  
+
+(1) Any State or local government;  
+(2) Any department, agency, special purpose district, or other instrumentality of a State or States or local government; and  
+(3) The National Railroad Passenger Corporation, and any commuter authority (as defined in section 103(8) of the Rail Passenger Service Act). (45 U.S.C. 541)  
+
+*Qualified interpreter* means an interpreter who, via a video remote interpreting (VRI) service or an on-site appearance, is able to interpret effectively, accurately, and impartially, both receptively and expressively, using any necessary specialized vocabulary. Qualified interpreters include, for example, sign language interpreters, oral transliterators, and cued-language transliterators.  
+
+*Qualified reader* means a person who is able to read effectively, accurately, and impartially using any necessary specialized vocabulary.  
+
+*Readily achievable* means easily accomplishable and able to be carried out without much difficulty or expense. In determining whether an action is readily achievable factors to be considered include –  
+
+(1) The nature and cost of the action needed under this part;  
+(2) The overall financial resources of the site or sites involved in the action; the number of persons employed at the site; the effect on expenses and resources; legitimate safety requirements that are necessary for safe operation, including crime prevention measures; or the impact otherwise of the action upon the operation of the site;  
+(3) The geographic separateness, and the administrative or fiscal relationship of the site or sites in question to any parent corporation or entity;  
+(4) If applicable, the overall financial resources of any parent corporation or entity; the overall size of the parent corporation or entity with respect to the number of its employees; the number, type, and location of its facilities; and  
+(5) If applicable, the type of operation or operations of any parent corporation or entity, including the composition, structure, and functions of the workforce of the parent corporation or entity.  
+
+*Religious entity* means a religious organization, including a place of worship.  
+
+*Service animal* means any dog that is individually trained to do work or perform tasks for the benefit of an individual with a disability, including a physical, sensory, psychiatric, intellectual, or other mental disability. Other species of animals, whether wild or domestic, trained or untrained, are not service animals for the purposes of this definition. The work or tasks performed by a service animal must be directly related to the individual's disability. Examples of work or tasks include, but are not limited to, assisting individuals who are blind or have low vision with navigation and other tasks, alerting individuals who are deaf or hard of hearing to the presence of people or sounds, providing non-violent protection or rescue work, pulling a wheelchair, assisting an individual during a seizure, alerting individuals to the presence of allergens, retrieving items such as medicine or the telephone, providing physical support and assistance with balance and stability to individuals with mobility disabilities, and helping persons with psychiatric and neurological disabilities by preventing or interrupting impulsive or destructive behaviors. The crime deterrent effects of an animal's presence and the provision of emotional support, well-being, comfort, or companionship do not constitute work or tasks for the purposes of this definition.  
+
+*Specified public transportation* means transportation by bus, rail, or any other conveyance (other than by aircraft) that provides the general public with general or special service (including charter service) on a regular and continuing basis.  
+
+*State* means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.  
+
+*Undue burden* means significant difficulty or expense. In determining whether an action would result in an undue burden, factors to be considered include –  
+
+(1) The nature and cost of the action needed under this part;  
+(2) The overall financial resources of the site or sites involved in the action; the number of persons employed at the site; the effect on expenses and resources; legitimate safety requirements that are necessary for safe operation, including crime prevention measures; or the impact otherwise of the action upon the operation of the site;  
+(3) The geographic separateness, and the administrative or fiscal relationship of the site or sites in question to any parent corporation or entity;  
+(4) If applicable, the overall financial resources of any parent corporation or entity; the overall size of the parent corporation or entity with respect to the number of its employees; the number, type, and location of its facilities; and  
+(5) If applicable, the type of operation or operations of any parent corporation or entity, including the composition, structure, and functions of the workforce of the parent corporation or entity.  
+
+*Video remote interpreting (VRI) service* means an interpreting service that uses video conference technology over dedicated lines or wireless technology offering high-speed, wide-bandwidth video connection that delivers high-quality video images as provided in &sect; 36.303(f).  
+
+*Wheelchair* means a manually-operated or power-driven device designed primarily for use by an individual with a mobility disability for the main purpose of indoor or of both indoor and outdoor locomotion. This definition does not apply to Federal wilderness areas; wheelchairs in such areas are defined in section 508(c)(2) of the ADA, 42 U.S.C. 12207(c)(2).  
+
+### **&sect; 36.105 Definition of &ldquo;disability.&rdquo;**  
+
+**(a)**  
+
+**(1)*Disability* means, with respect to an individual:**  
+
+**(i) A physical or mental impairment that substantially limits one or more of the major life activities of such individual;**  
+**(ii) A record of such an impairment; or**  
+**(iii) Being regarded as having such an impairment as described in paragraph (f) of this section.**  
+
+
+**(2)*Rules of construction.**  
+
+**(i) The definition of &ldquo;disability&rdquo; shall be construed broadly in favor of expansive coverage, to the maximum extent permitted by the terms of the ADA.**  
+**(ii) An individual may establish coverage under any one or more of the three prongs of the definition of disability in paragraph (a)(1) of this section, the &ldquo;actual disability&rdquo; prong in paragraph (a)(1)(i) of this section, the &ldquo;record of&rdquo; prong in paragraph (a)(1)(ii) of this section, or the &ldquo;regarded as&rdquo; prong in paragraph (a)(1)(iii) of this section.**  
+**(iii) Where an individual is not challenging a public accommodation's failure to provide reasonable modifications under &sect; 36.302, it is generally unnecessary to proceed under the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prongs, which require a showing of an impairment that substantially limits a major life activity or a record of such an impairment. In these cases, the evaluation of coverage can be made solely under the &ldquo;regarded as&rdquo; prong of the definition of &ldquo;disability,&rdquo; which does not require a showing of an impairment that substantially limits a major life activity or a record of such an impairment. An individual may choose, however, to proceed under the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prong regardless of whether the individual is challenging a public accommodation's failure to provide reasonable modifications.**  
+
+**(b)**  
+
+**(1)*Physical or mental impairment* means:**  
+
+**(i) Any physiological disorder or condition, cosmetic disfigurement, or anatomical loss affecting one or more body systems, such as: neurological, musculoskeletal, special sense organs, respiratory (including speech organs), cardiovascular, reproductive, digestive, genitourinary, immune, circulatory, hemic, lymphatic, skin, and endocrine; or**  
+**(ii) Any mental or psychological disorder such as intellectual disability, organic brain syndrome, emotional or mental illness, and specific learning disability.**  
+
+**(2)*Physical or mental impairment* includes, but is not limited to, contagious and noncontagious diseases and conditions such as the following: orthopedic, visual, speech and hearing impairments, cerebral palsy, epilepsy, muscular dystrophy, multiple sclerosis, cancer, heart disease, diabetes, intellectual disability, emotional illness, dyslexia and other specific learning disabilities, Attention Deficit Hyperactivity Disorder, Human Immunodeficiency Virus infection (whether symptomatic or asymptomatic), tuberculosis, drug addiction, and alcoholism.**  
+
+**(3)*Physical or mental impairment* does not include homosexuality or bisexuality.**  
+
+**(c)**  
+
+**(1) * Major life activities* include, but are not limited to:**  
+
+**(i) Caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, sitting, reaching, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, writing, communicating, interacting with others, and working; and**  
+**(ii) The operation of a *major bodily function*, such as the functions of the immune system, special sense organs and skin, normal cell growth, and digestive, genitourinary, bowel, bladder, neurological, brain, respiratory, circulatory, cardiovascular, endocrine, hemic, lymphatic, musculoskeletal, and reproductive systems. The operation of a major bodily function includes the operation of an individual organ within a body system.**  
+
+**(2) Rules of construction.**  
+
+**(i) In determining whether an impairment substantially limits a major life activity, the term *major* shall not be interpreted strictly to create a demanding standard.**  
+**(ii) Whether an activity is a *major life activity* is not determined by reference to whether it is of *central* importance to daily life.**  
+
+**(d)*Substantially limits.**  
+
+**(1)*Rules of construction.* The following rules of construction apply when determining whether an impairment substantially limits an individual in a major life activity.**  
+
+**(i) The term &ldquo;substantially limits&rdquo; shall be construed broadly in favor of expansive coverage, to the maximum extent permitted by the terms of the ADA. &ldquo;Substantially limits&rdquo; is not meant to be a demanding standard.**  
+**(ii) The primary object of attention in cases brought under title III of the ADA should be whether public accommodations have complied with their obligations and whether discrimination has occurred, not the extent to which an individual's impairment substantially limits a major life activity. Accordingly, the threshold issue of whether an impairment substantially limits a major life activity should not demand extensive analysis.**  
+**(iii) An impairment that substantially limits one major life activity does not need to limit other major life activities in order to be considered a substantially limiting impairment.**  
+**(iv) An impairment that is episodic or in remission is a disability if it would substantially limit a major life activity when active.**  
+**(v) An impairment is a disability within the meaning of this part if it substantially limits the ability of an individual to perform a major life activity as compared to most people in the general population. An impairment does not need to prevent, or significantly or severely restrict, the individual from performing a major life activity in order to be considered substantially limiting. Nonetheless, not every impairment will constitute a disability within the meaning of this section.**  
+**(vi) The determination of whether an impairment substantially limits a major life activity requires an individualized assessment. However, in making this assessment, the term &ldquo;substantially limits&rdquo; shall be interpreted and applied to require a degree of functional limitation that is lower than the standard for substantially limits applied prior to the ADA Amendments Act.**  
+**(vii) The comparison of an individual's performance of a major life activity to the performance of the same major life activity by most people in the general population usually will not require scientific, medical, or statistical evidence. Nothing in this paragraph (d)(1) is intended, however, to prohibit or limit the presentation of scientific, medical, or statistical evidence in making such a comparison where appropriate.**  
+**(viii) The determination of whether an impairment substantially limits a major life activity shall be made without regard to the ameliorative effects of mitigating measures. However, the ameliorative effects of ordinary eyeglasses or contact lenses shall be considered in determining whether an impairment substantially limits a major life activity. Ordinary eyeglasses or contact lenses are lenses that are intended to fully correct visual acuity or to eliminate refractive error.**  
+**(ix) The six-month &ldquo;transitory&rdquo; part of the &ldquo;transitory and minor&rdquo; exception in paragraph (f)(2) of this section does not apply to the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prongs of the definition of &ldquo;disability.&rdquo; The effects of an impairment lasting or expected to last less than six months can be substantially limiting within the meaning of this section for establishing an actual disability or a record of a disability.**  
+
+**(2)*Predictable assessments.**  
+
+**(i) The principles set forth in the rules of construction in this section are intended to provide for more generous coverage and application of the ADA's prohibition on discrimination through a framework that is predictable, consistent, and workable for all individuals and entities with rights and responsibilities under the ADA.**  
+**(ii) Applying these principles, the individualized assessment of some types of impairments will, in virtually all cases, result in a determination of coverage under paragraph (a)(1)(i) of this section (the &ldquo;actual disability&rdquo; prong) or paragraph (a)(1)(ii) of this section (the &ldquo;record of&rdquo; prong). Given their inherent nature, these types of impairments will, as a factual matter, virtually always be found to impose a substantial limitation on a major life activity. Therefore, with respect to these types of impairments, the necessary individualized assessment should be particularly simple and straightforward.**  
+**(iii) For example, applying these principles it should easily be concluded that the set forth in paragraphs (d)(2)(iii)(A) through (K) types of impairments will, at a minimum, substantially limit the major life activities indicated. The types of impairments described in this paragraph may substantially limit additional major life activities (including major bodily functions) not explicitly listed in paragraphs (d)(2)(iii)(A) through (K).**  
+
+**(A) Deafness substantially limits hearing;**  
+**(B) Blindness substantially limits seeing;**  
+**(C) Intellectual disability substantially limits brain function;**  
+**(D) Partially or completely missing limbs or mobility impairments requiring the use of a wheelchair substantially limit musculoskeletal function;**  
+**(E) Autism substantially limits brain function;**  
+**(F) Cancer substantially limits normal cell growth;**  
+**(G) Cerebral palsy substantially limits brain function;**  
+**(H) Diabetes substantially limits endocrine function;**  
+**(I) Epilepsy, muscular dystrophy, and multiple sclerosis each substantially limits neurological function;**  
+**(J) Human Immunodeficiency Virus (HIV) infection substantially limits immune function; and**  
+**(K) Major depressive disorder, bipolar disorder, post-traumatic stress disorder, traumatic brain injury, obsessive compulsive disorder, and schizophrenia each substantially limits brain function.**  
+
+**(3)*Condition, manner, or duration.**  
+
+**(i) At all times taking into account the principles set forth in the rules of construction, in determining whether an individual is substantially limited in a major life activity, it may be useful in appropriate cases to consider, as compared to most people in the general population, the conditions under which the individual performs the major life activity; the manner in which the individual performs the major life activity; or the duration of time it takes the individual to perform the major life activity, or for which the individual can perform the major life activity.**  
+**(ii) Consideration of facts such as condition, manner, or duration may include, among other things, consideration of the difficulty, effort or time required to perform a major life activity; pain experienced when performing a major life activity; the length of time a major life activity can be performed; or the way an impairment affects the operation of a major bodily function. In addition, the non-ameliorative effects of mitigating measures, such as negative side effects of medication or burdens associated with following a particular treatment regimen, may be considered when determining whether an individual's impairment substantially limits a major life activity.**  
+**(iii) In determining whether an individual has a disability under the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prongs of the definition of &ldquo;disability,&rdquo; the focus is on how a major life activity is substantially limited, and not on what outcomes an individual can achieve. For example, someone with a learning disability may achieve a high level of academic success, but may nevertheless be substantially limited in one or more major life activities, including, but not limited to, reading, writing, speaking, or learning because of the additional time or effort he or she must spend to read, write, speak, or learn compared to most people in the general population.**  
+**(iv) Given the rules of construction set forth in this section, it may often be unnecessary to conduct an analysis involving most or all of the facts related to condition, manner, or duration. This is particularly true with respect to impairments such as those described in paragraph (d)(2)(iii) of this section, which by their inherent nature should be easily found to impose a substantial limitation on a major life activity, and for which the individualized assessment should be particularly simple and straightforward.**  
+
+**(4)*Mitigating measures *include, but are not limited to:**  
+
+**(i) Medication, medical supplies, equipment, appliances, low-vision devices (defined as devices that magnify, enhance, or otherwise augment a visual image, but not including ordinary eyeglasses or contact lenses), prosthetics including limbs and devices, hearing aid(s) and cochlear implant(s) or other implantable hearing devices, mobility devices, and oxygen therapy equipment and supplies;**  
+**(ii) Use of assistive technology;**  
+**(iii) Reasonable modifications or auxiliary aids or services as defined in this regulation;**  
+**(iv) Learned behavioral or adaptive neurological modifications; or**  
+**(v) Psychotherapy, behavioral therapy, or physical therapy.**  
+
+**(e)*Has a record of such an impairment.**  
+
+**(1) An individual has a record of such an impairment if the individual has a history of, or has been misclassified as having, a mental or physical impairment that substantially limits one or more major life activities.**  
+
+**(2)*Broad construction.* Whether an individual has a record of an impairment that substantially limited a major life activity shall be construed broadly to the maximum extent permitted by the ADA and should not demand extensive analysis. An individual will be considered to fall within this prong of the definition of &ldquo;disability&rdquo; if the individual has a history of an impairment that substantially limited one or more major life activities when compared to most people in the general population, or was misclassified as having had such an impairment. In determining whether an impairment substantially limited a major life activity, the principles articulated in paragraph (d)(1) of this section apply.**  
+
+**(3)*Reasonable modification.* An individual with a record of a substantially limiting impairment may be entitled to a reasonable modification if needed and related to the past disability.**  
+
+**(f)*Is regarded as having such an impairment.* The following principles apply under the &ldquo;regarded&rdquo; as prong of the definition of &ldquo;disability&rdquo; (paragraph (a)(1)(iii) of this section):**  
+
+**(1) Except as set forth in paragraph (f)(2) of this section, an individual is &ldquo;regarded as having such an impairment&rdquo; if the individual is subjected to a prohibited action because of an actual or perceived physical or mental impairment, whether or not that impairment substantially limits, or is perceived to substantially limit, a major life activity, even if the public accommodation asserts, or may or does ultimately establish, a defense to the action prohibited by the ADA.**  
+
+**(2) An individual is not &ldquo;regarded as having such an impairment&rdquo; if the public accommodation demonstrates that the impairment is, objectively, both &ldquo;transitory&rdquo; and &ldquo;minor.&rdquo; A public accommodation may not defeat &ldquo;regarded as&rdquo; coverage of an individual simply by demonstrating that it subjectively believed the impairment was transitory and minor; rather, the public accommodation must demonstrate that the impairment is (in the case of an actual impairment) or would be (in the case of a perceived impairment), objectively, both &ldquo;transitory&rdquo; and &ldquo;minor.&rdquo; For purposes of this section, &ldquo;transitory&rdquo; is defined as lasting or expected to last six months or less.**  
+
+**(3) Establishing that an individual is &ldquo;regarded as having such an impairment&rdquo; does not, by itself, establish liability. Liability is established under title III of the ADA only when an individual proves that a public accommodation discriminated on the basis of disability within the meaning of title III of the ADA, 42 U.S.C. 12181–12189.**  
+
+**(g)*Exclusions.* The term &ldquo;disability&rdquo; does not include—**  
+
+**(1) Transvestism, transsexualism, pedophilia, exhibitionism, voyeurism, gender identity disorders not resulting from physical impairments, or other sexual behavior disorders;**  
+**(2) Compulsive gambling, kleptomania, or pyromania; or**  
+**(3) Psychoactive substance use disorders resulting from current illegal use of drugs.**  
+
+### Subpart B – General Requirements  
+
+&sect; <a name="a201" id="a201"></a>36.201 General.  
+
+(a) *Prohibition of discrimination*. No individual shall be discriminated against on the basis of disability in the full and equal enjoyment of the goods, services, facilities, privileges, advantages, or accommodations of any place of public accommodation by any private entity who owns, leases (or leases to), or operates a place of public accommodation.  
+
+(b) *Landlord and tenant responsibilities*. Both the landlord who owns the building that houses a place of public accommodation and the tenant who owns or operates the place of public accommodation are public accommodations subject to the requirements of this part. As between the parties, allocation of responsibility for complying with the obligations of this part may be determined by lease or other contract.  
+
+**(c)** *Claims of no disability.* Nothing in this part shall provide the basis for a claim that an individual without a disability was subject to discrimination because of a lack of disability, including a claim that an individual with a disability was granted a reasonable modification that was denied to an individual without a disability.  
+
+&sect; <a name="a202" id="a202"></a>36.202 Activities.  
+
+(a) *Denial of participation*. A public accommodation shall not subject an individual or class of individuals on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements, to a denial of the opportunity of the individual or class to participate in or benefit from the goods, services, facilities, privileges, advantages, or accommodations of a place of public accommodation.  
+(b) *Participation in unequal benefit*. A public accommodation shall not afford an individual or class of individuals, on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements, with the opportunity to participate in or benefit from a good, service, facility, privilege, advantage, or accommodation that is not equal to that afforded to other individuals.  
+(c) *Separate benefit*. A public accommodation shall not provide an individual or class of individuals, on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements with a good, service, facility, privilege, advantage, or accommodation that is different or separate from that provided to other individuals, unless such action is necessary to provide the individual or class of individuals with a good, service, facility, privilege, advantage, or accommodation, or other opportunity that is as effective as that provided to others.  
+(d) *Individual or class of individuals*. For purposes of paragraphs (a) through (c) of this section, the term &quot;individual or class of individuals&quot; refers to the clients or customers of the public accommodation that enters into the contractual, licensing, or other arrangement.  
+
+&sect; <a name="a203" id="a203"></a>36.203 Integrated settings.  
+
+(a) *General*. A public accommodation shall afford goods, services, facilities, privileges, advantages, and accommodations to an individual with a disability in the most integrated setting appropriate to the needs of the individual.  
+(b) *Opportunity to participate*. Notwithstanding the existence of separate or different programs or activities provided in accordance with this subpart, a public accommodation shall not deny an individual with a disability an opportunity to participate in such programs or activities that are not separate or different.  
+(c) *Accommodations and services*.  
+
+(1) Nothing in this part shall be construed to require an individual with a disability to accept an accommodation, aid, service, opportunity, or benefit available under this part that such individual chooses not to accept.  
+(2) Nothing in the Act or this part authorizes the representative or guardian of an individual with a disability to decline food, water, medical treatment, or medical services for that individual.  
+
+&sect; <a name="a204" id="a204"></a>36.204 Administrative methods.  
+
+A public accommodation shall not, directly or through contractual or other arrangements, utilize standards or criteria or methods of administration that have the effect of discriminating on the basis of disability, or that perpetuate the discrimination of others who are subject to common administrative control.  
+
+&sect; <a name="a205" id="a205"></a>36.205 Association.  
+
+A public accommodation shall not exclude or otherwise deny equal goods, services, facilities, privileges, advantages, accommodations, or other opportunities to an individual or entity because of the known disability of an individual with whom the individual or entity is known to have a relationship or association.  
+
+&sect; <a name="a206" id="a206"></a>36.206 Retaliation or coercion.  
+
+(a) No private or public entity shall discriminate against any individual because that individual has opposed any act or practice made unlawful by this part, or because that individual made a charge, testified, assisted, or participated in any manner in an investigation, proceeding, or hearing under the Act or this part.  
+
+(b) No private or public entity shall coerce, intimidate, threaten, or interfere with any individual in the exercise or enjoyment of, or on account of his or her having exercised or enjoyed, or on account of his or her having aided or encouraged any other individual in the exercise or enjoyment of, any right granted or protected by the Act or this part.  
+
+(c) Illustrations of conduct prohibited by this section include, but are not limited to:  
+
+(1) Coercing an individual to deny or limit the benefits, services, or advantages to which he or she is entitled under the Act or this part;  
+(2) Threatening, intimidating, or interfering with an individual with a disability who is seeking to obtain or use the goods, services, facilities, privileges, advantages, or accommodations of a public accommodation;  
+(3) Intimidating or threatening any person because that person is assisting or encouraging an individual or group entitled to claim the rights granted or protected by the Act or this part to exercise those rights; or  
+(4) Retaliating against any person because that person has participated in any investigation or action to enforce the Act or this part.  
+
+### 36.207 Places of public accommodation located in private residences,  
+
+(a) When a place of public accommodation is located in a private residence, the portion of the residence used exclusively as a residence is not covered by this part, but that portion used exclusively in the operation of the place of public accommodation or that portion used both for the place of public accommodation and for residential purposes is covered by this part.  
+
+(b) The portion of the residence covered under paragraph (a) of this section extends to those elements used to enter the place of public accommodation, including the homeowner's front sidewalk, if any, the door or entryway, and hallways; and those portions of the residence, interior or exterior, available to or used by customers or clients, including restrooms.  
+
+36.208 Direct threat.  
+
+(a) This part does not require a public accommodation to permit an individual to participate in or benefit from the goods, services, facilities, privileges, advantages and accommodations of that public accommodation when that individual poses a direct threat to the health or safety of others.  
+(b) In determining whether an individual poses a direct threat to the health or safety of others, a public accommodation must make an individualized assessment, based on reasonable judgment that relies on current medical knowledge or on the best available objective evidence, to ascertain: The nature, duration, and severity of the risk; the probability that the potential injury will actually occur; and whether reasonable modifications of policies, practices, or procedures or the provision of auxiliary aids or services will mitigate the risk.  
+
+36.209 Illegal use of drugs.  
+
+(a) *General*.  
+
+(1) Except as provided in paragraph (b) of this section, this part does not prohibit discrimination against an individual based on that individual's current illegal use of drugs.  
+(2) A public accommodation shall not discriminate on the basis of illegal use of drugs against an individual who is not engaging in current illegal use of drugs and who -  
+
+(i) Has successfully completed a supervised drug rehabilitation program or has otherwise been rehabilitated successfully;  
+(ii) Is participating in a supervised rehabilitation program; or  
+(iii) Is erroneously regarded as engaging in such use.  
+
+(b) *Health and drug rehabilitation services*.  
+
+(1) A public accommodation shall not deny health services, or services provided in connection with drug rehabilitation, to an individual on the basis of that individual's current illegal use of drugs, if the individual is otherwise entitled to such services.  
+(2) A drug rehabilitation or treatment program may deny participation to individuals who engage in illegal use of drugs while they are in the program.  
+
+(c) *Drug testing*.  
+
+(1) This part does not prohibit a public accommodation from adopting or administering reasonable policies or procedures, including but not limited to drug testing, designed to ensure that an individual who formerly engaged in the illegal use of drugs is not now engaging in current illegal use of drugs.  
+
+(2) Nothing in this paragraph (c) shall be construed to encourage, prohibit, restrict, or authorize the conducting of testing for the illegal use of drugs.  
+
+&sect; 36.210 Smoking.  
+
+This part does not preclude the prohibition of, or the imposition of restrictions on, smoking in places of public accommodation.  
+
+&sect; 36.211 Maintenance of accessible features.  
+
+(a) A public accommodation shall maintain in operable working condition those features of facilities and equipment that are required to be readily accessible to and usable by persons with disabilities by the Act or this part.  
+(b) This section does not prohibit isolated or temporary interruptions in service or access due to maintenance or repairs.  
+(c) If the 2010 Standards reduce the technical requirements or the number of required accessible elements below the number required by the 1991 Standards, the technical requirements or the number of accessible elements in a facility subject to this part may be reduced in accordance with the requirements of the 2010 Standards.  
+
+### 36.212 Insurance.  
+
+(a) This part shall not be construed to prohibit or restrict –  
+
+(1) An insurer, hospital or medical service company, health maintenance organization, or any agent, or entity that administers benefit plans, or similar organizations from underwriting risks, classifying risks, or administering such risks that are based on or not inconsistent with State law; or  
+(2) A person or organization covered by this part from establishing, sponsoring, observing or administering the terms of a bona fide benefit plan that are based on underwriting risks, classifying risks, or administering such risks that are based on or not inconsistent with State law; or  
+(3) A person or organization covered by this part from establishing, sponsoring, observing or administering the terms of a bona fide benefit plan that is not subject to State laws that regulate insurance.  
+
+(b) Paragraphs (a) (1), (2), and (3) of this section shall not be used as a subterfuge to evade the purposes of the Act or this part.  
+(c) A public accommodation shall not refuse to serve an individual with a disability because its insurance company conditions coverage or rates on the absence of individuals with disabilities.  
+
+### 36.213 Relationship of subpart B to subparts C and D of this part.  
+
+Subpart B of this part sets forth the general principles of nondiscrimination applicable to all entities subject to this part. Subparts C and D of this part provide guidance on the application of the statute to specific situations. The specific provisions, including the limitations on those provisions, control over the general provisions in circumstances where both specific and general provisions apply.  
+
+### &sect;&sect; 36.214 – 36.299 [Reserved]  
+
+Subpart C – Specific Requirements  
+
+&sect;36.301 Eligibility criteria.  
+
+(a) *General*. A public accommodation shall not impose or apply eligibility criteria that screen out or tend to screen out an individual with a disability or any class of individuals with disabilities from fully and equally enjoying any goods, services, facilities, privileges, advantages, or accommodations, unless such criteria can be shown to be necessary for the provision of the goods, services, facilities, privileges, advantages, or accommodations being offered.  
+(b) *Safety*. A public accommodation may impose legitimate safety requirements that are necessary for safe operation. Safety requirements must be based on actual risks and not on mere speculation, stereotypes, or generalizations about individuals with disabilities.  
+(c) *Charges*. A public accommodation may not impose a surcharge on a particular individual with a disability or any group of individuals with disabilities to cover the costs of measures, such as the provision of auxiliary aids, barrier removal, alternatives to barrier removal, and reasonable modifications in policies, practices, or procedures, that are required to provide that individual or group with the nondiscriminatory treatment required by the Act or this part.  
+
+
+&sect; 36.302 Modifications in policies, practices, or procedures.  
+
+(a) *General*. A public accommodation shall make reasonable modifications in policies, practices, or procedures, when the modifications are necessary to afford goods, services, facilities, privileges, advantages, or accommodations to individuals with disabilities, unless the public accommodation can demonstrate that making the modifications would fundamentally alter the nature of the goods, services, facilities, privileges, advantages, or accommodations.  
+(b) *Specialties* –  
+
+(1) *General*. A public accommodation may refer an individual with a disability to another public accommodation, if that individual is seeking, or requires, treatment or services outside of the referring public accommodation's area of specialization, and if, in the normal course of its operations, the referring public accommodation would make a similar referral for an individual without a disability who seeks or requires the same treatment or services.  
+(2) *Illustration* – *medical specialties*. A health care provider may refer an individual with a disability to another provider, if that individual is seeking, or requires, treatment or services outside of the referring provider's area of specialization, and if the referring provider would make a similar referral for an individual without a disability who seeks or requires the same treatment or services. A physician who specializes in treating only a particular condition cannot refuse to treat an individual with a disability for that condition, but is not required to treat the individual for a different condition.  
+
+(c) *Service animals*.  
+
+(1) *General*. Generally, a public accommodation shall modify policies, practices, or procedures to permit the use of a service animal by an individual with a disability.  
+(2) *Exceptions*. A public accommodation may ask an individual with a disability to remove a service animal from the premises if:  
+
+(i) The animal is out of control and the animal's handler does not take effective action to control it; or  
+(ii) The animal is not housebroken.  
+
+(3) *If an animal is properly excluded*. If a public accommodation properly excludes a service animal under &sect; 36.302(c)(2), it shall give the individual with a disability the opportunity to obtain goods, services, and accommodations without having the service animal on the premises.  
+(4) *Animal under handler's control*. A service animal shall be under the control of its handler. A service animal shall have a harness, leash, or other tether, unless either the handler is unable because of a disability to use a harness, leash, or other tether, or the use of a harness, leash, or other tether would interfere with the service animal's safe, effective performance of work or tasks, in which case the service animal must be otherwise under the handler's control (*e.g.*, voice control, signals, or other effective means).  
+(5) *Care or supervision*. A public accommodation is not responsible for the care or supervision of a service animal.  
+(6) *Inquiries*. A public accommodation shall not ask about the nature or extent of a person's disability, but may make two inquiries to determine whether an animal qualifies as a service animal. A public accommodation may ask if the animal is required because of a disability and what work or task the animal has been trained to perform. A public accommodation shall not require documentation, such as proof that the animal has been certified, trained, or licensed as a service animal. Generally, a public accommodation may not make these inquiries about a service animal when it is readily apparent that an animal is trained to do work or perform tasks for an individual with a disability (*e.g.*, the dog is observed guiding an individual who is blind or has low vision, pulling a person's wheelchair, or providing assistance with stability or balance to an individual with an observable mobility disability).  
+(7) *Access to areas of a public accommodation*. Individuals with disabilities shall be permitted to be accompanied by their service animals in all areas of a place of public accommodation where members of the public, program participants, clients, customers, patrons, or invitees, as relevant, are allowed to go.  
+(8) *Surcharges*. A public accommodation shall not ask or require an individual with a disability to pay a surcharge, even if people accompanied by pets are required to pay fees, or to comply with other requirements generally not applicable to people without pets. If a public accommodation normally charges individuals for the damage they cause, an individual with a disability may be charged for damage caused by his or her service animal.  
+(9) *Miniature horses*.  
+
+(i) A public accommodation shall make reasonable modifications in policies, practices, or procedures to permit the use of a miniature horse by an individual with a disability if the miniature horse has been individually trained to do work or perform tasks for the benefit of the individual with a disability.  
+(ii) *Assessment factors*. In determining whether reasonable modifications in policies, practices, or procedures can be made to allow a miniature horse into a specific facility, a public accommodation shall consider –  
+
+(A) The type, size, and weight of the miniature horse and whether the facility can accommodate these features;  
+(B) Whether the handler has sufficient control of the miniature horse;  
+(C) Whether the miniature horse is housebroken; and  
+(D) Whether the miniature horse's presence in a specific facility compromises legitimate safety requirements that are necessary for safe operation.  
+
+(iii) *Other requirements*. Sections 36.302(c)(3) through (c)(8), which apply to service animals, shall also apply to miniature horses.  
+
+(d) *Check-out aisles*. A store with check-out aisles shall ensure that an adequate number of accessible check-out aisles are kept open during store hours, or shall otherwise modify its policies and practices, in order to ensure that an equivalent level of convenient service is provided to individuals with disabilities as is provided to others. If only one check-out aisle is accessible, and it is generally used for express service, one way of providing equivalent service is to allow persons with mobility impairments to make all their purchases at that aisle.  
+
+(e)  
+
+(1) *Reservations made by places of lodging*. A public accommodation that owns, leases (or leases to), or operates a place of lodging shall, with respect to reservations made by any means, including by telephone, in-person, or through a third party –  
+
+(i) Modify its policies, practices, or procedures to ensure that individuals with disabilities can make reservations for accessible guest rooms during the same hours and in the same manner as individuals who do not need accessible rooms;  
+(ii) Identify and describe accessible features in the hotels and guest rooms offered through its reservations service in enough detail to reasonably permit individuals with disabilities to assess independently whether a given hotel or guest room meets his or her accessibility needs;  
+(iii) Ensure that accessible guest rooms are held for use by individuals with disabilities until all other guest rooms of that type have been rented and the accessible room requested is the only remaining room of that type;  
+(iv) Reserve, upon request, accessible guest rooms or specific types of guest rooms and ensure that the guest rooms requested are blocked and removed from all reservations systems; and  
+(v) Guarantee that the specific accessible guest room reserved through its reservations service is held for the reserving customer, regardless of whether a specific room is held in response to reservations made by others.  
+
+(2) *Exception*. The requirements in paragraphs (iii), (iv), and (v) of this section do not apply to reservations for individual guest rooms or other units not owned or substantially controlled by the entity that owns, leases, or operates the overall facility.  
+(3) *Compliance date*. The requirements in this section will apply to reservations made on or after March 15, 2012.  
+
+(f) *Ticketing*.  
+
+(i) For the purposes of this section, &quot;accessible seating&quot; is defined as wheelchair spaces and companion seats that comply with sections 221 and 802 of the 2010 Standards along with any other seats required to be offered for sale to the individual with a disability pursuant to paragraph (4) of this section.  
+(ii) *Ticket sales*. A public accommodation that sells tickets for a single event or series of events shall modify its policies, practices, or procedures to ensure that individuals with disabilities have an equal opportunity to purchase tickets for accessible seating –  
+
+(A) During the same hours;  
+(B) During the same stages of ticket sales, including, but not limited to, pre-sales, promotions, lotteries, wait-lists, and general sales;  
+(C) Through the same methods of distribution;  
+(D) In the same types and numbers of ticketing sales outlets, including telephone service, in-person ticket sales at the facility, or third-party ticketing services, as other patrons; and  
+(E) Under the same terms and conditions as other tickets sold for the same event or series of events.  
+
+(2) *Identification of available accessible seating*. A public accommodation that sells or distributes tickets for a single event or series of events shall, upon inquiry –  
+
+(i) Inform individuals with disabilities, their companions, and third parties purchasing tickets for accessible seating on behalf of individuals with disabilities of the locations of all unsold or otherwise available accessible seating for any ticketed event or events at the facility;  
+(ii) Identify and describe the features of available accessible seating in enough detail to reasonably permit an individual with a disability to assess independently whether a given accessible seating location meets his or her accessibility needs; and  
+(iii) Provide materials, such as seating maps, plans, brochures, pricing charts, or other information, that identify accessible seating and information relevant thereto with the same text or visual representations as other seats, if such materials are provided to the general public.  
+
+(3) *Ticket prices*. The price of tickets for accessible seating for a single event or series of events shall not be set higher than the price for other tickets in the same seating section for the same event or series of events. Tickets for accessible seating must be made available at all price levels for every event or series of events. If tickets for accessible seating at a particular price level cannot be provided because barrier removal in an existing facility is not readily achievable, then the percentage of tickets for accessible seating that should have been available at that price level but for the barriers (determined by the ratio of the total number of tickets at that price level to the total number of tickets in the assembly area) shall be offered for purchase, at that price level, in a nearby or similar accessible location.  
+
+(4) *Purchasing multiple tickets*.  
+
+(i) *General*. For each ticket for a wheelchair space purchased by an individual with a disability or a third-party purchasing such a ticket at his or her request, a public accommodation shall make available for purchase three additional tickets for seats in the same row that are contiguous with the wheelchair space, provided that at the time of purchase there are three such seats available. A public accommodation is not required to provide more than three contiguous seats for each wheelchair space. Such seats may include wheelchair spaces.  
+(ii) *Insufficient additional contiguous seats available*. If patrons are allowed to purchase at least four tickets, and there are fewer than three such additional contiguous seat tickets available for purchase, a public accommodation shall offer the next highest number of such seat tickets available for purchase and shall make up the difference by offering tickets for sale for seats that are as close as possible to the accessible seats.  
+(iii) *Sales limited to fewer than four tickets*. If a public accommodation limits sales of tickets to fewer than four seats per patron, then the public accommodation is only obligated to offer as many seats to patrons with disabilities, including the ticket for the wheelchair space, as it would offer to patrons without disabilities.  
+(iv) *Maximum number of tickets patrons may purchase exceeds four*. If patrons are allowed to purchase more than four tickets, a public accommodation shall allow patrons with disabilities to purchase up to the same number of tickets, including the ticket for the wheelchair space.  
+(v) *Group sales*. If a group includes one or more individuals who need to use accessible seating because of a mobility disability or because their disability requires the use of the accessible features that are provided in accessible seating, the group shall be placed in a seating area with accessible seating so that, if possible, the group can sit together. If it is necessary to divide the group, it should be divided so that the individuals in the group who use wheelchairs are not isolated from their group.  
+
+(5) *Hold and release of tickets for accessible seating*.  
+
+(i) *Tickets for accessible seating may be released for sale in certain limited circumstances*. A public accommodation may release unsold tickets for accessible seating for sale to individuals without disabilities for their own use for a single event or series of events only under the following circumstances –  
+
+(A) When all non-accessible tickets (excluding luxury boxes, club boxes, or suites) have been sold;  
+(B) When all non-accessible tickets in a designated seating area have been sold and the tickets for accessible seating are being released in the same designated area; or  
+(C) When all non-accessible tickets in a designated price category have been sold and the tickets for accessible seating are being released within the same designated price category.  
+
+(ii) *No requirement to release accessible tickets*. Nothing in this paragraph requires a facility to release tickets for accessible seating to individuals without disabilities for their own use.  
+(iii) *Release of series-of-events tickets on a series-of-events basis*.  
+
+(A) *Series-of-events tickets sell-out when no ownership rights are attached.* When series-of-events tickets are sold out and a public accommodation releases and sells accessible seating to individuals without disabilities for a series of events, the public accommodation shall establish a process that prevents the automatic reassignment of the accessible seating to such ticket holders for future seasons, future years, or future series, so that individuals with disabilities who require the features of accessible seating and who become newly eligible to purchase tickets when these series-of-events tickets are available for purchase have an opportunity to do so.  
+(B) *Series-of-events tickets when ownership rights are attached*. When series-of-events tickets with an ownership right in accessible seating areas are forfeited or otherwise returned to a public accommodation, the public accommodation shall make reasonable modifications in its policies, practices, or procedures to afford individuals with mobility disabilities or individuals with disabilities that require the features of accessible seating an opportunity to purchase such tickets in accessible seating areas.  
+
+(6) *Ticket transfer*. Individuals with disabilities who hold tickets for accessible seating shall be permitted to transfer tickets to third parties under the same terms and conditions and to the same extent as other spectators holding the same type of tickets, whether they are for a single event or series of events.  
+
+(7) *Secondary ticket market*.  
+
+(i) A public accommodation shall modify its policies, practices, or procedures to ensure that an individual with a disability may use a ticket acquired in the secondary ticket market under the same terms and conditions as other individuals who hold a ticket acquired in the secondary ticket market for the same event or series of events.  
+(ii) If an individual with a disability acquires a ticket or series of tickets to an inaccessible seat through the secondary market, a public accommodation shall make reasonable modifications to its policies, practices, or procedures to allow the individual to exchange his ticket for one to an accessible seat in a comparable location if accessible seating is vacant at the time the individual presents the ticket to the public accommodation.  
+
+ (8) *Prevention of fraud in purchase of tickets for accessible seating*. A public accommodation may not require proof of disability, including, for example, a doctor's note, before selling tickets for accessible seating.  
+
+ (i) *Single-event tickets*. For the sale of single-event tickets, it is permissible to inquire whether the individual purchasing the tickets for accessible seating has a mobility disability or a disability that requires the use of the accessible features that are provided in accessible seating, or is purchasing the tickets for an individual who has a mobility disability or a disability that requires the use of the accessible features that are provided in the accessible seating.  
+ (ii) *Series-of-events tickets*. For series-of-events tickets, it is permissible to ask the individual purchasing the tickets for accessible seating to attest in writing that the accessible seating is for a person who has a mobility disability or a disability that requires the use of the accessible features that are provided in the accessible seating.  
+ (iii) *Investigation of fraud*. A public accommodation may investigate the potential misuse of accessible seating where there is good cause to believe that such seating has been purchased fraudulently.  
+
+ **(g)** *Reasonable modifications for individuals &ldquo;regarded as&rdquo; having a disability.* **A public accommodation is not required to provide a reasonable modification to an individual who meets the definition of "disability" solely under the &ldquo;regarded as&rdquo; prong of the definition of &ldquo;disability&rdquo; at &sect; 36.105(a)(1)(iii).**  
+
+ ### &sect; 36.303 Auxiliary aids and services.  
+
+(a) *General*. A public accommodation shall take those steps that may be necessary to ensure that no individual with a disability is excluded, denied services, segregated or otherwise treated differently than other individuals because of the absence of auxiliary aids and services, unless the public accommodation can demonstrate that taking those steps would fundamentally alter the nature of the goods, services, facilities, privileges, advantages, or accommodations being offered or would result in an undue burden, *i.e.*, significant difficulty or expense.  
+(b) *Examples*. The term &quot;auxiliary aids and services&quot; includes –  
+
+(1) Qualified interpreters on-site or through video remote interpreting (VRI) services; notetakers; real-time computer-aided transcription services; written materials; exchange of written notes; telephone handset amplifiers; assistive listening devices; assistive listening systems; telephones compatible with hearing aids; closed caption decoders; open and closed captioning, including real-time captioning; voice, text, and video-based telecommunications products and systems, including text telephones (TTYs), videophones, and captioned telephones, or equally effective telecommunications devices; videotext displays; accessible electronic and information technology; or other effective methods of making aurally delivered information available to individuals who are deaf or hard of hearing;  
+(2) Qualified readers; taped texts; audio recordings; Brailled materials and displays; screen reader software; magnification software; optical readers; secondary auditory programs (SAP); large print materials; accessible electronic and information technology; or other effective methods of making visually delivered materials available to individuals who are blind or have low vision; </li>
+(3) Acquisition or modification of equipment or devices; and  
+(4) Other similar services and actions.  
+
+(c) *Effective communication*.  
+
+(1) A public accommodation shall furnish appropriate auxiliary aids and services where necessary to ensure effective communication with individuals with disabilities. This includes an obligation to provide effective communication to companions who are individuals with disabilities.  
+
+(i) For purposes of this section, &quot;companion&quot; means a family member, friend, or associate of an individual seeking access to, or participating in, the goods, services, facilities, privileges, advantages, or accommodations of a public accommodation, who, along with such individual, is an appropriate person with whom the public accommodation should communicate.  
+(ii) The type of auxiliary aid or service necessary to ensure effective communication will vary in accordance with the method of communication used by the individual; the nature, length, and complexity of the communication involved; and the context in which the communication is taking place. A public accommodation should consult with individuals with disabilities whenever possible to determine what type of auxiliary aid is needed to ensure effective communication, but the ultimate decision as to what measures to take rests with the public accommodation, provided that the method chosen results in effective communication. In order to be effective, auxiliary aids and services must be provided in accessible formats, in a timely manner, and in such a way as to protect the privacy and independence of the individual with a disability.  
+
+(2) A public accommodation shall not require an individual with a disability to bring another individual to interpret for him or her.  
+(3) A public accommodation shall not rely on an adult accompanying an individual with a disability to interpret or facilitate communication, except –  
+
+(i) In an emergency involving an imminent threat to the safety or welfare of an individual or the public where there is no interpreter available; or  
+(ii) Where the individual with a disability specifically requests that the accompanying adult interpret or facilitate communication, the accompanying adult agrees to provide such assistance, and reliance on that adult for such assistance is appropriate under the circumstances.  
+
+(4) A public accommodation shall not rely on a minor child to interpret or facilitate communication, except in an emergency involving an imminent threat to the safety or welfare of an individual or the public where there is no interpreter available.  
+
+(d) *Telecommunications*.  
+
+(1) When a public accommodation uses an automated-attendant system, including, but not limited to, voicemail and messaging, or an interactive voice response system, for receiving and directing incoming telephone calls, that system must provide effective real-time communication with individuals using auxiliary aids and services, including text telephones (TTYs) and all forms of FCC-approved telecommunications relay systems, including Internet-based relay systems.  
+(2) A public accommodation that offers a customer, client, patient, or participant the opportunity to make outgoing telephone calls using the public accommodation's equipment on more than an incidental convenience basis shall make available public telephones, TTYs, or other telecommunications products and systems for use by an individual who is deaf or hard of hearing, or has a speech impairment.  
+(3) A public accommodation may use relay services in place of direct telephone communication for receiving or making telephone calls incident to its operations.  
+(4) A public accommodation shall respond to telephone calls from a telecommunications relay service established under title IV of the ADA in the same manner that it responds to other telephone calls.  
+(5) This part does not require a public accommodation to use a TTY for receiving or making telephone calls incident to its operations.  
+
+(e) *Closed caption decoders*. Places of lodging that provide televisions in five or more guest rooms and hospitals that provide televisions for patient use shall provide, upon request, a means for decoding captions for use by an individual with impaired hearing.  
+(f) *Video remote interpreting (VRI) services*. A public accommodation that chooses to provide qualified interpreters via VRI service shall ensure that it provides –  
+
+(1) Real-time, full-motion video and audio over a dedicated high-speed, wide-bandwidth video connection or wireless connection that delivers high-quality video images that do not produce lags, choppy, blurry, or grainy images, or irregular pauses in communication;  
+(2) A sharply delineated image that is large enough to display the interpreter's face, arms, hands, and fingers, and the participating individual's face, arms, hands, and fingers, regardless of his or her body position;  
+(3) A clear, audible transmission of voices; and  
+(4) Adequate training to users of the technology and other involved individuals so that they may quickly and efficiently set up and operate the VRI.  
+
+**(g) *Movie theater captioning and audio description.**  
+
+**(1)*Definitions*. For the purposes of this paragraph (g)—**  
+
+**(i)*Analog movie* means a movie exhibited in analog film format.**  
+**(ii)*Audio description* means the spoken narration of a movie’s key visual elements, such as the action, settings, facial expressions, costumes, and scene changes.*Audio description* generally requires the use of an audio description device for delivery to a patron.**  
+**(iii)*Audio description device* means the individual device that a patron may use at any seat to hear audio description.**  
+**(iv)*Captioning device* means the individual device that a patron may use at any seat to view closed movie captioning.**  
+**(v)* Closed movie captioning* means the written display of a movie’s dialogue and non-speech information, such as music, the identity of the character who is speaking, and other sounds or sound effects.*Closed movie captioning* generally requires the use of a captioning device for delivery of the captions to the patron.**  
+**(vi)* Digital movie* means a movie exhibited in digital cinema format.**  
+**(vii)*Movie theater* means a facility, other than a drive-in theater, that is owned, leased by, leased to, or operated by a public accommodation and that contains one or more auditoriums that are used primarily for the purpose of showing movies to the public for a fee.**  
+**(viii)*Open movie captioning* means the written on-screen display of a movie’s dialogue and non-speech information, such as music, the identity of the character who is speaking, and other sounds and sound effects.**  
+
+**(2)*General*. A public accommodation shall ensure that its movie theater auditoriums provide closed movie captioning and audio description whenever they exhibit a digital movie that is distributed with such features. Application of the requirements of paragraph (g) of this section is deferred for any movie theater auditorium that exhibits analog movies exclusively, but may be addressed in a future rulemaking.**  
+**(3)*Minimum requirements for captioning devices*. (i) A public accommodation shall provide a minimum number of fully operational captioning devices at its movie theaters in accordance with the following Table:**  
+
+<table class="usa-table">
+<thead>
  <tr>
- <th valign="top"><p>**Number of Movie Theater Auditoriums Exhibiting Digital Movies**</th>
- <th valign="top"><p>**Minimum Required Number of Captioning Devices**</th>
+ <th scope="col">**Number of Movie Theater Auditoriums Exhibiting Digital Movies**</th>
+ <th scope="col">**Minimum Required Number of Captioning Devices**</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <th scope="row">**1**</th>
+ <td>**4**</td>
  </tr>
  <tr>
- <th valign="top"><p>**1**</th>
- <td valign="top"><p>**4**</td>
+ <th scope="row">**2–7**</th>
+ <td>**6**</td>
  </tr>
  <tr>
- <th valign="top"><p>**2–7**</th>
- <td valign="top"><p>**6**</td>
+ <th scope="row">**8–15**</th>
+ <td>**8**</td>
  </tr>
  <tr>
- <th valign="top"><p>**8–15**</th>
- <td valign="top"><p>**8**</td>
+ <th scope="row">**16 +**</th>
+ <td>**12**</td>
  </tr>
- <tr>
- <th valign="top"><p>**16 +**</th>
- <td valign="top"><p>**12**</td>
- </tr>
- </table>
-<ul type="disc">
- <ul type="circle">
- <li>**(4)*Minimum requirements for audio description devices*. (i) A public accommodation shall provide at its movie theaters a minimum of one fully operational audio description device for every two movie theater auditoriums exhibiting digital movies and no less than two devices per movie theater. When calculation of the required number of devices results in a fraction, the next greater whole number of devices shall be provided.**</li>
- <ul type="square">
+ </tbody>
+ </table>  
+
+**(4)*Minimum requirements for audio description devices*. (i) A public accommodation shall provide at its movie theaters a minimum of one fully operational audio description device for every two movie theater auditoriums exhibiting digital movies and no less than two devices per movie theater. When calculation of the required number of devices results in a fraction, the next greater whole number of devices shall be provided.**  
+
+
  <li>**(ii) A public accommodation may comply with the requirements in paragraph (g)(4)(i) of this section by using the existing assistive listening receivers that the public accommodation is already required to provide at its movie theaters in accordance with Table 219.3 of the 2010 Standards, if those receivers have a minimum of two channels available for sound transmission to patrons.**</li>
  </ul>
  <li>**(5)*Performance requirements for captioning devices and audio description devices*. Each captioning device and each audio description device must be properly maintained by the movie theater to ensure that each device is fully operational, available to patrons in a timely manner, and easily usable by patrons. Captioning devices must be adjustable so that the captions can be viewed as if they are on or near the movie screen, and must provide clear, sharp images in order to ensure readability of captions.**</li>
@@ -1444,15 +1518,12 @@ For public and private facilities covered by the final rules, it is estimated th
  </div>
 </div>
 
-<div class="section">
- <div class="section_content" id="guidance2010">
- <h1 id="2010-guidance"> <a name="a2010guidance" id="a2010guidance"></a>Title III Regulations <br />
- 2010 Guidance and
- Section-by-Section Analysis</h1>
+
+ <h2>Title III Regulations 2010 Guidance and Section-by-Section Analysis</h2>
 
 
 
- <p><strong style="font-size: larger">Appendix A to Part 36—Guidance on Revisions to ADA Regulation on Nondiscrimination on the Basis of Disability by Public Accommodations and Commercial Facilities**
+ <p>Appendix A to Part 36—Guidance on Revisions to ADA Regulation on Nondiscrimination on the Basis of Disability by Public Accommodations and Commercial Facilities
 <p>**Note:** This Appendix contains guidance providing a section-by-section analysis of the revisions to 28 CFR part 36 published on September 15, 2010.
  <p class="center">**Section-By-Section Analysis and Response to Public Comments**
  <p> This section provides a detailed description of the Department"s changes to the title III regulation, the reasoning behind those changes, and responses to public comments received on these topics. The Section-by-Section Analysis follows the order of the title III regulation itself, except that if the Department has not changed a regulatory section, the unchanged section has not been mentioned.

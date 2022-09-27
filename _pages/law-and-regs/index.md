@@ -37,7 +37,7 @@ A regulation (also called a "rule") is a set of requirements issued by a federal
 Check out DOJ’s current ADA regulations:
 
 - [Title II](https://www.ada.gov/regs2010/titleII_2010/title_ii_primer.html) (State and Local Governments)
-- [Title III](https://www.ada.gov/regs2010/titleIII_2010/titleIII_2010_regulations.htm) (Public Accommodations and Commercial Facilities)
+- [Title III]( {{'/law-and-regs/title-iii-regulations' | relative_url}}) (Public Accommodations and Commercial Facilities)
 
 In the [Spring 2022 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain), DOJ announced that it plans to issue new ADA regulations on the following topics:
 
@@ -49,4 +49,3 @@ In the [Spring 2022 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMai
 {% details What is the Unified Agenda? %}
 The [Unified Agenda](https://www.reginfo.gov/public/jsp/eAgenda/UA_About.myjsp) provides information about federal agencies’ regulatory priorities and the specific regulations that they plan to issue in the short and long term.
 {% enddetails %}
-
