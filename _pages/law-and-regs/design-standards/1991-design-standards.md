@@ -176,24 +176,33 @@ NOTE: Sections 4.1.1 through 4.1.7 are different from ANSI A117.1 in their entir
 
 **4.1.1\* Application**
 
-- (1) General. All areas of newly designed or newly constructed buildings and facilities required to be accessible by 4.1.2 and 4.1.3 and altered portions of existing buildings and facilities required to be accessible by 4.1.6 shall comply with these guidelines, 4.1 through 4.35, unless otherwise provided in this section or as modified in a special application section.
-- (2) Application Based on Building Use. Special application sections 5 through 10 provide additional requirements for restaurants and cafeterias, medical care facilities, business and mercantile, libraries, accessible transient lodging, and transportation facilities. When a building or facility contains more than one use covered by a special application section, each portion shall comply with the requirements for that use.
-- (3)\* Areas Used Only by Employees as Work Areas. Areas that are used only as work areas shall be designed and constructed so that individuals with disabilities can approach, enter, and exit the areas. These guidelines do not require that any areas used only as work areas be constructed to permit maneuvering within the work area or be constructed or equipped (i.e., with racks or shelves) to be accessible.
-- (4) Temporary Structures. These guidelines cover temporary buildings or facilities as well as permanent facilities. Temporary buildings and facilities are not of permanent construction but are extensively used or are essential for public use for a period of time. Examples of temporary buildings or facilities covered by these guidelines include, but are not limited to: reviewing stands, temporary classrooms, bleacher areas, exhibit areas, temporary banking facilities, temporary health screening services, or temporary safe pedestrian passageways around a construction site. Structures, sites and equipment directly associated with the actual processes of construction, such as scaffolding, bridging, materials hoists, or construction trailers are not included.
+(1) General. All areas of newly designed or newly constructed buildings and facilities required to be accessible by 4.1.2 and 4.1.3 and altered portions of existing buildings and facilities required to be accessible by 4.1.6 shall comply with these guidelines, 4.1 through 4.35, unless otherwise provided in this section or as modified in a special application section.
 
-5. General **EXCEPTIONS**.
-   - (a) In new construction, a person or entity is not required to meet fully the requirements of these guidelines where that person or entity can demonstrate that it is structurally impracticable to do so. Full compliance will be considered structurally impracticable only in those rare circumstances when the unique characteristics of terrain prevent the incorporation of accessibility features. If full compliance with the requirements of these guidelines is structurally impracticable, a person or entity shall comply with the requirements to the extent it is not structurally impracticable. Any portion of the building or facility which can be made accessible shall comply to the extent that it is not structurally impracticable.
-   - (b) Accessibility is not required to (i) observation galleries used primarily for security purposes; or (ii) in non-occupiable spaces accessed only by ladders, catwalks, crawl spaces, very narrow passageways, or freight (non-passenger) elevators, and frequented only by service personnel for repair purposes; such spaces include, but are not limited to, elevator pits, elevator penthouses, piping or equipment catwalks.
+(2) Application Based on Building Use. Special application sections 5 through 10 provide additional requirements for restaurants and cafeterias, medical care facilities, business and mercantile, libraries, accessible transient lodging, and transportation facilities. When a building or facility contains more than one use covered by a special application section, each portion shall comply with the requirements for that use.
+
+(3)\* Areas Used Only by Employees as Work Areas. Areas that are used only as work areas shall be designed and constructed so that individuals with disabilities can approach, enter, and exit the areas. These guidelines do not require that any areas used only as work areas be constructed to permit maneuvering within the work area or be constructed or equipped (i.e., with racks or shelves) to be accessible.
+
+(4) Temporary Structures. These guidelines cover temporary buildings or facilities as well as permanent facilities. Temporary buildings and facilities are not of permanent construction but are extensively used or are essential for public use for a period of time. Examples of temporary buildings or facilities covered by these guidelines include, but are not limited to: reviewing stands, temporary classrooms, bleacher areas, exhibit areas, temporary banking facilities, temporary health screening services, or temporary safe pedestrian passageways around a construction site. Structures, sites and equipment directly associated with the actual processes of construction, such as scaffolding, bridging, materials hoists, or construction trailers are not included.
+
+(5) General EXCEPTIONS.
+
+(a) In new construction, a person or entity is not required to meet fully the requirements of these guidelines where that person or entity can demonstrate that it is structurally impracticable to do so. Full compliance will be considered structurally impracticable only in those rare circumstances when the unique characteristics of terrain prevent the incorporation of accessibility features. If full compliance with the requirements of these guidelines is structurally impracticable, a person or entity shall comply with the requirements to the extent it is not structurally impracticable. Any portion of the building or facility which can be made accessible shall comply to the extent that it is not structurally impracticable.
+
+(b) Accessibility is not required to (i) observation galleries used primarily for security purposes; or (ii) in non-occupiable spaces accessed only by ladders, catwalks, crawl spaces, very narrow passageways, or freight (non-passenger) elevators, and frequented only by service personnel for repair purposes; such spaces include, but are not limited to, elevator pits, elevator penthouses, piping or equipment catwalks.
 
 **4.1.2 Accessible Sites and Exterior Facilities: New Construction**
 
 An accessible site shall meet the following minimum requirements:
 
-1. At least one accessible route complying with 4.3 shall be provided within the boundary of the site from public transportation stops, accessible parking spaces, passenger loading zones if provided, and public streets or sidewalks, to an accessible building entrance.
-2. At least one accessible route complying with 4.3 shall connect accessible buildings, accessible facilities, accessible elements, and accessible spaces that are on the same site.
-3. All objects that protrude from surfaces or posts into circulation paths shall comply with 4.4.
-4. Ground surfaces along accessible routes and in accessible spaces shall comply with 4.5.
-5. (a) If parking spaces are provided for self-parking by employees or visitors, or both, then accessible spaces complying with 4.6 shall be provided in each such parking area in conformance with the table below. Spaces required by the table need not be provided in the particular lot. They may be provided in a different location if equivalent or greater accessibility, in terms of distance from an accessible entrance, cost and convenience is ensured.
+(1) At least one accessible route complying with 4.3 shall be provided within the boundary of the site from public transportation stops, accessible parking spaces, passenger loading zones if provided, and public streets or sidewalks, to an accessible building entrance.
+
+(2) At least one accessible route complying with 4.3 shall connect accessible buildings, accessible facilities, accessible elements, and accessible spaces that are on the same site.
+
+(3) All objects that protrude from surfaces or posts into circulation paths shall comply with 4.4.
+
+(4) Ground surfaces along accessible routes and in accessible spaces shall comply with 4.5.
+
+(5) (a) If parking spaces are provided for self-parking by employees or visitors, or both, then accessible spaces complying with 4.6 shall be provided in each such parking area in conformance with the table below. Spaces required by the table need not be provided in the particular lot. They may be provided in a different location if equivalent or greater accessibility, in terms of distance from an accessible entrance, cost and convenience is ensured.
 
 | Total Parking in Lot | Required Minimum Number of Accessible Spaces |
 | -------------------- | -------------------------------------------- |
@@ -211,107 +220,175 @@ An accessible site shall meet the following minimum requirements:
 
 Except as provided in 5(b), access aisles adjacent to accessible spaces shall be 60 in (1525 mm) wide minimum.
 
-- 5(b) One in every eight accessible spaces, but not less than one, shall be served by an access aisle 96 in (2440 mm) wide minimum and shall be designated "van accessible" as required by 4.6.4. The vertical clearance at such spaces shall comply with 4.6.5. All such spaces may be grouped on one level of a parking structure.<br/>**EXCEPTION**: Provision of all required parking spaces in conformance with &quot;Universal Parking Design&quot; (see appendix A4.6.3) is permitted.
-- 5(c) If passenger loading zones are provided, then at least one passenger loading zone shall comply with 4.6.6.
-- 5(d) At facilities providing medical care and other services for persons with mobility impairments, parking spaces complying with 4.6 shall be provided in accordance with 4.1.2(5)(a) except as follows:
-  - (i) Outpatient units and facilities: 10 percent of the total number of parking spaces provided serving each such outpatient unit or facility;
-  - (ii) Units and facilities that specialize in treatment or services for persons with mobility impairments: 20 percent of the total number of parking spaces provided serving each such unit or facility
-- 5(e)\* Valet parking: Valet parking facilities shall provide a passenger loading zone complying with 4.6.6 located on an accessible route to the entrance of the facility. Paragraphs 5(a), 5(b), and 5(d) of this section do not apply to valet parking facilities.
+(b) One in every eight accessible spaces, but not less than one, shall be served by an access aisle 96 in (2440 mm) wide minimum and shall be designated "van accessible" as required by 4.6.4. The vertical clearance at such spaces shall comply with 4.6.5. All such spaces may be grouped on one level of a parking structure.
 
-1. If toilet facilities are provided on a site, then each such public or common use toilet facility shall comply with 4.22. If bathing facilities are provided on a site, then each such public or common use bathing facility shall comply with 4.23. <br/>For single user portable toilet or bathing units clustered at a single location, at least 5% but no less than one toilet unit or bathing unit complying with 4.22 or 4.23 shall be installed at each cluster whenever typical inaccessible units are provided.
-   Accessible units shall be identified by the International Symbol of Accessibility.<br/>
-   **EXCEPTION:** Portable toilet units at construction sites used exclusively by construction personnel are not required to comply with 4.1.2(6).
+EXCEPTION: Provision of all required parking spaces in conformance with &quot;Universal Parking Design&quot; (see appendix A4.6.3) is permitted.
 
-1. Building Signage. Signs which designate permanent rooms and spaces shall comply with 4.30.1, 4.30.4, 4.30.5 and 4.30.6. Other signs which provide direction to, or information about, functional spaces of the building shall comply with 4.30.1, 4.30.2, 4.30.3, and 4.30.5. Elements and spaces of accessible facilities which shall be identified by the International Symbol of Accessibility and which shall comply with 4.30.7 are:
+(c) If passenger loading zones are provided, then at least one passenger loading zone shall comply with 4.6.6.
 
-- (a) Parking spaces designated as reserved for individuals with disabilities;
-- (b) Accessible passenger loading zones;
-- (c) Accessible entrances when not all are accessible (inaccessible entrances shall have directional signage to indicate the route to the nearest accessible entrance);
-- (d) Accessible toilet and bathing facilities when not all are accessible.
+(d) At facilities providing medical care and other services for persons with mobility impairments, parking spaces complying with 4.6 shall be provided in accordance with 4.1.2(5)(a) except as follows:
+
+(i) Outpatient units and facilities: 10 percent of the total number of parking spaces provided serving each such outpatient unit or facility;
+
+(ii) Units and facilities that specialize in treatment or services for persons with mobility impairments: 20 percent of the total number of parking spaces provided serving each such unit or facility
+
+(e)\* Valet parking: Valet parking facilities shall provide a passenger loading zone complying with 4.6.6 located on an accessible route to the entrance of the facility. Paragraphs 5(a), 5(b), and 5(d) of this section do not apply to valet parking facilities.
+
+(6) If toilet facilities are provided on a site, then each such public or common use toilet facility shall comply with 4.22. If bathing facilities are provided on a site, then each such public or common use bathing facility shall comply with 4.23. <br/>For single user portable toilet or bathing units clustered at a single location, at least 5% but no less than one toilet unit or bathing unit complying with 4.22 or 4.23 shall be installed at each cluster whenever typical inaccessible units are provided.
+
+Accessible units shall be identified by the International Symbol of Accessibility.
+
+EXCEPTION: Portable toilet units at construction sites used exclusively by construction personnel are not required to comply with 4.1.2(6).
+
+(7) Building Signage. Signs which designate permanent rooms and spaces shall comply with 4.30.1, 4.30.4, 4.30.5 and 4.30.6. Other signs which provide direction to, or information about, functional spaces of the building shall comply with 4.30.1, 4.30.2, 4.30.3, and 4.30.5. Elements and spaces of accessible facilities which shall be identified by the International Symbol of Accessibility and which shall comply with 4.30.7 are:
+
+(a) Parking spaces designated as reserved for individuals with disabilities;
+
+(b) Accessible passenger loading zones;
+
+(c) Accessible entrances when not all are accessible (inaccessible entrances shall have directional signage to indicate the route to the nearest accessible entrance);
+
+(d) Accessible toilet and bathing facilities when not all are accessible.
 
 **4.1.3 Accessible Buildings: New Construction**
 
 Accessible buildings and facilities shall meet the following minimum requirements:
 
-1. At least one accessible route complying with 4.3 shall connect accessible building or facility entrances with all accessible spaces and elements within the building or facility.
-2. All objects that overhang or protrude into circulation paths shall comply with 4.4.
-3. Ground and floor surfaces along accessible routes and in accessible rooms and spaces shall comply with 4.5.
-4. Interior and exterior stairs connecting levels that are not connected by an elevator, ramp, or other accessible means of vertical access shall comply with 4.9.
-5. \* One passenger elevator complying with 4.10 shall serve each level, including mezzanines, in all multi-story buildings and facilities unless exempted below. If more than one elevator is provided, each full passenger elevator shall comply with 4.10. <br/>**EXCEPTION 1:** Elevators are not required in facilities that are less than three stories or that have less than 3000 square feet per story unless the building is a shopping center, a shopping mall, or the professional office of a health care provider, or another type of facility as determined by the Attorney General. The elevator exemption set forth in this paragraph does not obviate or limit in any way the obligation to comply with the other accessibility requirements established in section 4.1.3. For example, floors above or below the accessible ground floor must meet the requirements of this section except for elevator service. If toilet or bathing facilities are provided on a level not served by an elevator, then toilet or bathing facilities must be provided on the accessible ground floor. In new construction if a building or facility is eligible for this exemption but a full passenger elevator is nonetheless planned, that elevator shall meet the requirements of 4.10 and shall serve each level in the building. A full passenger elevator that provides service from a garage to only one level of a building or facility is not required to serve other levels.<br/>**EXCEPTION 2:** Elevator pits, elevator penthouses, mechanical rooms, piping or equipment catwalks are exempted from this requirement. <br/>**EXCEPTION 3:** Accessible ramps complying with 4.8 may be used in lieu of an elevator. <br/>**EXCEPTION 4:** Platform lifts (wheelchair lifts) complying with 4.11 of this guideline and applicable state or local codes may be used in lieu of an elevator only under the following conditions:
-   - (a) To provide an accessible route to a performing area in an assembly occupancy.
-   - (b) To comply with the wheelchair viewing position line-of-sight and dispersion requirements of 4.33.3.
-   - (c) To provide access to incidental occupiable spaces and rooms which are not open to the general public and which house no more than five persons, including but not limited to equipment control rooms and projection booths.
-   - (d) To provide access where existing site constraints or other constraints make use of a ramp or an elevator infeasible.
-6. Windows: (Reserved).
-7. Doors:
-   - (a) At each accessible entrance to a building or facility, at least one door shall comply with 4.13.
-   - (b) Within a building or facility, at least one door at each accessible space shall comply with 4.13.
-   - (c) Each door that is an element of an accessible route shall comply with 4.13.
-   - (d) Each door required by 4.3.10, Egress, shall comply with 4.13.
-8. In new construction, at a minimum, the requirements in (a) and (b) below shall be satisfied independently:
-   - (a)
-     - (i) At least 50% of all public entrances (excluding those in 8(b) below) must be accessible. At least one must be a ground floor entrance. Public entrances are any entrances that are not loading or service entrances.
-     - (ii) Accessible entrances must be provided in a number at least equivalent to the number of exits required by the applicable building/fire codes. (This paragraph does not require an increase in the total number of entrances planned for a facility.)
-     - (iii) An accessible entrance must be provided to each tenancy in a facility (for example, individual stores in a strip shopping center). <br/>One entrance may be considered as meeting more than one of the requirements in (a). Where feasible, accessible entrances shall be the entrances used by the majority of people visiting or working in the building.
-   - (b)
-     - (i) In addition, if direct access is provided for pedestrians from an enclosed parking garage to the building, at least one direct entrance from the garage to the building must be accessible.
-     - (ii) If access is provided for pedestrians from a pedestrian tunnel or elevated walkway, one entrance to the building from each tunnel or walkway must be accessible. <br/>One entrance may be considered as meeting more than one of the requirements in (b). <br/>Because entrances also serve as emergency exits whose proximity to all parts of buildings and facilities is essential, it is preferable that all entrances be accessible.
-   - (c) If the only entrance to a building, or tenancy in a facility, is a service entrance, that entrance shall be accessible.
-   - (d) Entrances which are not accessible shall have directional signage complying with 4.30.1, 4.30.2, 4.30.3, and 4.30.5, which indicates the location of the nearest accessible entrance.
-9. \* In buildings or facilities, or portions of buildings or facilities, required to be accessible, accessible means of egress shall be provided in the same number as required for exits by local building/life safety regulations. Where a required exit from an occupiable level above or below a level of accessible exit discharge is not accessible, an area of rescue assistance shall be provided on each such level (in a number equal to that of inaccessible required exits). Areas of rescue assistance shall comply with 4.3.11. A horizontal exit, meeting the requirements of local building/life safety regulations, shall satisfy the requirement for an area of rescue assistance.<br/>**EXCEPTION**: Areas of rescue assistance are not required in buildings or facilities having a supervised automatic sprinkler system.
-10. \* Drinking Fountains:
-    - (a) Where only one drinking fountain is provided on a floor there shall be a drinking fountain which is accessible to individuals who use wheelchairs in accordance with 4.15 and one accessible to those who have difficulty bending or stooping. (This can be accommodated by the use of a &quot;hi-lo&quot; fountain; by providing one fountain accessible to those who use wheelchairs and one fountain at a standard height convenient for those who have difficulty bending; by providing a fountain accessible under 4.15 and a water cooler; or by such other means as would achieve the required accessibility for each group on each floor.)
-    - (b) Where more than one drinking fountain or water cooler is provided on a floor, 50% of those provided shall comply with 4.15 and shall be on an accessible route.
-11. Toilet Facilities: If toilet rooms are provided, then each public and common use toilet room shall comply with 4.22. Other toilet rooms provided for the use of occupants of specific spaces (i.e., a private toilet room for the occupant of a private office) shall be adaptable. If bathing rooms are provided, then each public and common use bathroom shall comply with 4.23. Accessible toilet rooms and bathing facilities shall be on an accessible route.
-12. Storage, Shelving and Display Units:
-    - (a) If fixed or built-in storage facilities such as cabinets, shelves, closets, and drawers are provided in accessible spaces, at least one of each type provided shall contain storage space complying with 4.25. Additional storage may be provided outside of the dimensions required by 4.25.
-    - (b) Shelves or display units allowing self-service by customers inmercantile occupancies shall be located on an accessible route complying with 4.3. Requirements for accessible reach range do not apply.
-13. Controls and operating mechanisms in accessible spaces, along accessible routes, or as parts of accessible elements (for example, light switches and dispenser controls) shall comply with 4.27.
-14. If emergency warning systems are provided, then they shall include both audible alarms and visual alarms complying with 4.28. Sleeping accommodations required to comply with 9.3 shall have an alarm system complying with 4.28. Emergency warning systems in medical care facilities may be modified to suit standard health care alarm design practice.
-15. Detectable warnings shall be provided at locations as specified in 4.29.
-16. Building Signage:
-    - (a) Signs which designate permanent rooms and spaces shall comply with 4.30.1, 4.30.4, 4.30.5 and 4.30.6.
-    - (b) Other signs which provide direction to or information about functional spaces of the building shall comply with 4.30.1, 4.30.2, 4.30.3, and 4.30.5. <br/>**EXCEPTION:** Building directories, menus, and all other signs which are temporary are not required to comply.
-17. Public telephones:
+(1)At least one accessible route complying with 4.3 shall connect accessible building or facility entrances with all accessible spaces and elements within the building or facility.
 
-    - (a) If public pay telephones, public closed circuit telephones, or other public telephones are provided, then they shall comply with 4.31.2 through 4.31.8 to the extent required by the following table:<br/>
+(2)All objects that overhang or protrude into circulation paths shall comply with 4.4.
 
-    | Number of each type of telephone provided on each floor                                                   | Number of telephones required to comply with 4.31.2 through 4.31.8 <sup id="17a1"><a href="/law-and-regs/design-standards/1991-design-standards#17a1-note">1</a></sup>                                                                                                                                                         |
-    | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-    | 1 or more single unit                                                                                     | 1 per floor                                                                                                                                                                                                                                                                                                                    |
-    | 1 bank<sup id="17a2"><a href="/law-and-regs/design-standards/1991-design-standards#17a2-note">2</a></sup> | 1 per floor                                                                                                                                                                                                                                                                                                                    |
-    | 2 or more banks<sup><a href="/law-and-regs/design-standards/1991-design-standards#17a2-note">2</a></sup>  | 1 per bank. Accessible unit may be installed as a single unit in proximity (either visible or with signage) to the bank. At least one public telephone per floor shall meet the requirements for a forward reach telephone<sup id="17a3"><a href="/law-and-regs/design-standards/1991-design-standards#17a3-note">3</a></sup>. |
+(3)Ground and floor surfaces along accessible routes and in accessible rooms and spaces shall comply with 4.5.
 
-    <sup id="17a1-note"><a href="/law-and-regs/design-standards/1991-design-standards#17a1">1</a></sup> Additional public telephones may be installed at any height. Unless otherwise specified, accessible telephones may be either forward or side reach telephones.
-    <sup id="17a2-note"><a href="/law-and-regs/design-standards/1991-design-standards#17a2">2</a></sup> A bank consists of two or more adjacent public telephones, often installed as a unit.
-    <sup id="17a3-note"><a href="/law-and-regs/design-standards/1991-design-standards#17a3">3</a></sup> **EXCEPTION**: For exterior installations only, if dial tone first service is available, then a side reach telephone may be installed instead of the required forward reach telephone (i.e., one telephone in proximity to each bank shall comply with 4.31).
+(4)Interior and exterior stairs connecting levels that are not connected by an elevator, ramp, or other accessible means of vertical access shall comply with 4.9.
 
-    - (b)\* All telephones required to be accessible and complying with 4.31.2 through 4.31.8 shall be equipped with a volume control. In addition, 25 percent, but never less than one, of all other public telephones provided shall be equipped with a volume control and shall be dispersed among all types of public telephones, including closed circuit telephones, throughout the building or facility. Signage complying with applicable provisions of 4.30.7 shall be provided.
-    - (c) The following shall be provided in accordance with 4.31.9:
-      - (i) if a total number of four or more public pay telephones (including both interior and exterior phones) is provided at a site, and at least one is in an interior location, then at least one interior public text telephone shall be provided.
-      - (ii) if an interior public pay telephone is provided in a stadium or arena, in a convention center, in a hotel with a convention center, or in a covered mall, at least one interior public text telephone shall be provided in the facility.
-      - (iii) if a public pay telephone is located in or adjacent to a hospital emergency room, hospital recovery room, or hospital waiting room, one public text telephone shall be provided at each such location.
-    - (d) Where a bank of telephones in the interior of a building consists of three or more public pay telephones, at least one public pay telephone in each such bank shall be equipped with a shelf and outlet in compliance with 4.31.9(2).
+(5)\* One passenger elevator complying with 4.10 shall serve each level, including mezzanines, in all multi-story buildings and facilities unless exempted below. If more than one elevator is provided, each full passenger elevator shall comply with 4.10.
 
-18. If fixed or built-in seating or tables (including, but not limited to, study carrels and student laboratory stations), are provided in accessible public or common use areas, at least five percent (5%), but not less than one, of the fixed or built-in seating areas or tables shall comply with 4.32. An accessible route shall lead to and through such fixed or built-in seating areas, or tables.
-19. \* Assembly areas:
+EXCEPTION 1: Elevators are not required in facilities that are less than three stories or that have less than 3000 square feet per story unless the building is a shopping center, a shopping mall, or the professional office of a health care provider, or another type of facility as determined by the Attorney General. The elevator exemption set forth in this paragraph does not obviate or limit in any way the obligation to comply with the other accessibility requirements established in section 4.1.3. For example, floors above or below the accessible ground floor must meet the requirements of this section except for elevator service. If toilet or bathing facilities are provided on a level not served by an elevator, then toilet or bathing facilities must be provided on the accessible ground floor. In new construction if a building or facility is eligible for this exemption but a full passenger elevator is nonetheless planned, that elevator shall meet the requirements of 4.10 and shall serve each level in the building. A full passenger elevator that provides service from a garage to only one level of a building or facility is not required to serve other levels.
 
-    - (a) In places of assembly with fixed seating accessible wheelchair locations shall comply with 4.33.2, 4.33.3, and 4.33.4 and shall be provided consistent with the following table:
+EXCEPTION 2: Elevator pits, elevator penthouses, mechanical rooms, piping or equipment catwalks are exempted from this requirement.
 
-    | Capacity of Seating in Assembly Areas | Number of Required Wheelchair Locations                                    |
-    | ------------------------------------- | -------------------------------------------------------------------------- |
-    | 4 to 25                               | 1                                                                          |
-    | 26 to 50                              | 2                                                                          |
-    | 51 to 300                             | 4                                                                          |
-    | 301 to 500                            | 6                                                                          |
-    | over 500                              | 6, plus 1 additional space for each total seating capacity increase of 100 |
+EXCEPTION 3: Accessible ramps complying with 4.8 may be used in lieu of an elevator.
 
-    In addition, one percent, but not less than one, of all fixed seats shall be aisle seats with no armrests on the aisle side, or removable or folding armrests on the aisle side. Each such seat shall be identified by a sign or marker. Signage notifying patrons of the availability of such seats shall be posted at the ticket office. Aisle seats are not required to comply with 4.33.4.
+EXCEPTION 4: Platform lifts (wheelchair lifts) complying with 4.11 of this guideline and applicable state or local codes may be used in lieu of an elevator only under the following conditions:
 
-    - (b) This paragraph applies to assembly areas where audible communications are integral to the use of the space (e.g., concert and lecture halls, playhouses and movie theaters, meeting rooms, etc.). Such assembly areas, if (1) they accommodate at least 50 persons, or if they have audio-amplification systems, and (2) they have fixed seating, shall have a permanently installed assistive listening system complying with 4.33. For other assembly areas, a permanently installed assistive listening system, or an adequate number of electrical outlets or other supplementary wiring necessary to support a portable assistive listening system shall be provided. The minimum number of receivers to be provided shall be equal to 4 percent of the total number of seats, but in no case less than two. Signage complying with applicable provisions of 4.30 shall be installed to notify patrons of the availability of a listening system.
+(a) To provide an accessible route to a performing area in an assembly occupancy.
 
-20. Where automated teller machines (ATMs) are provided, each ATM shall comply with the requirements of 4.34 except where two or more are provided at a location, then only one must comply. <br/> **EXCEPTION:** Drive-up-only automated teller machines are not required to comply with 4.27.2, 4.27.3 and 4.34.3.
-21. Where dressing and fitting rooms are provided for use by the general public, patients, customers or employees, 5 percent, but never less than one, of dressing rooms for each type of use in each cluster of dressing rooms shall be accessible and shall comply with 4.35. Examples of types of dressing rooms are those serving different genders or distinct and different functions as in different treatment or examination facilities.
+(b) To comply with the wheelchair viewing position line-of-sight and dispersion requirements of 4.33.3.
+
+(c) To provide access to incidental occupiable spaces and rooms which are not open to the general public and which house no more than five persons, including but not limited to equipment control rooms and projection booths.
+
+(d) To provide access where existing site constraints or other constraints make use of a ramp or an elevator infeasible.
+
+(6)Windows: (Reserved).
+
+(7)Doors:
+
+(a) At each accessible entrance to a building or facility, at least one door shall comply with 4.13.
+
+(b) Within a building or facility, at least one door at each accessible space shall comply with 4.13.
+
+(c) Each door that is an element of an accessible route shall comply with 4.13.
+
+(d) Each door required by 4.3.10, Egress, shall comply with 4.13.
+
+(8)In new construction, at a minimum, the requirements in (a) and (b) below shall be satisfied independently:
+
+(a)
+
+(i) At least 50% of all public entrances (excluding those in 8(b) below) must be accessible. At least one must be a ground floor entrance. Public entrances are any entrances that are not loading or service entrances.
+
+(ii) Accessible entrances must be provided in a number at least equivalent to the number of exits required by the applicable building/fire codes. (This paragraph does not require an increase in the total number of entrances planned for a facility)
+
+(iii) An accessible entrance must be provided to each tenancy in a facility (for example, individual stores in a strip shopping center). <br/>One entrance may be considered as meeting more than one of the requirements in (a). Where feasible, accessible entrances shall be the entrances used by the majority of people visiting or working in the building.
+
+(b)
+
+(i) In addition, if direct access is provided for pedestrians from an enclosed parking garage to the building, at least one direct entrance from the garage to the building must be accessible.
+
+(ii) If access is provided for pedestrians from a pedestrian tunnel or elevated walkway, one entrance to the building from each tunnel or walkway must be accessible. <br/>One entrance may be considered as meeting more than one of the requirements in (b). <br/>Because entrances also serve as emergency exits whose proximity to all parts of buildings and facilities is essential, it is preferable that all entrances be accessible.
+
+(c) If the only entrance to a building, or tenancy in a facility, is a service entrance, that entrance shall be accessible.
+
+(d) Entrances which are not accessible shall have directional signage complying with 4.30.1, 4.30.2, 4.30.3, and 4.30.5, which indicates the location of the nearest accessible entrance.
+
+(9)\* In buildings or facilities, or portions of buildings or facilities, required to be accessible, accessible means of egress shall be provided in the same number as required for exits by local building/life safety regulations. Where a required exit from an occupiable level above or below a level of accessible exit discharge is not accessible, an area of rescue assistance shall be provided on each such level (in a number equal to that of inaccessible required exits). Areas of rescue assistance shall comply with 4.3.11. A horizontal exit, meeting the requirements of local building/life safety regulations, shall satisfy the requirement for an area of rescue assistance.: Areas of rescue assistance are not required in buildings or facilities having a supervised automatic sprinkler system.
+
+(10)\* Drinking Fountains:
+
+(a) Where only one drinking fountain is provided on a floor there shall be a drinking fountain which is accessible to individuals who use wheelchairs in accordance with 4.15 and one accessible to those who have difficulty bending or stooping. (This can be accommodated by the use of a &quot;hi-lo&quot; fountain; by providing one fountain accessible to those who use wheelchairs and one fountain at a standard height convenient for those who have difficulty bending; by providing a fountain accessible under 4.15 and a water cooler; or by such other means as would achieve the required accessibility for each group on each floor.)
+
+(b) Where more than one drinking fountain or water cooler is provided on a floor, 50% of those provided shall comply with 4.15 and shall be on an accessible route.
+
+(11) Toilet Facilities: If toilet rooms are provided, then each public and common use toilet room shall comply with 4.22. Other toilet rooms provided for the use of occupants of specific spaces (i.e., a private toilet room for the occupant of a private office) shall be adaptable. If bathing rooms are provided, then each public and common use bathroom shall comply with 4.23. Accessible toilet rooms and bathing facilities shall be on an accessible route.
+
+(12) Storage, Shelving and Display Units:
+
+(a) If fixed or built-in storage facilities such as cabinets, shelves, closets, and drawers are provided in accessible spaces, at least one of each type provided shall contain storage space complying with 4.25. Additional storage may be provided outside of the dimensions required by 4.25.
+
+(b) Shelves or display units allowing self-service by customers inmercantile occupancies shall be located on an accessible route complying with 4.3. Requirements for accessible reach range do not apply.
+
+(13) Controls and operating mechanisms in accessible spaces, along accessible routes, or as parts of accessible elements (for example, light switches and dispenser controls) shall comply with 4.27.
+
+(14) If emergency warning systems are provided, then they shall include both audible alarms and visual alarms complying with 4.28. Sleeping accommodations required to comply with 9.3 shall have an alarm system complying with 4.28. Emergency warning systems in medical care facilities may be modified to suit standard health care alarm design practice.
+
+(15) Detectable warnings shall be provided at locations as specified in 4.29.
+
+(16) Building Signage:
+
+(a) Signs which designate permanent rooms and spaces shall comply with 4.30.1, 4.30.4, 4.30.5 and 4.30.6.
+
+(b) Other signs which provide direction to or information about functional spaces of the building shall comply with 4.30.1, 4.30.2, 4.30.3, and 4.30.5.
+
+EXCEPTION: Building directories, menus, and all other signs which are temporary are not required to comply.
+
+(17) Public telephones:
+
+(a) If public pay telephones, public closed circuit telephones, or other public telephones are provided, then they shall comply with 4.31.2 through 4.31.8 to the extent required by the following table:<br/>
+
+| Number of each type of telephone provided on each floor                                                   | Number of telephones required to comply with 4.31.2 through 4.31.8 <sup id="17a1"><a href="/law-and-regs/design-standards/1991-design-standards#17a1-note">1</a></sup>                                                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1 or more single unit                                                                                     | 1 per floor                                                                                                                                                                                                                                                                                                                    |
+| 1 bank<sup id="17a2"><a href="/law-and-regs/design-standards/1991-design-standards#17a2-note">2</a></sup> | 1 per floor                                                                                                                                                                                                                                                                                                                    |
+| 2 or more banks<sup><a href="/law-and-regs/design-standards/1991-design-standards#17a2-note">2</a></sup>  | 1 per bank. Accessible unit may be installed as a single unit in proximity (either visible or with signage) to the bank. At least one public telephone per floor shall meet the requirements for a forward reach telephone<sup id="17a3"><a href="/law-and-regs/design-standards/1991-design-standards#17a3-note">3</a></sup>. |
+
+<sup id="17a1-note"><a href="/law-and-regs/design-standards/1991-design-standards#17a1">1</a></sup> Additional public telephones may be installed at any height. Unless otherwise specified, accessible telephones may be either forward or side reach telephones.
+<sup id="17a2-note"><a href="/law-and-regs/design-standards/1991-design-standards#17a2">2</a></sup> A bank consists of two or more adjacent public telephones, often installed as a unit.
+<sup id="17a3-note"><a href="/law-and-regs/design-standards/1991-design-standards#17a3">3</a></sup> EXCEPTION: For exterior installations only, if dial tone first service is available, then a side reach telephone may be installed instead of the required forward reach telephone (i.e., one telephone in proximity to each bank shall comply with 4.31).
+
+(b)\* All telephones required to be accessible and complying with 4.31.2 through 4.31.8 shall be equipped with a volume control. In addition, 25 percent, but never less than one, of all other public telephones provided shall be equipped with a volume control and shall be dispersed among all types of public telephones, including closed circuit telephones, throughout the building or facility. Signage complying with applicable provisions of 4.30.7 shall be provided.
+
+(c) The following shall be provided in accordance with 4.31.9:
+
+(i) if a total number of four or more public pay telephones (including both interior and exterior phones) is provided at a site, and at least one is in an interior location, then at least one interior public text telephone shall be provided.
+
+(ii) if an interior public pay telephone is provided in a stadium or arena, in a convention center, in a hotel with a convention center, or in a covered mall, at least one interior public text telephone shall be provided in the facility.
+
+(iii) if a public pay telephone is located in or adjacent to a hospital emergency room, hospital recovery room, or hospital waiting room, one public text telephone shall be provided at each such location.
+
+(d) Where a bank of telephones in the interior of a building consists of three or more public pay telephones, at least one public pay telephone in each such bank shall be equipped with a shelf and outlet in compliance with 4.31.9(2).
+
+(18) If fixed or built-in seating or tables (including, but not limited to, study carrels and student laboratory stations), are provided in accessible public or common use areas, at least five percent (5%), but not less than one, of the fixed or built-in seating areas or tables shall comply with 4.32. An accessible route shall lead to and through such fixed or built-in seating areas, or tables.
+
+(19)\* Assembly areas:
+
+(a) In places of assembly with fixed seating accessible wheelchair locations shall comply with 4.33.2, 4.33.3, and 4.33.4 and shall be provided consistent with the following table:
+
+| Capacity of Seating in Assembly Areas | Number of Required Wheelchair Locations                                    |
+| ------------------------------------- | -------------------------------------------------------------------------- |
+| 4 to 25                               | 1                                                                          |
+| 26 to 50                              | 2                                                                          |
+| 51 to 300                             | 4                                                                          |
+| 301 to 500                            | 6                                                                          |
+| over 500                              | 6, plus 1 additional space for each total seating capacity increase of 100 |
+
+In addition, one percent, but not less than one, of all fixed seats shall be aisle seats with no armrests on the aisle side, or removable or folding armrests on the aisle side. Each such seat shall be identified by a sign or marker. Signage notifying patrons of the availability of such seats shall be posted at the ticket office. Aisle seats are not required to comply with 4.33.4.
+
+(b) This paragraph applies to assembly areas where audible communications are integral to the use of the space (e.g., concert and lecture halls, playhouses and movie theaters, meeting rooms, etc.). Such assembly areas, if (1) they accommodate at least 50 persons, or if they have audio-amplification systems, and (2) they have fixed seating, shall have a permanently installed assistive listening system complying with 4.33. For other assembly areas, a permanently installed assistive listening system, or an adequate number of electrical outlets or other supplementary wiring necessary to support a portable assistive listening system shall be provided. The minimum number of receivers to be provided shall be equal to 4 percent of the total number of seats, but in no case less than two. Signage complying with applicable provisions of 4.30 shall be installed to notify patrons of the availability of a listening system.
+
+(20) Where automated teller machines (ATMs) are provided, each ATM shall comply with the requirements of 4.34 except where two or more are provided at a location, then only one must comply. <br/> EXCEPTION: Drive-up-only automated teller machines are not required to comply with 4.27.2, 4.27.3 and 4.34.3.
+
+(21) Where dressing and fitting rooms are provided for use by the general public, patients, customers or employees, 5 percent, but never less than one, of dressing rooms for each type of use in each cluster of dressing rooms shall be accessible and shall comply with 4.35. Examples of types of dressing rooms are those serving different genders or distinct and different functions as in different treatment or examination facilities.
 
 **4.1.4 (Reserved)**
 
@@ -321,68 +398,127 @@ Each addition to an existing building or facility shall be regarded as an altera
 
 **4.1.6 Accessible Buildings: Alterations**
 
-1. General. Alterations to existing buildings and facilities shall comply with the following:
-   - (a) No alteration shall be undertaken which decreases or has the effect of decreasing accessibility or usability of a building or facility below the requirements for new construction at the time of alteration.
-   - (b) If existing elements, spaces, or common areas are altered, then each such altered element, space, feature, or area shall comply with the applicable provisions of 4.1.1 to 4.1.3 Minimum Requirements (for New Construction). If the applicable provision for new construction requires that an element, space, or common area be on an accessible route, the altered element, space, or common area is not required to be on an accessible route except as provided in 4.1.6(2) (Alterations to an Area Containing a Primary Function.)
-   - (c) If alterations of single elements, when considered together, amount to an alteration of a room or space in a building or facility, the entire space shall be made accessible.
-   - (d) No alteration of an existing element, space, or area of a building or facility shall impose a requirement for greater accessibility than that which would be required for new construction. For example, if the elevators and stairs in a building are being altered and the elevators are, in turn, being made accessible, then no accessibility modifications are required to the stairs connecting levels connected by the elevator. If stair modifications to correct unsafe conditions are required by other codes, the modifications shall be done in compliance with these guidelines unless technically infeasible.
-   - (e) At least one interior public text telephone complying with 4.31.9 shall be provided if:
-     - (i) alterations to existing buildings or facilities with less than four exterior or interior public pay telephones would increase the total number to four or more telephones with at least one in an interior location; or
-     - (ii) alterations to one or more exterior or interior public pay telephones occur in an existing building or facility with four or more public telephones with at least one in an interior location.
-   - (f) If an escalator or stair is planned or installed where none existed previously and major structural modifications are necessary for such installation, then a means of accessible vertical access shall be provided that complies with the applicable provisions of 4.7, 4.8, 4.10, or 4.11.
-   - (g) In alterations, the requirements of 4.1.3(9), 4.3.10 and 4.3.11 do not apply.
-   - (h)\* Entrances: If a planned alteration entails alterations to an entrance, and the building has an accessible entrance, the entrance being altered is not required to comply with 4.1.3(8), except to the extent required by 4.1.6(2). If a particular entrance is not made accessible, appropriate accessible signage indicating the location of the nearest accessible entrance(s) shall be installed at or near the inaccessible entrance, such that a person with disabilities will not be required to retrace the approach route from the inaccessible entrance.
-   - (i) If the alteration work is limited solely to the electrical, mechanical, or plumbing system, or to hazardous material abatement, or automatic sprinkler retrofitting, and does not involve the alteration of any elements or spaces required to be accessible under these guidelines, then 4.1.6(2) does not apply.
-   - (j) **EXCEPTION:** In alteration work, if compliance with 4.1.6 is technically infeasible, the alteration shall provide accessibility to the maximum extent feasible. Any elements or features of the building or facility that are being altered and can be made accessible shall be made accessible within the scope of the alteration. <br/> Technically Infeasible means:
-     - with respect to an alteration of a building or a facility, that it has little likelihood of being accomplished because existing structural conditions would require removing or altering a load-bearing member which is an essential part of the structural frame; or because other existing physical or site constraints prohibit modification or addition of elements, spaces, or features which are in full and strict compliance with the minimum requirements for new construction and which are necessary to provide accessibility.
-   - (k) **EXCEPTION:**
-     - (i) These guidelines do not require the installation of an elevator in an altered facility that is less than three stories or has less than 3,000 square feet per story unless the building is a shopping center, a shopping mall, the professional office of a health care provider, or another type of facility as determined by the Attorney General.
-     - (ii) The exemption provided in paragraph (i) does not obviate or limit in any way the obligation to comply with the other accessibility requirements established in these guidelines. For example, alterations to floors above or below the ground floor must be accessible regardless of whether the altered facility has an elevator. If a facility subject to the elevator exemption set forth in paragraph (i) nonetheless has a full passenger elevator, that elevator shall meet, to the maximum extent feasible, the accessibility requirements of these guidelines.
-     - (2) Alterations to an Area Containing a Primary Function: In addition to the requirements of 4.1.6(1), an alteration that affects or could affect the usability of or access to an area containing a primary function shall be made so as to ensure that, to the maximum extent feasible, the path of travel to the altered area and the restrooms, telephones, and drinking fountains serving the altered area, are readily accessible to and usable by individuals with disabilities, unless such alterations are disproportionate to the overall alterations in terms of cost and scope (as determined under criteria established by the Attorney General).
-     - (3) Special Technical Provisions for Alterations to Existing Buildings and Facilities:
-       - (a) Ramps: Curb ramps and interior or exterior ramps to be constructed on sites or in existing buildings or facilities where space limitations prohibit the use of a 1:12 slope or less may have slopes and rises as follows:
-         - (i) A slope between 1:10 and 1:12 is allowed for a maximum rise of 6 inches.
-         - (ii) A slope between 1:8 and 1:10 is allowed for a maximum rise of 3 inches. A slope steeper than 1:8 is not allowed.
-       - (b) Stairs: Full extension of handrails at stairs shall not be required in alterations where such extensions would be hazardous or impossible due to plan configuration.
-       - (c) Elevators:
-         - (i) If safety door edges are provided in existing automatic elevators, automatic door reopening devices may be omitted (see 4.10.6).
-         - (ii) Where existing shaft configuration or technical infeasibility prohibits strict compliance with 4.10.9, the minimum car plan dimensions may be reduced by the minimum amount necessary, but in no case shall the inside car area be smaller than 48 in by 48 in.
-         - (iii) Equivalent facilitation may be provided with an elevator car of different dimensions when usability can be demonstrated and when all other elements required to be accessible comply with the applicable provisions of 4.10. For example, an elevator of 47 in by 69 in (1195 mm by 1755 mm) with a door opening on the narrow dimension, could accommodate the standard wheelchair clearances shown in [Figure 4](#figure4).
-       - (d) Doors:
-         - (i) Where it is technically infeasible to comply with clear opening width requirements of 4.13.5, a projection of 5/8 in maximum will be permitted for the latch side stop.
-         - (ii) If existing thresholds are 3/4 in high or less, and have (or are modified to have) a beveled edge on each side, they may remain.
-       - (e) Toilet Rooms:
-         - (i) Where it is technically infeasible to comply with 4.22 or 4.23, the installation of at least one unisex toilet/bathroom per floor, located in the same area as existing toilet facilities, will be permitted in lieu of modifying existing toilet facilities to be accessible. Each unisex toilet room shall contain one water closet complying with 4.16 and one lavatory complying with 4.19, and the door shall have a privacy latch.
-         - (ii) Where it is technically infeasible to install a required standard stall ([Fig. 30(a)](#figure30a)), or where other codes prohibit reduction of the fixture count (i.e., removal of a water closet in order to create a double-wide stall), either alternate stall ([Fig.30(b)](#figure30b)) may be provided in lieu of the standard stall.
-         - (iii) When existing toilet or bathing facilities are being altered and are not made accessible, signage complying with 4.30.1, 4.30.2, 4.30.3, 4.30.5, and 4.30.7 shall be provided indicating the location of the nearest accessible toilet or bathing facility within the facility.
-       - (f) Assembly Areas:
-         - (i) Where it is technically infeasible to disperse accessible seating throughout an altered assembly area, accessible seating areas may be clustered. Each accessible seating area shall have provisions for companion seating and shall be located on an accessible route that also serves as a means of emergency egress.
-         - (ii) Where it is technically infeasible to alter all performing areas to be on an accessible route, at least one of each type of performing area shall be made accessible.
-       - (g) Platform Lifts (Wheelchair Lifts): In alterations, platform lifts (wheelchair lifts) complying with 4.11 and applicable state or local codes may be used as part of an accessible route. The use of lifts is not limited to the four conditions in exception 4 of 4.1.3(5)
-       - (h) Dressing Rooms: In alterations where technical infeasibility can be demonstrated, one dressing room for each sex on each level shall be made accessible. Where only unisex dressing rooms are provided, accessible unisex dressing rooms may be used to fulfill this requirement.
+(1) General. Alterations to existing buildings and facilities shall comply with the following:
+
+(a) No alteration shall be undertaken which decreases or has the effect of decreasing accessibility or usability of a building or facility below the requirements for new construction at the time of alteration.
+
+(b) If existing elements, spaces, or common areas are altered, then each such altered element, space, feature, or area shall comply with the applicable provisions of 4.1.1 to 4.1.3 Minimum Requirements (for New Construction). If the applicable provision for new construction requires that an element, space, or common area be on an accessible route, the altered element, space, or common area is not required to be on an accessible route except as provided in 4.1.6(2) (Alterations to an Area Containing a Primary Function.)
+
+(c) If alterations of single elements, when considered together, amount to an alteration of a room or space in a building or facility, the entire space shall be made accessible.
+
+(d) No alteration of an existing element, space, or area of a building or facility shall impose a requirement for greater accessibility than that which would be required for new construction. For example, if the elevators and stairs in a building are being altered and the elevators are, in turn, being made accessible, then no accessibility modifications are required to the stairs connecting levels connected by the elevator. If stair modifications to correct unsafe conditions are required by other codes, the modifications shall be done in compliance with these guidelines unless technically infeasible.
+
+(e) At least one interior public text telephone complying with 4.31.9 shall be provided if:
+
+(i) alterations to existing buildings or facilities with less than four exterior or interior public pay telephones would increase the total number to four or more telephones with at least one in an interior location; or
+
+(ii) alterations to one or more exterior or interior public pay telephones occur in an existing building or facility with four or more public telephones with at least one in an interior location.
+
+(f) If an escalator or stair is planned or installed where none existed previously and major structural modifications are necessary for such installation, then a means of accessible vertical access shall be provided that complies with the applicable provisions of 4.7, 4.8, 4.10, or 4.11.
+
+(g) In alterations, the requirements of 4.1.3(9), 4.3.10 and 4.3.11 do not apply.
+
+(h)\* Entrances: If a planned alteration entails alterations to an entrance, and the building has an accessible entrance, the entrance being altered is not required to comply with 4.1.3(8), except to the extent required by 4.1.6(2). If a particular entrance is not made accessible, appropriate accessible signage indicating the location of the nearest accessible entrance(s) shall be installed at or near the inaccessible entrance, such that a person with disabilities will not be required to retrace the approach route from the inaccessible entrance.
+
+(i) If the alteration work is limited solely to the electrical, mechanical, or plumbing system, or to hazardous material abatement, or automatic sprinkler retrofitting, and does not involve the alteration of any elements or spaces required to be accessible under these guidelines, then 4.1.6(2) does not apply.
+
+(j) EXCEPTION: In alteration work, if compliance with 4.1.6 is technically infeasible, the alteration shall provide accessibility to the maximum extent feasible. Any elements or features of the building or facility that are being altered and can be made accessible shall be made accessible within the scope of the alteration. <br/> Technically Infeasible means:
+
+with respect to an alteration of a building or a facility, that it has little likelihood of being accomplished because existing structural conditions would require removing or altering a load-bearing member which is an essential part of the structural frame; or because other existing physical or site constraints prohibit modification or addition of elements, spaces, or features which are in full and strict compliance with the minimum requirements for new construction and which are necessary to provide accessibility.
+
+(k) EXCEPTION:
+
+(i) These guidelines do not require the installation of an elevator in an altered facility that is less than three stories or has less than 3,000 square feet per story unless the building is a shopping center, a shopping mall, the professional office of a health care provider, or another type of facility as determined by the Attorney General.
+
+(ii) The exemption provided in paragraph (i) does not obviate or limit in any way the obligation to comply with the other accessibility requirements established in these guidelines. For example, alterations to floors above or below the ground floor must be accessible regardless of whether the altered facility has an elevator. If a facility subject to the elevator exemption set forth in paragraph (i) nonetheless has a full passenger elevator, that elevator shall meet, to the maximum extent feasible, the accessibility requirements of these guidelines.
+
+(2) Alterations to an Area Containing a Primary Function: In addition to the requirements of 4.1.6(1), an alteration that affects or could affect the usability of or access to an area containing a primary function shall be made so as to ensure that, to the maximum extent feasible, the path of travel to the altered area and the restrooms, telephones, and drinking fountains serving the altered area, are readily accessible to and usable by individuals with disabilities, unless such alterations are disproportionate to the overall alterations in terms of cost and scope (as determined under criteria established by the Attorney General).
+
+(3) Special Technical Provisions for Alterations to Existing Buildings and Facilities:
+
+(a) Ramps: Curb ramps and interior or exterior ramps to be constructed on sites or in existing buildings or facilities where space limitations prohibit the use of a 1:12 slope or less may have slopes and rises as follows:
+
+(i) A slope between 1:10 and 1:12 is allowed for a maximum rise of 6 inches.
+
+(ii) A slope between 1:8 and 1:10 is allowed for a maximum rise of 3 inches. A slope steeper than 1:8 is not allowed.
+
+(b) Stairs: Full extension of handrails at stairs shall not be required in alterations where such extensions would be hazardous or impossible due to plan configuration.
+
+(c) Elevators:
+
+(i) If safety door edges are provided in existing automatic elevators, automatic door reopening devices may be omitted (see 4.10.6).
+
+(ii) Where existing shaft configuration or technical infeasibility prohibits strict compliance with 4.10.9, the minimum car plan dimensions may be reduced by the minimum amount necessary, but in no case shall the inside car area be smaller than 48 in by 48 in.
+
+(iii) Equivalent facilitation may be provided with an elevator car of different dimensions when usability can be demonstrated and when all other elements required to be accessible comply with the applicable provisions of 4.10. For example, an elevator of 47 in by 69 in (1195 mm by 1755 mm) with a door opening on the narrow dimension, could accommodate the standard wheelchair clearances shown in [Figure 4](#figure4).
+
+(d) Doors:
+
+(i) Where it is technically infeasible to comply with clear opening width requirements of 4.13.5, a projection of 5/8 in maximum will be permitted for the latch side stop.
+
+(ii) If existing thresholds are 3/4 in high or less, and have (or are modified to have) a beveled edge on each side, they may remain.
+
+(e) Toilet Rooms:
+
+(i) Where it is technically infeasible to comply with 4.22 or 4.23, the installation of at least one unisex toilet/bathroom per floor, located in the same area as existing toilet facilities, will be permitted in lieu of modifying existing toilet facilities to be accessible. Each unisex toilet room shall contain one water closet complying with 4.16 and one lavatory complying with 4.19, and the door shall have a privacy latch.
+
+(ii) Where it is technically infeasible to install a required standard stall ([Fig. 30(a)](#figure30a)), or where other codes prohibit reduction of the fixture count (i.e., removal of a water closet in order to create a double-wide stall), either alternate stall ([Fig.30(b)](#figure30b)) may be provided in lieu of the standard stall.
+
+(iii) When existing toilet or bathing facilities are being altered and are not made accessible, signage complying with 4.30.1, 4.30.2, 4.30.3, 4.30.5, and 4.30.7 shall be provided indicating the location of the nearest accessible toilet or bathing facility within the facility.
+
+(f) Assembly Areas:
+
+(i) Where it is technically infeasible to disperse accessible seating throughout an altered assembly area, accessible seating areas may be clustered. Each accessible seating area shall have provisions for companion seating and shall be located on an accessible route that also serves as a means of emergency egress.
+
+(ii) Where it is technically infeasible to alter all performing areas to be on an accessible route, at least one of each type of performing area shall be made accessible.
+
+(g) Platform Lifts (Wheelchair Lifts): In alterations, platform lifts (wheelchair lifts) complying with 4.11 and applicable state or local codes may be used as part of an accessible route. The use of lifts is not limited to the four conditions in exception 4 of 4.1.3(5)
+
+(h) Dressing Rooms: In alterations where technical infeasibility can be demonstrated, one dressing room for each sex on each level shall be made accessible. Where only unisex dressing rooms are provided, accessible unisex dressing rooms may be used to fulfill this requirement.
 
 **4.1.7 Accessible Buildings: Historic Preservation**
 
-1. Applicability:
-   - (a) General Rule. Alterations to a qualified historic building or facility shall comply with 4.1.6 Accessible Buildings: Alterations, the applicable technical specifications of 4.2 through 4.35 and the applicable special application sections 5 through 10 unless it is determined in accordance with the procedures in 4.1.7(2) that compliance with the requirements for accessible routes (exterior and interior), ramps, entrances, or toilets would threaten or destroy the historic significance of the building or facility in which case the alternative requirements in 4.1.7(3) may be used for the feature. <br/>**EXCEPTION:** (Reserved).
-   - (b) Definition. A qualified historic building or facility is a building or facility that is:
-     - (i) Listed in or eligible for listing in the National Register of Historic Places; or
-     - (ii) Designated as historic under an appropriate State or local law.
-2. Procedures:
-   - (a) Alterations to Qualified Historic Buildings and Facilities Subject to Section 106 of the National Historic Preservation Act:
-     - (i) Section 106 Process. Section 106 of the National Historic Preservation Act (16 U.S.C. 470 f) requires that a Federal agency with jurisdiction over a Federal, federally assisted, or federally licensed undertaking consider the effects of the agency's undertaking on buildings and facilities listed in or eligible for listing in the National Register of Historic Places and give the Advisory Council on Historic Preservation a reasonable opportunity to comment on the undertaking prior to approval of the undertaking.
-     - (ii) ADA Application. Where alterations are undertaken to a qualified historic building or facility that is subject to section 106 of the National Historic Preservation Act, the Federal agency with jurisdiction over the undertaking shall follow the section 106 process. If the State Historic Preservation Officer or Advisory Council on Historic Preservation agrees that compliance with the requirements for accessible routes (exterior and interior), ramps, entrances, or toilets would threaten or destroy the historic significance of the building or facility, the alternative requirements in 4.1.7(3) may be used for the feature.
+(1) Applicability:
 
-- (b) Alterations to Qualified Historic Buildings and Facilities Not Subject to Section 106 of the National Historic Preservation Act. Where alterations are undertaken to a qualified historic building or facility that is not subject to section 106 of the National Historic Preservation Act, if the entity undertaking the alterations believes that compliance with the requirements for accessible routes (exterior and interior), ramps, entrances, or toilets would threaten or destroy the historic significance of the building or facility and that the alternative requirements in 4.1.7(3) should be used for the feature, the entity should consult with the State Historic Preservation Officer. If the State Historic Preservation Officer agrees that compliance with the accessibility requirements for accessible routes (exterior and interior), ramps, entrances or toilets would threaten or destroy the historical significance of the building or facility, the alternative requirements in 4.1.7(3) may be used.
-- (c) Consultation With Interested Persons. Interested persons should be invited to participate in the consultation process, including State or local accessibility officials, individuals with disabilities, and organizations representing individuals with disabilities.
-- (d) Certified Local Government Historic Preservation Programs. Where the State Historic Preservation Officer has delegated the consultation responsibility for purposes of this section to a local government historic preservation program that has been certified in accordance with section 101(c) of the National Historic Preservation Act of 1966 (16 U.S.C. 470a (c)) and implementing regulations (36 CFR 61.5), the responsibility may be carried out by the appropriate local government body or official
+(a) General Rule. Alterations to a qualified historic building or facility shall comply with 4.1.6 Accessible Buildings: Alterations, the applicable technical specifications of 4.2 through 4.35 and the applicable special application sections 5 through 10 unless it is determined in accordance with the procedures in 4.1.7(2) that compliance with the requirements for accessible routes (exterior and interior), ramps, entrances, or toilets would threaten or destroy the historic significance of the building or facility in which case the alternative requirements in 4.1.7(3) may be used for the feature.
 
-1. Historic Preservation: Minimum Requirements:
-   - (a) At least one accessible route complying with 4.3 from a site access point to an accessible entrance shall be provided.<br/> **EXCEPTION:** A ramp with a slope no greater than 1:6 for a run not to exceed 2 ft (610 mm) may be used as part of an accessible route to an entrance.
-   - (b) At least one accessible entrance complying with 4.14 which is used by the public shall be provided.<br/> **EXCEPTION:** If it is determined that no entrance used by the public can comply with 4.14, then access at any entrance not used by the general public but open (unlocked) with directional signage at the primary entrance may be used. The accessible entrance shall also have a notification system. Where security is a problem, remote monitoring may be used.
-   - (c) If toilets are provided, then at least one toilet facility complying with 4.22 and 4.1.6 shall be provided along an accessible route that complies with 4.3. Such toilet facility may be unisex in design.
-   - (d) Accessible routes from an accessible entrance to all publicly used spaces on at least the level of the accessible entrance shall be provided. Access shall be provided to all levels of a building or facility in compliance with 4.1 whenever practical.
-   - (e) Displays and written information, documents, etc., should be located where they can be seen by a seated person. Exhibits and signage displayed horizontally (e.g., open books), should be no higher than 44 in (1120 mm) above the floor surface. **NOTE**: The technical provisions of sections 4.2 through 4.35 are the same as those of the American National Standard Institute's document A117.1-1980, except as noted in the text.
+EXCEPTION: (Reserved).
+
+(b) Definition. A qualified historic building or facility is a building or facility that is:
+
+(i) Listed in or eligible for listing in the National Register of Historic Places; or
+
+(ii) Designated as historic under an appropriate State or local law.
+
+(2) Procedures:
+
+(a) Alterations to Qualified Historic Buildings and Facilities Subject to Section 106 of the National Historic Preservation Act:
+
+(i) Section 106 Process. Section 106 of the National Historic Preservation Act (16 U.S.C. 470 f) requires that a Federal agency with jurisdiction over a Federal, federally assisted, or federally licensed undertaking consider the effects of the agency's undertaking on buildings and facilities listed in or eligible for listing in the National Register of Historic Places and give the Advisory Council on Historic Preservation a reasonable opportunity to comment on the undertaking prior to approval of the undertaking.
+
+(ii) ADA Application. Where alterations are undertaken to a qualified historic building or facility that is subject to section 106 of the National Historic Preservation Act, the Federal agency with jurisdiction over the undertaking shall follow the section 106 process. If the State Historic Preservation Officer or Advisory Council on Historic Preservation agrees that compliance with the requirements for accessible routes (exterior and interior), ramps, entrances, or toilets would threaten or destroy the historic significance of the building or facility, the alternative requirements in 4.1.7(3) may be used for the feature.
+
+(b) Alterations to Qualified Historic Buildings and Facilities Not Subject to Section 106 of the National Historic Preservation Act. Where alterations are undertaken to a qualified historic building or facility that is not subject to section 106 of the National Historic Preservation Act, if the entity undertaking the alterations believes that compliance with the requirements for accessible routes (exterior and interior), ramps, entrances, or toilets would threaten or destroy the historic significance of the building or facility and that the alternative requirements in 4.1.7(3) should be used for the feature, the entity should consult with the State Historic Preservation Officer. If the State Historic Preservation Officer agrees that compliance with the accessibility requirements for accessible routes (exterior and interior), ramps, entrances or toilets would threaten or destroy the historical significance of the building or facility, the alternative requirements in 4.1.7(3) may be used.
+
+(c) Consultation With Interested Persons. Interested persons should be invited to participate in the consultation process, including State or local accessibility officials, individuals with disabilities, and organizations representing individuals with disabilities.
+
+(d) Certified Local Government Historic Preservation Programs. Where the State Historic Preservation Officer has delegated the consultation responsibility for purposes of this section to a local government historic preservation program that has been certified in accordance with section 101(c) of the National Historic Preservation Act of 1966 (16 U.S.C. 470a (c)) and implementing regulations (36 CFR 61.5), the responsibility may be carried out by the appropriate local government body or official
+
+(3) Historic Preservation: Minimum Requirements:
+
+(a) At least one accessible route complying with 4.3 from a site access point to an accessible entrance shall be provided.
+
+EXCEPTION: A ramp with a slope no greater than 1:6 for a run not to exceed 2 ft (610 mm) may be used as part of an accessible route to an entrance.
+
+(b) At least one accessible entrance complying with 4.14 which is used by the public shall be provided.
+
+EXCEPTION: If it is determined that no entrance used by the public can comply with 4.14, then access at any entrance not used by the general public but open (unlocked) with directional signage at the primary entrance may be used. The accessible entrance shall also have a notification system. Where security is a problem, remote monitoring may be used.
+
+(c) If toilets are provided, then at least one toilet facility complying with 4.22 and 4.1.6 shall be provided along an accessible route that complies with 4.3. Such toilet facility may be unisex in design.
+
+(d) Accessible routes from an accessible entrance to all publicly used spaces on at least the level of the accessible entrance shall be provided. Access shall be provided to all levels of a building or facility in compliance with 4.1 whenever practical.
+
+(e) Displays and written information, documents, etc., should be located where they can be seen by a seated person. Exhibits and signage displayed horizontally (e.g., open books), should be no higher than 44 in (1120 mm) above the floor surface. **NOTE**: The technical provisions of sections 4.2 through 4.35 are the same as those of the American National Standard Institute's document A117.1-1980, except as noted in the text.
 
 ### 4.2 Space Allowance and Reach Ranges
 
@@ -396,6 +532,8 @@ The minimum clear width for single wheelchair passage shall be 32 in (815 mm) at
 The minimum clear width for single wheelchair passage shall be 32 inches (815 mm) at a point for a maximum length of 24 inches and 36 inches (915 mm) continuously.
 {% endfigcaption %}
 {% endfigure %}
+
+---
 
 {% figure Figure 24e %}
 {% asset design-standards/figure_24e_max_doorway_depth.gif alt="figure 24 e" %}
@@ -475,6 +613,7 @@ Parallel Approach. With a wheelchair postioned beside a wall, element or surface
 **4.2.4.2 Relationship of Maneuvering Clearance to Wheelchair Spaces**
 
 One full unobstructed side of the clear floor or ground space for a wheelchair shall adjoin or overlap an accessible route or adjoin another wheelchair clear floor space. If a clear floor space is located in an alcove or otherwise confined on all or part of three sides, additional maneuvering clearances shall be provided as shown in [Fig. 4(d)](#figure4d) and [Fig. 4(e)](#figure4e).
+
 {% figure Figure 4d %}
 {% asset design-standards/fig_4d_clear_floor_space_alcoves.gif alt="figure 4d" %}
 {% figcaption %}
@@ -640,17 +779,26 @@ Accessible routes serving any accessible space or element shall also serve as a 
 
 An area of rescue assistance shall be one of the following:
 
-1. A portion of a stairway landing within a smokeproof enclosure (complying with local requirements).
-2. A portion of an exterior exit balcony located immediately adjacent to an exit stairway when the balcony complies with local requirements for exterior exit balconies. Openings to the interior of the building located within 20 feet (6 m) of the area of rescue assistance shall be protected with fire assemblies having a three-fourths hour fire protection rating.
-3. A portion of a one-hour fire-resistive corridor (complying with local requirements for fire-resistive construction and for openings) located immediately adjacent to an exit enclosure.
-4. A vestibule located immediately adjacent to an exit enclosure and constructed to the same fire-resistive standards as required for corridors and openings.
-5. A portion of a stairway landing within an exit enclosure which is vented to the exterior and is separated from the interior of the building with not less than one-hour fire-resistive doors.
-6. When approved by the appropriate local authority, an area or a room which is separated from other portions of the building by a smoke barrier. Smoke barriers shall have a fire-resistive rating of not less than one hour and shall completely enclose the area or room. Doors in the smoke barrier shall be tight-fitting smoke- and draft-control assemblies having a fire-protection rating of not less than 20 minutes and shall be self-closing or automatic closing. The area or room shall be provided with an exit directly to an exit enclosure. Where the room or area exits into an exit enclosure which is required to be of more than one-hour fire-resistive construction, the room or area shall have the same fire-resistive construction, including the same opening protection, as required for the adjacent exit enclosure.
-7. An elevator lobby when elevator shafts and adjacent lobbies are pressurized as required for smokeproof enclosures by local regulations and when complying with requirements herein for size, communication, and signage. Such pressurization system shall be activated by smoke detectors on each floor located in a manner approved by the appropriate local authority. Pressurization equipment and its duct work within the building shall be separated from other portions of the building by a minimum two-hour fire-resistive construction.
+
+(1) A portion of a stairway landing within a smokeproof enclosure (complying with local requirements).
+
+(2) A portion of an exterior exit balcony located immediately adjacent to an exit stairway when the balcony complies with local requirements for exterior exit balconies. Openings to the interior of the building located within 20 feet (6 m) of the area of rescue assistance shall be protected with fire assemblies having a three-fourths hour fire protection rating.
+
+(3) A portion of a one-hour fire-resistive corridor (complying with local requirements for fire-resistive construction and for openings) located immediately adjacent to an exit enclosure.
+
+(4) A vestibule located immediately adjacent to an exit enclosure and constructed to the same fire-resistive standards as required for corridors and openings.
+
+(5) A portion of a stairway landing within an exit enclosure which is vented to the exterior and is separated from the interior of the building with not less than one-hour fire-resistive doors.
+
+(6) When approved by the appropriate local authority, an area or a room which is separated from other portions of the building by a smoke barrier. Smoke barriers shall have a fire-resistive rating of not less than one hour and shall completely enclose the area or room. Doors in the smoke barrier shall be tight-fitting smoke- and draft-control assemblies having a fire-protection rating of not less than 20 minutes and shall be self-closing or automatic closing. The area or room shall be provided with an exit directly to an exit enclosure. Where the room or area exits into an exit enclosure which is required to be of more than one-hour fire-resistive construction, the room or area shall have the same fire-resistive construction, including the same opening protection, as required for the adjacent exit enclosure.
+
+(7) An elevator lobby when elevator shafts and adjacent lobbies are pressurized as required for smokeproof enclosures by local regulations and when complying with requirements herein for size, communication, and signage. Such pressurization system shall be activated by smoke detectors on each floor located in a manner approved by the appropriate local authority. Pressurization equipment and its duct work within the building shall be separated from other portions of the building by a minimum two-hour fire-resistive construction.
 
 **4.3.11.2 Size**
 
-Each area of rescue assistance shall provide at least two accessible areas each being not less than 30 inches by 48 inches (760 mm by 1220 mm). The area of rescue assistance shall not encroach on any required exit width. The total number of such 30-inch by 48-inch (760 mm by 1220 mm) areas per story shall be not less than one for every 200 persons of calculated occupant load served by the area of rescue assistance.<br/> **EXCEPTION**: The appropriate local authority may reduce the minimum number of 30-inch by 48-inch (760 mm by 1220 mm) areas to one for each area of rescue assistance on floors where the occupant load is less than 200.
+Each area of rescue assistance shall provide at least two accessible areas each being not less than 30 inches by 48 inches (760 mm by 1220 mm). The area of rescue assistance shall not encroach on any required exit width. The total number of such 30-inch by 48-inch (760 mm by 1220 mm) areas per story shall be not less than one for every 200 persons of calculated occupant load served by the area of rescue assistance.
+
+EXCEPTION: The appropriate local authority may reduce the minimum number of 30-inch by 48-inch (760 mm by 1220 mm) areas to one for each area of rescue assistance on floors where the occupant load is less than 200.
 
 **4.3.11.3\* Stairway Width**
 
@@ -1037,13 +1185,20 @@ The undersides of nosings shall not be abrupt. The radius of curvature at the le
 
 Stairways shall have handrails at both sides of all stairs. Handrails shall comply with 4.26 and shall have the following features:
 
-1. Handrails shall be continuous along both sides of stairs. The inside handrail on switchback or dogleg stairs shall always be continuous (see [Fig. 19(a)](#figure19a) and [(b)](#figure19b)).
-2. If handrails are not continuous, they shall extend at least 12 in (305 mm) beyond the top riser and at least 12 in (305 mm) plus the width of one tread beyond the bottom riser. At the top, the extension shall be parallel with the floor or ground surface. At the bottom, the handrail shall continue to slope for a distance of the width of one tread from the bottom riser; the remainder of the extension shall be horizontal (see [Fig. 19(c)](#figure19c) and [(d)](#figure19d)). Handrail extensions shall comply with 4.4.
-3. The clear space between handrails and wall shall be 1-1/2 in (38 mm).
-4. Gripping surfaces shall be uninterrupted by newel posts, other construction elements, or obstructions.
-5. Top of handrail gripping surface shall be mounted between 34 in and 38 in (865 mm and 965 mm) above stair nosings.
-6. Ends of handrails shall be either rounded or returned smoothly to floor, wall or post.
-7. Handrails shall not rotate within their fittings.
+
+(1) Handrails shall be continuous along both sides of stairs. The inside handrail on switchback or dogleg stairs shall always be continuous (see [Fig. 19(a)](#figure19a) and [(b)](#figure19b)).
+
+(2) If handrails are not continuous, they shall extend at least 12 in (305 mm) beyond the top riser and at least 12 in (305 mm) plus the width of one tread beyond the bottom riser. At the top, the extension shall be parallel with the floor or ground surface. At the bottom, the handrail shall continue to slope for a distance of the width of one tread from the bottom riser; the remainder of the extension shall be horizontal (see [Fig. 19(c)](#figure19c) and [(d)](#figure19d)). Handrail extensions shall comply with 4.4.
+
+(3) The clear space between handrails and wall shall be 1-1/2 in (38 mm).
+
+(4) Gripping surfaces shall be uninterrupted by newel posts, other construction elements, or obstructions.
+
+(5) Top of handrail gripping surface shall be mounted between 34 in and 38 in (865 mm and 965 mm) above stair nosings.
+
+(6) Ends of handrails shall be either rounded or returned smoothly to floor, wall or post.
+
+(7) Handrails shall not rotate within their fittings.
 
 {% figure Figure 19a %}
 {% asset design-standards/fig_19a_plan.gif alt="figure 19a" %}
@@ -1165,10 +1320,14 @@ The level of illumination at the car controls, platform, and car threshold and l
 
 Elevator control panels shall have the following features:
 
-1. Buttons. All control buttons shall be at least 3/4 in (19 mm) in their smallest dimension. They shall be raised or flush.
-2. Tactile, Braille, and Visual Control Indicators. All control buttons shall be designated by Braille and by raised standard alphabet characters for letters, arabic characters for numerals, or standard symbols as shown in [Fig. 23(a)](#figure23a), and as required in ASME A17.1-1990. Raised and Braille characters and symbols shall comply with 4.30. The call button for the main entry floor shall be designated by a raised star at the left of the floor designation (see [Fig. 23(a)](#figure23a)). All raised designations for control buttons shall be placed immediately to the left of the button to which they apply. Applied plates, permanently attached, are an acceptable means to provide raised control designations. Floor buttons shall be provided with visual indicators to show when each call is registered. The visual indicators shall be extinguished when each call is answered.
-3. Height. All floor buttons shall be no higher than 54 in (1370 mm) above the finish floor for side approach and 48 in (1220 mm) for front approach. Emergency controls, including the emergency alarm and emergency stop, shall be grouped at the bottom of the panel and shall have their centerlines no less than 35 in (890 mm) above the finish floor (see [Fig. 23(a)](#figure23a) and [(b)](#figure23b)).
-4. Location. Controls shall be located on a front wall if cars have center opening doors, and at the side wall or at the front wall next to the door if cars have side opening doors (see [Fig. 23(c)](#figure23c) and [(d)](#figure23a)).
+
+(1) Buttons. All control buttons shall be at least 3/4 in (19 mm) in their smallest dimension. They shall be raised or flush.
+
+(2) Tactile, Braille, and Visual Control Indicators. All control buttons shall be designated by Braille and by raised standard alphabet characters for letters, arabic characters for numerals, or standard symbols as shown in [Fig. 23(a)](#figure23a), and as required in ASME A17.1-1990. Raised and Braille characters and symbols shall comply with 4.30. The call button for the main entry floor shall be designated by a raised star at the left of the floor designation (see [Fig. 23(a)](#figure23a)). All raised designations for control buttons shall be placed immediately to the left of the button to which they apply. Applied plates, permanently attached, are an acceptable means to provide raised control designations. Floor buttons shall be provided with visual indicators to show when each call is registered. The visual indicators shall be extinguished when each call is answered.
+
+(3) Height. All floor buttons shall be no higher than 54 in (1370 mm) above the finish floor for side approach and 48 in (1220 mm) for front approach. Emergency controls, including the emergency alarm and emergency stop, shall be grouped at the bottom of the panel and shall have their centerlines no less than 35 in (890 mm) above the finish floor (see [Fig. 23(a)](#figure23a) and [(b)](#figure23b)).
+
+(4) Location. Controls shall be located on a front wall if cars have center opening doors, and at the side wall or at the front wall next to the door if cars have side opening doors (see [Fig. 23(c)](#figure23c) and [(d)](#figure23a)).
 
 {% figure Figure 23a %}
 {% asset design-standards/fig_23a_panel_detail.gif alt="figure 23a" %}
@@ -1256,7 +1415,9 @@ If doorways have two independently operated door leaves, then at least one leaf 
 
 **4.13.5 Clear Width**
 
-Doorways shall have a minimum clear opening of 32 in (815 mm) with the door open 90 degrees, measured between the face of the door and the opposite stop (see [Fig. 24(a)](#figure24a), [(b)](#figure24b),[(c)](#figure24c), and [(d)](#figure24d)). Openings more than 24 in (610 mm) in depth shall comply with 4.2.1 and 4.3.3 (see [Fig. 24(e)](#figure24e)). <br/>**EXCEPTION**: Doors not requiring full user passage, such as shallow closets, may have the clear opening reduced to 20 in (510 mm) minimum.
+Doorways shall have a minimum clear opening of 32 in (815 mm) with the door open 90 degrees, measured between the face of the door and the opposite stop (see [Fig. 24(a)](#figure24a), [(b)](#figure24b),[(c)](#figure24c), and [(d)](#figure24d)). Openings more than 24 in (610 mm) in depth shall comply with 4.2.1 and 4.3.3 (see [Fig. 24(e)](#figure24e)).
+
+EXCEPTION: Doors not requiring full user passage, such as shallow closets, may have the clear opening reduced to 20 in (510 mm) minimum.
 
 {% figure Figure 24a %}
 {% asset design-standards/fig_24a.gif alt="figure 24a" %}
@@ -1294,7 +1455,9 @@ Doorways shall have a minimum clear opening of 32 in (815 mm) with the door open
 
 **4.13.6 Maneuvering Clearances at Doors**
 
-Minimum maneuvering clearances at doors that are not automatic or power-assisted shall be as shown in [Fig. 25](#figure25). The floor or ground area within the required clearances shall be level and clear.<br/>**EXCEPTION**: Entry doors to acute care hospital bedrooms for in-patients shall be exempted from the requirement for space at the latch side of the door (see dimension &quot;x&quot; in [Fig. 25](#figure25)) if the door is at least 44 in (1120 mm) wide.
+Minimum maneuvering clearances at doors that are not automatic or power-assisted shall be as shown in [Fig. 25](#figure25). The floor or ground area within the required clearances shall be level and clear.
+
+EXCEPTION: Entry doors to acute care hospital bedrooms for in-patients shall be exempted from the requirement for space at the latch side of the door (see dimension &quot;x&quot; in [Fig. 25](#figure25)) if the door is at least 44 in (1120 mm) wide.
 
 {% figure Figure 25 %}
 {% asset design-standards/fig_25_maneuvering_clearances.gif alt="figure 25" %}
@@ -1475,7 +1638,9 @@ Water closets in accessible stalls shall comply with 4.16.
 
 **4.17.3\* Size and Arrangement**
 
-The size and arrangement of the standard toilet stall shall comply with [Fig. 30(a)](#figure30a), Standard Stall. Standard toilet stalls with a minimum depth of 56 in (1420 mm) (see [Fig. 30(a)](#figure30a)) shall have wall-mounted water closets. If the depth of a standard toilet stall is increased at least 3 in (75 mm), then a floor-mounted water closet may be used. Arrangements shown for standard toilet stalls may be reversed to allow either a left- or right-hand approach. Additional stalls shall be provided in conformance with 4.22.4.<br/> **EXCEPTION**: In instances of alteration work where provision of a standard stall ([Fig. 30(a)](#figure30a)) is technically infeasible or where plumbing code requirements prevent combining existing stalls to provide space, either alternate stall ([Fig. 30(b)](#figure30b)) may be provided in lieu of the standard stall.
+The size and arrangement of the standard toilet stall shall comply with [Fig. 30(a)](#figure30a), Standard Stall. Standard toilet stalls with a minimum depth of 56 in (1420 mm) (see [Fig. 30(a)](#figure30a)) shall have wall-mounted water closets. If the depth of a standard toilet stall is increased at least 3 in (75 mm), then a floor-mounted water closet may be used. Arrangements shown for standard toilet stalls may be reversed to allow either a left- or right-hand approach. Additional stalls shall be provided in conformance with 4.22.4.
+
+EXCEPTION: In instances of alteration work where provision of a standard stall ([Fig. 30(a)](#figure30a)) is technically infeasible or where plumbing code requirements prevent combining existing stalls to provide space, either alternate stall ([Fig. 30(b)](#figure30b)) may be provided in lieu of the standard stall.
 
 {% figure Figure 30a %}
 {% asset design-standards/fig_30a_standard_stall.gif alt="figure 30a" %}
@@ -1697,7 +1862,7 @@ Faucets and other controls complying with 4.27.4 shall be located as shown in [F
 
 **4.21.6 Shower Unit**
 
-A shower spray unit with a hose at least 60 in (1525 mm) long that can be used both as a fixed shower head and as a hand-held shower shall be provided.<br/> **EXCEPTION**: In unmonitored facilities where vandalism is a consideration, a fixed shower head mounted at 48 in (1220 mm) above the shower floor may be used in lieu of a hand-held shower head.
+A shower spray unit with a hose at least 60 in (1525 mm) long that can be used both as a fixed shower head and as a hand-held shower shall be provided.<br/> EXCEPTION: In unmonitored facilities where vandalism is a consideration, a fixed shower head mounted at 48 in (1220 mm) above the shower floor may be used in lieu of a hand-held shower head.
 
 **4.21.7 Curbs**
 
@@ -1896,11 +2061,15 @@ The diameter or width of the gripping surfaces of a handrail or grab bar shall b
 
 The structural strength of grab bars, tub and shower seats, fasteners, and mounting devices shall meet the following specification:
 
-1. Bending stress in a grab bar or seat induced by the maximum bending moment from the application of 250 lbf (1112N) shall be less than the allowable stress for the material of the grab bar or seat.
-2. Shear stress induced in a grab bar or seat by the application of 250 lbf (1112N) shall be less than the allowable shear stress for the material of the grab bar or seat. If the connection between the grab bar or seat and its mounting bracket or other support is considered to be fully restrained, then direct and torsional shear stresses shall be totaled for the combined shear stress, which shall not exceed the allowable shear stress.
-3. Shear force induced in a fastener or mounting device from the application of 250 lbf (1112N) shall be less than the allowable lateral load of either the fastener or mounting device or the supporting structure, whichever is the smaller allowable load.
-4. Tensile force induced in a fastener by a direct tension force of 250 lbf (1112N) plus the maximum moment from the application of 250 lbf (1112N) shall be less than the allowable withdrawal load between the fastener and the supporting structure.
-5. Grab bars shall not rotate within their fittings.
+(1) Bending stress in a grab bar or seat induced by the maximum bending moment from the application of 250 lbf (1112N) shall be less than the allowable stress for the material of the grab bar or seat.
+
+(2) Shear stress induced in a grab bar or seat by the application of 250 lbf (1112N) shall be less than the allowable shear stress for the material of the grab bar or seat. If the connection between the grab bar or seat and its mounting bracket or other support is considered to be fully restrained, then direct and torsional shear stresses shall be totaled for the combined shear stress, which shall not exceed the allowable shear stress.
+
+(3) Shear force induced in a fastener or mounting device from the application of 250 lbf (1112N) shall be less than the allowable lateral load of either the fastener or mounting device or the supporting structure, whichever is the smaller allowable load.
+
+(4) Tensile force induced in a fastener by a direct tension force of 250 lbf (1112N) plus the maximum moment from the application of 250 lbf (1112N) shall be less than the allowable withdrawal load between the fastener and the supporting structure.
+
+(5) Grab bars shall not rotate within their fittings.
 
 **4.26.4 Eliminating Hazards**
 
@@ -1918,7 +2087,9 @@ Clear floor space complying with 4.2.4 that allows a forward or a parallel appro
 
 **4.27.3\* Height**
 
-The highest operable part of controls, dispensers, receptacles, and other operable equipment shall be placed within at least one of the reach ranges specified in 4.2.5 and 4.2.6. Electrical and communications system receptacles on walls shall be mounted no less than 15 in (380 mm) above the floor. <br/>**EXCEPTION**: These requirements do not apply where the use of special equipment dictates otherwise or where electrical and communications systems receptacles are not normally intended for use by building occupants.
+The highest operable part of controls, dispensers, receptacles, and other operable equipment shall be placed within at least one of the reach ranges specified in 4.2.5 and 4.2.6. Electrical and communications system receptacles on walls shall be mounted no less than 15 in (380 mm) above the floor.
+
+EXCEPTION: These requirements do not apply where the use of special equipment dictates otherwise or where electrical and communications systems receptacles are not normally intended for use by building occupants.
 
 **4.27.4 Operation**
 
@@ -1938,14 +2109,21 @@ If provided, audible emergency alarms shall produce a sound that exceeds the pre
 
 Visual alarm signal appliances shall be integrated into the building or facility alarm system. If single station audible alarms are provided then single station visual alarm signals shall be provided. Visual alarm signals shall have the following minimum photometric and location features:
 
-1. The lamp shall be a xenon strobe type or equivalent.
-2. The color shall be clear or nominal white (i.e., unfiltered or clear filtered white light).
-3. The maximum pulse duration shall be two-tenths of one second (0.2 sec) with a maximum duty cycle of 40 percent. The pulse duration is defined as the time interval between initial and final points of 10 percent of maximum signal.
-4. The intensity shall be a minimum of 75 candela.
-5. The flash rate shall be a minimum of 1 Hz and a maximum of 3 Hz.
-6. The appliance shall be placed 80 in (2030 mm) above the highest floor level within the space or 6 in (152 mm) below the ceiling, whichever is lower.
-7. In general, no place in any room or space required to have a visual signal appliance shall be more than 50 ft (15 m) from the signal (in the horizontal plane). In large rooms and spaces exceeding 100 ft (30 m) across, without obstructions 6 ft (2 m) above the finish floor, such as auditoriums, devices may be placed around the perimeter, spaced a maximum 100 ft (30 m) apart, in lieu of suspending appliances from the ceiling.
-8. No place in common corridors or hallways in which visual alarm signalling appliances are required shall be more than 50 ft (15 m) from the signal.
+(1) The lamp shall be a xenon strobe type or equivalent.
+
+(2) The color shall be clear or nominal white (i.e., unfiltered or clear filtered white light).
+
+(3) The maximum pulse duration shall be two-tenths of one second (0.2 sec) with a maximum duty cycle of 40 percent. The pulse duration is defined as the time interval between initial and final points of 10 percent of maximum signal.
+
+(4) The intensity shall be a minimum of 75 candela.
+
+(5) The flash rate shall be a minimum of 1 Hz and a maximum of 3 Hz.
+
+(6) The appliance shall be placed 80 in (2030 mm) above the highest floor level within the space or 6 in (152 mm) below the ceiling, whichever is lower.
+
+(7) In general, no place in any room or space required to have a visual signal appliance shall be more than 50 ft (15 m) from the signal (in the horizontal plane). In large rooms and spaces exceeding 100 ft (30 m) across, without obstructions 6 ft (2 m) above the finish floor, such as auditoriums, devices may be placed around the perimeter, spaced a maximum 100 ft (30 m) apart, in lieu of suspending appliances from the ceiling.
+
+(8) No place in common corridors or hallways in which visual alarm signalling appliances are required shall be more than 50 ft (15 m) from the signal.
 
 **4.28.4\* Auxiliary Alarms**
 
@@ -2013,10 +2191,13 @@ Where permanent identification is provided for rooms and spaces, signs shall be 
 
 **4.30.7\* Symbols of Accessibility**
 
-1. Facilities and elements required to be identified as accessible by 4.1 shall use the international symbol of accessibility. The symbol shall be displayed as shown in [Fig. 43(a)](#figure43a) and [(b)](#figure43b).
-2. Volume Control Telephones. Telephones required to have a volume control by 4.1.3(17)(b) shall be identified by a sign containing a depiction of a telephone handset with radiating sound waves.
-3. Text Telephones. Text telephones required by 4.1.3(17)(c) shall be identified by the international TDD symbol ([Fig 43(c)](#figure43c)). In addition, if a facility has a public text telephone, directional signage indicating the location of the nearest text telephone shall be placed adjacent to all banks of telephones which do not contain a text telephone. Such directional signage shall include the international TDD symbol. If a facility has no banks of telephones, the directional signage shall be provided at the entrance (e.g., in a building directory).
-4. Assistive Listening Systems. In assembly areas where permanently installed assistive listening systems are required by 4.1.3(19)(b) the availability of such systems shall be identified with signage that includes the international symbol of access for hearing loss ([Fig. 43(d)](#figure43d)).
+(1) Facilities and elements required to be identified as accessible by 4.1 shall use the international symbol of accessibility. The symbol shall be displayed as shown in [Fig. 43(a)](#figure43a) and [(b)](#figure43b).
+
+(2) Volume Control Telephones. Telephones required to have a volume control by 4.1.3(17)(b) shall be identified by a sign containing a depiction of a telephone handset with radiating sound waves.
+
+(3) Text Telephones. Text telephones required by 4.1.3(17)(c) shall be identified by the international TDD symbol ([Fig 43(c)](#figure43c)). In addition, if a facility has a public text telephone, directional signage indicating the location of the nearest text telephone shall be placed adjacent to all banks of telephones which do not contain a text telephone. Such directional signage shall include the international TDD symbol. If a facility has no banks of telephones, the directional signage shall be provided at the entrance (e.g., in a building directory).
+
+(4) Assistive Listening Systems. In assembly areas where permanently installed assistive listening systems are required by 4.1.3(19)(b) the availability of such systems shall be identified with signage that includes the international symbol of access for hearing loss ([Fig. 43(d)](#figure43d)).
 
 {% figure Figure 43a %}
 {% asset design-standards/fig_43a.gif alt="figure 43a" %}
@@ -2087,8 +2268,9 @@ Telephones shall comply with 4.4.
 
 **4.31.5 Hearing Aid Compatible and Volume Control Telephones Required by 4.1**
 
-1. Telephones shall be hearing aid compatible.
-2. Volume controls, capable of a minimum of 12 dbA and a maximum of 18 dbA above normal, shall be provided in accordance with 4.1.3. If an automatic reset is provided then 18 dbA may be exceeded.
+(1) Telephones shall be hearing aid compatible.
+
+(2) Volume controls, capable of a minimum of 12 dbA and a maximum of 18 dbA above normal, shall be provided in accordance with 4.1.3. If an automatic reset is provided then 18 dbA may be exceeded.
 
 **4.31.6 Controls**
 
@@ -2104,8 +2286,9 @@ The cord from the telephone to the handset shall be at least 29 in (735 mm) long
 
 **4.31.9\* Text Telephones Required by 4.1**
 
-1. Text telephones used with a pay telephone shall be permanently affixed within, or adjacent to, the telephone enclosure. If an acoustic coupler is used, the telephone cord shall be sufficiently long to allow connection of the text telephone and the telephone receiver.
-2. Pay telephones designed to accommodate a portable text telephone shall be equipped with a shelf and an electrical outlet within or adjacent to the telephone enclosure. The telephone handset shall be capable of being placed flush on the surface of the shelf. The shelf shall be capable of accommodating a text telephone and shall have 6 in (152 mm) minimum vertical clearance in the area where the text telephone is to be placed. (3) Equivalent facilitation may be provided. For example, a portable text telephone may be made available in a hotel at the registration desk if it is available on a 24-hour basis for use with nearby public pay telephones. In this instance, at least one pay telephone shall comply with paragraph 2 of this section. In addition, if an acoustic coupler is used, the telephone handset cord shall be sufficiently long so as to allow connection of the text telephone and the telephone receiver. Directional signage shall be provided and shall comply with 4.30.7.
+(1) Text telephones used with a pay telephone shall be permanently affixed within, or adjacent to, the telephone enclosure. If an acoustic coupler is used, the telephone cord shall be sufficiently long to allow connection of the text telephone and the telephone receiver.
+
+(2) Pay telephones designed to accommodate a portable text telephone shall be equipped with a shelf and an electrical outlet within or adjacent to the telephone enclosure. The telephone handset shall be capable of being placed flush on the surface of the shelf. The shelf shall be capable of accommodating a text telephone and shall have 6 in (152 mm) minimum vertical clearance in the area where the text telephone is to be placed. (3) Equivalent facilitation may be provided. For example, a portable text telephone may be made available in a hotel at the registration desk if it is available on a 24-hour basis for use with nearby public pay telephones. In this instance, at least one pay telephone shall comply with paragraph 2 of this section. In addition, if an acoustic coupler is used, the telephone handset cord shall be sufficiently long so as to allow connection of the text telephone and the telephone receiver. Directional signage shall be provided and shall comply with 4.30.7.
 
 ### 4.32 Fixed or Built-in Seating and Tables
 
@@ -2159,7 +2342,9 @@ Each wheelchair location shall provide minimum clear ground or floor spaces as s
 
 **4.33.3\* Placement of Wheelchair Locations**
 
-Wheelchair areas shall be an integral part of any fixed seating plan and shall be provided so as to provide people with physical disabilities a choice of admission prices and lines of sight comparable to those for members of the general public. They shall adjoin an accessible route that also serves as a means of egress in case of emergency. At least one companion fixed seat shall be provided next to each wheelchair seating area. When the seating capacity exceeds 300, wheelchair spaces shall be provided in more than one location. Readily removable seats may be installed in wheelchair spaces when the spaces are not required to accommodate wheelchair users.<br/>**EXCEPTION**: Accessible viewing positions may be clustered for bleachers, balconies, and other areas having sight lines that require slopes of greater than 5 percent. Equivalent accessible viewing positions may be located on levels having accessible egress.
+Wheelchair areas shall be an integral part of any fixed seating plan and shall be provided so as to provide people with physical disabilities a choice of admission prices and lines of sight comparable to those for members of the general public. They shall adjoin an accessible route that also serves as a means of egress in case of emergency. At least one companion fixed seat shall be provided next to each wheelchair seating area. When the seating capacity exceeds 300, wheelchair spaces shall be provided in more than one location. Readily removable seats may be installed in wheelchair spaces when the spaces are not required to accommodate wheelchair users.
+
+EXCEPTION: Accessible viewing positions may be clustered for bleachers, balconies, and other areas having sight lines that require slopes of greater than 5 percent. Equivalent accessible viewing positions may be located on levels having accessible egress.
 
 **4.33.4 Surfaces**
 
@@ -2189,33 +2374,37 @@ The automated teller machine shall be located so that clear floor space complyin
 
 **4.34.3 Reach Ranges**
 
-1. Forward Approach Only. If only a forward approach is possible, operable parts of all controls shall be placed within the forward reach range specified in 4.2.5.
-2. Parallel Approach Only. If only a parallel approach is possible, operable parts of controls shall be placed as follows:
+**(1) Forward Approach Only.** If only a forward approach is possible, operable parts of all controls shall be placed within the forward reach range specified in 4.2.5.
 
-   - (a) Reach Depth Not More Than 10 in (255 mm). Where the reach depth to the operable parts of all controls as measured from the vertical plane perpendicular to the edge of the unobstructed clear floor space at the farthest protrusion of the automated teller machine or surround is not more than 10 in (255 mm), the maximum height above the finished floor or grade shall be 54 in (1370 mm.
-   - (b) Reach Depth More Than 10 in (255 mm). Where the reach depth to the operable parts of any control as measured from the vertical plane perpendicular to the edge of the unobstructed clear floor space at the farthest protrusion of the automated teller machine or surround is more than 10 in (255 mm), the maximum height above the finished floor or grade shall be as follows:
+**(2) Parallel Approach Only.** If only a parallel approach is possible, operable parts of controls shall be placed as follows:
 
-   | Reach Depths                | Maximum Height                   |
-   | --------------------------- | -------------------------------- |
-   | 10 inches (255 millimeters) | 54 inches (1370 millimeters)     |
-   | 11 inches (280 millimeters) | 53 1/2 inches (1360 millimeters) |
-   | 12 inches (305 millimeters) | 53 inches (1345 millimeters)     |
-   | 13 inches (330 millimeters) | 52 1/2 inches (1335 millimeters) |
-   | 14 inches (355 millimeters) | 51 1/2 inches (1310 millimeters) |
-   | 15 inches (380 millimeters) | 51 inches (1295 millimeters)     |
-   | 16 inches (405 millimeters) | 50 1/2 inches (1285 millimeters) |
-   | 17 inches (430 millimeters) | 50 inches (1270 millimeters)     |
-   | 18 inches (455 millimeters) | 49 1/2 inches (1255 millimeters) |
-   | 19 inches (485 millimeters) | 49 inches (1245 millimeters)     |
-   | 20 inches (510 millimeters) | 48 1/2 inches (1230 millimeters) |
-   | 21 inches (535 millimeters) | 47 1/2 inches (1205 millimeters) |
-   | 22 inches (560 millimeters) | 47 inches (1195 millimeters)     |
-   | 23 inches (585 millimeters) | 46 1/2 inches (1180 millimeters) |
-   | 24 inches (610 millimeters) | 46 inches (1170 millimeters)     |
+(a) Reach Depth Not More Than 10 in (255 mm). Where the reach depth to the operable parts of all controls as measured from the vertical plane perpendicular to the edge of the unobstructed clear floor space at the farthest protrusion of the automated teller machine or surround is not more than 10 in (255 mm), the maximum height above the finished floor or grade shall be 54 in (1370 mm).
 
-3. Forward and Parallel Approach. If both a forward and parallel approach are possible, operable parts of controls shall be placed within at least one of the reach ranges in paragraphs (1) or (2) of this section.
+(b) Reach Depth More Than 10 in (255 mm). Where the reach depth to the operable parts of any control as measured from the vertical plane perpendicular to the edge of the unobstructed clear floor space at the farthest protrusion of the automated teller machine or surround is more than 10 in (255 mm), the maximum height above the finished floor or grade shall be as follows:
 
-4. Bins. Where bins are provided, for envelopes, waste paper, or other purposes, at least one of each type provided shall comply with the applicable reach ranges in paragraph (1), (2), or (3) of this section. <br/>**EXCEPTION**: Where a function can be performed in a substantially equivalent manner by using an alternate control, only one of the controls needed to perform that function is required to comply with this section. If the controls are identified by tactile markings, such markings shall be provided on both controls.
+| Reach Depths                | Maximum Height                   |
+| --------------------------- | -------------------------------- |
+| 10 inches (255 millimeters) | 54 inches (1370 millimeters)     |
+| 11 inches (280 millimeters) | 53 1/2 inches (1360 millimeters) |
+| 12 inches (305 millimeters) | 53 inches (1345 millimeters)     |
+| 13 inches (330 millimeters) | 52 1/2 inches (1335 millimeters) |
+| 14 inches (355 millimeters) | 51 1/2 inches (1310 millimeters) |
+| 15 inches (380 millimeters) | 51 inches (1295 millimeters)     |
+| 16 inches (405 millimeters) | 50 1/2 inches (1285 millimeters) |
+| 17 inches (430 millimeters) | 50 inches (1270 millimeters)     |
+| 18 inches (455 millimeters) | 49 1/2 inches (1255 millimeters) |
+| 19 inches (485 millimeters) | 49 inches (1245 millimeters)     |
+| 20 inches (510 millimeters) | 48 1/2 inches (1230 millimeters) |
+| 21 inches (535 millimeters) | 47 1/2 inches (1205 millimeters) |
+| 22 inches (560 millimeters) | 47 inches (1195 millimeters)     |
+| 23 inches (585 millimeters) | 46 1/2 inches (1180 millimeters) |
+| 24 inches (610 millimeters) | 46 inches (1170 millimeters)     |
+
+(3) Forward and Parallel Approach. If both a forward and parallel approach are possible, operable parts of controls shall be placed within at least one of the reach ranges in paragraphs (1) or (2) of this section.
+
+(4) Bins. Where bins are provided, for envelopes, waste paper, or other purposes, at least one of each type provided shall comply with the applicable reach ranges in paragraph (1), (2), or (3) of this section.
+
+EXCEPTION: Where a function can be performed in a substantially equivalent manner by using an alternate control, only one of the controls needed to perform that function is required to comply with this section. If the controls are identified by tactile markings, such markings shall be provided on both controls.
 
 **4.34.4 Controls**
 
@@ -2268,7 +2457,6 @@ In new construction, all dining areas, including raised or sunken dining areas, 
 **5.5 Food Service Lines**
 
 Food service lines shall have a minimum clear width of 36 in (915 mm), with a preferred clear width of 42 in (1065 mm) to allow passage around a person using a wheelchair. Tray slides shall be mounted no higher than 34 in (865 mm) above the floor (see [Fig. 53](#figure53). If self-service shelves are provided, at least 50 percent of each type must be within reach ranges specified in 4.2.5 and 4.2.6.
-<a name="anchor54"></a>
 
 {% figure Figure 53 %}
 {% asset design-standards/fig_53.gif alt="figure 53" %}
@@ -2310,15 +2498,17 @@ Spaces for vending machines and other equipment shall comply with 4.2 and shall 
 
 Medical care facilities included in this section are those in which people receive physical or medical treatment or care and where persons may need assistance in responding to an emergency and where the period of stay may exceed twenty-four hours. In addition to the requirements of 4.1 through 4.35, medical care facilities and buildings shall comply with 6.
 
-1. Hospitals - general purpose hospitals, psychiatric facilities, detoxification facilities - At least 10 percent of patient bedrooms and toilets, and all public use and common use areas are required to be designed and constructed to be accessible.
+(1) Hospitals - general purpose hospitals, psychiatric facilities, detoxification facilities - At least 10 percent of patient bedrooms and toilets, and all public use and common use areas are required to be designed and constructed to be accessible.
 
-2. Hospitals and rehabilitation facilities that specialize in treating conditions that affect mobility, or units within either that specialize in treating conditions that affect mobility - All patient bedrooms and toilets, and all public use and common use areas are required to be designed and constructed to be accessible.
+(2) Hospitals and rehabilitation facilities that specialize in treating conditions that affect mobility, or units within either that specialize in treating conditions that affect mobility - All patient bedrooms and toilets, and all public use and common use areas are required to be designed and constructed to be accessible.
 
-3. Long term care facilities, nursing homes - At least 50 percent of patient bedrooms and toilets, and all public use and common use areas are required to be designed and constructed to be accessible.
+(3) Long term care facilities, nursing homes - At least 50 percent of patient bedrooms and toilets, and all public use and common use areas are required to be designed and constructed to be accessible.
 
-4. Alterations to patient bedrooms.
-   - (a) When patient bedrooms are being added or altered as part of a planned renovation of an entire wing, a department, or other discrete area of an existing medical facility, a percentage of the patient bedrooms that are being added or altered shall comply with 6.3. The percentage of accessible rooms provided shall be consistent with the percentage of rooms required to be accessible by the applicable requirements of 6.1(1), 6.1(2), or 6.1(3), until the number of accessible patient bedrooms in the facility equals the overall number that would be required if the facility were newly constructed. (For example, if 20 patient bedrooms are being altered in the obstetrics department of a hospital, 2 of the altered rooms must be made accessible. If, within the same hospital, 20 patient bedrooms are being altered in a unit that specializes in treating mobility impairments, all of the altered rooms must be made accessible.) Where toilet/bathrooms are part of patient bedrooms which are added or altered and required to be accessible, each such patient toilet/bathroom shall comply with 6.4.
-   - (b) When patient bedrooms are being added or altered individually, and not as part of an alteration of the entire area, the altered patient bedrooms shall comply with 6.3, unless either: a) the number of accessible rooms provided in the department or area containing the altered patient bedroom equals the number of accessible patient bedrooms that would be required if the percentage requirements of 6.1(1), 6.1(2), or 6.1(3) were applied to that department or area; or b) the number of accessible patient bedrooms in the facility equals the overall number that would be required if the facility were newly constructed. Where toilet/bathrooms are part of patient bedrooms which are added or altered and required to be accessible, each such toilet/bathroom shall comply with 6.4.
+(4) Alterations to patient bedrooms.
+
+(a) When patient bedrooms are being added or altered as part of a planned renovation of an entire wing, a department, or other discrete area of an existing medical facility, a percentage of the patient bedrooms that are being added or altered shall comply with 6.3. The percentage of accessible rooms provided shall be consistent with the percentage of rooms required to be accessible by the applicable requirements of 6.1(1), 6.1(2), or 6.1(3), until the number of accessible patient bedrooms in the facility equals the overall number that would be required if the facility were newly constructed. (For example, if 20 patient bedrooms are being altered in the obstetrics department of a hospital, 2 of the altered rooms must be made accessible. If, within the same hospital, 20 patient bedrooms are being altered in a unit that specializes in treating mobility impairments, all of the altered rooms must be made accessible.) Where toilet/bathrooms are part of patient bedrooms which are added or altered and required to be accessible, each such patient toilet/bathroom shall comply with 6.4.
+
+(b) When patient bedrooms are being added or altered individually, and not as part of an alteration of the entire area, the altered patient bedrooms shall comply with 6.3, unless either: a) the number of accessible rooms provided in the department or area containing the altered patient bedroom equals the number of accessible patient bedrooms that would be required if the percentage requirements of 6.1(1), 6.1(2), or 6.1(3) were applied to that department or area; or b) the number of accessible patient bedrooms in the facility equals the overall number that would be required if the facility were newly constructed. Where toilet/bathrooms are part of patient bedrooms which are added or altered and required to be accessible, each such toilet/bathroom shall comply with 6.4.
 
 **6.2 Entrances**
 
@@ -2328,9 +2518,13 @@ At least one accessible entrance that complies with 4.14 shall be protected from
 
 Provide accessible patient bedrooms in compliance with 4.1 through 4.35. Accessible patient bedrooms shall comply with the following:
 
-1. Each bedroom shall have a door that complies with 4.13. <br/>**EXCEPTION**: Entry doors to acute care hospital bedrooms for in-patients shall be exempted from the requirement in 4.13.6 for maneuvering space at the latch side of the door if the door is at least 44 in (1120 mm) wide.
-2. Each bedroom shall have adequate space to provide a maneuvering space that complies with 4.2.3. In rooms with 2 beds, it is preferable that this space be located between beds.
-3. Each bedroom shall have adequate space to provide a minimum clear floor space of 36 in (915 mm) along each side of the bed and to provide an accessible route complying with 4.3.3 to each side of each bed.
+(1) Each bedroom shall have a door that complies with 4.13.
+
+EXCEPTION: Entry doors to acute care hospital bedrooms for in-patients shall be exempted from the requirement in 4.13.6 for maneuvering space at the latch side of the door if the door is at least 44 in (1120 mm) wide.
+
+(2) Each bedroom shall have adequate space to provide a maneuvering space that complies with 4.2.3. In rooms with 2 beds, it is preferable that this space be located between beds.
+
+(3) Each bedroom shall have adequate space to provide a minimum clear floor space of 36 in (915 mm) along each side of the bed and to provide an accessible route complying with 4.3.3 to each side of each bed.
 
 **6.4 Patient Toilet Rooms**
 
@@ -2344,19 +2538,22 @@ In addition to the requirements of 4.1 to 4.35, the design of all areas used for
 
 ### 7.2 Sales and Service Counters, Teller Windows, Information Counters
 
-1. In department stores and miscellaneous retail stores where counters have cash registers and are provided for sales or distribution of goods or services to the public, at least one of each type shall have a portion of the counter which is at least 36 in (915mm) in length with a maximum height of 36 in (915 mm) above the finish floor. It shall be on an accessible route complying with 4.3. The accessible counters must be dispersed throughout the building or facility. In alterations where it is technically infeasible to provide an accessible counter, an auxiliary counter meeting these requirements may be provided.
-2. At ticketing counters, teller stations in a bank, registration counters in hotels and motels, box office ticket counters, and other counters that may not have a cash register but at which goods or services are sold or distributed, either:
+(1) In department stores and miscellaneous retail stores where counters have cash registers and are provided for sales or distribution of goods or services to the public, at least one of each type shall have a portion of the counter which is at least 36 in (915mm) in length with a maximum height of 36 in (915 mm) above the finish floor. It shall be on an accessible route complying with 4.3. The accessible counters must be dispersed throughout the building or facility. In alterations where it is technically infeasible to provide an accessible counter, an auxiliary counter meeting these requirements may be provided.
 
-   - (i) a portion of the main counter which is a minimum of 36 in (915 mm) in length shall be provided with a maximum height of 36 in (915 mm); or
-   - (ii) an auxiliary counter with a maximum height of 36 in (915 mm) in close proximity to the main counter shall be provided; or
-   - (iii) equivalent facilitation shall be provided (e.g., at a hotel registration counter, equivalent facilitation might consist of: (1) provision of a folding shelf attached to the main counter on which an individual with disabilities can write, and (2) use of the space on the side of the counter or at the concierge desk, for handing materials back and forth).
-     All accessible sales and service counters shall be on an accessible route complying with 4.3.
+(2) At ticketing counters, teller stations in a bank, registration counters in hotels and motels, box office ticket counters, and other counters that may not have a cash register but at which goods or services are sold or distributed, either:
 
-3. \* Assistive Listening Devices. (Reserved)
+(i) a portion of the main counter which is a minimum of 36 in (915 mm) in length shall be provided with a maximum height of 36 in (915 mm); or
+
+(ii) an auxiliary counter with a maximum height of 36 in (915 mm) in close proximity to the main counter shall be provided; or
+
+(iii) equivalent facilitation shall be provided (e.g., at a hotel registration counter, equivalent facilitation might consist of: (1) provision of a folding shelf attached to the main counter on which an individual with disabilities can write, and (2) use of the space on the side of the counter or at the concierge desk, for handing materials back and forth).
+All accessible sales and service counters shall be on an accessible route complying with 4.3.
+
+(3) \* Assistive Listening Devices. (Reserved)
 
 ### 7.3\* Check-out Aisles
 
-1. In new construction, accessible check-out aisles shall be provided in conformance with the table below:
+(1) In new construction, accessible check-out aisles shall be provided in conformance with the table below:
 
 | Total Check-out Aisles of Each Design | Minimum Number of Accessible Check-out Aisles (of each design) |
 | ------------------------------------- | -------------------------------------------------------------- |
@@ -2365,8 +2562,11 @@ In addition to the requirements of 4.1 to 4.35, the design of all areas used for
 | 8 - 15                                | 3                                                              |
 | over 15                               | 3, plus 20% of additional aisles                               |
 
-<br/>**EXCEPTION**: In new construction, where the selling space is under 5000 square feet, only one check-out aisle is required to be accessible.
-<br/> **EXCEPTION**: In alterations, at least one check-out aisle shall be accessible in facilities under 5000 square feet of selling space. In facilities of 5000 or more square feet of selling space, at least one of each design of check-out aisle shall be made accessible when altered until the number of accessible check-out aisles of each design equals the number required in new construction.
+
+EXCEPTION: In new construction, where the selling space is under 5000 square feet, only one check-out aisle is required to be accessible.
+
+
+EXCEPTION: In alterations, at least one check-out aisle shall be accessible in facilities under 5000 square feet of selling space. In facilities of 5000 or more square feet of selling space, at least one of each design of check-out aisle shall be made accessible when altered until the number of accessible check-out aisles of each design equals the number required in new construction.
 
 Examples of check-out aisles of different &quot;design&quot; include those which are specifically designed to serve different functions. Different &quot;design&quot; includes but is not limited to the following features - length of belt or no belt; or permanent signage designating the aisle as an express lane. 2. Clear aisle width for accessible check-out aisles shall comply with 4.2.1 and maximum adjoining counter height shall not exceed 38 in (965 mm) above the finish floor. The top of the lip shall not exceed 40 in (1015 mm) above the finish floor. 3. Signage identifying accessible check-out aisles shall comply with 4.30.7 and shall be mounted above the check-out aisle in the same location where the check-out number or type of check-out is displayed.
 
@@ -2416,13 +2616,15 @@ The minimum width between fixed stacks is 36 inches (915 mm).
 
 ## 9. Accessible Transient Lodging
 
-1. Except as specified in the special technical provisions of this section, accessible transient lodging shall comply with the applicable requirements of 4.1 through 4.35. Transient lodging includes facilities or portions thereof used for sleeping accommodations, when not classed as a medical care facility.
+(1) Except as specified in the special technical provisions of this section, accessible transient lodging shall comply with the applicable requirements of 4.1 through 4.35. Transient lodging includes facilities or portions thereof used for sleeping accommodations, when not classed as a medical care facility.
 
 ### 9.1 Hotels, Motels, Inns, Boarding Houses, Dormitories, Resorts and Other Similar Places of Transient Lodging
 
 **9.1.1 General**
 
-All public use and common use areas are required to be designed and constructed to comply with section 4 (Accessible Elements and Spaces: Scope and Technical Requirements).<br/>**EXCEPTION**: Sections 9.1 through 9.4 do not apply to an establishment located within a building that contains not more than five rooms for rent or hire and that is actually occupied by the proprietor of such establishment as the residence of such proprietor.
+All public use and common use areas are required to be designed and constructed to comply with section 4 (Accessible Elements and Spaces: Scope and Technical Requirements).
+
+EXCEPTION: Sections 9.1 through 9.4 do not apply to an establishment located within a building that contains not more than five rooms for rent or hire and that is actually occupied by the proprietor of such establishment as the residence of such proprietor.
 
 **9.1.2 Accessible Units, Sleeping Rooms, and Suites**
 
@@ -2478,8 +2680,9 @@ In addition to those accessible sleeping rooms and suites required by 9.1.2, sle
 
 **9.1.4 Classes of Sleeping Accommodations**
 
-1. In order to provide persons with disabilities a range of options equivalent to those available to other persons served by the facility, sleeping rooms and suites required to be accessible by 9.1.2 shall be dispersed among the various classes of sleeping accommodations available to patrons of the place of transient lodging. Factors to be considered include room size, cost, amenities provided, and the number of beds provided.
-2. Equivalent Facilitation. For purposes of this section, it shall be deemed equivalent facilitation if the operator of a facility elects to limit construction of accessible rooms to those intended for multiple occupancy, provided that such rooms are made available at the cost of a single occupancy room to an individual with disabilities who requests a single-occupancy room.
+(1) In order to provide persons with disabilities a range of options equivalent to those available to other persons served by the facility, sleeping rooms and suites required to be accessible by 9.1.2 shall be dispersed among the various classes of sleeping accommodations available to patrons of the place of transient lodging. Factors to be considered include room size, cost, amenities provided, and the number of beds provided.
+
+(2) Equivalent Facilitation. For purposes of this section, it shall be deemed equivalent facilitation if the operator of a facility elects to limit construction of accessible rooms to those intended for multiple occupancy, provided that such rooms are made available at the cost of a single occupancy room to an individual with disabilities who requests a single-occupancy room.
 
 **9.1.5. Alterations to Accessible Units, Sleeping Rooms, and Suites**
 
@@ -2495,19 +2698,33 @@ Units, sleeping rooms, and suites required to be accessible by 9.1 shall comply 
 
 An accessible unit, sleeping room or suite shall be on an accessible route complying with 4.3 and have the following accessible elements and spaces.
 
-1. Accessible sleeping rooms shall have a 36 in (915 mm) clear width maneuvering space located along both sides of a bed, except that where two beds are provided, this requirement can be met by providing a 36 in (915 mm) wide maneuvering space located between the two beds.
-2. An accessible route complying with 4.3 shall connect all accessible spaces and elements, including telephones, within the unit, sleeping room, or suite. This is not intended to require an elevator in multi-story units as long as the spaces identified in 9.2.2(6) and (7) are on accessible levels and the accessible sleeping area is suitable for dual occupancy.
-3. Doors and doorways designed to allow passage into and within all sleeping rooms, suites or other covered units shall comply with 4.13.
-4. If fixed or built-in storage facilities such as cabinets, shelves, closets, and drawers are provided in accessible spaces, at least one of each type provided shall contain storage space complying with 4.25. Additional storage may be provided outside of the dimensions required by 4.25.
-5. All controls in accessible units, sleeping rooms, and suites shall comply with 4.27.
-6. Where provided as part of an accessible unit, sleeping room, or suite, the following spaces shall be accessible and shall be on an accessible route:
-   - (a) the living area
-   - (b) the dining area
-   - (c) at least one sleeping area
-   - (d) patios, terraces, or balconies. <br/>**EXCEPTION**: The requirements of 4.13.8 and 4.3.8 do not apply where it is necessary to utilize a higher door threshold or a change in level to protect the integrity of the unit from wind/water damage. Where this exception results in patios, terraces or balconies that are not at an accessible level, equivalent facilitation shall be provided. (e.g., Equivalent facilitation at a hotel patio or balcony might consist of providing raised decking or a ramp to provide accessibility).
-   - (e) at least one full bathroom (i.e., one with a water closet, a lavatory, and a bathtub or shower). (f) if only half baths are provided, at least one half bath. (g) carports, garages or parking spaces.
-7. Kitchens, Kitchenettes, or Wet Bars. When provided as accessory to a sleeping room or suite, kitchens, kitchenettes, wet bars, or similar amenities shall be accessible. Clear floor space for a front or parallel approach to cabinets, counters, sinks, and appliances shall be provided to comply with 4.2.4. Countertops and sinks shall be mounted at a maximum height of 34 in (865 mm) above the floor. At least fifty percent of shelf space in cabinets or refrigerator/freezers shall be within the reach ranges of 4.2.5 or 4.2.6 and space shall be designed to allow for the operation of cabinet and/or appliance doors so that all cabinets and appliances are accessible and usable. Controls and operating mechanisms shall comply with 4.27.
-8. Sleeping room accommodations for persons with hearing impairments required by 9.1 and complying with 9.3 shall be provided in the accessible sleeping room or suite.
+(1) Accessible sleeping rooms shall have a 36 in (915 mm) clear width maneuvering space located along both sides of a bed, except that where two beds are provided, this requirement can be met by providing a 36 in (915 mm) wide maneuvering space located between the two beds.
+
+(2) An accessible route complying with 4.3 shall connect all accessible spaces and elements, including telephones, within the unit, sleeping room, or suite. This is not intended to require an elevator in multi-story units as long as the spaces identified in 9.2.2(6) and (7) are on accessible levels and the accessible sleeping area is suitable for dual occupancy.
+
+(3) Doors and doorways designed to allow passage into and within all sleeping rooms, suites or other covered units shall comply with 4.13.
+
+(4) If fixed or built-in storage facilities such as cabinets, shelves, closets, and drawers are provided in accessible spaces, at least one of each type provided shall contain storage space complying with 4.25. Additional storage may be provided outside of the dimensions required by 4.25.
+
+(5) All controls in accessible units, sleeping rooms, and suites shall comply with 4.27.
+
+(6) Where provided as part of an accessible unit, sleeping room, or suite, the following spaces shall be accessible and shall be on an accessible route:
+
+(a) the living area
+
+(b) the dining area
+
+(c) at least one sleeping area
+
+(d) patios, terraces, or balconies.
+
+EXCEPTION: The requirements of 4.13.8 and 4.3.8 do not apply where it is necessary to utilize a higher door threshold or a change in level to protect the integrity of the unit from wind/water damage. Where this exception results in patios, terraces or balconies that are not at an accessible level, equivalent facilitation shall be provided. (e.g., Equivalent facilitation at a hotel patio or balcony might consist of providing raised decking or a ramp to provide accessibility).
+
+(e) at least one full bathroom (i.e., one with a water closet, a lavatory, and a bathtub or shower). (f) if only half baths are provided, at least one half bath. (g) carports, garages or parking spaces.
+
+(7) Kitchens, Kitchenettes, or Wet Bars. When provided as accessory to a sleeping room or suite, kitchens, kitchenettes, wet bars, or similar amenities shall be accessible. Clear floor space for a front or parallel approach to cabinets, counters, sinks, and appliances shall be provided to comply with 4.2.4. Countertops and sinks shall be mounted at a maximum height of 34 in (865 mm) above the floor. At least fifty percent of shelf space in cabinets or refrigerator/freezers shall be within the reach ranges of 4.2.5 or 4.2.6 and space shall be designed to allow for the operation of cabinet and/or appliance doors so that all cabinets and appliances are accessible and usable. Controls and operating mechanisms shall comply with 4.27.
+
+(8) Sleeping room accommodations for persons with hearing impairments required by 9.1 and complying with 9.3 shall be provided in the accessible sleeping room or suite.
 
 **9.3 Visual Alarms, Notification Devices and Telephones**
 
@@ -2527,20 +2744,31 @@ Doors and doorways designed to allow passage into and within all sleeping units 
 
 **9.5.1 New Construction**
 
-In new construction all public use and common use areas are required to be designed and constructed to comply with section 4. At least one of each type of amenity (such as washers, dryers and similar equipment installed for the use of occupants) in each common area shall be accessible and shall be located on an accessible route to any accessible unit or sleeping accommodation. <br/>**EXCEPTION**: Where elevators are not provided as allowed in 4.1.3(5), accessible amenities are not required on inaccessible floors as long as one of each type is provided in common areas on accessible floors.
+In new construction all public use and common use areas are required to be designed and constructed to comply with section 4. At least one of each type of amenity (such as washers, dryers and similar equipment installed for the use of occupants) in each common area shall be accessible and shall be located on an accessible route to any accessible unit or sleeping accommodation.
+
+EXCEPTION: Where elevators are not provided as allowed in 4.1.3(5), accessible amenities are not required on inaccessible floors as long as one of each type is provided in common areas on accessible floors.
 
 **9.5.2 Alterations**
 
-1. Social service establishments which are not homeless shelters:
-   - (a) The provisions of 9.5.3 and 9.1.5 shall apply to sleeping rooms and beds.
-   - (b) Alteration of other areas shall be consistent with the new construction provisions of 9.5.1.
-2. Homeless shelters. If the following elements are altered, the following requirements apply:
-   - (a) at least one public entrance shall allow a person with mobility impairments to approach, enter and exit including a minimum clear door width of 32 in (815 mm).
-   - (b) sleeping space for homeless persons as provided in the scoping provisions of 9.1.2 shall include doors to the sleeping area with a minimum clear width of 32 in (815 mm) and maneuvering space around the beds for persons with mobility impairments complying with 9.2.2(1).
-   - (c) at least one toilet room for each gender or one unisex toilet room shall have a minimum clear door width of 32 in (815 mm), minimum turning space complying with 4.2.3, one water closet complying with 4.16, one lavatory complying with 4.19 and the door shall have a privacy latch; and, if provided, at least one tub or shower shall comply with 4.20 or 4.21, respectively.
-   - (d) at least one common area which a person with mobility impairments can approach, enter and exit including a minimum clear door width of 32 in (815 mm).
-   - (e) at least one route connecting elements (a), (b), (c) and (d) which a person with mobility impairments can use including minimum clear width of 36 in (915 mm), passing space complying with 4.3.4, turning space complying with 4.2.3 and changes in levels complying with 4.3.8.
-   - (f) homeless shelters can comply with the provisions of (a)-(e) by providing the above elements on one accessible floor.
+(1) Social service establishments which are not homeless shelters:
+
+(a) The provisions of 9.5.3 and 9.1.5 shall apply to sleeping rooms and beds.
+
+(b) Alteration of other areas shall be consistent with the new construction provisions of 9.5.1.
+
+(2) Homeless shelters. If the following elements are altered, the following requirements apply:
+
+(a) at least one public entrance shall allow a person with mobility impairments to approach, enter and exit including a minimum clear door width of 32 in (815 mm).
+
+(b) sleeping space for homeless persons as provided in the scoping provisions of 9.1.2 shall include doors to the sleeping area with a minimum clear width of 32 in (815 mm) and maneuvering space around the beds for persons with mobility impairments complying with 9.2.2(1).
+
+(c) at least one toilet room for each gender or one unisex toilet room shall have a minimum clear door width of 32 in (815 mm), minimum turning space complying with 4.2.3, one water closet complying with 4.16, one lavatory complying with 4.19 and the door shall have a privacy latch; and, if provided, at least one tub or shower shall comply with 4.20 or 4.21, respectively.
+
+(d) at least one common area which a person with mobility impairments can approach, enter and exit including a minimum clear door width of 32 in (815 mm).
+
+(e) at least one route connecting elements (a), (b), (c) and (d) which a person with mobility impairments can use including minimum clear width of 36 in (915 mm), passing space complying with 4.3.4, turning space complying with 4.2.3 and changes in levels complying with 4.3.8.
+
+(f) homeless shelters can comply with the provisions of (a)-(e) by providing the above elements on one accessible floor.
 
 **9.5.3. Accessible Sleeping Accommodations in New Construction**
 
@@ -2557,14 +2785,19 @@ Every station, bus stop, bus stop pad, terminal, building or other transportatio
 
 **10.2.1 New Construction**
 
-1. Where new bus stop pads are constructed at bus stops, bays or other areas where a lift or ramp is to be deployed, they shall have a firm, stable surface; a minimum clear length of 96 inches (measured from the curb or vehicle roadway edge) and a minimum clear width of 60 inches (measured parallel to the vehicle roadway) to the maximum extent allowed by legal or site constraints; and shall be connected to streets, sidewalks or pedestrian paths by an accessible route complying with 4.3 and 4.4. The slope of the pad parallel to the roadway shall, to the extent practicable, be the same as the roadway. For water drainage, a maximum slope of 1:50 (2%) perpendicular to the roadway is allowed.
-2. Where provided, new or replaced bus shelters shall be installed or positioned so as to permit a wheelchair or mobility aid user to enter from the public way and to reach a location, having a minimum clear floor area of 30 inches by 48 inches, entirely within the perimeter of the shelter. Such shelters shall be connected by an accessible route to the boarding area provided under paragraph (1) of this section.
-3. Where provided, all new bus route identification signs shall comply with 4.30.5. In addition, to the maximum extent practicable, all new bus route identification signs shall comply with 4.30.2 and 4.30.3. Signs that are sized to the maximum dimensions permitted under legitimate local, state or federal regulations or ordinances shall be considered in compliance with 4.30.2 and 4.30.3 for purposes of this section.<br/> **EXCEPTION**: Bus schedules, timetables, or maps that are posted at the bus stop or bus bay are not required to comply with this provision.
+(1) Where new bus stop pads are constructed at bus stops, bays or other areas where a lift or ramp is to be deployed, they shall have a firm, stable surface; a minimum clear length of 96 inches (measured from the curb or vehicle roadway edge) and a minimum clear width of 60 inches (measured parallel to the vehicle roadway) to the maximum extent allowed by legal or site constraints; and shall be connected to streets, sidewalks or pedestrian paths by an accessible route complying with 4.3 and 4.4. The slope of the pad parallel to the roadway shall, to the extent practicable, be the same as the roadway. For water drainage, a maximum slope of 1:50 (2%) perpendicular to the roadway is allowed.
+
+(2) Where provided, new or replaced bus shelters shall be installed or positioned so as to permit a wheelchair or mobility aid user to enter from the public way and to reach a location, having a minimum clear floor area of 30 inches by 48 inches, entirely within the perimeter of the shelter. Such shelters shall be connected by an accessible route to the boarding area provided under paragraph (1) of this section.
+
+(3) Where provided, all new bus route identification signs shall comply with 4.30.5. In addition, to the maximum extent practicable, all new bus route identification signs shall comply with 4.30.2 and 4.30.3. Signs that are sized to the maximum dimensions permitted under legitimate local, state or federal regulations or ordinances shall be considered in compliance with 4.30.2 and 4.30.3 for purposes of this section.
+
+EXCEPTION: Bus schedules, timetables, or maps that are posted at the bus stop or bus bay are not required to comply with this provision.
 
 **10.2.2 Bus Stop Siting and Alterations**
 
-1. Bus stop sites shall be chosen such that, to the maximum extent practicable, the areas where lifts or ramps are to be deployed comply with section 10.2.1(1) and (2).
-2. When new bus route identification signs are installed or old signs are replaced, they shall comply with the requirements of 10.2.1(3).
+(1) Bus stop sites shall be chosen such that, to the maximum extent practicable, the areas where lifts or ramps are to be deployed comply with section 10.2.1(1) and (2).
+
+(2) When new bus route identification signs are installed or old signs are replaced, they shall comply with the requirements of 10.2.1(3).
 
 ### 10.3 Fixed Facilities and Stations
 
@@ -2572,58 +2805,101 @@ Every station, bus stop, bus stop pad, terminal, building or other transportatio
 
 New stations in rapid rail, light rail, commuter rail, intercity bus, intercity rail, high speed rail, and other fixed guideway systems (e.g., automated guideway transit, monorails, etc.) shall comply with the following provisions, as applicable.
 
-1. Elements such as ramps, elevators or other circulation devices, fare vending or other ticketing areas, and fare collection areas shall be placed to minimize the distance which wheelchair users and other persons who cannot negotiate steps may have to travel compared to the general public. The circulation path, including an accessible entrance and an accessible route, for persons with disabilities shall, to the maximum extent practicable, coincide with the circulation path for the general public. Where the circulation path is different, signage complying with 4.30.1, 4.30.2, 4.30.3, 4.30.5, and 4.30.7(1) shall be provided to indicate direction to and identify the accessible entrance and accessible route.
-2. In lieu of compliance with 4.1.3(8), at least one entrance to each station shall comply with 4.14, Entrances. If different entrances to a station serve different transportation fixed routes or groups of fixed routes, at least one entrance serving each group or route shall comply with 4.14, Entrances. All accessible entrance shall, to the maximum extent practicable, coincide with those used by the majority of the general public.
-3. Direct connections to commercial, retail, or residential facilities shall have an accessible route complying with 4.3 from the point of connection to boarding platforms and all transportation system elements used by the public. Any elements provided to facilitate future direct connections shall be on an accessible route connecting boarding platforms and all transportation system elements used by the public.
-4. Where signs are provided at entrances to stations identifying the station or the entrance, or both, at least one sign at each entrance shall comply with 4.30.4 and 4.30.6. Such signs shall be placed in uniform locations at entrances within the transit system to the maximum extent practicable. <br/>**EXCEPTION**: Where the station has no defined entrance, but signage is provided, then the accessible signage shall be placed in a central location.
-5. Stations covered by this section shall have identification signs complying with 4.30.1, 4.30.2, 4.30.3, and 4.30.5. Signs shall be placed at frequent intervals and shall be clearly visible from within the vehicle on both sides when not obstructed by another train. When station identification signs are placed close to vehicle windows (i.e., on the side opposite from boarding) each shall have the top of the highest letter or symbol below the top of the vehicle window and the bottom of the lowest letter or symbol above the horizontal mid-line of the vehicle window.
-6. Lists of stations, routes, or destinations served by the station and located on boarding areas, platforms, or mezzanines shall comply with 4.30.1, 4.30.2, 4.30.3, and 4.30.5. A minimum of one sign identifying the specific station and complying with 4.30.4 and 4.30.6 shall be provided on each platform or boarding area. All signs referenced in this paragraph shall, to the maximum extent practicable, be placed in uniform locations within the transit system.
-7. \* Automatic fare vending, collection and adjustment (e.g., add-fare) systems shall comply with 4.34.2, 4.34.3, 4.34.4, and 4.34.5. At each accessible entrance such devices shall be located on an accessible route. If self-service fare collection devices are provided for the use of the general public, at least one accessible device for entering, and at least one for exiting, unless one device serves both functions, shall be provided at each accessible point of entry or exit. Accessible fare collection devices shall have a minimum clear opening width of 32 in; shall permit passage of a wheelchair; and, where provided, coin or card slots and controls necessary for operation shall comply with 4.27. Gates which must be pushed open by wheelchair or mobility aid users shall have a smooth continuous surface extending from 2 inches above the floor to 27 inches above the floor and shall comply with 4.13. Where the circulation path does not coincide with that used by the general public, accessible fare collection systems shall be located at or adjacent to the accessible point of entry or exit.
-8. Platform edges bordering a drop-off and not protected by platform screens or guard rails shall have a detectable warning. Such detectable warnings shall comply with 4.29.2 and shall be 24 inches wide running the full length of the platform drop-off.
-9. In stations covered by this section, rail-to-platform height in new stations shall be coordinated with the floor height of new vehicles so that the vertical difference, measured when the vehicle is at rest, is within plus or minus 5/8 inch under normal passenger load conditions. For rapid rail, light rail, commuter rail, high speed rail, and intercity rail systems in new stations, the horizontal gap, measured when the new vehicle is at rest, shall be no greater than 3 in. For slow moving automated guideway &quot;people mover&quot; transit systems, the horizontal gap in new stations shall be no greater than 1 in. <br/>**EXCEPTION 1:** Existing vehicles operating in new stations may have a vertical difference with respect to the new platform within plus or minus 1-1/2 in. <br/> **EXCEPTION 2:** In light rail, commuter rail and intercity rail systems where it is not operationally or structurally feasible to meet the horizontal gap or vertical difference requirements, mini-high platforms, car-borne or platform-mounted lifts, ramps or bridge plates, or similar manually deployed devices, meeting the applicable requirements of 36 C.F.R. part 1192, or 49 C.F.R. part 38 shall suffice.
-10. Stations shall not be designed or constructed so as to require persons with disabilities to board or alight from a vehicle at a location other than one used by the general public.
-11. Illumination levels in the areas where signage is located shall be uniform and shall minimize glare on signs. Lighting along circulation routes shall be of a type and configuration to provide uniform illumination.
-12. Text Telephones: The following shall be provided in accordance with 4.31.9:
-    - (a) If an interior public pay telephone is provided in a transit facility (as defined by the Department of Transportation) at least one interior public text telephone shall be provided in the station.
-    - (b) Where four or more public pay telephones serve a particular entrance to a rail station and at least one is in an interior location, at least one interior public text telephone shall be provided to serve that entrance. Compliance with this section constitutes compliance with section 4.1.3(17)(c).
-13. Where it is necessary to cross tracks to reach boarding platforms, the route surface shall be level and flush with the rail top at the outer edge and between rails, except for a maximum 2-1/2 inch gap on the inner edge of each rail to permit passage of wheel flanges. Such crossings shall comply with 4.29.5. Where gap reduction is not practicable, an above-grade or below-grade accessible route shall be provided.
-14. Where public address systems are provided to convey information to the public in terminals, stations, or other fixed facilities, a means of conveying the same or equivalent information to persons with hearing loss or who are deaf shall be provided.
-15. Where clocks are provided for use by the general public, the clock face shall be uncluttered so that its elements are clearly visible. Hands, numerals, and/or digits shall contrast with the background either light-on-dark or dark-on-light. Where clocks are mounted overhead, numerals and/or digits shall comply with 4.30.3. Clocks shall be placed in uniform locations throughout the facility and system to the maximum extent practicable.
-16. Where provided in below grade stations, escalators shall have a minimum clear width of 32 inches. At the top and bottom of each escalator run, at least two contiguous treads shall be level beyond the comb plate before the risers begin to form. All escalator treads shall be marked by a strip of clearly contrasting color, 2 inches in width, placed parallel to and on the nose of each step. The strip shall be of a material that is at least as slip resistant as the remainder of the tread. The edge of the tread shall be apparent from both ascending and descending directions.
-17. Where provided, elevators shall be glazed or have transparent panels to allow an unobstructed view both in to and out of the car. Elevators shall comply with 4.10.<br/>**EXCEPTION:** Elevator cars with a clear floor area in which a 60 inch diameter circle can be inscribed may be substituted for the minimum car dimensions of 4.10, [Fig. 22](#figure22).
-18. Where provided, ticketing areas shall permit persons with disabilities to obtain a ticket and check baggage and shall comply with 7.2.
-19. Where provided, baggage check-in and retrieval systems shall be on an accessible route complying with 4.3, and shall have space immediately adjacent complying with 4.2. If unattended security barriers are provided, at least one gate shall comply with 4.13. Gates which must be pushed open by wheelchair or mobility aid users shall have a smooth continuous surface extending from 2 inches above the floor to 27 inches above the floor.
+(1) Elements such as ramps, elevators or other circulation devices, fare vending or other ticketing areas, and fare collection areas shall be placed to minimize the distance which wheelchair users and other persons who cannot negotiate steps may have to travel compared to the general public. The circulation path, including an accessible entrance and an accessible route, for persons with disabilities shall, to the maximum extent practicable, coincide with the circulation path for the general public. Where the circulation path is different, signage complying with 4.30.1, 4.30.2, 4.30.3, 4.30.5, and 4.30.7(1) shall be provided to indicate direction to and identify the accessible entrance and accessible route.
+
+(2) In lieu of compliance with 4.1.3(8), at least one entrance to each station shall comply with 4.14, Entrances. If different entrances to a station serve different transportation fixed routes or groups of fixed routes, at least one entrance serving each group or route shall comply with 4.14, Entrances. All accessible entrance shall, to the maximum extent practicable, coincide with those used by the majority of the general public.
+
+(3) Direct connections to commercial, retail, or residential facilities shall have an accessible route complying with 4.3 from the point of connection to boarding platforms and all transportation system elements used by the public. Any elements provided to facilitate future direct connections shall be on an accessible route connecting boarding platforms and all transportation system elements used by the public.
+
+(4) Where signs are provided at entrances to stations identifying the station or the entrance, or both, at least one sign at each entrance shall comply with 4.30.4 and 4.30.6. Such signs shall be placed in uniform locations at entrances within the transit system to the maximum extent practicable.
+
+EXCEPTION: Where the station has no defined entrance, but signage is provided, then the accessible signage shall be placed in a central location.
+
+(5) Stations covered by this section shall have identification signs complying with 4.30.1, 4.30.2, 4.30.3, and 4.30.5. Signs shall be placed at frequent intervals and shall be clearly visible from within the vehicle on both sides when not obstructed by another train. When station identification signs are placed close to vehicle windows (i.e., on the side opposite from boarding) each shall have the top of the highest letter or symbol below the top of the vehicle window and the bottom of the lowest letter or symbol above the horizontal mid-line of the vehicle window.
+
+(6) Lists of stations, routes, or destinations served by the station and located on boarding areas, platforms, or mezzanines shall comply with 4.30.1, 4.30.2, 4.30.3, and 4.30.5. A minimum of one sign identifying the specific station and complying with 4.30.4 and 4.30.6 shall be provided on each platform or boarding area. All signs referenced in this paragraph shall, to the maximum extent practicable, be placed in uniform locations within the transit system.
+
+(7)\* Automatic fare vending, collection and adjustment (e.g., add-fare) systems shall comply with 4.34.2, 4.34.3, 4.34.4, and 4.34.5. At each accessible entrance such devices shall be located on an accessible route. If self-service fare collection devices are provided for the use of the general public, at least one accessible device for entering, and at least one for exiting, unless one device serves both functions, shall be provided at each accessible point of entry or exit. Accessible fare collection devices shall have a minimum clear opening width of 32 in; shall permit passage of a wheelchair; and, where provided, coin or card slots and controls necessary for operation shall comply with 4.27. Gates which must be pushed open by wheelchair or mobility aid users shall have a smooth continuous surface extending from 2 inches above the floor to 27 inches above the floor and shall comply with 4.13. Where the circulation path does not coincide with that used by the general public, accessible fare collection systems shall be located at or adjacent to the accessible point of entry or exit.
+
+(8) Platform edges bordering a drop-off and not protected by platform screens or guard rails shall have a detectable warning. Such detectable warnings shall comply with 4.29.2 and shall be 24 inches wide running the full length of the platform drop-off.
+
+(9) In stations covered by this section, rail-to-platform height in new stations shall be coordinated with the floor height of new vehicles so that the vertical difference, measured when the vehicle is at rest, is within plus or minus 5/8 inch under normal passenger load conditions. For rapid rail, light rail, commuter rail, high speed rail, and intercity rail systems in new stations, the horizontal gap, measured when the new vehicle is at rest, shall be no greater than 3 in. For slow moving automated guideway &quot;people mover&quot; transit systems, the horizontal gap in new stations shall be no greater than 1 in.
+
+EXCEPTION 1: Existing vehicles operating in new stations may have a vertical difference with respect to the new platform within plus or minus 1-1/2 in.
+
+EXCEPTION 2: In light rail, commuter rail and intercity rail systems where it is not operationally or structurally feasible to meet the horizontal gap or vertical difference requirements, mini-high platforms, car-borne or platform-mounted lifts, ramps or bridge plates, or similar manually deployed devices, meeting the applicable requirements of 36 C.F.R. part 1192, or 49 C.F.R. part 38 shall suffice.
+
+(10) Stations shall not be designed or constructed so as to require persons with disabilities to board or alight from a vehicle at a location other than one used by the general public.
+
+(11) Illumination levels in the areas where signage is located shall be uniform and shall minimize glare on signs. Lighting along circulation routes shall be of a type and configuration to provide uniform illumination.
+
+(12) Text Telephones: The following shall be provided in accordance with 4.31.9:
+
+(a) If an interior public pay telephone is provided in a transit facility (as defined by the Department of Transportation) at least one interior public text telephone shall be provided in the station.
+
+(b) Where four or more public pay telephones serve a particular entrance to a rail station and at least one is in an interior location, at least one interior public text telephone shall be provided to serve that entrance. Compliance with this section constitutes compliance with section 4.1.3(17)(c).
+
+(13) Where it is necessary to cross tracks to reach boarding platforms, the route surface shall be level and flush with the rail top at the outer edge and between rails, except for a maximum 2-1/2 inch gap on the inner edge of each rail to permit passage of wheel flanges. Such crossings shall comply with 4.29.5. Where gap reduction is not practicable, an above-grade or below-grade accessible route shall be provided.
+
+(14) Where public address systems are provided to convey information to the public in terminals, stations, or other fixed facilities, a means of conveying the same or equivalent information to persons with hearing loss or who are deaf shall be provided.
+
+(15) Where clocks are provided for use by the general public, the clock face shall be uncluttered so that its elements are clearly visible. Hands, numerals, and/or digits shall contrast with the background either light-on-dark or dark-on-light. Where clocks are mounted overhead, numerals and/or digits shall comply with 4.30.3. Clocks shall be placed in uniform locations throughout the facility and system to the maximum extent practicable.
+
+(16) Where provided in below grade stations, escalators shall have a minimum clear width of 32 inches. At the top and bottom of each escalator run, at least two contiguous treads shall be level beyond the comb plate before the risers begin to form. All escalator treads shall be marked by a strip of clearly contrasting color, 2 inches in width, placed parallel to and on the nose of each step. The strip shall be of a material that is at least as slip resistant as the remainder of the tread. The edge of the tread shall be apparent from both ascending and descending directions.
+
+(17) Where provided, elevators shall be glazed or have transparent panels to allow an unobstructed view both in to and out of the car. Elevators shall comply with 4.10.
+
+EXCEPTION: Elevator cars with a clear floor area in which a 60 inch diameter circle can be inscribed may be substituted for the minimum car dimensions of 4.10, [Fig. 22](#figure22).
+
+(18) Where provided, ticketing areas shall permit persons with disabilities to obtain a ticket and check baggage and shall comply with 7.2.
+
+(19) Where provided, baggage check-in and retrieval systems shall be on an accessible route complying with 4.3, and shall have space immediately adjacent complying with 4.2. If unattended security barriers are provided, at least one gate shall comply with 4.13. Gates which must be pushed open by wheelchair or mobility aid users shall have a smooth continuous surface extending from 2 inches above the floor to 27 inches above the floor.
 
 **10.3.2 Existing Facilities: Key Stations**
 
-1. Rapid, light and commuter rail key stations, as defined under criteria established by the Department of Transportation in subpart C of 49 CFR part 37 and existing intercity rail stations shall provide at least one accessible route from an accessible entrance to those areas necessary for use of the transportation system.
-2. The accessible route required by 10.3.2(1) shall include the features specified in 10.3.1(1), (4)-(9), (11)-(15), and (17)-(19).
-3. Where technical infeasability in existing stations requires the accessible route to lead from the public way to a paid area of the transit system, an accessible fare collection system, complying with 10.3.1(7), shall be provided along such accessible route.
-4. In light rail, rapid rail and commuter rail key stations, the platform or a portion thereof and the vehicle floor shall be coordinated so that the vertical difference, measured when the vehicle is at rest, is within plus or minus 1-1/2 inches under all normal passenger load conditions, and the horizontal gap, measured when the vehicle is at rest, is no greater than 3 inches for at least one door of each vehicle or car required to be accessible by 49 CFR part 37. <br/>**EXCEPTION 1:** Existing vehicles retrofitted to meet the requirements of 49 CFR 37.93 (one-car-per-train rule) shall be coordinated with the platform such that, for at least one door, the vertical difference between the vehicle floor and the platform, measured when the vehicle is at rest with 50% normal passenger capacity, is within plus or minus 2 inches and the horizontal gap is no greater than 4 inches.<br/>**EXCEPTION 2:** Where it is not structurally or operationally feasible to meet the horizontal gap or vertical difference requirements, mini-high platforms, car-borne or platform mounted lifts, ramps or bridge plates, or similar manually deployed devices, meeting the applicable requirements of 36 CFR part 1192, or 49 CFR part 38, shall suffice.
-5. New direct connections to commercial, retail, or residential facilities shall, to the maximum extent feasible, have an accessible route complying with 4.3 from the point of connection to boarding platforms and all transportation system elements used by the public. Any elements provided to facilitate future direct connections shall be on an accessible route connecting boarding platforms and all transportation system elements used by the public.
+(1) Rapid, light and commuter rail key stations, as defined under criteria established by the Department of Transportation in subpart C of 49 CFR part 37 and existing intercity rail stations shall provide at least one accessible route from an accessible entrance to those areas necessary for use of the transportation system.
+
+(2) The accessible route required by 10.3.2(1) shall include the features specified in 10.3.1(1), (4)-(9), (11)-(15), and (17)-(19).
+
+(3) Where technical infeasability in existing stations requires the accessible route to lead from the public way to a paid area of the transit system, an accessible fare collection system, complying with 10.3.1(7), shall be provided along such accessible route.
+
+(4) In light rail, rapid rail and commuter rail key stations, the platform or a portion thereof and the vehicle floor shall be coordinated so that the vertical difference, measured when the vehicle is at rest, is within plus or minus 1-1/2 inches under all normal passenger load conditions, and the horizontal gap, measured when the vehicle is at rest, is no greater than 3 inches for at least one door of each vehicle or car required to be accessible by 49 CFR part 37.
+
+EXCEPTION 1: Existing vehicles retrofitted to meet the requirements of 49 CFR 37.93 (one-car-per-train rule) shall be coordinated with the platform such that, for at least one door, the vertical difference between the vehicle floor and the platform, measured when the vehicle is at rest with 50% normal passenger capacity, is within plus or minus 2 inches and the horizontal gap is no greater than 4 inches.
+
+EXCEPTION 2: Where it is not structurally or operationally feasible to meet the horizontal gap or vertical difference requirements, mini-high platforms, car-borne or platform mounted lifts, ramps or bridge plates, or similar manually deployed devices, meeting the applicable requirements of 36 CFR part 1192, or 49 CFR part 38, shall suffice.
+
+(5) New direct connections to commercial, retail, or residential facilities shall, to the maximum extent feasible, have an accessible route complying with 4.3 from the point of connection to boarding platforms and all transportation system elements used by the public. Any elements provided to facilitate future direct connections shall be on an accessible route connecting boarding platforms and all transportation system elements used by the public.
 
 **10.3.3 Existing Facilities: Alterations**
 
-1. For the purpose of complying with 4.1.6(2) Alterations to an Area Containing a Primary Function, an area of primary function shall be as defined by applicable provisions of 49 C.F.R. 37.43(c) (Department of Transportation's ADA Rule) or 28 C.F.R. 36.403 (Department of Justice's ADA Rule).
+(1) For the purpose of complying with 4.1.6(2) Alterations to an Area Containing a Primary Function, an area of primary function shall be as defined by applicable provisions of 49 C.F.R. 37.43(c) (Department of Transportation's ADA Rule) or 28 C.F.R. 36.403 (Department of Justice's ADA Rule).
 
 ### 10.4 Airports
 
 **10.4.1 New Construction**
 
-1. Elements such as ramps, elevators or other vertical circulation devices, ticketing areas, security checkpoints, or passenger waiting areas shall be placed to minimize the distance which wheelchair users and other persons who cannot negotiate steps may have to travel compared to the general public.
-2. The circulation path, including an accessible entrance and an accessible route, for persons with disabilities shall, to the maximum extent practicable, coincide with the circulation path for the general public. Where the circulation path is different, directional signage complying with 4.30.1, 4.30.2, 4.30.3 and 4.30.5 shall be provided which indicates the location of the nearest accessible entrance and its accessible route.
-3. Ticketing areas shall permit persons with disabilities to obtain a ticket and check baggage and shall comply with 7.2.
-4. Where public pay telephones are provided, and at least one is at an interior location, a public text telephone shall be provided in compliance with 4.31.9. Additionally, if four or more public pay telephones are located in any of the following locations, at least one public text telephone shall also be provided in that location:
+(1) Elements such as ramps, elevators or other vertical circulation devices, ticketing areas, security checkpoints, or passenger waiting areas shall be placed to minimize the distance which wheelchair users and other persons who cannot negotiate steps may have to travel compared to the general public.
 
-   - (a) a main terminal outside the security areas;
-   - (b) a concourse within the security areas; or
-   - (c) a baggage claim area in a terminal.
-     Compliance with this section constitutes compliance with section 4.1.3(17)(c).
+(2) The circulation path, including an accessible entrance and an accessible route, for persons with disabilities shall, to the maximum extent practicable, coincide with the circulation path for the general public. Where the circulation path is different, directional signage complying with 4.30.1, 4.30.2, 4.30.3 and 4.30.5 shall be provided which indicates the location of the nearest accessible entrance and its accessible route.
 
-5. Baggage check-in and retrieval systems shall be on an accessible route complying with 4.3, and shall have space immediately adjacent complying with 4.2.4. If unattended security barriers are provided, at least one gate shall comply with 4.13. Gates which must be pushed open by wheelchair or mobility aid users shall have a smooth continuous surface extending from 2 inches above the floor to 27 inches above the floor.
-6. Terminal information systems which broadcast information to the general public through a public address system shall provide a means to provide the same or equivalent information to persons with a hearing loss or who are deaf. Such methods may include, but are not limited to, visual paging systems using video monitors and computer technology. For persons with certain types of hearing loss such methods may include, but are not limited to, an assistive listening system complying with 4.33.7.
-7. Where clocks are provided for use by the general public the clock face shall be uncluttered so that its elements are clearly visible. Hands, numerals, and/or digits shall contrast with their background either light-on-dark or dark-on-light. Where clocks are mounted overhead, numerals and/or digits shall comply with 4.30.3. Clocks shall be placed in uniform locations throughout the facility to the maximum extent practicable.
-8. (8) Security Systems. (Reserved).
+(3) Ticketing areas shall permit persons with disabilities to obtain a ticket and check baggage and shall comply with 7.2.
+
+(4) Where public pay telephones are provided, and at least one is at an interior location, a public text telephone shall be provided in compliance with 4.31.9. Additionally, if four or more public pay telephones are located in any of the following locations, at least one public text telephone shall also be provided in that location:
+
+(a) a main terminal outside the security areas;
+
+(b) a concourse within the security areas; or
+
+(c) a baggage claim area in a terminal. Compliance with this section constitutes compliance with section 4.1.3(17)(c).
+
+(5) Baggage check-in and retrieval systems shall be on an accessible route complying with 4.3, and shall have space immediately adjacent complying with 4.2.4. If unattended security barriers are provided, at least one gate shall comply with 4.13. Gates which must be pushed open by wheelchair or mobility aid users shall have a smooth continuous surface extending from 2 inches above the floor to 27 inches above the floor.
+
+(6) Terminal information systems which broadcast information to the general public through a public address system shall provide a means to provide the same or equivalent information to persons with a hearing loss or who are deaf. Such methods may include, but are not limited to, visual paging systems using video monitors and computer technology. For persons with certain types of hearing loss such methods may include, but are not limited to, an assistive listening system complying with 4.33.7.
+
+(7) Where clocks are provided for use by the general public the clock face shall be uncluttered so that its elements are clearly visible. Hands, numerals, and/or digits shall contrast with their background either light-on-dark or dark-on-light. Where clocks are mounted overhead, numerals and/or digits shall comply with 4.30.3. Clocks shall be placed in uniform locations throughout the facility to the maximum extent practicable.
+
+(8) Security Systems. (Reserved).
 
 ### 10.5 Boat and Ferry Docks
 
@@ -2659,7 +2935,9 @@ Valet parking is not always usable by individuals with disabilities. For instanc
 
 **A4.1.3(5)**
 
-Only full passenger elevators are covered by the accessibility provisions of 4.10. Materials and equipment hoists, freight elevators not intended for passenger use, dumbwaiters, and construction elevators are not covered by these guidelines. If a building is exempt from the elevator requirement, it is not necessary to provide a platform lift or other means of vertical access in lieu of an elevator. <br/>Under **EXCEPTION 4**, platform lifts are allowed where existing conditions make it impractical to install a ramp or elevator. Such conditions generally occur where it is essential to provide access to small raised or lowered areas where space may not be available for a ramp. Examples include, but are not limited to, raised pharmacy platforms, commercial offices raised above a sales floor, or radio and news booths.
+Only full passenger elevators are covered by the accessibility provisions of 4.10. Materials and equipment hoists, freight elevators not intended for passenger use, dumbwaiters, and construction elevators are not covered by these guidelines. If a building is exempt from the elevator requirement, it is not necessary to provide a platform lift or other means of vertical access in lieu of an elevator.
+
+Under EXCEPTION 4, platform lifts are allowed where existing conditions make it impractical to install a ramp or elevator. Such conditions generally occur where it is essential to provide access to small raised or lowered areas where space may not be available for a ramp. Examples include, but are not limited to, raised pharmacy platforms, commercial offices raised above a sales floor, or radio and news booths.
 
 **A4.1.3(9)**
 
@@ -2687,9 +2965,11 @@ When an entrance is being altered, it is preferable that those entrances being a
 
 **A4.2.1 Wheelchair Passage Width**
 
-1. Space Requirements for Wheelchairs. Many persons who use wheelchairs need a 30 in (760 mm) clear opening width for doorways, gates, and the like, when the latter are entered head-on. If the person is unfamiliar with a building, if competing traffic is heavy, if sudden or frequent movements are needed, or if the wheelchair must be turned at an opening, then greater clear widths are needed. For most situations, the addition of an inch of leeway on either side is sufficient. Thus, a minimum clear width of 32 in (815 mm) will provide adequate clearance. However, when an opening or a restriction in a passageway is more than 24 in (610 mm) long, it is essentially a passageway and must be at least 36 in (915 mm) wide.
-2. Space Requirements for Use of Walking Aids. Although people who use walking aids can maneuver through clear width openings of 32 in (815 mm), they need 36 in (915 mm) wide passageways and walks for comfortable gaits. Crutch tips, often extending down at a wide angle, are a hazard in narrow passageways where they might not be seen by other pedestrians. Thus, the 36 in (915 mm) width provides a safety allowance both for the person with a disability and for others.
-3. Space Requirements for Passing. Able-bodied persons in winter clothing, walking straight ahead with arms swinging, need 32 in (815 mm) of width, which includes 2 in (50 mm) on either side for sway, and another 1 in (25 mm) tolerance on either side for clearing nearby objects or other pedestrians. Almost all wheelchair users and those who use walking aids can also manage within this 32 in (815 mm) width for short distances. Thus, two streams of traffic can pass in 64 in (1625 mm) in a comfortable flow. Sixty inches (1525 mm) provides a minimum width for a somewhat more restricted flow. If the clear width is less than 60 in (1525 mm), two wheelchair users will not be able to pass but will have to seek a wider place for passing. Forty-eight inches (1220 mm) is the minimum width needed for an ambulatory person to pass a nonambulatory or semi-ambulatory person. Within this 48 in (1220 mm) width, the ambulatory person will have to twist to pass a wheelchair user, a person with a service animal, or a semi-ambulatory person. There will be little leeway for swaying or missteps (see [Fig. A1](#figurea1)).
+(1) Space Requirements for Wheelchairs. Many persons who use wheelchairs need a 30 in (760 mm) clear opening width for doorways, gates, and the like, when the latter are entered head-on. If the person is unfamiliar with a building, if competing traffic is heavy, if sudden or frequent movements are needed, or if the wheelchair must be turned at an opening, then greater clear widths are needed. For most situations, the addition of an inch of leeway on either side is sufficient. Thus, a minimum clear width of 32 in (815 mm) will provide adequate clearance. However, when an opening or a restriction in a passageway is more than 24 in (610 mm) long, it is essentially a passageway and must be at least 36 in (915 mm) wide.
+
+(2) Space Requirements for Use of Walking Aids. Although people who use walking aids can maneuver through clear width openings of 32 in (815 mm), they need 36 in (915 mm) wide passageways and walks for comfortable gaits. Crutch tips, often extending down at a wide angle, are a hazard in narrow passageways where they might not be seen by other pedestrians. Thus, the 36 in (915 mm) width provides a safety allowance both for the person with a disability and for others.
+
+(3) Space Requirements for Passing. Able-bodied persons in winter clothing, walking straight ahead with arms swinging, need 32 in (815 mm) of width, which includes 2 in (50 mm) on either side for sway, and another 1 in (25 mm) tolerance on either side for clearing nearby objects or other pedestrians. Almost all wheelchair users and those who use walking aids can also manage within this 32 in (815 mm) width for short distances. Thus, two streams of traffic can pass in 64 in (1625 mm) in a comfortable flow. Sixty inches (1525 mm) provides a minimum width for a somewhat more restricted flow. If the clear width is less than 60 in (1525 mm), two wheelchair users will not be able to pass but will have to seek a wider place for passing. Forty-eight inches (1220 mm) is the minimum width needed for an ambulatory person to pass a nonambulatory or semi-ambulatory person. Within this 48 in (1220 mm) width, the ambulatory person will have to twist to pass a wheelchair user, a person with a service animal, or a semi-ambulatory person. There will be little leeway for swaying or missteps (see [Fig. A1](#figurea1)).
 
 {% figure Figure A1 %}
 {% asset design-standards/fig_a1.gif alt="figure a1" %}
@@ -2730,8 +3010,9 @@ Reach ranges for persons seated in wheelchairs may be further clarified by [Fig.
 
 **A4.3.1 General**
 
-1. Travel Distances. Many people with mobility impairments can move at only very slow speeds; for many, traveling 200 ft (61 m) could take about 2 minutes. This assumes a rate of about 1.5 ft/s (455 mm/s) on level ground. It also assumes that the traveler would move continuously. However, on trips over 100 ft (30 m), disabled people are apt to rest frequently, which substantially increases their trip times. Resting periods of 2 minutes for every 100 ft (30 m) can be used to estimate travel times for people with severely limited stamina. In inclement weather, slow progress and resting can greatly increase a disabled person's exposure to the elements.
-2. Sites. Level, indirect routes or those with running slopes lower than 1:20 can sometimes provide more convenience than direct routes with maximum allowable slopes or with ramps.
+(1) Travel Distances. Many people with mobility impairments can move at only very slow speeds; for many, traveling 200 ft (61 m) could take about 2 minutes. This assumes a rate of about 1.5 ft/s (455 mm/s) on level ground. It also assumes that the traveler would move continuously. However, on trips over 100 ft (30 m), disabled people are apt to rest frequently, which substantially increases their trip times. Resting periods of 2 minutes for every 100 ft (30 m) can be used to estimate travel times for people with severely limited stamina. In inclement weather, slow progress and resting can greatly increase a disabled person's exposure to the elements.
+
+(2) Sites. Level, indirect routes or those with running slopes lower than 1:20 can sometimes provide more convenience than direct routes with maximum allowable slopes or with ramps.
 
 **A4.3.10 Egress**
 
@@ -2894,9 +3175,11 @@ Closers with delayed action features give a person more time to maneuver through
 
 lthough most people with disabilities can exert at least 5 lbf (22.2N), both pushing and pulling from a stationary position, a few people with severe disabilities cannot exert 3 lbf (13.13N). Although some people cannot manage the allowable forces in this guideline and many others have difficulty, door closers must have certain minimum closing forces to close doors satisfactorily. Forces for pushing or pulling doors open are measured with a push-pull scale under the following conditions:
 
-1. Hinged doors: Force applied perpendicular to the door at the door opener or 30 in (760 mm) from the hinged side, whichever is farther from the hinge.
-2. Sliding or folding doors: Force applied parallel to the door at the door pull or latch.
-3. Application of force: Apply force gradually so that the applied force does not exceed the resistance of the door. In high-rise buildings, air-pressure differentials may require a modification of this specification in order to meet the functional intent.
+(1) Hinged doors: Force applied perpendicular to the door at the door opener or 30 in (760 mm) from the hinged side, whichever is farther from the hinge.
+
+(2) Sliding or folding doors: Force applied parallel to the door at the door pull or latch.
+
+(3) Application of force: Apply force gradually so that the applied force does not exceed the resistance of the door. In high-rise buildings, air-pressure differentials may require a modification of this specification in order to meet the functional intent.
 
 **A4.13.12 Automatic Doors and Power-Assisted Doors**
 
@@ -2967,8 +3250,9 @@ In many small facilities, single-user restrooms may be the only facilities provi
 
 Recommendations:
 
-1. In new construction, accessible single-user restrooms may be desirable in some situations because they can accommodate a wide variety of building users. However, they cannot be used in lieu of making the multi-stall toilet rooms accessible as required.
-2. Where strict compliance to the guidelines for accessible toilet facilities is technically infeasible in the alteration of existing facilities, accessible &quot;unisex&quot; toilets are a reasonable alternative. 3. In designing accessible single-user restrooms, the provisions of adequate space to allow a side transfer will provide accommodation to the largest number of wheelchair users.
+(1) In new construction, accessible single-user restrooms may be desirable in some situations because they can accommodate a wide variety of building users. However, they cannot be used in lieu of making the multi-stall toilet rooms accessible as required.
+
+(2) Where strict compliance to the guidelines for accessible toilet facilities is technically infeasible in the alteration of existing facilities, accessible &quot;unisex&quot; toilets are a reasonable alternative. 3. In designing accessible single-user restrooms, the provisions of adequate space to allow a side transfer will provide accommodation to the largest number of wheelchair users.
 
 ### A4.23 Bathrooms, Bathing Facilities, and Shower Rooms
 
@@ -3111,7 +3395,6 @@ Paragraph 4 of this section requires signage indicating the availability of an a
 </p>
 
 <p> ----PLEASE ASK----
-
 </p>
 
 The symbol may be used to notify persons of the availability of other auxiliary aids and services such as: real time captioning, captioned note taking, sign language interpreters, and oral interpreters.
@@ -3303,9 +3586,11 @@ In enacting the Americans with Disabilities Act, Congress concluded that it was 
 
 The term &quot;disability&quot; means, with respect to an individual:
 
-- (A) A physical or mental impairment that substantially limits one or more of the major life activities of such individual;
-- (B) A record of such an impairment; or
-- (C) Being regarded as having such an impairment.
+(A) A physical or mental impairment that substantially limits one or more of the major life activities of such individual;
+
+(B) A record of such an impairment; or
+
+(C) Being regarded as having such an impairment.
 
 If an individual meets any one of these three tests, he or she is considered to be an individual with a disability for purposes of coverage under the Americans with Disabilities Act.
 
@@ -3352,7 +3637,7 @@ This test, as contained in paragraph (4) of the definition, is intended to cover
 
 The Americans with Disabilities Act uses the same &quot;regarded as'' test set forth in the regulations implementing section 504 of the Rehabilitation Act. See, e.g., 28 CFR 42.540(k)(2)(iv), which provides:
 
-- (iv) &quot;Is regarded as having an impairment means (A) Has a physical or mental impairment that does not substantially limit major life activities but that is treated by a recipient as constituting such a limitation; (B) Has a physical or mental impairment that substantially limits major life activities only as a result of the attitudes of others toward such impairment; or (C) Has none of the impairments defined in paragraph (k)(2)(i) of this section but is treated by a recipient as having such an impairment.
+(iv) &quot;Is regarded as having an impairment means (A) Has a physical or mental impairment that does not substantially limit major life activities but that is treated by a recipient as constituting such a limitation; (B) Has a physical or mental impairment that substantially limits major life activities only as a result of the attitudes of others toward such impairment; or (C) Has none of the impairments defined in paragraph (k)(2)(i) of this section but is treated by a recipient as having such an impairment.
 
 The perception of the private entity or public accommodation is a key element of this test. A person who perceives himself or herself to have an impairment, but does not have an impairment, and is not treated as if he or she has an impairment, is not protected under this test. A person would be covered under this test if a restaurant refused to serve that person because of a fear of &quot;negative reactions'' of others to that person. A person would also be covered if a public accommodation refused to serve a patron because it perceived that the patron had an impairment that limited his or her enjoyment of the goods or services being offered.
 
@@ -3390,18 +3675,29 @@ Facilities operated by government agencies or other public entities as defined i
 
 The definition of place of public accommodation incorporates the 12 categories of facilities represented in the statutory definition of public accommodation in section 301(7) of the ADA:
 
-1. Places of lodging.
-2. Establishments serving food or drink.
-3. Places of exhibition or entertainment.
-4. Places of public gathering.
-5. Sales or rental establishments.
-6. Service establishments.
-7. Stations used for specified public transportation.
-8. Places of public display or collection.
-9. Places of recreation.
-10. Places of education.
-11. Social service center establishments.
-12. Places of exercise or recreation.
+(1) Places of lodging.
+
+(2) Establishments serving food or drink.
+
+(3) Places of exhibition or entertainment.
+
+(4) Places of public gathering.
+
+(5) Sales or rental establishments.
+
+(6) Service establishments.
+
+(7) Stations used for specified public transportation.
+
+(8) Places of public display or collection.
+
+(9) Places of recreation.
+
+(10) Places of education.
+
+(11) Social service center establishments.
+
+(12) Places of exercise or recreation.
 
 In order to be a place of public accommodation, a facility must be operated by a private entity, its operations must affect commerce, and it must fall within one of these 12 categories. While the list of categories is exhaustive, the representative examples of facilities within each category are not. Within each category only a few examples are given. The category of social service center establishments would include not only the types of establishments listed, day care centers, senior citizen centers, homeless shelters, food banks, adoption agencies, but also establishments such as substance abuse treatment centers, rape crisis centers, and halfway houses. As another example, the category of sales or rental establishments would include an innumerable array of facilities that would sweep far beyond the few examples given in the regulation. For example, other retail or wholesale establishments selling or renting items, such as bookstores, videotape rental stores, car rental establishment, pet stores, and jewelry stores would also be covered under this category, even though they are not specifically listed.
 
@@ -3593,10 +3889,13 @@ Paragraph (b) provides that no private entity or public entity shall coerce, int
 
 Illustrations of practices prohibited by this section are contained in paragraph (c), which is modeled on a similar provision in the regulations issued by the Department of Housing and Urban Development to implement the Fair Housing Act (see 24 CFR 100.400(c)(l)). Prohibited actions may include:
 
-1. Coercing an individual to deny or limit the benefits, services, or advantages to which he or she is entitled under the Act or this part;
-2. Threatening, intimidating, or interfering with an individual who is seeking to obtain or use the goods, services, facilities, privileges, advantages, or accommodations of a public accommodation;
-3. Intimidating or threatening any person because that person is assisting or encouraging an individual or group entitled to claim the rights granted or protected by the Act or this part to exercise those rights; or
-4. Retaliating against any person because that person has participated in any investigation or action to enforce the Act or this part.
+(1)Coercing an individual to deny or limit the benefits, services, or advantages to which he or she is entitled under the Act or this part;
+
+(2)Threatening, intimidating, or interfering with an individual who is seeking to obtain or use the goods, services, facilities, privileges, advantages, or accommodations of a public accommodation;
+
+(3)Intimidating or threatening any person because that person is assisting or encouraging an individual or group entitled to claim the rights granted or protected by the Act or this part to exercise those rights; or
+
+(4)Retaliating against any person because that person has participated in any investigation or action to enforce the Act or this part.
 
 This section protects not only individuals who allege a violation of the Act or this part, but also any individuals who support or assist them. This section applies to all investigations or proceedings initiated under the Act or this part without regard to the ultimate resolution of the underlying allegations. Because this section prohibits any act of retaliation or coercion in response to an individual's effort to exercise rights established by the Act and this part (or to support the efforts of another individual), the section applies not only to public accommodations that are otherwise subject to this part, but also to individuals other than public accommodations or to public entities. For example, it would be a violation of the Act and this part for a private individual, e.g., a restaurant customer, to harass or intimidate an individual with a disability in an effort to prevent that individual from patronizing the restaurant. It would, likewise, be a violation of the Act and this part for a public entity to take adverse action against an employee who appeared as a witness on behalf of an individual who sought to enforce the Act.
 
@@ -4120,13 +4419,13 @@ Section 36.401(d)(2) establishes the operative requirements concerning the eleva
 
 The following examples illustrate the application of these principles:
 
-1. A shopping mall has an upper and a lower level. There are two &quot;anchor stores'' (in this case, major department stores at either end of the mall, both with exterior entrances and an entrance on each level from the common area). In addition, there are 30 stores (sales or rental establishments) on the upper level, all of which have entrances from a common central area. There are 30 stores on the lower level, all of which have entrances from a common central area. According to the rule, elevator access must be provided to each store and to each level of the anchor stores. This requirement could be satisfied with respect to the 60 stores through elevators connecting the two pedestrian levels, provided that an individual could travel from the elevator to any other point on that level (i.e., into any store through a common pedestrian area) on an accessible path.
+(1) A shopping mall has an upper and a lower level. There are two &quot;anchor stores'' (in this case, major department stores at either end of the mall, both with exterior entrances and an entrance on each level from the common area). In addition, there are 30 stores (sales or rental establishments) on the upper level, all of which have entrances from a common central area. There are 30 stores on the lower level, all of which have entrances from a common central area. According to the rule, elevator access must be provided to each store and to each level of the anchor stores. This requirement could be satisfied with respect to the 60 stores through elevators connecting the two pedestrian levels, provided that an individual could travel from the elevator to any other point on that level (i.e., into any store through a common pedestrian area) on an accessible path.
 
-2. A commercial (nonresidential) &quot;townhouse'' development is composed of 20 two-story attached buildings. The facility is developed as one project, with common ownership, and the space will be leased to retailers. Each building has one accessible entrance from a pedestrian walk to the first floor. From that point, one can enter a store on the first floor, or walk up a flight of stairs to a store on the second floor. All 40 stores must be accessible at ground floor level or by accessible vertical access from that level. This does not mean, however, that 20 elevators must be installed. Access could be provided to the second floor by an elevator from the pedestrian area on the lower level to an upper walkway connecting all the areas on the second floor.
+(2) A commercial (nonresidential) &quot;townhouse'' development is composed of 20 two-story attached buildings. The facility is developed as one project, with common ownership, and the space will be leased to retailers. Each building has one accessible entrance from a pedestrian walk to the first floor. From that point, one can enter a store on the first floor, or walk up a flight of stairs to a store on the second floor. All 40 stores must be accessible at ground floor level or by accessible vertical access from that level. This does not mean, however, that 20 elevators must be installed. Access could be provided to the second floor by an elevator from the pedestrian area on the lower level to an upper walkway connecting all the areas on the second floor.
 
-3. In the same type of development, it is planned that retail stores will be housed exclusively on the ground floor, with only office space (not professional offices of health care providers) on the second. Elevator access need not be provided to the second floor because all the sales or rental establishments (the entities that make the facility a shopping center) are located on an accessible ground floor.
+(3) In the same type of development, it is planned that retail stores will be housed exclusively on the ground floor, with only office space (not professional offices of health care providers) on the second. Elevator access need not be provided to the second floor because all the sales or rental establishments (the entities that make the facility a shopping center) are located on an accessible ground floor.
 
-4. In the same type of development, the space is designed and marketed as medical or office suites, or as a medical office facility. Accessible vertical access must be provided to all areas, as described in example 2.
+(4) In the same type of development, the space is designed and marketed as medical or office suites, or as a medical office facility. Accessible vertical access must be provided to all areas, as described in example 2.
 
 Some commenters suggested that building owners who knowingly lease or rent space to nonexempt places of public accommodation would violate Sec.36.401. However, the Department does not consider leasing or renting inaccessible space in itself to constitute a violation of this part. Nor does a change in use of a facility, with no accompanying alterations (e.g., if a psychiatrist replaces an attorney as a tenant in a second-floor office, but no alterations are made to the office) trigger accessibility requirements.
 
@@ -4204,13 +4503,13 @@ The Department has determined that the basis for this cost calculation shall be 
 
 Paragraph (f)(2) (paragraph (e)(2) in the proposed rule) is unchanged. It provides examples of costs that may be counted as expenditures required to provide an accessible path of travel. They include:
 
-- Costs associated with providing an accessible entrance and an accessible route to the altered area, for example, the cost of widening doorways or installing ramps;
+\- Costs associated with providing an accessible entrance and an accessible route to the altered area, for example, the cost of widening doorways or installing ramps;
 
-- Costs associated with making restrooms accessible, such as installing grab bars, enlarging toilet stalls, insulating pipes, or installing accessible faucet controls;
+\- Costs associated with making restrooms accessible, such as installing grab bars, enlarging toilet stalls, insulating pipes, or installing accessible faucet controls;
 
-- Costs associated with providing accessible telephones, such as relocating telephones to an accessible height, installing amplification devices, or installing telecommunications devices for deaf persons (TDD's);
+\- Costs associated with providing accessible telephones, such as relocating telephones to an accessible height, installing amplification devices, or installing telecommunications devices for deaf persons (TDD's);
 
-- Costs associated with relocating an inaccessible drinking fountain.
+\- Costs associated with relocating an inaccessible drinking fountain.
 
 Paragraph (f)(1) of the proposed rule provided that when the cost of alterations necessary to make the path of travel serving an altered area fully accessible is disproportionate to the cost of the overall alteration, the path of travel shall be made accessible to the maximum extent feasible. In response to the suggestion of a commenter, the Department has made an editorial change in the final rule (paragraph (g)(1)) to clarify that if the cost of providing a fully accessible path of travel is disproportionate, the path of travel shall be made accessible &quot;to the extent that it can be made accessible without incurring disproportionate costs.''
 
@@ -4282,25 +4581,25 @@ During the course of accepting comments on its proposed rule, the Department rec
 
 Largely in response to comments, the Board made numerous changes from its proposal, including the following:
 
-- Generally, at least 50% of public entrances to new buildings must be accessible, rather than all entrances, as would often have resulted from the proposed approach.
+\- Generally, at least 50% of public entrances to new buildings must be accessible, rather than all entrances, as would often have resulted from the proposed approach.
 
-- Not all check-out aisles are required to be accessible.
+\- Not all check-out aisles are required to be accessible.
 
-- The final guidelines provide greater flexibility in providing access to sales counters, and no longer require a portion of every counter to be accessible.
+\- The final guidelines provide greater flexibility in providing access to sales counters, and no longer require a portion of every counter to be accessible.
 
-- Scoping for TDD's or text telephones was increased. One TDD or text telephone, for speech and hearing impaired persons, must be provided at locations with 4, rather than 6, pay phones, and in hospitals and shopping malls. Use of portable (less expensive) TDD's is allowed.
+\- Scoping for TDD's or text telephones was increased. One TDD or text telephone, for speech and hearing impaired persons, must be provided at locations with 4, rather than 6, pay phones, and in hospitals and shopping malls. Use of portable (less expensive) TDD's is allowed.
 
-- Dispersal of wheelchair seating areas in theaters will be required only where there are more than 300 seats, rather than in all cases. Seats with removable armrests (i.e., seats into which persons with mobility impairments can transfer) will also be required.
+\- Dispersal of wheelchair seating areas in theaters will be required only where there are more than 300 seats, rather than in all cases. Seats with removable armrests (i.e., seats into which persons with mobility impairments can transfer) will also be required.
 
-- Areas of refuge (areas with direct access to a stairway, and where people who cannot use stairs may await assistance during a emergency evacuation) will be required, as proposed, but the final provisions are based on the Uniform Building Code. Such areas are not required in alterations.
+\- Areas of refuge (areas with direct access to a stairway, and where people who cannot use stairs may await assistance during a emergency evacuation) will be required, as proposed, but the final provisions are based on the Uniform Building Code. Such areas are not required in alterations.
 
-- Rather than requiring 5% of new hotel rooms to be accessible to people with mobility impairments, between 2 and 4% accessibility (depending on total number of rooms) is required. In addition, 1% of the rooms must have roll-in showers.
+\- Rather than requiring 5% of new hotel rooms to be accessible to people with mobility impairments, between 2 and 4% accessibility (depending on total number of rooms) is required. In addition, 1% of the rooms must have roll-in showers.
 
-- The proposed rule reserved the provisions on alterations to homeless shelters. The final guidelines apply alterations requirements to homeless shelters, but the requirements are less stringent than those applied to other types of facilities.
+\- The proposed rule reserved the provisions on alterations to homeless shelters. The final guidelines apply alterations requirements to homeless shelters, but the requirements are less stringent than those applied to other types of facilities.
 
-- Parking spaces that can be used by people in vans (with lifts) will be required.
+\- Parking spaces that can be used by people in vans (with lifts) will be required.
 
-- As mandated by the ADA, the Board has established a procedure to be followed with respect to alterations to historic facilities.
+\- As mandated by the ADA, the Board has established a procedure to be followed with respect to alterations to historic facilities.
 
 Summary of ADAAG
 
