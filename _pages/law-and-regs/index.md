@@ -5,6 +5,7 @@ sidenav: false
 ---
 
 When we talk about what the ADA requires on ADA.gov, we are usually referring to two sources:
+
 1. The text of the ADA, also referred to as the ADA statute, passed by Congress in
 1990 and later amended.
 2. Regulations developed by the Department of Justice that state/local governments
@@ -49,8 +50,3 @@ In the [Spring 2022 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMai
 The [Unified Agenda](https://www.reginfo.gov/public/jsp/eAgenda/UA_About.myjsp) provides information about federal agencies’ regulatory priorities and the specific regulations that they plan to issue in the short and long term.
 {% enddetails %}
 
-<!-- ## Cases
-
-The Department of Justice enforces the ADA through lawsuits and settlement agreements to achieve greater access, inclusion, and equal opportunity for people with disabilities.
-
-[View the Cases page]( {{'/cases' | relative_url}}) -->
