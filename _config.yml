@@ -101,6 +101,7 @@ collections:
       - intro-to-ada.md
       - service-animals.md
       - parking.md
+      - effective-communication.md
   resources:
     output: true
     permalink: /:collection/:name/

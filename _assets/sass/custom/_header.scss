@@ -29,8 +29,9 @@
       font-weight: normal;
       text-decoration: none;
       border-bottom: 1px solid;
-      &:hover {
-        color: color($theme-color-base-light);
+      &:focus, &:hover, &:visited {
+        color: white;
+        font-weight: bolder;
       }
     }
 }
