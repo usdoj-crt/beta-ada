@@ -5,7 +5,7 @@ permalink: /infoline/
 lead: |-
   Have questions about the ADA? Call the U.S. Department of Justice ADA Information Line
   - 800-514-0301 (voice)
-  - 800-514-0383 (TTY)
+  - 202-514-0383 (TTY)
 ---
 
 Accessibility specialists are available to answer questions from individuals,
