@@ -1,11 +1,10 @@
 ---
 title: Americans with Disabilities Act Title III Regulations
-description: ""
-permalink: /law-and-regs/title-iii-regulations/
+description: "These regulations are codified in the Code of Federal Regulations (CFR) at 28 CFR part 36 (title III)."
 lang: "en"
 publish-date: 2012-03-08 00:00:00
-related-content: true
 print: true
+related-content: true
 ---
 
 ## Title III Regulations Supplementary Information
@@ -48,7 +47,7 @@ The ADA also requires the Department to develop regulations with respect to exis
 
 **Enactment of the ADA and Issuance of the 1991 Regulations**  
 
-On July 26, 1990, President George H.W. Bush signed into law the ADA, a comprehensive civil rights law prohibiting discrimination on the basis of disability.<sup><a href="#ftnt1">1</a></sup> <a name="rftnt1" id="rftnt1"></a> The ADA broadly protects the rights of individuals with disabilities in employment, access to State and local government services, places of public accommodation, transportation, and other important areas of American life. The ADA also requires newly designed and constructed or altered State and local government facilities, public accommodations, and commercial facilities to be readily accessible to and usable by individuals with disabilities. 42 U.S.C. 12101 **et seq**. Section 306(a) of the ADA directs the Secretary of Transportation to issue regulations for demand responsive or fixed route systems operated by private entities not primarily engaged in the business of transporting people (sections 302(b)(2)(B) and (C)) and for private entities that are primarily engaged in the business of transporting people (section 304).  *See* 42 U.S.C. 12182(b), 12184, 12186(a). Section 306(b) directs the Attorney General to promulgate regulations to carry out the provisions of the rest of title III. 42 U.S.C. 12186(b).  
+On July 26, 1990, President George H.W. Bush signed into law the ADA, a comprehensive civil rights law prohibiting discrimination on the basis of disability.  The ADA broadly protects the rights of individuals with disabilities in employment, access to State and local government services, places of public accommodation, transportation, and other important areas of American life. The ADA also requires newly designed and constructed or altered State and local government facilities, public accommodations, and commercial facilities to be readily accessible to and usable by individuals with disabilities. 42 U.S.C. 12101 **et seq**. Section 306(a) of the ADA directs the Secretary of Transportation to issue regulations for demand responsive or fixed route systems operated by private entities not primarily engaged in the business of transporting people (sections 302(b)(2)(B) and (C)) and for private entities that are primarily engaged in the business of transporting people (section 304). *See* 42 U.S.C. 12182(b), 12184, 12186(a). Section 306(b) directs the Attorney General to promulgate regulations to carry out the provisions of the rest of title III. 42 U.S.C. 12186(b).  
 
 Title II applies to State and local government entities, and, in Subtitle A, protects qualified individuals with disabilities from discrimination on the basis of disability in services, programs, and activities provided by State and local government entities. Title II extends the prohibition on discrimination established by section 504 of the Rehabilitation Act of 1973, as amended, 29 U.S.C. 794 (section 504), to all activities of State and local governments regardless of whether these entities receive Federal financial assistance. 42 U.S.C. 12131–65.  
 
@@ -123,7 +122,7 @@ In the NPRM, the Department kept open the possibility that, if warranted by publ
 
 **Executive Order 12866**  
 
-This rule has been reviewed by the Office of Management and Budget (OMB) under Executive Order 12866. The Department has evaluated its existing regulations for title II and title III section by section, and many of the provisions in the final rule for both titles reflect its efforts to mitigate any negative effects on small entities. A Final Regulatory Impact Analysis (Final RIA or RIA) was prepared by the Department's contractor, HDR|HLB Decision Economics, Inc. (HDR). In accordance with Executive Order 12866, as amended, and OMB Circular A–4, the Department has reviewed and considered the Final RIA and has accepted the results of this analysis as its assessment of the benefits and costs of the final rules.  
+This rule has been reviewed by the Office of Management and Budget (OMB) under Executive Order 12866. The Department has evaluated its existing regulations for title II and title III section by section, and many of the provisions in the final rule for both titles reflect its efforts to mitigate any negative effects on small entities. A Final Regulatory Impact Analysis (Final RIA or RIA) was prepared by the Department's contractor, HDR HLB Decision Economics, Inc. (HDR). In accordance with Executive Order 12866, as amended, and OMB Circular A–4, the Department has reviewed and considered the Final RIA and has accepted the results of this analysis as its assessment of the benefits and costs of the final rules.  
 
 Executive Order 12866 refers explicitly not only to monetizable costs and benefits but also to "distributive impacts" and "equity," *See* E.O. 12866, section 1(a), and it is important to recognize that the ADA is intended to provide important benefits that are distributional and equitable in character. The ADA states, "[i]t is the purpose of this [Act] (1) to provide a clear and comprehensive national mandate for the elimination of discrimination against individuals with disabilities; [and] (2) to provide clear, strong, consistent, enforceable standards addressing discrimination against individuals with disabilities[.]" 42 U.S.C. 12101(b). Many of the benefits of this rule stem from the provision of such standards, which will promote inclusion, reduce stigma and potential embarrassment, and combat isolation, segregation, and second-class citizenship of individuals with disabilities. Some of these benefits are, in the words of Executive Order 12866, "difficult to quantify, but nevertheless essential to consider." E.O. 12866, section 1(a). The Department has considered such benefits here.  
 
@@ -141,7 +140,7 @@ Under this set of assumptions, the final rules have an expected NPV of $9.3 bill
 <thead>
 <tr>
 <th scope="col">Discount rate</th>
-<th scope="col>Expected NPV</th>
+<th scope="col">Expected NPV</th>
 <th scope="col">Total Expected PV (Benefits)</th>
 <th scope="col">Total Expected PV (Costs)</th>
 </tr>
@@ -916,65 +915,67 @@ Subpart C – Specific Requirements
 
 **(4)*Minimum requirements for audio description devices*. (i) A public accommodation shall provide at its movie theaters a minimum of one fully operational audio description device for every two movie theater auditoriums exhibiting digital movies and no less than two devices per movie theater. When calculation of the required number of devices results in a fraction, the next greater whole number of devices shall be provided.**  
 
+**(ii) A public accommodation may comply with the requirements in paragraph (g)(4)(i) of this section by using the existing assistive listening receivers that the public accommodation is already required to provide at its movie theaters in accordance with Table 219.3 of the 2010 Standards, if those receivers have a minimum of two channels available for sound transmission to patrons.**  
 
- <li>**(ii) A public accommodation may comply with the requirements in paragraph (g)(4)(i) of this section by using the existing assistive listening receivers that the public accommodation is already required to provide at its movie theaters in accordance with Table 219.3 of the 2010 Standards, if those receivers have a minimum of two channels available for sound transmission to patrons.**</li>
- </ul>
- <li>**(5)*Performance requirements for captioning devices and audio description devices*. Each captioning device and each audio description device must be properly maintained by the movie theater to ensure that each device is fully operational, available to patrons in a timely manner, and easily usable by patrons. Captioning devices must be adjustable so that the captions can be viewed as if they are on or near the movie screen, and must provide clear, sharp images in order to ensure readability of captions.**</li>
- <li>**(6)*Alternative technologies*. (i) A public accommodation may meet its obligation to provide captioning and audio description in its movie theaters to persons with disabilities through any technology so long as that technology provides communication as effective as that provided to movie patrons without disabilities.**</li>
- <ul type="square">
- <li>** (ii) A public accommodation may use open movie captioning as an alternative to complying with the requirements specified in paragraph (g)(3) of this section, either by providing open movie captioning at all showings of all movies available with captioning, or whenever requested by or for an individual who is deaf or hard of hearing prior to the start of the movie.**</li>
- </ul>
- <li>**(7)*Compliance date for providing captioning and audio description*. (i) A public accommodation must comply with the requirements in paragraphs (g)(2)–(6) of this section in its movie theaters that exhibit digital movies by June 2, 2018.**</li>
- <ul type="square">
- <li>**(ii) If a public accommodation converts a movie theater auditorium from an analog projection system to a system that allows it to exhibit digital movies after December 2, 2016, then that auditorium must comply with the requirements in paragraph (g) of this section by December 2, 2018, or within 6 months of that auditorium’s complete installation of a digital projection system, whichever is later.**</li>
- </ul>
- <li>**(8)* Notice*. On or after January 17, 2017, whenever a public accommodation provides captioning and audio description in a movie theater auditorium exhibiting digital movies, it shall ensure that all notices of movie showings and times at the box office and other ticketing locations, on Web sites and mobile apps, in newspapers, and over the telephone, inform potential patrons of the movies or showings that are available with captioning and audio description. This paragraph does not impose any obligation on third parties that provide information about movie theater showings and times, so long as the third party is not part of or subject to the control of the public accommodation. **</li>
- <li>**(9)*Operational requirements*. On or after January 17, 2017, whenever a public accommodation provides captioning and audio description in a movie theater auditorium exhibiting digital movies, it shall ensure that at least one employee is available at the movie theater to assist patrons seeking or using captioning or audio description whenever a digital movie is exhibited with these features. Such assistance includes the ability to—**</li>
- <ul type="square">
- <li>**(i) Locate all necessary equipment that is stored and quickly activate the equipment and any other ancillary systems required for the use of the captioning devices and audio description devices;**</li>
- <li>**(ii) Operate and address problems with all captioning and audio description equipment prior to and during the movie;**</li>
- <li>**(iii) Turn on open movie captions if the movie theater is relying on open movie captioning to meet the requirements of paragraph (g)(3) of this section; and**</li>
- <li>**(iv) Communicate effectively with individuals with disabilities, including those who are deaf or hard of hearing or who are blind or have low vision, about how to use, operate, and resolve problems with captioning devices and audio description devices.**</li>
- </ul>
- <li>**(10) This section does not require the use of open movie captioning as a means of compliance with paragraph (g) of this section, even if providing closed movie captioning for digital movies would be an undue burden.**</li>
- </ul>
- </ul>
- <ul>
- <li></li>
- <li>(h) *Alternatives*. If provision of a particular auxiliary aid or service by a public accommodation would result in a fundamental alteration in the nature of the goods, services, facilities, privileges, advantages, or accommodations being offered or in an undue burden, *i.e.*, significant difficulty or expense, the public accommodation shall provide an alternative auxiliary aid or service, if one exists, that would not result in an alteration or such burden but would nevertheless ensure that, to the maximum extent possible, individuals with disabilities receive the goods, services, facilities, privileges, advantages, or accommodations offered by the public accommodation. </li>
- </ul>
- <h3>&sect; <a name="a304" id="a304"></a>36.304 Removal of barriers.</h3>
- <ul>
- <li>(a) *General*. A public accommodation shall remove architectural barriers in existing facilities, including communication barriers that are structural in nature, where such removal is readily achievable, *i.e.*, easily accomplishable and able to be carried out without much difficulty or expense. </li>
- <li>(b) *Examples*. Examples of steps to remove barriers include, but are not limited to, the following actions –
- <ul>
- <li>(1) Installing ramps; </li>
- <li>(2) Making curb cuts in sidewalks and entrances; </li>
- <li>(3) Repositioning shelves; </li>
- <li>(4) Rearranging tables, chairs, vending machines, display racks, and other furniture; </li>
- <li>(5) Repositioning telephones; </li>
- <li>(6) Adding raised markings on elevator control buttons; </li>
- <li>(7) Installing flashing alarm lights; </li>
- <li>(8) Widening doors; </li>
- <li>(9) Installing offset hinges to widen doorways; </li>
- <li>(10) Eliminating a turnstile or providing an alternative accessible path; </li>
- <li>(11) Installing accessible door hardware; </li>
- <li>(12) Installing grab bars in toilet stalls; </li>
- <li>(13) Rearranging toilet partitions to increase maneuvering space; </li>
- <li>(14) Insulating lavatory pipes under sinks to prevent burns; </li>
- <li>(15) Installing a raised toilet seat; </li>
- <li>(16) Installing a full-length bathroom mirror; </li>
- <li>(17) Repositioning the paper towel dispenser in a bathroom; </li>
- <li>(18) Creating designated accessible parking spaces; </li>
- <li>(19) Installing an accessible paper cup dispenser at an existing inaccessible water fountain; </li>
- <li>(20) Removing high pile, low density carpeting; or </li>
- <li>(21) Installing vehicle hand controls. </li>
- </ul>
- </li>
- <li>(c) *Priorities*. A public accommodation is urged to take measures to comply with the barrier removal requirements of this section in accordance with the following order of priorities.
- <ul>
- <li>(1) First, a public accommodation should take measures to provide access to a place of public accommodation from public sidewalks, parking, or public transportation. These measures include, for example, installing an entrance ramp, widening entrances, and providing accessible parking spaces. </li>
- <li>(2) Second, a public accommodation should take measures to provide access to those areas of a place of public accommodation where goods and services are made available to the public. These measures include, for example, adjusting the layout of display racks, rearranging tables, providing Brailled and raised character signage, widening doors, providing visual alarms, and installing ramps. </li>
+**(5)*Performance requirements for captioning devices and audio description devices*. Each captioning device and each audio description device must be properly maintained by the movie theater to ensure that each device is fully operational, available to patrons in a timely manner, and easily usable by patrons. Captioning devices must be adjustable so that the captions can be viewed as if they are on or near the movie screen, and must provide clear, sharp images in order to ensure readability of captions.**  
+
+**(6) *Alternative technologies*. (i) A public accommodation may meet its obligation to provide captioning and audio description in its movie theaters to persons with disabilities through any technology so long as that technology provides communication as effective as that provided to movie patrons without disabilities.**  
+
+**(ii) A public accommodation may use open movie captioning as an alternative to complying with the requirements specified in paragraph (g)(3) of this section, either by providing open movie captioning at all showings of all movies available with captioning, or whenever requested by or for an individual who is deaf or hard of hearing prior to the start of the movie.**  
+
+**(7) *Compliance date for providing captioning and audio description*. (i) A public accommodation must comply with the requirements in paragraphs (g)(2)–(6) of this section in its movie theaters that exhibit digital movies by June 2, 2018.**  
+
+**(ii) If a public accommodation converts a movie theater auditorium from an analog projection system to a system that allows it to exhibit digital movies after December 2, 2016, then that auditorium must comply with the requirements in paragraph (g) of this section by December 2, 2018, or within 6 months of that auditorium’s complete installation of a digital projection system, whichever is later.**  
+
+**(8) *Notice*. On or after January 17, 2017, whenever a public accommodation provides captioning and audio description in a movie theater auditorium exhibiting digital movies, it shall ensure that all notices of movie showings and times at the box office and other ticketing locations, on Web sites and mobile apps, in newspapers, and over the telephone, inform potential patrons of the movies or showings that are available with captioning and audio description. This paragraph does not impose any obligation on third parties that provide information about movie theater showings and times, so long as the third party is not part of or subject to the control of the public accommodation.**  
+
+**(9) *Operational requirements*. On or after January 17, 2017, whenever a public accommodation provides captioning and audio description in a movie theater auditorium exhibiting digital movies, it shall ensure that at least one employee is available at the movie theater to assist patrons seeking or using captioning or audio description whenever a digital movie is exhibited with these features. Such assistance includes the ability to—**  
+
+**(i) Locate all necessary equipment that is stored and quickly activate the equipment and any other ancillary systems required for the use of the captioning devices and audio description devices;**  
+
+**(ii) Operate and address problems with all captioning and audio description equipment prior to and during the movie;**  
+
+**(iii) Turn on open movie captions if the movie theater is relying on open movie captioning to meet the requirements of paragraph (g)(3) of this section; and**  
+
+**(iv) Communicate effectively with individuals with disabilities, including those who are deaf or hard of hearing or who are blind or have low vision, about how to use, operate, and resolve problems with captioning devices and audio description devices.**  
+
+**(10) This section does not require the use of open movie captioning as a means of compliance with paragraph (g) of this section, even if providing closed movie captioning for digital movies would be an undue burden.**  
+
+(h) *Alternatives*. If provision of a particular auxiliary aid or service by a public accommodation would result in a fundamental alteration in the nature of the goods, services, facilities, privileges, advantages, or accommodations being offered or in an undue burden, *i.e.*, significant difficulty or expense, the public accommodation shall provide an alternative auxiliary aid or service, if one exists, that would not result in an alteration or such burden but would nevertheless ensure that, to the maximum extent possible, individuals with disabilities receive the goods, services, facilities, privileges, advantages, or accommodations offered by the public accommodation.  
+
+### &sect;<a name="a304" id="a304"></a>36.304 Removal of barriers.  
+
+(a) *General*. A public accommodation shall remove architectural barriers in existing facilities, including communication barriers that are structural in nature, where such removal is readily achievable, *i.e.*, easily accomplishable and able to be carried out without much difficulty or expense.  
+
+(b) *Examples*. Examples of steps to remove barriers include, but are not limited to, the following actions –  
+
+(1) Installing ramps;  
+(2) Making curb cuts in sidewalks and entrances;  
+(3) Repositioning shelves;  
+(4) Rearranging tables, chairs, vending machines, display racks, and other furniture;  
+(5) Repositioning telephones;  
+(6) Adding raised markings on elevator control buttons;  
+(7) Installing flashing alarm lights;  
+(8) Widening doors;  
+(9) Installing offset hinges to widen doorways;  
+(10) Eliminating a turnstile or providing an alternative accessible path;  
+(11) Installing accessible door hardware;  
+(12) Installing grab bars in toilet stalls;  
+(13) Rearranging toilet partitions to increase maneuvering space;  
+(14) Insulating lavatory pipes under sinks to prevent burns;  
+(15) Installing a raised toilet seat;  
+(16) Installing a full-length bathroom mirror;  
+(17) Repositioning the paper towel dispenser in a bathroom;  
+(18) Creating designated accessible parking spaces;  
+(19) Installing an accessible paper cup dispenser at an existing inaccessible water fountain;  
+(20) Removing high pile, low density carpeting; or  
+(21) Installing vehicle hand controls.  
+
+(c) *Priorities*. A public accommodation is urged to take measures to comply with the barrier removal requirements of this section in accordance with the following order of priorities.  
+
+(1) First, a public accommodation should take measures to provide access to a place of public accommodation from public sidewalks, parking, or public transportation. These measures include, for example, installing an entrance ramp, widening entrances, and providing accessible parking spaces.  
+
+(2) Second, a public accommodation should take measures to provide access to those areas of a place of public accommodation where goods and services are made available to the public. These measures include, for example, adjusting the layout of display racks, rearranging tables, providing Brailled and raised character signage, widening doors, providing visual alarms, and installing ramps. </li>
  <li>(3) Third, a public accommodation should take measures to provide access to restroom facilities. These measures include, for example, removal of obstructing furniture or vending machines, widening of doors, installation of ramps, providing accessible signage, widening of toilet stalls, and installation of grab bars. </li>
  <li>(4) Fourth, a public accommodation should take any other measures necessary to provide access to the goods, services, facilities, privileges, advantages, or accommodations of a place of public accommodation. </li>
  </ul>
