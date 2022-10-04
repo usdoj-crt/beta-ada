@@ -4,8 +4,8 @@
 $arrow-height: 24px;
 
 .crt-landing--section:not(.crt-landing--hero) {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
 
   @include at-media-max(mobile-lg) {
     &.crt-landing--alert {
@@ -21,7 +21,7 @@ $arrow-height: 24px;
   }
 
   h2 {
-    margin-top: 1.5rem;
+    margin-top: 0.5rem;
     margin-bottom: 0;
 
     @include at-media-max(mobile-lg) {
