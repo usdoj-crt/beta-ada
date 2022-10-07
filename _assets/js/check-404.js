@@ -8,22 +8,7 @@ const targetDOMNode = document.getElementById('suggested-link');
 const currentPathName = document.location.pathname;
 let endpoint = `${archiveURL}${currentPathName}`;
 
-let xhr = new XMLHttpRequest();
+targetDOMNode.href = endpoint;
+targetDOMNode.innerText = endpoint;
 
-function checkExists() {
-    if (this.status === 200) {
 
-    }
-  }
-  // If timeout:
-  function reqTimeout() {
-
-}
-
-xhr.open('GET', endpoint, true);
-
-xhr.onload = () => {
-    console.log('DONE', xhr.readyState); // readyState will be 4
-};
-
-xhr.send(null);
