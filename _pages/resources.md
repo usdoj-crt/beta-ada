@@ -5,3 +5,5 @@ lead: Information for people with disabilities, state and local governments, and
 ---
 
 {% include ta-article-list.html %}
+
+{% include ta-link-back.html %}
