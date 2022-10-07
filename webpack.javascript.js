@@ -7,7 +7,8 @@ module.exports = {
     main: "./_assets/js/main.js",
     pagination: './_assets/js/pagination.js',
     taResources: './_assets/js/ta-selectors.js',
-    backToTop: './_assets/js/utils/backToTop.js'
+    backToTop: './_assets/js/utils/backToTop.js',
+    check404: './_assets/js/check-404.js'
   },
   output: {
     path: path.resolve(__dirname, './_assets/js/', 'dist'),
