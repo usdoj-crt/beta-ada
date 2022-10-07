@@ -12,6 +12,7 @@ tags:
   - medical care
   - title ii
   - title iii
+redirect_to: https://www.ada.gov/resources/medical-care-mobility/
 ---
 ## Part 1:  Overview and General Requirements
 
