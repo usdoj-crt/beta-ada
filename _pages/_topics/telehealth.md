@@ -15,6 +15,7 @@ card:
   href: /topics/telehealth/
 news-item: true
 publish-date: 2022-09-16 00:00:00
+redirect_to: https://www.ada.gov/topics/telehealth/
 ---
 ## What is telehealth?
 

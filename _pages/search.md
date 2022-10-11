@@ -3,6 +3,7 @@ permalink: /search/
 title: Search
 sitemap: false
 sidenav: false
+redirect_to: https://www.ada.gov/search/
 ---
 
 {% if site.searchgov %}

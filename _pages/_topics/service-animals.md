@@ -17,6 +17,7 @@ card:
 related-content: true
 tags:
   - service animals
+redirect_to: https://www.ada.gov/topics/service-animals/
 ---
 
 ## About Service Animals
