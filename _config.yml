@@ -154,6 +154,10 @@ defaults:
       layout: "page"
       sidenav: true
       featured: false
+  - scope:
+      path: "admin/"
+    values:
+      sitemap: false
 
 languages: ["en"]
 default_lang: "en"

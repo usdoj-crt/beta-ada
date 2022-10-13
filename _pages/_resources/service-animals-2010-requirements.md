@@ -12,6 +12,9 @@ tags:
   - title iii
 publish-date: 2011-07-12 00:00:00
 updated-date: 2020-02-24 00:00:00
+redirect_from:
+  - /regs2010/service_animal_qa.html
+  - /cguide.htm
 ---
 ## Overview
 
