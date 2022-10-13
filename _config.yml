@@ -115,11 +115,25 @@ govdelivery:
   link_text: Sign Up
 
 # Search.gov configuration
-# NOTE: The configuration is actually set in the Javascript code: /_assets/js/utils/constants.js
+# NOTE: The configuration is also set in the Javascript code: /_assets/js/utils/constants.js
 # 1. Create an account with Search.gov https://search.usa.gov/signup
 # 2. Add a new site.
 # 3. Add your site/affiliate name here.
+searchgov:
+  # You should not change this.
+  endpoint: https://search.usa.gov
 
+  # replace this with your search.gov account
+  affiliate: justice-ada-beta
+
+  # replace with your access key
+  access_key: R9JA5YunOBaTGydUNm-oJjGCqKQ-zXsulsNskJVe5-c=
+
+  # this renders the results within the page instead of sending to user to search.gov
+  inline: true
+
+  # how many results to display per pages
+  limit: 20
 ##########################################################################################
 # The values below here are more advanced and should only be
 # changed if you know what they do
