@@ -140,7 +140,7 @@ defaults:
       sidenav: true
       featured: false
   - scope:
-      path: "/admin/index.html"
+      path: "admin/"
     values:
       sitemap: false
 
