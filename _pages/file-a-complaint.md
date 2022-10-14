@@ -76,7 +76,7 @@ Unfortunately, we cannot investigate every complaint. We will let you know if we
 
 We receive many ADA complaints from people around the United States. So, our review can take up to three months.
 
-If you have not heard from us after three months, you can call the [ADA Information Line]( {{'/infoline/' | relative_url}}) to check your complaint’s status. You can reach the ADA Information Line at 1-800-514-0301 (voice) or 1-800-514-0383 (TTY).
+If you have not heard from us after three months, you can call the [ADA Information Line]( {{'/infoline/' | relative_url}}) to check your complaint’s status. You can reach the ADA Information Line at {{site.contact.tollfree}} (voice) or {{ site.contact.tty }} (TTY).
 
 Even if we do not take any formal action, your complaint provides us with valuable information, helping us find issues affecting multiple people or communities, and helping us understand emerging trends and topics.
 

@@ -42,7 +42,7 @@ Check out DOJ’s current ADA regulations:
 In the [Spring 2022 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain), DOJ announced that it plans to issue new ADA regulations on the following topics:
 
 - [Medical Diagnostic Equipment](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202204&RIN=1190-AA78) (Titles II and III)
-- [Website Accessibility](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202204&RIN=1190-AA79) (Title II)
+- [Web Accessibility](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202204&RIN=1190-AA79) (Title II)
 - [The Public Right-of-Way](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202204&RIN=1190-AA77) (Title II)
 - [Equipment and Furniture](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202204&RIN=1190-AA76) (Titles II and III)
 
@@ -55,4 +55,4 @@ The [Unified Agenda](https://www.reginfo.gov/public/jsp/eAgenda/UA_About.myjsp) 
 
 [View the 1991 and 2010 Design Standards, and the Guidance on the 2010 ADA Standards for Accessible Design]({{'/law-and-regs/design-standards' | relative_url }})  
 =======
->>>>>>> ae09dd6d948caaada02b99ea3b44011efa1e4327
+>>>>>>> 3a0b86896d0fadd7c92a2ba25a8c48a4eea01981
