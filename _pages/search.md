@@ -3,6 +3,8 @@ permalink: /search/
 title: Search
 sitemap: false
 sidenav: false
+redirect_from:
+  - /search.htm
 ---
 
 {% if site.searchgov %}

@@ -12,6 +12,8 @@ tags:
   - medical care
   - title ii
   - title iii
+redirect_from:
+  - /medcare_mobility_ta/medcare_ta.htm
 ---
 ## Part 1:  Overview and General Requirements
 

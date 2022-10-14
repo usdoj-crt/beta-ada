@@ -11,6 +11,8 @@ tags:
   - child care
   - title ii
   - title iii
+redirect_from:
+  - /childqanda.htm
 ---
 {% include expand-accordions-wrapper.html expand-heading='Coverage' %}
 

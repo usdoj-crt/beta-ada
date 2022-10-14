@@ -12,6 +12,8 @@ tags:
   - effective communication
   - title ii
   - title iii
+redirect_from:
+  - /effective-comm.htm
 ---
 ## Overview
 

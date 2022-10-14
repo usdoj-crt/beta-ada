@@ -2,6 +2,12 @@
 permalink: /law-and-regs/
 title: Review Laws, Regulations & Standards
 sidenav: false
+redirect_from:
+    - /2010_regs.htm
+    - /pubs/ada.htm
+    - /newproposed_regs.htm
+    - /pcatoolkit/chap3toolkit.htm
+    - /regs_footer.htm
 ---
 
 When we talk about what the ADA requires on ADA.gov, we are usually referring to two sources:

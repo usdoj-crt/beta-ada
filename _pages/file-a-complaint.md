@@ -6,6 +6,12 @@ lead: |-
   The Americans with Disabilities Act provides an important tool to fight discrimination: filing a complaint with an appropriate federal agency.  This page outlines the steps to get you started.
 lang: "en"
 ref: complaint
+redirect_from:
+  - /filing_complaint.htm
+  - /fact_on_complaint.htm
+  - /t3compfm.htm
+  - /filing_eeoc_complaint.htm
+  - /t2cmpfrm.htm
 ---
 
 ## Who You Can File a Complaint Against
