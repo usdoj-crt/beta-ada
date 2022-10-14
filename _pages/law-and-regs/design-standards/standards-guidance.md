@@ -34,13 +34,14 @@ Section 35.151(a), which provided that those facilities that are constructed or 
 
 ### &sect; 35.151(b) Alterations  
 
-<p> The 1991 title II regulation does not contain any specific
+The 1991 title II regulation does not contain any specific
   regulatory language comparable to the 1991 title III regulation
   relating to alterations and path of travel for covered entities,
   although the 1991 Standards describe standards for path of travel
   during alterations to a primary function. See 28 CFR part 36, app
-  A., section 4.1.6(a) (2009).</p>
-<p> The path of travel requirements contained in the title III
+  A., section 4.1.6(a) (2009).  
+
+The path of travel requirements contained in the title III
   regulation are based on section 303(a)(2) of the ADA, 42 U.S.C.
   12183(a)(2), which provides that when an entity undertakes an
   alteration to a place of public accommodation or commercial facility
@@ -49,8 +50,9 @@ Section 35.151(a), which provided that those facilities that are constructed or 
   the maximum extent feasible, the path of travel to the altered
   area--and the restrooms, telephones, and drinking fountains serving
   it--is readily accessible to and usable by individuals with
-  disabilities, including individuals who use wheelchairs.</p>
-<p> The NPRM proposed amending Sec.  35.151 to add both the path of
+  disabilities, including individuals who use wheelchairs.  
+
+The NPRM proposed amending Sec.  35.151 to add both the path of
   travel requirements and the exemption relating to barrier removal
   (as modified to apply to the program accessibility standard in title
   II) that are contained in the title III regulation to the title II
@@ -58,27 +60,31 @@ Section 35.151(a), which provided that those facilities that are constructed or 
   for path of travel. Proposed Sec.  35.151(b)(2) stated that the path
   of travel requirements of Sec.  35.151(b)(4) shall not apply to
   measures taken solely to comply with program accessibility
-  requirements.</p>
-<p> Where the specific requirements for path of travel apply under
+  requirements.  
+
+Where the specific requirements for path of travel apply under
   title III, they are limited to the extent that the cost and scope of
   alterations to the path of travel are disproportionate to the cost
   of the overall alteration, as determined under criteria established
-  by the Attorney General.</p>
-<p> The Access Board included the path of travel requirement for
+  by the Attorney General.  
+
+The Access Board included the path of travel requirement for
   alterations to facilities covered by the standards (other than those
   subject to the residential facilities standards) in section 202.4 of
   2004 ADAAG. Section 35.151(b)(4)(iii) of the final rule establishes
   the criteria for determining when the cost of alterations to the path of travel is &ldquo;disproportionate&rdquo; to the
-cost of the overall alteration.</p>
-  <p> The NPRM also provided that areas such as supply storage rooms,
+cost of the overall alteration.  
+
+The NPRM also provided that areas such as supply storage rooms,
   employee lounges and locker rooms, janitorial closets, entrances,
   and corridors are not areas containing a primary function. Nor are
   restroom areas considered to contain a primary function unless the
   provision of restrooms is a primary purpose of the facility, such as
   at a highway rest stop. In that situation, a restroom would be
   considered to be an &ldquo;area containing a primary function&rdquo; of the
-  facility.</p>
-<p> The Department is not changing the requirements for program
+  facility.  
+
+The Department is not changing the requirements for program
   accessibility. As provided in Sec.  35.151(b)(2) of the regulation,
   the path of travel requirements of Sec.  35.151(b)(4) only apply to
   alterations undertaken solely for purposes other than to meet the
@@ -97,8 +103,9 @@ cost of the overall alteration.</p>
   contained in the path of travel provisions as a defense to providing
   an accessible route as part of its obligation to provide program
   accessibility. The undue financial and administrative burden
-  standard does not contain any bright line financial tests.</p>
-<p> The Department's proposed Sec.  35.151(b)(4) adopted the
+  standard does not contain any bright line financial tests.  
+
+The Department's proposed Sec.  35.151(b)(4) adopted the
   language now contained in Sec.  36.403 of the title III regulation,
   including the disproportionality limitation (i.e., alterations made
   to provide an accessible path of travel to the altered area would be
@@ -106,8 +113,9 @@ cost of the overall alteration.</p>
   exceeds 20 percent of the cost of the alteration to the primary
   function area). Proposed Sec.  35.151(b)(2) provided that the path
   of travel requirements do not apply to alterations undertaken solely
-  to comply with program accessibility requirements.</p>
-<p> The Department received a substantial number of comments
+  to comply with program accessibility requirements.  
+
+The Department received a substantial number of comments
   objecting to the Department's adoption of the exemption for the path
   of travel requirements when alterations are undertaken solely to
   meet program accessibility requirements. These commenters argued
@@ -136,8 +144,9 @@ cost of the overall alteration.</p>
   the project. Another commenter opposed the exemption, stating that
   the trigger of an alteration is frequently the only time that a
   facility must update its facilities to comply with evolving
-  accessibility standards.</p>
-<p> In the Department's view, the commenters objecting to the path
+  accessibility standards.  
+
+In the Department's view, the commenters objecting to the path
   of travel exemption contained in Sec.  35.151(b)(2) did not
   understand the intention behind the exemption. The exemption was not
   intended to eliminate any existing requirements related to
@@ -158,8 +167,9 @@ cost of the overall alteration.</p>
   Rep. No. 101B485, pt. 2, at 84 (1990) (&ldquo;The committee intends,
   however, that the forms of discrimination prohibited by section 202
   be identical to those set out in the applicable provisions of titles
-  I and III of this legislation.&rdquo;).</p>
-<p> For title II entities, the path of travel requirements are of
+  I and III of this legislation.&rdquo;).  
+
+For title II entities, the path of travel requirements are of
   significance in those cases where an alteration is being made solely
   for reasons other than program accessibility. For example, a public
   entity might have six courtrooms in two existing buildings and might
@@ -186,15 +196,16 @@ cost of the overall alteration.</p>
   stated, has met its program access obligations) then in that case,
   the public entity would have to comply with the path of travel
   requirements in the 2010 Standards subject to the disproportionality
-  exception set forth in Sec.  35.151(b)(4).</p>
-<p> The Department has slightly revised proposed Sec.  35.151(b)(2)
+  exception set forth in Sec.  35.151(b)(4).  
+
+The Department has slightly revised proposed Sec.  35.151(b)(2)
   to make it clearer that the path of travel requirements only apply
   when alterations are undertaken solely for purposes other than
   program accessibility.</p>  
 
 #### &sect; 35.151(b)(4)(ii)(C) Path of travel--safe harbor  
 
-<p> In Sec.  35.151(b)(4)(ii)(C) of the NPRM, the Department
+In Sec.  35.151(b)(4)(ii)(C) of the NPRM, the Department
   included a provision that stated that public entities that have
   brought required elements of path of travel into compliance with the
   1991 Standards are not required to retrofit those elements in order
@@ -203,8 +214,9 @@ cost of the overall alteration.</p>
   path of travel. In these circumstances, the public entity is
   entitled to a safe harbor and is only required to modify elements to
   comply with the 2010 Standards if the public entity is planning an
-  alteration to the element.</p>
-<p> A substantial number of commenters objected to the Department's
+  alteration to the element.  
+
+A substantial number of commenters objected to the Department's
   imposition of a safe harbor for alterations to facilities of public
   entities that comply with the 1991 Standards. These commenters
   argued that if a public entity is already in the process of altering
@@ -212,16 +224,18 @@ cost of the overall alteration.</p>
   with disabilities be entitled to increased accessibility by using
   the 2010 Standards for path of travel work. They also stated that
   they did not believe there was a statutory basis for
-  &ldquo;grandfathering&rdquo; facilities that comply with the 1991 Standards.  </p>
-<p>The ADA is silent on the issue of &ldquo;grandfathering&rdquo; or
+  &ldquo;grandfathering&rdquo; facilities that comply with the 1991 Standards.  
+
+The ADA is silent on the issue of &ldquo;grandfathering&rdquo; or
   establishing a safe harbor for measuring compliance in situations
   where the covered entity is not undertaking a planned alteration to
   specific building elements. The ADA delegates to the Attorney
   General the responsibility for issuing regulations that define the
   parameters of covered entities' obligations when the statute does not directly
   address an issue. This regulation implements that delegation of
-  authority.</p>
-<p> One commenter proposed that a previous record of barrier removal
+  authority.  
+
+One commenter proposed that a previous record of barrier removal
   be one of the factors in determining, prospectively, what renders a
   facility, when viewed in its entirety, usable and accessible to
   persons with disabilities. Another commenter asked the Department to
@@ -229,10 +243,12 @@ cost of the overall alteration.</p>
   Standards does not provide program access, particularly with regard
   to areas not specifically addressed in the 1991 Standards, the safe
   harbor will not operate to relieve an entity of its obligations to
-  provide program access.</p>
-<p> One commenter supported the proposal to add a safe harbor for
-  path of travel.</p>
-<p> The final rule retains the safe harbor for required elements of
+  provide program access.  
+
+One commenter supported the proposal to add a safe harbor for
+  path of travel.  
+
+The final rule retains the safe harbor for required elements of
   a path of travel to altered primary function areas for public
   entities that have already complied with the 1991 Standards with
   respect to those required elements. The Department believes that
@@ -248,11 +264,11 @@ cost of the overall alteration.</p>
   primary function area and the required elements of a path of travel
   to the altered area do not comply with the 1991 Standards, then the
   public entity must bring those elements into compliance with the
-  2010 Standards.</p>  
+  2010 Standards.  
 
 #### &sect; 35.151(b)(3) Alterations to historic facilities  
 
-<p> The final rule renumbers the requirements for alterations to
+The final rule renumbers the requirements for alterations to
   historic facilities enumerated in current Sec.  35.151(d)(1) and (2)
   as Sec.  35.151(b)(3)(i) and (ii). Currently, the regulation
   provides that alterations to historic facilities shall comply to the
@@ -269,7 +285,7 @@ cost of the overall alteration.</p>
 
 ### &sect; 35.151(c) Accessibility standards for new construction and alterations  
 
-<p> Section 35.151(c) of the NPRM proposed to adopt ADA Chapter 1,
+Section 35.151(c) of the NPRM proposed to adopt ADA Chapter 1,
   ADA Chapter 2, and Chapters 3 through 10 of the Americans with
   Disabilities Act and Architectural Barriers Act Guidelines (2004
   ADAAG) into the ADA Standards for Accessible Design (2010
@@ -280,13 +296,14 @@ cost of the overall alteration.</p>
   harmonize the Federal requirements with the private sector model
   codes that form the basis of many State and local building code
   requirements. The full text of the 2010 Standards is available for
-  public review on the ADA Home Page (http://www.ada.gov) and on the
-  Access Board's Web site (http://www.access-board.gov/gs.htm) (last
+  public review on the [ADA Home Page](http://www.ada.gov) and on the
+  [Access Board's Web site](http://www.access-board.gov/gs.htm) (last
   visited June 24, 2010). The Access Board site also includes an
   extensive discussion of the development of the 2004 ADA/ABA
   Guidelines, and a detailed comparison of the 1991 Standards, the
-  2004 ADA/ABA Guidelines, and the 2003 International Building Code. </p>
-<p>Section 204 of the ADA, 42 U.S.C. 12134, directs the Attorney
+  2004 ADA/ABA Guidelines, and the 2003 International Building Code.  
+
+Section 204 of the ADA, 42 U.S.C. 12134, directs the Attorney
   General to issue regulations to implement title II that are
   consistent with the minimum guidelines published by the Access
   Board. The Attorney General (or his designee) is a statutory member
@@ -299,8 +316,9 @@ cost of the overall alteration.</p>
   the NPRM, to clarify how the Department will apply the proposed
   standards to social service center establishments, housing at places
   of education, assembly areas, and medical care facilities. Each of
-  these provisions is discussed below.</p>
-<p> Congress anticipated that there would be a need for close
+  these provisions is discussed below.  
+
+Congress anticipated that there would be a need for close
   coordination of the ADA building requirements with State and local
   building code requirements. Therefore, the ADA authorized the
   Attorney General to establish an ADA code certification process
@@ -310,8 +328,9 @@ cost of the overall alteration.</p>
   the Federal Register today. In addition, the Department operates an
   extensive technical assistance program. The Department anticipates
   that once this rule is final, revised technical assistance material
-  will be issued to provide guidance about its implementation. </p>
-<p>Section 35.151(c) of the 1991 title II regulation establishes
+  will be issued to provide guidance about its implementation.  
+
+Section 35.151(c) of the 1991 title II regulation establishes
   two standards for accessible new construction and alteration. Under
   paragraph (c), design, construction, or alteration of facilities in
   conformance with UFAS or with the 1991 Standards (which, at the time
@@ -329,8 +348,9 @@ cost of the overall alteration.</p>
   Appendix A to the Department's regulation implementing title III, 56
   FR 35592 (July 26, 1991) as amended, 58 FR 17522 (April 5, 1993),
   and as further amended, 59 FR 2675 (Jan. 18, 1994), codified at 28
-  CFR part 36 (2009).</p>
-<p> Section 35.151(c) of the final rule adopts the 2010 Standards
+  CFR part 36 (2009).  
+
+Section 35.151(c) of the final rule adopts the 2010 Standards
   and establishes the compliance date and triggering events for the
   application of those standards to both new construction and
   alterations. Appendix B of the final title III rule (Analysis and
@@ -348,8 +368,9 @@ cost of the overall alteration.</p>
   guidelines published by the Access Board, it is the sole
   responsibility of the Attorney General to promulgate standards and
   to interpret and enforce those standards. The guidelines adopted by
-  the Access Board are &ldquo;minimum guidelines.&rdquo; 42 U.S.C. 12186(c). </p>
-<p><em>Compliance date.</em> When the ADA was enacted, the effective dates
+  the Access Board are &ldquo;minimum guidelines.&rdquo; 42 U.S.C. 12186(c).  
+
+*Compliance date.* When the ADA was enacted, the effective dates
   for various provisions were delayed in order to provide time for
   covered entities to become familiar with their new obligations.
   Titles II and III of the ADA generally became effective on January
@@ -367,8 +388,9 @@ cost of the overall alteration.</p>
   Sec.  35.151, which states that facilities on which construction
   commences on or after the date six months following the effective
   date of the final rule shall comply with the proposed standards
-  adopted by that rule.</p>
-<p> As a result, under the NPRM, for the first six months after the
+  adopted by that rule.  
+
+As a result, under the NPRM, for the first six months after the
   effective date, public entities would have the option to use either UFAS or the 1991 Standards and be in compliance with title II. Six
   months after the effective date of the rule, the new standards would
   take effect. At that time, construction in accordance with UFAS
@@ -377,16 +399,18 @@ cost of the overall alteration.</p>
   standards on public entities, the Department would coordinate a
   government-wide effort to revise Federal agencies' section 504
   regulations to adopt the 2004 ADAAG as the standard for new
-  construction and alterations. </p>
-  <p>The purpose of the proposed six-month delay in requiring
+  construction and alterations.  
+
+The purpose of the proposed six-month delay in requiring
   compliance with the 2010 Standards was to allow covered entities a
   reasonable grace period to transition between the existing and the
   proposed standards. For that reason, if a title II entity preferred
   to use the 2010 Standards as the standard for new construction or
   alterations commenced within the six-month period after the
   effective date of the final rule, such entity would be considered in
-  compliance with title II of the ADA.</p>
-<p> The Department received a number of comments about the proposed
+  compliance with title II of the ADA.  
+
+The Department received a number of comments about the proposed
   six-month effective date for the title II regulation that were
   similar in content to those received on this issue for the proposed
   title III regulation. Several commenters supported the six-month
@@ -411,8 +435,9 @@ cost of the overall alteration.</p>
   standards. The other commenter argued that 18 months is the minimum
   amount of time necessary to ensure that projects that have already
   been designed and approved do not have to undergo costly design
-  revisions at taxpayer expense.</p>
-<p> The Department is persuaded by the concerns raised by commenters
+  revisions at taxpayer expense.  
+
+The Department is persuaded by the concerns raised by commenters
   for both the title II and III regulations that the six-month
   compliance date proposed in the NPRM for application of the 2010
   Standards may be too short for certain projects that are already in
@@ -427,8 +452,9 @@ cost of the overall alteration.</p>
   compliance date described in this rule must choose one of the three
   standards, and may not rely on some of the requirements contained in
   one standard and some of the requirements contained in the other
-  standards.</p>
-<p> <em>Triggering event.</em> In Sec.  35.151(c)(2) of the NPRM, the
+  standards.  
+
+*Triggering event.* In Sec.  35.151(c)(2) of the NPRM, the
   Department proposed that the commencement of construction serve as
   the triggering event for applying the proposed standards to new
   construction and alterations under title II. This language is
@@ -439,16 +465,18 @@ cost of the overall alteration.</p>
   event. One commenter argued that the Department should use the
   &ldquo;last building permit or start of physical construction, whichever
   comes first,&rdquo; stating that &ldquo;altering a design after a building
-  permit has been issued can be an undue burden.&rdquo;</p>
-<p> After considering these comments, the Department has decided to
+  permit has been issued can be an undue burden.&rdquo;  
+
+After considering these comments, the Department has decided to
   continue to use the commencement of physical construction as the
   triggering event for application of the 2010 Standards for entities
   covered by title II. The Department has also added clarifying
   language at Sec.  35.151(c)(4) to the regulation to make it clear
   that the date of ceremonial groundbreaking or the date a structure
   is razed to make it possible for construction of a facility to take
-  place does not qualify as the commencement of physical construction.  </p>
-<p>Section 234 of the 2010 Standards provides accessibility
+  place does not qualify as the commencement of physical construction.  
+
+Section 234 of the 2010 Standards provides accessibility
   guidelines for newly designed and constructed amusement rides. The
   amusement ride provisions do not provide a &ldquo;triggering event&rdquo; for
   new construction or alteration of an amusement ride. An industry
@@ -466,8 +494,9 @@ cost of the overall alteration.</p>
   notes that section 234.4.2 of the 2010 Standards only applies where
   the structural or operational characteristics of an amusement ride
   are altered. It does not apply in cases where the only change to a
-  ride is the theme.</p>
-<p> <em>Noncomplying new construction and alterations.</em> The element-by-
+  ride is the theme.  
+
+*Noncomplying new construction and alterations.* The element-by-
   element safe harbor referenced in Sec.  35.150(b)(2) has no effect
   on new or altered elements in existing facilities that were subject
   to the 1991 Standards or UFAS on the date that they were constructed
@@ -487,7 +516,7 @@ cost of the overall alteration.</p>
 
 #### &sect; 35.151(d) Scope of coverage  
 
-<p> In the NPRM, the Department proposed a new provision, Sec.
+In the NPRM, the Department proposed a new provision, Sec.
   35.151(d), to clarify that the requirements established by Sec.
   35.151, including those contained in the 2004 ADAAG, prescribe what
   is necessary to ensure that buildings and facilities, including
@@ -499,8 +528,9 @@ cost of the overall alteration.</p>
   rule. Although the Department may use the requirements of the 2010
   Standards as a guide to determining when and how to make equipment
   and furnishings accessible, those determinations fall within the
-  discretionary authority of the Department.</p>
-<p> The Department also wishes to clarify that the advisory notes,
+  discretionary authority of the Department.  
+
+The Department also wishes to clarify that the advisory notes,
   appendix notes, and figures that accompany the 1991 and 2010
   Standards do not establish separately enforceable requirements
   unless specifically stated otherwise in the text of the standards.
@@ -511,8 +541,9 @@ cost of the overall alteration.</p>
   not require, that covered entities provide visual contrast on stair
   tread nosing to make them more visible to individuals with low
   vision). The Department received no significant comments on this
-  section and it is unchanged in the final rule.</p>
-<p> <em>Definitions of residential facilities and transient lodging.</em> The
+  section and it is unchanged in the final rule.  
+
+*Definitions of residential facilities and transient lodging.* The
   2010 Standards add a definition of &ldquo;residential dwelling unit&rdquo; and
   modify the current definition of &ldquo;transient lodging.&rdquo; Under
   section 106.5 of the 2010 Standards, &ldquo;residential dwelling unit&rdquo;
@@ -526,8 +557,9 @@ cost of the overall alteration.</p>
   in nature.&rdquo; &ldquo;Transient lodging&rdquo; does not include residential
   dwelling units intended to be used as a residence. The references to
   &ldquo;dwelling units&rdquo; and &ldquo;dormitories&rdquo; that are in the definition of
-the 1991 Standards are omitted from the 2010 Standards.</p>
-  <p>The comments about the application of transient lodging or
+the 1991 Standards are omitted from the 2010 Standards.  
+
+The comments about the application of transient lodging or
   residential standards to social service center establishments, and
   housing at a place of education are addressed separately below. The
   Department received one additional comment on this issue from an
@@ -542,8 +574,9 @@ the 1991 Standards are omitted from the 2010 Standards.</p>
   mobility disabilities, there is no need to build crew quarters and
   common use areas serving those crew quarters to meet the 2004 ADAAG. In addition, the commenter argued that applying the transient
   lodging standards would impose significant costs and create living
-  space that is less usable for most emergency response personnel.</p>
-<p>The ADA does not exempt spaces because of a belief or policy
+  space that is less usable for most emergency response personnel.  
+
+The ADA does not exempt spaces because of a belief or policy
   that excludes persons with disabilities from certain work. However,
   the Department believes that crew quarters that are used exclusively
   as a residence by emergency response personnel and the kitchens and
@@ -564,24 +597,24 @@ the 1991 Standards are omitted from the 2010 Standards.</p>
 
 #### &sect; 35.151(e) Social service center establishments  
 
-<p> In the NPRM, the Department proposed a new Sec.  35.151(e)
+In the NPRM, the Department proposed a new Sec.  35.151(e)
   requiring group homes, halfway houses, shelters, or similar social
   service center establishments that provide temporary sleeping
   accommodations or residential dwelling units to comply with the
   provisions of the 2004 ADAAG that apply to residential facilities,
-  including, but not limited to, the provisions in sections 233 and
-  809.</p>
-<p> The NPRM explained that this proposal was based on two important
+  including, but not limited to, the provisions in sections 233 and 809.  
+
+The NPRM explained that this proposal was based on two important
   changes in the 2004 ADAAG. First, for the first time, residential
-  dwelling units are explicitly covered in the 2004 ADAAG in section
-  233. Second, the 2004 ADAAG eliminates the language contained in the
+  dwelling units are explicitly covered in the 2004 ADAAG in section 233. Second, the 2004 ADAAG eliminates the language contained in the
   1991 Standards addressing scoping and technical requirements for
   homeless shelters, group homes, and similar social service center
   establishments. Currently, such establishments are covered in
   section 9.5 of the transient lodging section of the 1991 Standards.
   The deletion of section 9.5 creates an ambiguity of coverage that
-  must be addressed.</p>
-<p> The NPRM explained the Department's belief that transferring
+  must be addressed.  
+
+The NPRM explained the Department's belief that transferring
   coverage of social service center establishments from the transient
   lodging standards to the residential facilities standards would
   alleviate conflicting requirements for social service center
@@ -593,8 +626,7 @@ the 1991 Standards are omitted from the 2010 Standards.</p>
   through the Administration for Children and Families programs. As
   such, these establishments are covered both by the ADA and section
   504 of the Rehabilitation Act. UFAS is currently the design standard
-  for new construction and alterations for entities subject to section
-  504. The two design standards for accessibility--the 1991 Standards
+  for new construction and alterations for entities subject to section 504. The two design standards for accessibility--the 1991 Standards
   and UFAS--have confronted many social service providers with
   separate, and sometimes conflicting, requirements for design and
   construction of facilities. To resolve these conflicts, the
@@ -608,16 +640,18 @@ the 1991 Standards are omitted from the 2010 Standards.</p>
   residential facilities standards, which would harmonize the
   regulatory requirements under the ADA and section 504. The
   Department chose the option that harmonizes the regulatory
-  requirements: coverage under the residential facilities standards.  </p>
-<p>In the NPRM, the Department expressed concern that the
+  requirements: coverage under the residential facilities standards.  
+
+In the NPRM, the Department expressed concern that the
   residential facilities standards do not include a requirement for
   clear floor space next to beds similar to the requirement in the
   transient lodging standards and as a result, the Department proposed
   adding a provision that would require certain social service center
   establishments that provide sleeping rooms with more than 25 beds to
   ensure that a minimum of 5 percent of the beds have clear floor
-  space in accordance with section 806.2.3 or 2004 ADAAG.</p>
-<p> In the NPRM, the Department requested information from providers
+  space in accordance with section 806.2.3 or 2004 ADAAG.  
+
+In the NPRM, the Department requested information from providers
   who operate homeless shelters, transient group homes, halfway
   houses, and other social service center establishments, and from the
   clients of these facilities who would be affected by this proposed
@@ -625,8 +659,9 @@ the 1991 Standards are omitted from the 2010 Standards.</p>
   and section 504 affected these facilities? What would be the effect
   of applying the residential dwelling unit requirements to these
   facilities, rather than the requirements for transient lodging guest
-  rooms?&rdquo; 73 FR 34466, 34491 (June 17, 2008).</p>
-<p> Many of the commenters supported applying the residential
+  rooms?&rdquo; 73 FR 34466, 34491 (June 17, 2008).  
+
+Many of the commenters supported applying the residential
   facilities requirements to social service center establishments,
   stating that even though the residential facilities requirements are
   less demanding in some instances, the existence of one clear
@@ -635,31 +670,36 @@ the 1991 Standards are omitted from the 2010 Standards.</p>
   by the current existence of multiple requirements. One commenter
   also stated that &ldquo;it makes sense to treat social service center
   establishments like residential facilities because this is how these
-  establishments function in practice.&rdquo;</p>
-<p> Two commenters agreed with applying the residential facilities
+  establishments function in practice.&rdquo;  
+
+Two commenters agreed with applying the residential facilities
   requirements to social service center establishments but recommended
   adding a requirement for various bathing options, such as a roll-in
-  shower (which is not required under the residential standards).  </p>
-<p>One commenter objected to the change and asked the Department to
+  shower (which is not required under the residential standards).  
+
+One commenter objected to the change and asked the Department to
   require that social service center establishments continue to comply
-  with the transient lodging standards. </p>
-<p>One commenter stated that it
+  with the transient lodging standards.  
+
+One commenter stated that it
   did not agree that the standards for residential coverage would
   serve persons with disabilities as well as the 1991 transient
   lodging standards. This commenter expressed concern that the
   Department had eliminated guidance for social service agencies and
   that the rule should be put on hold until those safeguards are
   restored. Another commenter argued that the rule that would provide
-  the greatest access for persons with disabilities should prevail. </p>
-<p>Several commenters argued for the application of the transient
+  the greatest access for persons with disabilities should prevail.  
+
+Several commenters argued for the application of the transient
   lodging standards to all social service center establishments except
   those that were &ldquo;intended as a person's place of abode,&rdquo;
   referencing the Department's question related to the definition of
   &ldquo;place of lodging&rdquo; in the title III NPRM. One commenter stated
   that the International Building Code requires accessible units in
   all transient facilities. The commenter expressed concern that group
-  homes should be built to be accessible, rather than adaptable.</p>
-<p> The Department continues to be concerned about alleviating the
+  homes should be built to be accessible, rather than adaptable.  
+
+The Department continues to be concerned about alleviating the
   challenges for social service providers that are also subject to
   section 504 and would likely be subject to conflicting requirements
   if the transient lodging standards were applied. Thus, the
@@ -684,8 +724,9 @@ the 1991 Standards are omitted from the 2010 Standards.</p>
   least one roll-in shower shall be provided for each group. This
   supplemental requirement to the residential facilities standards is
   in addition to the supplemental requirement that was proposed in the
-  NPRM for clear floor space in sleeping rooms with more than 25 beds.</p>
-<p> The Department also notes that while dwelling units at some
+  NPRM for clear floor space in sleeping rooms with more than 25 beds.  
+
+The Department also notes that while dwelling units at some
   social service center establishments are also subject to the Fair
   Housing Act (FHAct) design and construction requirements that
   require certain features of adaptable and accessible design, FHAct
@@ -693,8 +734,9 @@ the 1991 Standards are omitted from the 2010 Standards.</p>
   required for residential facilities under the 2010 Standards. The
   FHAct requirements, where also applicable, should not be considered
   a substitute for the 2010 Standards. Rather, the 2010 Standards must
-  be followed in addition to the FHAct requirements.</p>
-<p> The Department also notes that whereas the NPRM used the term
+  be followed in addition to the FHAct requirements.  
+
+The Department also notes that whereas the NPRM used the term
   &ldquo;social service establishment,&rdquo; the final rule uses the term
   &ldquo;social service center establishment.&rdquo; The Department has made
   this editorial change so that the final rule is consistent with the
@@ -2578,9 +2620,9 @@ summer.</p>
   one side of the facility only, is consistent with the Department's
   enforcement practices and reflects its interpretation of section
   4.33.3 of the 1991 Standards.</p>
-<p> In the NPRM, the Department proposed Sec.  36.406(f)(2), which
+<p> In the NPRM, the Department proposed Sec. 36.406(f)(2), which
   prohibits wheelchair spaces and companion seating locations from
-  being &ldquo;located on (or obstructed by) temporary platforms * * *.&rdquo;
+  being &ldquo;located on (or obstructed by) temporary platforms.&rdquo;
   73 FR 34508, 34557 (June 17, 2008). Through its enforcement actions,
   the Department discovered that some venues place wheelchair spaces
   and companion seats on temporary platforms that, when removed,
