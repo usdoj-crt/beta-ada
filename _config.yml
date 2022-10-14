@@ -115,7 +115,7 @@ govdelivery:
   link_text: Sign Up
 
 # Search.gov configuration
-# NOTE: The configuration is actually set in the Javascript code: /_assets/js/utils/constants.js
+# NOTE: The configuration is also set in the Javascript code: /_assets/js/utils/constants.js
 # 1. Create an account with Search.gov https://search.usa.gov/signup
 # 2. Add a new site.
 # 3. Add your site/affiliate name here.
@@ -134,7 +134,6 @@ searchgov:
 
   # how many results to display per pages
   limit: 20
-
 ##########################################################################################
 # The values below here are more advanced and should only be
 # changed if you know what they do
@@ -154,6 +153,10 @@ defaults:
       layout: "page"
       sidenav: true
       featured: false
+  - scope:
+      path: "admin/"
+    values:
+      sitemap: false
 
 languages: ["en"]
 default_lang: "en"
