@@ -1,6 +1,6 @@
 ---
 title:  Guidance on the 2010 ADA Standards for Accessible Design
-description: "The following includes guidance from the revised regulations related to 28 CFR  35.151; 28 CFR part 26, subpart D; and the 2004 ADAAG.&nbsp; It addresses changes to the Standards, the reasoning behind those changes, and responses to public comments received  on these topics."
+description: "The following includes guidance from the revised regulations related to 28 CFR  35.151; 28 CFR part 26, subpart D; and the 2004 ADAAG.  It addresses changes to the Standards, the reasoning behind those changes, and responses to public comments received  on these topics."
 permalink: /law-and-regs/design-standards/standards-guidance/
 lead: |-
   The  Department of Justice published its revised regulations for Titles II and III  of the Americans with Disabilities Act of 1990 &ldquo;ADA&rdquo; in the <em>Federal Register</em> on September 15, 2010, which  include the 2010 Standards for Accessible Design &ldquo;2010 Standards&rdquo; or &ldquo;Standards&rdquo;.&nbsp; In the revised regulations, the Department included detailed guidance with a  section-by-section analysis of the revisions:  The following includes guidance from the revised regulations related to 28 CFR 35.151; 28 CFR part 26, subpart D; and the 2004 ADAAG. It addresses changes to the Standards, the reasoning behind those changes, and responses to public comments received  on these topics.
@@ -744,7 +744,7 @@ The Department also notes that whereas the NPRM used the term
 
 #### &sect; 35.151(f) Housing at a place of education  
 
-<p> The Department of Justice and the Department of Education share
+The Department of Justice and the Department of Education share
   responsibility for regulation and enforcement of the ADA in
   postsecondary educational settings, including its requirements for
   architectural features. In addition, the Department of Housing and
@@ -760,8 +760,9 @@ The Department also notes that whereas the NPRM used the term
   include certain features of accessible and adaptable design. Covered
   entities subject to the ADA must always be aware of, and comply
   with, any other Federal statutes or regulations that govern the
-  operation of residential properties.</p>
-<p> Although the 1991 Standards mention dormitories as a form of
+  operation of residential properties.  
+
+Although the 1991 Standards mention dormitories as a form of
   transient lodging, they do not specifically address how the ADA
   applies to dormitories or other types of residential housing
   provided in an educational setting. The 1991 Standards also do not
@@ -779,8 +780,9 @@ The Department also notes that whereas the NPRM used the term
   dormitories operated by or on behalf of places of education shall
   comply with the provisions of the proposed standards for transient
   lodging, including, but not limited to, the provisions in sections
-  224 and 806 of the 2004 ADAAG.</p>
-<p> Both public and private school housing facilities have varied
+  224 and 806 of the 2004 ADAAG.  
+
+Both public and private school housing facilities have varied
   characteristics. College and university housing facilities typically
   provide housing for up to one academic year, but may be closed
   during school vacation periods. In the summer, they are often used
@@ -797,8 +799,9 @@ The Department also notes that whereas the NPRM used the term
   facilities or enter into agreements with private developers to
   build, own, or lease housing to the educational institution or to
   its students. Academic housing may be located on the campus of the
-  university or may be located in nearby neighborhoods.</p>
-<p> Throughout the school year and the summer, academic housing can
+  university or may be located in nearby neighborhoods.  
+
+Throughout the school year and the summer, academic housing can
   become program areas in which small groups meet, receptions and
   educational sessions are held, and social activities occur. The
   ability to move between rooms--both accessible rooms and standard
@@ -808,8 +811,9 @@ The Department also notes that whereas the NPRM used the term
   for short-term transient educational programs during the time
   students are not in regular residence and may be rented out to
   transient visitors in a manner similar to a hotel for special
-  university functions.</p>
-<p> The Department was concerned that applying the new construction
+  university functions.  
+
+The Department was concerned that applying the new construction
   requirements for residential facilities to educational housing
   facilities could hinder access to educational programs for students
   with disabilities. Elevators are not generally required under the
@@ -836,9 +840,7 @@ The Department also notes that whereas the NPRM used the term
   standards also require 5 percent of the units to be accessible to
   persons with mobility disabilities, which is a continuation of the
   same scoping that is currently required under UFAS, and is therefore
-  applicable to any educational institution that is covered by section
-  504. The transient lodging standards require a lower percentage of
-  accessible sleeping rooms for facilities with large numbers of rooms
+  applicable to any educational institution that is covered by section 504. The transient lodging standards require a lower percentage of accessible sleeping rooms for facilities with large numbers of rooms
   than is required by UFAS. For example, if a dormitory had 150 rooms,
   the transient lodging standards would require seven accessible rooms
   while the residential standards would require eight. In a large
@@ -847,15 +849,17 @@ The Department also notes that whereas the NPRM used the term
   would require 25. There are other differences between the two sets
   of standards as well with respect to requirements for accessible
   windows, alterations, kitchens, accessible route throughout a unit,
-  and clear floor space in bathrooms allowing for a side transfer.  </p>
-<p>In the NPRM, the Department requested public comment on how to
+  and clear floor space in bathrooms allowing for a side transfer.  
+
+In the NPRM, the Department requested public comment on how to
   scope educational housing facilities, asking, &ldquo;[w]ould the
   residential facility requirements or the transient lodging
   requirements in the 2004 ADAAG be more appropriate for housing at
   places of education? How would the different requirements affect the
   cost when building new dormitories and other student housing?&rdquo; 73
-  FR 34466, 34492 (June 17, 2008).</p>
-<p> The vast majority of the comments received by the Department
+  FR 34466, 34492 (June 17, 2008).  
+
+The vast majority of the comments received by the Department
   advocated using the residential facilities standards for housing at
   a place of education instead of the transient lodging standards,
   arguing that housing at places of public education are in fact homes
@@ -884,16 +888,18 @@ The Department also notes that whereas the NPRM used the term
   visitability (accessible doorways and necessary clear floor space
   for turning radius) requirement for both the residential facilities
   and transient lodging requirements to allow students with mobility
-impairments to interact and socialize in a fully integrated fashion. </p>
-  <p>Two commenters supported the Department's proposed approach. One
+impairments to interact and socialize in a fully integrated fashion.  
+
+Two commenters supported the Department's proposed approach. One
   commenter argued that the transient lodging requirements in the 2004
   ADAAG would provide greater accessibility and increase the
   opportunity of students with disabilities to participate fully in
   campus life. A second commenter generally supported the provision of
   accessible dwelling units at places of education, and pointed out
   that the relevant scoping in the International Building Code
-  requires accessible units &ldquo;consistent with hotel accommodations.&rdquo;</p>
-<p> The Department has considered the comments recommending the use
+  requires accessible units &ldquo;consistent with hotel accommodations.&rdquo;  
+
+The Department has considered the comments recommending the use
   of the residential facilities standards and acknowledges that they
   require certain features that are not included in the transient
   lodging standards and that should be required for housing provided
@@ -904,8 +910,9 @@ impairments to interact and socialize in a fully integrated fashion. </p>
   not realistic to expect that the educational institution will be
   able to adapt a unit in a timely manner in order to provide
   accessible accommodations to someone attending a one-week program
-  during the summer.</p>
-<p> The Department has determined that the best approach to this
+  during the summer.  
+
+The Department has determined that the best approach to this
   type of housing is to continue to require the application of
   transient lodging standards, but at the same time to add several
   requirements drawn from the residential facilities standards related
@@ -916,8 +923,9 @@ impairments to interact and socialize in a fully integrated fashion. </p>
   facilities with more than 50 sleeping rooms, and other important
   accessibility features not found in the residential facilities
   standards, but will also ensure usable kitchens and access to all
-  the rooms in a suite or apartment.</p>
-<p> The Department has added a new definition to Sec.  35.104,
+  the rooms in a suite or apartment.  
+
+The Department has added a new definition to Sec.  35.104,
   &ldquo;Housing at a Place of Education,&rdquo; and has revised Sec.  35.151(f)
   to reflect the accessible features that now will be required in
   addition to the requirements set forth under the transient lodging
@@ -932,8 +940,9 @@ impairments to interact and socialize in a fully integrated fashion. </p>
   public use or common use areas available for educational
   programming; instead, such housing shall comply with the
   requirements for residential facilities in sections 233 and 809 of
-  the 2010 Standards.</p>
-<p> Section 35.151(f) uses the term &ldquo;sleeping room&rdquo; in lieu of the
+  the 2010 Standards.  
+
+Section 35.151(f) uses the term &ldquo;sleeping room&rdquo; in lieu of the
   term &ldquo;guest room,&rdquo; which is the term used in the transient lodging
   standards. The Department is using this term because it believes
   that, for the most part, it provides a better description of the
@@ -944,7 +953,7 @@ impairments to interact and socialize in a fully integrated fashion. </p>
 
 #### &sect; 35.151(g) Assembly areas  
 
-<p> In the NPRM, the Department proposed Sec.  35.151(g) to
+In the NPRM, the Department proposed Sec.  35.151(g) to
   supplement the assembly area requirements of the 2004 ADAAG, which
   the Department is adopting as part of the 2010 Standards. The NPRM
   proposed at Sec.  35.151(g)(1) to require wheelchair spaces and
@@ -956,8 +965,9 @@ impairments to interact and socialize in a fully integrated fashion. </p>
   rule but has clarified that the requirement applies to stadiums,
   arenas, and grandstands. In addition, the Department has revised the
   phrase &ldquo;wheelchair and companion seating locations&rdquo; to
-  &ldquo;wheelchair spaces and companion seats.&rdquo;</p>
-<p> Section 35.151(g)(1) ensures that there is greater dispersion of
+  &ldquo;wheelchair spaces and companion seats.&rdquo;  
+
+Section 35.151(g)(1) ensures that there is greater dispersion of
   wheelchair spaces and companion seats throughout stadiums, arenas,
   and grandstands than would otherwise be required by sections 221 and
   802 of the 2004 ADAAG. In some cases, the accessible route may not
@@ -967,8 +977,9 @@ impairments to interact and socialize in a fully integrated fashion. </p>
   route that complies with section 206.3 of the 2010 Standards that
   could be connected to seats on the field, wheelchair spaces and
   companion seats must be placed on the field even if that route is
-  not generally available to the public.</p>
-<p> Regulatory language that was included in the 2004 ADAAG
+  not generally available to the public.  
+
+Regulatory language that was included in the 2004 ADAAG
   advisory, but that did not appear in the NPRM, has been added by the
   Department in Sec.  35.151(g)(2). Section 35.151(g)(2) now requires
   an assembly area that has seating encircling, in whole or in part, a
@@ -978,8 +989,9 @@ impairments to interact and socialize in a fully integrated fashion. </p>
   from placing wheelchair spaces and companion seats on one side of
   the facility only, is consistent with the Department's enforcement
   practices and reflects its interpretation of section 4.33.3 of the
-  1991 Standards.</p>
-<p> In the NPRM, the Department proposed Sec.  35.151(g)(2) which
+  1991 Standards.  
+
+In the NPRM, the Department proposed Sec.  35.151(g)(2) which
   prohibits wheelchair spaces and companion seating locations from
   being &ldquo;located on, (or obstructed by) temporary platforms or other
   moveable structures.&rdquo; Through its enforcement actions, the
@@ -989,8 +1001,9 @@ impairments to interact and socialize in a fully integrated fashion. </p>
   companion seats with temporary platforms on top of which they place
   risers of conventional seating. These platforms cover groups of
   conventional seats and are used to provide groups of wheelchair
-  seats and companion seats.</p>
-<p> Several commenters requested an exception to the prohibition of
+  seats and companion seats.  
+
+Several commenters requested an exception to the prohibition of
   the use of temporary platforms for public entities that sell most of
   their tickets on a season-ticket or other multi-event basis. Such
   commenters argued that they should be able to use temporary
@@ -1024,8 +1037,9 @@ impairments to interact and socialize in a fully integrated fashion. </p>
   addition, using temporary platforms to convert unsold wheelchair
   spaces to conventional seating undermines the flexibility facilities
   need to accommodate secondary ticket markets exchanges as required
-by Sec.  35.138(g) of the final rule.</p>
-  <p> As the Department explained in the NPRM, however, this provision
+by Sec.  35.138(g) of the final rule.  
+
+As the Department explained in the NPRM, however, this provision
   was not designed to prohibit temporary seating that increases
   seating for events (e.g., placing temporary seating on the floor of
   a basketball court for a concert). Consequently, the final rule, at
@@ -1039,8 +1053,9 @@ by Sec.  35.138(g) of the final rule.</p>
   section&rdquo; on the platform. In addition, Sec.  35.151(g)(3) clarifies
   that facilities may fill in wheelchair spaces with removable seats
   when the wheelchair spaces are not needed by persons who use
-  wheelchairs.</p>
-<p> The Department has been responsive to assembly areas' concerns
+  wheelchairs.  
+
+The Department has been responsive to assembly areas' concerns
   about reduced revenues due to unused accessible seating.
   Accordingly, the Department has reduced scoping requirements
   significantly--by almost half in large assembly areas--and
@@ -1048,8 +1063,9 @@ by Sec.  35.138(g) of the final rule.</p>
   spaces with readily removable temporary individual seats
   appropriately balances their economic concerns with the rights of
   individuals with disabilities. See section 221.2 of the 2010
-  Standards.</p>
-<p> For stadium-style movie theaters, in Sec.  35.151(g)(4) of the
+  Standards.  
+
+For stadium-style movie theaters, in Sec.  35.151(g)(4) of the
   NPRM the Department proposed requiring placement of wheelchair
   seating spaces and companion seats on a riser or cross-aisle in the
   stadium section of the theater and placement of such seating so that
@@ -1062,8 +1078,9 @@ by Sec.  35.138(g) of the final rule.</p>
   percentile). The vertical viewing angle is the angle between a
   horizontal line perpendicular to the seated viewer's eye to the
   screen and a line from the seated viewer's eye to the top of the
-  screen.</p>
-<p> The Department proposed this bright-line rule for two reasons:
+  screen.  
+
+The Department proposed this bright-line rule for two reasons:
   (1) The movie theater industry petitioned for such a rule; and (2)
   the Department has acquired expertise on the design of stadium style
   theaters from litigation against several major movie theater chains.
@@ -1079,8 +1096,9 @@ by Sec.  35.138(g) of the final rule.</p>
   statement in the ANPRM that this bright-line rule, although newly-
   articulated, does not represent a &ldquo;substantive change from the
   existing line-of-sight requirements&rdquo; of section 4.33.3 of the 1991
-  Standards. See 69 FR 58768, 58776 (Sept. 30, 2004).</p>
-<p> Although the Department intends for Sec.  35.151(g)(4) of this
+  Standards. See 69 FR 58768, 58776 (Sept. 30, 2004).  
+
+Although the Department intends for Sec.  35.151(g)(4) of this
   rule to apply prospectively to new construction and alterations,
   this rule is not a departure from, and is consistent with, the line-
   of-sight requirements in the 1991 Standards. The Department has
@@ -1088,8 +1106,9 @@ by Sec.  35.138(g) of the final rule.</p>
   Standards to require viewing angles provided to patrons who use
   wheelchairs to be comparable to those afforded to other spectators.
   Section 35.151(g)(4) merely represents the application of these
-  requirements to stadium-style movie theaters.</p>
-<p> One commenter from a trade association sought clarification
+  requirements to stadium-style movie theaters.  
+
+One commenter from a trade association sought clarification
   whether Sec.  35.151(g)(4) applies to stadium-style theaters with
   more than 300 seats, and argued that it should not since dispersion
   requirements apply in those theaters. The Department declines to
@@ -1097,8 +1116,9 @@ by Sec.  35.138(g) of the final rule.</p>
   stadium-style theaters of all sizes must comply with this rule. So,
   for example, stadium-style theaters that must vertically disperse
   wheelchair and companion seats must do so within the parameters of
-  this rule.</p>
-<p> The NPRM included a provision that required assembly areas with
+  this rule.  
+
+The NPRM included a provision that required assembly areas with
   more than 5,000 seats to provide at least five wheelchair spaces
   with at least three companion seats for each of those five
   wheelchair spaces. The Department agrees with commenters who
@@ -1108,7 +1128,7 @@ by Sec.  35.138(g) of the final rule.</p>
 
 #### &sect; 35.151(h) Medical care facilities  
 
-<p> In the 1991 title II regulation, there was no provision
+In the 1991 title II regulation, there was no provision
   addressing the dispersion of accessible sleeping rooms in medical
   care facilities. The Department is aware, however, of problems that
   individuals with disabilities face in receiving full and equal
@@ -1123,8 +1143,9 @@ by Sec.  35.138(g) of the final rule.</p>
   added an advisory note, Advisory 223.1 General, encouraging
   dispersion of accessible rooms within the facility so that
   accessible rooms are more likely to be proximate to appropriate
-  qualified staff and resources.</p>
-<p> In the NPRM, the Department sought additional comment on the
+  qualified staff and resources.  
+
+In the NPRM, the Department sought additional comment on the
   issue, asking whether it should require medical care facilities,
   such as hospitals, to disperse their accessible sleeping rooms, and
   if so, by what method (by specialty area, floor, or other criteria).
@@ -1138,8 +1159,9 @@ by Sec.  35.138(g) of the final rule.</p>
   suggested that without a requirement, it is unlikely that hospitals
   would disperse the rooms. In addition, concentrating accessible
   rooms in one area perpetuates segregation of individuals with
-  disabilities, which is counter to the purpose of the ADA. </p>
-<p>The Department has decided to require medical care facilities to
+  disabilities, which is counter to the purpose of the ADA.  
+
+The Department has decided to require medical care facilities to
   disperse their accessible sleeping rooms in a manner that is
   proportionate by type of medical specialty. This does not require
   exact mathematical proportionality, which at times would be
@@ -1158,7 +1180,7 @@ by Sec.  35.138(g) of the final rule.</p>
 
 #### &sect; 35.151(i) Curb ramps  
 
-<p> Section 35.151(e) on curb ramps in the 1991 rule has been
+Section 35.151(e) on curb ramps in the 1991 rule has been
   redesignated as Sec.  35.151(i). In the NPRM, the Department
   proposed making a minor editorial change to this section, deleting
   the phrase &ldquo;other sloped areas&rdquo; from the two places in which it
@@ -1167,14 +1189,13 @@ by Sec.  35.138(g) of the final rule.</p>
   precision. The Department received no significant public comments on
   this proposal. Upon further consideration, however, the Department
   has concluded that the regulation should acknowledge that there are
-  times when there are transitions from sidewalk to road surface that do not technically qualify as &ldquo;curb
-  ramps&rdquo; (sloped surfaces that have a running slope that exceed 5
+  times when there are transitions from sidewalk to road surface that do not technically qualify as &ldquo;curb ramps&rdquo; (sloped surfaces that have a running slope that exceed 5
   percent). Therefore, the Department has decided not to delete the
 phrase &ldquo;other sloped areas.&rdquo;</p>  
 
 #### &sect; 35.151(j) Residential housing for sale to individual owners  
 
-<p> Although public entities that operate residential housing
+Although public entities that operate residential housing
   programs are subject to title II of the ADA, and therefore must
   provide accessible residential housing, the 1991 Standards did not
   contain scoping or technical standards that specifically applied to
@@ -1190,8 +1211,9 @@ phrase &ldquo;other sloped areas.&rdquo;</p>
   units are accessible. This requirement is in addition to any
   accessibility requirements imposed on housing programs operated by
   public entities that receive Federal financial assistance from
-  Federal agencies such as HUD.</p>
-<p> The 2010 Standards contain scoping and technical standards for
+  Federal agencies such as HUD.  
+
+The 2010 Standards contain scoping and technical standards for
   residential dwelling units. However, section 233.3.2 of the 2010
   Standards specifically defers to the Department and to HUD, the
   standard-setting agency under the ABA, to decide the appropriate
@@ -1210,8 +1232,9 @@ phrase &ldquo;other sloped areas.&rdquo;</p>
   Please comment on the appropriate scoping for residential dwelling
   units built by or on behalf of public entities with the intent that
   the finished units will be sold to individual owners.&rdquo; 73 FR 34466,
-  34492 (June 17, 2008).</p>
-<p> All of the public comments received by the Department in
+  34492 (June 17, 2008).  
+
+All of the public comments received by the Department in
   response to this question were supportive of the Department's
   ensuring that the residential standards apply to housing built on
   behalf of public entities with the intent that the finished units
@@ -1241,8 +1264,9 @@ phrase &ldquo;other sloped areas.&rdquo;</p>
   disabilities. This commenter encouraged the Department to make sure
   that accessible for-sale units built or funded by public entities
   are placed in a separate lottery restricted to income-eligible
-  persons with disabilities.</p>
-<p> Two commenters recommended that the Department develop rules for
+  persons with disabilities.  
+
+Two commenters recommended that the Department develop rules for
   four types of for-sale projects: single family pre-built (where
   buyer selects the unit after construction), single family post-built
   (where the buyer chooses the model prior to its construction),
@@ -1256,8 +1280,9 @@ phrase &ldquo;other sloped areas.&rdquo;</p>
   to the buyer. One commenter recommended that, in addition to
   required fully accessible units, all ground floor units should be
   readily convertible for accessibility or for sensory impairments
-  technology enhancements.</p>
-<p> The Department believes that consistent with existing
+  technology enhancements.  
+
+The Department believes that consistent with existing
   requirements under title II, housing programs operated by public
   entities that design and construct or alter residential units for
   sale to individual owners should comply with the 2010 Standards,
@@ -1267,8 +1292,9 @@ phrase &ldquo;other sloped areas.&rdquo;</p>
   number of residential dwelling units will be designed and
   constructed to be accessible for persons with mobility disabilities.
   At least 2 percent, but no fewer than one unit, of the total number
-  of residential dwelling units shall provide communication features.  </p>
-<p>The Department recognizes that there are some programs (such as
+  of residential dwelling units shall provide communication features.  
+
+The Department recognizes that there are some programs (such as
   the one identified by the commenter), in which units are not
   designed and constructed until an individual buyer is identified. In
   such cases, the public entity is still obligated to comply with the
@@ -1279,8 +1305,9 @@ phrase &ldquo;other sloped areas.&rdquo;</p>
   accessible units mandated by the 2010 Standards, it may have to make
   reasonable modifications to its policies, practices, and procedures
   in order to provide accessible units to other buyers with
-  disabilities who request such units.</p>
-<p> The Department notes that the residential facilities standards
+  disabilities who request such units.  
+
+The Department notes that the residential facilities standards
   allow for construction of units with certain features of
   adaptability. Public entities that are concerned that fully
   accessible units are less marketable may choose to build these units
@@ -1290,8 +1317,9 @@ phrase &ldquo;other sloped areas.&rdquo;</p>
   required but may be added by the public entity if needed by the
   buyer at the time of purchase and cabinets under sinks may be
   designed to be removable to allow access to the required knee space
-  for a forward approach.</p>
-<p> The Department agrees with the commenters that covered entities
+  for a forward approach.  
+
+The Department agrees with the commenters that covered entities
   may have to make reasonable modifications to their policies,
   practices, and procedures in order to ensure that when they offer
   pre-built accessible residential units for sale, the units are
@@ -1310,15 +1338,16 @@ phrase &ldquo;other sloped areas.&rdquo;</p>
 
 #### &sect; 35.151(k) Detention and correctional facilities  
 
-<p> The 1991 Standards did not contain specific accessibility
+The 1991 Standards did not contain specific accessibility
   standards applicable to cells in correctional facilities. However,
   correctional and detention facilities operated by or on behalf of
   public entities have always been subject to the nondiscrimination
   and program accessibility requirements of title II of the ADA. The
   2004 ADAAG established specific requirements for the design and
   construction and alterations of cells in correctional facilities for
-  the first time.</p>
-<p> Based on complaints received by the Department, investigations,
+  the first time.  
+
+Based on complaints received by the Department, investigations,
   and compliance reviews of jails, prisons, and other detention and
   correctional facilities, the Department has determined that many
   detention and correctional facilities do not have enough accessible cells,
@@ -1330,8 +1359,9 @@ phrase &ldquo;other sloped areas.&rdquo;</p>
   more restrictive classification level simply because no accessible
   housing exists at the appropriate classification level. The
   Department's compliance reviews and investigations have
-substantiated certain of these allegations.</p>
-  <p> The Department believes that the insufficient number of
+substantiated certain of these allegations.  
+
+The Department believes that the insufficient number of
   accessible cells is, in part, due to the fact that most jails and
   prisons were built long before the ADA became law and, since then,
   have undergone few alterations that would trigger the obligation to
@@ -1354,8 +1384,9 @@ substantiated certain of these allegations.</p>
   Bulletin, Aug. 2001, at 10 (Aug. 2001) (Table 14), available at
   bjs.ojp.usdoj.gov/index.cfm?ty=pbdetail&amp;iid=927 (last visited July
   16, 2008). This jump constitutes an increase of 81 percent in
-  prisoners aged 55 and older during this period.</p>
-<p> In the NPRM, the Department proposed a new section, Sec.
+  prisoners aged 55 and older during this period.  
+
+In the NPRM, the Department proposed a new section, Sec.
   35.152, which combined a range of provisions relating to both
   program accessibility and application of the proposed standards to
   detention and correctional facilities. In the final rule, the
@@ -1365,13 +1396,15 @@ substantiated certain of these allegations.</p>
   addresses new construction and alterations for covered entities.
   Those portions of the final rule that address other issues, such as
   placement policies and program accessibility, are placed in the new
-  Sec.  35.152.</p>
-<p> In the NPRM, the Department also sought input on how best to
+  Sec.  35.152.  
+
+In the NPRM, the Department also sought input on how best to
   meet the needs of inmates with mobility disabilities in the design,
   construction, and alteration of detention and correctional
   facilities. The Department received a number of comments in response
-  to this question.</p>
-<p> <em>New Construction.</em> The NPRM did not expressly propose that new
+  to this question.  
+
+*New Construction.*  The NPRM did not expressly propose that new
   construction of correctional and detention facilities shall comply
   with the proposed standards because the Department assumed it would
   be clear that the requirements of Sec.  35.151 would apply to new
@@ -1382,8 +1415,9 @@ substantiated certain of these allegations.</p>
   prisons, and other detention facilities shall comply with the
   requirements of 2010 Standards. Section 35.151(k)(1) also increases
   the scoping for accessible cells from the 2 percent specified in the
-  2004 ADAAG to 3 percent.</p>
-<p> <em>Alterations.</em> Although the 2010 Standards contain specifications
+  2004 ADAAG to 3 percent.  
+
+*Alterations.* Although the 2010 Standards contain specifications
   for alterations in existing detention and correctional facilities,
   section 232.2 defers to the Attorney General the decision as to the
   extent these requirements will apply to alterations of cells. The
@@ -1392,8 +1426,9 @@ substantiated certain of these allegations.</p>
   with the requirements of Sec.  35.151(b).&rdquo; 73 FR 34466, 34507 (June
   17, 2008). The final rule retains that requirement at Sec.
   35.151(k)(2), but increases the scoping for accessible cells from
-  the 2 percent specified in the 2004 ADAAG to 3 percent. </p>
-<p><em>Substitute cells.</em> In the ANPRM, the Department sought public
+  the 2 percent specified in the 2004 ADAAG to 3 percent.  
+
+*Substitute cells.* In the ANPRM, the Department sought public
   comment about the most effective means to ensure that existing
   correctional facilities are made accessible to prisoners with
   disabilities and presented three options: (1) Require all altered
@@ -1407,8 +1442,9 @@ substantiated certain of these allegations.</p>
   within a prison system, which would focus on ensuring that prisoners
   with disabilities are housed in facilities that best meet their
   needs, as alterations within a prison environment often result in
-  piecemeal accessibility.</p>
-<p> In Sec.  35.152(c) of the NPRM, the Department proposed language
+  piecemeal accessibility.  
+
+In Sec.  35.152(c) of the NPRM, the Department proposed language
   based on Option 2, providing that when cells are altered, a covered
   entity may satisfy its obligation to provide the required number of
   cells with mobility features by providing the required mobility
@@ -1420,8 +1456,9 @@ substantiated certain of these allegations.</p>
   inmates or detainees for visitation, dining, recreation, educational
   programs, medical services, work programs, religious services, and
   participation in other programs that the facility offers to inmates
-  or detainees.</p>
-<p> The Department received few comments on this proposal. The
+  or detainees.  
+
+The Department received few comments on this proposal. The
   majority who chose to comment supported an approach that allowed
   substitute cells to be made accessible within the same facility. In
   their view, such an approach balanced administrators' needs, cost
@@ -1437,8 +1474,9 @@ substantiated certain of these allegations.</p>
   could create a centralized location for accessibility needs and,
   because that jail system's facilities were in close proximity, it
   would have little impact on families for visitation or on accessible
-  programming.</p>
-<p> A large State department of corrections objected to the
+  programming.  
+
+A large State department of corrections objected to the
   Department's proposal. The commenter stated that some very old
   prison buildings have thick walls of concrete and reinforced steel
   that are difficult, if not impossible to retrofit, and to do so
@@ -1456,13 +1494,15 @@ substantiated certain of these allegations.</p>
   adding accessible cells and modifying paths of travel to programs
   and services at great expense or not altering old facilities,
   causing them to become in states of disrepair and obsolescent, which
-  would be fiscally irresponsible.</p>
-<p> The Department is persuaded by these comments and has modified
+  would be fiscally irresponsible.  
+
+The Department is persuaded by these comments and has modified
   the alterations requirement in Sec.  35.151(k)(2)(iv) in the final
   rule to allow that if it is technically infeasible to provide
   substitute cells in the same facility, cells can be provided
-  elsewhere within the corrections system.</p>
-<p> <em>Number of accessible cells.</em> Section 232.2.1 of the 2004 ADAAG
+  elsewhere within the corrections system.  
+
+*Number of accessible cells.* Section 232.2.1 of the 2004 ADAAG
   requires at least 2 percent, but no fewer than one, of the cells in
   newly constructed detention and correctional facilities to have
   accessibility features for individuals with mobility disabilities.
@@ -1473,8 +1513,9 @@ substantiated certain of these allegations.</p>
   inmates with mobility disabilities. A major association representing
   county jails throughout the country stated that the 2004 ADAAG 2
   percent requirement for accessible cells is sufficient to meet the
-  needs of county jails.</p>
-  <p>Similarly, a large county sheriff's department advised that the 2
+  needs of county jails.  
+
+Similarly, a large county sheriff's department advised that the 2
   percent requirement far exceeds the need at its detention facility,
   where the average age of the population is 32. This commenter
   stressed that the regulations need to address the differences
@@ -1488,8 +1529,9 @@ substantiated certain of these allegations.</p>
   prisoner with a mobility disability needs a cell with mobility
   features regardless of the length of incarceration. However, the
   length of incarceration is most relevant in addressing the needs of
-  an aging population.</p>
-<p> The overwhelming majority of commenters responded that the 2
+  an aging population.  
+
+The overwhelming majority of commenters responded that the 2
   percent ADAAG requirement is inadequate to meet the needs of the
   incarcerated. Many commenters suggested that the requirement be
   expanded to apply to each area, type, use, and class of cells in a
@@ -1507,8 +1549,9 @@ substantiated certain of these allegations.</p>
   integration mandate requires a sufficient number and distribution of
   accessible cells so as to provide distribution of locations relevant
   to programs to ensure that persons with disabilities have access to
-  the programs.</p>
-<p> Through its investigations and compliance reviews, the
+  the programs.  
+
+Through its investigations and compliance reviews, the
   Department has found that in most detention and correctional
   facilities, a 2 percent accessible cell requirement is inadequate to
   meet the needs of the inmate population with disabilities. That
@@ -1526,8 +1569,9 @@ substantiated certain of these allegations.</p>
   facilities be accessible. Bureau of Prisons, Design Construction
   Branch, Design Guidelines, Attachment A: Accessibility Guidelines
   for Design, Construction, and Alteration of Federal Bureau of
-  Prisons (Oct. 31, 2006).</p>
-<p> The Department believes that a 3 percent accessible requirement
+  Prisons (Oct. 31, 2006).  
+
+The Department believes that a 3 percent accessible requirement
   is reasonable. Moreover, it does not believe it should impose a
   higher percentage on detention and corrections facilities than it
   utilizes for its own facilities. Thus, the Department has adopted a
@@ -1537,8 +1581,9 @@ substantiated certain of these allegations.</p>
   alterations, the Department urges planners to include numbers of
   inmates with disabilities in their population projections in order
   to take the necessary steps to provide a sufficient number of
-  accessible cells to meet inmate needs.</p>
-<p> <em>Dispersion of Cells.</em> The NPRM did not contain express language
+  accessible cells to meet inmate needs.  
+
+*Dispersion of Cells.* The NPRM did not contain express language
   addressing dispersion of cells in a facility. However, Advisory
   232.2 of the 2004 ADAAG recommends that &ldquo;[a]ccessible cells or
   rooms should be dispersed among different levels of security,
@@ -1550,8 +1595,9 @@ substantiated certain of these allegations.</p>
   can be adapted to serve as different types of housing according to
   need&rdquo; and that &ldquo;[p]lacement of accessible cells or rooms in shift
   areas may allow additional flexibility in meeting requirements for
-  dispersion of accessible cells or rooms.&rdquo;</p>
-<p> The Department notes that inmates are typically housed in
+  dispersion of accessible cells or rooms.&rdquo;  
+
+The Department notes that inmates are typically housed in
   separate areas of detention and correctional facilities based on a
   number of factors, including their classification level. In many
   instances, detention and correctional facilities have housed inmates
@@ -1559,8 +1605,9 @@ substantiated certain of these allegations.</p>
   elsewhere in the facility, because there were no cells in the areas
   where they needed to be housed, such as in administrative or
   disciplinary segregation, the women's section of the facility, or in
-  a particular security classification area.</p>
-<p> The Department received a number of comments stating that
+  a particular security classification area.  
+
+The Department received a number of comments stating that
   dispersal of accessible cells together with an adequate number of
   accessible cells is necessary to prevent inmates with disabilities
   from placement in improper security classification and to ensure
@@ -1569,8 +1616,9 @@ substantiated certain of these allegations.</p>
   program, classification, use or service area. The Department is
   persuaded by these comments. Accordingly, Sec.  35.151(k)(1) and
   (k)(2) of the final rule require accessible cells in each
-  classification area.</p>
-<p> <em>Medical facilities.</em> The NPRM also did not propose language
+  classification area.  
+
+*Medical facilities.* The NPRM also did not propose language
   addressing the application of the 2004 ADAAG to medical and long-
   term care facilities in correctional and detention facilities. The
   provisions of the 2004 ADAAG contain requirements for licensed
@@ -1584,8 +1632,9 @@ substantiated certain of these allegations.</p>
   facility, the 2004 ADAAG scoping and design features should apply
   for those elements. Similarly, a building code organization noted
   that its percentage requirements for accessible units is based on
-  what occurs in the space, not on the building type.</p>
-<p> The Department is persuaded by these comments and has added
+  what occurs in the space, not on the building type.  
+
+The Department is persuaded by these comments and has added
   Sec.  35.151(k)(3), which states that &ldquo;[w]ith respect to medical
   and long-term care facilities in jails, prisons, and other detention
   and correctional facilities, public entities shall apply the 2010
@@ -1597,7 +1646,7 @@ substantiated certain of these allegations.</p>
 
 ### Guidance on the Revisions to 28 CFR part 36, subpart D  
 
-<p>Subpart D establishes the title III requirements applicable to
+Subpart D establishes the title III requirements applicable to
   new construction and alterations. The Department has amended this
   subpart to adopt the 2004 ADAAG, set forth the effective dates for
   implementation of the 2010 Standards, and make related revisions as
@@ -1605,15 +1654,16 @@ substantiated certain of these allegations.</p>
 
 #### &sect; 36.403 Alterations: Path of Travel  
 
-<p> In the NPRM, the Department proposed one change to Sec.  36.403
+In the NPRM, the Department proposed one change to Sec.  36.403
   on alterations and path of travel by adding a path of travel safe
   harbor. Proposed Sec.  36.403(a)(1) stated that if a private entity
   has constructed or altered required elements of a path of travel in
   accordance with the 1991 Standards, the private entity is not
   required to retrofit such elements to reflect incremental changes in
   the 2010 Standards solely because of an alteration to a primary
-  function area served by that path of travel.</p>
-<p> A substantial number of commenters objected to the Department's
+  function area served by that path of travel.  
+
+A substantial number of commenters objected to the Department's
   creation of a safe harbor for alterations to required elements of a
   path of travel that comply with the current 1991 Standards. These
   commenters argued that if a public accommodation already is in the
@@ -1626,8 +1676,9 @@ substantiated certain of these allegations.</p>
   updates incorporated into the 2004 ADAAG provide very substantial
   improvements for access, and that since there already is a 20
   percent cost limit on the amount that can be expended on path of
-  travel alterations, there is no need for a further limitation.</p>
-<p> Some commenters supported the safe harbor as lessening the
+  travel alterations, there is no need for a further limitation.  
+
+Some commenters supported the safe harbor as lessening the
   economic costs of implementing the 2004 ADAAG for existing
   facilities. One commenter also stated that without the safe harbor,
   entities that already have complied with the 1991 Standards will
@@ -1637,8 +1688,9 @@ substantiated certain of these allegations.</p>
   facilities that have been made compliant with the 1991 Standards to
   the extent &ldquo;readily achievable&rdquo; or, in the case of alterations,
   &ldquo;to the maximum extent feasible,&rdquo; but that are not in full
-  compliance with the 1991 Standards.</p>
-<p> The final rule retains the safe harbor for required elements of
+  compliance with the 1991 Standards.  
+
+The final rule retains the safe harbor for required elements of
   a path of travel to altered primary function areas for private
   entities that already have complied with the 1991 Standards with
   respect to those required elements. As discussed with respect to
@@ -1652,13 +1704,12 @@ substantiated certain of these allegations.</p>
   primary function area, only the required elements of a path of
   travel to that area that already comply with the 1991 Standards are
   subject to the safe harbor. If a private entity undertakes an
-  alteration to a primary function area and the required elements of a path of travel to the altered area do not comply with
-  the 1991 Standards, then the private entity must bring those
+  alteration to a primary function area and the required elements of a path of travel to the altered area do not comply with the 1991 Standards, then the private entity must bring those
 elements into compliance with the 2010 Standards.  
 
 #### &sect; 36.405 Alterations: Historic Preservation  
 
-<p> In the 1991 rule, the Department provided guidance on making
+In the 1991 rule, the Department provided guidance on making
   alterations to buildings or facilities that are eligible for listing
   in the National Register of Historic Places under the National
   Historic Preservation Act or that are designated as historic under
@@ -1700,8 +1751,9 @@ Section 36.406(a) adopts the 2004 ADAAG as part of the 2010
   Board. The Department will not adopt any standards that provide less
   accessibility than is provided under the guidelines contained in the
   2004 ADAAG because the guidelines adopted by the Access Board are
-  &ldquo;minimum guidelines.&rdquo; 42 U.S.C. 12186(c).</p>
-<p> In the NPRM, the Department specifically proposed amending Sec.
+  &ldquo;minimum guidelines.&rdquo; 42 U.S.C. 12186(c).  
+
+In the NPRM, the Department specifically proposed amending Sec.
   36.406(a) by dividing it into two sections. Proposed Sec.
   36.406(a)(1) specified that new construction and alterations subject
   to this part shall comply with the 1991 Standards if physical
@@ -1711,8 +1763,9 @@ Section 36.406(a) adopts the 2004 ADAAG as part of the 2010
   shall comply with the proposed standards if physical construction of
   the property commences six months or more after the effective date
   of the rule. The Department also proposed deleting the advisory
-  information now published in a table at Sec.  36.406(b).</p>
-<p> <em>Compliance date.</em> When the ADA was enacted, the compliance dates
+  information now published in a table at Sec.  36.406(b).  
+
+*Compliance date.* When the ADA was enacted, the compliance dates
   for various provisions were delayed in order to provide time for
   covered entities to become familiar with their new obligations.
   Titles II and III of the ADA generally became effective on January
@@ -1724,8 +1777,9 @@ Section 36.406(a) adopts the 2004 ADAAG as part of the 2010
   the requirements applied to facilities designed and constructed for
   first occupancy after January 26, 1993--18 months after the 1991
   Standards were published by the Department. See 42 U.S.C.
-  12183(a)(1).</p>
-  <p> The Department received numerous comments on the issue of
+  12183(a)(1).  
+
+The Department received numerous comments on the issue of
   effective date, many of them similar to those received in response
   to the ANPRM. A substantial number of commenters advocated a minimum
   of 18 months from publication of the final rule to the effective
@@ -1741,25 +1795,29 @@ Section 36.406(a) adopts the 2004 ADAAG as part of the 2010
   permits. To the extent the new standards necessitate changes in any
   previous submissions or permits already issued, businesses might
   have to expend significant funds and incur delays due to redesign
-  and resubmission.</p>
-<p> Some commenters also expressed concern that a six-month period
+  and resubmission.  
+
+Some commenters also expressed concern that a six-month period
   would be hard to implement given that many renovations are planned
   around retail selling periods, holidays, and other seasonal
   concerns. For example, hotels plan renovations during their slow
   periods, retail establishments avoid renovations during the major
   holiday selling periods, and businesses in certain parts of the
-  country cannot do any major construction during parts of the winter.  </p>
-<p>Some commenters argued that chain establishments need additional
+  country cannot do any major construction during parts of the winter.  
+
+Some commenters argued that chain establishments need additional
   time to redesign their &ldquo;master facility&rdquo; designs for replication
   at multiple locations, taking into account both the new standards
-  and applicable State and local accessibility requirements.</p>
-<p> Other commenters argued for extending the effective date from
+  and applicable State and local accessibility requirements.  
+
+Other commenters argued for extending the effective date from
   six months to a minimum of 12 months for many of the same reasons,
   and one commenter argued that there should be a tolling of the
   effective date for those businesses that are in the midst of the
   permitting process if the necessary permits are delayed due to legal
-  challenges or other circumstances outside the business's control.</p>
-<p> Several commenters took issue with the Department's
+  challenges or other circumstances outside the business's control.  
+
+Several commenters took issue with the Department's
   characterization of the 2004 ADAAG and the 1991 Standards as two
   similar rules. These commenters argued that many provisions in the
   2004 ADAAG represent a &ldquo;substantial and significant&rdquo; departure
@@ -1772,8 +1830,9 @@ Section 36.406(a) adopts the 2004 ADAAG as part of the 2010
   2004 ADAAG, since the 2004 ADAAG standards are organized in an
   entirely different manner from the 1991 Standards, and contain, in
   the commenter's view, extensive changes, it will make the shift from
-  the old to the new standards quite complicated.</p>
-<p> Several commenters also took issue with the Department's
+  the old to the new standards quite complicated.  
+
+Several commenters also took issue with the Department's
   proffered rationale that by adopting a six-month effective date, the
   Department was following the precedent of other Federal agencies
   that have adopted the 2004 ADAAG for facilities whose accessibility
@@ -1783,25 +1842,29 @@ Section 36.406(a) adopts the 2004 ADAAG as part of the 2010
   Department of Transportation and the General Services
   Administration) and that those agencies regulate accessibility
   primarily in either governmental facilities or facilities operated
-  by quasi-governmental authorities.</p>
-<p> Several commenters representing the travel, vacation, and golf
+  by quasi-governmental authorities.  
+
+Several commenters representing the travel, vacation, and golf
   industries argued that the Department should adopt a two-year
   effective date for new construction. In addition to many of the
   arguments made by commenters in support of an 18-month effective
   date, these commenters also argued that a two-year time frame would
   allow States with DOJ-certified building codes to have the time to
   amend their codes to meet the 2004 ADAAG so that design
-  professionals can work from compatible codes and standards.  </p>
-<p>Several commenters recommended treating alterations differently
+  professionals can work from compatible codes and standards.  
+
+Several commenters recommended treating alterations differently
   than new construction, arguing for a one-year effective date for
   alterations. Another commenter representing building officials
   argued that a minimum of a six-month phase-in for alterations was
   sufficient, since a very large percentage of alteration projects
   &ldquo;are of a scale that they should be able to accommodate the phase-
-  in.&rdquo;</p>
-<p> In contrast, many commenters argued that the proposed six-month
-  effective date should be retained in the final rule.</p>
-<p> The Department has been persuaded by concerns raised by some of
+  in.&rdquo;  
+
+In contrast, many commenters argued that the proposed six-month
+  effective date should be retained in the final rule.  
+
+The Department has been persuaded by concerns raised by some of
   the commenters that the six month compliance date proposed in the
   NPRM for application of the 2010 Standards may be too short for
   certain projects that are already in the midst of the design and permitting process. The Department has determined that
@@ -1818,8 +1881,9 @@ Section 36.406(a) adopts the 2004 ADAAG as part of the 2010
   prior to the compliance date described in this rule must choose one
   or the other standard, and may not rely on some of the requirements
   contained in one standard and some of the requirements contained in
-the other standard.</p>
-  <p> <em>Triggering event.</em> In the NPRM, the Department proposed using the
+the other standard.  
+
+*Triggering event.* In the NPRM, the Department proposed using the
   start of physical construction as the triggering event for applying
   the proposed standards to new construction under title III. This
   triggering event parallels that for the alterations provisions
@@ -1829,16 +1893,18 @@ the other standard.</p>
   modular buildings and amusement park rides and attractions, or
   installed equipment, such as ATMs, the start of construction means
   the date on which the site preparation begins. Site preparation
-  includes providing an accessible route to the element.</p>
-<p> The Department's NPRM sought public comment on how to define the
+  includes providing an accessible route to the element.  
+
+The Department's NPRM sought public comment on how to define the
   start of construction and the practicality of applying commencement
   of construction as a triggering event. The Department also requested
   input on whether the proposed definition of the start of
   construction was sufficiently clear and inclusive of different types
   of facilities. The Department also sought input about facilities
   subject to title III for which commencement of construction would be
-  ambiguous or problematic.</p>
-<p> The Department received numerous comments recommending that the
+  ambiguous or problematic.  
+
+The Department received numerous comments recommending that the
   Department adopt a two-pronged approach to defining the triggering
   event. In those cases where permits are required, the Department
   should use &ldquo;date of permit application&rdquo; as the effective date
@@ -1863,16 +1929,19 @@ the other standard.</p>
   is ambiguous, because it is unclear whether start of construction
   means the razing of structures on the site to make way for a new
   facility or means site preparation, such as regrading or laying the
-  foundation.</p>
-<p> One commenter recommended using the &ldquo;signing date of a
+  foundation.  
+
+One commenter recommended using the &ldquo;signing date of a
   construction contract,&rdquo; and an additional commenter recommended
   that the new standards apply only to &ldquo;buildings permitted after the
-  effective date of the regulations.&rdquo;</p>
-<p> One commenter stated that for facilities that fall outside the
+  effective date of the regulations.&rdquo;  
+
+One commenter stated that for facilities that fall outside the
   building permit requirements (ATMs, prefabricated saunas, small
   sheds), the triggering event should be the date of installation,
-  rather than the date the space for the facility is constructed.</p>
-<p> The Department is persuaded by the comments to adopt a two-
+  rather than the date the space for the facility is constructed.  
+
+The Department is persuaded by the comments to adopt a two-
   pronged approach to defining the triggering event for new
   construction and alterations. The final rule states that in those
   cases where permits are required, the triggering event shall be the
@@ -1888,8 +1957,9 @@ the other standard.</p>
   construction or alterations&rdquo; to make it clear that &ldquo;start of
   physical construction or alterations&rdquo; is not intended to mean the
   date of ceremonial groundbreaking or the date a structure is razed
-  to make it possible for construction of a facility to take place.</p>
-<p> <em>Amusement rides.</em> Section 234 of the 2010 Standards provides
+  to make it possible for construction of a facility to take place.  
+
+*Amusement rides.* Section 234 of the 2010 Standards provides
   accessibility guidelines for newly designed and constructed
   amusement rides. The amusement ride provisions do not provide a
   &ldquo;triggering event&rdquo; for new construction or alteration of an
@@ -1907,8 +1977,9 @@ the other standard.</p>
   this rule. The Department also notes that section 234.4.2 of the
   2010 Standards only applies where the structural or operational
   characteristics of an amusement ride are altered. It does not apply
-  in cases where the only change to a ride is the theme.</p>
-<p> Noncomplying new construction and alterations. The element-by-
+  in cases where the only change to a ride is the theme.  
+
+Noncomplying new construction and alterations. The element-by-
   element safe harbor referenced in Sec.  36.304(d)(2) has no effect
   on new or altered elements in existing facilities that were subject
   to the 1991 Standards on the date that they were constructed or
@@ -1923,9 +1994,11 @@ the other standard.</p>
   accordance with either the 1991 Standards or the 2010 Standards. Noncomplying new construction and alterations constructed or altered
   after the effective date of the applicable ADA requirements and
   before March 15, 2012, shall, on or after March 15, 2012, be made
-  accessible in accordance with the 2010 Standards.</p>
-<h3>&sect; 36.406(b) Application of Standards to Fixed Elements</h3>
-<p> The final rule contains a new Sec.  36.406(b) that clarifies
+  accessible in accordance with the 2010 Standards.  
+
+### &sect; 36.406(b) Application of Standards to Fixed Elements  
+
+The final rule contains a new Sec.  36.406(b) that clarifies
   that the requirements established by this section, including those
   contained in the 2004 ADAAG, prescribe the requirements necessary to
   ensure that fixed or built-in elements in new or altered facilities
@@ -1937,8 +2010,9 @@ the other standard.</p>
   has often chosen to use the requirements of the 1991 Standards as a
   guide to determining when and how to make equipment and furnishings
   accessible, those coverage determinations fall within the
-  discretionary authority of the Department.</p>
-<p> The Department is also clarifying that the advisory notes,
+  discretionary authority of the Department.  
+
+The Department is also clarifying that the advisory notes,
   appendix notes, and figures that accompany the 1991 and 2010
   Standards do not establish separately enforceable requirements
   unless otherwise specified in the text of the standards. This
@@ -1949,9 +2023,11 @@ the other standard.</p>
   require, that covered entities provide visual contrast on stair
   tread nosings to make them more visible to individuals with low
   vision). The Department received no comments on this provision in
-  the NPRM.</p>
-  <h3>&sect; 36.406(c) Places of Lodging</h3>
-<p> In the NPRM, the Department proposed a new definition for public
+  the NPRM.  
+
+### &sect; 36.406(c) Places of Lodging  
+
+In the NPRM, the Department proposed a new definition for public
   accommodations that are &ldquo;places of lodging&rdquo; and a new Sec.
   36.406(c) to clarify the scope of coverage for places of public
   accommodation that meet this definition. For many years the
@@ -1976,8 +2052,9 @@ the other standard.</p>
   condominium hotels, and mixed-use and corporate hotel facilities,
   shall comply with the provisions of the proposed standards,
   including, but not limited to, the requirements for transient
-  lodging in sections 224 and 806 of the 2004 ADAAG.</p>
-<p> The Department's NPRM sought public input on this proposal. The
+  lodging in sections 224 and 806 of the 2004 ADAAG.  
+
+The Department's NPRM sought public input on this proposal. The
   Department received a substantial number of comments on these issues
   from industry representatives, advocates for persons with
   disabilities, and individuals. A significant focus of these comments
@@ -1986,14 +2063,16 @@ the other standard.</p>
   the units are owned and controlled by individual owners and rented
   out some portion of time to the public, as compared to traditional
   hotels and motels that are owned, controlled, and rented to the
-  public by one entity.</p>
-<p> Scoping and technical requirements applicable to &ldquo;places of
+  public by one entity.  
+
+Scoping and technical requirements applicable to &ldquo;places of
   lodging.&rdquo; In the NPRM, the Department asked for public comment on
   its proposal in Sec.  36.406(c) to apply to places of lodging the
   scoping and technical requirements for transient lodging, rather
   than the scoping and technical requirements for residential dwelling
-  units.</p>
-<p> Commenters generally agreed that the transient lodging
+  units.  
+
+Commenters generally agreed that the transient lodging
   requirements should apply to places of lodging. Several commenters
   stated that the determination as to which requirements apply should
   be made based on the intention for use at the time of design and
@@ -2003,11 +2082,13 @@ the other standard.</p>
   the residential standards should apply. Some commenters agreed with
   the application of transient lodging standards to places of lodging
   in general, but disagreed about the characterization of certain
-  types of facilities as covered places of lodging.</p>
-<p> The Department agrees that the scoping and technical standards
+  types of facilities as covered places of lodging.  
+
+The Department agrees that the scoping and technical standards
   applicable to transient lodging should apply to facilities that
-  contain units that meet the definition of &ldquo;places of lodging.&rdquo; </p>
-<p>Scoping for timeshare or condominium hotels. In the NPRM, the
+  contain units that meet the definition of &ldquo;places of lodging.&rdquo;  
+
+Scoping for timeshare or condominium hotels. In the NPRM, the
   Department sought comment on the appropriate basis for determining
   scoping for a timeshare or condominium-hotel. A number of commenters
   indicated that scoping should be based on the usage of the facility. Only those units used for short-term stays should be counted for
@@ -2020,8 +2101,9 @@ the other standard.</p>
   or development containing individually owned units is not fixed over
   time. Owners have the right to participate in a public rental
   program some, all, or none of the time, and individual owner
-  participation changes from year to year.</p>
-<p> The Department believes that the determination for scoping
+  participation changes from year to year.  
+
+The Department believes that the determination for scoping
   should be based on the number of units in the project that are
   designed and constructed with the intention that their owners may
   participate in a transient lodging rental program. The Department
@@ -2058,8 +2140,9 @@ the other standard.</p>
   constructed timeshare development containing 100 units, all of which
   may be made available to the public through an exchange or rental
   program, all 100 units would be counted for purposes of applying the
-  2010 Standards.</p>
-<p> One commenter also asked the Department for clarification of how
+  2010 Standards.  
+
+One commenter also asked the Department for clarification of how
   to count individually owned &ldquo;lock-off units.&rdquo; Lock-off units are
   units that are multi-bedroom but can be &ldquo;locked off&rdquo; into two
   separate units, each having individual external access. This
@@ -2070,12 +2153,14 @@ the other standard.</p>
   off units are used as part of a larger accessible unit, and portions
   of a unit not locked off would constitute both an accessible one-
   bedroom unit or an accessible two-bedroom unit with the lock-off
-  unit.</p>
-<p> It is the Department's view that lock-off units that are
+  unit.  
+
+It is the Department's view that lock-off units that are
   individually owned that can be temporarily converted into two units
   do not constitute two separate guest rooms for purposes of
-  calculating compliance with the scoping requirements.</p>
-<p> One commenter asked the Department how developers should scope
+  calculating compliance with the scoping requirements.  
+
+One commenter asked the Department how developers should scope
   units where buildings are constructed in phases over a span of
   years, recommending that the scoping be based on the total number of
   units expected to be constructed at the project and not on a
@@ -2093,15 +2178,17 @@ the other standard.</p>
   scoping requirements in table 224.2. Facilities with more than 50
   units should be scoped individually in accordance with the table.
   The regulation has been revised to reflect this application of the
-  scoping requirements.</p>
-<p> One commenter also asked the Department to use the title III
+  scoping requirements.  
+
+One commenter also asked the Department to use the title III
   regulation to declare that timeshares subject to the transient
   lodging standards are exempt from the design and construction
   requirements of the FHAct. The coverage of the FHAct is set by
   Congress and interpreted by regulations issued by the Department of
   Housing and Urban Development. The Department has no authority to exempt anyone from
-coverage of the FHAct.</p>
-  <p> Application of ADA to places of lodging that contain
+coverage of the FHAct.  
+
+Application of ADA to places of lodging that contain
   individually owned units. The Department believes that regardless of
   ownership structure for individual units, rental programs (whether
   they are on- or off-site) that make transient lodging guest rooms
@@ -2109,8 +2196,9 @@ coverage of the FHAct.</p>
   nondiscrimination requirements of the ADA. In addition, as provided
   in Sec.  36.406(c), newly constructed facilities that contain
   accommodations intended to be used for transient lodging purposes
-  must comply with the 2010 Standards.</p>
-<p> In the NPRM, the Department asked for public comment on several
+  must comply with the 2010 Standards.  
+
+In the NPRM, the Department asked for public comment on several
   issues related to ensuring the availability of accessible units in a
   rental program operated by a place of lodging. The Department sought
   input on how it could address a situation in which a new or
@@ -2121,20 +2209,21 @@ coverage of the FHAct.</p>
   the rental program; and whether the facility developer, the
   condominium association, or the hotel operator has an obligation to
   retain ownership or control over a certain number of accessible
-  units to avoid this problem.</p>
-<p> In the NPRM, the Department sought public input on how to
+  units to avoid this problem.  
+
+In the NPRM, the Department sought public input on how to
   regulate scoping for a timeshare or condominium-rental facility that
   decides, after the sale of units to individual owners, to begin a
   rental program that qualifies the facility as a place of lodging,
   and how the condominium association, operator, or developer should
-  determine which units to make accessible.</p>
-<p> A number of commenters expressed concerns about the ability of
+  determine which units to make accessible.  
+
+A number of commenters expressed concerns about the ability of
   the Department to require owners of accessible units to participate
   in the rental program, to require developers, condo associations, or
   homeowners associations to retain ownership of accessible units, and
   to impose accessibility requirements on individual owners who choose
-  to place inaccessible units into a rental program after purchase. These commenters stated that individuals who purchase accessible
-  vacation units in condominiums, individual vacation homes, and
+  to place inaccessible units into a rental program after purchase. These commenters stated that individuals who purchase accessible vacation units in condominiums, individual vacation homes, and
   timeshares have ownership rights in their units and may choose
   lawfully to make their units available to the public some, all, or
   none of the time. Commenters advised the Department that the
@@ -2159,8 +2248,9 @@ coverage of the FHAct.</p>
   units in the rental program will not work, because it does not
   guarantee the availability of the requisite number of rooms
   dispersed across the development, and there is not any reasonable,
-  identifiable source of funds to cover the costs of such incentives.</p>
-<p> A number of commenters also indicated that it potentially is
+  identifiable source of funds to cover the costs of such incentives.  
+
+A number of commenters also indicated that it potentially is
   discriminatory as well as economically infeasible to require that a
   developer hold back the accessible units so that the units can be
   maintained in the rental program year-round. One commenter pointed
@@ -2178,8 +2268,9 @@ coverage of the FHAct.</p>
   unit owners is infeasible because the common ownership would result
   in pooled rental income, which would transform the owners into
   participants in a rental pool, and thus turn the sale of the
-  condominiums into the sale of securities under SEC Release 33-5347.</p>
-<p> Several commenters noted that requiring the operator of the
+  condominiums into the sale of securities under SEC Release 33-5347.  
+
+Several commenters noted that requiring the operator of the
   rental program to own the accessible units is not feasible either
   because the operator of the rental program would have to have the
   funds to invest in the purchase of all of the accessible units, and
@@ -2198,8 +2289,9 @@ coverage of the FHAct.</p>
   availability of accessible units. One commenter argued that the
   legal entity running the place of lodging has an obligation to
   retain control over the required number of accessible units to
-  ensure that they are available in accordance with title III.</p>
-<p> A number of commenters also argued that the Department has no
+  ensure that they are available in accordance with title III.  
+
+A number of commenters also argued that the Department has no
   legal authority to require individual owners to engage in barrier
   removal where an existing development adds a rental program. One
   commenter stated that Texas law prohibits the operator of on-site
@@ -2207,8 +2299,9 @@ coverage of the FHAct.</p>
   particular unit. In addition, under Texas law, condominium
   declarations may not require some units and not others to make
   changes, because that would lead to unequal treatment of units and
-  owners, which is not permissible.</p>
-<p> One commenter stated that since it was not possible for
+  owners, which is not permissible.  
+
+One commenter stated that since it was not possible for
   operators of rental programs offering privately owned condominiums
   to comply with accessible scoping, the Department should create
   exemptions from the accessible scoping, especially for existing
@@ -2216,8 +2309,9 @@ coverage of the FHAct.</p>
   of an on-site rental program were to require renovations as a
   condition of participation in the rental program, unit owners might
   just rent their units through a different broker or on their own, in
-  which case such requirements would not apply.</p>
-<p> A number of commenters argued that if a development decides to
+  which case such requirements would not apply.  
+
+A number of commenters argued that if a development decides to
   create a rental program, it must provide accessible units. Otherwise
   the development would have to ensure that units are retrofitted. A
   commenter argued that if an existing building is being converted,
@@ -2230,14 +2324,16 @@ coverage of the FHAct.</p>
   guarantee the availability of accessible units in the long run. In
   this commenter's view, since conversions almost always require
   makeover of existing buildings, this will not lead to a significant
-  expense.</p>
-<p> The Department agrees with the commenters that it would not be
+  expense.  
+
+The Department agrees with the commenters that it would not be
   feasible to require developers to hold back or purchase accessible
   units for the purposes of making them available to the public in a
   transient lodging rental program, nor would it be feasible to
   require individual owners of accessible units to participate in
-  transient lodging rental programs.</p>
-<p> The Department recognizes that places of lodging are developed
+  transient lodging rental programs.  
+
+The Department recognizes that places of lodging are developed
   and financed under myriad ownership and management structures and
   agrees that there will be circumstances where there are legal
   barriers to requiring compliance with either the alterations
@@ -2248,8 +2344,9 @@ coverage of the FHAct.</p>
   controlled by the entity that owns, leases, or operates the overall
   facility and the physical features of the guest room interiors are
   controlled by their individual owners, the units are not subject to
-  the alterations requirement, even where the owner rents the unit out to the public through a transient lodging rental program.
-  In addition, the Department has added an exception to the barrier
+  the alterations requirement, even where the owner rents the unit out to the public through a transient lodging rental program.  
+
+In addition, the Department has added an exception to the barrier
   removal requirements at Sec.  36.304(g) providing that in existing
   facilities that meet the definition of places of lodging, where the
   guest rooms are not owned or substantially controlled by the entity
@@ -2261,26 +2358,28 @@ coverage of the FHAct.</p>
   ownership interests do not convey control over the physical features
   of units. In those cases, it may be the case that the facility has
   an obligation to meet the alterations or barrier removal
-requirements or to maintain accessible features.</p>
-  <h3>&sect; 36.406(d) Social Service Center Establishments</h3>
-<p> In the NPRM, the Department proposed a new Sec.  36.406(d)
+requirements or to maintain accessible features.  
+
+### &sect; 36.406(d) Social Service Center Establishments  
+
+In the NPRM, the Department proposed a new Sec.  36.406(d)
   requiring group homes, halfway houses, shelters, or similar social
   service center establishments that provide temporary sleeping
   accommodations or residential dwelling units to comply with the
   provisions of the 2004 ADAAG that apply to residential facilities,
-  including, but not limited to, the provisions in sections 233 and
-  809.</p>
-<p> The NPRM explained that this proposal was based on two important
+  including, but not limited to, the provisions in sections 233 and 809.  
+
+The NPRM explained that this proposal was based on two important
   changes in the 2004 ADAAG. First, for the first time, residential
-  dwelling units are explicitly covered in the 2004 ADAAG in section
-  233. Second, the 2004 ADAAG eliminates the language contained in the
+  dwelling units are explicitly covered in the 2004 ADAAG in section 233. Second, the 2004 ADAAG eliminates the language contained in the
   1991 Standards addressing scoping and technical requirements for
   homeless shelters, group homes, and similar social service center
   establishments. Currently, such establishments are covered in
   section 9.5 of the transient lodging section of the 1991 Standards.
   The deletion of section 9.5 creates an ambiguity of coverage that
-  must be addressed.</p>
-<p> The NPRM explained the Department's belief that transferring
+  must be addressed.  
+
+The NPRM explained the Department's belief that transferring
   coverage of social service center establishments from the transient
   lodging standards to the residential facilities standards would
   alleviate conflicting requirements for social service providers. The
@@ -2291,8 +2390,7 @@ requirements or to maintain accessible features.</p>
   for the operation of shelters through the Administration for
   Children and Families programs. As such, they are covered both by
   the ADA and section 504. UFAS is currently the design standard for
-  new construction and alterations for entities subject to section
-  504. The two design standards for accessibility--the 1991 Standards
+  new construction and alterations for entities subject to section 504. The two design standards for accessibility--the 1991 Standards
   and UFAS--have confronted many social service providers with
   separate, and sometimes conflicting, requirements for design and
   construction of facilities. To resolve these conflicts, the
@@ -2306,16 +2404,18 @@ requirements or to maintain accessible features.</p>
   residential facilities standards, which would harmonizes the
   regulatory requirements under the ADA and section 504. The
   Department chose the option that harmonizes the regulatory
-  requirements: coverage under the residential facilities standards.</p>
-<p> In the NPRM, the Department expressed concern that the
+  requirements: coverage under the residential facilities standards.  
+
+In the NPRM, the Department expressed concern that the
   residential facilities standards do not include a requirement for
   clear floor space next to beds similar to the requirement in the
   transient lodging standards; as a result, the Department proposed
   adding a provision that would require certain social service center
   establishments that provide sleeping rooms with more than 25 beds to
   ensure that a minimum of 5 percent of the beds have clear floor
-  space in accordance with section 806.2.3 of the 2004 ADAAG.</p>
-<p> The Department requested information from providers who operate
+  space in accordance with section 806.2.3 of the 2004 ADAAG.  
+
+The Department requested information from providers who operate
   homeless shelters, transient group homes, halfway houses, and other
   social service center establishments, and from the clients of these
   facilities who would be affected by this proposed change. In the
@@ -2323,8 +2423,9 @@ requirements or to maintain accessible features.</p>
   and section 504 have affected these facilities and what the effect
   would be of applying the residential dwelling unit requirements to
   these facilities, rather than the requirements for transient lodging
-  guest rooms.</p>
-<p> Many of the commenters supported applying the residential
+  guest rooms.  
+
+Many of the commenters supported applying the residential
   facilities requirements to social service center establishments
   stating that even though the residential facilities requirements are
   less demanding, in some instances, the existence of one clear
@@ -2335,15 +2436,17 @@ requirements or to maintain accessible features.</p>
   appropriate because individuals housed in social service center
   establishments typically stay for a prolonged period of time, and
   guests of a transient lodging facility typically are not housed to
-  participate in a program or receive services.</p>
-<p> One commenter opposed to the proposed section argued for the
+  participate in a program or receive services.  
+
+One commenter opposed to the proposed section argued for the
   application of the transient lodging standards to all social service
   center establishments except those that were &ldquo;intended as a
   person's place of abode,&rdquo; referencing the Department's question
   related to the definition of place of lodging in the title III NPRM.
   A second commenter stated that the use of transient lodging
-  guidelines would lead to greater accessibility.</p>
-<p> The Department continues to be concerned about alleviating the
+  guidelines would lead to greater accessibility.  
+
+The Department continues to be concerned about alleviating the
   challenges for social service providers that are also subject to
   section 504 and that would likely be subject to conflicting
   requirements if the transient lodging standard were applied. Thus,
@@ -2373,8 +2476,9 @@ requirements or to maintain accessible features.</p>
   least one roll-in shower must be provided for each group. This
   supplemental requirement to the residential facilities standards is
   in addition to the supplemental requirement that was proposed in the
-  NPRM for clear floor space in sleeping rooms with more than 25 beds.</p>
-<p> The Department also notes that while dwelling units at some
+  NPRM for clear floor space in sleeping rooms with more than 25 beds.  
+
+The Department also notes that while dwelling units at some
   social service center establishments are also subject to FHAct
   design and construction requirements that require certain features
   of adaptable and accessible design, FHAct units do not provide the
@@ -2382,14 +2486,17 @@ requirements or to maintain accessible features.</p>
   facilities under the 2010 Standards. The FHAct requirements, where
   also applicable, should not be considered a substitute for the 2010
   Standards. Rather, the 2010 Standards must be followed in addition
-  to the FHAct requirements.</p>
-<p> The Department also notes that while in the NPRM the Department
+  to the FHAct requirements.  
+
+The Department also notes that while in the NPRM the Department
   used the term &ldquo;social service establishment,&rdquo; the final rule uses
   the term &ldquo;social service center establishment.&rdquo; The Department has
   made this editorial change so that the final rule is consistent with
-  the terminology used in the ADA. See 42 U.S.C. 12181(7)(K).</p>
-<h3>&sect; 36.406(e) Housing at a Place of Education</h3>
-<p> The Department of Justice and the Department of Education share
+  the terminology used in the ADA. See 42 U.S.C. 12181(7)(K).  
+
+### &sect; 36.406(e) Housing at a Place of Education  
+
+The Department of Justice and the Department of Education share
   responsibility for regulation and enforcement of the ADA in
   postsecondary educational settings, including architectural
   features. Housing types in educational settings range from
@@ -2403,8 +2510,9 @@ requirements or to maintain accessible features.</p>
   include certain features of accessible and adaptable design. Covered
   entities subject to the ADA must always be aware of, and comply
   with, any other Federal statutes or regulations that govern the
-operation of residential properties.</p>
-  <p> Although the 1991 Standards mention dormitories as a form of
+operation of residential properties.  
+
+Although the 1991 Standards mention dormitories as a form of
   transient lodging, they do not specifically address how the ADA
   applies to dormitories and other types of residential housing
   provided in an educational setting. The 1991 Standards also do not
@@ -2422,8 +2530,9 @@ operation of residential properties.</p>
   dormitories operated by or on behalf of places of education shall
   comply with the provisions of the proposed standards for transient
   lodging, including, but not limited to, the provisions in sections
-  224 and 806 of the 2004 ADAAG.</p>
-<p> Private universities and schools covered by title III as public
+  224 and 806 of the 2004 ADAAG.  
+
+Private universities and schools covered by title III as public
   accommodations are required to make their programs and activities
   accessible to persons with disabilities. The housing facilities that
   they provide have varied characteristics. College and university
@@ -2443,8 +2552,9 @@ operation of residential properties.</p>
   agreements with private developers to build, own, or lease housing
   to the educational institution or to its students. Academic housing
   may be located on the campus of the university or may be located in
-  nearby neighborhoods.</p>
-<p> Throughout the school year and the summer, academic housing can
+  nearby neighborhoods.  
+
+Throughout the school year and the summer, academic housing can
   become program areas in which small groups meet, receptions and
   educational sessions are held, and social activities occur. The
   ability to move between rooms--both accessible rooms and standard
@@ -2454,8 +2564,9 @@ operation of residential properties.</p>
   for short-term transient educational programs during the time
   students are not in regular residence and may be rented out to
   transient visitors in a manner similar to a hotel for special
-  university functions.</p>
-<p> The Department was concerned that applying the new construction
+  university functions.  
+
+The Department was concerned that applying the new construction
   requirements for residential facilities to educational housing
   facilities could hinder access to educational programs for students
   with disabilities. Elevators generally are not required under the
@@ -2482,8 +2593,7 @@ operation of residential properties.</p>
   standards also require 5 percent of the units to be accessible to
   persons with mobility disabilities, which is a continuation of the
   same scoping that is currently required under UFAS and is therefore
-  applicable to any educational institution that is covered by section
-  504. The transient lodging standards require a lower percentage of
+  applicable to any educational institution that is covered by section 504. The transient lodging standards require a lower percentage of
   accessible sleeping rooms for facilities with large numbers of rooms
   than is required by UFAS. For example, if a dormitory has 150 rooms,
   the transient lodging standards would require 7 accessible rooms,
@@ -2494,15 +2604,17 @@ operation of residential properties.</p>
   two sets of standards, including requirements for accessible
   windows, alterations, kitchens, an accessible route throughout a
   unit, and clear floor space in bathrooms allowing for a side
-  transfer.</p>
-<p> In the NPRM, the Department requested public comment on how to
+  transfer.  
+
+In the NPRM, the Department requested public comment on how to
   scope educational housing facilities, and it asked whether the
   residential facilities requirements or the transient lodging
   requirements in the 2004 ADAAG would be more appropriate for housing
   at places of education and asked how the different requirements
   would affect the cost of building new dormitories and other student
-  housing. See 73 FR 34508, 34545 (June 17, 2008).</p>
-<p> The Department received several comments on this issue under
+  housing. See 73 FR 34508, 34545 (June 17, 2008).  
+
+The Department received several comments on this issue under
   title III. One commenter stated that the Department should adopt the
   residential facilities standards for housing at a place of
   education. In the commenter's view, the residential facilities
@@ -2526,8 +2638,9 @@ operation of residential properties.</p>
   education is comparable to residential housing, and that most of the
   housing types used by schools do not have the same amenities and
   services or function like transient lodging and should not be
-  treated as such.</p>
-<p> Several commenters focused on the length of stay at this type of
+  treated as such.  
+
+Several commenters focused on the length of stay at this type of
   housing and suggested that if the facilities are subject to
   occupancy for greater than 30 days, the residential standards should
   apply. Another commenter supported the Department's adoption of the
@@ -2542,8 +2655,9 @@ operation of residential properties.</p>
   because the cost of adding elevators can be prohibitive, and because
   there are safety concerns related to evacuating students in
   wheelchairs living on floors above the ground floor in emergencies
-  causing elevator failures.</p>
-<p> The Department has considered the comments recommending the use
+  causing elevator failures.  
+
+The Department has considered the comments recommending the use
   of the residential facilities standards and acknowledges that they require
   certain features that are not included in the transient lodging
   standards and that should be required for housing provided at a
@@ -2554,8 +2668,9 @@ operation of residential properties.</p>
   to expect that the educational institution will be able to adapt a
   unit in a timely manner in order to provide accessible
   accommodations to someone attending a one-week program during the
-summer.</p>
-  <p> The Department has determined that the best approach to this
+summer.  
+
+The Department has determined that the best approach to this
   type of housing is to continue to require the application of
   transient lodging standards but, at the same time, to add several
   requirements drawn from the residential facilities standards related
@@ -2566,8 +2681,9 @@ summer.</p>
   facilities with more than 50 sleeping rooms, and other important
   accessibility features not found in the residential facilities
   standards, but also will ensure usable kitchens and access to all
-  the rooms in a suite or apartment.</p>
-<p> The Department has added a new definition to Sec.  36.104,
+  the rooms in a suite or apartment.  
+
+The Department has added a new definition to Sec.  36.104,
   &ldquo;Housing at a Place of Education,&rdquo; and has revised Sec.  36.406(e)
   to reflect the accessible features that now will be required in
   addition to the requirements set forth under the transient lodging
@@ -2581,25 +2697,29 @@ summer.</p>
   that do not contain any public use or common use areas available for
   educational programming; instead, such housing must comply with the
   requirements for residential facilities in sections 233 and 809 of
-  the 2010 Standards.</p>
-<p> The regulatory text uses the term &ldquo;sleeping room&rdquo; in lieu of
+  the 2010 Standards.  
+
+The regulatory text uses the term &ldquo;sleeping room&rdquo; in lieu of
   the term &ldquo;guest room,&rdquo; which is the term used in the transient
   lodging standards. The Department is using this term because it
   believes that for the most part, it provides a better description of
   the sleeping facilities used in a place of education than &ldquo;guest
   room.&rdquo; The final rule states in Sec.  36.406(e) that the Department
   intends the terms to be used interchangeably in the application of
-  the transient lodging standards to housing at a place of education.</p>
-<h3>&sect; 36.406(f) Assembly Areas</h3>
-<p> In the NPRM, the Department proposed Sec.  36.406(f) to
+  the transient lodging standards to housing at a place of education.  
+
+### &sect; 36.406(f) Assembly Areas  
+
+In the NPRM, the Department proposed Sec.  36.406(f) to
   supplement the assembly area requirements of the 2004 ADAAG, which
   the Department is adopting as part of the 2010 Standards. The NPRM
   proposed at Sec.  36.406(f)(1) to require wheelchair spaces and
   companion seating locations to be dispersed to all levels of the
   facility that are served by an accessible route. The Department
   received no significant comments on this paragraph and has decided
-  to adopt the proposed language with minor modifications. </p>
-<p>Section 36.406(f)(1) ensures that there is greater dispersion of
+  to adopt the proposed language with minor modifications.  
+
+Section 36.406(f)(1) ensures that there is greater dispersion of
   wheelchair spaces and companion seats throughout stadiums, arenas,
   and grandstands than would otherwise be required by sections 221 and
   802 of the 2004 ADAAG. In some cases, the accessible route may not
@@ -2608,8 +2728,9 @@ summer.</p>
   route that complies with section 206.3 of the 2004 ADAAG that could
   be connected to seats on the field, wheelchair spaces and companion
   seats must be placed on the field even if that route is not
-  generally available to the public.</p>
-<p> Regulatory language that was included in the 2004 ADAAG
+  generally available to the public.  
+
+Regulatory language that was included in the 2004 ADAAG
   advisory, but that did not appear in the NPRM, has been added by the
   Department in Sec.  36.406(f)(2). Section 36.406(f)(2) now requires
   an assembly area that has seating encircling, in whole or in part, a
@@ -2619,8 +2740,9 @@ summer.</p>
   accommodation from placing wheelchair spaces and companion seats on
   one side of the facility only, is consistent with the Department's
   enforcement practices and reflects its interpretation of section
-  4.33.3 of the 1991 Standards.</p>
-<p> In the NPRM, the Department proposed Sec. 36.406(f)(2), which
+  4.33.3 of the 1991 Standards.  
+
+In the NPRM, the Department proposed Sec. 36.406(f)(2), which
   prohibits wheelchair spaces and companion seating locations from
   being &ldquo;located on (or obstructed by) temporary platforms.&rdquo;
   73 FR 34508, 34557 (June 17, 2008). Through its enforcement actions,
@@ -2630,8 +2752,9 @@ summer.</p>
   spaces and companion seats with temporary platforms on top of which
   they place risers of conventional seating. These platforms cover
   groups of conventional seats and are used to provide groups of
-  wheelchair seats and companion seats.</p>
-<p> Several commenters requested an exception to the prohibition of
+  wheelchair seats and companion seats.  
+
+Several commenters requested an exception to the prohibition of
   the use of temporary platforms for public accommodations that sell
   most of their tickets on a season-ticket or other multi-event basis.
   Such commenters argued that they should be able to use temporary
@@ -2664,8 +2787,9 @@ summer.</p>
   seating&rdquo;). In addition, using temporary platforms to convert unsold
   wheelchair spaces to conventional seating undermines the flexibility
   facilities need to accommodate secondary ticket market exchanges as
-  required by Sec.  36.302(f)(7) of the final rule.</p>
-<p> As the Department explained in the NPRM, however, this provision
+  required by Sec.  36.302(f)(7) of the final rule.  
+
+As the Department explained in the NPRM, however, this provision
   was not designed to prohibit temporary seating that increases
   seating for events (e.g., placing temporary seating on the floor of
   a basketball court for a concert). Consequently, the final rule, at
@@ -2679,8 +2803,9 @@ summer.</p>
   seating section&rdquo; on the platform. In addition, Sec.  36.406(f)(3)
   clarifies that facilities may fill in wheelchair spaces with
   removable seats when the wheelchair spaces are not needed by persons
-  who use wheelchairs.</p>
-<p> The Department has been responsive to assembly areas' concerns
+  who use wheelchairs.  
+
+The Department has been responsive to assembly areas' concerns
   about reduced revenues due to unused accessible seating.
   Accordingly, the Department has reduced scoping requirements
   significantly--by almost half in large assembly areas--and
@@ -2688,8 +2813,9 @@ summer.</p>
   spaces with readily removable temporary individual seats
   appropriately balances their economic concerns with the rights of
   individuals with disabilities. See section 221.1 of the 2010
-  Standards.</p>
-<p> For stadium-style movie theaters, in Sec.  36.406(f)(4) of the
+  Standards.  
+
+For stadium-style movie theaters, in Sec.  36.406(f)(4) of the
   NPRM the Department proposed requiring placement of wheelchair seating spaces and
   companion seats on a riser or cross-aisle in the stadium section of
   the theater that satisfies at least one of the following criteria:
@@ -2701,8 +2827,9 @@ summer.</p>
   back row (100th percentile). The vertical viewing angle is the angle
   between a horizontal line perpendicular to the seated viewer's eye
   to the screen and a line from the seated viewer's eye to the top of
-the screen.</p>
-  <p> The Department proposed this bright-line rule for two reasons:
+the screen.  
+
+The Department proposed this bright-line rule for two reasons:
   (1) the movie theater industry petitioned for such a rule; and (2)
   the Department has acquired expertise in the design of stadium-style
   theaters during its litigation with several major movie theater
@@ -2728,8 +2855,9 @@ the screen.</p>
   Standards to require viewing angles provided to patrons who use
   wheelchairs to be comparable to those afforded to other spectators.
   Section 36.406(f)(4) merely represents the application of these
-  requirements to stadium-style movie theaters.</p>
-<p> One commenter from a trade association sought clarification
+  requirements to stadium-style movie theaters.  
+
+One commenter from a trade association sought clarification
   whether Sec.  36.406(f)(4) applies to stadium-style theaters with
   more than 300 seats, and argued that it should not since dispersion
   requirements apply in those theaters. The Department declines to
@@ -2737,16 +2865,19 @@ the screen.</p>
   stadium-style theaters of all sizes must comply with this rule. So,
   for example, stadium-style theaters that must vertically disperse
   wheelchair spaces and companion seats must do so within the
-  parameters of this rule.</p>
-<p> The NPRM included a provision that required assembly areas with
+  parameters of this rule.  
+
+The NPRM included a provision that required assembly areas with
   more than 5,000 seats to provide at least five wheelchair spaces
   with at least three companion seats for each of those five
   wheelchair spaces. The Department agrees with commenters who
   asserted that group seating is better addressed through ticketing
   policies rather than design and has deleted that provision from this
-  section of the final rule.</p>
-<h3>&sect; 36.406(g) Medical Care Facilities</h3>
-<p> In the 1991 title III regulation, there was no provision
+  section of the final rule.  
+
+### &sect; 36.406(g) Medical Care Facilities  
+
+In the 1991 title III regulation, there was no provision
   addressing the dispersion of accessible sleeping rooms in medical
   care facilities. The Department is aware, however, of problems that
   individuals with disabilities face in receiving full and equal
@@ -2761,8 +2892,9 @@ the screen.</p>
   added an advisory note, Advisory 223.1 General, encouraging
   dispersion of accessible rooms within the facility so that
   accessible rooms are more likely to be proximate to appropriate
-  qualified staff and resources.</p>
-<p> In the NPRM, the Department sought additional comment on the
+  qualified staff and resources.  
+
+In the NPRM, the Department sought additional comment on the
   issue, asking whether it should require medical care facilities,
   such as hospitals, to disperse their accessible sleeping rooms, and
   if so, by what method (by specialty area, floor, or other criteria).
@@ -2776,8 +2908,9 @@ the screen.</p>
   that without a requirement, it is unlikely that hospitals would
   disperse the rooms. In addition, concentrating accessible rooms in
   one area perpetuates segregation of individuals with disabilities,
-  which is counter to the purpose of the ADA.</p>
-<p> The Department has decided to require medical care facilities to
+  which is counter to the purpose of the ADA.  
+
+The Department has decided to require medical care facilities to
   disperse their accessible sleeping rooms in a manner that is
   proportionate by type of medical specialty. This does not require
   exact mathematical proportionality, which at times would be
@@ -2792,39 +2925,42 @@ the screen.</p>
   services&rdquo;) and adopts the concept of proportionality proposed by
   the commenters. Accessible rooms should be dispersed throughout all
   medical specialties, such as obstetrics, orthopedics, pediatrics,
-  and cardiac care.</p>  
-
+  and cardiac care.  
 
 ## Analysis and Commentary on the 2010 ADA Standards for Accessible Design  
 
 ### Appendix B to part 36:  Analysis and Commentary on the 2010 ADA Standards for Accessible Design  
 
-<p>The following is a
+The following is a
   discussion of substantive changes in the scoping and technical requirements for
   new construction and alterations resulting from the adoption of new ADA
   Standards for Accessible Design (2010 Standards) in the final rules for title
   II (28 CFR part 35) and title III (28 CFR part 36) of the Americans with
   Disabilities Act (ADA). The full text of the 2010 Standards is available for
-  review at <b><u style='text-underline:thick'>www.ada.gov</u></b>.</p>
-  <p>In the Department&acute;s
+  review at <b><u style='text-underline:thick'>www.ada.gov</u></b>.  
+
+In the Department&acute;s
   revised ADA title II regulation, 28 CFR 35.104 Definitions, the Department
   defines the term &quot;2010 Standards&quot; to mean the 2010 ADA Standards for Accessible
   Design. The 2010 Standards consist of the 2004 ADA Accessibility Guidelines
-  (ADAAG) and the requirements contained in 28 CFR 35.151.</p>
-<p>In the Department&acute;s
+  (ADAAG) and the requirements contained in 28 CFR 35.151.  
+
+In the Department&acute;s
   revised ADA title III regulation, 28 CFR 36.104 Definitions, the Department
   defines the term &quot;2010 Standards&quot; to mean the 2010 ADA Standards for Accessible
   Design. The 2010 Standards consist of the 2004 ADA Accessibility Guidelines
-  (ADAAG) and the requirements contained in 28 CFR part 36 subpart D.</p>
-<p>This summary addresses selected
+  (ADAAG) and the requirements contained in 28 CFR part 36 subpart D.  
+
+This summary addresses selected
   substantive changes between the 1991 ADA Standards for Accessible Design (1991
   Standards) codified at 28 CFR part 36, app. A (2009) and the 2010 Standards. Editorial changes are not
   discussed. Scoping and technical requirements are discussed together, where
   appropriate, for ease of understanding the requirements. In addition, this
   document addresses selected public comments received by the Department in
   response to its September 2004 Advance Notice of Proposed Rulemaking (ANPRM)
-  and its June 2008 Notice of Proposed Rulemaking (NPRM).</p>
-<p>The ANPRM and NPRM issued
+  and its June 2008 Notice of Proposed Rulemaking (NPRM).  
+
+The ANPRM and NPRM issued
   by the Department concerning the proposed 2010 Standards stated that comments
   received by the Access Board in response to its development of the ADAAG upon
   which the 2010 Standards are based would be considered in the development of
@@ -2841,58 +2977,64 @@ the screen.</p>
 
 #### 102 Dimensions for Adults and Children  
 
-<p>Section 2.1 of the 1991
+Section 2.1 of the 1991
   Standards stated that the specifications were based upon adult dimensions and
   anthropometrics. The 1991 Standards did not provide specific requirements for
-  children&acute;s elements or facilities. </p>
-<p>Section 102 of the 2010
+  children&acute;s elements or facilities.  
+
+Section 102 of the 2010
   Standards states that the technical requirements are based on adult dimensions
   and anthropometrics. In addition, technical requirements are also provided
   based on children&acute;s dimensions and anthropometrics for drinking fountains,
   water closets and other elements located in toilet compartments, lavatories and
-  sinks, dining surfaces, and work surfaces. </p>
+  sinks, dining surfaces, and work surfaces.  
+
 #### 103 Equivalent Facilitation  
 
-<p>This section acknowledges
+This section acknowledges
   that nothing in these requirements prevents the use of designs, products, or
   technologies as alternatives to those prescribed, provided that the
   alternatives result in substantially equivalent or greater accessibility and
-  usability. </p>
-<p>A commenter encouraged
+  usability.  
+
+A commenter encouraged
   the Department to include a procedure for determining equivalent facilitation.
   The Department believes that the responsibility for determining and demonstrating
   equivalent facilitation properly rests with the covered entity. The purpose of
   allowing for equivalent facilitation is to encourage flexibility and innovation
   while still ensuring access. The Department believes that establishing
   potentially cumbersome bureaucratic provisions for reviewing requests for
-  equivalent facilitation is inappropriate. </p>  
+  equivalent facilitation is inappropriate.  
 
 #### 104 Conventions  
 
-<p><strong>Dimensions.</strong> Section 104.1
+**Dimensions.** Section 104.1
   of the 2010 Standards notes that dimensions not stated as a &quot;maximum&quot; or
   &quot;minimum&quot; are absolute. Section 104.1.1 of the 2010 Standards provides that all
   dimensions are subject to conventional industry tolerances except where the
   requirement is stated as a range with specific minimum and maximum end
   points. A commenter stated that
   the 2010 Standards restrict the application of construction tolerances only to
-  those few requirements that are expressed as an absolute dimension.</p>
-<p>This is an incorrect
+  those few requirements that are expressed as an absolute dimension.  
+
+This is an incorrect
   interpretation of sections 104.1 and 104.1.1 of the 2010 Standards.
   Construction and manufacturing tolerances apply to absolute dimensions as well
   as to dimensions expressed as a maximum or minimum. When the requirement states
   a specified range, such as in section 609.4 where grab bars must be installed
   between 33 inches and 36 inches above the finished floor, that range provides
   an adequate tolerance. Advisory 104.1.1 gives further guidance about
-  tolerances.</p>
-<p>Section 104.2 of the 2010
+  tolerances.  
+
+Section 104.2 of the 2010
   Standards provides that where the required number of elements or facilities to
   be provided is determined by calculations of ratios or percentages and
   remainders or fractions result, the next greater whole number of such elements
   or facilities shall be provided. Where the determination of the required size
   or dimension of an element or facility involves ratios or percentages, rounding
-  down for values less than one-half is permissible.</p>
-<p>A commenter stated that
+  down for values less than one-half is permissible.  
+
+A commenter stated that
   it is customary in the building code industry to round up rather than down for
   values less than one-half. As noted here, where the 2010 Standards provide for
   scoping, any resulting fractional calculations will be rounded to the next
@@ -2904,31 +3046,34 @@ the screen.</p>
 
 #### 105 Referenced Standards  
 
-<p>Section 105 lists the
+Section 105 lists the
   industry requirements that are referenced in the 2010 Standards. This section
   also clarifies that where there is a difference between a provision of the 2010
   Standards and the referenced requirements, the provision of the 2010 Standards
   applies.</p>
-#### 106 Definitions
-<p>Various definitions have
-  been added to the 2010 Standards and some definitions have been deleted.</p>
-<p>One commenter asked that
+#### 106 Definitions  
+
+Various definitions have
+  been added to the 2010 Standards and some definitions have been deleted.  
+
+One commenter asked that
   the term public right-of-way be defined; others asked that various terms and
   words defined by the 1991 Standards, but which were eliminated from the 2010
-  Standards, plus other words and terms used in the 2010 Standards, be defined.</p>
-<p>The Department believes
+  Standards, plus other words and terms used in the 2010 Standards, be defined.  
+
+The Department believes
   that it is not necessary to add definitions to this text because section 106.3
   of the 2010 Standards provides that the meanings of terms not specifically
   defined in the 2010 Standards, in the Department&acute;s ADA regulations, or in
   referenced standards are to be defined by collegiate dictionaries in the sense
   that the context implies. The Department believes that this provision
-  adequately addresses these commenters&acute; concerns.</p>  
+  adequately addresses these commenters&acute; concerns.  
+
 ### Scoping and Technical Requirements  
 
 #### 202 Existing Buildings and Facilities  
 
-
-<p><strong>Alterations.</strong> Under section
+**Alterations.** Under section
   4.1.6(1)(c) of the 1991 Standards if alterations to single elements, when
   considered together, amount to an alteration of a room or space in a building
   or facility, the entire room or space would have to be made accessible. This
@@ -2941,8 +3086,9 @@ the screen.</p>
   of individual elements. This does not, however, change the requirement that if
   the intent was to alter the entire room or space, the entire room or space must
   be made accessible and comply with the applicable requirements of Chapter 2 of
-  the 2010 Standards. </p>
-<p><strong>Alterations to Primary Function Areas.</strong> Section 202.4 restates a current requirement under title
+  the 2010 Standards.  
+
+**Alterations to Primary Function Areas.** Section 202.4 restates a current requirement under title
   III, and therefore represents no change for title III facilities or for those
   title II facilities that have elected to comply with the 1991 Standards. However,
   under the revised title II regulation, state and local government facilities
@@ -2956,35 +3102,37 @@ the screen.</p>
   twenty percent (20%) of the cost of the alterations to the primary function
   area. The UFAS requirements for a substantial alteration, though different, may
   have covered some of the items that will now be covered by the path of travel
-  requirement.</p>
-<p><strong>Visible Alarms in Alterations to Existing
-  Facilities.</strong> The 1991 Standards, at sections
+  requirement.  
+
+**Visible Alarms in Alterations to Existing Facilities.** The 1991 Standards, at sections
   4.1.3(14) and 4.1.6(1)(b), and sections 202.3 and 215.1 of the 2010 Standards
   require that when existing elements and spaces of a facility are altered, the
   alterations must comply with new construction requirements. Section 215.1 of
   the 2010 Standards adds a new exception to the scoping requirement for visible
   alarms in existing facilities so that visible alarms must be installed only
   when an existing fire alarm system is upgraded or replaced, or a new fire alarm
-  system is installed.</p>
-<p>Some commenters urged the
+  system is installed.  
+
+Some commenters urged the
   Department not to include the exception and to make visible alarms a mandatory
   requirement for all spaces, both existing and new. Other commenters said that
   the exception will make the safety of individuals with disabilities dependent
   upon the varying age of existing fire alarm systems. Other commenters suggested
   that including this requirement, even with the exception, will result in
-  significant cost to building owners and operators.</p>
-<p>The Department believes
+  significant cost to building owners and operators.  
+
+The Department believes
   that the language of the exception to section 215.1 of the 2010 Standards
   strikes a reasonable balance between the interests of individuals with
   disabilities and those of the business community. If undertaken at the time a
   system is installed, whether in a new facility or in a planned system upgrade,
   the cost of adding visible alarms is reasonable. Over time, existing facilities
   will become fully accessible to individuals who are deaf or hard of hearing,
-  and will add minimal costs to owners and operators.</p>  
+  and will add minimal costs to owners and operators.  
 
 #### 203 General Exceptions  
 
-<p><strong>Limited Access Spaces and Machinery Spaces.</strong> The 1991 Standards, at section 4.1.1, contain an exception
+**Limited Access Spaces and Machinery Spaces.** The 1991 Standards, at section 4.1.1, contain an exception
   that exempts &quot;non-occupiable&quot; spaces that have limited means of access, such as
   ladders or very narrow passageways, and that are visited only by service
   personnel for maintenance, repair, or occasional monitoring of equipment, from
@@ -2993,12 +3141,11 @@ the screen.</p>
   &quot;non-occupiable,&quot; and by separating the other conditions into two independent
   exceptions: one for spaces with limited means of access, and the other for
   machinery spaces. More spaces are exempted by the exception in the 2010
-  Standards.</p>  
+  Standards.  
 
 #### 203, 206 and 215 Employee Work Areas  
 
-<p><strong>Common Use Circulation Paths in Employee Work
-  Areas.</strong> The 1991 Standards at section
+**Common Use Circulation Paths in Employee Work Areas.** The 1991 Standards at section
   4.1.1(3), and the 2010 Standards at section 203.9, require employee work areas
   in new construction and alterations <i>only</i> to
   be designed and constructed so that individuals with disabilities can approach,
@@ -3009,58 +3156,61 @@ the screen.</p>
   accommodations in the workplace for individuals with disabilities, which may
   include modifications to work areas when needed. Providing increased access in
   the facility at the time of construction or alteration will simplify the
-  process of providing reasonable accommodations when they are needed.</p>
-<p>The requirement for
+  process of providing reasonable accommodations when they are needed.  
+
+The requirement for
   accessible common use circulation paths will not apply to existing facilities
   pursuant to the readily achievable barrier removal requirement. The Department
   has consistently taken the position that barrier removal requirements do not
   apply to areas used exclusively by employees because the purpose of title III
   is to ensure that access is provided to clients and customers. See
-  Appendix B to the 1991 regulation implementing title III, 28 CFR part 36.</p>
-<p>Several exceptions to
+  Appendix B to the 1991 regulation implementing title III, 28 CFR part 36.  
+
+Several exceptions to
   section 206.2.8 of the 2010 Standards exempt common use circulation paths in
   employee work areas from the requirements of section 402 where it may be
   difficult to comply with the technical requirements for accessible routes due
-  to the size or function of the area:</p>
-<ul>
-  <li>Employee work areas, or portions of
+  to the size or function of the area:  
+
+- Employee work areas, or portions of
 employee work areas, that are less than 300 square feet and are elevated 7
 inches or more above the ground or finish floor, where elevation is essential
-to the function of the space, are exempt. </li>
-  <li>Common use circulation paths within
+to the function of the space, are exempt.  
+- Common use circulation paths within
 employee work areas that are less than 1,000 square feet and are defined by
 permanently installed partitions, counters, casework, or furnishings are
 exempt. Kitchens in quick service restaurants, cocktail bars, and the employee
-side of service counters are frequently covered by this exception.</li>
-  <li>Common use circulation paths within
+side of service counters are frequently covered by this exception.  
+- Common use circulation paths within
 employee work areas that are an integral component of equipment are exempt.
 Common use circulation paths within large pieces of equipment in factories,
-electric power plants, and amusement rides are covered by this exception. </li>
-  <li>Common use circulation paths within
+electric power plants, and amusement rides are covered by this exception.  
+- Common use circulation paths within
 exterior employee work areas that are fully exposed to the weather are exempt.
 Farms, ranches, and outdoor maintenance facilities are covered by this
-exception. </li>
-</ul>
-<p>The 2010 Standards in
+exception.  
+
+The 2010 Standards in
   sections 403.5 and 405.8 also contain exceptions to the technical requirements
-  for accessible routes for circulation paths in employee work areas:</p>
-<ul>
-  <li>Machinery and equipment are permitted to
+  for accessible routes for circulation paths in employee work areas:  
+
+- Machinery and equipment are permitted to
 reduce the clear width of common use circulation paths where the reduction is
 essential to the function of the work performed. Machinery and equipment that
 must be placed a certain way to work properly, or for ergonomics or to prevent
-workplace injuries are covered by this exception.</li>
-  <li>Handrails are not required on ramps,
-provided that they can be added in the future.</li>
-</ul>
-<p>Commenters stated that
+workplace injuries are covered by this exception.  
+- Handrails are not required on ramps,
+provided that they can be added in the future.  
+
+Commenters stated that
   the requirements set out in the 2010 Standards for accessible common use
   circulation paths in employee work areas are inappropriate, particularly in
   commercial kitchens, storerooms, and behind cocktail bars where wheelchairs
   would not be easily accommodated. These commenters further urged the Department
   not to adopt a requirement that circulation paths in employee work areas be at least
-  36 inches wide, including those at emergency exits. </p>
-<p>These commenters
+  36 inches wide, including those at emergency exits.  
+
+These commenters
   misunderstand the scope of the provision. Nothing in the 2010 Standards
   requires all circulation paths in non-exempt areas to be accessible. The
   Department recognizes that building codes and fire and life safety codes, which
@@ -3068,8 +3218,9 @@ provided that they can be added in the future.</li>
   36 inches wide for purposes of emergency egress. Accessible routes also are at
   least 36 inches wide. Therefore, the Department anticipates that covered
   entities will be able to satisfy the requirement to provide accessible
-  circulation paths by ensuring that their required <i>primary</i> circulation paths are accessible.</p>
-<p>Individual employee work
+  circulation paths by ensuring that their required <i>primary</i> circulation paths are accessible.  
+
+Individual employee work
   stations, such as a grocery checkout counter or an automobile service bay
   designed for use by one person, do not contain common use circulation paths and
   are not required to comply. Other work areas, such as stockrooms that typically
@@ -3087,8 +3238,9 @@ provided that they can be added in the future.</li>
   be difficult to comply with the technical requirements for accessible routes
   due to the size or function of the areas. The Department believes that these
   exceptions will provide the flexibility necessary to ensure that this
-  requirement does not interfere with legitimate business operations. </p>
-<p><strong>Visible Alarms.</strong> Section 215.3
+  requirement does not interfere with legitimate business operations.  
+
+**Visible Alarms.** Section 215.3
   of the 2010 Standards provides that where employee work areas in newly
   constructed facilities have audible alarm coverage they are required to have
   wiring systems that are capable of supporting visible alarms that comply with
@@ -3098,19 +3250,23 @@ provided that they can be added in the future.</li>
   equipped with accessibility features. As applied to office buildings, the 1991
   Standards require visible alarms to be provided in public and common use areas
   such as hallways, conference rooms, break rooms, and restrooms, where audible
-  fire alarm systems are provided. </p>
-<p>Commenters asserted that
+  fire alarm systems are provided.  
+
+Commenters asserted that
   the requirements of section 215.3 of the 2010 Standards would be burdensome to
   meet. These commenters also raised concerns that all employee work areas within
-  existing buildings and facilities must be equipped with accessibility features.</p>
-<p>The commenters&acute; concerns
+  existing buildings and facilities must be equipped with accessibility features.  
+
+The commenters&acute; concerns
   about section 215.3 of the 2010 Standards represent a misunderstanding of the
-  requirements applicable to employee work areas. </p>
-<p>Newly constructed
+  requirements applicable to employee work areas.  
+
+Newly constructed
   buildings and facilities merely are required to provide wiring so that visible
   alarm systems can be added as needed to accommodate employees who are deaf or
-  hard of hearing. This is a minimal requirement without significant impact. </p>
-<p>The other issue in the
+  hard of hearing. This is a minimal requirement without significant impact.  
+
+The other issue in the
   comments represents a misunderstanding of the Department&acute;s existing regulatory
   requirements. Employee common use areas in covered facilities (e.g<i>.</i>,
   locker rooms, break rooms, cafeterias, toilet rooms, corridors to exits, and
@@ -3120,12 +3276,11 @@ provided that they can be added in the future.</li>
   exit the area. The 2010 Standards require increased access through the
   accessible <i>common use</i> circulation
   path requirement, but neither the 1991 Standards nor the 2010 Standards require
-  employee work stations to be accessible.
-  Access to specific employee <i>work stations</i> is governed by title I of the ADA.</p>
+  employee work stations to be accessible.  Access to specific employee <i>work stations</i> is governed by title I of the ADA.  
+
 #### 205 and 309 Operable Parts  
 
-<p>Section 4.1.3, and more
-  specifically sections 4.1.3(13), 4.27.3, and 4.27.4 of the 1991 Standards,
+Section 4.1.3, and more specifically sections 4.1.3(13), 4.27.3, and 4.27.4 of the 1991 Standards,
   require operable parts on accessible elements, along accessible routes, and in
   accessible rooms and spaces to comply with the technical requirements for
   operable parts, including height and operation. The 1991 Standards, at section
@@ -3144,15 +3299,17 @@ provided that they can be added in the future.</li>
   from all of the technical requirements for operable parts. Exception 7, in
   section 205.1 of the 2010 Standards, exempts cleats and other boat securement
   devices from the accessible height requirement. Similarly, section 309.4 of the 2010 Standards exempts gas
-  pump nozzles, but only from the technical requirement for activating force.</p>
-<p><strong>Reach Ranges. </strong>The 1991
+  pump nozzles, but only from the technical requirement for activating force.  
+
+**Reach Ranges.** The 1991
   Standards set the maximum height for side reach at 54 inches above the floor.
   The 2010 Standards, at section 308.3, lower that maximum height to 48 inches
   above the finish floor or ground. The 2010 Standards also add exceptions, as
   discussed above, to the scoping requirement for operable parts for certain
   elements that, among other things, will exempt them from the reach range
-  requirements in section 308.</p>
-<p>The 1991 Standards, at
+  requirements in section 308.  
+
+The 1991 Standards, at
   sections 4.1.3, 4.27.3, and 4.2.6, and the 2010 Standards, at sections 205.1,
   228.1, 228.2, 308.3, and 309.3, require operable parts of accessible elements,
   along accessible routes, and in accessible rooms and spaces to be placed within
@@ -3160,8 +3317,9 @@ provided that they can be added in the future.</li>
   also require at least five percent (5%) of mailboxes provided in an interior
   location and at least one of each type of depository, vending machine, change
   machine, and gas pump to meet the technical requirements for a forward or a
-  side reach. </p>
-<p>Section 4.2.6 of the 1991
+  side reach.  
+
+Section 4.2.6 of the 1991
   Standards specifies a maximum 54-inch high side reach and a minimum 9-inch low
   side reach for an unobstructed reach depth of 10 inches maximum. Section
   308.3.1 of the 2010 Standards specifies a maximum 48-inch high side reach and a
@@ -3172,15 +3330,17 @@ provided that they can be added in the future.</li>
   in the side-reach range for new construction and alterations in the 2010
   Standards will affect a variety of building elements such as light switches,
   electrical outlets, thermostats, fire alarm pull stations, card readers, and
-  keypads.</p>
-<p>Commenters were divided
+  keypads.  
+
+Commenters were divided
   in their views about the changes to the unobstructed side-reach range.
   Disability advocacy groups and others, including individuals of short stature,
   supported the modifications to the proposed reach range requirements. Other
   commenters stated that the new reach range requirements will be burdensome for
   small businesses to comply with. These comments argued that the new reach range
-  requirements restrict design options, especially in residential housing.</p>
-<p>The Department continues
+  requirements restrict design options, especially in residential housing.  
+
+The Department continues
   to believe that data submitted by advocacy groups and others provides
   compelling evidence that lowered reach range requirements will better serve
   significantly greater numbers of individuals with disabilities, including
@@ -3190,10 +3350,11 @@ provided that they can be added in the future.</li>
   was extensive public participation. This process did not produce any
   significant data to indicate that applying the new unobstructed side-reach
   range requirement in new construction or during alterations would impose a
-  significant burden.</p>  
+  significant burden.  
+
 #### 206 and Chapter 4 Accessible Routes  
 
-<p><strong>Slope.</strong> The 2010 Standards provide, at
+**Slope.** The 2010 Standards provide, at
   section 403.3, that the cross slope of walking surfaces not be steeper than
   1:48. The 1991 Standards&acute; cross slope requirement was that it not exceed 1:50.
   A commenter recommended increasing the cross slope requirement to allow a
@@ -3202,9 +3363,9 @@ provided that they can be added in the future.</li>
   requirement that a cross slope not be steeper than 1:48 adequately provides for
   water drainage in most situations. The suggested changes would double the
   allowable cross slope and create a significant impediment for many wheelchair
-  users and others with a mobility disability.</p>
-<p><strong>Accessible Routes from Site Arrival Points and Within
-  Sites. </strong>The 1991 Standards, at sections
+  users and others with a mobility disability.  
+
+**Accessible Routes from Site Arrival Points and Within Sites.** The 1991 Standards, at sections
   4.1.2(1) and (2), and the 2010 Standards, at sections 206.2.1 and 206.2.2,
   require that at least one accessible route be provided within the site from
   site arrival points to an accessible building entrance and that at least one
@@ -3212,8 +3373,9 @@ provided that they can be added in the future.</li>
   Standards also add two exceptions that exempt site arrival points and
   accessible facilities within a site from the accessible route requirements
   where the only means of access between them is a vehicular way that does not
-  provide pedestrian access.</p>
-<p>Commenters urged the
+  provide pedestrian access.  
+
+Commenters urged the
   Department to eliminate the exception that exempts site arrival points and
   accessible facilities from the accessible route requirements where the only
   means of access between them is a vehicular way not providing pedestrian
@@ -3226,28 +3388,30 @@ provided that they can be added in the future.</li>
   and the accessible facility dictates vehicular access &#8211; for example, an
   office complex on an isolated site that has a private access road, or a
   self-service storage facility where all users are expected to drive to their
-  storage units.</p>
-<p>Another commenter
+  storage units.  
+
+Another commenter
   suggested that the language of section 406.1 of the 2010 Standards is confusing
   because it states that curb ramps on accessible routes shall comply with 406,
   405.2 through 405.5, and 405.10. The 1991 Standards require that curb ramps be
-  provided wherever an accessible route crosses a curb.</p>
-<p>The Department declines
+  provided wherever an accessible route crosses a curb.  
+
+The Department declines
   to change this language because the change is purely editorial, resulting from
   the overall changes in the format of the 2010 Standards. It does not change the
   substantive requirement. In the 2010 Standards all elements on a required
   accessible route must be accessible; therefore, if the accessible route crosses
-  a curb, a curb ramp must be provided. </p>
-<p><strong>Areas of Sport Activity.</strong> Section
-  206.2.2 of the 2010 Standards requires at least one accessible route to connect
+  a curb, a curb ramp must be provided.  
+
+**Areas of Sport Activity.** Section 206.2.2 of the 2010 Standards requires at least one accessible route to connect
   accessible buildings, facilities, elements, and spaces on the same site.
   Advisory section 206.2.2 adds the explanation that an accessible route must
   connect the boundary of each area of sport activity (e.g., courts and playing
   fields, whether indoor or outdoor). Section 206.2.12 of the 2010 Standards
   further requires that in court sports the accessible route must directly
-  connect both sides of the court. </p>
-<p><strong>Limited-Use/Limited-Application Elevators, Destination-Oriented
-  Elevators and Private Residence Elevators.</strong> The
+  connect both sides of the court.  
+
+**Limited-Use/Limited-Application Elevators, Destination-Oriented Elevators and Private Residence Elevators.** The
   1991 Standards, at section 4.1.3(5), and the 2010 Standards, at sections 206.2
   and 206.6, include exceptions to the scoping requirement for accessible routes
   that exempt certain facilities from connecting each story with an elevator. If
@@ -3260,8 +3424,9 @@ provided that they can be added in the future.</li>
   platform lifts. The 2010 Standards also add a new exception that permits
   private residence elevators in multi-story dwelling and transient lodging
   units. The 2010 Standards contain technical requirements for LULA elevators at
-  section 408 and private residence elevators at section 409.</p>
-<p>Section 407.2.1.4 of the
+  section 408 and private residence elevators at section 409.  
+
+Section 407.2.1.4 of the
   2010 Standards includes an exception to the technical requirements for locating
   elevator call buttons for destination-oriented elevators. The advisory at
   section 407.2.1.4 describes lobby controls for destination-oriented elevator
@@ -3274,26 +3439,29 @@ provided that they can be added in the future.</li>
   only to the sixth floor, without making stops at the third, fourth, and fifth
   floors on the way to the sixth floor. The challenge for individuals who are
   blind or have low vision is how to know which elevator car to enter, after they
-  have entered their destination floor into the keypad.</p>
-<p>Commenters requested that
+  have entered their destination floor into the keypad.  
+
+Commenters requested that
   the Department impose a moratorium on the installation of destination-oriented
   elevators arguing that this new technology presents wayfinding challenges for
-  persons who are blind or have low vision. </p>
-<p>Section 407.2.1.5 of the
+  persons who are blind or have low vision.  
+
+Section 407.2.1.5 of the
   2010 Standards allows destination-oriented elevators to not provide call
   buttons with visible signals to indicate when each call is registered and when
   each call is answered <i>provided</i> that visible and audible
   signals, compliant with 407.2.2 of the 2010 Standards, indicating which
   elevator car to enter, are provided. This will require the responding elevator
   car to automatically provide audible and visible communication so that the
-  system will always verbally and visually indicate which elevator car to enter.</p>
-<p>As with any new
+  system will always verbally and visually indicate which elevator car to enter.  
+
+As with any new
   technology, all users must have time to become acquainted with how to use
   destination-oriented elevators. The Department will monitor the use of this new
   technology and work with the Access Board so that there is not a decrease in
-  accessibility as a result of permitting this new technology to be installed. </p>
-<p><strong>Accessible Routes to Tiered Dining Areas in Sports
-  Facilities.</strong> The 1991 Standards, at sections
+  accessibility as a result of permitting this new technology to be installed.  
+
+**Accessible Routes to Tiered Dining Areas in Sports Facilities.** The 1991 Standards, at sections
   4.1.3(1) and 5.4, and section 206.2.5 of the 2010 Standards require an
   accessible route to be provided to all dining areas in new construction,
   including raised or sunken dining areas. The 2010 Standards add a new exception
@@ -3302,8 +3470,9 @@ provided that they can be added in the future.</li>
   individuals with disabilities. The new exception requires accessible routes to
   be provided to at least 25 percent (25%) of the tiered dining areas in sports
   facilities. Each tier must have the same services and the accessible routes
-  must serve the accessible seating.</p>
-<p><strong>Accessible Routes to Press Boxes. </strong>The 1991 Standards, at sections 4.1.1(1) and 4.1.3(1),
+  must serve the accessible seating.  
+
+**Accessible Routes to Press Boxes.**  The 1991 Standards, at sections 4.1.1(1) and 4.1.3(1),
   cover all areas of newly constructed facilities required to be accessible, and
   require an accessible route to connect accessible entrances with all accessible
   spaces and elements within the facility. Section 201.1 of the 2010 Standards
@@ -3316,8 +3485,9 @@ provided that they can be added in the future.</li>
   requirement when the aggregate area of all press boxes in a sports facility
   does not exceed 500 square feet. The Department anticipates that this change
   will significantly reduce the economic impact on smaller sports facilities,
-  such as those associated with high schools or community colleges. </p>
-<p><strong>Public Entrances.</strong> The
+  such as those associated with high schools or community colleges.  
+
+**Public Entrances.**  The
   1991 Standards, at sections 4.1.3(8) and 4.1.6(1)(h), require at least fifty
   percent (50%) of public entrances to be accessible. Additionally, the 1991
   Standards require the number of accessible public entrances to be equivalent to
@@ -3325,28 +3495,32 @@ provided that they can be added in the future.</li>
   few exceptions, building and fire codes require at least two exits to be provided
   from spaces within a building and from the building itself. Therefore, under
   the 1991 Standards where two public entrances are planned in a newly
-  constructed facility, both entrances are required to be accessible. </p>
-<p>Instead of requiring
+  constructed facility, both entrances are required to be accessible.  
+
+Instead of requiring
   accessible entrances based on the number of public entrances provided or the
   number of exits required (whichever is greater), section 206.4.1 of the 2010
   Standards requires at least sixty percent (60%) of public entrances to be
   accessible. The revision is intended to achieve the same result as the 1991
   Standards. Thus, under the 2010 Standards where two public entrances are
-  planned in a newly constructed facility, both entrances must be accessible.</p>
-<p>Where multiple public
+  planned in a newly constructed facility, both entrances must be accessible.  
+
+Where multiple public
   entrances are planned to serve different site arrival points, the 1991
   Standards, at section 4.1.2(1), and section 206.2.1 of the 2010 Standards
   require at least one accessible route to be provided from each type of site
   arrival point provided, including accessible parking spaces, accessible
   passenger loading zones, public streets and sidewalks, and public
   transportation stops, to an accessible public entrance that serves the site
-  arrival point. </p>
-<p>Commenters representing
+  arrival point.  
+
+Commenters representing
   small businesses recommended retaining the 1991 requirement for fifty percent
   (50%) of public entrances of covered entities to be accessible. These
   commenters also raised concerns about the impact upon existing facilities of
-  the new sixty percent (60%) requirement. </p>
-<p>The Department believes
+  the new sixty percent (60%) requirement.  
+
+The Department believes
   that these commenters misunderstand the 1991 Standards. As explained above, the
   requirements of the 1991 Standards generally require more than fifty percent
   (50%) of entrances in small facilities to be accessible. Model codes require
@@ -3359,55 +3533,62 @@ provided that they can be added in the future.</li>
   change may result in fewer accessible entrances being required by the 2010
   Standards. However, the Department believes that the realities of good
   commercial design will result in more accessible entrances being provided for
-  the convenience of all users.</p>
-<p>The 1991 Standards and
+  the convenience of all users.  
+
+The 1991 Standards and
   the 2010 Standards also contain exceptions that limit the number of accessible
   entrances required in alterations to existing facilities. When entrances to an
   existing facility are altered and the facility has an accessible entrance, the
   entrance being altered is not required to be accessible, unless a primary
   function area also is altered and then an accessible path of travel must be
   provided to the primary function area to the extent that the cost to do so is
-  not disproportionate to the overall cost of the alteration. </p>
-<p><strong>Alterations to Existing Elevators.</strong> When a single space or element is altered, the 1991
+  not disproportionate to the overall cost of the alteration.  
+
+**Alterations to Existing Elevators.** When a single space or element is altered, the 1991
   Standards, at sections 4.1.6(1)(a) and (b), require the space or element to be
   made accessible. When an element in one elevator is altered, the 2010
   Standards, at section 206.6.1, require the same element to be altered in all
   elevators that are programmed to respond to the same call button as the altered
-  elevator.</p>
-<p>The 2010 Standards, at
+  elevator.  
+
+The 2010 Standards, at
   sections 407.2.1 - 407.4.7.1.2, also contain exceptions to the technical
   requirements for elevators when existing elevators are altered that minimize the
-  impact of this change. </p>
-<p>Commenters expressed
+  impact of this change.  
+
+Commenters expressed
   concerns about the requirement that when an element in one elevator is altered,
   the 2010 Standards, at section 206.6.1, will require the same element to be
   altered in all elevators that are programmed to respond to the same call button
   as the altered elevator. Commenters noted that such a requirement is burdensome
   and will result in costly efforts without significant benefit to individuals
-  with disabilities. </p>
-<p>The Department believes
+  with disabilities.  
+
+The Department believes
   that this requirement is necessary to ensure that when an individual with a
   disability presses a call button, an accessible elevator will arrive. Without
   this requirement, individuals with disabilities would have to wait
   unnecessarily for an accessible elevator to make its way to them arbitrarily.
   The Department also believes that the effort required to meet this provision is
   minimal in the majority of situations because it is typical to upgrade all of
-  the elevators in a bank at the same time.</p>
-<p><strong>Accessible Routes in Dwelling Units with Mobility
-  Features.</strong> Sections 4.34.1 and 4.34.2 of the
+  the elevators in a bank at the same time.  
+
+**Accessible Routes in Dwelling Units with Mobility Features.** Sections 4.34.1 and 4.34.2 of the
   UFAS require the living area, kitchen and dining area, bedroom, bathroom, and
   laundry area, where provided, in covered dwelling units with mobility features
   to be on an accessible route. Where covered dwelling units have two or more
-  bedrooms, at least two bedrooms are required to be on an accessible route.</p>
-<p>The 2010 Standards at
+  bedrooms, at least two bedrooms are required to be on an accessible route.  
+
+The 2010 Standards at
   sections 233.3.1.1, 809.1, 809.2, 809.2.1, and 809.4 will require all spaces
   and elements within dwelling units with mobility features to be on an
   accessible route. These changes exempt unfinished attics and unfinished
   basements from the accessible route requirement. Section 233.3.5 of the 2010
   Standards also includes an exception to the dispersion requirement that permits
   accessible single-story dwelling units to be constructed, where multi-story
-  dwelling units are one of the types of units provided. </p>
-<p><strong>Location of Accessible Routes.</strong> Section 4.3.2(1) of the 1991 Standards requires accessible
+  dwelling units are one of the types of units provided.  
+
+**Location of Accessible Routes.**  Section 4.3.2(1) of the 1991 Standards requires accessible
   routes connecting site arrival points and accessible building entrances to
   coincide with general circulation paths, to the maximum extent feasible. The
   2010 Standards require all accessible routes to coincide with or be located in
@@ -3423,11 +3604,11 @@ provided that they can be added in the future.</li>
   1991 Standards and the 2010 Standards also require accessible routes to be
   located in the interior of the facility where general circulation paths are
   located in the interior of the facility. The revision affects a limited number
-  of buildings.</p>
-<p><strong>Location of Accessible Routes to Stages. </strong>The 1991 Standards at section 4.33.5 require an accessible
+  of buildings.  
 
-  route to connect the accessible seating and the performing area. </p>
-<p>Section 206.2.6 of the 2010
+**Location of Accessible Routes to Stages.** The 1991 Standards at section 4.33.5 require an accessible route to connect the accessible seating and the performing area.  
+
+Section 206.2.6 of the 2010
   Standards requires the accessible route to directly connect the seating area
   and the accessible seating, stage, and all areas of the stage, where a
   circulation path directly connects the seating area and the stage. Both the
@@ -3435,16 +3616,17 @@ provided that they can be added in the future.</li>
   connect the stage and ancillary areas, such as dressing rooms, used by
   performers. The 2010 Standards do not require an additional accessible route to
   be provided to the stage. Rather, the changes specify where the accessible
-  route to the stage, which is required by the 1991 Standards, must be located.</p>  
+  route to the stage, which is required by the 1991 Standards, must be located.  
 
 #### 207 Accessible Means of Egress  
 
-<p><strong>General.</strong> The 1991
+**General.** The 1991
   Standards at sections 4.1.3(9); 4.1.6(1)(g); and 4.3.10 establish scoping and
   technical requirements for accessible means of egress. Section 207.1 of the
   2010 Standards reference the International Building Code (IBC) for scoping and
-  technical requirements for accessible means of egress.</p>
-<p>The 1991 Standards
+  technical requirements for accessible means of egress.  
+
+The 1991 Standards
   require the same number of accessible means of egress to be provided as the
   number of exits required by applicable building and fire codes. The IBC
   requires at least one accessible means of egress and at least two accessible means
@@ -3452,8 +3634,9 @@ provided that they can be added in the future.</li>
   the building code. The changes in the 2010 Standards are expected to have
   minimal impact since the model fire and life safety codes, which are adopted by
   all of the states, contain equivalent requirements with respect to the number
-  of accessible means of egress.</p>
-<p>The 1991 Standards
+  of accessible means of egress.  
+
+The 1991 Standards
   require areas of rescue assistance or horizontal exits in facilities with
   levels above or below the level of exit discharge. Areas of rescue assistance
   are spaces that have direct access to an exit, stair, or enclosure where
@@ -3466,15 +3649,17 @@ provided that they can be added in the future.</li>
   elevators to be used as an accessible means of egress in conjunction with areas
   of refuge or horizontal exits. The change is expected to have minimal impact
   since the model fire and life safety codes, adopted by most states, already
-  contain parallel requirements with respect to evacuation elevators.</p>
-<p>The 1991 Standards exempt
+  contain parallel requirements with respect to evacuation elevators.  
+
+The 1991 Standards exempt
   facilities equipped with a supervised automatic sprinkler system from providing
   areas of rescue assistance, and also exempt alterations to existing facilities
   from providing an accessible means of egress. The IBC exempts buildings
   equipped with a supervised automatic sprinkler system from certain technical
   requirements for areas of refuge, and also exempts alterations to existing
-  facilities from providing an accessible means of egress. </p>
-<p>The 1991 and 2010
+  facilities from providing an accessible means of egress.  
+
+The 1991 and 2010
   Standards require signs that provide direction to or information about
   functional spaces to meet certain technical requirements. The 2010 Standards,
   at section 216.4, address exit signs. This section is consistent with the
@@ -3483,16 +3668,18 @@ provided that they can be added in the future.</li>
   signs complying with sections 703.1, 703.2 and 703.5 at doors at exit
   passageways, exit discharge, and at exit stairways. Directional exit signs and
   signs at areas of refuge required by section 216.4.3 must have visual
-  characters and features complying with section 703.5.</p>
-<p><strong>Standby Power for Platform Lifts.</strong> The 2010 Standards at section 207.2 require standby power
+  characters and features complying with section 703.5.  
+
+**Standby Power for Platform Lifts.**  The 2010 Standards at section 207.2 require standby power
   to be provided for platform lifts that are permitted to serve as part of an
   accessible means of egress by the IBC. The IBC permits platform lifts to serve
   as part of an accessible means of egress in a limited number of places where platform
   lifts are allowed in new construction. The 1991 Standards, at 4.1.3 (5)
   Exception 4 (a) through (d), and the 2010 Standards, at sections 206.7.1
   through 206.7.10, similarly limit the places where platform lifts are allowed
-  in new construction. </p>
-<p>Commenters urged the
+  in new construction.  
+
+Commenters urged the
   Department to reconsider provisions that would require standby power to be
   provided for platform lifts. Concerns were raised that ensuring standby power
   would be too burdensome. The Department views this issue as a fundamental life
@@ -3503,11 +3690,11 @@ provided that they can be added in the future.</li>
   generally only one of the options available to covered entities. Covered
   entities that are concerned about the costs associated with maintaining standby
   power for a lift may wish to explore design options that would incorporate the
-  use of a ramp.</p>  
+  use of a ramp.  
 
 #### 208 and 502 Parking Spaces  
 
-<p><strong>General.</strong> Where parking
+**General.** Where parking
   spaces are provided, the 1991 Standards, at sections 4.1.2 (5)(a) and (7) and
   7(a), and the 2010 Standards, at section 208.1, require a specified number of
   the parking spaces to be accessible. The 2010 Standards, at section 208,
@@ -3515,16 +3702,18 @@ provided that they can be added in the future.</li>
   trucks, delivery vehicles, law enforcement vehicles, or for purposes of
   vehicular impound, from the scoping requirement for parking spaces, provided
   that when these lots are accessed by the public the lot has an accessible
-  passenger loading zone. </p>
-<p>The 2010 Standards
+  passenger loading zone.  
+
+The 2010 Standards
   require accessible parking spaces to be identified by signs that display the
   International Symbol of Accessibility. Section 216.5, Exceptions 1 and 2, of
   the 2010 Standards exempt certain accessible parking spaces from this signage
   requirement. The first exception exempts sites that have four or fewer parking
   spaces from the signage requirement. Residential facilities where parking
   spaces are assigned to specific dwelling units are also exempted from the
-  signage requirement.</p>
-<p>Commenters stated that
+  signage requirement.  
+
+Commenters stated that
   the first exception, by allowing a small parking lot with four or fewer spaces
   not to post a sign at its one accessible space, is problematic because it could
   allow all drivers to park in accessible parking spaces. The Department believes
@@ -3534,18 +3723,21 @@ provided that they can be added in the future.</li>
   customers because they are reserved for the exclusive use of persons whose
   vehicles display accessible tags or parking placards. The 2010 Standards still require
   these businesses to ensure that at least one of their available parking spaces
-  is designed to be accessible.</p>
-<p>A commenter stated that
+  is designed to be accessible.  
+
+A commenter stated that
   accessible parking spaces must be clearly marked. The Department notes that
   section 502.6 of the 2010 Standards provides that accessible parking spaces
   must be identified by signs that include the International Symbol of
   Accessibility. Also, section 502.3.3 of the 2010 Standards requires that access
-  aisles be marked so as to discourage parking in them.</p>
-<p><strong>Access Aisle.</strong> Section
+  aisles be marked so as to discourage parking in them.  
+
+**Access Aisle.** Section
   502.3 of the 2010 Standards requires that an accessible route adjoin each
   access aisle serving accessible parking spaces. The accessible route connects
-  each access aisle to accessible entrances.</p>
-<p>Commenters questioned why
+  each access aisle to accessible entrances.  
+
+Commenters questioned why
   the 2010 Standards would permit an accessible route used by individuals with
   disabilities to coincide with the path of moving vehicles. The Department
   believes that the 2010 Standards appropriately recognize that not all parking
@@ -3564,55 +3756,61 @@ provided that they can be added in the future.</li>
   necessary to cross a vehicular lane because, for example, local fire engine
   access requirements prohibit parking immediately adjacent to a building, then a
   marked crossing running perpendicular to the vehicular route should be included
-  as part of the accessible route to an accessible entrance.</p>
-<p><strong>Van Accessible Parking Spaces.</strong> The 1991 Standards, at sections 4.1.2 (5)(b), 4.6.3, 4.6.4,
+  as part of the accessible route to an accessible entrance.  
+
+**Van Accessible Parking Spaces.** The 1991 Standards, at sections 4.1.2 (5)(b), 4.6.3, 4.6.4,
   and 4.6.5, require one in every eight accessible parking spaces to be van
   accessible. Section 208.2.4 of the 2010 Standards requires one in every six
-  accessible parking spaces to be van accessible. </p>
-<p>A commenter asked whether
+  accessible parking spaces to be van accessible.  
+
+A commenter asked whether
   automobiles other than vans may park in van accessible parking spaces. The 2010
   Standards do not prohibit automobiles other than vans from using van accessible
   parking spaces. The Department does not distinguish between vehicles that are
   actual &quot;vans&quot; versus other vehicles such as trucks, station wagons, sport
   utility vehicles, etc. since many vehicles other than vans may be used by
-  individuals with disabilities to transport mobility devices. </p>
-<p>Commenters&acute; opinions were
+  individuals with disabilities to transport mobility devices.  
+
+Commenters&acute; opinions were
   divided on this point. Facility operators and others asked for a reduction in
   the number of required accessible parking spaces, especially the number of van
   accessible parking spaces, because they claimed these spaces often are not
   used. Individuals with disabilities, however, requested an increase in the
-  scoping requirements for these parking spaces. </p>
-<p>The Department is aware
+  scoping requirements for these parking spaces.  
+
+The Department is aware
   that a strong difference of opinion exists between those who use such spaces
   and those who must provide or maintain them. Therefore, the Department did not
   increase the total number of accessible spaces required. The only change was to
   increase the proportion of spaces that must be accessible to vans and other
-  vehicles equipped to transport mobility devices. </p>
-<p><strong>Direct Access Entrances from Parking Structures. </strong>Where levels in a parking garage have direct connections for
+  vehicles equipped to transport mobility devices.  
+
+**Direct Access Entrances from Parking Structures.**  Where levels in a parking garage have direct connections for
   pedestrians to another facility, the 1991 Standards, at section 4.1.3(8)(b)(i),
   require at least one of the direct connections to be accessible. The 2010
   Standards, at section 206.4.2, require all of these direct connections to be
-  accessible.</p>  
+  accessible.  
 
 #### 209 and 503 Passenger Loading Zones and Bus Stops  
 
-<p><strong>Passenger Loading Zones at Medical Care and Long-Term
-  Care Facilities.</strong> Sections 6.1 and 6.2 of the 1991
+**Passenger Loading Zones at Medical Care and Long-Term Care Facilities.** Sections 6.1 and 6.2 of the 1991
   Standards and section 209.3 of the 2010 Standards require medical care and
   long-term care facilities, where the period of stay exceeds 24 hours, to
   provide at least one accessible passenger loading zone at an accessible
   entrance. The 1991 Standards also require a canopy or roof overhang at this
   passenger loading zone. The 2010 Standards do not require a canopy or roof
-  overhang.</p>
-<p>Commenters urged the
+  overhang.  
+
+Commenters urged the
   Department to reinstate the requirement for a canopy or roof overhang at
   accessible passenger loading zones at medical care and long-term care
   facilities. While the Department recognizes that a canopy or roof overhang may afford
   useful protection from inclement weather conditions to everyone using a
   facility, it is not clear that the absence of such protection would impede
   access by individuals with disabilities. Therefore, the Department declined to
-  reinstate that requirement.</p>
-<p><strong>Passenger Loading Zones.</strong> Where
+  reinstate that requirement.  
+
+**Passenger Loading Zones.** Where
   passenger loading zones are provided, the 1991 Standards, at sections 4.1.2(5)
   and 4.6.6, require at least one passenger loading zone to be accessible.
   Sections 209.2.1 and 503 of the 2010 Standards, require facilities such as
@@ -3625,14 +3823,16 @@ provided that they can be added in the future.</li>
   the vehicle pull-up space. The 1991 Standards permit the access aisle to be on
   the same level as the vehicle pull-up space, or on the sidewalk. The 2010
   Standards require the access aisle to be on the same level as the vehicle
-  pull-up space and to be marked so as to discourage parking in the access aisle.</p>
-<p>Commenters expressed
+  pull-up space and to be marked so as to discourage parking in the access aisle.  
+
+Commenters expressed
   concern that certain covered entities, particularly airports, cannot
   accommodate the requirements of the 2010 Standards to provide passenger loading
   zones, and urged a revision that would require one accessible passenger loading
   zone located in reasonable proximity to each building entrance served by the
-  curb. </p>
-<p>Commenters raised a
+  curb.  
+
+Commenters raised a
   variety of issues about the requirements at section 503 of the 2010 Standards
   stating that the requirements for an access aisle, width, length, and marking
   of passenger loading zones are not clear, do not fully meet the needs of
@@ -3641,9 +3841,9 @@ provided that they can be added in the future.</li>
   doormen or valet parkers. The wide range of opinions expressed in these
   comments indicates that this provision is controversial. However, none of these
   comments provided sufficient data to enable the Department to determine that
-  the requirement is not appropriate. </p>
-<p><strong>Valet Parking and Mechanical Access Parking
-  Garages.</strong> The 1991 Standards, at sections
+  the requirement is not appropriate.  
+
+**Valet Parking and Mechanical Access Parking Garages.** The 1991 Standards, at sections
   4.1.2(5)(a) and (e), and sections 208.2, 209.4, and 209.5 of the 2010 Standards
   require parking facilities that provide valet parking services to have an
   accessible passenger loading zone. The 2010 Standards extend this requirement
@@ -3651,19 +3851,20 @@ provided that they can be added in the future.</li>
   that exempted valet parking facilities from providing accessible parking
   spaces. The 2010 Standards eliminate this exception. The reason for not
   retaining the provision is that valet parking is a service, not a facility
-  type. </p>
-<p>Commenters questioned why
+  type.  
+
+Commenters questioned why
   the exception for valet parking facilities from providing accessible parking
   spaces was eliminated. The provision was eliminated because valet parkers may
   not have the skills necessary to drive a vehicle that is equipped to be
   accessible, including use of hand controls, or when a seat is not present to
   accommodate a driver using a wheelchair. In that case, permitting the
   individual with a disability to self-park may be a required reasonable
-  modification of policy by a covered entity.</p>  
+  modification of policy by a covered entity.  
 
 #### 210 and 504 Stairways  
 
-<p>The 1991 Standards
+The 1991 Standards
   require stairs to be accessible only when they provide access to floor levels
   not otherwise connected by an accessible route (e.g<i>.</i>, where the accessible route is provided by an
   elevator, lift, or ramp). The 2010 Standards, at sections 210.1 and 504,
@@ -3673,8 +3874,9 @@ provided that they can be added in the future.</li>
   handrail requirement will apply when the stairs are altered. Exception 2 to
   section 210.1 of the 2010 Standards permits altered stairs to not comply with
   the requirements for accessible treads and risers where there is an accessible
-  route between floors served by the stairs. </p>
-<p>Most commenters were in
+  route between floors served by the stairs.  
+
+Most commenters were in
   favor of this requirement for handrails in alterations and stated that adding
   handrails to stairs during alterations would be feasible and not costly while
   providing important safety benefits. The Department believes that it strikes an
@@ -3682,12 +3884,11 @@ provided that they can be added in the future.</li>
   The 2010 Standards apply to stairs which are part of a required means of
   egress. Few stairways are not part of a means of egress. The 2010 Standards are
   consistent with most building codes which do not exempt stairways when the
-  route is also served by a ramp or elevator. </p>  
+  route is also served by a ramp or elevator.  
 
 #### 211 and 602 Drinking Fountains  
 
-<p>Sections 4.1.3(10) and
-  4.15 of the 1991 Standards and sections 211 and 602 of the 2010 Standards
+Sections 4.1.3(10) and 4.15 of the 1991 Standards and sections 211 and 602 of the 2010 Standards
   require drinking fountains to be provided for persons who use wheelchairs and
   for others who stand. The 1991 Standards require wall and post-mounted
   cantilevered drinking fountains mounted at a height for wheelchair users to
@@ -3702,7 +3903,7 @@ provided that they can be added in the future.</li>
 
 #### 212 and 606 Kitchens, Kitchenettes, Lavatories, and Sinks  
 
-<p>The 1991 Standards, at sections 4.24, and 9.2.2(7), contain technical requirements for sinks and only
+The 1991 Standards, at sections 4.24, and 9.2.2(7), contain technical requirements for sinks and only
   have specific scoping requirements for sinks in transient lodging. Section
   212.3 of the 2010 Standards requires at least five percent (5%) of sinks in
   each accessible space to comply with the technical requirements for sinks. The
@@ -3713,41 +3914,45 @@ provided that they can be added in the future.</li>
   sink. The 1991 Standards, at section 9.2.2(7), allow the clear floor space at
   kitchen sinks and wet bars in transient lodging guest rooms with mobility
   features to be positioned for either a forward approach with knee and toe
-  clearance or for a parallel approach. </p>
-<p>The 2010 Standards
+  clearance or for a parallel approach.  
+
+The 2010 Standards
   include an exception that permits the clear floor space to be positioned for a
   parallel approach at kitchen sinks in any space where a cook top or
-  conventional range is not provided, and at a wet bar. </p>
-<p>A commenter stated that
+  conventional range is not provided, and at a wet bar.  
+
+A commenter stated that
   it is unclear what the difference is between a sink and a lavatory, and that
   this is complicated by requirements that apply to sinks (five percent (5%)
   accessible) and lavatories (at least one accessible). The term &quot;lavatory&quot;
   generally refers to the specific type of plumbing fixture required for hand
   washing in toilet and bathing facilities. The more generic term &quot;sink&quot; applies
-  to all other types of sinks located in covered facilities. </p>
-<p>A commenter recommended
+  to all other types of sinks located in covered facilities.  
+
+A commenter recommended
   that the mounting height of sinks and lavatories should take into consideration
   the increased use of three-wheeled scooters and some larger wheelchairs. The
   Department is aware that the use of three-wheeled scooters and larger
   wheelchairs may be increasing and that some of these devices may require
   changes in space requirements in the future. The Access Board is funding
   research to obtain data that may be used to develop design guidelines that
-  provide access to individuals using these mobility devices.</p>  
+  provide access to individuals using these mobility devices.  
 
 #### 213, 603, 604, and 608 Toilet and Bathing Facilities, Rooms, and Compartments  
 
-<p><strong>General. </strong>Where toilet
-  facilities and bathing facilities are provided, they must comply with section
-  213 of the 2010 Standards. </p>
-<p>A commenter recommended
+**General.**  Where toilet facilities and bathing facilities are provided, they must comply with section
+  213 of the 2010 Standards.  
+
+A commenter recommended
   that all accessible toilet facilities, toilet rooms, and compartments should be
   required to have signage indicating that such spaces are restricted solely for
   the use of individuals with disabilities. The Department believes that it is
   neither necessary nor appropriate to restrict the use of accessible toilet
   facilities. Like many other facilities designed to be accessible, accessible
   toilet facilities can and do serve a wide range of individuals with and without
-  disabilities. </p>
-<p>A commenter recommended
+  disabilities.  
+
+A commenter recommended
   that more than one wheelchair accessible compartment be provided in toilet
   rooms serving airports and train stations because these compartments are likely
   to be occupied by individuals with luggage and persons with disabilities often
@@ -3756,32 +3961,37 @@ provided that they can be added in the future.</li>
   promote effective design. As part of these efforts, the Access Board will
   examine requirements for accessible toilet compartments in larger airport
   restrooms. The Department declines to change the scoping for accessible toilet
-  compartments at this time.</p>
-<p><strong>Ambulatory Accessible Toilet Compartments. </strong>Section 213.3.1 of the 2010 Standards requires multi-user
+  compartments at this time.  
+
+**Ambulatory Accessible Toilet Compartments.**  Section 213.3.1 of the 2010 Standards requires multi-user
   men&acute;s toilet rooms, where the total of toilet compartments and urinals is six
   or more, to contain at least one ambulatory accessible compartment. The 1991
   Standards count only toilet stalls (compartments) for this purpose. The 2010
   Standards establish parity between multi-user women&acute;s toilet rooms and
   multi-user men&acute;s toilet rooms with respect to ambulatory accessible toilet
-  compartments.</p>
-<p><strong>Urinals.</strong> Men&acute;s toilet
+  compartments.  
+
+**Urinals.**  Men&acute;s toilet
   rooms with only one urinal will no longer be required to provide an accessible
   urinal under the 2010 Standards. Such toilet rooms will still be required to
   provide an accessible toilet compartment. Commenters urged that the
   exception be eliminated. The Department believes that this change will provide
   flexibility to many small businesses and it does not alter the requirement that
-  all common use restrooms must be accessible. </p>
-<p><strong>Multiple Single-User Toilet Rooms.</strong> Where multiple single-user toilet rooms are clustered in a
+  all common use restrooms must be accessible.  
+
+**Multiple Single-User Toilet Rooms.**  Where multiple single-user toilet rooms are clustered in a
   single location, fifty percent (50%), rather than the one hundred percent
   (100%) required by the 1991 Standards, are required to be accessible by section
   213.2, Exception 4 of the 2010 Standards. Section 216.8 of the 2010 Standards
   requires that accessible single-user toilet rooms must be identified by the
   International Symbol of Accessibility where all single-user toilet rooms are
-  not accessible.</p>
-<p><strong>Hospital Patient Toilet Rooms.</strong> An exception was added in section 223.1 of the 2010
+  not accessible.  
+
+**Hospital Patient Toilet Rooms.** An exception was added in section 223.1 of the 2010
   Standards to allow toilet rooms that are part of critical or intensive care
-  patient sleeping rooms to no longer be required to provide mobility features.</p>
-<p><strong>Water Closet Location and Rear Grab Bar. </strong>Section 604.2 of the 2010 Standards allows greater
+  patient sleeping rooms to no longer be required to provide mobility features.  
+
+**Water Closet Location and Rear Grab Bar.**  Section 604.2 of the 2010 Standards allows greater
   flexibility for the placement of the centerline of wheelchair accessible and
   ambulatory accessible water closets. Section 604.5.2, Exception 1 permits a
   shorter grab bar on the rear wall where there is not enough wall space due to
@@ -3792,8 +4002,9 @@ provided that they can be added in the future.</li>
   require the water closet centerline to be exactly 18 inches from the side wall,
   while the 2010 Standards requirement allows the centerline to be between 16 and
   18 inches from the side wall in wheelchair accessible toilet compartments and
-  17 to 19 inches in ambulatory accessible toilet compartments.</p>
-<p><strong>Water Closet Clearance.</strong> Section
+  17 to 19 inches in ambulatory accessible toilet compartments.  
+
+**Water Closet Clearance.** Section
   604.3 of the 2010 Standards represents a change in the accessibility
   requirements where a lavatory is installed adjacent to the water closet. The
   1991 Standards allow the nearest side of a lavatory to be placed 18 inches
@@ -3802,8 +4013,9 @@ provided that they can be added in the future.</li>
   the water closet prohibits many individuals with disabilities from using a side
   transfer. To allow greater transfer options, including side transfers, the 2010
   Standards prohibit lavatories from overlapping the clear floor space at water
-  closets, except in covered residential dwelling units. </p>
-<p>A majority of commenters,
+  closets, except in covered residential dwelling units.  
+
+A majority of commenters,
   including persons who use wheelchairs, strongly agreed with the requirement to
   provide enough space for a side transfer. These commenters believed that the
   requirement will increase the usability of accessible single-user toilet rooms
@@ -3820,8 +4032,9 @@ provided that they can be added in the future.</li>
   is an important feature that must be provided to ensure access for persons with
   disabilities in toilet and bathing facilities. Furthermore, the adoption of
   this requirement closely harmonizes with the model codes and many state and
-  local building codes.</p>
-<p>Other commenters urged
+  local building codes.  
+
+Other commenters urged
   the Department not to adopt section 604.3 of the 2010 Standards claiming that
   it will require single-user toilet rooms to be two feet wider than the 1991
   Standards require, and this additional requirement will be difficult to meet.
@@ -3835,8 +4048,9 @@ provided that they can be added in the future.</li>
   that size differences between the two Standards are not substantial and several
   of the 2010 Standards-compliant plans do not require additional square footage
   compared to the 1991 Standards plans. These single-user toilet room floor plans
-  are shown below. </p>
-<p>Several commenters
+  are shown below.  
+
+Several commenters
   concluded that alterations of single-user toilet rooms should be exempt from
   the requirements of section 604.3 of the 2010 Standards because of the
   significant reconfiguration and reconstruction that would be required, such as
@@ -3847,8 +4061,9 @@ provided that they can be added in the future.</li>
   water closets, 604.5.2, Exception 1. These provisions give flexibility to
   create more compact room designs and maintain required clearances around
   fixtures. As with the 1991 Standards, any alterations must comply to the extent
-  that it is technically feasible to do so.</p>
-<p>The requirements at
+  that it is technically feasible to do so.  
+
+The requirements at
   section 604.3.2 of the 2010 Standards specify how required clearance around the
   water closet can overlap with specific elements and spaces. An exception that
   applies only to covered residential dwelling units permits a lavatory to be
@@ -3860,16 +4075,18 @@ provided that they can be added in the future.</li>
   positioned for a transfer. Section 604.3.2 of the 2010 Standards allows items
   such as associated grab bars, dispensers, sanitary napkin disposal units, coat
   hooks, and shelves to overlap the clear floor space. These are items that
-  typically do not affect the usability of the clear floor space.</p>
-<p><strong>Toilet Room Doors.</strong> Sections
+  typically do not affect the usability of the clear floor space.  
+
+**Toilet Room Doors.** Sections
   4.22.2 and 4.22.3 of the 1991 Standards and Section 603.2.3 of the 2010
   Standards permit the doors of all toilet or bathing rooms with in-swinging
   doors to swing into the required turning space, but not into the clear floor
   space required at any fixture. In single-user toilet rooms or bathing rooms,
   Section 603.2.3 Exception 2 of the 2010 Standards permits the door to swing
   into the clear floor space of an accessible fixture if a clear floor space that
-  measures at least 30 inches by 48 inches is provided outside of the door swing.</p>
-<p>Several commenters
+  measures at least 30 inches by 48 inches is provided outside of the door swing.  
+
+Several commenters
   expressed reservations about Exception 2 of Section 603.2.3. Concerns were
   raised that permitting doors of single-user toilet or bathing rooms with
   in-swinging doors to swing into the clearance around any fixture will result in
@@ -3879,11 +4096,12 @@ provided that they can be added in the future.</li>
   size wheelchairs. The Department believes that this provision achieves
   necessary flexibility while providing a minimum standard for maneuvering space.
   The standard does permit additional maneuvering space to be provided, if
-  needed. </p>
-<p>In the NPRM, the
+  needed.  
+
+In the NPRM, the
   Department provided a series of plan drawings illustrating comparisons of the
   minimum size single-user toilet rooms. These floor plans showed typical
-  examples that met the<b> </b>minimum
+  examples that met the minimum
   requirements of the proposed ADA Standards. A commenter was of the opinion that
   the single-user toilet plans shown in the NPRM demonstrated that the new
   requirements will not result in a substantial increase in room size. Several
@@ -3905,160 +4123,101 @@ provided that they can be added in the future.</li>
   shown in Plan 1B. The Department acknowledges that in instances where a latch
   is provided and a closer is required by other regulations or codes, the minimum
   size of a room with an out-swinging door may be slightly larger than as shown
-  in Plan 1C.</p>
-<p>Additional floor plans of
+  in Plan 1C.  
+
+Additional floor plans of
   single-user toilet rooms are now included in further response to the commentary
-  received.</p>
-<table width="775" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-<th colspan="2"  >Comparison of Single-User Toilet Room Layouts</th>
-  </tr>
-  <tr>
-<td valign="top" class="tdboarder">
-  <p>1991 Standards </p>
-  <p><img src="images/plan1a.jpg" alt="1991 standard minimum with out swinging door" width="300" height="531" /></p>
-  <p>Plan-1A: 1991 Standards Minimum with Out-Swinging Door</p>
-  <p> 5&rsquo;-0&rdquo; x 7&rsquo;-3&rdquo; 36.25 Square Feet</p>
-  <p> This plan shows a typical example of a single-user toilet room that meets the minimum requirements of the 1991 Standards. The size of this space is determined by the minimum width required for the water closet and lavatory between the side walls, the minimum wheelchair turning space, and the space required for the out-swinging door. A lavatory with knee space can overlap the clear floor space required for the water closet provided that at least 36 inches of clearance is maintained between the side wall next to the water closet and the lavatory (see section 4.16.2 and Fig. 28 of the 1991 Standards). A wheelchair turning space meeting section 4.2.3 of the 1991 Standards must be provided. The size of this room requires that the entry door swing out. The room would be larger if the door were in-swinging.</p></td>
-<td width="50%" valign="top" class="illustrationtext">
-  <p>2010 Standards </p>
-  <p><img src="images/plan1b.jpg" alt="2010 standard minimum with out-swinging door" /></p>
-  <p>Plan-1B: 2010 Standards Minimum with Out-Swinging Door</p>
-  <p>7&rsquo;-0&rdquo; x 5&rsquo;-0&rdquo; &bull; 35.00 Square Feet </p>
-  <p>This plan shows a typical example of a single-user toilet room that meets the minimum requirements of the 2010 Standards. Features include: five-foot minimum width between the side wall of the water closet and the lavatory; 60-inch minimum circular wheelchair turning space; and 36-inch by 48-inch clear maneuvering space for the out-swinging entry door. Section 604.3.1 of the 2010 Standards requires a floor clearance at a water closet that is a minimum of 60 inches wide by 56 inches deep regardless of approach. Section 604.3.2 prohibits any other plumbing fixtures from being located in this clear space, except in residential dwelling units. The 2010 Standards, at section 304.3, allows the turning space to extend into toe and knee space provided beneath fixtures and other elements. Required maneuvering space for the entry door (inside the room) must be clear of all fixtures. If the door had both a closer and latch, section 404.2.4.1 and Figure 404.2.4.1(c) require additional space on the latch side. </p>
-  <p>This layout is three point five percent (3.5%) smaller than the accompanying Plan-1A: 1991 Standards Minimum with Out-Swinging Door example.</p></td>
-  </tr>
-</table>
+  received.  
 
-<table width="775" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-<th colspan="2"  >  Comparison of Single-User Toilet Room Layouts</th>
-  </tr>
-  <tr>
-<td width="50%" valign="top" class="tdboarder">
-  <p>&nbsp;</p>
-  <p>&nbsp;</p></td>
-<td valign="top" class="illustrationtext">
-  <p>2010 Standards </p>
-  <p><img src="images/plan1c.jpg" alt="Plan-1C: 2010 Standards Minimum with Out-Swinging Door (entry door has both closer and latch)" /></p>
-  <p>Plan-1C: 2010 Standards Minimum with Out-Swinging Door</p>
-  <p> (entry door has both closer and latch)</p>
-  <p> 7&rsquo;-0&rdquo; x 5&rsquo;-6&rdquo; 38.50 Square Feet</p>
-  <p> This plan shows the same typical features of a single-user toilet room that meets the minimum requirements of the 2010 Standards as Plan-1B does except the entry door has both a closer and latch. Because the door has both a closer and latch, a minimum additional foot of maneuvering space is required on the latch side (see section 404.2.4.1 and Figure 404.2.4.1(c) of the 2010 Standards).</p>
-  <p> This layout is six point two percent (6.2%) larger than the accompanying Plan-1A: 1991 Standards Minimum with Out-Swinging Door example.</p></td>
-  </tr>
-</table>
-<p><br />
-</p>
-<table width="775" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-<th colspan="2"  >
-  <p>Comparison of Single-User Toilet Room Layouts</p></th>
-  </tr>
-  <tr>
-<td valign="top" class="tdboarder">
-  <p>1991 Standards <img src="images/plan2a.jpg" alt="Plan-2A: 1991 Standards Minimum  with In-Swinging Door " width="351" height="507" /></p>
-  <p>Plan-2A: 1991 Standards Minimum with In-Swinging Door</p>
-  <p> 5&rsquo;-0&rdquo; x 8&rsquo;-6&rdquo; 42.50 Square Feet</p>
-  <p> This plan shows a typical example of a single-user toilet room that meets the minimum requirements of the 1991 Standards. Depending on the width of the hallway and other circulation issues, it can be preferable to swing the entry door into the toilet room. Businesses and public entities typically prefer to have an in-swinging door. The in-swinging door increases overall room size because it cannot swing over the required clear floor space at any accessible fixture, (see section 4.22.2 of the 1991 Standards). This increases the room depth from Plan-1A. The door is permitted to swing over the required turning space shown as a 60-inch circle.</p></td>
-<td valign="top">
-  <p>2010 Standards </p>
-  <p align="left"><img src="images/plan2b.jpg" alt="Plan-2B: 2010 Standards Minimum  with In-Swinging Door" width="351" height="406" /></p>
-  <p>Plan-2B: 2010 Standards Minimum with In-Swinging Door
-  <p> 7&rsquo;-0&rdquo; x 6&rsquo;-6&rdquo; 45.50 Square Feet
-  <p> This plan shows a typical example of a single-user toilet room that meets the minimum requirements of the 2010 Standards when the entry door swings into the room. In the 2010 Standards an exception allows the entry door to swing over the clear floor spaces and clearances required at the fixtures if a clear floor space complying with section 305.3 (minimum
-30 inches by 48 inches) is provided outside the arc of the door swing, section 603.2.3 exception 2. The required maneuvering space for the door, section 404.2.4.1 and Figure 404.2.4.1(a), also is a factor in room size. This clear space cannot be obstructed by the plumbing fixtures. Note that this layout provides more space for turning when the door is closed than Plan-1B.</p>
-  <p>This layout is seven percent (7%) larger than the<br />
-accompanying Plan-2A: 1991 Standards Minimum with<br />
-In-Swinging Door example.</p></td>
-  </tr>
-</table>
-<p><br />
-</p>
-<table width="775" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-<th colspan="2"  >Comparison of Single-User Toilet Room Layouts</th>
-  </tr>
-  <tr>
-<td width="50%" valign="top" class="tdboarder">
-  <p>&nbsp;</p></td>
-<td valign="top" class="illustrationtext">
-  <p>2010 Standards
-  <p><img src="images/plan2c.jpg" alt="Plan-2C: 2010 Standards Minimum  with In-Swinging Door" width="441" height="444" /></p>
-  <p>Plan-2C: 2010 Standards Minimum<br />
-with In-Swinging Door</h3>
-  <p>7&rsquo;-0&rdquo; x 6&rsquo;-6&rdquo; 40.00 Square Feet</h3>
-  <p align="center"> (plumbing chase not included)</p>
-  <p> This plan shows the same typical features of a single-user toilet room that meets the minimum requirements of the 2010 Standards as Plan-2B when the entry door swings into the room. Note that this layout also provides more space for turning when the door is closed than Plan-1B.</p>
-  <p> This layout is six point two five percent (6.25%) smaller than the accompanying Plan-2A: 1991 Standards Minimum with In-Swinging Door example.</p></td>
-  </tr>
-</table>
-<p><br />
-</p>
-<table width="775" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-<th colspan="2"  >Comparison of Single-User Toilet Room Layouts</th>
-  </tr>
-  <tr>
-<td width="50%" class="tdboarder">
-  <p>&nbsp;</p></td>
-<td>
-  <p>1991 Standards and 2010 Standards </h3>
-  <p><img src="images/plan3.jpg" alt="Plan-3: Meets Both 1991 Standards and 2010 Standards" /></p>
-  <p>Plan-3: Meets Both 1991 Standards and 2010 Standards</h3>
-  <p> 7&rsquo;-0&rdquo; x 5&rsquo;-9&rdquo; 40.25 Square Feet</h3>
-  <p> This plan shows an example of a single-user toilet room that meets the minimum requirements of both the 1991 Standards and 2010 Standards. A T-shaped turning space has been used (see Fig. 3(a) of the 1991 Standards and Figure 304.3.2 of the 2010 Standards) to maintain a compact room size. An out-swinging door also minimizes the overall layout depth and cannot swing over the required clear floor space or clearance at any accessible plumbing fixture.</p>
-  <p> This layout is eleven percent (11%) larger than the Plan-1A: 1991 Standards Minimum with Out-Swinging Door example shown at the beginning of these plan comparisons.</p></td>
-  </tr>
-</table>  
+**Comparison of Single-User Toilet Room Layouts**
 
+{% figure 1991 Standards %}
+{% asset project-project-images/plan1a.jpg alt="2010 standard minimum with out-swinging door" %}  
+{% figcaption %}
+<strong>Plan-1A: 1991 Standards Minimum with Out-Swinging Door - 5’-0” x 7’-3” 36.25 Square Feet</strong>:  This plan shows a typical example of a single-user toilet room that meets the minimum requirements of the 1991 Standards. The size of this space is determined by the minimum width required for the water closet and lavatory between the side walls, the minimum wheelchair turning space, and the space required for the out-swinging door. A lavatory with knee space can overlap the clear floor space required for the water closet provided that at least 36 inches of clearance is maintained between the side wall next to the water closet and the lavatory (see section 4.16.2 and Fig. 28 of the 1991 Standards). A wheelchair turning space meeting section 4.2.3 of the 1991 Standards must be provided. The size of this room requires that the entry door swing out. The room would be larger if the door were in-swinging.
+{% endfigcaption %}
+{% endfigure %}  
 
-<table width="775" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-<th colspan="2"  >Comparison of Single-User Toilet Room &ldquo;Pairs&rdquo; With Fixtures Side-by-Side</th>
-  </tr>
-  <tr>
-<td valign="top" class="tdboarder">
-  <p>1991 Standards
-  <img src="images/plan1a_pair.jpg" alt="Plan-1A Pair: 1991 Standards with Out-Swinging Doors" width="300" height="483" />
-  <p>Plan-1A Pair: 1991 Standards with Out-Swinging Doors</p>
-  <p> Two 5&rsquo;-0&rdquo; x 7&rsquo;-3&rdquo; Rooms&ndash;72.50 Square Feet Total</p></td>
-<td valign="top">
-  <p>2010 Standards
-  <p align="center"><img src="images/plan1b_pair.jpg" alt="Plan-1B Pair: 2010 Standards with Out-Swinging Doors" width="300" height="327" /></p>
-  <p>Plan-1B Pair: 2010 Standards with<br />
-Out-Swinging Doors</p>
-  <p> Two 7&rsquo;-0&rdquo; x 5&rsquo;-0&rdquo; Rooms- <br />
-70.00 Square Feet Total</p></td>
-  </tr>
-  <tr>
-<td colspan="2" valign="top">
-  <p align="center">These plans show men&rsquo;s/women&rsquo;s room configurations using Plans 1A and 1B. </p></td>
-  </tr>
-</table>
-<p></p>
-<p></p>
-<table width="775" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-<th colspan="2"  >Comparison of Single-User Toilet Room &ldquo;Pairs&rdquo; With Fixtures Side-by-Side</th>
-  </tr>
-  <tr>
-<td width="351" valign="top" class="tdboarder">
-  <p>1991 Standards</td>
-<td width="424" valign="top" class="illustrationtext">
-  <p>2010 Standards </h3>
-  <p align="center"><img src="images/plan2c_pair.jpg" alt="Plan-2C Pair: 2010 Standards with In-Swinging Doors" width="300" height="489" /></p>
-  <p>Plan-2C Pair: 2010 Standards with<br />
-In-Swinging Doors</h3>
-  <p> Two 7&rsquo;-2&rdquo; x 6&rsquo;-6&rdquo; Rooms -<br />
-82.00 Square Feet Total</h3>
-  <p align="center">This plan shows a men&rsquo;s/women&rsquo;s room<br />
-configuration using Plan 2C.</p></td>
-  </tr>
-</table>
+{% figure 2010 Standards %}
+{% asset project-project-images/plan1b.jpg alt="2010 standard minimum with out-swinging door" %}  
+{% figcaption %}
+<strong>Plan-1B: 2010 Standards Minimum with Out-Swinging Door - 7’-0” x 5’-0” 35.00 Square Feet</strong>:  This plan shows a typical example of a single-user toilet room that meets the minimum requirements of the 2010 Standards. Features include: five-foot minimum width between the side wall of the water closet and the lavatory; 60-inch minimum circular wheelchair turning space; and 36-inch by 48-inch clear maneuvering space for the out-swinging entry door. Section 604.3.1 of the 2010 Standards requires a floor clearance at a water closet that is a minimum of 60 inches wide by 56 inches deep regardless of approach. Section 604.3.2 prohibits any other plumbing fixtures from being located in this clear space, except in residential dwelling units. The 2010 Standards, at section 304.3, allows the turning space to extend into toe and knee space provided beneath fixtures and other elements. Required maneuvering space for the entry door (inside the room) must be clear of all fixtures. If the door had both a closer and latch, section 404.2.4.1 and Figure 404.2.4.1(c) require additional space on the latch side.  
 
-<p><strong>Toilet Paper Dispensers.</strong>&nbsp; The
-  provisions for toilet paper dispensers at section 604.7 of the 2010 Standards
+This layout is three point five percent (3.5%) smaller than the accompanying Plan-1A: 1991 Standards Minimum with Out-Swinging Door example.
+{% endfigcaption %}
+{% endfigure %}  
+
+**Comparison of Single-User Toilet Room Layouts**  
+
+{% figure 2010 Standards %}
+{% asset project-project-images/plan1c.jpg alt="Plan-1C: 2010 Standards Minimum with Out-Swinging Door (entry door has both closer and latch)" %}  
+{% figcaption %}
+<strong>Plan-1C: 2010 Standards Minimum with Out-Swinging Door (entry door has both closer and latch)- 7’-0” x 5’-6” 38.50 Square Feet:</strong>  This plan shows the same typical features of a single-user toilet room that meets the minimum requirements of the 2010 Standards as Plan-1B does except the entry door has both a closer and latch. Because the door has both a closer and latch, a minimum additional foot of maneuvering space is required on the latch side (see section 404.2.4.1 and Figure 404.2.4.1(c) of the 2010 Standards).  
+
+This layout is six point two percent (6.2%) larger than the accompanying Plan-1A: 1991 Standards Minimum with Out-Swinging Door example.
+{% endfigcaption %}
+{% endfigure %}  
+
+**Comparison of Single-User Toilet Room Layouts**  
+
+{% figure 1991 Standards %}
+{% asset project-project-images/plan2a.jpg alt="Plan-2A: 1991 Standards Minimum with In-Swinging Door" %}  
+{% figcaption %}
+<strong>Plan-2A - 1991 Standards Minimum with In-Swinging Door - 5’-0” x 8’-6” 42.50 Square Feet:</strong>  This plan shows a typical example of a single-user toilet room that meets the minimum requirements of the 1991 Standards. Depending on the width of the hallway and other circulation issues, it can be preferable to swing the entry door into the toilet room. Businesses and public entities typically prefer to have an in-swinging door. The in-swinging door increases overall room size because it cannot swing over the required clear floor space at any accessible fixture, (see section 4.22.2 of the 1991 Standards). This increases the room depth from Plan-1A. The door is permitted to swing over the required turning space shown as a 60-inch circle.
+{% endfigcaption %}
+{% endfigure %}  
+
+{% figure 2010 Standards %}
+{% asset project-project-images/plan2b.jpg alt="Plan-2B: 2010 Standards Minimum with In-Swinging Door" %}  
+{% figcaption %}
+<strong>Plan-2B - 2010 Standards Minimum with In-Swinging Door - 7’-0” x 6’-6” 45.50 Square Feet:</strong>  This plan shows a typical example of a single-user toilet room that meets the minimum requirements of the 2010 Standards when the entry door swings into the room. In the 2010 Standards an exception allows the entry door to swing over the clear floor spaces and clearances required at the fixtures if a clear floor space complying with section 305.3 (minimum 30 inches by 48 inches) is provided outside the arc of the door swing, section 603.2.3 exception 2. The required maneuvering space for the door, section 404.2.4.1 and Figure 404.2.4.1(a), also is a factor in room size. This clear space cannot be obstructed by the plumbing fixtures. Note that this layout provides more space for turning when the door is closed than Plan-1B.  This layout is seven percent (7%) larger than the accompanying Plan-2A: 1991 Standards Minimum with In-Swinging Door example.
+{% endfigcaption %}
+{% endfigure %}  
+
+**Comparison of Single-User Toilet Room Layouts**  
+
+{% figure 2010 Standards %}
+{% asset project-project-images/plan2c.jpg alt="Plan-2C: 2010 Standards Minimum with In-Swinging Door" %}  
+{% figcaption %}
+<strong>Plan-2C - 2010 Standards Minimum with In-Swinging Door - 7’-0” x 6’-6” 40.00 Square Feet (plumbing chase not included):</strong>  This plan shows the same typical features of a single-user toilet room that meets the minimum requirements of the 2010 Standards as Plan-2B when the entry door swings into the room. Note that this layout also provides more space for turning when the door is closed than Plan-1B.  This layout is six point two five percent (6.25%) smaller than the accompanying Plan-2A: 1991 Standards Minimum with In-Swinging Door example.
+{% endfigcaption %}
+{% endfigure %}  
+
+**Comparison of Single-User Toilet Room Layouts**  
+{% figure 1991 and 2010 Standards %}
+{% asset project-project-images/plan3.jpg alt="Plan-3: Meets Both 1991 Standards and 2010 Standards" %}  
+{% figcaption %}
+<strong>Plan-3 - Meets Both 1991 Standards and 2010 Standards - 7’-0” x 5’-9” 40.25 Square Feet:</strong>  This plan shows an example of a single-user toilet room that meets the minimum requirements of both the 1991 Standards and 2010 Standards. A T-shaped turning space has been used (see Fig. 3(a) of the 1991 Standards and Figure 304.3.2 of the 2010 Standards) to maintain a compact room size. An out-swinging door also minimizes the overall layout depth and cannot swing over the required clear floor space or clearance at any accessible plumbing fixture.  This layout is eleven percent (11%) larger than the Plan-1A: 1991 Standards Minimum with Out-Swinging Door example shown at the beginning of these plan comparisons.
+{% endfigcaption %}
+{% endfigure %}  
+
+**Comparison of Single-User Toilet Room “Pairs” With Fixtures Side-by-Side**  
+{% figure 1991 Standards %}
+{% asset project-project-images/plan1a_pair.jpg alt="" %}  
+{% figcaption %}
+Plan-1A Pair: 1991 Standards with Out-Swinging Doors - Two 5’-0” x 7’-3” Rooms– 72.50 Square Feet Total
+{% endfigcaption %}
+{% endfigure %}   
+
+{% figure 2010 Standards %}
+{% asset project-project-images/plan1b_pair.jpg alt="Plan-1B Pair: 2010 Standards with Out-Swinging Doors" %}  
+{% figcaption %}
+Plan-1A Pair: 1991 Standards with Out-Swinging Doors - Two 5’-0” x 7’-3” Rooms– 72.50 Square Feet Total
+
+<p><strong>These plans show men’s/women’s room configurations using Plans 1A and 1B.</strong></p>
+{% endfigcaption %}
+{% endfigure %}  
+
+**Comparison of Single-User Toilet Room “Pairs” With Fixtures Side-by-Side**  
+
+{% figure 2010 Standards %}
+{% asset project-project-images/plan2c_pair.jpg alt="Plan-2C Pair: 2010 Standards with In-Swinging Doors" %}  
+{% figcaption %}
+<strong>Plan-2C Pair: 2010 Standards with In-Swinging Doors - Two 7’-2” x 6’-6” Rooms - 82.00 Square Feet Total</strong>:  This plan shows a men’s/women’s room configuration using Plan 2C.
+{% endfigcaption %}
+{% endfigure %}  
+
+**Toilet Paper Dispensers.**  The provisions for toilet paper dispensers at section 604.7 of the 2010 Standards
   require the dispenser to be located seven inches minimum and nine inches
   maximum in front of the water closet measured to the centerline of the
   dispenser. The paper outlet of the dispenser must be located 15 inches minimum
@@ -4066,8 +4225,9 @@ configuration using Plan 2C.</p></td>
   location of the toilet paper dispenser is determined by the centerline and
   forward edge of the dispenser. In the 2010 Standards the mounting location of
   the toilet paper dispenser is determined by the centerline of the dispenser and
-  the location of the outlet for the toilet paper.</p>
-<p>One commenter discussed
+  the location of the outlet for the toilet paper.  
+
+One commenter discussed
   the difficulty of using large roll toilet paper dispensers and dispensers with
   two standard size rolls stacked on top of each other. The size of the large
   dispensers can block access to the grab bar and the outlet for the toilet paper
@@ -4077,33 +4237,30 @@ configuration using Plan 2C.</p></td>
   paper flow are not permitted by the 1991 Standards or the 2010 Standards. Also,
   many of the large roll toilet paper dispensers do not comply with the 2010
   Standards since their large size does not allow them to be mounted 12 inches
-  above or 1 1/2 inches below the side grab bar as required by section 609.3.</p>
-<p><strong>Shower Spray Controls.</strong>&nbsp; In
+  above or 1 1/2 inches below the side grab bar as required by section 609.3.  
+
+**Shower Spray Controls.**&nbsp; In
   accessible bathtubs and shower compartments, sections 607.6 and 608.6 of the
   2010 Standards require shower spray controls to have an on/off control and to
   deliver water that is 120&iexcl;F (49&iexcl;C) maximum. Neither feature was required by the
   1991 Standards, but may be required by plumbing codes. Delivering water that is
   no hotter than 120&iexcl;F (49&iexcl;C) will require controlling the maximum temperature at
-  each accessible shower spray unit.</p>
-<p><strong>Shower Compartments.&nbsp;</strong> The
+  each accessible shower spray unit.  
+
+**Shower Compartments.&nbsp;** The
   1991 Standards at sections 4.21 and 9.1.2 and the 2010 Standards at section 608
   contain technical requirements for transfer-type and roll-in shower
   compartments. The 2010 Standards provide more flexibility than the 1991
-  Standards as follows:</p>
-<ul>
-  <li>Transfer-type showers are exactly 36
-inches wide by 36 inches long. </li>
-</ul>
-<ul>
-  <li>The 1991 Standards and the 2010 Standards
+  Standards as follows:  
+
+- Transfer-type showers are exactly 36
+inches wide by 36 inches long.  
+- The 1991 Standards and the 2010 Standards
 permit a 1/2-inch maximum curb in transfer-type showers. The 2010 Standards add
 a new exception that permits a 2-inch maximum curb in transfer-type showers in
 alterations to existing facilities, where recessing the compartment to achieve
-a 1/2-inch curb will disturb the structural reinforcement of the floor slab. </li>
-</ul>
-<ul>
-  <li>Roll-in showers are 30 inches wide
-minimum by 60 inches long minimum. Alternate roll-in showers are 36 inches wide
+a 1/2-inch curb will disturb the structural reinforcement of the floor slab.  
+- Roll-in showers are 30 inches wide minimum by 60 inches long minimum. Alternate roll-in showers are 36 inches wide
 by 60 inches long minimum, and have a 36-inch minimum wide opening on the long
 side of the compartment. The 1991 Standards require alternate roll-in showers
 in a portion of accessible transient lodging guest rooms, but provision of this
@@ -4112,31 +4269,35 @@ facilitation. The 1991 Standards require a seat to be provided adjacent to the
 opening; and require the controls to be located on the side adjacent to the
 seat. The 2010 Standards permit alternate roll-in showers to be used in any
 facility, only require a seat in transient lodging guest rooms, and allow
-location of controls on the back wall opposite the seat as an alternative. </li>
-</ul>
-<p>Commenters raised
+location of controls on the back wall opposite the seat as an alternative.  
+
+Commenters raised
   concerns that adding a new exception that permits a 2-inch maximum curb in
   transfer-type showers in alterations to existing facilities, where recessing
   the compartment to achieve a 1/2-inch curb will disturb the structural
   reinforcement of the floor slab, will impair the ability of individuals with
-  disabilities to use transfer-type showers.</p>
-<p>The exception in section
+  disabilities to use transfer-type showers.  
+
+The exception in section
   608.7 of the 2010 Standards permitting a 2-inch maximum curb in transfer-type
   showers is allowed only in existing facilities where provision of a 1/2-inch
   high threshold would disturb the structural reinforcement of the floor slab.
   Whenever this exception is used the least high threshold that can be used
   should be provided, up to a maximum height of 2 inches. This exception is
   intended to provide some flexibility where the existing structure precludes
-  full compliance.</p>
-<p><strong>Toilet and Bathing Rooms.</strong>&nbsp; Section
+  full compliance.  
+
+**Toilet and Bathing Rooms.**&nbsp; Section
   213 of the 2010 Standards sets out the scoping requirements for toilet and
-  bathing rooms.</p>
-<p>Commenters recommended
+  bathing rooms.  
+
+Commenters recommended
   that section 213, Toilet Facilities and Bathing Facilities, of the 2010
   Standards include requirements that unisex toilet and bathing rooms be provided
   in certain facilities. These commenters suggested that unisex toilet and
-  bathing rooms are most useful as companion care facilities.</p>
-<p>Model plumbing and building
+  bathing rooms are most useful as companion care facilities.  
+
+Model plumbing and building
   codes require single-user (unisex or family) toilet facilities in certain
   occupancies, primarily assembly facilities, covered malls, and transportation
   facilities. These types of toilet rooms provide flexibility for persons needing
@@ -4154,38 +4315,45 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   assistance from a person of the opposite sex can lock the door to use the
   facility while temporarily inconveniencing only one other potential user. These
   provisions strike a reasonable balance and impose less impact on covered
-  entities.</p>
-<p>A commenter recommended
+  entities.  
+
+A commenter recommended
   that in shower compartments rectangular seats as provided in section 610.3.1 of
   the 2010 Standards should not be permitted as a substitute for L-shaped seats
-  as provided in 610.3.2.&nbsp;</p>
-<p>The 2010 Standards do not
+  as provided in 610.3.2.  
+The 2010 Standards do not
   indicate a preference for either rectangular or L-shaped seats in shower
   compartments. L-shaped seats in transfer and certain roll-in showers have been
   used for many years to provide users with poor balance additional support
-  because they can position themselves in the corner while showering.</p>
-<p>214 and 611 Washing Machines and Clothes Dryers
-<p>Sections 214.2 (washing
+  because they can position themselves in the corner while showering.  
+
+#### 214 and 611 Washing Machines and Clothes Dryers  
+
+Sections 214.2 (washing
   machines) and 214.3 (clothes dryers) of the 2010 Standards specify the number
   of each type of these machines required to be accessible (one to two depending
   upon the total number of machines provided) and section 611 specifies the
   technical requirements. An exception will permit the maximum height for the
   tops of these machines to be 2 inches higher than the general requirement for
-  maximum high reach over an obstruction.</p>
-<p>A commenter objected to
+  maximum high reach over an obstruction.  
+
+A commenter objected to
   the scoping provision for accessible washing machines and clothes dryers
   stating that the probability is low that more than one accessible machine would
   be needed at the same time in the laundry facility of a place of transient
-  lodging.</p>
-<p>The scoping in this
+  lodging.  
+
+The scoping in this
   provision is based on the relative size of the facility. The Department assumes
   that the size of the facility (and, therefore, the number of accessible
   machines provided) will be determined by the covered entity&acute;s assessment of the
   demand for laundry facilities. The Department declines to assume that persons
   with disabilities will have less use for accessible facilities in transient
-  lodging than in other public accommodations.</p>
-<p>216 and 703 Signs
-<p>The following types of
+  lodging than in other public accommodations.  
+
+#### 216 and 703 Signs
+
+The following types of
   signs, though they are not specifically subject to the 1991 Standards
   requirement for signs, will now be explicitly exempted by sections 216 and 703
   of the 2010 Standards. These types of signs include: seat and row designations
@@ -4194,17 +4362,21 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   and means of egress); and exterior signs identifying permanent rooms and spaces
   that are not located at the door to the space they serve. This requirement also
   clarifies that the exception for temporary signs applies to signs used for
-  seven days or less.</p>
-<p>The 2010 Standards retain
+  seven days or less.  
+
+The 2010 Standards retain
   the option to provide one sign where both visual and tactile characters are
-  provided or two signs, one with visual, and one with tactile characters.</p>
-<p>217 and 704 Telephones
-<p><strong>Drive-up Public Telephones.</strong>&nbsp; Where
+  provided or two signs, one with visual, and one with tactile characters.  
+
+#### 217 and 704 Telephones  
+
+**Drive-up Public Telephones.**&nbsp; Where
   public telephones are provided, the 1991 Standards, at section 4.1.3(17)(a),
   and section 217.2 of the 2010 Standards, require a certain number of telephones
   to be wheelchair accessible. The 2010 Standards add a new exception that
-  exempts drive-up public telephones.</p>
-<p><strong>Text Telephones (TTY).&nbsp;</strong>&nbsp; Section 4.1.3(17) of the 1991 Standards requires a public TTY to be provided
+  exempts drive-up public telephones.  
+
+**Text Telephones (TTY).&nbsp;**&nbsp; Section 4.1.3(17) of the 1991 Standards requires a public TTY to be provided
   if there are four or more public pay telephones at a site and at least one is
   in an interior location. Section 217.4.2 of the 2010 Standards requires that a
   building or facility provide a public TTY on each floor that has four or more
@@ -4230,21 +4402,25 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   least one public TTY must be provided. Section 217.4.8 of the 2010 Standards
   also requires that a TTY be provided in at least one secured area where at
   least one pay telephone is provided in a secured area used only by detainees or
-  inmates and security personnel in detention and correctional facilities.&nbsp;</p>
-<p>Wheelchair Accessible Telephones
-<p>Section 217.2 of the 2010
+  inmates and security personnel in detention and correctional facilities.  
+
+#### Wheelchair Accessible Telephones  
+
+Section 217.2 of the 2010
   Standards requires that where public telephones are provided wheelchair
   accessible telephones complying with section 704.2 must be provided in
-  accordance with Table 217.2.</p>
-<p>A commenter stated that
+  accordance with Table 217.2.  
+
+  A commenter stated that
   requiring installation of telephones within the proposed reach range
   requirements would adversely impact public and telephone owners and operators.
   According to the commenter, individuals without disabilities will not use
   telephones that are installed within the reach range requirements because they
   may be inconvenienced by having to stoop to operate these telephones, and,
   therefore, owners and operators will lose revenue due to less use of public
-  telephones.</p>
-<p>This comment
+  telephones.  
+
+This comment
   misunderstands the scoping requirements for wheelchair accessible
   telephones.&nbsp; Section 217.2 of the
   2010 Standards provides that where one or more single units are provided, only
@@ -4253,11 +4429,11 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   in each bank is required to be wheelchair accessible. The Department believes
   these scoping requirements for wheelchair accessible telephones are reasonable
   and will not result in burdensome obligations or lost revenue for owners and
-  operators.</p>
+  operators.  
 
 #### 218 and 810 Transportation Facilities  
 
-<p><strong>Detectable Warnings.&nbsp;</strong> Detectable
+**Detectable Warnings.&nbsp;** Detectable
   warnings provide a distinctively textured surface of truncated domes. The 1991
   Standards at sections 4.1.3(15), 4.7.7, 4.29.2, 4.29.5, 4.29.6, and 10.3.1(8) require
   detectable warnings at curb ramps, hazardous vehicular areas, reflecting pools,
@@ -4266,8 +4442,9 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   technical specifications for the diameter and spacing of the truncated domes
   have also been changed. The 2010 Standards also delete the requirement for the
   material used to contrast in resiliency or sound-on-cane contact from adjoining
-  walking surfaces at interior locations.</p>
-<p>The 2010 Standards apply
+  walking surfaces at interior locations.  
+
+The 2010 Standards apply
   to detectable warnings on developed sites. They do not apply to the public
   right-of-way. Scoping for detectable warnings at all locations other than
   transit platform edges has been eliminated from the 2010 Standards. However, because
@@ -4277,13 +4454,14 @@ location of controls on the back wall opposite the seat as an alternative. </li>
 
 #### 219 and 706 Assistive Listening Systems  
 
-<p><strong>Signs.</strong>&nbsp; Section 216.10 of the 2010
+**Signs.**&nbsp; Section 216.10 of the 2010
   Standards requires each covered assembly area to provide signs at each
   auditorium to inform patrons that assistive listening systems are available.
   However, an exception to this requirement permits assembly areas that have
   ticket offices or ticket windows to display the required signs at the ticket
-  window.</p>
-<p>A commenter recommended
+  window.  
+
+A commenter recommended
   eliminating the exception at 216.10 because, for example, people who buy
   tickets through the mail, by subscription, or on-line may not need to stop at a
   ticket office or window upon arrival at the assembly area. The Department
@@ -4291,15 +4469,17 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   performance does not limit the discretion of the assembly operator to use the
   ticket window to provide other services to its patrons. The Department retained
   the exception at 216.10 to permit the venue operator some flexibility in
-  determining how to meet the needs of its patrons.</p>
-<p><strong>Audible Communication.&nbsp;</strong>&nbsp; The 1991 Standards, at section 4.1.3(19)(b), require assembly areas,
+  determining how to meet the needs of its patrons.  
+
+**Audible Communication.&nbsp;**&nbsp; The 1991 Standards, at section 4.1.3(19)(b), require assembly areas,
   where audible communication is integral to the use of the space, to provide an
   assistive listening system if they have an audio amplification system or an
   occupant load of 50 or more people and have fixed seating. The 2010 Standards
   at section 219 require assistive listening systems in spaces where
   communication is integral to the space and audio amplification is provided and
-  in courtrooms.</p>
-<p>The 1991 Standards
+  in courtrooms.  
+
+The 1991 Standards
   require receivers to be provided for at least four percent (4%) of the total
   number of fixed seats. The 2010 Standards, at section 219.3, revise the
   percentage of receivers required according to a table that correlates the
@@ -4309,40 +4489,43 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   also require at least twenty-five percent (25%), but no fewer than two, of the
   receivers to be hearing-aid compatible. Assembly areas served by an induction
   loop assistive listening system will not have to provide hearing-aid compatible
-  receivers.</p>
-<p>Commenters were divided
+  receivers.  
+
+Commenters were divided
   in their opinion of this change. The Department believes that the reduction in
   the required number of assistive listening systems for larger assembly areas
   will meet the needs of individuals with disabilities. The new requirement to
   provide hearing-aid compatible receivers should make assistive listening
-  systems more usable for people who have been underserved until now.</p>
-<p>Concerns were raised that
+  systems more usable for people who have been underserved until now.  
+
+Concerns were raised that
   the requirement to provide assistive listening systems may have an adverse
   impact on restaurants. This comment misunderstands the scope of coverage. The
   2010 Standards define the term &quot;assembly area&quot; to include facilities used for
   entertainment, educational, or civic gatherings. A restaurant would fall within
   this category only if it is presenting programs to educate or entertain diners,
-  and it provides an audio amplification system.</p>
-<p><strong>Same Management or Building.&nbsp;</strong> The 2010 Standards add a new exception that allows multiple
+  and it provides an audio amplification system.  
+
+**Same Management or Building.&nbsp;** The 2010 Standards add a new exception that allows multiple
   assembly areas that are in the same building and under the same management,
   such as theaters in a multiplex cinema and lecture halls in a college building,
   to calculate the number of receivers required based on the total number of
   seats in all the assembly areas, instead of each assembly area separately,
   where the receivers are compatible with the assistive listening systems used in
-  each of the assembly areas.</p>
-<p><strong>Mono Jacks, Sound Pressure, Etc.</strong>&nbsp; Section 4.33.7 of the 1991 Standards does not contain
+  each of the assembly areas.  
+
+**Mono Jacks, Sound Pressure, Etc.**&nbsp; Section 4.33.7 of the 1991 Standards does not contain
   specific technical requirements for assistive listening systems. The 2010
   Standards at section 706 require assistive listening systems to have standard
   mono jacks and will require hearing-aid compatible receivers to have neck loops
   to interface with telecoils in hearing aids. The 2010 Standards also specify
   sound pressure level, signal-to-noise ratio, and peak clipping level. Currently
   available assistive listening systems typically meet these technical
-  requirements.</p>  
-
+  requirements.  
 
 #### 220 and 707 Automatic Teller Machines and Fare Machines  
 
-<p>Section 707 of the 2010
+Section 707 of the 2010
   Standards adds specific technical requirements for speech output, privacy,
   tactilely-discernible input controls, display screens, and Braille instructions
   to the general accessibility requirements set out in the 1991 Standards.
@@ -4350,20 +4533,19 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   audible tones are permitted, when advertisements or similar information are
   provided, and where speech synthesis cannot be supported. The 1991 Standards
   require these machines to be accessible to and independently usable by persons
-  with visual impairments, but do not contain any technical specifications.</p>  
+  with visual impairments, but do not contain any technical specifications.  
 
 #### 221 Assembly Areas  
 
-<p><strong>Wheelchair Spaces/Companion Seats.</strong>&nbsp; Owners of large assembly areas have historically complained
+**Wheelchair Spaces/Companion Seats.**&nbsp; Owners of large assembly areas have historically complained
   to the Department that the requirement for one percent (1%) of seating to be
   wheelchair seating is excessive and that wheelchair seats are not being sold. At the same time, advocates have traditionally argued that persons who
   use wheelchairs will increasingly participate in activities at assembly areas
   once they become accessible and that at least one percent (1%) of seats should
-  be accessible.</p>
-<p>The 1991 Standards, at
-  sections 4.1.3(19)(a) and 4.33.3, require assembly areas to provide wheelchair
+  be accessible.  
 
-  and companion seats. In assembly areas with a capacity of more than five
+The 1991 Standards, at
+  sections 4.1.3(19)(a) and 4.33.3, require assembly areas to provide wheelchair and companion seats. In assembly areas with a capacity of more than five
   hundred seats, accessible seating at a ratio of one percent (1%) (plus one
   seat) of the number of traditional fixed seats must be provided. The 2010
   Standards, at section 221.2, require assembly areas with 501 to 5000 seats to
@@ -4372,8 +4554,9 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   501 through 5000. In assembly areas with more than 5000 seats at least 36
   wheelchair spaces and companion seats plus one additional wheelchair space for
   each 200 seats (or fraction thereof) more than 5000 are required. See sections
-  221.1 and 221.2 of the 2010 Standards.</p>
-<p>Commenters questioned why
+  221.1 and 221.2 of the 2010 Standards.  
+
+Commenters questioned why
   scoping requirements for large assembly areas are being reduced. During the
   development of the 2004 ADAAG, industry providers, particularly those
   representing larger stadium-style assembly areas, supplied data to the Access
@@ -4381,8 +4564,9 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   often exceed the demand. Based on the data provided to the Access Board, the
   Department believes the reduced scoping requirements will adequately meet the
   needs of individuals with disabilities, while balancing concerns of the
-  industry.</p>
-<p>Commenters representing
+  industry.  
+
+Commenters representing
   assembly areas supported the reduced scoping. One commenter asked that scoping
   requirements for larger assembly areas be reduced even further. Although the
   commenter referenced data demonstrating that wheelchair spaces in larger
@@ -4391,8 +4575,9 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   was calculated at least in part based on probability assumptions. The
   Department is not convinced that further reductions should be made based upon
   those projections and that further reductions would not substantially limit
-  accessibility at assembly areas for persons who use wheelchairs.</p>
-<p>Section 221.2.1.3 of the
+  accessibility at assembly areas for persons who use wheelchairs.  
+
+Section 221.2.1.3 of the
   2010 Standards clarifies that the scoping requirements for wheelchair spaces
   and companion seats are to be applied separately to general seating areas and
   to each luxury box, club box, and suite in arenas, stadiums, and grandstands.
@@ -4405,8 +4590,9 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   tiered boxes. For example, if a performing arts facility has 20 tiered boxes
   with 10 fixed seats in each box, for a total of 200 seats, at least five
   wheelchair spaces and companion seats must be provided in the boxes, and they
-  must be dispersed among at least four of the 20 boxes.</p>
-<p>Commenters raised concerns
+  must be dispersed among at least four of the 20 boxes.  
+
+Commenters raised concerns
   that the 2010 Standards should clarify requirements for scoping of seating
   areas and that requiring accessible seating in each luxury box, club box, and
   suite in arenas, stadiums and grandstands could result in no wheelchair and
@@ -4418,8 +4604,9 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   addition, the remaining seating areas not located in boxes must also contain
   the number of wheelchair and companion seating locations specified in the 2010
   Standards based on the total number of seats in the entire facility excluding
-  luxury boxes, club boxes and suites.</p>
-<p><strong>Wheelchair Space Overlap in Assembly Areas.&nbsp; </strong>Section 4.33.3 of the 1991 Standards and the 2010
+  luxury boxes, club boxes and suites.  
+
+**Wheelchair Space Overlap in Assembly Areas.**  Section 4.33.3 of the 1991 Standards and the 2010
   Standards, at sections 402, 403.5.1, 802.1.4, and 802.1.5, require walkways
   that are part of an accessible route to have a 36-inch minimum clear width.
   Section 802.1.5 of the 2010 Standards specifically prohibits accessible routes
@@ -4429,8 +4616,9 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   specifically prohibit wheelchair spaces from overlapping circulation paths. An
   advisory note clarifies that this prohibition applies only to the circulation
   path width required by applicable building codes and fire and life safety codes
-  since the codes prohibit obstructions in the required width of assembly aisles.</p>
-<p>Section 802.1.5 of the
+  since the codes prohibit obstructions in the required width of assembly aisles.  
+
+Section 802.1.5 of the
   2010 Standards provides that where a main circulation path is located in front
   of a row of seats that contains a wheelchair space and the circulation path is
   wider than required by applicable building codes and fire and life safety
@@ -4439,9 +4627,11 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   wheelchair space and the wheelchair space is entered from the rear, the aisle
   in front of the row may need to be wider in order not to block the required
   circulation path to the other seats in the row, or a mid-row opening may need
-  to be provided to access the required circulation path to the other seats.</p>
-<p><strong>Line of Sight and Dispersion of Wheelchair Spaces in
-  Assembly Areas.</strong>&nbsp;&nbsp; Section 4.33.3 of the 1991
+  to be provided to access the required circulation path to the other seats.  
+
+**Line of Sight and Dispersion of Wheelchair Spaces in Assembly Areas.**  
+
+Section 4.33.3 of the 1991
   Standards requires wheelchair spaces and companion seats to be an integral part
   of any fixed seating plan in assembly areas and to provide individuals with
   disabilities a choice of admission prices and lines of sight comparable to
@@ -4458,8 +4648,9 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   Department also interpreted the section 4.33.3 comparable lines of sight
   requirement to mean that wheelchair spaces and companion seats in stadium-style
   movie theaters must provide patrons with disabilities and their companions with
-  viewing angles comparable to those provided to other spectators.</p>
-<p>Sections 221.2.3 and
+  viewing angles comparable to those provided to other spectators.  
+
+Sections 221.2.3 and
   802.2 of the 2010 Standards add specific technical requirements for providing
   lines of sight over seated and standing spectators and also require wheelchair
   spaces and companion seats (per section 221.3) to provide individuals with
@@ -4469,8 +4660,9 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   areas, including stadium-style movie theaters, sports arenas, and concert
   halls. These rules are expected to have minimal impact since they are
   consistent with the Department&acute;s longstanding interpretation of the 1991
-  Standards and technical assistance.</p>
-<p>Commenters stated that
+  Standards and technical assistance.  
+
+Commenters stated that
   the qualitative viewing angle language contained in section 221.2.3 is not
   appropriate for an enforceable regulatory standard unless the terms of such
   language are defined. Other commenters requested definitions for viewing angles,
@@ -4486,8 +4678,9 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   specific circumstances of the venue that is being designed. The Department has
   implemented more explicit requirements for stadium-style movie theaters in 28
   CFR 36.406(f) and 35.151(g) of the final regulations based on experience and
-  expertise gained after several major enforcement actions.</p>
-<p>Another commenter
+  expertise gained after several major enforcement actions.  
+
+Another commenter
   inquired as to what determines whether a choice of seating locations or viewing
   angles is better than that available to all other spectators. The answer to
   this question varies according to each assembly area that is being designed,
@@ -4505,8 +4698,9 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   lines of sight nor may they be exclusively among the seats with the worst lines
   of sight. Rather, wheelchair seating locations should offer a choice of viewing
   experiences and be located among the seats where most of the audience chooses
-  to sit.</p>
-<p>Section 4.33.3 of the
+  to sit.  
+
+Section 4.33.3 of the
   1991 Standards requires wheelchair spaces and companion seating to be offered
   at a choice of admission prices, but section 221.2.3.2 of the 2010 Standards no
   longer requires wheelchair spaces and companion seats to be dispersed based on
@@ -4517,8 +4711,9 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   phase. Their concern was that a failure by the venue owner or operator to
   provide a choice of ticket prices for wheelchair seating as required by the
   1991 Standards governing new construction could somehow unfairly subject
-  parties involved in the design and construction to liability unknowingly.</p>
-<p>Sections 221.2.3.2 and
+  parties involved in the design and construction to liability unknowingly.  
+
+Sections 221.2.3.2 and
   221.3 of the 2010 Standards require wheelchair spaces and companion seats to be
   vertically dispersed at varying distances from the screen, performance area, or
   playing field. The 2010 Standards, at section 221.2.3.2, also require
@@ -4537,17 +4732,18 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   provide an exception for vertical dispersion in assembly areas with 300 or
   fewer seats if the wheelchair spaces and companion seats provide viewing angles
   that are equivalent to, or better than, the average viewing angle provided in
-  the facility.</p>
-<p>Section 221.3 of the 2010
+  the facility.  
+
+Section 221.3 of the 2010
   Standards requires wheelchair spaces and companion seats to be dispersed
   horizontally. In addition, 28 CFR 35.151(g)(2) and 36.406(f)(2) require
   assembly areas that have seating around the field of play or performance area
   to place wheelchair spaces and companion seating all around that field of play
-  or performance area.</p>  
+  or performance area.  
 
 #### Stadium-Style Movie Theaters  
 
-<p>Pursuant to 28 CFR
+Pursuant to 28 CFR
   35.151(g) and 36.406(f), in addition to other obligations, stadium-style movie
   theaters must meet horizontal and vertical dispersion requirements set forth in
   sections 221.2.3.1 and 221.2.3.2 of the 2010 Standards; placement of wheelchair
@@ -4565,16 +4761,18 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   require stadium-style theaters to meet standards of accessibility equal to
   those of non-stadium-style theaters, with larger theaters being required to
   provide accessible seating locations and viewing angles equal to those offered
-  to individuals without disabilities.</p>
-<p>One commenter noted that
+  to individuals without disabilities.  
+
+One commenter noted that
   stadium-style movie theaters, sports arenas, music venues, theaters, and
   concert halls each pose unique conditions that require separate and specific
   standards to accommodate patrons with disabilities, and recommended that the
   Department provide more specific requirements for sports arenas, music venues,
   theaters, and concert halls. The Department has concluded that the 2010
   Standards will provide sufficient flexibility to adapt to the wide variety of
-  assembly venues covered. </p>
-<p><strong>Companion Seats. </strong>Section
+  assembly venues covered.  
+
+**Companion Seats.**  Section
   4.33.3 of the 1991 Standards required at least one fixed companion seat to be
   provided next to each wheelchair space. The 2010 Standards at sections 221.3
   and 802.3 permit companion seats to be movable. Several commenters urged the
@@ -4586,8 +4784,9 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   2010 Standards addresses this problem by requiring the wheelchair space and the
   companion seat to be on the same floor elevation. This solution should prevent
   any vertical discrepancies that are not the direct result of differences in the
-  sizes and configurations of wheelchairs.</p>
-<p><strong>Designated Aisle Seats.</strong> Section
+  sizes and configurations of wheelchairs.  
+
+**Designated Aisle Seats.** Section
   4.1.3(19)(a) of the 1991 Standards requires one percent (1%) of fixed seats in
   assembly areas to be designated aisle seats with either no armrests or folding
   or retractable armrests on the aisle side of the seat. The 2010 Standards, at
@@ -4598,8 +4797,9 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   accessible routes. This option will almost always result in fewer aisle seats
   being designated aisle seats compared to the 1991 Standards. The Department is
   aware that sports facilities typically locate designated aisle seats on, or as
-  near to, accessible routes as permitted by the configuration of the facility.</p>
-<p>One commenter recommended
+  near to, accessible routes as permitted by the configuration of the facility.  
+
+One commenter recommended
   that section 221.4, Designated Aisle Seats, be changed to require that aisle
   seats be on an accessible route, and be integrated and dispersed throughout an
   assembly area. Aisle seats, by their nature, typically are located within the
@@ -4613,19 +4813,22 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   changes in the design of most assembly areas. However, section 221.4 of the
   2004 ADAAG required that designated aisle seats be the aisle seats closest to
   accessible routes. The Department proposed the same provision and concurs in
-  the Access Board&acute;s conclusion and declines to implement further changes.</p>
-<p><strong>Team or Player Seating Areas.</strong> Section 221.2.1.4 of the 2010 Standards requires that at
+  the Access Board&acute;s conclusion and declines to implement further changes.  
+
+**Team or Player Seating Areas.** Section 221.2.1.4 of the 2010 Standards requires that at
   least one wheelchair space compliant with section 802.1 be provided in each
   team or player seating area serving areas of sport activity. For bowling lanes,
   the requirement for a wheelchair space in player seating areas is limited to
-  lanes required to be accessible.</p>
-<p><strong>Lawn Seating.</strong> The 1991
+  lanes required to be accessible.  
+
+**Lawn Seating.** The 1991
   Standards, at section 4.1.1(1), require all areas of newly constructed
   facilities to be accessible, but do not contain a specific scoping requirement
   for lawn seating in assembly areas. The 2010 Standards, at section 221.5, specifically
   require lawn seating areas and exterior overflow seating areas without fixed
-  seats to connect to an accessible route.</p>
-<p><strong>Aisle Stairs and Ramps in Assembly Areas.</strong> Sections 4.1.3 and 4.1.3(4) of the 1991 Standards require
+  seats to connect to an accessible route.  
+
+**Aisle Stairs and Ramps in Assembly Areas.** Sections 4.1.3 and 4.1.3(4) of the 1991 Standards require
   that interior and exterior stairs connecting levels that are not connected by
   an elevator, ramp, or other accessible means of vertical access must comply
   with the technical requirements for stairs set out in section 4.9 of the 1991
@@ -4635,8 +4838,9 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   aisle stairs in assembly areas. Section 210.1, Exception 3 of the 2010
   Standards adds a new exception that exempts aisle stairs in assembly areas from
   section 504&acute;s technical requirements for stairs, including section 505&acute;s
-  technical requirements for handrails.</p>
-<p>Section 4.8.5 of the 1991
+  technical requirements for handrails.  
+
+Section 4.8.5 of the 1991
   Standards exempts aisle ramps that are part of an accessible route from
   providing handrails on the side adjacent to seating. The 2010 Standards, at
   section 405.1, exempt aisle ramps adjacent to seating in assembly areas and not
@@ -4649,11 +4853,11 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   areas, a handrail may be provided at either side or within the aisle width when
   handrails are not provided on both sides of aisle ramps. Section 505.3 states
   that, in assembly areas, handrails need not be continuous in aisles serving
-  seating.</p>  
+  seating.  
 
 #### 222 and 803 Dressing, Fitting, and Locker Rooms  
 
-<p>Dressing rooms, fitting
+Dressing rooms, fitting
   rooms, and locker rooms are required to comply with the accessibility requirements
   of sections 222 and 803 of the 2010 Standards. Where these types of rooms are
   provided in clusters, five percent (5%) but at least one room in each cluster
@@ -4662,8 +4866,9 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   the changed provision for clear floor space alongside the end of the bench.
   Commenters explained that meeting the new requirement would result in a loss of
   sales and inventory space. Other commenters also expressed opposition to the
-  changed requirement in locker rooms for similar reasons. </p>
-<p>The Department reminds
+  changed requirement in locker rooms for similar reasons.  
+
+The Department reminds
   the commenters that the requirements in the 2010 Standards for the clear floor
   space to be beside the short axis of the bench in an accessible dressing,
   fitting, or locker room apply only to new construction and alterations. The
@@ -4676,11 +4881,11 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   So providing the clear floor space at the end of the bench as required by the
   2010 Standards instead of in front of the bench as is allowed by the 1991
   Standards would only be required when the bench in the accessible dressing room
-  is altered or when the entire dressing room area is altered. </p>  
+  is altered or when the entire dressing room area is altered.  
 
 #### 224 and 806 Transient Lodging Guest Rooms  
 
-<p><strong>Scoping.</strong> The minimum
+**Scoping.** The minimum
   number of guest rooms required to be accessible in transient lodging facilities
   is covered by section 224 of the 2010 Standards. Scoping requirements for guest
   rooms with mobility features and guest rooms with communication features are
@@ -4691,8 +4896,9 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   Additionally, not more than ten percent (10%) of the guest rooms required to
   provide mobility features and also equipped with communication features can be
   used to satisfy the minimum number of guest rooms required to provide
-  communication features. </p>
-<p>Some commenters opposed
+  communication features.  
+
+Some commenters opposed
   requirements for guest rooms accessible to individuals with mobility
   disabilities stating that statistics provided by the industry demonstrate that
   all types of accessible guest rooms are unused. They further
@@ -4707,8 +4913,9 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   rooms throughout the country. Accessible guest rooms are used not only by
   individuals using mobility devices such as wheelchairs and scooters, but also
   by individuals with other mobility disabilities including persons who use
-  walkers, crutches, or canes.</p>
-<p>Data provided by the
+  walkers, crutches, or canes.  
+
+Data provided by the
   Disability Statistics Center at the University of California, San Francisco
   demonstrated that the number of adults who use wheelchairs has been increasing
   at the rate of six percent (6%) per year from 1969 to 1999; and by 2010, it was
@@ -4716,8 +4923,9 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   In addition to persons who use wheelchairs, three percent (3%) of adults used
   crutches, canes, walkers, and other mobility devices in 1999; and the number
   was projected to increase to four percent (4%) by 2010. Thus, in 2010, up to
-  six percent (6%) of the population may need accessible guest rooms.</p>
-<p><strong>Dispersion.</strong> The 2010
+  six percent (6%) of the population may need accessible guest rooms.  
+
+**Dispersion.** The 2010
   Standards, in section 224.5, set scoping requirements for dispersion in
   facilities covered by the transient lodging provisions. This section covers
   guest rooms with mobility features and guest rooms with communication features
@@ -4727,8 +4935,9 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   224.5 provides guidance that &quot;factors to be considered in providing an
   equivalent range of options may include, but are not limited to, room size, bed
   size, cost, view, bathroom fixtures such as hot tubs and spas, smoking and
-  nonsmoking, and the number of rooms provided.&quot;</p>
-<p>Commenters asked the
+  nonsmoking, and the number of rooms provided.&quot;  
+
+Commenters asked the
   Department to clarify what is meant by various terms used in section 224.5 such
   as &quot;classes,&quot; &quot;types,&quot; &quot;options,&quot; and &quot;amenities.&quot; Other commenters asked the
   Department to clarify and simplify the dispersion requirements set forth in
@@ -4736,8 +4945,9 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   &quot;amenities.&quot; One commenter expressed concern that views, if considered an
   amenity, would further complicate room categories and force owners and
   operators to make an educated guess. Other commenters stated that views should
-  only be a dispersion criteria if view is a factor for pricing room rates.</p>
-<p>These terms are not to be
+  only be a dispersion criteria if view is a factor for pricing room rates.  
+
+These terms are not to be
   considered terms of art, but should be used as in their normal course. For
   example, &quot;class&quot; is defined by Webster&acute;s Dictionary as &quot;a division by
   quality.&quot; &quot;Type&quot; is defined as &quot;a
@@ -4753,16 +4963,18 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   mountains, a beach, a lake, or other scenery that was considered to be a
   premium. A facility where view was not marketed or requested by guests would
   not factor the view as an amenity for purposes of meeting the dispersion
-  requirement. </p>
-<p>Section 224.5 of the 2010
+  requirement.  
+
+Section 224.5 of the 2010
   Standards requires that guest rooms with mobility features and guest rooms with
   communication features &quot;shall be dispersed among the various classes of guest
   rooms, and shall provide choices of types of guest rooms, number of beds, and
   other amenities comparable to the choices provided to other guests. When the
   minimum number of guest rooms required is not sufficient to allow for complete
   dispersion, guest rooms shall be dispersed in the following priority: guest
-  room type, number of beds and amenities.&quot; </p>
-<p>This general dispersion
+  room type, number of beds and amenities.&quot;  
+
+This general dispersion
   requirement is intended to effectuate Congress&acute; directive that a percentage of
   each class of hotel rooms is to be fully accessible to persons with
   disabilities. See H.R. Rep. No. 101-485
@@ -4772,14 +4984,16 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   occupancy guest rooms with limited features (and accompanying limited price
   tags) to luxury suites with lavish features and choices. The inclusion of
   section 224.5 of the 2010 Standards is not new. Substantially similar language
-  is contained in section 9.1.4 of the 1991 Standards. </p>
-<p>Commenters raised
+  is contained in section 9.1.4 of the 1991 Standards.  
+
+Commenters raised
   concerns that the factors included in the advisory to section 224.5 of the 2010
   Standards have been expanded. The advisory provides: &quot;[f]actors to be considered
   in providing an equivalent range of options may include, but are not limited
   to, room size, bed size, cost, view, bathroom fixtures such as hot tubs and
-  spas, smoking and nonsmoking, and the number of rooms provided.&quot;</p>
-<p>As previously discussed,
+  spas, smoking and nonsmoking, and the number of rooms provided.&quot;  
+
+As previously discussed,
   the advisory materials provided in the 2010 Standards are meant to be
   illustrative and do not set out specific requirements. In this particular
   instance, the advisory materials for section 224.5 set out some of the common
@@ -4789,25 +5003,29 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   of considerations that the Department, in its enforcement efforts since the
   enactment of the ADA, has considered as amenities that should be made available
   to persons with disabilities, just as they are made available to guests without
-  disabilities. </p>
-<p>Commenters offered
+  disabilities.  
+
+Commenters offered
   several suggestions for addressing dispersion. One option included the
   flexibility to use an equivalent facilitation option similar to that provided
-  in section 9.1.4(2) of the 1991 Standards. </p>
-<p>The 2010 Standards
+  in section 9.1.4(2) of the 1991 Standards.  
+
+The 2010 Standards
   eliminated all specific references to equivalent facilitation. Since Congress
   made it clear that each class of hotel room is to be available to individuals
   with disabilities, the Department declines to adopt such a specific limitation
   in favor of the specific requirement for new construction and alterations found
-  in section 224.5 of the 2010 Standards. </p>
-<p>In considering the
+  in section 224.5 of the 2010 Standards.  
+
+In considering the
   comments of the hospitality industry from the ANPRM and the Department&acute;s
   enforcement efforts in this area, the Department sought comment in the NPRM on
   whether the dispersion requirements should be applied proportionally, or
   whether the requirements of section 224.5 of the 2010 Standards would be
   complied with if access to at least one guest room of each type were to be
-  provided. </p>
-<p>One commenter expressed
+  provided.  
+
+One commenter expressed
   concern about requiring different guest room types to be proportionally
   represented in the accessible guest room pool as opposed to just having each
   type represented. Some commenters also expressed concern about accessible guest
@@ -4826,30 +5044,35 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   an exception to the dispersion criteria that applies to both existing and new
   multi-story timeshare facilities. This requested exception waives dispersion
   based on views to the extent that up to eight units may be vertically stacked
-  in a single location.</p>
-<p>Section 224.1.1 of the
+  in a single location.  
+
+Section 224.1.1 of the
   2010 Standards sets scoping requirements for alterations to transient lodging
   guest rooms. The advisory to section 224.1.1 further explains that compliance
   with 224.5 is more likely to be achieved if all of the accessible guest rooms
   are not provided in the same area of the facility, when accessible guest rooms
-  are added as a result of subsequent alterations. </p>
-<p>Some commenters requested
+  are added as a result of subsequent alterations.  
+
+Some commenters requested
   a specific exemption for small hotels of 300 or fewer guest rooms from
   dispersion regarding smoking rooms. The ADA requires that individuals with
   disabilities be provided with the same range of options as persons without
   disabilities, and, therefore, the Department declines to add such an exemption.
   It is noted, however, that the existence of this language in the advisory does
   not require a place of transient lodging that does not offer smoking guest
-  rooms at its facility to do so only for individuals with disabilities. </p>
-<p><strong>Guest Rooms with Mobility Features.</strong> Scoping provisions for guest rooms with mobility features
+  rooms at its facility to do so only for individuals with disabilities.  
+
+**Guest Rooms with Mobility Features.** Scoping provisions for guest rooms with mobility features
   are provided in section 224.2 of the 2010 Standards. Scoping requirements for
   alterations are included in 224.1.1. These scoping requirements in the 2010
-  Standards are consistent with the 1991 Standards. </p>
-<p>One commenter expressed
+  Standards are consistent with the 1991 Standards.  
+
+One commenter expressed
   opposition to the new scoping provisions for altered guest rooms, which,
   according to the commenter, require greater numbers of accessible guest rooms
-  with mobility features.</p>
-<p>Section 224.1.1 of the
+  with mobility features.  
+
+Section 224.1.1 of the
   2010 Standards provides scoping requirements for alterations to guest rooms in
   existing facilities. Section 224.1.1 modifies the scoping requirements for new
   construction in section 224 by limiting the application of section 224
@@ -4861,8 +5084,9 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   requirements are consistent with the requirements in the 1991 Standards.
   Language in the 2010 Standards clarifies the provision of section 104.2 of the
   2010 Standards which requires rounding up values to the next whole number for
-  calculations of percentages in scoping. </p>
-<p><strong>Guest Rooms with Communication Features. </strong>The revisions at section 224.4 of the 2010 Standards effect
+  calculations of percentages in scoping.  
+
+**Guest Rooms with Communication Features.**  The revisions at section 224.4 of the 2010 Standards effect
   no substantive change from the 1991 Standards with respect to the number of
   guest rooms required to provide communication features. The scoping requirement
   is consolidated into a single table, instead of appearing in three sections as
@@ -4872,18 +5096,20 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   that at least one guest room providing mobility features must also provide
   communications features. At least one, but not more than ten percent (10%), of
   the guest rooms required to provide mobility features can also satisfy the
-  minimum number of guest rooms required to provide communication features.</p>
-<p>Commenters suggested that
+  minimum number of guest rooms required to provide communication features.  
+
+Commenters suggested that
   the requirements for scoping and dispersion of guest rooms for persons with
   mobility impairments and guest rooms with communication features are too
-  complex for the industry to effectively implement. </p>
-<p>The Department believes
+  complex for the industry to effectively implement.  
+
+The Department believes
   the requirements for guest rooms with communications features in the 2010
   Standards clarify the requirements necessary to provide equal opportunity for
   travelers with disabilities. Additional technical assistance will be made
-  available to address questions before the rule goes into effect.</p>
-<p><strong>Visible Alarms in Guest Rooms with Communication
-  Features. </strong>The 1991 Standards at sections
+  available to address questions before the rule goes into effect.  
+
+**Visible Alarms in Guest Rooms with Communication Features.**  The 1991 Standards at sections
   9.3.1 and 4.28.4 require transient lodging guest rooms with communication
   features to provide either permanently installed visible alarms that are
   connected to the building fire alarm system or portable visible alarms that are
@@ -4897,21 +5123,24 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   edition). Such guest rooms with communication features are also required by
   section 806.3.2 of the 2010 Standards to be equipped with visible notification
   devices that alert room occupants of incoming telephone calls and a door knock
-  or bell. </p>
-<p>The 2010 Standards add a
+  or bell.  
+
+The 2010 Standards add a
   new exception for alterations to existing facilities that exempts existing fire
   alarm systems from providing visible alarms, unless the fire alarm system
   itself is upgraded or replaced, or a new fire alarm system is installed.
   Transient lodging facilities that alter guest rooms are not required to provide
   permanently installed visible alarms complying with the NFPA 72 if the existing
   fire alarm system has not been upgraded or replaced, or a new fire alarm system
-  has not been installed. </p>
-<p>Commenters representing
+  has not been installed.  
+
+Commenters representing
   small providers of transient lodging raised concerns about the proposed changes
   to prohibit the use of portable visible alarms used in transient lodging guest
   rooms. These commenters recommended retaining requirements that allow the use
-  of portable visible alarms. </p>
-<p>Persons who are deaf or
+  of portable visible alarms.  
+
+Persons who are deaf or
   hard of hearing have reported that portable visible alarms used in transient
   lodging guest rooms are deficient because the alarms are not activated by the
   building fire alarm system, and the alarms do not work when the building power
@@ -4929,8 +5158,9 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   mobility accessible guest rooms, it would not have to relocate such visible
   alarms and other communication features in those rooms to other guest rooms to
   comply with the ten percent (10%) overlap requirement until the alarm system is
-  upgraded or replaced.</p>
-<p>This commenter&acute;s
+  upgraded or replaced.  
+
+This commenter&acute;s
   interpretation and understanding are consistent with the Department&acute;s position
   in this matter. Section 215.4 of the 2010 Standards requires that guest rooms
   required to have communication features be equipped with a fire alarm system
@@ -4944,18 +5174,21 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   fire alarm system is installed. If guest rooms in existing facilities are altered
   and they are required by section 224 of the 2010 Standards to have
   communication features, such guest rooms are required by section 806.3 to have
-  all other communication features including notification devices.</p>
-<p><strong>Vanity Counter Space.</strong> Section
+  all other communication features including notification devices.  
+
+**Vanity Counter Space.** Section
   806.2.4.1 of the 2010 Standards requires that if vanity countertop space is
   provided in inaccessible transient lodging guest bathrooms, comparable vanity
-  space must be provided in accessible transient lodging guest bathrooms. </p>
-<p>A commenter questioned
+  space must be provided in accessible transient lodging guest bathrooms.  
+
+A commenter questioned
   whether in existing facilities vanity countertop space may be provided through
   the addition of a shelf. Another commenter found the term &quot;comparable&quot; vague
   and expressed concern about confusion the new requirement would cause. This
   commenter suggested that the phrase &quot;equal area in square inches&quot; be used
-  instead of comparable vanity space. </p>
-<p>In some circumstances,
+  instead of comparable vanity space.  
+
+In some circumstances,
   the addition of a shelf in an existing facility may be a reasonable way to
   provide a space for travelers with disabilities to use their toiletries and
   other personal items. However, this is a determination that must be made on a
@@ -4963,22 +5196,24 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   continuous surface and need not be exactly the same size as the countertops in
   comparable guest bathrooms. For example, accessible shelving within reach of
   the lavatory could be stacked to provide usable surfaces for toiletries and
-  other personal items. </p>
-<p><strong>Shower and Sauna Doors in Transient Lodging
-  Facilities.</strong> Section 9.4 of the 1991 Standards
+  other personal items.  
+
+**Shower and Sauna Doors in Transient Lodging Facilities.**  
+
+Section 9.4 of the 1991 Standards
   and section 206.5.3 of the 2010 Standards both require passage doors in
   transient lodging guest rooms that do not provide mobility features to provide
   at least 32 inches of clear width. Congress directed this requirement to be
   included so that individuals with disabilities could visit guests in other
-  rooms. <i>See</i> H.
-  Rept. 101-485, pt. 2, at 118 (1990);
+  rooms. <i>See</i> H. Rept. 101-485, pt. 2, at 118 (1990);
   S. Rept. 101-116, at 70 (1989). Section 224.1.2 of the 2010 Standards adds a
   new exception to clarify that shower and sauna doors in such inaccessible guest
   rooms are exempt from the requirement for passage doors to provide at least 32
   inches of clear width. Two commenters requested that saunas and steam rooms in
   existing facilities be exempt from the section 224.1.2 requirement and that the
-  requirement be made applicable to new construction only.</p>
-<p>The exemption to the
+  requirement be made applicable to new construction only.  
+
+The exemption to the
   section 224.1.2 requirement for a 32-inch wide clearance at doors to shower and
   saunas applies only to those showers and saunas in guest rooms which are not
   required to have mobility features. Showers and saunas in other locations,
@@ -4992,27 +5227,29 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   Department believes that owners and operators will have an opportunity to
   provide the required doorway clearance, unless doing so is technically
   infeasible, when an alteration to an existing sauna is undertaken. Therefore,
-  the Department has retained these requirements.</p>
-<p><strong>Platform Lifts in Transient Lodging Guest Rooms and
-  Dwelling Units. </strong>The 1991 Standards, at section
+  the Department has retained these requirements.  
+
+**Platform Lifts in Transient Lodging Guest Rooms and Dwelling Units.**  The 1991 Standards, at section
   4.1.3(5), exception 4, and the 2010 Standards, at sections 206.7 and 206.7.6,
   both limit the locations where platform lifts are permitted to be used as part
   of an accessible route. The 2010 Standards add a new scoping requirement that
   permits platform lifts to be used to connect levels within transient lodging
-  guest rooms and dwelling units with mobility features.</p>  
+  guest rooms and dwelling units with mobility features.  
 
 #### 806 Transient Lodging Guest Rooms  
 
-<p>In the NPRM, the
+In the NPRM, the
   Department included floor plans showing examples of accessible guest rooms and
   bathrooms designs with mobility features to illustrate how compliance with the
   2010 Standards could be accomplished with little or no additional space
-  compared to designs that comply with the 1991 Standards.</p>
-<p>Commenters noted that the
+  compared to designs that comply with the 1991 Standards.  
+
+Commenters noted that the
   Department&acute;s plans showing accessible transient lodging guest rooms compliant
   with the 2010 Standards were not common in the transient lodging industry and
-  also noted that the plans omitted doors at sleeping room closets.</p>
-<p>The Department agrees
+  also noted that the plans omitted doors at sleeping room closets.  
+
+The Department agrees
   that the configuration of the accessible bathrooms is somewhat different from
   past designs used by the industry, but this was done to meet the requirements
   of the 2010 Standards. The plans were provided to show that, with some
@@ -5020,16 +5257,18 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   accessible sleeping room or bathroom with mobility features in new
   construction. The Department has also modified several accessible guest room
   plans to show that doors can be installed on closets and comply with the 2010
-  Standards.</p>
-<p>A commenter stated that
+  Standards.  
+
+A commenter stated that
   the Department&acute;s drawings suggest that the fan coil units for heat and air
   conditioning are overhead, while the typical sleeping room usually has a
   vertical unit, or a packaged terminal air conditioning unit within the room.
   The Department&acute;s drawings are sample plans, showing the layout of the space,
   relationship of elements to each other, and required clear floor and turning
   spaces. It was not the intent of the Department to provide precise locations
-  for all elements, including heating and air conditioning units. </p>
-<p>Commenters noted that in
+  for all elements, including heating and air conditioning units.  
+
+Commenters noted that in
   guest rooms with two beds, each bed was positioned close to a wall, reducing
   access on one side. Another commenter stated that additional housekeeping time
   is needed to clean the room when beds are placed closer to walls. The 2010
@@ -5038,8 +5277,9 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   two bed arrangements with adequate clear width complying with the 1991
   Standards and the 2010 Standards. Additional space can be provided on the other
   side of the beds to facilitate housekeeping as long as the clear floor space
-  between beds is at least 36 inches wide.</p>
-<p>Commenters stated that
+  between beds is at least 36 inches wide.  
+
+Commenters stated that
   chases in sleeping room bathrooms that route plumbing and other utilities can
   present challenges when modifying existing facilities. In multi-story
   facilities, relocating or re-routing these elements may not be possible,
@@ -5049,40 +5289,54 @@ location of controls on the back wall opposite the seat as an alternative. </li>
   altered existing facilities must comply with the 2010 Standards to the extent
   that it is technically feasible to do so. When an alteration cannot fully
   comply because it is technically infeasible to do so, the alteration must still
-  be designed to comply to the greatest extent feasible. </p>
-<p>Commenters noted that on
+  be designed to comply to the greatest extent feasible.  
+
+Commenters noted that on
   some of the Department&acute;s plans where a vanity is located adjacent to a bathtub,
   the vanity may require more maintenance due to exposure to water. The
   Department agrees that it would be advisable that items placed next to a
   bathtub or shower be made of materials that are not susceptible to water
   damage.  
 
-#### Transient Lodging Guest Room Floor Plans and Related Text
-<p>The Department has
+#### Transient Lodging Guest Room Floor Plans and Related Text  
+
+The Department has
   included the following floor plans showing application of the requirements of
   the 2010 Standards without significant loss of guest room living space in
-  transient lodging compared to the 1991 Standards.</p>
+  transient lodging compared to the 1991 Standards.  
 
+{% figure Plan 1A: 13-Foot Wide Accessible Guest Room %}  
+{% asset project-project-images/plan1a_gst-rm.jpg alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards. Features include a standard bathtub with a seat, comparable vanity, clothes closet with swinging doors, and door connecting to adjacent guest room. Furnishings include a king bed and additional seating." %}  
+{% figcaption %}
+The following accessible features are provided in the bathroom:  
+<ul>
+<li>Comparable vanity counter top space (section 806);  
+<li>Bathtub with a lavatory at the control end (section 607.2);  
+<li>Removable bathtub seat (section 607.3);  
+<li>Clearance in front of the bathtub extends its full length and is 30 inches wide min. (section 607.2);  
+<li>Recessed bathtub location permits shorter rear grab bar at water closet (section 604.5.2);  
+<li>Circular turning space in room (section 603.2.1);  
+<li>Required clear floor spaces at fixtures and turning space overlap (section 603.2.2);  
+<li>Turning space includes knee and toe clearance at lavatory (section 304.3);  
+<li>Water closet clearance is 60 inches at back wall and 56 inches deep (section 604.3);  
+<li>Centerline of the water closet at 16-18 inches from side wall (section 604.2); and  
+<li>No other fixtures or obstructions located within required water closet clearance (section 604.3).
+</ul>  
+The following accessible features are provided in the living area:  
+<ul>
+<li>T-shaped turning space (section 304.3.2);  
+<li>Accessible route (section 402);  
+<li>Clear floor space on both sides of the bed (section 806.2.3);  
+<li>Maneuvering clearances at all doors (section 404.2);Accessible operable window (section 309); and  
+<li>Accessible controls for the heat and air conditioning (section 309).
+{% endfigcaption %}
+{% endfigure %}  
 
-<table width="775" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-<td colspan="2">
-<td>Plan 1A: 13-Foot
-Wide Accessible Guest Room</td>
-  <p>This drawing shows an accessible 13-foot wide guest
-room with features that comply with the 2010 Standards. Features include a
-standard bathtub with a seat, comparable vanity, clothes closet with swinging
-doors, and door connecting to adjacent guest room. Furnishings include a king
-bed and additional seating.</p></td>
-  </tr>
-  <tr>
-<td width="326" class="tdboarder">
-  <img src="images/plan1a_gst-rm.jpg" alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards. Features include a standard bathtub with a seat, comparable vanity, clothes closet with swinging doors, and door connecting to adjacent guest room. Furnishings include a king bed and additional seating." width="300" height="500" /></td>
-<td width="449">
-  <p>&nbsp;</p>
-  <p>The following accessible features are provided in the bathroom:</p>
-  <ul class="illustrationtext">
-<li> Comparable vanity counter top space (section 806);</li>
+{% figure Plan 1B: 13-Foot Wide Accessible Guest Room %}
+{% asset project-project-images/plan1b_gst-rm.jpg alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards. Features include a standard bathtub with a seat, comparable vanity, clothes closet with swinging doors, and door connecting to adjacent guest room. Furnishings include two beds."" %}  
+{% figcaption %}
+<ul>
+<li>Comparable vanity counter top space (section 806);</li>
 <li>Bathtub with a lavatory at the control end (section 607.2);</li>
 <li>Removable bathtub seat (section 607.3);</li>
 <li>Clearance in front of the bathtub extends its full length and is 30 inches wide min. (section 607.2);</li>
@@ -5092,117 +5346,62 @@ bed and additional seating.</p></td>
 <li>Turning space includes knee and toe clearance at lavatory (section 304.3);</li>
 <li>Water closet clearance is 60 inches at back wall and 56 inches deep (section 604.3);</li>
 <li>Centerline of the water closet at 16-18 inches from side wall (section 604.2); and</li>
-<li>No other fixtures or obstructions located within required water closet clearance (section 604.3).</li>
-  </ul>
-  <p> The following accessible features are provided in the living area: </p>
-  <ul class="illustrationtext">
-<li>T-shaped turning space (section 304.3.2);</li>
-<li>Accessible route (section 402);</li>
-<li>Clear floor space on both sides of the bed (section 806.2.3);</li>
-<li>Maneuvering clearances at all doors (section 404.2);Accessible operable window (section 309); and</li>
-<li>Accessible controls for the heat and air conditioning (section 309).</li>
-  </ul></td>
-  </tr>
-</table>
-<p>&nbsp;</p>
-<table width="775" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-<td colspan="2" id="main information2">
-<td>Plan 1B: 13-Foot Wide
-Accessible Guest Room</td>
-  <p>This drawing shows an accessible
-13-foot wide guest room with features that comply with the 2010 Standards.
-Features include a standard bathtub with a seat, comparable vanity, clothes
-closet with swinging doors, and door connecting to adjacent guest room.
-Furnishings include two beds.</p></td>
-  </tr>
-  <tr>
-<td width="321" class="tdboarder">
- <img src="images/plan1b_gst-rm.jpg" alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards. Features include a standard bathtub with a seat, comparable vanity, clothes closet with swinging doors, and door connecting to adjacent guest room. Furnishings include two beds." width="300" height="488" /></td>
-<td width="454" valign="top">
-  <p>The following accessible features are provided in the bathroom:</p>
-  <ul>
-<li class="illustrationtext">Comparable vanity counter top space (section 806);</li>
-<li class="illustrationtext">Bathtub with a lavatory at the control end (section 607.2);</li>
-<li class="illustrationtext">Removable bathtub seat (section 607.3);</li>
-<li class="illustrationtext">Clearance in front of the bathtub extends its full length and is 30 inches wide min. (section 607.2);</li>
-<li class="illustrationtext">Recessed bathtub location permits shorter rear grab bar at water closet (section 604.5.2);</li>
-<li class="illustrationtext">Circular turning space in room (section 603.2.1);</li>
-<li class="illustrationtext">Required clear floor spaces at fixtures and turning space overlap (section 603.2.2);</li>
-<li class="illustrationtext">Turning space includes knee and toe clearance at lavatory (section 304.3);</li>
-<li class="illustrationtext">Water closet clearance is 60 inches at back wall and 56 inches deep (section 604.3);</li>
-<li class="illustrationtext">Centerline of the water closet at 16-18 inches from side wall (section 604.2); and</li>
-<li class="illustrationtext">No other fixtures or obstructions located within required water closet clearance (section 604.3);</li>
-  </ul>
-  <p> The following accessible features are provided in the living area:</p>
-  <ul>
-<li class="illustrationtext">T-shaped turning space (section 304.3.2);</li>
-<li class="illustrationtext"> Accessible route (section 402);</li>
-<li class="illustrationtext">Clear floor space between beds (section 806.2.3);</li>
-<li class="illustrationtext">Maneuvering clearances at all doors (section 404.2);</li>
-<li class="illustrationtext">Accessible operable window (section 309); and</li>
-<li class="illustrationtext"> Accessible controls for the heat and air conditioning (section 309).</li>
-  </ul></td>
-  </tr>
-</table>
-<p>&nbsp;</p>
-<table width="775" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-<td colspan="2" id="main information2">
-<td>Plan 2A: 13-Foot Wide
-Accessible Guest Room</td>
-  <p>This drawing shows an accessible
+<li>No other fixtures or obstructions located within required water closet clearance (section 604.3);</li>
+</ul>
+{% endfigcaption %}
+{% endfigure %}
+
+{% figure Plan 2A: 13-Foot Wide Accessible Guest Room %}
+{% asset project-project-images/pla2a_gst-rm.jpg alt="This drawing shows an accessible
 13-foot wide guest room with features that comply with the 2010 Standards.
 Features include a standard roll-in shower with a seat, comparable vanity,
 wardrobe, and door connecting to adjacent guest room. Furnishings include a
-king bed and additional seating.</p></td>
-  </tr>
-  <tr>
-<td width="327" class="tdboarder">
-  <img src="images/plan2a_gst-rm.jpg" alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards. Features include a standard roll-in shower with a seat, comparable vanity, wardrobe, and door connecting to adjacent guest room. Furnishings include a king bed and additional seating." width="300" height="507" /></td>
-<td width="448" valign="top">
-  <p>The following accessible features are provided in the bathroom:</p>
-  <ul>
-<li class="illustrationtext">Comparable vanity counter top space (section 806);</li>
-<li class="illustrationtext"> Standard roll-in type shower with folding seat (section 608.2.2);</li>
-<li class="illustrationtext">Recessed roll-in shower location permits shorter rear grab bar at water closet (section 604.5.2);</li>
-<li class="illustrationtext">Clear floor space adjacent to shower min. 30 inches wide by 60 inches long (section 608.2.2);</li>
-<li class="illustrationtext">Circular turning space in room (section 603.2.1);</li>
-<li class="illustrationtext"> Required clear floor spaces at fixtures and turning space overlap (section 603.2.2);</li>
-<li class="illustrationtext">Turning space includes knee and toe clearance at lavatory (section 304.3);</li>
-<li class="illustrationtext">Water closet clearance is 60 inches at back wall and 56 inches deep (section 604.3);</li>
-<li class="illustrationtext">Centerline of the water closet at 16-18 inches from side wall (section 604.2); and</li>
-<li class="illustrationtext"> No other fixtures or obstructions located within required water closet clearance (section 604.3).</li>
-  </ul>
-  <p> The following accessible features are provided in the living area:</p>
-  <ul>
-<li class="illustrationtext">T-shaped turning space (section 304.3.2);</li>
-<li class="illustrationtext">Accessible route (section 402);</li>
-<li class="illustrationtext">Clear floor space on both sides of the bed (section 806.2.3);</li>
-<li class="illustrationtext">Maneuvering clearances at all doors (section 404.2);</li>
-<li class="illustrationtext">Accessible operable window (section 309); and</li>
-<li class="illustrationtext">Accessible controls for the heat and air conditioning (section 309).</li>
-  </ul>
-  <p>&nbsp;</p></td>
-  </tr>
-</table>
-<p>&nbsp;</p>
-<table width="775" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-<td colspan="2" id="main information2">
-<td>Plan 2B: 13-Foot Wide
-Accessible Guest Room</td>
-  <p>This drawing shows an accessible
+king bed and additional seating." %}  
+{% figcaption %}
+<ul>
+<li>Comparable vanity counter top space (section 806);</li>
+<li>Bathtub with a lavatory at the control end (section 607.2);</li>
+<li>Removable bathtub seat (section 607.3);</li>
+<li>Clearance in front of the bathtub extends its full length and is 30 inches wide min. (section 607.2);</li>
+<li>Recessed bathtub location permits shorter rear grab bar at water closet (section 604.5.2);</li>
+<li>Circular turning space in room (section 603.2.1);</li>
+<li>Required clear floor spaces at fixtures and turning space overlap (section 603.2.2);</li>
+<li>Turning space includes knee and toe clearance at lavatory (section 304.3);</li>
+<li>Water closet clearance is 60 inches at back wall and 56 inches deep (section 604.3);</li>
+<li>Centerline of the water closet at 16-18 inches from side wall (section 604.2); and</li>
+<li>No other fixtures or obstructions located within required water closet clearance (section 604.3);</li>
+</ul>
+{% endfigcaption %}
+{% endfigure %}
+
+{% figure Plan 2A: 13-Foot Wide Accessible Guest Room %}
+{% asset project-project-images/pla2a_gst-rm.jpg alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards. Features include a standard roll-in shower with a seat, comparable vanity, wardrobe, and door connecting to adjacent guest room. Furnishings include a king bed and additional seating." %}  
+{% figcaption %}
+<ul>
+<li>Comparable vanity counter top space (section 806);</li>
+<li>Bathtub with a lavatory at the control end (section 607.2);</li>
+<li>Removable bathtub seat (section 607.3);</li>
+<li>Clearance in front of the bathtub extends its full length and is 30 inches wide min. (section 607.2);</li>
+<li>Recessed bathtub location permits shorter rear grab bar at water closet (section 604.5.2);</li>
+<li>Circular turning space in room (section 603.2.1);</li>
+<li>Required clear floor spaces at fixtures and turning space overlap (section 603.2.2);</li>
+<li>Turning space includes knee and toe clearance at lavatory (section 304.3);</li>
+<li>Water closet clearance is 60 inches at back wall and 56 inches deep (section 604.3);</li>
+<li>Centerline of the water closet at 16-18 inches from side wall (section 604.2); and</li>
+<li>No other fixtures or obstructions located within required water closet clearance (section 604.3);</li>
+</ul>
+{% endfigcaption %}
+{% endfigure %}
+
+
+
+{% figure Plan 2B: 13-Foot Wide Accessible Guest Room %}
+{% asset project-images/plan2b_gst-rm.jpg alt="This drawing shows an accessible
 13-foot wide guest room with features that comply with the 2010 Standards.
 Features include an alternate roll-in shower with a seat, comparable vanity,
 wardrobe, and door connecting to adjacent guest room. Furnishings include two
-beds.</p></td>
-  </tr>
-  <tr>
-<td width="321" class="tdboarder"><img src="images/plan2b_gst-rm.jpg" alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards. Features include an alternate roll-in shower with a seat, comparable vanity, wardrobe, and door connecting to adjacent guest room. Furnishings include two beds." width="300" height="504" /></td>
-<td width="454">
-
-<p>The following accessible features are provided in the bathroom: </p>
+beds." %}  
+{% figcaption %}
 <ul>
   <li>Comparable vanity counter top space (section 806);</li>
   <li>Alternate roll-in type shower with folding seat is 36 inches deep and 60 inches wide (section 608.2.3);</li>
@@ -5214,8 +5413,10 @@ beds.</p></td>
   <li>Water closet clearance is 60 inches at back wall and 56 inches deep (section 604.3);</li>
   <li>Centerline of the water closet at 16-18 inches from side wall (section 604.2); and</li>
   <li> No other fixtures or obstructions located within required water closet clearance (section 604.3)</li>
-</ul>
-<p> The following accessible features are provided in the living area:</p>
+</ul>  
+
+The following accessible features are provided in the living area:  
+
 <ul>
   <li>T-shaped turning space (section 304.3.2);</li>
   <li>Accessible route (section 402);</li>
@@ -5223,28 +5424,18 @@ beds.</p></td>
   <li>Maneuvering clearances at all doors (section 404.2);</li>
   <li>Accessible operable window (section 309); and</li>
   <li>Accessible controls for the heat and air conditioning (section 309).</li>
-</ul></td>
-  </tr>
-</table>
-<p>&nbsp;</p>
-<table width="775" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-<td colspan="2" id="main information2">
-<td>Plan 3A: 12-Foot Wide
-Accessible Guest Room</td>
-  <p>This drawing shows an accessible
-12-foot wide guest room with features that comply with the 2010 Standards.
+</ul>
+{% endfigcaption %}
+{% endfigure %}  
+
+{% figure Plan 3A: 12-Foot Wide Accessible Guest Room %}
+{% asset project-images/plan3a_gst-rm.jpg alt="This drawing shows an accessible 12-foot wide guest room with features that comply with the 2010 Standards.
 Features include a bathtub with a seat, comparable vanity, open clothes closet,
 and door connecting to adjacent guest room. Furnishings include a king bed and
-additional seating.</p></td>
-  </tr>
-  <tr>
-<td width="321" class="tdboarder">
-  <img src="images/plan3a_gst-rm.jpg" alt="This drawing shows an accessible 12-foot wide guest room with features that comply with the 2010 Standards. Features include a bathtub with a seat, comparable vanity, open clothes closet, and door connecting to adjacent guest room. Furnishings include a king bed and additional seating." width="300" height="543" /></td>
-<td width="454">
-
-<p>The following accessible features are provided in the<br />
-  bathroom:</p>
+additional seating." %}  
+{% figcaption %}
+The following accessible features are provided in the<br />
+  bathroom:  
 <ul>
   <li> Comparable vanity counter top space (section
 806);</li>
@@ -5266,9 +5457,10 @@ and 56 inches deep (section 604.3);</li>
 side wall (section 604.2); and</li>
   <li>No other fixtures or obstructions located within
 required water closet clearance (section 604.3). </li>
-</ul>
-<p>The following accessible features are provided in the
-  living area:</p>
+</ul>  
+
+The following accessible features are provided in the
+  living area:  
 <ul>
   <li>T-shaped turning space (section 304.3.2);</li>
   <li>Accessible route (section 402);</li>
@@ -5279,25 +5471,18 @@ required water closet clearance (section 604.3). </li>
   <li>Accessible operable window (section 309); and</li>
   <li>Accessible controls for the heat and air
 conditioning (section 309).</li>
-</ul></td>
-  </tr>
-</table>
-<p>&nbsp;</p>
-<table width="775" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-<td colspan="2" id="main information2">
-  <td>Plan 3B: 12-Foot Wide Accessible Guest Room</td>
-  <p>This drawing shows an accessible
+</ul>
+{% endfigcaption %}
+{% endfigure %}
+
+
+{% figure Plan 3B: 12-Foot Wide Accessible Guest Room %}
+{% asset project-images/plan3b_gst-rm.jpg alt="This drawing shows an accessible
 12-foot wide guest room with features that comply with the 2010 Standards.
 Features include a standard roll-in shower with a seat, comparable vanity,
 wardrobe, and door connecting to adjacent guest room. Furnishings include two
-beds.</p></td>
-  </tr>
-  <tr>
-<td width="320">
-  <img src="images/plan3b_gst-rm.jpg" alt="This drawing shows an accessible 12-foot wide guest room with features that comply with the 2010 Standards. Features include a standard roll-in shower with a seat, comparable vanity, wardrobe, and door connecting to adjacent guest room. Furnishings include two beds." width="300" height="546" /></td>
-<td width="455">
-
+beds." %}  
+{% figcaption %}
 <p>The following accessible features are provided in the bathroom: </p>
 <ul>
   <li>The following accessible features are provided in the
@@ -5334,26 +5519,14 @@ side wall (section 604.2); and</li>
   <li>Accessible operable window (section 309); and</li>
   <li>Accessible controls for the heat and air
 conditioning (section 309).</li>
-</ul></td>
-  </tr>
-</table>
-<p>&nbsp;</p>
-<table width="775" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-<td colspan="2" id="main information2">
-<td>Plan 4A: 13-Foot Wide
-Accessible Guest Room</td>
-  <p>This drawing shows an accessible
-13-foot wide guest room with features that comply with the 2010 Standards.
-Features include a standard roll-in shower with a seat, comparable vanity,
-clothes closet with swinging doors, and door connecting to adjacent guest room.
-Furnishings include a king bed and additional seating.</p></td>
-  </tr>
-  <tr>
-<td width="321" class="tdboarder">
-  <img src="images/plan4a_gst-rm.jpg" alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards. Features include a standard roll-in shower with a seat, comparable vanity, clothes closet with swinging doors, and door connecting to adjacent guest room. Furnishings include a king bed and additional seating. " width="300" height="506" /></td>
-<td width="454" valign="top">
+</ul>
+{% endfigcaption %}
+{% endfigure %}
 
+
+{% figure Plan 4A: 13-Foot Wide Accessible Guest Room %}
+{% asset project-images/plan4a_gst-rm.jpg alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards. Features include a standard roll-in shower with a seat, comparable vanity, clothes closet with swinging doors, and door connecting to adjacent guest room. Furnishings include a king bed and additional seating." %}  
+{% figcaption %}
 <p>The following accessible features are provided in the
   bathroom:</p>
 <ul>
@@ -5393,27 +5566,14 @@ entry door (section 603.2.3 exception 2). </li>
   <li>Accessible controls for the heat and air
 conditioning (section 309).
 13&rsquo;-0&rdquo;  7&rsquo;-6&rdquo;  15&rsquo;-4</li>
-</ul></td>
-  </tr>
-</table>
-<p></p>
-<p></p>
-<table width="775" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-<td colspan="2" id="main information2">
-<td>Plan 4B: 13-Foot Wide
-Accessible Guest Room</td>
-  <p>This drawing shows an accessible
-13-foot wide guest room with features that comply with the 2010 Standards.
-Features include an alternate roll-in shower with a seat, comparable vanity,
-wardrobe, and door connecting to adjacent guest room. Furnishings include two
-beds.</p></td>
-  </tr>
-  <tr>
-<td width="321" class="tdboarder">
-  <img src="images/plan4b_gst-rm.jpg" alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards. Features include an alternate roll-in shower with a seat, comparable vanity, wardrobe, and door connecting to adjacent guest room. Furnishings include two beds. " width="300" height="498" /></td>
-<td width="454" valign="top">
+</ul>
+{% endfigcaption %}
+{% endfigure %}  
 
+
+{% figure Plan 4B: 13-Foot Wide Accessible Guest Room %}
+{% asset project-images/plan4b_gst-rm.jpg alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards. Features include an alternate roll-in shower with a seat, comparable vanity, wardrobe, and door connecting to adjacent guest room. Furnishings include two beds." %}  
+{% figcaption %}
 <p>The following accessible features are provided in the
   bathroom:</p>
 <ul>
@@ -5450,10 +5610,13 @@ required water closet clearance (section 604.3). </li>
   <li> Accessible operable window (section 309); and</li>
   <li>Accessible controls for the heat and air
 conditioning (section 309).</li>
-</ul></td>
-  </tr>
-</table>
-<p>&nbsp;</p>
+</ul>
+{% endcaption %}
+{% endfigure %}
+
+Plan 5A: 13-Foot Wide Accessible Guest Room
+
+
 <table width="775" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
 <td colspan="2" id="main information2">
@@ -5467,7 +5630,7 @@ a king bed and additional seating.</p></td>
   </tr>
   <tr>
 <td width="321" class="tdboarder">
-  <img src="images/plan5a_gst-rm.jpg" alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards. Features include a transfer shower, comparable vanity, clothes closet with swinging door, and door connecting to adjacent guest room. Furnishings include a king bed and additional seating." width="300" height="496" /></td>
+  <img src="project-images/plan5a_gst-rm.jpg" alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards. Features include a transfer shower, comparable vanity, clothes closet with swinging door, and door connecting to adjacent guest room. Furnishings include a king bed and additional seating." width="300" height="496" /></td>
 <td width="454">
   The following accessible features are provided in the bathroom:
 <ul>
@@ -5493,7 +5656,12 @@ a king bed and additional seating.</p></td>
 </ul></td>
   </tr>
 </table>
-<p>&nbsp;</p>
+
+
+Plan 5B: 13-Foot Wide Accessible Guest Room
+
+
+
 <table width="775" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
 <td colspan="2" id="main information2">
@@ -5506,7 +5674,7 @@ connecting to adjacent guest room. Furnishings include two beds.</p></td>
   </tr>
   <tr>
 <td width="321" class="tdboarder">
-  <img src="images/plan5b_gst-rm.jpg" alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards. Features include a transfer shower, comparable vanity, open clothes closet, and door connecting to adjacent guest room. Furnishings include two beds." width="300" height="500" /></td>
+  <img src="project-images/plan5b_gst-rm.jpg" alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards. Features include a transfer shower, comparable vanity, open clothes closet, and door connecting to adjacent guest room. Furnishings include two beds." width="300" height="500" /></td>
 <td width="454">
 The following accessible features are provided in the bathroom:<br />
   <ul>
@@ -5535,7 +5703,10 @@ The following accessible features are provided in the bathroom:<br />
 </ul></td>
   </tr>
 </table>
-<p>&nbsp;</p>
+
+
+Plan 6A: 12-Foot Wide Accessible Guest Room
+
 <table width="775" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
 <td colspan="2" id="main information2">
@@ -5550,7 +5721,7 @@ additional seating.</p></td>
   </tr>
   <tr>
 <td width="321" class="tdboarder">
-  <img src="images/plan6a_gst-rm.jpg" alt="This drawing shows an accessible 12-foot wide guest room with features that comply with the 2010 Standards. Features include a transfer shower, water closet length (rim to rear wall) 24 inches maximum, comparable vanity, clothes closet with swinging door, and door connecting to adjacent guest room. Furnishings include a king bed and additional seating." width="300" height="544" /></td>
+  <img src="project-images/plan6a_gst-rm.jpg" alt="This drawing shows an accessible 12-foot wide guest room with features that comply with the 2010 Standards. Features include a transfer shower, water closet length (rim to rear wall) 24 inches maximum, comparable vanity, clothes closet with swinging door, and door connecting to adjacent guest room. Furnishings include a king bed and additional seating." width="300" height="544" /></td>
 <td width="454" valign="top">
 
 <p>The following accessible features are provided in the bathroom: </p>
@@ -5578,7 +5749,11 @@ additional seating.</p></td>
   <p>&nbsp;</p></td>
   </tr>
 </table>
-<p>&nbsp;</p>
+
+
+Plan 6B: 12-Foot Wide Accessible Guest Room
+
+
 <table width="775" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
 <td colspan="2" id="main information2">
@@ -5592,7 +5767,7 @@ guest room. Furnishings include two beds.</p></td>
   </tr>
   <tr>
 <td width="323" class="tdboarder">
-  <img src="images/plan6b_gst-rm.jpg" alt="This drawing shows an accessible 12-foot wide guest room with features that comply with the 2010 Standards. Features include a transfer shower, water closet length (rim to rear wall) 24 inches maximum, comparable vanity, clothes closet with swinging door, and door connecting to adjacent guest room. Furnishings include a king bed and additional seating." width="300" height="551" /></td>
+  <img src="project-images/plan6b_gst-rm.jpg" alt="This drawing shows an accessible 12-foot wide guest room with features that comply with the 2010 Standards. Features include a transfer shower, water closet length (rim to rear wall) 24 inches maximum, comparable vanity, clothes closet with swinging door, and door connecting to adjacent guest room. Furnishings include a king bed and additional seating." width="300" height="551" /></td>
 <td width="452">
 
 <p>The following accessible features are provided in the bathroom: </p>
@@ -5624,33 +5799,38 @@ conditioning (section 309).</li>
 
 #### 225 and 811 Storage  
 
-<p>Section 225 of the 2010
+Section 225 of the 2010
   Standards provides that where storage is provided in accessible spaces, at
   least one of each type shall comply with the 2010 Standards. Self-service shelving is required to be
   on an accessible route, but is not required to comply with the reach range
-  requirements. These requirements are consistent with the 1991 Standards. </p>
-<p>Section 225.3 adds a new
+  requirements. These requirements are consistent with the 1991 Standards.  
+
+Section 225.3 adds a new
   scoping requirement for self-storage facilities. Facilities with 200 or fewer
   storage spaces will be required to make at least five percent (5%) of the
   storage spaces accessible. Facilities with more than 200 storage spaces will be
   required to provide ten accessible storage spaces, plus two percent (2%) of the
-  total storage spaces over 200. </p>
-<p>Sections 225.2.1 and 811
+  total storage spaces over 200.  
+
+Sections 225.2.1 and 811
   of the 2010 Standards require lockers to meet accessibility requirements. Where
   lockers are provided in clusters, five percent (5%) but at least one locker in
   each cluster will have to comply. Under the 1991 Standards, only one locker of
-  each type provided must be accessible. </p>
-<p>Commenters recommended
+  each type provided must be accessible.  
+
+Commenters recommended
   that the Department adopt language requiring public accommodations to provide
   access to all self-service shelves and display areas available to customers.
   Other commenters opposed this requirement as too burdensome to retail and other
   entities and claimed that significant revenue would be lost if this requirement
-  were to be implemented. </p>
-<p>Other commenters raised
+  were to be implemented.  
+
+Other commenters raised
   concerns that section 225.2.2 of the 2010 Standards scopes only self-service
   shelving whereas section 4.1.3(12)(b) of the 1991 Standards applies to both
-  &quot;shelves or display units.&quot;</p>
-<p>Although &quot;display units&quot;
+  &quot;shelves or display units.&quot;  
+
+Although &quot;display units&quot;
   were not included in the 2010 Standards under the belief that displays are not
   to be touched and therefore by definition cannot be &quot;self-service,&quot; both the
   2010 Standards and the 1991 Standards should be read broadly to apply to all
@@ -5658,17 +5838,17 @@ conditioning (section 309).</li>
   fittings, including self-service display units. Such fixtures are permitted to
   be installed above or below the reach ranges possible for many persons with
   disabilities so that space available for merchandising is used as efficiently
-  as possible. </p>  
-
+  as possible.  
 
 #### 226 and 902 Dining Surfaces and Work Surfaces  
 
-<p>Section 226.1 of the 2010
+Section 226.1 of the 2010
   Standards require that where dining surfaces are provided for the consumption
   of food or drink, at least five percent (5%) of the seating spaces and standing
   spaces at the dining surfaces comply with section 902. Section 902.2 requires
-  the provision of accessible knee and toe clearance.</p>
-<p>Commenters stated that
+  the provision of accessible knee and toe clearance.  
+
+Commenters stated that
   basing accessible seating on seating spaces and standing spaces potentially
   represents a significant increase in scoping, particularly given the ambiguity
   in what represents a &quot;standing space&quot; and urged a return to the 1991 Standard
@@ -5680,19 +5860,20 @@ conditioning (section 309).</li>
   greater flexibility by allowing designers to disperse accessible seating and
   standing spaces throughout the dining area. Human factors data, which is
   readily available to designers, provides information about the amount of space
-  required for both eating and drinking while seated or standing.</p>  
+  required for both eating and drinking while seated or standing.  
 
 #### 227 and 904 Sales and Service  
 
-<p><strong>Check-Out Aisles and Sales and Service Counters. </strong>The 1991 Standards, at section 7.2, and the 2010 Standards,
+**Check-Out Aisles and Sales and Service Counters.**  The 1991 Standards, at section 7.2, and the 2010 Standards,
   at section 904.4, contain technical requirements for sales and service counters.
   The 1991 Standards generally require sales and service counters to provide an
   accessible portion at least 36 inches long and no higher than 36 inches above
   the finish floor. The nondiscrimination requirements of the ADA regulations
   require the level of service provided at the accessible portion of any sales
   and service counter to be the same as the level of service provided at the
-  inaccessible portions of the counter. </p>
-<p>The 2010 Standards
+  inaccessible portions of the counter.  
+
+The 2010 Standards
   specify different lengths for the accessible portion of sales and service
   counters based on the type of approach provided. Where a forward approach is
   provided, the accessible portion of the counter must be at least 30 inches long
@@ -5706,34 +5887,39 @@ conditioning (section 309).</li>
   clear of merchandise, equipment, and other items so that the accessible part of
   the counter is readily accessible to and usable by individuals with
   disabilities. The accessible part of the counter must also be staffed and
-  provide an equivalent level of service as that provided to all customers.</p>
-<p>Where clear floor space
+  provide an equivalent level of service as that provided to all customers.  
+
+Where clear floor space
   for a parallel approach is provided, the accessible portion of the counter must
   be at least 36 inches long and no higher than 36 inches above the finish floor.
   A clear floor or ground space that is at least 48 inches long x 30 inches wide must
   be provided positioned for a parallel approach adjacent to the 36-inch minimum
-  length of counter. </p>
-<p>Section 904.4 of the 2010
+  length of counter.  
+
+Section 904.4 of the 2010
   Standards includes an exception for alterations to sales and service counters
   in existing facilities. It permits the accessible portion of the counter to be
   at least 24 inches long, where providing a longer accessible counter will
   result in a reduction in the number of existing counters at work stations or
   existing mailboxes, provided that the required clear floor or ground space is
-  centered on the accessible length of the counter. </p>
-<p>Section 904.4 of the 2010
+  centered on the accessible length of the counter.  
+
+Section 904.4 of the 2010
   Standards also clarifies that the accessible portion of the counter must extend
   the same depth as the sales or service counter top. Where the counter is a
   single-height counter, this requirement applies across the entire depth of the
   counter top. Where the counter is a split-height counter, this requirement
   applies only to the customer side of the counter top. The employee-side of the
-  counter top may be higher or lower than the customer-side of the counter top.</p>
-<p>Commenters recommended that the Department consider a regulatory alternative exempting small retailers
+  counter top may be higher or lower than the customer-side of the counter top.  
+
+Commenters recommended that the Department consider a regulatory alternative exempting small retailers
   from the new knee and toe clearance requirement and retaining existing
   wheelchair accessibility standards for sales and service counters. These
   commenters believed that the knee and toe clearance requirements will cause a
   reduction in the sales and inventory space at check-out aisles and other sales
-  and service counters. </p>
-<p>Both the 1991 and the
+  and service counters.  
+
+Both the 1991 and the
   2010 Standards permit covered entities to determine whether they will provide a
   forward or a parallel approach to sales and service counters. So any facility
   that does not wish to provide the knee or toe clearance required for a front
@@ -5742,52 +5928,56 @@ conditioning (section 309).</li>
   clearance is not adequate to provide accessibility because the person using a
   wheelchair will be prevented from coming close enough to the counter to see the
   merchandise or to transact business with a degree of convenience that is
-  comparable to that provided to other customers. </p>
-<p>A parallel approach to
+  comparable to that provided to other customers.  
+
+A parallel approach to
   sales and service counters also can provide the accessibility required by the
   2010 Standards. Individuals using wheelchairs can approach sales and service
   counters from the side, and, assuming the necessary elements, features, or
   merchandise necessary to complete a business transaction are within the reach
   range requirements for a side approach, the needs of individuals with
-  disabilities can be met effectively. </p>
-<p>Section 227 of the 2010
+  disabilities can be met effectively.  
+
+Section 227 of the 2010
   Standards clarifies the requirements for food service lines. Queues and waiting
   lines serving counters or check-out aisles, including those for food service,
-  must be accessible to individuals with disabilities. </p>  
+  must be accessible to individuals with disabilities.  
 
 #### 229 Windows  
 
-<p>A new requirement at
+A new requirement at
   section 229.1 of the 2010 Standards provides that if operable windows are
   provided for building users, then at least one window in an accessible space
-  must be equipped with controls that comply with section 309. </p>
-<p>Commenters generally
+  must be equipped with controls that comply with section 309.  
+
+Commenters generally
   supported this provision but some commenters asked whether the maximum
   five-pounds (5 lbs.) of force requirement of section 309 applies to the window
   latch itself or only to the force required to open the window. Section 309 applies to all controls and
   operating mechanisms, so the latch must comply with the requirement to operate
-  with no more than five pounds of force (5 lbf).</p>  
+  with no more than five pounds of force (5 lbf).  
 
 #### 230 and 708 Two-Way Communication Systems  
 
-<p>New provisions of the
+New provisions of the
   2010 Standards at sections 230.1 and 708 require two-way communications systems
   to be equipped with visible as well as audible signals.</p>  
 
 #### 231 and 808 Judicial Facilities and Courtrooms  
 
-<p>Section 231 of the 2010
+Section 231 of the 2010
   Standards adds requirements for accessible courtrooms, holding cells, and
-  visiting areas.</p>
-<p><strong>Accessible Courtroom Stations.</strong> Sections 231.2, 808, 304, 305, and 902 of the 2010
+  visiting areas.  
+
+**Accessible Courtroom Stations.** Sections 231.2, 808, 304, 305, and 902 of the 2010
   Standards provide increased accessibility at courtroom stations. Clear floor
   space for a forward approach is required for all courtroom stations (judges&acute;
   benches, clerks&acute; stations, bailiffs&acute; stations, deputy clerks&acute; stations, court
   reporters&acute; stations, and litigants&acute; and counsel stations). Other applicable
   specifications include accessible work surface heights and toe and knee
-  clearance. </p>
-<p><strong>Accessible Jury Boxes, Attorney Areas, and Witness
-  Stands.</strong> Section 206.2.4 of the 2010
+  clearance.  
+
+**Accessible Jury Boxes, Attorney Areas, and Witness Stands.**  Section 206.2.4 of the 2010
   Standards requires, in new construction and alterations, at least one
   accessible route to connect accessible building or facility entrances with all
   accessible spaces and elements within the building or facility that are
@@ -5797,14 +5987,15 @@ conditioning (section 309).</li>
   such as judge&acute;s benches, to be adaptable does not apply to areas of the
   courtroom likely to be used by members of the public such as jury areas,
   attorney areas, or witness stands. These areas must be on an accessible route
-  at the time of initial construction or alteration. </p>
-<p><strong>Raised Courtroom Stations Not for Members of the
-  Public.</strong> Section 206.2.4, Exception 1 of
+  at the time of initial construction or alteration.  
+
+**Raised Courtroom Stations Not for Members of the Public.**  Section 206.2.4, Exception 1 of
   the 2010 Standards provides that raised courtroom stations that are used by
   judges, clerks, bailiffs, and court reporters will not have to provide full
   vertical access when first constructed or altered if they are constructed to be
-  easily adaptable to provide vertical accessibility. </p>
-<p>One commenter suggested
+  easily adaptable to provide vertical accessibility.  
+
+One commenter suggested
   that a sufficient number of accessible benches for judges with disabilities, in
   addition to requiring accessible witness stands and attorney areas, be
   required. The Department believes
@@ -5815,8 +6006,9 @@ conditioning (section 309).</li>
   access when first constructed or altered as long as the required clear floor
   space, maneuvering space, and electrical service, where appropriate, is
   provided at the time of new construction or can be achieved without substantial
-  reconstruction during alterations. </p>
-<p>A commenter asserted that
+  reconstruction during alterations.  
+
+A commenter asserted that
   there is nothing inherent in clerks&acute; stations, jury boxes, and witness stands
   that require them to be raised. While it would, of course, be easiest to
   provide access by eliminating height differences among courtroom elements, the
@@ -5827,8 +6019,9 @@ conditioning (section 309).</li>
   maintain the security of the participants all affect the design of the space.
   The Department believes that the 2010 Standards have been drafted in a way that
   will achieve accessibility without unduly constraining the ability of a
-  designer to address the other considerations that are unique to courtrooms.</p>
-<p>Commenters argued that
+  designer to address the other considerations that are unique to courtrooms.  
+
+Commenters argued that
   permitting courtroom stations to be adaptable rather than fully accessible at
   the time of new construction likely will lead to discrimination in hiring of
   clerks, court reporters, and other court staff. The Department believes that
@@ -5838,11 +6031,11 @@ conditioning (section 309).</li>
   2010 Standards. Elevated work stations for court employees may be designed to
   add vertical access as needed. Since the original design must provide the
   proper space and electrical wiring to install vertical access, the change
-  should be easily accomplished. </p>  
+  should be easily accomplished.  
 
 #### 232 Detention Facilities and Correctional Facilities  
 
-<p>Section 232 of the 2010
+Section 232 of the 2010
   Standards establishes requirements for the design and construction of cells,
   medical care facilities, and visiting areas in detention facilities and in correctional
   facilities. Section 35.151(k) of the Department&acute;s title II rule provides
@@ -5851,24 +6044,23 @@ conditioning (section 309).</li>
   in a minimum of three percent (3%) of cells, but no fewer than one cell.
   Section 232.2 of the 2010 Standards provides scoping for newly constructed
   cells with communications features requiring a minimum of two percent (2%) of
-  cells, but at least one cell, to have communication features. </p>
-<p>The Department&acute;s title II
+  cells, but at least one cell, to have communication features.  
+
+The Department&acute;s title II
   rule at &sect; 35.151(k) also specifies scoping for alterations to detention and
   correctional facilities. Generally a minimum of three percent (3%), but no
   fewer than one, of the total number of altered cells must comply with section
-  807.2 of the 2010 Standards and be provided within each facility. Altered cells with mobility features
-  must be provided in each classification level, including administrative and
+  807.2 of the 2010 Standards and be provided within each facility. Altered cells with mobility features must be provided in each classification level, including administrative and
   disciplinary segregation, each use and service area, and special program. The
   Department notes that the three percent (3%), but no fewer than one,
   requirement is a minimum. As corrections systems plan for new facilities or
   alterations, the Department urges planners to include in their population
   estimates a projection of the numbers of inmates with disabilities so as to
-  have sufficient numbers of accessible cells to meet inmate needs.</p>  
+  have sufficient numbers of accessible cells to meet inmate needs.  
 
 #### 233 Residential Facilities  
 
-<p><strong>Homeless Shelters, Group Homes, and Similar Social
-  Service Establishments.</strong> Section 233 of the 2010 Standards
+**Homeless Shelters, Group Homes, and Similar Social Service Establishments.** Section 233 of the 2010 Standards
   includes specific scoping and technical provisions that apply to new
   construction and alteration of residential facilities. In the 1991 Standards
   scoping and technical requirements for homeless shelters, group homes, and
@@ -5884,9 +6076,9 @@ conditioning (section 309).</li>
   least one roll-in shower compliant with section 608.2.2 or section 608.2.3 of
   the 2010 Standards must be provided. Where separate shower facilities are
   provided for men and for women, at least one roll-in shower must be provided
-  for each gender. </p>
-<p><strong>Housing Operated By or On Behalf of Places of
-  Education.</strong> Housing at a place of education
+  for each gender.  
+
+**Housing Operated By or On Behalf of Places of Education.** Housing at a place of education
   includes: residence halls, dormitories, suites, apartments, or other places of
   residence operated by or on behalf of places of education. Residence halls or
   dormitories operated by or on behalf of places of education are covered by the
@@ -5895,14 +6087,16 @@ conditioning (section 309).</li>
   housing at places of education that clarify requirements for residence halls
   and dormitories and other types of student housing. Requirements for housing at
   a place of education covered by the title II rule are included at &sect;
-  35.151(f). </p>
-<p><strong>Kitchens and Kitchenettes.</strong> Section
+  35.151(f).  
+
+**Kitchens and Kitchenettes.** Section
   4.34.2 of the UFAS requires a clear turning space at least 60 inches in
   diameter or an equivalent T-shaped turning space in kitchens. Section 4.34.6
   requires a clearance between opposing base cabinets, counters, appliances, or
   walls of at least 40 inches except in a U-shaped kitchen where the minimum
-  clearance is 60 inches. </p>
-<p>Section 804 of the 2010
+  clearance is 60 inches.  
+
+Section 804 of the 2010
   Standards provides technical requirements for kitchens and kitchenettes.
   Section 804.2.1 requires that pass through kitchens, which have two entries and
   counters, appliances, or cabinets on two opposite sides or opposite a parallel
@@ -5911,24 +6105,28 @@ conditioning (section 309).</li>
   at least 60 inches minimum clearance between all opposing base cabinets,
   countertops, appliances, or walls within kitchen work areas. Kitchens that do
   not have a cooktop or conventional range are exempt from the clearance
-  requirements but still must provide an accessible route. </p>
-<p>If a kitchen does not
+  requirements but still must provide an accessible route.  
+
+If a kitchen does not
   have two entries, the 2010 Standards require the kitchen to have 60 inches
   minimum clearance between the opposing base cabinets, counters, appliances, or
-  walls. </p>
-<p>One commenter supported
+  walls.  
+
+One commenter supported
   the provisions of section 804 of the 2010 Standards but sought clarification
   whether this section applies to residential units only, or to lodging and
   office buildings as well. Section 212 makes section 804 applicable to all
-  kitchens and kitchenettes in covered buildings.</p>
-<p><strong>Residential Facilities. </strong>Section
+  kitchens and kitchenettes in covered buildings.  
+
+**Residential Facilities.** Section
   4.1.4(11) of the UFAS contains scoping requirements for the new construction of
   housing. Under the 1991 title II regulation, state and local governments had
   the option of complying with the UFAS or the 1991 Standards. After the
   compliance date for the 2010 Standards, state and local governments will no
   longer have the option of complying with the UFAS, but will have to use the
-  2010 Standards for new construction and alterations. </p>
-<p>Sections 233.1, 233.2,
+  2010 Standards for new construction and alterations.  
+
+Sections 233.1, 233.2,
   233.3, 233.3.1, and 233.3.2 of the 2010 Standards differentiate between
   entities subject to the United States Department of Housing and Urban
   Development (HUD) regulations implementing section 504 of the Rehabilitation
@@ -5944,8 +6142,9 @@ conditioning (section 309).</li>
   potential conflicts with the HUD regulations, the 2010 Standards require
   residential dwelling units subject to the HUD regulations to comply with the
   scoping requirements in the HUD regulations, instead of the scoping
-  requirements in the 2010 Standards.</p>
-<p>For entities not subject
+  requirements in the 2010 Standards.  
+
+For entities not subject
   to the HUD regulations, the 2010 Standards require at least five percent (5%)
   of the dwelling units in residential facilities to provide mobility features,
   and at least two percent (2%) of the dwelling units to provide communication
@@ -5953,56 +6152,60 @@ conditioning (section 309).</li>
   a site. The 2010 Standards permit facilities that contain 15 or fewer dwelling
   units to apply the scoping requirements to all the dwelling units that are
   constructed under a single contract, or are developed as whole, whether or not
-  located on a common site.</p>
-<p><strong>Alterations to Residential Facilities.</strong> Section 4.1.6 of the UFAS requires federal, state, and
+  located on a common site.  
+
+**Alterations to Residential Facilities.** Section 4.1.6 of the UFAS requires federal, state, and
   local government housing to comply with the general requirements for
   alterations to facilities. Applying the general requirements for alterations to
   housing can result in partially accessible dwelling units where single elements
-  or spaces in dwelling units are altered. </p>
-<p>The 2010 Standards, at
+  or spaces in dwelling units are altered.  
+
+The 2010 Standards, at
   sections 202.3 Exception 3, 202.4, and 233.3, contain specific scoping
   requirements for alterations to dwelling units. Dwelling units that are not
   required to be accessible are exempt from the general requirements for
   alterations to elements and spaces and for alterations to primary function
-  areas. </p>
-<p>The scoping requirements
+  areas.  
+
+The scoping requirements
   for alterations to dwelling units generally are based on the requirements in
-  the UFAS:</p>
-<ul>
-  <li>Where a building is vacated for purposes
+  the UFAS:  
+
+- Where a building is vacated for purposes
 of alterations and has more than 15 dwelling units, at least five percent (5%)
 of the altered dwelling units are required to provide mobility features and at
 least two percent (2%) of the dwelling units are required to provide
-communication features.</li>
-  <li>Where a bathroom or a kitchen is
+communication features.  
+- Where a bathroom or a kitchen is
 substantially altered in an individual dwelling unit and at least one other
 room is also altered, the dwelling unit is required to comply with the scoping
 requirements for new construction until the total number of dwelling units in
 the facility required to provide mobility features and communication features
-is met. </li>
-</ul>
-<p>As with new construction,
+is met.  
+
+As with new construction,
   the 2010 Standards permit facilities that contain 15 or fewer dwelling units to
   apply the scoping requirements to all the dwelling units that are altered under
   a single contract, or are developed as a whole, whether or not located on a
   common site. The 2010 Standards also permit a comparable dwelling unit to
   provide mobility features where it is not technically feasible for the altered
-  dwelling unit to comply with the technical requirements. </p>  
+  dwelling unit to comply with the technical requirements.  
 
 #### 234 and 1002 Amusement Rides  
 
-<p><strong>New and Altered Permanently Installed Amusement
-  Rides</strong>. Section 234 of the 2010 Standards
+**New and Altered Permanently Installed Amusement Rides**. Section 234 of the 2010 Standards
   sets out scoping requirements and section 1002 sets out the technical
   requirements for the accessibility of permanently installed amusement rides.
   These requirements apply to newly designed and constructed amusement rides and
-  used rides when certain alterations are made. </p>
-<p>A commenter raised
+  used rides when certain alterations are made.  
+
+A commenter raised
   concerns that smaller amusement parks tend to purchase used rides more
   frequently than new rides, and that the conversion of a used ride to provide
   the required accessibility may be difficult to ensure because of the possible
-  complications in modifying equipment to provide accessibility. </p>
-<p>The Department agrees
+  complications in modifying equipment to provide accessibility.  
+
+The Department agrees
   with this commenter. The Department notes, however, that the 2010 Standards
   will require modifications to existing amusement rides when a ride&acute;s structural
   and operational characteristics are altered to the extent that the ride&acute;s
@@ -6012,21 +6215,24 @@ is met. </li>
   areas serving existing amusement rides are newly designed and constructed they
   must be level, provide wheelchair turning space, and be on an accessible route
   compliant with Chapter 4 of the 2010 Standards except as modified by section
-  1002.2 of the 2010 Standards.</p>
-<p><strong>Mobile or Portable Amusement Rides. </strong>The exception in section 234.1 of the 2010 Standards
+  1002.2 of the 2010 Standards.  
+
+**Mobile or Portable Amusement Rides.**  The exception in section 234.1 of the 2010 Standards
   exempts mobile or portable amusement rides, such as those set up for short
   periods of time at carnivals, fairs or festivals, from having to comply with
   the 2010 Standards. However, even though the mobile/portable ride itself is not
   subject to the Standards, these facilities are still subject to the ADA&acute;s general
   requirement to ensure that individuals with disabilities have an equal
-  opportunity to enjoy the services and amenities of these facilities.</p>
-<p>Subject to these general
+  opportunity to enjoy the services and amenities of these facilities.  
+
+Subject to these general
   requirements, mobile or portable amusement rides should be located on an
   accessible route and the load and unload areas serving a ride should provide a
   level wheelchair turning space to provide equal opportunity for individuals
   with disabilities to be able to participate on the amusement ride to the extent
-  feasible. </p>
-<p>One commenter noted that
+  feasible.  
+
+One commenter noted that
   the exception in Section 234.1 of the 2010 Standards for mobile or portable
   amusement rides limits the opportunities of persons with disabilities to
   participate on amusement rides because traveling or temporary amusement rides
@@ -6036,15 +6242,17 @@ is met. </li>
   Department notes that most amusement rides are too complex to be reasonably
   modified or re-engineered to accommodate the majority of individuals with
   disabilities and that additional complexities and safety concerns are added
-  when the rides are mobile or portable.</p>
-<p>A commenter asked that
+  when the rides are mobile or portable.  
+
+A commenter asked that
   section 234 of the 2010 Standards make clear that the requirements for
   accessible routes include the routes leading up to and including the loading
   and unloading areas of amusement rides. Sections 206.2.9 and 1002.2 of the 2010
   Standards clarify that the requirements for accessible routes include the
   routes leading up to and including the loading and unloading areas of amusement
-  rides. </p>
-<p>A commenter requested
+  rides.  
+
+A commenter requested
   that the final rule specifically allow for wheelchair access through the exit
   or other routes, or alternate means of wheelchair access routes to amusement
   rides. The commenter stated that the concept of wheelchair access through the
@@ -6055,50 +6263,55 @@ is met. </li>
   load and unload areas shall be provided at entries to queues and waiting
   lines&quot;). The Department agrees with the commenter that accessible load and
   unload areas may be the same where signs that comply with section 216.12 are
-  provided. </p>
-<p><strong>Wheelchair Space or Transfer Seat or Transfer
-  Device.</strong> Sections 234.3 and 1002.4 - 1002.6
+  provided.  
+
+**Wheelchair Space or Transfer Seat or Transfer Device.**  Sections 234.3 and 1002.4 - 1002.6
   of the 2010 Standards provide that each new and altered amusement ride, except
   for mobile/portable rides and a few additional excepted rides, will be required
   to provide at least one type of access by means of one wheelchair space or one
   transfer seat or one transfer device (the design of the transfer device is not
-  specified). </p>
-<p>Commenters urged the
+  specified).  
+
+Commenters urged the
   Department to revise the requirements for wheelchair spaces and transfer seats
   and devices because most amusement rides are too complex to be reasonably
   modified or re-engineered to accommodate the majority of individuals with
   disabilities. They argued that the experience of amusement rides will be
-  significantly reduced if the proposed requirements are implemented. </p>
-<p>The 2004 ADAAG, which the
+  significantly reduced if the proposed requirements are implemented.  
+
+The 2004 ADAAG, which the
   Department adopted as part of the 2010 Standards, was developed with the
   assistance of an advisory committee that included representation from the
   design staffs of major amusement venues and from persons with disabilities. The
   Department believes that the resulting 2004 ADAAG reflected sensitivity to the
   complex problems posed in adapting existing rides by focusing on new rides that
-  can be designed from the outset to be accessible.</p>
-<p>To permit maximum design
+  can be designed from the outset to be accessible.  
+
+To permit maximum design
   flexibility, the 2010 Standards permit designers to determine whether it is
   more appropriate to permit individuals who use wheelchairs to remain in their
-  chairs on the ride, or to provide for transfer access. </p>
-<p><strong>Maneuvering Space in Load and Unload Areas.</strong> Sections 234.2 and 1002.3 of the 2010 Standards require
-  that a level wheelchair turning space be provided at the load and unload areas
+  chairs on the ride, or to provide for transfer access.  
+
+**Maneuvering Space in Load and Unload Areas.** Sections 234.2 and 1002.3 of the 2010 Standards require that a level wheelchair turning space be provided at the load and unload areas
   of each amusement ride. The turning space must comply with sections 304.2 and
-  304.3. </p>
-<p><strong>Signs Required at Waiting Lines to Amusement
-  Rides.</strong> Section 216.12 of the 2010
+  304.3.  
+
+**Signs Required at Waiting Lines to Amusement Rides.**  Section 216.12 of the 2010
   Standards requires signs at entries to queues and waiting lines identifying
-  type and location of access for the amusement ride. </p>
+  type and location of access for the amusement ride.  
+
 #### 235 and 1003 Recreational Boating Facilities  
 
-<p>These sections require
+These sections require
   that accessible boat slips and boarding piers be provided. Most commenters
   approved of the requirements for recreational boating facility accessibility
   and urged the Department to keep regulatory language consistent with those
   provisions. They commented that the requirements appropriately reflect industry
   conditions. Individual commenters and disability organizations agreed that the
   2010 Standards achieve acceptable goals for recreational boating facility
-  access.</p>
-<p><strong>Accessible Route.</strong> Sections 206.2.10 and 1003.2 of the 2010 Standards require an
+  access.  
+
+**Accessible Route.** Sections 206.2.10 and 1003.2 of the 2010 Standards require an
   accessible route to all accessible boating facilities, including boat slips and
   boarding piers at boat launch ramps. Section 1003.2.1 provides a list of
   exceptions applicable to structures such as gangways, transition plates,
@@ -6111,8 +6324,9 @@ is met. </li>
   permit a slope greater than that specified in Section 405.2, are available for
   structures that meet specified length requirements. Section 206.7.10 permits
   the use of platform lifts as an alternative to gangways that are part of
-  accessible routes.</p>
-<p>Commenters raised
+  accessible routes.  
+
+Commenters raised
   concerns that because of water level fluctuations it may be difficult to
   provide accessible routes to all accessible boating facilities, including boat
   slips and boarding piers at boat launch ramps. One of the specific concerns
@@ -6122,8 +6336,9 @@ is met. </li>
   contained in section 1003.2 of the 2010 Standards modify the requirements of
   Chapter 4. For example, where the total length of a gangway or series of
   gangways serving as an accessible route is 80 feet or more an exception permits
-  the slope on gangways to exceed the maximum slope in section 405.2. </p>
-<p>Some commenters suggested
+  the slope on gangways to exceed the maximum slope in section 405.2.  
+
+Some commenters suggested
   that permissible slope variations could be reduced further by introducing a
   formula that ties required gangway length to anticipated water level
   fluctuations. Such a formula would incorporate predictions of tidal level
@@ -6149,12 +6364,14 @@ is met. </li>
   Department has determined that the 2010 Standards provide sufficient
   flexibility for such broad application. Additionally, the length requirement
   for accessible routes in section 1003.2.1 provides an easily determinable compliance
-  standard.</p>
-<p><strong>Accessible Boarding Piers. </strong>Where
+  standard.  
+
+**Accessible Boarding Piers.**  Where
   boarding piers are provided at boat launch ramps, sections 235.3 and 1003.3.2
   of the 2010 Standards require that at least five percent (5%) of boarding
-  piers, but at least one, must be accessible.</p>
-<p><strong>Accessible Boat Slips.</strong> Sections
+  piers, but at least one, must be accessible.  
+
+**Accessible Boat Slips.** Sections
   235.2 and 1003.3.1 of the 2010 Standards require that a specified number of
   boat slips in each recreational boating facility meet specified accessibility
   standards. The number of accessible boat slips required by the 2010 Standards is
@@ -6163,8 +6380,9 @@ is met. </li>
   accessible boat slips increases with the total number of slips at the facility.
   Facilities containing more than one thousand (1000) boat slips are required to
   provide twelve (12) accessible boat slips plus one for each additional one
-  hundred slips at the facility.</p>
-<p>One commenter asserted
+  hundred slips at the facility.  
+
+One commenter asserted
   the need for specificity in the requirement for dispersion of accessible slips.
   Section 235.2.1 of the 2010 Standards addresses dispersion and requires that
   boat slips &quot;shall be dispersed throughout the various types of boat slips
@@ -6179,25 +6397,27 @@ is met. </li>
   Standards specifies that if the required number has been met, no further
   dispersion is required. For example, if a facility offers five different &acute;types&acute; of boat slips but is only required to provide three according to the
   table in Section 235.2, that facility is not required to provide more than
-  three accessible boat slips, but the three must be varied among the five &acute;types&acute; of boat slips available at the facility.</p>  
+  three accessible boat slips, but the three must be varied among the five &acute;types&acute; of boat slips available at the facility.  
 
 #### 236 and 1004 Exercise Machines and Equipment  
 
-<p><strong>Accessible Route to Exercise Machines and Equipment. </strong>Section 206.2.13 of the 2010 Standards requires an
-  accessible route to serve accessible exercise machines and equipment.</p>
-<p>Commenters raised
+**Accessible Route to Exercise Machines and Equipment.**  Section 206.2.13 of the 2010 Standards requires an accessible route to serve accessible exercise machines and equipment.  
+
+Commenters raised
   concerns that the requirement to provide accessible routes to serve accessible
   exercise machines and equipment will be difficult for some facilities to
   provide, especially some transient lodging facilities that typically locate
   exercise machines and equipment in a single room. The Department believes that
   this requirement is a reasonable one in new construction and alterations
   because accessible exercise machines and equipment can be located so that an
-  accessible route can serve more than one piece of equipment. </p>
-<p><strong>Exercise Machines and Equipment.</strong> Section 236 of the 2010 Standards requires at least one of
+  accessible route can serve more than one piece of equipment.  
+
+**Exercise Machines and Equipment.** Section 236 of the 2010 Standards requires at least one of
   each type of exercise machine to meet clear floor space requirements of section
   1004.1. Types of machines are generally defined according to the muscular
-  groups exercised or the kind of cardiovascular exercise provided.</p>
-<p>Several commenters were
+  groups exercised or the kind of cardiovascular exercise provided.  
+
+Several commenters were
   concerned that existing facilities would have to reduce the number of available
   exercise equipment and machines in order to comply with the 2010 Standards. One
   commenter submitted prototype drawings showing equipment and machine layouts
@@ -6205,8 +6425,9 @@ is met. </li>
   accessible alternatives all resulted in a loss of equipment and machines.
   However, because these prototype layouts included certain possibly erroneous
   assumptions about the 2010 Standards, the Department wishes to clarify the
-  requirements. </p>
-<p>Section 1004.1 of the
+  requirements.  
+
+Section 1004.1 of the
   2010 Standards requires a clear floor space &quot;positioned for transfer or for use
   by an individual seated in a wheelchair&quot; to serve at least one of each type of
   exercise machine and equipment. This requirement provides the designer greater
@@ -6225,8 +6446,9 @@ is met. </li>
   or equipment in order to provide a lateral seat-to-platform transfer. It is
   permissible to locate the clear floor space for such machines or equipment in
   the aisle behind the device and to overlap the clear floor space and the
-  accessible route. </p>
-<p>Commenters were divided
+  accessible route.  
+
+Commenters were divided
   in response to the requirement for accessible exercise machines and equipment.
   Some supported requirements for accessible machines and equipment; others urged
   the Department not to require accessible machines and equipment because of the
@@ -6235,17 +6457,17 @@ is met. </li>
   those who use wheelchairs, will have the opportunity to use the exercise
   equipment. Providing access to exercise machines and equipment recognizes the
   need and desires of individuals with disabilities to have the same opportunity
-  as other patrons to enjoy the advantages of exercise and maintaining health.</p>  
+  as other patrons to enjoy the advantages of exercise and maintaining health.  
 
 #### 237 and 1005 Fishing Piers and Platforms  
 
-<p><strong>Accessible Route. </strong>Sections
-  206.2.14 and 1005.1 of the 2010 Standards require an accessible route to each
+**Accessible Route.**  Sections 206.2.14 and 1005.1 of the 2010 Standards require an accessible route to each
   accessible fishing pier and platform. The exceptions described under
   Recreational Boating above also apply to gangways and floating piers. All
   commenters supported the requirements for accessible routes to fishing piers
-  and platforms.</p>
-<p><strong>Accessible Fishing Piers and Platforms.</strong> Sections 237 and 1005 of the 2010
+  and platforms.  
+
+**Accessible Fishing Piers and Platforms.** Sections 237 and 1005 of the 2010
   Standards require at least twenty-five percent (25%) of railings, guards, or
   handrails (if provided) to be at a 34-inch maximum height (so that a person
   seated in a wheelchair can cast a fishing line over the railing) and to be
@@ -6255,8 +6477,9 @@ is met. </li>
   guards, or handrails are provided, accessible edge protection and clear floor
   or ground space at accessible railings are required. Additionally, at least one
   turning space complying with section 304.3 of the 2010 Standards is required to
-  be provided on fishing piers and platforms. </p>
-<p>Commenters expressed
+  be provided on fishing piers and platforms.  
+
+Commenters expressed
   concerns about the provision for fishing piers and platforms at the exception
   in section 1005.2.1 of the 2010 Standards that allows a maximum height of 42
   inches for a guard when the pier or platform is covered by the IBC. Two
@@ -6271,7 +6494,7 @@ is met. </li>
 
 #### 238 and 1006 Golf Facilities  
 
-<p><strong>Accessible Route.</strong> Sections
+**Accessible Route.** Sections
   206.2.15, 1006.2, and 1006.3 of the 2010 Standards require an accessible route
   to connect all accessible elements within the boundary of the golf course and,
   in addition, to connect golf car rental areas, bag drop areas, teeing grounds,
@@ -6280,12 +6503,14 @@ is met. </li>
   stations at driving ranges that are required to be accessible. An exception
   permits the accessible route requirements to be met, within the boundaries of
   the golf course, by providing a &quot;golf car passage&quot; (the path typically used by
-  golf cars) if specifications for width and curb cuts are met. </p>
-<p>Most commenters expressed
+  golf cars) if specifications for width and curb cuts are met.  
+
+Most commenters expressed
   the general viewpoint that nearly all golf courses provide golf cars and have
   either well-defined paths or permit the cars to drive on the course where paths
-  are not present, and thus meet the accessible route requirement. </p>
-<p>The Department received
+  are not present, and thus meet the accessible route requirement.  
+
+The Department received
   many comments requesting clarification of the term &quot;golf car passage.&quot; Some
   commenters recommended additional regulatory language specifying that an
   exception from a pedestrian route requirement should be allowed only when a
@@ -6294,28 +6519,32 @@ is met. </li>
   can have full access to those elements. These commenters cautioned that full
   and equal access would not be provided if a golfer were required to navigate a
   steep slope up or down a hill or a flight of stairs in order to get to the
-  teeing ground, putting green, or other accessible element of the course. </p>
-<p>Conversely, another
+  teeing ground, putting green, or other accessible element of the course.  
+
+Conversely, another
   commenter requesting clarification of the term &quot;golf car passage&quot; argued that
   golf courses typically do not provide golf car paths or pedestrian paths up to
   actual tee grounds or greens, many of which are higher or lower than the car
   path. This commenter argued that if golf car passages were required to extend
   onto teeing grounds and greens in order to qualify for an exception, then some
   golf courses would have to substantially regrade teeing grounds and greens at a
-  high cost. </p>
-<p>Some commenters argued
+  high cost.  
+
+Some commenters argued
   that older golf courses, small nine-hole courses, and executive courses that do
   not have golf car paths would be unable to comply with the accessible route
   requirements because of the excessive cost involved. A commenter noted that,
   for those older courses that have not yet created an accessible pedestrian
-  route or golf car passage, the costs and impacts to do so should be considered.</p>
-<p>A commenter argued that
+  route or golf car passage, the costs and impacts to do so should be considered.  
+
+A commenter argued that
   an accessible route should not be required where natural terrain makes it
   infeasible to create an accessible route. Some commenters cautioned that the
   2010 Standards would jeopardize the integrity of golf course designs that
   utilize natural terrain elements and elevation changes to set up shots and
-  create challenging golf holes.</p>
-<p>The Department has given
+  create challenging golf holes.  
+
+The Department has given
   careful consideration to the comments and has decided to adopt the 2010
   Standards requiring that at least one accessible route connect accessible
   elements and spaces within the boundary of the golf course including teeing
@@ -6334,31 +6563,35 @@ is met. </li>
   access to necessary elements of the golf course; rather, the exception allows a
   golf course to use a golf car passage for part or all of the accessible
   pedestrian route to ensure that persons with mobility disabilities can fully
-  and equally participate in the recreational activity of playing golf.</p>
-<p><strong>Accessible Teeing Grounds, Putting Greens, and
-  Weather Shelters</strong>. Sections 238.2 and 1006.4 of the
+  and equally participate in the recreational activity of playing golf.  
+
+**Accessible Teeing Grounds, Putting Greens, and Weather Shelters**. Sections 238.2 and 1006.4 of the
   2010 Standards require that golf cars be able to enter and exit each putting
   green and weather shelter. Where two teeing grounds are provided, the forward
   teeing ground is required to be accessible (golf car can enter and exit). Where
   three or more teeing grounds are provided, at least two, including the forward
-  teeing ground, must be accessible.</p>
-<p>A commenter supported
+  teeing ground, must be accessible.  
+
+A commenter supported
   requirements for teeing grounds, particularly requirements for accessible
   teeing grounds, noting that accessible teeing grounds are essential to the full
-  and equal enjoyment of the golfing experience. </p>
-<p>A commenter recommended
+  and equal enjoyment of the golfing experience.  
+
+A commenter recommended
   that existing golf courses be required to provide access to only one teeing
   ground per hole. The majority of commenters reported that most public and
   private golf courses already provide golf car passage to teeing grounds and
   greens. The Department has decided that it is reasonable to maintain the
   requirement. The 2010 Standards provide an exception for existing golf courses
   with three or more teeing grounds not to provide golf car passage to the
-  forward teeing ground where terrain makes such passage infeasible.</p>
-<p>Section 1006.3.2 of the
+  forward teeing ground where terrain makes such passage infeasible.  
+
+Section 1006.3.2 of the
   2010 Standards requires that where curbs or other constructed barriers prevent
   golf cars from entering a fairway, openings 60 inches wide minimum shall be
-  provided at intervals not to exceed 75 yards.</p>
-<p>A commenter disagreed
+  provided at intervals not to exceed 75 yards.  
+
+A commenter disagreed
   with the requirement that openings 60 inches wide minimum be installed at least
   every 75 yards, arguing that a maximum spacing of 75 yards may not allow enough
   flexibility for terrain and hazard placements. To resolve this problem, the
@@ -6375,37 +6608,39 @@ is met. </li>
   fairways and putting greens, and other required elements. Golf car passage is
   not restricted to a paved path with curbs. Golf car passage also includes
   fairways, teeing grounds, putting greens, and other areas on which golf cars
-  operate.</p>
-<p><strong>Accessible Practice Putting Greens, Practice Teeing
-  Grounds, and Teeing Stations at Driving Ranges.</strong> Section
-  238.3 of the 2010 Standards requires that five percent (5%) but at least one of
+  operate.  
+
+**Accessible Practice Putting Greens, Practice Teeing Grounds, and Teeing Stations at Driving Ranges.**  Section 238.3 of the 2010 Standards requires that five percent (5%) but at least one of
   each of practice putting greens, practice teeing grounds, and teeing stations
-  at driving ranges must permit golf cars to enter and exit. </p>  
+  at driving ranges must permit golf cars to enter and exit.  
 
 #### 239 and 1007 Miniature Golf Facilities  
 
-<p><strong>Accessible Route to Miniature Golf Course Holes.</strong> Sections 206.2.16, 239.3, and 1007.2 of the 2010 Standards
+**Accessible Route to Miniature Golf Course Holes.** Sections 206.2.16, 239.3, and 1007.2 of the 2010 Standards
   require an accessible route to connect accessible miniature golf course holes
   and the last accessible hole on the course directly to the course entrance or exit.
   Accessible holes are required to be consecutive with an exception permitting
   one break in the sequence of consecutive holes provided that the last hole on
-  the miniature golf course is the last hole in the sequence.</p>
-<p>Many commenters supported
+  the miniature golf course is the last hole in the sequence.  
+
+Many commenters supported
   expanding the exception from one to multiple breaks in the sequence of
   accessible holes. One commenter noted that permitting accessible holes with
   breaks in the sequence would enable customers with disabilities to enjoy the
   landscaping, water and theme elements of the miniature golf course. Another
   commenter wrote in favor of allowing multiple breaks in accessible holes with a
-  connecting accessible route. </p>
-<p>Other commenters objected
+  connecting accessible route.  
+
+Other commenters objected
   to allowing multiple breaks in the sequence of miniature golf holes. Commenters
   opposed to this change argued that allowing any breaks in the sequence of
   accessible holes at a miniature golf course would disrupt the flow of play for
   persons with disabilities and create a less socially integrated experience. A
   commenter noted that multiple breaks in sequence would not necessarily
   guarantee the provision of access to holes that are most representative of
-  those with landscaping, water elements, or a fantasy-like experience. </p>
-<p>The Department has decided to retain the exception without change. Comments did not provide a
+  those with landscaping, water elements, or a fantasy-like experience.  
+
+The Department has decided to retain the exception without change. Comments did not provide a
   sufficient basis on which to conclude that allowing multiple breaks in the
   sequence of accessible holes would necessarily increase integration of
   accessible holes with unique features of miniature golf courses. Some designs
@@ -6415,18 +6650,19 @@ is met. </li>
   configuration of accessible holes. A factor that might contribute to equivalent
   facilitation would be an accessible route designed to bring persons with
   disabilities to a unique feature, such as a waterfall, that would otherwise not
-  be served by an accessible route connecting consecutive accessible holes.</p>
-<p>Specified exceptions are permitted for accessible route requirements when located on the playing
-  surfaces near holes.</p>
-<p><strong>Accessible Miniature Golf Course Holes.</strong> Sections 239.2 and 1007.3 of the 2010 Standards require at
-  least fifty percent (50%) of golf holes on miniature golf courses to be
+  be served by an accessible route connecting consecutive accessible holes.  
+
+Specified exceptions are permitted for accessible route requirements when located on the playing
+  surfaces near holes.  
+
+**Accessible Miniature Golf Course Holes.**  Sections 239.2 and 1007.3 of the 2010 Standards require at least fifty percent (50%) of golf holes on miniature golf courses to be
   accessible, including providing a clear floor or ground space that is 48 inches
   minimum by 60 inches minimum with slopes not steeper than 1:48 at the start of
   play.  
 
 #### 240 and 1008 Play Areas  
 
-<p>Section 240 of the 2010
+Section 240 of the 2010
   Standards provides scoping for play areas and section 1008 provides technical
   requirements for play areas. Section 240.1 of the 2010 Standards sets
   requirements for play areas for children ages 2 and over and covers separate
@@ -6434,15 +6670,17 @@ is met. </li>
   four exceptions to the requirements that apply to family child care facilities,
   relocation of existing play components in existing play areas, amusement
   attractions, and alterations to play components where the ground surface is not
-  altered.</p>
-<p><strong>Ground Surfaces.</strong> Section
+  altered.  
+
+**Ground Surfaces.** Section
   1008.2.6 of the 2010 Standards provides technical requirements for accessible
   ground surfaces for play areas on accessible routes, clear floor or ground
   spaces, and turning spaces. These ground surfaces must follow special rules,
   incorporated by reference from nationally recognized standards for
   accessibility and safety in play areas, including those issued by the American
-  Society for Testing and Materials (ASTM).</p>
-<p>A commenter recommended
+  Society for Testing and Materials (ASTM).  
+
+A commenter recommended
   that the Department closely examine the requirements for ground surfaces at
   play areas. The Department is
   aware that there is an ongoing controversy about play area ground surfaces
@@ -6455,8 +6693,9 @@ is met. </li>
   requirements that they must anticipate the maintenance costs that will be
   associated with some of the products. Permitting a surface to deteriorate so
   that it does not meet the 2010 Standards would be an independent violation of
-  the Department&acute;s ADA regulations.</p>
-<p><strong>Accessible Route to Play Components.</strong> Section 206.2.17 of the 2010 Standards provides scoping
+  the Department&acute;s ADA regulations.  
+
+**Accessible Route to Play Components.** Section 206.2.17 of the 2010 Standards provides scoping
   requirements for accessible routes to ground level and elevated play components
   and to soft contained play structures. Sections 240.2 and 1008 of the 2010
   Standards require that accessible routes be provided for play components. The
@@ -6469,25 +6708,29 @@ is met. </li>
   240.2.1.2, provides an exception to the requirements for ground level play
   components if at least fifty percent (50%) of the elevated play components are
   connected by a ramp and at least three of the elevated play components
-  connected by the ramp are different types of play components.</p>
-<p>The technical
+  connected by the ramp are different types of play components.  
+
+The technical
   requirements at section 1008 include provisions where if three or fewer entry
   points are provided to a soft contained play structure, then at least one entry
   point must be on an accessible route. In addition, where four or more entry
   points are provided to a soft contained play structure, then at least two entry
-  points must be served by an accessible route. </p>
-<p>If elevated play
+  points must be served by an accessible route.  
+
+If elevated play
   components are provided, fifty percent (50%) of the elevated components are
   required to be accessible. Where 20 or more elevated play components are
   provided, at least twenty five percent (25%) will have to be connected by a
   ramp. The remaining play components are permitted to be connected by a transfer
   system. Where less than 20 elevated play components are provided, a transfer
-  system is permitted in lieu of a ramp. </p>
-<p>A commenter noted that
+  system is permitted in lieu of a ramp.  
+
+A commenter noted that
   the 2010 Standards allow for the provision of transfer steps to elevated play
   structures based on the number of elevated play activities, but asserted that
-  transfer steps have not been documented as an effective means of access.</p>
-<p>The 2010 Standards
+  transfer steps have not been documented as an effective means of access.  
+
+The 2010 Standards
   recognize that play structures are designed to provide unique experiences and
   opportunities for children. The 2010 Standards provide for play components that
   are accessible to children who cannot transfer from their wheelchair, but they
@@ -6496,30 +6739,33 @@ is met. </li>
   inappropriate for adults. Crawling and climbing, for example, are integral
   parts of the play experience for young children. Permitting the use of transfer
   platforms in play structures provides some flexibility for creative playground
-  design.</p>
-<p><strong>Accessible Play Components. </strong>Accessible play components are required to be on accessible
+  design.  
+
+**Accessible Play Components. **Accessible play components are required to be on accessible
   routes, including elevated play components that are required to be connected by
   ramps. These play components must also comply with other accessibility
   requirements, including specifications for clear floor space and seat heights
-  (where provided).</p>
-<p>A commenter expressed
+  (where provided).  
+
+A commenter expressed
   concerns that the general requirements of section 240.2.1 of the 2010 Standards
   and the advisory accompanying section 240.2.1 conflict. The comment asserts
   that section 240.2.1 of the 2010 Standards provides that the only requirement
   for integration of equipment is where there are two or more required ground
   level play components, while the advisory appears to suggest that all
-  accessible components must be integrated. </p>
-<p>The commenter
+  accessible components must be integrated.  
+
+The commenter
   misinterprets the requirement. The ADA mandates that persons with disabilities
   be able to participate in programs or activities in the most integrated setting
   appropriate to their needs. Therefore, all accessible play components must be
   integrated into the general playground setting. Section 240.2.1 of the 2010
   Standards specifies that where there is more than one accessible ground level
-  play component, the components must be both dispersed and integrated. </p>  
+  play component, the components must be both dispersed and integrated.  
 
 #### 241 and 612 Saunas and Steam Rooms  
 
-<p>Section 241 of the 2010
+Section 241 of the 2010
   Standards sets scoping for saunas and steam rooms and section 612 sets
   technical requirements including providing accessible turning space and an
   accessible bench. Doors are not permitted to swing into the clear floor or
@@ -6527,33 +6773,36 @@ is met. </li>
   2010 Standards permits a readily removable bench to obstruct the required
   wheelchair turning space and the required clear floor or ground space. Where
   they are provided in clusters, five percent (5%) but at least one sauna or
-  steam room in each cluster must be accessible.</p>
-<p>Commenters raised
+  steam room in each cluster must be accessible.  
+
+Commenters raised
   concerns that the safety of individuals with disabilities outweighs the
   usefulness in providing accessible saunas and steam rooms. The Department
   believes that there is an element of risk in many activities available to the
   general public. One of the major tenets of the ADA is that individuals with
   disabilities should have the same opportunities as other persons to decide what
   risks to take. It is not appropriate for covered entities to prejudge the
-  abilities of persons with disabilities.</p>  
+  abilities of persons with disabilities.  
 
 #### 242 and 1009 Swimming Pools, Wading Pools, and Spas  
 
-<p><strong>Accessible Means of Entry to Pools. </strong>Section 242 of the 2010 Standards requires at least two
+**Accessible Means of Entry to Pools.**  Section 242 of the 2010 Standards requires at least two
   accessible means of entry for larger pools (300 or more linear feet) and at
   least one accessible entry for smaller pools. This section requires that at
   least one entry will have to be a sloped entry or a pool lift; the other could
   be a sloped entry, pool lift, a transfer wall, or a transfer system (technical
-  specifications for each entry type are included at section 1009).</p>
-<p>Many commenters supported
+  specifications for each entry type are included at section 1009).  
+
+Many commenters supported
   the scoping and technical requirements for swimming pools. Other commenters
   stated that the cost of requiring facilities to immediately purchase a pool
   lift for each indoor and outdoor swimming pool would be very significant
   especially considering the large number of swimming pools at lodging
   facilities. One commenter requested that the Department clarify what would be
   an &quot;alteration&quot; to a swimming pool that would trigger the obligation to comply
-  with the accessible means of entry in the 2010 Standards.</p>
-<p>Alterations are covered
+  with the accessible means of entry in the 2010 Standards.  
+
+Alterations are covered
   by section 202.3 of the 2010 Standards and the definition of &quot;alteration&quot; is
   provided at section 106.5. A physical change to a swimming pool which affects
   or could affect the usability of the pool is considered to be an alteration. Changes
@@ -6561,8 +6810,9 @@ is met. </li>
   systems, are not alterations. Exception 2 to section 202.3 permits an altered
   swimming pool to comply with applicable requirements to the maximum extent
   feasible if full compliance is technically infeasible. &quot;Technically infeasible&quot;
-  is also defined in section 106.5 of the 2010 Standards.</p>
-<p>The Department also
+  is also defined in section 106.5 of the 2010 Standards.  
+
+The Department also
   received comments suggesting that it is not appropriate to require two
   accessible means of entry to wave pools, lazy rivers, sand bottom pools, and
   other water amusements where there is only one point of entry. Exception 2 of
@@ -6570,36 +6820,37 @@ is met. </li>
   provide more than one accessible means of entry provided that the one
   accessible means of entry is a swimming pool lift compliant with section
   1009.2, a sloped entry compliant with section 1009.3, or a transfer system
-  compliant with section 1009.5 of the 2010 Standards. </p>
-<p><strong>Accessible Means of Entry to Wading Pools. </strong>Sections 242.3 and 1009.3 of the 2010 Standards require
-  that at least one sloped means of entry is required into the deepest part of
-  each wading pool. </p>
-<p><strong>Accessible Means of Entry to Spas. </strong>Sections 242.4 and 1009.2, 1009.4, and 1009.5 of the 2010
+  compliant with section 1009.5 of the 2010 Standards.  
+
+**Accessible Means of Entry to Wading Pools. **Sections 242.3 and 1009.3 of the 2010 Standards require that at least one sloped means of entry is required into the deepest part of
+  each wading pool.  
+
+**Accessible Means of Entry to Spas.**  Sections 242.4 and 1009.2, 1009.4, and 1009.5 of the 2010
   Standards require spas to meet accessibility requirements, including an
   accessible means of entry. Where spas are provided in clusters, five percent
   (5%) but at least one spa in each cluster must be accessible. A pool lift, a
   transfer wall, or a transfer system will be permitted to provide the required
-  accessible means of entry. </p>  
+  accessible means of entry.  
 
 #### 243 Shooting Facilities with Firing Positions  
 
-<p>Sections 243 and 1010 of
+Sections 243 and 1010 of
   the 2010 Standards require an accessible turning space for each different type
   of firing position at a shooting facility if designed and constructed on a
   site. Where firing positions are
   provided in clusters, five percent (5%), but at least one position of each type
-  in each cluster must be accessible. </p>
+  in each cluster must be accessible.  
+
 ### Additional Technical Requirements  
 
 #### 302.1 Floor or Ground Surfaces  
 
-<p>Both section 4.5.1 of the
-  1991 Standards and section 302.2 of the 2010 Standards require that floor or
+Both section 4.5.1 of the 1991 Standards and section 302.2 of the 2010 Standards require that floor or
   ground surfaces along accessible routes and in accessible rooms and spaces be
   stable, firm, slip-resistant, and comply with either section 4.5 in the case of
-  the 1991 Standards or section 302 in the case of the 2010 Standards. </p>
-<p>Commenters recommended
-  that the Department apply an ASTM Standard (with modifications) to assess
+  the 1991 Standards or section 302 in the case of the 2010 Standards.  
+
+Commenters recommended that the Department apply an ASTM Standard (with modifications) to assess
   whether a floor surface is &quot;slip resistant&quot; as required by section 302.1 of the
   2010 Standards. The Department declines to accept this recommendation since,
   currently, there is no generally accepted test method for the slip-resistance
@@ -6607,7 +6858,7 @@ is met. </li>
 
 #### 304 Turning Space  
 
-<p>Section 4.2.3 of the 1991
+ Section 4.2.3 of the 1991
   Standards and Section 304.3 of the 2010 Standards allow turning space to be
   either a circular space or a T-shaped space. Section 304.3 permits turning
   space to include knee and toe clearance complying with section 306. Section
@@ -6617,8 +6868,9 @@ is met. </li>
   permitted as part of this space. They argued that wheelchairs and other mobility
   devices are becoming larger and that more individuals with disabilities are
   using electric three and four-wheeled scooters which cannot utilize knee
-  clearance.</p>
-<p>The Department recognizes
+  clearance.  
+
+The Department recognizes
   that the technical specifications for T-shaped and circular turning spaces in
   the 1991 and 2010 Standards, which are based on manual wheelchair dimensions,
   may not adequately meet the needs of individuals using larger electric
@@ -6636,26 +6888,26 @@ is met. </li>
 
 #### 404 Doors, Doorways, and Gates  
 
-<p>A<strong>utomatic Door Break Out Openings.</strong> The 1991 Standards do not contain any technical requirement
-  for automatic door break out openings. The 2010 Standards at sections 404.1,
+**Automatic Door Break Out Openings.** The 1991 Standards do not contain any technical requirement
+for automatic door break out openings. The 2010 Standards at sections 404.1,
   404.3, 404.3.1, and 404.3.6 require automatic doors that are part of a means of
   egress and that do not have standby power to have a 32-inch minimum clear break
   out opening when operated in emergency mode. The minimum clear opening width
-  for automatic doors is measured with all leaves in the open position. Automatic bi-parting doors or pairs of
-  swinging doors that provide a 32-inch minimum clear break out opening in
+  for automatic doors is measured with all leaves in the open position. Automatic bi-parting doors or pairs of swinging doors that provide a 32-inch minimum clear break out opening in
   emergency mode when both leaves are opened manually meet the technical
   requirement. Section 404.3.6 of the 2010 Standards includes an exception that
   exempts automatic doors from the technical requirement for break out openings
-  when accessible manual swinging doors serve the same means of egress. </p>
-<p><strong>Maneuvering Clearance or Standby Power for Automatic
-  Doors.</strong> Section 4.13.6 of the 1991
+  when accessible manual swinging doors serve the same means of egress.  
+
+**Maneuvering Clearance or Standby Power for Automatic Doors.** Section 4.13.6 of the 1991
   Standards does not require maneuvering clearance at automatic doors. Section
   404.3.2 of the 2010 Standards requires automatic doors that serve as an
   accessible means of egress to either provide maneuvering clearance or to have
   standby power to operate the door in emergencies. This provision has limited
   application and will affect, among others, in-swinging automatic doors that
-  serve small spaces. </p>
-<p>Commenters urged the
+  serve small spaces.  
+
+Commenters urged the
   Department to reconsider provisions that would require maneuvering clearance or
   standby power for automatic doors. They assert that these requirements would
   impose unreasonable financial and administrative burdens on all covered
@@ -6665,8 +6917,9 @@ is met. </li>
   be accessible in an emergency. If an emergency-related power failure prevents
   the operation of the automatic door, a person with a disability could be
   trapped unless there is either adequate maneuvering room to open the door
-  manually or a back-up power source. </p>
-<p><strong>Thresholds at Doorways.</strong> The
+  manually or a back-up power source.  
+
+**Thresholds at Doorways.** The
   1991 Standards, at section 4.13.8, require the height of thresholds at doorways
   not to exceed 1/2 inch and thresholds at exterior sliding doors not to exceed
   3/4 inch. Sections 404.1 and 404.2.5 of the 2010 Standards require the height
@@ -6675,30 +6928,31 @@ is met. </li>
   thresholds that exceed &frac14; inch in height to be beveled on each side with a
   slope not steeper than 1:2. The 2010 Standards include an exception that
   exempts existing and altered thresholds that do not exceed 3/4 inch in height
-  and are beveled on each side from the requirement. </p>  
+  and are beveled on each side from the requirement.  
 
 #### 505 Handrails  
 
-<p>The 2010 Standards add a
+The 2010 Standards add a
   new technical requirement at section 406.3 for handrails along walking
-  surfaces. </p>
-<p>The 1991 Standards, at
+  surfaces.  
+
+The 1991 Standards, at
   sections 4.8.5, 4.9.4, and 4.26, and the 2010 Standards, at section 505,
   contain technical requirements for handrails. The 2010 Standards provide more
-  flexibility than the 1991 Standards as follows:</p>
-<ul>
-  <li>Section 4.26.4 of the 1991 Standards
+  flexibility than the 1991 Standards as follows:  
+
+- Section 4.26.4 of the 1991 Standards
 requires handrail gripping surfaces to have edges with a minimum radius of 1/8
 inch. Section 505.8 of the 2010
-Standards requires handrail gripping surfaces to have rounded edges.</li>
-  <li>Section 4.26.2 of the 1991 Standards
+Standards requires handrail gripping surfaces to have rounded edges.  
+- Section 4.26.2 of the 1991 Standards
 requires handrail gripping surfaces to have a diameter of 1 &frac14; inches to 1 1/2
 inches, or to provide an equivalent gripping surface. Section 505.7 of the 2010 Standards requires handrail gripping
 surfaces with a circular cross section to have an outside diameter of 1 &frac14;
 inches to 2 inches. Handrail gripping surfaces with a non-circular cross
 section must have a perimeter dimension of 4 inches to 6 &frac14; inches, and a
-cross section dimension of 2 &frac14; inches maximum.</li>
-  <li>Sections 4.8.5 and 4.9.4 of the 1991
+cross section dimension of 2 &frac14; inches maximum.  
+- Sections 4.8.5 and 4.9.4 of the 1991
 Standards require handrail gripping surfaces to be continuous, and to be
 uninterrupted by newel posts, other construction elements, or
 obstructions. Section 505.3 of the
@@ -6711,8 +6965,8 @@ Where provided, horizontal projections must occur at least 1 1/2 inches below
 the bottom of the handrail gripping surface. An exception permits the distance
 between the horizontal projections and the bottom of the gripping surface to be
 reduced by 1/8 inch for each 1/2 inch of additional handrail perimeter
-dimension that exceeds 4 inches.</li>
-  <li>Section 4.9.4 of the 1991 Standards
+dimension that exceeds 4 inches.  
+- Section 4.9.4 of the 1991 Standards
 requires handrails at the bottom of stairs to continue to slope for a distance
 of the width of one tread beyond the bottom riser nosing and to further extend
 horizontally at least 12 inches. Section 505.10 of the 2010 Standards requires
@@ -6722,35 +6976,39 @@ riser nosing. Section 4.1.6(3) of the 1991 Standards has a special technical
 provision for alterations to existing facilities that exempts handrails at the
 top and bottom of ramps and stairs from providing full extensions where it will
 be hazardous due to plan configuration. Section 505.10 of the 2010 Standards
-has a similar exception that applies in alterations.</li>
-</ul>
-<p>A commenter noted that
+has a similar exception that applies in alterations.  
+
+A commenter noted that
   handrail extensions are currently required at the top and bottom of stairs, but
   the proposed regulations do not include this requirement, and urged the
   Department to retain the current requirement. Other commenters questioned the
-  need for the extension at the bottom of stairs.</p>
-<p>Sections 505.10.2 and
+  need for the extension at the bottom of stairs.  
+
+Sections 505.10.2 and
   505.10.3 of the 2010 Standards require handrail extensions at both the top and
   bottom of a flight of stairs. The requirement in the 1991 Standards that
   handrails extend horizontally at least 12 inches beyond the width of one tread
   at the bottom of a stair was changed in the 2004 ADAAG by the Access Board in
   response to public comments. Existing horizontal handrail extensions that
   comply with 4.9.4(2) of the 1991 Standards should meet or exceed the
-  requirements of the 2010 Standards.</p>
-<p>Commenters noted that the
+  requirements of the 2010 Standards.  
+
+Commenters noted that the
   2010 Standards will require handrail gripping surfaces with a circular cross
   section to have an outside diameter of 2 inches, and that this requirement
   would impose a physical barrier to individuals with disabilities who need the
-  handrail for stability and support while accessing stairs.</p>
-<p>The requirement permits
+  handrail for stability and support while accessing stairs.  
+
+The requirement permits
   an outside diameter of 1 &frac14; inches to 2 inches. This range allows flexibility
   in meeting the needs of individuals with disabilities and designers and
   architects. The Department is not aware
   of any data indicating that an outside diameter of 2 inches would pose any
-  adverse impairment to use by individuals with disabilities. </p>
-<p><strong>Handrails Along Walkways. </strong>The
+  adverse impairment to use by individuals with disabilities.  
+
+**Handrails Along Walkways.**  The
   1991 Standards do not contain any technical requirement for handrails provided
   along walkways that are not ramps. Section 403.6 of the 2010 Standards
   specifies that where handrails are provided along walkways that are not ramps,
   they shall comply with certain technical requirements. The change is expected
-  to have minimal impact. </p>
+  to have minimal impact.
