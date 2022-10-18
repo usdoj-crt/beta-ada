@@ -1378,9 +1378,7 @@ The Department believes that the insufficient number of
   State and Federal prisoners aged 55 and older grew by 36,000 inmates
   from 2000 (44,200) to 2006 (80,200). William J. Sabol et al.,
   Prisoners in 2006, Bureau of Justice Statistics Bulletin, Dec. 2007,
-  at 23 (app. table 7), available at http://bjs.ojp.usdoj.gov/
-  index.cfm?ty=pbdetail&amp;iid=908 (last visited July 16, 2008); Allen J.
-  Beck et al., Prisoners in 2000, Bureau of Justice Statistics
+  at 23 (app. table 7), available at [http://bjs.ojp.usdoj.gov/index.cfm?ty=pbdetail&amp;iid=908](http://bjs.ojp.usdoj.gov/index.cfm?ty=pbdetail&amp;iid=908)  (last visited July 16, 2008); Allen J.  Beck et al., Prisoners in 2000, Bureau of Justice Statistics
   Bulletin, Aug. 2001, at 10 (Aug. 2001) (Table 14), available at
   bjs.ojp.usdoj.gov/index.cfm?ty=pbdetail&amp;iid=927 (last visited July
   16, 2008). This jump constitutes an increase of 81 percent in
@@ -3284,7 +3282,7 @@ Section 4.1.3, and more specifically sections 4.1.3(13), 4.27.3, and 4.27.4 of t
   require operable parts on accessible elements, along accessible routes, and in
   accessible rooms and spaces to comply with the technical requirements for
   operable parts, including height and operation. The 1991 Standards, at section
-  4.27.3, contain an exception, &quot; * * * where the use of special equipment
+  4.27.3, contain an exception, &quot;where the use of special equipment
   dictates otherwise or where electrical and communications systems receptacles
   are not normally intended for use by building occupants,&quot; from the technical
   requirement for the height of operable parts. Section 205.1 of the 2010
@@ -4916,8 +4914,7 @@ Data provided by the
   demonstrated that the number of adults who use wheelchairs has been increasing
   at the rate of six percent (6%) per year from 1969 to 1999; and by 2010, it was
   projected that two percent (2%) of the adult population would use wheelchairs.
-  In addition to persons who use wheelchairs, three percent (3%) of adults used
-  crutches, canes, walkers, and other mobility devices in 1999; and the number
+  In addition to persons who use wheelchairs, three percent (3%) of adults used crutches, canes, walkers, and other mobility devices in 1999; and the number
   was projected to increase to four percent (4%) by 2010. Thus, in 2010, up to
   six percent (6%) of the population may need accessible guest rooms.  
 
@@ -4949,8 +4946,7 @@ These terms are not to be
   quality.&quot; &quot;Type&quot; is defined as &quot;a
   group of * * * things that share common traits or characteristics distinguishing
   them as an identifiable group or class.&quot; Accordingly, these terms are not
-  intended to convey different concepts, but are used as synonyms. In the 2010
-  Standards, section 224.5 and its advisory require dispersion in such a varied
+  intended to convey different concepts, but are used as synonyms. In the 2010 Standards, section 224.5 and its advisory require dispersion in such a varied
   range of hotels and lodging facilities that the Department believes that the
   chosen terms are appropriate to convey what is intended. Dispersion required by
   this section is not &quot;one size fits all&quot; and it is imperative that each covered
@@ -5329,7 +5325,7 @@ The following accessible features are provided in the living area:
 - Accessible controls for the heat and air conditioning (section 309).   
 
 {% figure Plan 1B: 13-Foot Wide Accessible Guest Room %}
-{% asset project-images/plan1b_gst-rm.jpg alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards." %}  
+{% asset project-images/plan1b_gst-rm.jpg alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards." %}
 {% figcaption %}
 Features include a standard bathtub with a seat, comparable vanity, clothes closet with swinging doors, and door connecting to adjacent guest room. Furnishings include two beds.
 {% endfigcaption %}
@@ -5588,10 +5584,9 @@ The following accessible features are provided in the living area:
 - Clear floor space between beds (section 806.2.3);
 - Maneuvering clearances at all doors (section
 404.2);
--  Accessible operable window (section 309); and
+- Accessible operable window (section 309); and
 - Accessible controls for the heat and air
-conditioning (section 309).  
-
+conditioning (section 309).
 
 {% figure Plan 5A: 13-Foot Wide Accessible Guest Room %}
 {% asset project-images/plan5a_gst-rm.jpg alt="his drawing shows an accessible
@@ -5605,25 +5600,25 @@ a king bed and additional seating.
 
 The following accessible features are provided in the bathroom:  
 
--  Comparable vanity counter top space (section 806);
--  Transfer shower (section 603.2);
--  Shower seat (section 610.3);
--  Clearance in front of the shower extends beyond the seat and is 36 inches wide min. (section 607.2);
--  Recessed transfer shower location permits shorter rear grab bar at water closet (section 604.5.2);
--  Circular turning space in room (section 603.2.1);
--  Required clear floor spaces at fixtures and turning space overlap (section 603.2.2);
--  Water closet clearance is 60 inches at back wall and 56 inches deep (section 604.3);
--  Centerline of the water closet at 16 inches from side wall (section 604.2); and
--  No other fixtures or obstructions located within required water closet clearance (section 604.3).  
+- Comparable vanity counter top space (section 806);
+- Transfer shower (section 603.2);
+- Shower seat (section 610.3);
+- Clearance in front of the shower extends beyond the seat and is 36 inches wide min. (section 607.2);
+- Recessed transfer shower location permits shorter rear grab bar at water closet (section 604.5.2);
+- Circular turning space in room (section 603.2.1);
+- Required clear floor spaces at fixtures and turning space overlap (section 603.2.2);
+- Water closet clearance is 60 inches at back wall and 56 inches deep (section 604.3);
+- Centerline of the water closet at 16 inches from side wall (section 604.2); and
+- No other fixtures or obstructions located within required water closet clearance (section 604.3).  
 
 The following accessible features are provided in the living area:  
 
--  Circular turning space (section 304.3.2);
--  Accessible route (section 402);
--  Clear floor space on both sides of the bed (section 806.2.3);
--  Maneuvering clearances at all doors (section 404.2);
--  Accessible operable window (section 229); and
--  Accessible controls for the heat and air conditioning (section 309).  
+- Circular turning space (section 304.3.2);  
+- Accessible route (section 402);  
+- Clear floor space on both sides of the bed (section 806.2.3);  
+- Maneuvering clearances at all doors (section 404.2);  
+- Accessible operable window (section 229); and  
+- Accessible controls for the heat and air conditioning (section 309).  
 
 {% figure Plan 5B: 13-Foot Wide Accessible Guest Room %}
 {% asset project-images/plan5b_gst-rm.jpg alt="his drawing shows an accessible
@@ -6795,7 +6790,7 @@ The Department recognizes
   which to base revised requirements. The Access Board is conducting research to
   study this issue in order to determine if new requirements are warranted. For
   more information, see the Access Board&acute;s website at
-  http://www.access-board.gov/research/current-projects.htm#suny. The Department
+  [http://www.access-board.gov/research/current-projects.htm#suny](http://www.access-board.gov/research/current-projects.htm#suny). The Department
   plans to wait for the results of this study and action by the Access Board
   before considering any changes to the Department&acute;s rules. Covered entities may
   wish to consider providing more than the minimum amount of turning space in
