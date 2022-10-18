@@ -4193,7 +4193,7 @@ This layout is six point two percent (6.2%) larger than the accompanying Plan-1A
 {% figcaption %}
 Plan-1A Pair: 1991 Standards with Out-Swinging Doors - Two 5’-0” x 7’-3” Rooms– 72.50 Square Feet Total
 {% endfigcaption %}
-{% endfigure %}   
+{% endfigure %}
 
 {% figure 2010 Standards %}
 {% asset project-images/plan1b_pair.jpg alt="Plan-1B Pair: 2010 Standards with Out-Swinging Doors" %}  
@@ -4944,7 +4944,7 @@ These terms are not to be
   considered terms of art, but should be used as in their normal course. For
   example, &quot;class&quot; is defined by Webster&acute;s Dictionary as &quot;a division by
   quality.&quot; &quot;Type&quot; is defined as &quot;a
-  group of * * * things that share common traits or characteristics distinguishing
+  group of things that share common traits or characteristics distinguishing
   them as an identifiable group or class.&quot; Accordingly, these terms are not
   intended to convey different concepts, but are used as synonyms. In the 2010 Standards, section 224.5 and its advisory require dispersion in such a varied
   range of hotels and lodging facilities that the Department believes that the
@@ -5322,7 +5322,7 @@ The following accessible features are provided in the living area:
 - Accessible route (section 402);  
 - Clear floor space on both sides of the bed (section 806.2.3);  
 - Maneuvering clearances at all doors (section 404.2);Accessible operable window (section 309); and  
-- Accessible controls for the heat and air conditioning (section 309).   
+- Accessible controls for the heat and air conditioning (section 309).  
 
 {% figure Plan 1B: 13-Foot Wide Accessible Guest Room %}
 {% asset project-images/plan1b_gst-rm.jpg alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards." %}
@@ -6170,7 +6170,7 @@ A commenter requested
   rides. The commenter stated that the concept of wheelchair access through the
   exit or alternate routes was a base assumption for the 2010 Standards. The
   commenter noted that the concept is apparent in the signage and load/unload
-  area provisions in Section 216.12 (&quot; * * * where accessible unload areas also
+  area provisions in Section 216.12 (&quot;where accessible unload areas also
   serve as accessible load areas, signs indicating the location of the accessible
   load and unload areas shall be provided at entries to queues and waiting
   lines&quot;). The Department agrees with the commenter that accessible load and
@@ -6653,7 +6653,7 @@ The 2010 Standards
   platforms in play structures provides some flexibility for creative playground
   design.  
 
-**Accessible Play Components. **Accessible play components are required to be on accessible
+**Accessible Play Components.**  Accessible play components are required to be on accessible
   routes, including elevated play components that are required to be connected by
   ramps. These play components must also comply with other accessibility
   requirements, including specifications for clear floor space and seat heights
@@ -6734,7 +6734,7 @@ The Department also
   1009.2, a sloped entry compliant with section 1009.3, or a transfer system
   compliant with section 1009.5 of the 2010 Standards.  
 
-**Accessible Means of Entry to Wading Pools. **Sections 242.3 and 1009.3 of the 2010 Standards require that at least one sloped means of entry is required into the deepest part of
+**Accessible Means of Entry to Wading Pools.**  Sections 242.3 and 1009.3 of the 2010 Standards require that at least one sloped means of entry is required into the deepest part of
   each wading pool.  
 
 **Accessible Means of Entry to Spas.**  Sections 242.4 and 1009.2, 1009.4, and 1009.5 of the 2010
