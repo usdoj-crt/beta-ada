@@ -3147,7 +3147,7 @@ The Department believes
 
 **Common Use Circulation Paths in Employee Work Areas.** The 1991 Standards at section
   4.1.1(3), and the 2010 Standards at section 203.9, require employee work areas
-  in new construction and alterations <i>only</i> to
+  in new construction and alterations *only* to
   be designed and constructed so that individuals with disabilities can approach,
   enter, and exit the areas. Section 206.2.8 of the 2010 Standards requires
   accessible common use circulation paths within employee work areas unless they
@@ -3214,11 +3214,11 @@ These commenters
   misunderstand the scope of the provision. Nothing in the 2010 Standards
   requires all circulation paths in non-exempt areas to be accessible. The
   Department recognizes that building codes and fire and life safety codes, which
-  are adopted by all of the states, require <i>primary</i> circulation paths in facilities, including employee work areas, to be at least
+  are adopted by all of the states, require *primary* circulation paths in facilities, including employee work areas, to be at least
   36 inches wide for purposes of emergency egress. Accessible routes also are at
   least 36 inches wide. Therefore, the Department anticipates that covered
   entities will be able to satisfy the requirement to provide accessible
-  circulation paths by ensuring that their required <i>primary</i> circulation paths are accessible.  
+  circulation paths by ensuring that their required *primary* circulation paths are accessible.  
 
 Individual employee work
   stations, such as a grocery checkout counter or an automobile service bay
@@ -3231,7 +3231,7 @@ Individual employee work
   some employee work areas. For example, in a stock room of a department store
   significant existing physical constraints, such as having to move walls to
   avoid the loss of space to store inventory, may mean that it is technically
-  infeasible (<i>see</i> section 106.5 &quot;Defined Terms&quot; of the 2010
+  infeasible (*see* section 106.5 &quot;Defined Terms&quot; of the 2010
   Standards) to make even the primary common use circulation path in that stock
   room wide enough to be accessible. In addition, the 2010 Standards include
   exceptions for common use circulation paths in employee work areas where it may
@@ -3268,15 +3268,15 @@ Newly constructed
 
 The other issue in the
   comments represents a misunderstanding of the Department&acute;s existing regulatory
-  requirements. Employee common use areas in covered facilities (e.g<i>.</i>,
+  requirements. Employee common use areas in covered facilities (*e.g.*,
   locker rooms, break rooms, cafeterias, toilet rooms, corridors to exits, and
   other common use spaces) were required to be accessible under the 1991
   Standards; areas in which employees actually perform their jobs are required to
   enable a person using a wheelchair or mobility device to approach, enter, and
   exit the area. The 2010 Standards require increased access through the
-  accessible <i>common use</i> circulation
+  accessible *common use* circulation
   path requirement, but neither the 1991 Standards nor the 2010 Standards require
-  employee work stations to be accessible.  Access to specific employee <i>work stations</i> is governed by title I of the ADA.  
+  employee work stations to be accessible.  Access to specific employee *work stations* is governed by title I of the ADA.  
 
 #### 205 and 309 Operable Parts  
 
@@ -3449,7 +3449,7 @@ Commenters requested that
 Section 407.2.1.5 of the
   2010 Standards allows destination-oriented elevators to not provide call
   buttons with visible signals to indicate when each call is registered and when
-  each call is answered <i>provided</i> that visible and audible
+  each call is answered *provided* that visible and audible
   signals, compliant with 407.2.2 of the 2010 Standards, indicating which
   elevator car to enter, are provided. This will require the responding elevator
   car to automatically provide audible and visible communication so that the
@@ -3866,9 +3866,9 @@ Commenters questioned why
 
 The 1991 Standards
   require stairs to be accessible only when they provide access to floor levels
-  not otherwise connected by an accessible route (e.g<i>.</i>, where the accessible route is provided by an
+  not otherwise connected by an accessible route (*e.g.*, where the accessible route is provided by an
   elevator, lift, or ramp). The 2010 Standards, at sections 210.1 and 504,
-  require all <i>newly constructed stairs</i> that are part of a <i>means of egress</i> to comply with the requirements for accessible stairs, which include
+  require all *newly constructed stairs* that are part of a *means of egress* to comply with the requirements for accessible stairs, which include
   requirements for accessible treads, risers, and handrails. In existing
   facilities, where floor levels are connected by an accessible route, only the
   handrail requirement will apply when the stairs are altered. Exception 2 to
@@ -4132,25 +4132,23 @@ Additional floor plans of
 **Comparison of Single-User Toilet Room Layouts**
 
 {% figure 1991 Standards %}
-{% asset project-project-images/plan1a.jpg alt="2010 standard minimum with out-swinging door" %}  
+{% asset project-images/plan1a.jpg alt="2010 standard minimum with out-swinging door" %}  
 {% figcaption %}
-<strong>Plan-1A: 1991 Standards Minimum with Out-Swinging Door - 5’-0” x 7’-3” 36.25 Square Feet</strong>:  This plan shows a typical example of a single-user toilet room that meets the minimum requirements of the 1991 Standards. The size of this space is determined by the minimum width required for the water closet and lavatory between the side walls, the minimum wheelchair turning space, and the space required for the out-swinging door. A lavatory with knee space can overlap the clear floor space required for the water closet provided that at least 36 inches of clearance is maintained between the side wall next to the water closet and the lavatory (see section 4.16.2 and Fig. 28 of the 1991 Standards). A wheelchair turning space meeting section 4.2.3 of the 1991 Standards must be provided. The size of this room requires that the entry door swing out. The room would be larger if the door were in-swinging.
+<strong>Plan-1A: 1991 Standards Minimum with Out-Swinging Door - 5’-0” x 7’-3” 36.25 Square Feet:</strong>  This plan shows a typical example of a single-user toilet room that meets the minimum requirements of the 1991 Standards. The size of this space is determined by the minimum width required for the water closet and lavatory between the side walls, the minimum wheelchair turning space, and the space required for the out-swinging door. A lavatory with knee space can overlap the clear floor space required for the water closet provided that at least 36 inches of clearance is maintained between the side wall next to the water closet and the lavatory (see section 4.16.2 and Fig. 28 of the 1991 Standards). A wheelchair turning space meeting section 4.2.3 of the 1991 Standards must be provided. The size of this room requires that the entry door swing out. The room would be larger if the door were in-swinging.
 {% endfigcaption %}
 {% endfigure %}  
 
 {% figure 2010 Standards %}
-{% asset project-project-images/plan1b.jpg alt="2010 standard minimum with out-swinging door" %}  
+{% asset project-images/plan1b.jpg alt="2010 standard minimum with out-swinging door" %}  
 {% figcaption %}
-<strong>Plan-1B: 2010 Standards Minimum with Out-Swinging Door - 7’-0” x 5’-0” 35.00 Square Feet</strong>:  This plan shows a typical example of a single-user toilet room that meets the minimum requirements of the 2010 Standards. Features include: five-foot minimum width between the side wall of the water closet and the lavatory; 60-inch minimum circular wheelchair turning space; and 36-inch by 48-inch clear maneuvering space for the out-swinging entry door. Section 604.3.1 of the 2010 Standards requires a floor clearance at a water closet that is a minimum of 60 inches wide by 56 inches deep regardless of approach. Section 604.3.2 prohibits any other plumbing fixtures from being located in this clear space, except in residential dwelling units. The 2010 Standards, at section 304.3, allows the turning space to extend into toe and knee space provided beneath fixtures and other elements. Required maneuvering space for the entry door (inside the room) must be clear of all fixtures. If the door had both a closer and latch, section 404.2.4.1 and Figure 404.2.4.1(c) require additional space on the latch side.  
-
-This layout is three point five percent (3.5%) smaller than the accompanying Plan-1A: 1991 Standards Minimum with Out-Swinging Door example.
+<strong>Plan-1B: 2010 Standards Minimum with Out-Swinging Door - 7’-0” x 5’-0” 35.00 Square Feet</strong>:  This plan shows a typical example of a single-user toilet room that meets the minimum requirements of the 2010 Standards. Features include: five-foot minimum width between the side wall of the water closet and the lavatory; 60-inch minimum circular wheelchair turning space; and 36-inch by 48-inch clear maneuvering space for the out-swinging entry door. Section 604.3.1 of the 2010 Standards requires a floor clearance at a water closet that is a minimum of 60 inches wide by 56 inches deep regardless of approach. Section 604.3.2 prohibits any other plumbing fixtures from being located in this clear space, except in residential dwelling units. The 2010 Standards, at section 304.3, allows the turning space to extend into toe and knee space provided beneath fixtures and other elements. Required maneuvering space for the entry door (inside the room) must be clear of all fixtures. If the door had both a closer and latch, section 404.2.4.1 and Figure 404.2.4.1(c) require additional space on the latch side.  This layout is three point five percent (3.5%) smaller than the accompanying Plan-1A: 1991 Standards Minimum with Out-Swinging Door example.
 {% endfigcaption %}
 {% endfigure %}  
 
 **Comparison of Single-User Toilet Room Layouts**  
 
 {% figure 2010 Standards %}
-{% asset project-project-images/plan1c.jpg alt="Plan-1C: 2010 Standards Minimum with Out-Swinging Door (entry door has both closer and latch)" %}  
+{% asset project-images/plan1c.jpg alt="Plan-1C: 2010 Standards Minimum with Out-Swinging Door (entry door has both closer and latch)" %}  
 {% figcaption %}
 <strong>Plan-1C: 2010 Standards Minimum with Out-Swinging Door (entry door has both closer and latch)- 7’-0” x 5’-6” 38.50 Square Feet:</strong>  This plan shows the same typical features of a single-user toilet room that meets the minimum requirements of the 2010 Standards as Plan-1B does except the entry door has both a closer and latch. Because the door has both a closer and latch, a minimum additional foot of maneuvering space is required on the latch side (see section 404.2.4.1 and Figure 404.2.4.1(c) of the 2010 Standards).  
 
@@ -4161,14 +4159,14 @@ This layout is six point two percent (6.2%) larger than the accompanying Plan-1A
 **Comparison of Single-User Toilet Room Layouts**  
 
 {% figure 1991 Standards %}
-{% asset project-project-images/plan2a.jpg alt="Plan-2A: 1991 Standards Minimum with In-Swinging Door" %}  
+{% asset project-images/plan2a.jpg alt="Plan-2A: 1991 Standards Minimum with In-Swinging Door" %}  
 {% figcaption %}
 <strong>Plan-2A - 1991 Standards Minimum with In-Swinging Door - 5’-0” x 8’-6” 42.50 Square Feet:</strong>  This plan shows a typical example of a single-user toilet room that meets the minimum requirements of the 1991 Standards. Depending on the width of the hallway and other circulation issues, it can be preferable to swing the entry door into the toilet room. Businesses and public entities typically prefer to have an in-swinging door. The in-swinging door increases overall room size because it cannot swing over the required clear floor space at any accessible fixture, (see section 4.22.2 of the 1991 Standards). This increases the room depth from Plan-1A. The door is permitted to swing over the required turning space shown as a 60-inch circle.
 {% endfigcaption %}
 {% endfigure %}  
 
 {% figure 2010 Standards %}
-{% asset project-project-images/plan2b.jpg alt="Plan-2B: 2010 Standards Minimum with In-Swinging Door" %}  
+{% asset project-images/plan2b.jpg alt="Plan-2B: 2010 Standards Minimum with In-Swinging Door" %}  
 {% figcaption %}
 <strong>Plan-2B - 2010 Standards Minimum with In-Swinging Door - 7’-0” x 6’-6” 45.50 Square Feet:</strong>  This plan shows a typical example of a single-user toilet room that meets the minimum requirements of the 2010 Standards when the entry door swings into the room. In the 2010 Standards an exception allows the entry door to swing over the clear floor spaces and clearances required at the fixtures if a clear floor space complying with section 305.3 (minimum 30 inches by 48 inches) is provided outside the arc of the door swing, section 603.2.3 exception 2. The required maneuvering space for the door, section 404.2.4.1 and Figure 404.2.4.1(a), also is a factor in room size. This clear space cannot be obstructed by the plumbing fixtures. Note that this layout provides more space for turning when the door is closed than Plan-1B.  This layout is seven percent (7%) larger than the accompanying Plan-2A: 1991 Standards Minimum with In-Swinging Door example.
 {% endfigcaption %}
@@ -4177,7 +4175,7 @@ This layout is six point two percent (6.2%) larger than the accompanying Plan-1A
 **Comparison of Single-User Toilet Room Layouts**  
 
 {% figure 2010 Standards %}
-{% asset project-project-images/plan2c.jpg alt="Plan-2C: 2010 Standards Minimum with In-Swinging Door" %}  
+{% asset project-images/plan2c.jpg alt="Plan-2C: 2010 Standards Minimum with In-Swinging Door" %}  
 {% figcaption %}
 <strong>Plan-2C - 2010 Standards Minimum with In-Swinging Door - 7’-0” x 6’-6” 40.00 Square Feet (plumbing chase not included):</strong>  This plan shows the same typical features of a single-user toilet room that meets the minimum requirements of the 2010 Standards as Plan-2B when the entry door swings into the room. Note that this layout also provides more space for turning when the door is closed than Plan-1B.  This layout is six point two five percent (6.25%) smaller than the accompanying Plan-2A: 1991 Standards Minimum with In-Swinging Door example.
 {% endfigcaption %}
@@ -4185,7 +4183,7 @@ This layout is six point two percent (6.2%) larger than the accompanying Plan-1A
 
 **Comparison of Single-User Toilet Room Layouts**  
 {% figure 1991 and 2010 Standards %}
-{% asset project-project-images/plan3.jpg alt="Plan-3: Meets Both 1991 Standards and 2010 Standards" %}  
+{% asset project-images/plan3.jpg alt="Plan-3: Meets Both 1991 Standards and 2010 Standards" %}  
 {% figcaption %}
 <strong>Plan-3 - Meets Both 1991 Standards and 2010 Standards - 7’-0” x 5’-9” 40.25 Square Feet:</strong>  This plan shows an example of a single-user toilet room that meets the minimum requirements of both the 1991 Standards and 2010 Standards. A T-shaped turning space has been used (see Fig. 3(a) of the 1991 Standards and Figure 304.3.2 of the 2010 Standards) to maintain a compact room size. An out-swinging door also minimizes the overall layout depth and cannot swing over the required clear floor space or clearance at any accessible plumbing fixture.  This layout is eleven percent (11%) larger than the Plan-1A: 1991 Standards Minimum with Out-Swinging Door example shown at the beginning of these plan comparisons.
 {% endfigcaption %}
@@ -4193,25 +4191,23 @@ This layout is six point two percent (6.2%) larger than the accompanying Plan-1A
 
 **Comparison of Single-User Toilet Room “Pairs” With Fixtures Side-by-Side**  
 {% figure 1991 Standards %}
-{% asset project-project-images/plan1a_pair.jpg alt="" %}  
+{% asset project-images/plan1a_pair.jpg alt="" %}  
 {% figcaption %}
 Plan-1A Pair: 1991 Standards with Out-Swinging Doors - Two 5’-0” x 7’-3” Rooms– 72.50 Square Feet Total
 {% endfigcaption %}
 {% endfigure %}   
 
 {% figure 2010 Standards %}
-{% asset project-project-images/plan1b_pair.jpg alt="Plan-1B Pair: 2010 Standards with Out-Swinging Doors" %}  
+{% asset project-images/plan1b_pair.jpg alt="Plan-1B Pair: 2010 Standards with Out-Swinging Doors" %}  
 {% figcaption %}
-Plan-1A Pair: 1991 Standards with Out-Swinging Doors - Two 5’-0” x 7’-3” Rooms– 72.50 Square Feet Total
-
-<p><strong>These plans show men’s/women’s room configurations using Plans 1A and 1B.</strong></p>
+<strong>Plan-1A Pair: 1991 Standards with Out-Swinging Doors - Two 5’-0” x 7’-3” Rooms– 72.50 Square Feet Total:</strong>  These plans show men’s/women’s room configurations using Plans 1A and 1B.
 {% endfigcaption %}
 {% endfigure %}  
 
 **Comparison of Single-User Toilet Room “Pairs” With Fixtures Side-by-Side**  
 
 {% figure 2010 Standards %}
-{% asset project-project-images/plan2c_pair.jpg alt="Plan-2C Pair: 2010 Standards with In-Swinging Doors" %}  
+{% asset project-images/plan2c_pair.jpg alt="Plan-2C Pair: 2010 Standards with In-Swinging Doors" %}  
 {% figcaption %}
 <strong>Plan-2C Pair: 2010 Standards with In-Swinging Doors - Two 7’-2” x 6’-6” Rooms - 82.00 Square Feet Total</strong>:  This plan shows a men’s/women’s room configuration using Plan 2C.
 {% endfigcaption %}
@@ -4725,7 +4721,7 @@ Sections 221.2.3.2 and
   requirement to mean that wheelchair and companion seating must be provided in a
   particular area even if the accessible route may not be the same route that
   other individuals use to reach their seats. For example, if other patrons reach
-  their seats on the field by an inaccessible route (e.g<i>.</i>, by stairs), but there is an accessible route that
+  their seats on the field by an inaccessible route (*e.g.*, by stairs), but there is an accessible route that
   complies with section 206.3 that could be connected to seats on the field,
   accessible seats must be placed on the field even if that route is not
   generally available to the public. The 2010 Standards, at section 221.2.3.2,
@@ -5205,7 +5201,7 @@ Section 9.4 of the 1991 Standards
   transient lodging guest rooms that do not provide mobility features to provide
   at least 32 inches of clear width. Congress directed this requirement to be
   included so that individuals with disabilities could visit guests in other
-  rooms. <i>See</i> H. Rept. 101-485, pt. 2, at 118 (1990);
+  rooms. *See* H. Rept. 101-485, pt. 2, at 118 (1990);
   S. Rept. 101-116, at 70 (1989). Section 224.1.2 of the 2010 Standards adds a
   new exception to clarify that shower and sauna doors in such inaccessible guest
   rooms are exempt from the requirement for passage doors to provide at least 32
@@ -5300,502 +5296,423 @@ Commenters noted that on
 
 #### Transient Lodging Guest Room Floor Plans and Related Text  
 
-The Department has
-  included the following floor plans showing application of the requirements of
+The Department has included the following floor plans showing application of the requirements of
   the 2010 Standards without significant loss of guest room living space in
   transient lodging compared to the 1991 Standards.  
 
 {% figure Plan 1A: 13-Foot Wide Accessible Guest Room %}  
-{% asset project-project-images/plan1a_gst-rm.jpg alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards. Features include a standard bathtub with a seat, comparable vanity, clothes closet with swinging doors, and door connecting to adjacent guest room. Furnishings include a king bed and additional seating." %}  
+{% asset project-images/plan1a_gst-rm.jpg alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards." %}  
 {% figcaption %}
-The following accessible features are provided in the bathroom:  
-<ul>
-<li>Comparable vanity counter top space (section 806);  
-<li>Bathtub with a lavatory at the control end (section 607.2);  
-<li>Removable bathtub seat (section 607.3);  
-<li>Clearance in front of the bathtub extends its full length and is 30 inches wide min. (section 607.2);  
-<li>Recessed bathtub location permits shorter rear grab bar at water closet (section 604.5.2);  
-<li>Circular turning space in room (section 603.2.1);  
-<li>Required clear floor spaces at fixtures and turning space overlap (section 603.2.2);  
-<li>Turning space includes knee and toe clearance at lavatory (section 304.3);  
-<li>Water closet clearance is 60 inches at back wall and 56 inches deep (section 604.3);  
-<li>Centerline of the water closet at 16-18 inches from side wall (section 604.2); and  
-<li>No other fixtures or obstructions located within required water closet clearance (section 604.3).
-</ul>  
-The following accessible features are provided in the living area:  
-<ul>
-<li>T-shaped turning space (section 304.3.2);  
-<li>Accessible route (section 402);  
-<li>Clear floor space on both sides of the bed (section 806.2.3);  
-<li>Maneuvering clearances at all doors (section 404.2);Accessible operable window (section 309); and  
-<li>Accessible controls for the heat and air conditioning (section 309).
+Features include a standard bathtub with a seat, comparable vanity, clothes closet with swinging doors, and door connecting to adjacent guest room. Furnishings include a king bed and additional seating.
 {% endfigcaption %}
 {% endfigure %}  
 
+The following accessible features are provided in the bathroom:  
+
+- Comparable vanity counter top space (section 806);  
+- Bathtub with a lavatory at the control end (section 607.2);  
+- Removable bathtub seat (section 607.3);  
+- Clearance in front of the bathtub extends its full length and is 30 inches wide min. (section 607.2);  
+- Recessed bathtub location permits shorter rear grab bar at water closet (section 604.5.2);  
+- Circular turning space in room (section 603.2.1);  
+- Required clear floor spaces at fixtures and turning space overlap (section 603.2.2);  
+- Turning space includes knee and toe clearance at lavatory (section 304.3);  
+- Water closet clearance is 60 inches at back wall and 56 inches deep (section 604.3);  
+- Centerline of the water closet at 16-18 inches from side wall (section 604.2); and  
+- No other fixtures or obstructions located within required water closet clearance (section 604.3).  
+
+The following accessible features are provided in the living area:  
+- T-shaped turning space (section 304.3.2);  
+- Accessible route (section 402);  
+- Clear floor space on both sides of the bed (section 806.2.3);  
+- Maneuvering clearances at all doors (section 404.2);Accessible operable window (section 309); and  
+- Accessible controls for the heat and air conditioning (section 309).   
+
 {% figure Plan 1B: 13-Foot Wide Accessible Guest Room %}
-{% asset project-project-images/plan1b_gst-rm.jpg alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards. Features include a standard bathtub with a seat, comparable vanity, clothes closet with swinging doors, and door connecting to adjacent guest room. Furnishings include two beds."" %}  
+{% asset project-images/plan1b_gst-rm.jpg alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards." %}  
 {% figcaption %}
-<ul>
-<li>Comparable vanity counter top space (section 806);</li>
-<li>Bathtub with a lavatory at the control end (section 607.2);</li>
-<li>Removable bathtub seat (section 607.3);</li>
-<li>Clearance in front of the bathtub extends its full length and is 30 inches wide min. (section 607.2);</li>
-<li>Recessed bathtub location permits shorter rear grab bar at water closet (section 604.5.2);</li>
-<li>Circular turning space in room (section 603.2.1);</li>
-<li>Required clear floor spaces at fixtures and turning space overlap (section 603.2.2);</li>
-<li>Turning space includes knee and toe clearance at lavatory (section 304.3);</li>
-<li>Water closet clearance is 60 inches at back wall and 56 inches deep (section 604.3);</li>
-<li>Centerline of the water closet at 16-18 inches from side wall (section 604.2); and</li>
-<li>No other fixtures or obstructions located within required water closet clearance (section 604.3);</li>
-</ul>
+Features include a standard bathtub with a seat, comparable vanity, clothes closet with swinging doors, and door connecting to adjacent guest room. Furnishings include two beds.
 {% endfigcaption %}
 {% endfigure %}
 
+The following accessible features are provided in the bathroom:  
+
+- Comparable vanity counter top space (section 806);  
+- Bathtub with a lavatory at the control end (section 607.2);  
+- Removable bathtub seat (section 607.3);  
+- Clearance in front of the bathtub extends its full length and is 30 inches wide min. (section 607.2);  
+- Recessed bathtub location permits shorter rear grab bar at water closet (section 604.5.2);  
+- Circular turning space in room (section 603.2.1);  
+- Required clear floor spaces at fixtures and turning space overlap (section 603.2.2);  
+- Turning space includes knee and toe clearance at lavatory (section 304.3);  
+- Water closet clearance is 60 inches at back wall and 56 inches deep (section 604.3);  
+- Centerline of the water closet at 16-18 inches from side wall (section 604.2); and  
+- No other fixtures or obstructions located within required water closet clearance (section 604.3);  
+
+The following accessible features are provided in the living area:  
+
+- T-shaped turning space (section 304.3.2);  
+- Accessible route (section 402);  
+- Clear floor space between beds (section 806.2.3);  
+- Maneuvering clearances at all doors (section 404.2);  
+- Accessible operable window (section 309); and  
+- Accessible controls for the heat and air conditioning (section 309).  
+
 {% figure Plan 2A: 13-Foot Wide Accessible Guest Room %}
-{% asset project-project-images/pla2a_gst-rm.jpg alt="This drawing shows an accessible
-13-foot wide guest room with features that comply with the 2010 Standards.
+{% asset project-images/plan2a_gst-rm.jpg alt="This drawing shows an accessible
+13-foot wide guest room with features that comply with the 2010 Standards." %}  
+{% figcaption %}
 Features include a standard roll-in shower with a seat, comparable vanity,
 wardrobe, and door connecting to adjacent guest room. Furnishings include a
-king bed and additional seating." %}  
-{% figcaption %}
-<ul>
-<li>Comparable vanity counter top space (section 806);</li>
-<li>Bathtub with a lavatory at the control end (section 607.2);</li>
-<li>Removable bathtub seat (section 607.3);</li>
-<li>Clearance in front of the bathtub extends its full length and is 30 inches wide min. (section 607.2);</li>
-<li>Recessed bathtub location permits shorter rear grab bar at water closet (section 604.5.2);</li>
-<li>Circular turning space in room (section 603.2.1);</li>
-<li>Required clear floor spaces at fixtures and turning space overlap (section 603.2.2);</li>
-<li>Turning space includes knee and toe clearance at lavatory (section 304.3);</li>
-<li>Water closet clearance is 60 inches at back wall and 56 inches deep (section 604.3);</li>
-<li>Centerline of the water closet at 16-18 inches from side wall (section 604.2); and</li>
-<li>No other fixtures or obstructions located within required water closet clearance (section 604.3);</li>
-</ul>
+king bed and additional seating.  
 {% endfigcaption %}
 {% endfigure %}
 
-{% figure Plan 2A: 13-Foot Wide Accessible Guest Room %}
-{% asset project-project-images/pla2a_gst-rm.jpg alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards. Features include a standard roll-in shower with a seat, comparable vanity, wardrobe, and door connecting to adjacent guest room. Furnishings include a king bed and additional seating." %}  
-{% figcaption %}
-<ul>
-<li>Comparable vanity counter top space (section 806);</li>
-<li>Bathtub with a lavatory at the control end (section 607.2);</li>
-<li>Removable bathtub seat (section 607.3);</li>
-<li>Clearance in front of the bathtub extends its full length and is 30 inches wide min. (section 607.2);</li>
-<li>Recessed bathtub location permits shorter rear grab bar at water closet (section 604.5.2);</li>
-<li>Circular turning space in room (section 603.2.1);</li>
-<li>Required clear floor spaces at fixtures and turning space overlap (section 603.2.2);</li>
-<li>Turning space includes knee and toe clearance at lavatory (section 304.3);</li>
-<li>Water closet clearance is 60 inches at back wall and 56 inches deep (section 604.3);</li>
-<li>Centerline of the water closet at 16-18 inches from side wall (section 604.2); and</li>
-<li>No other fixtures or obstructions located within required water closet clearance (section 604.3);</li>
-</ul>
-{% endfigcaption %}
-{% endfigure %}
+The following accessible features are provided in the bathroom:  
+- Comparable vanity counter top space (section 806);  
+- Bathtub with a lavatory at the control end (section 607.2);  
+- Removable bathtub seat (section 607.3);  
+- Clearance in front of the bathtub extends its full length and is 30 inches wide min. (section 607.2);  
+- Recessed bathtub location permits shorter rear grab bar at water closet (section 604.5.2);  
+- Circular turning space in room (section 603.2.1);  
+- Required clear floor spaces at fixtures and turning space overlap (section 603.2.2);  
+- Turning space includes knee and toe clearance at lavatory (section 304.3);  
+- Water closet clearance is 60 inches at back wall and 56 inches deep (section 604.3);  
+- Centerline of the water closet at 16-18 inches from side wall (section 604.2); and  
+- No other fixtures or obstructions located within required water closet clearance (section 604.3);  
 
+The following accessible features are provided in the living area:  
 
+- T-shaped turning space (section 304.3.2);  
+- Accessible route (section 402);  
+- Clear floor space on both sides of the bed (section 806.2.3);  
+- Maneuvering clearances at all doors (section 404.2);  
+- Accessible operable window (section 309); and  
+- Accessible controls for the heat and air conditioning (section 309).  
 
 {% figure Plan 2B: 13-Foot Wide Accessible Guest Room %}
 {% asset project-images/plan2b_gst-rm.jpg alt="This drawing shows an accessible
-13-foot wide guest room with features that comply with the 2010 Standards.
+13-foot wide guest room with features that comply with the 2010 Standards." %}  
+{% figcaption %}
 Features include an alternate roll-in shower with a seat, comparable vanity,
 wardrobe, and door connecting to adjacent guest room. Furnishings include two
-beds." %}  
-{% figcaption %}
-<ul>
-  <li>Comparable vanity counter top space (section 806);</li>
-  <li>Alternate roll-in type shower with folding seat is 36 inches deep and 60 inches wide (section 608.2.3);</li>
-  <li>Alternate roll-in shower has a 36-inch wide entry at one end of the long side of the compartment (section 608.2.3);</li>
-  <li>Recessed alternate roll-in shower location permits shorter rear grab bar at water closet (section 604.5.2);</li>
-  <li>Circular turning space in room (section 603.2.1);</li>
-  <li>Required clear floor spaces at fixtures and turning space overlap (section 603.2.2);</li>
-  <li>Turning space includes knee and toe clearance at lavatory (section 304.3);</li>
-  <li>Water closet clearance is 60 inches at back wall and 56 inches deep (section 604.3);</li>
-  <li>Centerline of the water closet at 16-18 inches from side wall (section 604.2); and</li>
-  <li> No other fixtures or obstructions located within required water closet clearance (section 604.3)</li>
-</ul>  
+beds.
+{% endfigcaption %}
+{% endfigure %}  
+
+The following accessible features are provided in the bathroom:  
+
+- Comparable vanity counter top space (section 806);  
+- Alternate roll-in type shower with folding seat is 36 inches deep and 60 inches wide (section 608.2.3);  
+- Alternate roll-in shower has a 36-inch wide entry at one end of the long side of the compartment (section 608.2.3);  
+- Recessed alternate roll-in shower location permits shorter rear grab bar at water closet (section 604.5.2);  
+- Circular turning space in room (section 603.2.1);  
+- Required clear floor spaces at fixtures and turning space overlap (section 603.2.2);  
+- Turning space includes knee and toe clearance at lavatory (section 304.3);  
+- Water closet clearance is 60 inches at back wall and 56 inches deep (section 604.3);  
+- Centerline of the water closet at 16-18 inches from side wall (section 604.2); and  
+- No other fixtures or obstructions located within required water closet clearance (section 604.3)  
 
 The following accessible features are provided in the living area:  
 
-<ul>
-  <li>T-shaped turning space (section 304.3.2);</li>
-  <li>Accessible route (section 402);</li>
-  <li>Clear floor space between beds (section 806.2.3);</li>
-  <li>Maneuvering clearances at all doors (section 404.2);</li>
-  <li>Accessible operable window (section 309); and</li>
-  <li>Accessible controls for the heat and air conditioning (section 309).</li>
-</ul>
-{% endfigcaption %}
-{% endfigure %}  
+- T-shaped turning space (section 304.3.2);  
+- Accessible route (section 402);  
+- Clear floor space between beds (section 806.2.3);  
+- Maneuvering clearances at all doors (section 404.2);  
+- Accessible operable window (section 309); and  
+- Accessible controls for the heat and air conditioning (section 309).  
 
 {% figure Plan 3A: 12-Foot Wide Accessible Guest Room %}
-{% asset project-images/plan3a_gst-rm.jpg alt="This drawing shows an accessible 12-foot wide guest room with features that comply with the 2010 Standards.
+{% asset project-images/plan3a_gst-rm.jpg alt="This drawing shows an accessible 12-foot wide guest room with features that comply with the 2010 Standards." %}  
+{% figcaption %}
 Features include a bathtub with a seat, comparable vanity, open clothes closet,
 and door connecting to adjacent guest room. Furnishings include a king bed and
-additional seating." %}  
-{% figcaption %}
-The following accessible features are provided in the<br />
-  bathroom:  
-<ul>
-  <li> Comparable vanity counter top space (section
-806);</li>
-  <li>Bathtub (section 607.2);</li>
-  <li>Removable bathtub seat (section 607.3);</li>
-  <li>Clearance in front of the bathtub extends its full
-length and is 30 inches wide min. (section 607.2);</li>
-  <li>Recessed lavatory with vanity countertop permits
-shorter rear grab bar at water closet (section
-604.5.2);</li>
-  <li>Circular turning space in room (section 603.2.1);</li>
-  <li>Required clear floor spaces at fixtures and turning
-space overlap (section 603.2.2);</li>
-  <li>Turning space includes knee and toe clearance at
-lavatory (section 304.3);</li>
-  <li>Water closet clearance is 60 inches at back wall
-and 56 inches deep (section 604.3);</li>
-  <li>Centerline of the water closet at 16-18 inches from
-side wall (section 604.2); and</li>
-  <li>No other fixtures or obstructions located within
-required water closet clearance (section 604.3). </li>
-</ul>  
-
-The following accessible features are provided in the
-  living area:  
-<ul>
-  <li>T-shaped turning space (section 304.3.2);</li>
-  <li>Accessible route (section 402);</li>
-  <li>Clear floor space on both sides of the bed (section
-806.2.3);</li>
-  <li>Maneuvering clearances at all doors (section
-404.2);</li>
-  <li>Accessible operable window (section 309); and</li>
-  <li>Accessible controls for the heat and air
-conditioning (section 309).</li>
-</ul>
+additional seating.
 {% endfigcaption %}
 {% endfigure %}
 
+The following accessible features are provided in the bathroom:  
+
+- Comparable vanity counter top space (section 806);  
+- Bathtub (section 607.2);  
+- Removable bathtub seat (section 607.3);  
+- Clearance in front of the bathtub extends its full length and is 30 inches wide min. (section 607.2);  
+- Recessed lavatory with vanity countertop permits
+shorter rear grab bar at water closet (section
+604.5.2);  
+- Circular turning space in room (section 603.2.1);  
+- Required clear floor spaces at fixtures and turning
+space overlap (section 603.2.2);  
+- Turning space includes knee and toe clearance at lavatory (section 304.3);  
+- Water closet clearance is 60 inches at back wall
+and 56 inches deep (section 604.3);  
+- Centerline of the water closet at 16-18 inches from side wall (section 604.2); and  
+- No other fixtures or obstructions located within required water closet clearance (section 604.3).  
+
+The following accessible features are provided in the living area:  
+
+- T-shaped turning space (section 304.3.2);  
+- Accessible route (section 402);  
+- Clear floor space on both sides of the bed (section 806.2.3);  
+- Maneuvering clearances at all doors (section 404.2);  
+- Accessible operable window (section 309); and  
+- Accessible controls for the heat and air conditioning (section 309).  
 
 {% figure Plan 3B: 12-Foot Wide Accessible Guest Room %}
 {% asset project-images/plan3b_gst-rm.jpg alt="This drawing shows an accessible
-12-foot wide guest room with features that comply with the 2010 Standards.
+12-foot wide guest room with features that comply with the 2010 Standards." %}  
+{% figcaption %}
 Features include a standard roll-in shower with a seat, comparable vanity,
 wardrobe, and door connecting to adjacent guest room. Furnishings include two
-beds." %}  
-{% figcaption %}
-<p>The following accessible features are provided in the bathroom: </p>
-<ul>
-  <li>The following accessible features are provided in the
-bathroom:</li>
-  <li>Comparable vanity counter top space (section
-806);</li>
-  <li>Standard roll-in type shower with folding seat
-(section 608.2.2);</li>
-  <li>Recessed lavatory with vanity counter top permits
-shorter rear grab bar at water closet (section
-604.5.2);</li>
-  <li>Clear floor space adjacent to shower min. 30
-inches wide by 60 inches long (section 608.2.2);</li>
-  <li>Circular turning space in room (section 603.2.1);</li>
-  <li>Required clear floor spaces at fixtures and turning
-space overlap (section 603.2.2);</li>
-  <li>Turning space includes knee and toe clearance at
-lavatory (section 304.3);</li>
-  <li>Water closet clearance is 60 inches at back wall
-and 56 inches deep (section 604.3);</li>
-  <li>Centerline of the water closet at 16-18 inches from
-side wall (section 604.2); and</li>
-</ul>
-<p>No other fixtures or obstructions located within
-  required water closet clearance (section 604.3).
-  The following accessible features are provided in the
-  living area:</p>
-<ul>
-  <li>T-shaped turning space (section 304.3.2);</li>
-  <li>Accessible route (section 402);</li>
-  <li>Clear floor space between beds (section 806.2.3);</li>
-  <li>Maneuvering clearances at all doors (section
-404.2);</li>
-  <li>Accessible operable window (section 309); and</li>
-  <li>Accessible controls for the heat and air
-conditioning (section 309).</li>
-</ul>
+beds.
 {% endfigcaption %}
 {% endfigure %}
+
+The following accessible features are provided in the bathroom:  
+
+- The following accessible features are provided in the
+bathroom:
+- Comparable vanity counter top space (section
+806);
+- Standard roll-in type shower with folding seat
+(section 608.2.2);
+- Recessed lavatory with vanity counter top permits
+shorter rear grab bar at water closet (section
+604.5.2);
+- Clear floor space adjacent to shower min. 30
+inches wide by 60 inches long (section 608.2.2);
+- Circular turning space in room (section 603.2.1);
+- Required clear floor spaces at fixtures and turning
+space overlap (section 603.2.2);
+- Turning space includes knee and toe clearance at
+lavatory (section 304.3);
+- Water closet clearance is 60 inches at back wall
+and 56 inches deep (section 604.3);
+- Centerline of the water closet at 16-18 inches from
+side wall (section 604.2); and  
+- No other fixtures or obstructions located within
+  required water closet clearance (section 604.3).  
+
+The following accessible features are provided in the living area:
+
+- T-shaped turning space (section 304.3.2);
+- Accessible route (section 402);
+- Clear floor space between beds (section 806.2.3);
+- Maneuvering clearances at all doors (section
+404.2);
+- Accessible operable window (section 309); and
+- Accessible controls for the heat and air
+conditioning (section 309).  
 
 
 {% figure Plan 4A: 13-Foot Wide Accessible Guest Room %}
-{% asset project-images/plan4a_gst-rm.jpg alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards. Features include a standard roll-in shower with a seat, comparable vanity, clothes closet with swinging doors, and door connecting to adjacent guest room. Furnishings include a king bed and additional seating." %}  
+{% asset project-images/plan4a_gst-rm.jpg alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards." %}  
 {% figcaption %}
-<p>The following accessible features are provided in the
-  bathroom:</p>
-<ul>
-  <li>Comparable vanity counter top space (section
-806);</li>
-  <li>Standard roll-in type shower with folding seat
-(section 608.2.2);</li>
-  <li>Clear floor space adjacent to shower min. 30
-inches wide by 60 inches long (section 608.2.2);</li>
-  <li>Recessed roll-in shower location permits shorter
-rear grab bar at water closet (section 604.5.2);</li>
-  <li>Circular turning space in room (section 603.2.1);</li>
-  <li>Required clear floor spaces at fixtures and turning
-space overlap (section 603.2.2);</li>
-  <li>Turning space includes knee and toe clearance at
-lavatory (section 304.3);</li>
-  <li>Water closet clearance is 60 inches at back wall
-and 56 inches deep (section 604.3);</li>
-  <li>Centerline of the water closet at 16-18 inches from
-side wall (section 604.2); and</li>
-  <li>No other fixtures or obstructions located within
-required water closet clearance (section 604.3).</li>
-  <li>30-inch wide by 48-inch long minimum clear floor
-space provided beyond the arc of the swing of the
-entry door (section 603.2.3 exception 2). </li>
-</ul>
-<p>The following accessible features are provided in the
-  living area:</p>
-<ul>
-  <li>T-shaped turning space (section 304.3.2);</li>
-  <li>Accessible route (section 402);</li>
-  <li>Clear floor space on both sides of the bed (section
-806.2.3);</li>
-  <li>Maneuvering clearances at all doors (section
-404.2);</li>
-  <li>Accessible operable window (section 309); and</li>
-  <li>Accessible controls for the heat and air
-conditioning (section 309).
-13&rsquo;-0&rdquo;  7&rsquo;-6&rdquo;  15&rsquo;-4</li>
-</ul>
+Features include a standard roll-in shower with a seat, comparable vanity, clothes closet with swinging doors, and door connecting to adjacent guest room. Furnishings include a king bed and additional seating.
 {% endfigcaption %}
 {% endfigure %}  
 
+The following accessible features are provided in the bathroom:  
+
+- Comparable vanity counter top space (section
+806);
+- Standard roll-in type shower with folding seat
+(section 608.2.2);
+- Clear floor space adjacent to shower min. 30
+inches wide by 60 inches long (section 608.2.2);
+- Recessed roll-in shower location permits shorter
+rear grab bar at water closet (section 604.5.2);
+- Circular turning space in room (section 603.2.1);
+- Required clear floor spaces at fixtures and turning
+space overlap (section 603.2.2);
+- Turning space includes knee and toe clearance at
+lavatory (section 304.3);
+- Water closet clearance is 60 inches at back wall
+and 56 inches deep (section 604.3);
+- Centerline of the water closet at 16-18 inches from
+side wall (section 604.2); and
+- No other fixtures or obstructions located within
+required water closet clearance (section 604.3).
+- 30-inch wide by 48-inch long minimum clear floor
+space provided beyond the arc of the swing of the
+entry door (section 603.2.3 exception 2).  
+
+The following accessible features are provided in the living area:
+
+- T-shaped turning space (section 304.3.2);
+- Accessible route (section 402);
+- Clear floor space on both sides of the bed (section
+806.2.3);
+- Maneuvering clearances at all doors (section
+404.2);
+- Accessible operable window (section 309); and
+- Accessible controls for the heat and air
+conditioning (section 309).
+13&rsquo;-0&rdquo;  7&rsquo;-6&rdquo;  15&rsquo;-4  
 
 {% figure Plan 4B: 13-Foot Wide Accessible Guest Room %}
-{% asset project-images/plan4b_gst-rm.jpg alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards. Features include an alternate roll-in shower with a seat, comparable vanity, wardrobe, and door connecting to adjacent guest room. Furnishings include two beds." %}  
+{% asset project-images/plan4b_gst-rm.jpg alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards." %}  
 {% figcaption %}
-<p>The following accessible features are provided in the
-  bathroom:</p>
-<ul>
-  <li>Comparable vanity counter top space (section
-806);</li>
-  <li>Alternate roll-in type shower with folding seat is 36
-inches deep and 60 inches wide (section 608.2.3);</li>
-  <li>Alternate roll-in shower has a 36-inch wide entry
-at one end of the long end of the compartment
-(section 608.2.3);</li>
-  <li>Recessed alternate roll-in shower location permits
-shorter rear grab bar at water closet (section
-604.5.2);</li>
-  <li>Circular turning space in room (section 603.2.1);</li>
-  <li>Required clear floor spaces at fixtures and turning
-space overlap (section 603.2.2);</li>
-  <li>Turning space includes knee and toe clearance at
-lavatory (section 304.3);</li>
-  <li>Water closet clearance is 60 inches at back wall
-and 56 inches deep (section 604.3);</li>
-  <li>Centerline of the water closet at 16-18 inches from
-side wall (section 604.2); and</li>
-  <li>No other fixtures or obstructions located within
-required water closet clearance (section 604.3). </li>
-</ul>
-<p>The following accessible features are provided in the
-  living area:</p>
-<ul>
-  <li>T-shaped turning space (section 304.3.2);</li>
-  <li>Accessible route (section 402);</li>
-  <li>Clear floor space between beds (section 806.2.3);</li>
-  <li>Maneuvering clearances at all doors (section
-404.2);</li>
-  <li> Accessible operable window (section 309); and</li>
-  <li>Accessible controls for the heat and air
-conditioning (section 309).</li>
-</ul>
-{% endcaption %}
+Features include an alternate roll-in shower with a seat, comparable vanity, wardrobe, and door connecting to adjacent guest room. Furnishings include two beds.
+{% endfigcaption %}
 {% endfigure %}
 
-Plan 5A: 13-Foot Wide Accessible Guest Room
+The following accessible features are provided in the bathroom:  
+
+- Comparable vanity counter top space (section
+806);
+- Alternate roll-in type shower with folding seat is 36
+inches deep and 60 inches wide (section 608.2.3);
+- Alternate roll-in shower has a 36-inch wide entry
+at one end of the long end of the compartment
+(section 608.2.3);
+- Recessed alternate roll-in shower location permits
+shorter rear grab bar at water closet (section
+604.5.2);
+- Circular turning space in room (section 603.2.1);
+- Required clear floor spaces at fixtures and turning
+space overlap (section 603.2.2);
+- Turning space includes knee and toe clearance at
+lavatory (section 304.3);
+- Water closet clearance is 60 inches at back wall
+and 56 inches deep (section 604.3);
+- Centerline of the water closet at 16-18 inches from
+side wall (section 604.2); and
+- No other fixtures or obstructions located within
+required water closet clearance (section 604.3).  
+
+The following accessible features are provided in the living area:  
+
+- T-shaped turning space (section 304.3.2);
+- Accessible route (section 402);
+- Clear floor space between beds (section 806.2.3);
+- Maneuvering clearances at all doors (section
+404.2);
+-  Accessible operable window (section 309); and
+- Accessible controls for the heat and air
+conditioning (section 309).  
 
 
-<table width="775" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-<td colspan="2" id="main information2">
-<td>Plan 5A: 13-Foot Wide
-Accessible Guest Room</td>
-  <p>This drawing shows an accessible
-13-foot wide guest room with features that comply with the 2010 Standards.
+{% figure Plan 5A: 13-Foot Wide Accessible Guest Room %}
+{% asset project-images/plan5a_gst-rm.jpg alt="his drawing shows an accessible
+13-foot wide guest room with features that comply with the 2010 Standards." %}
+{% figcaption %}
 Features include a transfer shower, comparable vanity, clothes closet with
 swinging door, and door connecting to adjacent guest room. Furnishings include
-a king bed and additional seating.</p></td>
-  </tr>
-  <tr>
-<td width="321" class="tdboarder">
-  <img src="project-images/plan5a_gst-rm.jpg" alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards. Features include a transfer shower, comparable vanity, clothes closet with swinging door, and door connecting to adjacent guest room. Furnishings include a king bed and additional seating." width="300" height="496" /></td>
-<td width="454">
-  The following accessible features are provided in the bathroom:
-<ul>
-<li> Comparable vanity counter top space (section 806); </li>
-  <li> Transfer shower (section 603.2); </li>
-  <li> Shower seat (section 610.3); </li>
-  <li> Clearance in front of the shower extends beyond the seat and is 36 inches wide min. (section 607.2); </li>
-  <li> Recessed transfer shower location permits shorter rear grab bar at water closet (section 604.5.2); </li>
-  <li> Circular turning space in room (section 603.2.1); </li>
-  <li> Required clear floor spaces at fixtures and turning space overlap (section 603.2.2); </li>
-  <li> Water closet clearance is 60 inches at back wall and 56 inches deep (section 604.3); </li>
-  <li> Centerline of the water closet at 16 inches from side wall (section 604.2); and </li>
-  <li> No other fixtures or obstructions located within required water closet clearance (section 604.3). </li>
-</ul>
-<p> The following accessible features are provided in the living area: </p>
-<ul>
-<li> Circular turning space (section 304.3.2);</li>
-  <li> Accessible route (section 402);</li>
-  <li> Clear floor space on both sides of the bed (section 806.2.3);</li>
-  <li> Maneuvering clearances at all doors (section 404.2);</li>
-  <li> Accessible operable window (section 229); and</li>
-  <li> Accessible controls for the heat and air conditioning (section 309).</li>
-</ul></td>
-  </tr>
-</table>
+a king bed and additional seating.
+{% endfigcaption %}
+{% endfigure %}
 
+The following accessible features are provided in the bathroom:  
 
-Plan 5B: 13-Foot Wide Accessible Guest Room
+-  Comparable vanity counter top space (section 806);
+-  Transfer shower (section 603.2);
+-  Shower seat (section 610.3);
+-  Clearance in front of the shower extends beyond the seat and is 36 inches wide min. (section 607.2);
+-  Recessed transfer shower location permits shorter rear grab bar at water closet (section 604.5.2);
+-  Circular turning space in room (section 603.2.1);
+-  Required clear floor spaces at fixtures and turning space overlap (section 603.2.2);
+-  Water closet clearance is 60 inches at back wall and 56 inches deep (section 604.3);
+-  Centerline of the water closet at 16 inches from side wall (section 604.2); and
+-  No other fixtures or obstructions located within required water closet clearance (section 604.3).  
 
+The following accessible features are provided in the living area:  
 
+-  Circular turning space (section 304.3.2);
+-  Accessible route (section 402);
+-  Clear floor space on both sides of the bed (section 806.2.3);
+-  Maneuvering clearances at all doors (section 404.2);
+-  Accessible operable window (section 229); and
+-  Accessible controls for the heat and air conditioning (section 309).  
 
-<table width="775" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-<td colspan="2" id="main information2">
-<td>Plan 5B: 13-Foot Wide
-Accessible Guest Room</td>
-  <p>This drawing shows an accessible
-13-foot wide guest room with features that comply with the 2010 Standards. Features
-include a transfer shower, comparable vanity, open clothes closet, and door
-connecting to adjacent guest room. Furnishings include two beds.</p></td>
-  </tr>
-  <tr>
-<td width="321" class="tdboarder">
-  <img src="project-images/plan5b_gst-rm.jpg" alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards. Features include a transfer shower, comparable vanity, open clothes closet, and door connecting to adjacent guest room. Furnishings include two beds." width="300" height="500" /></td>
-<td width="454">
-The following accessible features are provided in the bathroom:<br />
-  <ul>
-<li> Comparable vanity counter top space (section 806);<br />
-</li>
-<li> Transfer shower (section 603.2);<br />
-</li>
-<li> Shower seat (section 610.3);<br />
-</li>
-<li> Clearance in front of the shower extends beyond the seat and is 36 inches wide min. (section 607.2);</li>
-<li> Lavatory with vanity counter top recessed to permit shorter rear grab bar at water closet (section 604.5.2);</li>
-<li> T-shaped turning space in room (section 603.2.1);</li>
-<li> Required clear floor spaces at fixtures and turning space overlap (section 603.2.2);</li>
-<li> Water closet clearance is 60 inches at back wall and 56 inches deep (section 604.3);</li>
-<li> Centerline of the water closet at 16-18 inches from side wall (section 604.2); and</li>
-<li> No other fixtures or obstructions located within required water closet clearance (section 604.3).</li>
-  </ul>
-<p> The following accessible features are provided in the living area: </p>
-<ul>
-<li> T-shaped turning space (section 304.3.2);</li>
-  <li> Accessible route (section 402);</li>
-  <li> Clear floor space between beds (section 806.2.3);</li>
-  <li> Maneuvering clearances at all doors (section 404.2);</li>
-  <li> Accessible operable window (section 229); and</li>
-  <li> Accessible controls for the heat and air conditioning (section 309).</li>
-</ul></td>
-  </tr>
-</table>
+{% figure Plan 5B: 13-Foot Wide Accessible Guest Room %}
+{% asset project-images/plan5b_gst-rm.jpg alt="his drawing shows an accessible
+13-foot wide guest room with features that comply with the 2010 Standards." %}
+{% figcaption %}
+Features include a transfer shower, comparable vanity, open clothes closet, and door
+connecting to adjacent guest room. Furnishings include two beds.  
+{% endfigcaption %}
+{% endfigure %}
 
+The following accessible features are provided in the bathroom:  
+- Comparable vanity counter top space (section 806);  
+- Transfer shower (section 603.2);  
+- Shower seat (section 610.3);  
+- Clearance in front of the shower extends beyond the seat and is 36 inches wide min. (section 607.2;  
+- Lavatory with vanity counter top recessed to permit shorter rear grab bar at water closet (section 604.5.2);  
+- T-shaped turning space in room (section 603.2.1);  
+- Required clear floor spaces at fixtures and turning space overlap (section 603.2.2);  
+- Water closet clearance is 60 inches at back wall and 56 inches deep (section 604.3);  
+- Centerline of the water closet at 16-18 inches from side wall (section 604.2);  
+- No other fixtures or obstructions located within required water closet clearance (section 604.3).  
 
-Plan 6A: 12-Foot Wide Accessible Guest Room
+The following accessible features are provided in the living area:  
 
-<table width="775" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-<td colspan="2" id="main information2">
-<td>Plan 6A: 12-Foot Wide
-Accessible Guest Room</td>
-  <p>This drawing shows an accessible
-12-foot wide guest room with features that comply with the 2010 Standards.
-Features include a transfer shower, water closet length (rim to rear wall) 24
-inches maximum, comparable vanity, clothes closet with swinging door, and door
-connecting to adjacent guest room. Furnishings include a king bed and
-additional seating.</p></td>
-  </tr>
-  <tr>
-<td width="321" class="tdboarder">
-  <img src="project-images/plan6a_gst-rm.jpg" alt="This drawing shows an accessible 12-foot wide guest room with features that comply with the 2010 Standards. Features include a transfer shower, water closet length (rim to rear wall) 24 inches maximum, comparable vanity, clothes closet with swinging door, and door connecting to adjacent guest room. Furnishings include a king bed and additional seating." width="300" height="544" /></td>
-<td width="454" valign="top">
+- T-shaped turning space (section 304.3.2);
+- Accessible route (section 402);
+- Clear floor space between beds (section 806.2.3);
+- Maneuvering clearances at all doors (section 404.2);
+- Accessible operable window (section 229); and
+- Accessible controls for the heat and air conditioning (section 309).  
 
-<p>The following accessible features are provided in the bathroom: </p>
-<ul>
-  <li> Comparable vanity counter top space (section 806);</li>
-  <li> Transfer shower (section 603.2);</li>
-  <li> Shower seat (section 610.3);</li>
-  <li> Clearance in front of the shower extends beyond the seat and is 36 inches wide min. (section 607.2);</li>
-  <li> Recessed lavatory with vanity counter top permits shorter rear grab bar at water closet (section 604.5.2);</li>
-  <li> T-shaped turning space in room (section 603.2.1);</li>
-  <li> Required clear floor spaces at fixtures and turning space overlap (section 603.2.2);</li>
-  <li> Water closet clearance is 60 inches at back wall and 56 inches deep (section 604.3);</li>
-  <li> Centerline of the water closet at 16 inches from side wall (section 604.2); and</li>
-  <li> No other fixtures or obstructions located within required water closet clearance (section 604.3).</li>
-</ul>
-<p> The following accessible features are provided in the living area:</p>
-<ul>
-  <li> T-shaped turning space (section 304.3.2);</li>
-  <li> Accessible route (section 402);</li>
-  <li> Clear floor space on both sides of the bed (section 806.2.3);</li>
-  <li> Maneuvering clearances at all doors (section 404.2);</li>
-  <li> Accessible operable window (section 229); and</li>
-  <li> Accessible controls for the heat and air conditioning (section 309).</li>
-</ul>
-  <p>&nbsp;</p></td>
-  </tr>
-</table>
+{% figure Plan 6A: 12-Foot Wide Accessible Guest Room %}
+{% asset project-images/plan6a_gst-rm.jpg alt="This drawing shows an accessible 12-foot wide guest room with features that comply with the 2010 Standards." %}
+{% figcaption %}
+Features include a transfer shower, water closet length (rim to rear wall) 24 inches maximum, comparable vanity, clothes closet with swinging door, and door connecting to adjacent guest room. Furnishings include a king bed and additional seating.
+{% endfigcaption %}
+{% endfigure %}
 
+The following accessible features are provided in the bathroom:  
+- Comparable vanity counter top space (section 806);
+- Transfer shower (section 603.2);
+- Shower seat (section 610.3);
+- Clearance in front of the shower extends beyond the seat and is 36 inches wide min. (section 607.2);
+- Recessed lavatory with vanity counter top permits shorter rear grab bar at water closet (section 604.5.2);
+- T-shaped turning space in room (section 603.2.1);
+- Required clear floor spaces at fixtures and turning space overlap (section 603.2.2);
+- Water closet clearance is 60 inches at back wall and 56 inches deep (section 604.3);
+- Centerline of the water closet at 16 inches from side wall (section 604.2); and
+- No other fixtures or obstructions located within required water closet clearance (section 604.3).  
 
-Plan 6B: 12-Foot Wide Accessible Guest Room
+The following accessible features are provided in the living area:  
+- T-shaped turning space (section 304.3.2);
+- Accessible route (section 402);
+- Clear floor space on both sides of the bed (section 806.2.3);
+- Maneuvering clearances at all doors (section 404.2);
+- Accessible operable window (section 229); and
+- Accessible controls for the heat and air conditioning (section 309).  
 
-
-<table width="775" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-<td colspan="2" id="main information2">
-<td>Plan 6B: 12-Foot Wide
-Accessible Guest Room</td>
-  <p>This drawing shows an accessible
-12-foot wide guest room with features that comply with the 2010 Standards.
+{% figure Plan 6B: 12-Foot Wide Accessible Guest Room %}
+{% asset project-images/plan6b_gst-rm.jpg alt="This drawing shows an accessible
+12-foot wide guest room with features that comply with the 2010 Standards." %}
+{% figcaption %}
 Features include a transfer shower, water closet length (rim to rear wall) 24
 inches maximum, comparable vanity, wardrobe, and door connecting to adjacent
-guest room. Furnishings include two beds.</p></td>
-  </tr>
-  <tr>
-<td width="323" class="tdboarder">
-  <img src="project-images/plan6b_gst-rm.jpg" alt="This drawing shows an accessible 12-foot wide guest room with features that comply with the 2010 Standards. Features include a transfer shower, water closet length (rim to rear wall) 24 inches maximum, comparable vanity, clothes closet with swinging door, and door connecting to adjacent guest room. Furnishings include a king bed and additional seating." width="300" height="551" /></td>
-<td width="452">
+guest room. Furnishings include two beds.
+{% endfigcaption %}
+{% endfigure %}
 
-<p>The following accessible features are provided in the bathroom: </p>
-<ul>
-  <li>Comparable vanity counter top space (section 806);</li>
-  <li>Transfer shower (section 603.2);</li>
-  <li>Shower seat (section 610.3);</li>
-  <li>Clearance in front of the shower extends beyond the seat and is 36 inches wide min. (section 607.2);</li>
-  <li>Recessed lavatory with vanity counter top permits shorter rear grab bar at water closet (section 604.5.2);</li>
-  <li>T-shaped turning space in room (section 603.2.1);</li>
-  <li>Required clear floor spaces at fixtures and turning space overlap (section 603.2.2);</li>
-  <li>Water closet clearance is 60 inches at back wall and 56 inches deep (section 604.3);</li>
-  <li>Centerline of the water closet at 16 inches from side wall (section 604.2); and</li>
-  <li>No other fixtures or obstructions located within required water closet clearance (section 604.3).</li>
-</ul>
-<p> The following accessible features are provided in the living area:</p>
-<ul>
-  <li>Circular turning space (section 304.3.2);</li>
-  <li>Accessible route (section 402);</li>
-  <li>Clear floor space between beds (section 806.2.3);</li>
-  <li>Maneuvering clearances at all doors (section
-404.2);</li>
-  <li>Accessible operable window (section 229); and</li>
-  <li>Accessible controls for the heat and air
-conditioning (section 309).</li>
-</ul></td>
-  </tr>
-</table>  
+The following accessible features are provided in the bathroom:  
+
+- Comparable vanity counter top space (section 806);
+- Transfer shower (section 603.2);
+- Shower seat (section 610.3);
+- Clearance in front of the shower extends beyond the seat and is 36 inches wide min. (section 607.2);
+- Recessed lavatory with vanity counter top permits shorter rear grab bar at water closet (section 604.5.2);
+- T-shaped turning space in room (section 603.2.1);
+- Required clear floor spaces at fixtures and turning space overlap (section 603.2.2);
+- Water closet clearance is 60 inches at back wall and 56 inches deep (section 604.3);
+- Centerline of the water closet at 16 inches from side wall (section 604.2); and
+- No other fixtures or obstructions located within required water closet clearance (section 604.3).  
+
+The following accessible features are provided in the living area:</p>
+
+- Circular turning space (section 304.3.2);
+- Accessible route (section 402);
+- Clear floor space between beds (section 806.2.3);
+- Maneuvering clearances at all doors (section 404.2);
+- Accessible operable window (section 229); and
+- Accessible controls for the heat and air conditioning (section 309).  
 
 #### 225 and 811 Storage  
 
