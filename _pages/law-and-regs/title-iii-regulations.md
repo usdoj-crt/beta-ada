@@ -34,9 +34,9 @@ This rule is also available in an accessible format on the ADA Home Page at [htt
 
 You may obtain copies of this rule in large print or on computer disk by calling the ADA Information Line listed above.  
 
-**SUPPLEMENTARY INFORMATION:**  
+## SUPPLEMENTARY INFORMATION  
 
-**The Roles of the Access Board and the Department of Justice**  
+ **The Roles of the Access Board and the Department of Justice**  
 
 The Access Board was established by section 502 of the Rehabilitation Act of 1973. 29 U.S.C. 792. The Board consists of 13 public members appointed by the President, the majority of whom must be individuals with disabilities, and the heads of 12 Federal departments and agencies specified by statute, including the heads of the Department of Justice and the Department of Transportation (DOT). Originally, the Access Board was established to develop and maintain accessibility guidelines for facilities designed, constructed, altered, or leased with Federal dollars under the Architectural Barriers Act of 1968 (ABA). 42 U.S.C. 4151 *et seq* The passage of the ADA expanded the Access Board's responsibilities.  
 
@@ -335,13 +335,13 @@ NOTE: These provisions update the relevant portions of the title III regulation 
 
 ### Subpart A – General  
 
-***&sect; <a name="a101" id="a101"></a>36.101 Purpose and broad coverage.***  
+#### &sect; 36.101 Purpose and broad coverage.  
 
 - **(a) *Purpose****.* The purpose of this part is to implement title III of the Americans with Disabilities Act of 1990 (42 U.S.C. 12181**–12189), as amended by the ADA Amendments Act of 2008 (ADA Amendments Act) (Public Law 110–325, 122 Stat. 3553 (2008))**, which prohibits discrimination on the basis of disability by**covered**public accommodations and requires places of public accommodation and commercial facilities to be designed, constructed, and altered in compliance with the accessibility standards established by this part.  
 
 **(b) *Broad coverage.*The primary purpose of the ADA Amendments Act is to make it easier for people with disabilities to obtain protection under the ADA. Consistent with the ADA Amendments Act's purpose of reinstating a broad scope of protection under the ADA, the definition of &ldquo;disability&rdquo; in this part shall be construed broadly in favor of expansive coverage to the maximum extent permitted by the terms of the ADA. The primary object of attention in cases brought under the ADA should be whether entities covered under the ADA have complied with their obligations and whether discrimination has occurred, not whether the individual meets the definition of &ldquo;disability.&rdquo; The question of whether an individual meets the definition of &ldquo;disability&rdquo; under this part should not demand extensive analysis.**  
 
-### &sect; <a name="a102" id="a102"></a>36.102 Application.  
+#### &sect; 36.102 Application.  
 
 (a) *General*. This part applies to any –  
 
@@ -364,7 +364,7 @@ NOTE: These provisions update the relevant portions of the title III regulation 
 
 (e) *Exemptions and exclusions*. This part does not apply to any private club (except to the extent that the facilities of the private club are made available to customers or patrons of a place of public accommodation), or to any religious entity or public entity.  
 
-### &sect; <a name="a103" id="a103"></a>36.103 Relationship to other laws.  
+#### &sect; 36.103 Relationship to other laws.  
 
 (a) *Rule of interpretation*. Except as otherwise provided in this part, this part shall not be construed to apply a lesser standard than the standards applied under title V of the Rehabilitation Act of 1973 (29 U.S.C. 791) or the regulations issued by Federal agencies pursuant to that title.  
 
@@ -372,7 +372,7 @@ NOTE: These provisions update the relevant portions of the title III regulation 
 
 (c) *Other laws*. This part does not invalidate or limit the remedies, rights, and procedures of any other Federal laws, or State or local laws (including State common law) that provide greater or equal protection for the rights of individuals with disabilities or individuals associated with them.  
 
-### &sect;<a name="a104" id="a104"></a> 36.104 Definitions.  
+#### &sect; 36.104 Definitions.  
 
 For purposes of this part, the term-  
 
@@ -491,7 +491,7 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 
 *Wheelchair* means a manually-operated or power-driven device designed primarily for use by an individual with a mobility disability for the main purpose of indoor or of both indoor and outdoor locomotion. This definition does not apply to Federal wilderness areas; wheelchairs in such areas are defined in section 508(c)(2) of the ADA, 42 U.S.C. 12207(c)(2).  
 
-### **&sect; 36.105 Definition of &ldquo;disability.&rdquo;**  
+##### **&sect; 36.105 Definition of &ldquo;disability.&rdquo;**  
 
 **(a)**  
 
@@ -602,7 +602,7 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 
 ### Subpart B – General Requirements  
 
-&sect; <a name="a201" id="a201"></a>36.201 General.  
+#### &sect; 36.201 General.  
 
 (a) *Prohibition of discrimination*. No individual shall be discriminated against on the basis of disability in the full and equal enjoyment of the goods, services, facilities, privileges, advantages, or accommodations of any place of public accommodation by any private entity who owns, leases (or leases to), or operates a place of public accommodation.  
 
@@ -610,14 +610,14 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 
 **(c)** *Claims of no disability.* Nothing in this part shall provide the basis for a claim that an individual without a disability was subject to discrimination because of a lack of disability, including a claim that an individual with a disability was granted a reasonable modification that was denied to an individual without a disability.  
 
-&sect; <a name="a202" id="a202"></a>36.202 Activities.  
+#### &sect; 36.202 Activities.  
 
 (a) *Denial of participation*. A public accommodation shall not subject an individual or class of individuals on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements, to a denial of the opportunity of the individual or class to participate in or benefit from the goods, services, facilities, privileges, advantages, or accommodations of a place of public accommodation.  
 (b) *Participation in unequal benefit*. A public accommodation shall not afford an individual or class of individuals, on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements, with the opportunity to participate in or benefit from a good, service, facility, privilege, advantage, or accommodation that is not equal to that afforded to other individuals.  
 (c) *Separate benefit*. A public accommodation shall not provide an individual or class of individuals, on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements with a good, service, facility, privilege, advantage, or accommodation that is different or separate from that provided to other individuals, unless such action is necessary to provide the individual or class of individuals with a good, service, facility, privilege, advantage, or accommodation, or other opportunity that is as effective as that provided to others.  
 (d) *Individual or class of individuals*. For purposes of paragraphs (a) through (c) of this section, the term &quot;individual or class of individuals&quot; refers to the clients or customers of the public accommodation that enters into the contractual, licensing, or other arrangement.  
 
-&sect; <a name="a203" id="a203"></a>36.203 Integrated settings.  
+#### &sect; 36.203 Integrated settings.  
 
 (a) *General*. A public accommodation shall afford goods, services, facilities, privileges, advantages, and accommodations to an individual with a disability in the most integrated setting appropriate to the needs of the individual.  
 (b) *Opportunity to participate*. Notwithstanding the existence of separate or different programs or activities provided in accordance with this subpart, a public accommodation shall not deny an individual with a disability an opportunity to participate in such programs or activities that are not separate or different.  
@@ -626,15 +626,15 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 (1) Nothing in this part shall be construed to require an individual with a disability to accept an accommodation, aid, service, opportunity, or benefit available under this part that such individual chooses not to accept.  
 (2) Nothing in the Act or this part authorizes the representative or guardian of an individual with a disability to decline food, water, medical treatment, or medical services for that individual.  
 
-&sect; <a name="a204" id="a204"></a>36.204 Administrative methods.  
+#### &sect; 36.204 Administrative methods.  
 
 A public accommodation shall not, directly or through contractual or other arrangements, utilize standards or criteria or methods of administration that have the effect of discriminating on the basis of disability, or that perpetuate the discrimination of others who are subject to common administrative control.  
 
-&sect; <a name="a205" id="a205"></a>36.205 Association.  
+#### &sect; 36.205 Association.  
 
 A public accommodation shall not exclude or otherwise deny equal goods, services, facilities, privileges, advantages, accommodations, or other opportunities to an individual or entity because of the known disability of an individual with whom the individual or entity is known to have a relationship or association.  
 
-&sect; <a name="a206" id="a206"></a>36.206 Retaliation or coercion.  
+#### &sect; 36.206 Retaliation or coercion.  
 
 (a) No private or public entity shall discriminate against any individual because that individual has opposed any act or practice made unlawful by this part, or because that individual made a charge, testified, assisted, or participated in any manner in an investigation, proceeding, or hearing under the Act or this part.  
 
@@ -647,18 +647,18 @@ A public accommodation shall not exclude or otherwise deny equal goods, services
 (3) Intimidating or threatening any person because that person is assisting or encouraging an individual or group entitled to claim the rights granted or protected by the Act or this part to exercise those rights; or  
 (4) Retaliating against any person because that person has participated in any investigation or action to enforce the Act or this part.  
 
-### 36.207 Places of public accommodation located in private residences,  
+#### &sect; 36.207 Places of public accommodation located in private residences,  
 
 (a) When a place of public accommodation is located in a private residence, the portion of the residence used exclusively as a residence is not covered by this part, but that portion used exclusively in the operation of the place of public accommodation or that portion used both for the place of public accommodation and for residential purposes is covered by this part.  
 
 (b) The portion of the residence covered under paragraph (a) of this section extends to those elements used to enter the place of public accommodation, including the homeowner's front sidewalk, if any, the door or entryway, and hallways; and those portions of the residence, interior or exterior, available to or used by customers or clients, including restrooms.  
 
-36.208 Direct threat.  
+#### &sect; 36.208 Direct threat.  
 
 (a) This part does not require a public accommodation to permit an individual to participate in or benefit from the goods, services, facilities, privileges, advantages and accommodations of that public accommodation when that individual poses a direct threat to the health or safety of others.  
 (b) In determining whether an individual poses a direct threat to the health or safety of others, a public accommodation must make an individualized assessment, based on reasonable judgment that relies on current medical knowledge or on the best available objective evidence, to ascertain: The nature, duration, and severity of the risk; the probability that the potential injury will actually occur; and whether reasonable modifications of policies, practices, or procedures or the provision of auxiliary aids or services will mitigate the risk.  
 
-36.209 Illegal use of drugs.  
+#### &sect; 36.209 Illegal use of drugs.  
 
 (a) *General*.  
 
@@ -680,17 +680,17 @@ A public accommodation shall not exclude or otherwise deny equal goods, services
 
 (2) Nothing in this paragraph (c) shall be construed to encourage, prohibit, restrict, or authorize the conducting of testing for the illegal use of drugs.  
 
-&sect; 36.210 Smoking.  
+#### &sect; 36.210 Smoking.  
 
 This part does not preclude the prohibition of, or the imposition of restrictions on, smoking in places of public accommodation.  
 
-&sect; 36.211 Maintenance of accessible features.  
+#### &sect; 36.211 Maintenance of accessible features.  
 
 (a) A public accommodation shall maintain in operable working condition those features of facilities and equipment that are required to be readily accessible to and usable by persons with disabilities by the Act or this part.  
 (b) This section does not prohibit isolated or temporary interruptions in service or access due to maintenance or repairs.  
 (c) If the 2010 Standards reduce the technical requirements or the number of required accessible elements below the number required by the 1991 Standards, the technical requirements or the number of accessible elements in a facility subject to this part may be reduced in accordance with the requirements of the 2010 Standards.  
 
-### 36.212 Insurance.  
+#### &sect; 36.212 Insurance.  
 
 (a) This part shall not be construed to prohibit or restrict –  
 
@@ -701,7 +701,7 @@ This part does not preclude the prohibition of, or the imposition of restriction
 (b) Paragraphs (a) (1), (2), and (3) of this section shall not be used as a subterfuge to evade the purposes of the Act or this part.  
 (c) A public accommodation shall not refuse to serve an individual with a disability because its insurance company conditions coverage or rates on the absence of individuals with disabilities.  
 
-#### 36.213 Relationship of subpart B to subparts C and D of this part.  
+#### &sect; 36.213 Relationship of subpart B to subparts C and D of this part.  
 
 Subpart B of this part sets forth the general principles of nondiscrimination applicable to all entities subject to this part. Subparts C and D of this part provide guidance on the application of the statute to specific situations. The specific provisions, including the limitations on those provisions, control over the general provisions in circumstances where both specific and general provisions apply.  
 
@@ -934,7 +934,7 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 
 (h) *Alternatives*. If provision of a particular auxiliary aid or service by a public accommodation would result in a fundamental alteration in the nature of the goods, services, facilities, privileges, advantages, or accommodations being offered or in an undue burden, *i.e.*, significant difficulty or expense, the public accommodation shall provide an alternative auxiliary aid or service, if one exists, that would not result in an alteration or such burden but would nevertheless ensure that, to the maximum extent possible, individuals with disabilities receive the goods, services, facilities, privileges, advantages, or accommodations offered by the public accommodation.  
 
-### &sect;<a name="a304" id="a304"></a>36.304 Removal of barriers.  
+### &sect; 36.304 Removal of barriers.  
 
 (a) *General*. A public accommodation shall remove architectural barriers in existing facilities, including communication barriers that are structural in nature, where such removal is readily achievable, *i.e.*, easily accomplishable and able to be carried out without much difficulty or expense.  
 
@@ -1048,7 +1048,7 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 (4) This requirement does not apply to guest rooms in existing facilities that are places of lodging where the guest rooms are not owned by the entity that owns, leases, or operates the overall facility and the physical features of the guest room interiors are controlled by their individual owners.  
 (5) With respect to facilities built before March 15, 2012, the requirements in this section for accessible means of entry for swimming pools, wading pools, and spas, as set forth in sections 242 and 1009 of the 2010 Standards, shall not apply until January 31, 2013.  
 
-### &sect; <a name="a305" id="a305"></a>36.305 Alternatives to barrier removal.  
+### &sect; 36.305 Alternatives to barrier removal.  
 
 (a) *General*. Where a public accommodation can demonstrate that barrier removal is not readily achievable, the public accommodation shall not fail to make its goods, services, facilities, privileges, advantages, or accommodations available through alternative methods, if those methods are readily achievable.  
 (b) *Examples*. Examples of alternatives to barrier removal include, but are not limited to, the following actions –  
@@ -1059,21 +1059,21 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 
 (c) *Multiscreen cinemas*. If it is not readily achievable to remove barriers to provide access by persons with mobility impairments to all of the theaters of a multiscreen cinema, the cinema shall establish a film rotation schedule that provides reasonable access for individuals who use wheelchairs to all films. Reasonable notice shall be provided to the public as to the location and time of accessible showings.  
 
-### &sect; <a name="a306" id="a306"></a>36.306 Personal devices and services.  
+### &sect; 36.306 Personal devices and services.  
 
 This part does not require a public accommodation to provide its customers, clients, or participants with personal devices, such as wheelchairs; individually prescribed devices, such as prescription eyeglasses or hearing aids; or services of a personal nature including assistance in eating, toileting, or dressing.  
 
-### &sect; <a name="a307" id="a307"></a>36.307 Accessible or special goods.  
+### &sect; 36.307 Accessible or special goods.  
 
 (a) This part does not require a public accommodation to alter its inventory to include accessible or special goods that are designed for, or facilitate use by, individuals with disabilities.  
 (b) A public accommodation shall order accessible or special goods at the request of an individual with disabilities, if, in the normal course of its operation, it makes special orders on request for unstocked goods, and if the accessible or special goods can be obtained from a supplier with whom the public accommodation customarily does business.  
 (c) Examples of accessible or special goods include items such as Brailled versions of books, books on audio cassettes, closed-captioned video tapes, special sizes or lines of clothing, and special foods to meet particular dietary needs.  
 
-### &sect; <a name="a308" id="a308"></a>36.308 Seating in assembly areas.  
+### &sect; 36.308 Seating in assembly areas.  
 
 A public accommodation shall ensure that wheelchair spaces and companion seats are provided in each specialty seating area that provides spectators with distinct services or amenities that generally are not available to other spectators. If it is not readily achievable for a public accommodation to place wheelchair spaces and companion seats in each such specialty seating area, it shall provide those services or amenities to individuals with disabilities and their companions at other designated accessible locations at no additional cost. The number of wheelchair spaces and companion seats provided in specialty seating areas shall be included in, rather than in addition to, wheelchair space requirements set forth in table 221.2.1.1 in the 2010 Standards.  
 
-### &sect; <a name="a309" id="a309"></a>36.309 Examinations and courses.  
+### &sect; 36.309 Examinations and courses.  
 
 (a) *General*. Any private entity that offers examinations or courses related to applications, licensing, certification, or credentialing for secondary or postsecondary education, professional, or trade purposes shall offer such examinations or courses in a place and manner accessible to persons with disabilities or offer alternative accessible arrangements for such individuals.  
 
@@ -1111,7 +1111,7 @@ A public accommodation shall ensure that wheelchair spaces and companion seats a
 
 (c) *Requirements for vehicles and systems*. A public accommodation subject to this section shall comply with the requirements pertaining to vehicles and transportation systems in the regulations issued by the Secretary of Transportation pursuant to section 306 of the Act.  
 
-### &sect;<a name="a311" id="a311"></a> 36.311 Mobility devices.  
+### &sect; 36.311 Mobility devices.  
 
 (a) *Use of wheelchairs and manually-powered mobility aids*. A public accommodation shall permit individuals with mobility disabilities to use wheelchairs and manually-powered mobility aids, such as walkers, crutches, canes, braces, or other similar devices designed for use by individuals with mobility disabilities in any areas open to pedestrian use.  
 
@@ -1173,7 +1173,7 @@ A public accommodation shall ensure that wheelchair spaces and companion seats a
 
 (3) The elevator exemption set forth in this paragraph (d) does not obviate or limit, in any way the obligation to comply with the other accessibility requirements established in paragraph (a) of this section. For example, in a facility that houses a shopping center or shopping mall, or a professional office of a health care provider, the floors that are above or below an accessible ground floor and that do not house sales or rental establishments or a professional office of a health care provider, must meet the requirements of this section but for the elevator.  
 
-### &sect; <a name="a402" id="a402"></a>36.402 Alterations.  
+### &sect; 36.402 Alterations.  
 
 (a) *General*.  
 
@@ -1187,7 +1187,7 @@ A public accommodation shall ensure that wheelchair spaces and companion seats a
 
 (c) *To the maximum extent feasible*. The phrase &quot;to the maximum extent feasible,&quot; as used in this section, applies to the occasional case where the nature of an existing facility makes it virtually impossible to comply fully with applicable accessibility standards through a planned alteration. In these circumstances, the alteration shall provide the maximum physical accessibility feasible. Any altered features of the facility that can be made accessible shall be made accessible. If providing accessibility in conformance with this section to individuals with certain disabilities (*e.g.*, those who use wheelchairs) would not be feasible, the facility shall be made accessible to persons with other types of disabilities (*e.g.*, those who use crutches, those who have impaired vision or hearing, or those who have other impairments).  
 
-### &sect;<a name="a403" id="a403"></a>36.403 Alterations: Path of travel.  
+### &sect; 36.403 Alterations: Path of travel.  
 
 (a) *General*.  
 
@@ -1245,7 +1245,7 @@ A public accommodation shall ensure that wheelchair spaces and companion seats a
 (i) If an area containing a primary function has been altered without providing an accessible path of travel to that area, and subsequent alterations of that area, or a different area on the same path of travel, are undertaken within three years of the original alteration, the total cost of alterations to the primary function areas on that path of travel during the preceding three year period shall be considered in determining whether the cost of making that path of travel accessible is disproportionate.  
 (ii) Only alterations undertaken after January 26, 1992, shall be considered in determining if the cost of providing an accessible path of travel is disproportionate to the overall cost of the alterations.  
 
-### &sect; <a name="a404" id="a404"></a>36.404 Alterations: Elevator exemption.  
+### &sect; 36.404 Alterations: Elevator exemption.  
 
 (a) This section does not require the installation of an elevator in an altered facility that is less than three stories or has less than 3,000 square feet per story, except with respect to any facility that houses a shopping center, a shopping mall, the professional office of a health care provider, a terminal, depot, or other station used for specified public transportation, or an airport passenger terminal.  
 
@@ -1257,12 +1257,12 @@ A public accommodation shall ensure that wheelchair spaces and companion seats a
 
 (b) The exemption provided in paragraph (a) of this section does not obviate or limit in any way the obligation to comply with the other accessibility requirements established in this subpart. For example, alterations to floors above or below the accessible ground floor must be accessible regardless of whether the altered facility has an elevator.  
 
-### &sect; <a name="a405" id="a405"></a>36.405 Alterations: Historic preservation.  
+### &sect; 36.405 Alterations: Historic preservation.  
 
 (a) Alterations to buildings or facilities that are eligible for listing in the National Register of Historic Places under the National Historic Preservation Act (16 U.S.C. 470 *et seq*) or are designated as historic under State or local law, shall comply to the maximum extent feasible with this part.  
 (b) If it is determined that it is not feasible to provide physical access to an historic property that is a place of public accommodation in a manner that will not threaten or destroy the historic significance of the building or the facility, alternative methods of access shall be provided pursuant to the requirements of subpart C of this part.  
 
-### &sect; <a name="a406" id="a406"></a>36.406 Standards for new construction and alterations.  
+### &sect; 36.406 Standards for new construction and alterations.  
 
 (a) *Accessibility standards and compliance date*.  
 
@@ -1276,7 +1276,6 @@ A public accommodation shall ensure that wheelchair spaces and companion seats a
 (ii) Newly constructed or altered facilities or elements covered by &sect;&sect; 36.401 or 36.402 that were constructed or altered before March 15, 2012 and that do not comply with the 1991 Standards shall, on or after March 15, 2012, be made accessible in accordance with the 2010 Standards.  
 
 ### Appendix to &sect; 36.406(a)  
-
 
 <table class="usa-table">
 <thead>
