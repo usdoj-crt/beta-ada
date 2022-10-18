@@ -7,6 +7,8 @@ lang: 'en'
 sidenav: true
 publish-date: 2016-10-11 00:00:00
 print: true
+back-to-top: true
+subnavigation: true
 ---
 
 ## Title II Regulations Supplementary Information
@@ -29,7 +31,7 @@ Final rule.<br/>
 _Effective Date:_ March 15, 2011.
 
 **FOR FURTHER INFORMATION CONTACT:**
-Janet L. Blizard, Deputy Chief, or Barbara J. Elkin, Attorney Advisor, Disability Rights Sec­tion, Civil Rights Division, U.S. Department of Justice, at (202) 307–0663 (voice or TTY). This is not a toll-free number. Information may also be obtained from the Department's toll-free ADA Information Line at (800) 514–0301 (voice) or (800) 514–0383 (TTY). This rule is also available in an accessible format on the ADA Home Page at _[ada.gov]({{'/' | relative_url}})_. You may obtain copies of this rule in large print or on computer disk by calling the ADA Information Line listed above.
+Janet L. Blizard, Deputy Chief, or Barbara J. Elkin, Attorney Advisor, Disability Rights Sec­tion, Civil Rights Division, U.S. Department of Justice, at (202) 307–0663 (voice or TTY). This is not a toll-free number. Information may also be obtained from the Department's toll-free ADA Information Line at {{ site.contact.tollfree }} (voice) or {{ site.contact.tty }} (TTY). This rule is also available in an accessible format on the ADA Home Page at _[ada.gov]({{'/' | relative_url}})_. You may obtain copies of this rule in large print or on computer disk by calling the ADA Information Line listed above.
 
 ### SUPPLEMENTARY INFORMATION:
 
@@ -45,7 +47,7 @@ ADA and to the provision of program accessibility under title II of the ADA are 
 
 ### Enactment of the ADA and Issuance of the 1991 Regulations
 
-On July 26, 1990, President George H.W. Bush signed into law the ADA, a comprehensive civil rights law prohibiting discrimination on the basis of disability.{% fn 1 %}The ADA broadly protects the rights of individuals with disabilities in employment, access to State and local government services, places of public accommodation, transportation, and other important areas of American life. The ADA also requires newly designed and constructed or altered State and local government facilities, public accommodations, and commercial facilities to be readily accessible to and usable by individuals with disabilities. 42 U.S.C. 12101 _et seq_. Section 204(a) of the ADA directs the Attorney General to issue regulations implementing part A of title II but exempts matters within the scope of the authority of the Secretary of Transportation under section 223, 229, or 244. _See_ 42 U.S.C. 12134. Section 229(a) and section 244 of the ADA direct the Secretary of Transportation to issue regulations implementing part B of title II, except for section 223. _See_ 42 U.S.C 12149; 42 U.S.C. 12164. Title II, which this rule addresses, applies to State and local government entities, and, in subtitle A, protects qualified individuals with disabilities from discrimination on the basis of disability in services, programs, and activities provided by State and local government entities. Title II extends the prohibition on discrimination established by section 504 of the Rehabilitation Act of 1973, as amended, 29 U.S.C. 794, to all activities of State and local governments regardless of whether these entities receive Federal financial assistance. 42 U.S.C. 12131B65.
+On July 26, 1990, President George H.W. Bush signed into law the ADA, a comprehensive civil rights law prohibiting discrimination on the basis of disability.{% fn 1 %} The ADA broadly protects the rights of individuals with disabilities in employment, access to State and local government services, places of public accommodation, transportation, and other important areas of American life. The ADA also requires newly designed and constructed or altered State and local government facilities, public accommodations, and commercial facilities to be readily accessible to and usable by individuals with disabilities. 42 U.S.C. 12101 _et seq_. Section 204(a) of the ADA directs the Attorney General to issue regulations implementing part A of title II but exempts matters within the scope of the authority of the Secretary of Transportation under section 223, 229, or 244. _See_ 42 U.S.C. 12134. Section 229(a) and section 244 of the ADA direct the Secretary of Transportation to issue regulations implementing part B of title II, except for section 223. _See_ 42 U.S.C 12149; 42 U.S.C. 12164. Title II, which this rule addresses, applies to State and local government entities, and, in subtitle A, protects qualified individuals with disabilities from discrimination on the basis of disability in services, programs, and activities provided by State and local government entities. Title II extends the prohibition on discrimination established by section 504 of the Rehabilitation Act of 1973, as amended, 29 U.S.C. 794, to all activities of State and local governments regardless of whether these entities receive Federal financial assistance. 42 U.S.C. 12131B65.
 
 Title III prohibits discrimination on the basis of disability in the activities of places of public accommodation (businesses that are generally open to the public and that fall into one of twelve categories listed in the ADA, such as restaurants, movie theaters, schools, day care facilities, recreational
 facilities, and doctors' offices) and requires newly constructed or altered places of public accommodation—as well as commercial facilities (privately
@@ -89,8 +91,9 @@ Most of the commenters responded to questions posed specifically by the Departme
 
 The Department of Justice regulation implementing title II, 28 CFR 35.103, provides the following:
 
-- (a) _Rule of interpretation._ Except as otherwise provided in this part, this part shall not be construed to apply a lesser standard than the standards applied under title V of the Rehabilitation Act of 1973 (29 U.S.C. 791) or the regulations issued by Federal agencies pursuant to that title.
-- (b)_Other laws._ This part does not invalidate or limit the remedies, rights, and procedures of any other Federal, State, or local laws (including State common law) that provide greater or equal protection for the rights of individuals with disabilities or individuals associated with them.\
+(a) _Rule of interpretation._ Except as otherwise provided in this part, this part shall not be construed to apply a lesser standard than the standards applied under title V of the Rehabilitation Act of 1973 (29 U.S.C. 791) or the regulations issued by Federal agencies pursuant to that title.
+
+(b)_Other laws._ This part does not invalidate or limit the remedies, rights, and procedures of any other Federal, State, or local laws (including State common law) that provide greater or equal protection for the rights of individuals with disabilities or individuals associated with them.\
 
 These provisions remain unchanged by the final rule. The Department recognizes that public entities subject to title II of the ADA may also be subject to title I of the ADA, which prohibits discrimination on the basis of disability in employment; section 504 of the Rehabilitation Act of 1973 and other Federal statutes that prohibit discrimination on the basis of disability in the programs and activities of recipients of Federal financial assistance; and other Federal statutes such as the Air Carrier Access Act (ACAA), 49 U.S.C. 41705 _et seq_., and the Fair Housing Act (FHAct), 42 U.S.C. 3601 _et seq_. Compliance with the Department's title II and title III regulations does not necessarily ensure compliance with other Federal statutes.
 
@@ -208,11 +211,15 @@ _Reduction in facility value and losses to individuals without disabilities due 
 
 The Department is also required to conduct a periodic regulatory review pursuant to section 610 of the RFA. The review requires agencies to consider five factors:
 
-- (1) The continued need for the rule;
-- (2) the nature of complaints or comments received concerning the rule from the public;
-- (3) the complexity of the rule;
-- (4) the extent to which the rule overlaps, duplicates, or conflicts with other Federal rules, and, to the extent feasible, with State and local governmental rules; and
-- (5) the length of time since the rule has been evaluated or the degree to which technology, economic conditions, or other factors have changed in the area affected by the rule. _See_ 5 U.S.C. 610(b). Based on these factors, the agency is required to determine whether to continue the rule without change or to amend or rescind the rule, to minimize any significant economic impact of the rule on a substantial number of small entities. _See id._ 610(a).
+(1) The continued need for the rule;
+
+(2) the nature of complaints or comments received concerning the rule from the public;
+
+(3) the complexity of the rule;
+
+(4) the extent to which the rule overlaps, duplicates, or conflicts with other Federal rules, and, to the extent feasible, with State and local governmental rules; and
+
+(5) the length of time since the rule has been evaluated or the degree to which technology, economic conditions, or other factors have changed in the area affected by the rule. _See_ 5 U.S.C. 610(b). Based on these factors, the agency is required to determine whether to continue the rule without change or to amend or rescind the rule, to minimize any significant economic impact of the rule on a substantial number of small entities. _See id._ 610(a).
 
 In developing the 2010 Standards, the Department reviewed the 1991 Standards section by section and, as a result, has made several clarifications and amendments in both the title II and title III implementing regulations. The changes reflect the Department's analysis and review of complaints or comments from the public, as well as changes in technology. Many of the amendments aim to clarify and simplify the obligations of covered entities. As discussed in greater detail above, one significant goal of the development of the 2004 ADAAG was to eliminate duplication or overlap in Federal accessibility guidelines, as well as to harmonize the Federal guidelines with model codes. The Department has also worked to create harmony where appropriate between the requirements of titles II and III. Finally, while the regulation is required by statute and there is a continued need for it as a whole, the Department proposes several modifications that are intended to reduce its effects on small entities.
 
@@ -224,13 +231,13 @@ The final rule also has been reviewed by the Small Business Administration's Off
 
 Section 604(a) lists the specific requirements for a FRFA. The Department has addressed these RFA requirements throughout the ANPRM, NPRM, the 2010 Standards, and the RIA. In summary, the Department has satisfied its FRFA obligations under section 604(a) by providing the following:
 
-1. _Succinct summaries of the need for, and objectives of, the final rules._ The Department is issuing this final rule in order to comply with its obligations under both the ADA and the SBREFA. The Department is also updating or amending certain provisions of the existing title II regulations so that they are consistent with the title III regulations and accord with the Department's legal and practical experiences in enforcing the ADA.
+<p>1. _Succinct summaries of the need for, and objectives of, the final rules._ The Department is issuing this final rule in order to comply with its obligations under both the ADA and the SBREFA. The Department is also updating or amending certain provisions of the existing title II regulations so that they are consistent with the title III regulations and accord with the Department's legal and practical experiences in enforcing the ADA.</p>
 
 The ADA requires the Department to adopt enforceable accessibility standards under the ADA that are consistent with the Access Board's minimum accessibility guidelines and requirements. Accordingly, this rule adopts ADA Chapter 1, ADA Chapter 2, and Chapters 3 through 10 of the 2004 ADA/ABA Guidelines as part of the 2010 Standards, which will give the guidelines legal effect with respect to the Department's title II and title III regulations.
 
 Under the SBREFA, the Department is required to perform a periodic review of its 1991 rule because the rule may have a significant economic impact on a substantial number of small entities. The SBREFA also requires the Department to make a regulatory assessment of the costs and benefits of any significant regulatory action. _See_ preamble sections of the final rules for titles II and III entitled, ‘‘Summary'' and ‘‘The Department's Rulemaking History''; Department of Justice ANPRM, 69 FR 58768, 58768–70 (Sept. 30, 2004) (outlining the regulatory history, goals, and rationale underlying DOJ's proposal to revise its regulations implementing titles II and III of the ADA); Department of Justice NPRM, 73 FR 34508, 34508– 14 (June 17, 2008) (outlining the regulatory history and rationale underlying DOJ's proposal to revise its regulations implementing titles II and III of the ADA).
 
-2. _Summaries of significant issues raised by public comments in response to the Department's initial regulatory flexibility analysis (IRFA) and discussions of regulatory revisions made as a result of such comments._ The Department received no comments addressing specific substantive issues regarding the IRFA for the title II NPRM. However, the Office of Advocacy (Advocacy) of the U.S. Small Business Administration did provide specific comments on the title III NPRM, which may be relevant to the title II IRFA. Accordingly, the Department has included those comments here.
+<p>2. _Summaries of significant issues raised by public comments in response to the Department's initial regulatory flexibility analysis (IRFA) and discussions of regulatory revisions made as a result of such comments._ The Department received no comments addressing specific substantive issues regarding the IRFA for the title II NPRM. However, the Office of Advocacy (Advocacy) of the U.S. Small Business Administration did provide specific comments on the title III NPRM, which may be relevant to the title II IRFA. Accordingly, the Department has included those comments here.</p>
 
 Advocacy acknowledged how the Department took into account the comments and concerns of small entities. However, Advocacy remained concerned about certain items in the Department's NPRM and requested clarification or additional guidance on certain items.
 
@@ -248,11 +255,11 @@ Some business commenters stated that the final rules would require them to devel
 
 Finally, commenters representing business interests expressed the view that the final rules would cause businesses to incur significant legal costs in order to defend ADA lawsuits. However, regulatory impact analyses are not an appropriate forum for assessing the cost covered entities may bear, or the repercussions they may face, for failing to comply (or allegedly failing to comply) with current law. _See_ Final RIA, Ch. 3, section 3.1.4, _id._, at Ch. 5, _id._ at table 15.
 
-3. _Estimates of the number and type of small entities to which the final rules will apply._ The Department estimates that the final rules will apply to approximately 89,000 facilities operated by small governmental jurisdictions covered by title II. _See_ Final RIA, Ch. 7, ‘‘Small Business Impact Analysis,'' table 17, and app. 5, ‘‘Small Business Data of the RIA'' (available for review at _[http://www.ada.gov]_({{'/' | relative_url}})); *see also* 73 FR 36964 (June 30, 2008), app. B: Initial Regulatory Assessment, sections entitled, ‘‘Regulatory Alternatives,'' ‘‘Regulatory Proposals with Cost Implications,'' and ‘‘Measurement of Incremental Benefits'' (estimating the number of small entities the Department believes may be impacted by the NPRM and calculating the likely incremental economic impact of these rules on small facilities or entities versus ‘‘typical'' (_i.e._, average-sized) facilities or entities).
+<p>3. _Estimates of the number and type of small entities to which the final rules will apply._ The Department estimates that the final rules will apply to approximately 89,000 facilities operated by small governmental jurisdictions covered by title II. _See_ Final RIA, Ch. 7, ‘‘Small Business Impact Analysis,'' table 17, and app. 5, ‘‘Small Business Data of the RIA'' (available for review at _[http://www.ada.gov]_({{'/' | relative_url}})); *see also* 73 FR 36964 (June 30, 2008), app. B: Initial Regulatory Assessment, sections entitled, ‘‘Regulatory Alternatives,'' ‘‘Regulatory Proposals with Cost Implications,'' and ‘‘Measurement of Incremental Benefits'' (estimating the number of small entities the Department believes may be impacted by the NPRM and calculating the likely incremental economic impact of these rules on small facilities or entities versus ‘‘typical'' (_i.e._, average-sized) facilities or entities).</p>
 
-4. _A description of the projected reporting, record-keeping, and other compliance requirements of the final rules, including an estimate of the classes of small entities that will be subject to the requirement and the type of professional skills necessary for preparation of the report or record._ The final rules impose no new recordkeeping or reporting requirements. _See_ preamble sections of the final rule for titles II and III entitled, ‘‘Paperwork Reduction Act.'' Small entities may incur costs as a result of complying with the final rules. These costs are detailed in the Final RIA, Chapter 7, ‘‘Small Business Impact Analysis'' and accompanying Appendix 5, ‘‘Small Business Data'' (available for review at _[http://www.ada.gov]_({{'/' | relative_url}})).
+<p>4. _A description of the projected reporting, record-keeping, and other compliance requirements of the final rules, including an estimate of the classes of small entities that will be subject to the requirement and the type of professional skills necessary for preparation of the report or record._ The final rules impose no new recordkeeping or reporting requirements. _See_ preamble sections of the final rule for titles II and III entitled, ‘‘Paperwork Reduction Act.'' Small entities may incur costs as a result of complying with the final rules. These costs are detailed in the Final RIA, Chapter 7, ‘‘Small Business Impact Analysis'' and accompanying Appendix 5, ‘‘Small Business Data'' (available for review at _[http://www.ada.gov]_({{'/' | relative_url}})).</p>
 
-5. _Descriptions of the steps taken by the Department to minimize any significant economic impact on small entities consistent with the stated objectives of the ADA, including the reasons for selecting the alternatives adopted in the final rules and for rejecting other significant alternatives._ From the outset of this rulemaking, the Department has been mindful of small entities and has taken numerous steps to minimize the impact of the final rule on small governmental jurisdictions. Several of these steps are summarized below.
+<p>5. _Descriptions of the steps taken by the Department to minimize any significant economic impact on small entities consistent with the stated objectives of the ADA, including the reasons for selecting the alternatives adopted in the final rules and for rejecting other significant alternatives._ From the outset of this rulemaking, the Department has been mindful of small entities and has taken numerous steps to minimize the impact of the final rule on small governmental jurisdictions. Several of these steps are summarized below.</p>
 
 As an initial matter, the Department— as a voting member of the Access Board—was extensively involved in the development of the 2004 ADAAG. These guidelines, which are incorporated into the 2010 Standards, reflect a conscious effort to mitigate any significant economic impact on small entities in several respects. First, one of the express goals of the 2004 ADAAG is harmonization of Federal accessibility guidelines with industry standards and model codes that often form the basis of State and local building codes, thereby minimizing the impact of these guidelines on all covered entities, but especially small entities. Second, the 2004 ADAAG is the product of a 10-year rulemaking effort in which a host of private and public entities, including groups representing government entities, worked cooperatively to develop accessibility guidelines that achieved an appropriate balance between accessibility and cost. For example, as originally recommended by the Access Board's Recreation Access Advisory Committee, all holes on a miniature golf course would be required to be accessible except for sloped surfaces where the ball could not come to rest. _See_, *e.g.*, ‘‘ADA Accessibility Guidelines for Buildings and Facilities—Recreation Facilities and Outdoor Developed Areas,'' Access Board Advance Notice of Proposed Rulemaking, 59 FR 48542 (Sept. 21, 1994). Miniature golf trade groups and facility operators, who are nearly all small businesses or small governmental jurisdictions, expressed significant concern that such requirements would be prohibitively expensive, require additional space, and might fundamentally alter the nature of their courses. _See_, *e.g.*, ‘‘ADA Accessibility Guidelines for Buildings and Facilities—Recreation Facilities,'' Access Board Notice of Proposed Rulemaking, 64 FR 37326 (July 9, 1999). In consideration of such concerns, and after holding informational meetings with miniature golf representatives and persons with disabilities, the Access Board significantly revised the final miniature golf guidelines. The final guidelines not only reduced significantly the number of holes required to be accessible to 50 percent of all holes (with one break in the sequence of consecutive holes permitted), but also added an exemption for carpets used on playing surfaces, modified ramp landing slope and size requirements, and reduced the space _See_,_e.g._, ‘‘ADA Accessibility Guidelines for Buildings and Facilities—Recreation Facilities Final Rule,'' 67 FR 56352, 56375B76 (Sept. 3, 2002) (codified at 36 CFR parts 1190 and 1191).
 
@@ -306,18 +313,11 @@ Administrative practice and procedure, Buildings and facilities, Civil rights, C
 
 - By the authority vested in me as Attorney General by law, including 28 U.S.C. 509 and 510, 5 U.S.C. 301, and section 204 of the Americans with Disabilities Act of 1990, Pub. L. 101– 336, 42 U.S.C. 12134, and for the reasons set forth in Appendix A to 28 CFR part 35, chapter I of title 28 of the Code of Federal Regulations shall be amended as follows—
 
-{% footnotes %}
-{% fnbody 1 %}
-On September 25, 2008, President George W. Bush signed into law the Americans with Disabilities Amendments Act of 2008 (ADA Amendments Act), Public Law 110-325. The ADA Amendments Act amended the ADA definition of disability to clarify its coverage of persons with disabilities and to provide guidance on the application of the definition. This final rule does not contain regulatory language implementing the ADA Amendments Act. The Department intends to publish a supplemental rule to amend the regulatory definition of "disability'' to implement the changes mandated by that law.
-{% endfnbody %}
-{% fnbody 2 %}
-The analysis assumes these regulations will be in force for 15 years. Incremental costs and benefits are calculated for all construction, alterations, and barrier removal that is expected to occur during these 15 years. The analysis also assumes that any new or revised ADA rules enacted 15 years from now will include a safe harbor provision. Thus, any facilities constructed in year 14 of the final rules are assumed to continue to generate benefits to users, and to incur any operating or replacement costs for the life of these buildings, which is assumed to be 40 years.regularly taught in rehabilitation and occupational therapy. Currently, persons who use side or parallel transfer methods from their wheelchairs are faced with a stark choice at establishments with single-user toilet rooms—_i.e._, patronize the establishment but run the risk of needing assistance when using the restroom, travel with someone who would be able to provide assistance in toileting, or forgo the visit entirely. The revised water closet clearance regulations would make single-user toilet rooms accessible to all persons who use wheelchairs, not just those with the physical strength, balance, and dexterity and the training to use a front-transfer method. Single-user toilet rooms are located in a wide variety of public and private facilities, including restaurants, fast-food establishments, schools, retail stores, parks, sports stadiums, and hospitals. Final promulgation of these requirements might thus, for example, enable a person who uses a side or parallel transfer method to use the restroom (or use the restroom independently) at his or her local coffee shop for the first time.
-{% endfnbody %}
-{% endfootnotes %}
-
 ## Title II Regulations Revised Final Title II Regulation with Integrated Text
 
-NOTE: These provisions update the relevant portions of the title II regulation to incorporate changes made to the regulatory text through October 11, 2016. These modifications stem from the Pool Extension Final Rule (77 FR 30174, published May 21, 2012) and the ADA Amendments Act Final Rule (81 FR 53202, published Aug. 11, 2016). All section headings and changes are noted in bold.
+<div class="usa-summary-box related-content-container border-0 padding-2 bg-primary-lighter">
+<p>NOTE: These provisions update the relevant portions of the title II regulation to incorporate changes made to the regulatory text through October 11, 2016. These modifications stem from the Pool Extension Final Rule (77 FR 30174, published May 21, 2012) and the ADA Amendments Act Final Rule (81 FR 53202, published Aug. 11, 2016). All section headings and changes are noted in bold.</p>
+</div>
 
 <strong>Part 35 Nondiscrimination on the Basis of Disability in State and Local Government Services <br /> (as amended by the final rule published on August 11, 2016)</strong>
 
@@ -333,13 +333,15 @@ NOTE: These provisions update the relevant portions of the title II regulation t
 
 ### &sect; 35.102 Application.
 
-- (a) Except as provided in paragraph (b) of this section, this part applies to all services, programs, and activities provided or made available by public entities.
-- (b) To the extent that public transportation services, programs, and activities of public entities are covered by subtitle B of title II of the ADA, they are not subject to the requirements of this part.
+(a) Except as provided in paragraph (b) of this section, this part applies to all services, programs, and activities provided or made available by public entities.
+
+(b) To the extent that public transportation services, programs, and activities of public entities are covered by subtitle B of title II of the ADA, they are not subject to the requirements of this part.
 
 ### &sect; 35.103 Relationship to other laws.
 
-- (a) Rule of interpretation. Except as otherwise provided in this part, this part shall not be construed to apply a lesser standard than the standards applied under title V of the Rehabilitation Act of 1973 or the regulations issued by Federal agencies pursuant to that title.
-- (b) Other laws. This part does not invalidate or limit the remedies, rights, and procedures of any other Federal laws, or State or local laws (including State common law) that provide greater or equal protection for the rights of individuals with disabilities or individuals associated with them.
+(a) Rule of interpretation. Except as otherwise provided in this part, this part shall not be construed to apply a lesser standard than the standards applied under title V of the Rehabilitation Act of 1973 or the regulations issued by Federal agencies pursuant to that title.
+
+(b) Other laws. This part does not invalidate or limit the remedies, rights, and procedures of any other Federal laws, or State or local laws (including State common law) that provide greater or equal protection for the rights of individuals with disabilities or individuals associated with them.
 
 ### Section 35.104 Definitions.
 
@@ -357,10 +359,13 @@ Assistant Attorney General means the Assistant Attorney General, Civil Rights Di
 
 Auxiliary aids and services includes&#8212;
 
-- (1) Qualified interpreters on-site or through video remote interpreting (VRI) services; notetakers; real-time computer-aided transcription services; written materials; exchange of written notes; telephone handset amplifiers; assistive listening devices; assistive listening systems; telephones compatible with hearing aids; closed caption decoders; open and closed captioning, including real-time captioning; voice, text, and video-based telecommunications products and systems, including text telephones (TTYs), videophones, and captioned telephones, or equally effective telecommunications devices; videotext displays; accessible electronic and information technology; or other effective methods of making aurally delivered information available to individuals who are deaf or hard of hearing;
-- (2) Qualified readers; taped texts; audio recordings; Brailled materials and displays; screen reader software; magnification software; optical readers; secondary auditory programs (SAP); large print materials; accessible electronic and information technology; or other effective methods of making visually delivered materials available to individuals who are blind or have low vision;
-- (3) Acquisition or modification of equipment or devices; and
-- (4) Other similar services and actions.
+(1) Qualified interpreters on-site or through video remote interpreting (VRI) services; notetakers; real-time computer-aided transcription services; written materials; exchange of written notes; telephone handset amplifiers; assistive listening devices; assistive listening systems; telephones compatible with hearing aids; closed caption decoders; open and closed captioning, including real-time captioning; voice, text, and video-based telecommunications products and systems, including text telephones (TTYs), videophones, and captioned telephones, or equally effective telecommunications devices; videotext displays; accessible electronic and information technology; or other effective methods of making aurally delivered information available to individuals who are deaf or hard of hearing;
+
+(2) Qualified readers; taped texts; audio recordings; Brailled materials and displays; screen reader software; magnification software; optical readers; secondary auditory programs (SAP); large print materials; accessible electronic and information technology; or other effective methods of making visually delivered materials available to individuals who are blind or have low vision;
+
+(3) Acquisition or modification of equipment or devices; and
+
+(4) Other similar services and actions.
 
 Complete complaint means a written statement that contains the complainant's name and address and describes the public entity's alleged discriminatory action in sufficient detail to inform the agency of the nature and date of the alleged violation of this part. It shall be signed by the complainant or by someone authorized to do so on his or her behalf. Complaints filed on behalf of classes or third parties shall describe or identify (by name, if possible) the alleged victims of discrimination.
 
@@ -392,9 +397,11 @@ Other power-driven mobility device means any mobility device powered by batterie
 
 Public entity means&#8212;
 
-- (1) Any State or local government;
-- (2) Any department, agency, special purpose district, or other instrumentality of a State or States or local government; and
-- (3) The National Railroad Passenger Corporation, and any commuter authority (as defined in section 103(8) of the Rail Passenger Service Act).
+(1) Any State or local government;
+
+(2) Any department, agency, special purpose district, or other instrumentality of a State or States or local government; and
+
+(3) The National Railroad Passenger Corporation, and any commuter authority (as defined in section 103(8) of the Rail Passenger Service Act).
 
 Qualified individual with a disability means an individual with a disability who, with or without reasonable modifications to rules, policies, or practices, the removal of architectural, communication, or transportation barriers, or the provision of auxiliary aids and services, meets the essential eligibility requirements for the receipt of services or the participation in programs or activities provided by a public entity.
 
@@ -412,14 +419,20 @@ Wheelchair means a manually-operated or power-driven device designed primarily f
 
 ### &sect; 35.105 Self-evaluation.
 
-- (a) A public entity shall, within one year of the effective date of this part, evaluate its current services, policies, and practices,
+(a) A public entity shall, within one year of the effective date of this part, evaluate its current services, policies, and practices,
   and the effects thereof, that do not or may not meet the requirements of this part and, to the extent modification of any such services, policies, and practices is required, the public entity shall proceed to make the necessary modifications.
-- (b) A public entity shall provide an opportunity to interested persons, including individuals with disabilities or organizations representing individuals with disabilities, to participate in the self-evaluation process by submitting comments.
-- (c) A public entity that employs 50 or more persons shall, for at least three years following completion of the self-evaluation, maintain on file and make available for public inspection:
-  - (1) A list of the interested persons consulted;
-  - (2) A description of areas examined and any problems identified; and
-  - (3) A description of any modifications made.
-- (d) If a public entity has already complied with the self-evaluation requirement of a regulation implementing section 504 of the Rehabilitation Act of 1973, then the requirements of this section shall apply only to those policies and practices that were not included in the previous self- evaluation.
+
+(b) A public entity shall provide an opportunity to interested persons, including individuals with disabilities or organizations representing individuals with disabilities, to participate in the self-evaluation process by submitting comments.
+
+(c) A public entity that employs 50 or more persons shall, for at least three years following completion of the self-evaluation, maintain on file and make available for public inspection:
+
+(1) A list of the interested persons consulted;
+
+(2) A description of areas examined and any problems identified; and
+
+(3) A description of any modifications made.
+
+(d) If a public entity has already complied with the self-evaluation requirement of a regulation implementing section 504 of the Rehabilitation Act of 1973, then the requirements of this section shall apply only to those policies and practices that were not included in the previous self- evaluation.
 
 ### &sect; 35.106 Notice
 
@@ -427,85 +440,155 @@ A public entity shall make available to applicants, participants, beneficiaries,
 
 ### &sect; 35.107 Designation of responsible employee and adoption of grievance procedures
 
-- (a) Designation of responsible employee. A public entity that employs 50 or more persons shall designate at least one employee to
-  coordinate its efforts to comply with and carry out its responsibilities under this part, including any investigation of any complaint communicated to it alleging its noncompliance with this part or alleging any actions that would be prohibited by this part. The public entity shall make available to all interested individuals the name, office address, and telephone number of the employee or employees designated pursuant to this paragraph.
-- (b) Complaint procedure. A public entity that employs 50 or more persons shall adopt and publish grievance procedures providing for prompt and equitable resolution of complaints alleging any action that would be prohibited by this part.
+(a) Designation of responsible employee. A public entity that employs 50 or more persons shall designate at least one employee to
+coordinate its efforts to comply with and carry out its responsibilities under this part, including any investigation of any complaint communicated to it alleging its noncompliance with this part or alleging any actions that would be prohibited by this part. The public entity shall make available to all interested individuals the name, office address, and telephone number of the employee or employees designated pursuant to this paragraph.
+
+(b) Complaint procedure. A public entity that employs 50 or more persons shall adopt and publish grievance procedures providing for prompt and equitable resolution of complaints alleging any action that would be prohibited by this part.
 
 <strong>§ 35.108 Definition of disability</strong>
 
-- **(a)**
-  - **(1) Disability means, with respect to an individual:**
-    - <strong>(i) A physical or mental impairment that substantially limits one or more of the major life activities of such individual;</strong>
-    - <strong>(ii) A record of such an impairment; or </strong>
-    - <strong>(iii) Being regarded as having such an impairment as described in paragraph (f) of this section.</strong> </blockquote>
-  - <strong>(2) Rules of construction. </strong>
-    - <strong>(i) The definition of &ldquo;disability&rdquo; shall be construed broadly in favor of expansive coverage, to the maximum extent permitted by the terms of the ADA.</strong>
-    - <strong>(ii) An individual may establish coverage under any one or more of the three prongs of the definition of &ldquo;disability&rdquo; in paragraph (a)(1) of this section, the &ldquo;actual disability&rdquo; prong in paragraph (a)(1)(i) of this section, the &ldquo;record of&rdquo; prong in paragraph (a)(1)(ii) of this section, or the &ldquo;regarded as&rdquo; prong in paragraph (a)(1)(iii) of this section. </strong>
-    - <strong>(iii) Where an individual is not challenging a public entity&rsquo;s failure to provide reasonable modifications under § 35.130(b)(7), it is generally unnecessary to proceed under the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prongs, which require a showing of an impairment that substantially limits a major life activity or a record of such an impairment. In these cases, the evaluation of coverage can be made solely under the &ldquo;regarded as&rdquo; prong of the definition of disability, which does not require a showing of an impairment that substantially limits a major life activity or a record of such an impairment. An individual may choose, however, to proceed under the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prong regardless of whether the individual is challenging a public entity&rsquo;s failure to provide reasonable modifications.</strong>
-- <strong>(b)</strong>
-  - <strong>(1) Physical or mental impairment means:</strong>
-    - <strong>(i) Any physiological disorder or condition, cosmetic disfigurement, or anatomical loss affecting one or more body systems, such as: neurological, musculoskeletal, special sense organs, respiratory (including speech organs), cardiovascular, reproductive, digestive, genitourinary, immune, circulatory, hemic, lymphatic, skin, and endocrine; or</strong>
-    - <strong>(ii) Any mental or psychological disorder such as intellectual disability, organic brain syndrome, emotional or mental illness, and specific learning disability.</strong>
-  - <strong>(2) Physical or mental impairment includes, but is not limited to, contagious and noncontagious diseases and conditions such as the following: orthopedic, visual, speech and hearing impairments, and cerebral palsy, epilepsy, muscular dystrophy, multiple sclerosis, cancer, heart disease, diabetes, intellectual disability, emotional illness, dyslexia and other specific learning disabilities, Attention Deficit Hyperactivity Disorder, Human Immunodeficiency Virus infection (whether symptomatic or asymptomatic), tuberculosis, drug addiction, and alcoholism. </strong>
-  - <strong>(3) Physical or mental impairment does not include homosexuality or bisexuality.</strong>
-- <strong>(c)</strong>
+**(a)**
 
-  - <strong>(1) Major life activities include, but are not limited to:</strong>
-    - <strong>(i) Caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, sitting, reaching, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, writing, communicating, interacting with others, and working; and</strong>
-    - <strong>(ii) The operation of a major bodily function, such as the functions of the immune system, special sense organs and skin, normal cell growth, and digestive, genitourinary, bowel, bladder, neurological, brain, respiratory, circulatory, cardiovascular, endocrine, hemic, lymphatic, musculoskeletal, and reproductive systems. The operation of a major bodily function includes the operation of an individual organ within a body system.</strong>
-  - <strong>(2) Rules of construction. </strong>
-    - <strong>(i) In determining whether an impairment substantially limits a major life activity, the term major shall not be interpreted strictly to create a demanding standard. </strong>
-    - <strong>(ii) Whether an activity is a major life activity is not determined by reference to whether it is of central importance to daily life.</strong>
+**(1) Disability means, with respect to an individual:**
 
-- <strong>(d) Substantially limits. </strong>
-  - <strong>(1) Rules of construction. The following rules of construction apply when determining whether an impairment substantially limits an individual in a major life activity.</strong>
-    - <strong>(i) The term &ldquo;substantially limits&rdquo; shall be construed broadly in favor of expansive coverage, to the maximum extent permitted by the terms of the ADA. &ldquo;Substantially limits&rdquo; is not meant to be a demanding standard.</strong>
-    - <strong>(ii) The primary object of attention in cases brought under title II of the ADA should be whether public entities have complied with their obligations and whether discrimination has occurred, not the extent to which an individual&rsquo;s impairment substantially limits a major life activity. Accordingly, the threshold issue of whether an impairment substantially limits a major life activity should not demand extensive analysis.</strong>
-    - <strong>(iii) An impairment that substantially limits one major life activity does not need to limit other major life activities in order to be considered a substantially limiting impairment.</strong>
-    - <strong>(iv) An impairment that is episodic or in remission is a disability if it would substantially limit a major life activity when active. </strong>
-    - <strong>(v) An impairment is a disability within the meaning of this part if it substantially limits the ability of an individual to perform a major life activity as compared to most people in the general population. An impairment does not need to prevent, or significantly or severely restrict, the individual from performing a major life activity in order to be considered substantially limiting. Nonetheless, not every impairment will constitute a disability within the meaning of this section.</strong>
-    - <strong>(vi) The determination of whether an impairment substantially limits a major life activity requires an individualized assessment. However, in making this assessment, the term &ldquo;substantially limits&rdquo; shall be interpreted and applied to require a degree of functional limitation that is lower than the standard for substantially limits applied prior to the ADA Amendments Act. </strong>
-    - <strong>(vii) The comparison of an individual&rsquo;s performance of a major life activity to the performance of the same major life activity by most people in the general population usually will not require scientific, medical, or statistical evidence. Nothing in this paragraph (d)(1) is intended, however, to prohibit or limit the presentation of scientific, medical, or statistical evidence in making such a comparison where appropriate.</strong>
-    - <strong>(viii) The determination of whether an impairment substantially limits a major life activity shall be made without regard to the ameliorative effects of mitigating measures. However, the ameliorative effects of ordinary eyeglasses or contact lenses shall be considered in determining whether an impairment substantially limits a major life activity. Ordinary eyeglasses or contact lenses are lenses that are intended to fully correct visual acuity or to eliminate refractive error.</strong>
-    - <strong>(ix) The six-month &ldquo;transitory&rdquo; part of the &ldquo;transitory and minor&rdquo; exception in paragraph (f)(2) of this section does not apply to the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prongs of the definition of &ldquo;disability.&rdquo; The effects of an impairment lasting or expected to last less than six months can be substantially limiting within the meaning of this section for establishing an actual disability or a record of a disability.</strong> </blockquote>
-  - <strong>(2) Predictable assessments.</strong>
-    - <strong>(i) The principles set forth in the rules of construction in this section are intended to provide for more generous coverage and application of the ADA&rsquo;s prohibition on discrimination through a framework that is predictable, consistent, and workable for all individuals and entities with rights and responsibilities under the ADA.</strong>
-    - <strong>(ii) Applying these principles, the individualized assessment of some types of impairments will, in virtually all cases, result in a determination of coverage under paragraph (a)(1)(i) of this section (the &ldquo;actual disability&rdquo; prong) or paragraph (a)(1)(ii) of this section (the &ldquo;record of&rdquo; prong). Given their inherent nature, these types of impairments will, as a factual matter, virtually always be found to impose a substantial limitation on a major life activity. Therefore, with respect to these types of impairments, the necessary individualized assessment should be particularly simple and straightforward.</strong>
-    - <strong>(iii) For example, applying these principles it should easily be concluded that the types of impairments set forth in paragraphs (d)(2)(iii)(A) through (K) of this section will, at a minimum, substantially limit the major life activities indicated. The types of impairments described in this paragraph may substantially limit additional major life activities (including major bodily functions) not explicitly listed in paragraphs (d)(2)(iii)(A) through (K). </strong>
-      - <strong>(A) Deafness substantially limits hearing;</strong>
-      - <strong> (B) Blindness substantially limits seeing; </strong>
-      - <strong>(C) Intellectual disability substantially limits brain function; </strong>
-      - <strong>(D) Partially or completely missing limbs or mobility impairments requiring the use of a wheelchair substantially limit musculoskeletal function; </strong>
-      - <strong>(E) Autism substantially limits brain function;</strong>
-      - <strong> (F) Cancer substantially limits normal cell growth; </strong>
-      - <strong>(G) Cerebral palsy substantially limits brain function; </strong>
-      - <strong>(H) Diabetes substantially limits endocrine function; </strong>
-      - <strong>(I) Epilepsy, muscular dystrophy, and multiple sclerosis each substantially limits neurological function; </strong>
-      - <strong>(J) Human Immunodeficiency Virus (HIV) infection substantially limits immune function; and </strong>
-      - <strong>(K) Major depressive disorder, bipolar disorder, post-traumatic stress disorder, traumatic brain injury, obsessive compulsive disorder, and schizophrenia each substantially limits brain function.</strong>
-  - <strong>(3) Condition, manner, or duration.</strong>
-    - <strong>(i) At all times taking into account the principles set forth in the rules of construction, in determining whether an individual is substantially limited in a major life activity, it may be useful in appropriate cases to consider, as compared to most people in the general population, the conditions under which the individual performs the major life activity; the manner in which the individual performs the major life activity; or the duration of time it takes the individual to perform the major life activity, or for which the individual can perform the major life activity.</strong>
-    - <strong>(ii) Consideration of facts such as condition, manner, or duration may include, among other things, consideration of the difficulty, effort or time required to perform a major life activity; pain experienced when performing a major life activity; the length of time a major life activity can be performed; or the way an impairment affects the operation of a major bodily function. In addition, the non-ameliorative effects of mitigating measures, such as negative side effects of medication or burdens associated with following a particular treatment regimen, may be considered when determining whether an individual&rsquo;s impairment substantially limits a major life activity.</strong>
-    - <strong>(iii) In determining whether an individual has a disability under the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prongs of the definition of &ldquo;disability,&rdquo; the focus is on how a major life activity is substantially limited, and not on what outcomes an individual can achieve. For example, someone with a learning disability may achieve a high level of academic success, but may nevertheless be substantially limited in one or more major life activities, including, but not limited to, reading, writing, speaking, or learning because of the additional time or effort he or she must spend to read, write, speak, or learn compared to most people in the general population.</strong>
-    - <strong>(iv) Given the rules of construction set forth in this section, it may often be unnecessary to conduct an analysis involving most or all of the facts related to condition, manner, or duration. This is particularly true with respect to impairments such as those described in paragraph (d)(2)(iii) of this section, which by their inherent nature should be easily found to impose a substantial limitation on a major life activity, and for which the individualized assessment should be particularly simple and straightforward.</strong> </blockquote>
-  - <strong>(4) Mitigating measures include, but are not limited to:</strong>
-    - <strong>(i) Medication, medical supplies, equipment, appliances, low-vision devices (defined as devices that magnify, enhance, or otherwise augment a visual image, but not including ordinary eyeglasses or contact lenses), prosthetics including limbs and devices, hearing aid(s) and cochlear implant(s) or other implantable hearing devices, mobility devices, and oxygen therapy equipment and supplies; </strong>
-    - <strong>(ii) Use of assistive technology;</strong>
-    - <strong>(iii) Reasonable modifications or auxiliary aids or services as defined in this regulation; </strong>
-    - <strong>(iv) Learned behavioral or adaptive neurological modifications; or</strong>
-    - <strong>(v) Psychotherapy, behavioral therapy, or physical therapy.</strong>
-- <strong>(e) Has a record of such an impairment. </strong> <blockquote>
-  - <strong>(1) An individual has a record of such an impairment if the individual has a history of, or has been misclassified as having, a mental or physical impairment that substantially limits one or more major life activities.</strong>
-  - <strong>(2) Broad construction. Whether an individual has a record of an impairment that substantially limited a major life activity shall be construed broadly to the maximum extent permitted by the ADA and should not demand extensive analysis. An individual will be considered to fall within this prong of the definition of &ldquo;disability&rdquo; if the individual has a history of an impairment that substantially limited one or more major life activities when compared to most people in the general population, or was misclassified as having had such an impairment. In determining whether an impairment substantially limited a major life activity, the principles articulated in paragraph (d)(1) of this section apply.</strong>
-  - <strong>(3) Reasonable modification. An individual with a record of a substantially limiting impairment may be entitled to a reasonable modification if needed and related to the past disability. </strong>
-- <strong>(f) Is regarded as having such an impairment. The following principles apply under the &ldquo;regarded&rdquo; as prong of the definition of &ldquo;disability&rdquo; (paragraph (a)(1)(iii) of this section): </strong> <blockquote>
-  - <strong>(1) Except as set forth in paragraph (f)(2) of this section, an individual is &ldquo;regarded as having such an impairment&rdquo; if the individual is subjected to a prohibited action because of an actual or perceived physical or mental impairment, whether or not that impairment substantially limits, or is perceived to substantially limit, a major life activity, even if the public entity asserts, or may or does ultimately establish, a defense to the action prohibited by the ADA. </strong>
-  - <strong> (2) An individual is not &ldquo;regarded as having such an impairment&rdquo; if the public entity demonstrates that the impairment is, objectively, both &ldquo;transitory&rdquo; and &ldquo;minor.&rdquo; A public entity may not defeat &ldquo;regarded as&rdquo; coverage of an individual simply by demonstrating that it subjectively believed the impairment was transitory and minor; rather, the public entity must demonstrate that the impairment is (in the case of an actual impairment) or would be (in the case of a perceived impairment), objectively, both &ldquo;transitory&rdquo; and &ldquo;minor.&rdquo; For purposes of this section, &ldquo;transitory&rdquo; is defined as lasting or expected to last six months or less. </strong>
-  - <strong> (3) Establishing that an individual is &ldquo;regarded as having such an impairment&rdquo; does not, by itself, establish liability. Liability is established under title II of the ADA only when an individual proves that a public entity discriminated on the basis of disability within the meaning of title II of the ADA, 42 U.S.C. 12131–12134.</strong>
-- <strong>(g) Exclusions. The term &ldquo;disability&rdquo; does not include&mdash;</strong>
-  - <strong>(1) Transvestism, transsexualism, pedophilia, exhibitionism, voyeurism, gender identity disorders not resulting from physical impairments, or other sexual behavior disorders;</strong>
-  - <strong> (2) Compulsive gambling, kleptomania, or pyromania; or</strong>
-  - <strong> (3) Psychoactive substance use disorders resulting from current illegal use of drugs.</strong>
+<strong>(i) A physical or mental impairment that substantially limits one or more of the major life activities of such individual;</strong>
+
+<strong>(ii) A record of such an impairment; or </strong>
+
+<strong>(iii) Being regarded as having such an impairment as described in paragraph (f) of this section.</strong> </blockquote>
+
+<strong>(2) Rules of construction. </strong>
+
+<strong>(i) The definition of &ldquo;disability&rdquo; shall be construed broadly in favor of expansive coverage, to the maximum extent permitted by the terms of the ADA.</strong>
+
+<strong>(ii) An individual may establish coverage under any one or more of the three prongs of the definition of &ldquo;disability&rdquo; in paragraph (a)(1) of this section, the &ldquo;actual disability&rdquo; prong in paragraph (a)(1)(i) of this section, the &ldquo;record of&rdquo; prong in paragraph (a)(1)(ii) of this section, or the &ldquo;regarded as&rdquo; prong in paragraph (a)(1)(iii) of this section. </strong>
+
+<strong>(iii) Where an individual is not challenging a public entity&rsquo;s failure to provide reasonable modifications under § 35.130(b)(7), it is generally unnecessary to proceed under the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prongs, which require a showing of an impairment that substantially limits a major life activity or a record of such an impairment. In these cases, the evaluation of coverage can be made solely under the &ldquo;regarded as&rdquo; prong of the definition of disability, which does not require a showing of an impairment that substantially limits a major life activity or a record of such an impairment. An individual may choose, however, to proceed under the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prong regardless of whether the individual is challenging a public entity&rsquo;s failure to provide reasonable modifications.</strong>
+
+<strong>(b)</strong>
+
+<strong>(1) Physical or mental impairment means:</strong>
+
+<strong>(i) Any physiological disorder or condition, cosmetic disfigurement, or anatomical loss affecting one or more body systems, such as: neurological, musculoskeletal, special sense organs, respiratory (including speech organs), cardiovascular, reproductive, digestive, genitourinary, immune, circulatory, hemic, lymphatic, skin, and endocrine; or</strong>
+
+<strong>(ii) Any mental or psychological disorder such as intellectual disability, organic brain syndrome, emotional or mental illness, and specific learning disability.</strong>
+
+<strong>(2) Physical or mental impairment includes, but is not limited to, contagious and noncontagious diseases and conditions such as the following: orthopedic, visual, speech and hearing impairments, and cerebral palsy, epilepsy, muscular dystrophy, multiple sclerosis, cancer, heart disease, diabetes, intellectual disability, emotional illness, dyslexia and other specific learning disabilities, Attention Deficit Hyperactivity Disorder, Human Immunodeficiency Virus infection (whether symptomatic or asymptomatic), tuberculosis, drug addiction, and alcoholism. </strong>
+
+<strong>(3) Physical or mental impairment does not include homosexuality or bisexuality.</strong>
+
+<strong>(c)</strong>
+
+<strong>(1) Major life activities include, but are not limited to:</strong>
+
+<strong>(i) Caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, sitting, reaching, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, writing, communicating, interacting with others, and working; and</strong>
+
+<strong>(ii) The operation of a major bodily function, such as the functions of the immune system, special sense organs and skin, normal cell growth, and digestive, genitourinary, bowel, bladder, neurological, brain, respiratory, circulatory, cardiovascular, endocrine, hemic, lymphatic, musculoskeletal, and reproductive systems. The operation of a major bodily function includes the operation of an individual organ within a body system.</strong>
+
+<strong>(2) Rules of construction. </strong>
+
+<strong>(i) In determining whether an impairment substantially limits a major life activity, the term major shall not be interpreted strictly to create a demanding standard. </strong>
+
+<strong>(ii) Whether an activity is a major life activity is not determined by reference to whether it is of central importance to daily life.</strong>
+
+
+<strong>(d) Substantially limits. </strong>
+
+<strong>(1) Rules of construction. The following rules of construction apply when determining whether an impairment substantially limits an individual in a major life activity.</strong>
+
+<strong>(i) The term &ldquo;substantially limits&rdquo; shall be construed broadly in favor of expansive coverage, to the maximum extent permitted by the terms of the ADA. &ldquo;Substantially limits&rdquo; is not meant to be a demanding standard.</strong>
+
+<strong>(ii) The primary object of attention in cases brought under title II of the ADA should be whether public entities have complied with their obligations and whether discrimination has occurred, not the extent to which an individual&rsquo;s impairment substantially limits a major life activity. Accordingly, the threshold issue of whether an impairment substantially limits a major life activity should not demand extensive analysis.</strong>
+
+<strong>(iii) An impairment that substantially limits one major life activity does not need to limit other major life activities in order to be considered a substantially limiting impairment.</strong>
+
+<strong>(iv) An impairment that is episodic or in remission is a disability if it would substantially limit a major life activity when active. </strong>
+
+<strong>(v) An impairment is a disability within the meaning of this part if it substantially limits the ability of an individual to perform a major life activity as compared to most people in the general population. An impairment does not need to prevent, or significantly or severely restrict, the individual from performing a major life activity in order to be considered substantially limiting. Nonetheless, not every impairment will constitute a disability within the meaning of this section.</strong>
+
+<strong>(vi) The determination of whether an impairment substantially limits a major life activity requires an individualized assessment. However, in making this assessment, the term &ldquo;substantially limits&rdquo; shall be interpreted and applied to require a degree of functional limitation that is lower than the standard for substantially limits applied prior to the ADA Amendments Act. </strong>
+
+<strong>(vii) The comparison of an individual&rsquo;s performance of a major life activity to the performance of the same major life activity by most people in the general population usually will not require scientific, medical, or statistical evidence. Nothing in this paragraph (d)(1) is intended, however, to prohibit or limit the presentation of scientific, medical, or statistical evidence in making such a comparison where appropriate.</strong>
+
+<strong>(viii) The determination of whether an impairment substantially limits a major life activity shall be made without regard to the ameliorative effects of mitigating measures. However, the ameliorative effects of ordinary eyeglasses or contact lenses shall be considered in determining whether an impairment substantially limits a major life activity. Ordinary eyeglasses or contact lenses are lenses that are intended to fully correct visual acuity or to eliminate refractive error.</strong>
+
+<strong>(ix) The six-month &ldquo;transitory&rdquo; part of the &ldquo;transitory and minor&rdquo; exception in paragraph (f)(2) of this section does not apply to the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prongs of the definition of &ldquo;disability.&rdquo; The effects of an impairment lasting or expected to last less than six months can be substantially limiting within the meaning of this section for establishing an actual disability or a record of a disability.</strong> </blockquote>
+
+<strong>(2) Predictable assessments.</strong>
+
+<strong>(i) The principles set forth in the rules of construction in this section are intended to provide for more generous coverage and application of the ADA&rsquo;s prohibition on discrimination through a framework that is predictable, consistent, and workable for all individuals and entities with rights and responsibilities under the ADA.</strong>
+
+<strong>(ii) Applying these principles, the individualized assessment of some types of impairments will, in virtually all cases, result in a determination of coverage under paragraph (a)(1)(i) of this section (the &ldquo;actual disability&rdquo; prong) or paragraph (a)(1)(ii) of this section (the &ldquo;record of&rdquo; prong). Given their inherent nature, these types of impairments will, as a factual matter, virtually always be found to impose a substantial limitation on a major life activity. Therefore, with respect to these types of impairments, the necessary individualized assessment should be particularly simple and straightforward.</strong>
+
+<strong>(iii) For example, applying these principles it should easily be concluded that the types of impairments set forth in paragraphs (d)(2)(iii)(A) through (K) of this section will, at a minimum, substantially limit the major life activities indicated. The types of impairments described in this paragraph may substantially limit additional major life activities (including major bodily functions) not explicitly listed in paragraphs (d)(2)(iii)(A) through (K). </strong>
+
+<strong>(A) Deafness substantially limits hearing;</strong>
+
+<strong> (B) Blindness substantially limits seeing; </strong>
+
+<strong>(C) Intellectual disability substantially limits brain function; </strong>
+
+<strong>(D) Partially or completely missing limbs or mobility impairments requiring the use of a wheelchair substantially limit musculoskeletal function; </strong>
+
+<strong>(E) Autism substantially limits brain function;</strong>
+
+<strong> (F) Cancer substantially limits normal cell growth; </strong>
+
+<strong>(G) Cerebral palsy substantially limits brain function; </strong>
+
+<strong>(H) Diabetes substantially limits endocrine function; </strong>
+
+<strong>(I) Epilepsy, muscular dystrophy, and multiple sclerosis each substantially limits neurological function; </strong>
+
+<strong>(J) Human Immunodeficiency Virus (HIV) infection substantially limits immune function; and </strong>
+
+<strong>(K) Major depressive disorder, bipolar disorder, post-traumatic stress disorder, traumatic brain injury, obsessive compulsive disorder, and schizophrenia each substantially limits brain function.</strong>
+
+<strong>(3) Condition, manner, or duration.</strong>
+
+<strong>(i) At all times taking into account the principles set forth in the rules of construction, in determining whether an individual is substantially limited in a major life activity, it may be useful in appropriate cases to consider, as compared to most people in the general population, the conditions under which the individual performs the major life activity; the manner in which the individual performs the major life activity; or the duration of time it takes the individual to perform the major life activity, or for which the individual can perform the major life activity.</strong>
+
+<strong>(ii) Consideration of facts such as condition, manner, or duration may include, among other things, consideration of the difficulty, effort or time required to perform a major life activity; pain experienced when performing a major life activity; the length of time a major life activity can be performed; or the way an impairment affects the operation of a major bodily function. In addition, the non-ameliorative effects of mitigating measures, such as negative side effects of medication or burdens associated with following a particular treatment regimen, may be considered when determining whether an individual&rsquo;s impairment substantially limits a major life activity.</strong>
+
+<strong>(iii) In determining whether an individual has a disability under the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prongs of the definition of &ldquo;disability,&rdquo; the focus is on how a major life activity is substantially limited, and not on what outcomes an individual can achieve. For example, someone with a learning disability may achieve a high level of academic success, but may nevertheless be substantially limited in one or more major life activities, including, but not limited to, reading, writing, speaking, or learning because of the additional time or effort he or she must spend to read, write, speak, or learn compared to most people in the general population.</strong>
+
+<strong>(iv) Given the rules of construction set forth in this section, it may often be unnecessary to conduct an analysis involving most or all of the facts related to condition, manner, or duration. This is particularly true with respect to impairments such as those described in paragraph (d)(2)(iii) of this section, which by their inherent nature should be easily found to impose a substantial limitation on a major life activity, and for which the individualized assessment should be particularly simple and straightforward.</strong> </blockquote>
+
+<strong>(4) Mitigating measures include, but are not limited to:</strong>
+
+<strong>(i) Medication, medical supplies, equipment, appliances, low-vision devices (defined as devices that magnify, enhance, or otherwise augment a visual image, but not including ordinary eyeglasses or contact lenses), prosthetics including limbs and devices, hearing aid(s) and cochlear implant(s) or other implantable hearing devices, mobility devices, and oxygen therapy equipment and supplies; </strong>
+
+<strong>(ii) Use of assistive technology;</strong>
+
+<strong>(iii) Reasonable modifications or auxiliary aids or services as defined in this regulation; </strong>
+
+<strong>(iv) Learned behavioral or adaptive neurological modifications; or</strong>
+
+<strong>(v) Psychotherapy, behavioral therapy, or physical therapy.</strong>
+
+<strong>(e) Has a record of such an impairment. </strong> <blockquote>
+
+<strong>(1) An individual has a record of such an impairment if the individual has a history of, or has been misclassified as having, a mental or physical impairment that substantially limits one or more major life activities.</strong>
+
+<strong>(2) Broad construction. Whether an individual has a record of an impairment that substantially limited a major life activity shall be construed broadly to the maximum extent permitted by the ADA and should not demand extensive analysis. An individual will be considered to fall within this prong of the definition of &ldquo;disability&rdquo; if the individual has a history of an impairment that substantially limited one or more major life activities when compared to most people in the general population, or was misclassified as having had such an impairment. In determining whether an impairment substantially limited a major life activity, the principles articulated in paragraph (d)(1) of this section apply.</strong>
+
+<strong>(3) Reasonable modification. An individual with a record of a substantially limiting impairment may be entitled to a reasonable modification if needed and related to the past disability. </strong>
+
+<strong>(f) Is regarded as having such an impairment. The following principles apply under the &ldquo;regarded&rdquo; as prong of the definition of &ldquo;disability&rdquo; (paragraph (a)(1)(iii) of this section): </strong> <blockquote>
+
+<strong>(1) Except as set forth in paragraph (f)(2) of this section, an individual is &ldquo;regarded as having such an impairment&rdquo; if the individual is subjected to a prohibited action because of an actual or perceived physical or mental impairment, whether or not that impairment substantially limits, or is perceived to substantially limit, a major life activity, even if the public entity asserts, or may or does ultimately establish, a defense to the action prohibited by the ADA. </strong>
+
+<strong> (2) An individual is not &ldquo;regarded as having such an impairment&rdquo; if the public entity demonstrates that the impairment is, objectively, both &ldquo;transitory&rdquo; and &ldquo;minor.&rdquo; A public entity may not defeat &ldquo;regarded as&rdquo; coverage of an individual simply by demonstrating that it subjectively believed the impairment was transitory and minor; rather, the public entity must demonstrate that the impairment is (in the case of an actual impairment) or would be (in the case of a perceived impairment), objectively, both &ldquo;transitory&rdquo; and &ldquo;minor.&rdquo; For purposes of this section, &ldquo;transitory&rdquo; is defined as lasting or expected to last six months or less. </strong>
+
+<strong> (3) Establishing that an individual is &ldquo;regarded as having such an impairment&rdquo; does not, by itself, establish liability. Liability is established under title II of the ADA only when an individual proves that a public entity discriminated on the basis of disability within the meaning of title II of the ADA, 42 U.S.C. 12131–12134.</strong>
+
+<strong>(g) Exclusions. The term &ldquo;disability&rdquo; does not include&mdash;</strong>
+
+<strong>(1) Transvestism, transsexualism, pedophilia, exhibitionism, voyeurism, gender identity disorders not resulting from physical impairments, or other sexual behavior disorders;</strong>
+
+<strong> (2) Compulsive gambling, kleptomania, or pyromania; or</strong>
+
+<strong> (3) Psychoactive substance use disorders resulting from current illegal use of drugs.</strong>
 
 ### &sect;&sect; 35.109&#8212;35.129 \[Reserved\]
 
@@ -513,35 +596,72 @@ A public entity shall make available to applicants, participants, beneficiaries,
 
 ### &sect; 35.130 General prohibitions against discrimination
 
-- (a) No qualified individual with a disability shall, on the basis of disability, be excluded from participation in or be denied the benefits of the services, programs, or activities of a public entity, or be subjected to discrimination by any public entity.
-- (b)
-  - (1) A public entity, in providing any aid, benefit, or
-    service, may not, directly or through contractual, licensing, or other
-    arrangements, on the basis of disability&#8212; - (i) Deny a qualified individual with a disability the opportunity to participate in or benefit from the aid, benefit, or service; - (ii) Afford a qualified individual with a disability an opportunity to participate in or benefit from the aid, benefit, or service that is not equal to that afforded others; - (iii) Provide a qualified individual with a disability with an aid, benefit, or service that is not as effective in affording equal opportunity to obtain the same result, to gain the same benefit, or to reach the same level of achievement as that provided to others; - (iv) Provide different or separate aids, benefits, or services to individuals with disabilities or to any class of individuals with disabilities than is provided to others unless such action is necessary to provide qualified individuals with disabilities with aids, benefits, or services that are as effective as those provided to others; - (v) Aid or perpetuate discrimination against a qualified individual with a disability by providing significant assistance to an agency, organization, or person that discriminates on the basis of disability in providing any aid, benefit, or service to beneficiaries of the public entity's program; - (vi) Deny a qualified individual with a disability the opportunity to participate as a member of planning or advisory boards; - (vii) Otherwise limit a qualified individual with a disability in the enjoyment of any right, privilege, advantage, or opportunity enjoyed by others receiving the aid, benefit, or service.
-  - (2) A public entity may not deny a qualified individual with a disability the opportunity to participate in services, programs, or
-    activities that are not separate or different, despite the existence of permissibly separate or different programs or activities.
-  - (3) A public entity may not, directly or through contractual or other arrangements, utilize criteria or methods of administration&#8212;
-    - (i) That have the effect of subjecting qualified individuals with disabilities to discrimination on the basis of disability;
-    - (ii) That have the purpose or effect of defeating or substantially impairing accomplishment of the objectives of the public entity's program with respect to individuals with disabilities; or
-    - (iii) That perpetuate the discrimination of another public entity if both public entities are subject to common administrative control or are agencies of the same State.
-  - (4) A public entity may not, in determining the site or location of a facility, make selections&#8212;
-    - (i) That have the effect of excluding individuals with disabilities from, denying them the benefits of, or otherwise subjecting them to discrimination; or
-    - (ii) That have the purpose or effect of defeating or substantially impairing the accomplishment of the objectives of the service, program, or activity with respect to individuals with disabilities.
-  - (5) A public entity, in the selection of procurement contractors, may not use criteria that subject qualified individuals with disabilities to discrimination on the basis of disability.
-  - (6) A public entity may not administer a licensing or certification program in a manner that subjects qualified individuals with disabilities to discrimination on the basis of disability, nor may a public entity establish requirements for the programs or activities of licensees or certified entities that subject qualified individuals with disabilities to discrimination on the basis of disability. The programs or activities of entities that are licensed or certified by a public entity are not, themselves, covered by this part.
-  - (7)
-    - <strong>(i)</strong> A public entity shall make reasonable modifications in policies, practices, or procedures when the modifications are necessary to avoid discrimination on the basis of disability, unless the public entity can demonstrate that making the modifications would fundamentally alter the nature of the service, program, or activity.
-    - <strong>(ii) A public entity is not required to provide a reasonable modification to an individual who meets the definition of &ldquo;disability&rdquo; solely under the &ldquo;regarded as&rdquo; prong of the definition of disability at §&nbsp;35.108(a)(1)(iii). </strong>
-  - (8) A public entity shall not impose or apply eligibility criteria that screen out or tend to screen out an individual with a disability or any class of individuals with disabilities from fully and equally enjoying any service, program, or activity, unless such criteria can be shown to be necessary for the provision of the service, program, or activity being offered.
-- (c) Nothing in this part prohibits a public entity from providing benefits, services, or advantages to individuals with disabilities, or to a particular class of individuals with disabilities beyond those required by this part.
-- (d) A public entity shall administer services, programs, and activities in the most integrated setting appropriate to the needs of qualified individuals with disabilities.
-- (e)
-  - (1) Nothing in this part shall be construed to require an individual with a disability to accept an accommodation, aid, service, opportunity, or benefit provided under the ADA or this part which such individual chooses not to accept.
-  - (2) Nothing in the Act or this part authorizes the representative or guardian of an individual with a disability to decline food, water, medical treatment, or medical services for that individual.
-- (f) A public entity may not place a surcharge on a particular individual with a disability or any group of individuals with disabilities to cover the costs of measures, such as the provision of auxiliary aids or program accessibility, that are required to provide that individual or group with the nondiscriminatory treatment required by the Act or this part.
-- (g) A public entity shall not exclude or otherwise deny equal services, programs, or activities to an individual or entity because of the known disability of an individual with whom the individual or entity is known to have a relationship or association.
-- (h) A public entity may impose legitimate safety requirements necessary for the safe operation of its services, programs, or activities. However, the public entity must ensure that its safety requirements are based on actual risks, not on mere speculation, stereotypes, or generalizations about individuals with disabilities.
-- <strong>(i) Nothing in this part shall provide the basis for a claim that an individual without a disability was subject to discrimination because of a lack of disability, including a claim that an individual with a disability was granted a reasonable modification that was denied to an individual without a disability.</strong>
+(a) No qualified individual with a disability shall, on the basis of disability, be excluded from participation in or be denied the benefits of the services, programs, or activities of a public entity, or be subjected to discrimination by any public entity.
+
+(b)
+
+(1) A public entity, in providing any aid, benefit, or
+service, may not, directly or through contractual, licensing, or other
+arrangements, on the basis of disability&#8212;
+
+(i) Deny a qualified individual with a disability the opportunity to participate in or benefit from the aid, benefit, or service;
+
+(ii) Afford a qualified individual with a disability an opportunity to participate in or benefit from the aid, benefit, or service that is not equal to that afforded others;
+
+(iii) Provide a qualified individual with a disability with an aid, benefit, or service that is not as effective in affording equal opportunity to obtain the same result, to gain the same benefit, or to reach the same level of achievement as that provided to others;
+
+(iv) Provide different or separate aids, benefits, or services to individuals with disabilities or to any class of individuals with disabilities than is provided to others unless such action is necessary to provide qualified individuals with disabilities with aids, benefits, or services that are as effective as those provided to others;
+
+(v) Aid or perpetuate discrimination against a qualified individual with a disability by providing significant assistance to an agency, organization, or person that discriminates on the basis of disability in providing any aid, benefit, or service to beneficiaries of the public entity's program;
+
+(vi) Deny a qualified individual with a disability the opportunity to participate as a member of planning or advisory boards; - (vii) Otherwise limit a qualified individual with a disability in the enjoyment of any right, privilege, advantage, or opportunity enjoyed by others receiving the aid, benefit, or service.
+
+(2) A public entity may not deny a qualified individual with a disability the opportunity to participate in services, programs, or
+activities that are not separate or different, despite the existence of permissibly separate or different programs or activities.
+
+(3) A public entity may not, directly or through contractual or other arrangements, utilize criteria or methods of administration&#8212;
+
+(i) That have the effect of subjecting qualified individuals with disabilities to discrimination on the basis of disability;
+
+(ii) That have the purpose or effect of defeating or substantially impairing accomplishment of the objectives of the public entity's program with respect to individuals with disabilities; or
+
+(iii) That perpetuate the discrimination of another public entity if both public entities are subject to common administrative control or are agencies of the same State.
+
+(4) A public entity may not, in determining the site or location of a facility, make selections&#8212;
+
+(i) That have the effect of excluding individuals with disabilities from, denying them the benefits of, or otherwise subjecting them to discrimination; or
+
+(ii) That have the purpose or effect of defeating or substantially impairing the accomplishment of the objectives of the service, program, or activity with respect to individuals with disabilities.
+
+(5) A public entity, in the selection of procurement contractors, may not use criteria that subject qualified individuals with disabilities to discrimination on the basis of disability.
+
+(6) A public entity may not administer a licensing or certification program in a manner that subjects qualified individuals with disabilities to discrimination on the basis of disability, nor may a public entity establish requirements for the programs or activities of licensees or certified entities that subject qualified individuals with disabilities to discrimination on the basis of disability. The programs or activities of entities that are licensed or certified by a public entity are not, themselves, covered by this part.
+
+(7)
+
+<strong>(i)</strong> A public entity shall make reasonable modifications in policies, practices, or procedures when the modifications are necessary to avoid discrimination on the basis of disability, unless the public entity can demonstrate that making the modifications would fundamentally alter the nature of the service, program, or activity.
+
+<strong>(ii) A public entity is not required to provide a reasonable modification to an individual who meets the definition of &ldquo;disability&rdquo; solely under the &ldquo;regarded as&rdquo; prong of the definition of disability at §&nbsp;35.108(a)(1)(iii). </strong>
+
+(8) A public entity shall not impose or apply eligibility criteria that screen out or tend to screen out an individual with a disability or any class of individuals with disabilities from fully and equally enjoying any service, program, or activity, unless such criteria can be shown to be necessary for the provision of the service, program, or activity being offered.
+
+(c) Nothing in this part prohibits a public entity from providing benefits, services, or advantages to individuals with disabilities, or to a particular class of individuals with disabilities beyond those required by this part.
+
+(d) A public entity shall administer services, programs, and activities in the most integrated setting appropriate to the needs of qualified individuals with disabilities.
+
+(e)
+
+(1) Nothing in this part shall be construed to require an individual with a disability to accept an accommodation, aid, service, opportunity, or benefit provided under the ADA or this part which such individual chooses not to accept.
+
+(2) Nothing in the Act or this part authorizes the representative or guardian of an individual with a disability to decline food, water, medical treatment, or medical services for that individual.
+
+(f) A public entity may not place a surcharge on a particular individual with a disability or any group of individuals with disabilities to cover the costs of measures, such as the provision of auxiliary aids or program accessibility, that are required to provide that individual or group with the nondiscriminatory treatment required by the Act or this part.
+
+(g) A public entity shall not exclude or otherwise deny equal services, programs, or activities to an individual or entity because of the known disability of an individual with whom the individual or entity is known to have a relationship or association.
+
+(h) A public entity may impose legitimate safety requirements necessary for the safe operation of its services, programs, or activities. However, the public entity must ensure that its safety requirements are based on actual risks, not on mere speculation, stereotypes, or generalizations about individuals with disabilities.
+
+<strong>(i) Nothing in this part shall provide the basis for a claim that an individual without a disability was subject to discrimination because of a lack of disability, including a claim that an individual with a disability was granted a reasonable modification that was denied to an individual without a disability.</strong>
 
 ### &sect; 35.131 Illegal use of drugs
 
@@ -660,10 +780,13 @@ This part does not require a public entity to provide to individuals with disabi
 
 ### &sect; 35.140 Employment discrimination prohibited
 
-- (a) No qualified individual with a disability shall, on the basis of disability, be subjected to discrimination in employment under any service, program, or activity conducted by a public entity.
-- (b)
-  - (1) For purposes of this part, the requirements of title I of the Act, as established by the regulations of the Equal Employment Opportunity Commission in 29 CFR part 1630, apply to employment in any service, program, or activity conducted by a public entity if that public entity is also subject to the jurisdiction of title I.
-  - (2) For the purposes of this part, the requirements of section 504 of the Rehabilitation Act of 1973, as established by the regulations of the Department of Justice in 28 CFR part 41, as those requirements pertain to employment, apply to employment in any service, program, or activity conducted by a public entity if that public entity is not also subject to the jurisdiction of title I.
+(a) No qualified individual with a disability shall, on the basis of disability, be subjected to discrimination in employment under any service, program, or activity conducted by a public entity.
+
+(b)
+
+(1) For purposes of this part, the requirements of title I of the Act, as established by the regulations of the Equal Employment Opportunity Commission in 29 CFR part 1630, apply to employment in any service, program, or activity conducted by a public entity if that public entity is also subject to the jurisdiction of title I.
+
+(2) For the purposes of this part, the requirements of section 504 of the Rehabilitation Act of 1973, as established by the regulations of the Department of Justice in 28 CFR part 41, as those requirements pertain to employment, apply to employment in any service, program, or activity conducted by a public entity if that public entity is not also subject to the jurisdiction of title I.
 
 ### &sect;&sect; 35.141&#8212;35.148 \[Reserved\]
 
@@ -675,96 +798,180 @@ Except as otherwise provided in &sect; 35.150, no qualified individual with a di
 
 ### &sect; 35.150 Existing facilities
 
-- (a) General. A public entity shall operate each service, program, or activity so that the service, program, or activity, when viewed in its entirety, is readily accessible to and usable by individuals with disabilities. This paragraph does not&#8212;
-  - (1) Necessarily require a public entity to make each of its existing facilities accessible to and usable by individuals with disabilities;
-  - (2) Require a public entity to take any action that would threaten or destroy the historic significance of an historic property; or
-  - (3) Require a public entity to take any action that it can demonstrate would result in a fundamental alteration in the nature of a service, program, or activity or in undue financial and administrative burdens. In those circumstances where personnel of the public entity believe that the proposed action would fundamentally alter the service, program, or activity or would result in undue financial and administrative burdens, a public entity has the burden of proving that compliance with &sect;35.150(a) of this part would result in such alteration or burdens. The decision that compliance would result in such alteration or burdens must be made by the head of a public entity or his or her designee after considering all resources available for use in the funding and operation of the service, program, or activity, and must be accompanied by a written statement of the reasons for reaching that conclusion. If an action would result in such an alteration or such burdens, a public entity shall take any other action that would not result in such an alteration or such burdens but would nevertheless ensure that individuals with disabilities receive the benefits or services provided by the public entity.
-- (b) Methods.
-  - (1) General. A public entity may comply with the requirements of this section through such means as redesign or acquisition of equipment, reassignment of services to accessible buildings, assignment of aides to beneficiaries, home visits, delivery of services at alternate accessible sites, alteration of existing facilities and construction of new facilities, use of accessible rolling stock or other conveyances, or any other methods that result in making its services, programs, or activities readily accessible to and usable by individuals with disabilities. A public entity is not required to make structural changes in existing facilities where other methods are effective in achieving compliance with this section. A public entity, in making alterations to existing buildings, shall meet the accessibility requirements of &sect; 35.151. In choosing among available methods for meeting the requirements of this section, a public entity shall give priority to those methods that offer services, programs, and activities to qualified individuals with disabilities in the most integrated setting appropriate.
-  - (2)
-    - (i) Safe harbor. Elements that have not been altered in existing facilities on or after March 15, 2012, and that comply with the corresponding technical and scoping specifications for those elements in either the 1991 Standards or in the Uniform Federal Accessibility Standards (UFAS), Appendix A to 41 CFR part 101&#8211;19.6 (July 1, 2002 ed.), 49 FR 31528, app. A (Aug. 7, 1984) are not required to be modified in order to comply with the requirements set forth in the 2010 Standards.
-    - (ii) The safe harbor provided in &sect; 35.150(b)(2)(i) does not apply to those elements in existing facilities that are subject to supplemental requirements (i.e., elements for which there are neither technical nor scoping specifications in the 1991 Standards). Elements in the 2010 Standards not eligible for the element-by-element safe harbor are identified as follows&#8211;&#8211;
-      - (A) Residential facilities dwelling units, sections 233 and 809.
-      - (B) Amusement rides, sections 234 and 1002; 206.2.9; 216.12.
-      - (C) Recreational boating facilities, sections 235 and 1003; 206.2.10.
-      - (D) Exercise machines and equipment, sections 236 and 1004; 206.2.13.
-      - (E) Fishing piers and platforms, sections 237 and 1005; 206.2.14.
-      - (F) Golf facilities, sections 238 and 1006; 206.2.15.
-      - (G) Miniature golf facilities, sections 239 and 1007; 206.2.16.
-      - (H) Play areas, sections 240 and 1008; 206.2.17.
-      - (I) Saunas and steam rooms, sections 241 and 612.
-      - (J) Swimming pools, wading pools, and spas, sections 242 and 1009.
-      - (K) Shooting facilities with firing positions, sections 243 and 1010.
-      - (L) Miscellaneous.
-        - (1) Team or player seating, section 221.2.1.4.
-        - (2) Accessible route to bowling lanes, section. 206.2.11.
-        - (3) Accessible route in court sports facilities, section 206.2.12.
-  - (3) Historic preservation programs. In meeting the requirements of &sect; 35.150(a) in historic preservation programs, a public entity shall give priority to methods that provide physical access to individuals with disabilities. In cases where a physical alteration to an historic property is not required because of paragraph (a)(2) or (a)(3) of this section, alternative methods of achieving program accessibility include&#8212;
-    - (i) Using audio-visual materials and devices to depict those portions of an historic property that cannot otherwise be made accessible;
-    - (ii) Assigning persons to guide individuals with handicaps into or through portions of historic properties that cannot otherwise be made accessible; or
-    - (iii) Adopting other innovative methods.
-  - (4) Swimming pools, wading pools, and spas. The requirements setforth in sections 242 and 1009 of the 2010 Standards shall not applyuntil January 31, 2013, if a public entity chooses to make structural changesto existing swimming pools, wading pools, or spas built before March 15,2012, for the sole purpose of complying with the program accessibilityrequirements set forth in this section.
-- (c) Time period for compliance. Where structural changes in facilities are undertaken to comply with the obligations established under this section, such changes shall be made within three years of January 26, 1992, but in any event as expeditiously as possible.
-- (d) Transition plan.
-- (1) In the event that structural changes to facilities will be undertaken to achieve program accessibility, a public entity that employs 50 or more persons shall develop, within six months of January 26, 1992, a transition plan setting forth the steps necessary to complete such changes. A public entity shall provide an opportunity to interested persons, including individuals with disabilities or organizations representing individuals with disabilities, to participate in the development of the transition plan by submitting comments. A copy of the transition plan shall be made available for public inspection.
-- (2) If a public entity has responsibility or authority over streets, roads, or walkways, its transition plan shall include a schedule for providing curb ramps or other sloped areas where pedestrian walks cross curbs, giving priority to walkways serving entities covered by the Act, including State and local government offices and facilities, transportation, places of public accommodation, and employers, followed by walkways serving other areas.
-- (3) The plan shall, at a minimum&#8212;
-  - (i) Identify physical obstacles in the public entity's facilities that limit the accessibility of its programs or activities to individuals with disabilities;
-  - (ii) Describe in detail the methods that will be used to make the facilities accessible;
-  - (iii) Specify the schedule for taking the steps necessary to achieve compliance with this section and, if the time period of the transition plan is longer than one year, identify steps that will be taken during each year of the transition period; and
-  - (iv) Indicate the official responsible for implementation of the plan.
-- (4) If a public entity has already complied with the transition plan requirement of a Federal agency regulation implementing section 504 of the Rehabilitation Act of 1973, then the requirements of this paragraph (d) shall apply only to those policies and practices that were not included in the previous transition plan.
+
+(a) General. A public entity shall operate each service, program, or activity so that the service, program, or activity, when viewed in its entirety, is readily accessible to and usable by individuals with disabilities. This paragraph does not&#8212;
+
+(1) Necessarily require a public entity to make each of its existing facilities accessible to and usable by individuals with disabilities;
+
+(2) Require a public entity to take any action that would threaten or destroy the historic significance of an historic property; or
+
+(3) Require a public entity to take any action that it can demonstrate would result in a fundamental alteration in the nature of a service, program, or activity or in undue financial and administrative burdens. In those circumstances where personnel of the public entity believe that the proposed action would fundamentally alter the service, program, or activity or would result in undue financial and administrative burdens, a public entity has the burden of proving that compliance with &sect;35.150(a) of this part would result in such alteration or burdens. The decision that compliance would result in such alteration or burdens must be made by the head of a public entity or his or her designee after considering all resources available for use in the funding and operation of the service, program, or activity, and must be accompanied by a written statement of the reasons for reaching that conclusion. If an action would result in such an alteration or such burdens, a public entity shall take any other action that would not result in such an alteration or such burdens but would nevertheless ensure that individuals with disabilities receive the benefits or services provided by the public entity.
+
+(b) Methods.
+
+(1) General. A public entity may comply with the requirements of this section through such means as redesign or acquisition of equipment, reassignment of services to accessible buildings, assignment of aides to beneficiaries, home visits, delivery of services at alternate accessible sites, alteration of existing facilities and construction of new facilities, use of accessible rolling stock or other conveyances, or any other methods that result in making its services, programs, or activities readily accessible to and usable by individuals with disabilities. A public entity is not required to make structural changes in existing facilities where other methods are effective in achieving compliance with this section. A public entity, in making alterations to existing buildings, shall meet the accessibility requirements of &sect; 35.151. In choosing among available methods for meeting the requirements of this section, a public entity shall give priority to those methods that offer services, programs, and activities to qualified individuals with disabilities in the most integrated setting appropriate.
+
+(2)
+
+(i) Safe harbor. Elements that have not been altered in existing facilities on or after March 15, 2012, and that comply with the corresponding technical and scoping specifications for those elements in either the 1991 Standards or in the Uniform Federal Accessibility Standards (UFAS), Appendix A to 41 CFR part 101&#8211;19.6 (July 1, 2002 ed.), 49 FR 31528, app. A (Aug. 7, 1984) are not required to be modified in order to comply with the requirements set forth in the 2010 Standards.
+
+(ii) The safe harbor provided in &sect; 35.150(b)(2)(i) does not apply to those elements in existing facilities that are subject to supplemental requirements (i.e., elements for which there are neither technical nor scoping specifications in the 1991 Standards). Elements in the 2010 Standards not eligible for the element-by-element safe harbor are identified as follows&#8211;&#8211;
+
+(A) Residential facilities dwelling units, sections 233 and 809.
+
+(B) Amusement rides, sections 234 and 1002; 206.2.9; 216.12.
+
+(C) Recreational boating facilities, sections 235 and 1003; 206.2.10.
+
+(D) Exercise machines and equipment, sections 236 and 1004; 206.2.13.
+
+(E) Fishing piers and platforms, sections 237 and 1005; 206.2.14.
+
+(F) Golf facilities, sections 238 and 1006; 206.2.15.
+
+(G) Miniature golf facilities, sections 239 and 1007; 206.2.16.
+
+(H) Play areas, sections 240 and 1008; 206.2.17.
+
+(I) Saunas and steam rooms, sections 241 and 612.
+
+(J) Swimming pools, wading pools, and spas, sections 242 and 1009.
+
+(K) Shooting facilities with firing positions, sections 243 and 1010.
+
+(L) Miscellaneous.
+    - (1) Team or player seating, section 221.2.1.4.
+    - (2) Accessible route to bowling lanes, section. 206.2.11.
+    - (3) Accessible route in court sports facilities, section 206.2.12.
+
+(3) Historic preservation programs. In meeting the requirements of &sect; 35.150(a) in historic preservation programs, a public entity shall give priority to methods that provide physical access to individuals with disabilities. In cases where a physical alteration to an historic property is not required because of paragraph (a)(2) or (a)(3) of this section, alternative methods of achieving program accessibility include&#8212;
+
+(i) Using audio-visual materials and devices to depict those portions of an historic property that cannot otherwise be made accessible;
+
+(ii) Assigning persons to guide individuals with handicaps into or through portions of historic properties that cannot otherwise be made accessible; or
+
+(iii) Adopting other innovative methods.
+
+(4) Swimming pools, wading pools, and spas. The requirements setforth in sections 242 and 1009 of the 2010 Standards shall not applyuntil January 31, 2013, if a public entity chooses to make structural changesto existing swimming pools, wading pools, or spas built before March 15,2012, for the sole purpose of complying with the program accessibilityrequirements set forth in this section.
+
+(c) Time period for compliance. Where structural changes in facilities are undertaken to comply with the obligations established under this section, such changes shall be made within three years of January 26, 1992, but in any event as expeditiously as possible.
+
+(d) Transition plan.
+
+(1) In the event that structural changes to facilities will be undertaken to achieve program accessibility, a public entity that employs 50 or more persons shall develop, within six months of January 26, 1992, a transition plan setting forth the steps necessary to complete such changes. A public entity shall provide an opportunity to interested persons, including individuals with disabilities or organizations representing individuals with disabilities, to participate in the development of the transition plan by submitting comments. A copy of the transition plan shall be made available for public inspection.
+
+(2) If a public entity has responsibility or authority over streets, roads, or walkways, its transition plan shall include a schedule for providing curb ramps or other sloped areas where pedestrian walks cross curbs, giving priority to walkways serving entities covered by the Act, including State and local government offices and facilities, transportation, places of public accommodation, and employers, followed by walkways serving other areas.
+
+(3) The plan shall, at a minimum&#8212;
+
+(i) Identify physical obstacles in the public entity's facilities that limit the accessibility of its programs or activities to individuals with disabilities;
+
+(ii) Describe in detail the methods that will be used to make the facilities accessible;
+
+(iii) Specify the schedule for taking the steps necessary to achieve compliance with this section and, if the time period of the transition plan is longer than one year, identify steps that will be taken during each year of the transition period; and
+
+(iv) Indicate the official responsible for implementation of the plan.
+
+(4) If a public entity has already complied with the transition plan requirement of a Federal agency regulation implementing section 504 of the Rehabilitation Act of 1973, then the requirements of this paragraph (d) shall apply only to those policies and practices that were not included in the previous transition plan.
 
 ### &sect; 35.151 New construction and alterations
 
-- (a) Design and construction.
-  - (1) Each facility or part of a facility constructed by, on behalf of, or for the use of a public entity shall be designed and constructed in such manner that the facility or part of the facility is readily accessible to and usable by individuals with disabilities, if the construction was commenced after January 26, 1992.
-  - (2) Exception for structural impracticability.
-    - (i) Full compliance with the requirements of this section is not required where a public entity can demonstrate that it is structurally impracticable to meet the requirements. Full compliance will be considered structurally impracticable only in those rare circumstances when the unique characteristics of terrain prevent the incorporation of accessibility features.
-    - (ii) If full compliance with this section would be structurally impracticable, compliance with this section is required to the extent that it is not structurally impracticable. In that case, any portion of the facility that can be made accessible shall be made accessible to the extent that it is not structurally impracticable.
-    - (iii) If providing accessibility in conformance with this section to individuals with certain disabilities (*e.g.*, those who use wheelchairs) would be structurally impracticable, accessibility shall nonetheless be ensured to persons with other types of disabilities, (*e.g.*, those who use crutches or who have sight, hearing, or mental impairments) in accordance with this section.
-- (b) Alterations. - (1) Each facility or part of a facility altered by, on behalf of, or for the use of a public entity in a manner that affects or could affect the usability of the facility or part of the facility shall, to the maximum extent feasible, be altered in such manner that the altered portion of the facility is readily accessible to and usable by individuals with disabilities, if the alteration was commenced after January 26, 1992.
-  - (2) The path of travel requirements of &sect; 35.151(b)(4) shall apply only to alterations undertaken solely for purposes other than to meet the program accessibility requirements of &sect; 35.150.
-  - (3)
-    - (i) Alterations to historic properties shall comply, to the maximum extent feasible, with the provisions applicable to historic properties in the design standards specified in &sect; 35.151(c).
-    - (ii) If it is not feasible to provide physical access to an historic property in a manner that will not threaten or destroy the historic significance of the building or facility, alternative methods of access shall be provided pursuant to the requirements of &sect; 35.150.
-  - (4) Path of travel. An alteration that affects or could affect the usability of or access to an area of a facility that contains a primary function shall be made so as to ensure that, to the maximum extent feasible, the path of travel to the altered area and the restrooms, telephones, and drinking fountains serving the altered area are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, unless the cost and scope of such alterations is disproportionate to the cost of the overall alteration.
-    - (i) Primary function. A &#8220;primary function&#8221; is a major activity for which the facility is intended. Areas that contain a primary function include, but are not limited to, the dining area of a cafeteria, the meeting rooms in a conference center, as well as offices and other work areas in which the activities of the public entity using the facility are carried out.
-      - (A) Mechanical rooms, boiler rooms, supply storage rooms, employee lounges or locker rooms, janitorial closets, entrances, and corridors are not areas containing a primary function. Restrooms are not areas containing a primary function unless the provision of restrooms is a primary purpose of the area, *e.g.*, in highway rest stops.
-      - (B) For the purposes of this section, alterations to windows, hardware, controls, electrical outlets, and signage shall not be deemed to be alterations that affect the usability of or access to an area containing a primary function.
-    - (ii) A &#8220;path of travel&#8221; includes a continuous, unobstructed way of pedestrian passage by means of which the altered area may be approached, entered, and exited, and which connects the altered area with an exterior approach (including sidewalks, streets, and parking areas), an entrance to the facility, and other parts of the facility.
-      - (A) An accessible path of travel may consist of walks and sidewalks, curb ramps and other interior or exterior pedestrian ramps; clear floor paths through lobbies, corridors, rooms, and other improved areas; parking access aisles; elevators and lifts; or a combination of these elements.
-      - (B) For the purposes of this section, the term &#8220;path of travel&#8221; also includes the restrooms, telephones, and drinking fountains serving the altered area.
-      - (C) Safe harbor. If a public entity has constructed or altered required elements of a path of travel in accordance with the specifications in either the 1991 Standards or the Uniform Federal Accessibility Standards before March 15, 2012, the public entity is not required to retrofit such elements to reflect incremental changes in the 2010 Standards solely because of an alteration to a primary function area served by that path of travel.
-    - (iii) Disproportionality.
-      - (A) Alterations made to provide an accessible path of travel to the altered area will be deemed disproportionate to the overall alteration when the cost exceeds 20 % of the cost of the alteration to the primary function area.
-      - (B) Costs that may be counted as expenditures required to provide an accessible path of travel may include:
-        - (1) Costs associated with providing an accessible entrance and an accessible route to the altered area, for example, the cost of widening doorways or installing ramps;
-        - (2) Costs associated with making restrooms accessible, such as installing grab bars, enlarging toilet stalls, insulating pipes, or installing accessible faucet controls;
-        - (3) Costs associated with providing accessible telephones, such as relocating the telephone to an accessible height, installing amplification devices, or installing a text telephone (TTY); and
-        - (4) Costs associated with relocating an inaccessible drinking fountain.
-    - (iv) Duty to provide accessible features in the event of disproportionality.
-      - (A) When the cost of alterations necessary to make the path of travel to the altered area fully accessible is disproportionate to the cost of the overall alteration, the path of travel shall be made accessible to the extent that it can be made accessible without incurring disproportionate costs.
-      - (B) In choosing which accessible elements to provide, priority should be given to those elements that will provide the greatest access, in the following order&#8212;
-        - (1) An accessible entrance;
-        - (2) An accessible route to the altered area;
-        - (3) At least one accessible restroom for each sex or a single unisex restroom;
-        - (4) Accessible telephones;
-        - (5) Accessible drinking fountains; and
-        - (6) When possible, additional accessible elements such as parking, storage, and alarms.
-    - (v) Series of smaller alterations.
-      - (A) The obligation to provide an accessible path of travel may not be evaded by performing a series of small alterations to the area served by a single path of travel if those alterations could have been performed as a single undertaking.
-      - (B)
-        - (1) If an area containing a primary function has been altered without providing an accessible path of travel to that area, and subsequent alterations of that area, or a different area on the same path of travel, are undertaken within three years of the original alteration, the total cost of alterations to the primary function areas on that path of travel during the preceding three-year period shall be considered in determining whether the cost of making that path of travel accessible is disproportionate.
-        - (2) Only alterations undertaken on or after March 15, 2011, shall be considered in determining if the cost of providing an accessible path of travel is disproportionate to the overall cost of the alterations.
-- (c) Accessibility standards and compliance date.
-  - (1) If physical construction or alterations commence after July 26, 1992, but prior to September 15, 2010, then new construction and alterations subject to this section must comply with either the UFAS or the 1991 Standards except that the elevator exemption contained at section 4.1.3(5) and section 4.1.6(1)(k) of the 1991 Standards shall not apply. Departures from particular requirements of either standard by the use of other methods shall be permitted when it is clearly evident that equivalent access to the facility or part of the facility is thereby provided.
-  - (2) If physical construction or alterations commence on or after September 15, 2010, and before March 15, 2012, then new construction and alterations subject to this section may comply with one of the following: the 2010 Standards, UFAS, or the 1991 Standards except that the elevator exemption contained at section 4.1.3(5) and section 4.1.6(1)(k) of the 1991 Standards shall not apply. Departures from particular requirements of either standard by the use of other methods shall be permitted when it is clearly evident that equivalent access to the facility or part of the facility is thereby provided.
-  - (3) If physical construction or alterations commence on or after March 15, 2012, then new construction and alterations subject to this section shall comply with the 2010 Standards.
-  - (4) For the purposes of this section, ceremonial groundbreaking or razing of structures prior to site preparation do not commence physical construction or alterations.
-  - (5) Noncomplying new construction and alterations.
-    - (i) Newly constructed or altered facilities or elements covered by &sect;&sect; 35.151(a) or (b) that were constructed or altered before March 15, 2012, and that do not comply with the 1991 Standards or with UFAS shall before March 15, 2012, be made accessible in accordance with either the 1991 Standards, UFAS, or the 2010 Standards.
-    - (ii) Newly constructed or altered facilities or elements covered by &sect;&sect; 35.151(a) or (b) that were constructed or altered before March 15, 2012 and that do not comply with the 1991 Standards or with UFAS shall, on or after March 15, 2012, be made accessible in accordance with the 2010 Standards.
+(a) Design and construction.
+
+(1) Each facility or part of a facility constructed by, on behalf of, or for the use of a public entity shall be designed and constructed in such manner that the facility or part of the facility is readily accessible to and usable by individuals with disabilities, if the construction was commenced after January 26, 1992.
+
+(2) Exception for structural impracticability.
+
+(i) Full compliance with the requirements of this section is not required where a public entity can demonstrate that it is structurally impracticable to meet the requirements. Full compliance will be considered structurally impracticable only in those rare circumstances when the unique characteristics of terrain prevent the incorporation of accessibility features.
+
+(ii) If full compliance with this section would be structurally impracticable, compliance with this section is required to the extent that it is not structurally impracticable. In that case, any portion of the facility that can be made accessible shall be made accessible to the extent that it is not structurally impracticable.
+
+(iii) If providing accessibility in conformance with this section to individuals with certain disabilities (*e.g.*, those who use wheelchairs) would be structurally impracticable, accessibility shall nonetheless be ensured to persons with other types of disabilities, (*e.g.*, those who use crutches or who have sight, hearing, or mental impairments) in accordance with this section.
+
+(b) Alterations.
+(1) Each facility or part of a facility altered by, on behalf of, or for the use of a public entity in a manner that affects or could affect the usability of the facility or part of the facility shall, to the maximum extent feasible, be altered in such manner that the altered portion of the facility is readily accessible to and usable by individuals with disabilities, if the alteration was commenced after January 26, 1992.
+
+(2) The path of travel requirements of &sect; 35.151(b)(4) shall apply only to alterations undertaken solely for purposes other than to meet the program accessibility requirements of &sect; 35.150.
+
+(3)
+
+(i) Alterations to historic properties shall comply, to the maximum extent feasible, with the provisions applicable to historic properties in the design standards specified in &sect; 35.151(c).
+
+(ii) If it is not feasible to provide physical access to an historic property in a manner that will not threaten or destroy the historic significance of the building or facility, alternative methods of access shall be provided pursuant to the requirements of &sect; 35.150.
+
+(4) Path of travel. An alteration that affects or could affect the usability of or access to an area of a facility that contains a primary function shall be made so as to ensure that, to the maximum extent feasible, the path of travel to the altered area and the restrooms, telephones, and drinking fountains serving the altered area are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, unless the cost and scope of such alterations is disproportionate to the cost of the overall alteration.
+
+(i) Primary function. A &#8220;primary function&#8221; is a major activity for which the facility is intended. Areas that contain a primary function include, but are not limited to, the dining area of a cafeteria, the meeting rooms in a conference center, as well as offices and other work areas in which the activities of the public entity using the facility are carried out.
+
+(A) Mechanical rooms, boiler rooms, supply storage rooms, employee lounges or locker rooms, janitorial closets, entrances, and corridors are not areas containing a primary function. Restrooms are not areas containing a primary function unless the provision of restrooms is a primary purpose of the area, *e.g.*, in highway rest stops.
+
+(B) For the purposes of this section, alterations to windows, hardware, controls, electrical outlets, and signage shall not be deemed to be alterations that affect the usability of or access to an area containing a primary function.
+
+(ii) A &#8220;path of travel&#8221; includes a continuous, unobstructed way of pedestrian passage by means of which the altered area may be approached, entered, and exited, and which connects the altered area with an exterior approach (including sidewalks, streets, and parking areas), an entrance to the facility, and other parts of the facility.
+
+(A) An accessible path of travel may consist of walks and sidewalks, curb ramps and other interior or exterior pedestrian ramps; clear floor paths through lobbies, corridors, rooms, and other improved areas; parking access aisles; elevators and lifts; or a combination of these elements.
+
+(B) For the purposes of this section, the term &#8220;path of travel&#8221; also includes the restrooms, telephones, and drinking fountains serving the altered area.
+
+(C) Safe harbor. If a public entity has constructed or altered required elements of a path of travel in accordance with the specifications in either the 1991 Standards or the Uniform Federal Accessibility Standards before March 15, 2012, the public entity is not required to retrofit such elements to reflect incremental changes in the 2010 Standards solely because of an alteration to a primary function area served by that path of travel.
+
+(iii) Disproportionality.
+
+(A) Alterations made to provide an accessible path of travel to the altered area will be deemed disproportionate to the overall alteration when the cost exceeds 20 % of the cost of the alteration to the primary function area.
+
+(B) Costs that may be counted as expenditures required to provide an accessible path of travel may include:
+
+(1) Costs associated with providing an accessible entrance and an accessible route to the altered area, for example, the cost of widening doorways or installing ramps;
+
+(2) Costs associated with making restrooms accessible, such as installing grab bars, enlarging toilet stalls, insulating pipes, or installing accessible faucet controls;
+
+(3) Costs associated with providing accessible telephones, such as relocating the telephone to an accessible height, installing amplification devices, or installing a text telephone (TTY); and
+
+(4) Costs associated with relocating an inaccessible drinking fountain.
+
+(iv) Duty to provide accessible features in the event of disproportionality.
+
+(A) When the cost of alterations necessary to make the path of travel to the altered area fully accessible is disproportionate to the cost of the overall alteration, the path of travel shall be made accessible to the extent that it can be made accessible without incurring disproportionate costs.
+
+(B) In choosing which accessible elements to provide, priority should be given to those elements that will provide the greatest access, in the following order&#8212;
+
+(1) An accessible entrance;
+
+(2) An accessible route to the altered area;
+
+(3) At least one accessible restroom for each sex or a single unisex restroom;
+
+(4) Accessible telephones;
+
+(5) Accessible drinking fountains; and
+
+(6) When possible, additional accessible elements such as parking, storage, and alarms.
+
+(v) Series of smaller alterations.
+
+(A) The obligation to provide an accessible path of travel may not be evaded by performing a series of small alterations to the area served by a single path of travel if those alterations could have been performed as a single undertaking.
+
+(B)
+
+(1) If an area containing a primary function has been altered without providing an accessible path of travel to that area, and subsequent alterations of that area, or a different area on the same path of travel, are undertaken within three years of the original alteration, the total cost of alterations to the primary function areas on that path of travel during the preceding three-year period shall be considered in determining whether the cost of making that path of travel accessible is disproportionate.
+
+(2) Only alterations undertaken on or after March 15, 2011, shall be considered in determining if the cost of providing an accessible path of travel is disproportionate to the overall cost of the alterations.
+
+(c) Accessibility standards and compliance date.
+
+(1) If physical construction or alterations commence after July 26, 1992, but prior to September 15, 2010, then new construction and alterations subject to this section must comply with either the UFAS or the 1991 Standards except that the elevator exemption contained at section 4.1.3(5) and section 4.1.6(1)(k) of the 1991 Standards shall not apply. Departures from particular requirements of either standard by the use of other methods shall be permitted when it is clearly evident that equivalent access to the facility or part of the facility is thereby provided.
+
+(2) If physical construction or alterations commence on or after September 15, 2010, and before March 15, 2012, then new construction and alterations subject to this section may comply with one of the following: the 2010 Standards, UFAS, or the 1991 Standards except that the elevator exemption contained at section 4.1.3(5) and section 4.1.6(1)(k) of the 1991 Standards shall not apply. Departures from particular requirements of either standard by the use of other methods shall be permitted when it is clearly evident that equivalent access to the facility or part of the facility is thereby provided.
+
+(3) If physical construction or alterations commence on or after March 15, 2012, then new construction and alterations subject to this section shall comply with the 2010 Standards.
+
+(4) For the purposes of this section, ceremonial groundbreaking or razing of structures prior to site preparation do not commence physical construction or alterations.
+
+(5) Noncomplying new construction and alterations.
+
+(i) Newly constructed or altered facilities or elements covered by &sect;&sect; 35.151(a) or (b) that were constructed or altered before March 15, 2012, and that do not comply with the 1991 Standards or with UFAS shall before March 15, 2012, be made accessible in accordance with either the 1991 Standards, UFAS, or the 2010 Standards.
+
+(ii) Newly constructed or altered facilities or elements covered by &sect;&sect; 35.151(a) or (b) that were constructed or altered before March 15, 2012 and that do not comply with the 1991 Standards or with UFAS shall, on or after March 15, 2012, be made accessible in accordance with the 2010 Standards.
 
 #### Appendix to &sect; 35.151(c)
 
@@ -779,48 +986,85 @@ Alterations</th> <th>Applicable Standards</th>
 <tr> <td>On or after March 15, 2012 </td> <td>2010 Standards</td>
 </tr> </tbody> </table>
 
-- (d) Scope of coverage. The 1991 Standards and the 2010 Standards apply to fixed or built-in elements of buildings, structures, site improvements, and pedestrian routes or vehicular ways located on a site. Unless specifically stated otherwise, the advisory notes, appendix notes, and figures contained in the 1991 Standards and the 2010 Standards explain or illustrate the requirements of the rule; they do not establish enforceable requirements.
-- (e) Social service center establishments. Group homes, halfway houses, shelters, or similar social service center establishments that provide either temporary sleeping accommodations or residential dwelling units that are subject to this section shall comply with the provisions of the 2010 Standards applicable to residential facilities, including, but not limited to, the provisions in sections 233 and 809.
-  - (1) In sleeping rooms with more than 25 beds covered by this section, a minimum of 5% of the beds shall have clear floor space complying with section 806.2.3 of the 2010 Standards.
-  - (2) Facilities with more than 50 beds covered by this section that provide common use bathing facilities, shall provide at least one roll-in shower with a seat that complies with the relevant provisions of section 608 of the 2010 Standards. Transfer-type showers are not permitted in lieu of a roll-in shower with a seat, and the exceptions in sections 608.3 and 608.4 for residential dwelling units are not permitted. When separate shower facilities are provided for men and for women, at least one roll-in shower shall be provided for each group.
-- (f) Housing at a place of education. Housing at a place of education that is subject to this section shall comply with the provisions of the 2010 Standards applicable to transient lodging, including, but not limited to, the requirements for transient lodging guest rooms in sections 224 and 806 subject to the following exceptions. For the purposes of the application of this section, the term &quot;sleeping room&quot; is intended to be used interchangeably with the term &quot;guest room&quot; as it is used in the transient lodging standards.
-  - (1) Kitchens within housing units containing accessible sleeping rooms with mobility features (including suites and clustered sleeping rooms) or on floors containing accessible sleeping rooms with mobility features shall provide turning spaces that comply with section 809.2.2 of the 2010 Standards and kitchen work surfaces that comply with section 804.3 of the 2010 Standards.
-  - (2) Multi-bedroom housing units containing accessible sleeping rooms with mobility features shall have an accessible route throughout the unit in accordance with section 809.2 of the 2010 Standards.
-  - (3) Apartments or townhouse facilities that are provided by or on behalf of a place of education, which are leased on a year-round basis exclusively to graduate students or faculty, and do not contain any public use or common use areas available for educational programming, are not subject to the transient lodging standards and shall comply with the requirements for residential facilities in sections 233 and 809 of the 2010 Standards.
-- (g) Assembly areas. Assembly areas subject to this section shall comply with the provisions of the 2010 Standards applicable to assembly areas, including, but not limited to, sections 221 and 802. In addition, assembly areas shall ensure that&#8212;
-  - (1) In stadiums, arenas, and grandstands, wheelchair spaces and companion seats are dispersed to all levels that include seating served by an accessible route;
-  - (2) Assembly areas that are required to horizontally disperse wheelchair spaces and companion seats by section 221.2.3.1 of the 2010 Standards and have seating encircling, in whole or in part, a field of play or performance area shall disperse wheelchair spaces and companion seats around that field of play or performance area;
-  - (3) Wheelchair spaces and companion seats are not located on (or obstructed by) temporary platforms or other movable structures, except that when an entire seating section is placed on temporary platforms or other movable structures in an area where fixed seating is not provided, in order to increase seating for an event, wheelchair spaces and companion seats may be placed in that section. When wheelchair spaces and companion seats are not required to accommodate persons eligible for those spaces and seats, individual, removable seats may be placed in those spaces and seats;
-  - (4) Stadium-style movie theaters shall locate wheelchair spaces and companion seats on a riser or cross-aisle in the stadium section that satisfies at least one of the following criteria&#8212;
-    - (i) It is located within the rear 60% of the seats provided in an auditorium; or
-    - (ii) It is located within the area of an auditorium in which the vertical viewing angles (as measured to the top of the screen) are from the 40th to the 100th percentile of vertical viewing angles for all seats as ranked from the seats in the first row (1st percentile) to seats in the back row (100th percentile).
-- (h) Medical care facilities. Medical care facilities that are subject to this section shall comply with the provisions of the 2010 Standards applicable to medical care facilities, including, but not limited to, sections 223 and 805. In addition, medical care facilities that do not specialize in the treatment of conditions that affect mobility shall disperse the accessible patient bedrooms required by section 223.2.1 of the 2010 Standards in a manner that is proportionate by type of medical specialty.
-  - (i) Curb ramps.
-    - (1) Newly constructed or altered streets, roads, and highways must contain curb ramps or other sloped areas at any intersection having curbs or other barriers to entry from a street level pedestrian walkway.
-    - (2) Newly constructed or altered street level pedestrian walkways must contain curb ramps or other sloped areas at intersections to streets, roads, or highways.
-- (j) Facilities with residential dwelling units for sale to individual owners.
-  - (1) Residential dwelling units designed and constructed or altered by public entities that will be offered for sale to individuals shall comply with the requirements for residential facilities in the 2010 Standards including sections 233 and 809.
-  - (2) The requirements of paragraph (1) also apply to housing programs that are operated by public entities where design and construction of particular residential dwelling units take place only after a specific buyer has been identified. In such programs, the covered entity must provide the units that comply with the requirements for accessible features to those pre-identified buyers with disabilities who have requested such a unit. </li> </ul>
-  - (k) Detention and correctional facilities.
-    - (1) New construction of jails, prisons, and other detention and correctional facilities shall comply with the 2010 Standards except that public entities shall provide accessible mobility features complying with section 807.2 of the 2010 Standards for a minimum of 3%, but no fewer than one, of the total number of cells in a facility. Cells with mobility features shall be provided in each classification level.
-    - (2) Alterations to detention and correctional facilities. Alterations to jails, prisons, and other detention and correctional facilities shall comply with the 2010 Standards except that public entities shall provide accessible mobility features complying with section 807.2 of the 2010 Standards for a minimum of 3%, but no fewer than one, of the total number of cells being altered until at least 3%, but no fewer than one, of the total number of cells in a facility shall provide mobility features complying with section 807.2. Altered cells with mobility features shall be provided in each classification level. However, when alterations are made to specific cells, detention and correctional facility operators may satisfy their obligation to provide the required number of cells with mobility features by providing the required mobility features in substitute cells (cells other than those where alterations are originally planned), provided that each substitute cell&#8212;
-      - (i) Is located within the same prison site;
-      - (ii) Is integrated with other cells to the maximum extent feasible;
-      - (iii) Has, at a minimum, equal physical access as the altered cells to areas used by inmates or detainees for visitation, dining, recreation, educational programs, medical services, work programs, religious services, and participation in other programs that the facility offers to inmates or detainees; and,
-      - (iv) If it is technically infeasible to locate a substitute cell within the same prison site, a substitute cell must be provided at another prison site within the corrections system.
-    - (3) With respect to medical and long-term care facilities in jails, prisons, and other detention and correctional facilities, public entities shall apply the 2010 Standards technical and scoping requirements for those facilities irrespective of whether those facilities are licensed.
+(d) Scope of coverage. The 1991 Standards and the 2010 Standards apply to fixed or built-in elements of buildings, structures, site improvements, and pedestrian routes or vehicular ways located on a site. Unless specifically stated otherwise, the advisory notes, appendix notes, and figures contained in the 1991 Standards and the 2010 Standards explain or illustrate the requirements of the rule; they do not establish enforceable requirements.
+
+(e) Social service center establishments. Group homes, halfway houses, shelters, or similar social service center establishments that provide either temporary sleeping accommodations or residential dwelling units that are subject to this section shall comply with the provisions of the 2010 Standards applicable to residential facilities, including, but not limited to, the provisions in sections 233 and 809.
+
+(1) In sleeping rooms with more than 25 beds covered by this section, a minimum of 5% of the beds shall have clear floor space complying with section 806.2.3 of the 2010 Standards.
+
+(2) Facilities with more than 50 beds covered by this section that provide common use bathing facilities, shall provide at least one roll-in shower with a seat that complies with the relevant provisions of section 608 of the 2010 Standards. Transfer-type showers are not permitted in lieu of a roll-in shower with a seat, and the exceptions in sections 608.3 and 608.4 for residential dwelling units are not permitted. When separate shower facilities are provided for men and for women, at least one roll-in shower shall be provided for each group.
+
+(f) Housing at a place of education. Housing at a place of education that is subject to this section shall comply with the provisions of the 2010 Standards applicable to transient lodging, including, but not limited to, the requirements for transient lodging guest rooms in sections 224 and 806 subject to the following exceptions. For the purposes of the application of this section, the term &quot;sleeping room&quot; is intended to be used interchangeably with the term &quot;guest room&quot; as it is used in the transient lodging standards.
+
+(1) Kitchens within housing units containing accessible sleeping rooms with mobility features (including suites and clustered sleeping rooms) or on floors containing accessible sleeping rooms with mobility features shall provide turning spaces that comply with section 809.2.2 of the 2010 Standards and kitchen work surfaces that comply with section 804.3 of the 2010 Standards.
+
+(2) Multi-bedroom housing units containing accessible sleeping rooms with mobility features shall have an accessible route throughout the unit in accordance with section 809.2 of the 2010 Standards.
+
+(3) Apartments or townhouse facilities that are provided by or on behalf of a place of education, which are leased on a year-round basis exclusively to graduate students or faculty, and do not contain any public use or common use areas available for educational programming, are not subject to the transient lodging standards and shall comply with the requirements for residential facilities in sections 233 and 809 of the 2010 Standards.
+
+(g) Assembly areas. Assembly areas subject to this section shall comply with the provisions of the 2010 Standards applicable to assembly areas, including, but not limited to, sections 221 and 802. In addition, assembly areas shall ensure that&#8212;
+
+(1) In stadiums, arenas, and grandstands, wheelchair spaces and companion seats are dispersed to all levels that include seating served by an accessible route;
+
+(2) Assembly areas that are required to horizontally disperse wheelchair spaces and companion seats by section 221.2.3.1 of the 2010 Standards and have seating encircling, in whole or in part, a field of play or performance area shall disperse wheelchair spaces and companion seats around that field of play or performance area;
+
+(3) Wheelchair spaces and companion seats are not located on (or obstructed by) temporary platforms or other movable structures, except that when an entire seating section is placed on temporary platforms or other movable structures in an area where fixed seating is not provided, in order to increase seating for an event, wheelchair spaces and companion seats may be placed in that section. When wheelchair spaces and companion seats are not required to accommodate persons eligible for those spaces and seats, individual, removable seats may be placed in those spaces and seats;
+
+(4) Stadium-style movie theaters shall locate wheelchair spaces and companion seats on a riser or cross-aisle in the stadium section that satisfies at least one of the following criteria&#8212;
+
+(i) It is located within the rear 60% of the seats provided in an auditorium; or
+
+(ii) It is located within the area of an auditorium in which the vertical viewing angles (as measured to the top of the screen) are from the 40th to the 100th percentile of vertical viewing angles for all seats as ranked from the seats in the first row (1st percentile) to seats in the back row (100th percentile).
+
+(h) Medical care facilities. Medical care facilities that are subject to this section shall comply with the provisions of the 2010 Standards applicable to medical care facilities, including, but not limited to, sections 223 and 805. In addition, medical care facilities that do not specialize in the treatment of conditions that affect mobility shall disperse the accessible patient bedrooms required by section 223.2.1 of the 2010 Standards in a manner that is proportionate by type of medical specialty.
+
+(i) Curb ramps.
+
+(1) Newly constructed or altered streets, roads, and highways must contain curb ramps or other sloped areas at any intersection having curbs or other barriers to entry from a street level pedestrian walkway.
+
+(2) Newly constructed or altered street level pedestrian walkways must contain curb ramps or other sloped areas at intersections to streets, roads, or highways.
+
+(j) Facilities with residential dwelling units for sale to individual owners.
+
+(1) Residential dwelling units designed and constructed or altered by public entities that will be offered for sale to individuals shall comply with the requirements for residential facilities in the 2010 Standards including sections 233 and 809.
+
+(2) The requirements of paragraph (1) also apply to housing programs that are operated by public entities where design and construction of particular residential dwelling units take place only after a specific buyer has been identified. In such programs, the covered entity must provide the units that comply with the requirements for accessible features to those pre-identified buyers with disabilities who have requested such a unit. </li> </ul>
+
+(k) Detention and correctional facilities.
+
+(1) New construction of jails, prisons, and other detention and correctional facilities shall comply with the 2010 Standards except that public entities shall provide accessible mobility features complying with section 807.2 of the 2010 Standards for a minimum of 3%, but no fewer than one, of the total number of cells in a facility. Cells with mobility features shall be provided in each classification level.
+
+(2) Alterations to detention and correctional facilities. Alterations to jails, prisons, and other detention and correctional facilities shall comply with the 2010 Standards except that public entities shall provide accessible mobility features complying with section 807.2 of the 2010 Standards for a minimum of 3%, but no fewer than one, of the total number of cells being altered until at least 3%, but no fewer than one, of the total number of cells in a facility shall provide mobility features complying with section 807.2. Altered cells with mobility features shall be provided in each classification level. However, when alterations are made to specific cells, detention and correctional facility operators may satisfy their obligation to provide the required number of cells with mobility features by providing the required mobility features in substitute cells (cells other than those where alterations are originally planned), provided that each substitute cell&#8212;
+
+(i) Is located within the same prison site;
+
+(ii) Is integrated with other cells to the maximum extent feasible;
+
+(iii) Has, at a minimum, equal physical access as the altered cells to areas used by inmates or detainees for visitation, dining, recreation, educational programs, medical services, work programs, religious services, and participation in other programs that the facility offers to inmates or detainees; and,
+
+(iv) If it is technically infeasible to locate a substitute cell within the same prison site, a substitute cell must be provided at another prison site within the corrections system.
+
+(3) With respect to medical and long-term care facilities in jails, prisons, and other detention and correctional facilities, public entities shall apply the 2010 Standards technical and scoping requirements for those facilities irrespective of whether those facilities are licensed.
 
 ### &sect; 35.152 Jails, detention and correctional facilities, and community correctional facilities.
 
-- (a) General. This section applies to public entities that are responsible for the operation or management of adult and juvenile justice jails, detention and correctional facilities, and community correctional facilities, either directly or through contractual, licensing, or other arrangements with public or private entities, in whole or in part, including private correctional facilities.
-- (b) Discrimination prohibited.
-  - (1) Public entities shall ensure that qualified inmates or detainees with disabilities shall not, because a facility is inaccessible to or unusable by individuals with disabilities, be excluded from participation in, or be denied the benefits of, the services, programs, or activities of a public entity, or be subjected to discrimination by any public entity.
-  - (2) Public entities shall ensure that inmates or detainees with disabilities are housed in the most integrated setting appropriate to the needs of the individuals. Unless it is appropriate to make an exception, a public entity&#8211;
-    - (i) Shall not place inmates or detainees with disabilities in inappropriate security classifications because no accessible cells or beds are available;
-    - (ii) Shall not place inmates or detainees with disabilities in designated medical areas unless they are actually receiving medical care or treatment;
-    - (iii) Shall not place inmates or detainees with disabilities in facilities that do not offer the same programs as the facilities where they would otherwise be housed; and
-    - (iv) Shall not deprive inmates or detainees with disabilities of visitation with family members by placing them in distant facilities where they would not otherwise be housed.
-  - (3) Public entities shall implement reasonable policies, including physical modifications to additional cells in accordance with the 2010 Standards, so as to ensure that each inmate with a disability is housed in a cell with the accessible elements necessary to afford the inmate access to safe, appropriate housing.
+(a) General. This section applies to public entities that are responsible for the operation or management of adult and juvenile justice jails, detention and correctional facilities, and community correctional facilities, either directly or through contractual, licensing, or other arrangements with public or private entities, in whole or in part, including private correctional facilities.
+
+(b) Discrimination prohibited.
+
+(1) Public entities shall ensure that qualified inmates or detainees with disabilities shall not, because a facility is inaccessible to or unusable by individuals with disabilities, be excluded from participation in, or be denied the benefits of, the services, programs, or activities of a public entity, or be subjected to discrimination by any public entity.
+
+(2) Public entities shall ensure that inmates or detainees with disabilities are housed in the most integrated setting appropriate to the needs of the individuals. Unless it is appropriate to make an exception, a public entity&#8211;
+
+(i) Shall not place inmates or detainees with disabilities in inappropriate security classifications because no accessible cells or beds are available;
+
+(ii) Shall not place inmates or detainees with disabilities in designated medical areas unless they are actually receiving medical care or treatment;
+
+(iii) Shall not place inmates or detainees with disabilities in facilities that do not offer the same programs as the facilities where they would otherwise be housed; and
+
+(iv) Shall not deprive inmates or detainees with disabilities of visitation with family members by placing them in distant facilities where they would not otherwise be housed.
+
+(3) Public entities shall implement reasonable policies, including physical modifications to additional cells in accordance with the 2010 Standards, so as to ensure that each inmate with a disability is housed in a cell with the accessible elements necessary to afford the inmate access to safe, appropriate housing.
 
 ### &sect;&sect; 35.153&#8212;35.159 \[Reserved\]
 
@@ -828,29 +1072,47 @@ Alterations</th> <th>Applicable Standards</th>
 
 ### &sect; 35.160 General.
 
-- (a)
-  - (1) A public entity shall take appropriate steps to ensure that communications with applicants, participants, members of the public, and companions with disabilities are as effective as communications with others.
-  - (2) For purposes of this section, &#8220;companion&#8221; means a family member, friend, or associate of an individual seeking access to a service, program, or activity of a public entity, who, along with such individual, is an appropriate person with whom the public entity should communicate.
-- (b)
-  - (1) A public entity shall furnish appropriate auxiliary aids and services where necessary to afford qualified individuals with disabilities, including applicants, participants, companions, and members of the public, an equal opportunity to participate in, and enjoy the benefits of, a service, program, or activity of a public entity.
-  - (2) The type of auxiliary aid or service necessary to ensure effective communication will vary in accordance with the method of communication used by the individual; the nature, length, and complexity of the communication involved; and the context in which the communication is taking place. In determining what types of auxiliary aids and services are necessary, a public entity shall give primary consideration to the requests of individuals with disabilities. In order to be effective, auxiliary aids and services must be provided in accessible formats, in a timely manner, and in such a way as to protect the privacy and independence of the individual with a disability.
-- (c)
-  - (1) A public entity shall not require an individual with a disability to bring another individual to interpret for him or her.
-  - (2) A public entity shall not rely on an adult accompanying an individual with a disability to interpret or facilitate communication except&#8212;
-    - (i) In an emergency involving an imminent threat to the safety or welfare of an individual or the public where there is no interpreter available; or
-    - (ii) Where the individual with a disability specifically requests that the accompanying adult interpret or facilitate communication, the accompanying adult agrees to provide such assistance, and reliance on that adult for such assistance is appropriate under the circumstances.
-  - (3) A public entity shall not rely on a minor child to interpret or facilitate communication, except in an emergency involving an imminent threat to the safety or welfare of an individual or the public where there is no interpreter available.
-- (d) Video remote interpreting (VRI) services. A public entity that chooses to provide qualified interpreters via VRI services shall ensure that it provides&#8212;
-  - (1) Real-time, full-motion video and audio over a dedicated high-speed, wide-bandwidth video connection or wireless connection that delivers high-quality video images that do not produce lags, choppy, blurry, or grainy images, or irregular pauses in communication;
-  - (2) A sharply delineated image that is large enough to display the interpreter's face, arms, hands, and fingers, and the participating individual's face, arms, hands, and fingers, regardless of his or her body position;
-  - (3) A clear, audible transmission of voices; and
-  - (4) Adequate training to users of the technology and other involved individuals so that they may quickly and efficiently set up and operate the VRI.
+(a)
+
+(1) A public entity shall take appropriate steps to ensure that communications with applicants, participants, members of the public, and companions with disabilities are as effective as communications with others.
+
+(2) For purposes of this section, &#8220;companion&#8221; means a family member, friend, or associate of an individual seeking access to a service, program, or activity of a public entity, who, along with such individual, is an appropriate person with whom the public entity should communicate.
+
+(b)
+
+(1) A public entity shall furnish appropriate auxiliary aids and services where necessary to afford qualified individuals with disabilities, including applicants, participants, companions, and members of the public, an equal opportunity to participate in, and enjoy the benefits of, a service, program, or activity of a public entity.
+
+(2) The type of auxiliary aid or service necessary to ensure effective communication will vary in accordance with the method of communication used by the individual; the nature, length, and complexity of the communication involved; and the context in which the communication is taking place. In determining what types of auxiliary aids and services are necessary, a public entity shall give primary consideration to the requests of individuals with disabilities. In order to be effective, auxiliary aids and services must be provided in accessible formats, in a timely manner, and in such a way as to protect the privacy and independence of the individual with a disability.
+
+(c)
+
+(1) A public entity shall not require an individual with a disability to bring another individual to interpret for him or her.
+
+(2) A public entity shall not rely on an adult accompanying an individual with a disability to interpret or facilitate communication except&#8212;
+
+(i) In an emergency involving an imminent threat to the safety or welfare of an individual or the public where there is no interpreter available; or
+
+(ii) Where the individual with a disability specifically requests that the accompanying adult interpret or facilitate communication, the accompanying adult agrees to provide such assistance, and reliance on that adult for such assistance is appropriate under the circumstances.
+
+(3) A public entity shall not rely on a minor child to interpret or facilitate communication, except in an emergency involving an imminent threat to the safety or welfare of an individual or the public where there is no interpreter available.
+
+(d) Video remote interpreting (VRI) services. A public entity that chooses to provide qualified interpreters via VRI services shall ensure that it provides&#8212;
+
+(1) Real-time, full-motion video and audio over a dedicated high-speed, wide-bandwidth video connection or wireless connection that delivers high-quality video images that do not produce lags, choppy, blurry, or grainy images, or irregular pauses in communication;
+
+(2) A sharply delineated image that is large enough to display the interpreter's face, arms, hands, and fingers, and the participating individual's face, arms, hands, and fingers, regardless of his or her body position;
+
+(3) A clear, audible transmission of voices; and
+
+(4) Adequate training to users of the technology and other involved individuals so that they may quickly and efficiently set up and operate the VRI.
 
 ### &sect; 35.161 Telecommunications.
 
-- (a) Where a public entity communicates by telephone with applicants and beneficiaries, text telephones (TTYs) or equally effective telecommunications systems shall be used to communicate with individuals who are deaf or hard of hearing or have speech impairments.
-- (b) When a public entity uses an automated-attendant system,including, but not limited to, voice mail and messaging, or aninteractive voice response system, for receiving and directing incomingtelephone calls, that system must provide effective real-timecommunication with individuals using auxiliary aids and services,including TTYs and all forms of FCC-approved telecommunications relaysystem, including Internet-based relay systems.
-- (c) A public entity shall respond to telephone calls from atelecommunications relay service established under title IV of the ADAin the same manner that it responds to other telephone calls.
+(a) Where a public entity communicates by telephone with applicants and beneficiaries, text telephones (TTYs) or equally effective telecommunications systems shall be used to communicate with individuals who are deaf or hard of hearing or have speech impairments.
+
+(b) When a public entity uses an automated-attendant system,including, but not limited to, voice mail and messaging, or aninteractive voice response system, for receiving and directing incomingtelephone calls, that system must provide effective real-timecommunication with individuals using auxiliary aids and services,including TTYs and all forms of FCC-approved telecommunications relaysystem, including Internet-based relay systems.
+
+(c) A public entity shall respond to telephone calls from atelecommunications relay service established under title IV of the ADAin the same manner that it responds to other telephone calls.
 
 ### &sect; 35.162 Telephone emergency services
 
@@ -858,14 +1120,7 @@ Telephone emergency services, including 911 services, shall provide direct acces
 
 ### &sect; 35.163 Information and signage
 
-- (a) A public entity shall ensure that interested persons,
-  including persons with impaired vision or hearing, can obtain
-  information as to the existence and location of accessible services,
-  activities, and facilities.</li> <li>(b) A public entity shall provide signage at all inaccessible
-  entrances to each of its facilities, directing users to an accessible
-  entrance or to a location at which they can obtain information about
-  accessible facilities. The international symbol for accessibility shall
-  be used at each accessible entrance of a facility. </li> </ul>
+(a) A public entity shall ensure that interested persons, including persons with impaired vision or hearing, can obtain information as to the existence and location of accessible services, activities, and facilities. (b) A public entity shall provide signage at all inaccessible entrances to each of its facilities, directing users to an accessible entrance or to a location at which they can obtain information about accessible facilities. The international symbol for accessibility shall be used at each accessible entrance of a facility.
 
 ### &sect; 35.164 Duties
 
@@ -877,53 +1132,85 @@ This subpart does not require a public entity to take any action that it can dem
 
 ### &sect; 35.170 Complaints
 
-- (a) Who may file. An individual who believes that he or she or a specific class of individuals has been subjected to discrimination on the basis of disability by a public entity may, by himself or herself or by an authorized representative, file a complaint under this part.
-- (b) Time for filing. A complaint must be filed not later than 180 days from the date of the alleged discrimination, unless the time for filing is extended by the designated agency for good cause shown. A complaint is deemed to be filed under this section on the date it is first filed with any Federal agency.
-- (c) Where to file. An individual may file a complaint with any agency that he or she believes to be the appropriate agency designated under subpart G of this part, or with any agency that provides funding to the public entity that is the subject of the complaint, or with the Department of Justice for referral as provided in &sect;35.171(a)(2).
+(a) Who may file. An individual who believes that he or she or a specific class of individuals has been subjected to discrimination on the basis of disability by a public entity may, by himself or herself or by an authorized representative, file a complaint under this part.
+
+(b) Time for filing. A complaint must be filed not later than 180 days from the date of the alleged discrimination, unless the time for filing is extended by the designated agency for good cause shown. A complaint is deemed to be filed under this section on the date it is first filed with any Federal agency.
+
+(c) Where to file. An individual may file a complaint with any agency that he or she believes to be the appropriate agency designated under subpart G of this part, or with any agency that provides funding to the public entity that is the subject of the complaint, or with the Department of Justice for referral as provided in &sect;35.171(a)(2).
 
 ### &sect; 35.171 Acceptance of complaints
 
-- (a) Receipt of complaints.
-  - (1)
-    - (i) Any Federal agency that receives a complaint of discrimination on the basis of disability by a public entity shall promptly review the complaint to determine whether it has jurisdiction over the complaint under section 504.
-    - (ii) If the agency does not have section 504 jurisdiction, it shall promptly determine whether it is the designated agency under subpart G of this part responsible for complaints filed against that public entity.
-  - (2)
-    - (i) If an agency other than the Department of Justice determines that it does not have section 504 jurisdiction and is not the designated agency, it shall promptly refer the complaint to the appropriate designated agency, the agency that has section 504 jurisdiction, or the Department of Justice, and so notify the complainant.
-    - (ii) When the Department of Justice receives a complaint for which it does not have jurisdiction under section 504 and is not the designated agency, it may exercise jurisdiction pursuant to &sect; 35.190(e) or refer the complaint to an agency that does have jurisdiction under section 504 or to the appropriate agency designated in subpart G of this part or, in the case of an employment complaint that is also subject to title I of the Act, to the Equal Employment Opportunity Commission.
-  - (3)
-    - (i) If the agency that receives a complaint has section 504 jurisdiction, it shall process the complaint according to its procedures for enforcing section 504.
-    - (ii) If the agency that receives a complaint does not have section 504 jurisdiction, but is the designated agency, it shall process the complaint according to the procedures established by this subpart.
-- (b) Employment complaints.
-  - (1) If a complaint alleges employment discrimination subject to title I of the Act, and the agency has section 504 jurisdiction, the agency shall follow the procedures issued by the Department of Justice and the Equal Employment Opportunity Commission under section 107(b) of the Act.
-  - (2) If a complaint alleges employment discrimination subject to title I of the Act, and the designated agency does not have section 504 jurisdiction, the agency shall refer the complaint to the Equal Employment Opportunity Commission for processing under title I of the Act.
-  - (3) Complaints alleging employment discrimination subject to this part, but not to title I of the Act shall be processed in accordance with the procedures established by this subpart.
-- (c) Complete complaints.
-  - (1) A designated agency shall accept all complete complaints under this section and shall promptly notify the complainant and the public entity of the receipt and acceptance of the complaint.
-  - (2) If the designated agency receives a complaint that is not complete, it shall notify the complainant and specify the additional information that is needed to make the complaint a complete complaint. If the complainant fails to complete the complaint, the designated agency shall close the complaint without prejudice.
+(a) Receipt of complaints.
+
+(1)
+
+(i) Any Federal agency that receives a complaint of discrimination on the basis of disability by a public entity shall promptly review the complaint to determine whether it has jurisdiction over the complaint under section 504.
+
+(ii) If the agency does not have section 504 jurisdiction, it shall promptly determine whether it is the designated agency under subpart G of this part responsible for complaints filed against that public entity.
+
+(2)
+
+(i) If an agency other than the Department of Justice determines that it does not have section 504 jurisdiction and is not the designated agency, it shall promptly refer the complaint to the appropriate designated agency, the agency that has section 504 jurisdiction, or the Department of Justice, and so notify the complainant.
+
+(ii) When the Department of Justice receives a complaint for which it does not have jurisdiction under section 504 and is not the designated agency, it may exercise jurisdiction pursuant to &sect; 35.190(e) or refer the complaint to an agency that does have jurisdiction under section 504 or to the appropriate agency designated in subpart G of this part or, in the case of an employment complaint that is also subject to title I of the Act, to the Equal Employment Opportunity Commission.
+
+(3)
+
+(i) If the agency that receives a complaint has section 504 jurisdiction, it shall process the complaint according to its procedures for enforcing section 504.
+
+(ii) If the agency that receives a complaint does not have section 504 jurisdiction, but is the designated agency, it shall process the complaint according to the procedures established by this subpart.
+
+(b) Employment complaints.
+
+(1) If a complaint alleges employment discrimination subject to title I of the Act, and the agency has section 504 jurisdiction, the agency shall follow the procedures issued by the Department of Justice and the Equal Employment Opportunity Commission under section 107(b) of the Act.
+
+(2) If a complaint alleges employment discrimination subject to title I of the Act, and the designated agency does not have section 504 jurisdiction, the agency shall refer the complaint to the Equal Employment Opportunity Commission for processing under title I of the Act.
+
+(3) Complaints alleging employment discrimination subject to this part, but not to title I of the Act shall be processed in accordance with the procedures established by this subpart.
+
+(c) Complete complaints.
+
+(1) A designated agency shall accept all complete complaints under this section and shall promptly notify the complainant and the public entity of the receipt and acceptance of the complaint.
+
+(2) If the designated agency receives a complaint that is not complete, it shall notify the complainant and specify the additional information that is needed to make the complaint a complete complaint. If the complainant fails to complete the complaint, the designated agency shall close the complaint without prejudice.
 
 ### &sect; 35.172 Investigations and compliance reviews.
 
-- (a) The designated agency shall investigate complaints for which it is responsible under &sect; 35.171.
-- (b) The designated agency may conduct compliance reviews of public entities in order to ascertain whether there has been a failure to comply with the nondiscrimination requirements of this part.
-- (c) Where appropriate, the designated agency shall attempt informal resolution of any matter being investigated under this section, and, if resolution is not achieved and a violation is found, issue to the public entity and the complainant, if any, a Letter of Findings that shall include&#8212;
-  - (1) Findings of fact and conclusions of law;
-  - (2) A description of a remedy for each violation found (including compensatory damages where appropriate); and
-  - (3) Notice of the rights and procedures available under paragraph (d) of this section and &sect;&sect; 35.173 and 35.174.
-- (d) At any time, the complainant may file a private suit pursuant to section 203 of the Act, 42 U.S.C. 12133, whether or not the designated agency finds a violation.
+(a) The designated agency shall investigate complaints for which it is responsible under &sect; 35.171.
+
+(b) The designated agency may conduct compliance reviews of public entities in order to ascertain whether there has been a failure to comply with the nondiscrimination requirements of this part.
+
+(c) Where appropriate, the designated agency shall attempt informal resolution of any matter being investigated under this section, and, if resolution is not achieved and a violation is found, issue to the public entity and the complainant, if any, a Letter of Findings that shall include&#8212;
+
+(1) Findings of fact and conclusions of law;
+
+(2) A description of a remedy for each violation found (including compensatory damages where appropriate); and
+
+(3) Notice of the rights and procedures available under paragraph (d) of this section and &sect;&sect; 35.173 and 35.174.
+
+(d) At any time, the complainant may file a private suit pursuant to section 203 of the Act, 42 U.S.C. 12133, whether or not the designated agency finds a violation.
 
 ### &sect; 35.173 Voluntary compliance agreements
 
-- (a) When the designated agency issues a noncompliance Letter of Findings, the designated agency shall&#8212;
-  - (1) Notify the Assistant Attorney General by forwarding a copy of the Letter of Findings to the Assistant Attorney General; and
-  - (2) Initiate negotiations with the public entity to secure compliance by voluntary means.
-- (b) Where the designated agency is able to secure voluntary
+(a) When the designated agency issues a noncompliance Letter of Findings, the designated agency shall&#8212;
+
+(1) Notify the Assistant Attorney General by forwarding a copy of the Letter of Findings to the Assistant Attorney General; and
+
+(2) Initiate negotiations with the public entity to secure compliance by voluntary means.
+
+(b) Where the designated agency is able to secure voluntary
   compliance, the voluntary compliance agreement shall&#8212;
-  - (1) Be in writing and signed by the parties;
-  - (2) Address each cited violation;
-  - (3) Specify the corrective or remedial action to be taken,
+
+(1) Be in writing and signed by the parties;
+
+(2) Address each cited violation;
+
+(3) Specify the corrective or remedial action to be taken,
     within a stated period of time, to come into compliance;
-  - (4) Provide assurance that discrimination will not recur; and
-  - (5) Provide for enforcement by the Attorney General.
+
+(4) Provide assurance that discrimination will not recur; and
+
+(5) Provide for enforcement by the Attorney General.
 
 ### &sect; 35.174 Referral.
 
@@ -951,19 +1238,31 @@ A State shall not be immune under the eleventh amendment to the Constitution of 
 
 ### &sect; 35.190 Designated Agencies.
 
-- (a) The Assistant Attorney General shall coordinate the compliance activities of Federal agencies with respect to State and local government components, and shall provide policy guidance and interpretations to designated agencies to ensure the consistent and effective implementation of the requirements of this part.
-- (b) The Federal agencies listed in paragraph (b)(1)-(8) of this section shall have responsibility for the implementation of subpart F of this part for components of State and local governments that exercise responsibilities, regulate, or administer services, programs, or activities in the following functional areas.
-  - (1) Department of Agriculture: All programs, services, and regulatory activities relating to farming and the raising of livestock, including extension services.
-  - (2) Department of Education: All programs, services, and regulatory activities relating to the operation of elementary and secondary education systems and institutions, institutions of higher education and vocational education (other than schools of medicine, dentistry, nursing, and other health-related schools), and libraries.
-  - (3) Department of Health and Human Services: All programs, services, and regulatory activities relating to the provision of health care and social services, including schools of medicine, dentistry, nursing, and other health-related schools, the operation of health care and social service providers and institutions, including &quot;grass-roots&quot; and community services organizations and programs, and preschool and daycare programs.
-  - (4) Department of Housing and Urban Development: All programs, services, and regulatory activities relating to state and local public housing, and housing assistance and referral.
-  - (5) Department of Interior: All programs, services, and regulatory activities relating to lands and natural resources, including parks and recreation, water and waste management, environmental protection, energy, historic and cultural preservation, and museums.
-  - (6) Department of Justice: All programs, services, and regulatory activities relating to law enforcement, public safety, and the administration of justice, including courts and correctional institutions; commerce and industry, including general economic development, banking and finance, consumer protection, insurance, and small business; planning, development, and regulation (unless assigned to other designated agencies); state and local government support services (*e.g.*, audit, personnel, comptroller, administrative services); all other government functions not assigned to other designated agencies.
-  - (7) Department of Labor: All programs, services, and regulatory activities relating to labor and the work force.
-  - (8) Department of Transportation: All programs, services, and regulatory activities relating to transportation, including highways, public transportation, traffic management (non-law enforcement), automobile licensing and inspection, and driver licensing.
-- (c) Responsibility for the implementation of subpart F of this part for components of State or local governments that exercise responsibilities, regulate, or administer services, programs, or activities relating to functions not assigned to specific designated agencies by paragraph (b) of this section may be assigned to other specific agencies by the Department of Justice.
-- (d) If two or more agencies have apparent responsibility over a complaint, the Assistant Attorney General shall determine which one of the agencies shall be the designated agency for purposes of that complaint.
-- (e) When the Department receives a complaint directed to the Attorney General alleging a violation of this part that may fall within the jurisdiction of a designated agency or another Federal agency that may have jurisdiction under section 504, the Department may exercise its discretion to retain the complaint for investigation under this part.
+(a) The Assistant Attorney General shall coordinate the compliance activities of Federal agencies with respect to State and local government components, and shall provide policy guidance and interpretations to designated agencies to ensure the consistent and effective implementation of the requirements of this part.
+
+(b) The Federal agencies listed in paragraph (b)(1)-(8) of this section shall have responsibility for the implementation of subpart F of this part for components of State and local governments that exercise responsibilities, regulate, or administer services, programs, or activities in the following functional areas.
+
+(1) Department of Agriculture: All programs, services, and regulatory activities relating to farming and the raising of livestock, including extension services.
+
+(2) Department of Education: All programs, services, and regulatory activities relating to the operation of elementary and secondary education systems and institutions, institutions of higher education and vocational education (other than schools of medicine, dentistry, nursing, and other health-related schools), and libraries.
+
+(3) Department of Health and Human Services: All programs, services, and regulatory activities relating to the provision of health care and social services, including schools of medicine, dentistry, nursing, and other health-related schools, the operation of health care and social service providers and institutions, including &quot;grass-roots&quot; and community services organizations and programs, and preschool and daycare programs.
+
+(4) Department of Housing and Urban Development: All programs, services, and regulatory activities relating to state and local public housing, and housing assistance and referral.
+
+(5) Department of Interior: All programs, services, and regulatory activities relating to lands and natural resources, including parks and recreation, water and waste management, environmental protection, energy, historic and cultural preservation, and museums.
+
+(6) Department of Justice: All programs, services, and regulatory activities relating to law enforcement, public safety, and the administration of justice, including courts and correctional institutions; commerce and industry, including general economic development, banking and finance, consumer protection, insurance, and small business; planning, development, and regulation (unless assigned to other designated agencies); state and local government support services (*e.g.*, audit, personnel, comptroller, administrative services); all other government functions not assigned to other designated agencies.
+
+(7) Department of Labor: All programs, services, and regulatory activities relating to labor and the work force.
+
+(8) Department of Transportation: All programs, services, and regulatory activities relating to transportation, including highways, public transportation, traffic management (non-law enforcement), automobile licensing and inspection, and driver licensing.
+
+(c) Responsibility for the implementation of subpart F of this part for components of State or local governments that exercise responsibilities, regulate, or administer services, programs, or activities relating to functions not assigned to specific designated agencies by paragraph (b) of this section may be assigned to other specific agencies by the Department of Justice.
+
+(d) If two or more agencies have apparent responsibility over a complaint, the Assistant Attorney General shall determine which one of the agencies shall be the designated agency for purposes of that complaint.
+
+(e) When the Department receives a complaint directed to the Attorney General alleging a violation of this part that may fall within the jurisdiction of a designated agency or another Federal agency that may have jurisdiction under section 504, the Department may exercise its discretion to retain the complaint for investigation under this part.
 
 ### &sect;&sect; 35.191&#8212;35.999 \[Reserved\]
 
@@ -2125,15 +2424,6 @@ Dated: July 23, 2010.
 
 Eric H. Holder, Jr., Attorney General.
 
-{% footnotes %}
-{% fnbody 3 %}
-The term &quot;existing facility&quot; is defined in &sect; 35.104 as amended by this rule.
-{% endfnbody %}
-{% fnbody 4 %}
-The Supreme Court in Tennessee v. Lane, 541 U.S. 509, 5330534 (2004), held that title II of the ADA constitutes a valid exercise of Congress' enforcement power under the Fourteenth Amendment in cases implicating the fundamental access to the courts.
-{% endfnbody %}
-{% endfootnotes %}
-
 ## Title II Regulations; 1991 Preamble and Section-by-Section Analysis
 
 ### Appendix B to Part 35—Guidance on ADA Regulation on Nondiscrimination on the Basis of Disability in State and Local Government Services Originally Published July 26, 1991
@@ -3117,3 +3407,18 @@ The Department received no comments associated with this issue and has retained 
 Effect of ADA Amendments Act on academic requirements in postsecondary education.
 
 The Department notes that the ADA Amendments Act revised the rules of construction in title V of the ADA by including a provision affirming that nothing in the Act changed the existing ADA requirement that covered entities provide reasonable modifications in policies, practices, or procedures unless the entity can demonstrate that making such modifications, including academic requirements in postsecondary education, would fundamentally alter the nature of goods, services, facilities, privileges, advantages, or accommodations involved. See 42&nbsp;U.S.C.&nbsp;12201(f). Congress noted that the reference to academic requirements in postsecondary education was included &ldquo;solely to provide assurances that the bill does not alter current law with regard to the obligations of academic institutions under the ADA, which we believe is already demonstrated in case law on this topic. Specifically, the reference to academic standards in post-secondary education is unrelated to the purpose of this legislation and should be given no meaning in interpreting the definition of &quot;disability.&rdquo; 154 Cong. Rec. S8843 (daily ed. Sept. 16, 2008) (Statement of the Managers). Given that Congress did not intend there to be any change to the law in this area, the Department did not propose to make any changes to its regulatory requirements in response to this provision of the ADA Amendments Act.
+
+{% footnotes %}
+{% fnbody 1 %}
+On September 25, 2008, President George W. Bush signed into law the Americans with Disabilities Amendments Act of 2008 (ADA Amendments Act), Public Law 110-325. The ADA Amendments Act amended the ADA definition of disability to clarify its coverage of persons with disabilities and to provide guidance on the application of the definition. This final rule does not contain regulatory language implementing the ADA Amendments Act. The Department intends to publish a supplemental rule to amend the regulatory definition of "disability'' to implement the changes mandated by that law.
+{% endfnbody %}
+{% fnbody 2 %}
+The analysis assumes these regulations will be in force for 15 years. Incremental costs and benefits are calculated for all construction, alterations, and barrier removal that is expected to occur during these 15 years. The analysis also assumes that any new or revised ADA rules enacted 15 years from now will include a safe harbor provision. Thus, any facilities constructed in year 14 of the final rules are assumed to continue to generate benefits to users, and to incur any operating or replacement costs for the life of these buildings, which is assumed to be 40 years.regularly taught in rehabilitation and occupational therapy. Currently, persons who use side or parallel transfer methods from their wheelchairs are faced with a stark choice at establishments with single-user toilet rooms—_i.e._, patronize the establishment but run the risk of needing assistance when using the restroom, travel with someone who would be able to provide assistance in toileting, or forgo the visit entirely. The revised water closet clearance regulations would make single-user toilet rooms accessible to all persons who use wheelchairs, not just those with the physical strength, balance, and dexterity and the training to use a front-transfer method. Single-user toilet rooms are located in a wide variety of public and private facilities, including restaurants, fast-food establishments, schools, retail stores, parks, sports stadiums, and hospitals. Final promulgation of these requirements might thus, for example, enable a person who uses a side or parallel transfer method to use the restroom (or use the restroom independently) at his or her local coffee shop for the first time.
+{% endfnbody %}
+{% fnbody 3 %}
+The term &quot;existing facility&quot; is defined in &sect; 35.104 as amended by this rule.
+{% endfnbody %}
+{% fnbody 4 %}
+The Supreme Court in Tennessee v. Lane, 541 U.S. 509, 5330534 (2004), held that title II of the ADA constitutes a valid exercise of Congress' enforcement power under the Fourteenth Amendment in cases implicating the fundamental access to the courts.
+{% endfnbody %}
+{% endfootnotes %}
