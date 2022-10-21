@@ -14,6 +14,7 @@ publish-date: 2011-07-12 00:00:00
 updated-date: 2020-02-24 00:00:00
 redirect_from:
   - /service_animals_2010.htm
+  - /service_animals_2010.pdf
 ---
 ## Overview
 

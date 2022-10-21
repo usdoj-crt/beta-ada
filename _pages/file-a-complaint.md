@@ -12,6 +12,9 @@ redirect_from:
   - /t3compfm.htm
   - /filing_eeoc_complaint.htm
   - /t2cmpfrm.htm
+  - /criminaljustice/cj_complaint.html
+  - /olmstead/olmstead_complaints.htm
+  - /hiv/ada_hiv_complaints.htm
 ---
 
 ## Who You Can File a Complaint Against
