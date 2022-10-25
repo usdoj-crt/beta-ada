@@ -9,6 +9,7 @@ redirect_from:
     - /pcatoolkit/chap3toolkit.htm
     - /regs_footer.htm
     - /regs2010/
+    - /regs2010/index.html
 ---
 
 When we talk about what the ADA requires on ADA.gov, we are usually referring to two sources:

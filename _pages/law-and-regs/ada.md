@@ -10,6 +10,7 @@ redirect_from:
   - /pubs/adastatute08mark.htm
   - /archive/adastat91.htm
   - /adastd94.pdf
+  - /pubs/adastatute08.htm
 ---
 
 ## Title 42 - The Public Health and Welfare
