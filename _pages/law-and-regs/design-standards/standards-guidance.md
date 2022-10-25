@@ -2927,7 +2927,7 @@ The Department has decided to require medical care facilities to
 
 ## Analysis and Commentary on the 2010 ADA Standards for Accessible Design  
 
-### Appendix B to part 36:  Analysis and Commentary on the 2010 ADA Standards for Accessible Design  
+### <a name="#appb"></a>Appendix B to part 36:  Analysis and Commentary on the 2010 ADA Standards for Accessible Design  
 
 The following is a
   discussion of substantive changes in the scoping and technical requirements for
