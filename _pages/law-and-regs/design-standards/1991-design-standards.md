@@ -271,9 +271,9 @@ Accessible buildings and facilities shall meet the following minimum requirement
 
 **EXCEPTION 2:** Elevator pits, elevator penthouses, mechanical rooms, piping or equipment catwalks are exempted from this requirement.
 
-EXCEPTION 3: Accessible ramps complying with 4.8 may be used in lieu of an elevator.
+**EXCEPTION 3**: Accessible ramps complying with 4.8 may be used in lieu of an elevator.
 
-EXCEPTION 4: Platform lifts (wheelchair lifts) complying with 4.11 of this guideline and applicable state or local codes may be used in lieu of an elevator only under the following conditions:
+**EXCEPTION 4:**: Platform lifts (wheelchair lifts) complying with 4.11 of this guideline and applicable state or local codes may be used in lieu of an elevator only under the following conditions:
 
 (a) To provide an accessible route to a performing area in an assembly occupancy.
 
@@ -315,7 +315,9 @@ EXCEPTION 4: Platform lifts (wheelchair lifts) complying with 4.11 of this guide
 
 (d) Entrances which are not accessible shall have directional signage complying with 4.30.1, 4.30.2, 4.30.3, and 4.30.5, which indicates the location of the nearest accessible entrance.
 
-(9)\* In buildings or facilities, or portions of buildings or facilities, required to be accessible, accessible means of egress shall be provided in the same number as required for exits by local building/life safety regulations. Where a required exit from an occupiable level above or below a level of accessible exit discharge is not accessible, an area of rescue assistance shall be provided on each such level (in a number equal to that of inaccessible required exits). Areas of rescue assistance shall comply with 4.3.11. A horizontal exit, meeting the requirements of local building/life safety regulations, shall satisfy the requirement for an area of rescue assistance. **EXCEPTION:** Areas of rescue assistance are not required in buildings or facilities having a supervised automatic sprinkler system.
+(9)\* In buildings or facilities, or portions of buildings or facilities, required to be accessible, accessible means of egress shall be provided in the same number as required for exits by local building/life safety regulations. Where a required exit from an occupiable level above or below a level of accessible exit discharge is not accessible, an area of rescue assistance shall be provided on each such level (in a number equal to that of inaccessible required exits). Areas of rescue assistance shall comply with 4.3.11. A horizontal exit, meeting the requirements of local building/life safety regulations, shall satisfy the requirement for an area of rescue assistance.
+
+**EXCEPTION:** Areas of rescue assistance are not required in buildings or facilities having a supervised automatic sprinkler system.
 
 (10)\* Drinking Fountains:
 
@@ -2961,7 +2963,7 @@ Valet parking is not always usable by individuals with disabilities. For instanc
 
 Only full passenger elevators are covered by the accessibility provisions of 4.10. Materials and equipment hoists, freight elevators not intended for passenger use, dumbwaiters, and construction elevators are not covered by these guidelines. If a building is exempt from the elevator requirement, it is not necessary to provide a platform lift or other means of vertical access in lieu of an elevator.
 
-Under EXCEPTION 4, platform lifts are allowed where existing conditions make it impractical to install a ramp or elevator. Such conditions generally occur where it is essential to provide access to small raised or lowered areas where space may not be available for a ramp. Examples include, but are not limited to, raised pharmacy platforms, commercial offices raised above a sales floor, or radio and news booths.
+Under **EXCEPTION 4:**, platform lifts are allowed where existing conditions make it impractical to install a ramp or elevator. Such conditions generally occur where it is essential to provide access to small raised or lowered areas where space may not be available for a ramp. Examples include, but are not limited to, raised pharmacy platforms, commercial offices raised above a sales floor, or radio and news booths.
 
 **A4.1.3(9)**
 
