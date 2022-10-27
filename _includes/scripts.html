@@ -34,6 +34,3 @@
 {% unless page.back-to-top == nil or page.back-to-top == false  %}
   {% asset dist/backToTop-compiled.js %}
 {% endunless %}
-{% if page.permalink == '/404.html' %}
-  {% asset dist/check404-compiled.js !type %}
-{% endif %}
