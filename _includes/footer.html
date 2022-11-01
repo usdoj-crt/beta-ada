@@ -23,6 +23,7 @@
           <p class="usa-footer__logo-subheading">
             {{site.data[lang]["i18n"].headings.logo_subheading}}
           </p>
+          {% if site.beta %}
           <a
             class="usa-button usa-button--outline display-flex flex-align-center"
             href="https://www.ada.gov"
@@ -34,6 +35,7 @@
             </svg>
             {{site.data[lang]["i18n"].links.back_legacy}}</a
           >
+          {% endif %}
         </div>
       </div>
     </div>
