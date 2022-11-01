@@ -3,6 +3,7 @@ permalink: /topics/
 title: Explore Featured Topics
 layout: full
 lead: Information for people with disabilities, state and local governments, and businesses
+redirect_to: https://www.ada.gov/topics/
 ---
 
 <div class="grid-row grid-gap">

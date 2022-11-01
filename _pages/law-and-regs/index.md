@@ -2,6 +2,7 @@
 permalink: /law-and-regs/
 title: Review Laws, Regulations & Standards
 sidenav: false
+redirect_to: https://www.ada.gov/law-and-regs/
 ---
 
 When we talk about what the ADA requires on ADA.gov, we are usually referring to two sources:

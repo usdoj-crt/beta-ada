@@ -18,6 +18,7 @@ tags:
   - parking
   - service animals
 related-content: true
+redirect_to: https://www.ada.gov/topics/title-iii/
 ---
 
 ## Title III Applies to Businesses

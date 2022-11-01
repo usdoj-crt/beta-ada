@@ -10,6 +10,7 @@ print: true
 related-content: true
 tags:
   - title iii
+redirect_to: https://www.ada.gov/resources/title-iii-primer/
 ---
 ## New Customers
 

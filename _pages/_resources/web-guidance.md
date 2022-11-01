@@ -17,6 +17,7 @@ tags:
   - web access
   - title ii
   - title iii
+redirect_to: https://www.ada.gov/resources/web-guidance/
 ---
 [Learn more about businesses' and state and local governments' ADA responsibilities.]( {{'/topics/intro-to-ada'| relative_url}})
 

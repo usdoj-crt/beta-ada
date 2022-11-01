@@ -18,6 +18,7 @@ card:
 tags:
   - mobility devices
 related-content: true
+redirect_to: https://www.ada.gov/topics/mobility-devices/
 ---
 
 ## Basic Requirements

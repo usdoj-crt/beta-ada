@@ -18,6 +18,7 @@ tags:
   - employment
   - title ii
   - title iii
+redirect_to: https://www.ada.gov/resources/ai-guidance/
 ---
 
 ## How employers use algorithms and artificial intelligence

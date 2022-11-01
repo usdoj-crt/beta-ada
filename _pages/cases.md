@@ -7,6 +7,7 @@ redirect_from:
 sidenav: false
 lead: |-
   The Department of Justice enforces the ADA through lawsuits and settlement agreements to achieve greater access, inclusion, and equal opportunity for people with disabilities.
+redirect_to: https://www.ada.gov/cases/
 ---
 ## Check Out Cases and Other Enforcement Matters
 
