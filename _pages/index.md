@@ -74,6 +74,9 @@ report:
     Think you or someone you know has experienced a disability rights violation?
   link:
     text: File a complaint
+redirect_from:
+  - /contact_drs.htm
+  - /adahom1.htm
 ---
 
 {% include landing/hero.html hero=page.hero %}

@@ -10,6 +10,8 @@ print: true
 related-content: true
 tags:
   - title iii
+redirect_from:
+  - /regs2010/smallbusiness/smallbusprimer2010.htm
 ---
 ## New Customers
 

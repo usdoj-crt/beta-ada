@@ -12,6 +12,9 @@ tags:
   - employment
   - title ii
   - title iii
+redirect_from:
+  - /cguide.htm
+  - /cguide.pdf
 ---
 ## Americans with Disabilities Act (ADA)
 
