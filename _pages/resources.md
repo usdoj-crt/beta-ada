@@ -10,3 +10,5 @@ redirect_from:
 ---
 
 {% include ta-article-list.html %}
+
+{% include ta-link-back.html %}
