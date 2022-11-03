@@ -2,8 +2,8 @@
 
 title: The New ADA.gov
 title_es: The New ADA.gov
-notice_text: In the coming weeks this site will become ADA.gov. Learn more about what to expect.
-notice_text_es: In the coming weeks this site will become ADA.gov. Learn more about what to expect.
+notice_text: Soon the beta site will become the new ADA.gov. Learn more about what to expect.
+notice_text_es:  Soon the beta site will become the new ADA.gov. Learn more about what to expect.
 
 ---
 
