@@ -40,7 +40,7 @@ Graphic conventions are shown in Table 1:
 
 {% figure Table 1 %}
 
-{% asset design-standards/table_1_graphic_conventions.gif alt="Table 1" %}
+{% asset design-standards/table_1_graphic_conventions.gif alt="" %}
 
 {% figcaption %}
 The table describes graphic conventions used in the ADA Standards for Accessible Design for showing dimensions on figures, how the direction of approach is denoted, centerline designation and boundary of clear floor area. All dimensions are shown in inches above the measure line, with the metric equivalent below. Where the dimension does not fit conveniently between lines, the measure line is extended beyond the lines and the dimension placed above (and below) the extension.
@@ -540,7 +540,7 @@ with respect to an alteration of a building or a facility, that it has little li
 The minimum clear width for single wheelchair passage shall be 32 in (815 mm) at a point and 36 in (915 mm) continuously (see [Fig. 1](#figure1) and [24(e)](#figure24e)).
 
 {% figure Figure 1 %}
-{% asset design-standards/figure_1_minimum_clear_width_for_single_wheelchair.gif alt="figure 1" %}
+{% asset design-standards/figure_1_minimum_clear_width_for_single_wheelchair.gif alt="" %}
 {% figcaption %}
 The minimum clear width for single wheelchair passage shall be 32 inches (815 mm) at a point for a maximum length of 24 inches and 36 inches (915 mm) continuously.
 {% endfigcaption %}
@@ -549,7 +549,7 @@ The minimum clear width for single wheelchair passage shall be 32 inches (815 mm
 ---
 
 {% figure Figure 24e %}
-{% asset design-standards/figure_24e_max_doorway_depth.gif alt="figure 24 e" %}
+{% asset design-standards/figure_24e_max_doorway_depth.gif alt="" %}
 {% figcaption %}
 <strong>Maximum Doorway Depth.</strong> Clear width is 32 inches (815 mm) minimum measured from the one side wall to the face of the opposite side wall. The maximum depth of the opening shown is 24 inches (810 mm).
 {% endfigcaption %}
@@ -560,7 +560,7 @@ The minimum clear width for single wheelchair passage shall be 32 inches (815 mm
 The minimum width for two wheelchairs to pass is 60 in (1525 mm) (see [Fig. 2](#figure2)).
 
 {% figure Figure 2 %}
-{% asset design-standards/fig_2_min_clear_width_two_wheelchairs.gif alt="figure 2" %}
+{% asset design-standards/fig_2_min_clear_width_two_wheelchairs.gif alt="" %}
 {% figcaption %}
 Minimum clear width for two wheelchairs to pass is 60 inches (1525 mm).
 {% endfigcaption %}
@@ -571,7 +571,7 @@ Minimum clear width for two wheelchairs to pass is 60 inches (1525 mm).
 The space required for a wheelchair to make a 180-degree turn is a clear space of 60 in (1525 mm) diameter (see [Fig. 3(a)](#figure3)) or a T-shaped space (see [Fig. 3(b)](#figure3)).
 
 {% figure Figure 3 %}
-{% asset design-standards/fig_3_wheelchair_turning_space.gif alt="figure 3" %}
+{% asset design-standards/fig_3_wheelchair_turning_space.gif alt="" %}
 {% figcaption %}
 <strong>Wheelchair Turning Space.</strong>
 
@@ -590,7 +590,7 @@ The minimum clear floor or ground space required to accommodate a single, statio
 Clear floor or ground space for wheelchairs may be part of the knee space required under some objects.
 
 {% figure Figure 4 %}
-{% asset design-standards/fig_4_min_clear_floor_space_wheelchairs.gif alt="figure 4" %}
+{% asset design-standards/fig_4_min_clear_floor_space_wheelchairs.gif alt="" %}
 {% figcaption %}
 Minimum Clear Floor Space for Wheelchairs.
 {% endfigcaption %}
@@ -599,7 +599,7 @@ Minimum Clear Floor Space for Wheelchairs.
 ---
 
 {% figure Figure 4a %}
-{% asset design-standards/fig_4a_clear_floor_space.gif alt="figure 4a" %}
+{% asset design-standards/fig_4a_clear_floor_space.gif alt="" %}
 {% figcaption %}
 Clear Floor Space. 30 inches (760 mm) by 48 inches (1220 mm).
 {% endfigcaption %}
@@ -608,7 +608,7 @@ Clear Floor Space. 30 inches (760 mm) by 48 inches (1220 mm).
 ---
 
 {% figure Figure 4b %}
-{% asset design-standards/fig_4b_forward_approach.gif alt="figure 4b" %}
+{% asset design-standards/fig_4b_forward_approach.gif alt="" %}
 {% figcaption %}
 Forward Approach. With a wheelchair facing a wall, element or surface -- 30 inches (760 mm) wide by 48 inches (1220 mm) deep.
 {% endfigcaption %}
@@ -617,7 +617,7 @@ Forward Approach. With a wheelchair facing a wall, element or surface -- 30 inch
 ---
 
 {% figure Figure 4c %}
-{% asset design-standards/fig_4c_parallel_approach.gif alt="figure 4c" %}
+{% asset design-standards/fig_4c_parallel_approach.gif alt="" %}
 {% figcaption %}
 Parallel Approach. With a wheelchair postioned beside a wall, element or surface to the side -- 48 inches (1220 mm) long by 30 inches (760 mm) wide.
 {% endfigcaption %}
@@ -628,7 +628,7 @@ Parallel Approach. With a wheelchair postioned beside a wall, element or surface
 One full unobstructed side of the clear floor or ground space for a wheelchair shall adjoin or overlap an accessible route or adjoin another wheelchair clear floor space. If a clear floor space is located in an alcove or otherwise confined on all or part of three sides, additional maneuvering clearances shall be provided as shown in [Fig. 4(d)](#figure4d) and [Fig. 4(e)](#figure4e).
 
 {% figure Figure 4d %}
-{% asset design-standards/fig_4d_clear_floor_space_alcoves.gif alt="figure 4d" %}
+{% asset design-standards/fig_4d_clear_floor_space_alcoves.gif alt="" %}
 {% figcaption %}
 Clear Floor Space in Alcoves. For a forward approach, where the depth of the alcove is equal to or less than 24 inches (610 mm), the required clear floor space is 30 inches (760 mm) wide by 48 inches (1220 mm) deep. For a parallel (side) approach, where the depth of the alcove is equal to or less than 15 inches (380 mm), the width is 30 inches (760 mm) and the length is 48 inches (1220 mm).
 {% endfigcaption %}
@@ -637,7 +637,7 @@ Clear Floor Space in Alcoves. For a forward approach, where the depth of the alc
 ---
 
 {% figure Figure 4e %}
-{% asset design-standards/fig_4e_additional_maneuvering_clearances.gif alt="figure 4e" %}
+{% asset design-standards/fig_4e_additional_maneuvering_clearances.gif alt="" %}
 {% figcaption %}
 Additional Maneuvering Clearances for Alcoves. For a forward approach, if the depth of the alcove is greater than 24 inches (610 mm), then in addition to the 30 inches (760 mm) width, a maneuvering clearance of 6 inches (150 mm) in width is required, for a total width of 36 inches (915 mm).
 
@@ -654,7 +654,7 @@ Clear floor or ground spaces for wheelchairs shall comply with 4.5.
 If the clear floor space only allows forward approach to an object, the maximum high forward reach allowed shall be 48 in (1220 mm) (see [Fig. 5](#figure5) and [Fig. 5(a)](#figure5a)). The minimum low forward reach is 15 in (380 mm). If the high forward reach is over an obstruction, reach and clearances shall be as shown in [Fig. 5(b)](#figure5b).
 
 {% figure Figure 5 %}
-{% asset design-standards/fig_5_forward_reach.gif alt="figure 5" %}
+{% asset design-standards/fig_5_forward_reach.gif alt="" %}
 {% figcaption %}
 <strong>Forward Reach</strong>
 {% endfigcaption %}
@@ -663,7 +663,7 @@ If the clear floor space only allows forward approach to an object, the maximum 
 ---
 
 {% figure Figure 5a %}
-{% asset design-standards/fig_5a_high_forward_reach.gif alt="figure 5a" %}
+{% asset design-standards/fig_5a_high_forward_reach.gif alt="" %}
 {% figcaption %}
 <strong>High Forward Reach Limit.</strong> Facing a wall, surface or element -- maximum reach height is 48 inches (1220 mm) and minimum low forward reach height is 15 inches (380 mm). Clear floor space 48 inches (1220 mm) deep and 30 inches (760 mm) wide.
 {% endfigcaption %}
@@ -672,7 +672,7 @@ If the clear floor space only allows forward approach to an object, the maximum 
 ---
 
 {% figure Figure 5b %}
-{% asset design-standards/fig_5b_max_forward_reach_over_obstruction.gif alt="figure 5b" %}
+{% asset design-standards/fig_5b_max_forward_reach_over_obstruction.gif alt="" %}
 {% figcaption %}
 <strong>Maximum Forward Reach over an Obstruction.</strong> The maximum depth of an obstruction with knee space below is 25 inches (635 mm). When the obstruction is less than 20 inches (510 mm) deep, the maximum high forward reach is 48 inches (1220 mm). When the depth of the obstruction is greater than 20 inches (510 mm) and less than 25 inches (635 mm), the maximum high forward reach is 44 inches (1120 mm). A clear floor space 48 inches (1220 mm) long and 30 inches (760 mm) wide is provided.
 {% endfigcaption %}
@@ -683,7 +683,7 @@ If the clear floor space only allows forward approach to an object, the maximum 
 If the clear floor space allows parallel approach by a person in a wheelchair, the maximum high side reach allowed shall be 54 in (1370 mm) and the low side reach shall be no less than 9 in (230 mm) above the floor ([Fig. 6](#figure6), [Fig. 6(a)](#figure6a) and [Fig. (b)](#figure6b)). If the side reach is over an obstruction, the reach and clearances shall be as shown in [Fig. 6(c)](#figure6c).
 
 {% figure Figure 6 %}
-{% asset design-standards/fig_6_side_reach.gif alt="figure 6" %}
+{% asset design-standards/fig_6_side_reach.gif alt="" %}
 {% figcaption %}
 <strong>Side Reach</strong>
 {% endfigcaption %}
@@ -692,7 +692,7 @@ If the clear floor space allows parallel approach by a person in a wheelchair, t
 ---
 
 {% figure Figure 6a %}
-{% asset design-standards/fig_6a_clear_floor_space_parallel.gif alt="figure 6a" %}
+{% asset design-standards/fig_6a_clear_floor_space_parallel.gif alt="" %}
 {% figcaption %}
 <strong>Clear Floor Space Parallel Approach.</strong> The clear floor space 48 inches (1220 mm) long and 30 inches (760 mm) wide is no more than 10 inches (255 mm) from the side wall, surface or element.
 {% endfigcaption %}
@@ -701,7 +701,7 @@ If the clear floor space allows parallel approach by a person in a wheelchair, t
 ---
 
 {% figure Figure 6b %}
-{% asset design-standards/fig_6b_high_and_low_side_reach_limits.gif alt="figure 6b" %}
+{% asset design-standards/fig_6b_high_and_low_side_reach_limits.gif alt="" %}
 {% figcaption %}
 <strong>High and Low Side Reach Limits.</strong> For a parallel approach the maximum high side reach is 54 inches (1370 mm) and the minimum low side reach is 9 inches (230 mm). The clear floor space is no more than 10 inches (255 mm) from the wall, surface or element.
 {% endfigcaption %}
@@ -710,7 +710,7 @@ If the clear floor space allows parallel approach by a person in a wheelchair, t
 ---
 
 {% figure Figure 6c %}
-{% asset design-standards/fig_6c_max_side_reach_obstruction.gif alt="figure 6c" %}
+{% asset design-standards/fig_6c_max_side_reach_obstruction.gif alt="" %}
 {% figcaption %}
 <strong>Maximum Side Reach over Obstruction.</strong> If the depth of the obstruction is 24 inches (610 mm) and the maximum height of the obstruction is 34 inches (865 mm), the maximum high side reach over the obstruction is 46 inches (1170 mm).
 {% endfigcaption %}
@@ -734,7 +734,7 @@ All walks, halls, corridors, aisles, skywalks, tunnels, and other spaces that ar
 The minimum clear width of an accessible route shall be 36 in (915 mm) except at doors (see 4.13.5 and 4.13.6). If a person in a wheelchair must make a turn around an obstruction, the minimum clear width of the accessible route shall be as shown in [Fig. 7](#figure7), [Fig. 7(a)](#figure7a) and [Fig. 7(b)](#figure7b).
 
 {% figure Figure 7 %}
-{% asset design-standards/fig_7_accessible_route.gif alt="figure 7" %}
+{% asset design-standards/fig_7_accessible_route.gif alt="" %}
 {% figcaption %}
 <strong>Accessible Route</strong>
 {% endfigcaption %}
@@ -743,7 +743,7 @@ The minimum clear width of an accessible route shall be 36 in (915 mm) except at
 ---
 
 {% figure Figure 7a %}
-{% asset design-standards/fig_7a_90_degree_turn.gif alt="figure 7a" %}
+{% asset design-standards/fig_7a_90_degree_turn.gif alt="" %}
 {% figcaption %}
 <strong>90 degree turn.</strong> A 90 degree turn can be made from a 36 inches (915 mm) wide passage into another 36 inches (915 mm) passage if the depth of each leg is a minimum of 48 inches (1220 mm) on the inside dimensions of the turn.
 {% endfigcaption %}
@@ -752,7 +752,7 @@ The minimum clear width of an accessible route shall be 36 in (915 mm) except at
 ---
 
 {% figure Figure 7b %}
-{% asset design-standards/fig_7b_turns_around_obstruction.gif alt="figure 7b" %}
+{% asset design-standards/fig_7b_turns_around_obstruction.gif alt="" %}
 {% figcaption %}
 <strong>Turns around an Obstruction.</strong> A U-turn around an obstruction less than 48 inches (1220 mm) wide may be made if the width of the passages approaching and exiting the turn is a minimum of 42 inches (1065 mm) and the base of the U-turn space is a minimum of 48 inches (1220 mm) wide.
 {% endfigcaption %}
@@ -832,7 +832,7 @@ Each area of rescue assistance shall be identified by a sign which states &quot;
 Objects projecting from walls (for example, telephones) with their leading edges between 27 in and 80 in (685 mm and 2030 mm) above the finished floor shall protrude no more than 4 in (100 mm) into walks, halls, corridors, passageways, or aisles (see [Fig. 8(a)](#figure8a)). Objects mounted with their leading edges at or below 27 in (685 mm) above the finished floor may protrude any amount (see [Fig. 8(a)](#figure8a) and [(b)](#figure8b)). Free-standing objects mounted on posts or pylons may overhang 12 in (305 mm) maximum from 27 in to 80 in (685 mm to 2030 mm) above the ground or finished floor (see [Fig. 8(c)](#figure8c) and [(d)](#figure8d)). Protruding objects shall not reduce the clear width of an accessible route or maneuvering space (see [Fig. 8(e)](#figure8e)).
 
 {% figure Figure 8a %}
-{% asset design-standards/fig_8a_walking_parallel_to_wall.gif alt="figure 8a" %}
+{% asset design-standards/fig_8a_walking_parallel_to_wall.gif alt="" %}
 {% figcaption %}
 <strong>Walking Parallel to a Wall.</strong> Objects projecting from walls cannot project more than 4 inches (100 mm) if the lowest point of the object is higher than 27 inches (685 mm) and below 80 inches (2030 mm) above the floor, walk or circulation path. Objects projecting from walls that have the lowest point below 27 inches (685 mm) may project any amount.
 
@@ -843,7 +843,7 @@ The minimum head clearance of overhead objects is 80 inches (2030 mm).
 ---
 
 {% figure Figure 8b %}
-{% asset design-standards/fig_8b_walking_perpendicular_to_wall.gif alt="figure 8b" %}
+{% asset design-standards/fig_8b_walking_perpendicular_to_wall.gif alt="" %}
 {% figcaption %}
 <strong>Walking Perpendicular to a Wall.</strong> Objects projecting from walls must have the bottom edge no higher than 27 inches (685 mm) above the floor, walk or circulation path.
 {% endfigcaption %}
@@ -852,7 +852,7 @@ The minimum head clearance of overhead objects is 80 inches (2030 mm).
 ---
 
 {% figure Figure 8c %}
-{% asset design-standards/fig_8c_free_standing_objects.gif alt="figure 8c" %}
+{% asset design-standards/fig_8c_free_standing_objects.gif alt="" %}
 {% figcaption %}
 <strong>Free-Standing Overhanging Objects.</strong> (Shows a horizontal panel mounted on two posts). When the horizontal distance between detectable posts or detectable objects is greater than 12 inches (302 mm), the maximum height to the bottom of the free-standing object is 27 inches (685 mm).
 {% endfigcaption %}
@@ -861,16 +861,16 @@ The minimum head clearance of overhead objects is 80 inches (2030 mm).
 ---
 
 {% figure Figure 8d %}
-{% asset design-standards/fig_8d_objects_mounted_on_pylons.gif alt="figure 8d" %}
+{% asset design-standards/fig_8d_objects_mounted_on_pylons.gif alt="" %}
 {% figcaption %}
-<strong>Objects Mounted on Posts or Pylons.</strong> The diagram illustrates an area where an overhang can be greater than 12 inches (305 mm) where the object cannot be approached on the side of the overhang.
+<strong>Objects Mounted on Posts or Pylons.</strong> The diagram illustrates an area where an overhang can be greater than 12 inches (305 mm) where the object cannot be approached on the side of the overhang. Note: the image indicates the cane range and that the cane hits the post or pylon before the person hits the object.
 {% endfigcaption %}
 {% endfigure %}
 
 ---
 
 {% figure Figure 8e %}
-{% asset design-standards/fig_8e_example_protection.gif alt="figure 8e" %}
+{% asset design-standards/fig_8e_example_protection.gif alt="" %}
 {% figcaption %}
 <strong>Example of Protection around Wall-Mounted Objects and Measurements of Clear Widths.</strong> The minimum clear width for continuous passage is 36 inches (915 mm). 32 inches (815 mm) is the minimum clear width for a maximum distance of 24 inches (610 mm). The maximum distance an object can protrude beyond a wing wall is 4 inches (100 mm).
 {% endfigcaption %}
@@ -881,7 +881,7 @@ The minimum head clearance of overhead objects is 80 inches (2030 mm).
 Walks, halls, corridors, passageways, aisles, or other circulation spaces shall have 80 in (2030 mm) minimum clear head room (see [Fig. 8(a)](#figure8a)). If vertical clearance of an area adjoining an accessible route is reduced to less than 80 in (nominal dimension), a barrier to warn blind or visually-impaired persons shall be provided (see [Fig. 8(c-1)](#figure8c1)).
 
 {% figure Figure 8 C-1 %}
-{% asset design-standards/fig_8c1_overhead_hazards.gif alt="figure 8c-1" %}
+{% asset design-standards/fig_8c1_overhead_hazards.gif alt="" %}
 {% figcaption %}
 <strong>Overhead Hazards.</strong> As an example, the diagram illustrates a stair whose underside descends across a pathway. Where the headroom is less than 80 inches (2030 mm), protection is offered by a railing which can be no higher than 27 inches (685 mm) to ensure detectability.
 {% endfigcaption %}
@@ -898,7 +898,7 @@ Ground and floor surfaces along accessible routes and in accessible rooms and sp
 Changes in level up to 1/4 in (6 mm) may be vertical and without edge treatment (see [Fig. 7(c)](#figure7c) ). Changes in level between 1/4 in and 1/2 in (6 mm and 13 mm) shall be beveled with a slope no greater than 1:2 (see [Fig. 7(d)](#figure7d) ). Changes in level greater than 1/2 in (13 mm) shall be accomplished by means of a ramp that complies with 4.7 or 4.8.
 
 {% figure Figure 7c %}
-{% asset design-standards/fig_7c_changes_in_level.gif alt="figure 7c" %}
+{% asset design-standards/fig_7c_changes_in_level.gif alt="" %}
 {% figcaption %}
 <strong>Changes in level.</strong> The maximum vertical rise is 1/4 inch (6.5 mm).
 {% endfigcaption %}
@@ -907,7 +907,7 @@ Changes in level up to 1/4 in (6 mm) may be vertical and without edge treatment 
 ---
 
 {% figure Figure 7d %}
-{% asset design-standards/fig_7d_changes_in_level.gif alt="figure 7d" %}
+{% asset design-standards/fig_7d_changes_in_level.gif alt="" %}
 {% figcaption %}
 <strong>Changes in level.</strong> A change in level of 1/4 inch (6.5 mm) to 1/2 inch (13 mm) must have a sloped surface no steeper than 1:2 (rise to run).
 {% endfigcaption %}
@@ -918,7 +918,7 @@ Changes in level up to 1/4 in (6 mm) may be vertical and without edge treatment 
 If carpet or carpet tile is used on a ground or floor surface, then it shall be securely attached; have a firm cushion, pad, or backing, or no cushion or pad; and have a level loop, textured loop, level cut pile, or level cut/uncut pile texture. The maximum pile thickness shall be 1/2 in (13 mm) (see [Fig. 8(f)](#figure8f)). Exposed edges of carpet shall be fastened to floor surfaces and have trim along the entire length of the exposed edge. Carpet edge trim shall comply with 4.5.2.
 
 {% figure Figure 8f %}
-{% asset design-standards/fig_8f_carpet_pile_thickness.gif alt="figure 8f" %}
+{% asset design-standards/fig_8f_carpet_pile_thickness.gif alt="" %}
 {% figcaption %}
 <strong>Carpet Pile Thickness.</strong> The maximum carpet pile thickness shall be 1/2 inch (13 mm).
 {% endfigcaption %}
@@ -929,7 +929,7 @@ If carpet or carpet tile is used on a ground or floor surface, then it shall be 
 If gratings are located in walking surfaces, then they shall have spaces no greater than 1/2 in (13 mm) wide in one direction (see [Fig. 8(g)](#figure8g)). If gratings have elongated openings, then they shall be placed so that the long dimension is perpendicular to the dominant direction of travel (see [Fig. 8(h)](#figure8h)).
 
 {% figure Figure 8g %}
-{% asset design-standards/fig_8g_gratings.gif alt="figure 8g" %}
+{% asset design-standards/fig_8g_gratings.gif alt="" %}
 {% figcaption %}
 <strong>Gratings.</strong> Spaces in gratings shall be no greater than 1/2 inch (13 mm) in one direction. The 1/2 inch (13 mm) spacing is shown parallel to the predominant direction of travel.
 {% endfigcaption %}
@@ -938,7 +938,7 @@ If gratings are located in walking surfaces, then they shall have spaces no grea
 ---
 
 {% figure Figure 8h %}
-{% asset design-standards/fig_8h_grating_orientation.gif alt="figure 8h" %}
+{% asset design-standards/fig_8h_grating_orientation.gif alt="" %}
 {% figcaption %}
 <strong>Grating Orientation.</strong> Figure shows a grating with the long dimension prependicular to the route of travel.
 {% endfigcaption %}
@@ -959,7 +959,7 @@ Accessible parking spaces serving a particular building shall be located on the 
 Accessible parking spaces shall be at least 96 in (2440 mm) wide. Parking access aisles shall be part of an accessible route to the building or facility entrance and shall comply with 4.3. Two accessible parking spaces may share a common access aisle (see [Fig. 9](#figure9)). Parked vehicle overhangs shall not reduce the clear width of an accessible route. Parking spaces and access aisles shall be level with surface slopes not exceeding 1:50 (2%) in all directions.
 
 {% figure Figure 9 %}
-{% asset design-standards/fig_9_dimensions_of_parking_spaces.gif alt="figure 9" %}
+{% asset design-standards/fig_9_dimensions_of_parking_spaces.gif alt="" %}
 {% figcaption %}
 <strong> Dimensions of Parking Spaces.</strong> The access aisle shall be a minimum of 60 inches (1525 mm) wide for cars except a minimum of 96 inches (2440 mm) wide for van-accessible parking spaces. The width of the parking space shall be a minimum of 96 inches (2440 mm). The accessible route connected to the access aisle shall be a minimum of 36 inches (915 mm) wide.
 {% endfigcaption %}
@@ -978,7 +978,7 @@ Provide minimum vertical clearance of 114 in (2895 mm) at accessible passenger l
 Passenger loading zones shall provide an access aisle at least 60 in (1525 mm) wide and 20 ft (240 in)(6100 mm) long adjacent and parallel to the vehicle pull-up space (see [Fig. 10](#figure10)). If there are curbs between the access aisle and the vehicle pull-up space, then a curb ramp complying with 4.7 shall be provided. Vehicle standing spaces and access aisles shall be level with surface slopes not exceeding 1:50 (2%) in all directions.
 
 {% figure Figure 10 %}
-{% asset design-standards/fig_10_access_aisle.gif alt="figure 10" %}
+{% asset design-standards/fig_10_access_aisle.gif alt="" %}
 {% figcaption %}
 <strong>Access Aisle at Passenger Loading Zones.</strong> The access aisle shall be a minimum of 240 inches long (6100 mm) and 60 inches wide (1525 mm) positioned with the long side parallel to the vehicle.
 {% endfigcaption %}
@@ -995,9 +995,9 @@ Curb ramps complying with 4.7 shall be provided wherever an accessible route cro
 Slopes of curb ramps shall comply with 4.8.2. The slope shall be measured as shown in [Fig. 11](#figure11). Transitions from ramps to walks, gutters, or streets shall be flush and free of abrupt changes. Maximum slopes of adjoining gutters, road surface immediately adjacent to the curb ramp, or accessible route shall not exceed 1:20.
 
 {% figure Figure 11 %}
-{% asset design-standards/fig_11_measurement_of_curb_ramp_slopes.gif alt="figure 11" %}
+{% asset design-standards/fig_11_measurement_of_curb_ramp_slopes.gif alt="" %}
 {% figcaption %}
-<strong>Measurement of Curb Ramp Slopes.</strong> The ramp slope is a ratio expressed as the vertical rise divided by the horizontal run. X is the horizontal plane (level) and Y is the vertical plane. The adjoining slope at walk or street shall not exceed 1:20 (sloping towards the curb ramp surface).
+<strong>Measurement of Curb Ramp Slopes.</strong> The ramp slope is a ratio expressed as the vertical rise divided by the horizontal run. X is the horizontal plane (level) and Y is the vertical plane. The adjoining slope at walk or street shall not exceed 1:20 (sloping towards the curb ramp surface). Note: slope = Y:X.
 {% endfigcaption %}
 {% endfigure %}
 
@@ -1014,7 +1014,7 @@ Surfaces of curb ramps shall comply with 4.5.
 If a curb ramp is located where pedestrians must walk across the ramp, or where it is not protected by handrails or guardrails, it shall have flared sides; the maximum slope of the flare shall be 1:10 (see [Fig. 12(a)](#figure12a)). Curb ramps with returned curbs may be used where pedestrians would not normally walk across the ramp (see [Fig. 12(b)](#figure12b)).
 
 {% figure Figure 12a %}
-{% asset design-standards/fig_12a_flared_sides.gif alt="figure 12a" %}
+{% asset design-standards/fig_12a_flared_sides.gif alt="" %}
 {% figcaption %}
 <strong>Flared Sides.</strong> The maximum slope of the flared sides shall be 1:10. If the landing depth at the top of a curb ramp is less than 48 inches (1220 mm), then the slope of the flared side shall not be steeper than 1:12.
 {% endfigcaption %}
@@ -1023,7 +1023,7 @@ If a curb ramp is located where pedestrians must walk across the ramp, or where 
 ---
 
 {% figure Figure 12b %}
-{% asset design-standards/fig_12b_returned_curb.gif alt="figure 12b" %}
+{% asset design-standards/fig_12b_returned_curb.gif alt="" %}
 {% figcaption %}
 <strong>Returned Curb.</strong> A returned curb ramp has plantings or other non-walking surfaces on both sides of the curb ramp.
 {% endfigcaption %}
@@ -1034,7 +1034,7 @@ If a curb ramp is located where pedestrians must walk across the ramp, or where 
 Built-up curb ramps shall be located so that they do not project into vehicular traffic lanes (see [Fig. 13](#figure13)).
 
 {% figure Figure 13 %}
-{% asset design-standards/fig_13_build_up_curb_ramp.gif alt="figure 13" %}
+{% asset design-standards/fig_13_build_up_curb_ramp.gif alt="" %}
 {% figcaption %}
 <strong>Built-Up Curb Ramp.</strong> The width of the ramp is 36 inches (915mm) minimum. Side flares shall be 1:10 maximum.
 {% endfigcaption %}
@@ -1053,7 +1053,7 @@ Curb ramps shall be located or protected to prevent their obstruction by parked 
 Curb ramps at marked crossings shall be wholly contained within the markings, excluding any flared sides (see [Fig. 15](#figure15)).
 
 {% figure Figure 15 %}
-{% asset design-standards/fig_15_curb_ramps_at_marked_crossings.gif alt="figure 15" %}
+{% asset design-standards/fig_15_curb_ramps_at_marked_crossings.gif alt="" %}
 {% figcaption %}
 <strong>Curb Ramps at Marked Crossings.</strong>
 {% endfigcaption %}
@@ -1064,7 +1064,7 @@ Curb ramps at marked crossings shall be wholly contained within the markings, ex
 If diagonal (or corner type) curb ramps have returned curbs or other well-defined edges, such edges shall be parallel to the direction of pedestrian flow. The bottom of diagonal curb ramps shall have 48 in (1220 mm) minimum clear space as shown in [Fig. 15(c)](#figure15c) and [(d)](#figure15d). If diagonal curb ramps are provided at marked crossings, the 48 in (1220 mm) clear space shall be within the markings (see [Fig. 15(c)](#figure15c) and [(d)](#figure15d)). If diagonal curb ramps have flared sides, they shall also have at least a 24 in (610 mm) long segment of straight curb located on each side of the curb ramp and within the marked crossing (see [Fig. 15(c)](#figure15c)).
 
 {% figure Figure 15c %}
-{% asset design-standards/fig_15c.gif alt="figure 15c" %}
+{% asset design-standards/fig_15c.gif alt="" %}
 {% figcaption %}
 Diagonal curb ramps are located at each corner of the intersection. There are flared sides on each diagonal curb ramp. The cross walks are placed so a minimum 48 inch (1220 mm) long clear space is provided at the bottom of the curb ramp inside the marked cross walk. An accessible route is provided across the island in the intersection.
 {% endfigcaption %}
@@ -1073,7 +1073,7 @@ Diagonal curb ramps are located at each corner of the intersection. There are fl
 ---
 
 {% figure Figure 15d %}
-{% asset design-standards/fig_15d.gif alt="figure 15d" %}
+{% asset design-standards/fig_15d.gif alt="" %}
 {% figcaption %}
 Similar to 15(c) except that returned curb ramps are provided at each corner of the intersection. A minimum 48 inch (1220 mm) long clear floor space is provided at the bottom of the curb ramp within the marked crossing area. A well defined edge is provided at the side of each curb ramp.
 {% endfigcaption %}
@@ -1084,7 +1084,7 @@ Similar to 15(c) except that returned curb ramps are provided at each corner of 
 Any raised islands in crossings shall be cut through level with the street or have curb ramps at both sides and a level area at least 48 in (1220 mm) long between the curb ramps in the part of the island intersected by the crossings (see[Fig. 15(a)](#figure15a) and [(b)](#figure15b)).
 
 {% figure Figure 15a %}
-{% asset design-standards/fig_15a.gif alt="figure 15a" %}
+{% asset design-standards/fig_15a.gif alt="" %}
 {% figcaption %}
 Two flared-side curb ramps at each corner of the intersection. Each curb ramp is parallel to the direction of travel of pedestrians crossing the intersection. The curb ramps are in line with the marked crosswalk. An accessible route is provided through the island in the intersection.
 {% endfigcaption %}
@@ -1093,7 +1093,7 @@ Two flared-side curb ramps at each corner of the intersection. Each curb ramp is
 ---
 
 {% figure Figure 15b %}
-{% asset design-standards/fig_15b.gif alt="figure 15b" %}
+{% asset design-standards/fig_15b.gif alt="" %}
 {% figcaption %}
 Similar to 15(a) except the curb ramps do not extend the entire width of the cross walk. The curb ramp section and the side flares are located within the marked cross walk area on a segment of the straight curb.
 {% endfigcaption %}
@@ -1110,7 +1110,7 @@ Any part of an accessible route with a slope greater than 1:20 shall be consider
 The least possible slope shall be used for any ramp. The maximum slope of a ramp in new construction shall be 1:12. The maximum rise for any run shall be 30 in (760 mm) (see [Fig. 16](#figure16)). Curb ramps and ramps to be constructed on existing sites or in existing buildings or facilities may have slopes and rises as allowed in 4.1.6(3)(a) if space limitations prohibit the use of a 1:12 slope or less.
 
 {% figure Figure 16 %}
-{% asset design-standards/fig_16_components_of_single_ramp.gif alt="figure 16" %}
+{% asset design-standards/fig_16_components_of_single_ramp.gif alt="" %}
 {% figcaption %}
 <strong>Components of a Single Ramp Run and Sample Ramp Dimensions.</strong> Components include a level landing at the top of the ramp, the surface of the ramp and a level landing at the bottom of the ramp. The rise of the ramp is the vertical dimension and the horizontal projection or run of the ramp is the horizontal dimension. If the slope of a ramp is between 1:12 and 1:16, the maximum rise shall be 30 inches (760 mm) and the maximum horizontal run shall be 30 feet (9 m). If the slope of the ramp is between 1:16 and 1:20, the maximum rise shall be 30 inches (760 mm) and the maximum horizontal run shall be 40 feet (12 m).
 {% endfigcaption %}
@@ -1142,7 +1142,7 @@ If a ramp run has a rise greater than 6 in (150 mm) or a horizontal projection g
 (7) Handrails shall not rotate within their fittings.
 
 {% figure Figure 17 %}
-{% asset design-standards/fig_17_examples_of_edge_protection.gif alt="figure 17" %}
+{% asset design-standards/fig_17_examples_of_edge_protection.gif alt="" %}
 {% figcaption %}
 <strong>Examples of Edge Protection and Handrail Extensions. </strong>Four types of edge protection and handrail design are shown. The first ramp (top) labeled "Curb" shows a handrail horizontal projection of 12 inches (305 mm) minimum at the top and bottom of the ramp. The horizontal projection begins at the point were the sloped ramp surface stops. Edge protection on both sides of the ramp is a raised surface at least 2 inches (50 mm) high. A minimum clear width of 36 inches (915 mm) is provided between handrails and the edge protection. A lower railing is shown parallel to the ramp mounted no higher than 27 inches (685 mm) above the ramp.
 
@@ -1177,9 +1177,9 @@ Stairs required to be accessible by 4.1 shall comply with 4.9.
 On any given flight of stairs, all steps shall have uniform riser heights and uniform tread widths. Stair treads shall be no less than 11 in (280 mm) wide, measured from riser to riser (see [Fig. 18(a)](#figure18a)). Open risers are not permitted.
 
 {% figure Figure 18a %}
-{% asset design-standards/fig_18a_flush_riser.gif alt="figure 18a" %}
+{% asset design-standards/fig_18a_flush_riser.gif alt="" %}
 {% figcaption %}
-<strong>Flush Riser.</strong> Each stair tread is 11 inches (280 mm) deep minimum with a sloped riser. The nosing shall project no more than 1-1/2 inches (38 mm).
+<p><strong>Figure 18(a) Flush Riser.</strong> Each stair tread is 11 inches (280 mm) deep minimum with a sloped riser. The nosing shall project no more than 1-1/2 inches (38 mm).</p>
 {% endfigcaption %}
 {% endfigure %}
 
@@ -1188,9 +1188,15 @@ On any given flight of stairs, all steps shall have uniform riser heights and un
 The undersides of nosings shall not be abrupt. The radius of curvature at the leading edge of the tread shall be no greater than 1/2 in (13 mm). Risers shall be sloped or the underside of the nosing shall have an angle not less than 60 degrees from the horizontal. Nosings shall project no more than 1-1/2 in (38 mm) (see [Fig. 18](#figure18)).
 
 {% figure Figure 18 %}
-{% asset design-standards/fig_18_usable_tread.gif alt="figure 18" %}
+{% asset design-standards/fig_18_usable_tread.gif alt="" %}
 {% figcaption %}
 <strong>Usable Tread Width and Examples of Acceptable Nosings.</strong>
+
+<p><strong>Figure 18(a) Flush Riser.</strong> Each stair tread is 11 inches (280 mm) deep minimum with a sloped riser. The nosing shall project no more than 1-1/2 inches (38 mm).</p>
+
+<p><strong>Figure 18(b) Angled Nosing.</strong> An angled nosing may be used with a 60 degree angle measured from horizontal. The nosing shall project no more than 1-1/2 inches (38 mm).</p>
+
+<p><strong>Figure 18(c) Rounded Nosing.</strong> A rounded nosing may be used with a 60 degree angle measured from horizontal. The nosing shall project no more than 1-1/2 inches (38 mm).</p>
 {% endfigcaption %}
 {% endfigure %}
 
@@ -1214,7 +1220,7 @@ Stairways shall have handrails at both sides of all stairs. Handrails shall comp
 (7) Handrails shall not rotate within their fittings.
 
 {% figure Figure 19a %}
-{% asset design-standards/fig_19a_plan.gif alt="figure 19a" %}
+{% asset design-standards/fig_19a_plan.gif alt="" %}
 {% figcaption %}
 <strong>Plan.</strong> Handrails that are not continuous must have a horizontal extension at the top and bottom of the run. A minimum 12 inch (305 mm) horizontal extension is required at each top riser (indicated in the figure by the dimension X). A minimum 12 inch (305 mm) horizontal extension plus the width of one tread is required at each bottom riser (indicated by the dimension Y).
 {% endfigcaption %}
@@ -1223,7 +1229,7 @@ Stairways shall have handrails at both sides of all stairs. Handrails shall comp
 ---
 
 {% figure Figure 19b %}
-{% asset design-standards/fig_19b_elevation_of_center_handrail.gif alt="figure 19b" %}
+{% asset design-standards/fig_19b_elevation_of_center_handrail.gif alt="" %}
 {% figcaption %}
 <strong>Elevation of Center Handrail.</strong> Illustrates a continuous handrail without a horizontal extension.
 {% endfigcaption %}
@@ -1232,7 +1238,7 @@ Stairways shall have handrails at both sides of all stairs. Handrails shall comp
 ---
 
 {% figure Figure 19c %}
-{% asset design-standards/fig_19c_extension_at_bottom.gif alt="figure 19c" %}
+{% asset design-standards/fig_19c_extension_at_bottom.gif alt="" %}
 {% figcaption %}
 <strong> Extension at Bottom of Run.</strong> Illustrates a horizontal extension at the bottom of a stair. A 12 inch (305 mm) horizontal extension is shown plus the width of one tread. In the drawing this distance is indicated by the dimension Y. The tread width is measured from the front of the nosing to the front of the next nosing of the tread above, measured horizontally. The end of the handrail extension is returned down towards the floor and then to the support post in the same detail as in 19(d) below.
 {% endfigcaption %}
@@ -1241,7 +1247,7 @@ Stairways shall have handrails at both sides of all stairs. Handrails shall comp
 ---
 
 {% figure Figure 19d %}
-{% asset design-standards/fig_19d_extension_at_top.gif alt="figure 19d" %}
+{% asset design-standards/fig_19d_extension_at_top.gif alt="" %}
 {% figcaption %}
 <strong>Extension at Top of Run.</strong> A 12 inch (305 mm) horizontal extension is shown. The extension starts at the nosing of the top tread and continues for at least 12 inches (305 mm) before the railing turns. This is also indicated as dimension X. The figure illustrates a handrail extension that returns to the support post with a lower horizontal segment less than 27 inches (685 mm)above the floor.
 {% endfigcaption %}
@@ -1270,7 +1276,7 @@ Elevator operation shall be automatic. Each car shall be equipped with a self-le
 Call buttons in elevator lobbies and halls shall be centered at 42 in (1065 mm) above the floor. Such call buttons shall have visual signals to indicate when each call is registered and when each call is answered. Call buttons shall be a minimum of 3/4 in (19 mm) in the smallest dimension. The button designating the up direction shall be on top. (See [Fig. 20](#figure20).) Buttons shall be raised or flush. Objects mounted beneath hall call buttons shall not project into the elevator lobby more than 4 in (100 mm).
 
 {% figure Figure 20 %}
-{% asset design-standards/fig_20_hoistway.gif alt="figure 20" %}
+{% asset design-standards/fig_20_hoistway.gif alt="" %}
 {% figcaption %}
 <strong>Hoistway and Elevator Entrances.</strong> Hall call buttons shall be mounted 42 inches (1065 mm) measured from the floor to the centerline between the buttons. Hall lanterns shall be mounted 72 inches (1830 mm) minimum measured from the floor to the centerline beteen the up and down indicators. Raised and Braille characters on hoistway entrances shall be mounted with the centerline at 60 inches (1525 mm) above the floor. Sensors for the required door protective and reopening device shall detect an obstruction passing through the door opening at heights of 5 inches (125 mm), indicated by a dashed line A and 29 inches (735 mm), indicated by a dashed line B. Each is measured from the floor. A note indicates, "The automatic door reopening device is activated if an object passes through either line A or line B. Line A and line B represent the vertical locations of the door reopening device not requiring contact."
 {% endfigcaption %}
@@ -1301,7 +1307,7 @@ T = D/(1.5 ft/s) or T = D/(445 mm/s)
 where T total time in seconds and D distance (in feet or millimeters) from a point in the lobby or corridor 60 in (1525 mm) directly in front of the farthest call button controlling that car to the centerline of its hoistway door (see [Fig. 21](#figure21)). For cars with in-car lanterns, T begins when the lantern is visible from the vicinity of hall call buttons and an audible signal is sounded. The minimum acceptable notification time shall be 5 seconds.
 
 {% figure Figure 21 %}
-{% asset design-standards/fig_21_graph_of_timing_eq.gif alt="figure 21" %}
+{% asset design-standards/fig_21_graph_of_timing_eq.gif alt="" %}
 {% figcaption %}
 <strong>Graph of Timing Equation.</strong> The y axis is T, time in seconds and the x axis is D, distance in feet. The "Acceptable" range is above a line on the graph indicated as follows: If D = 5 to 8 feet, then T = 5 seconds. If D = 8 to 18 feet, T increases at approximately 1:1 with the end of the line at D = 18 feet and T = 12 seconds. The maximum value shown for T is 13 seconds and for D is 18 feet. Values below the line on the graph are indicated as "Unacceptable."
 {% endfigcaption %}
@@ -1316,9 +1322,11 @@ The minimum time for elevator doors to remain fully open in response to a car ca
 The floor area of elevator cars shall provide space for wheelchair users to enter the car, maneuver within reach of controls, and exit from the car. Acceptable door opening and inside dimensions shall be as shown in [Fig. 22](#figure22). The clearance between the car platform sill and the edge of any hoistway landing shall be no greater than 1-1/4 in (32 mm).
 
 {% figure Figure 22 %}
-{% asset design-standards/fig_22_min_dimensions_of_elevator_cars.gif alt="figure 22" %}
+{% asset design-standards/fig_22_min_dimensions_of_elevator_cars.gif alt="" %}
 {% figcaption %}
 <strong>Minimum Dimensions of Elevator Cars.</strong>
+<p><strong>Figure 22(a)</strong> Illustrates plan view of an elevator with a door providing a 36 inches (915 mm) minimum clear width, centered on the longer of the elevator sides. The width of the elevator car is a minimum of 80 inches (2030 mm). The depth of the elevator car measured from the back wall to the elevator door is a minimum of 54 inches (1370 mm). The depth of the elevator car measured from the back wall to the control panel is a minimum of 51 inches (1291 mm).</p>
+<p><strong>Figure 22(b)</strong> Illustrates an elevator with door providing a minimum 36 inches (915 mm) clear width, located to one side of the elevator on the long side. The width of the elevator car is a minimum of 68 inches (1730 mm). The depth of the elevator car measured from the back wall to the elevator door is a minimum of 54 inches (1370 mm). The depth of the elevator car measured from the back wall to the control panel is a minimum of 51 inches (1291 mm).</p>
 {% endfigcaption %}
 {% endfigure %}
 
@@ -1343,7 +1351,7 @@ Elevator control panels shall have the following features:
 (4) Location. Controls shall be located on a front wall if cars have center opening doors, and at the side wall or at the front wall next to the door if cars have side opening doors (see [Fig. 23(c)](#figure23c) and [(d)](#figure23a)).
 
 {% figure Figure 23a %}
-{% asset design-standards/fig_23a_panel_detail.gif alt="figure 23a" %}
+{% asset design-standards/fig_23a_panel_detail.gif alt="" %}
 {% figcaption %}
 <strong>Panel Detail.</strong> The diagram illustrates the symbols used for the following control buttons: floor numerals and letters, main entry floor (star), door closed (two arrows pointing together), door open (two arrows pointing apart), emergency alarm (bell symbol), and emergency stop (X within an octagon). The diagram further states that the octagon symbol for the emergency stop shall be raised but the X (inside the octagon) is not. The numeral height for floor indicators and symbols is 5/8 inch (16 mm) and the control button diameter is 3/4 inch (19 mm).
 {% endfigcaption %}
@@ -1352,7 +1360,7 @@ Elevator control panels shall have the following features:
 ---
 
 {% figure Figure 23b %}
-{% asset design-standards/fig_23b_car_control_height.gif alt="figure 23b" %}
+{% asset design-standards/fig_23b_car_control_height.gif alt="" %}
 {% figcaption %}
 <strong>Car Control Height.</strong> Maximum height for control buttons and mechanisms is 54 inches (1370 mm). Minimum height is 35 inches (890 mm).
 {% endfigcaption %}
@@ -1361,7 +1369,7 @@ Elevator control panels shall have the following features:
 ---
 
 {% figure Figure 23c %}
-{% asset design-standards/fig_23c_alternate_locations_of_panel.gif alt="figure 23c" %}
+{% asset design-standards/fig_23c_alternate_locations_of_panel.gif alt="" %}
 {% figcaption %}
 <strong>Alternate Locations of Panel with Center Opening Door.</strong> Control panel locations are shown on either side of the center opening door.
 {% endfigcaption %}
@@ -1370,7 +1378,7 @@ Elevator control panels shall have the following features:
 ---
 
 {% figure Figure 23d %}
-{% asset design-standards/fig_23d_alternate_locations_of_panel.gif alt="figure 23d" %}
+{% asset design-standards/fig_23d_alternate_locations_of_panel.gif alt="" %}
 {% figcaption %}
 <strong> Alternate Locations of Panel with Side Opening Door.</strong> Control panel locations are shown to the right of the side opening door and to the left on the adjacent wall.
 {% endfigcaption %}
@@ -1433,16 +1441,16 @@ Doorways shall have a minimum clear opening of 32 in (815 mm) with the door open
 **EXCEPTION:** Doors not requiring full user passage, such as shallow closets, may have the clear opening reduced to 20 in (510 mm) minimum.
 
 {% figure Figure 24a %}
-{% asset design-standards/fig_24a.gif alt="figure 24a" %}
+{% asset design-standards/fig_24a.gif alt="" %}
 {% figcaption %}
-<strong>Panel Detail.</strong> The diagram illustrates the symbols used for the following control buttons: floor numerals and letters, main entry floor (star), door closed (two arrows pointing together), door open (two arrows pointing apart), emergency alarm (bell symbol), and emergency stop (X within an octagon). The diagram further states that the octagon symbol for the emergency stop shall be raised but the X (inside the octagon) is not. The numeral height for floor indicators and symbols is 5/8 inch (16 mm) and the control button diameter is 3/4 inch (19 mm).
+<strong>Figure 24(a) Detail.</strong> Clear width is 32 inches (815 mm) minimum measured from the face of the door (open 90 degrees) to the face of the doorstop.
 {% endfigcaption %}
 {% endfigure %}
 
 ---
 
 {% figure Figure 24b %}
-{% asset design-standards/fig_24b_hinged_door.gif alt="figure 24b" %}
+{% asset design-standards/fig_24b_hinged_door.gif alt="" %}
 {% figcaption %}
 <strong>Detail.</strong> Clear width is 32 inches (815 mm) minimum measured from the face of the door (open 90 degrees) to the face of the doorstop.
 {% endfigcaption %}
@@ -1451,7 +1459,7 @@ Doorways shall have a minimum clear opening of 32 in (815 mm) with the door open
 ---
 
 {% figure Figure 24c %}
-{% asset design-standards/fig_24c_sliding_door.gif alt="figure 24c" %}
+{% asset design-standards/fig_24c_sliding_door.gif alt="" %}
 {% figcaption %}
 <strong>Sliding Door.</strong> Clear width is 32 inches (815 mm) minimum measured from the end of the door to the face of the doorstop.
 {% endfigcaption %}
@@ -1460,7 +1468,7 @@ Doorways shall have a minimum clear opening of 32 in (815 mm) with the door open
 ---
 
 {% figure Figure 24d %}
-{% asset design-standards/fig_24d_folding_door.gif alt="figure 24d" %}
+{% asset design-standards/fig_24d_folding_door.gif alt="" %}
 {% figcaption %}
 <strong>Folding Door.</strong> Clear width is 32 inches (815 mm) minimum measured from the end of the door (fully open) to the face of the doorstop.
 {% endfigcaption %}
@@ -1473,11 +1481,46 @@ Minimum maneuvering clearances at doors that are not automatic or power-assisted
 **EXCEPTION:** Entry doors to acute care hospital bedrooms for in-patients shall be exempted from the requirement for space at the latch side of the door (see dimension &quot;x&quot; in [Fig. 25](#figure25)) if the door is at least 44 in (1120 mm) wide.
 
 {% figure Figure 25 %}
-{% asset design-standards/fig_25_maneuvering_clearances.gif alt="figure 25" %}
+{% asset design-standards/fig_25_maneuvering_clearances.gif alt="" %}
 {% figcaption %}
 <strong>Maneuvering Clearances at Doors.</strong>
-NOTE: All doors in alcoves shall comply with the clearances for front approaches.
-Depending on the direction of approach, diagrams (a) through (f) illustrate minimum maneuvering space depths and latch side clearances for both push and pull sides of swinging, sliding and folding doors. (4.13.6).
+<p>NOTE: All doors in alcoves shall comply with the clearances for front approaches.
+Depending on the direction of approach, diagrams (a) through (f) illustrate minimum maneuvering space depths and latch side clearances for both push and pull sides of swinging, sliding and folding doors. (4.13.6).</p>
+
+<p><strong>Figure 25(a) Front Approaches -- Swinging Doors.</strong> Front approaches to pull side of swinging doors shall have maneuvering space that extends from the hinge side of the door to 18 inches (455 mm) minimum, 24 inches (610 mm) preferred, beyond the latch side of the door and 60 inches (1525 mm) minimum perpendicular to the doorway.</p>
+
+<p>Front approaches to push side of swinging doors, if equipped with both closer and latch, shall have maneuvering space starting at the hinge side and that extends 12 inches (305 mm) minimum beyond the latch side of the door and 48 inches (1220 mm) minimum perpendicular to the doorway.</p>
+
+<p>Front approaches to push side of swinging doors, if not equipped with latch and closer, shall have maneuvering space that is the same width as door opening and extends 48 inches (1220 mm) minimum perpendicular to the doorway.</p>
+
+<p><strong>Figure 25(b) Hinge Side Approaches - Swinging Doors.</strong> Hinge-side approaches (a side approach toward the hinge side of the door) to the pull side of swinging doors shall have maneuvering space that extends 36 inches (915 mm) minimum beyond the latch side of the door if 60 inches (1525 mm) minimum is provided perpendicular to the doorway or maneuvering space that extends 42 inches (1065 mm) minimum beyond the latch side of the door if 54 inches (1370 mm) minimum is provided perpendicular to the doorway.</p>
+
+<p>Hinge-side approaches (from the side facing the hinge side) to the push side of swinging doors, if the door is not equipped with both latch and closer, shall have a maneuvering space of 54 inches (1370 mm) minimum parallel to the doorway, extending from the latch side to beyond the hinge side, and 42 inches (1065 mm) minimum perpendicular to the doorway.</p>
+
+<p>Hinge side approaches to push side of swinging doors, if equipped with both latch and closer, shall have maneuvering space of 54 inches (1370 mm) minimum parallel to the doorway, extending from the latch side to beyond the hinge side, and 48 inches (1220 mm) minimum perpendicular to the doorway.</p>
+
+<p><strong>Figure 25(c) Latch Side Approaches -- Swinging Doors.</strong> Latch-side approaches to the pull side of swinging doors that have closers shall have maneuvering space that extends from the hinge side to 24 inches (610 mm) minimum beyond the latch side of the door and 54 inches (1370 mm) minimum perpendicular to the doorway.</p>
+
+<p>Latch-side approaches to the pull side of swinging doors, if not equipped with closers, shall have maneuvering space that extends from the hinge side to 24 inches (610 mm) minimum beyond the latch side of the door and 48 inches (1220 mm) minimum perpendicular to the doorway.</p>
+
+<p>Latch-side approaches to push side of swinging doors that have closers shall have maneuvering space that extends from the hinge side to 24 inches (610 mm) minimum parallel to the doorway beyond the latch side of the door and 48 inches (1220 mm) minimum perpendicular to the doorway.</p>
+
+<p>Latch-side approaches to push side of swinging doors, if not equipped with closers, shall have maneuvering space that extends from the hinge side to 24 inches (610 mm) minimum parallel to the doorway beyond the latch side of the door and 42 inches (1065 mm) minimum perpendicular to the doorway.</p>
+{% endfigcaption %}
+{% endfigure %}
+
+{% figure Figure 25 Continued %}
+{% asset design-standards/fig25-2.gif %}
+
+<p><strong>Maneuvering Clearances at Doors (continued)</strong></p>
+
+<p><strong>Figure 25(d) Front Approach -- Sliding Doors and Folding Doors.</strong> Front approaches to sliding doors and folding doors shall have maneuvering space that is the same width as the door opening extending 48 inches (1220 mm) minimum perpendicular to the doorway.</p>
+
+<p><strong>Figure 25(e) Slide Side Approach - Sliding Doors and Folding Doors.</strong> Slide-side approaches to sliding doors and folding doors shall have a maneuvering space of 54 inches (1370 mm) minimum parallel to the doorway, extending from the latch side to beyond the slide (pocket) side, and 42 inches (1065 mm) minimum perpendicular to the doorway.</p>
+
+<p><strong>Figure 25(f) Latch Side Approach - Sliding Doors and Folding Doors.</strong> Latch-side approaches to sliding doors and folding doors shall have a maneuvering space that extends from the slide side (pocket) to 24 inches (610 mm) minimum beyond the latch side of the door and extends 42 inches (1065 mm) minimum perpendicular to the doorway.</p>
+{% figcaption %}
+
 {% endfigcaption %}
 {% endfigure %}
 
@@ -1486,7 +1529,7 @@ Depending on the direction of approach, diagrams (a) through (f) illustrate mini
 The minimum space between two hinged or pivoted doors in series shall be 48 in (1220 mm) plus the width of any door swinging into the space. Doors in series shall swing either in the same direction or away from the space between the doors (see [Fig. 26](#figure26)).
 
 {% figure Figure 26 %}
-{% asset design-standards/fig_26_two_hinged_doors.gif alt="figure 26" %}
+{% asset design-standards/fig_26_two_hinged_doors.gif alt="" %}
 {% figcaption %}
 <strong>Two Hinged Doors in Series.</strong>
 The minimum space between two hinged or pivoted doors in series shall be 48 inches (1220 mm) plus the width of any door swinging into the space. Doors in series shall swing either in the same direction or away from the space between the doors.
@@ -1556,7 +1599,7 @@ Controls shall comply with 4.27.4. Unit controls shall be front mounted or side 
 (2) Free-standing or built-in units not having a clear space under them shall have a clear floor space at least 30 in by 48 in (760 mm by 1220 mm) that allows a person in a wheelchair to make a parallel approach to the unit (see [Fig. 27(c)](#figure27c) and [(d)](#figure27d)). This clear floor space shall comply with 4.2.4.
 
 {% figure Figure 27a %}
-{% asset design-standards/fig_27a_spout_height.gif alt="figure 27a" %}
+{% asset design-standards/fig_27a_spout_height.gif alt="" %}
 {% figcaption %}
 <strong>Spout Height and Knee Clearance.</strong> The front edge of the fountain must extend 17 to 19 inches (430 - 485 mm) from the wall. The 27 inches (685 mm) high minimum clear knee space must be free of equipment or obstructions for a minimum of 8 inches (205 mm) extending from the front edge of the fountain back toward the wall. In addition, a minimum 9 inches (230 mm) high toe clearance space must be provided extending back toward the wall to a distance no more than 6 inches (150 mm) from the back wall. The toe clearance space must be free of equipment or obstructions.
 {% endfigcaption %}
@@ -1565,7 +1608,7 @@ Controls shall comply with 4.27.4. Unit controls shall be front mounted or side 
 ---
 
 {% figure Figure 27b %}
-{% asset design-standards/fig_27b_clear_floor_space.gif alt="figure 27b" %}
+{% asset design-standards/fig_27b_clear_floor_space.gif alt="" %}
 {% figcaption %}
 <strong>Clear Floor Space.</strong> A 48 inch (1220 mm) minimum by 30 inch (760 mm) minimum clear floor space is required for a forward approach to a wall-mounted fountain. If the wall-mounted fountain is in an alcove, the minimum width of the alcove is 30 inches (760 mm) and the depth is 24 inches (610 mm) maximum.
 {% endfigcaption %}
@@ -1574,7 +1617,7 @@ Controls shall comply with 4.27.4. Unit controls shall be front mounted or side 
 ---
 
 {% figure Figure 27c %}
-{% asset design-standards/fig_27c_free_standing_fountain.gif alt="figure 27c" %}
+{% asset design-standards/fig_27c_free_standing_fountain.gif alt="" %}
 {% figcaption %}
 <strong>Free-Standing Fountain or Cooler.</strong> A 48 inch (1220 mm) minimum by 30 inch (760 mm) minimum clear floor space is required for a side approach (long side parallel to the front of the fountain or cooler).
 {% endfigcaption %}
@@ -1583,7 +1626,7 @@ Controls shall comply with 4.27.4. Unit controls shall be front mounted or side 
 ---
 
 {% figure Figure 27d %}
-{% asset design-standards/fig_27d_built_in_fountain.gif alt="figure 27d" %}
+{% asset design-standards/fig_27d_built_in_fountain.gif alt="" %}
 {% figcaption %}
 <strong>Built-in Fountain or Cooler.</strong> A 48 inch (1220 mm) minimum by 30 inch (760 mm) minimum clear floor space is required for a side approach (long side parallel to the front of the fountain or cooler). The recess for the fountain is not to exceed the fountain depth.
 {% endfigcaption %}
@@ -1600,9 +1643,10 @@ Accessible water closets shall comply with 4.16.
 Clear floor space for water closets not in stalls shall comply with [Fig. 28](#figure28). Clear floor space may be arranged to allow either a left-handed or right-handed approach.
 
 {% figure Figure 28 %}
-{% asset design-standards/fig_28_clear_floor_space_water_closets.gif alt="figure 28" %}
+{% asset design-standards/fig_28_clear_floor_space_water_closets.gif alt="" %}
 {% figcaption %}
 <strong>Clear Floor Space at Water Closets.</strong>
+
 [Note: Figure 28 applies to water closets not installed in toilet stalls. Figure 30 covers toilet stalls.]
 For a side or forward approach, the water closet must be located along the back wall and the centerline of the water closet must be 18 inches (455 mm) from the side wall with the side grab bar.
 For a forward approach/transfer, when a lavatory is installed beside the water closet, there must be a clear floor space at the water closet that is a minimum 48 inches (1220 mm) in width (parallel to the back wall) and a minimum of 66 inches (1675 mm) in length. An accessible lavatory may overlap the clear floor space at the back wall as long as a minimum 18 inches (455 mm) clearance is maintained between the centerline of the water closet and the nearest edge of the lavatory. Grab bars are provided on the side and back wall (<a href="#figure29">see figure 29</a>).
@@ -1615,8 +1659,21 @@ For a forward and side approach or for a lateral transfer, there must be a clear
 
 The height of water closets shall be 17 in to 19 in (430 mm to 485 mm), measured to the top of the toilet seat (see [Fig. 29(b)](#figure29b)). Seats shall not be sprung to return to a lifted position.
 
+
+{% figure Figure 29 %}
+{% asset design-standards/fig_29_grab_bars.gif%}
+{% figcaption %}
+
+<p><strong>Grab Bars at Water Closets</strong></p>
+
+<p><strong>Figure 29(a) Back Wall.</strong> A 36 inches (915 mm) minimum length grab bar, mounted 33-36 inches (840-915 mm) above the finish floor, is required behind the water closet. The grab bar must extend at least 12 inches (305 mm) from the centerline of the water closet toward the side wall and at least 24 inches (610 mm) from the centerline of the water closet toward the open side.</p>
+{% endfigcaption %}
+{% endfigure %}
+
+ ---
+
 {% figure Figure 29b %}
-{% asset design-standards/fig_29b_sidewall.gif alt="figure 29b" %}
+{% asset design-standards/fig_29b_sidewall.gif%}
 {% figcaption %}
 <strong> Side Wall.</strong> A 42 inches (1065 mm) minimum length grab bar is required on the side wall, spaced a maximum of 12 inches (305 mm) from the back wall and extending a minimum of 54 inches (1370 mm) from the back wall at a height of 33-36 inches (840-915 mm). The toilet paper dispenser shall be mounted below the grab bar at a minimum height of 19 inches (485 mm). The height of the toilet seat shall be 17 to 19 inches (430 - 485 mm) above the finished floor.
 {% endfigcaption %}
@@ -1625,13 +1682,6 @@ The height of water closets shall be 17 in to 19 in (430 mm to 485 mm), measured
 **4.16.4\* Grab Bars**
 
 Grab bars for water closets not located in stalls shall comply with 4.26 and [Fig. 29](#figure29). The grab bar behind the water closet shall be 36 in (915 mm) minimum.
-
-{% figure Figure 29 %}
-{% asset design-standards/fig_29_grab_bars.gif alt="figure 29" %}
-{% figcaption %}
-<strong>Grab Bars at Water Closets.</strong>
-{% endfigcaption %}
-{% endfigure %}
 
 **4.16.5\* Flush Controls**
 
@@ -1658,7 +1708,7 @@ The size and arrangement of the standard toilet stall shall comply with [Fig. 30
 **EXCEPTION:** In instances of alteration work where provision of a standard stall ([Fig. 30(a)](#figure30a)) is technically infeasible or where plumbing code requirements prevent combining existing stalls to provide space, either alternate stall ([Fig. 30(b)](#figure30b)) may be provided in lieu of the standard stall.
 
 {% figure Figure 30a %}
-{% asset design-standards/fig_30a_standard_stall.gif alt="figure 30a" %}
+{% asset design-standards/fig_30a_standard_stall.gif alt="" %}
 {% figcaption %}
 <strong>Standard Stall.</strong> The minimum width of the stall is 60 inches (1525 mm). The centerline of the water closet is 18 inches (455 mm) from the side wall. The location of the door is in front of the clear space and diagonal to the water closet, with a maximum stile width of 4 inches (100 mm). An alternate door location is permitted to be on the adjacent side (side wall) of the stall also diagonal to the water closet with a maximum stile width of 4 inches (100 mm). If a wall mounted water closet is used, the depth of the stall is required to be a minimum of 56 inches (1420 mm). If a floor mounted water closet is used, the depth of the stall is required to be a minimum of 59 inches (1500 mm). A grab bar at least 36 inches (965 mm) long shall be located behind the water closet, with one end no farther than 6 inches (150 mm) from the inside corner of the stall. Another grab bar shall be mounted adjacent to the water closet on the side wall and extend from no more than 12 inches (305 mm) from the back wall to at least 52 inches (1320 mm) from the back wall.
 {% endfigcaption %}
@@ -1667,7 +1717,7 @@ The size and arrangement of the standard toilet stall shall comply with [Fig. 30
 ---
 
 {% figure Figure 30b %}
-{% asset design-standards/fig_30b_alternate_stalls.gif alt="figure 30b" %}
+{% asset design-standards/fig_30b_alternate_stalls.gif alt="" %}
 {% figcaption %}
 <strong>Alternate Stalls.</strong> Two alternate stalls are permitted for alterations only; one alternate stall is required to be 36 inches (915 mm) wide. The other alternate stall is required to be a minimum of 48 inches (1220 mm) wide. In either alternate stall, if a wall mounted water closet is used, the depth of the stall is required to be a minimum of 66 inches (1675 mm). If a floor mounted water closet is used, the depth of the stall is required to be a minimum of 69 inches (1745 mm). The 36 inches (915 mm) wide stall shall have parallel grab bars on the side walls. The 48 inches (1220 mm) minimum stall shall have a grab bar behind the water closet and one on the side wall next to the water closet. Grab bars are mounted 33-36 inches (840-915 mm) above the finish floor. In both alternate stalls, the centerline of the water closet is 18 inches (455 mm) from a side wall. In both alternate stalls, the grab bars along the sides of the water closets shall extend at least 54 inches (1370 mm) from the back wall and shall have one end no farther than 12 inches (305 mm) from the back wall.
 {% endfigcaption %}
@@ -1682,7 +1732,7 @@ In standard stalls, the front partition and at least one side partition shall pr
 Toilet stall doors, including door hardware, shall comply with 4.13. If toilet stall approach is from the latch side of the stall door, clearance between the door side of the stall and any obstruction may be reduced to a minimum of 42 in (1065 mm) ([Fig. 30](#figure30)).
 
 {% figure Figure 30 %}
-{% asset design-standards/fig_30_toilet_stalls.gif alt="figure 30" %}
+{% asset design-standards/fig_30_toilet_stalls.gif alt="" %}
 {% figcaption %}
 <strong>Toilet Stalls.</strong>
 {% endfigcaption %}
@@ -1693,7 +1743,7 @@ Toilet stall doors, including door hardware, shall comply with 4.13. If toilet s
 Grab bars complying with the length and positioning shown in [Fig. 30(a)](#figure30a), ([b](#figure30b)), [(c)](#figure30c), and [(d)](#figure30d) shall be provided. Grab bars may be mounted with any desired method as long as they have a gripping surface at the locations shown and do not obstruct the required clear floor area. Grab bars shall comply with 4.26.
 
 {% figure Figure 30c %}
-{% asset design-standards/fig_30c_rear_wall.gif alt="figure 30c" %}
+{% asset design-standards/fig_30c_rear_wall.gif alt="" %}
 {% figcaption %}
 <strong>Rear Wall of Standard Stall.</strong> Grab bars located behind the water closet shall be at least 36 inches (915 mm) in length. One end of the grab bar is shown near the corner of the stall closest to the water closet. Figure 30(a) shows this end 6 inches (150 mm) maximum from the corner. All grab bars shall be located 33-36 inches (840-915 mm) above the finish floor.
 {% endfigcaption %}
@@ -1702,7 +1752,7 @@ Grab bars complying with the length and positioning shown in [Fig. 30(a)](#figur
 ---
 
 {% figure Figure 30d %}
-{% asset design-standards/fig_30d_side_walls.gif alt="figure 30d" %}
+{% asset design-standards/fig_30d_side_walls.gif alt="" %}
 {% figcaption %}
 <strong>Side Walls.</strong> Side grab bars shall be located 33-36 inches (840-915 mm) above the finish floor and shall be no more than 12 inches (305 mm) from the rear wall. Grab bars shall be at least 40 inches (1015 mm) long or at least 42 inches (1065 mm) long for alternate stalls. Water closet seat heights shall be between 17 inches (430 mm) and 19 inches (485 mm). Toilet paper dispensers shall be below the grab bar and at least 19 inches (485 mm) above the floor and no farther than 36 inches (915 mm) from the rear wall, measured to the far side of the dispensers.
 {% endfigcaption %}
@@ -1737,7 +1787,7 @@ The requirements of 4.19 shall apply to lavatory fixtures, vanities, and built-i
 Lavatories shall be mounted with the rim or counter surface no higher than 34 in (865 mm) above the finish floor. Provide a clearance of at least 29 in (735 mm) above the finish floor to the bottom of the apron. Knee and toe clearance shall comply with [Fig. 31](#figure31).
 
 {% figure Figure 31 %}
-{% asset design-standards/fig_31_lavatory_clearances.gif alt="figure 31" %}
+{% asset design-standards/fig_31_lavatory_clearances.gif alt="" %}
 {% figcaption %}
 <strong>Lavatory Clearances.</strong> The minimum knee clearance must be free of equipment or obstructions for a minimum of 8 inches (205 mm) extending from the front edge of the lavatory back toward the wall. This knee clearance must be 29 inches (735 mm) high at the front of the lavatory and no less than 27 inches (685 mm) high at a point 8 inches (205 mm) back. In addition, a minimum 9 inches (230 mm) high toe clearance must be provided extending back toward the wall to a distance no more than 6 inches (150 mm) from the back wall. The toe clearance space must be free of equipment or obstructions.
 
@@ -1750,7 +1800,7 @@ The maximum height of the lavatory is 34 inches (865 mm). The bottom edge of a w
 A clear floor space 30 in by 48 in (760 mm by 1220 mm) complying with 4.2.4 shall be provided in front of a lavatory to allow forward approach. Such clear floor space shall adjoin or overlap an accessible route and shall extend a maximum of 19 in (485 mm) underneath the lavatory (see [Fig. 32](#figure32)).
 
 {% figure Figure 32 %}
-{% asset design-standards/fig_32_clear_floor_space.gif alt="figure 32" %}
+{% asset design-standards/fig_32_clear_floor_space.gif alt="" %}
 {% figcaption %}
 <strong>Clear Floor Space at Lavatories.</strong> The minimum depth of the lavatory is 17 inches (430 mm). A clear floor space at least 30 inches (760 mm) wide and 48 inches (1220 mm) long is required for a forward approach in front of the accessible lavatory. The clear floor space shall extend up to 19 inches (485 mm) maximum into the kneespace below the lavatory.
 {% endfigcaption %}
@@ -1779,9 +1829,14 @@ Accessible bathtubs shall comply with 4.20.
 Clear floor space in front of bathtubs shall be as shown in [Fig. 33](#figure33).
 
 {% figure Figure 33 %}
-{% asset design-standards/fig_33_clear_floor_space_bathtubs.gif alt="figure 33" %}
+{% asset design-standards/fig_33_clear_floor_space_bathtubs.gif alt="" %}
 {% figcaption %}
 <strong>Clear Floor Space at Bathtubs.</strong>
+
+<p><strong>Figure 33(a) With Seat in Tub.</strong> If the approach is parallel to the bathtub, a 30 inches (760 mm) minimum width by 60 inches (1525 mm) minimum length clear space is required alongside the bathtub. If the approach is perpendicular to the bathtub, a 48 inches (1220 mm) minimum width by 60 inches (1525 mm) minimum length clear space is required. An accessible lavatory is permitted within the clear space at the foot end of the tub (end with drain and controls).</p>
+
+<p><strong>Figure 33(b) With Seat at Head of Tub.</strong> If the approach is parallel to the bathtub, a 30 inches (760 mm) minimum width by 75 inches (1905 mm) minimum length clear space is required alongside the bathtub. The seat width shall be 15 inches (380 mm), measured from the back wall to the front of the seat, and shall extend the full width of the tub. An accessible lavatory is permitted within the clear space at the foot end of the tub.</p>
+
 {% endfigcaption %}
 {% endfigure %}
 
@@ -1790,9 +1845,14 @@ Clear floor space in front of bathtubs shall be as shown in [Fig. 33](#figure33)
 An in-tub seat or a seat at the head end of the tub shall be provided as shown in [Fig. 33](#figure33) and [34](#figure34). The structural strength of seats and their attachments shall comply with 4.26.3. Seats shall be mounted securely and shall not slip during use.
 
 {% figure Figure 34 %}
-{% asset design-standards/fig_34_grab_bars_bathtubs.gif alt="figure 34" %}
+{% asset design-standards/fig_34_grab_bars_bathtubs.gif alt="" %}
 {% figcaption %}
-<strong>Grab Bars at Bathtubs.</strong> Controls are required to be located in an area between the open edge and the midpoint of the tub ("offset") and to be located at the foot of the tub.
+<strong>Grab Bars at Bathtubs.</strong>
+<p>Controls are required to be located in an area between the open edge and the midpoint of the tub ("offset") and to be located at the foot of the tub.</p>
+<p><strong>Figure 34(a) With Seat in Tub.</strong> At the foot of the tub, the grab bar shall be 24 inches (610 mm) minimum in length measured from the outer edge of the tub. On the back wall, two grab bars are required. The grab bars mounted on the back (long) wall shall be a minimum 24 inches (610 mm) in length located 12 inches (305 mm) maximum from the foot of the tub and 24 inches (610 mm) maximum from the head of the tub. One grab bar on the back wall shall be located 9 inches (230 mm) above the rim of the tub. The other shall be 33 to 36 inches (840 mm to 915 mm) above the bathroom floor. At the head of the tub, the grab bar shall be a minimum of 12 inches (305 mm) in length measured from the outer edge of the tub.</p>
+
+<p><strong>Figure 34(b) With Seat at Head of Tub.</strong> At the foot of the tub, the grab bar shall be a minimum of 24 inches (610 mm) in length measured from the outer edge of the tub. On the back wall, two grab bars are required. The grab bars mounted on the back wall shall be a minimum of 48 inches (1220 mm) in length located a maximum of 12 inches (305 mm) from the foot of the tub and a maximum of 15 inches (380 mm) from the head of the tub. Heights of grab bars are as described above. No horizontal grab bar should be placed at the head of the tub.</p>
+
 {% endfigcaption %}
 {% endfigure %}
 
@@ -1823,7 +1883,7 @@ Accessible shower stalls shall comply with 4.21.
 Except as specified in 9.1.2, shower stall size and clear floor space shall comply with [Fig. 35(a)](#figure35a) or [(b)](#figure35b). The shower stall in [Fig. 35(a)](#figure35a) shall be 36 in by 36 in (915 mm by 915 mm). Shower stalls required by 9.1.2 shall comply with [Fig. 57(a)](#figure57a) or [(b)](#figure57b). The shower stall in [Fig. 35(b)](#figure35b) will fit into the space required for a bathtub.
 
 {% figure Figure 35a %}
-{% asset design-standards/fig_35a.gif alt="figure 35a" %}
+{% asset design-standards/fig_35a.gif alt="" %}
 {% figcaption %}
 <strong>36 in by 36 inches (915 mm by 915 mm) Stall (Transfer Shower with seat).</strong> The clear floor space alongside the opening to the shower shall be a minimum of 48 inches (1220 mm) in length by a minimum of 36 inches (915 mm) in width and allow for a parallel approach. The clear floor space shall extend 12 inches (305 mm) beyond the shower wall on which the seat is mounted.
 {% endfigcaption %}
@@ -1832,7 +1892,7 @@ Except as specified in 9.1.2, shower stall size and clear floor space shall comp
 ---
 
 {% figure Figure 35b %}
-{% asset design-standards/fig_35b.gif alt="figure 35b" %}
+{% asset design-standards/fig_35b.gif alt="" %}
 {% figcaption %}
 <strong>30 in by 60 inches (760 mm by 1525 mm) Stall (Roll-in Shower).</strong> The clear floor space alongside the opening to the shower shall be a minimum of 60 inches (1220 mm) in length by a minimum of 36 inches (915 mm) in width. If the controls are located on the back (long) wall, they must be a maximum of 27 inches (685 mm) from a side wall. An accessible lavatory may be located in the clear floor space at the end of the shower. Grab bars are shown on all three walls of the shower.
 {% endfigcaption %}
@@ -1843,7 +1903,7 @@ Except as specified in 9.1.2, shower stall size and clear floor space shall comp
 A seat shall be provided in shower stalls 36 in by 36 in (915 mm by 915 mm) and shall be as shown in [Fig. 36](#figure36). The seat shall be mounted 17 in to 19 in (430 mm to 485 mm) from the bathroom floor and shall extend the full depth of the stall. In a 36 in by 36 in (915 mm by 915 mm) shower stall, the seat shall be on the wall opposite the controls. Where a fixed seat is provided in a 30 in by 60 in minimum (760 mm by 1525 mm) shower stall, it shall be a folding type and shall be mounted on the wall adjacent to the controls as shown in [Fig. 57](#figure57). The structural strength of seats and their attachments shall comply with 4.26.3.
 
 {% figure Figure 36 %}
-{% asset design-standards/fig_36.gif alt="figure 36" %}
+{% asset design-standards/fig_36.gif alt="" %}
 {% figcaption %}
 <strong> Shower Seat Design.</strong>
 An L-shaped shower seat is shown extending the full depth of the stall. The seat shall be located 1-1/2 inches (38 mm) maximum from the back and side walls. The front of the seat (nearest to the opening) shall extend a maximum 16 inches (330 mm) from the wall. The end of the seat (opposite the shower opening) shall extend a maximum of 23 inches (582 mm) from the side wall and shall be a maximum of 15 inches (305 mm) deep measured from the back wall.
@@ -1853,7 +1913,7 @@ An L-shaped shower seat is shown extending the full depth of the stall. The seat
 ---
 
 {% figure Figure 57 %}
-{% asset design-standards/fig_57.gif alt="figure 57" %}
+{% asset design-standards/fig_57.gif alt="" %}
 {% figcaption %}
 <strong>Roll-in Shower with Folding Seat.</strong>
 Illustrates two roll-in shower designs each with a folding seat.
@@ -1865,9 +1925,16 @@ Illustrates two roll-in shower designs each with a folding seat.
 Grab bars complying with 4.26 shall be provided as shown in [Fig. 37](#figure37).
 
 {% figure Figure 37 %}
-{% asset design-standards/fig_37.gif alt="figure 37" %}
+{% asset design-standards/fig_37.gif alt="" %}
 {% figcaption %}
 <strong>Grab Bars at Shower Stalls.</strong>
+
+<p><strong>Figure 37(a)</strong> 36 in by 36 inches (915 mm by 915 mm) Transfer Stall. The L-shaped shower seat shall be 18 inches (455 mm) above the floor measured at the entry. An L-shaped grab bar (or two single grab bars with the ends close together) shall be provided, located along the full depth of the control wall (opposite the seat) and halfway (18 inches (455 mm)) along the back wall. The grab bar(s) shall be mounted 33-36 inches (840-915 mm) above the shower floor measured at the entry.</p>
+
+<p>The controls shall be placed in an area between 38-48 inches (965-1220 mm) above the floor. The controls and spray unit shall be within 18 inches (455 mm) of the front of the shower.</p>
+
+<p><strong>Figure 37(b)</strong> 30 in by 60 inches (760 mm by 1525 mm) Roll-in Stall. A U-shaped grab bar (or three separate grab bars) shall be provided. The grab bar (or bars) shall be 33-36 inches (840-915 mm) high. The controls shall be placed in an area between 38-48 inches (965 -1220 mm) above the floor. Controls shall be located on the back (long) wall 27 inches (685 mm) from the side wall. The shower head and control area may be located on the back wall or on either side wall.</p>
+
 {% endfigcaption %}
 {% endfigure %}
 
@@ -2002,7 +2069,7 @@ A clear floor space at least 30 in by 48 in (760 mm by 1220 mm) complying with 4
 Accessible storage spaces shall be within at least one of the reach ranges specified in 4.2.5 and 4.2.6 (see [Fig. 5](#figure5) and [Fig. 6](#figure6)). Clothes rods or shelves shall be a maximum of 54 in (1370 mm) above the finish floor for a side approach. Where the distance from the wheelchair to the clothes rod or shelf exceeds 10 in (255 mm) (as in closets without accessible doors) the height and depth to the rod or shelf shall comply with [Fig. 38(a)](#figure38a) and [Fig. 38(b)](#figure38b).
 
 {% figure Figure 38a %}
-{% asset design-standards/fig_38a.gif alt="figure 38a" %}
+{% asset design-standards/fig_38a.gif alt="" %}
 {% figcaption %}
 <strong>Shelves.</strong> If the clear floor space allows a parallel approach by a person in a wheelchair and the distance between the wheelchair and the shelf exceeds 10 inches (255 mm), (see 4.25.3 Height), the maximum high side reach shall be 48 inches (1220 mm) above the floor and the low side reach shall be a minimum of 9 inches (230 mm) above the floor. The shelves can be adjustable. The maximum distance from the user to the middle of the shelf shall be 21 inches (535 mm).
 {% endfigcaption %}
@@ -2011,7 +2078,7 @@ Accessible storage spaces shall be within at least one of the reach ranges speci
 ---
 
 {% figure Figure 38b %}
-{% asset design-standards/fig_38b.gif alt="figure 38b" %}
+{% asset design-standards/fig_38b.gif alt="" %}
 {% figcaption %}
 <strong>Closets.</strong> If the clear floor space allows a parallel approach by a person in a wheelchair and the distance between the wheelchair and the clothes rod exceeds 10 inches (255 mm), the maximum high side reach shall be 48 inches (1220 mm). The maximum distance from the user to the clothes rod shall be 21 inches (535 mm).
 {% endfigcaption %}
@@ -2032,7 +2099,7 @@ All handrails, grab bars, and tub and shower seats required to be accessible by 
 The diameter or width of the gripping surfaces of a handrail or grab bar shall be 1-1/4 in to 1-1/2 in (32 mm to 38 mm), or the shape shall provide an equivalent gripping surface. If handrails or grab bars are mounted adjacent to a wall, the space between the wall and the grab bar shall be 1-1/2 in (38 mm) (see [Fig. 39(a)](#figure39a), [(b)](#figure39b), [(c)](#figure39c), and [(e)](#figure39e)). Handrails may be located in a recess if the recess is a maximum of 3 in (75 mm) deep and extends at least 18 in (455 mm) above the top of the rail (see [Fig. 39(d)](#figure39d)).
 
 {% figure Figure 39a %}
-{% asset design-standards/fig_39a.gif alt="figure 39a" %}
+{% asset design-standards/fig_39a.gif alt="" %}
 {% figcaption %}
 <strong>Handrail.</strong> Spacing between handrail and the adjacent wall shall be 1 1/2 inches (38 mm). Handrail shall be 1-1/4 to 1-1/2 inches diameter (32 - 38 mm). Support for the handrail is from below.
 {% endfigcaption %}
@@ -2041,7 +2108,7 @@ The diameter or width of the gripping surfaces of a handrail or grab bar shall b
 ---
 
 {% figure Figure 39b %}
-{% asset design-standards/fig_39b.gif alt="figure 39b" %}
+{% asset design-standards/fig_39b.gif alt="" %}
 {% figcaption %}
 <strong>Handrail.</strong> Shape has a rounded gripping surface shaped from a rectangular stock. Spacing between handrail and the adjacent wall shall be 1-1/2 inches (38 mm). Handrail gripping surface shall be 1-1/4 to 1-1/2 inches diameter (32 - 38 mm).
 {% endfigcaption %}
@@ -2050,7 +2117,7 @@ The diameter or width of the gripping surfaces of a handrail or grab bar shall b
 ---
 
 {% figure Figure 39c %}
-{% asset design-standards/fig_39c.gif alt="figure 39c" %}
+{% asset design-standards/fig_39c.gif alt="" %}
 {% figcaption %}
 <strong>Handrail.</strong> A rounded gripping surface is provided on top of a rectangular railing supported from a bottom bracket attached to a side wall. Spacing between handrail and the adjacent wall shall be 1-1/2 inches (38 mm). Rounded handrail surface shall be 1-1/4 to 1-1/2 inches diameter (32 - 38 mm).
 {% endfigcaption %}
@@ -2059,7 +2126,7 @@ The diameter or width of the gripping surfaces of a handrail or grab bar shall b
 ---
 
 {% figure Figure 39d %}
-{% asset design-standards/fig_39d.gif alt="figure 39d" %}
+{% asset design-standards/fig_39d.gif alt="" %}
 {% figcaption %}
 <strong>Handrail.</strong> Handrail is mounted into a recessed section of a wall. The bottom of the recessed section is not more than 3 inches wide where the handrail is located. The recessed section shown extends vertically approximately 6 inches and then angles to a point on the flush wall a minimum of 18 inches (455 mm) above the grab bar. This profile is provided to permit grasping from a standing position. Spacing between handrail and the adjacent wall shall be 1- 1/2 inches (38 mm). Handrail shall be 1-1/4 to 1-1/2 inches diameter (32 - 38 mm). Support for the handrail is from below.
 {% endfigcaption %}
@@ -2068,7 +2135,7 @@ The diameter or width of the gripping surfaces of a handrail or grab bar shall b
 ---
 
 {% figure Figure 39e %}
-{% asset design-standards/fig_39e.gif alt="figure 39e" %}
+{% asset design-standards/fig_39e.gif alt="" %}
 {% figcaption %}
 <strong>Grab Bar.</strong> The round grab bar surface is 1-1/4 to 1-1/2 inches diameter (32 - 38 mm). Spacing from the face of the grab bar to the wall is 1- 1/2 inches (38 mm).
 {% endfigcaption %}
@@ -2219,16 +2286,16 @@ Where permanent identification is provided for rooms and spaces, signs shall be 
 (4) Assistive Listening Systems. In assembly areas where permanently installed assistive listening systems are required by 4.1.3(19)(b) the availability of such systems shall be identified with signage that includes the international symbol of access for hearing loss ([Fig. 43(d)](#figure43d)).
 
 {% figure Figure 43a %}
-{% asset design-standards/fig_43a.gif alt="figure 43a" %}
+{% asset design-standards/fig_43a.gif alt="" %}
 {% figcaption %}
-<strong>Proportions, International Symbol of Accessibility.</strong> The diagram illustrates the International Symbol of Accessibility on a grid background.- 38 mm). Support for the handrail is from below.
+<strong>Proportions, International Symbol of Accessibility.</strong> The diagram illustrates the International Symbol of Accessibility on a grid background.
 {% endfigcaption %}
 {% endfigure %}
 
 ---
 
 {% figure Figure 43b %}
-{% asset design-standards/fig_43b.gif alt="figure 43b" %}
+{% asset design-standards/fig_43b.gif alt="" %}
 {% figcaption %}
 <strong> Display Conditions, International Symbol of Accessibility.</strong> The symbol contrast shall be light on dark or dark on light.
 {% endfigcaption %}
@@ -2237,7 +2304,7 @@ Where permanent identification is provided for rooms and spaces, signs shall be 
 ---
 
 {% figure Figure 43c %}
-{% asset design-standards/fig_43c.gif alt="figure 43c" %}
+{% asset design-standards/fig_43c.gif alt="" %}
 {% figcaption %}
 <strong>International TDD Symbol.</strong> The diagram illustrates the International TDD Symbol, a telephone handset symbol over a keyboard symbol. The symbol contrast shall be light on dark or dark on light.
 {% endfigcaption %}
@@ -2246,7 +2313,7 @@ Where permanent identification is provided for rooms and spaces, signs shall be 
 ---
 
 {% figure Figure 43d %}
-{% asset design-standards/fig_43d.gif alt="figure 43d" %}
+{% asset design-standards/fig_43d.gif alt="" %}
 {% figcaption %}
 <strong>International Symbol of Access for Hearing Loss.</strong> The diagram illustrates the International Symbol of Access for Hearing Loss, the profile of an ear with a wide diagonal line running from the bottom left to the top right. The symbol contrast shall be light on dark or dark on light.
 {% endfigcaption %}
@@ -2267,7 +2334,7 @@ Public telephones required to be accessible by 4.1 shall comply with 4.31.
 A clear floor or ground space at least 30 in by 48 in (760 mm by 1220 mm) that allows either a forward or parallel approach by a person using a wheelchair shall be provided at telephones (see [Fig. 44](#figure44)). The clear floor or ground space shall comply with 4.2.4. Bases, enclosures, and fixed seats shall not impede approaches to telephones by people who use wheelchairs.
 
 {% figure Figure 44 %}
-{% asset design-standards/fig_44.gif alt="figure 44" %}
+{% asset design-standards/fig_44.gif alt="" %}
 {% figcaption %}
 <strong>Mounting Heights and Clearances for Telephones.</strong>
 
@@ -2322,7 +2389,7 @@ Fixed or built-in seating or tables required to be accessible by 4.1 shall compl
 If seating spaces for people in wheelchairs are provided at fixed tables or counters, clear floor space complying with 4.2.4 shall be provided. Such clear floor space shall not overlap knee space by more than 19 in (485 mm) (see [Fig. 45](#figure45)).
 
 {% figure Figure 45 %}
-{% asset design-standards/fig_45.gif alt="figure 45" %}
+{% asset design-standards/fig_45.gif alt="" %}
 {% figcaption %}
 <strong>Minimum Clearances for Seating and Tables.</strong>
 
@@ -2351,7 +2418,7 @@ Assembly and associated areas required to be accessible by 4.1 shall comply with
 Each wheelchair location shall provide minimum clear ground or floor spaces as shown in [Fig. 46](#figure46).
 
 {% figure Figure 46 %}
-{% asset design-standards/fig_46.gif alt="figure 46" %}
+{% asset design-standards/fig_46.gif alt="" %}
 {% figcaption %}
 <strong>Space Requirements for Wheelchair Seating Spaces in Series.</strong>
 
@@ -2482,7 +2549,7 @@ In new construction, all dining areas, including raised or sunken dining areas, 
 Food service lines shall have a minimum clear width of 36 in (915 mm), with a preferred clear width of 42 in (1065 mm) to allow passage around a person using a wheelchair. Tray slides shall be mounted no higher than 34 in (865 mm) above the floor (see [Fig. 53](#figure53). If self-service shelves are provided, at least 50 percent of each type must be within reach ranges specified in 4.2.5 and 4.2.6.
 
 {% figure Figure 53 %}
-{% asset design-standards/fig_53.gif alt="figure 53" %}
+{% asset design-standards/fig_53.gif alt="" %}
 {% figcaption %}
 <strong>Food Service Lines.</strong>
 
@@ -2495,7 +2562,7 @@ The clear width of the food service line shall be measured from the leading edge
 Self-service shelves and dispensing devices for tableware, dishware, condiments, food and beverages shall be installed to comply with 4.2 (see [Fig. 54](#figure54)).
 
 {% figure Figure 54 %}
-{% asset design-standards/fig_54.gif alt="figure 54" %}
+{% asset design-standards/fig_54.gif alt="" %}
 {% figcaption %}
 <strong>Tableware Areas.</strong>
 
@@ -2619,7 +2686,7 @@ At least one lane at each check-out area shall comply with 7.2(1). Any traffic c
 Minimum clear aisle space at card catalogs and magazine displays shall comply with [Fig. 55](#figure55). Maximum reach height shall comply with 4.2, with a height of 48 in (1220 mm) preferred irrespective of approach allowed.
 
 {% figure Figure 55 %}
-{% asset design-standards/fig_55.gif alt="figure 55" %}
+{% asset design-standards/fig_55.gif alt="" %}
 {% figcaption %}
 <strong> Card Catalog.</strong>
 
@@ -2632,7 +2699,7 @@ The minimum width between card catalogs is 36 inches (915 mm). The reach range f
 Minimum clear aisle width between stacks shall comply with 4.3, with a minimum clear aisle width of 42 in (1065 mm) preferred where possible. Shelf height in stack areas is unrestricted (see [Fig. 56](#figure56)).
 
 {% figure Figure 56 %}
-{% asset design-standards/fig_56.gif alt="figure 56" %}
+{% asset design-standards/fig_56.gif alt="" %}
 {% figcaption %}
 <strong>Stacks.</strong>
 
@@ -2657,7 +2724,7 @@ All public use and common use areas are required to be designed and constructed 
 Accessible sleeping rooms or suites that comply with the requirements of 9.2 (Requirements for Accessible Units, Sleeping Rooms, and Suites) shall be provided in conformance with the table below. In addition, in hotels, of 50 or more sleeping rooms or suites, additional accessible sleeping rooms or suites that include a roll-in shower shall also be provided in conformance with the table below. Such accommodations shall comply with the requirements of 9.2, 4.21, and [Figure 57(a)](#figure57a) or [(b)](#figure57b).
 
 {% figure Figure 57a %}
-{% asset design-standards/fig_57a.gif alt="figure 57a" %}
+{% asset design-standards/fig_57a.gif alt="" %}
 {% figcaption %}
 A folding L-shaped seat is provided in a 30 in minimum by 60 inches (716 mm by 1220 mm) minimum roll-in shower stall. The seat is mounted at one end with the seat in the corner. The controls and spray unit on the back (long) wall shall be located a maximum of 27 inches (685 mm) from the side wall where the seat is attached. An L-shaped grab bar or two grab bars are installed to provide a continuous gripping surface. The grab bar(s) shall extend from the front of the seat to the shower opening on the opposite wall. A minimum 36 inch (915 mm) wide by 60 inch (1220 mm) wide clear floor space is required parallel the entire opening of the shower. A lavatory may be installed in the clear floor space across from the folding seat.
 {% endfigcaption %}
@@ -2666,7 +2733,7 @@ A folding L-shaped seat is provided in a 30 in minimum by 60 inches (716 mm by 1
 ---
 
 {% figure Figure 57b %}
-{% asset design-standards/fig_57b.gif alt="figure 57b" %}
+{% asset design-standards/fig_57b.gif alt="" %}
 {% figcaption %}
 A folding seat, mounted adjacent to the entry to the shower, is provided in a 36 in by 60 inches (915 mm by 1220 mm) minimum roll-in shower stall. The width of the stall opening shall be a minimum of 36 inches (915 mm) clear located on a long wall at the opposite end of the shower from the controls. The shower seat shall be 24 inches (610 mm) minimum in length by 16 inches (330 mm) minimum in width and may be rectangular in shape. The seat shall be located next to the opening to the shower and adjacent to the end wall containing the shower head and controls.
 {% endfigcaption %}
@@ -3000,7 +3067,7 @@ When an entrance is being altered, it is preferable that those entrances being a
 (3) Space Requirements for Passing. Able-bodied persons in winter clothing, walking straight ahead with arms swinging, need 32 in (815 mm) of width, which includes 2 in (50 mm) on either side for sway, and another 1 in (25 mm) tolerance on either side for clearing nearby objects or other pedestrians. Almost all wheelchair users and those who use walking aids can also manage within this 32 in (815 mm) width for short distances. Thus, two streams of traffic can pass in 64 in (1625 mm) in a comfortable flow. Sixty inches (1525 mm) provides a minimum width for a somewhat more restricted flow. If the clear width is less than 60 in (1525 mm), two wheelchair users will not be able to pass but will have to seek a wider place for passing. Forty-eight inches (1220 mm) is the minimum width needed for an ambulatory person to pass a nonambulatory or semi-ambulatory person. Within this 48 in (1220 mm) width, the ambulatory person will have to twist to pass a wheelchair user, a person with a service animal, or a semi-ambulatory person. There will be little leeway for swaying or missteps (see [Fig. A1](#figurea1)).
 
 {% figure Figure A1 %}
-{% asset design-standards/fig_a1.gif alt="figure a1" %}
+{% asset design-standards/fig_a1.gif alt="" %}
 {% figcaption %}
 <strong>Minimum Passage Width for One Wheelchair and One Ambulatory Person.</strong> Minimum width is shown as 48 inches (1220 mm).
 {% endfigcaption %}
@@ -3011,7 +3078,7 @@ When an entrance is being altered, it is preferable that those entrances being a
 These guidelines specify a minimum space of 60 in (1525 mm) diameter or a 60 in by 60 in (1525 mm by 1525 mm) T-shaped space for a pivoting 180-degree turn of a wheelchair. This space is usually satisfactory for turning around, but many people will not be able to turn without repeated tries and bumping into surrounding objects. The space shown in [Fig. A2](#figurea2) will allow most wheelchair users to complete U-turns without difficulty.
 
 {% figure Figure A2 %}
-{% asset design-standards/fig_a2.gif alt="figure a2" %}
+{% asset design-standards/fig_a2.gif alt="" %}
 {% figcaption %}
 <strong>Space Needed for Smooth U-Turn in a Wheelchair.</strong> Space is shown as an oval shape measuring 78 inches (1965 mm) by 60 inches (1525 mm) minimum.
 {% endfigcaption %}
@@ -3022,7 +3089,7 @@ These guidelines specify a minimum space of 60 in (1525 mm) diameter or a 60 in 
 The wheelchair and user shown in [Fig. A3](#figurea3) represent typical dimensions for a large adult male. The space requirements in this guideline are based upon maneuvering clearances that will accommodate most wheelchairs. [Fig. A3](#figurea3) provides a uniform reference for design not covered by this guideline.
 
 {% figure Figure A3 %}
-{% asset design-standards/fig_a3.gif alt="figure a3" %}
+{% asset design-standards/fig_a3.gif alt="" %}
 {% figcaption %}
 <strong>Dimensions of Adult-Sized Wheelchairs.</strong> Illustration shows a side view of a man sitting in a wheelchair. Eye level is 43 - 51 inches (1090 - 1295 mm). Lap height is shown as 27 inches (685 mm). Armrest height of the wheelchair is 30 inches (760 mm). Seat height of the wheelchair is shown as 19 inches (485 mm). Toe height is 8 inches (205 mm). The handle at the back of the wheelchair backrest is 36 inches (915 mm) high .
 
@@ -3063,7 +3130,7 @@ Service animals are trained to recognize and avoid hazards. However, most people
 Potential hazardous objects are noticed only if they fall within the detection range of canes (see [Fig. A4](#figurea4)). Visually impaired people walking toward an object can detect an overhang if its lowest surface is not higher than 27 in (685 mm). When walking alongside protruding objects, they cannot detect overhangs. Since proper cane and service animal techniques keep people away from the edge of a path or from walls, a slight overhang of no more than 4 in (100 mm) is not hazardous.
 
 {% figure Figure A4 %}
-{% asset design-standards/fig_a4.gif alt="figure a4" %}
+{% asset design-standards/fig_a4.gif alt="" %}
 {% figcaption %}
 <strong>Cane Technique.</strong> One figure shows the front view of a man walking with a white cane. The detectable area is shown as a cone-shaped marked by a dashed line that is horizontal at 27 inches (685 mm) high and with each end extending at an angle down to the floor. The cone shaped space is wider at the floor than at 27 inches (685 mm) high. No width is specified at the 27 inch (685 mm) height but it appears to be slightly wider than the width of the person using the cane. The width of the detectable area at the floor is 6 inches (150 mm) wider than at 27 inches (685 mm) on the right and 6 inches (150 mm) wider on the left of the person. This indicates the space used as the white cane is held and swept side-to-side.
 
@@ -3096,7 +3163,7 @@ Much more needs to be done in developing both quantitative and qualitative crite
 The increasing use of vans with side-mounted lifts or ramps by persons with disabilities has necessitated some revisions in specifications for parking spaces and adjacent access aisles. The typical accessible parking space is 96 in (2440 mm) wide with an adjacent 60 in (1525 mm) access aisle. However, this aisle does not permit lifts or ramps to be deployed and still leave room for a person using a wheelchair or other mobility aid to exit the lift platform or ramp. In tests conducted with actual lift/van/wheelchair combinations, (under a Board-sponsored Accessible Parking and Loading Zones Project) researchers found that a space and aisle totaling almost 204 in (5180 mm) wide was needed to deploy a lift and exit conveniently. The &quot;van accessible&quot; parking space required by these guidelines provides a 96 in (2440 mm) wide space with a 96 in (2440 mm) adjacent access aisle which is just wide enough to maneuver and exit from a side mounted lift. If a 96 in (2440 mm) access aisle is placed between two spaces, two &quot;van accessible&quot; spaces are created. Alternatively, if the wide access aisle is provided at the end of a row (an area often unused), it may be possible to provide the wide access aisle without additional space (see [Fig. A5(a)](#figurea5a)).
 
 {% figure Figure A5a %}
-{% asset design-standards/fig_a5a.gif alt="figure a5a" %}
+{% asset design-standards/fig_a5a.gif alt="" %}
 {% figcaption %}
 <strong>Van Accessible Space at End Row.</strong> A minimum 96 inch (2440 mm) wide vehicle space is shown with a minimum 96 inch (2440 mm) wide marked access aisle beside the vehicle space.
 {% endfigcaption %}
@@ -3107,7 +3174,7 @@ A sign is needed to alert van users to the presence of the wider aisle, but the 
 &quot;Universal&quot; Parking Space Design. An alternative to the provision of a percentage of spaces with a wide aisle, and the associated need to include additional signage, is the use of what has been called the &quot;universal&quot; parking space design. Under this design, all accessible spaces are 132 in (3350 mm) wide with a 60 in (1525 mm) access aisle (see [Fig. A5(b)](#figurea5b)). One advantage to this design is that no additional signage is needed because all spaces can accommodate a van with a side-mounted lift or ramp. Also, there is no competition between cars and vans for spaces since all spaces can accommodate either. Furthermore, the wider space permits vehicles to park to one side or the other within the 132 in (3350 mm) space to allow persons to exit and enter the vehicle on either the driver or passenger side, although, in some cases, this would require exiting or entering without a marked access aisle.
 
 {% figure Figure A5b %}
-{% asset design-standards/fig_a5b.gif alt="figure a5b" %}
+{% asset design-standards/fig_a5b.gif alt="" %}
 {% figcaption %}
 <strong>Universal Parking Space Design.</strong> A minimum 132 inch (3350 mm) wide vehicle space is shown with a minimum 60 inch (1525 mm) marked access aisle. Two minimum 132 inch wide (2440 mm) vehicle spaces sharing a 60 inch (1525 mm) minimum width access aisle take up a minimum of 324 inches (8225 mm).
 {% endfigcaption %}
@@ -3232,7 +3299,7 @@ Height preferences for toilet seats vary considerably among disabled people. Hig
 [Fig. A6(a) and (b)](#figurea6) show the diagonal and side approaches most commonly used to transfer from a wheelchair to a water closet. Some wheelchair users can transfer from the front of the toilet while others use a 90-degree approach. Most people who use the two additional approaches can also use either the diagonal approach or the side approach.
 
 {% figure Figure A6 %}
-{% asset design-standards/fig_a6.gif alt="figure a6" %}
+{% asset design-standards/fig_a6.gif alt="" %}
 {% figcaption %}
 <strong>Wheelchair Transfers.</strong>
 
@@ -3293,7 +3360,7 @@ Recommendations:
 [Figure A7](#figurea7) shows two possible configurations of a toilet room with a roll-in shower. The specific shower shown is designed to fit exactly within the dimensions of a standard bathtub. Since the shower does not have a lip, the floor space can be used for required maneuvering space. This would permit a toilet room to be smaller than would be permitted with a bathtub and still provide enough floor space to be considered accessible. This design can provide accessibility in facilities where space is at a premium (i.e., hotels and medical care facilities). The alternate roll-in shower ([Fig. 57b](#figure57b)) also provides sufficient room for the &quot;T-turn&quot; and does not require plumbing to be on more than one wall.
 
 {% figure Figure A7 %}
-{% asset design-standards/fig_a7.gif alt="figure a7" %}
+{% asset design-standards/fig_a7.gif alt="" %}
 {% figcaption %}
 Figure A7. shows two possible configurations of a small toilet room with a roll-in shower.
 
