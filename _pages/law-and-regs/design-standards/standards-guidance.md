@@ -201,7 +201,7 @@ For title II entities, the path of travel requirements are of
 The Department has slightly revised proposed Sec.  35.151(b)(2)
   to make it clearer that the path of travel requirements only apply
   when alterations are undertaken solely for purposes other than
-  program accessibility.</p>  
+  program accessibility.  
 
 #### &sect; 35.151(b)(4)(ii)(C) Path of travel--safe harbor  
 
@@ -512,7 +512,8 @@ Section 234 of the 2010 Standards provides accessibility
   the 2010 Standards. Noncomplying new construction and alterations
   constructed or altered after the effective date of the applicable
   ADA requirements and before March 15, 2012, shall, on or after March
-  15, 2012 be made accessible in accordance with the 2010 Standards.</p>  
+  15, 2012 be made accessible in accordance with the 2010 Standards.  
+
 
 #### &sect; 35.151(d) Scope of coverage  
 
@@ -740,7 +741,7 @@ The Department also notes that whereas the NPRM used the term
   &ldquo;social service establishment,&rdquo; the final rule uses the term
   &ldquo;social service center establishment.&rdquo; The Department has made
   this editorial change so that the final rule is consistent with the
-  terminology used in the ADA. See 42 U.S.C. 12181(7)(k).</p>  
+  terminology used in the ADA. See 42 U.S.C. 12181(7)(k).  
 
 #### &sect; 35.151(f) Housing at a place of education  
 
@@ -1191,7 +1192,7 @@ Section 35.151(e) on curb ramps in the 1991 rule has been
   has concluded that the regulation should acknowledge that there are
   times when there are transitions from sidewalk to road surface that do not technically qualify as &ldquo;curb ramps&rdquo; (sloped surfaces that have a running slope that exceed 5
   percent). Therefore, the Department has decided not to delete the
-phrase &ldquo;other sloped areas.&rdquo;</p>  
+phrase &ldquo;other sloped areas.&rdquo;  
 
 #### &sect; 35.151(j) Residential housing for sale to individual owners  
 
@@ -1637,8 +1638,7 @@ The Department is persuaded by these comments and has added
   and long-term care facilities in jails, prisons, and other detention
   and correctional facilities, public entities shall apply the 2010
   Standards technical and scoping requirements for those facilities
-  irrespective of whether those facilities are licensed.&rdquo;</p>
-
+  irrespective of whether those facilities are licensed.&rdquo;  
 
 ## Public Accommodations and Commercial Facilities: Guidance on the Revisions to 28 CFR part 36, subpart D  
 
@@ -2967,7 +2967,7 @@ The ANPRM and NPRM issued
   supplementing the Access Board&acute;s comments and responses with substantive
   comments and responses here. Comments and responses addressed by the Access
   Board that also were separately submitted to the Department will not be
-  restated in their entirety here. </p>  
+  restated in their entirety here.  
 
 ## Section-by-Section Analysis with Public Comments  
 
@@ -3048,7 +3048,8 @@ Section 105 lists the
   industry requirements that are referenced in the 2010 Standards. This section
   also clarifies that where there is a difference between a provision of the 2010
   Standards and the referenced requirements, the provision of the 2010 Standards
-  applies.</p>
+  applies.  
+
 #### 106 Definitions  
 
 Various definitions have
@@ -4444,7 +4445,7 @@ The 2010 Standards apply
   transit platform edges has been eliminated from the 2010 Standards. However, because
   detectable warnings have been shown to significantly benefit individuals with
   disabilities at transit platform edges, the 2010 Standards provide scoping and
-  technical requirements for detectable warnings at transit platform edges.</p>  
+  technical requirements for detectable warnings at transit platform edges.  
 
 #### 219 and 706 Assistive Listening Systems  
 
@@ -5700,7 +5701,7 @@ The following accessible features are provided in the bathroom:
 - Centerline of the water closet at 16 inches from side wall (section 604.2); and
 - No other fixtures or obstructions located within required water closet clearance (section 604.3).  
 
-The following accessible features are provided in the living area:</p>
+The following accessible features are provided in the living area:  
 
 - Circular turning space (section 304.3.2);
 - Accessible route (section 402);
@@ -5873,7 +5874,7 @@ Commenters generally
 
 New provisions of the
   2010 Standards at sections 230.1 and 708 require two-way communications systems
-  to be equipped with visible as well as audible signals.</p>  
+  to be equipped with visible as well as audible signals.  
 
 #### 231 and 808 Judicial Facilities and Courtrooms  
 
