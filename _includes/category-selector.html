@@ -40,7 +40,13 @@
                 data-checked="false"
               />
               <label class="usa-checkbox__label" for="{{tag | replace: ' ', '-'}}"
-                >{{tag | capitalize}}</label
+                >
+                  {% if tag == 'covid-19' %}
+                    {{ tag | upcase }}
+                  {% else %}
+                    {{tag | capitalize}}
+                  {% endif %}
+                  </label
               >
             </div>
           </li>
