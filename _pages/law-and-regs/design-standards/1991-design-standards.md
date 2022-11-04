@@ -40,7 +40,7 @@ Graphic conventions are shown in Table 1:
 
 {% figure Table 1 %}
 
-{% asset design-standards/table_1_graphic_conventions.gif alt="" %}
+{% asset design-standards/table_1_graphic_conventions.gif alt="Table with two columns whose headings read 'Convention' and 'Description'. The Convention column displays images of graphical conventions used in designs pictured throughout this document. The Description column provides text descriptions of these conventions. Column one row one shows a typical dimension line showing U.S. customary units (in inches) above the line and SI units (in millimeters) below. Column one row two shows dimensions for short distances indicated on extended line. Column one row three shows dimension line sowing alternate dimensions required. Column one row four shows direction of approach. Column one row five shows maximum. Column one row six shows minimum. Column one row seven shows boundary of clear floor area. Column one row eight shows centerline." %}
 
 {% figcaption %}
 <p>The table describes graphic conventions used in the ADA Standards for Accessible Design for showing dimensions on figures, how the direction of approach is denoted, centerline designation and boundary of clear floor area. All dimensions are shown in inches above the measure line, with the metric equivalent below. Where the dimension does not fit conveniently between lines, the measure line is extended beyond the lines and the dimension placed above (and below) the extension.</p>
