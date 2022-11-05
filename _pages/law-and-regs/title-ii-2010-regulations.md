@@ -1341,7 +1341,7 @@ Note: This Appendix contains guidance providing a section-by-section analysis of
 **Section-By-Section Analysis and Response to Public Comments**<br/>
 This section provides a detailed description of the Department's changes to the title II regulation, the reasoning behind those changes, and responses to public comments received on these topics. The Section-by-Section Analysis follows the order of the title II regulation itself, except that, if the Department has not changed a regulatory section, the unchanged section has not been mentioned.
 
-## Subpart A-General
+## Subpart A&ndash;General
 
 ### 35.104 Definitions.
 
