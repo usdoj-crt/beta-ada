@@ -6,11 +6,11 @@
       type="button"
       class="usa-accordion__button"
       aria-expanded="false"
-      aria-controls="{{item.title | replace: ' ', '-' | replace: '.', ''}}"
+      aria-controls="{{item.id}}"
     >
     {{ item.title }}
     </button>
-    <div id="{{item.title | replace: ' ', '-' | replace: '.', ''}}" class="usa-accordion__content">
+    <div id="{{item.id}}" class="usa-accordion__content">
       {% if item.children.size > 0 %} {% assign next_level = include.level | plus: 1 %} {% include subnav.html collection=item.children level=next_level %}
   {% endif %}
     </div>

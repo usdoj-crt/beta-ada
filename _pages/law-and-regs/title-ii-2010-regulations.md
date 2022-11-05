@@ -312,7 +312,7 @@ Administrative practice and procedure, Buildings and facilities, Civil rights, C
 
 **Authority: 5 U.S.C. 301; 28 U.S.C. 509, 510; 42 U.S.C. 12134, 12131, and 12205a.**
 
-## Subpart A&#8212;General
+## Subpart A-General
 
 ### &sect; 35.101 Purpose and broad coverage.
 
@@ -1341,7 +1341,7 @@ Note: This Appendix contains guidance providing a section-by-section analysis of
 **Section-By-Section Analysis and Response to Public Comments**<br/>
 This section provides a detailed description of the Department's changes to the title II regulation, the reasoning behind those changes, and responses to public comments received on these topics. The Section-by-Section Analysis follows the order of the title II regulation itself, except that, if the Department has not changed a regulatory section, the unchanged section has not been mentioned.
 
-## Subpart A—General
+## Subpart A-General
 
 ### 35.104 Definitions.
 
@@ -2529,7 +2529,7 @@ Note:&nbsp;For the convenience of the reader, this appendix contains the text of
 
 ## Section-by-Section Analysis
 
-## Subpart A -- General
+## Subpart A-General
 
 ### &sect;35.101 Purpose.
 
