@@ -2529,7 +2529,7 @@ Note:&nbsp;For the convenience of the reader, this appendix contains the text of
 
 ## Section-by-Section Analysis
 
-## Subpart A-General
+## Subpart A&#45;General
 
 ### &sect;35.101 Purpose.
 
