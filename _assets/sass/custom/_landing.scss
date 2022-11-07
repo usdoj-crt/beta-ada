@@ -183,3 +183,16 @@ $arrow-height: 24px;
     font-weight: bolder;
   }
 }
+
+.crt-landing--paragraph-wrapper {
+
+  @media(max-width: 1023px) {
+    max-width: none;
+  }
+
+  @media(min-width: 1024px) {
+    max-width: 45ex;
+  }
+
+}
+
