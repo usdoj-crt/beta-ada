@@ -15,7 +15,6 @@ buildings and facilities;
 - Removing architectural barriers that are easily accomplishable without much difficulty
 or expense in existing buildings of businesses.
 
-
 {% details What are <em>architectural barriers</em>? %}
 Architectural barriers are physical elements of a building that prevent movement or access for people with disabilities. For example, if the only way to get to the entrance of a business is by using stairs, those stairs are a barrier for wheelchair users.
 {% enddetails %}
@@ -32,7 +31,7 @@ State and local governments are required by Title II to provide *program access*
 
 There are two versions on the ADA Standards:
 
-- 1991 ADA Standards
+- [1991 ADA Standards]( {{'/law-and-regs/design-standards/1991-design-standards' | relative_url}})
 - [2010 ADA Standards]( {{'/law-and-regs/design-standards/2010-stds' | relative_url}})
 
 Knowing when the 1991 or the 2010 ADA Standards apply to buildings and facilities is important in determining if your building or facility complies with the ADA. The [ADA Requirements: Effective Date and Compliance Date guide](https://www.ada.gov/revised_effective_dates-2010.htm) helps to explain which version of the ADA Standards to use and when.
