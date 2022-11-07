@@ -12,17 +12,24 @@
   background-size: 1.5rem;
 }
 
-.shrink-search {
-  min-width: 2rem !important;
-  right: 1rem !important;
-  max-width: 27ch !important;
-}
-
 label.usa-sr-only {
   color: white;
 }
 
+@include at-media(mobile) {
+
+  .usa-search--small [type="submit"],
+  .usa-search--small .usa-search__submit {
+    min-width: 5rem !important;
+  }
+}
+
 @include at-media(desktop) {
+
+  input#query {
+    max-width: 20ch !important;
+  }
+
   .usa-search--small input[type="search"] {
     border-color: color("white");
   }
@@ -30,7 +37,8 @@ label.usa-sr-only {
   .usa-search--small [type="submit"],
   .usa-search--small .usa-search__submit {
     background-color: color($theme-color-base-lighter);
-    background-image: url("./images/search.svg");
+    color: color($theme-color-primary-darker);
+    min-width: 5rem !important;
 
     &:hover {
       background-color: color("gray-cool-20");

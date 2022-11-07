@@ -15,6 +15,9 @@ card:
   image: landing/mobility-devices.jpg
   alt: A person wearing red shoes operates a power wheelchair
   href: /topics/mobility-devices/
+tags:
+  - mobility devices
+related-content: true
 ---
 
 ## Basic Requirements
@@ -68,7 +71,7 @@ For example, a cruise ship may decide that people with disabilities using Segway
 
 Safety requirements must be based on actual risks, not on speculation or stereotypes about a particular type of device or how it might be operated by people with disabilities using them.
 
-Learn more in ADA Requirements: [Other Power-Driven Mobility Devices (OPDMDs)](http://www.ada.gov/opdmd.htm)
+Learn more in ADA Requirements: [Other Power-Driven Mobility Devices (OPDMDs)]( {{'/resources/opdmds/'| relative_url}})
 {% enddetails %}
 
 After considering these factors, an agency or business might establish a policy that:
@@ -99,7 +102,7 @@ You must accept any of these types of credible assurance:
 
 ## Learn more about the ADA and Mobility Devices
 
-[ADA Requirements: Other Power-Driven Mobility Devices (OPDMDs)](https://www.ada.gov/opdmd.htm)
+[ADA Requirements: Other Power-Driven Mobility Devices (OPDMDs)]( {{'/resources/opdmds/'| relative_url}})
 
 [ADA Update: A Primer for Small Business](https://www.ada.gov/regs2010/smallbusiness/smallbusprimer2010.htm)
 

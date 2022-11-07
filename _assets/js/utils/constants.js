@@ -11,7 +11,11 @@ const TAGS = [
   'web-access',
   'employment',
   'effective-communication',
-  'parking'
+  'parking',
+  'medical-care',
+  'mobility-devices',
+  'child-care',
+  'covid-19'
 ];
 
 export { NUMBER_OF_RESULTS, SEARCH_ENDPOINT, ACCESS_KEY, AFFILIATE, TAGS };

@@ -10,7 +10,18 @@ layout: default
       {% if page.title =='View Guidance & Resource Materials' %}
         {% include ta-left-rail.html %}
       {% else %}
-      {% include sidenav.html %}
+      <div class="usa-accordion margin-bottom-2">
+        <h4 class="usa-accordion__heading desktop:display-none">
+          <button
+            class="usa-accordion__button pa11y-skip"
+            aria-expanded="false"
+            aria-controls="toc"
+          >
+            {{site.data[lang]["i18n"].links.toc}}
+          </button>
+        </h4>
+      {% include sidenav.html collection=page.subnav %}
+      </div>
       {% endif %}
       {% if page.print %}
         {% include print-button.html %}

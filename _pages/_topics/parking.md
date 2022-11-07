@@ -16,6 +16,9 @@ card:
   alt: A man in a wheelchair approaching a vehicle with his hand on the door handle
   position: top
   href: /topics/parking/
+tags:
+  - parking
+related-content: true
 ---
 
 ## Features
@@ -197,4 +200,4 @@ You might find the links below helpful:
 
 - [ADA Update: Primer for Small Businesses](https://www.ada.gov/regs2010/smallbusiness/smallbusprimer2010.htm)
 - [ADA Update: A Primer for State and Local Governments](https://www.ada.gov/regs2010/titleII_2010/title_ii_primer.html)
-- [ADA Compliance Brief: Restriping Parking Spaces](https://www.ada.gov/restriping_parking/restriping2015.html)
+- [ADA Compliance Brief: Restriping Parking Spaces]( {{'/resources/restriping-parking-spaces/'| relative_url}})

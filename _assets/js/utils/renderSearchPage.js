@@ -6,7 +6,6 @@ import wrapUrls from "./wrapUrls";
 import paginationTemplate from "../templates/pagination/paginationTemplate";
 import textBestBetsTemplate from "../templates/search/textBestBetsTemplate";
 import searchResultsTemplate from "../templates/search/searchResultsTemplate";
-import noResults from "../templates/search/noResultsTemplate";
 import totalResults from "../templates/search/totalResultsTemplate";
 
 export default function renderSearchPage(searchResults, urlParams, numberOfResults) {
@@ -14,6 +13,7 @@ export default function renderSearchPage(searchResults, urlParams, numberOfResul
   const textResults = results.text_best_bets;
   const webResults = results.web.results;
   let webTotalResults = results.web.total;
+  const target = document.getElementById("totalResultsTarget");
   // Then check if this key has any values:
   if (textResults.length) {
     textResults.forEach(function (item) {
@@ -38,6 +38,8 @@ export default function renderSearchPage(searchResults, urlParams, numberOfResul
     webResults.forEach(function (item) {
       renderSearchResults(searchResultsTemplate(item));
     });
+    // List the total number of results:
+    target.innerHTML = totalResults(webTotalResults, 'result');
     // FOR PAGINATION:
     // Generate our results pages array:
     const offsetValueArray = createRange(0, webTotalResults, numberOfResults);
@@ -78,16 +80,8 @@ export default function renderSearchPage(searchResults, urlParams, numberOfResul
     }
   }
   if (document.getElementById("search-results").childNodes.length == 0) {
-    renderSearchResults(
-      `${noResults()}`,
-      false
-    );
+    target.innerHTML = totalResults(webTotalResults, 'result');
   } else {
-    const target = document.querySelector(".crt-landing--separator_small");
-    target.insertAdjacentHTML(
-      "afterend",
-      totalResults(webTotalResults, 'Result')
-    );
     const urlsToWrap = document.querySelectorAll(".content-url");
     Array.prototype.forEach.call(urlsToWrap, function(url) {
       const wrapped = wrapUrls(url.innerHTML);
