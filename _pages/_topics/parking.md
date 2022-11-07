@@ -100,7 +100,7 @@ Have a sign with the international symbol of accessibility on it, mounted at lea
 
 The number of accessible parking spaces must be considered separately for each parking structure (lot or garage), not based on the total number of parking spaces provided on a site.
 
-The chart below shows the number of accessible spaces required by the [2010 ADA Standards for Accessible Design](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010282).
+The chart below shows the number of accessible spaces required by the [2010 ADA Standards for Accessible Design]({{'/law-and-regs/design-standards/2010-stds#parking-spaces' | relative_url}}).
 
 <table class="usa-table">
   <thead>

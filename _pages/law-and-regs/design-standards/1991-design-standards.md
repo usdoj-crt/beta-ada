@@ -5,7 +5,7 @@ permalink: /law-and-regs/design-standards/1991-design-standards/
 lead: |-
   Editor's Note:
 
-  Appendix A to Part 36 -- Standards for Accessible Design, from the Department's <a href="../reg3a.html" title="1991 title III ADA regulation">1991 title III ADA regulation</a> published July 26, 1991. The <a href="../1991ADAstandards_index.htm" title="1991 Standards for Accessible Design">1991 Standards for Accessible Design</a> were in effect for new construction and alterations until March 14, 2012. The Department's <a href="../2010ADAstandards_index.htm" title="2010 ADA Standards for Accessible Design">2010 ADA Standards for Accessible Design</a> were published September 15, 2010 and became effective on March 15, 2012.
+  Appendix A to Part 36 -- Standards for Accessible Design, from the Department's <a href="https://www.ada.gov/reg3a.html" title="1991 title III ADA regulation">1991 title III ADA regulation</a> published July 26, 1991. The <a href="/law-and-regs/design-standards/1991-design-standards/" title="1991 Standards for Accessible Design">1991 Standards for Accessible Design</a> were in effect for new construction and alterations until March 14, 2012. The Department's <a href="/law-and-regs/design-standards/2010-stds" title="2010 ADA Standards for Accessible Design">2010 ADA Standards for Accessible Design</a> were published September 15, 2010 and became effective on March 15, 2012.
 lang: 'en'
 publish-date: 2014-03-14 00:00:00
 sidenav: true
