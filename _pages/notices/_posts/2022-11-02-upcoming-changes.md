@@ -9,7 +9,7 @@ Soon the Department will be launching a new and improved version of ADA.gov.
 
 ## What do these changes mean for users of the ADA sites?
 
-- When users go to ADA.gov they will see the new and improve site.
+- When users go to ADA.gov they will see the new and improved site.
 - The former ADA.gov site will be available at archive.ADA.gov. Archiving the former site simply means that the site will no longer be updated.
 
 ## What's different about the new ADA.gov?
