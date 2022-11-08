@@ -19,7 +19,7 @@
 ##########################################################################################
 
 title: "ADA.gov"
-url: "https://www.ada.gov" # the base hostname & protocol for your site, e.g. https://example.com.
+# url: "https://www.ada.gov" # the base hostname & protocol for your site, e.g. https://example.com.
 # Required to support the jekyll-sitemap plugin below.
 # Uncomment the url line when ready to push to production. If using different branches for multiple
 # custom domains, edit this url parameter in the relevant branch to match the relevant custom domain.
