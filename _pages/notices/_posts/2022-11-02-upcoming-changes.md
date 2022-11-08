@@ -1,8 +1,8 @@
 ---
 title: Upcoming changes to ADA.gov
 title_es: Upcoming changes to ADA.gov
-notice_text: Soon beta.ADA.gov will become the new ADA.gov. Learn what to expect
-notice_text_es:  Soon beta.ADA.gov will become the new ADA.gov. Learn what to expect
+notice_text: Soon beta.ADA.gov will become the new ADA.gov. Learn what to expect.
+notice_text_es:  Soon beta.ADA.gov will become the new ADA.gov. Learn what to expect.
 ---
 
 Soon the Department will be launching a new and improved version of ADA.gov.
