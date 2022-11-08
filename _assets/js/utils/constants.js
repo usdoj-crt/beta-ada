@@ -14,7 +14,8 @@ const TAGS = [
   'parking',
   'medical-care',
   'mobility-devices',
-  'child-care'
+  'child-care',
+  'covid-19'
 ];
 
 export { NUMBER_OF_RESULTS, SEARCH_ENDPOINT, ACCESS_KEY, AFFILIATE, TAGS };
