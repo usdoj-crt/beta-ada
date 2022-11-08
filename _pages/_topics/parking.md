@@ -198,6 +198,6 @@ Where parking spaces are limited to four or fewer spaces:
 
 You might find the links below helpful:
 
-- [ADA Update: Primer for Small Businesses](https://www.ada.gov/regs2010/smallbusiness/smallbusprimer2010.htm)
-- [ADA Update: A Primer for State and Local Governments](https://www.ada.gov/regs2010/titleII_2010/title_ii_primer.html)
+- [ADA Update: Primer for Small Businesses]({{'/resources/title-iii-primer/' | relative_url}})
+- [ADA Update: A Primer for State and Local Governments]({{'/resources/title-ii-primer/' | relative_url}})
 - [ADA Compliance Brief: Restriping Parking Spaces]( {{'/resources/restriping-parking-spaces/'| relative_url}})
