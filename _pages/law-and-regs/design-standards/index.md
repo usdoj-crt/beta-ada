@@ -29,7 +29,7 @@ State and local governments are required by Title II to provide *program access*
 
 ## Versions of the ADA Standards
 
-There are two versions on the ADA Standards:
+There are two versions of the ADA Standards:
 
 - [1991 ADA Standards]( {{'/law-and-regs/design-standards/1991-design-standards' | relative_url}})
 - [2010 ADA Standards]( {{'/law-and-regs/design-standards/2010-stds' | relative_url}})
