@@ -8,6 +8,7 @@ lang: "en"
 publish-date: 2010-09-15 00:00:00
 related-content: true
 print: true
+back-to-top: true
 ---
 ## State and Local Government Facilities: Guidance on the Revisions to 28 CFR 35.151
 
