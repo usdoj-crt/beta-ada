@@ -120,7 +120,7 @@ The ADA applies to state and local governments even if:
 
 **General requirement:** State and local governments must provide people with disabilities an equal opportunity to benefit from all of their programs, services, and activities.
 
-The ADA contains specific requirements for state and local governments to ensure equal access for people with disabilities. Learn about these requirements in the [State and Local Government Primer](https://www.ada.gov/regs2010/titleII_2010/title_ii_primer.html).
+The ADA contains specific requirements for state and local governments to ensure equal access for people with disabilities. Learn about these requirements in the [State and Local Government Primer]({{'/resources/title-ii-primer/' | relative_url}}).
 
 **How to file a complaint:** [File a complaint with the U.S. Department of Justice]( {{'/file-a-complaint/'| relative_url}}).
 {% endcollapsible %}
@@ -169,7 +169,7 @@ The ADA contains specific requirements for state and local governments to ensure
   - Hotel shuttles
   - Airport shuttles
 
-- Commercial facilities (need only comply with requirements of the [ADA Standards for Accessible Design](https://www.ada.gov/2010ADAstandards_index.htm)).
+- Commercial facilities (need only comply with requirements of the [ADA Standards for Accessible Design]( {{'/law-and-regs/design-standards/2010-stds' | relative_url}}).
   Examples of commercial facilities include:
   - Office buildings
   - Warehouses
