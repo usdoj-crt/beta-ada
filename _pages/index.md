@@ -88,7 +88,7 @@ learn:
         link: topics/title-iii
       - ex3:
         title: ADA Standards for Accessible Design
-        link: law-and-regs/
+        link: law-and-regs/design-standards/
     - heading: Resources
       content: |-
         Get more details about topics covered by the ADA.
