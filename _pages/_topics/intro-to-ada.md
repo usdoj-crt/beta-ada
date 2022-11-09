@@ -118,7 +118,7 @@ The ADA applies to state and local governments even if:
 
 **General requirement:** State and local governments must provide people with disabilities an equal opportunity to benefit from all of their programs, services, and activities.
 
-The ADA contains specific requirements for state and local governments to ensure equal access for people with disabilities. Learn about these requirements in the [State and Local Government Primer](https://www.ada.gov/regs2010/titleII_2010/title_ii_primer.html).
+The ADA contains specific requirements for state and local governments to ensure equal access for people with disabilities. Learn about these requirements in the [State and Local Government Primer]({{'/resources/title-ii-primer/' | relative_url}}).
 
 **How to file a complaint:** [File a complaint with the U.S. Department of Justice]( {{'/file-a-complaint/'| relative_url}}).
 {% endcollapsible %}
