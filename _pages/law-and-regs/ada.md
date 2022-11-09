@@ -9,7 +9,6 @@ redirect_from:
   - /adastatute08.htm
   - /pubs/adastatute08mark.htm
   - /archive/adastat91.htm
-  - /adastd94.pdf
   - /pubs/adastatute08.htm
 ---
 
