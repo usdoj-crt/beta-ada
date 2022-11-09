@@ -10,6 +10,7 @@ redirect_from:
     - /regs_footer.htm
     - /regs2010/
     - /regs2010/index.html
+    - /regs2010/adaregs2010.htm
 ---
 
 When we talk about what the ADA requires on ADA.gov, we are usually referring to two sources:

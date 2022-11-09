@@ -9,6 +9,10 @@ publish-date: 2016-10-11 00:00:00
 print: true
 back-to-top: true
 subnavigation: true
+redirect_from:
+  - /reg3a.html
+  - /regs2010/titleii_2010/titleii_2010_regulations.htm
+  - /regs2010/titleii_2010/titleii_2010_withbold.htm
 ---
 
 ## Title II Regulations Supplementary Information

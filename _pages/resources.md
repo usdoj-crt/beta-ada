@@ -7,6 +7,7 @@ redirect_from:
     - /ta_titleii.html
     - /ada_req_ta.htm
     - /ta_overview.html
+    - /ta_titleiii.html
 ---
 
 {% include ta-article-list.html %}

@@ -9,6 +9,8 @@ publish-date: 2010-09-15 00:00:00
 related-content: true
 print: true
 back-to-top: true
+redirect_from:
+  - /regs2010/2010adastandards/guidance2010adastandards.htm
 ---
 ## State and Local Government Facilities: Guidance on the Revisions to 28 CFR 35.151
 

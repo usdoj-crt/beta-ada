@@ -12,6 +12,9 @@ sidenav: true
 print: true
 back-to-top: true
 subnavigation: true
+redirect_from:
+  - /1991adastandards_index.htm
+  - /1991standards/1991standards-archive.html
 ---
 
 ## 1. Purpose

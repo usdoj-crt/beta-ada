@@ -4,6 +4,9 @@ permalink: /law-and-regs/title-iii-regulations/
 publish-date: 2012-03-08 00:00:00
 back-to-top: true
 subnavigation: true
+redirect_from:
+    - /regs2010/titleiii_2010/titleiii_2010_regulations.htm
+    - /regs2010/titleiii_2010/titleiii_2010_withbold.htm
 lead: |-
 
 ---
