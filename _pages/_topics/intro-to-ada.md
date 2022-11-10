@@ -175,7 +175,7 @@ The ADA contains specific requirements for state and local governments to ensure
 
 **General requirement:** Businesses must provide people with disabilities an equal opportunity to access the goods or services that they offer.
 
-The ADA contains specific requirements for businesses that are open to the public. Learn more about these requirements: [ADA Primer for Small Businesses](https://www.ada.gov/regs2010/smallbusiness/smallbusprimer2010.htm).
+The ADA contains specific requirements for businesses that are open to the public. Learn more about these requirements: [ADA Primer for Small Businesses]({{'/resources/title-iii-primer' | relative_url}}).
 
 **How to file a complaint:** [File a complaint with the U.S. Department of Justice]( {{'/file-a-complaint/'| relative_url}}).
 {% endcollapsible %}

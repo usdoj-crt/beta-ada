@@ -193,7 +193,7 @@ We provide more examples on our page about <a href="/topics/effective-communicat
 <th scope="row">A person who uses a wheelchair has difficulty accessing items at a local grocery store because it hasn’t been updated since before the ADA was passed.</th>
 <td>The store rearranges tables and displays that block access to shopping aisles and provides a clerk to assist the customer with getting items that are out of reach.
 
-<p>Learn more about <a href="https://www.ada.gov/regs2010/smallbusiness/smallbusprimer2010.htm#readilyachievable">readily achievable barrier removal</a></p>.
+<p>Learn more about <a href="../../resources/title-iii-primer/">readily achievable barrier removal</a></p>.
 </td>
 </tr>
 </tbody>
