@@ -122,10 +122,10 @@ service-animals:
       examples:
       - ex1:
         title: State and Local Government Services (Title II)
-        link: topics/title-ii
+        link: law-and-regs/title-ii-2010-regulations/
       - ex2:
         title: Public Accommodations (Title III)
-        link: topics/title-iii
+        link: law-and-regs/title-iii-regulations/
     - heading: Resources
       content: Get more details about topics covered by the ADA.
       icon: landing/guidance_resource_materials_grey_bg.png
