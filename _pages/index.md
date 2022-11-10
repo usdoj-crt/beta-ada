@@ -82,10 +82,10 @@ learn:
       examples:
       - ex1:
         title: State and Local Government Services (Title II)
-        link: topics/title-ii
+        link: law-and-regs/title-ii-2010-regulations/
       - ex2:
         title: Public Accommodations (Title III)
-        link: topics/title-iii
+        link: law-and-regs/title-iii-regulations/
       - ex3:
         title: ADA Standards for Accessible Design
         link: law-and-regs/design-standards/
@@ -99,7 +99,7 @@ learn:
           link: resources/disability-rights-guide
         - ex2:
           title: ADA Checklist for Polling Places
-          link: topics/votings
+          link: topics/voting
         - ex3:
           title: Frequently Asked Questions about Service Animals
           link: resources/service-animals-faqs
@@ -168,7 +168,7 @@ report:
 
 {% include landing/understand.html understand=page.understand %}
 
-{% include landing/history.html history=page.history %}
+<!-- {% include landing/history.html history=page.history %} -->
 
 {% include landing/report.html report=page.report %}
 
