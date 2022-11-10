@@ -168,8 +168,6 @@ report:
 
 {% include landing/understand.html understand=page.understand %}
 
-<!-- {% include landing/history.html history=page.history %} -->
-
 {% include landing/report.html report=page.report %}
 
 {% include landing/subscribe.html %}
