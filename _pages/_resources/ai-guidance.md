@@ -5,7 +5,7 @@ permalink: /resources/ai-guidance/
 redirect_from:
   - /ai-guidance/
 lead: |-
-  This guidance explains how algorithms and artificial intelligence can lead to disability discrimination in hiring.  The [Department of Justice](https://www.ada.gov/employment.htm) enforces disability discrimination laws with respect to state and local government employers. The [Equal Employment Opportunity Commission](https://www.eeoc.gov/employees-job-applicants) (EEOC) enforces disability discrimination laws with respect to employers in the private sector and the federal government. The obligation to avoid disability discrimination in employment applies to both public and private employers.
+  This guidance explains how algorithms and artificial intelligence can lead to disability discrimination in hiring.  The [Department of Justice](https://archive.ada.gov/employment.htm) enforces disability discrimination laws with respect to state and local government employers. The [Equal Employment Opportunity Commission](https://www.eeoc.gov/employees-job-applicants) (EEOC) enforces disability discrimination laws with respect to employers in the private sector and the federal government. The obligation to avoid disability discrimination in employment applies to both public and private employers.
 lang: "en"
 news-item: false
 publish-date: 2022-05-12 00:00:00
@@ -123,6 +123,6 @@ In addition, anyone can call the [ADA Information Line]( {{'/infoline/' | relati
 <i>See</i> 42 U.S.C. &sect; 12112(b)(5); 29 C.F.R. &sect; 1630.9.
 {% endfnbody %}
 {% fnbody 7 %}
-Existing technical standards provide helpful guidance concerning how to ensure the accessibility of website features. These include the Web Content Accessibility Guidelines (WCAG) and the Section 508 Standards, which the federal government uses for its own websites.  [More information is in this guidance document.](https://ada.gov/web-guidance/) The employer and the individual with a disability should engage in an informal process to clarify the applicant’s needs and to identify a reasonable accommodation.
+Existing technical standards provide helpful guidance concerning how to ensure the accessibility of website features. These include the Web Content Accessibility Guidelines (WCAG) and the Section 508 Standards, which the federal government uses for its own websites.  [More information is in this guidance document.]({{'/resources/web-guidance' | relative_url}}) The employer and the individual with a disability should engage in an informal process to clarify the applicant’s needs and to identify a reasonable accommodation.
 {% endfnbody %}
 {% endfootnotes %}

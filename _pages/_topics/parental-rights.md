@@ -56,7 +56,7 @@ For example, a child welfare agency or court generally must:
   - Check out our information on [communicating effectively with people with disabilities]( {{'/resources/effective-communication' | relative_url}}) to learn more.
 
 {% details Learn more about how the ADA protects others involved in the child welfare system who have a need for disability-related aids or services in order to communicate effectively—such as a relative or friend of a person seeking or receiving child welfare services. %}
-Check out Question and Answer 3 in [Protecting the Rights of Parents and Prospective Parents with Disabilities](https://www.ada.gov/doj_hhs_ta/child_welfare_ta.html).
+Check out Question and Answer 3 in [Protecting the Rights of Parents and Prospective Parents with Disabilities](https://archive.ada.gov/doj_hhs_ta/child_welfare_ta.html).
 {% enddetails %}
 
 An agency or court may also need to:
@@ -66,7 +66,7 @@ An agency or court may also need to:
 This is just a quick list of examples to get you started.
 
 {% details Learn more about these, and other, examples and their limitations %}
-Check out [Protecting the Rights of Parents and Prospective Parents with Disabilities](https://www.ada.gov/doj_hhs_ta/child_welfare_ta.html)
+Check out [Protecting the Rights of Parents and Prospective Parents with Disabilities](https://archive.ada.gov/doj_hhs_ta/child_welfare_ta.html)
 {% enddetails %}
 
 In addition, a child welfare agency or court may not:
@@ -77,4 +77,4 @@ In addition, a child welfare agency or court may not:
 - Charge a person with a disability for any costs associated with providing effective communication, such as an interpreter, during visitation, meetings, and court hearings.
 
 Learn More about Parental Rights and the ADA
-- [Protecting the Rights of Parents and Prospective Parents with Disabilities](https://www.ada.gov/doj_hhs_ta/child_welfare_ta.html)
+- [Protecting the Rights of Parents and Prospective Parents with Disabilities](https://archive.ada.gov/doj_hhs_ta/child_welfare_ta.html)

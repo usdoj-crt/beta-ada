@@ -4642,7 +4642,7 @@ Section 4.33.3 of the 1991
   and companion seats in sports stadia and arenas must provide patrons with
   disabilities and their companions with lines of sight over standing spectators
   to the playing field or performance area, where spectators were expected to
-  stand during events. See&quot;Accessible Stadiums,&quot; www.ada.gov/stadium.pdf. The
+  stand during events. See&quot;Accessible Stadiums,&quot; archive.ada.gov/stadium.pdf. The
   Department also interpreted the section 4.33.3 comparable lines of sight
   requirement to mean that wheelchair spaces and companion seats in stadium-style
   movie theaters must provide patrons with disabilities and their companions with

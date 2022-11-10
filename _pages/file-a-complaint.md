@@ -54,7 +54,7 @@ There are three options for filing an ADA complaint:
 
 <li>
 <h3 class="margin-left-1">2. Mail</h3>
-<span>Fill out and send the paper <a class="pa11y-skip" href="https://www.ada.gov/CRT-ReportPDF-Sep2021.pdf">ADA Complaint Form</a> or a letter containing the same information, to:</span>
+<span>Fill out and send the paper <a class="pa11y-skip" href="https://archive.ada.gov/CRT-ReportPDF-Sep2021.pdf">ADA Complaint Form</a> or a letter containing the same information, to:</span>
 U.S. Department of Justice<br/>
 Civil Rights Division<br/>
 950 Pennsylvania Avenue, NW<br/>
@@ -62,7 +62,7 @@ Washington, DC 20530
 </li>
 <li>
 <h3 class="margin-left-1">3. Fax</h3>
-<span>Fill out and send the paper <a class="pa11y-skip" href="https://www.ada.gov/CRT-ReportPDF-Sep2021.pdf">ADA Complaint Form </a> or a letter containing the same information, and fax to (202) 307-1197. <br/><br/>Remember to keep a copy of your complaint and the original documents for your own records.</span>
+<span>Fill out and send the paper <a class="pa11y-skip" href="https://archive.ada.gov/CRT-ReportPDF-Sep2021.pdf">ADA Complaint Form </a> or a letter containing the same information, and fax to (202) 307-1197. <br/><br/>Remember to keep a copy of your complaint and the original documents for your own records.</span>
 </li>
 </ol>
 </div>
@@ -91,7 +91,7 @@ Even if we do not take any formal action, your complaint provides us with valuab
 
 ### <a name="mp"></a>ADA Mediation Program
 
-The [ADA Mediation Program](https://www.ada.gov/mediate.htm) is an important part of ADA compliance and does not involve the courts. Mediation typically involves one or more meetings between you, the organization you complained about, and an impartial mediator, and it is designed to help you reach a mutual agreement. It can be a fair and quick way to resolve ADA complaints. It is confidential and voluntary.
+The [ADA Mediation Program](https://archive.ada.gov/mediate.htm) is an important part of ADA compliance and does not involve the courts. Mediation typically involves one or more meetings between you, the organization you complained about, and an impartial mediator, and it is designed to help you reach a mutual agreement. It can be a fair and quick way to resolve ADA complaints. It is confidential and voluntary.
 
 If we think that your complaint might be a good fit for mediation, we will contact you and the organization you complained about. We will ask if you are both willing to participate in mediation.
 

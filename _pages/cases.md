@@ -23,7 +23,7 @@ Go to our cases page on [justice.gov/CRT](https://www.justice.gov/crt/disability
 
 **2006 - 2020**
 
-Go to our cases page on [ADA.gov](http://www.ada.gov/enforce_current.htm)
+Go to our cases page on [archive.ADA.gov](http://archive.ada.gov/enforce_current.htm)
 
 ## Enforcing the ADA
 

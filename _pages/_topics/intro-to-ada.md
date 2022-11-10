@@ -231,5 +231,5 @@ Many federal agencies are responsible for enforcing the ADA and other laws that 
 
 Learn more about these agencies and the laws that they implement:
 
-- [ADA Designated Investigative Services](https://www.ada.gov/investag.htm)
+- [ADA Designated Investigative Services](https://archive.ada.gov/investag.htm)
 - [A Guide to Federal Disability Rights Laws]( {{'/resources/disability-rights-guide/'| relative_url}})

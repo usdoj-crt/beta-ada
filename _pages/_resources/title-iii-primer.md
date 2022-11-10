@@ -52,7 +52,7 @@ Businesses need to know two important deadlines for compliance. Starting March 1
 </tbody>
 </table>
 
-For additional details, see [ADA 2010 Revised Requirements: Effective Date/ Compliance Date](https://www.ada.gov/revised_effective_dates-2010.htm) .
+For additional details, see [ADA 2010 Revised Requirements: Effective Date/ Compliance Date](https://archive.ada.gov/revised_effective_dates-2010.htm) .
 
 ## General Nondiscrimination Requirements
 
@@ -217,7 +217,7 @@ Determining what is readily achievable will vary from business to business and s
 
 #### Barrier Removal Before March 15, 2012
 
-Businesses removing barriers before March 15, 2012, have the choice of using either the 1991 Standards or the 2010 Standards. You must use only one standard for removing barriers in an entire facility. For example, you cannot choose the 1991 Standards for accessible routes and the 2010 Standards for restrooms. (See, *ADA 2010 Revised Requirements: Effective Date / Compliance Date* at [https://www.ada.gov/revised_effective_dates-2010.htm](https://www.ada.gov/revised_effective_dates-2010.htm). Remember that if an element complies with the 1991 Standards, a business is not required to make any changes to that element until such time as the business decides to alter that element.
+Businesses removing barriers before March 15, 2012, have the choice of using either the 1991 Standards or the 2010 Standards. You must use only one standard for removing barriers in an entire facility. For example, you cannot choose the 1991 Standards for accessible routes and the 2010 Standards for restrooms. (See, *ADA 2010 Revised Requirements: Effective Date / Compliance Date* at [https://archive.ada.gov/revised_effective_dates-2010.htm](https://archive.ada.gov/revised_effective_dates-2010.htm). Remember that if an element complies with the 1991 Standards, a business is not required to make any changes to that element until such time as the business decides to alter that element.
 
 <table class="usa-table">
 <caption>Compliance Dates and Applicable Standards for Readily Achievable Barrier Removal, New Construction, and Alterations</caption>
@@ -462,7 +462,7 @@ For more information about the revised ADA regulations and 2010 ADA Standards, p
 {{site.contact.tollfree}} (Voice) and {{site.contact.tty}} (TTY)
 M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.
 
-["Reaching Out to Customers with Disabilities"](https://www.ada.gov/reachingout/intro1.htm) explains the ADA's requirements for businesses in a short 10-lesson online course.
+["Reaching Out to Customers with Disabilities"](https://archive.ada.gov/reachingout/intro1.htm) explains the ADA's requirements for businesses in a short 10-lesson online course.
 
 **ADA National Network (DBTAC)**
 
