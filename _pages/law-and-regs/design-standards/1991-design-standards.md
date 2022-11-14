@@ -12,6 +12,9 @@ sidenav: true
 print: true
 back-to-top: true
 subnavigation: true
+sidenav-pdf:
+  title: 1991 ADA Standards for Accessible Design
+  filename: 1991-design-standards.pdf
 ---
 
 ## 1. Purpose
