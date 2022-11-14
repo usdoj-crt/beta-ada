@@ -15,6 +15,9 @@ card:
   href: /topics/telehealth/
 news-item: true
 publish-date: 2022-09-16 00:00:00
+tags:
+  - medical care
+related-content: true
 ---
 ## What is telehealth?
 

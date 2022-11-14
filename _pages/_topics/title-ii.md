@@ -14,9 +14,6 @@ card:
   alt: "An aerial view of a city; includes city hall, streets, sidewalks, cars, and other government and non-government buildings"
   href: /topics/title-ii/
 tags:
-  - effective communication
-  - parking
-  - service animals
   - title ii
 related-content: true
 ---

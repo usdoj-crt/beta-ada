@@ -14,9 +14,6 @@ card:
   alt: "A sign hanging inside a storefront window reads Welcome. We are Open. Please come in"
   href: /topics/title-iii/
 tags:
-  - effective communication
-  - parking
-  - service animals
   - title iii
 related-content: true
 ---
