@@ -10,8 +10,7 @@ print: true
 related-content: true
 tags:
   - medical care
-  - title ii
-  - title iii
+  - mobility devices
 ---
 ## Part 1:  Overview and General Requirements
 

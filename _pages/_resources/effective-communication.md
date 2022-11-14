@@ -10,8 +10,6 @@ print: true
 related-content: true
 tags:
   - effective communication
-  - title ii
-  - title iii
 ---
 ## Overview
 
