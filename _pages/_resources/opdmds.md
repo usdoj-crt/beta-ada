@@ -10,8 +10,6 @@ print: true
 related-content: true
 tags:
   - mobility devices
-  - title ii
-  - title iii
 redirect_from:
   - /opdmd.htm
 ---

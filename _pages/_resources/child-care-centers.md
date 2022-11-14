@@ -9,8 +9,6 @@ print: true
 related-content: true
 tags:
   - child care
-  - title ii
-  - title iii
 redirect_from:
   - /childqanda.htm
 ---

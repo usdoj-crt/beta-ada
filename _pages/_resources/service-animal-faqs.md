@@ -9,8 +9,6 @@ publish-date: 2015-07-20 00:00:00
 related-content: true
 tags:
   - service animals
-  - title ii
-  - title iii
 redirect_from:
   - /regs2010/service_animal_qa.html
 ---

@@ -13,6 +13,9 @@ redirect_from:
   - /reg3a.html
   - /regs2010/titleii_2010/titleii_2010_regulations.htm
   - /regs2010/titleii_2010/titleii_2010_withbold.htm
+related-content: true
+tags:
+  - title ii
 ---
 
 ## Title II Regulations Supplementary Information

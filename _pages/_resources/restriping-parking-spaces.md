@@ -10,8 +10,6 @@ print: true
 related-content: true
 tags:
   - parking
-  - title ii
-  - title iii
 redirect_from:
   - /restriping_parking/restriping2015.html
   - /restripe.htm

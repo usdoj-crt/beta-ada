@@ -16,8 +16,6 @@ sidenav-pdf:
 tags:
   - artificial intelligence
   - employment
-  - title ii
-  - title iii
 ---
 
 ## How employers use algorithms and artificial intelligence

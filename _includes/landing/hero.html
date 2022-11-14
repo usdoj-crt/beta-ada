@@ -1,22 +1,24 @@
 <div class="crt-landing--section crt-landing--hero crt-white" markdown="0">
   <span
-    class="display-none tablet:display-inline"
+    class="display-none desktop:display-inline"
     role="img"
     aria-label="{{ include.hero.alt.desktop }}"
   ></span>
-  {% asset hero-mobile.jpg alt="'{{ include.hero.alt.mobile }}'"
-  class="height-auto width-full tablet:display-none" %}
+  {% asset hero-mobile-2022.jpg alt="'{{ include.hero.alt.mobile }}'"
+  class="height-auto width-full desktop:display-none" %}
   <div class="grid-container">
     <div class="grid-row grid-gap">
-      <div class="tablet:grid-col-6">
+      <div class="desktop:grid-col-6">
         <h1 class="pa11y-skip">
           {{ include.hero.heading }}
         </h1>
-      <div aria-hidden="true" class="tablet:grid-col-2 desktop:display-none"></div>
+      <div aria-hidden="true" class="desktop:grid-col-2 tablet:display-none"></div>
         <div class="crt-landing--separator"></div>
+        <div class="crt-landing--paragraph-wrapper">
         <p class="crt-landing--largetext pa11y-skip">
           {{ include.hero.content }}
         </p>
+      </div>
       </div>
     </div>
   </div>
