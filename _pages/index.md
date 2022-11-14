@@ -56,6 +56,88 @@ news:
   lead: |-
     Explore the new content we've added to beta.ADA.gov
 
+learn:
+  heading: What's on ADA.gov
+  lead: |-
+    From <span class="crt-landing--goldtext">answers to common questions</span> to <span class="crt-landing--goldtext">offical legal documents</span>, ADA.gov has everything you need to understand your rights and responsibilities under the ADA.
+  sections:
+    - heading: Featured Topics
+      content: |-
+        Quickly learn about topics covered by the ADA.
+      icon: landing/featured_topics_gold.svg
+      examples:
+        - ex1:
+          title: 'Featured Topic: Service Animals'
+          link: topics/service-animals
+        - ex2:
+          title: 'Featured Topic: Parking'
+          link: topics/parking
+        - ex3:
+          title: 'Featured Topic: Mobility Devices'
+          link: topics/mobility-devices
+    - heading: Laws & Regulations
+      content: |-
+        Find legal documents that are enforceable under the ADA.
+      icon: landing/laws_regs_standards_gold.png
+      examples:
+      - ex1:
+        title: State and Local Government Services (Title II)
+        link: law-and-regs/title-ii-2010-regulations/
+      - ex2:
+        title: Public Accommodations (Title III)
+        link: law-and-regs/title-iii-regulations/
+      - ex3:
+        title: ADA Standards for Accessible Design
+        link: law-and-regs/design-standards/
+    - heading: Resources
+      content: |-
+        Get more details about topics covered by the ADA.
+      icon: landing/guidance_resource_materials_gold.png
+      examples:
+        - ex1:
+          title: A Guide to Disability Rights Laws
+          link: resources/disability-rights-guide
+        - ex2:
+          title: ADA Checklist for Polling Places
+          link: topics/voting
+        - ex3:
+          title: Frequently Asked Questions about Service Animals
+          link: resources/service-animals-faqs
+
+service-animals:
+  heading: Service Animals and the ADA
+  lead: |-
+    Understand how the ADA defines a service animal and what your rights are under the law.
+  sections:
+    - heading: Featured Topics
+      content: Quickly learn about topics covered by the ADA.
+      icon: landing/featured_topics_grey_bg.png
+      examples:
+      - ex1:
+        title: 'Featured Topic: Service Animals'
+        link: topics/service-animals
+    - heading: Laws & Regulations
+      content: Find legal documents that are enforceable under the ADA.
+      icon: landing/laws_regs_standards_grey_bg.png
+      examples:
+      - ex1:
+        title: State and Local Government Services (Title II)
+        link: law-and-regs/title-ii-2010-regulations/
+      - ex2:
+        title: Public Accommodations (Title III)
+        link: law-and-regs/title-iii-regulations/
+    - heading: Resources
+      content: Get more details about topics covered by the ADA.
+      icon: landing/guidance_resource_materials_grey_bg.png
+      examples:
+        - ex1:
+          title: Frequently Asked Questions about Service Animals
+          link: resources/service-animals-faqs
+        - ex2:
+          title: 'ADA Requirements: Service Animals'
+          link: resources/service-animals-2010-requirements
+
+
 report:
   heading: How to Report a Disability Rights Violation
   lead: |-
@@ -78,13 +160,13 @@ report:
 
 {% include landing/hero.html hero=page.hero %}
 
-{% include landing/alert.html alert=page.alert %}
-
 {% include landing/news.html news=page.news %}
 
-{% include landing/understand.html understand=page.understand %}
+{% include landing/learn.html learn=page.learn %}
 
-{% include landing/history.html history=page.history %}
+{% include landing/service-animals.html service-animals=page.service-animals %}
+
+{% include landing/understand.html understand=page.understand %}
 
 {% include landing/report.html report=page.report %}
 

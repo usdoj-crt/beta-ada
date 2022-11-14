@@ -13,7 +13,6 @@ card:
   image: landing/telehealth.jpg
   alt: "photo of a person on a video call with a doctor"
   href: /topics/telehealth/
-news-item: true
 publish-date: 2022-09-16 00:00:00
 tags:
   - medical care

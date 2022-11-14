@@ -1,0 +1,52 @@
+<div
+  id="crt-landing--service-animals"
+  class="crt-landing--section crt-landing--service_animals"
+  markdown="0"
+>
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+      <div class="tablet:grid-col-12">
+        <h2 class="h1">
+          {{ include.service-animals.heading }}
+        </h2>
+        <div class="crt-landing--separator_small"></div>
+      </div>
+      <div class="tablet:grid-col-12">
+        <p class="crt-landing--largetext">
+          {{ include.service-animals.lead }}
+        </p>
+      </div>
+      <div class="tablet:grid-col-12">
+        <div class="grid-row grid-gap">
+          {% for section in include.service-animals.sections %}
+            <div class="tablet:grid-col-4 crt-landing--section__item">
+              <div class="crt-landing--reporting_column">
+                <div class="h4 crt-landing--icon_gold">{% asset {{section.icon}} alt=""%}</div>
+                <div>
+                  <h3 class="margin-bottom-0">
+                    {{ section.heading }}
+                  </h3>
+                  <p class="margin-y-0">
+                    {{ section.content }}
+                  </p>
+                  <p>
+                    Examples:
+                  </p>
+                  <ul>
+                  {% for example in section.examples %}
+                    <li class="padding-y-1">
+                        <a href="{{example.link | relative_url }}">
+                            {{ example.title }}
+                        </a>
+                    </li>
+                  {% endfor %}
+                </ul>
+                </div>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
