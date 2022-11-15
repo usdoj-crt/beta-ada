@@ -10,6 +10,8 @@ redirect_from:
     - /ta_titleiii.html
 ---
 
+{% include ta-link-back.html %}
+
 {% include ta-article-list.html %}
 
-{% include ta-link-back.html %}
+
