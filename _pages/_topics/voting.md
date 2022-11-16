@@ -13,7 +13,6 @@ card:
   image: landing/voting.jpg
   alt: "A vote here sign at a polling place on election day"
   href: /topics/voting/
-news-item: true
 publish-date: 2022-09-21 00:00:00
 redirect_to: https://www.ada.gov/topics/voting/
 ---

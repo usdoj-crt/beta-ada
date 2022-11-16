@@ -10,8 +10,6 @@ print: true
 related-content: true
 tags:
   - parking
-  - title ii
-  - title iii
 redirect_to: https://www.ada.gov/resources/restriping-parking-spaces/
 ---
 In addition, businesses or privately owned facilities that provide goods or services to the public have a continuing ADA obligation to remove barriers to access in existing parking facilities when it is readily achievable to do so. Because restriping is relatively inexpensive, it is readily achievable in most cases. State and local government facilities also have an ongoing ADA obligation to make their programs accessible, which can require providing accessible parking.
@@ -162,10 +160,10 @@ For people with disabilities, this publication is available in alternate formats
 
 ## Reference
 
-[2010 ADA Standards for Accessible Design](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm)
+[2010 ADA Standards for Accessible Design]({{'/law-and-regs/design-standards/2010-stds' | relative_url}})
 
-Sections [208](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010282) & [502](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1006250) Parking Spaces
+Sections [208]({{'/law-and-regs/design-standards/2010-stds#parking-spaces' | relative_url}}) & [502]({{'/law-and-regs/design-standards/2010-stds#parking-spaces-1' | relative_url}}) Parking Spaces
 
-Section [206](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010125) Accessible Route
+Section [206]({{'/law-and-regs/design-standards/2010-stds#accessible-routes' | relative_url}}) Accessible Route
 
 Duplication of this document is encouraged.

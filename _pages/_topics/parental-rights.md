@@ -13,7 +13,6 @@ card:
   image: landing/parental-rights.jpg
   alt: Asian American father hugging his son
   href: /topics/parental-rights/
-news-item: true
 publish-date: 2022-07-25 00:00:00
 redirect_to: https://www.ada.gov/topics/parental-rights/
 ---

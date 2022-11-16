@@ -13,9 +13,11 @@ card:
   image: landing/telehealth.jpg
   alt: "photo of a person on a video call with a doctor"
   href: /topics/telehealth/
-news-item: true
 publish-date: 2022-09-16 00:00:00
 redirect_to: https://www.ada.gov/topics/telehealth/
+tags:
+  - medical care
+related-content: true
 ---
 ## What is telehealth?
 

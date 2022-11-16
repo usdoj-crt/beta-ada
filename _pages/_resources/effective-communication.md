@@ -10,8 +10,6 @@ print: true
 related-content: true
 tags:
   - effective communication
-  - title ii
-  - title iii
 redirect_to: https://www.ada.gov/resources/effective-communication/
 ---
 ## Overview

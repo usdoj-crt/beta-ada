@@ -105,6 +105,6 @@ You must accept any of these types of credible assurance:
 
 [ADA Requirements: Other Power-Driven Mobility Devices (OPDMDs)]( {{'/resources/opdmds/'| relative_url}})
 
-[ADA Update: A Primer for Small Business](https://www.ada.gov/regs2010/smallbusiness/smallbusprimer2010.htm)
+[ADA Update: A Primer for Small Business]({{'/resources/title-iii-primer/' | relative_url}})
 
-[ADA Update: A Primer for State and Local Governments](https://www.ada.gov/regs2010/titleII_2010/title_ii_primer.html)
+[ADA Update: A Primer for State and Local Governments]({{'/resources/title-ii-primer/' | relative_url}})

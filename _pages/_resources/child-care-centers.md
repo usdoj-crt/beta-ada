@@ -9,8 +9,6 @@ print: true
 related-content: true
 tags:
   - child care
-  - title ii
-  - title iii
 redirect_to: https://www.ada.gov/resources/child-care-centers/
 ---
 {% include expand-accordions-wrapper.html expand-heading='Coverage' %}
