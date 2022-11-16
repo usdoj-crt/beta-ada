@@ -11,6 +11,7 @@ Soon the Department will be launching a new and improved version of ADA.gov.
 
 - When users go to ADA.gov they will see the new and improved site.
 - The former ADA.gov site will be available at archive.ADA.gov. Archiving the former site simply means that the site will no longer be updated.
+- The complete inventory of ADA technical assistance will be moving to the new ADA.gov [Guidance and Resource Materials page]({{'/resources' | relative_url }}). In the meantime, you can access all of our current technical assistance materials on archive.ada.gov.
 
 ## What's different about the new ADA.gov?
 
