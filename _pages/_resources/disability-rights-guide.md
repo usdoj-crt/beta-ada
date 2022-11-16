@@ -15,7 +15,6 @@ tags:
   - title iii
 redirect_from:
   - /cguide.htm
-  - /cguide.pdf
 ---
 ## Americans with Disabilities Act (ADA)
 
