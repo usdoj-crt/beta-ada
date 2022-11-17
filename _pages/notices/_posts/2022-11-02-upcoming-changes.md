@@ -15,4 +15,4 @@ Soon the Department will be launching a new and improved version of ADA.gov.
 
 ## What's different about the new ADA.gov?
 
-The updated version of ADA.gov is designed to better serve the public and help expand access for people with disabilities. With modern easy-to-use navigation tools, user-centered design, content written in plain-language (less legal jargon) and is mobile compatible.
+The updated version of ADA.gov is designed to better serve the public and help expand access for people with disabilities. It has a new, easy-to-navigate interface, features plain language content with less legal jargon, and is optimized for mobile devices.
