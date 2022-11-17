@@ -5,6 +5,7 @@ lead: |-
   The ADA Standards for Accessible Design—along with the [Title II](../title-ii-2010-regulations/) and [Title III](../title-iii-regulations/) regulations—say what is required for a building or facility to be physically accessible to people with disabilities.
 lang: "en"
 sidenav: false
+redirect_to: https://www.ada.gov/law-and-regs/design-standards/
 ---
 
 The ADA Standards for Accessible Design (“ADA Standards”) cover:

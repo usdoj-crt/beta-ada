@@ -10,6 +10,7 @@ print: true
 back-to-top: true
 subnavigation: true
 related-content: true
+redirect_to: https://www.ada.gov/law-and-regs/title-ii-2010-regulations/
 tags:
   - title ii
 ---

@@ -5,6 +5,7 @@ publish-date: 2012-03-08 00:00:00
 back-to-top: true
 subnavigation: true
 related-content: true
+redirect_to: https://www.ada.gov/law-and-regs/title-iii-regulations/
 tags:
   - title iii
 lead: |-
