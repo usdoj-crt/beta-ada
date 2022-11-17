@@ -4,10 +4,12 @@ title_es: Justice Department launches new Americans with Disabilities Act websit
 notice_text: The new ADA.gov has launched! Learn more here.
 notice_text_es:  The new ADA.gov has launched! Learn more here.
 sidenav: false
-published: 2022-11-18 00:00:00
+publish-date: 2022-11-18 00:00:00
 ---
 
 Today, the Department is excited to announce that we are launching a new and improved version of ADA.gov.  Our goal for this revamped website is to better empower people to comply with the Americans with Disabilities Act (ADA) as well as understand their rights and others’ rights, by creating and maintaining a website that is modern and user-centered.
+
+"With the new and improved version of ADA.gov that we are launching today, the Civil Rights Division is taking an important step forward by providing information about the ADA in a format that is more tailored to the needs of the people seeking this information." said Assistant Attorney General Kristen Clarke of the Justice Department's Civil Rights Division. "As we continue our work to increase compliance with the ADA, the department is committed to helping people with disabilities understand their rights, and to helping those who have obligations under the ADA understand their responsibilities."
 
 The ADA is a civil rights law that protects people with disabilities from discrimination.  The ADA guarantees people with disabilities the same opportunities as everyone else to do things like go to work, visit public libraries, and enjoy stores and restaurants in their communities.
 
