@@ -59,7 +59,7 @@ news:
 learn:
   heading: What's on ADA.gov
   lead: |-
-    From <span class="crt-landing--goldtext">answers to common questions</span> to <span class="crt-landing--goldtext">offical legal documents</span>, ADA.gov has everything you need to understand your rights and responsibilities under the ADA.
+    From <span class="crt-landing--goldtext">answers to common questions</span> to <span class="crt-landing--goldtext">official legal documents</span>, ADA.gov has everything you need to understand your rights and responsibilities under the ADA.
   sections:
     - heading: Featured Topics
       content: |-
