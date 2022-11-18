@@ -61,4 +61,4 @@ The [Unified Agenda](https://www.reginfo.gov/public/jsp/eAgenda/UA_About.myjsp) 
 
 ## Design Standards
 
-[View the 1991 and 2010 Design Standards, and the Guidance on the 2010 ADA Standards for Accessible Design]({{'/law-and-regs/design-standards' | relative_url }})
+[View the 1991 and 2010 Design Standards, and the Guidance on the 2010 ADA Standards for Accessible Design]({{'/law-and-regs/design-standards' | relative_url }}).
