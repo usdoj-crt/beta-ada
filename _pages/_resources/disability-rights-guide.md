@@ -13,6 +13,8 @@ tags:
   - employment
   - title ii
   - title iii
+redirect_from:
+  - /cguide.htm
 ---
 ## Americans with Disabilities Act (ADA)
 
@@ -281,7 +283,7 @@ The Architectural Barriers Act (ABA) requires that buildings and facilities that
 >[ADA Information Line]( {{'/infoline/' | relative_url}})
  >{{site.contact.tollfree}} (voice)
 >{{site.contact.tty}} (TTY)
->[ADA.gov](https://www.ada.gov/infoline.htm)
+>[ADA.gov](https://www.ada.gov)
 <br>
 >ADA National Network
 >(800) 949-4232 (voice/TTY)

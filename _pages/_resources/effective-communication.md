@@ -10,6 +10,8 @@ print: true
 related-content: true
 tags:
   - effective communication
+redirect_from:
+  - /effective-comm.htm
 ---
 ## Overview
 

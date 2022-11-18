@@ -4,6 +4,13 @@ description: "The Americans with Disabilities Act provides an important tool to 
 permalink: /cases/
 redirect_from:
   - /law-and-regs/cases/
+  - /enforce_activities.htm
+  - /enforce_footer.htm
+  - /criminaljustice/cj_enforcement.html
+  - /access-technology/enforcement.html
+  - /olmstead/olmstead_enforcement.htm
+  - /hiv/ada_hiv_enforcement.htm
+  - /criminaljustice/cj_enforcement_activities.html
 sidenav: false
 lead: |-
   The Department of Justice enforces the ADA through lawsuits and settlement agreements to achieve greater access, inclusion, and equal opportunity for people with disabilities.
@@ -16,7 +23,7 @@ Go to our cases page on [justice.gov/CRT](https://www.justice.gov/crt/disability
 
 **2006 - 2020**
 
-Go to our cases page on [ADA.gov](http://www.ada.gov/enforce_current.htm)
+Go to our cases page on [archive.ADA.gov](http://archive.ada.gov/enforce_current.htm)
 
 ## Enforcing the ADA
 

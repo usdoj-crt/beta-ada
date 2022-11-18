@@ -9,6 +9,8 @@ print: true
 related-content: true
 tags:
   - child care
+redirect_from:
+  - /childqanda.htm
 ---
 {% include expand-accordions-wrapper.html expand-heading='Coverage' %}
 
@@ -118,19 +120,19 @@ A: Centers cannot generally exclude a child just because he or she has an intell
 {% details Q19. What about children who have severe, sometimes life-threatening allergies to bee stings or certain foods? Do we have to take them? expandable %}
 A: Generally, yes. Children cannot be excluded on the sole basis that they have been identified as having severe allergies to bee stings or certain foods. A center needs to be prepared to take appropriate steps in the event of an allergic reaction, such as administering a medicine called "epinephrine" that will be provided in advance by the child's parents or guardians.
 
-The Department of Justice's settlement agreements can be found at [ADA.gov](https://www.ada.gov) (see question 26).
+The Department of Justice's settlement agreements can be found at [archive.ADA.gov](https://archive.ada.gov) (see question 26).
 {% enddetails %}
 
 {% details Q20. What about children with diabetes? Do we have to admit them to our program? If we do, do we have to test their blood sugar levels? expandable %}
 A: Generally, yes. Children with diabetes can usually be integrated into a child care program without fundamentally altering it, so they should not be excluded from the program on the basis of their diabetes. Providers should obtain written authorization from the child's parents or guardians and physician and follow their directions for simple diabetes-related care. In most instances, they will authorize the provider to monitor the child's blood sugar -- or "blood glucose" -- levels before lunch and whenever the child appears to be having certain easy-to-recognize symptoms of a low blood sugar incident. While the process may seem uncomfortable or even frightening to those unfamiliar with it, monitoring a child's blood sugar is easy to do with minimal training and takes only a minute or two. Once the caregiver has the blood sugar level, he or she must take whatever simple actions have been recommended by the child's parents or guardians and doctor, such as giving the child some fruit juice if the child's blood sugar level is low. The child's parents or guardians are responsible for providing all appropriate testing equipment, training, and special food necessary for the child.
 
-The Department of Justice's settlement agreements can be found at [ADA.gov](https://www.ada.gov) (see question 26).
+The Department of Justice's settlement agreements can be found at [archive.ADA.gov](https://archive.ada.gov) (see question 26).
 {% enddetails %}
 
 {% details Q21. Do we have to help children take off and put on their leg braces and provide similar types of assistance to children with mobility impairments? expandable %}
 A: Generally, yes. Some children with mobility impairments may need assistance in taking off and putting on leg or foot braces during the child care day. As long as doing so would not be so time consuming that other children would have to be left unattended, or so complicated that it can only done by licensed health care professionals, it would be a *reasonable modification* to provide such assistance.
 
-The Department of Justice's settlement agreements can be found at [ADA.gov](https://www.ada.gov) (see question 26).
+The Department of Justice's settlement agreements can be found at [archive.ADA.gov](https://archive.ada.gov) (see question 26).
 {% enddetails %}
 
 ## Making the Child Care Facility Accessible
@@ -162,15 +164,15 @@ A: Whenever the Department receives a complaint or is asked to join an on-going 
 
 {% details Q26. Has the United States entered into any settlement agreements involving child care centers? expandable %}
 
-A: The Department has resolved matters with child care centers through formal settlement agreements, which can be found on the Department’s website at [ADA.gov](https://www.ada.gov).
+A: The Department has resolved matters with child care centers through formal settlement agreements, which can be found on the Department’s website at [archive.ADA.gov](https://archive.ada.gov).
 {% enddetails %}
 
 {% details Q27. Has the Department of Justice ever sued a child care center for ADA violations? expandable %}
-A: Yes. The Department's enforcement activities can be found [ADA.gov/enforcement](https://www.ada.gov/enforce_current.htm)
+A: Yes. The Department's enforcement activities can be found [archive.ADA.gov/enforcement](https://archive.ada.gov/enforce_current.htm)
 {% enddetails %}
 
 {% details Q28. Does the United States ever participate in lawsuits brought by private citizens? expandable %}
-A: Yes. The Department sometimes participates in private suits either by intervention or as *amicus curiae*—"friend of the court."  The Department’s amicus briefs for ADA cases [ADA.gov/enforcement](https://www.ada.gov/enforce_activities.htm#briefs)
+A: Yes. The Department sometimes participates in private suits either by intervention or as *amicus curiae*—"friend of the court."  The Department’s amicus briefs for ADA cases [archive.ADA.gov/enforcement](https://archive.ada.gov/enforce_activities.htm#briefs)
 {% enddetails %}
 
 ## Additional Resources
@@ -182,7 +184,7 @@ A: The Department of Justice operates an [ADA Information Line]( {{'/infoline/' 
 >{{site.contact.tollfree}} (Voice) and {{site.contact.tty}} (TTY)
 M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.
 
-The [ADA Home Page](https://www.ada.gov), which is updated frequently, contains the Department of Justice's regulations and technical assistance materials, as well as press releases on ADA cases and other issues. Several settlement agreements with child care centers are also available on the Home Page.
+The [archive.ADA Home Page](https://archive.ada.gov), which is updated frequently, contains the Department of Justice's regulations and technical assistance materials, as well as press releases on ADA cases and other issues. Several settlement agreements with child care centers are also available on the Home Page.
 
 There are ten regional centers, which are jointly known as the [ADA National Network](https://adata.org), that are funded by the National Institute on Disability, Independent Living, and Rehabilitation Research to provide technical assistance under the ADA. One toll-free number connects to the center in your region.
 

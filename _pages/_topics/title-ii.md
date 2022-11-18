@@ -16,6 +16,8 @@ card:
 tags:
   - title ii
 related-content: true
+redirect_from:
+  - /ada_title_ii.htm
 ---
 
 ## Title II Applies to State/Local Programs
@@ -162,7 +164,7 @@ Learn more about program access and the limitations on this requirement in the [
 <tr>
 <th scope="row">An older adult with a learning disability is enrolled in a community college and requests additional time to take the placement test.</th>
 <td>The community college grants the applicant extended time to take the exam.
-<p>Learn more about providing <a href="https://www.ada.gov/regs2014/testing_accommodations.html">testing accommodations</a>.</p></td>
+<p>Learn more about providing <a href="https://archive.ada.gov/regs2014/testing_accommodations.html">testing accommodations</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -178,7 +180,7 @@ Learn more about program access and the limitations on this requirement in the [
 <tr>
 <th scope="row">A wheelchair user tries to buy accessible seating to a state university college football game and is directed to call the box office because accessible seating is not available for purchase online.</th>
 <td>The university makes accessible seating available for purchase online.
-<p>Learn more about requirements for <a href="https://www.ada.gov/ticketing_2010.htm">ticket sales</a>.</p></td>
+<p>Learn more about requirements for <a href="https://archive.ada.gov/ticketing_2010.htm">ticket sales</a>.</p></td>
 </tr>
 </tbody>
 </table>

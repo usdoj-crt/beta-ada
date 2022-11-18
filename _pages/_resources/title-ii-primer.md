@@ -10,6 +10,8 @@ print: true
 related-content: true
 tags:
   - title ii
+redirect_from:
+  - /regs2010/titleii_2010/title_ii_primer.html
 ---
 People with disabilities have too often been excluded from participating in basic civic activities like using the public transportation system, serving on a jury, voting, seeking refuge at an emergency shelter, or simply attending a high school sports event with family and friends. The Americans with Disabilities Act (ADA) is a Federal civil rights law that prohibits discrimination against people with disabilities. Under this law, people with disabilities are entitled to all of the rights, privileges, advantages, and opportunities that others have when participating in civic activities.
 
@@ -176,7 +178,7 @@ Another key concept is that public entities have an ongoing obligation to make p
 
 Temporary access interruptions for maintenance, repair, or operational activities are permitted, but must be remedied as soon as possible and may not extend beyond a reasonable period of time. Staff must be prepared to assist individuals with disabilities during these interruptions. For example, if the accessible route to a biology lab is temporarily blocked by chairs from a classroom that is being cleaned, staff must be available to move the chairs so a student who uses a wheelchair can get to the lab. In addition, if an accessible feature such as an elevator breaks down, public entities must ensure that repairs are made promptly and that improper or inadequate maintenance does not cause repeated failures. Entities must also ensure that no new barriers are created that impede access by people with disabilities. For example, routinely storing a garbage bin or piling snow in accessible parking spaces makes them unusable and inaccessible to people with mobility disabilities.
 
-For activities that take place infrequently, such as voting, temporary measures can be used to achieve access for individuals who have mobility disabilities. For more information, see [Solutions for Five Common ADA Access Problems at Polling Places](https://www.ada.gov/ada_voting/voting_solutions_ta/polling_place_solutions.htm).
+For activities that take place infrequently, such as voting, temporary measures can be used to achieve access for individuals who have mobility disabilities. For more information, see [Solutions for Five Common ADA Access Problems at Polling Places](https://archive.ada.gov/ada_voting/voting_solutions_ta/polling_place_solutions.htm).
 
 ### Element-by-Element Safe Harbor for Existing Facilities
 

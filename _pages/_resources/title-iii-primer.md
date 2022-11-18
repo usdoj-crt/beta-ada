@@ -10,12 +10,14 @@ print: true
 related-content: true
 tags:
   - title iii
+redirect_from:
+  - /regs2010/smallbusiness/smallbusprimer2010.htm
 ---
 ## New Customers
 
 More than 50 million Americans – 18% of our population – have disabilities, and each is a potential customer. People with disabilities are living more independently and participating more actively in their communities. They and their families want to patronize businesses that welcome customers with disabilities. In addition, approximately 71.5 million baby boomers will be over age 65 by the year 2030 and will be demanding products, services, and environments that meet their age-related physical needs. Studies show that once people with disabilities find a business where they can shop or get services in an accessible manner, they become repeat customers.
 
-People with disabilities have too often been excluded from everyday activities: shopping at a corner store, going to a neighborhood restaurant or movie with family and friends, or using the swimming pool at a hotel on the family vacation.  The ADA is a Federal civil rights law that prohibits discrimination against people with disabilities and opens doors for full participation in all aspects of everyday life.  This publication provides general guidance to help business owners understand how to comply with the Department's revised ADA regulations and the 2010 Standards, its design standards for accessible buildings.  The ADA applies to both the built environment and to policies and procedures that affect how a business provides goods and services to its customers.  Using this guidance, a small business owner or manager can ensure that it will not unintentionally exclude people with disabilities and will know when it needs to remove barriers in its existing facilities.  If you are planning to build a new facility or alter an existing one, please see [New Construction and Alterations]({{'resources/title-ii-primer#new-construction' | relative_url }}) for specific guidance on these types of projects.  Businesses should consult the [revised ADA regulations](https://www.ada.gov/2010_regs.htm) and the [2010 Standards]( {{'/law-and-regs/design-standards/2010-stds' | relative_url}}) for more comprehensive information about specific requirements.
+People with disabilities have too often been excluded from everyday activities: shopping at a corner store, going to a neighborhood restaurant or movie with family and friends, or using the swimming pool at a hotel on the family vacation.  The ADA is a Federal civil rights law that prohibits discrimination against people with disabilities and opens doors for full participation in all aspects of everyday life.  This publication provides general guidance to help business owners understand how to comply with the Department's revised ADA regulations and the 2010 Standards, its design standards for accessible buildings.  The ADA applies to both the built environment and to policies and procedures that affect how a business provides goods and services to its customers.  Using this guidance, a small business owner or manager can ensure that it will not unintentionally exclude people with disabilities and will know when it needs to remove barriers in its existing facilities.  If you are planning to build a new facility or alter an existing one, please see [New Construction and Alterations]({{'resources/title-ii-primer#new-construction' | relative_url }}) for specific guidance on these types of projects.  Businesses should consult the [revised ADA regulations](https://archive.ada.gov/2010_regs.htm) and the [2010 Standards]( {{'/law-and-regs/design-standards/2010-stds' | relative_url}}) for more comprehensive information about specific requirements.
 
 ## Who is Covered by the ADA?
 
@@ -50,7 +52,7 @@ Businesses need to know two important deadlines for compliance. Starting March 1
 </tbody>
 </table>
 
-For additional details, see [ADA 2010 Revised Requirements: Effective Date/ Compliance Date](https://www.ada.gov/revised_effective_dates-2010.htm) .
+For additional details, see [ADA 2010 Revised Requirements: Effective Date/ Compliance Date](https://archive.ada.gov/revised_effective_dates-2010.htm) .
 
 ## General Nondiscrimination Requirements
 
@@ -215,7 +217,7 @@ Determining what is readily achievable will vary from business to business and s
 
 #### Barrier Removal Before March 15, 2012
 
-Businesses removing barriers before March 15, 2012, have the choice of using either the 1991 Standards or the 2010 Standards. You must use only one standard for removing barriers in an entire facility. For example, you cannot choose the 1991 Standards for accessible routes and the 2010 Standards for restrooms. (See, *ADA 2010 Revised Requirements: Effective Date / Compliance Date* at [https://www.ada.gov/revised_effective_dates-2010.htm](https://www.ada.gov/revised_effective_dates-2010.htm). Remember that if an element complies with the 1991 Standards, a business is not required to make any changes to that element until such time as the business decides to alter that element.
+Businesses removing barriers before March 15, 2012, have the choice of using either the 1991 Standards or the 2010 Standards. You must use only one standard for removing barriers in an entire facility. For example, you cannot choose the 1991 Standards for accessible routes and the 2010 Standards for restrooms. (See, *ADA 2010 Revised Requirements: Effective Date / Compliance Date* at [https://archive.ada.gov/revised_effective_dates-2010.htm](https://archive.ada.gov/revised_effective_dates-2010.htm). Remember that if an element complies with the 1991 Standards, a business is not required to make any changes to that element until such time as the business decides to alter that element.
 
 <table class="usa-table">
 <caption>Compliance Dates and Applicable Standards for Readily Achievable Barrier Removal, New Construction, and Alterations</caption>
@@ -460,7 +462,7 @@ For more information about the revised ADA regulations and 2010 ADA Standards, p
 {{site.contact.tollfree}} (Voice) and {{site.contact.tty}} (TTY)
 M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.
 
-["Reaching Out to Customers with Disabilities"](https://www.ada.gov/reachingout/intro1.htm) explains the ADA's requirements for businesses in a short 10-lesson online course.
+["Reaching Out to Customers with Disabilities"](https://archive.ada.gov/reachingout/intro1.htm) explains the ADA's requirements for businesses in a short 10-lesson online course.
 
 **ADA National Network (DBTAC)**
 

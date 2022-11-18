@@ -10,7 +10,7 @@ alert:
   heading: |-
     Help us improve ADA.gov
   link:
-    href: https://beta.ada.gov/feedback/
+    href: https://ada.gov/feedback/
     text: Share feedback
 
 hero:
@@ -52,9 +52,9 @@ history:
     with disabilities.
 
 news:
-  heading: New on beta.ADA.gov
+  heading: New on ADA.gov
   lead: |-
-    Explore the new content we've added to beta.ADA.gov
+    Explore the new content we've added to ADA.gov
 
 learn:
   heading: What's on ADA.gov
@@ -156,6 +156,9 @@ report:
     Think you or someone you know has experienced a disability rights violation?
   link:
     text: File a complaint
+redirect_from:
+  - /contact_drs.htm
+  - /adahom1.htm
 ---
 
 {% include landing/hero.html hero=page.hero %}

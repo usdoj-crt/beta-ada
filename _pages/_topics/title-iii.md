@@ -16,6 +16,8 @@ card:
 tags:
   - title iii
 related-content: true
+redirect_from:
+  - /ada_title_iii.htm
 ---
 
 ## Title III Applies to Businesses
@@ -157,7 +159,7 @@ We provide more examples on our page about <a href="/topics/effective-communicat
 <th scope="row"> A person with dyslexia requests additional time to take an admissions exam for a private graduate school program.</th>
 <td>The testing body grants the applicant extended time to take the admissions exam.
 
-<p>Learn more about providing <a href="https://www.ada.gov/regs2014/testing_accommodations.html">testing accommodations</a>.</p></td>
+<p>Learn more about providing <a href="https://archive.ada.gov/regs2014/testing_accommodations.html">testing accommodations</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -174,7 +176,7 @@ We provide more examples on our page about <a href="/topics/effective-communicat
 <th scope="row">A concert venue requires that customers with disabilities call the box office to purchase accessible seating.</th>
 <td>The venue makes accessible seating available for purchase online.
 
-<p>Learn more about <a href="https://www.ada.gov/ticketing_2010.htm">ticket sales</a>.</p></td>
+<p>Learn more about <a href="https://archive.ada.gov/ticketing_2010.htm">ticket sales</a>.</p></td>
 </tr>
 </tbody>
 </table>

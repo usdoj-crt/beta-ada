@@ -5,7 +5,7 @@
   <div class="grid-container">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-12">
-        {% for post in site.categories.notices limit:1 %}
+        {% for post in site.categories.notices reversed limit:1 %}
         {% asset img/usa-icons/warning.svg class="usa-icon margin-right-05"
         aria-hidden="true"
         focusable="false"
