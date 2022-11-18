@@ -223,46 +223,46 @@ facilities]({{'/law-and-regs/design-standards/2010-stds#chapter-3-building-block
 ### Common Topics
 
 {% details Accessible Route expandable %}
-[Section 206]({{'/law-and-regs/design-standards/2010-stds#accessible-routes' | relative_url}}) and [Chapter 4]({{'/law-and-regs/design-standards/2010-stds#chapter-4-accessible-routes' | relative_url}})
+[Section 206]({{'/law-and-regs/design-standards/2010-stds#206-accessible-routes' | relative_url}}) and [Chapter 4]({{'/law-and-regs/design-standards/2010-stds#chapter-4-accessible-routes' | relative_url}})
 {% enddetails %}
 
 {% details Parking Spaces expandable %}
-[Section 208]({{'/law-and-regs/design-standards/2010-stds#parking-spaces' | relative_url}}) and [502]({{'/law-and-regs/design-standards/2010-stds#parking-spaces-1' | relative_url}})
+[Section 208]({{'/law-and-regs/design-standards/2010-stds#208-parking-spaces' | relative_url}}) and [502]({{'/law-and-regs/design-standards/2010-stds#502-parking-spaces' | relative_url}})
 
 Also see:
-- [Section 209.4 (Valet Parking)]({{'/law-and-regs/design-standards/2010-stds#passenger-loading-zones-and-bus-stops' | relative_url}})
-- [Section 216 (Signs)]({{'/law-and-regs/design-standards/2010-stds#signs' | relative_url}})
-  - [216.5 exception #1 (Limited parking)]({{'/law-and-regs/design-standards/2010-stds#signs' | relative_url}})
+- [Section 209.4 (Valet Parking)]({{'/law-and-regs/design-standards/2010-stds#209-passenger-loading-zones-and-bus-stops' | relative_url}})
+- [Section 216 (Signs)]({{'/law-and-regs/design-standards/2010-stds#216-signs' | relative_url}})
+  - [216.5 exception #1 (Limited parking)]({{'/law-and-regs/design-standards/2010-stds#216-signs' | relative_url}})
 {% enddetails %}
 
 {% details Sales and Service expandable %}
-[Section 227]({{'/law-and-regs/design-standards/2010-stds#sales-and-service' | relative_url}}) and [904]({{'/law-and-regs/design-standards/2010-stds#check-out-aisles-and-sales-and-service-counters' | relative_url}})
+[Section 227]({{'/law-and-regs/design-standards/2010-stds#227-sales-and-service' | relative_url}}) and [904]({{'/law-and-regs/design-standards/2010-stds#check-out-aisles-and-sales-and-service-counters' | relative_url}})
 
 <p>Note: Sections cover sales and service areas, such as check-out aisles and sales and service counters.</p>
 {% enddetails %}
 
 {% details Dining Surfaces expandable %}
-Section 226]({{'/law-and-regs/design-standards/2010-stds#dining-surfaces-and-work-surfaces' | relative_url}}) and [902]({{'/law-and-regs/design-standards/2010-stds#cdining-surfaces-and-work-surfaces-1' | relative_url}})
+[Section 226]({{'/law-and-regs/design-standards/2010-stds#226-dining-surfaces-and-work-surfaces' | relative_url}}) and [902]({{'/law-and-regs/design-standards/2010-stds#902-dining-surfaces-and-work-surfaces-1' | relative_url}})
 
 Also see:
-- [Section 206.2.5 (Restaurants and Cafeterias)]({{'/law-and-regs/design-standards/2010-stds#accessible-routes' | relative_url}})
-- [Section 226.2 (Dispersion, applies to dinning surfaces)]({{'/law-and-regs/design-standards/2010-stds#dining-surfaces-and-work-surfaces' | relative_url}})
+- [Section 206.2.5 (Restaurants and Cafeterias)]({{'/law-and-regs/design-standards/2010-stds#206-accessible-routes' | relative_url}})
+- [Section 226.2 (Dispersion, applies to dinning surfaces)]({{'/law-and-regs/design-standards/2010-stds#226-dining-surfaces-and-work-surfaces' | relative_url}})
 {% enddetails %}
 
 {% details Dressing, Fitting and Locker Rooms expandable %}
-[Sections 222]({{'/law-and-regs/design-standards/2010-stds#dressing-fitting-and-locker-rooms' | relative_url}})) and [803]({{'/law-and-regs/design-standards/2010-stds#dressing-fitting-and-locker-rooms-1' | relative_url}}))
+([Sections 222]({{'/law-and-regs/design-standards/2010-stds#222-dressing-fitting-and-locker-rooms' | relative_url}})) and ([803]({{'/law-and-regs/design-standards/2010-stds#803-dressing-fitting-and-locker-rooms' | relative_url}}))
 {% enddetails %}
 
 {% details Door, Doorways, and Gates expandable %}
-[Section 404]({{'/law-and-regs/design-standards/2010-stds#doors-doorways-and-gates' | relative_url}}))
+([Section 404]({{'/law-and-regs/design-standards/2010-stds#404-doors-doorways-and-gates' | relative_url}}))
 {% enddetails %}
 
 {% details Ramps expandable %}
-[Section 405]({{'/law-and-regs/design-standards/2010-stds#ramps' | relative_url}}))
+([Section 405]({{'/law-and-regs/design-standards/2010-stds#405-ramps' | relative_url}}))
 {% enddetails %}
 
 {% details Curb ramps expandable %}
-[Section 406]({{'/law-and-regs/design-standards/2010-stds#curb-ramps' | relative_url}}))
+([Section 406]({{'/law-and-regs/design-standards/2010-stds#406-curb-ramps' | relative_url}}))
 {% enddetails %}
 
 ### Learn more about these and other requirements

@@ -43,14 +43,14 @@ class Subnav < Jekyll::Generator
       return {
         "title" => title,
         "url" => [page.url,  title.downcase.gsub(" ", "-")].join("#"),
-        "id" => heading['id']
+        "id" => "#{heading['id']}-accordion"
       }
 
     else
       return {
         "title" => heading.text,
         "url" => [page.url,  heading['id']].join("#"),
-        "id" => heading['id']
+        "id" => "#{heading['id']}-accordion"
       }
     end
   end

@@ -164,8 +164,8 @@ For people with disabilities, this publication is available in alternate formats
 
 [2010 ADA Standards for Accessible Design]({{'/law-and-regs/design-standards/2010-stds' | relative_url}})
 
-Sections [208]({{'/law-and-regs/design-standards/2010-stds#parking-spaces' | relative_url}}) & [502]({{'/law-and-regs/design-standards/2010-stds#parking-spaces-1' | relative_url}}) Parking Spaces
+Sections [208]({{'/law-and-regs/design-standards/2010-stds#208-parking-spaces' | relative_url}}) & [502]({{'/law-and-regs/design-standards/2010-stds#502-parking-spaces' | relative_url}}) Parking Spaces
 
-Section [206]({{'/law-and-regs/design-standards/2010-stds#accessible-routes' | relative_url}}) Accessible Route
+Section [206]({{'/law-and-regs/design-standards/2010-stds#206-accessible-routes' | relative_url}}) Accessible Route
 
 Duplication of this document is encouraged.
