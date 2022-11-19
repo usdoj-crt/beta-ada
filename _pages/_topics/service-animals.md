@@ -113,7 +113,7 @@ A business or state/local government does not need to allow a service animal if 
 In most settings, a service animal will not fundamentally alter the situation. But in some settings, a service dog could change the nature of the service or program. For example, it may be appropriate to keep a service animal out of an operating room or burn unit where the animal’s presence could compromise a sterile environment. But in general, service animals cannot be restricted from other areas of the hospital where patients or members of the public can go.
 {% enddetails %}
 
-Learn more about when a service animal can be kept out in [questions 23-26 in FAQs about service animals and the ADA]( {{'/resources/service-animal-faqs/'| relative_url}}).
+Learn more about when a service animal can be kept out in [questions 23-26 in FAQs about service animals and the ADA]( {{'/resources/service-animals-faqs/'| relative_url}}).
 
 ## Asking Someone to Remove Their Service Animal
 
@@ -123,7 +123,7 @@ A business or state/local government can ask someone to remove their service ani
 - The dog is out of control, and the person cannot get the dog under control.
 
 {% details What does <i>out of control</i> mean?%}
-Learn more in [question 27 in <cite>FAQs about service animals and the ADA</cite>]( {{'/resources/service-animal-faqs/'| relative_url}}).
+Learn more in [question 27 in <cite>FAQs about service animals and the ADA</cite>]( {{'/resources/service-animals-faqs/'| relative_url}}).
 {% enddetails %}
 
 ## State and Local Laws

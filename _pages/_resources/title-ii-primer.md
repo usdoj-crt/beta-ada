@@ -147,7 +147,7 @@ Video relay service (VRS) is a free, subscriber-based service for people who use
 
 Staff who answer the telephone must accept and treat relay calls just like other calls. The communications assistant or interpreter will explain how the system works.
 
-For additional information, including the performance standards for VRI, see [ADA 2010 Revised Requirements: Effective Communication](( {{'/resources/effective-communication' | relative_url}})).
+For additional information, including the performance standards for VRI, see [ADA 2010 Revised Requirements: Effective Communication]({{'/resources/effective-communication' | relative_url}}).
 
 ## Making the Built Environment Accessible
 
