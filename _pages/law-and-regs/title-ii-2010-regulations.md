@@ -39,7 +39,7 @@ _Effective Date:_ March 15, 2011.
 
 **FOR FURTHER INFORMATION**{: #for-further-information}
 
-**CONTACT:**Janet L. Blizard, Deputy Chief, or Barbara J. Elkin, Attorney Advisor, Disability Rights Sec­tion, Civil Rights Division, U.S. Department of Justice, at (202) 307–0663 (voice or TTY). This is not a toll-free number. Information may also be obtained from the Department's toll-free ADA Information Line at {{ site.contact.tollfree }} (voice) or {{ site.contact.tty }} (TTY). This rule is also available in an accessible format on the ADA Home Page at _[ada.gov]({{'https:www.ada.gov'}})_. You may obtain copies of this rule in large print or on computer disk by calling the ADA Information Line listed above.
+**CONTACT:**Janet L. Blizard, Deputy Chief, or Barbara J. Elkin, Attorney Advisor, Disability Rights Sec­tion, Civil Rights Division, U.S. Department of Justice, at (202) 307–0663 (voice or TTY). This is not a toll-free number. Information may also be obtained from the Department's toll-free ADA Information Line at {{ site.contact.tollfree }} (voice) or {{ site.contact.tty }} (TTY). This rule is also available in an accessible format on the [ADA Home Page]({{'/index/ | relative_url}}). You may obtain copies of this rule in large print or on computer disk by calling the ADA Information Line listed above.
 
 ### SUPPLEMENTARY INFORMATION:
 
