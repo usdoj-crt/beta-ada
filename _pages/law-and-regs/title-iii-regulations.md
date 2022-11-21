@@ -143,7 +143,7 @@ From an economic perspective (as specified in OMB Circular A–B4), the results 
 
 Under this set of assumptions, the final rules have an expected NPV of $9.3 billion (7 percent discount rate) and $40.4 billion (3 percent discount rate).  *See* Final RIA, table ES–1 and figure ES–2.
 
-<table class="usa-table">
+<table class="usa-table usa-table--stacked">
 <caption>Expected Impact of the Rules{% fn 2 %}  (in billions)</caption>
 <thead>
 <tr>
@@ -155,16 +155,16 @@ Under this set of assumptions, the final rules have an expected NPV of $9.3 bill
 </thead>
 <tbody>
 <tr>
-<th scope="row">3%</th>
-<td>$40.4</td>
-<td>$66.2</td>
-<td>$25.8</td>
+<th data-label="Discount rate" scope="row">3%</th>
+<td data-label="Expected NPV">$40.4</td>
+<td data-label="Total Expected PV (Benefits)">$66.2</td>
+<td data-label="Total Expected PV (Costs)">$25.8</td>
 </tr>
 <tr>
-<th scope="row">7%</th>
-<td>$9.3</td>
-<td>$22.0</td>
-<td>$12.8</td>
+<th data-label="Discount rate" scope="row">7%</th>
+<td data-label="Expected NPV">$9.3</td>
+<td data-label="Total Expected PV (Benefits)">$22.0</td>
+<td data-label="Total Expected PV (Costs)">$12.8</td>
 </tr>
 </tbody>
 </table>

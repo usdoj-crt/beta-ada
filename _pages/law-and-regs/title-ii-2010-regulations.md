@@ -143,7 +143,10 @@ Under this set of assumptions, the final rules have an expected NPV of $9.3 bill
 
 **Expected Impact of the Rules {% fn 2 %} (in billions)**
 
-<table cellspacing="0" cellpadding="0"> <tr> <th width="74">Discount rate</th> <th width="74">Expected NPV</th> <th width="74">Total <br />  Expected PV  (Benefits)</th> <th width="74">Total <br />  Expected PV (Costs)</th> </tr> <tr> <td width="74" valign="top">3%</td> <td width="74" valign="top">$40.4</td> <td width="74" valign="top">$66.2</td> <td width="74" valign="top">$25.8</td> </tr> <tr> <td width="74" valign="top">7%</td> <td width="74" valign="top">$9.3</td> <td width="74" valign="top">$22.0</td> <td width="74" valign="top">$12.8</td> </tr> </table>
+ <table class="usa-table usa-table--stacked">
+ <tr> <th>Discount rate</th> <th>Expected NPV</th> <th>Total Expected PV  (Benefits)</th> <th>Total Expected PV (Costs)</th> </tr>
+ <tr> <td data-label="Discount rate">3%</td> <td data-label="Expected NPV">$40.4</td> <td data-label="Total Expected PV (Benefits)">$66.2</td> <td data-label="Total Expected PV (Costs)">$25.8</td> </tr>
+ <tr> <td data-label="Discount rate">7%</td> <td data-label="Expected NPV">$9.3</td> <td data-label="Total Expected PV (Benefits)">$22.0</td> <td data-label="Total Expected PV (Costs)">$12.8</td> </tr> </table>
 
 **Water Closet Clearances**
 
