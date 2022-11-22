@@ -12,8 +12,8 @@
     "start:js": "NODE_ENV=development webpack --config webpack.javascript.js --progress --watch",
     "start:sass": "webpack --config webpack.sass.js --progress --watch",
     "start": "npm run start:sass & npm run start:js & bundle exec jekyll serve --livereload --trace",
-    "test:a11y-desktop": "npm run build:js & npm run build:css pa11y-ci --config ./.pa11yci-desktop --sitemap http://127.0.0.1:4000/sitemap.xml",
-    "test:a11y-mobile": "npm run build:js & npm run build:css pa11y-ci --config ./.pa11yci-mobile --sitemap http://127.0.0.1:4000/sitemap.xml",
+    "test:a11y-desktop": "npm run build:js & npm run build:css & pa11y-ci --config ./.pa11yci-desktop --sitemap http://127.0.0.1:4000/sitemap.xml",
+    "test:a11y-mobile": "npm run build:js & npm run build:css & pa11y-ci --config ./.pa11yci-mobile --sitemap http://127.0.0.1:4000/sitemap.xml",
     "test:ui": "npm run start:js & bundle exec jekyll serve --detach && playwright test"
   },
   "dependencies": {
