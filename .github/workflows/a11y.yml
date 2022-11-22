@@ -19,11 +19,10 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: "16"
-      - run: npm i puppeteer
       - run: npm install
 
       - name: Start Server
-        run: bundle exec jekyll serve --config _config.yml,_config_test.yml --detach
+        run: npm run start:sass & npm run start:js & bundle exec jekyll serve --config _config.yml,_config_test.yml --detach
 
       - name: Run Accessibility Tests -- Desktop
         run: npm run test:a11y-desktop
