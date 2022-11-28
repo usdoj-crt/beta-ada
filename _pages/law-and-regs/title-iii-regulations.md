@@ -144,7 +144,7 @@ From an economic perspective (as specified in OMB Circular A–B4), the results 
 Under this set of assumptions, the final rules have an expected NPV of $9.3 billion (7 percent discount rate) and $40.4 billion (3 percent discount rate).  *See* Final RIA, table ES–1 and figure ES–2.
 
 <table class="usa-table usa-table--stacked">
-<caption>Expected Impact of the Rules{% fn 2 %}  (in billions)</caption>
+<caption class="pa11y-skip">Expected Impact of the Rules{% fn 2 %} (in billions)</caption>
 <thead>
 <tr>
 <th scope="col">Discount rate</th>
@@ -1012,7 +1012,7 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 ### Appendix to &sect; 36.304(d)
 
 <table class="usa-table">
-<caption>Compliance Dates and Applicable Standards for Barrier Removal and Safe Harbor</caption>
+<caption class="pa11y-skip">Compliance Dates and Applicable Standards for Barrier Removal and Safe Harbor</caption>
 <thead>
 <tr>
 <th scope="col">Date</th>
@@ -4258,7 +4258,7 @@ After considering all comments, census data,
  movie theaters in accordance with the following Table:&rduo;
 
 <table class="usa-table">
-<caption>The final rule at renumbered § 36.303(g)(3)(i) states that “[a] public accommodation shall provide a minimum number of fully operational captioning devices at its movie theaters.</caption>
+<caption class="pa11y-skip">The final rule at renumbered § 36.303(g)(3)(i) states that “[a] public accommodation shall provide a minimum number of fully operational captioning devices at its movie theaters.</caption>
 <thead>
 <tr>
 <th scope="col">Number of Movie Theater Auditoriums Exhibiting Digital Movies</th>
