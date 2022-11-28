@@ -1487,7 +1487,7 @@ Minimum maneuvering clearances at doors that are not automatic or power-assisted
 **EXCEPTION:** Entry doors to acute care hospital bedrooms for in-patients shall be exempted from the requirement for space at the latch side of the door (see dimension &quot;x&quot; in [Fig. 25](#figure25)) if the door is at least 44 in (1120 mm) wide.
 
 {% figure Figure 25 %}
-{% asset design-standards/fig_25_maneuvering_clearances.gif alt=" " %}
+{% asset design-standards/fig_25_maneuvering_clearances.gif alt="" %}
 {% figcaption %}
 <p><strong>Maneuvering Clearances at Doors.</strong></p>
 <p>NOTE: All doors in alcoves shall comply with the clearances for front approaches.
@@ -1516,7 +1516,7 @@ Depending on the direction of approach, diagrams (a) through (f) illustrate mini
 {% endfigure %}
 
 {% figure Figure 25 Continued %}
-{% asset design-standards/fig25-2.gif alt=" " %}
+{% asset design-standards/fig25-2.gif alt="" %}
 {% figcaption %}
 <p><strong>Maneuvering Clearances at Doors (continued)</strong></p>
 
@@ -1668,7 +1668,7 @@ The height of water closets shall be 17 in to 19 in (430 mm to 485 mm), measured
 
 
 {% figure Figure 29 %}
-{% asset design-standards/fig_29_grab_bars.gif alt=" "%}
+{% asset design-standards/fig_29_grab_bars.gif alt=""%}
 {% figcaption %}
 
 <p><strong>Grab Bars at Water Closets</strong></p>
@@ -1680,7 +1680,7 @@ The height of water closets shall be 17 in to 19 in (430 mm to 485 mm), measured
 <hr/>
 
 {% figure Figure 29b %}
-{% asset design-standards/fig_29b_sidewall.gif  alt=" "%}
+{% asset design-standards/fig_29b_sidewall.gif  alt=""%}
 {% figcaption %}
 <p><strong> Side Wall.</strong> A 42 inches (1065 mm) minimum length grab bar is required on the side wall, spaced a maximum of 12 inches (305 mm) from the back wall and extending a minimum of 54 inches (1370 mm) from the back wall at a height of 33-36 inches (840-915 mm). The toilet paper dispenser shall be mounted below the grab bar at a minimum height of 19 inches (485 mm). The height of the toilet seat shall be 17 to 19 inches (430 - 485 mm) above the finished floor.</p>
 {% endfigcaption %}
@@ -3109,7 +3109,7 @@ The wheelchair and user shown in [Fig. A3](#figurea3) represent typical dimensio
 Reach ranges for persons seated in wheelchairs may be further clarified by [Fig. A3a](#figurea3a). These drawings approximate in the plan view the information shown in [Fig. 4](#figure4), [Fig. 5](#figure5), and [Fig. 6](#figure6).
 
 {% figure Figure A3a%}
-{% asset design-standards/figa3a.gif alt=" " %}
+{% asset design-standards/figa3a.gif alt="" %}
 {% figcaption %}
 <p><strong>Figure A3(a).</strong> This figure shows the clear floor space for a wheelchair and reach ranges for front and side reach.</p>
 {% endfigcaption %}

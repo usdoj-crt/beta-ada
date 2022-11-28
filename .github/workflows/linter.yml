@@ -46,9 +46,9 @@ jobs:
           bundler-cache: true
 
       - name: Install Node.js dependencies
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
-          node-version: "12"
+          node-version: "16"
       - run: npm install --production
 
       - name: Build site
