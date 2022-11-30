@@ -18,12 +18,10 @@ This site requires Ruby and Node.js in order to run locally. For guidance on ins
     $ npm install
     $ bundle install
     $ npm start
-    OR
-    $ bundle exec jekyll serve
 
-To build but not serve the site, run `npm run build` or `bundle exec jekyll build`.
+To build but not serve the site, run `npm run build`.
 
-#### With Docker
+#### With Docker: UNDER CONSTRUCTION
     $ docker-compose run node npm install
     $ docker-compose build
     $ docker-compose up
