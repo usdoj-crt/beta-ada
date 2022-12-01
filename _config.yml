@@ -124,10 +124,10 @@ searchgov:
   endpoint: https://search.usa.gov
 
   # replace this with your search.gov account
-  affiliate: justice-ada-beta
+  affiliate: justice-ada
 
   # replace with your access key
-  access_key: R9JA5YunOBaTGydUNm-oJjGCqKQ-zXsulsNskJVe5-c=
+  access_key: Z8vERzCYuVMzAh2CKIRiyj1tRbOhdzseBGOuirGz1AQ=
 
   # this renders the results within the page instead of sending to user to search.gov
   inline: true
