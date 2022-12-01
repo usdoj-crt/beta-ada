@@ -1,7 +1,7 @@
 ---
-title: Title of Demo page
-description: This is a description.
-lead: Some lead text.
+title: Demo Page
+description: This is a description. Yes it is!
+lead: Some lead text. Some more lead text!
 permalink: www.google.com
 lang: en
 print: true
