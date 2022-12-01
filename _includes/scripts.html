@@ -13,24 +13,13 @@
     dataLayer.push(arguments);
   }
   gtag('js', new Date());
-
-  /**
-   * `forceSSL` was used for analytics.js (the older Google Analytics script).
-   * It isn't documented for gtag.js, but the term occurs in the gtag.js code;
-   * figure it doesn't hurt to leave it in. -@afeld, 5/29/19
-   */
-  gtag('config', '{{ site.ga.ua }}', { anonymize_ip: true, forceSSL: true });
+  gtag('config', '{{ site.ga.ua }}');
 </script>
-{% endif %}
-{% asset vendor/uswds/uswds.min.js !type %}
-{% asset dist/main-compiled.js !type %}
-{% asset dist/accordion-compiled.js !type %}
-{% if page.title == 'Search' %} {% asset dist/pagination-compiled.js !type %} {% endif %}
-{% if page.title == 'Give Us Feedback' %}
+
+{% endif %} {% asset vendor/uswds/uswds.min.js !type %} {% asset dist/main-compiled.js !type %} {%
+asset dist/accordion-compiled.js !type %} {% if page.title == 'Search' %} {% asset
+dist/pagination-compiled.js !type %} {% endif %} {% if page.title == 'Give Us Feedback' %}
 <script src="https://touchpoints.app.cloud.gov/touchpoints/73c5715c.js" async></script>
-{% endif %}
-{% if page.title == 'View Guidance & Resource Materials'%}
-{% asset dist/taResources-compiled.js %} {% endif %}
-{% unless page.back-to-top == nil or page.back-to-top == false  %}
-  {% asset dist/backToTop-compiled.js %}
-{% endunless %}
+{% endif %} {% if page.title == 'View Guidance & Resource Materials'%} {% asset
+dist/taResources-compiled.js %} {% endif %} {% unless page.back-to-top == nil or page.back-to-top ==
+false %} {% asset dist/backToTop-compiled.js %} {% endunless %}
