@@ -2,7 +2,7 @@
 title: Demo Page
 description: This is a description. Yes it is!
 lead: Some lead text. Some more lead text!
-permalink: www.google.com
+permalink: /resources/demo-page
 lang: en
 print: true
 publish-date: December 1, 2022 11:51 AM
