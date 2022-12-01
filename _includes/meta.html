@@ -1,7 +1,5 @@
-{% assign lang = page.lang %}
-{% assign ref = page.ref %}
-{% if lang==nil %}{% assign lang="en" %}{% endif %}
-{% assign pages=site.pages | where:"ref", page.ref | sort: lang %}
+{% assign lang = page.lang %} {% assign ref = page.ref %} {% if lang==nil %}{% assign lang="en" %}{%
+endif %} {% assign pages=site.pages | where:"ref", page.ref | sort: lang %}
 
 <head>
   <link rel="icon" href="{% asset 'favicon.png' @path %}" />
@@ -17,28 +15,11 @@
   <!-- Title and meta description
     ================================================== -->
   {% seo %}
-  <meta http-equiv="Content-Language" content={{lang}}>
-  {% for item in pages %}
-    {% if item.ref!=nil and item.ref==ref %}
-      <link rel="alternate" hreflang={{item.lang}} href={{item.url | relative_url }}>
-    {% endif%}
-  {% endfor %}
+  <meta http-equiv="Content-Language" content="{{lang}}" />
+  {% for item in pages %} {% if item.ref!=nil and item.ref==ref %}
+  <link rel="alternate" hreflang="{{item.lang}}" href="{{item.url" | relative_url }} />
+  {% endif%} {% endfor %}
   <!-- CSS
     ================================================== -->
-  {% asset styles.css %}
-  {% asset vendor/uswds/uswds-init.min.js !type %}
-  {% if jekyll.environment=="production" %}
-  <script>
-    (function (w, d, s, l, i) {
-      w[l] = w[l] || [];
-      w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
-      var f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s),
-        dl = l != 'dataLayer' ? '&l=' + l : '';
-      j.async = true;
-      j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-      f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-KSM84GR');
-  </script>
-  {% endif %}
+  {% asset styles.css %} {% asset vendor/uswds/uswds-init.min.js !type %}
 </head>
