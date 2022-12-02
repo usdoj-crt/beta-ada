@@ -11,6 +11,7 @@ let searchParams = {
   query: urlParams.get('query'),
   offset: urlParams.get('offset') || 0,
   limit: NUMBER_OF_RESULTS,
+  sort_by: 'date'
 };
 // Add our total number of results DOM node:
 const target = document.getElementById("totalResultsTarget");

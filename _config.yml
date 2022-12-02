@@ -132,6 +132,8 @@ searchgov:
   # this renders the results within the page instead of sending to user to search.gov
   inline: true
 
+  sort_by: date
+
   # how many results to display per pages
   limit: 20
 ##########################################################################################
