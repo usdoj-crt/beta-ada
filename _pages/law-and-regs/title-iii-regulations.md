@@ -6,6 +6,7 @@ back-to-top: true
 subnavigation: true
 redirect_from:
     - /regs2010/titleiii_2010/titleiii_2010_regulations.htm
+    - /regs2010/titleIII_2010/titleIII_2010_regulations.htm
     - /regs2010/titleiii_2010/titleiii_2010_withbold.htm
 related-content: true
 tags:

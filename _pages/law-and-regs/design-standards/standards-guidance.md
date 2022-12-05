@@ -11,6 +11,7 @@ print: true
 back-to-top: true
 redirect_from:
   - /regs2010/2010adastandards/guidance2010adastandards.htm
+  - /regs2010/2010ADAStandards/Guidance2010ADAstandards.htm
 sidenav-pdf:
   title: Guidance on the 2010 ADA Standards for Accessible Design
   filename: guidance-2010-standards.pdf
