@@ -15,6 +15,7 @@ redirect_from:
   - /regs2010/titleII_2010/titleII_2010_regulations.htm
   - /regs2010/titleii_2010/titleii_2010_withbold.htm
   - /regs2010/titleII_2010/titleII_2010_withbold.htm
+  - /regs2010/titleII_2010regulations/
 related-content: true
 tags:
   - title ii

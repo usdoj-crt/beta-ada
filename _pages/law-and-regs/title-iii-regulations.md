@@ -8,6 +8,7 @@ redirect_from:
     - /regs2010/titleiii_2010/titleiii_2010_regulations.htm
     - /regs2010/titleIII_2010/titleIII_2010_regulations.htm
     - /regs2010/titleiii_2010/titleiii_2010_withbold.htm
+    - /regs2010/titleIII_2010/reg3_2010_appendix_b.htm
 related-content: true
 tags:
   - title iii
