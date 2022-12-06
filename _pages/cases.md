@@ -11,6 +11,8 @@ redirect_from:
   - /olmstead/olmstead_enforcement.htm
   - /hiv/ada_hiv_enforcement.htm
   - /criminaljustice/cj_enforcement_activities.html
+  - /enforce.htm
+  - /enforce_activities/
 sidenav: false
 lead: |-
   The Department of Justice enforces the ADA through lawsuits and settlement agreements to achieve greater access, inclusion, and equal opportunity for people with disabilities.

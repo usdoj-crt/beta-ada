@@ -18,6 +18,7 @@ tags:
 related-content: true
 redirect_from:
   - /ada_title_iii.htm
+  - /ada_title_III.htm
 ---
 
 ## Title III Applies to Businesses

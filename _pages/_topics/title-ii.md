@@ -18,6 +18,7 @@ tags:
 related-content: true
 redirect_from:
   - /ada_title_ii.htm
+  - /ada_title_II.htm
 ---
 
 ## Title II Applies to State/Local Programs

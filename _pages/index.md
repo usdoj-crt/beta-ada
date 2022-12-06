@@ -159,6 +159,7 @@ report:
 redirect_from:
   - /contact_drs.htm
   - /adahom1.htm
+  - /index/
 ---
 
 {% include landing/hero.html hero=page.hero %}

@@ -12,6 +12,9 @@ tags:
   - effective communication
 redirect_from:
   - /effective-comm.htm
+  - /effectivecomm.htm
+  - /effective-comm/
+  - /effectivecomm/
 ---
 ## Overview
 
