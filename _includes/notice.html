@@ -1,23 +1,20 @@
 {% assign lang = "en" %}
 {% if lang==nil %}{% assign lang="en" %}{% endif %}
 
-<div id="warning-banner" class="bg-warning padding-y-2 font-sans-2xs">
-  <div class="grid-container">
-    <div class="grid-row grid-gap">
-      <div class="tablet:grid-col-12">
-        {% for post in site.categories.notices reversed limit:1 %}
-        {% asset img/usa-icons/warning.svg class="usa-icon margin-right-05"
-        aria-hidden="true"
-        focusable="false"
-        role="img"
-        alt=""%}
+<section id="warning-banner" class="usa-site-alert usa-site-alert--info" aria-label='Site alert, {% if lang=="en" %}{{ post.notice_text }}{% elsif lang=="es" %}{{post.notice_text_es}}{% endif %}'>
+  <div class="usa-alert">
+    <div class="usa-alert__body">
+      {% for post in site.categories.notices reversed limit:1 %}
+      <h3 class="usa-alert__heading">{% if lang=="en" %}{{ post.notice_text }}{% elsif lang=="es" %}{{post.notice_text_es}}{% endif %}</h3>
+      <p class="usa-alert__text">
         <a
           class="text-no-underline hover:text-ink hover:text-underline"
           href="{{ post.url | relative_url }}"
-          >{% if lang=="en" %}{{ post.notice_text }}{% elsif lang=="es" %}{{post.notice_text_es}}{% endif %}</a
+          >{% if lang=="en" %}{{ post.notice_link }}{% elsif lang=="es" %}{{post.notice_link}}{% endif %}</a
         >
-        {% endfor %}
-      </div>
+      </p>
+      {% endfor %}
     </div>
   </div>
-</div>
+</section>
+

@@ -1,0 +1,12 @@
+// Overwrite the icon used by the alert banner on the homepage:
+.usa-site-alert--info .usa-alert::before {
+    background: url("img/usa-icons/warning.svg") no-repeat center/contain;
+    -webkit-mask: url("img/usa-icons/warning.svg") no-repeat center/contain;
+    mask: url("img/usa-icons/warning.svg") no-repeat center/contain;
+}
+
+// Change the default alert border color and add a small left hand border to the alert
+.usa-site-alert--info .usa-alert {
+    background-color: #FBF3D1;
+    border-left: #FFBE2E solid 0.5rem;
+}

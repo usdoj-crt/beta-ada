@@ -1,8 +1,9 @@
 ---
 title: Justice Department launches new Americans with Disabilities Act website
 title_es: Justice Department launches new Americans with Disabilities Act website
-notice_text: The new ADA.gov has launched! Learn more here.
-notice_text_es:  The new ADA.gov has launched! Learn more here.
+notice_text: The new ADA.gov has launched!
+notice_text_es:  The new ADA.gov has launched!
+notice_link: Learn more here.
 sidenav: false
 publish-date: 2022-11-18 00:00:00
 ---
