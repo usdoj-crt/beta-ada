@@ -10,3 +10,19 @@
     background-color: #FBF3D1;
     border-left: #FFBE2E solid 0.5rem;
 }
+
+// Change the alert text color
+.usa-alert__text {
+    color: #005ea2 !important;
+}
+
+// Remove underline before hover
+#warning-banner a {
+    text-decoration: none;
+}
+
+// Change the anchor link styling to primary color darker
+#warning-banner a:hover {
+    color: #1a4480;
+    text-decoration: underline;
+}
