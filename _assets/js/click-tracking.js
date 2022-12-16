@@ -10,7 +10,7 @@ export default function clickTracking() {
   allLinks.forEach((link, index) => {
     const url = link.href;
     const query = encodeURI(getSearchParam('query'));
-    const position = Number(getSearchParam('offset')) + (index + 1);
+    const position = encodeURI(Number(getSearchParam('offset')) + (index + 1));
     // What we need to send to the click tracking endpoint:
     // url clicked
     // search query
