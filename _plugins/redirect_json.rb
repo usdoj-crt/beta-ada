@@ -35,9 +35,7 @@ module RedirectsJson
 
   class RedirectsJsonPageGenerator < Jekyll::Generator
     def generate(site)
-      redirects = Jekyll::Collection.new(site, 'json_redirects')
-      site.collections['json_redirects'] = redirects
-      redirects.docs += site.data['redirects'].map do |from, to|
+      site.pages += site.data['redirects'].map do |from, to|
         RedirectsJsonPage.new(site, from, to)
       end
     end
