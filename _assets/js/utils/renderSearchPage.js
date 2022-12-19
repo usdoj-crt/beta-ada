@@ -7,6 +7,7 @@ import paginationTemplate from "../templates/pagination/paginationTemplate";
 import textBestBetsTemplate from "../templates/search/textBestBetsTemplate";
 import searchResultsTemplate from "../templates/search/searchResultsTemplate";
 import totalResults from "../templates/search/totalResultsTemplate";
+import clickTracking from "../click-tracking";
 
 export default function renderSearchPage(searchResults, urlParams, numberOfResults) {
   const results = searchResults;
@@ -38,6 +39,8 @@ export default function renderSearchPage(searchResults, urlParams, numberOfResul
     webResults.forEach(function (item) {
       renderSearchResults(searchResultsTemplate(item));
     });
+    // Set up click tracking for search.gov:
+    clickTracking();
     // List the total number of results:
     target.innerHTML = totalResults(webTotalResults, 'result');
     // FOR PAGINATION:
