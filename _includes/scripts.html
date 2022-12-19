@@ -1,11 +1,13 @@
+{% if jekyll.environment=="production" %}
 <!-- Digital Analytics Program roll-up, see https://analytics.usa.gov for data -->
 {% if site.dap.agency %}
 <script
   id="_fed_an_ua_tag"
   src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency={{site.dap.agency}}{% if site.dap.subagency %}&subagency={{site.dap.subagency}}{% endif %}"
 ></script>
-{% endif %} {% if site.ga.ua and jekyll.environment=="production" %}
+{% endif %}
 <!-- Google Analytics -->
+{% if site.ga.ua %}
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga.ua }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -15,8 +17,10 @@
   gtag('js', new Date());
   gtag('config', '{{ site.ga.ua }}');
 </script>
+{% endif %}
+{% endif %}
 
-{% endif %} {% asset vendor/uswds/uswds.min.js !type %} {% asset dist/main-compiled.js !type %} {%
+{% asset vendor/uswds/uswds.min.js !type %} {% asset dist/main-compiled.js !type %} {%
 asset dist/accordion-compiled.js !type %} {% if page.title == 'Search' %} {% asset
 dist/pagination-compiled.js !type %}
 {% asset dist/clickTracking-compiled.js %}
