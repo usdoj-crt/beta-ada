@@ -183,6 +183,7 @@ exclude:
   - /test-results
   - /playwright-report
   - /mock_data
+  - make_redirects.rb
 
 assets:
   autoprefixer:
