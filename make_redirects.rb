@@ -2,6 +2,9 @@ require 'optparse'
 require 'json'
 
 FILE_PATTERNS = [
+  '*.doc',
+  '*.docx',
+  '*.DOCX',
   '*.pdf',
 ].freeze
 
