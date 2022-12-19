@@ -11,7 +11,7 @@ module RedirectsJson
     include Jekyll::Filters::URLFilters
 
     def initialize(site, from, to)
-      from += '.html' unless from.end_with?('.html')
+      from += '/index.html' unless from.end_with?('.html')
 
       @site = site
       @name = from
