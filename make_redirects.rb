@@ -46,12 +46,6 @@ def get_files_to_redirect(options)
   files
 end
 
-def escape_files(files)
-  files.map do |file|
-    file.gsub(' ', '%20')
-  end
-end
-
 def make_map(files, options)
   files.map do |file|
     ['/' << file, File.join(options[:prefix], file)]
@@ -61,7 +55,7 @@ end
 def main
   options = parse_options
 
-  files = escape_files(get_files_to_redirect(options))
+  files = get_files_to_redirect(options)
   redirects = make_map(files, options)
   json_redirects = JSON.pretty_generate(redirects)
   File.open(options[:dest], 'w') do |file|
