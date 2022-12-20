@@ -3,10 +3,9 @@ on: [push]
 jobs:
   build:
     name: Run Accessibility Tests
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
 
     steps:
-      - run: env
       - name: Checkout Source
         uses: actions/checkout@v2
 
