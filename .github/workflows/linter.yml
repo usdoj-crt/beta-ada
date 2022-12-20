@@ -52,7 +52,7 @@ jobs:
       - run: npm install --production
 
       - name: Build site
-        run: bundle exec jekyll build
+        run: npm run build:css && npm run build:js && bundle exec jekyll build
 
       ################################
       # Run Linter against code base #
