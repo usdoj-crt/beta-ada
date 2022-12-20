@@ -58,8 +58,9 @@ jobs:
       # Run Linter against code base #
       ################################
       - name: Lint Code Base
-        uses: github/super-linter@v4.0.2
+        uses: github/super-linter/slim@v4
         env:
+          ACTIONS_RUNNER_DEBUG: true
           DEFAULT_BRANCH: main
           FILTER_REGEX_INCLUDE: .*(\_assets|\_pages|\_site).*
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
