@@ -8,7 +8,9 @@ module.exports = {
     pagination: './_assets/js/pagination.js',
     taResources: './_assets/js/ta-selectors.js',
     backToTop: './_assets/js/utils/backToTop.js',
-    clickTracking: './_assets/js/click-tracking.js'
+    clickTracking: './_assets/js/click-tracking.js',
+    makeBodyContent: './_assets/js/netlify/topics/makeBodyContent.js',
+    makeTemplate: './_assets/js/netlify/topics/makeTemplate.js',
   },
   output: {
     path: path.resolve(__dirname, './_assets/js/', 'dist'),

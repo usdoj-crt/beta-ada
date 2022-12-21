@@ -1,25 +1,84 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ADA Content Manager</title>
-</head>
-<body>
-   <!-- Include the script that builds the page and powers Netlify CMS -->
-  <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
-   <link href="/admin/config.yml" type="text/yaml" rel="cms-config-url">
-   <style>
-     img[alt="Logo"] {
-       margin-left: 75px;
-       width: 150px;
-     }
-     p {
-       color: red;
-     }
-     button {
-       margin-top: 0px !important;
-     }
-   </style>
-</body>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ADA Content Manager</title>
+  </head>
+  <body>
+    <!-- Include the script that builds the page and powers Netlify CMS -->
+    <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+    <script>
+      CMS.registerPreviewStyle('/assets/styles.css');
+    </script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/13.0.1/markdown-it.min.js"
+      integrity="sha512-SYfDUYPg5xspsG6OOpXU366G8SZsdHOhqk/icdrYJ2E/WKZxPxze7d2HD3AyXpT7U22PZ5y74xRpqZ6A2bJ+kQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <!-- <script src="/assets/dist/makeBodyContent-compiled.js"></script>
+  <script src="/assets/dist/makeTemplate-compiled.js"></script> -->
+    <script>
+      const md = window.markdownit();
+      const parser = new DOMParser();
+
+      const makeTemplate = (title, leadText, body) => {
+        return h(
+          'div',
+          {
+            id: 'crt-page--content',
+            className: 'mobile-lg:grid-col tablet:grid-col-12 desktop:grid-col-8',
+          },
+          h('h1', {}, title),
+          h(
+            'div',
+            { className: 'measure-6' },
+            h('div', { className: 'crt-lead' }, h('p', {}, leadText)),
+            body.map((item) =>
+              item.nodeName == 'UL'
+                ? console.log('UL')
+                : h(item.nodeName.toLowerCase(), {}, item.innerHTML)
+            )
+          )
+        );
+      };
+
+      // This function takes our body content as input, turns the markdown into HTML,
+      // then loops over the html elements
+      const makeBodyContent = (bodyContent) => {
+        let html = parser.parseFromString(md.render(bodyContent), 'text/html');
+        let elements = html.children[0].children[1].childNodes;
+        let elementsArray = Array.from(elements).filter((elem) => elem.nodeName !== '#text');
+        return elementsArray;
+      };
+
+      let TopicsPreview = createClass({
+        render: function () {
+          let entry = this.props.entry;
+          let title = entry.getIn(['data', 'title']);
+          let leadText = entry.getIn(['data', 'lead']);
+          let rawBodyContent = entry.getIn(['data', 'body']);
+          let bodyContentsArr = makeBodyContent(rawBodyContent);
+          return makeTemplate(title, leadText, bodyContentsArr);
+        },
+      });
+
+      CMS.registerPreviewTemplate('topics', TopicsPreview);
+    </script>
+
+    <link href="/admin/config.yml" type="text/yaml" rel="cms-config-url" />
+    <style>
+      img[alt='Logo'] {
+        margin-left: 75px;
+        width: 150px;
+      }
+      p {
+        color: red;
+      }
+      button {
+        margin-top: 0px !important;
+      }
+    </style>
+  </body>
 </html>
