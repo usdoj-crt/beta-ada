@@ -74,8 +74,8 @@ end
 
 def main
   options = parse_options
-  html_dest = File.join(options[:dest], '_data/generated.redirects.json')
-  other_dest = File.join(options[:dest], '_assets/js/generated.redirects.js')
+  html_dest = File.join(options[:dest], '_data/generated_redirects.json')
+  other_dest = File.join(options[:dest], '_assets/js/generated_redirects.js')
 
   files = get_files_to_redirect(options)
   html_files, other_files = split_files(files)
