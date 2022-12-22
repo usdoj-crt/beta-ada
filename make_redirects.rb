@@ -4,11 +4,25 @@ require 'json'
 FILE_PATTERNS = [
   '*.html',
   '*.htm',
-  '*.txt',
+  '*.DOCX',
+  '*.GIF',
+  '*.JPG',
+  '*.ai',
+  '*.bmp',
   '*.doc',
   '*.docx',
-  '*.DOCX',
+  '*.gif',
+  '*.jpe',
+  '*.jpeg',
+  '*.jpg',
   '*.pdf',
+  '*.png',
+  '*.psd',
+  '*.svg',
+  '*.thmx',
+  '*.tiff',
+  '*.txt',
+  '*.wpd',
 ].freeze
 
 def parse_options
