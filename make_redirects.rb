@@ -2,6 +2,9 @@ require 'optparse'
 require 'json'
 
 FILE_PATTERNS = [
+  '*.html',
+  '*.htm',
+  '*.txt',
   '*.doc',
   '*.docx',
   '*.DOCX',
@@ -18,7 +21,7 @@ def parse_options
       options[:src] = src
     end
 
-    opts.on('-dDEST', '--dest=DEST', 'Set an output file (default: ./_data/redirects.json') do |dest|
+    opts.on('-dDEST', '--dest=DEST', 'Set an output file (default: .') do |dest|
       options[:dest] = dest
     end
 
@@ -32,7 +35,7 @@ def parse_options
     end
   end.parse!
 
-  options[:dest] ||= './_data/redirects.json'
+  options[:dest] ||= '.'
   options[:src] ||= '../ada'
   options[:prefix] ||= 'https://archive.ada.gov'
 
@@ -55,17 +58,31 @@ def make_map(files, options)
   end.sort.to_h
 end
 
+def split_files(files)
+  files.partition do |file|
+    /\.html?$/.match?(file)
+  end
+end
+
+def write_redirects(redirects, dest, options, prefix = '', suffix = '')
+  redirects_json = JSON.pretty_generate(redirects)
+  File.open(dest, 'w') do |file|
+    file.write(prefix << redirects_json << suffix)
+  end
+  puts "Overwrote #{dest} with #{redirects.length} redirects to #{options[:prefix]} from #{options[:src]}"
+end
+
 def main
   options = parse_options
+  html_dest = File.join(options[:dest], '_data/generated.redirects.json')
+  other_dest = File.join(options[:dest], '_assets/js/generated.redirects.js')
 
   files = get_files_to_redirect(options)
-  redirects = make_map(files, options)
-  json_redirects = JSON.pretty_generate(redirects)
-  File.open(options[:dest], 'w') do |file|
-    file.write(json_redirects)
-  end
-
-  puts "Overwrote #{options[:dest]} with #{redirects.length} redirects to #{options[:prefix]} from #{options[:src]}"
+  html_files, other_files = split_files(files)
+  html_redirects = make_map(html_files, options)
+  other_redirects = make_map(other_files, options)
+  write_redirects(html_redirects, html_dest, options)
+  write_redirects(other_redirects, other_dest, options, prefix='export default ', suffix=';')
 end
 
 main

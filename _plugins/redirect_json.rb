@@ -33,7 +33,17 @@ module RedirectsJson
 
   class RedirectsJsonPageGenerator < Jekyll::Generator
     def generate(site)
-      site.pages += site.data['redirects'].map do |from, to|
+      # Merging in this order will overwrite entries in generated.redirects
+      # with entries from manual.redirects
+      #
+      # This is useful if we _don't_ want to redirect to what's generated.
+      redirects = site.data['generated.redirects'].merge(site.data['manual.redirects'])
+
+      ignoring_excludes = redirects.reject do |_, to|
+        to.nil?
+      end
+
+      site.pages += ignoring_excludes.map do |from, to|
         RedirectsJsonPage.new(site, from, to)
       end
     end
