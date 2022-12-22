@@ -8,6 +8,7 @@ module.exports = {
     pagination: './_assets/js/pagination.js',
     taResources: './_assets/js/ta-selectors.js',
     backToTop: './_assets/js/utils/backToTop.js',
+    clickTracking: './_assets/js/click-tracking.js',
     redirect404: './_assets/js/redirect404.js',
   },
   output: {

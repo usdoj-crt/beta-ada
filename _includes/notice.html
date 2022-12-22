@@ -8,6 +8,7 @@
       <h3 class="usa-alert__heading">{% if lang=="en" %}{{ post.notice_text }}{% elsif lang=="es" %}{{post.notice_text_es}}{% endif %}</h3>
       <p class="usa-alert__text">
         <a
+          class="pa11y-skip"
           href="{{ post.url | relative_url }}"
           >{% if lang=="en" %}{{ post.notice_link }}{% elsif lang=="es" %}{{post.notice_link}}{% endif %}</a
         >
