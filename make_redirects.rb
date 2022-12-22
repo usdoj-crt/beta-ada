@@ -58,12 +58,6 @@ def make_map(files, options)
   end.sort.to_h
 end
 
-def split_files(files)
-  files.partition do |file|
-    /\.html?$/.match?(file)
-  end
-end
-
 def write_redirects(redirects, dest, options, prefix = '', suffix = '')
   redirects_json = JSON.pretty_generate(redirects)
   File.open(dest, 'w') do |file|
@@ -74,15 +68,11 @@ end
 
 def main
   options = parse_options
-  html_dest = File.join(options[:dest], '_data/generated_redirects.json')
-  other_dest = File.join(options[:dest], '_assets/js/generated_redirects.js')
+  dest = File.join(options[:dest], '_data/generated_redirects.json')
 
   files = get_files_to_redirect(options)
-  html_files, other_files = split_files(files)
-  html_redirects = make_map(html_files, options)
-  other_redirects = make_map(other_files, options)
-  write_redirects(html_redirects, html_dest, options)
-  write_redirects(other_redirects, other_dest, options, prefix='export default ', suffix=';')
+  redirects = make_map(files, options)
+  write_redirects(redirects, dest, options)
 end
 
 main

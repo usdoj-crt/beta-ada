@@ -1,7 +1,9 @@
-import manual from "./manual_redirects.js";
-import generated from "./generated_redirects.js";
+function showNotFound() {
+  document.getElementById('redirect-pending').style.display = 'none';
+  document.getElementById('redirect-failed').style.display = 'unset';
+}
 
-function attemptToRedirect(attemptedPath) {
+function attemptToRedirect(attemptedPath, manual, generated) {
   if (!attemptedPath.replaceAll('/', '').trim()) {
     return; // Don't even try if the path is empty
   }
@@ -28,8 +30,37 @@ function attemptToRedirect(attemptedPath) {
   }
 
   // If we make it here, it's a real 404.
-  document.getElementById('redirect-pending').style.display = 'none';
-  document.getElementById('redirect-failed').style.display = 'unset';
+  showNotFound();
 }
 
-attemptToRedirect(window.location.pathname);
+const gotRedirects = {};
+function waitForRedirects(name, request) {
+  gotRedirects[name] = JSON.parse(request.responseText);
+  if (!gotRedirects.hasOwnProperty('manual')) return;
+  if (!gotRedirects.hasOwnProperty('generated')) return;
+
+  attemptToRedirect(window.location.pathname, gotRedirects['manual'], gotRedirects['generated']);
+}
+
+function requestRedirects(name, attempts) {
+  if (attempts <= 0) {
+    showNotFound();
+    return;
+  }
+  const request = new XMLHttpRequest();
+  function handleResponse() {
+    if (this.status !== 200) {
+      requestRedirects(name, attempts - 1);
+      return;
+    }
+    waitForRedirects(name, this);
+  }
+  request.addEventListener('load', handleResponse);
+  request.overrideMimeType('application/json');
+  request.open('GET', `/${name}_redirects.json`);
+  request.send();
+}
+
+const ATTEMPTS = 5;
+requestRedirects('manual', ATTEMPTS);
+requestRedirects('generated', ATTEMPTS);

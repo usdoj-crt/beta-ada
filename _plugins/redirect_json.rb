@@ -43,7 +43,12 @@ module RedirectsJson
         to.nil?
       end
 
-      site.pages += ignoring_excludes.map do |from, to|
+      ignoring_nonhtml = ignoring_excludes.select do |_, to|
+        # Non-html redirects must be handled in JavaScript.
+        /\.html?$/.match?(to)
+      end
+
+      site.pages += ignoring_nonhtml.map do |from, to|
         RedirectsJsonPage.new(site, from, to)
       end
     end
