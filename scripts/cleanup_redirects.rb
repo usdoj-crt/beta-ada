@@ -19,6 +19,7 @@ require 'fileutils'
 require 'json'
 require 'optparse'
 require 'yaml'
+require 'net/http'
 
 # If more or less than these keys are present, we don't consider this a simple
 # redirect, because the redirect_json plugin won't make the exact same behavior.
@@ -29,6 +30,10 @@ def parse_options
 
   OptionParser.new do |opts|
     opts.banner = 'Usage: example.rb [options]'
+
+    opts.on('-c', '--check-validity', 'Check if the redirect_to url exists on prod') do |c|
+      options[:check_validity] = c
+    end
 
     opts.on('-d', '--delete', 'Remove any redundant markdown redirects') do |d|
       options[:delete] = d
@@ -41,6 +46,7 @@ def parse_options
   end.parse!
 
   options[:delete] ||= false
+  options[:check_validity] ||= false
 
   options
 end
@@ -82,44 +88,65 @@ def determine_blockers(paths)
     categorized = categorize_redirects(redirects, scripted)
     (
       handle_absent(categorized[:absent], scripted, redirect_path) +
-      handle_matches(categorized[:matches], scripted, redirect_path) +
       handle_conflicts(categorized[:conflicts], scripted, redirect_path)
     )
+  end
+end
+
+def check_validity(conflicts)
+  return conflicts unless @options[:check_validity]
+
+  conflicts.map do |conflict|
+    to = conflict[:md]
+    url = /^http/.match(to) ? to : File.join('https://ada.gov', to)
+
+    uri = URI.parse(url.gsub(' ', '%20'))
+    request = Net::HTTP.new(uri.host, uri.port)
+    request.use_ssl = true
+    begin
+      response = request.request_head(uri.path)
+      code = response.code
+      puts "Validated #{url} as #{code}"
+    rescue
+      code = -1
+    end
+
+    conflict.merge({status: code})
   end
 end
 
 def handle_absent(redirects, scripted, path)
   return [] if redirects.empty?
 
-  redirects.map do |from, to|
-    { reason: 'absent', file: path, json: to, md: scripted[from] }
+  absent = redirects.map do |from, to|
+    { reason: 'absent', file: path, md: to, json: scripted[from] }
   end
+
+  check_validity(absent)
 end
 
-def handle_matches(redirects, scripted, path)
-  return [] if redirects.empty?
-
-  []
+def equal_ignoring_htm?(a, b)
+  a_extless = a.gsub(/\.html?$/, '')
+  b_extless = b.gsub(/\.html?$/, '')
+  return a_extless == b_extless
 end
 
 def handle_conflicts(redirects, scripted, path)
   return [] if redirects.empty?
 
   conflicts = redirects.map do |from, to|
-    { reason: 'conflict', file: path, json: to, md: scripted[from] }
+    { reason: 'conflict', file: path, md: to, json: scripted[from] }
   end
 
-  conflicts.select do |conflict|
-    # Ignore conflicts that have to do with case.
+  conflicts = conflicts.select do |conflict|
     next false if conflict[:json].downcase == conflict[:md].downcase
 
-    # Ignore conflicts that deal with redirecting htm <-> html
-    json_extless = conflict[:json].gsub(/\.html?$/, '')
-    md_extless = conflict[:md].gsub(/\.html?$/, '')
-    next false if json_extless == md_extless
+    next false if equal_ignoring_htm?(conflict[:json], conflict[:md])
 
     true
   end
+
+  check_validity(conflicts)
 end
 
 def categorize_redirects(redirects, scripted)
@@ -147,7 +174,7 @@ def main
     clear.each { |c| File.unlink(c) }
     puts "Deleted #{clear.length} redundant markdown files."
   else
-    CSV.open('redundant.csv', 'wb', {headers: ['filename']} ) do |csv|
+    CSV.open('redundant.csv', 'wb', {write_headers: true, headers: ['filename']} ) do |csv|
       clear.each { |c| csv << [c] }
     end
     puts "#{clear.length} files are ready to be deleted; see ./redundant.csv for a full list, and re-run with --delete to remove them."
@@ -156,7 +183,7 @@ def main
   return unless blockers;
 
   puts "Found #{blockers.length} conflicting or missing redirects. See ./blockers.csv for a full list."
-  CSV.open('blockers.csv', 'wb', {headers: blockers.first.keys} ) do |csv|
+  CSV.open('blockers.csv', 'wb', {write_headers: true,headers: blockers.first.keys} ) do |csv|
     blockers.sort_by{ |b| b[:reason] }.each do |hash|
       csv << hash
     end
