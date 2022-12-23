@@ -9,8 +9,7 @@ module.exports = {
     taResources: './_assets/js/ta-selectors.js',
     backToTop: './_assets/js/utils/backToTop.js',
     clickTracking: './_assets/js/click-tracking.js',
-    makeBodyContent: './_assets/js/netlify/topics/makeBodyContent.js',
-    makeTemplate: './_assets/js/netlify/topics/makeTemplate.js',
+    netlifyPreview: './_assets/js/netlify/topics/preview.js',
   },
   output: {
     path: path.resolve(__dirname, './_assets/js/', 'dist'),

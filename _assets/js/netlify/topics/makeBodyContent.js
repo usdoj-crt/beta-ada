@@ -8,3 +8,5 @@ const makeBodyContent = (bodyContent) => {
   let elementsArray = Array.from(elements).filter((elem) => elem.nodeName !== '#text');
   return elementsArray;
 };
+
+export default makeBodyContent;
