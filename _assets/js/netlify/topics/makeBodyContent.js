@@ -1,4 +1,6 @@
 const md = window.markdownit();
+md.options['html'] = true;
+md.options['linkify'] = true;
 const parser = new DOMParser();
 // This function takes our body content as input, turns the markdown into HTML,
 // then loops over the html elements
