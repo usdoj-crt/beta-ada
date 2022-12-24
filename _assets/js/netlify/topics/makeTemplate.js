@@ -8,10 +8,6 @@ const makeTemplate = (title, leadText, body) => {
           h('p', {}, leadText)
         ),
         generateChildElements(body)
-        // body.map(item=> h(
-        //   item.nodeName.toLowerCase(),
-        //   { "id": item.id.toString(), "className": [...item.classList] },
-        //   item.innerHTML))
         ))
   };
 
