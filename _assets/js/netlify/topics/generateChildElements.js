@@ -1,17 +1,18 @@
-//const notAllowed = ['table', 'tbody', 'thead', 'tr', 'td', 'th', 'strong', 'u', 'i', 'b'];
+const notAllowed = ['em', 'strong', 'u', 'i', 'b'];
 
 const generateChildElements = (html) =>
   html.map((item) => {
-    if (item.children.length > 0) {
+    if (item.children && item.children.length > 0) {
       return h(
         item.nodeName.toLowerCase(),
-        { "id": item.id.toString(), "className": [...item.classList] },
+        { "id": item.id.toString(), "className": item.className },
+        // Problem: We never display the inner content of the first element
         generateChildElements(Array.from(item.children))
       )
   } else {
     return h(
       item.nodeName.toLowerCase(),
-      { "id": item.id.toString(), "className": [...item.classList] },
+      { "id": item.id.toString(), "className": item.className },
       item.innerHTML
     )
   }
