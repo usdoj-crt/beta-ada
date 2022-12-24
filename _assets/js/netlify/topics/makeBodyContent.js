@@ -5,7 +5,7 @@ const parser = new DOMParser();
 const makeBodyContent = (bodyContent) => {
   let html = parser.parseFromString(md.render(bodyContent), 'text/html');
   let elements = html.children[0].children[1].childNodes;
-  let elementsArray = Array.from(elements).filter((elem) => elem.nodeName !== '#text');
+  let elementsArray = Array.from(elements).filter((elem) => elem.nodeType === 1);
   return elementsArray;
 };
 
