@@ -19,7 +19,7 @@ related-content: true
 Emergency management is wide-ranging. Some examples of these programs, which
 are addressed below, include:  
 - emergency alerts,  
-- community evacuation and transportation, and 
+- community evacuation and transportation, and  
 - emergency shelter programs.  
 
 State/local governments must ensure their emergency management programs follow
@@ -39,7 +39,7 @@ information about emergencies. To reach more people with disabilities, state/loc
 governments should consider using:  
 
 - Both visual and audible alerts.  
-- Several electronic alert methods like telephone calls, auto-dialed TTY (teletypewriter) messages, text messaging, and e-mails 
+- Several electronic alert methods like telephone calls, auto-dialed TTY (teletypewriter) messages, text messaging, and e-mails  
 - Qualified sign language interpreters and open captioning for announcements on television and websites.  
 
 ## Community evacuation and transportation  
@@ -86,10 +86,11 @@ State/local governments only need to make modifications that are reasonable. A
 state/local government does need to make a modification if it results in a fundamental
 alteration.  
 
-{% details What is a fundamental alteration? %} 
+{% details What is a fundamental alteration? %}  
+
 A fundamental alteration is something that would change the essential nature of the entity’s programs or
 services. Learn more about fundamental alterations in the [State and Local Government Primer]( {{'/resources/title-ii-primer'| relative_url}}).  
-{% enddetails %}
+{% enddetails %}  
 
 ### Physical Accessibility at Shelters 
 
@@ -107,7 +108,7 @@ Standards to ensure physical accessibility at shelters. These areas include:
   - dining areas,  
   - toilet facilities,  
   - bathing facilities,  
-  - recreational areas, and 
+  - recreational areas, and  
   - emergency exit.  
 
 ### Prepare Mass Shelter Environment  

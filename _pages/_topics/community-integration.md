@@ -41,12 +41,11 @@ can model and support self-advocacy)
 - **Home modifications** (like installing a ramp or widening a door)
 - **Housing services** (like help finding, moving to, and remaining in community-
 based housing).  
-{% enddetails %}
+{% enddetails %}  
 
 
-{% details What are community-based settings? %} 
-Community-based settings are places where people with disabilities are integrated into their
-community. These settings:  
+{% details What are community-based settings? %}  
+Community-based settings are places where people with disabilities are integrated into their community. These settings:  
 - make it possible for people with disabilities to interact with people without disabilities as
 much as possible;  
 - provide opportunities to live, work, and enjoy hobbies and other activities in the
