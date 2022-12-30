@@ -92,7 +92,7 @@ A fundamental alteration is something that would change the essential nature of 
 services. Learn more about fundamental alterations in the [State and Local Government Primer]( {{'/resources/title-ii-primer'| relative_url}}).  
 {% enddetails %}  
 
-### Physical Accessibility at Shelters 
+### Physical Accessibility at Shelters  
 
 - Make sure shelter staff maintain accessible routes and minimize protruding
 objects. For example, beds must be placed in locations that avoid blocking
