@@ -15,6 +15,14 @@ test('Allows relative URL requests', async ({ page }) => {
   await expect(page.locator('body')).toContainText('ADA.gov');
 });
 
+test('Redirects prod requests', async ({ page }) => {
+  restrictToLocalhost(page);
+
+  await page.goto('https://www.ada.gov/topics/');
+  await expect(page.locator('body')).toContainText('ADA.gov');
+  await expect(page.url()).toEqual('http://localhost:4000/topics/');
+});
+
 test('Disallows external requests', async ({ page }) => {
   restrictToLocalhost(page);
 
