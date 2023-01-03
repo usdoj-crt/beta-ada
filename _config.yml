@@ -185,7 +185,6 @@ exclude:
   - /mock_data
 
 assets:
-  digest: false
   autoprefixer:
     browsers:
       - "> 2%"

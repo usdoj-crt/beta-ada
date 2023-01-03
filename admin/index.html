@@ -9,7 +9,52 @@
     <!-- Include the script that builds the page and powers Netlify CMS -->
     <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
     <script>
-      CMS.registerPreviewStyle('/assets/styles.css');
+      // We need to grab out most current version of our CSS file and our custom JS. How can we do that?
+      // Make a request to the ada.gov site.
+      // Parse the request, and grab the rel attribute that contains the CSS file.
+      // Create a new domparser object.
+      const parser = new DOMParser();
+      // Create the request:
+      // Response processing code taken from: https://developer.mozilla.org/en-US/docs/Web/API/ReadableStream
+      const request = new Request('http://localhost:4000/index.html');
+      // Fetch the request:
+      fetch(request)
+        .then((response) => response.body)
+        .then((body) => {
+          const reader = body.getReader();
+          return new ReadableStream({
+              start(controller) {
+              // The following function handles each data chunk
+              function push() {
+                // "done" is a Boolean and value a "Uint8Array"
+                reader.read().then(({ done, value }) => {
+                  // If there is no more data to read
+                  if (done) {
+                    controller.close();
+                    return;
+                  }
+                  // Get the data and send it to the browser via the controller
+                  controller.enqueue(value);
+                  push();
+                });
+              }
+              push();
+            },
+          })
+        })
+        .then((stream) =>
+          // Respond with our stream
+          new Response(stream, { headers: { 'Content-Type': 'text/html' } }).text())
+        .then((result) => {
+          // Parse the result
+          const html = parser.parseFromString(result, 'text/html');
+          const css = html.querySelector('link[rel="stylesheet"]').href;
+          const js = html.querySelectorAll('script[type="text/javascript"]');
+          CMS.registerPreviewStyle(css);
+          const script = document.createElement('script');
+          script.setAttribute('src', js[0].src);
+          document.head.appendChild(script);
+        });
     </script>
     <script
       src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/13.0.1/markdown-it.min.js"
@@ -17,7 +62,6 @@
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     ></script>
-    <script src="/assets/dist/netlifyPreview-compiled.js"></script>
     <link href="/admin/config.yml" type="text/yaml" rel="cms-config-url" />
     <style>
       img[alt='Logo'] {
