@@ -32,6 +32,11 @@ module RedirectsJson
   end
 
   class RedirectsJsonPageGenerator < Jekyll::Generator
+    # Make sure to run this plugin _before_ other redirect generators, as the
+    # manual markdown redirects should take precedence (by overwriting) anything
+    # this produces.
+    priority :highest
+
     def generate(site)
       # Merging in this order will overwrite entries in generated_redirects
       # with entries from manual_redirects
