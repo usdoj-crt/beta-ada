@@ -16,7 +16,8 @@
       const parser = new DOMParser();
       // Create the request:
       // Response processing code taken from: https://developer.mozilla.org/en-US/docs/Web/API/ReadableStream
-      const request = new Request('http://localhost:4000/index.html');
+      const currLocation = `${window.location.origin}/index.html`;
+      const request = new Request(currLocation);
       // Fetch the request:
       fetch(request)
         .then((response) => response.body)
@@ -49,11 +50,7 @@
           // Parse the result
           const html = parser.parseFromString(result, 'text/html');
           const css = html.querySelector('link[rel="stylesheet"]').href;
-          const js = html.querySelectorAll('script[type="text/javascript"]');
           CMS.registerPreviewStyle(css);
-          const script = document.createElement('script');
-          script.setAttribute('src', js[0].src);
-          document.head.appendChild(script);
         });
     </script>
     <script

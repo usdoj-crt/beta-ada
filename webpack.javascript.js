@@ -8,8 +8,7 @@ module.exports = {
     pagination: './_assets/js/pagination.js',
     taResources: './_assets/js/ta-selectors.js',
     backToTop: './_assets/js/utils/backToTop.js',
-    clickTracking: './_assets/js/click-tracking.js',
-    netlifyPreview: './_assets/js/netlify/topics/preview.js',
+    clickTracking: './_assets/js/click-tracking.js'
   },
   output: {
     path: path.resolve(__dirname, './_assets/js/', 'dist'),
