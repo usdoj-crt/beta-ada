@@ -12,11 +12,13 @@ function normalizeRedirect(url) {
 export async function toRedirect(page, from, to) {
   restrictToLocalhost(page);
 
-  let success = false;
+  let success = true;
   let status = 416;
   let errorText = "requestfailed wasn't called";
   let attemptedUrl;
+
   page.on('requestfailed', request => {
+    success = false;
     errorText = request.failure().errorText;
     attemptedUrl = request.url();
   });
@@ -27,7 +29,7 @@ export async function toRedirect(page, from, to) {
   });
 
   page.on('load', page => {
-    success = true;
+    if (!success) return;
     attemptedUrl = page.url();
   });
 
@@ -49,7 +51,7 @@ export async function toRedirect(page, from, to) {
     };
   }
 
-  if (status !== 200) {
+  if (success && status !== 200) {
     return {
       message: () => `Status ${status} redirecting from ${from} to ${to}`,
       pass: false,
