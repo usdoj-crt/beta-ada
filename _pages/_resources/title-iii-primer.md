@@ -1,17 +1,23 @@
 ---
-title: ADA Update - A Primer for Small Business
-description: "This document provides general guidance to assist small businesses in understanding and complying with the ADA's requirements."
 permalink: /resources/title-iii-primer/
-lead: |-
-  The Department of Justice has revised its regulations implementing the Americans with Disabilities Act (ADA). This rule takes effect on March 15, 2011, clarifies issues that have arisen over the past 20 years, and contains new requirements, including the 2010 Standards for Accessible Design (2010 Standards). This document provides guidance to assist small business owners in understanding how this new regulation applies to them.
-lang: "en"
-publish-date: 2011-03-16 00:00:00
-print: true
-related-content: true
-tags:
-  - title iii
 redirect_from:
   - /regs2010/smallbusiness/smallbusprimer2010.htm
+lang: en
+print: true
+publish-date: 2011-03-16 00:00:00
+updated-date: ""
+related-content: true
+title: ADA Update - A Primer for Small Business
+description: This document provides general guidance to assist small businesses
+  in understanding and complying with the ADA's requirements.
+lead: The Department of Justice has revised its regulations implementing the
+  Americans with Disabilities Act (ADA). This rule takes effect on March 15,
+  2011, clarifies issues that have arisen over the past 20 years, and contains
+  new requirements, including the 2010 Standards for Accessible Design (2010
+  Standards). This document provides guidance to assist small business owners in
+  understanding how this new regulation applies to them.
+tags:
+  - title iii
 ---
 ## New Customers
 
