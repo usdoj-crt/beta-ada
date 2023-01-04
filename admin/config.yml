@@ -320,7 +320,7 @@ collections:
         widget: boolean
         required: false
       - label: Related Content
-        name: related content
+        name: related-content
         widget: boolean
         required: false
       - label: Tags
@@ -430,7 +430,7 @@ collections:
             required: false
         required: false
       - label: Related Content
-        name: related content
+        name: related-content
         widget: boolean
         default: false
         required: false

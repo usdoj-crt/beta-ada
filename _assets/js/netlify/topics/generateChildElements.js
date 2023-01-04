@@ -1,4 +1,4 @@
-const notAllowed = ['em', 'strong', 'u', 'i', 'b', 'ul', 'blockquote', 'table', 'thead', 'td', 'tr','tfooter', 'tbody'];
+const notAllowed = ['em', 'strong', 'u', 'i', 'b', 'ul', 'blockquote', 'table', 'thead', 'td', 'tr','tfooter', 'tbody', 'br', 'input'];
 
 const generateChildElements = (html) =>
   html.map((item) => {
