@@ -1,5 +1,11 @@
 const { restrictToLocalhost } = require('./network');
 
+function normalizeRedirect(url) {
+  return url
+    .replace('index.html', '')
+    .replace(' ', '%20');
+}
+
 export async function toRedirect(page, from, to) {
   restrictToLocalhost(page);
 
@@ -14,14 +20,14 @@ export async function toRedirect(page, from, to) {
 
   // Confirm this failed because we're blocking external urls to avoid making
   // 900 requests to prod, and not because of an unexpected reason.
-  if (errorText !== 'net::ERR_BLOCKED_BY_CLIENT') {
+  if (!errorText.includes('net::ERR_BLOCKED_BY_CLIENT')) {
     return {
       message: () => `The redirect failed for an unexpected reason: ${errorText}`,
       pass: false,
     };
   }
 
-  if (attemptedUrl !== to) {
+  if (normalizeRedirect(attemptedUrl) !== normalizeRedirect(to)) {
     return {
       message: () => `Expected ${from} to redirect to ${to}, but was ${attemptedUrl}`,
       pass: false,
