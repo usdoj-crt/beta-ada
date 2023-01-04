@@ -4,9 +4,11 @@ const CHECK_EXTERNAL_LINKS = process.env.CHECK_EXTERNAL_LINKS?.toLowerCase() ===
 
 function normalizeRedirect(url) {
   return url
-    .replace('index.html', '')
+    .replace(/\.htm$/, '.html')
+    .replace(/index\.html?$/, '')
     .replace(' ', '%20')
-    .replace(/\/$/, '');
+    .replace(/\/$/, '')
+    .toLowerCase();
 }
 
 export async function toRedirect(page, from, to) {
