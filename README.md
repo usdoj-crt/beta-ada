@@ -90,7 +90,7 @@ To check these specifically, you can run:
 npx playwright test redirects.spec.js --reporter list --project='chromium' --retries=0
 ```
 
-Because those redirects depend on the destination link existing, it's important to be able to check that it doesn't 404 (e.g., in case archive.ada.giv/ was specified instead of archive.ada.gov/). We don't want to do that automatically, though, because there's a lot of redirects and we'd end up pelting producting with a lot of requests.
+Because those redirects depend on the destination link existing, it's important to be able to check that it doesn't 404 (e.g., in case archive.ada.giv/ was specified instead of archive.ada.gov/). We don't want to do that automatically, though, because there's a lot of redirects and we'd end up pelting production with a lot of requests.
 
 To check the validity of links locally using playwright, you can run with CHECK_EXTERNAL_LINKS set to 'true'. This will make `HEAD` requests to all of the destination URLs, and warn if any of the response statuses aren't `200`.
 
