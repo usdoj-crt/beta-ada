@@ -44,7 +44,8 @@ based housing).
 {% enddetails %}  
 
 
-{% details What are community-based settings? %}  
+## What are community-based settings?  
+
 Community-based settings are places where people with disabilities are integrated into their community. These settings:  
 - make it possible for people with disabilities to interact with people without disabilities as
 much as possible;  
@@ -56,9 +57,9 @@ with anyone they want to, as often as they want to.
 Examples of community-based settings include a house or an apartment that the person with a
 disability owns or rents, or a family home, where they can—but are not required to—receive
 services.  
-{% enddetails %}
 
-{% details What are segregated settings? %}
+## What are segregated settings?  
+
 Segregated settings are places where people with disabilities live, work, or spend most of their
 time with other people with disabilities, other than non-disabled paid staff. These settings:  
 - tend to limit a person’s ability to go out in the community and mainly offer group
@@ -69,9 +70,9 @@ activities and community outings;
 
 Examples of segregated settings include mental health facilities, nursing homes, and intermediate
 care facilities.  
-{% enddetails %}  
 
-{% details When are community-based services “appropriate”? %}
+## When are community-based services “appropriate”?  
+
 Community-based services are likely appropriate if people with similar service needs are living,
 working, and receiving services in the community.  
 
@@ -84,9 +85,9 @@ how to support someone to move to, or stay in, the community. An unbiased evalua
 individual’s own health professional, or by a health professional associated with the local
 disability service system, can also help determine whether community-based services can help
 someone live in the community.  
-{% enddetails %}  
 
-{% details What does it mean to “not oppose” community-based services? %}
+## What does it mean to “not oppose” community-based services?  
+
 People with disabilities do not oppose receiving community-based services if they are willing to
 receive services at home or in the community instead of in a facility.  
 
@@ -103,9 +104,10 @@ disability to talk about the services that are available in the community. The c
 set-up visits with other people with disabilities who are getting services at home or in the
 community, and with providers who offer services in the community. These visits can help
 people start to see what is possible for their own lives.  
-{% enddetails %}  
 
-{% details What is a reasonable modification? %}
+
+## What is a reasonable modification?  
+
 A reasonable modification refers to the way a state/local government changes how it operates to
 stop discriminating against people with disabilities. The ADA requires these changes when they
 are necessary to stop discrimination—as long as the changes do not “fundamentally alter” the
@@ -116,9 +118,9 @@ that the government also serves, given available resources. To determine whether
 would be a “fundamental alteration,” the state/local government must look at the costs and
 resources available to it *as a whole*—not just those of the agency operating or funding the
 segregated setting.  
-{% enddetails %}  
 
-{% details Who has a right to community integration? %}
+## Who has a right to community integration?  
+
 If you have a disability and you receive services from a State/local government to support your
 disability-related needs, then you have a right to receive those services at home or in your
 community, unless it would result in a fundamental alteration.  
@@ -130,8 +132,7 @@ stay in the community.
 Every state has organizations called [“Aging and Disability Resource Centers” (ADRCs)](https://acl.gov/programs/aging-and-disability-networks/aging-and-disability-resource-centers). They
 can give you information about services that can help you live at home and be in the community,
 if that is what you want. Every state also has disability advocacy organizations, called [“Centers
-for Independent Living” (CILs)](https://acl.gov/programs/aging-and-disability-networks/centers-independent-living), which can also help people with disabilities learn about their
-options for living in the community and connect people to community-based services. Finally, every state has a [“Protection and Advocacy” (P&amp;A) organization](https://acl.gov/programs/aging-and-disability-networks/state-protection-advocacy-systems) that provides legal advocacy, information, and referrals to people with disabilities.
+for Independent Living” (CILs)](https://acl.gov/programs/aging-and-disability-networks/centers-independent-living), which can also help people with disabilities learn about their options for living in the community and connect people to community-based services. Finally, every state has a [“Protection and Advocacy” (P&amp;A) organization](https://acl.gov/programs/aging-and-disability-networks/state-protection-advocacy-systems) that provides legal advocacy, information, and referrals to people with disabilities.
 
 - If you are receiving services in a segregated setting:  
 
@@ -147,7 +148,6 @@ should be able to point you in the right direction.
   - Your local ADRC, CIL, or P&amp;A may be able to provide you with information and
 connect you to the services you need to stay in the community. These services
 may include helping you find a place to live or help paying rent.  
-{% enddetails %}
 
 ## Learn more about the ADA and Community Integration:  
 

@@ -179,4 +179,4 @@ Disabilities](https://archive.ada.gov/emergencyprep.htm) ([PDF](https://archive.
 
 [Access for 9-1-1 and Telephone Emergency Services](https://archive.ada.gov/911ta.htm)  ([PDF](https://archive.ada.gov/911ta.pdf))  [En Español](https://archive.ada.gov/911ta_spanish.htm)  
 
-NOTE: Portions of the guidance materials linked above may not fully reflect the current ADA regulations and the most recent [ADA Standards for Accessible Design]( {{'/law-and-regs/design-standards/2010-stds/'| relative_url}})
+NOTE: Portions of the guidance materials linked above may not fully reflect the current ADA regulations and the most recent [ADA Standards for Accessible Design]({{'/law-and-regs/design-standards/2010-stds/' | relative_url}})
