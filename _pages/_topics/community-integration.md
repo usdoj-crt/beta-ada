@@ -23,7 +23,8 @@ with a disability must be served in the community when:
 3. the state or local government entity can **reasonably modify** its programs and services to
 provide services in the community.  
 
-{% details What are community-based services? %}
+## What are community-based services?  
+
 Community-based services are funded by federal, state, or local dollars to support people with
 disabilities living at home or in other community-based settings. A few examples of community-
 based services are:  
@@ -41,8 +42,6 @@ can model and support self-advocacy)
 - **Home modifications** (like installing a ramp or widening a door)
 - **Housing services** (like help finding, moving to, and remaining in community-
 based housing).  
-{% enddetails %}  
-
 
 ## What are community-based settings?  
 
