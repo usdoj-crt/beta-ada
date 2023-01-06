@@ -3,11 +3,11 @@ on: [push]
 jobs:
   build:
     name: Run Accessibility Tests
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
 
     steps:
       - name: Checkout Source
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Install Ruby Dependencies
         uses: ruby/setup-ruby@v1

@@ -31,9 +31,10 @@
     "webpack-cli": "^4.9.2"
   },
   "devDependencies": {
-    "@playwright/test": "^1.21.1",
+    "@playwright/test": "^1.29.1",
     "babel-jest": "^28.0.2",
     "css-loader": "^6.7.1",
+    "gray-matter": "^4.0.3",
     "mini-css-extract-plugin": "^2.6.1",
     "prettier": "^2.5.1",
     "sass": "^1.53.0",

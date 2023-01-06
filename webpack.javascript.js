@@ -10,6 +10,7 @@ module.exports = {
     backToTop: './_assets/js/utils/backToTop.js',
     clickTracking: './_assets/js/click-tracking.js',
     netlifyPreview: './_assets/js/netlify/topics/preview.js',
+    redirect404: './_assets/js/redirect404.js',
   },
   output: {
     path: path.resolve(__dirname, './_assets/js/', 'dist'),

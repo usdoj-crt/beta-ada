@@ -20,14 +20,29 @@
 {% endif %}
 {% endif %}
 
-{% asset vendor/uswds/uswds.min.js !type %} {% asset dist/main-compiled.js !type %} {%
-asset dist/accordion-compiled.js !type %} {% if page.title == 'Search' %} {% asset
-dist/pagination-compiled.js !type %}
+{% asset vendor/uswds/uswds.min.js !type %}
+{% asset dist/main-compiled.js !type %}
+{% asset dist/accordion-compiled.js !type %}
+
+{% if page.title == 'Search' %}
+{% asset dist/pagination-compiled.js !type %}
 {% asset dist/clickTracking-compiled.js %}
-{% endif %} {% if page.title == 'Give Us Feedback' %}
+{% endif %}
+
+{% if page.title == 'Give Us Feedback' %}
 <script src="https://touchpoints.app.cloud.gov/touchpoints/73c5715c.js" async></script>
-{% endif %} {% if page.title == 'View Guidance & Resource Materials'%} {% asset
-dist/taResources-compiled.js %} {% endif %} {% unless page.back-to-top == nil or page.back-to-top ==
-false %} {% asset dist/backToTop-compiled.js %} {% endunless %}
+{% endif %}
+
+{% if page.title == 'View Guidance & Resource Materials'%}
+{% asset dist/taResources-compiled.js %}
+{% endif %}
+
+{% if page.title == 'Page not found' %}
+{% asset dist/redirect404-compiled.js %}
+{% endif %}
+
+{% unless page.back-to-top == nil or page.back-to-top == false %}
+{% asset dist/backToTop-compiled.js %}
+{% endunless %}
 <!-- Netlify CMS scripts: -->
 {% asset dist/netlifyPreview-compiled.js %}
