@@ -7,6 +7,12 @@
 }
 
 #crt-page--sidenav {
+  @include at-media(desktop) {
+    max-height: calc(100vh - 3rem);
+    display: flex;
+    flex-direction: column;
+  }
+
   a:not(.crt-page--downloadpdf-button)  {
     color: color($theme-text-color);
 
