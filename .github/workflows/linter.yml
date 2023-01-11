@@ -14,7 +14,9 @@ name: Lint Code Base
 #############################
 # Start the job on all push #
 #############################
-on: [push]
+on:
+  push:
+  workflow_call:
 
 ###############
 # Set the Job #

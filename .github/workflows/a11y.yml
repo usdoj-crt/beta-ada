@@ -1,5 +1,7 @@
 name: Run Accessibility Tests
-on: [push]
+on:
+  push:
+  workflow_call:
 jobs:
   build:
     name: Run Accessibility Tests

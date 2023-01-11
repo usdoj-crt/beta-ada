@@ -1,0 +1,12 @@
+# Manually triggers other actions.
+name: Manually trigger workflows
+on:
+  workflow_dispatch:
+
+jobs:
+  ally:
+    uses: usdoj-crt/beta-ada/.github/workflows/ally.yml@main
+  linter:
+    uses: usdoj-crt/beta-ada/.github/workflows/linter.yml@main
+  preview:
+    uses: usdoj-crt/beta-ada/.github/workflows/preview.yml@main
