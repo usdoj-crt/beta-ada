@@ -35,9 +35,11 @@ layout: default
       id="crt-page--content"
       class="mobile-lg:grid-col {% if page.sidenav %}tablet:grid-col-12 desktop:grid-col-8{% endif %}"
     >
-      {% if page.title =='Page not found' %}
+    {% if page.title =='Page not found' %}
+      <div id="redirect-pending">
         {% include alert.html type="info" text="We're checking the archive.ADA.gov site for you, please wait." %}
-      {% endif %}
+      </div>
+    {% endif %}
       {% if page.disclaimer %}
         {% include alert.html type="warning" title="This is a test site. Do not rely on the
         information provided." text="This webpage is a prototype meant for user research. It has not
