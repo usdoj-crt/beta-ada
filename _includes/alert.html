@@ -1,6 +1,9 @@
-<div class="usa-alert usa-alert--warning margin-bottom-4">
+{% assign lang = page.lang %}
+{% if lang==nil %}{% assign lang="en" %}{% endif %}
+
+<div class="usa-alert usa-alert--{{ include.type }} margin-bottom-4" markdown="0">
     <div class="usa-alert__body">
-      <h2 class="usa-alert__heading">{{ include.title }}</h2>
+      {% if include.title != nil %}<h2 class="usa-alert__heading">{{ include.title }}</h2>{% endif %}
       <p class="usa-alert__text">{{ include.text }}</p>
     </div>
 </div>
