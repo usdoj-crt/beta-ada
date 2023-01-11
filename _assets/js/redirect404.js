@@ -1,7 +1,3 @@
-function showNotFound() {
-  document.getElementById('redirect-pending').style.display = 'none';
-}
-
 function attemptToRedirect(attemptedPath, manual, generated) {
   if (!attemptedPath.replaceAll('/', '').trim()) {
     return; // Don't even try if the path is empty
@@ -27,9 +23,6 @@ function attemptToRedirect(attemptedPath, manual, generated) {
       return;
     }
   }
-
-  // If we make it here, it's a real 404.
-  showNotFound();
 }
 
 const gotRedirects = {};
