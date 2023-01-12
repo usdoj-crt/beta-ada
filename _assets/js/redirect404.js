@@ -28,8 +28,8 @@ function attemptToRedirect(attemptedPath, manual, generated) {
     }
   }
 
-    // If we make it here, it's a real 404.
-    showNotFound();
+  // If we make it here, it's a real 404.
+  showNotFound();
 }
 
 const gotRedirects = {};
