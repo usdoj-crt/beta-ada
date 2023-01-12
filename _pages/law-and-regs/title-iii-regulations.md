@@ -2,6 +2,7 @@
 title: Americans with Disabilities Act Title III Regulations
 permalink: /law-and-regs/title-iii-regulations/
 publish-date: 2012-03-08 00:00:00
+print: true
 back-to-top: true
 subnavigation: true
 redirect_from:
