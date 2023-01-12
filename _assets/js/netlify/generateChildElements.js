@@ -9,7 +9,6 @@ const generateChildElements = (html) =>
     if (itemHasChildren) {
       content.push(generateChildElements([...Array.from(item.childNodes)]));
     }
-
     return h(
       item.nodeName.toLowerCase(),
       { id: item.id.toString(), className: item.className },

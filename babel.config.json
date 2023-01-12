@@ -5,11 +5,12 @@
       {
         "useBuiltIns": "entry",
         "corejs": "^3.21.1",
-        "targets": 
+        "targets":
           {
             "node": "current"
           }
       }
-    ]
+    ],
+    "@babel/preset-react"
   ]
 }
