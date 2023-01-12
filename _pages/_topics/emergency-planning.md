@@ -18,16 +18,16 @@ related-content: true
 
 Emergency management is wide-ranging. Some examples of these programs, which
 are addressed below, include:  
-- emergency alerts,  
-- community evacuation and transportation, and  
-- emergency shelter programs.  
+- Emergency alerts  
+- Community evacuation and transportation  
+- Emergency shelter programs  
 
 State/local governments must ensure their emergency management programs follow
 the [Americans with Disabilities Act (ADA)]( {{'/topics/intro-to-ada'| relative_url}}), which prohibits discrimination against people
 with disabilities. This page discusses how state/local governments can ensure their
 programs are accessible for persons with disabilities.  
 
-## Emergency alerts  
+## Emergency Alerts  
 
 Alerting the public to an emergency is critical. Many emergency warning systems are
 not accessible for people with disabilities. For example, people who are deaf or hard of
@@ -39,10 +39,10 @@ information about emergencies. To reach more people with disabilities, state/loc
 governments should consider using:  
 
 - Both visual and audible alerts.  
-- Several electronic alert methods like telephone calls, auto-dialed TTY (teletypewriter) messages, text messaging, and e-mails  
+- Several electronic alert methods like telephone calls, auto-dialed TTY (teletypewriter) messages, text messaging, and e-mails.  
 - Qualified sign language interpreters and open captioning for announcements on television and websites.  
 
-## Community evacuation and transportation  
+## Community Evacuation and Transportation  
 
 During an emergency, it is critical to transport and evacuate people. But these tasks
 may be disrupted due to overcrowding and blocked streets and sidewalks.  
@@ -72,7 +72,7 @@ evacuating persons with different disabilities. For example, some persons can
 reach mass evacuation pick-up locations independently, while others may need
 assistance.  
 
-## Emergency shelter programs  
+## Emergency Shelter Programs  
 
 Some state/local governments provide individuals temporary shelter during an
 emergency. The ADA generally requires shelters to offer people with disabilities equal access to the benefits of these programs—like safety, food, and medical care—as those without disabilities.  
@@ -99,17 +99,16 @@ objects. For example, beds must be placed in locations that avoid blocking
 accessible routes.  
 - Ensure staff and volunteers can help people who are blind or have low vision
 find shelter areas.  
-- Survey physical spaces for barriers and ensure they comply with the ADA
-Standards to ensure physical accessibility at shelters. These areas include:  
-  - parking,  
-  - exterior route from the parking to the entrance,  
-  - entrance,  
-  - sleeping area,  
-  - dining areas,  
-  - toilet facilities,  
-  - bathing facilities,  
-  - recreational areas, and  
-  - emergency exit.  
+- Survey physical spaces for barriers and ensure they comply with the ADA Standards to ensure physical accessibility at shelters. These areas include:  
+  - Parking  
+  - Exterior route from the parking to the entrance  
+  - Entrance  
+  - Sleeping area  
+  - Dining areas  
+  - Toilet facilities  
+  - Bathing facilities  
+  - Recreational areas  
+  - Emergency exit  
 
 ### Prepare Mass Shelter Environment  
 
@@ -162,7 +161,7 @@ who are blind or have low vision.
 
 More information about communicating effectively with people with disabilities can be found [on this topics page]({{'/topics/effective-communication'| relative_url}}).  
 
-## Learn more about Emergency Planning
+## Learn More About Emergency Planning
 
 [Emergency Management under Title II of the ADA](https://archive.ada.gov/pcatoolkit/chap7emergencymgmt.htm)  ([PDF](https://archive.ada.gov/pcatoolkit/chap7emergencymgmt.pdf))  
 
