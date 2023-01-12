@@ -9,9 +9,15 @@ const generateChildElements = (html) =>
     if (itemHasChildren) {
       content.push(generateChildElements([...Array.from(item.childNodes)]));
     }
+    const attrsObj = {};
+    if (item.attributes.length > 0) {
+      for (const key of Array.from(item.attributes)) {
+        attrsObj[key.name] = key.value;
+      }
+    }
     return h(
       item.nodeName.toLowerCase(),
-      { id: item.id.toString(), className: item.className },
+      attrsObj,
       content
     );
   });
