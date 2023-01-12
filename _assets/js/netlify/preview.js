@@ -1,7 +1,7 @@
 import makeHTMLFromBodyContent from "./makeHTMLFromBodyContent";
 import makeTemplate from "./makeTemplate";
 
-let preview = createClass({
+const preview = createClass({
     render: function () {
       const entry = this.props.entry;
       const title = entry.getIn(['data', 'title']);
