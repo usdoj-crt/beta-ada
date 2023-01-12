@@ -5,6 +5,7 @@ notice_text: The new ADA.gov has launched!
 notice_text_es:  The new ADA.gov has launched!
 notice_link: Learn more about the new site here.
 sidenav: false
+compact: true
 publish-date: 2022-11-18 00:00:00
 news-item: true
 ---

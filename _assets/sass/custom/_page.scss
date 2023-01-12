@@ -9,6 +9,13 @@
   padding-right: 2rem;
   width: 100%;
 
+  @include at-media(desktop) {
+    &.compact {
+      max-width: 64rem;
+      margin-left: 0px;
+    }
+  }
+
   #crt-page--content {
     .crt-lead {
       > p,
