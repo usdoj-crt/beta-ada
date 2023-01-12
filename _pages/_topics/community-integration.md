@@ -23,7 +23,7 @@ with a disability must be served in the community when:
 3. the state or local government entity can **reasonably modify** its programs and services to
 provide services in the community.  
 
-## What are community-based services?  
+## Community-based Services  
 
 Community-based services are funded by federal, state, or local dollars to support people with
 disabilities living at home or in other community-based settings. A few examples of community-
@@ -43,7 +43,7 @@ can model and support self-advocacy)
 - **Housing services** (like help finding, moving to, and remaining in community-
 based housing).  
 
-## What are community-based settings?  
+## Community-based Settings  
 
 Community-based settings are places where people with disabilities are integrated into their community. These settings:  
 - make it possible for people with disabilities to interact with people without disabilities as
@@ -57,7 +57,7 @@ Examples of community-based settings include a house or an apartment that the pe
 disability owns or rents, or a family home, where they can—but are not required to—receive
 services.  
 
-## What are segregated settings?  
+## Segregated Settings  
 
 Segregated settings are places where people with disabilities live, work, or spend most of their
 time with other people with disabilities, other than non-disabled paid staff. These settings:  
@@ -105,7 +105,7 @@ community, and with providers who offer services in the community. These visits 
 people start to see what is possible for their own lives.  
 
 
-## What is a reasonable modification?  
+{% details What is a reasonable modification? %}  
 
 A reasonable modification refers to the way a state/local government changes how it operates to
 stop discriminating against people with disabilities. The ADA requires these changes when they
@@ -117,8 +117,9 @@ that the government also serves, given available resources. To determine whether
 would be a “fundamental alteration,” the state/local government must look at the costs and
 resources available to it *as a whole*—not just those of the agency operating or funding the
 segregated setting.  
+{% enddetails %}
 
-## Who has a right to community integration?  
+## A Right to Community Integration?  
 
 If you have a disability and you receive services from a State/local government to support your
 disability-related needs, then you have a right to receive those services at home or in your
