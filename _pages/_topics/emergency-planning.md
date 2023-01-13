@@ -18,9 +18,9 @@ related-content: true
 
 Emergency management is wide-ranging. Some examples of these programs, which
 are addressed below, include:  
-- Emergency alerts  
-- Community evacuation and transportation  
-- Emergency shelter programs  
+- emergency alerts;  
+- community evacuation and transportation; and 
+- emergency shelter programs.  
 
 State/local governments must ensure their emergency management programs follow
 the [Americans with Disabilities Act (ADA)]( {{'/topics/intro-to-ada'| relative_url}}), which prohibits discrimination against people
@@ -99,16 +99,16 @@ objects. For example, beds must be placed in locations that avoid blocking
 accessible routes.  
 - Ensure staff and volunteers can help people who are blind or have low vision
 find shelter areas.  
-- Survey physical spaces for barriers and ensure they comply with the ADA Standards to ensure physical accessibility at shelters. These areas include:  
-  - Parking  
-  - Exterior route from the parking to the entrance  
-  - Entrance  
-  - Sleeping area  
-  - Dining areas  
-  - Toilet facilities  
-  - Bathing facilities  
-  - Recreational areas  
-  - Emergency exit  
+- Survey physical spaces for barriers and ensure they comply with the [ADA Standards]({{'/law-and-regs/design-standards/2010-stds' | relative_url}})) to ensure physical accessibility at shelters. These areas include:  
+  - parking;  
+  - exterior route from the parking to the entrance;  
+  - entrance;  
+  - sleeping area;  
+  - dining areas;  
+  - toilet facilities;  
+  - bathing facilities;  
+  - recreational areas; and  
+  - emergency exit.  
 
 ### Prepare Mass Shelter Environment  
 
@@ -116,9 +116,6 @@ There are generally two types of shelters: “mass care” shelters for the gene
 population and other shelters like “medical” shelters. Medical shelters provide a higher
 level of medical care for people who are medically fragile (i.e., the level of care often by
 trained medical staff at a nursing home or hospital).  
-
-A fundamental alteration is something that would change the essential nature of the entity’s programs or
-services. Learn more about fundamental alterations in the State and Local Government Primer.  
 
 Most people with disabilities do not require the care provided at medical shelters.
 State/local governments should plan and prepare to house people with disabilities in

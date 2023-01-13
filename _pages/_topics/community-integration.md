@@ -8,7 +8,7 @@ card:
   title: Community Integration
   description: |-
      The ADA bans the unnecessary segregation of people with disabilities in a regulation called “the integration mandate.” State and local governments must offer services to people with disabilities in home and community settings. 
-  image: landing/effective_communication.jpg
+  image: landing/community-integration.jpg
   alt: "#"
   href: /topics/community-integration/
 tags:
@@ -104,8 +104,7 @@ set-up visits with other people with disabilities who are getting services at ho
 community, and with providers who offer services in the community. These visits can help
 people start to see what is possible for their own lives.  
 
-
-{% details What is a reasonable modification? %}  
+## What is a reasonable modification?  
 
 A reasonable modification refers to the way a state/local government changes how it operates to
 stop discriminating against people with disabilities. The ADA requires these changes when they
@@ -117,9 +116,8 @@ that the government also serves, given available resources. To determine whether
 would be a “fundamental alteration,” the state/local government must look at the costs and
 resources available to it *as a whole*—not just those of the agency operating or funding the
 segregated setting.  
-{% enddetails %}
 
-## A Right to Community Integration?  
+## Who has a right to community integration?  
 
 If you have a disability and you receive services from a State/local government to support your
 disability-related needs, then you have a right to receive those services at home or in your
