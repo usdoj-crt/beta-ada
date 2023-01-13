@@ -8,8 +8,8 @@ card:
   title: Emergency Planning
   description: |-
     State and local governments must ensure their emergency planning and management programs are accessible for persons with disabilities.
-  image: landing/effective_communication.jpg
-  alt: "Hands hover over a braille display"
+  image: landing/emergency-planning.jpg
+  alt: "A building floor plan with braille showing hallways and evacuation routes"
   href: /topics/emergency-planning/
 tags:
   - title ii
@@ -19,7 +19,7 @@ related-content: true
 Emergency management is wide-ranging. Some examples of these programs, which
 are addressed below, include:  
 - emergency alerts;  
-- community evacuation and transportation; and 
+- community evacuation and transportation; and  
 - emergency shelter programs.  
 
 State/local governments must ensure their emergency management programs follow

@@ -9,7 +9,7 @@ card:
   description: |-
      The ADA bans the unnecessary segregation of people with disabilities in a regulation called “the integration mandate.” State and local governments must offer services to people with disabilities in home and community settings. 
   image: landing/community-integration.jpg
-  alt: "#"
+  alt: "Two women, one with a disability, play with a dog on the lawn"
   href: /topics/community-integration/
 tags:
   - title ii
