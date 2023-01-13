@@ -9,12 +9,8 @@ const generateChildElements = (html) =>
     if (itemHasChildren) {
       content.push(generateChildElements([...Array.from(item.childNodes)]));
     }
-
-    return h(
-      item.nodeName.toLowerCase(),
-      { id: item.id.toString(), className: item.className },
-      content
-    );
+    const attrs = Object.fromEntries([...item.attributes].map((attr) => [attr.name, attr.value]));
+    return h(item.nodeName.toLowerCase(), attrs, content);
   });
 
 export default generateChildElements;
