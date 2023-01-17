@@ -24,8 +24,6 @@ exists varies from business to business—or state/local government to state/loc
 
 government— and sometimes from one year to the next.
 
-
-
 For example, it might be an undue burden for a small retail store to provide a
 
 sign language interpreter without notice for a routine transaction. But the store
