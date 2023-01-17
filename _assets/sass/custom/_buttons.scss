@@ -32,6 +32,15 @@
   color: white;
 }
 
+.crt-page--downloadpdf-link {
+  align-items: baseline;
+  display: inline-flex;
+}
+
+.crt-page--downloadpdf-link .usa-icon {
+  margin: 0 8px 0 16px;
+}
+
 span.usa-sr-only {
   color: black;
 }
