@@ -3,7 +3,7 @@ import formatPublishDates from './formatPublishDates';
 
 /** @jsx h */
 
-const makeTemplate = (data) => {
+function makeTemplate(data) {
   const { title, leadText, body, publishDate, updatedDate, print, pdf, relatedContent } = data;
   const pageTemplate = (
     <div

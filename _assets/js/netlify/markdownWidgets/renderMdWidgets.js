@@ -8,8 +8,8 @@ list(engine);
 listItem(engine);
 details(engine);
 
-async function renderWidgets(interimHTML){
-   const renderedHTML = await engine.parseAndRender(interimHTML);
+function renderWidgets(interimHTML){
+   const renderedHTML = engine.parseAndRenderSync(interimHTML);
    return renderedHTML;
 }
 
