@@ -1,5 +1,5 @@
 ---
-title: This is the title.
+title: Non-reactive title. This is the title.
 description: This is a description.
 short title: Short title
 lead: Not really required, but ok.
