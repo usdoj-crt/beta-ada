@@ -3,6 +3,7 @@ permalink: /search/
 title: Search
 sitemap: false
 sidenav: false
+compact: true
 redirect_from:
   - /search.htm
 ---

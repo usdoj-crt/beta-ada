@@ -5,8 +5,7 @@ notice_text: The new ADA.gov has launched!
 notice_text_es:  The new ADA.gov has launched!
 notice_link: Learn more about the new site here.
 sidenav: false
-publish-date: 2022-11-18 00:00:00
-news-item: true
+compact: true
 ---
 
 Today, the Department is excited to announce that we are launching a new and improved version of ADA.gov.  Our goal for this revamped website is to better empower people to comply with the Americans with Disabilities Act (ADA) as well as understand their rights and others’ rights, by creating and maintaining a website that is modern and user-centered.
