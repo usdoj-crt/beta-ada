@@ -1,6 +1,7 @@
 export default function list(engine) {
     engine.registerTag('list', {
         parse(tagToken, remainTokens) {
+          this.value = tagToken.args;
           this.tpls = [];
           this.liquid.parser
             .parseStream(remainTokens)
@@ -15,6 +16,8 @@ export default function list(engine) {
             .start();
         },
         * render(context, emitter) {
+          const iconType = this.value;
+          context._iconType = iconType;
           emitter.write("<ul class='usa-icon-list margin-bottom-2'>")
           yield this.liquid.renderer.renderTemplates(this.tpls, context, emitter)
           emitter.write("</ul>")

@@ -1,5 +1,5 @@
-export default function details(engine) {
-  engine.registerTag('details', {
+export default function list(engine) {
+  engine.registerTag('figure', {
     parse(tagToken, remainTokens) {
       this.value = tagToken.args;
       this.tpls = [];
@@ -7,7 +7,7 @@ export default function details(engine) {
         .parseStream(remainTokens)
         .on('template', (tpl) => this.tpls.push(tpl))
         // note that we cannot use arrow function because we need `this`
-        .on('tag:enddetails', function () {
+        .on('tag:endfigure', function () {
           this.stop();
         })
         .on('end', () => {
@@ -16,12 +16,12 @@ export default function details(engine) {
         .start();
     },
     *render(context, emitter) {
-      const title = yield this.value;
-      emitter.write(
-        `<details data-detail-open='false'><summary><div><span class='pa11y-skip'>${title}</span></div></summary><div>`
-      );
+      const title = this.value;
+      const id = title.toLowerCase().trim().replaceAll(/\W/, '');
+      emitter.write(`<figure id=${id} markdown=0 >
+        <strong>${title}</strong><br/>`);
       yield this.liquid.renderer.renderTemplates(this.tpls, context, emitter);
-      emitter.write('</div></details>');
+      emitter.write('</figure>');
     },
   });
 }
