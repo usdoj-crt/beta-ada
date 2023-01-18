@@ -11,7 +11,7 @@ redirect_from:
     - /ta_titleiii.html
 ---
 
-{% include common-alert.html type="info" text="The complete inventory of our ADA Resources is coming soon to this page. In the meantime, you can access them on our former Technical Assistance Materials page." %}
+{% include common-alert.html type="info" text="The complete inventory of our ADA Resources is coming soon to this page. In the meantime, you can access them on our former [Technical Assistance Materials page](https://archive.ada.gov/ta-pubs-pg2.htm)." %}
 {% include ta-article-list.html %}
 
 
