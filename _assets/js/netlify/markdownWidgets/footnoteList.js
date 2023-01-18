@@ -16,12 +16,9 @@ export default function list(engine) {
           .start();
       },
       *render(context, emitter) {
-        const title = this.value;
-        const id = title.toLowerCase().trim().replaceAll(/\W/, '');
-        emitter.write(`<figure id=${id} markdown=0 >
-          <strong>${title}</strong><br/>`);
+        emitter.write(`<div class='footnotes'><ol class='footnotelist'>`);
         yield this.liquid.renderer.renderTemplates(this.tpls, context, emitter);
-        emitter.write('</figure>');
+        emitter.write('</ol></div>');
       },
     });
   }

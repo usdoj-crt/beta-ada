@@ -1,27 +1,11 @@
 export default function list(engine) {
-    engine.registerTag('fnbody', {
-      parse(tagToken, remainTokens) {
-        this.value = tagToken.args;
-        this.tpls = [];
-        this.liquid.parser
-          .parseStream(remainTokens)
-          .on('template', (tpl) => this.tpls.push(tpl))
-          // note that we cannot use arrow function because we need `this`
-          .on('tag:endfnbody', function () {
-            this.stop();
-          })
-          .on('end', () => {
-            throw new Error(`tag ${tagToken.getText()} not closed`);
-          })
-          .start();
-      },
-      *render(context, emitter) {
-        const title = this.value;
-        const id = title.toLowerCase().trim().replaceAll(/\W/, '');
-        emitter.write(`<figure id=${id} markdown=0 >
-          <strong>${title}</strong><br/>`);
-        yield this.liquid.renderer.renderTemplates(this.tpls, context, emitter);
-        emitter.write('</figure>');
-      },
-    });
-  }
+  engine.registerTag('fn', {
+    parse(tagToken, remainTokens) {
+      this.value = tagToken.args;
+    },
+    *render(context, emitter) {
+      const id = this.value;
+      return `<sup><a href="#fn:${id}" class="footnote" id="fn-back:${id}">${id}</a></sup>`;
+    },
+  });
+}
