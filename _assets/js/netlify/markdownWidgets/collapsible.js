@@ -21,7 +21,7 @@ export default function list(engine) {
       const collapsedID = `${accordionID}-${idx}`;
       context._collapsedIDX += 1;
       let heading = '';
-      this.tpls.forEach(token => token.str?.includes('<h2>') ? heading = token.str : heading = "");
+      //this.tpls.forEach(token => token.str?.includes('<h2>') ? heading = token.str : heading = "");
       const contentWithoutHeadings = this.tpls.filter(token => !token.str?.includes('<h2>'));
       emitter.write(`<h2 class="usa-accordion__heading"">
         <button class="usa-accordion__button pa11y-skip"
