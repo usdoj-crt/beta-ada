@@ -36,13 +36,13 @@ There are two versions of the ADA Standards:
 
 <ul>
   <li>
-    <a href="{{'/law-and-regs/design-standards/1991-design-standards' | relative_url}})">1991 ADA Standards</a> {% include download.html text="Download PDF for 1991 ADA Standards" filename="1991-design-standards.pdf" %}
+    <a href="{{'/law-and-regs/design-standards/1991-design-standards' | relative_url}}">1991 ADA Standards</a> {% include download.html text="Download PDF for 1991 ADA Standards" filename="1991-design-standards.pdf" %}
   </li>
   <li>
     <a href="{{'/law-and-regs/design-standards/2010-stds' | relative_url}}">2010 ADA Standards</a> {% include download.html text="Download PDF for 2010 ADA Standards" filename="2010-design-standards.pdf" %}
     <ul>
       <li>
-        <a href="{{'/law-and-regs/design-standards/standards-guidance' | relative_url}}">Guidance on 2010 Standards</a>
+        <a href="{{'/law-and-regs/design-standards/standards-guidance' | relative_url}}">Guidance on 2010 Standards</a> {% include download.html text="Download PDF for Guidance on 2010 Standards" filename="guidance-2010-standards.pdf" %}
       </li>
     </ul>
   </li>
