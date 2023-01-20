@@ -15,7 +15,7 @@ tags:
   - title ii
 related-content: true
 news-item: true
-publish-date: 2022-01-13 00:00:00
+publish-date: 2023-01-13 00:00:00
 ---
 
 Emergency management is wide-ranging. Some examples of these programs, which
