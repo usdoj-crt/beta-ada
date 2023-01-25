@@ -16,7 +16,7 @@
     }
   }
 
-  @include at-media(min-width: 64rem) {
+  @media(min-width: 64rem) {
     &.compact {
       margin-left: auto;
       margin-right: auto;
