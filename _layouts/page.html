@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="crt-page grid-container">
+<div class="crt-page grid-container {% if page.compact %}compact{% endif %}">
   {% include breadcrumbs.html %}
   <div class="grid-row grid-gap-xl">
     {% if page.sidenav %}

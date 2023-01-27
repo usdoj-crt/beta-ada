@@ -9,6 +9,7 @@ module.exports = {
     taResources: './_assets/js/ta-selectors.js',
     backToTop: './_assets/js/utils/backToTop.js',
     clickTracking: './_assets/js/click-tracking.js',
+    netlifyPreview: './_assets/js/netlify/preview.js',
     redirect404: './_assets/js/redirect404.js',
   },
   output: {
