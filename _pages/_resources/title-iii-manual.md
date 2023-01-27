@@ -1785,7 +1785,6 @@ achievable&quot; obligation to remove barriers in existing facilities does not e
 of a facility that are used exclusively by employees as work areas.  
 
 {% details How can a public accommodation decide what needs to be done? %}  
-
 One effective
 approach is to conduct a &quot;self-evaluation&quot; of the facility to identify existing barriers.
 The Department&#39;s regulation does not require public accommodations to conduct a
@@ -2145,96 +2144,123 @@ modifications or aids that would be required, provided that the deadline for suc
 notice is no earlier than the deadline for others applying to take the examination.  
 {% enddetails %}  
 
-May an examiner require that an applicant provide documentation of the existence and
-nature of the disability as evidence that he or she is entitled to modifications or aids?
+{% details May an examiner require that an applicant provide documentation of the existence and
+nature of the disability as evidence that he or she is entitled to modifications or aids?  %}  
 Yes, but requests for documentation must be reasonable and must be limited to the
 need for the modification or aid requested. Appropriate documentation might include
 a letter from a physician or other professional, or evidence of a prior diagnosis or
-accommodation, such as eligibility for a special education program. The applicant
+accommodation, such as eligibility for a special education program. The applicant may be required to bear the cost of providing such documentation, but the entity administering the examination cannot charge the applicant for the cost of any
+modifications or auxiliary aids, such as interpreters, provided for the examination.  
+{% enddetails %}  
 
-may be required to bear the cost of providing such documentation, but the entity
-administering the examination cannot charge the applicant for the cost of any
-modifications or auxiliary aids, such as interpreters, provided for the examination.
 ILLUSTRATION: A testing service may be required to provide individuals with
 dyslexia with more time to complete an examination. An individual who requests
 additional time may, however, be required to notify the testing service of the request
 at the time he or she applies to take the examination, and to furnish appropriate
-documentation to establish that the additional time is needed because of a disability.
-Can an entity refuse to provide modifications or aids for applicants with disabilities on
+documentation to establish that the additional time is needed because of a disability.  
+
+{% details Can an entity refuse to provide modifications or aids for applicants with disabilities on
 the grounds that those individuals, because of their disabilities, would be unable to
 meet other requirements of the profession or occupation for which the examination is
-given? No. When an examination is one step in qualifying for a license, an individual
+given? %}  
+No. When an examination is one step in qualifying for a license, an individual
 may not be barred from taking the examination merely because he or she might be
 unable to meet other requirements for the license. If the examination is not the first
 stage of the qualification process, an applicant may be required to complete the earlier
 stages prior to being admitted to the examination. On the other hand, the applicant
 may not be denied admission to the examination on the basis of doubts about his or
-her abilities to meet requirements that the examination is not designed to test.
+her abilities to meet requirements that the examination is not designed to test.  
+{% enddetails %}  
+
 ILLUSTRATION: An individual with a disability may not be required to demonstrate
 that he or she is capable of practicing medicine in order to be provided with an
 auxiliary aid in taking a test for admission to medical school.
 BUT: An individual may be required to complete medical school before being
-admitted to a licensing examination for medical school graduates.
-III-4.6200 Courses. The requirements for courses under this section are generally the
+admitted to a licensing examination for medical school graduates.  
+
+### III-4.6200 Courses.  
+
+The requirements for courses under this section are generally the
 same as those for examinations. Any course covered by this section must be modified
 to ensure that the place and manner in which the course is given are accessible.
 Examples of possible modifications that might be required include extending the time
 permitted for completion of the course, providing auxiliary aids or services (except
 where to do so would fundamentally alter the course or result in an undue burden), or
 offering the course in an accessible location or making alternative accessible
-arrangements.
+arrangements.  
+
 ILLUSTRATION: If the course is offered in an inaccessible location, alternative
 accessible arrangements may include provision of the course through videotape,
-cassettes, or prepared notes.
+cassettes, or prepared notes.  
 
 Alternative arrangements for courses, like those for examinations, must provide
 comparable conditions to those provided to others, including similar lighting, room
-temperature, and the like.
+temperature, and the like.  
+
 The entity offering the course must ensure that the course materials that it provides are
-available in alternate formats that individuals with disabilities can use.
+available in alternate formats that individuals with disabilities can use.  
+
 ILLUSTRATION: Class handouts may be provided in Braille or on audio cassettes
 for individuals with visual impairments.
 BUT: If the course uses published materials that are available from other sources, the
 entity offering the course is not responsible for providing them in alternate formats. It
 should, however, inform students in advance what materials will be used so that an
 individual with a disability can obtain them in a usable format, such as Braille or
-audio tape, before the class begins.
+audio tape, before the class begins.  
+
 An entity offering a variety of courses covered by this section may not limit the
 selection or choice of courses available to individuals with disabilities. Courses
 offered to fulfill a continuing education requirement for a profession, for example, are
 covered by the requirement that they be offered in an accessible place and manner,
 and an entity that offers such courses may not designate particular courses for
-individuals with disabilities and refuse to make other courses accessible.
-III-5.0000 NEW CONSTRUCTION
-Regulatory references: 28 CFR 36.401; 36.406; Appendix A.
-III-5.1000 General. All newly constructed places of public accommodation and
+individuals with disabilities and refuse to make other courses accessible.  
+
+## III-5.0000 NEW CONSTRUCTION  
+
+Regulatory references: 28 CFR 36.401; 36.406; Appendix A.  
+
+### III-5.1000 General.  
+
+All newly constructed places of public accommodation and
 commercial facilities must be readily accessible to and usable by individuals with
 disabilities to the extent that it is not structurally impracticable. This requirement,
 along with the requirement for accessible alterations, are the only requirements that
-apply to commercial facilities.
-What is &quot;readily accessible and usable&quot;? This means that facilities must be built in
+apply to commercial facilities.  
+
+{% details What is &quot;readily accessible and usable&quot;? %}  
+This means that facilities must be built in
 strict compliance with the Americans with Disabilities Act Accessibility Guidelines
-(ADAAG). There is no cost defense to the new construction requirements.
-What buildings are covered? The new construction requirements apply to any facility
+(ADAAG). There is no cost defense to the new construction requirements.  
+{% enddetails %}
+
+{% details What buildings are covered? %}  
+The new construction requirements apply to any facility
 first occupied after January 26, 1993, for which the last application for a building
 permit or permit extension is certified as complete after January 26, 1992; or in those
 jurisdictions where the government does not certify completion of applications, the
-
 date that the last application for a building permit or permit extension is received by
-the government.
-What if a building is occupied before January 26, 1993? It is not covered by the title
-III new construction requirements.
-What does &quot;structurally impracticable&quot; mean? The phrase &quot;structurally impracticable&quot;
+the government.  
+{% enddetails %}  
+
+{% details What if a building is occupied before January 26, 1993? %}  
+It is not covered by the title III new construction requirements.  
+{% enddetails %}  
+
+{% details What does &quot;structurally impracticable&quot; mean? %}  
+The phrase &quot;structurally impracticable&quot;
 means that unique characteristics of the land prevent the incorporation of accessibility
 features in a facility. In such a case, the new construction requirements apply, except
 where the private entity can demonstrate that it is structurally impracticable to meet
 those requirements. This exception is very narrow and should not be used in cases of
 merely hilly terrain. The Department expects that it will be used in only rare and
-unusual circumstances.
+unusual circumstances.  
+{% enddetails %}
+
 Even in those circumstances where the exception applies, portions of a facility that
 can be made accessible must still be made accessible. In addition, access should be
 provided for individuals with other types of disabilities, even if it may be structurally
-impracticable to provide access to individuals who use wheelchairs.
+impracticable to provide access to individuals who use wheelchairs.  
+
 ILLUSTRATION: M owns a large piece of land on which he plans to build many
 facilities, including office buildings, warehouses, and stores. The eastern section of
 the land is fairly level, the central section of the land is extremely steep, and the
@@ -2242,12 +2268,14 @@ western section of the land is marshland. M assumes that he only need comply wit
 the new construction requirements in the eastern section. He notifies his architect and
 construction contractor to be sure that all buildings in the eastern section are built in
 full compliance with ADAAG. He further advises that no ADAAG requirements
-apply in the central and western sections.
+apply in the central and western sections.  
+
 M&#39;s advice as to two of the sections is incorrect. The central section may be extremely
 steep, but that is not sufficient to qualify for the &quot;structural impracticability&quot;
 exemption under the ADA. M should have advised his contractor to grade the land to
 provide an accessible slope at the entrance and apply all new construction
-requirements in the central section.
+requirements in the central section.  
+
 M&#39;s advice as to the western section is also incorrect. Because the land is marshy,
 provision of an accessible grade-level entrance may be structurally impracticable.
 This is one of the rare situations in which the exception applies, and full compliance
@@ -2255,36 +2283,49 @@ with ADAAG is not required. However, M should have advised his contractor to
 nevertheless construct the facilities in compliance with other ADAAG requirements,
 including provision of features that serve individuals who use crutches or who have
 vision or hearing impairments. For instance, the facility needs to have stairs and
-
 railings that comply with ADAAG, and it should comply with the ADAAG signage
-and alarm requirements, as well.
-Who is liable for violation of the ADA in the above example? Any of the entities
+and alarm requirements, as well.  
+
+{% details Who is liable for violation of the ADA in the above example? %}  
+Any of the entities
 involved in the design and construction of the central and western sections might be
 liable. Thus, in any lawsuit, M, the architect, and the construction contractor may all
-be held liable in an ADA lawsuit.
-III-5.2000 Commercial facilities in a home. When a commercial facility, such as a
+be held liable in an ADA lawsuit.  
+{% enddetails %}  
+
+### III-5.2000 Commercial facilities in a home.  
+
+When a commercial facility, such as a
 home sales office or production workshop, is located in a home, the portion used
 exclusively as a commercial facility, as well as the portion used both as a commercial
 facility and for residential purposes, are covered by the new construction and
 alterations requirements. The covered areas include not only the rooms used as a
 commercial facility but also an accessible route to the commercial facility from the
 sidewalk, through the doorway, through the hallway, and other portions of the home,
-such as restrooms, used by employees and visitors.
-III-5.3000 Application of ADAAG. The Department of Justice has adopted the ADA
+such as restrooms, used by employees and visitors.  
+
+### III-5.3000 Application of ADAAG.  
+
+The Department of Justice has adopted the ADA
 Accessibility Guidelines (ADAAG), issued by the Architectural and Transportation
 Barriers Compliance Board, as the standard to be applied in new construction. The
-major provisions of ADAAG are summarized in III-7.0000.
-What if ADAAG has no standards for a particular type of facility -- such as bowling
+major provisions of ADAAG are summarized in III-7.0000.  
+
+{% details What if ADAAG has no standards for a particular type of facility -- such as bowling
 alleys, golf courses, exercise equipment, pool lifts, amusement park rides, and cruise
-ships? In such cases, the ADAAG standards should be applied to the extent possible.
+ships? %}  
+In such cases, the ADAAG standards should be applied to the extent possible.
 Where appropriate technical standards exist, they should be applied. If there are no
 applicable scoping requirements (i.e. , how many features must be accessible), then a
-reasonable number, but at least one, must be accessible.
+reasonable number, but at least one, must be accessible.  
+{% enddetails %}  
+
 ILLUSTRATION 1: A swimming pool complex must comply fully with ADAAG in
 the parking facilities, route to the facility door, entrance to the facility, locker rooms,
 showers, common areas, and route to the pool. However, ADAAG does not contain
 technical standards for access to the pool itself. Thus, the owner cannot be found in
-violation of ADAAG for failure to install a lift or other means of access into the pool.
+violation of ADAAG for failure to install a lift or other means of access into the pool.  
+
 ILLUSTRATION 2: Most bowling alleys are inaccessible because they have a few
 steps down to the bowling area and a step up to the lanes. ADAAG requirements for
 ramping steps can be applied to the design of new bowling alleys, resulting in an
@@ -2292,52 +2333,65 @@ accessible bowling alley. Unlike in the case of pool lifts above, appropriate te
 standards for ramps are applicable. However, ADAAG contains no &quot;scoping&quot; for
 bowling alleys. In other words, it does not specify how many alleys need to be
 accessible. As a result, if a reasonable number, but at least one, of the alleys is
+designed to be accessible, no ADA violation will be found.  
 
-designed to be accessible, no ADA violation will be found. ILLUSTRATION 3:
-Because of the unique structure of ships, none of the ADAAG technical or scoping
+ILLUSTRATION 3:  Because of the unique structure of ships, none of the ADAAG technical or scoping
 standards are appropriate. Until such time as the Architectural and Transportation
 Barriers Compliance Board issues specific standards applicable to ships, there is no
 requirement that ships be constructed accessibly. (Cruise ships would still be subject
-to other title III requirements.)
-III-5.4000 Elevator exemption. Elevators are the most common way to provide
+to other title III requirements.)  
+
+### III-5.4000 Elevator exemption.  
+
+Elevators are the most common way to provide
 access in multistory buildings. Title III of the ADA, however, contains an exception to
 the general rule requiring elevators. Elevators are not required in facilities under three
 stories or with fewer than 3000 square feet per floor, unless the building is a shopping
 center or mall; professional office of a health care provider; public transit station; or
-airport passenger terminal.
+airport passenger terminal.  
+
 ILLUSTRATION 1: A two-story office building has 40,000 square feet on each floor.
 Because the building is less than three stories, an elevator is not required. (To qualify
 for the exemption, a building must either be under three stories or have fewer than
 3000 square feet per floor; it need not meet both criteria.)
 BUT: A two-story shopping center with 40,000 square feet on each floor is required to
-have an elevator, because shopping centers are not entitled to the exemption.
+have an elevator, because shopping centers are not entitled to the exemption.  
+
 ILLUSTRATION 2: A four-story building has 2900 square feet per floor. An elevator
-is not required because each floor has less than 3000 square feet.
+is not required because each floor has less than 3000 square feet.  
+
 ILLUSTRATION 3: A four-story office building has 3500 square feet on the first
 floor and 2500 square feet on each of the other floors. An elevator is required. (All of
 the stories must be under 3000 square feet to qualify for the exemption.)
 What is a &quot;story&quot;? A story is &quot;occupiable&quot; space, which means space designed for
 human occupancy and equipped with one or more means of egress, light, and
 ventilation. Basements designed or intended for occupancy are considered &quot;stories. &quot;
-Mezzanines are not counted as stories, but are just levels within stories.
-If a two-story building is not required to have an elevator to the second floor, must it
-provide a lift? No. The elevator exemption is a &quot;vertical access&quot; exemption. This
-means that no access by any means need be provided to the second floor. However, if
-an entity wishes to provide access by ramp or a lift, it is, of course, free to do so.
-What if a building is not required to have an elevator, but the owner decides to install
-an elevator anyway? Must the elevator comply with ADAAG elevator requirements?
+Mezzanines are not counted as stories, but are just levels within stories.  
 
+{% details If a two-story building is not required to have an elevator to the second floor, must it
+provide a lift? %}  
+No. The elevator exemption is a &quot;vertical access&quot; exemption. This
+means that no access by any means need be provided to the second floor. However, if
+an entity wishes to provide access by ramp or a lift, it is, of course, free to do so.  
+{% enddetails %}
+
+{% details What if a building is not required to have an elevator, but the owner decides to install
+an elevator anyway? Must the elevator comply with ADAAG elevator requirements? %}  
 Yes. And that elevator must serve every level of the building, unless it only provides
 service from a garage to one level of the building.
+
 If a building is subject to the elevator exemption, do any other ADAAG requirements
 apply in the building? Yes. Even in buildings that are exempt from the elevator
 requirement, all other ADAAG requirements (apart from the requirement for an
-elevator) must still be met.
+elevator) must still be met.  
+{% enddetails %}  
+
 ILLUSTRATION: A two-story building will be used as real estate offices. There will
 be bathrooms on both the ground floor and the second floor. No elevator will be
 installed because it is not required in a building with less than three stories. However,
 the second floor bathrooms must still be accessible. In other words, both the ground
-floor and the second floor bathrooms must be accessible.
+floor and the second floor bathrooms must be accessible.  
+
 But why are accessible bathrooms and fountains required on the second floor when
 there is no way that an individual using a wheelchair can get to the second floor?
 There are many individuals who can walk up stairs by using crutches, but then use
@@ -2348,18 +2402,22 @@ accessibility features for individuals with disabilities other than those who us
 wheelchairs, and those features should be incorporated in building design. Finally, an
 elevator may be installed at a future date, or an addition with an elevator may be
 added later on. In addition, accessible design of bathroom facilities will foster ease of
-use by all persons.
-III-5.4100 Shopping center or mall. A &quot;shopping center or mall&quot; is either --
+use by all persons.  
+
+### III-5.4100 Shopping center or mall.  
+
+A &quot;shopping center or mall&quot; is either --
 (1) A building with five or more &quot;sales or retail establishments,&quot; or
 (2) A series of buildings on a common site, either under common ownership or
 common control or developed together, with five or more &quot;sales or retail
-establishments. &quot;
+establishments. &quot;  
+
 Included within the phrase &quot;sales or retail establishments&quot; are those types of stores
 listed in the fifth category of places of public accommodations, i.e. , bakery, grocery
 store, clothing store, hardware store, etc. (see III-1.2000). The term includes floor
 levels containing at least one such establishment, or any floor that was designed or
 intended for use by at least one such establishment. The definition of &quot;shopping center
-or mall&quot; is slightly different for purposes of alterations (see III-6.3000).
+or mall&quot; is slightly different for purposes of alterations (see III-6.3000).  
 
 ILLUSTRATION 1: A strip of stores includes a grocery store, a clothing store, a
 restaurant, a dry-cleaner, a bank, and a pharmacy. This is not a shopping center or
@@ -2367,7 +2425,8 @@ mall because only two stores are in the fifth category of &quot;sales or retail
 establishments&quot; (the grocery store and the clothing store). The restaurant is an
 establishment serving food or drink (the second category of place of public
 accommodation). The remaining establishments are &quot;service establishments&quot; included
-under the sixth category in the definition of place of public accommodation.
+under the sixth category in the definition of place of public accommodation.  
+
 ILLUSTRATION 2: A building has a card store, office supply store, video store, and
 a bakery on the first floor; and a hobby shop, accountant&#39;s office, and lawyer&#39;s office
 on the second floor. In this case, both the first and second floors qualify as a
@@ -2375,40 +2434,45 @@ on the second floor. In this case, both the first and second floors qualify as a
 establishment. Although no floor alone has five sales establishments, the first and
 second floor each have at least one such establishment and, together, the total is five.
 (The accountant&#39;s and lawyer&#39;s offices are &quot;service establishments&quot; and are not
-included in the number of &quot;sales or retail establishments. &quot;)
+included in the number of &quot;sales or retail establishments. &quot;)  
+
 When a building is being constructed, the owner or developer does not always know
 exactly what types of stores will be located in the facility. In such a situation, how will
 the Department of Justice determine whether a facility was intended as a shopping
 center? There are a number of factors that can be considered in determining whether a
 particular floor was designed or intended for use by at least one sales or rental
 establishment (which would mean that floor is a shopping center). Relevant questions
-include --
-1) What type of businesses did the developer target in his advertising and marketing
+include --  
+1. What type of businesses did the developer target in his advertising and marketing
 of the property? Was the developer trying to encourage sales establishments to join
-the property?
-2) Was the facility designed with any special features for sales or rental
+the property?  
+2. Was the facility designed with any special features for sales or rental
 establishments? For example, are there counters and large windows and check-out
-aisles?
-3) What type of establishment actually first occupied the floor? Was it retail stores or
+aisles?  
+3. What type of establishment actually first occupied the floor? Was it retail stores or
 was it offices, for example?
 If a shopping mall has 25 stores on each level, how many elevators are needed?
 Generally, one is enough, as long as an individual could use the elevator and then be
 able to reach any of the stores on the second level during the hours that the mall is
-open.
-III-5.4200 Professional office of a health care provider.
+open.  
+
+### III-5.4200 Professional office of a health care provider.
 
 A &quot;professional office of a health care provider&quot; is a location where a State-regulated
 professional provides physical or mental health services to the public. The ADA&#39;s
 elevator exemption does not apply to buildings housing the offices of a health care
-provider.
+provider.  
+
 ILLUSTRATION: A physician has offices on the first floor of a multistory building.
 The second floor has other types of offices. An elevator is not required.
 BUT: If the second floor was designed or intended for use by a health care provider,
-an elevator would be required.
+an elevator would be required.  
+
 ILLUSTRATION 2: A newly constructed two-story building houses a business that
 provides home health care services. No health care services are actually provided at
 the company&#39;s offices. While the building must meet all other requirements for new
-construction, no elevator is required.
+construction, no elevator is required.  
+
 How will the Department of Justice determine whether a facility was designed or
 intended for occupancy by a health care provider? Factors that the Department of
 Justice will look at in making that determination include --
@@ -2422,128 +2486,163 @@ apply to bus or train terminals or depots, or to airport passenger terminals. If
 however, all passenger services in a two-story facility - including boarding, debarking,
 loading and unloading, baggage claim, dining facilities, and other common areas open
 to the public - are located on the same floor level and on an accessible route from an
-accessible entrance, an elevator is not required.
-III-6.0000 ALTERATIONS
-Regulatory references: 28 CFR 36.402-36.406; Appendix A.
-III-6.1000 General. If an alteration in a place of public accommodation or
-commercial facility is begun after January 26, 1992, that alteration must be readily
+accessible entrance, an elevator is not required.  
 
-accessible to and usable by individuals with disabilities in accordance with ADAAG
-to the maximum extent feasible.
-What is an alteration? An alteration is any change that affects usability. It includes
+## III-6.0000 ALTERATIONS  
+
+Regulatory references: 28 CFR 36.402-36.406; Appendix A.  
+
+### III-6.1000 General.  
+
+If an alteration in a place of public accommodation or
+commercial facility is begun after January 26, 1992, that alteration must be readily accessible to and usable by individuals with disabilities in accordance with ADAAG
+to the maximum extent feasible.  
+
+{% details What is an alteration? %}  
+An alteration is any change that affects usability. It includes
 remodeling, renovation, rearrangements in structural parts, and changes or
 rearrangement of walls and full-height partitions. Normal maintenance, reroofing,
 painting, wallpapering, asbestos removal, and changes to electrical and mechanical
-systems are not &quot;alterations,&quot; unless they affect usability.
+systems are not &quot;alterations,&quot; unless they affect usability.  
+{% enddetails %}  
+
 ILLUSTRATION 1: Flooring in a store is being replaced. This is an alteration
 because it can affect whether or not an individual in a wheelchair can travel in the
 store. The new floor must comply with, for example, ADAAG requirements for a
-nonslip surface or with the ADAAG carpeting requirements, if applicable.
+nonslip surface or with the ADAAG carpeting requirements, if applicable.  
+
 ILLUSTRATION 2: A doorway is being relocated and a new door will be installed.
 The new doorway must be wide enough to meet ADAAG. The new door must have
 appropriate hardware that can be used without grasping, twisting, or pinching of the
-wrist.
+wrist.  
+
 ILLUSTRATION 3: An electrical outlet is being relocated. The location of the new
 outlet can affect usability by an individual who uses a wheelchair because, if the
 outlet is placed too low, the individual will be unable to reach it. This, then, is an
-alteration that must be done in accordance with ADAAG reach requirements.
+alteration that must be done in accordance with ADAAG reach requirements.  
+
 BUT: If the electrical wiring inside the wall is being changed, usability by an
 individual with disabilities is not affected. Thus, the wiring need not be done in
-compliance with ADAAG because it is not an &quot;alteration. &quot;
-What does &quot;maximum extent feasible&quot; mean? Occasionally, the nature of a facility
+compliance with ADAAG because it is not an &quot;alteration. &quot;  
+
+{% details What does &quot;maximum extent feasible&quot; mean? %}  
+Occasionally, the nature of a facility
 makes it impossible to comply with all of the alterations standards. In such a case,
 features must only be made accessible to the extent that it is technically feasible to do
 so. The fact that adding accessibility features during an alteration may increase costs
 does not mean compliance is technically infeasible. Cost is not to be considered.
 Moreover, even when it may be technically infeasible to comply with standards for
 individuals with certain disabilities (for instance, those who use wheelchairs), the
-alteration must still comply with standards for individuals with other impairments.
+alteration must still comply with standards for individuals with other impairments.  
+{% enddetails %}
+
 ILLUSTRATION 1: A restaurant is undergoing a major renovation. Widening the
 entrance would affect the building structure because removal of an essential part of
 the structural frame would be required. In this case, it is &quot;technically infeasible&quot; to
 widen the entrance, and the action is not required. However, all other ADAAG
-alterations requirements apply to the renovation.
+alterations requirements apply to the renovation.  
 
 BUT: If the only problem with widening the entrance is that it would increase the cost
 of the renovation, the &quot;technically infeasible&quot; exception does not apply, and the
-entrance must be widened.
-III-6.2000 Alterations: Path of travel. When an alteration is made to a &quot;primary
+entrance must be widened.  
+
+### III-6.2000 Alterations: Path of travel.  
+
+When an alteration is made to a &quot;primary
 function area,&quot; not only must that alteration be done in compliance with ADAAG, but
-there must also be an accessible path of travel from the altered area to the entrance.
+there must also be an accessible path of travel from the altered area to the entrance.  
+
 The &quot;path of travel&quot; requirement includes an accessible route to the altered area and
 the bathrooms, telephones, and drinking fountains serving the area. Alterations to
 provide an accessible path of travel are required to the extent that they are not
 &quot;disproportionate&quot; to the original alteration, that is, to the extent that the added
 accessibility costs do not exceed 20 percent of the cost of the original alteration to the
-primary function area.
-What is a primary function area? It is any area where a major activity takes place. It
+primary function area.  
+
+{% details What is a primary function area? %}  
+It is any area where a major activity takes place. It
 includes both the customer services areas and work areas in places of public
 accommodation. It includes all offices and work areas in commercial facilities. It does
 not include mechanical rooms, boiler rooms, supply storage rooms, employee lounges
 or locker rooms, janitorial closets, entrances, corridors, or restrooms.
 ILLUSTRATION 1: The customer service area of a dry cleaning store and the
-employee area behind the counter are both primary function areas.
+employee area behind the counter are both primary function areas.  
+{% enddetails %}  
+
 ILLUSTRATION 2: Remodeling an office is an alteration to a primary function area.
 But remodeling the employee restrooms is not an alteration to a primary function area.
 ILLUSTRATION 3: Installing a new floor surface in a factory work room is an
 alteration to a primary function area, but installing a new floor surface in the corridor
-leading to the work room is not.
-What is a &quot;path of travel&quot;? It is a continuous route connecting the altered area to the
+leading to the work room is not.  
+
+{% details What is a &quot;path of travel&quot;? %}  
+It is a continuous route connecting the altered area to the
 entrance. It can include sidewalks, lobbies, corridors, rooms, and elevators. It also
-includes phones, restrooms, and drinking fountains serving the altered area.
-Does this mean that every single time any minor alteration is made in a primary
-function area, the &quot;path of travel&quot; requirement is triggered? In other words, does a
+includes phones, restrooms, and drinking fountains serving the altered area.  
+{% enddetails %}  
+
+{% details Does this mean that every single time any minor alteration is made in a primary
+function area, the &quot;path of travel&quot; requirement is triggered? %}  
+In other words, does a
 simple thing like changing door hardware trigger the path of travel requirement? No.
 There are some alterations that will never trigger the path of travel requirement. The
 Department&#39;s regulation states that alterations to windows, hardware, controls,
 electrical outlets, and signs do not trigger path of travel requirements. (If they affect
 usability, however, they are still considered to be &quot;alterations&quot; and must be done
 accessibly.) ADAAG gives some additional exceptions: the path of travel requirement
-
 is not triggered if alteration work is limited solely to the electrical, mechanical, or
 plumbing system, hazardous material abatement, or automatic sprinkler retrofitting,
-unless the project involves alteration to elements required to be accessible.
+unless the project involves alteration to elements required to be accessible.  
+{% enddetails %}  
+
 ILLUSTRATION 1: An office building manager is replacing all of the room number
 signs. This is an &quot;alteration&quot; because it can affect usability by an individual who is
 blind. Thus, the new signs must comply with ADAAG requirements for permanent
 signs. However, the path of travel requirement is not triggered. Even though an
 alteration is being made in a primary function area, alterations to &quot;signs&quot; are in the list
-of alterations that will never trigger the path of travel requirement.
+of alterations that will never trigger the path of travel requirement.  
+
 ILLUSTRATION 2: The building manager now replaces the men&#39;s and women&#39;s room
 signs. Again this is an alteration because it can affect usability, and the new signs
 must comply with ADAAG. Here, the path of travel requirements are not triggered for
 two separate reasons. First, as in the above case, the alteration is to &quot;signs&quot; and thus
 will never trigger the path of travel requirement. In addition, in this case, the alteration
 is to the restroom. Restrooms are not primary function areas except in limited
-circumstances, such as highway rest stops.
-What if a tenant remodels his store in a manner that would trigger the path of travel
+circumstances, such as highway rest stops.  
+
+{% details What if a tenant remodels his store in a manner that would trigger the path of travel
 obligation, but the tenant has no authority to create an accessible path of travel
 because the common areas are under the control of the landlord? Does this mean the
-landlord must now make an accessible path of travel to the remodeled store? No.
-Alterations by a tenant do not trigger a path of travel obligation for the landlord. Nor
+landlord must now make an accessible path of travel to the remodeled store? %}   
+No.  Alterations by a tenant do not trigger a path of travel obligation for the landlord. Nor
 is the tenant required to make changes in areas not under his control.
 What costs can be included in determining whether the 20 percent disproportionality
 limitation has been met? Widening doorways, installing ramps, making bathrooms
 accessible, lowering telephones, relocating water fountains -- as well as any other
-costs associated with making the path of travel accessible -- can be included.
-What if the cost of making an accessible path of travel would exceed the cost of the
-original alteration by much more than 20 percent? In such a case, is the entity exempt
-from the path of travel requirement? No. The entity must still make the path of travel
+costs associated with making the path of travel accessible -- can be included.  
+{% enddetails %}  
+
+{% details What if the cost of making an accessible path of travel would exceed the cost of the
+original alteration by much more than 20 percent? %}  
+In such a case, is the entity exempt from the path of travel requirement? No. The entity must still make the path of travel
 accessible to the extent possible without going over 20 percent, giving priority to
 those elements that provide the greatest degree of access. Changes should be made in
 the following order: accessible entrance, accessible route to the altered area, at least
 one accessible restroom for each sex or single unisex restroom, phones, drinking
-fountains, and then other elements such as parking, storage, and alarms.
+fountains, and then other elements such as parking, storage, and alarms.  
+{% enddetails %}  
+
 ILLUSTRATION: A library is remodeling its reading area for a total cost of $20,000.
 The library must spend, if necessary, up to an additional $4,000 (20 percent of
-
 $20,000) on &quot;path of travel&quot; costs. For $4,000 the library can install a ramp leading to
 the reading area, and it can lower telephones and drinking fountains. For $3,500 the
 library can create an accessible restroom. Because the most important path of travel
 element is the entrance and route to the area, the library should spend the money on
-the ramp, telephones, and drinking fountains.
-Can an entity limit its path of travel obligation by engaging in a series of small
-alterations? No. An entity cannot evade the path of travel requirement by doing
+the ramp, telephones, and drinking fountains.  
+
+{% details Can an entity limit its path of travel obligation by engaging in a series of small
+alterations? %}  
+No. An entity cannot evade the path of travel requirement by doing
 several small alterations (each of which, if considered by itself, would be so
 inexpensive that adding 20 percent would not result in addition of any path of travel
 features). Whenever an area containing a primary function is altered, other alterations
@@ -2551,7 +2650,9 @@ to that area (or to other areas on the same path of travel) made within the prec
 three years are considered together in determining disproportionality. Only alterations
 after January 26, 1992, are counted. In other words, all of the alterations to the same
 path of travel taken within the preceding three years are considered together in
-deciding whether the 20 percent has been reached.
+deciding whether the 20 percent has been reached.  
+{% enddetails %}  
+
 ILLUSTRATION: On February 1, 1992, a nursery school with several steps at its
 entrance renovates one of its classrooms. The renovations total $500, triggering up to
 $100 worth of path of travel obligations (20 percent of $500). Because $100 will not
@@ -2563,34 +2664,42 @@ March 1, 1993, another minor renovation ($2,000) is made to the same area, this 
 triggering path of travel obligations of up to $400. Had the nursery school done all
 three small renovations at the same time, the cost would have been $3,500, triggering
 a path of travel obligation of up to $700. For $700, an accessible ramp could have
-been installed.
+been installed.  
+
 In determining amounts that must be spent on path of travel features at the time of the
 March 1, 1993, renovation, the nursery school must spend up to 20 percent not just of
 the $2,000 renovation taking place on March 1, but, rather, up to 20 percent of all of
 the renovations in the preceding three years put together. Thus, on March 1, 1993, the
 nursery school must spend up to 20 percent of $3,500 or $700 (the total cost of the
 three small renovations) rather than up to 20 percent of $2,000 or $400 (the cost of
-just the March 1, 1993, renovation).
-III-6.3000 Alterations: Elevator exemption. As under new construction, elevators are
+just the March 1, 1993, renovation).  
+
+### III-6.3000 Alterations:  
+Elevator exemption. As under new construction, elevators are
 not required to be installed during alterations in facilities under three stories or with
 fewer than 3,000 square feet per floor, unless the building is a shopping center or
 mall; professional office of a health care provider; public transit station; or airport
-
 passenger terminal. As discussed below, &quot;shopping center or mall&quot; is defined
-differently for alterations than it is for new construction.
-Does this mean that shopping centers, health care providers, and transit facilities have
+differently for alterations than it is for new construction.  
+
+{% details Does this mean that shopping centers, health care providers, and transit facilities have
 to install elevators every time they do alterations that would trigger a path of travel
-obligation involving vertical access? No. The 20 percent disproportionality limit
+obligation involving vertical access? %}  
+No. The 20 percent disproportionality limit
 discussed above applies and means that elevators are not required when installing
 them would exceed 20 percent of the cost of the original alteration (which will most
-often be the case).
+often be the case).  
+
 BUT, if escalators or stairs are being planned where none existed before and major
 structural modifications are necessary, an elevator or platform lift may need to be
 installed, because ADAAG provides that, in such a situation, an accessible means of
 vertical access must be provided. However, elevators or lifts are never required to be
-installed during alterations if it is technically infeasible to do so.
-Why is there a different definition of &quot;shopping center or mall&quot; for alterations as
-opposed to new construction? A &quot;shopping center or mall&quot; is defined in the alterations
+installed during alterations if it is technically infeasible to do so.  
+{% enddetails %}  
+
+{% details Why is there a different definition of &quot;shopping center or mall&quot; for alterations as
+opposed to new construction? %}  
+A &quot;shopping center or mall&quot; is defined in the alterations
 provisions as a series of existing buildings on a common site connected by a
 &quot;common pedestrian route&quot; above or below the ground floor. This definition was
 included to avoid a requirement for several separate elevators in buildings that were
@@ -2599,8 +2708,12 @@ route would allow access to all of the stores to be provided by a single elevato
 If an alteration is planned on the third floor of a building and an elevator is not
 required, do any other ADAAG requirements apply to the third floor? Yes. All other
 ADAAG requirements, aside from the requirement for an elevator, apply to the third
-floor.
-III-6.4000 Alterations: Historic preservation. Alterations to historic properties must
+floor.  
+{% enddetails %}  
+
+### III-6.4000 Alterations:  
+
+Historic preservation. Alterations to historic properties must
 comply with the historic property provisions of ADAAG, to the maximum extent
 feasible. Under those provisions, alterations should be done in full compliance with
 the alterations standards for other types of buildings. However, if following the usual
@@ -2608,23 +2721,30 @@ standards would threaten or destroy the historic significance of a feature of th
 building, alternative standards may be used. The decision to use alternative standards
 for that feature must be made in consultation with the appropriate advisory board
 designated in ADAAG, and interested persons should be invited to participate in the
-decision-making process.
-What are &quot;historic properties&quot;? These are properties that are listed or that are eligible
-for listing in the National Register or Historic Places, or properties designated as
-historic under State or local law.
+decision-making process.  
 
-What are the alternative requirements? The alternative requirements provide a
-minimal level of access. For example --
-1) An accessible route is only required from one site access point (such as the parking
-lot).
-2) A ramp may be steeper than is ordinarily permitted.
-3) The accessible entrance does not need to be the one used by the general public.
-4) Only one accessible toilet is required and it may be unisex.
-5) Accessible routes are only required on the level of the accessible entrance.
+{% details What are &quot;historic properties&quot;? %}  
+These are properties that are listed or that are eligible
+for listing in the National Register or Historic Places, or properties designated as
+historic under State or local law.  
+{% enddetails %}
+
+{% details What are the alternative requirements? %}  
+The alternative requirements provide a
+minimal level of access. For example --  
+1. An accessible route is only required from one site access point (such as the parking
+lot).  
+2. A ramp may be steeper than is ordinarily permitted.  
+3. The accessible entrance does not need to be the one used by the general public.  
+4. Only one accessible toilet is required and it may be unisex.  
+5. Accessible routes are only required on the level of the accessible entrance.  
+
 But what if complying with even these minimal alternative requirements will threaten
 or destroy the historic significance? In such a case, which is rare, structural changes
 need not be made. Rather, alternative methods can be used to provide access, such as
-providing auxiliary aids or modifying policies.
+providing auxiliary aids or modifying policies.  
+{% enddetails %}  
+
 ILLUSTRATION: A historic house is being altered to be used as a museum. The
 architect designing the project concludes that most of the normal standards for
 alterations can be applied during the renovation process without threatening or
@@ -2633,22 +2753,27 @@ interior doors is widened, because historic decorative features on the door migh
 destroyed. After consulting ADAAG, the architect determines that the appropriate
 historic body with jurisdiction over the particular historic home is the Advisory
 Council on Historic Preservation. The architect sets up a meeting with the Council, to
-which a local disability group is invited.
+which a local disability group is invited.  
+
 At the meeting the participants agree with the architect&#39;s conclusion that the normal
 alterations standards cannot be applied to the interior door. They then review the
 special alternative requirements, which require an accessible entrance. The meeting
 participants determine that application of the alternative minimal requirements is
-likewise not possible.
+likewise not possible.  
+
 In this situation, the museum owner is not required to widen the interior door. Instead,
 the owner modifies the usual operational policies and provides alternative access to
 the activities offered in the inaccessible room by making available a video
 presentation of the items within the inaccessible room. The video can be viewed in a
-nearby accessible room in the museum.
+nearby accessible room in the museum.  
 
-III-7.0000 THE AMERICANS WITH DISABILITIES ACT ACCESSIBILITY
-GUIDELINES (ADAAG)
-Regulatory references: Appendix A to 28 CFR Part 36.
-III-7.1000 General. The standards to be used in new construction and alterations
+## III-7.0000 THE AMERICANS WITH DISABILITIES ACT ACCESSIBILITY GUIDELINES (ADAAG)  
+
+Regulatory references: Appendix A to 28 CFR Part 36.  
+
+### III-7.1000 General.  
+
+The standards to be used in new construction and alterations
 covered by subpart D of the Department&#39;s title III regulation are those found in the
 Americans with Disabilities Act Accessibility Guidelines published by the
 Architectural and Transportation Barriers Compliance Board. These guidelines are
@@ -2656,13 +2781,16 @@ incorporated as an appendix to the Department&#39;s regulations. The substance a
 of ADAAG is drawn from several sources, particularly the Uniform Federal
 Accessibility Standards (UFAS) (the Federal standard for buildings constructed with
 Federal funds), and the private sector American National Standard Institute&#39;s ANSI
-A117.1 standards.
-How does ADAAG compare to ANSI? ADAAG&#39;s technical design standards (e.g. ,
+A117.1 standards.  
+
+{% details How does ADAAG compare to ANSI? %}   
+ADAAG&#39;s technical design standards (e.g. ,
 how many inches wide a doorway must be) resemble the 1986 ANSI A117.1
 standards, in large part. Some design standards were adopted from the proposed new
 version of ANSI as it appeared in draft form when ADAAG was developed. The
 numbering and format of ADAAG also resemble ANSI. However, there are
-significant differences between ADAAG and the 1986 ANSI standards.
+significant differences between ADAAG and the 1986 ANSI standards.  
+
 Perhaps the most important difference is in the new scoping requirements. ADAAG,
 unlike the 1986 ANSI standards, contains scoping requirements; that is, specifications
 as to how many, and under what circumstances, accessibility features must be
@@ -2671,74 +2799,97 @@ Other differences reflect congressional intent that the ADA guidelines focus on
 certain areas not specifically addressed in ANSI, such as dressing rooms, restaurants,
 automated teller machines, and mercantile establishments. ADAAG also reflects
 congressional intent that the guidelines place an increased emphasis on
-communications with individuals with vision or hearing impairments.
-III-7.2000 General requirements/definitions
-III-7.2100 Equivalent facilitation (§2.2). Departures are permitted from particular
-requirements where alternative designs and technologies will provide substantially
-equivalent or greater access to and usability of the facility.
-ADAAG itself provides various examples of equivalent facilitation, i.e. , acceptable
-deviations from the standards. For instance --
+communications with individuals with vision or hearing impairments.  
+{% enddetails %}  
 
-1) In altered areas, elevator car dimensions can be smaller than the standards would
-mandate for new construction (§4.1.6(3)(c));
-2) Rather than install a text telephone next to a pay phone, hotels may keep portable
+### III-7.2000 General requirements/definitions  
+
+### III-7.2100 Equivalent facilitation (§2.2).  
+
+Departures are permitted from particular
+requirements where alternative designs and technologies will provide substantially
+equivalent or greater access to and usability of the facility.  
+
+ADAAG itself provides various examples of equivalent facilitation, i.e. , acceptable
+deviations from the standards. For instance --  
+1. In altered areas, elevator car dimensions can be smaller than the standards would
+mandate for new construction (§4.1.6(3)(c));  
+2. Rather than install a text telephone next to a pay phone, hotels may keep portable
 text telephones at the desk, if they are available 24 hours per day and certain other
-conditions are met (§4.31.9);
-3) A folding shelf with space for handing materials back and forth can be used instead
-of providing an accessible ticketing or other similar counter (§7.2(2)(iii));
-4) Accessible guest quarters in newly constructed hotels may all be &quot;multiple-
+conditions are met (§4.31.9);  
+3. A folding shelf with space for handing materials back and forth can be used instead
+of providing an accessible ticketing or other similar counter (§7.2(2)(iii));  
+4. Accessible guest quarters in newly constructed hotels may all be &quot;multiple-
 occupancy&quot; rooms, provided that individuals with disabilities who request accessible
 single-occupancy rooms are allowed to use the multiple-occupancy rooms at the cost
-of a single-occupancy room (?9.1.4(2));
-5) If balconies or terraces cannot be made accessible because wind or water damage
-will result, a ramp or raised decking may be used (§9.2.2(6)).
-Are these the only places where equivalent facilitation can be used? No. Departures
+of a single-occupancy room (?9.1.4(2));  
+5. If balconies or terraces cannot be made accessible because wind or water damage
+will result, a ramp or raised decking may be used (§9.2.2(6)).  
+
+{% details Are these the only places where equivalent facilitation can be used? %}  
+No. Departures
 from any provision in ADAAG are permitted as long as equivalent access is provided.
-However, portable ramps are not considered equivalent facilitation.
-III-7.3000 Accessible elements and spaces: Scoping and technical requirements.
-III-7.3100 Application (ADAAG §4.1.1(1)). ADAAG applies to all areas in new
-construction and alterations, except where limited by scoping requirements.
-III-7.3110 Work areas (ADAAG §4.1.1(3)). Access to work areas, but not to
+However, portable ramps are not considered equivalent facilitation.  
+{% enddetails %}  
+
+### III-7.3000 Accessible elements and spaces: Scoping and technical requirements.  
+
+### III-7.3100 Application (ADAAG §4.1.1(1)).  
+
+ADAAG applies to all areas in new
+construction and alterations, except where limited by scoping requirements.  
+
+### III-7.3110 Work areas (ADAAG §4.1.1(3)).  
+
+Access to work areas, but not to
 individual work stations, is required. The requirement for work areas is that they be
 designed so that individuals with disabilities can approach, enter, and exit the areas.
 Neither maneuvering within the work area nor accessible racks and shelves are
 required. It is recommended, however, that when there are identical work stations,
 five percent, but not less than one, should be constructed so that an individual with
 disabilities can maneuver within the work stations. This will facilitate reasonable
-accommodation that may later be required under title I for particular employees.
+accommodation that may later be required under title I for particular employees.  
+
 There are no requirements concerning placement of fixtures and equipment.
 What about areas such as hotel rooms that are work areas for cleaning people? Are
 they considered &quot;work areas&quot; subject to the limited requirements for approach, enter,
 and exit? No. The &quot;work area&quot; limited exception applies only to areas used
-
 exclusively by employees as work areas. Because the hotel room is also used by
 customers for sleeping, it is not a work area subject to the limited exemption.
 What is included in the term &quot;work area&quot;? Does it include employee lounges,
 restrooms, cafeterias, health units, and exercise facilities? No. These common use
 areas are not considered work areas, and they must be constructed or altered in full
-compliance with ADAAG.
-What if an owner of a building believes that an individual who uses a wheelchair
+compliance with ADAAG.  
+
+{% details What if an owner of a building believes that an individual who uses a wheelchair
 could never do the kind of job that will be performed in the particular area? Does the
-area still have to be made accessible? Yes. The ADA does not permit such
+area still have to be made accessible? %}  
+Yes. The ADA does not permit such
 assumptions to be made about the capabilities of individuals with disabilities. Unless
 the area is exempt from accessibility requirements (see III-7.3130), it must be
 designed so that individuals with disabilities can approach, enter, and exit the area.
 Even if an individual with a certain type of disability would not be qualified for a
 particular job, access must be provided for other individuals with disabilities such as,
 for example, supervisors, maintenance workers, volunteers, or inspectors, who may
-need to approach, enter, and exit the work area.
-Does the work area exemption apply only to areas that can be characterized as
+need to approach, enter, and exit the work area.  
+{% enddetails %}
+
+{% details Does the work area exemption apply only to areas that can be characterized as
 individual work stations, such as cubicles, counters, offices, or booths? Or does it also
 apply to larger work spaces, such as restaurant kitchens, factory production areas, and
-warehouse space? It applies to the larger spaces as well. Thus, the requirement for a
+warehouse space? %}  
+It applies to the larger spaces as well. Thus, the requirement for a
 restaurant kitchen, a factory production area, or warehouse space, is that it be
 constructed so that an individual with a disability can approach, enter, or exit the area.
 However, alterations within those work areas need not be done accessibly, because
 that interior area is not covered by ADAAG. On the other hand, if alterations are
 made in such work areas, the path of travel requirements will be triggered because
-those work areas are primary function areas (see III-6.2000).
-Does this mean that there can no longer be raised platforms for grocery managers or
-pharmacists? If a raised platform for a grocery manager station or area for pharmacists
+those work areas are primary function areas (see III-6.2000).  
+{% enddetails %}  
+
+{% details Does this mean that there can no longer be raised platforms for grocery managers or
+pharmacists? %}  
+If a raised platform for a grocery manager station or area for pharmacists
 is an &quot;observation galler[y] used primarily for security purposes,&quot; it is one of the types
 of facilities that is totally exempt from any accessibility requirements (see III-7.3130)
 (although title I may later require a lift as a reasonable accommodation for a particular
@@ -2748,7 +2899,8 @@ means that, if there is a change in level of over 1/2&quot;, a ramp or lift must
 the raised area. Note, however, that in many instances a raised platform is surrounded
 by another work area, such as a service counter. The work area accessibility
 requirement would be satisfied as long as that outer area could be approached,
-entered, and exited.
+entered, and exited.  
+{% enddetails %}  
 
 What if the raised area is a mezzanine (i.e. , an actual floor level) used, for example,
 as an employee lounge area? In this case, whether there needs to be an elevator to the
@@ -2757,108 +2909,159 @@ required (because, for example, the building is under three stories and is not a
 shopping center or other exempt facility), then access need not be provided to that
 mezzanine. Likewise, access to the mezzanine need not be provided in one-story
 buildings. However, if an elevator is required (because the facility is a shopping
-center, for example), then there will need to be access to the mezzanine.
+center, for example), then there will need to be access to the mezzanine.  
+
 ILLUSTRATION: A two-story grocery store is located next to a bakery and a card
 store. The grocery store has a mezzanine that is used as an employee lounge area. The
 lounge area can be built without a ramp or elevator, because the facility is subject to
 the elevator exemption. (It is not a shopping center because it does not have five
 stores in it.) Given that inaccessible floors are permitted, inaccessible mezzanines are
-also allowed.
+also allowed.  
+
 BUT: If the grocery store were located in a complex with four other sales or rental
 establishments, it would be a &quot;shopping center. &quot; As such, it would not be entitled to
 the elevator exemption and the employees&#39; lounge on the mezzanine would have to be
-made fully accessible, either by ramp or elevator.
-III-7.3120 Temporary structures (ADAAG §4.1.1(4)). Temporary buildings that are
+made fully accessible, either by ramp or elevator.  
+
+### III-7.3120 Temporary structures (ADAAG §4.1.1(4)).  
+Temporary buildings that are
 extensively used or are essential for public use are covered. However, structures, sites,
-and equipment directly associated with major construction are not covered.
-III-7.3130 General exceptions (ADAAG §4.1.1(5)). Accessibility is not required to -
--
-1) Observation galleries used primarily for security purposes; or
-2) Nonoccupiable spaces accessed only by ladders, crawl spaces, very narrow
+and equipment directly associated with major construction are not covered.  
+
+### III-7.3130 General exceptions (ADAAG §4.1.1(5)). Accessibility is not required to --  
+1. Observation galleries used primarily for security purposes; or  
+2. Nonoccupiable spaces accessed only by ladders, crawl spaces, very narrow
 passageways, or freight (nonpassenger) elevators, and frequented only by service
 personnel for repair purposes. This includes elevator pits, elevator penthouses, piping
-or equipment catwalks, cooling towers, and utility tunnels.
-What about mechanical rooms or closets not accessed by ladders or narrow
-passageways? They are not exempt. However, they are work areas subject to the
-limited exemption discussed above. In addition, mechanical rooms are exempt from
-the elevator requirement (§4.1.3(5), Exception 2).
-III-7.4000 Sites and exterior facilities
+or equipment catwalks, cooling towers, and utility tunnels.  
 
-III-7.4100 General. This section addresses exterior features such as parking, portable
-toilets, and exterior signage in new construction.
-III-7.4200 Accessible route (ADAAG §4.1.2(1)). An accessible route must connect
+{% details What about mechanical rooms or closets not accessed by ladders or narrow
+passageways? %} 
+They are not exempt. However, they are work areas subject to the
+limited exemption discussed above. In addition, mechanical rooms are exempt from
+the elevator requirement (§4.1.3(5), Exception 2).  
+{% enddetails %}
+
+### III-7.4000 Sites and exterior facilities  
+
+### III-7.4100 General.  
+
+This section addresses exterior features such as parking, portable
+toilets, and exterior signage in new construction.  
+
+### III-7.4200 Accessible route (ADAAG §4.1.2(1)).  
+
+An accessible route must connect
 accessible public transportation stops, parking spaces, passenger loading zones, and
-public streets or sidewalks to an accessible building entrance.
+public streets or sidewalks to an accessible building entrance.  
+
 Note, however, that private entities often do not have control over streets and
 sidewalks. In such a case, the private entity is not responsible for compliance.
 However, it is encouraged to request public entities to modify sidewalks and install
-curb cuts.
-III-7.4300 Parking (ADAAG §4.1.2(5)(b)). ADAAG provides a table with the
+curb cuts.  
+
+### III-7.4300 Parking (ADAAG §4.1.2(5)(b)).  
+
+ADAAG provides a table with the
 number of accessible parking spaces required dependent on the size of the lot. For
 example, only four percent of the spaces in a 100-space lot must be accessible. Certain
-facilities, however, are subject to higher requirements.
+facilities, however, are subject to higher requirements.  
+
 Outpatient units are subject to a higher requirement if they are part of medical care
 facilities where persons may need assistance in responding to an emergency and
 where the period of stay may exceed twenty-four hours. For such facilities, ten
 percent of the total parking attributable to the outpatient unit or facility must be
-accessible.
+accessible.  
+
 In addition, any unit or facility providing medical care or other services, including
 occupational or physical therapy, or vocational rehabilitation, is subject to a higher
 accessible parking requirement, if it specializes in treatment or services for persons
 with mobility impairments. Twenty percent of the total number of parking spaces
-serving each such unit or facility must be accessible.
+serving each such unit or facility must be accessible.  
+
 In addition to the general requirements for accessible automobile spaces, ADAAG
 requires that at least one of every eight accessible parking spaces have adequate
 adjacent space for a van lift to be deployed. Each such space must have a sign
-indicating that it is van-accessible, but it is not to be reserved exclusively for vans.
+indicating that it is van-accessible, but it is not to be reserved exclusively for vans.  
+
 Alternatively, &quot;universal parking,&quot; in which all spaces can accommodate van widths,
-is permitted.
+is permitted.  
+
 If valet parking is provided, there must be an accessible passenger loading zone.
 If a lot is limited to the exclusive use of employees, and none of the employees are
 individuals with disabilities requiring accessible parking, accessible spaces may be
-assigned to employees without disabilities.
+assigned to employees without disabilities.  
 
-III- 7.4400 Signage (ADAAG §4.1.2(7)). Requirements for exterior signs are
+### III- 7.4400 Signage (ADAAG §4.1.2(7)).  
+
+Requirements for exterior signs are
 essentially the same as those for interior signs (see §4.1.3(b) below). The international
 symbol of accessibility must be used to indicate accessible parking spaces; accessible
 passenger loading zones; and accessible entrances and toilet facilities, if all are not
-accessible.
-III-7.5000 Buildings: New construction (ADAAG §4.1.3).
-III-7.5100 General. This section contains scoping requirements for new construction.
-III-7.5105 Accessible route (ADAAG §4.1.3(1)). An accessible route must connect
-all accessible elements within a building.
-III-7.5110 Stairs (ADAAG §4.1.3(4)). Interior and exterior stairs must comply if
-they go between levels not connected by an elevator, ramp, or lift.
-III-7.5115 Elevators and platform lifts (ADAAG §4.1.3(5)). Elevators are required
-to serve each level in a newly constructed building, with four exceptions:
-1) Exception 1 is the &quot;elevator exemption&quot; discussed above (see III-5.4000).
-2) Exception 2 exempts elevator pits, elevator penthouses, mechanical rooms, and
-piping or equipment catwalks.
-3) Exception 3 permits the use of accessible ramps instead of elevators at any time.
-4) Exception 4 permits the use of platform lifts under certain conditions. Lifts must
-permit unassisted entry, operation, and exit.
-III-7.5120 Windows (ADAAG §4.1.3(6)). There are currently no requirements for
-windows.
-III-7.5125 Doors (ADAAG §4.1.3(7)). The following doors must be accessible:
-1) At least one at each accessible entrance and at each accessible space;
-2) Each door that is part of an accessible route; and
-3) Each door that is required for egress.
+accessible.  
+
+### III-7.5000 Buildings: New construction (ADAAG §4.1.3).  
+
+### III-7.5100 General.  
+
+This section contains scoping requirements for new construction.   
+
+### III-7.5105 Accessible route (ADAAG §4.1.3(1)).  
+
+An accessible route must connect all accessible elements within a building.  
+
+### III-7.5110 Stairs (ADAAG §4.1.3(4)).  
+
+Interior and exterior stairs must comply if
+they go between levels not connected by an elevator, ramp, or lift.  
+
+### III-7.5115 Elevators and platform lifts (ADAAG §4.1.3(5)).  
+
+Elevators are required
+to serve each level in a newly constructed building, with four exceptions:  
+
+1. Exception 1 is the &quot;elevator exemption&quot; discussed above (see III-5.4000).  
+2.  Exception 2 exempts elevator pits, elevator penthouses, mechanical rooms, and
+piping or equipment catwalks.  
+3. Exception 3 permits the use of accessible ramps instead of elevators at any time.  
+4. Exception 4 permits the use of platform lifts under certain conditions. Lifts must
+permit unassisted entry, operation, and exit.  
+
+### III-7.5120 Windows (ADAAG §4.1.3(6)).  
+
+There are currently no requirements for windows.  
+
+### III-7.5125 Doors (ADAAG §4.1.3(7)).  
+
+The following doors must be accessible:  
+1. At least one at each accessible entrance and at each accessible space;  
+2. Each door that is part of an accessible route; and  
+3. Each door that is required for egress.  
+
 Automated doors are not required. Because of a wide variety of factors that affect
 door usability, no specific force limit for exterior doors is identified, although
-standards are provided for interior doors.
+standards are provided for interior doors.  
 
-III-7.5130 Entrances (ADAAG §4.1.3(8)). At least 50 percent of all public entrances
+### III-7.5130 Entrances (ADAAG §4.1.3(8)).  
+
+At least 50 percent of all public entrances
 must be accessible with certain qualifications. In addition, there must be accessible
-entrances to enclosed parking, pedestrian tunnels, and elevated walkways.
-III-7.5135 Areas of rescue assistance (ADAAG §4.1.3(9)). Areas of rescue
+entrances to enclosed parking, pedestrian tunnels, and elevated walkways.  
+
+### III-7.5135 Areas of rescue assistance (ADAAG §4.1.3(9)).  
+
+Areas of rescue
 assistance (safe areas in which to await help in an emergency) are generally required
 on each floor, other than the ground floor, of a multistory building. An accessible
 egress route or an area of rescue assistance is required for each exit required by the
 local fire code. Specific requirements are provided for such features as location, size,
 stairway width, and two-way communications. Areas of rescue assistance are not
 required in buildings with supervised automatic sprinkler systems, nor are they
-required in alterations.
-III-7.5140 Drinking fountains (ADAAG §4.1.3(10)). Where there is only one
+required in alterations.  
+
+### III-7.5140 Drinking fountains (ADAAG §4.1.3(10)).  
+
+Where there is only one
 drinking fountain on a floor, it must be accessible both to individuals who use
 wheelchairs and to those who have difficulty bending or stooping (for example, by
 using a &quot;hi-lo&quot; fountain or a fountain and a water cooler). Where there is more than
@@ -2866,68 +3069,90 @@ one fountain on a floor, 50 percent must be accessible to persons using wheelcha
 III-7.5145 Bathrooms (ADAAG §§4.1.3(11); 4.22.4). Every public and common use
 bathroom must be accessible. Generally only one stall must be accessible (standard
 five-by-five feet). When there are six or more stalls, there must be one accessible stall
-and one stall that is three feet wide.
-III-7.5150 Storage, shelving, and display units (ADAAG §4.1.3(12)). One of each
+and one stall that is three feet wide.  
+
+### III-7.5150 Storage, shelving, and display units (ADAAG §4.1.3(12)).  
+
+One of each
 type of storage facility must be accessible. Self-service shelves and displays must be
 on an accessible route but need not be lowered within reach ranges of individuals who
-use wheelchairs.
-III-7.5155 Controls and operating mechanisms (ADAAG §4.1.3(13)). All controls
+use wheelchairs.  
+
+### III-7.5155 Controls and operating mechanisms (ADAAG §4.1.3(13)).  
+
+All controls
 in accessible areas must comply with reach requirements and must be operable with
-one hand without tight grasping, pinching, or twisting of the wrist.
-III-7.5160 Alarms (ADAAG §4.1.3(14)). Both audible and visual alarms are required
+one hand without tight grasping, pinching, or twisting of the wrist.  
+
+### III-7.5160 Alarms (ADAAG §4.1.3(14)).  
+
+Both audible and visual alarms are required
 when emergency warning systems are provided. ADAAG has detailed requirements
 concerning features needed for visual alarms, including type of lamp, color, flash rate,
-and intensity.
-III-7.5161 Detectable warnings (ADAAG 4.1.3(15)). The requirement for detectable
-warnings at certain locations is under review by the Architectural and Transportation
-Barriers Compliance Board, and will be the subject of future rulemaking.
+and intensity.  
 
-III-7.5165 Signage (ADAAG §§4.1.3(16); 4.30.7). Different requirements apply to
-various types of signs:
-1) Signs designating permanent rooms and spaces (e.g. , men&#39;s and women&#39;s rooms,
+### III-7.5161 Detectable warnings (ADAAG 4.1.3(15)).  
+
+The requirement for detectable
+warnings at certain locations is under review by the Architectural and Transportation
+Barriers Compliance Board, and will be the subject of future rulemaking.  
+
+### III-7.5165 Signage (ADAAG §§4.1.3(16); 4.30.7).  
+
+Different requirements apply to
+various types of signs:  
+1. Signs designating permanent rooms and spaces (e.g. , men&#39;s and women&#39;s rooms,
 room numbers, exit signs) must have raised and Brailled letters; must comply with
-finish and contrast standards; and must be mounted at a certain height and location.
-2) Signs that provide direction to or information about functional spaces of a building
+finish and contrast standards; and must be mounted at a certain height and location.  
+2. Signs that provide direction to or information about functional spaces of a building
 (e.g. , &quot;cafeteria this way;&quot; &quot;copy room&quot;) need not comply with requirements for
 raised and Brailled letters, but they must comply with requirements for character
 proportion, finish, and contrast. If suspended or projected overhead, they must also
-comply with character height requirements.
-3) Building directories and other signs providing temporary information (such as
-current occupant&#39;s name) do not have to comply with any ADAAG requirements.
-4) New symbols of accessibility identifying volume control telephones, text
-telephones, and assistive listening systems are required.
-5) When pictograms (pictorial symbols) are used as a sign to designate a permanent
+comply with character height requirements.  
+3. Building directories and other signs providing temporary information (such as
+current occupant&#39;s name) do not have to comply with any ADAAG requirements.  
+4. New symbols of accessibility identifying volume control telephones, text
+telephones, and assistive listening systems are required.  
+
+When pictograms (pictorial symbols) are used as a sign to designate a permanent
 room or space (e.g. , a men&#39;s or women&#39;s room), they must be accompanied by an
 equivalent verbal description placed directly below the pictogram. The field used for
 the pictogram must be at least six inches in height (not counting the space used for the
 verbal description), and the verbal description must employ Braille and raised
-characters.
-III-7.5170 Telephones (ADAAG §4.1.3(17)). This section establishes requirements
+characters.  
+
+### III-7.5170 Telephones (ADAAG §4.1.3(17)).  
+
+This section establishes requirements
 for accessibility of pay phones to persons with mobility impairments, hearing
 impairments (requiring some phones with volume controls), and those who cannot use
 voice telephones and need &quot;text telephones&quot; (referred to in the Department&#39;s rule as
-telecommunication devices for the deaf (TDD&#39;s)):
-1) One accessible public phone must be provided for each floor, unless the floor has
+telecommunication devices for the deaf (TDD&#39;s)):  
+1. One accessible public phone must be provided for each floor, unless the floor has
 two or more banks of phones, in which case there must be one accessible phone for
-each bank.
-2) All accessible public phones must be equipped with volume controls. In addition,
+each bank.  
+2. All accessible public phones must be equipped with volume controls. In addition,
 25 percent, but never less than one, of all other public phones must have volume
-controls.
-3) One TDD or text telephone must be provided inside any building that has four or
+controls.  
+3. One TDD or text telephone must be provided inside any building that has four or
 more public pay telephones, counting both interior and exterior phones. In addition,
 
 one TDD or text telephone (per facility) must be provided whenever there is an
 interior public pay phone in a stadium or arena; convention center; hotel with a
 convention center; covered shopping mall; or hospital emergency, recovery, or
-waiting room.
-III-7.5175 Fixed seating (ADAAG §4.1.3(18)). At least five percent of fixed or built-
+waiting room.  
+
+### III-7.5175 Fixed seating (ADAAG §4.1.3(18)).  
+
+At least five percent of fixed or built-
 in seating or tables must be accessible. Wheelchair seating spaces in assembly areas
 and restaurants are not subject to this requirement but, rather, are covered by specific
-requirements for &quot;assembly areas&quot; and &quot;restaurants. &quot;
+requirements for &quot;assembly areas&quot; and &quot;restaurants. &quot;  
+
 III-7.5180 Assembly areas (ADAAG §4.1.3(19)). This section specifies the number
 of wheelchair seating spaces and types and numbers of assistive listening systems
-required in assembly areas.
-1) Wheelchair seating: Requirements for wheelchair seating are triggered in any area
+required in assembly areas.  
+1. Wheelchair seating: Requirements for wheelchair seating are triggered in any area
 that seats four or more people. The number of wheelchair locations required depends
 upon the size of the assembly area. Dispersal of wheelchair seating is required in
 assembly areas where there are more than 300 seats. In addition, at least one percent
@@ -2941,34 +3166,43 @@ other aisles that do not serve the accessible wheelchair locations are not requi
 comply with the requirements for ramps. ADAAG does not specify the location of the
 accessible means of egress. Therefore, the accessible means of egress from wheelchair
 locations can be through the rear, the side, or the front of the theater. (The general
-requirements for accessible routes are discussed above in III-7.4200.)
-2) Assistive listening systems: Certain fixed seating assembly areas that accommodate
+requirements for accessible routes are discussed above in III-7.4200.)  
+2. Assistive listening systems: Certain fixed seating assembly areas that accommodate
 50 or more people or have audio-amplification systems must have a permanently
 installed assistive listening system. Other assembly areas must have a permanent
 system or an adequate number of electrical outlets or other wiring to support a
 portable system. A special sign indicating the availability of the system is required.
 The minimum number of receivers must be equal to four percent of the total number
-of seats, but never less than two.
-III-7.5185 Automated teller machines (ATM&#39;s) (ADAAG §4.1.3(20)). Where
-ATM&#39;s are provided, each must be accessible, except that only one need comply when
+of seats, but never less than two.  
+
+### III-7.5185 Automated teller machines (ATM&#39;s) (ADAAG §4.1.3(20)).  
+
+Where ATM&#39;s are provided, each must be accessible, except that only one need comply when
 two or more ATM&#39;s are at the same location. Accessible machines must have, among
 other features, accessible controls as well as instructions and other information
-
 accessible to persons with sight impairments. This can include Braille and raised
-letters and/or audio handsets, along with tactile keys.
+letters and/or audio handsets, along with tactile keys.  
+
 The ADAAG standard now in effect provides that ATM&#39;s must meet the requirements
 for both a forward and a side approach. That standard, however, is under review by
 the Architectural and Transportation Barriers Compliance Board, and is the subject of
-current rulemaking.
+current rulemaking.  
+
 ADAAG permits departures from particular technical requirements by use of other
 designs and technologies where the alternative designs and technologies will provide
 substantially equivalent or greater access to and usability of the facility. It may be
 possible to show that meeting only one of the reach ranges with respect to a particular
-ATM, as installed, provides equivalent facilitation in compliance with ADAAG.
-III-7.5190 Dressing and fitting rooms (ADAAG §4.1.3(21)). Where dressing rooms
+ATM, as installed, provides equivalent facilitation in compliance with ADAAG.  
+
+### III-7.5190 Dressing and fitting rooms (ADAAG §4.1.3(21)).  
+
+Where dressing rooms
 are provided, five percent or at least one must be accessible. Technical standards are
-provided for doors, benches, and mirrors, with less stringent standards for alterations.
-III-7.6000 Additions (ADAAG §4.1.5). Each addition to an existing building is
+provided for doors, benches, and mirrors, with less stringent standards for alterations.  
+
+### III-7.6000 Additions (ADAAG §4.1.5).  
+
+Each addition to an existing building is
 regarded as an alteration subject to the ADAAG alterations requirements (including
 triggering of path of travel obligations, if applicable). If the addition does not have an
 accessible entrance, the path of travel obligation may require an accessible route from
@@ -2976,7 +3210,8 @@ the addition through the existing building, including its entrance and exterior
 approaches, subject to the 20 percent disproportionality limitation. Moreover, to the
 extent that a space or element is newly constructed as part of an addition, it is also
 regarded as new construction and must comply with the applicable new construction
-provisions of ADAAG.
+provisions of ADAAG.  
+
 ILLUSTRATION: A new multistory parking structure is planned as an addition to an
 existing shopping mall that is served by an elevator. Each floor of the parking garage
 will be connected by an accessible route to the shopping mall. As an addition, the
@@ -2988,26 +3223,30 @@ through the shopping center. In that case, an elevator or accessible ramp would 
 required in the parking structure to serve each level of the garage. If, on the other
 hand, vertical access to each level of the garage may be achieved through the
 shopping mall at all times that the garage is open, an elevator or accessible ramp
-would not be required in the parking structure.
+would not be required in the parking structure.  
 
-III-7.7000 Alterations (ADAAG §4.1.6). Throughout ADAAG, there are numerous
+### III-7.7000 Alterations (ADAAG §4.1.6).  
+
+Throughout ADAAG, there are numerous
 examples of areas where there are less stringent standards for alterations than for new
-construction. For instance --
-1) Section 4.1.6(3) contains a detailed set of special technical provisions for
+construction. For instance --  
+1. Section 4.1.6(3) contains a detailed set of special technical provisions for
 alterations to be applied where it is technically infeasible to comply with other
-provisions of the guidelines. Entities are permitted to --
-(a) Install only one accessible unisex bathroom per floor;
-(b) Cluster wheelchair seating in altered assembly areas;
-(c) Use platform lifts as part of an accessible route, without having to meet any of the
+provisions of the guidelines. Entities are permitted to -- 
+a. Install only one accessible unisex bathroom per floor;
+b. Cluster wheelchair seating in altered assembly areas;
+c. Use platform lifts as part of an accessible route, without having to meet any of the
 conditions for use of platform lifts applicable in the new construction context
-(§4.1.3(5)); and
-(d) Install only one accessible dressing room for each sex on each level.
-2) Areas of rescue assistance are not required in alterations (§4.1.6(1)(g)).
-3) There are special less stringent requirements for alterations in many other areas,
+(§4.1.3(5));
+d. Install only one accessible dressing room for each sex on each level.
+2. Areas of rescue assistance are not required in alterations (§4.1.6(1)(g)).
+3. There are special less stringent requirements for alterations in many other areas,
 including sales and service counters (§7.2(1)), check-out aisles (§7.3(1)), hotels
-(?9.1.5), and homeless shelters (?9.5.2(2)).
-III-7.8000 Special facility types
-III-7.8100 Historic preservation (ADAAG §4.1.7). This section contains
+(?9.1.5), and homeless shelters (?9.5.2(2)).  
+
+### III-7.8000 Special facility types   
+
+### III-7.8100 Historic preservation (ADAAG §4.1.7). This section contains
 requirements for alterations to qualified historic buildings and facilities (see III-
 6.4000).
 III-7.8200 Restaurants and cafeterias (ADAAG §5). In restaurants, generally all
