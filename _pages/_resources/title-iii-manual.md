@@ -87,9 +87,9 @@ A place of public accommodation is a facility whose operations --
 4. Places of public gathering (e.g. , auditoriums, convention centers, lecture halls);  
 5. Sales or rental establishments (e.g. , bakeries, grocery stores, hardware stores, shopping centers);  
 6. Service establishments (e.g. , laundromats, dry-cleaners, banks, barber shops, beauty shops, travel services, shoe repair services, funeral parlors, gas stations, offices of accountants or lawyers, pharmacies, insurance offices, professional offices of health care providers, hospitals);  
-7.  Public transportation terminals, depots, or stations (not including facilities relating to air transportation);  
-8.  Places of public display or collection (e.g. , museums, libraries, galleries);  
-9.  Places of recreation (e.g. , parks, zoos, amusement parks);  
+7. Public transportation terminals, depots, or stations (not including facilities relating to air transportation);  
+8. Places of public display or collection (e.g. , museums, libraries, galleries);  
+9. Places of recreation (e.g. , parks, zoos, amusement parks);  
 10. Places of education (e.g. , nursery schools, elementary, secondary, undergraduate, or postgraduate private schools);  
 11. Social service center establishments (e.g. , day care centers, senior citizen centers,homeless shelters, food banks, adoption agencies); and  
 12. Places of exercise or recreation (e.g. , gymnasiums, health spas, bowling alleys, golf courses).  
@@ -329,7 +329,7 @@ Courts have been most inclined to find private club status in cases where --
 2. The membership selection process is highly selective.  
 3. Substantial membership fees are charged.  
 4. The entity is operated on a nonprofit basis.  
-5.  The club was not founded specifically to avoid compliance with Federal civil rights
+5. The club was not founded specifically to avoid compliance with Federal civil rights
 laws.  
 
 Facilities of a private club lose their exemption to the extent that they are made
@@ -1586,7 +1586,7 @@ be readily achievable:
 7. Installing flashing alarm lights;  
 8. Widening doors;  
 9. Installing offset hinges to widen doorways;  
-10.  Eliminating a turnstile or providing an alternative accessible path;  
+10. Eliminating a turnstile or providing an alternative accessible path;  
 11. Installing accessible door hardware;  
 12. Installing grab bars in toilet stalls;  
 13. Rearranging toilet partitions to increase maneuvering space;  
@@ -2589,14 +2589,13 @@ circumstances, such as highway rest stops.
 
 {% details What if a tenant remodels his store in a manner that would trigger the path of travel
 obligation, but the tenant has no authority to create an accessible path of travel
-because the common areas are under the control of the landlord? Does this mean the
-landlord must now make an accessible path of travel to the remodeled store? %}   
-No.  Alterations by a tenant do not trigger a path of travel obligation for the landlord. Nor
-is the tenant required to make changes in areas not under his control.
-What costs can be included in determining whether the 20 percent disproportionality
-limitation has been met? Widening doorways, installing ramps, making bathrooms
-accessible, lowering telephones, relocating water fountains -- as well as any other
-costs associated with making the path of travel accessible -- can be included.  
+because the common areas are under the control of the landlord? Does this mean the landlord must now make an accessible path of travel to the remodeled store? %}   
+No.  Alterations by a tenant do not trigger a path of travel obligation for the landlord. Nor is the tenant required to make changes in areas not under his control.  
+{% enddetails %}  
+
+{% details What costs can be included in determining whether the 20 percent disproportionality
+limitation has been met? %}  
+Widening doorways, installing ramps, making bathrooms accessible, lowering telephones, relocating water fountains -- as well as any other costs associated with making the path of travel accessible -- can be included.  
 {% enddetails %}  
 
 {% details What if the cost of making an accessible path of travel would exceed the cost of the
@@ -2755,11 +2754,7 @@ Federal funds), and the private sector American National Standard Institute&#39;
 A117.1 standards.  
 
 {% details How does ADAAG compare to ANSI? %}   
-ADAAG&#39;s technical design standards (e.g. ,
-how many inches wide a doorway must be) resemble the 1986 ANSI A117.1
-standards, in large part. Some design standards were adopted from the proposed new
-version of ANSI as it appeared in draft form when ADAAG was developed. The
-numbering and format of ADAAG also resemble ANSI. However, there are
+ADAAG&#39;s technical design standards (e.g., how many inches wide a doorway must be) resemble the 1986 ANSI A117.1 standards, in large part. Some design standards were adopted from the proposed new version of ANSI as it appeared in draft form when ADAAG was developed. The numbering and format of ADAAG also resemble ANSI. However, there are
 significant differences between ADAAG and the 1986 ANSI standards.  
 
 Perhaps the most important difference is in the new scoping requirements. ADAAG,
@@ -2910,19 +2905,17 @@ passageways? %}
 They are not exempt. However, they are work areas subject to the
 limited exemption discussed above. In addition, mechanical rooms are exempt from
 the elevator requirement (§4.1.3(5), Exception 2).  
-{% enddetails %}
+{% enddetails %}  
 
 ### III-7.4000 Sites and exterior facilities  
 
 ### III-7.4100 General.  
 
-This section addresses exterior features such as parking, portable
-toilets, and exterior signage in new construction.  
+This section addresses exterior features such as parking, portable toilets, and exterior signage in new construction.  
 
 ### III-7.4200 Accessible route (ADAAG §4.1.2(1)).  
 
-An accessible route must connect
-accessible public transportation stops, parking spaces, passenger loading zones, and
+An accessible route must connect accessible public transportation stops, parking spaces, passenger loading zones, and
 public streets or sidewalks to an accessible building entrance.  
 
 Note, however, that private entities often do not have control over streets and
@@ -2979,8 +2972,7 @@ An accessible route must connect all accessible elements within a building.
 
 ### III-7.5110 Stairs (ADAAG §4.1.3(4)).  
 
-Interior and exterior stairs must comply if
-they go between levels not connected by an elevator, ramp, or lift.  
+Interior and exterior stairs must comply if they go between levels not connected by an elevator, ramp, or lift.  
 
 ### III-7.5115 Elevators and platform lifts (ADAAG §4.1.3(5)).  
 
@@ -3210,12 +3202,8 @@ requirements for alterations to qualified historic buildings and facilities (see
 
 ### III-7.8200 Restaurants and cafeterias (ADAAG §5).  
 
-In restaurants, generally all
-dining areas and five percent of fixed tables (but not less than one) must be accessible.
-While raised or sunken dining areas must be accessible, inaccessible mezzanines are
-permitted under certain conditions. ADAAG contains requirements for counters and
-bars, access aisles, food service lines, tableware and condiment areas, raised speaker&#39;s
-platforms, and vending machine areas (but not controls).  
+In restaurants, generally all dining areas and five percent of fixed tables (but not less than one) must be accessible.
+While raised or sunken dining areas must be accessible, inaccessible mezzanines are permitted under certain conditions. ADAAG contains requirements for counters and bars, access aisles, food service lines, tableware and condiment areas, raised speaker&#39;s platforms, and vending machine areas (but not controls).  
 
 ### III-7.8300 Medical care facilities (ADAAG §6).  
 
@@ -3315,12 +3303,7 @@ the ADA, or they can set up alternative dispute resolution mechanisms (see III-
 
 ### III-8.2000 Private suits.  
 
-Any person who is being subjected to discrimination on the
-basis of disability in violation of title III of the Act may file a civil action for
-injunctive relief. Also, when a person has reasonable grounds for believing that he or
-she is &quot;about to be subjected to discrimination&quot; because of a violation of the new
-construction and alterations requirements of the ADA, he or she may file a civil
-action.  
+Any person who is being subjected to discrimination on the basis of disability in violation of title III of the Act may file a civil action for injunctive relief. Also, when a person has reasonable grounds for believing that he or she is &quot;about to be subjected to discrimination&quot; because of a violation of the new construction and alterations requirements of the ADA, he or she may file a civil action.  
 
 ILLUSTRATION: X has reasonable grounds for believing that the plans for a hotel
 complex are not in compliance with the ADA. X may file a lawsuit challenging the

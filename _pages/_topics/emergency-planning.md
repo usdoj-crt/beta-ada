@@ -101,7 +101,7 @@ objects. For example, beds must be placed in locations that avoid blocking
 accessible routes.  
 - Ensure staff and volunteers can help people who are blind or have low vision
 find shelter areas.  
-- Survey physical spaces for barriers and ensure they comply with the [ADA Standards]({{'/law-and-regs/design-standards/2010-stds' | relative_url}})) to ensure physical accessibility at shelters. These areas include:  
+- Survey physical spaces for barriers and ensure they comply with the [ADA Standards]({{'/law-and-regs/design-standards/2010-stds' | relative_url}}) to ensure physical accessibility at shelters. These areas include:  
   - parking;  
   - exterior route from the parking to the entrance;  
   - entrance;  
@@ -131,13 +131,12 @@ activities like transferring someone to and from a wheelchair.
 stress.  
 - Modifying “no pets” policies to allow people with disabilities to stay in shelters with
 their service animals. Also, provide food, water, and waste disposal supplies for
-service animals. Click [here]( {{'/topics/service-animals'| relative_url}}) for more information on ADA requirements for service
-animals.  
+service animals. Read [Service Animals]( {{'/topics/service-animals'| relative_url}}) for more information on ADA requirements for service animals.  
 - In shelters where people generally use sleeping mats on the floor, making sure
 there are cots and beds for persons with disabilities unable to use mats.  
 
 The ADA requires state/local governments to provide services to people in the most
-integrated setting appropriate to their needs—more information on this is [here]( {{'/topics/olmstead'| relative_url}}).  
+integrated setting appropriate to their needs.  *See* [Community Integration]( {{'/topics/community-integration'| relative_url}}) for more information.  
 
 ### Communication  
 
