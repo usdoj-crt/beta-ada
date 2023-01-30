@@ -1729,8 +1729,7 @@ assistance.
 
 ### III-4.4500 Priorities for barrier removal.  
 
-The Department&#39;s regulation recommends priorities for removing barriers in existing facilities. Because the resources available
-for barrier removal may not be adequate to remove all existing barriers at any given
+The Department&#39;s regulation recommends priorities for removing barriers in existing facilities. Because the resources available for barrier removal may not be adequate to remove all existing barriers at any given
 time, the regulation suggests a way to determine which barriers should be mitigated or
 eliminated first. The purpose of these priorities is to facilitate long-term business
 planning and to maximize the degree of effective access that will result from any
