@@ -3135,9 +3135,7 @@ each bank.
 25 percent, but never less than one, of all other public phones must have volume
 controls.  
 3. One TDD or text telephone must be provided inside any building that has four or
-more public pay telephones, counting both interior and exterior phones. In addition,
-
-one TDD or text telephone (per facility) must be provided whenever there is an
+more public pay telephones, counting both interior and exterior phones. In addition, one TDD or text telephone (per facility) must be provided whenever there is an
 interior public pay phone in a stadium or arena; convention center; hotel with a
 convention center; covered shopping mall; or hospital emergency, recovery, or
 waiting room.  
@@ -3149,7 +3147,9 @@ in seating or tables must be accessible. Wheelchair seating spaces in assembly a
 and restaurants are not subject to this requirement but, rather, are covered by specific
 requirements for &quot;assembly areas&quot; and &quot;restaurants. &quot;  
 
-III-7.5180 Assembly areas (ADAAG §4.1.3(19)). This section specifies the number
+### III-7.5180 Assembly areas (ADAAG §4.1.3(19)).  
+
+This section specifies the number
 of wheelchair seating spaces and types and numbers of assistive listening systems
 required in assembly areas.  
 1. Wheelchair seating: Requirements for wheelchair seating are triggered in any area
@@ -3232,13 +3232,14 @@ examples of areas where there are less stringent standards for alterations than 
 construction. For instance --  
 1. Section 4.1.6(3) contains a detailed set of special technical provisions for
 alterations to be applied where it is technically infeasible to comply with other
-provisions of the guidelines. Entities are permitted to -- 
-a. Install only one accessible unisex bathroom per floor;
-b. Cluster wheelchair seating in altered assembly areas;
-c. Use platform lifts as part of an accessible route, without having to meet any of the
-conditions for use of platform lifts applicable in the new construction context
-(§4.1.3(5));
-d. Install only one accessible dressing room for each sex on each level.
+provisions of the guidelines. Entities are permitted to --  
+<ol type="a">
+<li>Install only one accessible unisex bathroom per floor;</li>  
+<li>Cluster wheelchair seating in altered assembly areas;</li>  
+<li>Use platform lifts as part of an accessible route, without having to meet any of the
+conditions for use of platform lifts applicable in the new construction context (§4.1.3(5));</li>  
+<li>Install only one accessible dressing room for each sex on each level.</li>  
+</ol>
 2. Areas of rescue assistance are not required in alterations (§4.1.6(1)(g)).
 3. There are special less stringent requirements for alterations in many other areas,
 including sales and service counters (§7.2(1)), check-out aisles (§7.3(1)), hotels
@@ -3246,57 +3247,78 @@ including sales and service counters (§7.2(1)), check-out aisles (§7.3(1)), ho
 
 ### III-7.8000 Special facility types   
 
-### III-7.8100 Historic preservation (ADAAG §4.1.7). This section contains
+### III-7.8100 Historic preservation (ADAAG §4.1.7).  
+
+This section contains
 requirements for alterations to qualified historic buildings and facilities (see III-
-6.4000).
-III-7.8200 Restaurants and cafeterias (ADAAG §5). In restaurants, generally all
+6.4000).  
+
+### III-7.8200 Restaurants and cafeterias (ADAAG §5).  
+
+In restaurants, generally all
 dining areas and five percent of fixed tables (but not less than one) must be accessible.
 While raised or sunken dining areas must be accessible, inaccessible mezzanines are
 permitted under certain conditions. ADAAG contains requirements for counters and
 bars, access aisles, food service lines, tableware and condiment areas, raised speaker&#39;s
-platforms, and vending machine areas (but not controls).
-III-7.8300 Medical care facilities (ADAAG §6). In medical care facilities, all public
+platforms, and vending machine areas (but not controls).  
+
+### III-7.8300 Medical care facilities (ADAAG §6).  
+
+In medical care facilities, all public
 and common use areas must be accessible. In general purpose hospitals, and in
 psychiatric and detoxification facilities, 10 percent of patient bedrooms and toilets
-must be accessible. The required percentage is 100 percent for special facilities
+must be accessible. The required percentage is 100 percent for special facilities treating conditions that affect mobility, and 50 percent for long-term facilities and
+nursing homes. There are special, less stringent requirements for alterations.  
 
-treating conditions that affect mobility, and 50 percent for long-term facilities and
-nursing homes. There are special, less stringent requirements for alterations.
-III-7.8400 Business and mercantile (ADAAG §7).
-1) Sales and service counters with cash registers: At least one of each type of sales or
+### III-7.8400 Business and mercantile (ADAAG §7).  
+
+1. Sales and service counters with cash registers: At least one of each type of sales or
 service counter where a cash register is located must be accessible. Accessible
 counters must be dispersed throughout the facility. Auxiliary counters are permissible
-in alterations.
-Are frozen food and deli counters covered? No, but employees should be instructed to
+in alterations.  
+
+{% details Are frozen food and deli counters covered? %}  
+
+No, but employees should be instructed to
 bring food items around to the front of high counters for individuals with disabilities.
 What does &quot;one of each type&quot; mean in a store where computerized check-out permits
 universal service at any cash register? The size of the store and the number of floors
-will be relevant factors in determining how many counters need to be accessible.
+will be relevant factors in determining how many counters need to be accessible.  
+{% enddetails %}
+
 ILLUSTRATION 1: A small one-story clothing store has four identical cash register
 counters, one in each department. Only one counter need be accessible, if all items
-can be purchased there.
+can be purchased there.  
+
 ILLUSTRATION 2: A very narrow but six-story tall department store has identical
 cash register counters throughout the facility. ADAAG will be satisfied if there is one
-accessible counter per floor at which all purchases can be made.
+accessible counter per floor at which all purchases can be made.  
+
 BUT: If the same six-story department store is a full city block long, one per floor
-may not be enough. A reasonable number should be provided.
-2) Other counters: At counters without cash registers, such as bank teller windows and
-ticketing counters, three alternatives are possible:
-(a) A portion of the counter may be lowered,
-(b) An auxiliary counter may be provided, or
-(c) Equivalent facilitation may be provided by installing a folding shelf on the front of
-a counter to provide a work surface for a person using a wheelchair.
-3) Check-out aisles (§7.3): At least one of each design of check-out aisle must be
+may not be enough. A reasonable number should be provided.  
+
+2. Other counters: At counters without cash registers, such as bank teller windows and
+ticketing counters, three alternatives are possible:  
+<ol type="a">
+<li>A portion of the counter may be lowered,</li>  
+<li>An auxiliary counter may be provided, or</li>  
+<li>Equivalent facilitation may be provided by installing a folding shelf on the front of a counter to provide a work surface for a person using a wheelchair.</li>  
+</ol>  
+
+3. Check-out aisles (§7.3): At least one of each design of check-out aisle must be
 accessible, and, in some cases, additional check-out aisles are required to be
 accessible (i.e. , from 20 to 40 percent) depending on the number of check-out aisles
-and the size of the facility. There are less stringent standards for alterations.
+and the size of the facility. There are less stringent standards for alterations.  
 
-III-7.8500 Libraries (ADAAG §8). In libraries, all public areas must be
+### III-7.8500 Libraries (ADAAG §8).  
+
+In libraries, all public areas must be
 accessible. In addition, five percent of fixed tables or study carrels (or at least one)
 must be accessible. At least one lane at the check-out area and aisles between card
-catalogs, magazine displays, and stacks must be accessible.
-III-7.8600 Transient lodging (ADAAG §9).
-1) Hotels, motels, dormitories, and similar places: Four percent of the first 100 rooms
+catalogs, magazine displays, and stacks must be accessible.  
+
+III-7.8600 Transient lodging (ADAAG §9).  
+1. Hotels, motels, dormitories, and similar places: Four percent of the first 100 rooms
 and approximately two percent of rooms in excess of 100 must be accessible to
 persons with mobility impairments and to persons with hearing impairments (i.e. ,
 contain visual alarms, visual notification devices, volume-control telephones, and an
@@ -3305,48 +3327,64 @@ additional one percent of the rooms must be accessible rooms equipped with roll-
 showers. Moreover, additional rooms must be accessible to persons with hearing
 impairments in the same percentages as above (i.e. , four percent of the first 100
 rooms and approximately two percent of rooms in excess of 100). There are special
-provisions for alterations.
-2) Homeless shelters, halfway houses, and other social service establishments: These
+provisions for alterations.  
+2. Homeless shelters, halfway houses, and other social service establishments: These
 entities must provide the same percentage of accessible sleeping accommodations as
 other places of transient lodging. At least one type of amenity in each common area
-must be accessible. Alterations are subject to less stringent standards.
-III-7.8700 Transportation facilities (ADAAG §10). ADAAG provides requirements
+must be accessible. Alterations are subject to less stringent standards.  
+
+### III-7.8700 Transportation facilities (ADAAG §10).  
+
+ADAAG provides requirements
 for bus stops and terminals, rail stations, and airports. These requirements have been
 incorporated by the Department of Transportation in its regulations implementing the
-transportation provisions of titles II and III.
-There are currently no standards for boats or ferry docks.
-III-8.0000 ENFORCEMENT
-Regulatory references: 28 CFR 36.501-36.508.
-III-8.1000 General. The ADA establishes two avenues for enforcement of the
-requirements of title III --
-1) Private suits by individuals who are being subjected to discrimination or who have
-reasonable grounds for believing that they are about to be subjected to discrimination.
-2) Suits by the Department of Justice, whenever it has reasonable cause to believe that
-there is a pattern or practice of discrimination, or discrimination that raises an issue of
+transportation provisions of titles II and III.  
 
-general public importance. The Department will investigate complaints and conduct
-compliance reviews of covered entities.
-Do State or local civil rights agencies have any role in enforcing title III? There is no
-provision for State or local civil rights agencies to directly enforce title III of the
+There are currently no standards for boats or ferry docks.  
+
+## III-8.0000 ENFORCEMENT  
+
+Regulatory references: 28 CFR 36.501-36.508.  
+
+### III-8.1000 General.  
+
+The ADA establishes two avenues for enforcement of the
+requirements of title III --  
+
+1. Private suits by individuals who are being subjected to discrimination or who have
+reasonable grounds for believing that they are about to be subjected to discrimination.  
+2. Suits by the Department of Justice, whenever it has reasonable cause to believe that
+there is a pattern or practice of discrimination, or discrimination that raises an issue of general public importance. The Department will investigate complaints and conduct
+compliance reviews of covered entities.  
+
+{% details Do State or local civil rights agencies have any role in enforcing title III? %}   
+There is no provision for State or local civil rights agencies to directly enforce title III of the
 ADA. They can, however, enforce State or local laws that incorporate the standards of
 the ADA, or they can set up alternative dispute resolution mechanisms (see III-
-8.6000).
-III-8.2000 Private suits. Any person who is being subjected to discrimination on the
+8.6000).  
+{% enddetails %}  
+
+### III-8.2000 Private suits.  
+
+Any person who is being subjected to discrimination on the
 basis of disability in violation of title III of the Act may file a civil action for
 injunctive relief. Also, when a person has reasonable grounds for believing that he or
 she is &quot;about to be subjected to discrimination&quot; because of a violation of the new
 construction and alterations requirements of the ADA, he or she may file a civil
-action.
+action.  
+
 ILLUSTRATION: X has reasonable grounds for believing that the plans for a hotel
 complex are not in compliance with the ADA. X may file a lawsuit challenging the
-plans, even though construction has not begun.
+plans, even though construction has not begun.  
+
 An individual is not required to engage in a futile gesture, if he or she has notice that a
 person or organization does not intend to comply with its obligations under the Act.
 At the request of the plaintiff or defendant, and if the court permits it, the Department
 of Justice can intervene in the civil action, if it determines that the case is of general
 public importance. The court may also appoint an attorney for the plaintiff and may
 permit him or her to commence the civil action without first paying fees, costs, or
-security.
+security.  
+
 Remedies available in a private suit may include a permanent or temporary injunction,
 restraining order, or other order, but not compensatory or punitive money damages or
 civil penalties. In the case of violations of the requirements for readily achievable
@@ -3355,57 +3393,73 @@ a violation may, as appropriate, include an order to alter the facilities that d
 the requirements of the Act to make them readily accessible to and usable by
 individuals with disabilities. Also, the remedies may include requiring the provision
 of an auxiliary aid or service, modification of a policy, or provision of alternative
-methods of barrier removal.
-III-8.3000 Investigations and compliance reviews. The Department of Justice will
-investigate alleged violations of title III and undertake periodic reviews of compliance
-of covered entities. An investigation may be requested by any individual who believes
+methods of barrier removal.  
 
-that he or she has been discriminated against or that a specific class of persons has
-been discriminated against in violation of title III. Where the Department has reason
-to believe that there may be a violation, it may initiate a compliance review.
-Complaints may be sent to the following address:
-Office on the Americans with Disabilities Act
-Civil Rights Division
-U.S. Department of Justice
-P.O. Box 66738
-Washington, D.C. 20035-9998
-III-8.4000 Suit by the Attorney General. The Department may bring a civil action
-in any appropriate United States district court if it has reasonable cause to believe that
---
-1) Any person or group of persons is engaged in a pattern or practice of discrimination
-in violation of title III; or
-2) Any person or group of persons has been discriminated against in violation of title
-III and the discrimination raises an issue of general public importance.
-What remedies are available in civil actions brought by the Department of Justice?
+### III-8.3000 Investigations and compliance reviews.  
+
+The Department of Justice will investigate alleged violations of title III and undertake periodic reviews of compliance
+of covered entities. An investigation may be requested by any individual who believes that he or she has been discriminated against or that a specific class of persons has been discriminated against in violation of title III. Where the Department has reason
+to believe that there may be a violation, it may initiate a compliance review.  
+
+Complaints may be sent to the following address:  
+Office on the Americans with Disabilities Act  
+Civil Rights Division  
+U.S. Department of Justice  
+P.O. Box 66738  
+Washington, D.C. 20035-9998  
+
+### III-8.4000 Suit by the Attorney General.  
+
+The Department may bring a civil action
+in any appropriate United States district court if it has reasonable cause to believe that--  
+1. Any person or group of persons is engaged in a pattern or practice of discrimination
+in violation of title III; or  
+2. Any person or group of persons has been discriminated against in violation of title
+III and the discrimination raises an issue of general public importance.  
+
+{% details What remedies are available in civil actions brought by the Department of Justice? %}  
 The remedies available include those available in an action brought by an individual,
 such as an order granting temporary, preliminary, or permanent relief; requiring that
 facilities be made readily accessible to and usable by individuals with disabilities;
 requiring provision of an auxiliary aid or service; or modification of a policy, practice,
-or procedure.
+or procedure.  
+
 In addition, in a suit brought by the Department, the court may award other
 appropriate relief, including, if requested by the Department, monetary damages to
 individual victims of discrimination. Monetary damages do not include punitive
 damages. They do include, however, all forms of compensatory damages, including
-out-of-pocket expenses and damages for pain and suffering.
-Also, to vindicate the public interest, the court may assess a civil penalty against the
-covered entity in an amount --
-1) Not exceeding $50,000 for a first violation; and
-2) Not exceeding $100,000 for any subsequent violation.
+out-of-pocket expenses and damages for pain and suffering.  
 
-How will violations be counted in determining whether a particular violation is &quot;first&quot;
-or &quot;subsequent&quot;? All violations found in the first suit against a covered entity are
+Also, to vindicate the public interest, the court may assess a civil penalty against the
+covered entity in an amount --  
+
+1. Not exceeding $50,000 for a first violation; and  
+2. Not exceeding $100,000 for any subsequent violation.  
+{% enddetails %}  
+
+{% details How will violations be counted in determining whether a particular violation is &quot;first&quot;
+or &quot;subsequent&quot;? %}  
+
+All violations found in the first suit against a covered entity are
 considered to be the first violation, so that the maximum penalty that may be assessed
 in that suit is $50,000. A &quot;subsequent&quot; violation would not be found until the
 Department brought a second suit against the same covered entity. The maximum
-penalty in each suit after the first suit is $100,000.
-Will good faith efforts be considered in determining the amount of civil penalty? Yes.
+penalty in each suit after the first suit is $100,000.  
+{% enddetails %}  
+
+{% details Will good faith efforts be considered in determining the amount of civil penalty?  %}  
+Yes.
 In considering what amount of civil penalty, if any, is appropriate, the court is
 required to give consideration to any good faith effort or attempt by the covered entity
 to comply with its obligations under the Act. One of the factors to be considered in
 evaluating good faith is whether the entity could have reasonably anticipated the need
 for an appropriate type of auxiliary aid needed to accommodate the unique needs of a
-particular individual with a disability.
-III-8.5000 Attorney&#39;s fees. The prevailing party (other than the United States) in any
+particular individual with a disability.  
+{% enddetails %}  
+
+### III-8.5000 Attorney&#39;s fees.  
+
+The prevailing party (other than the United States) in any
 action or administrative proceeding under the Act may recover attorney&#39;s fees in
 addition to any other relief granted. The &quot;prevailing party&quot; is the party that is
 successful and may be either the complainant (plaintiff) or the covered entity against
@@ -3415,8 +3469,11 @@ unreasonable, or without foundation, although it does not have to find that the 
 was brought in subjective bad faith. Attorney&#39;s fees include litigation expenses, such
 as expert witness fees, travel expenses, and costs. The United States is liable for
 attorney&#39;s fees in the same manner as any other party, but is not entitled to them when
-it is the prevailing party.
-III-8.6000 Alternative means of dispute resolution. The ADA encourages the use of
+it is the prevailing party.  
+
+### III-8.6000 Alternative means of dispute resolution.  
+
+The ADA encourages the use of
 alternative means of dispute resolution, including settlement negotiations,
 conciliation, facilitation, mediation, factfinding, minitrials, and arbitration to resolve
 disputes, where appropriate and to the extent authorized by law. In appropriate cases,
@@ -3424,12 +3481,15 @@ these types of procedures may be faster, more efficient, and less expensive than
 judicial and administrative procedures available under the ADA. Alternative means of
 dispute resolution, however, are intended to supplement the procedures provided in
 the ADA, not to replace them. Use of alternative procedures is completely voluntary
-and must be agreed to by the parties involved.
-III-8.7000 Technical assistance. The ADA recognizes the necessity of educating the
+and must be agreed to by the parties involved.  
+
+### III-8.7000 Technical assistance.  
+
+The ADA recognizes the necessity of educating the
 public about its rights and responsibilities under the Act and requires the Department
 of Justice, in consultation with other agencies, to provide technical assistance to assist
 covered entities and individuals with disabilities in understanding their rights and
-responsibilities under the ADA.
+responsibilities under the ADA.  
 
 The Federal Government&#39;s experience in implementing section 504 of the
 Rehabilitation Act of 1973, as amended, has demonstrated that a publicized, readily
@@ -3439,13 +3499,15 @@ meet the needs of individuals with disabilities, covered entities, and the gener
 reduces misunderstandings regarding rights and responsibilities, facilitates voluntary
 compliance, and promotes the exchange of information and the development of more
 effective and less costly methods to address compliance issues. It also avoids an
-unnecessary reliance on enforcement and litigation to achieve compliance.
+unnecessary reliance on enforcement and litigation to achieve compliance.  
+
 Technical assistance includes the provision of expert advice, and both general and
 specific information and assistance to individuals with disabilities, the general public,
 and entities covered by the ADA. The purposes of this technical assistance are two-
 fold: to inform the public (including individuals with rights protected under the Act)
 and covered entities about their rights and duties; and to provide information about
-cost-effective methods and procedures to achieve compliance.
+cost-effective methods and procedures to achieve compliance.  
+
 The Department plans to provide technical assistance through publications, exhibits,
 videotapes and audiotapes, and public service announcements. It has developed a
 number of nontechnical publications, including this manual, explaining the
@@ -3454,7 +3516,8 @@ for events such as conferences, workshops, and training programs. It is also ope
 a telephone information line to respond to inquiries and requests for publications and
 to provide advice to individuals about specific problems. The Department also
 engages in a variety of clearinghouse functions and operates an electronic bulletin
-board to distribute information.
+board to distribute information.  
+
 The Department has awarded over $3,000,000 in technical assistance grants to 19
 organizations to disseminate technical assistance to specific audiences. They include
 national associations of covered entities, such as restaurants, hotels and motels; and
@@ -3475,64 +3538,84 @@ continue to make, a sustained effort to ensure that effective technical assistan
 available to all covered entities. Nevertheless, covered entities retain responsibility for
 ensuring that their activities comply with the requirements of the Act, and a public
 accommodation or other private entity is not excused from compliance because of any
-failure to receive technical assistance.
-III-8.8000 Effective date. The ADA requirements became effective on --
-1) January 26, 1992, generally;
-2) August 26, 1990, for purchase or lease of new vehicles that are required to be
-accessible.
+failure to receive technical assistance.  
+
+III-8.8000 Effective date.  
+
+The ADA requirements became effective on --  
+1. January 26, 1992, generally;  
+2. August 26, 1990, for purchase or lease of new vehicles that are required to be
+accessible.  
+
 New facilities designed and constructed for first occupancy later than January 26,
-1993, must be accessible.
-Is there any grace period for small business? No. All businesses must comply by
+1993, must be accessible.  
+
+{% details Is there any grace period for small business? %}  
+No. All businesses must comply by
 January 26, 1992. Small businesses, however, do enjoy limited protection from
 lawsuits. Except with respect to new construction and alterations, no lawsuit may be
-filed until --
-1) July 26, 1992, against businesses with 25 or fewer employees and gross receipts of
-$1 million or less.
-2) January 26, 1993, against businesses with ten or fewer employees and gross
-receipts of $500,000 or less.
-III-9.0000 CERTIFICATION
-Regulatory references: 28 CFR 36.601-36.608.
-III-9.1000 General. The ADA authorizes the Attorney General to certify that State
+filed until --  
+1. July 26, 1992, against businesses with 25 or fewer employees and gross receipts of
+$1 million or less.  
+2. January 26, 1993, against businesses with ten or fewer employees and gross
+receipts of $500,000 or less.  
+{% enddetails %}  
+
+## III-9.0000 CERTIFICATION  
+
+Regulatory references: 28 CFR 36.601-36.608.  
+
+### III-9.1000 General.  
+
+The ADA authorizes the Attorney General to certify that State
 laws, local building codes, or similar ordinances meet or exceed the title III
-accessibility requirements. Certification is advantageous for the following reasons --
-1) When an entity is designing, constructing, or altering a building in accordance with
+accessibility requirements. Certification is advantageous for the following reasons --  
+
+1. When an entity is designing, constructing, or altering a building in accordance with
 an applicable State or local code that has been certified by the Department, the
 designer or contractor will need to consult only that one code, in order to determine
-the applicable Federal, State, and local requirements.
-
-2) The covered entity will have some degree of assurance in advance of construction
-or alteration that the ADA requirements will be met.
-3) If a covered entity is subject to a lawsuit, compliance with a certified code will be
-rebuttable evidence of compliance with the ADA.
-4) A State or local agency enforcing a certified code is for practical, but not legal,
+the applicable Federal, State, and local requirements.  
+2. The covered entity will have some degree of assurance in advance of construction
+or alteration that the ADA requirements will be met.  
+3. If a covered entity is subject to a lawsuit, compliance with a certified code will be
+rebuttable evidence of compliance with the ADA.  
+4. A State or local agency enforcing a certified code is for practical, but not legal,
 purposes facilitating compliance with the ADA and helping to eliminate confusion
-and possible inconsistencies in standards.
-5) The amount of unnecessary litigation can be reduced, particularly if a State or local
+and possible inconsistencies in standards.  
+5. The amount of unnecessary litigation can be reduced, particularly if a State or local
 code agency has an administrative method of effectively handling complaints
-concerning violations of its code.
-Does this mean that if an architectural firm follows a certified State or local code, it
+concerning violations of its code.  
+
+{% details Does this mean that if an architectural firm follows a certified State or local code, it
 will be safe from any Federal lawsuits because the State or local government will be
-implementing the ADA? No, but the firm will be less likely to face a lawsuit; and if it
+implementing the ADA? %}  
+No, but the firm will be less likely to face a lawsuit; and if it
 is sued, it has the advantage of rebuttable evidence of compliance. Keep in mind that
 State and local agencies are not authorized to enforce the ADA -- which is a Federal
 civil rights statute -- on behalf of the Federal government. This is true even when
-those agencies are implementing a certified code.
+those agencies are implementing a certified code.  
+
 Moreover, the existence of a certified code does not ensure that facilities will be
 constructed in accordance with the code. In addition, even if a building is built to a
 certified code, that does not prevent a lawsuit concerning the building&#39;s accessibility
-by the Department or by an individual.
-III-9.2000 Relationship to State and local enforcement efforts. There are tens of
+by the Department or by an individual.  
+{% enddetails %}
+
+### III-9.2000 Relationship to State and local enforcement efforts.  
+
+There are tens of
 thousands of code jurisdictions in the United States that enforce some combination of
 State and local building codes. Some, but not all, of these include accessibility
 requirements. Although many are based on a model code, there are major variations
 among the State codes, and among local codes within some States. Design and
 construction to these codes will not constitute compliance with the ADA, unless the
-codes impose requirements equal to or greater than those of the ADA.
+codes impose requirements equal to or greater than those of the ADA.  
+
 The enforcement of these codes is the responsibility of State or local officials. They
 usually review building plans and inspect projects at specific intervals during
 construction to ensure that the construction complies with State and local laws. State
 and local officials do not have the authority to enforce the ADA on behalf of the
-Federal government.
+Federal government.  
 
 Architects, builders, and others involved with design and construction are accustomed
 to the State and local enforcement system, which lets them know before construction
@@ -3540,11 +3623,13 @@ whether they need to make changes to their plans in order to achieve compliance.
 ADA relies on the traditional method of case-by-case civil rights enforcement in
 response to complaints. It does not contemplate Federal ADA inspections similar to
 those done at the State or local level. The ADA certification provisions will help to
-moderate the effects of these differences in enforcement procedures and standards.
+moderate the effects of these differences in enforcement procedures and standards.  
+
 If a building has been designed, built, or altered in accordance with a certified code,
 and a lawsuit concerning violation of the ADA standards is brought, the defendant
 will be able to point to compliance with the certified code as &quot;rebuttable evidence&quot; of
-compliance with the ADA.
+compliance with the ADA.  
+
 ILLUSTRATION: The JKL Hotel chain builds hotels to a standard plan throughout
 the United States. The State of C has had its code certified by the Department, and
 JKL has designed a hotel, according to its standard plan, to be built in that State. The
@@ -3553,108 +3638,142 @@ brings a lawsuit challenging the hotel&#39;s compliance with ADAAG, JKL has the
 advantage of being able to introduce the approved plans as evidence that the design
 complies with the ADA. A hotel designed to the same plans in the State of S, which
 does not have a code with accessibility requirements, would also have that advantage
-because the hotel was designed in compliance with a certified code.
+because the hotel was designed in compliance with a certified code.  
+
 If a builder follows a State&#39;s certified code, and the building official grants a waiver of
 certain requirements, does that mean the waiver is good for ADA purposes too? No.
 State or local officials have no authority to waive ADA requirements. Many State or
 local codes allow the building official to grant waivers, variances, or other types of
 exceptions (e.g. , in cases of &quot;undue hardship,&quot; &quot;impossibility,&quot; or &quot;impracticability&quot;).
 They may also allow compliance by means other than those required by the code if
-&quot;equivalent facilitation&quot; is provided.
+&quot;equivalent facilitation&quot; is provided.  
+
 The ADA standards also include some exceptions (e.g. , for structural impracticability
 in new construction) and allow for equivalent facilitation. But no individual is
 authorized under the ADA to grant the exceptions in advance; and the defendant in a
-lawsuit would have to justify the use of any of those ADA exceptions.
+lawsuit would have to justify the use of any of those ADA exceptions.  
+
 The Department would not refuse to certify a code merely because it includes
 authority for or procedures for waivers and variances. A defendant, however, would
 not be entitled to rely on certification as rebuttable evidence of compliance, if a local
-or State official had granted a waiver or other type of exception on the point at issue.
+or State official had granted a waiver or other type of exception on the point at issue.  
 
-III-9.3000 Procedure: Application and preliminary review. The certification
+### III-9.3000 Procedure: Application and preliminary review.  
+
+The certification
 process begins with an application to the Department by a &quot;submitting official. &quot; The
 submitting official is one who has principal responsibility for administration of a code
-or who is authorized to submit a code on behalf of a jurisdiction.
+or who is authorized to submit a code on behalf of a jurisdiction.  
+
 In some States, the local jurisdictions are required to follow and enforce the State
-code. Can the State submit a single application on behalf of the State as well as on
-behalf of all the local jurisdictions? Yes, the State can submit one application on
+code.  
+
+{% details Can the State submit a single application on behalf of the State as well as on
+behalf of all the local jurisdictions? %}  
+Yes, the State can submit one application on
 behalf of the State and on behalf of any local jurisdiction that has authorized the State
-to do so.
-What does the State or local agency have to do before it applies for certification? Four
-things are required:
-1) The code or law must have been formally approved by the issuing body. In those
+to do so.  
+{% enddetails %}  
+
+{% details What does the State or local agency have to do before it applies for certification? %}  
+Four things are required:  
+1. The code or law must have been formally approved by the issuing body. In those
 States where an administrative agency (rather than the legislature) is charged with
 developing a code, and it becomes law on a certain date if it is not modified by the
 legislature before that time, the Department will accept an application based on the
-code as approved by the agency.
-2) The agency has to give public notice of its intent to request certification and notice
-of a hearing.
-3) The agency has to hold a hearing within the State or locality at which the public is
+code as approved by the agency.  
+2. The agency has to give public notice of its intent to request certification and notice
+of a hearing.  
+3. The agency has to hold a hearing within the State or locality at which the public is
 invited to comment on the proposed request for certification. The hearing must be
 held after adequate notice to the public and must be on the record (that is, a transcript
 of the hearing must be produced). This procedure ensures input from the public at the
-State or local level.
-4) The agency has to make the materials and the certification request available for
-public examination and copying.
-What should the application include? The submitting official must include two copies
-of --
-1) The code;
-2) Standards or other documents referenced in the code;
-3) The law creating the agency;
-4) Any relevant manuals, guides, or other interpretive information;
+State or local level.  
+4. The agency has to make the materials and the certification request available for
+public examination and copying.  
+{% enddetails %}  
 
-5) Any formal legal opinions that pertain to the code;
-6) Any model code or statute on which the code is based, along with an explanation of
-any differences between the model and the code being submitted for certification;
-7) The transcript of the public hearing; and
-8) Any other information that the submitting official wants to be considered.
-III-9.4000 Preliminary determination. After receiving the application, the Office of
+{% details What should the application include? %}  
+The submitting official must include two copies
+of --  
+1. The code;  
+2. Standards or other documents referenced in the code;  
+3. The law creating the agency;  
+4. Any relevant manuals, guides, or other interpretive information;  
+5. Any formal legal opinions that pertain to the code;  
+6. Any model code or statute on which the code is based, along with an explanation of
+any differences between the model and the code being submitted for certification;  
+7. The transcript of the public hearing; and  
+8. Any other information that the submitting official wants to be considered.  
+{% enddetails %}
+
+### III-9.4000 Preliminary determination.  
+
+After receiving the application, the Office of
 the Assistant Attorney General for Civil Rights will determine whether or not to begin
 considering the application for certification. If the Assistant Attorney General&#39;s office
 decides to proceed, the office will consult with the Architectural and Transportation
 Barriers Compliance Board. After that consultation, the office will make a preliminary
-determination to either --
-1) Find that the code is equivalent (make a &quot;preliminary determination of
-equivalency&quot;); or
-2) Deny certification.
-The next step depends on which of these preliminary determinations is made.
-III-9.5000 Procedure following preliminary determination of equivalency. If the
-AAG makes a preliminary determination of equivalency, he or she will --
-1) Inform the submitting official in writing;
-2) Publish a notice in the Federal Register informing the public of the preliminary
-determination and inviting comment for 60 days;
-3) Consider the comments, and then hold an informal hearing in Washington. In many
-cases, this &quot;hearing&quot; may consist of a meeting with those who are interested;
-4) Consult again with the ATBCB and make a final determination of equivalency or a
-final determination to deny the request for certification.
-5) Publish a notice of the final determination in the Federal Register.
-III-9.6000 Procedure following preliminary denial of certification. If the
-preliminary determination is to deny certification, then there will be no hearing.
+determination to either --  
+1. Find that the code is equivalent (make a &quot;preliminary determination of
+equivalency&quot;); or  
+2. Deny certification.  
+
+The next step depends on which of these preliminary determinations is made.  
+
+### III-9.5000 Procedure following preliminary determination of equivalency.  
+
+If the AAG makes a preliminary determination of equivalency, he or she will --  
+1. Inform the submitting official in writing;  
+2. Publish a notice in the Federal Register informing the public of the preliminary
+determination and inviting comment for 60 days;  
+3. Consider the comments, and then hold an informal hearing in Washington. In many
+cases, this &quot;hearing&quot; may consist of a meeting with those who are interested;  
+4. Consult again with the ATBCB and make a final determination of equivalency or a
+final determination to deny the request for certification.  
+5. Publish a notice of the final determination in the Federal Register.  
+
+### III-9.6000 Procedure following preliminary denial of certification.  
+
+If the
+preliminary determination is to deny certification, then there will be no hearing.  
 
 The Department will notify the submitting official of the preliminary determination.
 In the notification, the Department may specify how the code could be modified so
-that it could receive a preliminary determination of equivalency.
+that it could receive a preliminary determination of equivalency.  
+
 The submitting official will have at least 15 days to submit relevant material in
 opposition to the preliminary denial. If no more information is received, no further
-action will be taken.
+action will be taken.  
+
 If more information is received, the Department will consider it. The Department will
 then make either a final decision to deny certification or a preliminary determination
 of equivalency. If at that stage the Assistant Attorney General makes a preliminary
 determination of equivalency, the hearing procedures described in III-9.5000 will be
-followed.
-III-9.7000 Effect of certification. Certification will only be effective concerning
+followed.  
+
+### III-9.7000 Effect of certification.  
+
+Certification will only be effective concerning
 those features or elements that are both covered by the certified code and addressed by
-the Department&#39;s regulations.
+the Department&#39;s regulations.  
+
 ILLUSTRATION: The Department&#39;s standards currently do not include specific
 provisions concerning children&#39;s facilities. A private elementary school is built to the
 specifications of a code certified by the Department. Certification will not be effective
 for those features of the building especially designed to be used by children (e.g. ,
-children&#39;s restrooms, water fountains).
-Will certification be effective only for the particular edition of the code that is
-certified? Yes. Amendments will not automatically be considered certified, and a
+children&#39;s restrooms, water fountains).  
+
+{% details Will certification be effective only for the particular edition of the code that is
+certified? %}  
+Yes. Amendments will not automatically be considered certified, and a
 submitting official will need to reapply for certification of the changed or additional
-provisions.
-Will certification apply to the process by which a State or local code is administered
-or enforced? No. In other words, the Department will evaluate and certify only the
+provisions.  
+{% enddetails %}  
+
+{% details Will certification apply to the process by which a State or local code is administered
+or enforced? %}  
+No. In other words, the Department will evaluate and certify only the
 code itself, not the process by which it is implemented. This is true even though the
 Department has certified a code with provisions concerning waivers, variances, or
 equivalent facilitation. Certification of a code with those provisions is not to be
@@ -3663,31 +3782,42 @@ Department&#39;s certification of a code is effective only with respect to the s
 the code; it is not to be interpreted to apply to a State or local government&#39;s
 application of the code. For example, a local official&#39;s decision that a particular
 approach constitutes equivalent facilitation under a local code is not effective for
-ADA purposes.
+ADA purposes.  
+{% enddetails %}  
 
-Can a code that is consistent with ADAAG be certified if the local enforcement
-process allows deviations from ADAAG? Yes. The Department expects that many
+{% details Can a code that is consistent with ADAAG be certified if the local enforcement
+process allows deviations from ADAAG? %}  
+Yes. The Department expects that many
 jurisdictions will allow slight variations from a particular code. ADAAG itself permits
 variations from its standards in certain limited circumstances. ADAAG includes in
 §2.2 a statement allowing departures from particular requirements where substantially
 equivalent or greater access and usability is provided. Several sections specifically
 allow for alternative methods of providing equivalent facilitation and, in some cases,
-provide examples.
-What if a State or local official allows a facility to be constructed or altered in a
-manner that does not follow the technical or scoping provisions of the certified code?
+provide examples.  
+{% enddetails %}  
+
+{% details What if a State or local official allows a facility to be constructed or altered in a
+manner that does not follow the technical or scoping provisions of the certified code? %}  
 If an official either waives an accessible element or feature or allows a change that
 does not provide equivalent facilitation, the fact that the Department has certified the
 code itself will not constitute rebuttable evidence that the facility has been constructed
-or altered in accordance with the minimum accessibility requirements of the ADA.
-III-9.8000 Certification and barrier removal in existing facilities. The Department
+or altered in accordance with the minimum accessibility requirements of the ADA.  
+{% enddetails %}  
+
+### III-9.8000 Certification and barrier removal in existing facilities.  
+
+The Department
 will measure equivalency against subpart D of the title III rule, New Construction and
 Alterations. The Department will not require that provisions concerning barrier
 removal in existing facilities be included in a code in order for it to be certified.
 Will the Department certify a code that includes provisions similar to those in the
 Department&#39;s title III rule concerning removal of barriers in existing facilities (e.g. ,
 on priorities, portable ramps, seating in assembly areas)? The Department generally
-will not review these parts of a code.
-III-9.9000 Review of model codes. The Department will not certify model codes, but
+will not review these parts of a code.  
+
+### III-9.9000 Review of model codes.  
+
+The Department will not certify model codes, but
 the Department will review models for equivalency with ADA requirements.
 The Department&#39;s rule provides for review of model codes in recognition of the fact
 that many codes are based on, or incorporate, models or consensus standards
@@ -3698,33 +3828,40 @@ Officials (CABO) and its Board for the Coordination of Model Codes (BCMC),
 Southern Building Code Congress International (SBCCI), and the International
 Conference of Building Officials (ICBO). The Department wishes to encourage the
 continued viability of the consensus and model code process consistent with the
-purposes of the ADA.
+purposes of the ADA.  
+
 The model code review process will be informal. The Department will not necessarily
-hold a public hearing, but it has the discretion to do so and to ask for public comment.
+hold a public hearing, but it has the discretion to do so and to ask for public comment.  
 
 After the review, the Department may issue guidance as to whether and in what
-respects the model code is consistent with the ADA&#39;s requirements.
+respects the model code is consistent with the ADA&#39;s requirements.  
+
 This guidance will not be binding on any entity or on the Department. It will assist in
 evaluations of individual State or local codes; and it may also serve as a basis for
-establishing priorities for consideration of individual codes.
-Who can submit a model code for review? It must be submitted by an authorized
-representative of the private entity responsible for developing the code.
+establishing priorities for consideration of individual codes.  
+
+{% details Who can submit a model code for review? %}  
+It must be submitted by an authorized
+representative of the private entity responsible for developing the code.  
+{% enddetails %}  
+
 ILLUSTRATION: The ABC model code, which includes both scoping and technical
 provisions, is followed by 13 States. It contains its own unique scoping requirements,
 with technical provisions that were developed by XYZ, Inc. , another private group.
 An authorized representative of ABC can submit the ABC code, including the XYZ
 technical provisions, for review, even if XYZ has not submitted its standard to the
-Department for review.
+Department for review.  
+
+<hr>
+
+{% details %}  
 The Americans with Disabilities Act authorizes the Department of Justice (the
 Department) to provide technical assistance to individuals and entities that have rights
-or responsibilities under the Act. This document provides informal guidance to assist
+or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department&#39;s regulations.  
 
-you in understanding the ADA and the Department&#39;s regulations.
 This guidance document is not intended to be a final agency action, has no legally
 binding effect, and may be rescinded or modified in the Department&#39;s complete
 discretion, in accordance with applicable laws. The Department&#39;s guidance
 documents, including this guidance, do not establish legally enforceable
-responsibilities beyond what is required by the terms of the applicable statutes,
-
-regulations, or binding judicial precident.
-
+responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precident.  
+{% enddetails %}
