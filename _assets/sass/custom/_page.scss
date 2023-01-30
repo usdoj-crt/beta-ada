@@ -16,6 +16,18 @@
     }
   }
 
+  @media(min-width: 64rem) {
+    &.compact {
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 64rem;
+
+      position: relative;
+      right: calc((95rem - 64rem) / 2);
+      background-color: white;
+    }
+  }
+
   #crt-page--content {
     .crt-lead {
       > p,
