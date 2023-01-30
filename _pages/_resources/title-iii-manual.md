@@ -34,7 +34,7 @@ Regulatory references: 28 CFR 36.102-36.104.
 
 ### III-1.1000 General. Title III of the ADA covers --  
 
-1. Places of public accommodation; 
+1. Places of public accommodation;  
 2. Commercial facilities; and  
 3. Examinations and courses related to applications, licensing, certification, or
 credentialing for secondary or postsecondary education, professional, or trade
@@ -69,8 +69,7 @@ auxiliary aids; and removal of barriers in existing facilities.
 ### III-1.2000 Public accommodations.  
 
 The broad range of title III obligations relating to &quot;places of public accommodation&quot; must be met by entities that the Department of Justice regulation labels as &quot;public accommodations. &quot; In order to be considered a
-public accommodation with title III obligations, an entity must be private and it must -
--
+public accommodation with title III obligations, an entity must be private and it must --  
 Own;
 Lease;
 Lease to; or
@@ -82,34 +81,22 @@ A place of public accommodation is a facility whose operations --
 
 - Affect commerce; and  
 - Fall within at least one of the following 12 categories:  
- 1. Places of lodging (e.g. , inns, hotels, motels) (except for owner-occupied
-establishments renting fewer than six rooms);  
+1. Places of lodging (e.g. , inns, hotels, motels) (except for owner-occupied establishments renting fewer than six rooms);  
 2. Establishments serving food or drink (e.g. , restaurants and bars);  
-3. Places of exhibition or entertainment (e.g. , motion picture houses, theaters, concert
-halls, stadiums);  
+3. Places of exhibition or entertainment (e.g., motion picture houses, theaters, concert halls, stadiums);  
 4. Places of public gathering (e.g. , auditoriums, convention centers, lecture halls);  
-5.  Sales or rental establishments (e.g. , bakeries, grocery stores, hardware stores,
-shopping centers);  
-6. Service establishments (e.g. , laundromats, dry-cleaners, banks, barber shops,
-beauty shops, travel services, shoe repair services, funeral parlors, gas stations, offices
-of accountants or lawyers, pharmacies, insurance offices, professional offices of
-health care providers, hospitals);  
-7.  Public transportation terminals, depots, or stations (not including facilities relating
-to air transportation);  
+5. Sales or rental establishments (e.g. , bakeries, grocery stores, hardware stores, shopping centers);  
+6. Service establishments (e.g. , laundromats, dry-cleaners, banks, barber shops, beauty shops, travel services, shoe repair services, funeral parlors, gas stations, offices of accountants or lawyers, pharmacies, insurance offices, professional offices of health care providers, hospitals);  
+7.  Public transportation terminals, depots, or stations (not including facilities relating to air transportation);  
 8.  Places of public display or collection (e.g. , museums, libraries, galleries);  
-9. Places of recreation (e.g. , parks, zoos, amusement parks);  
-10.  Places of education (e.g. , nursery schools, elementary, secondary, undergraduate,
-or postgraduate private schools);  
-11, Social service center establishments (e.g. , day care centers, senior citizen centers,
-homeless shelters, food banks, adoption agencies); and  
-12. Places of exercise or recreation (e.g. , gymnasiums, health spas, bowling alleys,
-golf courses).  
+9.  Places of recreation (e.g. , parks, zoos, amusement parks);  
+10. Places of education (e.g. , nursery schools, elementary, secondary, undergraduate, or postgraduate private schools);  
+11. Social service center establishments (e.g. , day care centers, senior citizen centers,homeless shelters, food banks, adoption agencies); and  
+12. Places of exercise or recreation (e.g. , gymnasiums, health spas, bowling alleys, golf courses).  
 {% enddetails %}  
 
-{% details Can a facility be considered a place of public accommodation if it does not fall under
-one of these 12 categories? %}  
-No, the 12 categories are an exhaustive list. However, within each category the examples given are just illustrations. For example, the category &quot;sales or rental establishments&quot; would include many facilities other than
-those specifically listed, such as video stores, carpet showrooms, and athletic equipment stores.  
+{% details Can a facility be considered a place of public accommodation if it does not fall under one of these 12 categories? %}  
+No, the 12 categories are an exhaustive list. However, within each category the examples given are just illustrations. For example, the category &quot;sales or rental establishments&quot; would include many facilities other than those specifically listed, such as video stores, carpet showrooms, and athletic equipment stores.  
 {% enddetails %}  
 
 {% details What if a private entity operates, or leases space to, many different types of facilities,
@@ -356,9 +343,7 @@ the day care center.
 
 ### III-1.7000 Relationship to title II.  
 
-Public entities, by definition, can never be subject
-to title III of the ADA, which covers only private entities. Conversely, private entities
-cannot be covered by title II. There are many situations, however, in which public
+Public entities, by definition, can never be subject to title III of the ADA, which covers only private entities. Conversely, private entities cannot be covered by title II. There are many situations, however, in which public
 entities stand in very close relation to private entities that are covered by title III, with
 the result that certain activities may be affected, at least indirectly, by both titles.  
 
@@ -1614,11 +1599,9 @@ be readily achievable:
 fountain;  
 20. Removing high pile, low density carpeting; or  
 21. Installing vehicle hand controls.  
-{% enddetails %} 
+{% enddetails %}  
 
-Businesses such as restaurants may need to rearrange tables and department stores
-may need to adjust their layout of racks and shelves in order to permit wheelchair
-access, but they are not required to do so if it would result in a significant loss of
+Businesses such as restaurants may need to rearrange tables and department stores may need to adjust their layout of racks and shelves in order to permit wheelchair access, but they are not required to do so if it would result in a significant loss of
 selling or serving space.  
 
 The list is intended to be illustrative. Each of these modifications will be readily
@@ -1628,12 +1611,7 @@ circumstances presented and the factors discussed above.
 
 {% details Are public accommodations required to retrofit existing buildings by adding
 elevators? %}  
-A public accommodation generally would not be required to remove a
-barrier to physical access posed by a flight of steps, if removal would require
-extensive ramping or an elevator. The readily achievable standard does not require
-barrier removal that requires extensive restructuring or burdensome expense. Thus,
-where it is not readily achievable to do, the ADA would not require a public
-accommodation to provide access to an area reachable only by a flight of stairs.  
+A public accommodation generally would not be required to remove a barrier to physical access posed by a flight of steps, if removal would require extensive ramping or an elevator. The readily achievable standard does not require barrier removal that requires extensive restructuring or burdensome expense. Thus, where it is not readily achievable to do, the ADA would not require a public accommodation to provide access to an area reachable only by a flight of stairs.  
 {% enddetails %}
 
 {% details Does a public accommodation have an obligation to search for accessible space? %}  
@@ -2632,13 +2610,7 @@ one accessible restroom for each sex or single unisex restroom, phones, drinking
 fountains, and then other elements such as parking, storage, and alarms.  
 {% enddetails %}  
 
-ILLUSTRATION: A library is remodeling its reading area for a total cost of $20,000.
-The library must spend, if necessary, up to an additional $4,000 (20 percent of
-$20,000) on &quot;path of travel&quot; costs. For $4,000 the library can install a ramp leading to
-the reading area, and it can lower telephones and drinking fountains. For $3,500 the
-library can create an accessible restroom. Because the most important path of travel
-element is the entrance and route to the area, the library should spend the money on
-the ramp, telephones, and drinking fountains.  
+ILLUSTRATION: A library is remodeling its reading area for a total cost of $20,000.  The library must spend, if necessary, up to an additional $4,000 (20 percent of $20,000) on &quot;path of travel&quot; costs. For $4,000 the library can install a ramp leading to the reading area, and it can lower telephones and drinking fountains. For $3,500 the library can create an accessible restroom. Because the most important path of travel element is the entrance and route to the area, the library should spend the money on the ramp, telephones, and drinking fountains.  
 
 {% details Can an entity limit its path of travel obligation by engaging in a series of small
 alterations? %}  
@@ -2810,8 +2782,7 @@ Departures are permitted from particular
 requirements where alternative designs and technologies will provide substantially
 equivalent or greater access to and usability of the facility.  
 
-ADAAG itself provides various examples of equivalent facilitation, i.e. , acceptable
-deviations from the standards. For instance --  
+ADAAG itself provides various examples of equivalent facilitation, i.e. , acceptable deviations from the standards. For instance --  
 1. In altered areas, elevator car dimensions can be smaller than the standards would
 mandate for new construction (§4.1.6(3)(c));  
 2. Rather than install a text telephone next to a pay phone, hotels may keep portable
@@ -2962,10 +2933,7 @@ curb cuts.
 
 ### III-7.4300 Parking (ADAAG §4.1.2(5)(b)).  
 
-ADAAG provides a table with the
-number of accessible parking spaces required dependent on the size of the lot. For
-example, only four percent of the spaces in a 100-space lot must be accessible. Certain
-facilities, however, are subject to higher requirements.  
+ADAAG provides a table with the number of accessible parking spaces required dependent on the size of the lot. For example, only four percent of the spaces in a 100-space lot must be accessible. Certain facilities, however, are subject to higher requirements.  
 
 Outpatient units are subject to a higher requirement if they are part of medical care
 facilities where persons may need assistance in responding to an emergency and
@@ -3038,9 +3006,7 @@ The following doors must be accessible:
 2. Each door that is part of an accessible route; and  
 3. Each door that is required for egress.  
 
-Automated doors are not required. Because of a wide variety of factors that affect
-door usability, no specific force limit for exterior doors is identified, although
-standards are provided for interior doors.  
+Automated doors are not required. Because of a wide variety of factors that affect door usability, no specific force limit for exterior doors is identified, although standards are provided for interior doors.  
 
 ### III-7.5130 Entrances (ADAAG §4.1.3(8)).  
 
@@ -3050,26 +3016,16 @@ entrances to enclosed parking, pedestrian tunnels, and elevated walkways.
 
 ### III-7.5135 Areas of rescue assistance (ADAAG §4.1.3(9)).  
 
-Areas of rescue
-assistance (safe areas in which to await help in an emergency) are generally required
-on each floor, other than the ground floor, of a multistory building. An accessible
-egress route or an area of rescue assistance is required for each exit required by the
-local fire code. Specific requirements are provided for such features as location, size,
-stairway width, and two-way communications. Areas of rescue assistance are not
-required in buildings with supervised automatic sprinkler systems, nor are they
-required in alterations.  
+Areas of rescue assistance (safe areas in which to await help in an emergency) are generally required on each floor, other than the ground floor, of a multistory building. An accessible egress route or an area of rescue assistance is required for each exit required by the local fire code. Specific requirements are provided for such features as location, size, stairway width, and two-way communications. Areas of rescue assistance are not required in buildings with supervised automatic sprinkler systems, nor are they required in alterations.  
 
 ### III-7.5140 Drinking fountains (ADAAG §4.1.3(10)).  
 
-Where there is only one
-drinking fountain on a floor, it must be accessible both to individuals who use
-wheelchairs and to those who have difficulty bending or stooping (for example, by
-using a &quot;hi-lo&quot; fountain or a fountain and a water cooler). Where there is more than
-one fountain on a floor, 50 percent must be accessible to persons using wheelchairs.
-III-7.5145 Bathrooms (ADAAG §§4.1.3(11); 4.22.4). Every public and common use
-bathroom must be accessible. Generally only one stall must be accessible (standard
-five-by-five feet). When there are six or more stalls, there must be one accessible stall
-and one stall that is three feet wide.  
+Where there is only one drinking fountain on a floor, it must be accessible both to individuals who use wheelchairs and to those who have difficulty bending or stooping (for example, by using a &quot;hi-lo&quot; fountain or a fountain and a water cooler). Where there is more than one fountain on a floor, 50 percent must be accessible to persons using wheelchairs.  
+
+### III-7.5145 Bathrooms (ADAAG §§4.1.3(11); 4.22.4).  
+
+Every public and common use bathroom must be accessible. Generally only one stall must be accessible (standard
+five-by-five feet). When there are six or more stalls, there must be one accessible stall and one stall that is three feet wide.  
 
 ### III-7.5150 Storage, shelving, and display units (ADAAG §4.1.3(12)).  
 
@@ -3278,7 +3234,6 @@ counters must be dispersed throughout the facility. Auxiliary counters are permi
 in alterations.  
 
 {% details Are frozen food and deli counters covered? %}  
-
 No, but employees should be instructed to
 bring food items around to the front of high counters for individuals with disabilities.
 What does &quot;one of each type&quot; mean in a store where computerized check-out permits
@@ -3286,16 +3241,11 @@ universal service at any cash register? The size of the store and the number of 
 will be relevant factors in determining how many counters need to be accessible.  
 {% enddetails %}
 
-ILLUSTRATION 1: A small one-story clothing store has four identical cash register
-counters, one in each department. Only one counter need be accessible, if all items
-can be purchased there.  
+ILLUSTRATION 1: A small one-story clothing store has four identical cash register counters, one in each department. Only one counter need be accessible, if all items can be purchased there.  
 
-ILLUSTRATION 2: A very narrow but six-story tall department store has identical
-cash register counters throughout the facility. ADAAG will be satisfied if there is one
-accessible counter per floor at which all purchases can be made.  
+ILLUSTRATION 2: A very narrow but six-story tall department store has identical cash register counters throughout the facility. ADAAG will be satisfied if there is one accessible counter per floor at which all purchases can be made.  
 
-BUT: If the same six-story department store is a full city block long, one per floor
-may not be enough. A reasonable number should be provided.  
+BUT: If the same six-story department store is a full city block long, one per floor may not be enough. A reasonable number should be provided.  
 
 2. Other counters: At counters without cash registers, such as bank teller windows and
 ticketing counters, three alternatives are possible:  
@@ -3410,12 +3360,10 @@ Washington, D.C. 20035-9998
 
 ### III-8.4000 Suit by the Attorney General.  
 
-The Department may bring a civil action
-in any appropriate United States district court if it has reasonable cause to believe that--  
+The Department may bring a civil action in any appropriate United States district court if it has reasonable cause to believe that--  
 1. Any person or group of persons is engaged in a pattern or practice of discrimination
 in violation of title III; or  
-2. Any person or group of persons has been discriminated against in violation of title
-III and the discrimination raises an issue of general public importance.  
+2. Any person or group of persons has been discriminated against in violation of title III and the discrimination raises an issue of general public importance.  
 
 {% details What remedies are available in civil actions brought by the Department of Justice? %}  
 The remedies available include those available in an action brought by an individual,
