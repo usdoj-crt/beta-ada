@@ -17,7 +17,7 @@ tags:
 redirect_from:
   - /regs2010/service_animal_qa.html
 ---
- ## Requirements for Effective Communication  
+## Requirements for Effective Communication  
 
 The ADA requires that . . .  
 
@@ -147,7 +147,8 @@ List your agency’s contact information for obtaining an interpreter, an assist
 
 **For further information on the Americans with Disabilities Act contact:**
 
-[ADA.gov]( {{'/index/'| relative_url}})   
+[ADA.gov]( {{'/index/'| relative_url}})  
+
 [archive.ADA.gov](https://archive.ada.gov)  
 
 **ADA Information Line**  
