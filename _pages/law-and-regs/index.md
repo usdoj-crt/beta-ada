@@ -13,6 +13,9 @@ redirect_from:
     - /regs2010/index.html
     - /regs2010/adaregs2010.htm
     - /regs2010/ADAregs2010.htm
+tags:
+    - design standards
+related-content: true
 ---
 
 When we talk about what the ADA requires on ADA.gov, we are usually referring to two sources:
