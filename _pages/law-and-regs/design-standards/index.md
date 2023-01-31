@@ -55,7 +55,7 @@ Guidance on the 2010 ADA Standards for Accessible Design
 </div>
 
 <div class="standards-and-guidance">
-<div class="document" aria-label="1991 Standards">
+<div class="document">
 <a href="{{'/law-and-regs/design-standards/1991-design-standards' | relative_url}}">
 {% asset 1991-design-standards.jpg alt="'1991 Standards Cover Photo'"%}
 1991 ADA Standards for Accessible Design
