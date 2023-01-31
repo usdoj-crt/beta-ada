@@ -1,6 +1,5 @@
 function showNotFound() {
   document.getElementById('redirect-pending').style.display = 'none';
-  document.getElementById('redirect-failed').style.display = 'unset';
 }
 
 function attemptToRedirect(attemptedPath, manual, generated) {
