@@ -16,14 +16,19 @@
     }
   }
 
-  @media(min-width: 64rem) {
+  @media(min-width: 95rem) {
     &.compact {
       margin-left: auto;
       margin-right: auto;
-      max-width: 64rem;
+      max-width: 95rem;
+      padding-right: calc(95rem - 64rem);
+      background-color: white;
+    }
+  }
 
-      position: relative;
-      right: calc((95rem - 64rem) / 2);
+  @media(min-width: 64rem) and (max-width: 95rem) {
+    &.compact {
+      max-width: 64rem;
       background-color: white;
     }
   }
@@ -59,5 +64,22 @@
       margin-top: 2rem;
       margin-bottom: 1rem;
     }
+  }
+}
+
+.standards-and-guidance {
+  display: flex;
+  gap: 4rem;
+
+  .document {
+    width: 100%;
+
+    img {
+      border: 1px solid lightgray;
+      display: block;
+      margin-bottom: 1em;
+      max-width: 50%;
+    }
+
   }
 }
