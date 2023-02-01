@@ -66,3 +66,28 @@
     }
   }
 }
+
+.standards-and-guidance {
+  display: flex;
+  gap: 4rem;
+
+  margin-bottom: 4rem;
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  @include at-media-max(tablet) {
+    flex-direction: column;
+  }
+
+  .document {
+    width: 100%;
+
+    img {
+      border: 1px solid lightgray;
+      display: block;
+      margin-bottom: 1em;
+      max-width: 50%;
+    }
+  }
+}
