@@ -88,9 +88,6 @@
       display: block;
       margin-bottom: 1em;
       max-width: 50%;
-      @include at-media-max(mobile-lg) {
-        max-width: 100%;
-      }
     }
   }
 }
