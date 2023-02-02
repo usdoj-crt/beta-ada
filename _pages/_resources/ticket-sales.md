@@ -6,8 +6,7 @@ lead: |-
   The Department of Justice published revised final regulations 
   implementing the Americans with Disabilities Act (ADA) for title II (State and local government services) and title III (public accommodations and commercial facilities) on September 15, 2010, in the Federal Register. These requirements, or rules, contain updated requirements, including the 2010 Standards for Accessible Design (2010 Standards).
 lang: "en"
-publish-date: 2023-01-30 00:00:00
-related-content: true
+related-content: false
 tags:
   - title ii
   - title iii
@@ -250,23 +249,12 @@ requirements.
 ### ADA Information Line
 
 Call 800-514-0301 (Voice) and 833-610-1264 (TTY) to speak with an ADA Specialist.  
-M-W, F 9:30 a.m. – 5:30 p.m., Th 12:30 p.m. – 5:30 p.m. (Eastern Time)  
+Monday, Tuesday, Wednesday, Friday: 9:30 a.m. to 12:00 p.m. and 3:00-5:30 p.m. ET  
+Thursday: 2:30 p.m. to 5:30 p.m. ET  
 All calls are confidential.  
 
 For persons with disabilities, this publication is available in alternate formats.  
 
-Duplication of this document is encouraged.
+Duplication of this document is encouraged.  
 
-{% details %}  
-The Americans with Disabilities Act authorizes the Department of Justice (the
-Department) to provide technical assistance to individuals and entities that
-have rights or responsibilities under the Act. This document provides informal
-guidance to assist you in understanding the ADA and the Department&#39;s regulations.  
-
-This guidance document is not intended to be a final agency action, has no
-legally binding effect, and may be rescinded or modified in the Department&#39;s
-complete discretion, in accordance with applicable laws. The Department&#39;s
-guidance documents, including this guidance, do not establish legally
-enforceable responsibilities beyond what is required by the terms of the
-applicable statutes, regulations, or binding judicial precedent.  
-{% enddetails %}
+Last updated February 24, 2020
