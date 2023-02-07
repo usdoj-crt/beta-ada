@@ -6,7 +6,8 @@ lead: |-
   The Department of Justice published revised final regulations 
   implementing the Americans with Disabilities Act (ADA) for title II (State and local government services) and title III (public accommodations and commercial facilities) on September 15, 2010, in the Federal Register. These requirements, or rules, contain updated requirements, including the 2010 Standards for Accessible Design (2010 Standards).
 lang: "en"
-related-content: false
+related-content: true
+publish-date: 2020-02-24 00:00:00
 tags:
   - title ii
   - title iii
