@@ -35,10 +35,11 @@
 .crt-page--downloadpdf-link {
   align-items: baseline;
   display: inline-flex;
-}
+  gap: 8px;
 
-.crt-page--downloadpdf-link .usa-icon {
-  margin: 0 8px 0 16px;
+  .usa-icon {
+    flex: 1 0 22px;
+  }
 }
 
 span.usa-sr-only {
