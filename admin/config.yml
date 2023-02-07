@@ -326,7 +326,7 @@ collections:
       - label: Tags
         name: tags
         widget: select
-        options: ["artificial intelligence", "effective communication" , "employment","service animals","title ii","title iii","web access"]
+        options: ["artificial intelligence","design standards","effective communication" , "employment","parking","service animals","title ii","title iii","web access"]
         multiple: true
         min: 0
         required: false
@@ -437,7 +437,7 @@ collections:
       - label: Tags
         name: tags
         widget: select
-        options: ["artificial intelligence", "effective communication" , "employment","parking","service animals","title ii","title iii","web access"]
+        options: ["artificial intelligence","design standards","effective communication" , "employment","parking","service animals","title ii","title iii","web access"]
         multiple: true
         min: 0
         required: false
@@ -465,6 +465,18 @@ collections:
       - label: Body Content
         name: body
         widget: markdown
+      - label: Related Content
+        name: related-content
+        widget: boolean
+        default: false
+        required: false
+      - label: Tags
+        name: tags
+        widget: select
+        options: ["artificial intelligence","design standards","effective communication" , "employment","parking","service animals","title ii","title iii","web access"]
+        multiple: true
+        min: 0
+        required: false
     # Posts under the Notices pages
   - label: Notices
     name: notices-posts
