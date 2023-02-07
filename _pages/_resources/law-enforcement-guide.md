@@ -9,8 +9,8 @@ lead: |-
 
   Your agency has adopted a specific policy regarding communicating with people who are deaf or hard of hearing. It is important to become familiar with this policy. 
 lang: "en"
-publish-date: 2023-01-25 00:00:00
-related-content: false
+publish-date: 2006-01-19 00:00:00
+related-content: true
 tags:
   - effective communication
   - title ii
@@ -156,6 +156,4 @@ List your agency’s contact information for obtaining an interpreter, an assist
 833-610-1264 (TTY)  
 M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.  
 
-This pamphlet was developed by the U.S. Department of Justice for law enforcement personnel.  
-
-Issued January 2006
+This pamphlet was developed by the U.S. Department of Justice for law enforcement personnel.
