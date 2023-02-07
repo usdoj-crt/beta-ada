@@ -116,7 +116,8 @@ officer points out relevant information printed on the citation or written by t
 scene observes a bleeding victim and an individual holding a weapon. Eyewitnesses
 observed the individual strike the victim. The individual with the weapon is deaf.
 Because the officer has probable cause to make a felony arrest without an
-interrogation, an interpreter is not necessary to carry out the arrest.
+interrogation, an interpreter is not necessary to carry out the arrest.  
+
 However, an interpreter may be needed in lengthy or complex transactions – such as
 interviewing a victim, witness, suspect, or arrestee – if the person being interviewed
 normally relies on sign language or speech reading to understand what others are
@@ -131,8 +132,9 @@ officer can make an arrest and call for an interpreter to be available later at 
 booking station.  
 
 It is inappropriate to ask a family member or companion to interpret in a situation like
-this  because emotional ties may interfere with the ability to interpret impartially.
-Example: An officer responds to the scene of a car accident where a man has been
+this  because emotional ties may interfere with the ability to interpret impartially.  
+
+**Example:** An officer responds to the scene of a car accident where a man has been
 seriously injured. The man is conscious, but is unable to comprehend the officer’s
 questions because he is deaf. A family member who is present begins interpreting
 what the officer is saying.  
