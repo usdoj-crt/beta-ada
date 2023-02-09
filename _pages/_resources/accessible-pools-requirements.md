@@ -79,11 +79,9 @@ A physical change to a swimming pool which affects or could affect the usability
 
 ### On or after March 15, 2012  
 
-All newly constructed or altered facilities of public entities and public accommodations, including pools, must comply with the 2010 Standards.  
+- All newly constructed or altered facilities of public entities and public accommodations, including pools, must comply with the 2010 Standards.  
 
-### On or after March 15, 2012  
-
-All existing facilities of public entities and public accommodations, **except** pools, must comply with the 2010 Standards to the extent required under title II program accessibility or title III readily achievable barrier removal requirements.  
+- All existing facilities of public entities and public accommodations, **except** pools, must comply with the 2010 Standards to the extent required under title II program accessibility or title III readily achievable barrier removal requirements.  
 
 ### On or after January 31, 2013  
 
