@@ -8,9 +8,11 @@ lead: |-
 lang: "en"
 related-content: true
 publish-date: 2020-02-24 00:00:00
+print: true
 tags:
   - title ii
   - title iii
+  - design standards
 ---
 ## Overview  
 
