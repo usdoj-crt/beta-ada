@@ -10,8 +10,8 @@ card:
   title: Opioid Use Disorder
   description: |-
     Find out the ADA's protections for people with Opioid Use Disorder.
-  image: landing/parking.jpg
-  alt: #
+  image: landing/oud.jpg
+  alt: Image of the acronym OUD for Opioid Use Disorder represented by wooden letter tiles
   position: top
   href: /topics/opioid-use-disorder/
 tags:
