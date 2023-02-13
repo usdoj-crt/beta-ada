@@ -1,6 +1,6 @@
 ---
 title: Opioid Use Disorder
-description: This page provides some basic information about OUD and the ADA’s protections for people with OUD.
+description: This page provides some basic information about Opioid Use Disorder (OUD) and the ADA’s protections for people with OUD.
 short_title: Opioid Use Disorder
 lead: |-
   The Americans with Disabilities Act (ADA) protects people in recovery from opioid use disorder (OUD) who are not engaging in illegal drug use, including those who are taking medication prescribed by their doctor to treat their OUD.
@@ -15,7 +15,8 @@ card:
   position: top
   href: /topics/opioid-use-disorder/
 tags:
-  - parking
+  - employment
+  - opioid use disorder
 related-content: true
 ---
 Employers, businesses that are open to the public, and state/local
