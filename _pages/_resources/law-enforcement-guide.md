@@ -10,6 +10,7 @@ lead: |-
   Your agency has adopted a specific policy regarding communicating with people who are deaf or hard of hearing. It is important to become familiar with this policy. 
 lang: "en"
 publish-date: 2006-01-19 00:00:00
+print: true
 related-content: true
 tags:
   - effective communication
