@@ -14,7 +14,6 @@ card:
 tags:
   - title ii
 related-content: true
-news-item: true
 publish-date: 2023-01-13 00:00:00
 ---
 
