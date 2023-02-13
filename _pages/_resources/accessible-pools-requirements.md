@@ -6,6 +6,7 @@ lead: |-
   The Department of Justice published revised final regulations implementing the Americans with Disabilities Act (ADA) for title II (State and local government services) and title III (public accommodations and commercial facilities) on September 15, 2010, in the Federal Register. These requirements, or rules, clarify and refine issues that have arisen over the past 20 years and contain new, and updated, requirements, including the 2010 Standards for Accessible Design ("2010 Standards").
 lang: "en"
 related-content: true
+print: true
 tags:
   - design standards
   - title iii
@@ -55,7 +56,7 @@ Determining what is readily achievable will vary from business to business and s
 
 For an existing pool, removing barriers may involve installation of a fixed pool lift with independent operation by the user or other accessible means of entry that complies with the 2010 Standards to the extent that it is readily achievable to do so. If installation of a fixed lift is not readily achievable, the public accommodation may then consider alternatives such as use of a portable pool lift that complies with the 2010 Standards. It is important to note that the barrier removal obligation is a continuing one, and it is expected that a business will take steps to improve accessibility over time. When selecting equipment, the public accommodation should factor in the staff and financial resources needed to keep the pool equipment available and in working condition at poolside. For more information about barrier removal, see the title III regulations at [Section 36.304]({{'/law-and-regs/title-iii-regulations/#-36304-removal-of-barriers' | relative_url}}).  
 
-If you have purchased a non-fixed lift before March15 th that otherwise complies with the requirements in the 2010 Standards for pool lifts (such as seat size, etc.), you may use it, as long as you keep it in position for use at the pool and operational during all times that the pool is open to guests. Because of a misunderstanding by some pool owners regarding whether the use of portable pool lifts would comply with barrier removal obligations, the Department, as a matter of prosecutorial discretion, will not enforce the fixed elements of the 2010 Standards against those owners or operators of existing pools who purchased portable lifts prior to March 15, 2012 and who keep the portable lifts in positon for use at the pool and operational during all times that the pool is open to guests so long as those lifts otherwise comply with the requirements of the 2010 Standards.  Generally, lifts purchased after March 15, 2012 must be fixed if it is readily achievable to do so.  
+If you have purchased a non-fixed lift before March 15th that otherwise complies with the requirements in the 2010 Standards for pool lifts (such as seat size, etc.), you may use it, as long as you keep it in position for use at the pool and operational during all times that the pool is open to guests. Because of a misunderstanding by some pool owners regarding whether the use of portable pool lifts would comply with barrier removal obligations, the Department, as a matter of prosecutorial discretion, will not enforce the fixed elements of the 2010 Standards against those owners or operators of existing pools who purchased portable lifts prior to March 15, 2012 and who keep the portable lifts in position for use at the pool and operational during all times that the pool is open to guests so long as those lifts otherwise comply with the requirements of the 2010 Standards.  Generally, lifts purchased after March 15, 2012 must be fixed if it is readily achievable to do so.  
 
 To determine which pools must be made accessible, public accommodations should consider the following factors:  
 
@@ -114,7 +115,6 @@ For more information about the ADA, please visit our website or call our toll-fr
 Call 800-514-0301 (Voice) and 833-610-1264 (TTY) M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist.  All calls are confidential.
 
 For persons with disabilities, this publication is available in alternate formats.  Duplication of this document is encouraged.
-
 
 <hr>  
 The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
