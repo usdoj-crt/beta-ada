@@ -63,35 +63,21 @@ learn:
   sections:
     - heading: Featured Topics
       content: |-
-        Quickly learn about topics covered by the ADA.
+        These overviews are a basic starting point for understanding areas the ADA covers.
       icon: landing/featured_topics_gold.svg
       examples:
         - ex1:
-          title: 'Featured Topic: Service Animals'
+          title: 'Service Animals'
           link: topics/service-animals
         - ex2:
-          title: 'Featured Topic: Parking'
+          title: 'Parking'
           link: topics/parking
         - ex3:
-          title: 'Featured Topic: Mobility Devices'
+          title: 'Mobility Devices'
           link: topics/mobility-devices
-    - heading: Laws & Regulations
-      content: |-
-        Find legal documents that are enforceable under the ADA.
-      icon: landing/laws_regs_standards_gold.png
-      examples:
-      - ex1:
-        title: State and Local Government Services (Title II)
-        link: law-and-regs/title-ii-2010-regulations/
-      - ex2:
-        title: Public Accommodations (Title III)
-        link: law-and-regs/title-iii-regulations/
-      - ex3:
-        title: ADA Standards for Accessible Design
-        link: law-and-regs/design-standards/
     - heading: Resources
       content: |-
-        Get more details about topics covered by the ADA.
+        Get more detailed guidance on some ADA topics.
       icon: landing/guidance_resource_materials_gold.png
       examples:
         - ex1:
@@ -103,22 +89,10 @@ learn:
         - ex3:
           title: Frequently Asked Questions about Service Animals
           link: resources/service-animals-faqs
-
-service-animals:
-  heading: Service Animals and the ADA
-  lead: |-
-    Understand how the ADA defines a service animal and what your rights are under the law.
-  sections:
-    - heading: Featured Topics
-      content: Quickly learn about topics covered by the ADA.
-      icon: landing/featured_topics_grey_bg.png
-      examples:
-      - ex1:
-        title: 'Featured Topic: Service Animals'
-        link: topics/service-animals
     - heading: Laws & Regulations
-      content: Find legal documents that are enforceable under the ADA.
-      icon: landing/laws_regs_standards_grey_bg.png
+      content: |-
+        Find legal documents that are enforceable under the ADA in a court of law.
+      icon: landing/laws_regs_standards_gold.png
       examples:
       - ex1:
         title: State and Local Government Services (Title II)
@@ -126,8 +100,22 @@ service-animals:
       - ex2:
         title: Public Accommodations (Title III)
         link: law-and-regs/title-iii-regulations/
+      - ex3:
+        title: ADA Standards for Accessible Design
+        link: law-and-regs/design-standards/
+
+service-animals:
+  heading: Service Animals and the ADA
+  lead: |-
+    Understand how the ADA defines a service animal and what your rights are under the law.
+  sections:
+    - heading: Featured Topics
+      icon: landing/featured_topics_grey_bg.png
+      examples:
+      - ex1:
+        title: 'Featured Topic: Service Animals'
+        link: topics/service-animals
     - heading: Resources
-      content: Get more details about topics covered by the ADA.
       icon: landing/guidance_resource_materials_grey_bg.png
       examples:
         - ex1:
@@ -136,6 +124,15 @@ service-animals:
         - ex2:
           title: 'ADA Requirements: Service Animals'
           link: resources/service-animals-2010-requirements
+    - heading: Laws & Regulations
+      icon: landing/laws_regs_standards_grey_bg.png
+      examples:
+      - ex1:
+        title: State and Local Government Services (Title II)
+        link: law-and-regs/title-ii-2010-regulations/
+      - ex2:
+        title: Public Accommodations (Title III)
+        link: law-and-regs/title-iii-regulations/
 
 
 report:
