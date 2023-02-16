@@ -15,7 +15,7 @@ tags:
   - law enforcement
   - employment
 ---
-{% include expand-accordions-wrapper.html expand-heading='Questions & Answers' %}
+{% include expand-accordions-wrapper.html %}
 
 {% details Q1: Who is a <em>qualified individual</em> with a disability for employment? expandable %}
 A: A qualified individual with a disability is an employee or job applicant who meets legitimate skill, experience, education, or other requirements of an employment position that he or she holds or seeks. The person must also be able to perform the "essential" (as opposed to marginal or incidental) functions of the position either with or without reasonable accommodation. Job requirements that screen out or tend to screen out people with disabilities are legitimate only if they are job-related and consistent with business necessity.  
