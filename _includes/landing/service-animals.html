@@ -26,13 +26,7 @@
                   <h3 class="margin-bottom-0">
                     {{ section.heading }}
                   </h3>
-                  <p class="margin-y-0">
-                    {{ section.content }}
-                  </p>
-                  <p>
-                    Examples:
-                  </p>
-                  <ul class="padding-left-2">
+                  <ul style="margin-top: 0px" class="no-bullets padding-left-2">
                   {% for example in section.examples %}
                     <li class="padding-y-1">
                         <a href="{{example.link | relative_url }}">
