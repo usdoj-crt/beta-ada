@@ -113,7 +113,7 @@ service-animals:
       icon: landing/featured_topics_grey_bg.png
       examples:
       - ex1:
-        title: 'Featured Topic: Service Animals'
+        title: 'Service Animals'
         link: topics/service-animals
     - heading: Resources
       icon: landing/guidance_resource_materials_grey_bg.png
