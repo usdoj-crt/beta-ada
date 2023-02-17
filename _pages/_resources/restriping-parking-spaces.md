@@ -169,9 +169,9 @@ Sections [208]({{'/law-and-regs/design-standards/2010-stds#208-parking-spaces' |
 
 Section [206]({{'/law-and-regs/design-standards/2010-stds#206-accessible-routes' | relative_url}}) Accessible Route
 
-Duplication of this document is encouraged.  
-
 <hr>  
 The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
 
 This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
+<hr>
+Duplication of this document is encouraged.
