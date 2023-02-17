@@ -5,7 +5,8 @@ permalink: /resources/title-ii-primer/
 lead: |-
   More than 55 million Americans –18% of our population–have disabilities, and they, like all Americans, participate in a variety of programs, services, and activities provided by their State and local governments. This includes many people who became disabled while serving in the military. And, by the year 2030, approximately 71.5 million baby boomers will be over age 65 and will need services and surroundings that meet their age-related physical needs.
 lang: "en"
-publish-date: 2015-06-08 00:00:00
+publish-date: 2015-06-01 00:00:00
+updated-date: 2020-02-28 00:00:00
 print: true
 related-content: true
 tags:
@@ -372,4 +373,11 @@ For technical assistance on the ADA/ABA Guidelines:
 >800-872-2253 (Voice)
 800-993-2822 (TTY)
 
-This publication is available in alternate formats for people with disabilities.  Duplication of this document is encouraged.
+This publication is available in alternate formats for people with disabilities.  
+
+<hr>  
+The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
+
+This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
+<hr>
+Duplication of this document is encouraged.

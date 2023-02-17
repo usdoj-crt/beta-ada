@@ -1,5 +1,5 @@
 ---
-title: Communicating with People Who Are Deaf for Hard of Hearing - ADA Guide for Law Enforcement Officers
+title: Communicating with People Who Are Deaf or Hard of Hearing - ADA Guide for Law Enforcement Officers
 description: "This document provides guidance to both persons with disabilities and law enforcement agencies regarding their rights and responsibilities under the ADA."
 permalink: /resources/law-enforcement-guide/
 lead: |-
@@ -10,6 +10,7 @@ lead: |-
   Your agency has adopted a specific policy regarding communicating with people who are deaf or hard of hearing. It is important to become familiar with this policy. 
 lang: "en"
 publish-date: 2006-01-19 00:00:00
+updated-date: 2020-02-25 00:00:00
 print: true
 related-content: true
 tags:
@@ -161,4 +162,9 @@ M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30
 
 This pamphlet was developed by the U.S. Department of Justice for law enforcement personnel.  
 
-last updated February 25, 2020
+<hr>  
+The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
+
+This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
+<hr>
+Reproduction is encouraged.

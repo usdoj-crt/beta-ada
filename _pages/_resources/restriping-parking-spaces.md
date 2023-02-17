@@ -6,6 +6,7 @@ lead: |-
   When a business or State or local government restripes parking spaces in a parking lot or parking structure (parking facilities), it must provide accessible parking spaces as required by the 2010 ADA Standards for Accessible Design (2010 Standards).
 lang: "en"
 publish-date: 2015-12-1 00:00:00
+updated-date: 2020-02-28 00:00:00
 print: true
 related-content: true
 tags:
@@ -168,4 +169,9 @@ Sections [208]({{'/law-and-regs/design-standards/2010-stds#208-parking-spaces' |
 
 Section [206]({{'/law-and-regs/design-standards/2010-stds#206-accessible-routes' | relative_url}}) Accessible Route
 
+<hr>  
+The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
+
+This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
+<hr>
 Duplication of this document is encouraged.

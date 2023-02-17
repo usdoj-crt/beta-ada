@@ -6,7 +6,8 @@ lead: |-
   This guide provides an overview of Federal civil rights laws that ensure equal opportunity for people with disabilities. To find out more about how these laws may apply to you, contact the agencies and organizations listed below.
 lang: "en"
 news-item: false
-publish-date: 2022-06-16 00:00:00
+publish-date: 1996-10-01 00:00:00
+updated-date: 2020-02-28 00:00:00
 print: true
 related-content: true
 tags:
@@ -355,3 +356,8 @@ The Architectural Barriers Act (ABA) requires that buildings and facilities that
 
 **Voting Accessibility for the Elderly and Handicapped Act of 1984**
 42 U.S.C. §§ 1973ee et seq.
+
+<hr>  
+The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
+
+This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
