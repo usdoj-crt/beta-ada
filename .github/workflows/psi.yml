@@ -1,5 +1,5 @@
-name: psi-gh-action
-on: [commit]
+name: Google Pagespeed Test
+on: [push]
 jobs:
   build:
     name: psi-gh-action
@@ -28,7 +28,7 @@ jobs:
       - name: psi-gh-action
         uses: mazipan/psi-gh-action@1.7.0
         with:
-          api_key: AIzaSyD9rJS-CZo3FHg0lG_ytOY_58hNXyYT0PU
+          api_key: ${{ AIzaSyD9rJS-CZo3FHg0lG_ytOY_58hNXyYT0PU }}
           urls: |
             https://www.ada.gov/
             https://www.ada.gov/topics/
