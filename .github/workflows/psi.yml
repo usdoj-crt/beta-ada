@@ -2,33 +2,31 @@ name: Google Pagespeed Test
 on: [push]
 jobs:
   build:
-    name: psi-gh-action
+    name: Google Pagespeed Test
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Code
-      - uses: actions/checkout@v3
-        with:
-          persist-credentials: false
-          fetch-depth: 0
-      - name: Install Ruby dependencies
+      - name: Checkout Source
+        uses: actions/checkout@v3
+
+      - name: Install Ruby Dependencies
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.7.4
           bundler-cache: true
 
-      - name: Install Node.js dependencies
+      - name: Install Node.js Dependencies
         uses: actions/setup-node@v3
         with:
           node-version: "16"
-      - run: npm install --production
+      - run: npm install
 
-      - name: Build site
-        run: bundle exec jekyll build
+      - name: Start Server
+        run: npm run build:css && npm run build:js && bundle exec jekyll serve --config _config.yml,_config_test.yml --detach
 
-      - name: psi-gh-action
+      - name: Google Pagespeed Test
         uses: mazipan/psi-gh-action@1.7.0
         with:
-          api_key: AIzaSyAXxzMQrzq58jExKMXNIX3J1XaotXGUeNQ
+          api_key: ${{ secrets.PSI_API_KEY }}
           urls: |
             https://www.ada.gov/
             https://www.ada.gov/topics/
