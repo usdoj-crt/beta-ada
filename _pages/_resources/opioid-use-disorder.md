@@ -16,7 +16,7 @@ sidenav-pdf:
 tags:
   - medical care
 ---
-## 1) What is the ADA? 
+## 1) What is the ADA?  
 
 The ADA is a federal law that gives civil rights protections to individuals with disabilities in many
 areas of life. The ADA guarantees that people with disabilities have the same opportunities as
@@ -92,7 +92,7 @@ violate the ADA if its refusal is because of the residents’ hostility towards 
 {% endcollapsible %}  
 {% endaccordion %}
 
-## 5) Does the ADA protect individuals who are currently illegally using opioids? 
+## 5) Does the ADA protect individuals who are currently illegally using opioids?  
 
 Generally, no. With limited exceptions, the ADA does not protect individuals engaged in the
 current illegal use of drugs if an entity takes action against them because of that illegal drug
@@ -115,7 +115,7 @@ In addition, an individual cannot be denied health services, or services provide
 with drug rehabilitation, on the basis of that individual’s current illegal use of drugs, if the
 individual is otherwise entitled to such services.{% fn 17 %} But a drug rehabilitation or treatment
 program may deny participation to individuals who engage in illegal use of drugs while they are
-in the program.{% fn 18 %} 
+in the program.{% fn 18 %}  
 
 {% collapsible %}
 ### Example F
@@ -214,15 +214,15 @@ Information about treatment for opioid use disorder is available at [hhs.gov/opi
 {% fnbody 1 %}
 42 U.S.C. &sect;&sect; 12111-12117. The Equal Employment Opportunity Commission (EEOC) and the Department of
 Justice jointly enforce the ADA’s ban on employment discrimination. For more information or to file a complaint of
-employment discrimination, visit [eeoc.gov](https://www.eeoc.gov). 
+employment discrimination, visit [eeoc.gov](https://www.eeoc.gov).  
 {% endfnbody %}
 
 {% fnbody 2 %}
-<em>Id.</em> &sect;&sect; 12131-12134. 
+<em>Id.</em> &sect;&sect; 12131-12134.  
 {% endfnbody %}
 
 {% fnbody 3 %}
-<em>Id.</em> &sect;&sect; 12181-12189. 
+<em>Id.</em> &sect;&sect; 12181-12189.  
 {% endfnbody %}
 
 {% fnbody 4 %}
@@ -253,7 +253,7 @@ operation of major bodily functions), 36.105(c)(1) (same).
 {% endfnbody %}
 
 {% fnbody 10 %}
-42 U.S.C. &sect; 12210(d); 28 C.F.R. &sect;&sect; 35.104, 36.104. 
+42 U.S.C. &sect; 12210(d); 28 C.F.R. &sect;&sect; 35.104, 36.104.  
 {% endfnbody %}
 
 {% fnbody 11 %}
@@ -264,7 +264,7 @@ Disorder: A Toolkit for Organization Leaders and Providers</em>, [hrsa.gov/sites
 
 {% fnbody 12 %}
 <em>See</em> Substance Abuse and Mental Health Services Administration, <em>Medication-Assisted Treatment (MAT)</em>,
-[samhsa.gov/medication-assisted-treatment](https://www.samhsa.gov/medication-assisted-treatment) (last visited Apr. 1, 2022); <em>see also</em> Substance Abuse and Mental Health Services Administration, <em>MAT Medications, Counseling, and Related Conditions</em>, [samhsa.gov/medication-assistedtreatment/medications-counseling-related-conditions](https://www.samhsa.gov/medication-assisted-treatment/medications-counseling-related-conditions) (last visited Apr. 1, 2022). 
+[samhsa.gov/medication-assisted-treatment](https://www.samhsa.gov/medication-assisted-treatment) (last visited Apr. 1, 2022); <em>see also</em> Substance Abuse and Mental Health Services Administration, <em>MAT Medications, Counseling, and Related Conditions</em>, [samhsa.gov/medication-assistedtreatment/medications-counseling-related-conditions](https://www.samhsa.gov/medication-assisted-treatment/medications-counseling-related-conditions) (last visited Apr. 1, 2022).  
 {% endfnbody %}
 
 {% fnbody 13 %}
@@ -296,7 +296,7 @@ Disorder: A Toolkit for Organization Leaders and Providers</em>, [hrsa.gov/sites
 {% endfnbody %}
 
 {% fnbody 20 %}
-42 U.S.C. &sect; 12102(1)(B); 28 C.F.R. &sect;&sect; 35.108(e), 36.105(e). 
+42 U.S.C. &sect; 12102(1)(B); 28 C.F.R. &sect;&sect; 35.108(e), 36.105(e).  
 {% endfnbody %}
 
 {% fnbody 21 %}
