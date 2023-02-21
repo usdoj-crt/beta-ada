@@ -1,5 +1,5 @@
 name: psi-gh-action
-on: [push]
+on: [commit]
 jobs:
   build:
     name: psi-gh-action
