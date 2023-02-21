@@ -200,14 +200,14 @@ Complaints about employment discrimination (called “charges”) on the basis o
 filed with the Equal Employment Opportunity Commission (EEOC). Information about filing an
 EEOC charge is available at [eeoc.gov](https://www.eeoc.gov) or 800-669-4000, 800-669-6820 (TTY), or 844-234-5122
 (ASL Video Phone). Additional EEOC resources regarding employees and opioid use are
-available at [eeoc.gov/laws/guidance/use-codeine-oxycodone-and-other-opioids-informationemployees](https://www.eeoc.gov/laws/guidance/use-codeine-oxycodone-and-other-opioids-informationemployees) and [eeoc.gov/laws/guidance/how-health-care-providers-can-help-current-andformer-patients-who-have-used-opioids](https://www.eeoc.gov/laws/guidance/how-health-care-providers-can-help-current-andformer-patients-who-have-used-opioids).  
+available at [eeoc.gov/laws/guidance/use-codeine-oxycodone-and-other-opioids-information-employees](https://www.eeoc.gov/laws/guidance/use-codeine-oxycodone-and-other-opioids-information-employees) and [eeoc.gov/laws/guidance/how-health-care-providers-can-help-current-and-former-patients-who-have-used-opioids](https://www.eeoc.gov/laws/guidance/how-health-care-providers-can-help-current-and-former-patients-who-have-used-opioids).  
 
 Individuals who believe they have been discriminated against under the ADA and would like to
 file a complaint should file as soon as possible. For instance, there are specific filing deadlines
 for a charge of employment discrimination, either 180 days or 300 days from the date of the alleged discrimination, depending on the jurisdiction where the charge is filed.  
 
 ## 11) Where can I find treatment for opioid use disorder?  
-Information about treatment for opioid use disorder is available at [hhs.gov/opioids](https://www.hhs.gov/opioids), [findtreatment.gov](https://www.findtreatment.gov), [samhsa.gov/medication-assisted-treatment/practitioner-programdata/treatment-practitioner-locator](https://www.samhsa.gov/medication-assisted-treatment/practitioner-program-data/treatment-practitioner-locator), and [dpt2.samhsa.gov/treatment](https://www.dpt2.samhsa.gov/treatment).
+Information about treatment for opioid use disorder is available at [hhs.gov/opioids](https://www.hhs.gov/opioids), [findtreatment.gov](https://www.findtreatment.gov), [samhsa.gov/medication-assisted-treatment/practitioner-programdata/treatment-practitioner-locator](https://www.samhsa.gov/medication-assisted-treatment/practitioner-program-data/treatment-practitioner-locator), and [dpt2.samhsa.gov/treatment](https://dpt2.samhsa.gov/treatment).
 <hr>
 
 {% footnotes %}
@@ -280,7 +280,7 @@ Disorder: A Toolkit for Organization Leaders and Providers</em>, [hrsa.gov/sites
 {% endfnbody %}
 
 {% fnbody 16 %}
-6 42 U.S.C. &sect; 12210(d); 28 C.F.R. &sect;&sect; 35.104, 36.104.
+42 U.S.C. &sect; 12210(d); 28 C.F.R. &sect;&sect; 35.104, 36.104.
 {% endfnbody %}
 
 {% fnbody 17 %}
