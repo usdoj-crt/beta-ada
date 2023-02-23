@@ -33,6 +33,7 @@ jobs:
             https://www.ada.gov/law-and-regs/
             https://www.ada.gov/resources/
             https://www.ada.gov/cases/
+            https://www.ada.gov/file-a-complaint/
           devices: |
             mobile
             desktop
