@@ -1,0 +1,9 @@
+{% assign lang = page.lang %}
+{% if lang==nil %}{% assign lang="en" %}{% endif %}
+
+<div class="usa-alert usa-alert--{{ include.type }} margin-bottom-4" id="{% if include.redirect == true %}redirect-pending{% endif %}" markdown="0" role="alert">
+    <div class="usa-alert__body">
+      {% if include.title != nil %}<h2 class="usa-alert__heading">{{ include.title }}</h2>{% endif %}
+      <p class="usa-alert__text">{{ include.text | markdownify }}</p>
+    </div>
+</div>

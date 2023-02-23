@@ -12,7 +12,7 @@
     "runners": [
       "axe"
     ],
-    "timeout": 120000,
+    "timeout": 240000,
     "viewport": {
       "width": 390,
       "height": 844,

@@ -6,6 +6,7 @@ lead: |-
   Many people with disabilities use a service animal in order to fully participate in everyday life.  Dogs can be trained to perform many important tasks to assist people with disabilities, such as providing stability for a person who has difficulty walking, picking up items for a person who uses a wheelchair, preventing a child with autism from wandering away, or alerting a person who has hearing loss when someone is approaching from behind.
 lang: "en"
 publish-date: 2015-07-20 00:00:00
+updated-date: 2020-02-28 00:00:00
 related-content: true
 tags:
   - service animals
@@ -185,6 +186,11 @@ For more information about the ADA, please visit [ADA.gov](https://www.ada.gov) 
 {{site.contact.tollfree}} (Voice) and {{site.contact.tty}} (TTY)
 M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.
 
-For people with disabilities, this publication is available in alternate formats.
+For people with disabilities, this publication is available in alternate formats.  
 
+<hr>  
+The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
+
+This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
+<hr>
 Duplication of this document is encouraged.
