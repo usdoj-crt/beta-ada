@@ -24,22 +24,10 @@ jobs:
         run: npm run build:css && npm run build:js && bundle exec jekyll serve --config _config.yml,_config_test.yml --detach
 
       - name: Google Pagespeed Test
-        uses: mazipan/psi-gh-action@1.7.0
+        uses: jakepartusch/psi-action@v1.3
+        id: psi
         with:
-          api_key: ${{ secrets.PSI_API_KEY }}
-          urls: |
-            https://www.ada.gov/
-            https://www.ada.gov/topics/
-            https://www.ada.gov/law-and-regs/
-            https://www.ada.gov/resources/
-            https://www.ada.gov/cases/
-            https://www.ada.gov/file-a-complaint/
-          devices: |
-            mobile
-            desktop
-          runs: 1
-          max: 10
-          branch: main
-          push_back: true
-          override: false
+          key: ${{ secrets.PSI_API_KEY }}
+          url: https://www.ada.gov/
+          threshold: 70
           token: ${{ secrets.GITHUB_TOKEN }}
