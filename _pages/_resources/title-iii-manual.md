@@ -74,9 +74,9 @@ Own;
 Lease;
 Lease to; or
 Operate
-a place of public accommodation.  
+a place of public accommodation.
 
-{% details What is a place of public accommodation? %}
+#### What is a place of public accommodation?  
 A place of public accommodation is a facility whose operations --  
 
 - Affect commerce; and  
