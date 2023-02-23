@@ -30,4 +30,3 @@ jobs:
           key: ${{ secrets.PSI_API_KEY }}
           url: https://www.ada.gov/
           threshold: 70
-          token: ${{ secrets.GITHUB_TOKEN }}
