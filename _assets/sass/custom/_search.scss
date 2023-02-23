@@ -16,11 +16,23 @@ label.usa-sr-only {
   color: white;
 }
 
+.best-bet-item {
+  flex: 0 1 100%;
+}
+
 @include at-media(mobile) {
 
   .usa-search--small [type="submit"],
   .usa-search--small .usa-search__submit {
     min-width: 5rem !important;
+  }
+
+  .best-bet-item {
+    flex: 0 1 48%;
+  }
+
+  .single-result .best-bet-item {
+    flex: 0 1 100%;
   }
 }
 

@@ -3,6 +3,7 @@ import renderSearchResults from "./renderSearchResults";
 import applyFocusStyling from "./applyFocusStyling";
 import createRange from "./createRange";
 import wrapUrls from "./wrapUrls";
+import bestBetsSectionTemplate from "../templates/search/bestBetsSectionTemplate";
 import paginationTemplate from "../templates/pagination/paginationTemplate";
 import textBestBetsTemplate from "../templates/search/textBestBetsTemplate";
 import searchResultsTemplate from "../templates/search/searchResultsTemplate";
@@ -17,10 +18,10 @@ export default function renderSearchPage(searchResults, urlParams, numberOfResul
   const target = document.getElementById("totalResultsTarget");
   // Then check if this key has any values:
   if (textResults.length) {
-    textResults.forEach(function (item) {
-      // If it does, slap this into the DOM
-      renderSearchResults(textBestBetsTemplate(item));
-    });
+    const bestBetResults = textResults.map(item => textBestBetsTemplate(item));
+    const bestBetsSection = bestBetsSectionTemplate(bestBetResults, results.query);
+    renderSearchResults(bestBetsSection);
+    renderSearchResults(`<p markdown="0" class="total-results margin-top-4">All search results</p>`)
   }
   if (webResults.length) {
     // Set the offset value to 0 initially, this helps with styling the first page icon:
