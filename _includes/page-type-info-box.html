@@ -14,27 +14,18 @@
   role="region"
   aria-labelledby="page-type-info-box-header"
 >
-
-  <div class="icon-column">
-    {% case pageType %}
-      {% when 'topics' %}
-        {% asset library.png class="icon" alt="featured topics" %}
-      {% when 'resources' %}
-        {% asset folder.png class="icon" alt="guidance and resource materials" %}
-      {% when 'law-and-regs' %}
-        {% asset gavel.png class="icon" alt="laws and regulations" %}
-    {% endcase %}
-  </div>
-
   <div class="content-column">
     <h3 class="usa-summary-box__heading" id="page-type-info-box-header">
       {% case pageType %}
         {% when 'topics' %}
-          Featured Topic
+          {% asset library.svg class="icon" alt="featured topics" %}
+          <span>Featured Topic</span>
         {% when 'resources' %}
-          Guidance & Resources
+          {% asset folder.svg class="icon" alt="guidance and resource materials" %}
+          <span>Guidance & Resources</span>
         {% when 'law-and-regs' %}
-          Laws, Regulations, & Standards
+          {% asset gavel.svg class="icon" alt="laws and regulations" %}
+          <span>Laws, Regulations, & Standards</span>
       {% endcase %}
     </h3>
 
@@ -49,7 +40,7 @@
             <p>This article contains policy and legal regulations. Read this page to inform the creation of any legal policy, or to cite in a court of law.</p>
         {% endcase %}
 
-        <ul>
+        <ul class="no-bullets">
           {% unless pageType == 'topics' %}
           <li>For a higher level introduction, view <a class="usa-summary-box__link" href="/topics">Featured Topics</a></li>
           {% endunless %}
