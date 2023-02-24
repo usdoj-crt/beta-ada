@@ -2997,7 +2997,7 @@ conditions for use of platform lifts applicable in the new construction context 
 including sales and service counters (§7.2(1)), check-out aisles (§7.3(1)), hotels
 (?9.1.5), and homeless shelters (?9.5.2(2)).
 
-### III-7.8000 Special facility types   
+### III-7.8000 Special facility types
 
 ### III-7.8100 Historic preservation (ADAAG §4.1.7).
 
@@ -3093,7 +3093,8 @@ reasonable grounds for believing that they are about to be subjected to discrimi
 there is a pattern or practice of discrimination, or discrimination that raises an issue of general public importance. The Department will investigate complaints and conduct
 compliance reviews of covered entities.
 
-#### Do State or local civil rights agencies have any role in enforcing title III? 
+#### Do State or local civil rights agencies have any role in enforcing title III?
+
 There is no provision for State or local civil rights agencies to directly enforce title III of the
 ADA. They can, however, enforce State or local laws that incorporate the standards of
 the ADA, or they can set up alternative dispute resolution mechanisms (see III-
