@@ -2981,13 +2981,9 @@ would not be required in the parking structure.
 
 ### III-7.7000 Alterations (ADAAG §4.1.6).
 
-Throughout ADAAG, there are numerous
-examples of areas where there are less stringent standards for alterations than for new
-construction.For instance --
+Throughout ADAAG, there are numerous examples of areas where there are less stringent standards for alterations than for new construction. For instance--
 <ol>
-<li>Section 4.1.6(3) contains a detailed set of special technical provisions for
-alterations to be applied where it is technically infeasible to comply with other
-provisions of the guidelines.Entities are permitted to</li>
+<li>Section 4.1.6(3) contains a detailed set of special technical provisions for alterations to be applied where it is technically infeasible to comply with other provisions of the guidelines. Entities are permitted to</li>
 <ol type="a">
 <li>Install only one accessible unisex bathroom per floor;</li>  
 <li>Cluster wheelchair seating in altered assembly areas;</li>  
@@ -3034,15 +3030,13 @@ ILLUSTRATION 2: A very narrow but six-story tall department store has identical 
 BUT: If the same six-story department store is a full city block long, one per floor may not be enough. A reasonable number should be provided.
 
 <ol>
-<li>Other counters: At counters without cash registers, such as bank teller windows and
-ticketing counters, three alternatives are possible:</li>
+<li>Other counters: At counters without cash registers, such as bank teller windows and ticketing counters, three alternatives are possible:</li>
 <ol type="a">
 <li>A portion of the counter may be lowered,</li>  
 <li>An auxiliary counter may be provided, or</li>  
 <li>Equivalent facilitation may be provided by installing a folding shelf on the front of a counter to provide a work surface for a person using a wheelchair.</li>  
 </ol>
-<li>Check-out aisles (§7.3): At least one of each design of check-out aisle must be accessible, and, in some cases, additional check-out aisles are required to be accessible (i.e., from 20 to 40 percent) depending on the number of check-out aisles
-and the size of the facility. There are less stringent standards for alterations.</li>
+<li>Check-out aisles (§7.3): At least one of each design of check-out aisle must be accessible, and, in some cases, additional check-out aisles are required to be accessible (i.e., from 20 to 40 percent) depending on the number of check-out aisles and the size of the facility. There are less stringent standards for alterations.</li>
 </ol>
 
 ### III-7.8500 Libraries (ADAAG §8).
