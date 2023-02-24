@@ -1295,7 +1295,6 @@ deaf what is being said by the hearing person and who can voice to the hearing p
 what is being signed by the individual who is deaf. This communication must be
 conveyed effectively, accurately, and impartially, through the use of any necessary
 specialized vocabulary.
- 
 
 #### Can a public accommodation use a staff member who signs &quot;pretty well&quot; as an interpreter for meetings with individuals who use sign language to communicate?
 
@@ -1379,7 +1378,6 @@ however, would be an alternative that would be unlikely to result in an undue bu
 A fundamental alteration is a modification that is so
 significant that it alters the essential nature of the goods, services, facilities, privileges,
 advantages, or accommodations offered.
- 
 
 #### What is an undue burden?
 &quot;Undue burden&quot; is defined as &quot;significant difficulty or
@@ -1431,7 +1429,6 @@ ground surfaces often are a barrier to access by people who use wheelchairs and
 people who use other mobility aids, such as crutches. Impediments caused by the
 location of temporary or movable structures, such as furniture, equipment, and display
 racks, are also considered architectural barriers.
- 
 
 #### What is a communication barrier that is structural in nature?
 
@@ -2512,7 +2509,7 @@ provisions as a series of existing buildings on a common site connected by a
 &quot;common pedestrian route&quot; above or below the ground floor. This definition was
 included to avoid a requirement for several separate elevators in buildings that were
 initially designed and built independently of one another.The common pedestrian
-route would allow access to all of the stores to be provided by a single elevator. 
+route would allow access to all of the stores to be provided by a single elevator.
 
 #### If an alteration is planned on the third floor of a building and an elevator is not required, do any other ADAAG requirements apply to the third floor?
 
@@ -2520,15 +2517,7 @@ Yes. All other ADAAG requirements, aside from the requirement for an elevator, a
 
 ### III-6.4000 Alterations:
 
-Historic preservation. Alterations to historic properties must
-comply with the historic property provisions of ADAAG, to the maximum extent
-feasible. Under those provisions, alterations should be done in full compliance with
-the alterations standards for other types of buildings. However, if following the usual
-standards would threaten or destroy the historic significance of a feature of the
-building, alternative standards may be used. The decision to use alternative standards
-for that feature must be made in consultation with the appropriate advisory board
-designated in ADAAG, and interested persons should be invited to participate in the
-decision-making process.
+Historic preservation. Alterations to historic properties must comply with the historic property provisions of ADAAG, to the maximum extent feasible. Under those provisions, alterations should be done in full compliance with the alterations standards for other types of buildings. However, if following the usual standards would threaten or destroy the historic significance of a feature of the building, alternative standards may be used. The decision to use alternative standards for that feature must be made in consultation with the appropriate advisory board designated in ADAAG, and interested persons should be invited to participate in the decision-making process.
 
 #### What are &quot;historic properties&quot;?
 
@@ -3022,10 +3011,7 @@ In restaurants, generally all dining areas and five percent of fixed tables (but
 
 ### III-7.8300 Medical care facilities (ADAAG §6).
 
-In medical care facilities, all public
-and common use areas must be accessible. In general purpose hospitals, and in
-psychiatric and detoxification facilities, 10 percent of patient bedrooms and toilets
-must be accessible. The required percentage is 100 percent for special facilities treating conditions that affect mobility, and 50 percent for long-term facilities and nursing homes. There are special, less stringent requirements for alterations.
+In medical care facilities, all public and common use areas must be accessible. In general purpose hospitals, and in psychiatric and detoxification facilities, 10 percent of patient bedrooms and toilets must be accessible. The required percentage is 100 percent for special facilities treating conditions that affect mobility, and 50 percent for long-term facilities and nursing homes. There are special, less stringent requirements for alterations.
 
 ### III-7.8400 Business and mercantile (ADAAG §7).
 
@@ -3121,11 +3107,7 @@ ILLUSTRATION: X has reasonable grounds for believing that the plans for a hotel
 complex are not in compliance with the ADA.X may file a lawsuit challenging the
 plans, even though construction has not begun.
 
-An individual is not required to engage in a futile gesture, if he or she has notice that a
-person or organization does not intend to comply with its obligations under the Act. At the request of the plaintiff or defendant, and if the court permits it, the Department
-of Justice can intervene in the civil action, if it determines that the case is of general
-public importance. The court may also appoint an attorney for the plaintiff and may
-permit him or her to commence the civil action without first paying fees, costs, or security.
+An individual is not required to engage in a futile gesture, if he or she has notice that a person or organization does not intend to comply with its obligations under the Act. At the request of the plaintiff or defendant, and if the court permits it, the Department of Justice can intervene in the civil action, if it determines that the case is of general public importance. The court may also appoint an attorney for the plaintiff and may permit him or her to commence the civil action without first paying fees, costs, or security.
 
 Remedies available in a private suit may include a permanent or temporary injunction,
 restraining order, or other order, but not compensatory or punitive money damages or
