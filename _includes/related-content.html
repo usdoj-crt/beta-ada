@@ -44,11 +44,11 @@
       <div class="icon-column">
         {% case pageType %}
           {% when 'topics' %}
-            {% asset library.png class="icon" alt="page type" %}
+            {% include svg/library.html %}
           {% when 'resources' %}
-            {% asset folder.png class="icon" alt="page type" %}
+            {% include svg/folder.html %}
           {% when 'law-and-regs' %}
-            {% asset gavel.png class="icon" alt="page type" %}
+            {% include svg/gavel.html %}
         {% endcase %}
       </div>
 

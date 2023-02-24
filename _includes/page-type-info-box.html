@@ -18,13 +18,13 @@
     <h3 class="usa-summary-box__heading" id="page-type-info-box-header">
       {% case pageType %}
         {% when 'topics' %}
-          {% asset library.svg class="icon" alt="featured topics" %}
+          {% include svg/library.html %}
           <span>Featured Topic</span>
         {% when 'resources' %}
-          {% asset folder.svg class="icon" alt="guidance and resource materials" %}
+          {% include svg/folder.html %}
           <span>Guidance & Resources</span>
         {% when 'law-and-regs' %}
-          {% asset gavel.svg class="icon" alt="laws and regulations" %}
+          {% include svg/gavel.html %}
           <span>Laws, Regulations, & Standards</span>
       {% endcase %}
     </h3>
