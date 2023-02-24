@@ -28,7 +28,7 @@ jobs:
         run: npm run build:css && npm run build:js && bundle exec jekyll serve --config _config.yml,_config_test.yml --detach
       
       - name: Run Lighthouse CI
-        uses: treosh/lighthouse-ci-action@v2s
+        uses: treosh/lighthouse-ci-action@v2
         with:
           urls: |
             http://localhost/
