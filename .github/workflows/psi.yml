@@ -21,7 +21,9 @@ jobs:
       - run: npm install
 
       - name: Start Server
-        run: npm run build:css && npm run build:js && bundle exec jekyll serve --config _config.yml,_config_test.yml --detach
+        run: |
+          npm run build:css && npm run build:js && bundle exec jekyll serve --config _config.yml,_config_test.yml --detach
+          npm start
       
       - name: run Lighthouse CI
         run: |
