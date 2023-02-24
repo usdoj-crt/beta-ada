@@ -1,6 +1,6 @@
 ---
 title: ADA Title III Technical Assistance Manual
-description: "This document provides on the Title III Regulation."
+description: "This document explains what businesses and non-profit agencies must do to ensure access to their goods, services, and facilities."
 permalink: /resources/title-iii-manual/
 lead: |-
   This technical assistance manual addresses the requirements of title III of the Americans with Disabilities Act, which applies to public accommodations, commercial facilities, and private entities offering certain examinations and courses.It is one of a series of publications issued by Federal agencies under section 506 of the ADA to assist individuals and entities in understanding their rights and duties under the Act.
@@ -12,7 +12,7 @@ related-content: true
 tags:
   - title iii
 redirect_from:
-  - /regs2010/service_animal_qa.html
+  - /taman3.html
 ---
 ## Introduction  
 
@@ -371,7 +371,9 @@ individuals with disabilities than is provided under section 504.
 Title III does not disturb other Federal
 laws or any State law that provides protection for individuals with disabilities at a
 level greater or equal to that provided by the ADA. It does, however, prevail over any
-conflicting State laws.## III-2.0000 INDIVIDUALS WITH DISABILITIES  
+conflicting State laws.
+
+## III-2.0000 INDIVIDUALS WITH DISABILITIES  
 
 Regulatory references: 28 CFR 36.104.
 
@@ -642,7 +644,7 @@ ILLUSTRATION 2: An individual who uses a wheelchair may not be excluded from
 an exercise class at a health club because he or she cannot do all of the exercises and
 derive the same result from the class as persons without disabilities.
 
-III-3.4000 Separate benefit/integrated setting.
+### III-3.4000 Separate benefit/integrated setting.
 
 A primary goal of the ADA is the
 equal participation of individuals with disabilities in the &quot;mainstream&quot; of American
@@ -2981,10 +2983,11 @@ would not be required in the parking structure.
 
 Throughout ADAAG, there are numerous
 examples of areas where there are less stringent standards for alterations than for new
-construction.For instance --  
-1. Section 4.1.6(3) contains a detailed set of special technical provisions for
+construction.For instance --
+<ol>
+<li>Section 4.1.6(3) contains a detailed set of special technical provisions for
 alterations to be applied where it is technically infeasible to comply with other
-provisions of the guidelines.Entities are permitted to --  
+provisions of the guidelines.Entities are permitted to --</li>
 <ol type="a">
 <li>Install only one accessible unisex bathroom per floor;</li>  
 <li>Cluster wheelchair seating in altered assembly areas;</li>  
@@ -2992,10 +2995,9 @@ provisions of the guidelines.Entities are permitted to --
 conditions for use of platform lifts applicable in the new construction context (§4.1.3(5));</li>  
 <li>Install only one accessible dressing room for each sex on each level.</li>  
 </ol>
-2. Areas of rescue assistance are not required in alterations (§4.1.6(1)(g)).
-3. There are special less stringent requirements for alterations in many other areas,
-including sales and service counters (§7.2(1)), check-out aisles (§7.3(1)), hotels
-(?9.1.5), and homeless shelters (?9.5.2(2)).
+<li>Areas of rescue assistance are not required in alterations (§4.1.6(1)(g)).</li>
+<li>There are special less stringent requirements for alterations in many other areas, including sales and service counters (§7.2(1)), check-out aisles (§7.3(1)), hotels (?9.1.5), and homeless shelters (?9.5.2(2)).</li>
+</ol>
 
 ### III-7.8000 Special facility types
 
@@ -3014,9 +3016,10 @@ In restaurants, generally all dining areas and five percent of fixed tables (but
 In medical care facilities, all public and common use areas must be accessible. In general purpose hospitals, and in psychiatric and detoxification facilities, 10 percent of patient bedrooms and toilets must be accessible. The required percentage is 100 percent for special facilities treating conditions that affect mobility, and 50 percent for long-term facilities and nursing homes. There are special, less stringent requirements for alterations.
 
 ### III-7.8400 Business and mercantile (ADAAG §7).
-
-1. Sales and service counters with cash registers: At least one of each type of sales or service counter where a cash register is located must be accessible. Accessible counters must be dispersed throughout the facility. Auxiliary counters are permissible
-in alterations.
+<ol>
+<li>Sales and service counters with cash registers: At least one of each type of sales or service counter where a cash register is located must be accessible. Accessible counters must be dispersed throughout the facility. Auxiliary counters are permissible
+in alterations.</li>
+</ol>
 
 #### Are frozen food and deli counters covered?
 
@@ -3030,20 +3033,19 @@ ILLUSTRATION 1: A small one-story clothing store has four identical cash registe
 
 ILLUSTRATION 2: A very narrow but six-story tall department store has identical cash register counters throughout the facility ADAAG will be satisfied if there is one accessible counter per floor at which all purchases can be made.
 
-BUT: If the same six-story department store is a full city block long, one per floor may not be enough.A reasonable number should be provided.
+BUT: If the same six-story department store is a full city block long, one per floor may not be enough. A reasonable number should be provided.
 
-2. Other counters: At counters without cash registers, such as bank teller windows and
-ticketing counters, three alternatives are possible:  
+<ol start="2">
+<li>Other counters: At counters without cash registers, such as bank teller windows and
+ticketing counters, three alternatives are possible:</li>
 <ol type="a">
 <li>A portion of the counter may be lowered,</li>  
 <li>An auxiliary counter may be provided, or</li>  
 <li>Equivalent facilitation may be provided by installing a folding shelf on the front of a counter to provide a work surface for a person using a wheelchair.</li>  
-</ol>  
-
-3. Check-out aisles (§7.3): At least one of each design of check-out aisle must be
-accessible, and, in some cases, additional check-out aisles are required to be
-accessible (i.e., from 20 to 40 percent) depending on the number of check-out aisles
-and the size of the facility.There are less stringent standards for alterations.
+</ol>
+<li>Check-out aisles (§7.3): At least one of each design of check-out aisle must be accessible, and, in some cases, additional check-out aisles are required to be accessible (i.e., from 20 to 40 percent) depending on the number of check-out aisles
+and the size of the facility. There are less stringent standards for alterations.</li>
+</ol>
 
 ### III-7.8500 Libraries (ADAAG §8).
 
