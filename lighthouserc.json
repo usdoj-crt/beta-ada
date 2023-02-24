@@ -1,8 +1,11 @@
 {
     "ci": {
-      "url": ["http://localhost/", "http://localhost/resources/"],
       "collect": {
-        "staticDistDir": "./"
+        "url": ["http://localhost/4000"],
+        "startServerCommand": "npm start"
+      },
+      "upload": {
+        "target": "temporary-public-storage"
       }
     }
   }
