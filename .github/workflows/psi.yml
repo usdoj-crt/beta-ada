@@ -22,7 +22,8 @@ jobs:
 
       - name: Start Server
         run: |
-          npm run build
+          bundle exec jekyll build
+          npm start
       
       - name: run Lighthouse CI
         run: |
