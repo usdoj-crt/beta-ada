@@ -20,14 +20,10 @@ jobs:
           node-version: "16"
       - run: npm install
 
-      - name: Install
-        run: |
-          npm ci
-
       - name: Start Server
         run: npm run build:css && npm run build:js && bundle exec jekyll serve --config _config.yml,_config_test.yml --detach
       
-      - name: Run Lighthouse CI
-        uses: treosh/lighthouse-ci-action@v2
-        with:
-          configPath: "./lighthouserc.json"
+      - name: run Lighthouse CI
+        run: |
+          npm install -g @lhci/cli@0.8.x
+          lhci autorun
