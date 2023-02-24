@@ -2987,12 +2987,11 @@ construction.For instance --
 <ol>
 <li>Section 4.1.6(3) contains a detailed set of special technical provisions for
 alterations to be applied where it is technically infeasible to comply with other
-provisions of the guidelines.Entities are permitted to --</li>
+provisions of the guidelines.Entities are permitted to</li>
 <ol type="a">
 <li>Install only one accessible unisex bathroom per floor;</li>  
 <li>Cluster wheelchair seating in altered assembly areas;</li>  
-<li>Use platform lifts as part of an accessible route, without having to meet any of the
-conditions for use of platform lifts applicable in the new construction context (§4.1.3(5));</li>  
+<li>Use platform lifts as part of an accessible route, without having to meet any of the conditions for use of platform lifts applicable in the new construction context (§4.1.3(5));</li>  
 <li>Install only one accessible dressing room for each sex on each level.</li>  
 </ol>
 <li>Areas of rescue assistance are not required in alterations (§4.1.6(1)(g)).</li>
@@ -3004,8 +3003,7 @@ conditions for use of platform lifts applicable in the new construction context 
 ### III-7.8100 Historic preservation (ADAAG §4.1.7).
 
 This section contains
-requirements for alterations to qualified historic buildings and facilities (see III-
-6.4000).
+requirements for alterations to qualified historic buildings and facilities (see III-6.4000).
 
 ### III-7.8200 Restaurants and cafeterias (ADAAG §5).
 
@@ -3035,7 +3033,7 @@ ILLUSTRATION 2: A very narrow but six-story tall department store has identical 
 
 BUT: If the same six-story department store is a full city block long, one per floor may not be enough. A reasonable number should be provided.
 
-<ol start="2">
+<ol>
 <li>Other counters: At counters without cash registers, such as bank teller windows and
 ticketing counters, three alternatives are possible:</li>
 <ol type="a">
