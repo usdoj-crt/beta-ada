@@ -2,7 +2,7 @@
     "ci": {
       "url": ["http://localhost/", "http://localhost/resources/"],
       "collect": {
-        "staticDistDir": "./public"
+        "staticDistDir": "./"
       }
     }
   }
