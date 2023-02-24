@@ -28,7 +28,7 @@ The manual is divided into nine major subject matter headings with numerous
 numbered subheadings. Each numbered heading and subheading is listed in a quick
 reference table of contents at the beginning of the manual.
 
-## III-1.0000 COVERAGE  
+## III-1.0000 COVERAGE
 
 Regulatory references: 28 CFR 36.102-36.104.
 
@@ -47,8 +47,7 @@ Title III also covers private entities primarily engaged in transporting people.
 Department of Transportation has issued regulations implementing that section of title
 III.
 
-#### Is the Federal Government covered by title III because it is not a &quot;public entity&quot; under
-title II? 
+#### Is the Federal Government covered by title III because it is not a &quot;public entity&quot; under title II?
 
 The operations of the executive branch of the Federal Government are not
 covered by title III of the ADA. They are covered, however, by sections 501 and 504
@@ -372,9 +371,7 @@ individuals with disabilities than is provided under section 504.
 Title III does not disturb other Federal
 laws or any State law that provides protection for individuals with disabilities at a
 level greater or equal to that provided by the ADA. It does, however, prevail over any
-conflicting State laws.
-
-## III-2.0000 INDIVIDUALS WITH DISABILITIES  
+conflicting State laws.## III-2.0000 INDIVIDUALS WITH DISABILITIES  
 
 Regulatory references: 28 CFR 36.104.
 
@@ -1224,7 +1221,6 @@ speech impairments, that substantially limit the ability to communicate. Measure
 taken to accommodate individuals with other types of disabilities are covered by other
 title III requirements such as &quot;reasonable modifications&quot; and &quot;alternatives to barrier
 removal.&quot;
- 
 
 ILLUSTRATION: W, an individual who is blind, needs assistance in locating and
 removing an item from a grocery store shelf. A store employee who locates the
@@ -1303,11 +1299,7 @@ specialized vocabulary.
 
 #### Can a public accommodation use a staff member who signs &quot;pretty well&quot; as an interpreter for meetings with individuals who use sign language to communicate?
 
-Signing and interpreting are not the same thing.Being able to sign does not mean that
-a person can process spoken communication into the proper signs, nor does it mean
-that he or she possesses the proper skills to observe someone signing and change their
-signed or fingerspelled communication into spoken words. The interpreter must be
-able to interpret both receptively and expressively.
+Signing and interpreting are not the same thing.Being able to sign does not mean that a person can process spoken communication into the proper signs, nor does it mean that he or she possesses the proper skills to observe someone signing and change their signed or fingerspelled communication into spoken words. The interpreter must be able to interpret both receptively and expressively.
 
 #### If a sign language interpreter is required for effective communication, must only a certified interpreter be provided?
 
@@ -1395,8 +1387,7 @@ expense.&quot; Among the factors to be considered in determining whether an acti
 would result in an undue burden are the following --
 
 1. The nature and cost of the action;
-2. The overall financial resources of the site or sites involved; the number of persons
-employed at the site; the effect on expenses and resources; legitimate safety
+2. The overall financial resources of the site or sites involved; the number of persons employed at the site; the effect on expenses and resources; legitimate safety
 requirements necessary for safe operation, including crime prevention measures; or
 any other impact of the action on the operation of the site;
 3. The geographic separateness, and the administrative or fiscal relationship of the site
@@ -1443,23 +1434,12 @@ racks, are also considered architectural barriers.
  
 
 #### What is a communication barrier that is structural in nature?
-Communication barriers
-that are &quot;structural in nature&quot; are barriers that are an integral part of the physical
-structure of a facility. Examples include conventional signage, which generally is
-inaccessible to people who have vision impairments, and audible alarm systems,
-which are inaccessible to people with hearing impairments. Structural communication
-barriers also include the use of physical partitions that hamper the passage of sound
-waves between employees and customers, and the absence of adequate sound buffers
-in noisy areas that would reduce the extraneous noise that interferes with communication with people who have limited hearing.
+
+Communication barriers that are &quot;structural in nature&quot; are barriers that are an integral part of the physical structure of a facility. Examples include conventional signage, which generally is inaccessible to people who have vision impairments, and audible alarm systems, which are inaccessible to people with hearing impairments. Structural communication barriers also include the use of physical partitions that hamper the passage of sound waves between employees and customers, and the absence of adequate sound buffers in noisy areas that would reduce the extraneous noise that interferes with communication with people who have limited hearing.
 
 #### How does the communication barrier removal requirement relate to the obligation to provide auxiliary aids?
-Communications devices, such as TDD&#39;s, telephone handset
-amplifiers, assistive listening devices, and digital check-out displays, are not an
-integral part of the physical structure of the building and, therefore, are considered
-auxiliary aids under the Department&#39;s title III regulation. The failure to provide
-auxiliary aids is not a communication barrier that is structural in nature. The
-obligation to remove structural communications barriers is independent of any
-obligation to provide auxiliary aids and services.
+
+Communications devices, such as TDD&#39;s, telephone handset amplifiers, assistive listening devices, and digital check-out displays, are not an integral part of the physical structure of the building and, therefore, are considered auxiliary aids under the Department&#39;s title III regulation. The failure to provide auxiliary aids is not a communication barrier that is structural in nature. The obligation to remove structural communications barriers is independent of any obligation to provide auxiliary aids and services.
 
 #### What is a &quot;facility&quot;?
 The term &quot;facility&quot; includes all or any part of a building,
@@ -2555,6 +2535,7 @@ decision-making process.
 These are properties that are listed or that are eligible for listing in the National Register or Historic Places, or properties designated as historic under State or local law.
 
 #### What are the alternative requirements?
+
 The alternative requirements provide a minimal level of access.For example --
 1. An accessible route is only required from one site access point (such as the parking
 lot).
@@ -3044,14 +3025,11 @@ In restaurants, generally all dining areas and five percent of fixed tables (but
 In medical care facilities, all public
 and common use areas must be accessible. In general purpose hospitals, and in
 psychiatric and detoxification facilities, 10 percent of patient bedrooms and toilets
-must be accessible. The required percentage is 100 percent for special facilities treating conditions that affect mobility, and 50 percent for long-term facilities and
-nursing homes. There are special, less stringent requirements for alterations.
+must be accessible. The required percentage is 100 percent for special facilities treating conditions that affect mobility, and 50 percent for long-term facilities and nursing homes. There are special, less stringent requirements for alterations.
 
 ### III-7.8400 Business and mercantile (ADAAG §7).
 
-1. Sales and service counters with cash registers: At least one of each type of sales or
-service counter where a cash register is located must be accessible.Accessible
-counters must be dispersed throughout the facility. Auxiliary counters are permissible
+1. Sales and service counters with cash registers: At least one of each type of sales or service counter where a cash register is located must be accessible. Accessible counters must be dispersed throughout the facility. Auxiliary counters are permissible
 in alterations.
 
 #### Are frozen food and deli counters covered?
@@ -3147,8 +3125,7 @@ An individual is not required to engage in a futile gesture, if he or she has no
 person or organization does not intend to comply with its obligations under the Act. At the request of the plaintiff or defendant, and if the court permits it, the Department
 of Justice can intervene in the civil action, if it determines that the case is of general
 public importance. The court may also appoint an attorney for the plaintiff and may
-permit him or her to commence the civil action without first paying fees, costs, or
-security.
+permit him or her to commence the civil action without first paying fees, costs, or security.
 
 Remedies available in a private suit may include a permanent or temporary injunction,
 restraining order, or other order, but not compensatory or punitive money damages or
