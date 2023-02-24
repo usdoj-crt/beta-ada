@@ -2,7 +2,10 @@
     "ci": {
       "collect": {
         "url": ["http://localhost/4000"],
-        "startServerCommand": "npm start"
+        "startServerCommand": "npm start",
+        "startServerReadyPattern":"Server running...",
+        "startServerReadyTimeout": 20000,
+        "numberOfRuns": 5
       },
       "upload": {
         "target": "temporary-public-storage"
