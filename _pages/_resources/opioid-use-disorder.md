@@ -12,7 +12,7 @@ publish-date: 2022-04-05 00:00:00
 print: true
 sidenav-pdf:
   title: The ADA and Opoioid Use Disorder - Combating Discrimination Against People in Treatment or Recovery
-  filename: opioid-use-disorder.pdf
+  filename: opioid-guidance.pdf
 tags:
   - medical care
 ---
@@ -43,7 +43,7 @@ oneself, learning, concentrating, thinking, communicating, working, or the opera
 bodily functions, including neurological and brain functions.{% fn 8 %} The ADA also protects individuals
 who are in recovery, but who would be limited in a major life activity in the absence of treatment and/or services to support recovery.{% fn 9 %}  
 
-{% include expand-accordions-wrapper.html expand-heading="3) Does the ADA protect individuals who are taking legally prescribed medication to treat their opioid use disorder?" %}
+## 3) Does the ADA protect individuals who are taking legally prescribed medication to treat their opioid use disorder?
 
 Yes, if the individual is not engaged in the illegal use of drugs. Under the ADA, an individual’s
 use of prescribed medication, such as that used to treat OUD, is not an “illegal use of drugs” if
@@ -55,7 +55,7 @@ Administration (FDA) for treatment of OUD;{% fn 11 %} MAT refers to treatment of
 other substance use disorders by combining counseling and behavioral therapies with the use
 of FDA-approved medications.{% fn 12 %}  
 
-{% accordion expandable %}
+{% accordion %}
 {% collapsible %}
 ### Example A
 A skilled nursing facility refuses to admit a patient with OUD because the patient takes
@@ -68,7 +68,6 @@ The facility’s exclusion of patients based on their OUD would violate the ADA.
 A jail does not allow incoming inmates to continue taking MOUD prescribed before their
 detention. The jail’s blanket policy prohibiting the use of MOUD would violate the ADA.
 {% endcollapsible %}
-{% endaccordion %}
 
 ## 4) Does the ADA protect individuals with opioid use disorder who currently participate in a drug treatment program?
 
@@ -77,7 +76,6 @@ rehabilitation or drug treatment program are protected by the ADA if they are no
 engaging in the illegal use of drugs.{% fn 13 %} <em>See</em> explanation in Question 5. It is illegal to discriminate
 against these individuals based on their treatment for OUD.  
 
-{% accordion expandable %}
 {% collapsible %}
 ### Example C  
 A doctor’s office has a blanket policy of denying care to patients receiving treatment for
@@ -89,8 +87,7 @@ OUD. The office would violate the ADA if it excludes individuals based on their 
 A town refuses to allow a treatment center for people with OUD to open after residents
 complained that they did not want “those kind of people” in their area. The town may
 violate the ADA if its refusal is because of the residents’ hostility towards people with OUD.  
-{% endcollapsible %}  
-{% endaccordion %}
+{% endcollapsible %}
 
 ## 5) Does the ADA protect individuals who are currently illegally using opioids?  
 
@@ -102,7 +99,6 @@ ongoing problem.{% fn 15 %} Illegal use, however, does not include taking a medi
 opioid or medication used to treat OUD, under the supervision of a licensed health care
 professional.{% fn 16 %}  
 
-{% accordion expandable %}
 {% collapsible %}
 ### Example E
 A mentoring program requires its volunteers to provide test results showing that they do not
@@ -133,7 +129,6 @@ breaks a rule prohibiting the use of illegal drugs while in the program. This is
 discrimination under the ADA because the program can require participants to abstain from
 illegal drugs while in the program.
 {% endcollapsible %}
-{% endaccordion %}
 
 ## 6) Does the ADA protect individuals with a history of past opioid use disorder, who no longer illegally use drugs?
 
@@ -142,21 +137,19 @@ Yes. The ADA protects individuals with a “record of” disability. As explaine
 usually will be protected under the ADA.{% fn 19 %}
 
 Individuals would fall into this category if they have a history of, or have been misclassified as having, OUD.{% fn 20 %}
-{% accordion expandable %}
+
 {% collapsible %}
 ### Example H
 A city terminates an employee based on his disclosure that he completed treatment for a
 previous addiction to prescription opioids. The city may be in violation of the ADA for
 discriminating against the employee based on his record of OUD.
 {% endcollapsible %}
-{% endaccordion %}
 
 ## 7) Does the ADA provide any legal protections for individuals who are regarded as having an opioid use disorder, whether or not they actually have an opioid use disorder?
 
 Yes. The ADA protects individuals who are “regarded as” having OUD, even if they do not in
 fact have OUD.{% fn 21 %}  
 
-{% accordion expandable %}
 {% collapsible %}
 ### Example I
 An employer mistakenly believes that an employee has OUD simply because that employee
