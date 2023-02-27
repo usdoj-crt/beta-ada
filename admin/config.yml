@@ -7,7 +7,7 @@ backend:
   # Our code repository:
   repo: usdoj-crt/beta-ada
   # Base URL - OAuth client hostname
-  base_url: https://federalistapp.18f.gov
+  base_url: https://pages.cloud.gov
   # Auth Endpoint: Path to append to base_url for authentication requests.
   auth_endpoint: external/auth/github
   # Preview Context: Deploy preview links provide a way to view live content when it has not been published.

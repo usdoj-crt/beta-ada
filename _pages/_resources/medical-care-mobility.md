@@ -5,7 +5,8 @@ permalink: /resources/medical-care-mobility/
 lead: |-
   Accessibility of doctors' offices, clinics, and other health care providers is essential in providing medical care to people with disabilities. Due to barriers, individuals with disabilities are less likely to get routine preventative medical care than people without disabilities. Accessibility is not only legally required, it is important medically so that minor problems can be detected and treated before turning into major and possibly life-threatening problems.
 lang: "en"
-publish-date: 2010-07-22 00:00:00
+publish-date: 2010-07-01 00:00:00
+updated-date: 2020-06-26 00:00:00
 print: true
 related-content: true
 tags:
@@ -306,8 +307,15 @@ For more information about the ADA, please visit [ADA.gov](https://www.ada.gov) 
 {{site.contact.tollfree}} (Voice) and {{site.contact.tty}} (TTY)
 M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.
 
-For people with disabilities, this publication is available in alternate formats. Reproduction of this document is encouraged.
+For people with disabilities, this publication is available in alternate formats.  
 
 For more information about Section 504,visit the [Department of Health and Human Services Office for Civil Rights website](https://www.hhs.gov/ocr).  You may also search the list of [HHS OCR regional offices](https://www.hhs.gov/ocr/about-us/contact-us/index.html) near you.
 
-Section 504's requirements for new construction and alterations to buildings and facilities are found at 45 C.F.R. Part 84, Subpart C for recipients of federal financial assistance.  The regulations are available at [https://www.hhs.gov/ocr/about-us/contact-us/index.html](https://www.hhs.gov/ocr/about-us/contact-us/index.html)
+Section 504's requirements for new construction and alterations to buildings and facilities are found at 45 C.F.R. Part 84, Subpart C for recipients of federal financial assistance.  The regulations are available at [https://www.hhs.gov/ocr/about-us/contact-us/index.html](https://www.hhs.gov/ocr/about-us/contact-us/index.html)  
+
+<hr>  
+The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
+
+This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
+<hr>
+Reproduction of this document is encouraged.
