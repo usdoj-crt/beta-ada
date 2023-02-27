@@ -2982,13 +2982,13 @@ would not be required in the parking structure.
 
 Throughout ADAAG, there are numerous examples of areas where there are less stringent standards for alterations than for new construction. For instance--
 <ol>
-<li>Section 4.1.6(3) contains a detailed set of special technical provisions for alterations to be applied where it is technically infeasible to comply with other provisions of the guidelines. Entities are permitted to</li>
+<li>Section 4.1.6(3) contains a detailed set of special technical provisions for alterations to be applied where it is technically infeasible to comply with other provisions of the guidelines. Entities are permitted to
 <ol type="a">
 <li>Install only one accessible unisex bathroom per floor;</li>  
 <li>Cluster wheelchair seating in altered assembly areas;</li>  
 <li>Use platform lifts as part of an accessible route, without having to meet any of the conditions for use of platform lifts applicable in the new construction context (§4.1.3(5));</li>  
 <li>Install only one accessible dressing room for each sex on each level.</li>  
-</ol>
+</ol></li>
 <li>Areas of rescue assistance are not required in alterations (§4.1.6(1)(g)).</li>
 <li>There are special less stringent requirements for alterations in many other areas, including sales and service counters (§7.2(1)), check-out aisles (§7.3(1)), hotels (?9.1.5), and homeless shelters (?9.5.2(2)).</li>
 </ol>
@@ -3028,14 +3028,13 @@ ILLUSTRATION 2: A very narrow but six-story tall department store has identical 
 BUT: If the same six-story department store is a full city block long, one per floor may not be enough. A reasonable number should be provided.
 
 <ol>
-<li>Other counters: At counters without cash registers, such as bank teller windows and ticketing counters, three alternatives are possible:</li>
-
+<li>Other counters: At counters without cash registers, such as bank teller windows and ticketing counters, three alternatives are possible:
 <ol type="a">
 <li>A portion of the counter may be lowered,</li>
 <li>An auxiliary counter may be provided, or</li>
 <li>Equivalent facilitation may be provided by installing a folding shelf on the front of a counter to provide a work surface for a person using a wheelchair.</li>
 </ol>
-
+</li>
 <li>Check-out aisles (§7.3): At least one of each design of check-out aisle must be accessible, and, in some cases, additional check-out aisles are required to be accessible (i.e., from 20 to 40 percent) depending on the number of check-out aisles and the size of the facility. There are less stringent standards for alterations.</li>
 </ol>
 
