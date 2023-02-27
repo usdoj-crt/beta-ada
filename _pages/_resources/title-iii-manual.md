@@ -3235,14 +3235,10 @@ ILLUSTRATION 2: A very narrow but six-story tall department store has identical 
 BUT: If the same six-story department store is a full city block long, one per floor may not be enough. A reasonable number should be provided.  
 
 1. Other counters: At counters without cash registers, such as bank teller windows and
-ticketing counters, three alternatives are possible:  
-<li>
-<ol type="a">
-<li>A portion of the counter may be lowered,</li>  
-<li>An auxiliary counter may be provided, or</li>  
-<li>Equivalent facilitation may be provided by installing a folding shelf on the front of a counter to provide a work surface for a person using a wheelchair.</li>  
-</ol>  
-</li>
+ticketing counters, three alternatives are possible:
+  a. A portion of the counter may be lowered,  
+  b. An auxiliary counter may be provided, or  
+  c. Equivalent facilitation may be provided by installing a folding shelf on the front of a counter to provide a work surface for a person using a wheelchair. 
 
 3. Check-out aisles (§7.3): At least one of each design of check-out aisle must be
 accessible, and, in some cases, additional check-out aisles are required to be
