@@ -1,11 +1,12 @@
 ---
 title: Commonly Asked Questions About the ADA and Law Enforcement
 description: "This publication is designed to answer questions and offer common sense suggestions to assist law enforcement agencies in complying with the ADA."
-permalink: /resources/effective-communication/
+permalink: /resources/commonly-asked-questions-law-enforcement/
 lead: |-
   Police officers, sheriff's deputies, and other law enforcement personnel have always interacted with persons with disabilities and, for many officers and deputies, the Americans with Disabilities Act (ADA) may mean few changes in the way they respond to the public. To respond to questions that may arise, this document offers common sense suggestions to assist law enforcement agencies in complying with the ADA. The examples presented are drawn from real-life situations as described by police officers or encountered by the Department of Justice in its enforcement of the ADA.
 lang: "en"
 publish-date: 2014-01-31 00:00:00
+updated-date: 2020-02-28 00:00:00
 print: true
 related-content: true
 tags:
@@ -173,7 +174,7 @@ Training, sensitivity, and awareness will help to ensure equitable treatment of 
 
 ## Architectural Access  
 
-{% details Q19: Does the ADA require all police stations to be accessible to people with disabilities? expandalbe %}  
+{% details Q19: Does the ADA require all police stations to be accessible to people with disabilities? expandable %}  
 **A**: No. Individuals with disabilities must have equal access to law enforcement services, but the ADA is flexible in how to achieve that goal. The ADA requires programs to be accessible to individuals with disabilities, not necessarily each and every facility. Often, structural alterations to an existing police station or sheriff's office will be necessary to create effective access. In some situations, however, it may be as effective to use alternative methods, such as relocating a service to an accessible building, or providing an officer who goes directly to the individual with the disability. Whatever approach to achieving "program access" is taken, training of officers and deputies, well-developed policies, and clear public notice of the approach will be critical to ensuring successful ADA compliance.  
 
 **Example**: A police station in a small town is inaccessible to individuals with mobility disabilities. The department decides that it cannot alter all areas of the station because of insufficient funds. It decides to alter the lobby and restrooms so that the areas the public uses -- for filling out crime reports, obtaining copies of investigative reports for insurance purposes, or seeking referrals to shelter care -- are accessible. Arrangements are made to conduct victim and witness interviews with individuals with disabilities in a private conference room in the local library or other government building, and to use a neighboring department's accessible lock-up for detaining suspects with disabilities. These measures are consistent with the ADA's program accessibility requirements.  
@@ -225,5 +226,12 @@ If meeting and/or interrogation rooms are provided, those areas should also be a
 {% enddetails %}  
 
 {% details Q25: Where can I turn for answers to other questions about the ADA? expandable %}  
-**A**: The Department of Justice's toll-free ADA Information Line answers questions and offers free publications about the ADA. The telephone numbers are: 800-514-0301 (voice) or 833-610-1264 (TTY) M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential. Publications are also available from the [ADA Website]( {{'/index'| relative_url}})
+**A**: The Department of Justice's toll-free ADA Information Line answers questions and offers free publications about the ADA. The telephone numbers are: 800-514-0301 (voice) or 833-610-1264 (TTY) M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential. Publications are also available from the [ADA Website]({{'/index'| relative_url}}).
 {% enddetails %}
+
+<hr>  
+The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
+
+This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
+<hr>
+Reproduction is encouraged.
