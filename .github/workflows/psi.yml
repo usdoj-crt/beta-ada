@@ -20,9 +20,8 @@ jobs:
           node-version: "16"
       - run: npm install
 
-      - name: Start Server
+      - name: Serve Site
         run: |
-          bundle exec jekyll build
           npm start
       
       - name: run Lighthouse CI
