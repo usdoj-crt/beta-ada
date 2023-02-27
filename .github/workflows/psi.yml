@@ -27,6 +27,4 @@ jobs:
       - name: run Lighthouse CI
         run: |
           npm install -g @lhci/cli@0.8.x
-          lhci autorun
-        with:
-          configPath: "./lighthouserc.json"
+          lhci autorun --collect.startServerReadyPattern="running"
