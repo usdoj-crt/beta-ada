@@ -2,7 +2,14 @@
     "ci": {
       "collect": {
         "startServerCommand": "npm start",
-        "url": ["http://localhost:4000/", "http://localhost:4000/topics/", "http://localhost:4000/resources/", "http://localhost:4000/law-and-regs/", "http://localhost:4000/cases/", "http://localhost:4000/file-a-complaint/"],
+        "url": [
+            "http://localhost:4000/",
+            "http://localhost:4000/topics/",
+            "http://localhost:4000/resources/",
+            "http://localhost:4000/law-and-regs/",
+            "http://localhost:4000/cases/",
+            "http://localhost:4000/file-a-complaint/"
+        ],
         "psiStrategy": "desktop",
         "settings": {
           "maxWaitForLoad": 90000
@@ -10,8 +17,8 @@
       },
       "assert": {
         "assertions": {
-          "categories:performance": ["warn", {"minScore": 0.7}],
-          "categories:accessibility": ["warn", {"minScore": 1}]
+          "categories:performance": ["error", {"minScore": 0.4}],
+          "categories:accessibility": ["error", {"minScore": 1}]
         }
       },
       "upload": {
