@@ -20,7 +20,10 @@ jobs:
           node-version: "16"
       - run: |
           npm install
-      
+
+      - name: Start Server
+        run: npm run build:css && npm run build:js && bundle exec jekyll serve --config _config.yml,_config_test.yml --detach
+
       - name: Run Lighthouse CI
         run: |
           npm install -g @lhci/cli@0.8.x
