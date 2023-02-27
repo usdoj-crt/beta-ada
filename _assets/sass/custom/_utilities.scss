@@ -24,25 +24,3 @@
   list-style-type: none;
   padding-left: 0px;
 }
-
-.page-type-info-box {
-  display: flex;
-
-  .icon-column {
-    img {
-      margin-top: 1px;
-      width: 22px;
-      max-width: 22px;
-    }
-  }
-
-  .content-column {
-    h3 {
-      display: inline;
-      font-size: 1em;
-      margin: 8px !important;
-    }
-  }
-
-
-}
