@@ -156,7 +156,6 @@ accommodation within residential facilities. Thus, areas within multifamily resi
 facilities that qualify as places of public accommodation are covered by the ADA if
 use of the areas is not limited exclusively to owners, residents, and their guests.
 
-
 ILLUSTRATION 1: A private residential apartment complex includes a swimming
 pool for use by apartment tenants and their guests.The complex also sells pool
 &quot;memberships&quot; generally to the public. The pool qualifies as a place of public
@@ -3010,10 +3009,9 @@ In restaurants, generally all dining areas and five percent of fixed tables (but
 In medical care facilities, all public and common use areas must be accessible. In general purpose hospitals, and in psychiatric and detoxification facilities, 10 percent of patient bedrooms and toilets must be accessible. The required percentage is 100 percent for special facilities treating conditions that affect mobility, and 50 percent for long-term facilities and nursing homes. There are special, less stringent requirements for alterations.
 
 ### III-7.8400 Business and mercantile (ADAAG §7).
-<ol>
-<li>Sales and service counters with cash registers: At least one of each type of sales or service counter where a cash register is located must be accessible. Accessible counters must be dispersed throughout the facility. Auxiliary counters are permissible
-in alterations.</li>
-</ol>
+
+1. Sales and service counters with cash registers: At least one of each type of sales or service counter where a cash register is located must be accessible. Accessible counters must be dispersed throughout the facility. Auxiliary counters are permissible
+in alterations.
 
 #### Are frozen food and deli counters covered?
 
@@ -3031,11 +3029,13 @@ BUT: If the same six-story department store is a full city block long, one per f
 
 <ol>
 <li>Other counters: At counters without cash registers, such as bank teller windows and ticketing counters, three alternatives are possible:</li>
+
 <ol type="a">
-<li>A portion of the counter may be lowered,</li>  
-<li>An auxiliary counter may be provided, or</li>  
-<li>Equivalent facilitation may be provided by installing a folding shelf on the front of a counter to provide a work surface for a person using a wheelchair.</li>  
+<li>A portion of the counter may be lowered,</li>
+<li>An auxiliary counter may be provided, or</li>
+<li>Equivalent facilitation may be provided by installing a folding shelf on the front of a counter to provide a work surface for a person using a wheelchair.</li>
 </ol>
+
 <li>Check-out aisles (§7.3): At least one of each design of check-out aisle must be accessible, and, in some cases, additional check-out aisles are required to be accessible (i.e., from 20 to 40 percent) depending on the number of check-out aisles and the size of the facility. There are less stringent standards for alterations.</li>
 </ol>
 
