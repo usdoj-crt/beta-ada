@@ -2980,7 +2980,7 @@ Elevators are required
 to serve each level in a newly constructed building, with four exceptions:
 
 1. Exception 1 is the &quot;elevator exemption&quot; discussed above (see III-5.4000).
-2.  Exception 2 exempts elevator pits, elevator penthouses, mechanical rooms, and
+2. Exception 2 exempts elevator pits, elevator penthouses, mechanical rooms, and
 piping or equipment catwalks.
 3. Exception 3 permits the use of accessible ramps instead of elevators at any time.
 4. Exception 4 permits the use of platform lifts under certain conditions. Lifts must
