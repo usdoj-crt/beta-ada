@@ -11,7 +11,8 @@ tags:
   - design standards
   - title iii
   - title ii
-updated-date: 2012-05-24 00:00:00
+publish-date: 2012-01-1 00:00:00
+updated-date: 2020-02-28 00:00:00
 redirect_from:
   - /pools_2010.htm
 ---
@@ -112,11 +113,13 @@ For more information about the ADA, please visit our website or call our toll-fr
 
 **ADA Information Line**  
 
-Call 800-514-0301 (Voice) and 833-610-1264 (TTY) M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist.  All calls are confidential.
+Call 800-514-0301 (Voice) and 833-610-1264 (TTY) M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist.  All calls are confidential.  
 
-For persons with disabilities, this publication is available in alternate formats.  Duplication of this document is encouraged.
+For persons with disabilities, this publication is available in alternate formats.
 
 <hr>  
 The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
 
-This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
+This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.  
+<hr>
+Duplication of this document is encouraged.
