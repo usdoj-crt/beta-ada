@@ -19,7 +19,7 @@ export default function renderSearchPage(searchResults, urlParams, numberOfResul
   // Then check if this key has any values:
   if (textResults.length) {
     const bestBetResults = textResults.map(item => textBestBetsTemplate(item));
-    const bestBetsSection = bestBetsSectionTemplate(bestBetResults, results.query);
+    const bestBetsSection = bestBetsSectionTemplate(bestBetResults);
     renderSearchResults(bestBetsSection);
     renderSearchResults(`<p markdown="0" class="total-results margin-top-4">All search results</p>`)
   }
@@ -43,7 +43,7 @@ export default function renderSearchPage(searchResults, urlParams, numberOfResul
     // Set up click tracking for search.gov:
     clickTracking();
     // List the total number of results:
-    target.innerHTML = totalResults(webTotalResults, 'result');
+    target.innerHTML = totalResults(webTotalResults, 'result', `for '` + results.query + `'`);
     // FOR PAGINATION:
     // Generate our results pages array:
     const offsetValueArray = createRange(0, webTotalResults, numberOfResults);
@@ -84,7 +84,7 @@ export default function renderSearchPage(searchResults, urlParams, numberOfResul
     }
   }
   if (document.getElementById("search-results").childNodes.length == 0) {
-    target.innerHTML = totalResults(webTotalResults, 'result');
+    target.innerHTML = totalResults(webTotalResults, 'result', `for '` + results.query + `'`);
   } else {
     const urlsToWrap = document.querySelectorAll(".content-url");
     Array.prototype.forEach.call(urlsToWrap, function(url) {
