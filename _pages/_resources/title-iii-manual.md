@@ -8,7 +8,9 @@ lead: |-
   This manual is part of a broader program of technical assistance conducted by the Department of Justice to promote voluntary compliance with the requirements not only of title III, but also of title II of the ADA, which applies to the operations of State and local governments.
 lang: "en"
 publish-date: 2015-07-20 00:00:00
+updated-date: 1993-11-01 00:00:00
 related-content: true
+print: true
 tags:
   - title iii
 redirect_from:
