@@ -31,9 +31,45 @@
   <div class="usa-summary-box__text">
     {% for link in tagArray %}
     {% unless link.url==nil %}
-    <div class="margin-1">
-      <a class="usa-summary-box__link" href="{{ link.url | relative_url }}">{{ link.title }}</a>
+
+    {% if link.permalink contains '/topics/' %}
+      {% assign pageType = 'topics' %}
+    {% elsif link.permalink contains '/resources/' %}
+      {% assign pageType = 'resources' %}
+    {% elsif link.permalink contains '/law-and-regs/' %}
+      {% assign pageType = 'law-and-regs' %}
+    {% endif %}
+
+    <div class="icon-box">
+      <div class="icon-column">
+        {% case pageType %}
+          {% when 'topics' %}
+            {% include svg/library.html %}
+          {% when 'resources' %}
+            {% include svg/folder.html %}
+          {% when 'law-and-regs' %}
+            {% include svg/gavel.html %}
+        {% endcase %}
+      </div>
+
+      <div class="content-column">
+        <h4 class="usa-summary-box__heading">
+          {% case pageType %}
+            {% when 'topics' %}
+              Featured Topic
+            {% when 'resources' %}
+              Guidance
+            {% when 'law-and-regs' %}
+              Laws & Regulations
+          {% endcase %}
+        </h4>
+
+        <div class="margin-1">
+          <a class="usa-summary-box__link" href="{{ link.url | relative_url }}">{{ link.title }}</a>
+        </div>
+      </div>
     </div>
+
     {% endunless %} {% endfor %}
   </div>
 </div>

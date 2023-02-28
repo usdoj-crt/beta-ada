@@ -26,7 +26,26 @@
   margin-bottom: 0px;
 }
 
-.page-type-info-box {
+.two-col.related-content-container .usa-summary-box__text {
+  .icon-box {
+    @media(max-width: 40em) {
+      margin-bottom: 24px;
+    }
+  }
+
+  .icon-box:last-child {
+    @media(max-width: 40em) {
+      margin-bottom: initial;
+    }
+  }
+
+  @media(min-width: 40em) {
+    gap: 24px;
+  }
+}
+
+
+.icon-box {
   display: flex;
 
   img,svg {
@@ -38,7 +57,7 @@
   }
 
   .content-column {
-    h3 {
+    h3,h4 {
       display: inline;
       font-size: 1em;
       margin: 8px;
