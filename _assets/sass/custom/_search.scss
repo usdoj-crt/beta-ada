@@ -26,14 +26,6 @@ label.usa-sr-only {
   .usa-search--small .usa-search__submit {
     min-width: 5rem !important;
   }
-
-  .best-bet-item {
-    flex: 0 1 48%;
-  }
-
-  .single-result .best-bet-item {
-    flex: 0 1 100%;
-  }
 }
 
 @include at-media(desktop) {
@@ -55,5 +47,13 @@ label.usa-sr-only {
     &:hover {
       background-color: color("gray-cool-20");
     }
+  }
+
+  .best-bet-item {
+    flex: 0 1 48%;
+  }
+
+  .single-result .best-bet-item {
+    flex: 0 1 100%;
   }
 }
