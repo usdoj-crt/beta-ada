@@ -22,6 +22,8 @@ tags:
 
 **Employers, including state and local government employers, increasingly use hiring technologies to help them select new employees.**
 
+This is a change that won't appear in netlify
+
 For example, employers might use technology:
 - to show job advertisements to targeted groups;
 - to decide if an applicant meets job qualifications;
