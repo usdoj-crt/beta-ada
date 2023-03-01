@@ -18,8 +18,8 @@
 # Be sure to edit the values below
 ##########################################################################################
 
-title: "Beta.ADA.gov"
-# url: "https://example.gov" # the base hostname & protocol for your site, e.g. https://example.com.
+title: "ADA.gov"
+url: "https://www.ada.gov" # the base hostname & protocol for your site, e.g. https://example.com.
 # Required to support the jekyll-sitemap plugin below.
 # Uncomment the url line when ready to push to production. If using different branches for multiple
 # custom domains, edit this url parameter in the relevant branch to match the relevant custom domain.
@@ -27,14 +27,14 @@ description: Disability rights are civil rights. From voting to parking, the ADA
 
 contact:
   tollfree: 800-514-0301
-  tty: 800-514-0383
+  tty: 1-833-610-1264
   link: /infoline/
   link_title: ADA Information Line
   time1: "M, Tu, W, F: 9:30am - 12pm and 3pm - 5:30pm ET"
   time2: "Th: 2:30pm - 5:30pm ET"
 
 # Display beta disclamers
-beta: true
+beta: false
 
 # Digital Analytics Program (DAP) configuration
 dap:
@@ -55,26 +55,33 @@ primary_navigation:
       en: "/"
       es: "/"
   - name:
-      en: Explore Featured Topics
-      en-short: Explore Topics
-      es: Explore Featured Topics
+      en: Featured Topics
+      en-short: Featured Topics
+      es: Featured Topics
     url:
       en: "/topics/"
       es: "/topics/"
   - name:
-      en: Review Laws, Regulations & Standards
-      en-short: Review Laws & Regulations
-      es: Review Laws, Regulations & Standards
+      en: Laws, Regulations & Standards
+      en-short: Laws & Regulations
+      es: Laws, Regulations & Standards
     url:
       en: "/law-and-regs/"
       es: "/law-and-regs/"
   - name:
-      en: View Guidance & Resource Materials
-      en-short: View Resources
-      es: View Guidance & Resource Materials
+      en: Guidance & Resource Materials
+      en-short: Resources
+      es: Guidance & Resource Materials
     url:
       en: "/resources/"
       es: "/resources/"
+  - name:
+      en: Enforcement
+      en-short: Enforcement
+      es: Enforcement
+    url:
+      en: "/cases/"
+      es: "/cases/"
   - name:
       en: File a Complaint
       en-short: File a Complaint
@@ -94,15 +101,21 @@ collections:
       - intro-to-ada.md
       - service-animals.md
       - parking.md
+      - effective-communication.md
   resources:
     output: true
     permalink: /:collection/:name/
 # Configuration for Touchpoints
 touchpoints:
   url: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit
+# Configuration for Gov Devliery:
+govdelivery:
+  title: Subscribe to our newsletter for ADA updates
+  url: https://public.govdelivery.com/accounts/USDOJ/subscriber/new?category_id=USDOJ_C26
+  link_text: Sign Up
 
 # Search.gov configuration
-#
+# NOTE: The configuration is also set in the Javascript code: /_assets/js/utils/constants.js
 # 1. Create an account with Search.gov https://search.usa.gov/signup
 # 2. Add a new site.
 # 3. Add your site/affiliate name here.
@@ -111,17 +124,16 @@ searchgov:
   endpoint: https://search.usa.gov
 
   # replace this with your search.gov account
-  affiliate: justice-ada-beta
+  affiliate: justice-ada
 
   # replace with your access key
-  access_key: R9JA5YunOBaTGydUNm-oJjGCqKQ-zXsulsNskJVe5-c=
+  access_key: Z8vERzCYuVMzAh2CKIRiyj1tRbOhdzseBGOuirGz1AQ=
 
   # this renders the results within the page instead of sending to user to search.gov
   inline: true
 
   # how many results to display per pages
   limit: 20
-
 ##########################################################################################
 # The values below here are more advanced and should only be
 # changed if you know what they do
@@ -141,6 +153,10 @@ defaults:
       layout: "page"
       sidenav: true
       featured: false
+  - scope:
+      path: "admin/"
+    values:
+      sitemap: false
 
 languages: ["en"]
 default_lang: "en"
@@ -166,6 +182,8 @@ exclude:
   - /tests
   - /test-results
   - /playwright-report
+  - /mock_data
+  - make_redirects.rb
 
 assets:
   autoprefixer:

@@ -5,7 +5,6 @@ lead: |-
   The Americans with Disabilities Act (ADA) is a federal civil rights law that prohibits discrimination against people with disabilities in everyday activities. The ADA prohibits discrimination on the basis of disability just as other civil rights laws prohibit discrimination on the basis of race, color, sex, national origin, age, and religion. The ADA guarantees that people with disabilities have the same opportunities as everyone else to enjoy employment opportunities, purchase goods and services, and participate in state and local government programs.
 print: true
 featured: true
-weight: 20
 card:
   title: Introduction to the ADA
   title_alt: the ADA
@@ -14,6 +13,8 @@ card:
   image: landing/intro_ada.jpg
   alt: A teacher and a student sitting at a table signing to one another
   href: /topics/intro-to-ada/
+redirect_from:
+  - /ada_intro.htm
 ---
 
 ## The ADA Protects People with Disabilities
@@ -119,9 +120,9 @@ The ADA applies to state and local governments even if:
 
 **General requirement:** State and local governments must provide people with disabilities an equal opportunity to benefit from all of their programs, services, and activities.
 
-The ADA contains specific requirements for state and local governments to ensure equal access for people with disabilities. Learn about these requirements in the [State and Local Government Primer](https://www.ada.gov/regs2010/titleII_2010/title_ii_primer.html).
+The ADA contains specific requirements for state and local governments to ensure equal access for people with disabilities. Learn about these requirements in the [State and Local Government Primer]({{'/resources/title-ii-primer/' | relative_url}}).
 
-**How to file a complaint:** [File a complaint with the U.S. Department of Justice](https://www.ada.gov/filing_complaint.htm).
+**How to file a complaint:** [File a complaint with the U.S. Department of Justice]( {{'/file-a-complaint/'| relative_url}}).
 {% endcollapsible %}
 
 {% collapsible %}
@@ -136,7 +137,7 @@ The ADA contains specific requirements for state and local governments to ensure
 
 **Note:** Private transit systems are also covered by the ADA. For more information, see the section <a href="#businesses-that-are-open-to-the-public">Businesses that are open to the public</a> below.
 
-**How to file a complaint:** [File a complaint with the U.S. Department of Justice](https://www.ada.gov/filing_complaint.htm) or [with the Federal Transit Administration](https://www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/file-complaint-fta).
+**How to file a complaint:** [File a complaint with the U.S. Department of Justice]( {{'/file-a-complaint/'| relative_url}}) or [with the Federal Transit Administration](https://www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/file-complaint-fta).
 {% endcollapsible %}
 
 {% collapsible %}
@@ -147,7 +148,7 @@ The ADA contains specific requirements for state and local governments to ensure
 
 **Applies to:**
 
-- Businesses and nonprofits serving the public.  
+- Businesses and nonprofits serving the public.
   Examples of businesses and nonprofits include:
 
   - Restaurants
@@ -160,7 +161,7 @@ The ADA contains specific requirements for state and local governments to ensure
   - Gyms
   - Organizations offering courses or examinations
 
-- Privately operated transit.  
+- Privately operated transit.
   Examples of privately operated transit include:
 
   - Taxis
@@ -168,7 +169,7 @@ The ADA contains specific requirements for state and local governments to ensure
   - Hotel shuttles
   - Airport shuttles
 
-- Commercial facilities (need only comply with requirements of the [ADA Standards for Accessible Design](https://www.ada.gov/2010ADAstandards_index.htm)).  
+- Commercial facilities (need only comply with requirements of the [ADA Standards for Accessible Design]( {{'/law-and-regs/design-standards/2010-stds' | relative_url}}).
   Examples of commercial facilities include:
   - Office buildings
   - Warehouses
@@ -176,9 +177,9 @@ The ADA contains specific requirements for state and local governments to ensure
 
 **General requirement:** Businesses must provide people with disabilities an equal opportunity to access the goods or services that they offer.
 
-The ADA contains specific requirements for businesses that are open to the public. Learn more about these requirements: [ADA Primer for Small Businesses](https://www.ada.gov/regs2010/smallbusiness/smallbusprimer2010.htm).
+The ADA contains specific requirements for businesses that are open to the public. Learn more about these requirements: [ADA Primer for Small Businesses]({{'/resources/title-iii-primer' | relative_url}}).
 
-**How to file a complaint:** [File a complaint with the U.S. Department of Justice](https://www.ada.gov/filing_complaint.htm).
+**How to file a complaint:** [File a complaint with the U.S. Department of Justice]( {{'/file-a-complaint/'| relative_url}}).
 {% endcollapsible %}
 
 {% collapsible %}
@@ -230,5 +231,5 @@ Many federal agencies are responsible for enforcing the ADA and other laws that 
 
 Learn more about these agencies and the laws that they implement:
 
-- [ADA Designated Investigative Services](https://www.ada.gov/investag.htm)
-- [A Guide to Federal Disability Rights Laws](https://www.ada.gov/cguide.htm)
+- [ADA Designated Investigative Services](https://archive.ada.gov/investag.htm)
+- [A Guide to Federal Disability Rights Laws]( {{'/resources/disability-rights-guide/'| relative_url}})

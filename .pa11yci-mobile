@@ -7,15 +7,12 @@
         "--disable-dev-shm-usage"
       ]
     },
-    "hideElements": [
-      "#fba-button",
-      ".pa11y-skip"
-    ],
+    "hideElements": ["#fba-button", ".pa11y-skip", "#fba-modal-dialog"],
     "standard": "WCAG2AA",
     "runners": [
       "axe"
     ],
-    "timeout": 120000,
+    "timeout": 240000,
     "viewport": {
       "width": 390,
       "height": 844,

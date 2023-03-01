@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="crt-page grid-container">
+<div class="crt-page grid-container {% if page.compact %}compact{% endif %}">
   {% include breadcrumbs.html %}
   <div class="grid-row grid-gap-xl">
     {% if page.sidenav %}
@@ -10,7 +10,18 @@ layout: default
       {% if page.title =='View Guidance & Resource Materials' %}
         {% include ta-left-rail.html %}
       {% else %}
-      {% include sidenav.html %}
+      <div class="usa-accordion margin-bottom-2">
+        <h4 class="usa-accordion__heading desktop:display-none">
+          <button
+            class="usa-accordion__button pa11y-skip"
+            aria-expanded="false"
+            aria-controls="toc"
+          >
+            {{site.data[lang]["i18n"].links.toc}}
+          </button>
+        </h4>
+      {% include sidenav.html collection=page.subnav %}
+      </div>
       {% endif %}
       {% if page.print %}
         {% include print-button.html %}
@@ -24,9 +35,13 @@ layout: default
       id="crt-page--content"
       class="mobile-lg:grid-col {% if page.sidenav %}tablet:grid-col-12 desktop:grid-col-8{% endif %}"
     >
-      {% if page.disclaimer %} {% include alert.html title="This is a test site. Do not rely on the
-      information provided." text="This webpage is a prototype meant for user research. It has not
-      undergone final review for legal accuracy and is not intended to provide legal guidance." %}
+      {% if page.common-alert %}
+        {% include common-alert.html redirect=page.common-alert.redirect type=page.common-alert.type text=page.common-alert.text %}
+      {% endif %}
+      {% if page.disclaimer %}
+        {% include common-alert.html type="warning" title="This is a test site. Do not rely on the
+        information provided." text="This webpage is a prototype meant for user research. It has not
+        undergone final review for legal accuracy and is not intended to provide legal guidance." %}
       {% endif %}
       {% if page.ref!=nil %} {% include toggle-language.html %} {% endif %}
       <h1 id="top">{{page.title}}</h1>

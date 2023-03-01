@@ -4,8 +4,8 @@
 $arrow-height: 24px;
 
 .crt-landing--section:not(.crt-landing--hero) {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
 
   @include at-media-max(mobile-lg) {
     &.crt-landing--alert {
@@ -21,7 +21,7 @@ $arrow-height: 24px;
   }
 
   h2 {
-    margin-top: 1.5rem;
+    margin-top: 0.5rem;
     margin-bottom: 0;
 
     @include at-media-max(mobile-lg) {
@@ -43,12 +43,12 @@ $arrow-height: 24px;
 .crt-landing--hero {
   padding-top: 0;
 
-  @include at-media(tablet) {
+  @include at-media(desktop) {
     background-image: url($theme-hero-image);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 400px;
-    background-position: bottom;
+    background-position: center;
   }
 
   @include at-media(widescreen) {
@@ -77,6 +77,10 @@ $arrow-height: 24px;
   }
 }
 
+.crt-landing--goldtext {
+  color: color($theme-color-warning);
+}
+
 .crt-landing--lead {
   @include text--heading__large();
   margin-top: 1rem;
@@ -99,7 +103,9 @@ $arrow-height: 24px;
   @include text--body-copy__small();
 }
 
-.crt-landing--how_to_report {
+.crt-landing--how_to_report,
+.crt-landing--whats_on_ada,
+.crt-landing--service_animals {
   .crt-landing--largetext {
     @include at-media-max(mobile-lg) {
       font-size: $theme-heading-font-size-lg-mobile;
@@ -170,3 +176,23 @@ $arrow-height: 24px;
   border-right: 50px solid transparent;
   border-top: $arrow-height solid color($theme-color-primary-darker);
 }
+
+.crt-landing--whats_on_ada {
+  a:focus, a:hover, a:visited {
+    color: white;
+    font-weight: bolder;
+  }
+}
+
+.crt-landing--paragraph-wrapper {
+
+  @media(max-width: 1023px) {
+    max-width: none;
+  }
+
+  @media(min-width: 1024px) {
+    max-width: 45ex;
+  }
+
+}
+

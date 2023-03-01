@@ -29,8 +29,9 @@
       font-weight: normal;
       text-decoration: none;
       border-bottom: 1px solid;
-      &:hover {
-        color: color($theme-color-base-light);
+      &:focus, &:hover, &:visited {
+        color: white;
+        font-weight: bolder;
       }
     }
 }
@@ -119,5 +120,9 @@
   }
   .usa-nav__secondary {
     bottom: 0.75rem;
+
+    @media (min-width: 1024px) and (max-width: 1100px) {
+      min-width: 15rem;
+    }
   }
 }

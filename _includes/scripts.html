@@ -1,11 +1,13 @@
+{% if jekyll.environment=="production" %}
 <!-- Digital Analytics Program roll-up, see https://analytics.usa.gov for data -->
 {% if site.dap.agency %}
 <script
   id="_fed_an_ua_tag"
   src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency={{site.dap.agency}}{% if site.dap.subagency %}&subagency={{site.dap.subagency}}{% endif %}"
 ></script>
-{% endif %} {% if site.ga.ua and jekyll.environment=="production" %}
+{% endif %}
 <!-- Google Analytics -->
+{% if site.ga.ua %}
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga.ua }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -13,21 +15,32 @@
     dataLayer.push(arguments);
   }
   gtag('js', new Date());
-
-  /**
-   * `forceSSL` was used for analytics.js (the older Google Analytics script).
-   * It isn't documented for gtag.js, but the term occurs in the gtag.js code;
-   * figure it doesn't hurt to leave it in. -@afeld, 5/29/19
-   */
-  gtag('config', '{{ site.ga.ua }}', { anonymize_ip: true, forceSSL: true });
+  gtag('config', '{{ site.ga.ua }}');
 </script>
 {% endif %}
+{% endif %}
+
 {% asset vendor/uswds/uswds.min.js !type %}
 {% asset dist/main-compiled.js !type %}
 {% asset dist/accordion-compiled.js !type %}
-{% if page.title == 'Search' %} {% asset dist/pagination-compiled.js !type %} {% endif %}
+
+{% if page.title == 'Search' %}
+{% asset dist/pagination-compiled.js !type %}
+{% asset dist/clickTracking-compiled.js %}
+{% endif %}
+
 {% if page.title == 'Give Us Feedback' %}
 <script src="https://touchpoints.app.cloud.gov/touchpoints/73c5715c.js" async></script>
 {% endif %}
+
 {% if page.title == 'View Guidance & Resource Materials'%}
-{% asset dist/taResources-compiled.js %} {% endif %}
+{% asset dist/taResources-compiled.js %}
+{% endif %}
+
+{% if page.title == 'Page not found' %}
+{% asset dist/redirect404-compiled.js %}
+{% endif %}
+
+{% unless page.back-to-top == nil or page.back-to-top == false %}
+{% asset dist/backToTop-compiled.js %}
+{% endunless %}

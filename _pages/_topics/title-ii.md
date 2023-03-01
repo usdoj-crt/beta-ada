@@ -2,7 +2,7 @@
 title: State and Local Governments
 description: If you are part of a state/local government program or a person with a disability, there are many aspects of the ADA that you should be familiar with.
 lead: |-
-  The ADA is meant to ensure that people with disabilities can fully participate in all aspects of civic life. Under Title II, all state/local governments must follow the ADA regardless of their size.  
+  The ADA is meant to ensure that people with disabilities can fully participate in all aspects of civic life. Under Title II, all state/local governments must follow the ADA regardless of their size.
 
   If you are part of a state/local government program or a person with a disability, there are many aspects of the ADA that you should be familiar with. The information below is intended to help get you started.
 print: true
@@ -13,6 +13,12 @@ card:
   image: landing/title-ii.gif
   alt: "An aerial view of a city; includes city hall, streets, sidewalks, cars, and other government and non-government buildings"
   href: /topics/title-ii/
+tags:
+  - title ii
+related-content: true
+redirect_from:
+  - /ada_title_ii.htm
+  - /ada_title_II.htm
 ---
 
 ## Title II Applies to State/Local Programs
@@ -50,7 +56,7 @@ The ADA also includes specific requirements for state/local governments. For exa
 
 You can find examples of these requirements and how they look in practice in the tables below.
 
-You can also learn about these and other requirements in the [State and Local Government Primer](https://www.ada.gov/regs2010/titleII_2010/title_ii_primer.html).
+You can also learn about these and other requirements in the [State and Local Government Primer]({{'/resources/title-ii-primer/' | relative_url}}).
 
 ## Making Reasonable Modifications
 
@@ -70,7 +76,7 @@ State/local governments need to make <em>reasonable modifications</em> when nece
 </tr>
 <tr>
 <th scope="row">A person with a service dog tries to enter a public library that has a “no pets” rule.</th>
-<td>The city makes an exception to its “no pets” in public libraries and other city buildings to allow people with disabilities to use their service dogs.  
+<td>The city makes an exception to its “no pets” in public libraries and other city buildings to allow people with disabilities to use their service dogs.
 
 <p>Learn more about <a href="/topics/service-animals/">service animals</a>.</p></td>
 </tr>
@@ -144,7 +150,7 @@ An undue burden means a significant difficulty or expense. Whether something is 
 
 If a request or action would cause an undue burden, the state/local government must look for an alternative to ensure that individuals with disabilities receive the benefits or services provided by the state/local government.
 
-Learn more about program access and the limitations on this requirement in the [State and Local Government Primer](https://www.ada.gov/regs2010/titleII_2010/title_ii_primer.html).
+Learn more about program access and the limitations on this requirement in the [State and Local Government Primer]({{'/resources/title-ii-primer/' | relative_url}}).
 
 ## Ticket Sales and Testing Accommodations
 
@@ -159,7 +165,7 @@ Learn more about program access and the limitations on this requirement in the [
 <tr>
 <th scope="row">An older adult with a learning disability is enrolled in a community college and requests additional time to take the placement test.</th>
 <td>The community college grants the applicant extended time to take the exam.
-<p>Learn more about providing <a href="https://www.ada.gov/regs2014/testing_accommodations.html">testing accommodations</a>.</p></td>
+<p>Learn more about providing <a href="https://archive.ada.gov/regs2014/testing_accommodations.html">testing accommodations</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -175,71 +181,73 @@ Learn more about program access and the limitations on this requirement in the [
 <tr>
 <th scope="row">A wheelchair user tries to buy accessible seating to a state university college football game and is directed to call the box office because accessible seating is not available for purchase online.</th>
 <td>The university makes accessible seating available for purchase online.
-<p>Learn more about requirements for <a href="https://www.ada.gov/ticketing_2010.htm">ticket sales</a>.</p></td>
+<p>Learn more about requirements for <a href="https://archive.ada.gov/ticketing_2010.htm">ticket sales</a>.</p></td>
 </tr>
 </tbody>
-</table>  
+</table>
 
 {% include expand-accordions-wrapper.html expand-heading='New Construction and Alterations' %}
 
-When state/local governments build or alter facilities, they must make them accessible to people with disabilities. To make them accessible, state/local governments need to follow the ADA Standards for Accessible Design. The information below is intended to help get you started.  
+When state/local governments build or alter facilities, they must make them accessible to people with disabilities. To make them accessible, state/local governments need to follow the ADA Standards for Accessible Design. The information below is intended to help get you started.
 
-### ADA Standards Basics  
+### ADA Standards Basics
 
 {% details Chapter 1: Application and Administration expandable %}
 [Contains important information, including definitions for key terms used in the
-Standards](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#c1).
+Standards]({{'/law-and-regs/design-standards/2010-stds/#chapter-1-application-and-administration' | relative_url}}).
 {% enddetails %}
 {% details Chapter 2: Scoping expandable %}
 [Explains which elements and how many of them must be accessible. Scoping covers
-newly built facilities and altered portions of older facilities](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#c2)
+newly built facilities and altered portions of older facilities]({{'/law-and-regs/design-standards/2010-stds/#chapter-2-scoping-requirements' | relative_url}})
 {% enddetails %}
 {% details Chapters 3 – 10: Design and Technical Requirements expandable %}
 [Provides design and technical requirements for elements, spaces, buildings, and
-facilities](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#c3)
+facilities]({{'/law-and-regs/design-standards/2010-stds/#chapter-3-building-blocks' | relative_url}})
 {% enddetails %}
 
 ### Common Topics
 
 {% details Accessible Route expandable %}
-[Section 206](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010125) and [Chapter 4](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#c4)
+[Section 206]({{'/law-and-regs/design-standards/2010-stds#206-accessible-routes' | relative_url}}) and [Chapter 4]({{'/law-and-regs/design-standards/2010-stds#chapter-4-accessible-routes' | relative_url}})
 {% enddetails %}
 
 {% details Parking Spaces expandable %}
-[Section 208](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010282) and [502](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1006250)
+[Section 208]({{'/law-and-regs/design-standards/2010-stds#208-parking-spaces' | relative_url}}) and [502]({{'/law-and-regs/design-standards/2010-stds#502-parking-spaces' | relative_url}})
 <p>Also see:</p>
-- [Section 209.4 (Valet Parking)](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010369)
-- [Section 216 (Signs)](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010471)
-  - [216.5 exception #1](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010471) (Limited parking)
+
+- [Section 209.4 (Valet Parking)]({{'/law-and-regs/design-standards/2010-stds#209-passenger-loading-zones-and-bus-stops' | relative_url}})
+- [Section 216 (Signs)]({{'/law-and-regs/design-standards/2010-stds#216-signs' | relative_url}})
+  - [216.5 exception #1 (Limited parking)]({{'/law-and-regs/design-standards/2010-stds#216-signs' | relative_url}})
 {% enddetails %}
 
 {% details Sales and Service expandable %}
-[Section 227](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1011009) and [904](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#marker-1006947)
+[Section 227]({{'/law-and-regs/design-standards/2010-stds#227-sales-and-service' | relative_url}}) and [904]({{'/law-and-regs/design-standards/2010-stds#check-out-aisles-and-sales-and-service-counters' | relative_url}})
 <p>Note: Sections cover sales and service areas, such as check-out aisles and sales and service counters.</p>
 {% enddetails %}
 
 {% details Dining Surfaces expandable %}
-[Section 226](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1011000) and [902](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1006229)  
+[Section 226]({{'/law-and-regs/design-standards/2010-stds#226-dining-surfaces-and-work-surfaces' | relative_url}}) and [902]({{'/law-and-regs/design-standards/2010-stds#902-dining-surfaces-and-work-surfaces' | relative_url}})
 <p>Also see:</p>
-- [Section 206.2.5 (Restaurants and Cafeterias)](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010125)
-- [Section 226.2 (Dispersion, applies to dinning surfaces)](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1011000)
+
+- [Section 206.2.5 (Restaurants and Cafeterias)]({{'/law-and-regs/design-standards/2010-stds#206-accessible-routes' | relative_url}})
+- [Section 226.2 (Dispersion, applies to dinning surfaces)]({{'/law-and-regs/design-standards/2010-stds#226-dining-surfaces-and-work-surfaces' | relative_url}})
 {% enddetails %}
 
 {% details Dressing, Fitting and Locker Rooms expandable %}
-[Sections 222](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010754) and [803](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#marker-1008681)
+([Sections 222]({{'/law-and-regs/design-standards/2010-stds#222-dressing-fitting-and-locker-rooms' | relative_url}})) and ([803]({{'/law-and-regs/design-standards/2010-stds#803-dressing-fitting-and-locker-rooms' | relative_url}}))
 {% enddetails %}
 
 {% details Door, Doorways and Gates expandable %}
-[Section 404](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1006675)
+([Section 404]({{'/law-and-regs/design-standards/2010-stds#404-doors-doorways-and-gates' | relative_url}}))
 {% enddetails %}
 
 {% details Ramps expandable %}
-[Section 405](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1006877)
+([Section 405]({{'/law-and-regs/design-standards/2010-stds#405-ramps' | relative_url}}))
 {% enddetails %}
 
 {% details Curb Ramps expandable %}
-[Section 406](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#marker-1012120)
+([Section 406]({{'/law-and-regs/design-standards/2010-stds#406-curb-ramps' | relative_url}}))
 {% enddetails %}
 
 ### Learn more about these and other requirements
-[State and Local Government Primer](https://www.ada.gov/regs2010/titleII_2010/title_ii_primer.html)
+[State and Local Government Primer]({{ '/resources/title-ii-primer/' | relative_url }})

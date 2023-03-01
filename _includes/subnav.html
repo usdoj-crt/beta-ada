@@ -1,0 +1,28 @@
+<ul class="usa-sidenav__sublist">
+  {% if page.subnavigation == true %} {% for item in include.collection %}
+  {% if include.level == 0 and item.children.size > 0 %}
+  <li class="usa-accordion">
+  <button
+      type="button"
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="{{item.id}}"
+    >
+    {{ item.title }}
+    </button>
+    <div id="{{item.id}}" class="usa-accordion__content">
+      {% if item.children.size > 0 %} {% assign next_level = include.level | plus: 1 %} {% include subnav.html collection=item.children level=next_level %}
+  {% endif %}
+    </div>
+  </li>
+  {% else %}
+  <li class="usa-sidenav__item">
+    <a class="crt-sidenav-subnav-item" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+  </li>
+  {% endif %}
+  {% endfor %} {% else %} {% for item in include.collection %}
+  <li class="usa-sidenav__item">
+    <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+  </li>
+  {% endfor %} {% endif %}
+</ul>

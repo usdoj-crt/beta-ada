@@ -45,7 +45,7 @@ Existen tres opciones para la presentación de una queja:
 
 <li>
 <h3 class="margin-left-1">2. Por correo ordinario</h3>
-<span>Rellene y envíe la versión impresa del <a class="pa11y-skip" href="https://www.ada.gov/CRT-ReportPDF-Sep2021.pdf">Formulario de quejas al amparo de la ADA (en inglés)</a> or o una carta que contiene la misma información, a:</span>
+<span>Rellene y envíe la versión impresa del <a class="pa11y-skip" href="https://archive.ada.gov/CRT-ReportPDF-Sep2021.pdf">Formulario de quejas al amparo de la ADA (en inglés)</a> or o una carta que contiene la misma información, a:</span>
 U.S. Department of Justice<br/>
 Civil Rights Division<br/>
 950 Pennsylvania Avenue, NW<br/>
@@ -54,7 +54,7 @@ Washington, DC 20530
 
 <li>
 <h3 class="margin-left-1">3. Por fax</h3>
-<span>Rellene y envíe la versión impresa del <a class="pa11y-skip" href="https://www.ada.gov/CRT-ReportPDF-Sep2021.pdf">Formulario de quejas al amparo de la ADA (en inglés)</a> or o una carta que contiene la misma información, envíelo a (202) 307-1197. <br/><br/>Recuerde que debe guardar una copia de su queja y los documentos originales entre sus registros.</span>
+<span>Rellene y envíe la versión impresa del <a class="pa11y-skip" href="https://archive.ada.gov/CRT-ReportPDF-Sep2021.pdf">Formulario de quejas al amparo de la ADA (en inglés)</a> or o una carta que contiene la misma información, envíelo a (202) 307-1197. <br/><br/>Recuerde que debe guardar una copia de su queja y los documentos originales entre sus registros.</span>
 </li>
 </ol>
 </div>
@@ -77,7 +77,7 @@ Por desgracia, nos podemos investigar cada queja. Nosotros le avisaremos si no p
 
 Nosotros recibimos muchas quejas en virtud de la ADA de personas por todo Estados Unidos. Por lo tanto, nuestra revisión puede tardar hasta tres meses.
 
-Si, acabado este período de tres meses y todavía no nos hemos comunicado con usted, puede llamar a [la línea informativa de la ADA]( {{'/infoline/' | relative_url}}) para comprobar el estado de su queja. Puede comunicarse con la línea informativa al 1-800-514-0301 (voz) o 1800-514-0383 (TTY).
+Si, acabado este período de tres meses y todavía no nos hemos comunicado con usted, puede llamar a [la línea informativa de la ADA]( {{'/infoline/' | relative_url}}) para comprobar el estado de su queja. Puede comunicarse con la línea informativa al {{site.contact.tollfree}} (voz) o {{site.contact.tty}} (TTY).
 
 Incluso si no tomamos ninguna medida formal, su queja nos provee con información importante, nos ayuda a identificar problemas que afectan a múltiples personas o grupos y nos ayuda a entender tendencias y temas emergentes.
 

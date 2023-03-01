@@ -16,6 +16,9 @@ card:
   alt: A man in a wheelchair approaching a vehicle with his hand on the door handle
   position: top
   href: /topics/parking/
+tags:
+  - parking
+related-content: true
 ---
 
 ## Features
@@ -97,7 +100,7 @@ Have a sign with the international symbol of accessibility on it, mounted at lea
 
 The number of accessible parking spaces must be considered separately for each parking structure (lot or garage), not based on the total number of parking spaces provided on a site.
 
-The chart below shows the number of accessible spaces required by the [2010 ADA Standards for Accessible Design](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#pgfId-1010282).
+The chart below shows the number of accessible spaces required by the [2010 ADA Standards for Accessible Design]({{'/law-and-regs/design-standards/2010-stds#parking-spaces' | relative_url}}).
 
 <table class="usa-table">
   <thead>
@@ -195,6 +198,6 @@ Where parking spaces are limited to four or fewer spaces:
 
 You might find the links below helpful:
 
-- [ADA Update: Primer for Small Businesses](https://www.ada.gov/regs2010/smallbusiness/smallbusprimer2010.htm)
-- [ADA Update: A Primer for State and Local Governments](https://www.ada.gov/regs2010/titleII_2010/title_ii_primer.html)
-- [ADA Compliance Brief: Restriping Parking Spaces](https://www.ada.gov/restriping_parking/restriping2015.html)
+- [ADA Update: Primer for Small Businesses]({{'/resources/title-iii-primer/' | relative_url}})
+- [ADA Update: A Primer for State and Local Governments]({{'/resources/title-ii-primer/' | relative_url}})
+- [ADA Compliance Brief: Restriping Parking Spaces]( {{'/resources/restriping-parking-spaces/'| relative_url}})

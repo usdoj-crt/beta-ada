@@ -1,0 +1,520 @@
+# CMS Configuration
+# Backend is a required field.
+backend:
+  # Specifies which git service will be used for the backend.
+  # Federalist requires Github. Users must have write permissions to the Github repo.
+  name: github
+  # Our code repository:
+  repo: usdoj-crt/beta-ada
+  # Base URL - OAuth client hostname
+  base_url: https://pages.cloud.gov
+  # Auth Endpoint: Path to append to base_url for authentication requests.
+  auth_endpoint: external/auth/github
+  # Preview Context: Deploy preview links provide a way to view live content when it has not been published.
+  preview_context: federalist/build
+  # Branch - the branch in the repository to fetch content from and push published changes to.
+  branch: main
+  # Pull (or Merge) Requests label prefix when using editorial workflow.
+  cms_label_prefix: netlify-cms/
+
+# Publish mode: Editorial workflow provides more control over the publishing process. All unpublished entries will be arranged in a board according to their status, and they can be further reviewed and edited before going live.
+# Optional field.
+publish_mode: editorial_workflow
+
+# Media Folder: The media_folder option specifies the folder path where uploaded files should be saved, relative to the base of the repo.
+# Required.
+media_folder: _assets/images
+public_folder: .
+# Search: since site search is already managed by Federalist, we are going to set this value to false. It defaults to true.
+search: false
+
+# Slug type: The slug option allows you to change how filenames for entries are created and sanitized. It also applies to filenames of media inserted via the default media library.
+slug:
+  # Sanitize filenames (slugs) according to RFC3986. The only allowed characters are (0-9, a-z, A-Z, _, -, ~).
+  encoding: ascii
+  # Set to true to remove diacritics from slug characters before sanitizing. This is often helpful when using ascii encoding.
+  clean_accents: true
+  # The replacement string used to substitute unsafe characters, defaults to -.
+  sanitize_replacement: "-"
+
+collections:
+  # Site settings:
+
+  # Pages:
+  - label: Pages
+    name: pages
+    files:
+    # 404 error page:
+      - label: "404"
+        name: "404"
+        file: _pages/404.md
+        fields:
+          - label: Permalink
+            name: permalink
+            widget: string
+          - label: Title
+            name: title
+            widget: string
+          - label: Sitemap
+            name: sitemap
+            widget: boolean
+          - label: Enable Sidenav
+            name: sidenav
+            widget: boolean
+          - label: Body
+            name: body
+            widget: markdown
+    # File a complaint page:
+      - label: File a Complaint
+        name: file-a-complaint
+        file: _pages/file-a-complaint.md
+        fields:
+          - label: Title
+            name: title
+            widget: string
+          - label: Description
+            name: description
+            widget: text
+          - label: Permalink
+            name: permalink
+            widget: string
+          - label: Lead text
+            name: lead
+            widget: text
+          - label: Language
+            name: lang
+            widget: string
+            default: 'en'
+          - label: Translation Reference
+            name: ref
+            widget: string
+            required: false
+          - label: Body Content
+            name: body
+            widget: markdown
+      # Index page:
+      - label: Index
+        name: index
+        file: _pages/index.md
+        fields:
+          - label: Permalink
+            name: permalink
+            widget: string
+          - label: Page Layout
+            name: layout
+            widget: hidden
+            default: default
+          - label: Title
+            name: title
+            widget: string
+          - label: Description
+            name: description
+            widget: text
+          # Alert component data
+          - label: Alert
+            name: alert
+            widget: object
+            collapsed: true
+            fields:
+              - label: Content
+                name: content
+                widget: text
+              - label: Heading
+                name: heading
+                widget: string
+              - label: Link
+                name: link
+                widget: object
+                fields:
+                  - label: Href
+                    name: href
+                    widget: string
+                  - label: Link Text
+                    name: text
+                    widget: string
+          # Hero component data
+          - label: Hero
+            name: hero
+            widget: object
+            fields:
+              - label: Alt
+                name: alt
+                widget: object
+                fields:
+                  - label: Desktop
+                    name: desktop
+                    widget: text
+                  - label: Mobile
+                    name: mobile
+                    widget: text
+              - label: Content
+                name: content
+                widget: text
+              - label: Heading
+                name: heading
+                widget: text
+          # Understand section data
+          - label: Understand
+            name: understand
+            widget: object
+            fields:
+              - label: Heading
+                name: heading
+                widget: string
+              - label: Lead Text
+                name: lead
+                widget: text
+              - label: Content
+                name: content
+                widget: text
+          # History section data
+          - label: History
+            name: history
+            widget: object
+            fields:
+              - label: Content
+                name: content
+                widget: text
+              - label: Heading
+                name: heading
+                widget: string
+              - label: Lead Text
+                name: lead
+                widget: text
+              - label: First Paragraph
+                name: paragraph1
+                widget: text
+              - label: Second Paragraph
+                name: paragraph2
+                widget: text
+                required: false
+          # News section data
+          - label: News
+            name: news
+            widget: object
+            fields:
+              - label: Heading
+                name: heading
+                widget: string
+              - label: Lead Text
+                name: lead
+                widget: text
+          # Report section data
+          - label: Report
+            name: report
+            widget: object
+            fields:
+              - label: Heading
+                name: heading
+                widget: string
+              - label: Lead Text
+                name: lead
+                widget: text
+              - label: Steps
+                name: steps
+                widget: list
+                fields:
+                  - label: Heading
+                    name: heading
+                    widget: string
+                  - label: Content
+                    name: content
+                    widget: string
+              - label: Subheading
+                name: subheading
+                widget: text
+              - label: Link
+                name: link
+                widget: object
+                fields:
+                  - label: Text
+                    name: text
+                    widget: string
+          # Index page markdown content
+          - label: Body Content
+            name: body
+            widget: markdown
+      # Infoline page:
+      - label: Infoline
+        name: infoline
+        file: _pages/infoline.md
+        fields:
+          - label: Title
+            name: title
+            widget: string
+          - label: Desciption
+            name: description
+            widget: text
+          - label: Permalink
+            name: permalink
+            widget: string
+          - label: Lead Text
+            name: lead
+            widget: text
+          - label: Body Content
+            name: body
+            widget: markdown
+      # Topics page:
+      - label: Topics
+        name: topics
+        file: _pages/topics.md
+        fields:
+        - label: Permalink
+          name: permalink
+          widget: string
+        - label: Title
+          name: title
+          widget: string
+        - label: Layout
+          name: layout
+          default: full
+          widget: hidden
+        - label: Lead Text
+          name: lead
+          widget: text
+        - label: Body Content
+          name: body
+          widget:  markdown
+      # Resources page:
+      - label: Resources
+        name: Resources
+        file: _pages/resources.md
+        fields:
+        - label: Permalink
+          name: permalink
+          widget: string
+        - label: Title
+          name: title
+          widget: string
+        - label: Lead Text
+          name: lead
+          widget: text
+        - label: Body Content
+          name: body
+          widget:  markdown
+    # Subpages which share the same information structure can be edited in folder collections
+    # Topic pages:
+  - label: Topics
+    name: topics
+    folder: _pages/_topics
+    create: true
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Description
+        name: description
+        widget: text
+      - label: Short Title
+        name: short title
+        widget: string
+      - label: Lead Text
+        name: lead
+        widget: text
+      - label: Featured
+        name: featured
+        widget: boolean
+        required: false
+      - label: Print
+        name: print
+        widget: boolean
+        required: false
+      - label: Related Content
+        name: related-content
+        widget: boolean
+        required: false
+      - label: Tags
+        name: tags
+        widget: select
+        options: ["artificial intelligence","design standards","effective communication" , "employment","parking","service animals","title ii","title iii","web access"]
+        multiple: true
+        min: 0
+        required: false
+      - label: Card
+        name: card
+        widget: object
+        collapsed: false
+        fields:
+          - label: Title
+            name: title
+            widget: string
+          - label: Title Alt
+            name: title alt
+            widget: string
+          - label: Description
+            name: description
+            widget: text
+          - label: Image
+            name: image
+            widget: image
+          - label: Alt
+            name: alt
+            widget: string
+          - label: Position
+            name: position
+            widget: string
+          - label: Href
+            name: href
+            widget: string
+      - label: Body Content
+        name: body
+        widget: markdown
+  # Resources pages:
+  - label: Resources
+    name: resources
+    folder: _pages/_resources
+    create: true
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Description
+        name: description
+        widget: text
+      - label: Lead Text
+        name: lead
+        widget: text
+      - label: Permalink
+        name: permalink
+        widget: string
+      - label: Redirect from
+        name: redirect_from
+        widget: select
+        multiple: true
+        options: ["/ai-guidance/", "/web-guidance/"]
+        min: 0
+        required: false
+      - label: Language
+        name: lang
+        widget: select
+        multiple: false
+        default: "en"
+        options: ["en", "es"]
+      - label: Print
+        name: print
+        widget: boolean
+        required: false
+      - label: Publish Date
+        name: publish-date
+        widget: datetime
+        default: ""
+        date_format: "YYYY-MM-DD" # e.g. 24.12.2021
+        time_format: "hh:mm:ss" # e.g. 21:07
+        format: "LLL"
+        picker_utc: false
+        required: false
+      - label: Updated On Date
+        name: updated-date
+        widget: datetime
+        default: ""
+        date_format: "YYYY-MM-DD" # e.g. 24.12.2021
+        time_format: "hh:mm:ss" # e.g. 21:07
+        format: "LLL"
+        picker_utc: false
+        required: false
+      - label: News Item
+        name: news-item
+        widget: boolean
+        required: false
+      - label: Sidenav PDF
+        name: sidenav-pdf
+        widget: object
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            required: false
+          - label: Filename
+            name: filename
+            widget: string
+            required: false
+        required: false
+      - label: Related Content
+        name: related-content
+        widget: boolean
+        default: false
+        required: false
+      - label: Tags
+        name: tags
+        widget: select
+        options: ["artificial intelligence","design standards","effective communication" , "employment","parking","service animals","title ii","title iii","web access"]
+        multiple: true
+        min: 0
+        required: false
+      - label: Body Content
+        name: body
+        widget: markdown
+    # Laws and regulations pages
+  - label: Law and Regs
+    name: law-and-regs
+    folder: _pages/law-and-regs
+    create: true
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Lead Text
+        name: lead
+        widget: text
+      - label: Permalink
+        name: permalink
+        widget: string
+      - label: Sidenav
+        name: sidenav
+        widget: boolean
+      - label: Body Content
+        name: body
+        widget: markdown
+      - label: Related Content
+        name: related-content
+        widget: boolean
+        default: false
+        required: false
+      - label: Tags
+        name: tags
+        widget: select
+        options: ["artificial intelligence","design standards","effective communication" , "employment","parking","service animals","title ii","title iii","web access"]
+        multiple: true
+        min: 0
+        required: false
+    # Posts under the Notices pages
+  - label: Notices
+    name: notices-posts
+    folder: notices/_posts
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Body Content
+        name: body
+        widget: markdown
+  # Spanish Translations
+  - label: Español
+    name: es
+    folder: _pages/es/
+    create: true
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Description
+        name: description
+        widget: text
+      - label: Permalink
+        name: permalink
+        widget: string
+      - label: Lead Text
+        name: lead
+        widget: text
+      - label: Language
+        name: lang
+        default: 'es'
+        widget: string
+      - label: Translation Reference
+        name: Reference
+        widget: string
+      - label: Body Content
+        name: body
+        widget: markdown

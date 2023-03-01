@@ -10,7 +10,7 @@ alert:
   heading: |-
     Help us improve ADA.gov
   link:
-    href: https://beta.ada.gov/feedback/
+    href: https://ada.gov/feedback/
     text: Share feedback
 
 hero:
@@ -52,9 +52,88 @@ history:
     with disabilities.
 
 news:
-  heading: New on beta.ADA.gov
+  heading: New on ADA.gov
   lead: |-
-    Explore the new content we've added to beta.ADA.gov
+    Explore the new content we've added to ADA.gov
+
+learn:
+  heading: What's on ADA.gov
+  lead: |-
+    From <span class="crt-landing--goldtext">answers to common questions</span> to <span class="crt-landing--goldtext">official legal documents</span>, ADA.gov has everything you need to understand your rights and responsibilities under the ADA.
+  sections:
+    - heading: Featured Topics
+      content: |-
+        These overviews are a basic starting point for understanding areas the ADA covers.
+      icon: landing/featured_topics_gold.svg
+      examples:
+        - ex1:
+          title: 'Service Animals'
+          link: topics/service-animals
+        - ex2:
+          title: 'Parking'
+          link: topics/parking
+        - ex3:
+          title: 'Mobility Devices'
+          link: topics/mobility-devices
+    - heading: Resources
+      content: |-
+        Get more detailed guidance on some ADA topics.
+      icon: landing/guidance_resource_materials_gold.png
+      examples:
+        - ex1:
+          title: A Guide to Disability Rights Laws
+          link: resources/disability-rights-guide
+        - ex2:
+          title: ADA Checklist for Polling Places
+          link: topics/voting
+        - ex3:
+          title: Frequently Asked Questions about Service Animals
+          link: resources/service-animals-faqs
+    - heading: Laws & Regulations
+      content: |-
+        Find legal documents that are enforceable under the ADA in a court of law.
+      icon: landing/laws_regs_standards_gold.png
+      examples:
+      - ex1:
+        title: State and Local Government Services (Title II)
+        link: law-and-regs/title-ii-2010-regulations/
+      - ex2:
+        title: Public Accommodations (Title III)
+        link: law-and-regs/title-iii-regulations/
+      - ex3:
+        title: ADA Standards for Accessible Design
+        link: law-and-regs/design-standards/
+
+service-animals:
+  heading: Service Animals and the ADA
+  lead: |-
+    Understand how the ADA defines a service animal and what your rights are under the law.
+  sections:
+    - heading: Featured Topics
+      icon: landing/featured_topics_grey_bg.png
+      examples:
+      - ex1:
+        title: 'Service Animals'
+        link: topics/service-animals
+    - heading: Resources
+      icon: landing/guidance_resource_materials_grey_bg.png
+      examples:
+        - ex1:
+          title: Frequently Asked Questions about Service Animals
+          link: resources/service-animals-faqs
+        - ex2:
+          title: 'ADA Requirements: Service Animals'
+          link: resources/service-animals-2010-requirements
+    - heading: Laws & Regulations
+      icon: landing/laws_regs_standards_grey_bg.png
+      examples:
+      - ex1:
+        title: State and Local Government Services (Title II)
+        link: law-and-regs/title-ii-2010-regulations/
+      - ex2:
+        title: Public Accommodations (Title III)
+        link: law-and-regs/title-iii-regulations/
+
 
 report:
   heading: How to Report a Disability Rights Violation
@@ -74,16 +153,22 @@ report:
     Think you or someone you know has experienced a disability rights violation?
   link:
     text: File a complaint
+redirect_from:
+  - /contact_drs.htm
+  - /adahom1.htm
+  - /index/
 ---
 
 {% include landing/hero.html hero=page.hero %}
 
-{% include landing/alert.html alert=page.alert %}
-
 {% include landing/news.html news=page.news %}
+
+{% include landing/learn.html learn=page.learn %}
+
+{% include landing/service-animals.html service-animals=page.service-animals %}
 
 {% include landing/understand.html understand=page.understand %}
 
-{% include landing/history.html history=page.history %}
-
 {% include landing/report.html report=page.report %}
+
+{% include landing/subscribe.html %}

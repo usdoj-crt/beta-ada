@@ -14,7 +14,11 @@ lead: This guidance explains how algorithms and artificial intelligence can lead
 permalink: /resources/ai-guidance/
 redirect_from:
   - /ai-guidance/
-lang: en
+lead: |-
+  This guidance explains how algorithms and artificial intelligence can lead to disability discrimination in hiring.  The [Department of Justice](https://archive.ada.gov/employment.htm) enforces disability discrimination laws with respect to state and local government employers. The [Equal Employment Opportunity Commission](https://www.eeoc.gov/employees-job-applicants) (EEOC) enforces disability discrimination laws with respect to employers in the private sector and the federal government. The obligation to avoid disability discrimination in employment applies to both public and private employers.
+lang: "en"
+news-item: false
+publish-date: 2022-05-12 00:00:00
 print: true
 publish-date: 2022-05-12 00:00:00
 updated-date: ""
@@ -25,13 +29,13 @@ sidenav-pdf:
 tags:
   - artificial intelligence
   - employment
-  - title ii
-  - title iii
 ---
 
 ## How employers use algorithms and artificial intelligence
 
 **Employers, including state and local government employers, increasingly use hiring technologies to help them select new employees.**
+
+This is a change that won't appear in netlify
 
 For example, employers might use technology:
 - to show job advertisements to targeted groups;
@@ -110,7 +114,7 @@ If you believe that you or someone else was discriminated against based on a dis
 
 For more detail on the topics addressed here and the impact of software, algorithms, and artificial intelligence on employees, please see the EEOC’s technical assistance document, [The Americans with Disabilities Act and the Use of Software, Algorithms, and Artificial Intelligence to Assess Job Applicants and Employees](https://www.eeoc.gov/laws/guidance/americans-disabilities-act-and-use-software-algorithms-and-artificial-intelligence).  Anyone with questions about the impact of software, algorithms, and artificial intelligence on employees can reach the EEOC at 1-202-921-3191 (voice), 1-800-669-6820 (TTY), or 1-844-234-5122 (ASL Video Phone).
 
-In addition, anyone can call the [ADA Information Line]( {{'/infoline/' | relative_url}}) at 1-800-514-0301 (voice) or 1-800-514-0383 (TTY) with questions about their rights or responsibilities under the ADA. ADA Specialists are available to answer questions on Monday, Tuesday, Wednesday, and Friday from 9:30 a.m. to 12:00 p.m. and 3:00 p.m. to 5:30 p.m. (Eastern Time). On Thursday, the Information Line is staffed from 2:30 p.m. to 5:30 p.m. (Eastern Time).
+In addition, anyone can call the [ADA Information Line]( {{'/infoline/' | relative_url}}) at {{site.contact.tollfree}} (voice) or {{site.contact.tty}} (TTY) with questions about their rights or responsibilities under the ADA. ADA Specialists are available to answer questions on Monday, Tuesday, Wednesday, and Friday from 9:30 a.m. to 12:00 p.m. and 3:00 p.m. to 5:30 p.m. (Eastern Time). On Thursday, the Information Line is staffed from 2:30 p.m. to 5:30 p.m. (Eastern Time).
 
 {% footnotes %}
 {% fnbody 1 %}
@@ -132,6 +136,6 @@ In addition, anyone can call the [ADA Information Line]( {{'/infoline/' | relati
 <i>See</i> 42 U.S.C. &sect; 12112(b)(5); 29 C.F.R. &sect; 1630.9.
 {% endfnbody %}
 {% fnbody 7 %}
-Existing technical standards provide helpful guidance concerning how to ensure the accessibility of website features. These include the Web Content Accessibility Guidelines (WCAG) and the Section 508 Standards, which the federal government uses for its own websites.  [More information is in this guidance document.](https://beta.ada.gov/web-guidance/) The employer and the individual with a disability should engage in an informal process to clarify the applicant’s needs and to identify a reasonable accommodation.
+Existing technical standards provide helpful guidance concerning how to ensure the accessibility of website features. These include the Web Content Accessibility Guidelines (WCAG) and the Section 508 Standards, which the federal government uses for its own websites.  [More information is in this guidance document.]({{'/resources/web-guidance' | relative_url}}) The employer and the individual with a disability should engage in an informal process to clarify the applicant’s needs and to identify a reasonable accommodation.
 {% endfnbody %}
 {% endfootnotes %}

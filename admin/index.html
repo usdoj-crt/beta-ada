@@ -1,0 +1,38 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ADA Content Manager</title>
+  </head>
+  <body>
+    <!-- Include the script that builds the page and powers Netlify CMS -->
+    <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/13.0.1/markdown-it.min.js"
+      integrity="sha512-SYfDUYPg5xspsG6OOpXU366G8SZsdHOhqk/icdrYJ2E/WKZxPxze7d2HD3AyXpT7U22PZ5y74xRpqZ6A2bJ+kQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    {% asset dist/netlifyPreview-compiled.js %}
+    <script>
+      CMS.registerPreviewStyle('{% asset styles.css @path %}')
+    </script>
+    <link href="/admin/config.yml" type="text/yaml" rel="cms-config-url" />
+    <style>
+      img[alt='Logo'] {
+        margin-left: 75px;
+        width: 150px;
+      }
+      p {
+        color: red;
+      }
+      button {
+        margin-top: 0px !important;
+      }
+    </style>
+  </body>
+</html>

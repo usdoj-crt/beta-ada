@@ -8,10 +8,10 @@ lang: "en"
 related-content: true
 tags:
   - service animals
-  - title ii
-  - title iii
-publish-date: 2011-07-12 00:00:00
-updated-date: 2020-02-24 00:00:00
+publish-date: 2011-07-01 00:00:00
+updated-date: 2020-02-28 00:00:00
+redirect_from:
+  - /service_animals_2010.htm
 ---
 ## Overview
 
@@ -22,11 +22,11 @@ This publication provides guidance on the term “service animal” and the serv
 
 ## How "Service Animal" Is Defined
 
-**Service animals are defined as dogs that are individually trained to do work or perform tasks for people with disabilities.** Examples of such work or tasks include guiding people who are blind, alerting people who are deaf, pulling a wheelchair, alerting and protecting a person who is having a seizure, reminding a person with mental illness to take prescribed medications, calming a person with Post Traumatic Stress Disorder (PTSD) during an anxiety attack, or performing other duties. Service animals are working animals, not pets. The work or task a dog has been trained to provide must be directly related to the person’s disability. Dogs whose sole function is to provide comfort or emotional support do not qualify as service animals under the ADA.  
+**Service animals are defined as dogs that are individually trained to do work or perform tasks for people with disabilities.** Examples of such work or tasks include guiding people who are blind, alerting people who are deaf, pulling a wheelchair, alerting and protecting a person who is having a seizure, reminding a person with mental illness to take prescribed medications, calming a person with Post Traumatic Stress Disorder (PTSD) during an anxiety attack, or performing other duties. Service animals are working animals, not pets. The work or task a dog has been trained to provide must be directly related to the person’s disability. Dogs whose sole function is to provide comfort or emotional support do not qualify as service animals under the ADA.
 
-This definition does not affect or limit the broader definition of “assistance animal” under the Fair Housing Act or the broader definition of “service animal” under the Air Carrier Access Act.  
+This definition does not affect or limit the broader definition of “assistance animal” under the Fair Housing Act or the broader definition of “service animal” under the Air Carrier Access Act.
 
-Some State and local laws also define service animal more broadly than the ADA does. Information about such laws can be obtained from the relevant State attorney general’s office.  
+Some State and local laws also define service animal more broadly than the ADA does. Information about such laws can be obtained from the relevant State attorney general’s office.
 
 ## Where Service Animals Are Allowed
 
@@ -36,7 +36,7 @@ Some State and local laws also define service animal more broadly than the ADA d
 
 **A service animal must be under the control of its handler. Under the ADA, service animals must be harnessed, leashed, or tethered, unless the individual’s disability prevents using these devices or these devices interfere with the service animal's safe, effective performance of tasks.** In that case, the individual must maintain control of the animal through voice, signal, or other effective controls.
 
-## Inquiries, Exclusions, Charges, and Other Specific Rules Related to Service Animals  
+## Inquiries, Exclusions, Charges, and Other Specific Rules Related to Service Animals
 
 When it is not obvious what service an animal provides, only limited inquiries are allowed. Staff may ask two questions: (1) is the dog a service animal required because of a disability, and (2) what work or task has the dog been trained to perform. Staff cannot ask about the person’s disability, require medical documentation, require a special identification card or training documentation for the dog, or ask that the dog demonstrate its ability to perform the work or task.
 - Allergies and fear of dogs are not valid reasons for denying access or refusing service to people using service animals. When a person who is allergic to dog dander and a person who uses a service animal must spend time in the same room or facility, for example, in a school classroom or at a homeless shelter, they both should be accommodated by assigning them, if possible, to different locations within the room or different rooms in the facility.
@@ -46,14 +46,21 @@ When it is not obvious what service an animal provides, only limited inquiries a
 - If a business such as a hotel normally charges guests for damage that they cause, a customer with a disability may also be charged for damage caused by himself or his service animal.
 - Staff are not required to provide care for or supervision of a service animal.
 
-## Miniature Horses  
+## Miniature Horses
 
-**In addition to the provisions about service dogs, the Department’s ADA regulations have a separate provision about miniature horses that have been individually trained to do work or perform tasks for people with disabilities.** (Miniature horses generally range in height from 24 inches to 34 inches measured to the shoulders and generally weigh between 70 and 100 pounds.) Entities covered by the ADA must modify their policies to permit miniature horses where reasonable. The regulations set out four assessment factors to assist entities in determining whether miniature horses can be accommodated in their facility. The assessment factors are (1) whether the miniature horse is housebroken; (2) whether the miniature horse is under the owner’s control; (3) whether the facility can accommodate the miniature horse’s type, size, and weight; and (4) whether the miniature horse’s presence will not compromise legitimate safety requirements necessary for safe operation of the facility.  
+**In addition to the provisions about service dogs, the Department’s ADA regulations have a separate provision about miniature horses that have been individually trained to do work or perform tasks for people with disabilities.** (Miniature horses generally range in height from 24 inches to 34 inches measured to the shoulders and generally weigh between 70 and 100 pounds.) Entities covered by the ADA must modify their policies to permit miniature horses where reasonable. The regulations set out four assessment factors to assist entities in determining whether miniature horses can be accommodated in their facility. The assessment factors are (1) whether the miniature horse is housebroken; (2) whether the miniature horse is under the owner’s control; (3) whether the facility can accommodate the miniature horse’s type, size, and weight; and (4) whether the miniature horse’s presence will not compromise legitimate safety requirements necessary for safe operation of the facility.
 
 **For more information about the ADA, please visit [ADA.gov](https://www.ada.gov) or call our toll-free number.**
 
-[ADA Information Line]( {{'/infoline/' | relative_url}})  
-800-514-0301 (Voice) and 800-514-0383 (TTY)  
-M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.  
+[ADA Information Line]( {{'/infoline/' | relative_url}})
+{{site.contact.tollfree}} (Voice) and {{site.contact.tty}} (TTY)
+M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.
 
-For persons with disabilities, this publication is available in alternate formats.  Duplication of this document is encouraged.
+For persons with disabilities, this publication is available in alternate formats.
+
+<hr>  
+The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
+
+This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
+<hr>
+Duplication of this document is encouraged.

@@ -15,7 +15,8 @@
 
 #crt-page--printbutton,
 #crt-page--expandaccordions,
-.crt-page--downloadpdf-button {
+.crt-page--downloadpdf-button,
+#crt-back-to-top-button {
   background-color: color($theme-color-primary-darker);
   &:hover {
     color: white !important;
@@ -29,6 +30,16 @@
 
 .crt-page--downloadpdf-button {
   color: white;
+}
+
+.crt-page--downloadpdf-link {
+  align-items: baseline;
+  display: inline-flex;
+  gap: 8px;
+
+  .usa-icon {
+    flex: 1 0 22px;
+  }
 }
 
 span.usa-sr-only {

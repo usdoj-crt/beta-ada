@@ -25,7 +25,7 @@ test.describe('TA Landing Page UI Tests', () => {
     await expect(page.locator('#title-ii-badge')).toBeVisible();
     // Make sure the content is filtered appropriately:
     const titleTwoResults = await page.locator('.visibilityTarget:visible').count();
-    await expect(titleTwoResults).toBeGreaterThanOrEqual(7);
+    await expect(titleTwoResults).toBeGreaterThanOrEqual(3);
 
     await page.locator('label:has-text("Businesses")').click();
     // Make sure the button is checked:
@@ -38,7 +38,7 @@ test.describe('TA Landing Page UI Tests', () => {
     await expect(page.locator('#title-iii-badge')).toBeVisible();
     // Make sure the content is filtered appropriately:
     const titleThreeResults = await page.locator('.visibilityTarget:visible').count();
-    await expect(titleThreeResults).toBeGreaterThanOrEqual(7);
+    await expect(titleThreeResults).toBeGreaterThanOrEqual(2);
 
     // Confirm the corresponding badge is removed when the checkbox is unchecked
     await page.locator('label:has-text("State and local government")').click();

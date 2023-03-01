@@ -17,6 +17,9 @@ card:
   image: landing/effective_communication.jpg
   alt: "Hands hover over a braille display"
   href: /topics/effective-communication/
+tags:
+  - effective communication
+related-content: true
 ---
 
 ## Examples of Communication Aids and Services
@@ -88,7 +91,7 @@ This will depend on whether the person uses sign language.
 </tbody>
 </table>
 
-To learn more about communication aids and services, check out [ADA Requirements-Effective Communication](https://www.ada.gov/effective-comm.htm).
+To learn more about communication aids and services, check out [ADA Requirements-Effective Communication]( {{'/resources/effective-communication'| relative_url}}).
 
 ## Choosing Communication Aids and Services
 
@@ -100,7 +103,7 @@ To decide what aid or service is needed to communicate effectively:
   - Unless certain exceptions are met, state/local governments must give
     primary consideration to the person with a disability’s choice of
     communication aid or service. Learn more about exceptions and what
-    primary consideration means in [ADA Requirements: Effective Communication](https://www.ada.gov/effective-comm.htm).
+    primary consideration means in [ADA Requirements: Effective Communication]( {{'/resources/effective-communication'| relative_url}}).
   - Businesses and nonprofits that are open to the public should work with the
     person with a disability whenever possible to decide what aid or service is
     appropriate.
@@ -114,7 +117,7 @@ But a person might make a walk-in request for a communication aid or service. Yo
 
 ## Friends and Family as Interpreters
 
-You may not require a person with a disability to bring their own interpreter. A family member or friend can serve as an interpreter in certain situations. Learn more in [ADA Requirements: Effective Communication](http://www.ada.gov/effective-comm.htm).
+You may not require a person with a disability to bring their own interpreter. A family member or friend can serve as an interpreter in certain situations. Learn more in [ADA Requirements: Effective Communication]( {{'/resources/effective-communication'| relative_url}}).
 
 ## Sometimes a Specific Communication Aid or Service is Not Required
 
@@ -131,6 +134,6 @@ may be able to use paper and pen to write back and forth to complete the
 transaction.
 {% enddetails %}
 
-Communication aids or services are also not required in the rare situations where they would fundamentally alter the nature of the goods or services you provide to the public. Learn more in [ADA Requirements: Effective Communication](http://www.ada.gov/effective-comm.htm).
+Communication aids or services are also not required in the rare situations where they would fundamentally alter the nature of the goods or services you provide to the public. Learn more in [ADA Requirements: Effective Communication]( {{'/resources/effective-communication'| relative_url}}).
 
 If an aid or service would result in an undue burden or fundamental alteration, an alternative aid or service needs to be provided if possible.

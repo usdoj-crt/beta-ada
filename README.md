@@ -18,12 +18,10 @@ This site requires Ruby and Node.js in order to run locally. For guidance on ins
     $ npm install
     $ bundle install
     $ npm start
-    OR
-    $ bundle exec jekyll serve
 
-To build but not serve the site, run `npm run build` or `bundle exec jekyll build`.
+To build but not serve the site, run `npm run build`.
 
-#### With Docker
+#### With Docker: UNDER CONSTRUCTION
     $ docker-compose run node npm install
     $ docker-compose build
     $ docker-compose up
@@ -41,7 +39,7 @@ site.
 
 ### Testing
 
-UI & Snapshot testing is accomplished using [Playwright](https://playwright.dev/). 
+UI & Snapshot testing is accomplished using [Playwright](https://playwright.dev/).
 
 UI Tests confirm that individual features of the interface perform as expected, while Snapshot testing looks for changes in each page from a previous, stored version and flags any changes.
 
@@ -72,7 +70,7 @@ Follow these steps to correctly initialize your project. Note you only need to i
 4. Playwright will then download playwright versions of the chromium, webkit and firefox browsers.
 
 5. A `playwright.config.js` file already exists, DO NOT OVERRIDE IT.
-- n 
+- n
 
 You are now initialized! Also, it's assumed that you've run `npm install` by now, but if you haven't already, go ahead and do that to install Playwright.
 
@@ -81,6 +79,24 @@ You are now initialized! Also, it's assumed that you've run `npm install` by now
 
 #### With Docker
     $ docker-compose run node npm run test:ui
+
+#### Testing external links
+
+We've written tests to enable Playwright to check our markdown redirects (files in _pages/redirects).
+
+To check these specifically, you can run:
+
+```bash
+npx playwright test redirects.spec.js --reporter list --project='chromium' --retries=0
+```
+
+Because those redirects depend on the destination link existing, it's important to be able to check that it doesn't 404 (e.g., in case archive.ada.giv/ was specified instead of archive.ada.gov/). We don't want to do that automatically, though, because there's a lot of redirects and we'd end up pelting production with a lot of requests.
+
+To check the validity of links locally using playwright, you can run with CHECK_EXTERNAL_LINKS set to 'true'. This will make `HEAD` requests to all of the destination URLs, and warn if any of the response statuses aren't `200`.
+
+```bash
+CHECK_EXTERNAL_LINKS=true npx playwright test redirects.spec.js --reporter list --project='chromium' --retries=0
+```
 
 ## Technologies you should familiarize yourself with
 
