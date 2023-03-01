@@ -1,5 +1,5 @@
 ---
-title: ADA Requirements - Wheelchairs, Mobility Aids, and Other Power-Driven Mobility Devices
+title: "ADA Requirements: Wheelchairs, Mobility Aids, and Other Power-Driven Mobility Devices"
 description: "This document is designed to help title II entities (State and local governments) and title III entities (businesses and non-profit organizations that serve the public) understand how the new rules for other power driven mobility devices apply to them."
 permalink: /resources/opdmds/
 lead: |-
