@@ -7,9 +7,11 @@ const generateChildElements = (html) =>
     // to make sure.
     if (item.nodeType !== Node.ELEMENT_NODE) return;
     const itemHasChildren = item.childNodes?.length > 0;
-    const content = [];
+    let content = [];
     if (itemHasChildren) {
       content.push(generateChildElements([...Array.from(item.childNodes)]));
+    } else {
+      content = null;
     }
     const attrs = Object.fromEntries([...item.attributes].map((attr) => {
       let val = attr.value;
@@ -18,11 +20,6 @@ const generateChildElements = (html) =>
       }
      return [attr.name, val]
     }));
-    console.log(item.attributes);
-
-    if (item.nodeName === 'HR' || item.nodeName === 'BR') {
-      return h(item.nodeName.toLowerCase());
-    }
     return h(item.nodeName.toLowerCase(), attrs, content);
   });
 
