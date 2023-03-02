@@ -1,5 +1,5 @@
 ---
-title: ADA Requirements - Effective Communication
+title: "ADA Requirements: Effective Communication"
 description: "This publication is designed to help title II and title III entities understand how the rules for effective communication apply to them."
 permalink: /resources/effective-communication/
 lead: |-
