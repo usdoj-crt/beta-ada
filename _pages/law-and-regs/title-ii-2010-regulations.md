@@ -876,7 +876,7 @@ there is good cause to believe that such seating has been purchased fraudulently
 
 Except as otherwise provided in &sect; 35.150, no qualified individual with a disability shall, because a public entity's facilities are inaccessible to or unusable by individuals with disabilities, be excluded from participation in, or be denied the benefits of the services, programs, or activities of a public entity, or be subjected to discrimination by any public entity.
 
-### &sect; 35.150 Existing facilities
+### <a id="35150"></a>&sect; 35.150 Existing facilities
 
 (a) _General_. A public entity shall operate each service, program, or activity so that the service, program, or activity, when viewed in its entirety, is readily accessible to and usable by individuals with disabilities. This paragraph does not&#8212;
 
