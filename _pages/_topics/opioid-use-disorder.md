@@ -27,7 +27,7 @@ who are not currently illegally using drugs.
 
 This page provides some basic information about OUD and the ADA’s
 protections for people with OUD. You can learn more about this topic
-at [The Americans with Disabilities Act and the Opioid Crisis]( {{'/resources/opioid-guidance.pdf'| relative_url}}).
+at [The Americans with Disabilities Act and the Opioid Crisis]({{'/resources/opioid-use-disorder'| relative_url}}).
 
 ## About Opioid Use Disorder (OUD)  
 
@@ -48,7 +48,7 @@ that substantially limits a major life activity. For example, OUD can affect a p
 - Working  
 
 Using opioids can also change a person’s brain chemicals. Learn more about how OUD can
-meet the ADA’s definition of disability at [The Americans with Disabilities Act and the Opioid Crisis]( {{'/resources/opioid-guidance.pdf'| relative_url}}).
+meet the ADA’s definition of disability at [The Americans with Disabilities Act and the Opioid Crisis]({{'/resources/opioid-use-disorder'| relative_url}}).
 
 ### What kind of treatment is there for OUD?  
 - **Rehabilitation or Drug Treatment Programs:** Some people participate in rehabilitation
@@ -80,7 +80,7 @@ The ADA protects people with disabilities from discrimination in many settings, 
 The ADA does **NOT** protect individuals who are currently illegally using drugs. This includes
 illegal drug use that was recent enough to support a reasonable belief that the use is current or
 that continuing use is a real and ongoing problem. Learn more about what current illegal drug
-use means at [The Americans with Disabilities Act and the Opioid Crisis]( {{'/resources/opioid-guidance.pdf'| relative_url}}).  
+use means at [The Americans with Disabilities Act and the Opioid Crisis]( {{'/resources/opioid-use-disorder'| relative_url}}).  
 - Taking MOUD or other opioids legally prescribed by a doctor for a valid purpose is not
 considered to be current illegal drug use when they are taken as directed.  
 
@@ -99,7 +99,7 @@ for a previous addiction to prescription opioids.
 simply because the employee uses opioids legally prescribed by a doctor to treat pain
 from an injury.  
 
-Read more about potential discrimination against individuals with OUD at [The Americans with Disabilities Act and the Opioid Crisis]( {{'/resources/opioid-guidance.pdf'| relative_url}}).  
+Read more about potential discrimination against individuals with OUD at [The Americans with Disabilities Act and the Opioid Crisis]( {{'/resources/opioid-use-disorder.pdf'| relative_url}}).  
 
 ## Drug Testing  
 
