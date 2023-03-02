@@ -16,6 +16,10 @@ label.usa-sr-only {
   color: white;
 }
 
+.best-bet-item {
+  flex: 0 1 100%;
+}
+
 @include at-media(mobile) {
 
   .usa-search--small [type="submit"],
@@ -43,5 +47,13 @@ label.usa-sr-only {
     &:hover {
       background-color: color("gray-cool-20");
     }
+  }
+
+  .best-bet-item {
+    flex: 0 1 48%;
+  }
+
+  .single-result .best-bet-item {
+    flex: 0 1 100%;
   }
 }

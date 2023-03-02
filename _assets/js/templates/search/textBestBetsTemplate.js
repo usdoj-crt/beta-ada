@@ -1,13 +1,12 @@
 export default function textBestBetsTemplate(content) {
    return `
-    <li class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
+    <div class="padding-bottom-3 padding-top-2 usa-prose best-bet-item">
       <b class="title"><a href="${content.url}">${content.title
-    .replace(/\uE000/g, '<span class="bg-yellow">')
-    .replace(/\uE001/g, "</span>")}</a></b>
-      <div class="text-base"> ${content.url} </div>
+    .replace(/\uE000/g, '')
+    .replace(/\uE001/g, '')}</a></b>
       <div> ${content.description
-        .replace(/\uE000/g, '<span class="bg-yellow">')
-        .replace(/\uE001/g, "</span>")} </div>
-    </li>
+        .replace(/\uE000/g, '')
+        .replace(/\uE001/g, '')} </div>
+    </div>
     `
 }
