@@ -1,5 +1,5 @@
 ---
-title: ADA Compliance Brief - Restriping Parking Spaces
+title: "ADA Compliance Brief: Restriping Parking Spaces"
 description: "This document provides information about the features of accessible car and van parking spaces and how many accessible spaces are required when parking facilities are restriped."
 permalink: /resources/restriping-parking-spaces/
 lead: |-
