@@ -1,6 +1,6 @@
 ---
 permalink: /topics/
-title: Explore Featured Topics
+title: Featured Topics
 layout: full
 lead: Information for people with disabilities, state and local governments, and businesses
 ---

@@ -1,6 +1,6 @@
 ---
 permalink: /law-and-regs/
-title: Review Laws, Regulations & Standards
+title: Laws, Regulations & Standards
 sidenav: false
 compact: true
 redirect_from:
