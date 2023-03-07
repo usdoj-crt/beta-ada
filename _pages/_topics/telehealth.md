@@ -16,10 +16,11 @@ card:
 publish-date: 2022-09-16 00:00:00
 tags:
   - medical care
-  - health care
 related-content: true
 ---
 ## What is telehealth?
+
+TEST
 
 Telehealth is health care that is provided by video, phone, or other electronic methods. Telehealth includes virtual appointments with healthcare providers, messages that are sent to and from healthcare providers through an electronic portal, and at-home health monitors that help healthcare providers track their patients’ symptoms.
 
