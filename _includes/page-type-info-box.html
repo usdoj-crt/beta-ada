@@ -6,6 +6,11 @@
   {% assign pageType = 'law-and-regs' %}
 {% endif %}
 
+{% if page.tags %}
+  {% assign filters = page.tags | join: ";" | replace: " ", "-" | prepend: "?filters=" %}
+{% else %}
+  {% assign filters = "" %}
+{% endif %}
 
 {% if pageType %}
 
@@ -45,7 +50,7 @@
           <li>For a higher level introduction, view <a class="usa-summary-box__link" href="/topics">Featured Topics</a></li>
           {% endunless %}
           {% unless pageType == 'resources' %}
-          <li>For a deeper dive, view <a class="usa-summary-box__link" href="/resources">Guidance & Resource Materials</a></li>
+          <li>For a deeper dive, view <a class="usa-summary-box__link" href="/resources{{ filters }}">Guidance & Resource Materials</a></li>
           {% endunless %}
           {% unless pageType == 'law-and-regs' %}
           <li>For any legal or policy applications, visit <a class="usa-summary-box__link" href="/law-and-regs">Laws, Regulations & Standards</a>
