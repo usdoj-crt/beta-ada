@@ -1,26 +1,34 @@
 ---
+publish-date: 2022-09-16 00:00:00
 title: Telehealth
-description: This page is designed to assist healthcare providers who offer telehealth services to give patients with disabilities the same opportunity to participate in telehealth as individuals without disabilities and persons with disabilities better understand their right to equal access to telehealth.
-lead: |-
-  The ADA prohibits healthcare providers from discriminating on the basis of disability. This is true when health care is provided in person or through “telehealth.”
-print: true
+description: This page is designed to assist healthcare providers who offer
+  telehealth services to give patients with disabilities the same opportunity to
+  participate in telehealth as individuals without disabilities and persons with
+  disabilities better understand their right to equal access to telehealth.
+short title: Telehealth
+lead: The ADA prohibits healthcare providers from discriminating on the basis of
+  disability. This is true when health care is provided in person or through
+  “telehealth.”
 featured: true
+print: true
+related-content: true
+tags:
+  - medical care
 card:
   title: Telehealth
   title_alt: telehealth
-  description: |-
-    The ADA prohibits healthcare providers from discriminating on the basis of disability. This is true when health care is provided in person or through “telehealth.”
+  description: The ADA prohibits healthcare providers from discriminating on the
+    basis of disability. This is true when health care is provided in person or
+    through “telehealth.”
   image: landing/telehealth.jpg
-  alt: "photo of a person on a video call with a doctor"
+  alt: photo of a person on a video call with a doctor
   href: /topics/telehealth/
-publish-date: 2022-09-16 00:00:00
-tags:
-  - medical care
-related-content: true
+  title alt: Telehealth
+  position: center
 ---
 ## What is telehealth?
 
-TEST
+TEST123
 
 Telehealth is health care that is provided by video, phone, or other electronic methods. Telehealth includes virtual appointments with healthcare providers, messages that are sent to and from healthcare providers through an electronic portal, and at-home health monitors that help healthcare providers track their patients’ symptoms.
 
@@ -80,7 +88,7 @@ Communication aids or services are also not required in the rare situations wher
 
 If an aid or service would result in an undue burden or fundamental alteration, the provider needs to provide an alternative aid or service if possible.
 
-Learn more about these requirements and limitations in ADA Requirements: [Effective Communication]( {{'/resources/effective-communication/'| relative_url}}) and  [Communicating Effectively with People with Disabilities]( {{'/topics/effective-communication/'| relative_url}}).
+Learn more about these requirements and limitations in ADA Requirements: \[Effective Communication]( {{'/resources/effective-communication/'| relative_url}}) and  \[Communicating Effectively with People with Disabilities]( {{'/topics/effective-communication/'| relative_url}}).
 
 ## Telehealth providers may sometimes need to make reasonable modifications to their typical practices to make sure patients with disabilities can access their services
 
