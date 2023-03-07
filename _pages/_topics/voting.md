@@ -1,20 +1,32 @@
 ---
+publish-date: 2022-09-21 00:00:00
 title: Voting and Polling Places
-description: This document is designed to help election officials make polling places accessible as well as provide information for people with disabilities to understand how the ADA protects their right to vote.
-lead: |-
-  The ADA requires state and local governments and their election officials to ensure that people with disabilities have a full and equal opportunity to vote in all elections. This includes federal, state, and local elections. And it includes all parts of voting, like voter registration, selecting a location for polling places, and voting, whether on election day or during an early or absentee voting process.
-print: true
+description: This document is designed to help election officials make polling
+  places accessible as well as provide information for people with disabilities
+  to understand how the ADA protects their right to vote.
+short title: Voting and Polling Places
+lead: The ADA requires state and local governments and their election officials
+  to ensure that people with disabilities have a full and equal opportunity to
+  vote in all elections. This includes federal, state, and local elections. And
+  it includes all parts of voting, like voter registration, selecting a location
+  for polling places, and voting, whether on election day or during an early or
+  absentee voting process.
 featured: true
+print: true
 card:
   title: Voting and Polling Places
   title_alt: voting
-  description: |-
-    The ADA requires state and local governments and their election officials to ensure that people with disabilities have a full and equal opportunity to vote in all elections.
+  description: The ADA requires state and local governments and their election
+    officials to ensure that people with disabilities have a full and equal
+    opportunity to vote in all elections.
   image: landing/voting.jpg
-  alt: "A vote here sign at a polling place on election day"
+  alt: A vote here sign at a polling place on election day
   href: /topics/voting/
-publish-date: 2022-09-21 00:00:00
+  position: center
+  title alt: Voting and Polling Places
 ---
+T﻿est
+
 If you are an election official, you can use the information below to help make voting accessible and resolve some common accessibility barriers. If you are a person with a disability, the information should help you understand how the ADA protects your right to vote.
 
 ## Registering to Vote
@@ -93,11 +105,12 @@ Learn more about ballot drop box accessibility requirements and find the ADA Che
 A range of accessibility issues can arise on election day.
 
 Election officials may need, for example, to:
-- Allow a voter with a disability to sit down instead of stand in a long line to vote.
-- Allow a voter with a disability to bring a service animal into the polling place even if the location has a no-pets policy. Learn more about [service animals]( {{'/topics/service-animals'| relative_url}}).
-- Allow a voter with a disability who needs assistance to have their companion with them in the voting booth.
-- Modify other voting policies, practices, or procedures when such modifications are
-necessary to avoid discrimination on the basis of a voter’s disability.
+
+* Allow a voter with a disability to sit down instead of stand in a long line to vote.
+* Allow a voter with a disability to bring a service animal into the polling place even if the location has a no-pets policy. Learn more about \[service animals]( {{'/topics/service-animals'| relative_url}}).
+* Allow a voter with a disability who needs assistance to have their companion with them in the voting booth.
+* Modify other voting policies, practices, or procedures when such modifications are
+  necessary to avoid discrimination on the basis of a voter’s disability.
 
 ## Communicating with People with Disabilities
 
@@ -105,7 +118,7 @@ Throughout the voting process, election officials must make sure that communicat
 
 For example, a person with a disability who chooses to vote by mail may need elections officials to provide various other aids or services, such as vote-by-mail ballot applications in alternative formats including large print, braille, or another accessible form.
 
-Learn more about what it means to [communicate effectively with people with disabilities]( {{'/topics/effective-communication'| relative_url}}).
+Learn more about what it means to \[communicate effectively with people with disabilities]( {{'/topics/effective-communication'| relative_url}}).
 
 ## Training for Election Officials
 
@@ -151,10 +164,11 @@ The ADA is not the only federal law that safeguards the voting rights of a perso
 [Learn more about these laws.](https://archive.ada.gov/ada_voting/ada_voting_ta.htm)
 
 Learn more about the ADA and voting rights of people with disabilities
-- [The Americans with Disabilities Act and Other Federal Laws Protecting the Rights of
-Voters with Disabilities](https://archive.ada.gov/ada_voting/ada_voting_ta.htm)
-- [ADA Checklist for Polling Places](https://archive.ada.gov/votingchecklist.htm)
-- [Solutions for Five Common ADA Access Problems at Polling Places](https://archive.ada.gov/ada_voting/voting_solutions_ta/polling_place_solutions.htm)
-- [Ballot Drop Box Accessibility; The Americans with Disabilities Act (ada.gov)](https://archive.ada.gov/ada_voting/ballot_box_access.pdf)
+
+* [The Americans with Disabilities Act and Other Federal Laws Protecting the Rights of
+  Voters with Disabilities](https://archive.ada.gov/ada_voting/ada_voting_ta.htm)
+* [ADA Checklist for Polling Places](https://archive.ada.gov/votingchecklist.htm)
+* [Solutions for Five Common ADA Access Problems at Polling Places](https://archive.ada.gov/ada_voting/voting_solutions_ta/polling_place_solutions.htm)
+* [Ballot Drop Box Accessibility; The Americans with Disabilities Act (ada.gov)](https://archive.ada.gov/ada_voting/ballot_box_access.pdf)
 
 Learn more about the Department’s enforcement of federal civil and criminal laws related to voting at [Department of Justice, Voting](https://www.justice.gov/voting)
