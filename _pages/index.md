@@ -123,7 +123,7 @@ service-animals:
           link: resources/service-animals-faqs
         - ex2:
           title: 'ADA Requirements: Service Animals'
-          link: resources/service-animals-2010-requirements
+          link: resources/service-animals-2010-requirements/
     - heading: Laws & Regulations
       icon: landing/laws_regs_standards_grey_bg.png
       examples:
