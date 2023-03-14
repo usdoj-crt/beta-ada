@@ -3,9 +3,7 @@ title: "Questions and Answers: Accessibility Requirements for Existing Swimming 
 description: "This document provides answers to some common questions regarding requirements in the 2010 regulations and Standards as they apply to public accommodations with existing pools."
 permalink: /resources/q&a-accessibility-requirements-pools-public/
 lead: |-
-  In 2010, the Department of Justice published updated regulations under the Americans with Disabilities Act (ADA). These regulations adopted the 2010 Standards for Accessible Design (2010 Standards), which, for the first time, contain specific accessibility requirements for a number of types of recreational facilities, including swimming pools, wading pools, and spas.  
-  
-  In January 2012, the Department issued guidance titled “ADA 2010 Revised Requirements: Accessible Pools—Accessible Means of Entry and Exit” to assist entities covered by Title III of the ADA, such as hotels and motels, health clubs, recreation centers, public country clubs, and other businesses that have swimming pools, wading pools, and spas, in understanding how the new requirements apply to them.
+  In 2010, the Department of Justice published updated regulations under the Americans with Disabilities Act (ADA). These regulations adopted the 2010 Standards for Accessible Design (2010 Standards), which, for the first time, contain specific accessibility requirements for a number of types of recreational facilities, including swimming pools, wading pools, and spas.
 lang: "en"
 related-content: true
 print: true
@@ -18,20 +16,23 @@ updated-date: 2020-02-28 00:00:00
 redirect_from:
   - /pools_2010.htm
 ---
+In January 2012, the Department issued guidance titled [ADA 2010 Revised Requirements: Accessible Pools—Accessible Means of Entry and Exit]({{'/resources/accessible-pools-requirements' | relative_url}}) to assist entities covered by Title III of the ADA, such as hotels and motels, health clubs, recreation centers, public country clubs, and other businesses that have swimming pools, wading pools, and spas, in understanding how the new requirements apply to them.
+
 {% include expand-accordions-wrapper.html expand-heading='Introduction' %}
 
 This Questions and Answers document provides answers to some common questions regarding requirements in the 2010 regulations and Standards as they apply to public accommodations with existing pools.  While the document answers a large number of questions, one of our key goals is to emphasize the flexibility of the standards for existing swimming pools. Three points are especially important. The first is that in response to public comments, we have extended the compliance date until January 31, 2013. The second point is that under the ADA, there is no need to provide access to existing pools if doing so is not “readily achievable.”  Providing access is not readily achievable if it would involve significant difficulty or expense. The third point is that the Department will not pursue enforcement of the fixed lift requirements against those who have purchased otherwise-compliant portable lifts before March 15, 2012 as long as they are kept in position for use at the pool and operational during all times that the pool is open to guests. In general, the Department plans to work collaboratively and constructively with all businesses that have questions about the meaning of the 2010 regulations and standards, with respect for their particular challenges, needs, and concerns, including the needs of small businesses that may be unfamiliar with the ADA.
 
 {% details 1. What is the effective compliance date of the ADA standards for accessible pools? expandable %}
 The effective date of the 2010 Standards generally is March 15, 2012. However, and in response to public comments and concerns, the Department has extended the date for compliance for the requirements related to the provision of accessible entry and exit to existing swimming pools, wading pools, and spas to January 31, 2013.
-{% enddetails %}  
+{% enddetails %}
 
+<a id="2"></a>
 {% details 2. What does the ADA require for accessibility of pools? expandable %}
 Title III of the ADA prohibits discrimination on the basis of disability by places of public accommodation, including many private businesses.  Title III requires newly constructed and altered business facilities to be fully accessible to people with disabilities, applying the ADA Standards for Accessible Design.  In addition, Title III requires businesses to remove accessibility barriers in existing facilities when doing so is readily achievable.  
 
-The 2010 Standards require that newly constructed or altered swimming pools, wading pools, and spas have an accessible way for people with disabilities to enter and exit the pool.   The Standards also provide technical specifications for when a means of entry is accessible, such as, for pool lifts, the location, size of the seat, lifting capacity, and clear floor space.  You can see the 2010 ADA Standards at [http://www.ada.gov/2010ADAstandards_index.htm]({{'/law-and-regs/design-standards/2010-stds' | relative_url}}).  
+The 2010 Standards require that *newly constructed or altered* swimming pools, wading pools, and spas have an accessible way for people with disabilities to enter and exit the pool.   The Standards also provide technical specifications for when a means of entry is accessible, such as, for pool lifts, the location, size of the seat, lifting capacity, and clear floor space.  You can see the 2010 ADA Standards at [http://www.ada.gov/2010ADAstandards_index.htm]({{'/law-and-regs/design-standards/2010-stds' | relative_url}}).  
 
-For existing swimming pools built before the effective date of the new rule, the 2010 Standards provide the guide for achieving accessibility.  However, full compliance may not be required in existing facilities (see question 4).  
+For *existing* swimming pools built before the effective date of the new rule, the 2010 Standards provide the guide for achieving accessibility.  However, full compliance may not be required in existing facilities (see [question 4](#4)).  
 
 The 2010 Standards explain whether a newly constructed or altered pool needs to have one or two accessible means of entry and exit.  Section 242 provides that large pools (pools with 300 linear feet of pool wall or more) must have two accessible means of entry and exit. One means of entry/exit must be a fixed pool lift or sloped entry; the other entry can be a transfer wall, transfer system, or pool stairs.  Small pools (pools with less than 300 linear feet of pool wall) must provide at least one accessible means of entry/exit, which must be either a fixed pool lift or a sloped entry.  
 
@@ -45,9 +46,9 @@ Community pools that are associated with a private residential community and are
 {% enddetails %}  
 
 ## Requirements for Existing Pools  
-
+<a id="4"></a>
 {% details 4. My pool already existed before the effective date of the new rule. What am I required to do to provide pool access to customers with mobility disabilities? expandable %}  
-The ADA requires businesses to make existing pools accessible only when it is "readily achievable" to do so.  Readily achievable means that providing access is easily accomplishable without much difficulty or expense.  The 2010 Standards provide the benchmark, or goal, for accessibility in existing pools.  (See Question 2 for the 2010 Standards requirements for pools).  However, owners of existing pools need to comply with the 2010 Standards only to the extent that doing so is readily achievable for them.  
+The ADA requires businesses to make existing pools accessible only when it is "readily achievable" to do so.  Readily achievable means that providing access is easily accomplishable without much difficulty or expense.  The 2010 Standards provide the benchmark, or goal, for accessibility in existing pools. (See [Question 2](#2) for the 2010 Standards requirements for pools).  However, owners of existing pools need to comply with the 2010 Standards only to the extent that doing so is readily achievable for them.  
 
 The 2010 Standards for pool lifts require lifts to be fixed and to meet additional requirements for location, size of the seat, lifting capacity, and clear floor space.  Therefore, if a business can provide a fixed lift that meets all of the 2010 Standards’ requirements without much difficulty or expense, the business must provide one. If no fully compliant lift is readily achievable for the business, the business is not obligated to provide a fully compliant lift until doing so becomes readily achievable. In addition, the business may provide a non-fixed lift that otherwise complies with the requirements in the 2010 Standards if doing so is readily achievable and if full compliance is not.
 {% enddetails %}  
@@ -65,9 +66,9 @@ The real issue is not whether a lift is “portable” versus “fixed,” but r
 {% enddetails %}
 
 {% details 8. How do I determine if it is readily achievable for me to install a lift in my existing pool? expandable %}  
-Readily achievable means that providing access is easily accomplishable without much difficulty or expense.   This is a flexible, case-by-case analysis, with the goal of ensuring that ADA requirements are not unduly burdensome, including to small businesses.  The readily achievable analysis is based on factors such as the nature and cost of the needed action; all the financial, staff and other resources available to the business and any parent entity; and the impact on the operation of the site, including legitimate safety requirements that are necessary for safe operation.1   Generally, a mere franchisor-franchisee relationship, where the franchisor does not own or operate the franchisee business, will not require consideration of the franchisor’s resources in determining what is readily achievable.  
+**Readily achievable means that providing access is easily accomplishable without much difficulty or expense.**   This is a flexible, case-by-case analysis, with the goal of ensuring that ADA requirements are not unduly burdensome, including to small businesses.  The readily achievable analysis is based on factors such as the nature and cost of the needed action; all the financial, staff and other resources available to the business and any parent entity; and the impact on the operation of the site, including legitimate safety requirements that are necessary for safe operation.{% fn 1 %}  Generally, a mere franchisor-franchisee relationship, where the franchisor does not own or operate the franchisee business, will not require consideration of the franchisor’s resources in determining what is readily achievable.  
 
-This is the same standard that places of public accommodation have been using for all covered elements of existing facilities since 1992.  Guidance on “Common Questions: Readily Achievable Barrier Removal” is available at here (1996).  
+This is the same standard that places of public accommodation have been using for all covered elements of existing facilities since 1992.  Guidance on “Common Questions: Readily Achievable Barrier Removal” is available at [here](https://archive.ada.gov/reachingout/factor.html) (1996).  
 {% enddetails %}  
 
 {% details 9. I already purchased a portable lift before March 15, 2012.  Can I still use it? expandable %}  
@@ -125,6 +126,17 @@ The Department’s wide-ranging outreach, education and technical assistance pro
 If you have questions and would like to speak to an ADA Specialist, please call the ADA Information Line at 800-514-0301 (voice); 833-610-1264 (TTY).  Specialists are available Monday, Tuesday, Wednesday, Friday 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Thursday 2:30 p.m. – 5:30 p.m. (Eastern Time).  
 
 ADA experts are also available to present to conferences and training sessions through the ADA Speakers Bureau.
+
+{% footnotes %}
+{% fnbody 1 %}
+Specifically, in determining whether an action is “readily achievable,” the following factors should be considered:
+1. The nature and cost of the action;
+2. The overall financial resources of the site or sites involved; the number of persons employed at the site; the effect on expenses and resources; legitimate safety requirements necessary for safe operation, including crime prevention measures; or any other impact of the action on the operation of the site;
+3. The geographic separateness, and the administrative or fiscal relationship of the site or sites in question to any parent corporation or entity;
+4. If applicable, the overall financial resources of any parent corporation or entity; the overall size of the parent corporation or entity with respect to the number of its employees; the number, type, and location of its facilities; and
+5. If applicable, the type of operation or operations of any parent corporation or entity, including the composition, structure, and functions of the workforce of the parent corporation or entity.
+{% endfnbody %}
+{% endfootnotes %}
 
 <hr>  
 The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
