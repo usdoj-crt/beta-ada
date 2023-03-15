@@ -3,7 +3,7 @@ title: ADA Title III Technical Assistance Manual
 description: "This document explains what businesses and non-profit agencies must do to ensure access to their goods, services, and facilities."
 permalink: /resources/title-iii-manual/
 lead: |-
-  This technical assistance manual addresses the requirements of title III of the Americans with Disabilities Act, which applies to public accommodations, commercial facilities, and private entities offering certain examinations and courses.It is one of a series of publications issued by Federal agencies under section 506 of the ADA to assist individuals and entities in understanding their rights and duties under the Act.
+  This technical assistance manual addresses the requirements of title III of the Americans with Disabilities Act, which applies to public accommodations, commercial facilities, and private entities offering certain examinations and courses. It is one of a series of publications issued by Federal agencies under section 506 of the ADA to assist individuals and entities in understanding their rights and duties under the Act.
   
   This manual is part of a broader program of technical assistance conducted by the Department of Justice to promote voluntary compliance with the requirements not only of title III, but also of title II of the ADA, which applies to the operations of State and local governments.
 lang: "en"
@@ -23,7 +23,7 @@ requirements in a format that will be useful to the widest possible audience. Th
 guidance provided in the Department&#39;s regulations and accompanying preambles has
 been carefully reorganized to provide a focused, systematic description of the ADA&#39;s
 requirements. The manual attempts to avoid an overly legalistic style without
-sacrificing completeness.In order to promote readability and understanding, the text
+sacrificing completeness. In order to promote readability and understanding, the text
 makes liberal use of questions and answers and illustrations.
 
 The manual is divided into nine major subject matter headings with numerous
@@ -34,7 +34,9 @@ reference table of contents at the beginning of the manual.
 
 Regulatory references: 28 CFR 36.102-36.104.
 
-### III-1.1000 General.Title III of the ADA covers --  
+### III-1.1000 General.
+
+Title III of the ADA covers --  
 
 1. Places of public accommodation;  
 2. Commercial facilities; and  
@@ -98,7 +100,7 @@ A place of public accommodation is a facility whose operations --
 12. Places of exercise or recreation (e.g., gymnasiums, health spas, bowling alleys, golf courses).
 
 #### Can a facility be considered a place of public accommodation if it does not fall under one of these 12 categories?  
-No, the 12 categories are an exhaustive list.However, within each category the examples given are just illustrations. For example, the category &quot;sales or rental establishments&quot; would include many facilities other than those specifically listed, such as video stores, carpet showrooms, and athletic equipment stores.
+No, the 12 categories are an exhaustive list. However, within each category the examples given are just illustrations. For example, the category &quot;sales or rental establishments&quot; would include many facilities other than those specifically listed, such as video stores, carpet showrooms, and athletic equipment stores.
 
 #### What if a private entity operates, or leases space to, many different types of facilities, of which only relatively few are places of public accommodation? Is the whole private entity still a public accommodation?
 The entire private entity is, legally speaking, a
@@ -115,8 +117,7 @@ be subject only to the requirements for new construction and alterations.
 
 #### Do both a landlord who leases space in a building to a tenant and the tenant who operates a place of public accommodation have responsibilities under the ADA?
 
-Both
-the landlord and the tenant are public accommodations and have full responsibility for
+Both the landlord and the tenant are public accommodations and have full responsibility for
 complying with all ADA title III requirements applicable to that place of public
 accommodation. The title III regulation permits the landlord and the tenant to allocate
 responsibility, in the lease, for complying with particular provisions of the regulation. However, any allocation made in a lease or other contract is only effective as between
