@@ -344,15 +344,15 @@ NOTE: These provisions update the relevant portions of the title III regulation 
 
 **Authority:  5 U.S.C. 301; 28 U.S.C. 509, 510; 42 U.S.C. 12186(b) and 12205a.**
 
-### Subpart A – General
+## Subpart A – General
 
-#### &sect; 36.101 Purpose and broad coverage.
+### &sect; 36.101 Purpose and broad coverage.
 
 - **(a)** ***Purpose***.  The purpose of this part is to implement title III of the Americans with Disabilities Act of 1990 (42 U.S.C. 12181–**12189), as amended by the ADA Amendments Act of 2008 (ADA Amendments Act) (Public Law 110–325, 122 Stat. 3553 (2008))**, which prohibits discrimination on the basis of disability by **covered** public accommodations and requires places of public accommodation and commercial facilities to be designed, constructed, and altered in compliance with the accessibility standards established by this part.
 
 **(b) *Broad coverage.*  The primary purpose of the ADA Amendments Act is to make it easier for people with disabilities to obtain protection under the ADA. Consistent with the ADA Amendments Act's purpose of reinstating a broad scope of protection under the ADA, the definition of &ldquo;disability&rdquo; in this part shall be construed broadly in favor of expansive coverage to the maximum extent permitted by the terms of the ADA. The primary object of attention in cases brought under the ADA should be whether entities covered under the ADA have complied with their obligations and whether discrimination has occurred, not whether the individual meets the definition of &ldquo;disability.&rdquo; The question of whether an individual meets the definition of &ldquo;disability&rdquo; under this part should not demand extensive analysis.**
 
-#### &sect; 36.102 Application.
+### &sect; 36.102 Application.
 
 (a) *General*. This part applies to any –
 
@@ -375,7 +375,7 @@ NOTE: These provisions update the relevant portions of the title III regulation 
 
 (e) *Exemptions and exclusions*. This part does not apply to any private club (except to the extent that the facilities of the private club are made available to customers or patrons of a place of public accommodation), or to any religious entity or public entity.
 
-#### &sect; 36.103 Relationship to other laws.
+### &sect; 36.103 Relationship to other laws.
 
 (a) *Rule of interpretation*. Except as otherwise provided in this part, this part shall not be construed to apply a lesser standard than the standards applied under title V of the Rehabilitation Act of 1973 (29 U.S.C. 791) or the regulations issued by Federal agencies pursuant to that title.
 
@@ -383,7 +383,7 @@ NOTE: These provisions update the relevant portions of the title III regulation 
 
 (c) *Other laws*. This part does not invalidate or limit the remedies, rights, and procedures of any other Federal laws, or State or local laws (including State common law) that provide greater or equal protection for the rights of individuals with disabilities or individuals associated with them.
 
-#### &sect; 36.104 Definitions.
+### &sect; 36.104 Definitions.
 
 For purposes of this part, the term-
 
@@ -502,7 +502,7 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 
 *Wheelchair* means a manually-operated or power-driven device designed primarily for use by an individual with a mobility disability for the main purpose of indoor or of both indoor and outdoor locomotion. This definition does not apply to Federal wilderness areas; wheelchairs in such areas are defined in section 508(c)(2) of the ADA, 42 U.S.C. 12207(c)(2).
 
-##### **&sect; 36.105 Definition of &ldquo;disability.&rdquo;**
+### **&sect; 36.105 Definition of &ldquo;disability.&rdquo;**
 
 **(a)**
 
@@ -611,9 +611,9 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 **(2)  Compulsive gambling, kleptomania, or pyromania; or**
 **(3)  Psychoactive substance use disorders resulting from current illegal use of drugs.**
 
-### Subpart B – General Requirements
+## Subpart B – General Requirements
 
-#### &sect; 36.201 General.
+### &sect; 36.201 General.
 
 (a)  *Prohibition of discrimination*. No individual shall be discriminated against on the basis of disability in the full and equal enjoyment of the goods, services, facilities, privileges, advantages, or accommodations of any place of public accommodation by any private entity who owns, leases (or leases to), or operates a place of public accommodation.
 
@@ -621,14 +621,14 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 
 **(c)**  *Claims of no disability.* Nothing in this part shall provide the basis for a claim that an individual without a disability was subject to discrimination because of a lack of disability, including a claim that an individual with a disability was granted a reasonable modification that was denied to an individual without a disability.
 
-#### &sect; 36.202 Activities.
+### &sect; 36.202 Activities.
 
 (a)  *Denial of participation*. A public accommodation shall not subject an individual or class of individuals on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements, to a denial of the opportunity of the individual or class to participate in or benefit from the goods, services, facilities, privileges, advantages, or accommodations of a place of public accommodation.
 (b)  *Participation in unequal benefit*. A public accommodation shall not afford an individual or class of individuals, on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements, with the opportunity to participate in or benefit from a good, service, facility, privilege, advantage, or accommodation that is not equal to that afforded to other individuals.
 (c)  *Separate benefit*. A public accommodation shall not provide an individual or class of individuals, on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements with a good, service, facility, privilege, advantage, or accommodation that is different or separate from that provided to other individuals, unless such action is necessary to provide the individual or class of individuals with a good, service, facility, privilege, advantage, or accommodation, or other opportunity that is as effective as that provided to others.
 (d) *Individual or class of individuals*. For purposes of paragraphs (a) through (c) of this section, the term &quot;individual or class of individuals&quot; refers to the clients or customers of the public accommodation that enters into the contractual, licensing, or other arrangement.
 
-#### &sect; 36.203 Integrated settings.
+### &sect; 36.203 Integrated settings.
 
 (a) *General*. A public accommodation shall afford goods, services, facilities, privileges, advantages, and accommodations to an individual with a disability in the most integrated setting appropriate to the needs of the individual.
 (b) *Opportunity to participate*. Notwithstanding the existence of separate or different programs or activities provided in accordance with this subpart, a public accommodation shall not deny an individual with a disability an opportunity to participate in such programs or activities that are not separate or different.
@@ -637,15 +637,15 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 (1) Nothing in this part shall be construed to require an individual with a disability to accept an accommodation, aid, service, opportunity, or benefit available under this part that such individual chooses not to accept.
 (2) Nothing in the Act or this part authorizes the representative or guardian of an individual with a disability to decline food, water, medical treatment, or medical services for that individual.
 
-#### &sect; 36.204 Administrative methods.
+### &sect; 36.204 Administrative methods.
 
 A public accommodation shall not, directly or through contractual or other arrangements, utilize standards or criteria or methods of administration that have the effect of discriminating on the basis of disability, or that perpetuate the discrimination of others who are subject to common administrative control.
 
-#### &sect; 36.205 Association.
+### &sect; 36.205 Association.
 
 A public accommodation shall not exclude or otherwise deny equal goods, services, facilities, privileges, advantages, accommodations, or other opportunities to an individual or entity because of the known disability of an individual with whom the individual or entity is known to have a relationship or association.
 
-#### &sect; 36.206 Retaliation or coercion.
+### &sect; 36.206 Retaliation or coercion.
 
 (a) No private or public entity shall discriminate against any individual because that individual has opposed any act or practice made unlawful by this part, or because that individual made a charge, testified, assisted, or participated in any manner in an investigation, proceeding, or hearing under the Act or this part.
 
@@ -658,18 +658,18 @@ A public accommodation shall not exclude or otherwise deny equal goods, services
 (3) Intimidating or threatening any person because that person is assisting or encouraging an individual or group entitled to claim the rights granted or protected by the Act or this part to exercise those rights; or
 (4) Retaliating against any person because that person has participated in any investigation or action to enforce the Act or this part.
 
-#### &sect; 36.207 Places of public accommodation located in private residences,
+### &sect; 36.207 Places of public accommodation located in private residences,
 
 (a) When a place of public accommodation is located in a private residence, the portion of the residence used exclusively as a residence is not covered by this part, but that portion used exclusively in the operation of the place of public accommodation or that portion used both for the place of public accommodation and for residential purposes is covered by this part.
 
 (b) The portion of the residence covered under paragraph (a) of this section extends to those elements used to enter the place of public accommodation, including the homeowner's front sidewalk, if any, the door or entryway, and hallways; and those portions of the residence, interior or exterior, available to or used by customers or clients, including restrooms.
 
-#### &sect; 36.208 Direct threat.
+### &sect; 36.208 Direct threat.
 
 (a) This part does not require a public accommodation to permit an individual to participate in or benefit from the goods, services, facilities, privileges, advantages and accommodations of that public accommodation when that individual poses a direct threat to the health or safety of others.
 (b) In determining whether an individual poses a direct threat to the health or safety of others, a public accommodation must make an individualized assessment, based on reasonable judgment that relies on current medical knowledge or on the best available objective evidence, to ascertain: The nature, duration, and severity of the risk; the probability that the potential injury will actually occur; and whether reasonable modifications of policies, practices, or procedures or the provision of auxiliary aids or services will mitigate the risk.
 
-#### &sect; 36.209 Illegal use of drugs.
+### &sect; 36.209 Illegal use of drugs.
 
 (a) *General*.
 
@@ -691,17 +691,17 @@ A public accommodation shall not exclude or otherwise deny equal goods, services
 
 (2) Nothing in this paragraph (c) shall be construed to encourage, prohibit, restrict, or authorize the conducting of testing for the illegal use of drugs.
 
-#### &sect; 36.210 Smoking.
+### &sect; 36.210 Smoking.
 
 This part does not preclude the prohibition of, or the imposition of restrictions on, smoking in places of public accommodation.
 
-#### &sect; 36.211 Maintenance of accessible features.
+### &sect; 36.211 Maintenance of accessible features.
 
 (a) A public accommodation shall maintain in operable working condition those features of facilities and equipment that are required to be readily accessible to and usable by persons with disabilities by the Act or this part.
 (b) This section does not prohibit isolated or temporary interruptions in service or access due to maintenance or repairs.
 (c) If the 2010 Standards reduce the technical requirements or the number of required accessible elements below the number required by the 1991 Standards, the technical requirements or the number of accessible elements in a facility subject to this part may be reduced in accordance with the requirements of the 2010 Standards.
 
-#### &sect; 36.212 Insurance.
+### &sect; 36.212 Insurance.
 
 (a) This part shall not be construed to prohibit or restrict –
 
@@ -712,21 +712,23 @@ This part does not preclude the prohibition of, or the imposition of restriction
 (b) Paragraphs (a) (1), (2), and (3) of this section shall not be used as a subterfuge to evade the purposes of the Act or this part.
 (c) A public accommodation shall not refuse to serve an individual with a disability because its insurance company conditions coverage or rates on the absence of individuals with disabilities.
 
-#### &sect; 36.213 Relationship of subpart B to subparts C and D of this part.
+### &sect; 36.213 Relationship of subpart B to subparts C and D of this part.
 
 Subpart B of this part sets forth the general principles of nondiscrimination applicable to all entities subject to this part. Subparts C and D of this part provide guidance on the application of the statute to specific situations. The specific provisions, including the limitations on those provisions, control over the general provisions in circumstances where both specific and general provisions apply.
 
-#### &sect;&sect; 36.214 – 36.299 [Reserved]
+### &sect;&sect; 36.214 – 36.299 [Reserved]
 
-### Subpart C – Specific Requirements
+## Subpart C – Specific Requirements
 
-#### &sect;36.301 Eligibility criteria.
+### &sect;36.301 Eligibility criteria.
 
-(a) *General*. A public accommodation shall not impose or apply eligibility criteria that screen out or tend to screen out an individual with a disability or any class of individuals with disabilities from fully and equally enjoying any goods, services, facilities, privileges, advantages, or accommodations, unless such criteria can be shown to be necessary for the provision of the goods, services, facilities, privileges, advantages, or accommodations being offered.
-(b) *Safety*. A public accommodation may impose legitimate safety requirements that are necessary for safe operation. Safety requirements must be based on actual risks and not on mere speculation, stereotypes, or generalizations about individuals with disabilities.
+(a) *General*. A public accommodation shall not impose or apply eligibility criteria that screen out or tend to screen out an individual with a disability or any class of individuals with disabilities from fully and equally enjoying any goods, services, facilities, privileges, advantages, or accommodations, unless such criteria can be shown to be necessary for the provision of the goods, services, facilities, privileges, advantages, or accommodations being offered.  
+
+(b) *Safety*. A public accommodation may impose legitimate safety requirements that are necessary for safe operation. Safety requirements must be based on actual risks and not on mere speculation, stereotypes, or generalizations about individuals with disabilities.  
+
 (c) *Charges*. A public accommodation may not impose a surcharge on a particular individual with a disability or any group of individuals with disabilities to cover the costs of measures, such as the provision of auxiliary aids, barrier removal, alternatives to barrier removal, and reasonable modifications in policies, practices, or procedures, that are required to provide that individual or group with the nondiscriminatory treatment required by the Act or this part.
 
-&sect; 36.302 Modifications in policies, practices, or procedures.
+### &sect; 36.302 Modifications in policies, practices, or procedures.
 
 (a) *General*. A public accommodation shall make reasonable modifications in policies, practices, or procedures, when the modifications are necessary to afford goods, services, facilities, privileges, advantages, or accommodations to individuals with disabilities, unless the public accommodation can demonstrate that making the modifications would fundamentally alter the nature of the goods, services, facilities, privileges, advantages, or accommodations.
 (b) *Specialties* –
@@ -1012,7 +1014,7 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 
 (3)  If, as a result of compliance with the alterations requirements specified in paragraph (d)(1) and (d)(2) of this section, the measures required to remove a barrier would not be readily achievable, a public accommodation may take other readily achievable measures to remove the barrier that do not fully comply with the specified requirements. Such measures include, for example, providing a ramp with a steeper slope or widening a doorway to a narrower width than that mandated by the alterations requirements. No measure shall be taken, however, that poses a significant risk to the health or safety of individuals with disabilities or others.
 
-### Appendix to &sect; 36.304(d)
+#### Appendix to &sect; 36.304(d)
 
 <table class="usa-table">
 <caption class="pa11y-skip">Compliance Dates and Applicable Standards for Barrier Removal and Safe Harbor</caption>
@@ -1111,7 +1113,7 @@ A public accommodation shall ensure that wheelchair spaces and companion seats a
 (4)  Courses must be administered in facilities that are accessible to individuals with disabilities or alternative accessible arrangements must be made.
 (5)  Alternative accessible arrangements may include, for example, provision of the course through videotape, cassettes, or prepared notes. Alternative arrangements must provide comparable conditions to those provided for nondisabled individuals.
 
-#### &sect; 36.310 Transportation provided by public accommodations.
+### &sect; 36.310 Transportation provided by public accommodations.
 
 (a)  *General*.
 
@@ -1142,11 +1144,11 @@ A public accommodation shall ensure that wheelchair spaces and companion seats a
 (1)  *Inquiry about disability*. A public accommodation shall not ask an individual using a wheelchair or other power-driven mobility device questions about the nature and extent of the individual's disability.
 (2)  *Inquiry into use of other power-driven mobility device*. A public accommodation may ask a person using an other power-driven mobility device to provide a credible assurance that the mobility device is required because of the person's disability. A public accommodation that permits the use of an other power-driven mobility device by an individual with a mobility disability shall accept the presentation of a valid, State-issued disability parking placard or card, or State-issued proof of disability, as a credible assurance that the use of the other power-driven mobility device is for the individual's mobility disability. In lieu of a valid, State-issued disability parking placard or card, or State-issued proof of disability, a public accommodation shall accept as a credible assurance a verbal representation, not contradicted by observable fact, that the other power-driven mobility device is being used for a mobility disability. A &quot;valid&quot; disability placard or card is one that is presented by the individual to whom it was issued and is otherwise in compliance with the State of issuance's requirements for disability placards or cards.
 
-#### &sect;&sect; 36.312 – 36.399 [Reserved]
+### &sect;&sect; 36.312 – 36.399 [Reserved]
 
-### Subpart D – New Construction and Alterations
+## Subpart D – New Construction and Alterations
 
-#### &sect; 36.401 New construction.
+### &sect; 36.401 New construction.
 
 (a)  *General*.
 
@@ -1286,7 +1288,7 @@ A public accommodation shall ensure that wheelchair spaces and companion seats a
 (i)  Newly constructed or altered facilities or elements covered by &sect;&sect; 36.401 or 36.402 that were constructed or altered before March 15, 2012, and that do not comply with the 1991 Standards shall, before March 15, 2012, be made accessible in accordance with either the 1991 Standards or the 2010 Standards.
 (ii)  Newly constructed or altered facilities or elements covered by &sect;&sect; 36.401 or 36.402 that were constructed or altered before March 15, 2012 and that do not comply with the 1991 Standards shall, on or after March 15, 2012, be made accessible in accordance with the 2010 Standards.
 
-### Appendix to &sect; 36.406(a)
+#### Appendix to &sect; 36.406(a)
 
 <table class="usa-table">
 <thead>
@@ -1345,11 +1347,11 @@ A public accommodation shall ensure that wheelchair spaces and companion seats a
 
 (g)  *Medical care facilities*. Medical care facilities that are subject to this part shall comply with the provisions of the 2010 Standards applicable to medical care facilities, including, but not limited to, sections 223 and 805. In addition, medical care facilities that do not specialize in the treatment of conditions that affect mobility shall disperse the accessible patient bedrooms required by section 223.2.1 of the 2010 Standards in a manner that is proportionate by type of medical specialty.
 
-#### &sect;&sect; 36.407 – 36.499 [Reserved]
+### &sect;&sect; 36.407 – 36.499 [Reserved]
 
-### Subpart E – Enforcement
+## Subpart E – Enforcement
 
-#### &sect; 36.501 Private suits.
+### &sect; 36.501 Private suits.
 
 (a)  *General*. Any person who is being subjected to discrimination on the basis of disability in violation of the Act or this part or who has reasonable grounds for believing that such person is about to be subjected to discrimination in violation of section 303 of the Act or subpart D of this part may institute a civil action for preventive relief, including an application for a permanent or temporary injunction, restraining order, or other order. Upon timely application, the court may, in its discretion, permit the Attorney General to intervene in the civil action if the Attorney General or his or her designee certifies that the case is of general public importance. Upon application by the complainant and in such circumstances as the court may deem just, the court may appoint an attorney for such complainant and may authorize the commencement of the civil action without the payment of fees, costs, or security. Nothing in this section shall require a person with a disability to engage in a futile gesture if the person has actual notice that a person or organization covered by title III of the Act or this part does not intend to comply with its provisions.
 (b)  *Injunctive relief*. In the case of violations of &sect; 36.304, &sect; &sect;36.308, 36.310(b), 36.401, 36.402, 36.403, and 36.405 of this part, injunctive relief shall include an order to alter facilities to make such facilities readily accessible to and usable by individuals with disabilities to the extent required by the Act or this part. Where appropriate, injunctive relief shall also include requiring the provision of an auxiliary aid or service, modification of a policy, or provision of alternative methods, to the extent required by the Act or this part.
@@ -1409,11 +1411,11 @@ A public accommodation or other private entity shall not be excused from complia
 
 (c)  Transportation services provided by public accommodations. Newly purchased or leased vehicles required to be accessible by &sect; 36.310 must be readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, if the solicitation for the vehicle is made after August 25, 1990.
 
-#### &sect;&sect; 36.509 – 36.599 [Reserved]
+### &sect;&sect; 36.509 – 36.599 [Reserved]
 
-### Subpart F – Certification of State Laws or Local Building Codes
+## Subpart F – Certification of State Laws or Local Building Codes
 
-#### &sect; 36.601 Definitions.
+### &sect; 36.601 Definitions.
 
 *Assistant Attorney General* means the Assistant Attorney General for Civil Rights or his or her designee.
 
@@ -1430,15 +1432,15 @@ A public accommodation or other private entity shall not be excused from complia
 (1)  Has principal responsibility for administration of a code, or is authorized to submit a code on behalf of a jurisdiction; and
 (2)  Files a request for certification under this subpart.
 
-#### &sect; 36.602 General rule.
+### &sect; 36.602 General rule.
 
 On the application of a State or local government, the Assistant Attorney General may certify that a code meets or exceeds the minimum requirements of the Act for the accessibility and usability of places of public accommodation and commercial facilities under this part by issuing a certification of equivalency. At any enforcement proceeding under title III of the Act, such certification shall be rebuttable evidence that such State law or local ordinance does meet or exceed the minimum requirements of title III.
 
-#### &sect; 36.603 Preliminary determination. (*Redesignated from Section 36.604*)
+### &sect; 36.603 Preliminary determination. (*Redesignated from Section 36.604*)
 
 Upon receipt and review of all information relevant to a request filed by a submitting official for certification of a code, and after consultation with the Architectural and Transportation Barriers Compliance Board, the Assistant Attorney General shall make a preliminary determination of equivalency or a preliminary determination to deny certification.
 
-#### &sect; 36.604 Procedure following preliminary determination of equivalency. *(Redesignated from Section 36.605)*
+### &sect; 36.604 Procedure following preliminary determination of equivalency. *(Redesignated from Section 36.605)*
 
 (a)  If the Assistant Attorney General makes a preliminary determination of equivalency under &sect; 36.603, he or she shall inform the submitting official, in writing, of that preliminary determination. The Assistant Attorney General also shall –
 
@@ -1447,12 +1449,12 @@ Upon receipt and review of all information relevant to a request filed by a subm
 
 (b) The Assistant Attorney General, after consultation with the Architectural and Transportation Barriers Compliance Board and consideration of the materials and information submitted pursuant to this section, as well as information provided previously by the submitting official, shall issue either a certification of equivalency or a final determination to deny the request for certification. The Assistant Attorney General shall publish notice of the certification of equivalency or denial of certification in the **Federal Register**.
 
-#### &sect; 36.605 Procedure following preliminary denial of certification. *(Redesignated from Section 36.606)*
+### &sect; 36.605 Procedure following preliminary denial of certification. *(Redesignated from Section 36.606)*
 
 (a)  If the Assistant Attorney General makes a preliminary determination to deny certification of a code under &sect; 36.603, he or she shall notify the submitting official of the determination.
 (b)  The Assistant Attorney General shall allow the submitting official not less than 15 days to submit data, views, and arguments in opposition to the preliminary determination to deny certification. If the submitting official does not submit materials, the Assistant Attorney General shall not be required to take any further action. If the submitting official submits materials, the Assistant Attorney General shall evaluate those materials and any other relevant information. After evaluation of any newly submitted materials, the Assistant Attorney General shall make either a final denial of certification or a preliminary determination of equivalency.
 
-#### &sect; 36.606 Effect of certification. *(Redesignated from Section 36.607)*
+### &sect; 36.606 Effect of certification. *(Redesignated from Section 36.607)*
 
 (a)
 
@@ -1463,7 +1465,7 @@ Upon receipt and review of all information relevant to a request filed by a subm
 (c)  A submitting official may reapply for certification of amendments or other changes to a code that has already received certification.
 (d)  When the standards of the Act against which a code is deemed equivalent are revised or amended substantially, a certification of equivalency issued under the preexisting standards is no longer effective, as of the date the revised standards take effect. However, construction in compliance with a certified code during the period when a certification of equivalency was effective shall be considered rebuttable evidence of compliance with the Standards then in effect as to those elements of buildings and facilities that comply with the certified code. A submitting official may reapply for certification pursuant to the Act's revised standards, and, to the extent possible, priority will be afforded the request in the review process.
 
-#### &sect; 36.607 Guidance concerning model codes. *(Redesignated from Section 36.608)*
+### &sect; 36.607 Guidance concerning model codes. *(Redesignated from Section 36.608)*
 
 Upon application by an authorized representative of a private entity responsible for developing a model code, the Assistant Attorney General may review the relevant model code and issue guidance concerning whether and in what respects the model code is consistent with the minimum requirements of the Act for the accessibility and usability of places of public accommodation and commercial facilities under this part.
 
@@ -1477,7 +1479,7 @@ Upon application by an authorized representative of a private entity responsible
 
 This section provides a detailed description of the Department's changes to the title III regulation, the reasoning behind those changes, and responses to public comments received on these topics. The Section-by-Section Analysis follows the order of the title III regulation itself, except that if the Department has not changed a regulatory section, the unchanged section has not been mentioned.
 
-### Subpart A—General
+## Subpart A—General
 
 *Section 36.104 Definitions*
 
@@ -1749,7 +1751,7 @@ Many commenters strongly recommended limiting the use of VRI to circumstances wh
 
 After consideration of the comments and the Department's own research and experience, the Department has determined that VRI can be an effective method of providing interpreting services in certain circumstances, but not in others. For example, VRI should be effective in many situations involving routine medical care, as well as in the emergency room where urgent care is important, but no in-person interpreter is available; however, VRI may not be effective in situations involving surgery or other medical procedures where the patient is limited in his or her ability to See the video screen. Similarly, VRI may not be effective in situations where there are multiple people in a room and the information exchanged is highly complex and fast paced. The Department recognizes that in these and other situations, such as where communication is needed for persons who are deaf-blind, it may be necessary to summon an in-person interpreter to assist certain individuals. To ensure that VRI is effective in situations where it is appropriate, the Department has established performance standards in &sect; 36.303(f).
 
-### Subpart B—General Requirements
+## Subpart B—General Requirements
 
 *Section 36.208(b) Direct Threat*
 
@@ -1761,7 +1763,7 @@ Section 36.211 of the 1991 title III regulation provides that a public accommoda
 
 The Department received only four comments on this proposed amendment. None of the commenters opposed the change. In the final rule, the Department has revised the section to make it clear that if the 2010 Standards reduce either the technical requirements or the number of required accessible elements below that required by the 1991 Standards, then the public accommodation may reduce the technical requirements or the number of accessible elements in a covered facility in accordance with the requirements of the 2010 Standards. One commenter, an association of convenience stores, urged the Department to expand the language of the section to include restocking of shelves as a permissible activity for isolated or temporary interruptions in service or access. It is the Department's position that a temporary interruption that blocks an accessible route, such as restocking of shelves, is already permitted by existing &sect; 36.211(b), which clarifies that "isolated or temporary interruptions in service or access due to maintenance or repairs" are permitted. Therefore, the Department will not make any additional changes in the language of &sect; 36.211 other than those discussed in the preceding paragraph.
 
-### Subpart C—Specific Requirements
+## Subpart C—Specific Requirements
 
 *Section 36.302 Modifications in Policies, Practices, or Procedures*
 
@@ -2409,7 +2411,7 @@ Possession of a valid, State-issued disability parking placard or card or a verb
 
 However, an individual with a mobility disability who has complied with a public accommodation's stated policies cannot be refused use of the other power-driven mobility device if he or she has provided a credible assurance that the use of the device is for a mobility disability.
 
-### Subpart D—New Construction and Alterations
+## Subpart D—New Construction and Alterations
 
 Subpart D establishes the title I requirements applicable to new construction and alterations. The Department has amended this subpart to adopt the 2004 ADAAG, set forth the effective dates for implementation of the 2010 Standards, and make related revisions as described below.
 
@@ -2607,7 +2609,7 @@ In the NPRM, the Department sought additional comment on the issue, asking wheth
 
 The Department has decided to require medical care facilities to disperse their accessible sleeping rooms in a manner that is proportionate by type of medical specialty. This does not require exact mathematical proportionality, which at times would be impossible. However, it does require that medical care facilities disperse their accessible rooms by medical specialty so that persons with disabilities can, to the extent practical, stay in an accessible room within the wing or ward that is appropriate for their medical needs. The language used in this rule ("in a manner that is proportionate by type of medical specialty") is more specific than that used in the NPRM ("in a manner that enables patients with disabilities to have access to appropriate specialty services") and adopts the concept of proportionality proposed by the commenters. Accessible rooms should be dispersed throughout all medical specialties, such as obstetrics, orthopedics, pediatrics, and cardiac care.
 
-### Subpart F—Certification of State Laws or Local Building Codes
+## Subpart F—Certification of State Laws or Local Building Codes
 
 Subpart F contains procedures implementing section 308(b)(1)(A)(ii) of the ADA, which provides that on the application of a State or local jurisdiction, the Attorney General may certify that a State or local building code or similar ordinance meets or exceeds the minimum accessibility requirements of the Act. In enforcement proceedings, this certification will constitute rebuttable evidence that the law or code meets or exceeds the ADA's requirements. In its NPRM, the Department proposed three changes in subpart F that would streamline the process for public entities seeking certification, all of which are adopted in this final rule.
 
@@ -2763,13 +2765,13 @@ Note: For the convenience of the reader, this appendix contains the text of the 
 
 ## Section-By-Section Analysis and Response to Comments
 
-### Subpart A -- General
+## Subpart A -- General
 
-#### Section 36.101 Purpose
+### Section 36.101 Purpose
 
 Section 36.101 states the purpose of the rule, which is to effectuate title III of the Americans with Disabilities Act of 1990. This title prohibits discrimination on the basis of disability by public accommodations, requires places of public accommodation and commercial facilities to be designed, constructed, and altered in compliance with the accessibility standards established by this part, and requires that examinations or courses related to licensing or certification for professional or trade purposes be accessible to persons with disabilities.
 
-#### Section 36.102 Application
+### Section 36.102 Application
 
 Section 36.102 specifies the range of entities and facilities that have obligations under the final rule. The rule applies to any public accommodation or commercial facility as those terms are defined in Sec.36.104. It also applies, in accordance with section 309 of the ADA, to private entities that offer examinations or courses related to applications, licensing, certification, or credentialing for secondary or postsecondary education, professional, or trade purposes. Except as provided in Sec.36.206, &quot;Retaliation or coercion," this part does not apply to individuals other than public accommodations or to public entities. Coverage of private individuals and public entities is discussed in the preamble to Sec.36.206.
 
@@ -2779,7 +2781,7 @@ On the other hand, as mandated by the ADA and reflected in Sec.36.102(c), the ne
 
 Section 36.102(e) states that the rule does not apply to any private club, religious entity, or public entity. Each of these terms is defined in Sec.36.104. The exclusion of private clubs and religious entities is derived from section 307 of the ADA; and the exclusion of public entities is based on the statutory definition of public accommodation in section 301(7) of the ADA, which excludes entities other than private entities from coverage under title III of the ADA.
 
-#### Section 36.103 Relationship to Other Laws
+### Section 36.103 Relationship to Other Laws
 
 Section 36.103 is derived from sections 501 (a) and (b) of the ADA. Paragraph (a) provides that, except as otherwise specifically provided by this part, the ADA is not intended to apply lesser standards than are required under title V of the Rehabilitation Act of 1973, as amended (29 U.S.C. 790 - 794), or the regulations implementing that title. The standards of title V of the Rehabilitation Act apply for purposes of the ADA to the extent that the ADA has not explicitly adopted a different standard from title V. Where the ADA explicitly provides a different standard from section 504, the ADA standard applies to the ADA, but not to section 504. For example, section 504 requires that all federally assisted programs and activities be readily accessible to and usable by individuals with handicaps, even if major structural alterations are necessary to make a program accessible. Title III of the ADA, in contrast, only requires alterations to existing facilities if the modifications are &quot;readily achievable," that is, able to be accomplished easily and without much difficulty or expense. A public accommodation that is covered under both section 504 and the ADA is still required to meet the &quot;program accessibility" standard in order to comply with section 504, but would not be in violation of the ADA unless it failed to make &quot;readily achievable" modifications. On the other hand, an entity covered by the ADA is required to make &quot;readily achievable" modifications, even if the program can be made accessible without any architectural modifications. Thus, an entity covered by both section 504 and title III of the ADA must meet both the &quot;program accessibility" requirement and the &quot;readily achievable" requirement.
 
@@ -2789,7 +2791,7 @@ Paragraph (c) makes clear that Congress did not intend to displace any of the ri
 
 A commenter had concerns about privacy requirements for banking transactions using telephone relay services. Title IV of the Act provides adequate protections for ensuring the confidentiality of communications using the relay services. This issue is more appropriately addressed by the Federal Communications Commission in its regulation implementing title IV of the Act.
 
-##### Section 36.104 Definitions
+### Section 36.104 Definitions
 
 &quot;Act." The word &quot;Act" is used in the regulation to refer to the Americans with Disabilities Act of 1990, Pub. L. 101 - 336, which is also referred to as the &quot;ADA."
 
@@ -2827,7 +2829,7 @@ If an individual meets any one of these three tests, he or she is considered to 
 
 Congress adopted this same basic definition of &quot;disability," first used in the Rehabilitation Act of 1973 and in the Fair Housing Amendments Act of 1988, for a number of reasons. It has worked well since it was adopted in 1974. There is a substantial body of administrative interpretation and judicial precedent on this definition. Finally, it would not be possible to guarantee comprehensiveness by providing a list of specific disabilities, especially because new disorders may be recognized in the future, as they have since the definition was first established in 1974.
 
-##### Test A -- A Physical or Mental Impairment That Substantially Limits One or More of the Major Life Activities of Such Individual
+#### Test A -- A Physical or Mental Impairment That Substantially Limits One or More of the Major Life Activities of Such Individual
 
 *Physical or mental impairment.* Under the first test, an individual must have a physical or mental impairment. As explained in paragraph (1) (i) of the definition, &quot;impairment" means any physiological disorder or condition, cosmetic disfigurement, or anatomical loss affecting one or more of the following body systems: Neurological; musculoskeletal; special sense organs (including speech organs that are not respiratory, such as vocal cords, soft palate, and tongue); respiratory, including speech organs; cardiovascular; reproductive; digestive; genitourinary; hemic and lymphatic; skin; and endocrine. It also means any mental or psychological disorder, such as mental retardation, organic brain syndrome, emotional or mental illness, and specific learning disabilities. This list closely tracks the one used in the regulations for section 504 of the Rehabilitation Act of 1973 (*see, e.g.*, 45 CFR 84.3(j)(2)(i)).
 
@@ -2855,13 +2857,13 @@ Sometimes respiratory or neurological functioning is so severely affected that a
 
 In sum, the determination as to whether allergies to cigarette smoke, or allergies or sensitivities characterized by the commenters as environmental illness are disabilities covered by the regulation must be made using the same case-by-case analysis that is applied to all other physical or mental impairments. Moreover, the addition of specific regulatory provisions relating to environmental illness in the final rule would be inappropriate at this time pending future consideration of the issue by the Architectural and Transportation Barriers Compliance Board, the Environmental Protection Agency, and the Occupational Safety and Health Administration of the Department of Labor.
 
-##### Test B -- A Record of Such an Impairment
+#### Test B -- A Record of Such an Impairment
 
 This test is intended to cover those who have a record of an impairment. As explained in paragraph (3) of the rule's definition of disability, this includes a person who has a history of an impairment that substantially limited a major life activity, such as someone who has recovered from an impairment. It also includes persons who have been misclassified as having an impairment.
 
 This provision is included in the definition in part to protect individuals who have recovered from a physical or mental impairment that previously substantially limited them in a major life activity. Discrimination on the basis of such a past impairment is prohibited. Frequently occurring examples of the first group (those who have a history of an impairment) are persons with histories of mental or emotional illness, heart disease, or cancer; examples of the second group (those who have been misclassified as having an impairment) are persons who have been misclassified as having mental retardation or mental illness.
 
-##### Test C -- Being Regarded as Having Such an Impairment
+#### Test C -- Being Regarded as Having Such an Impairment
 
 This test, as contained in paragraph (4) of the definition, is intended to cover persons who are treated by a private entity or public accommodation as having a physical or mental impairment that substantially limits a major life activity. It applies when a person is treated as if he or she has an impairment that substantially limits a major life activity, regardless of whether that person has an impairment.
 
@@ -3004,11 +3006,11 @@ The definition lists factors considered in determining whether provision of an a
 
 Further analysis of the factors to be considered in determining undue burden may be found in the preamble discussion of the definition of the term &quot;readily achievable."
 
-### Subpart B -- General Requirements
+## Subpart B -- General Requirements
 
 Subpart B includes general prohibitions restricting a public accommodation from discriminating against people with disabilities by denying them the opportunity to benefit from goods or services, by giving them unequal goods or services, or by giving them different or separate goods or services. These general prohibitions are patterned after the basic, general prohibitions that exist in other civil rights laws that prohibit discrimination on the basis of race, sex, color, religion, or national origin.
 
-#### Section 36.201 General
+### Section 36.201 General
 
 Section 36.201(a) contains the general rule that prohibits discrimination on the basis of disability in the full and equal enjoyment of goods, services, facilities, privileges, advantages, and accommodations of any place of public accommodation.
 
@@ -3042,7 +3044,7 @@ Private clubs are also exempt from the ADA. However, consistent with title II of
 
 On the other hand, if the private club rents to a day care center that is open to the public, then the private club would have the same obligations as any other public accommodation that functions as a landlord with respect to compliance with title III within the day care center. In such a situation, both the private club that &quot;leases to" a public accommodation and the public accommodation lessee (the day care center) would be subject to the ADA. This same principle would apply if the private club were to rent to, for example, a bar association, which is not generally a public accommodation but which, as explained above, becomes a public accommodation when it leases space for a conference.
 
-#### Section 36.202 Activities
+### Section 36.202 Activities
 
 Section 36.202 sets out the general forms of discrimination prohibited by title III of the ADA. These general prohibitions are further refined by the specific prohibitions in subpart C. Section 36.213 makes clear that the limitations on the ADA's requirements contained in subpart C, such as &quot;necessity" (Sec.36.301(a)) and &quot;safety" (Sec.36.301(b)), are applicable to the prohibitions in Sec.36.202. Thus, it is unnecessary to add these limitations to Sec.36.202 as has been requested by some commenters. In addition, the language of Sec.36.202 very closely tracks the language of section 302(b)(1)(A) of the Act, and that statutory provision does not expressly contain these limitations.
 
@@ -3056,7 +3058,7 @@ A public accommodation may not exclude persons with disabilities on the basis of
 
 Each of the three paragraphs (a) - (c) prohibits discrimination against an individual or class of individuals &quot;either directly or through contractual, licensing, or other arrangements." The intent of the contractual prohibitions of these paragraphs is to prohibit a public accommodation from doing indirectly, through a contractual relationship, what it may not do directly. Thus, the &quot;individual or class of individuals" referenced in the three paragraphs is intended to refer to the clients and customers of the public accommodation that entered into a contractual arrangement. It is not intended to encompass the clients or customers of other entities. A public accommodation, therefore, is not liable under this provision for discrimination that may be practiced by those with whom it has a contractual relationship, when that discrimination is not directed against its own clients or customers. For example, if an amusement park contracts with a food service company to operate its restaurants at the park, the amusement park is not responsible for other operations of the food service company that do not involve clients or customers of the amusement park. Section 36.202(d) makes this clear by providing that the term &quot;individual or class of individuals" refers to the clients or customers of the public accommodation that enters into the contractual, licensing, or other arrangement.
 
-#### Section 36.203 Integrated Settings
+### Section 36.203 Integrated Settings
 
 Section 36.203 addresses the integration of persons with disabilities. The ADA recognizes that the provision of goods and services in an integrated manner is a fundamental tenet of nondiscrimination on the basis of disability. Providing segregated accommodations and services relegates persons with disabilities to the status of second-class citizens. For example, it would be a violation of this provision to require persons with mental disabilities to eat in the back room of a restaurant or to refuse to allow a person with a disability the full use of a health spa because of stereotypes about the person's ability to participate. Section 36.203(a) states that a public accommodation shall afford goods, services, facilities, privileges, advantages, and accommodations to an individual with a disability in the most integrated setting appropriate to the needs of the individual. Section 36.203(b) specifies that, notwithstanding the existence of separate or different programs or activities provided in accordance with this section, an individual with a disability shall not be denied the opportunity to participate in such programs or activities that are not separate or different. Section 306.203(c), which is derived from section 501(d) of the Americans with Disabilities Act, states that nothing in this part shall be construed to require an individual with a disability to accept an accommodation, aid, service, opportunity, or benefit that he or she chooses not to accept.
 
@@ -3086,7 +3088,7 @@ The Committee added this section (501(d)) to clarify that nothing in the ADA is 
 
 Section 36.213 makes clear that the limitations contained in subpart C are to be read into subpart B. Thus, the integration requirement is subject to the various defenses contained in subpart C, such as safety, if eligibility criteria are at issue (Sec.36.301(b)), or fundamental alteration and undue burden, if the concern is provision of auxiliary aids (Sec.36.303(a)).
 
-#### Section 36.204 Administrative Methods
+### Section 36.204 Administrative Methods
 
 Section 36.204 specifies that an individual or entity shall not, directly, or through contractual or other arrangements, utilize standards or criteria or methods of administration that have the effect of discriminating on the basis of disability or that perpetuate the discrimination of others who are subject to common administrative control. The preamble discussion of Sec.36.301 addresses eligibility criteria in detail.
 
@@ -3094,7 +3096,7 @@ Section 36.204 is derived from section 302(b)(1)(D) of the Americans with Disabi
 
 Of course, Sec.36.204 is subject to the various limitations contained in subpart C including, for example, necessity (Sec.36.301(a)), safety (Sec.36.301(b)), fundamental alteration (Sec.36.302(a)), readily achievable (Sec.36.304(a)), and undue burden (Sec.36.303(a)).
 
-#### Section 36.205 Association
+### Section 36.205 Association
 
 Section 36.205 implements section 302(b)(1)(E) of the Act, which provides that a public accommodation shall not exclude or otherwise deny equal goods, services, facilities, privileges, advantages, accommodations, or other opportunities to an individual or entity because of the known disability of an individual with whom the individual or entity is known to have a relationship or association. This section is unchanged from the proposed rule.
 
@@ -3104,7 +3106,7 @@ This protection is not limited to those who have a familial relationship with th
 
 During the legislative process, the term &quot;entity" was added to section 302(b)(1)(E) to clarify that the scope of the provision is intended to encompass not only persons who have a known association with a person with a disability, but also entities that provide services to or are otherwise associated with such individuals. This provision was intended to ensure that entities such as health care providers, employees of social service agencies, and others who provide professional services to persons with disabilities are not subjected to discrimination because of their professional association with persons with disabilities. For example, it would be a violation of this section to terminate the lease of a entity operating an independent living center for persons with disabilities, or to seek to evict a health care provider because that individual or entity provides services to persons with mental impairments.
 
-#### Section 36.206 Retaliation or Coercion
+### Section 36.206 Retaliation or Coercion
 
 Section 36.206 implements section 503 of the ADA, which prohibits retaliation against any individual who exercises his or her rights under the Act. This section is unchanged from the proposed rule. Paragraph (a) of Sec.36.206 provides that no private entity or public entity shall discriminate against any individual because that individual has exercised his or her right to oppose any act or practice made unlawful by this part, or because that individual made a charge, testified, assisted, or participated in any manner in an investigation, proceeding, or hearing under the Act or this part.
 
@@ -3119,7 +3121,7 @@ Illustrations of practices prohibited by this section are contained in paragraph
 
 This section protects not only individuals who allege a violation of the Act or this part, but also any individuals who support or assist them. This section applies to all investigations or proceedings initiated under the Act or this part without regard to the ultimate resolution of the underlying allegations. Because this section prohibits any act of retaliation or coercion in response to an individual's effort to exercise rights established by the Act and this part (or to support the efforts of another individual), the section applies not only to public accommodations that are otherwise subject to this part, but also to individuals other than public accommodations or to public entities. For example, it would be a violation of the Act and this part for a private individual, *e.g.*, a restaurant customer, to harass or intimidate an individual with a disability in an effort to prevent that individual from patronizing the restaurant. It would, likewise, be a violation of the Act and this part for a public entity to take adverse action against an employee who appeared as a witness on behalf of an individual who sought to enforce the Act.
 
-#### Section 36.207 Places of Public Accommodation Located in Private Residences
+### Section 36.207 Places of Public Accommodation Located in Private Residences
 
 A private home used exclusively as a residence is not covered by title III because it is neither a &quot;commercial facility" nor a &quot;place of public accommodation." In some situations, however, a private home is not used exclusively as a residence, but houses a place of public accommodation in all or part of a home (*e.g.*, an accountant who meets with his or her clients at his or her residence). Section 36.207(a) provides that those portions of the private residence used in the operation of the place of public accommodation are covered by this part.
 
@@ -3133,7 +3135,7 @@ Some commenters asked for clarification as to how the new construction and alter
 
 The preamble to the proposed rule addressed the applicable requirements when a commercial facility is located in a private residence. That situation is now addressed in Sec.36.401(b) of subpart D.
 
-#### Section 36.208 Direct Threat
+### Section 36.208 Direct Threat
 
 Section 36.208(a) implements section 302(b)(3) of the Act by providing that this part does not require a public accommodation to permit an individual to participate in or benefit from the goods, services, facilities, privileges, advantages and accommodations of the public accommodation, if that individual poses a direct threat to the health or safety of others. This section is unchanged from the proposed rule.
 
@@ -3153,7 +3155,7 @@ The Department believes that the ADA clearly requires that any determination to 
 
 Some other commenters asked for clarification of the application of this provision to persons, particularly children, who have short-term, contagious illnesses, such as fevers, influenza, or the common cold. It is common practice in schools and day care settings to exclude persons with such illnesses until the symptoms subside. The Department believes that these commenters misunderstand the scope of this rule. The ADA only prohibits discrimination against an individual with a disability. Under the ADA and this part, a &quot;disability" is defined as a physical or mental impairment that substantially limits one or more major life activities. Common, short-term illnesses that predictably resolve themselves within a matter of days do not &quot;substantially limit" a major life activity; therefore, it is not a violation of this part to exclude an individual from receiving the services of a public accommodation because of such transitory illness. However, this part does apply to persons who have long-term illnesses. Any determination with respect to a person who has a chronic or long-term illness must be made in compliance with the requirements of this section.
 
-#### Section 36.209 Illegal Use of Drugs
+### Section 36.209 Illegal Use of Drugs
 
 Section 36.209 effectuates section 510 of the ADA, which clarifies the Act's application to people who use drugs illegally. Paragraph (a) provides that this part does not prohibit discrimination based on an individual's current illegal use of drugs.
 
@@ -3177,11 +3179,11 @@ Paragraph (c) of Sec.36.209 clarifies that it is not a violation of this part to
 
 One commenter argued that the rule should permit testing for lawful use of prescription drugs, but most favored the explanation that tests must be limited to unlawful use in order to avoid revealing the use of prescription medicine used to treat disabilities. Tests revealing legal use of prescription drugs might violate the prohibition in Sec.36.301 of attempts to unnecessarily identify the existence of a disability.
 
-***Section 36.210 Smoking***
+### Section 36.210 Smoking
 
 Section 36.210 restates the clarification in section 501(b) of the Act that the Act does not preclude the prohibition of, or imposition of restrictions on, smoking. Some commenters argued that Sec.36.210 does not go far enough, and that the regulation should prohibit smoking in all places of public accommodation. The reference to smoking in section 501 merely clarifies that the Act does not require public accommodations to accommodate smokers by permitting them to smoke in places of public accommodations.
 
-***Section 36.211 Maintenance of Accessible Features***
+### Section 36.211 Maintenance of Accessible Features
 
 Section 36.211 provides that a public accommodation shall maintain in operable working condition those features of facilities and equipment that are required to be readily accessible to and usable by persons with disabilities by the Act or this part. The Act requires that, to the maximum extent feasible, facilities must be accessible to, and usable by, individuals with disabilities. This section recognizes that it is not sufficient to provide features such as accessible routes, elevators, or ramps, if those features are not maintained in a manner that enables individuals with disabilities to use them. Inoperable elevators, locked accessible doors, or &quot;accessible" routes that are obstructed by furniture, filing cabinets, or potted plants are neither &quot;accessible to" nor &quot;usable by" individuals with disabilities.
 
@@ -3189,7 +3191,7 @@ Some commenters objected that this section appeared to establish an absolute req
 
 Other commenters requested that this section be expanded to include specific requirements for inspection and maintenance of equipment, for training staff in the proper operation of equipment, and for maintenance of specific items. The Department believes that this section properly establishes the general requirement for maintaining access and that further, more detailed requirements are not necessary.
 
-#### Section 36.212 Insurance
+### Section 36.212 Insurance
 
 The Department received numerous comments on proposed Sec.36.212. Most supported the proposed regulation but felt that it did not go far enough in protecting individuals with disabilities and persons associated with them from discrimination. Many commenters argued that language from the preamble to the proposed regulation should be included in the text of the final regulation. Other commenters argued that even that language was not strong enough, and that more stringent standards should be established. Only a few commenters argued that the Act does not apply to insurance underwriting practices or the terms of insurance contracts. These commenters cited language from the Senate committee report (S. Rep. No. 116, 101st Cong., 1st Sess., at 84 - 86 (1989) (hereinafter &quot;Senate report")), indicating that Congress did not intend to affect existing insurance practices.
 
@@ -3209,17 +3211,17 @@ The most frequent comment was a recommendation that the final regulation should 
 
 A few commenters representing the insurance industry conceded that underwriting practices in life and health insurance are clearly covered, but argued that property and casualty insurance are not covered. The Department sees no reason for this distinction. Although life and health insurance are the areas where the regulation will have its greatest application, the Act applies equally to unjustified discrimination in all types of insurance provided by public accommodations. A number of commenters, for example, reported difficulties in obtaining automobile insurance because of their disabilities, despite their having good driving records.
 
-#### Section 36.213 Relationship of Subpart 8 to Subparts C and D
+### Section 36.213 Relationship of Subpart 8 to Subparts C and D
 
 This section explains that subpart B sets forth the general principles of nondiscrimination applicable to all entities subject to this regulation, while subparts C and D provide guidance on the application of this part to specific situations. The specific provisions in subparts C and D, including the limitations on those provisions, control over the general provisions in circumstances where both specific and general provisions apply. Resort to the general provisions of subpart B is only appropriate where there are no applicable specific rules of guidance in subparts C or D. This interaction between the specific requirements and the general requirements operates with regard to contractual obligations as well.
 
 One illustration of this principle is its application to the obligation of a public accommodation to provide access to services by removal of architectural barriers or by alternatives to barrier removal. The general requirement, established in subpart B by Sec.36.203, is that a public accommodation must provide its services to individuals with disabilities in the most integrated setting appropriate. This general requirement would appear to categorically prohibit &quot;segregated" seating for persons in wheelchairs. Section 36.304, however, only requires removal of architectural barriers to the extent that removal is &quot;readily achievable." If providing access to all areas of a restaurant, for example, would not be &quot;readily achievable," a public accommodation may provide access to selected areas only. Also, Sec.36.305 provides that, where barrier removal is not readily achievable, a public accommodation may use alternative, readily achievable methods of making services available, such as curbside service or home delivery. Thus, in this manner, the specific requirements of Sec. 36.304 and 36.305 control over the general requirement of Sec.36.203.
 
-### Subpart C -- Specific Requirements
+## Subpart C -- Specific Requirements
 
 In general, subpart C implements the &quot;specific prohibitions" that comprise section 302(b)(2) of the ADA. It also addresses the requirements of section 309 of the ADA regarding examinations and courses.
 
-#### Section 36.301 Eligibility Criteria
+### Section 36.301 Eligibility Criteria
 
 Section 36.301 of the rule prohibits the imposition or application of eligibility criteria that screen out or tend to screen out an individual with a disability or any class of individuals with disabilities from fully and equally enjoying any goods, services, facilities, privileges, advantages, and accommodations, unless such criteria can be shown to be necessary for the provision of the goods, services, facilities, privileges, advantages, or accommodations being offered. This prohibition is based on section 302(b)(2)(A)(i) of the ADA.
 
@@ -3243,7 +3245,7 @@ In addition, Sec.36.301 prohibits the imposition of criteria that &quot;tend to"
 
 A public accommodation may, however, impose neutral rules and criteria that screen out, or tend to screen out, individuals with disabilities, if the criteria are necessary for the safe operation of the public accommodation. Examples of safety qualifications that would be justifiable in appropriate circumstances would include height requirements for certain amusement park rides or a requirement that all participants in a recreational rafting expedition be able to meet a necessary level of swimming proficiency. Safety requirements must be based on actual risks and not on speculation, stereotypes, or generalizations about individuals with disabilities.
 
-#### Section 36.302 Modifications in Policies, Practices, or Procedures
+### Section 36.302 Modifications in Policies, Practices, or Procedures
 
 Section 36.302 of the rule prohibits the failure to make reasonable modifications in policies, practices, and procedures when such modifications may be necessary to afford any goods, services, facilities, privileges, advantages, or accommodations, unless the entity can demonstrate that making such modifications would fundamentally alter the nature of such goods, services, facilities, privileges, advantages, or accommodations. This prohibition is based on section 302(b)(2)(A)(ii) of the ADA.
 
@@ -3271,7 +3273,7 @@ As specified in Sec.36.302(c)(2), the rule does not require a public accommodati
 
 A museum would not be required by Sec.36.302 to modify a policy barring the touching of delicate works of art in order to enhance the participation of individuals who are blind, if the touching threatened the integrity of the work. Damage to a museum piece would clearly be a fundamental alteration that is not required by this section.
 
-#### Section 36.303 Auxiliary Aids and Services.
+### Section 36.303 Auxiliary Aids and Services.
 
 Section 36.303 of the final rule requires a public accommodation to take such steps as may be necessary to ensure that no individual with a disability is excluded, denied services, segregated or otherwise treated differently than other individuals because of the absence of auxiliary aids and services, unless the public accommodation can demonstrate that taking such steps would fundamentally alter the nature of the goods, services, facilities, advantages, or accommodations being offered or would result in an undue burden. This requirement is based on section 302(b)(2)(A)(iii) of the ADA.
 
@@ -3325,7 +3327,7 @@ Section 36.303(g) of the proposed rule has been deleted from this section and in
 
 The costs of compliance with the requirements of this section may not be financed by surcharges limited to particular individuals with disabilities or any group of individuals with disabilities (Sec.36.301(c)).
 
-#### Section 36.304 Removal of Barriers
+### Section 36.304 Removal of Barriers
 
 Section 36.304 requires the removal of architectural barriers and communication barriers that are structural in nature in existing facilities, where such removal is readily achievable, *i.e.*, easily accomplishable and able to be carried out without much difficulty or expense. This requirement is based on section 302(b)(2)(A)(iv) of the ADA.
 
@@ -3385,7 +3387,7 @@ Temporary facilities brought in for use at the site of a natural disaster are su
 
 A number of commenters requested clarification regarding how to determine when a public accommodation has discharged its obligation to remove barriers in existing facilities. For example, is a hotel required by Sec.36.304 to remove barriers in all of its guest rooms? Or is some lesser percentage adequate? A new paragraph (g) has been added to Sec.36.304 to address this issue. The Department believes that the degree of barrier removal required under Sec.36.304 may be less, but certainly would not be required to exceed, the standards for alterations under the ADA Accessibility Guidelines incorporated by subpart D of this part (ADAAG). The ADA's requirements for readily achievable barrier removal in existing facilities are intended to be substantially less rigorous than those for new construction and alterations. It, therefore, would be obviously inappropriate to require actions under Sec.36.304 that would exceed the ADAAG requirements. Hotels, then, in order to satisfy the requirements of Sec.36.304, would not be required to remove barriers in a higher percentage of rooms than required by ADAAG. If relevant standards for alterations are not provided in ADAAG, then reference should be made to the standards for new construction.
 
-#### Section 36.305 Alternatives to Barrier Removal
+### Section 36.305 Alternatives to Barrier Removal
 
 Section 36.305 specifies that where a public accommodation can demonstrate that removal of a barrier is not readily achievable, the public accommodation must make its goods, services, facilities, privileges, advantages, or accommodations available through alternative methods, if such methods are readily achievable. This requirement is based on section 302(b)(2)(A)(v) of the ADA.
 
@@ -3399,7 +3401,7 @@ Section 36.305(c) of the proposed rule has been deleted and the requirements hav
 
 In the final rule, Sec.36.305(c) provides specific requirements regarding alternatives to barrier removal in multiscreen cinemas. In some situations, it may not be readily achievable to remove enough barriers to provide access to all of the theaters of a multiscreen cinema. If that is the case, Sec.36.305(c) requires the cinema to establish a film rotation schedule that provides reasonable access for individuals who use wheelchairs to films being presented by the cinema. It further requires that reasonable notice be provided to the public as to the location and time of accessible showings. Methods for providing notice include appropriate use of the international accessibility symbol in a cinema's print advertising and the addition of accessibility information to a cinema's recorded telephone information line.
 
-#### Section 36.306 Personal Devices and Services
+### Section 36.306 Personal Devices and Services
 
 The final rule includes a new Sec.36.306, entitled &quot;Personal devices and services." Section 36.306 of the proposed rule, &quot;Readily achievable and undue burden: Factors to be considered," was deleted for the reasons described in the preamble discussion of the definition of the term &quot;readily achievable" in Sec.36.104. In place of Sec. 36.303(g) and 36.305(c) of the proposed rule, which addressed the issue of personal devices and services in the contexts of auxiliary aids and alternatives to barrier removal, Sec.36.306 provides a general statement that the regulation does not require the provision of personal devices and services. This section states that a public accommodation is not required to provide its customers, clients, or participants with personal devices, such as wheelchairs; individually prescribed devices, such as prescription eyeglasses or hearing aids; or services of a personal nature including assistance in eating, toileting, or dressing.
 
@@ -3409,7 +3411,7 @@ The Department wishes to clarify that measures taken as alternatives to barrier 
 
 Of course, if personal services are customarily provided to the customers or clients of a public accommodation, *e.g.*, in a hospital or senior citizen center, then these personal services should also be provided to persons with disabilities using the public accommodation.
 
-#### Section 36.307 Accessible or Special Goods.
+### Section 36.307 Accessible or Special Goods.
 
 Section 36.307 establishes that the rule does not require a public accommodation to alter its inventory to include accessible or special goods with accessibility features that are designed for, or facilitate use by, individuals with disabilities. As specified in Sec.36.307(c), accessible or special goods include such items as Brailled versions of books, books on audio-cassettes, closed captioned video tapes, special sizes or lines of clothing, and special foods to meet particular dietary needs.
 
@@ -3419,7 +3421,7 @@ Although a public accommodation is not required by Sec.36.307(a) to modify its i
 
 One commenter asserted that the proposed rule could be interpreted to require a store to special order accessible or special goods of all types, even if only one type is specially ordered in the normal course of its business. The Department, however, intends for Sec.36.307(b) to require special orders only of those particular types of goods for which a public accommodation normally makes special orders. For example, a book and recording store would not have to specially order Brailled books if, in the normal course of its business, it only specially orders recordings and not books.
 
-#### Section 36.308 Seating in Assembly Areas.
+### Section 36.308 Seating in Assembly Areas.
 
 Section 36.308 establishes specific requirements for removing barriers to physical access in assembly areas, which include such facilities as theaters, concert halls, auditoriums, lecture halls, and conference rooms. This section does not address the provision of auxiliary aids or the removal of communications barriers that are structural in nature. These communications requirements are the focus of other provisions of the regulation (see Sec. 36.303 - 36.304).
 
@@ -3433,13 +3435,13 @@ Likewise, consistent vith ADAAG, the final rule adds in Sec.36.308(a)(1)(ii)(B) 
 
 Finally, because Congress intended that the requirements for barrier removal in existing facilities be substantially less rigorous than those required for new construction and alterations, the final rule clarifies in Sec.36.308(a)(3) that in no event can the requirements for existing facilities be interpreted to exceed the standards for alterations under ADAAG. For example, Sec.4.33 of ADAAG only requires wheelchair spaces to be provided in more than one location when the seating capacity of the assembly area exceeds 300. Therefore, paragraph (a) of Sec.36.308 may not be interpreted to require readily achievable dispersal of wheelchair seating in assembly areas with 300 or fewer seats. Similarly, Sec.4.1.3(19) of ADAAG requires six accessible wheelchair locations in an assembly area with 301 to 500 seats. The reasonable number of wheelchair locations required by paragraph (a), therefore, may be less than six, but may not be interpreted to exceed six.
 
-#### Proposed Section 36.309 Purchase of Furniture and Equipment
+### Proposed Section 36.309 Purchase of Furniture and Equipment
 
 Section 36.309 of the proposed rule would have required that newly purchased furniture or equipment made available for use at a place of public accommodation be accessible, to the extent such furniture or equipment is available, unless this requirement would fundamentally alter the goods, services, facilities, privileges, advantages, or accommodations offered, or would not be readily achievable. Proposed Sec.36.309 has been omitted from the final rule because the Department has determined that its requirements are more properly addressed under other sections, and because there are currently no appropriate accessibility standards addressing many types of furniture and equipment.
 
 Some types of equipment will be required to meet the accessibility requirements of subpart D. For example, ADAAG establishes technical and scoping requirements in new construction and alterations for automated teller machines and telephones. Purchase or modification of equipment is required in certain instances by the provisions in Sec. 36.201 and 36.202. For example, an arcade may need to provide accessible video machines in order to ensure full and equal enjoyment of the facilities and to provide an opportunity to participate in the services and facilities it provides. The barrier removal requirements of Sec.36.304 will apply as well to furniture and equipment (lowering shelves, rearranging furniture, adding Braille labels to a vending machine).
 
-#### Section 36.309 Examinations and Courses
+### Section 36.309 Examinations and Courses
 
 Section 36.309(a) sets forth the general rule that any private entity that offers examinations or courses related to applications, licensing, certification, or credentialing for secondary or postsecondary education, professional, or trade purposes shall offer such examinations or courses in a place and manner accessible to persons with disabilities or offer alternative accessible arrangements for such individuals.
 
@@ -3481,7 +3483,7 @@ Paragraph (c) sets forth specific requirements for courses. Paragraph (c)(1) con
 
 In language similar to that of paragraph (b), paragraph (c)(3) requires auxiliary aids and services, unless a fundamental alteration or undue burden would result, and paragraph (c)(4) requires that courses be administered in accessible facilities. Paragraph (c)(5) gives examples of alternative accessible arrangements. These may include provision of the course through videotape, cassettes, or prepared notes. Alternative arrangements must provide comparable conditions to those provided to others, including similar lighting, room temperature, and the like. An entity offering a variety of courses, to fulfill continuing education requirements for a profession, for example, may not limit the selection or choice of courses available to individuals with disabilities.
 
-#### Section 36.310 Transportation Provided by Public Accommodations
+### Section 36.310 Transportation Provided by Public Accommodations
 
 Section 36.310 contains specific provisions relating to public accommodations that provide transportation to their clients or customers. This section has been substantially revised in order to coordinate the requirements of this section with the requirements applicable to these transportation systems that will be contained in the regulations issued by the Secretary of Transportation pursuant to section 306 of the ADA, to be codified at 49 CFR part 37. The Department notes that, although the responsibility for issuing regulations applicable to transportation systems operated by public accommodations is divided between this Department and the Department of - Transportation, enforcement authority is assigned only to the Department of Justice.
 
@@ -3493,7 +3495,7 @@ Paragraph (b) specifically provides that a public accommodation shall remove tra
 
 Paragraph (c) provides that public accommodations subject to this section shall comply with the requirements for transportation vehicles and systems contained in the regulations issued by the Secretary of Transportation.
 
-### Subpart D -- New Construction and Alterations
+## Subpart D -- New Construction and Alterations
 
 Subpart D implements section 303 of the Act, which requires that newly constructed or altered places of public accommodation or commercial facilities be readily accessible to and usable by individuals with disabilities. This requirement contemplates a high degree of convenient access. It is intended to ensure that patrons and employees of places of public accommodation and employees of commercial facilities are able to get to, enter, and use the facility.
 
@@ -3505,15 +3507,15 @@ The Act does not require new construction or alterations; it simply requires tha
 
 As explained under the discussion of the definition of &quot;facility," Sec.36.104, pending development of specific requirements, the Department will not apply this subpart to places of public accommodation located in mobile units, boats, or other conveyances.
 
-#### Section 36.401 New Construction
+### Section 36.401 New Construction
 
-##### General
+#### General
 
 Section 36.401 implements the new construction requirements of the ADA. Section 303 (a)(1) of the Act provides that discrimination for purposes of section 302(a) of the Act includes a failure to design and construct facilities for first occupancy later than 30 months after the date of enactment (*i.e.*, after January 26, 1993) that are readily accessible to and usable by individuals with disabilities.
 
 Paragraph 36.401(a)(1) restates the general requirement for accessible new construction. The proposed rule stated that &quot;any public accommodation or other private entity responsible for design and construction" must ensure that facilities conform to this requirement. Various commenters suggested that the proposed language was not consistent with the statute because it substituted &quot;private entity responsible for design and construction" for the statutory language; because it did not address liability on the part of architects, contractors, developers, tenants, owners, and other entities; and because it limited the liability of entities responsible for commercial facilities. In response, the Department has revised this paragraph to repeat the language of section 303(a) of the ADA. The Department will interpret this section in a manner consistent with the intent of the statute and with the nature of the responsibilities of the various entities for design, for construction, or for both.
 
-##### Designed and Constructed for First Occupancy
+#### Designed and Constructed for First Occupancy
 
 According to paragraph (a)(2), a facility is subject to the new construction requirements only if a completed application for a building permit or permit extension is filed after January 26, 1992, and the facility is occupied after January 26, 1993.
 
@@ -3531,7 +3533,7 @@ However, a few commenters pointed out that in some jurisdictions it is not possi
 
 The date of January 26, 1992, is relevant only with respect to the last application for a permit or permit extension for a facility. Thus, if an entity has applied for only a &quot;foundation" permit, the date of that permit application has no effect, because the entity must also apply for and receive a permit at a later date for the actual superstructure. In this case, it is the date of the later application that would control, unless construction is not completed within the time allowed by the permit, in which case a third permit would be issued and the date of the application for that permit would be determinative for purposes of the rule.
 
-##### Choice of Option One for Defining &quot;Designed and Constructed for First Occupancy"
+#### Choice of Option One for Defining &quot;Designed and Constructed for First Occupancy"
 
 Under the option the Department has chosen for determining applicability of the new construction standards, a building would be considered to be &quot;for first occupancy" after January 26, 1993, only (1) if the last application for a building permit or permit extension for the facility is certified to be complete (or, in some jurisdictions, received) by a State, county, or local government after January 26, 1992, and (2) if the first certificate of occupancy is issued after January 26, 1993. The Department also asked for comment on an Option Two, which would have imposed new construction requirements if a completed application for a building permit or permit extension was filed after the enactment of the ADA (July 26, 1990), and the facility was occupied after January 26, 1993.
 
@@ -3549,7 +3551,7 @@ If final regulations have not been issued pursuant to this section, for new cons
 
 The approach in Option Two relies partly on the language of section 310 of the Act, which provides that section 306, the interim standards provision, takes effect on the date of enactment. Under this interpretation the interim standards provision would prevail over the operative provision, section 303, which requires that new construction be accessible and which becomes effective January 26, 1992. This approach would also require construing the language of section 306(d)(1) to take effect before the Department's standards are due to be issued. The preferred reading of section 306 is that it would require that, if the Department's final standards had not been issued by July 26, 1991, UFAS would apply to certain buildings until such time as the Department's standards were issued.
 
-##### General Substantive Requirements of the New Construction Provisions
+#### General Substantive Requirements of the New Construction Provisions
 
 The rule requires, as does the statute, that covered newly constructed facilities be readily accessible to and usable by individuals with disabilities. The phrase &quot;readily accessible to and usable by individuals with disabilities" is a term that, in slightly varied formulations, has been used in the Architectural Barriers Act of 1968, the Fair Housing Act, the regulations implementing section 504 of the Rehabilitation Act of 1973, and current accessibility standards. It means, with respect to a facility or a portion of a facility, that it can be approached, entered, and used by individuals with disabilities (including mobility, sensory, and cognitive impairments) easily and conveniently. A facility that is constructed to meet the requirements of the rule's accessibility standards will be considered readily accessible and usable with respect to construction. To the extent that a particular type or element of a facility is not specifically addressed by the standards, the language of this section is the safest guide.
 
@@ -3557,7 +3559,7 @@ A private entity that renders an &quot;accessible" building inaccessible in its 
 
 Ensuring access to a newly constructed facility will include providing access to the facility from the street or parking lot, to the extent the responsible entity has control over the route from those locations. In some cases, the private entity will have no control over access at the point where streets, curbs, or sidewalks already exist, and in those instances the entity is encouraged to request modifications to a sidewalk, including installation of curb cuts, from a public entity responsible for them. However, as some commenters pointed out, there is no obligation for a private entity subject to title III of the ADA to seek or ensure compliance by a public entity with title II. Thus, although a locality may have an obligation under title II of the Act to install curb cuts at a particular location, that responsibility is separate from the private entity's title III obligation, and any involvement by a private entity in seeking cooperation from a public entity is purely voluntary in this context.
 
-##### Work Areas
+#### Work Areas
 
 Proposed paragraph 36.401(b) addressed access to employment areas, rather than to the areas where goods or services are being provided. The preamble noted that the proposed paragraph provided guidance for new construction and alterations until more specific guidance was issued by the ATBCB and reflected in this Department's regulation. The entire paragraph has been deleted from this section in the final rule. The concepts of paragraphs (b) (1), (2), and (5) of the proposed rule are included, with modifications and expansion, in ADAAG. Paragraphs (3) and (4) of the proposed rule, concerning fixtures and equipment, are not included in the rule or in ADAAG.
 
@@ -3571,7 +3573,7 @@ Proposed paragraphs (b) (3) and (4) would have required that consideration be gi
 
 Paragraph (b)(5) of proposed Sec.36.401 clarified that proposed paragraph (b) did not limit the requirement that employee areas other than individual work stations must be accessible. For example, areas that are employee &quot;common use" areas and are not solely used as work stations (*e.g.*, employee lounges, cafeterias, health units, exercise facilities) are treated no differently under this regulation than other parts of a building; they must be constructed or altered in compliance with the accessibility standards. This principle is not stated in Sec.36.401 but is implicit in the requirements of this section and ADAAG.
 
-##### Commercial Facilities in Private Residences
+#### Commercial Facilities in Private Residences
 
 Section 36.401(b) of the final rule is a new provision relating to commercial facilities located in private residences. The proposed rule addressed these requirements in the preamble to Sec.36.207, &quot;Places of public accommodation located in private residences." The preamble stated that the approach for commercial facilities would be the same as that for places of public accommodation, *i.e.*, those portions used exclusively as a commercial facility or used as both a commercial facility and for residential purposes would be covered. Because commercial facilities are only subject to new construction and alterations requirements, however, the covered portions would only be subject to subpart D. This approach is reflected in Sec.36.401(b)(1).
 
@@ -3581,7 +3583,7 @@ Paragraph (b)(2) is similar to the new paragraph (b) under Sec.36.207, &quot;Pla
 
 As in the case of public accommodations located in private residences, the new construction standards only apply to the extent that a portion of the residence is designed or intended for use as a commercial facility. Likewise, if a homeowner alters a portion of his home to convert it to a commercial facility, that work must be done in compliance with the alterations standards in appendix A.
 
-##### Structural Impracticability
+#### Structural Impracticability
 
 Proposed Sec.36.401(c) is included in the final rule with minor changes. It details a statutory exception to the new construction requirement: the requirement that new construction be accessible does not apply where an entity can demonstrate that it is structurally impracticable to meet the requirements of the regulation. This provision is also included in ADAAG, at section 4.1.1(5)(a).
 
@@ -3601,7 +3603,7 @@ As explained in the preamble to the proposed rule, in those rare circumstances i
 
 If it is structurally impracticable for a facility in its entirety to be readily accessible to and usable by people with disabilities, then those portions that can be made accessible should be made accessible. If a building cannot be constructed in compliance with the full range of accessibility requirements because of structural impracticability, then it should still incorporate those features that are structurally practicable. If it is structurally impracticable to make a particular facility accessible to persons who have particular types of disabilities, it is still appropriate to require it to be made accessible to persons with other types of disabilities. For example, a facility that is of necessity built on stilts and cannot be made accessible to persons who use wheelchairs because it is structurally impracticable to do so, must be made accessible for individuals with vision or hearing impairments or other kinds of disabilities.
 
-##### Elevator Exemption
+#### Elevator Exemption
 
 Section 36.401(d) implements the &quot;elevator exemption" for new construction in section 303(b) of the ADA. The elevator exemption is an exception to the general requirement that new facilities be readily accessible to and usable by individuals with disabilities. Generally, an elevator is the most common way to provide individuals who use wheelchairs &quot;ready access" to floor levels above or below the ground floor of a multi-story building. Congress, however, chose not to require elevators in new small buildings, that is, those with less than three stories or less than 3,000 square feet per story. In buildings eligible for the exemption, therefore, &quot;ready access" from the building entrance to a floor above or below the ground floor is not required, because the statute does not require that an elevator be installed in such buildings. The elevator exemption does not apply, however, to a facility housing a shopping center, a shopping mall, or the professional office of a health care provider, or other categories of facilities as determined by the Attorney General. For example, a new office building that will have only two stories, with no elevator planned, will not be required to have an elevator, even if each story has 20,000 square feet. In other words, having either less than 3000 square feet per story or less than three stories qualifies a facility for the exemption; it need not qualify for the exemption on both counts. Similarly, a facility that has five stories of 2800 square feet each qualifies for the exemption. If a facility has three or more stories at any point, it is not eligible for the elevator exemption unless all the stories are less than 3000 square feet.
 
@@ -3656,7 +3658,7 @@ One commenter asserted that this provision goes beyond the Department's authorit
 
 One commenter said that where an elevator is not required, platform lifts should be required. Two commenters pointed out that the elevator exemption is really an exemption from the requirement for providing an accessible route to a second floor not served by an elevator. The Department agrees with the latter comment. Lifts to provide access between floors are not required in buildings that are not required to have elevators. This point is specifically addressed in the appendix to ADAAG (Sec.4.1.3(5)). ADAAG also addresses in detail the situations in which lifts are permitted or required.
 
-#### Section 36.402 Alterations
+### Section 36.402 Alterations
 
 Sections 36.402 - 36.405 implement section 303(a)(2) of the Act, which requires that alterations to existing facilities be made in a way that ensures that the altered portion is readily accessible to and usable by individuals with disabilities. This part does not require alterations; it simply provides that when alterations are undertaken, they must be made in a manner that provides access.
 
@@ -3680,7 +3682,7 @@ The Department received relatively few comments on paragraph (c), which explains
 
 Section 36.402(c) is, therefore, essentially unchanged from the proposed rule. At the recommendation of a commenter, the Department has inserted the word &quot;virtually" to modify &quot;impossible" to conform to the language of the legislative history. It explains that the phrase &quot;to the maximum extent feasible" as used in this section applies to the occasional case where the nature of an existing facility makes it virtually impossible to comply fully with applicable accessibility standards through a planned alteration. In the occasional cases in which full compliance is impossible, alterations shall provide the maximum physical accessibility feasible. Any features of the facility that are being altered shall be made accessible unless it is technically infeasible to do so. If providing accessibility in conformance with this section to individuals with certain disabilities (*e.g.*, those who use wheelchairs) would not be feasible, the facility shall be made accessible to persons with other types of disabilities (*e.g.*, those who use crutches or who have impaired vision or hearing, or those who have other types of impairments).
 
-#### Section 36.403 Alterations: Path of Travel
+### Section 36.403 Alterations: Path of Travel
 
 Section 36.403 implements the statutory requirement that any alteration that affects or could affect the usability of or access to an area of a facility that contains a primary function shall be made so as to ensure that, to the maximum extent feasible, the path of travel to the altered area, and the restrooms, telephones, and drinking fountains serving the altered area, are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, unless the cost and scope of such alterations is disproportionate to the cost of the overall alteration. Paragraph (a) restates this statutory requirement.
 
@@ -3729,7 +3731,7 @@ Paragraph (g)(2) (paragraph (f)(2) in the NPRM) establishes that priority should
 
 Paragraph (h) (paragraph (g) in the proposed rule) provides that the obligation to provide an accessible path of travel may not be evaded by performing a series of small alterations to the area served by a single path of travel if those alterations could have been performed as a single undertaking. If an area containing a primary function has been altered without providing an accessible path of travel to serve that area, and subsequent alterations of that area, or a different area on the same path of travel, are undertaken within three years of the original alteration, the total cost of alterations to primary function areas on that path of travel during the preceding three year period shall be considered in determining whether the cost of making the path of travel serving that area accessible is disproportionate. Only alterations undertaken after January 26, 1992, shall be considered in determining if the cost of providing accessible features is disproportionate to the overall cost of the alterations.
 
-#### Section 36.404 Alterations: Elevator Exemption
+### Section 36.404 Alterations: Elevator Exemption
 
 Section 36.404 implements the elevator exemption in section 303(b) of the Act as it applies to altered facilities. The provisions of section 303(b) are discussed in the preamble to Sec.36.401(d) above. The statute applies the same exemption to both new construction and alterations. The principal difference between the requirements of Sec.36.401(d) and Sec.36.404 is that, in altering an existing facility that is not eligible for the statutory exemption, the public accommodation or other private entity responsible for the alteration is not required to install an elevator if the installation of an elevator would be disproportionate in cost and scope to the cost of the overall alteration as provided in Sec.36.403(f)(1). In addition, the standards referenced in Sec.36.406 (ADAAG) provide that installation of an elevator in an altered facility is not required if it is &quot;technically infeasible."
 
@@ -3743,7 +3745,7 @@ The Department believes that it is appropriate to use a different definition of 
 
 Like Sec.36.401(d), Sec.36.404 provides that the exemptions in this paragraph do not obviate or limit in any way the obligation to comply with the other accessibility requirements established in this subpart. For example, alterations to floors above or below the ground floor must be accessible regardless of whether the altered facility has an elevator. If a facility that is not required to install an elevator nonetheless has an elevator, that elevator shall meet, to the maximum extent feasible, the accessibility requirements of this section.
 
-#### Section 36.405 Alterations: Historic Preservation
+### Section 36.405 Alterations: Historic Preservation
 
 Section 36.405 gives effect to the intent of Congress, expressed in section 504(c) of the Act, that this part recognize the national interest in preserving significant historic structures. Commenters criticized the Department's use of descriptive terms in the proposed rule that are different from those used in the ADA to describe eligible historic properties. In addition, some commenters criticized the Department's decision to use the concept of &quot;substantially impairing" the historic features of a property, which is a concept employed in regulations implementing section 504 of the Rehabilitation Act of 1973. Those commenters recommended that the Department adopt the criteria of &quot;adverse effect" published by the Advisory Council on Historic Preservation under the National Historic Preservation Act (36 CFR 800.9) as the standard for determining whether an historic property may be altered.
 
@@ -3751,7 +3753,7 @@ The Department agrees with these comments to the extent that they suggest that t
 
 The Department intends that the exception created by this section be applied only in those very rare situations in which it is not possible to provide access to an historic property using the special access provisions in ADAAG. Therefore, paragraph (a) of Sec.36.405 has been revised to provide that alterations to historic properties shall comply, to the maximum extent feasible, with section 4.1.7 of ADAAG. Paragraph (b) of this section has been revised to provide that if it has been determined, under the procedures established in ADAAG, that it is not feasible to provide physical access to an historic property that is a place of public accommodation in a manner that will not threaten or destroy the historic significance of the property, alternative methods of access shall be provided pursuant to the requirements of Subpart C.
 
-#### Section 36.406 Standards for New Construction and Alterations
+### Section 36.406 Standards for New Construction and Alterations
 
 Section 36.406 implements the requirements of sections 306(b) and 306(c) of the Act, which require the Attorney General to promulgate standards for accessible design for buildings and facilities subject to the Act and this part that are consistent with the supplemental minimum guidelines and requirements for accessible design published by the Architectural and Transportation Barriers Compliance Board (ATBCB or Board) pursuant to section 504 of the Act. This section of the rule provides that new construction and alterations subject to this part shall comply with the standards for accessible design published as appendix A to this part.
 
@@ -3892,7 +3894,7 @@ In new construction, homeless shelters and other social service entities must co
 
 Section 10 of ADAAG is reserved. On March 20, 1991, the ATBCB published a supplemental notice of proposed rulemaking (56 FR 11874) to establish special access requirements for transportation facilities. The Department anticipates that when the ATBCB issues final guidelines for transportation facilities, this part will be amended to include those provisions.
 
-### Subpart E -- Enforcement
+## Subpart E -- Enforcement
 
 Because the Department of Justice does not have authority to establish procedures for judicial review and enforcement, subpart E generally restates the statutory procedures for enforcement.
 
@@ -3922,7 +3924,7 @@ Section 36.505 states that courts are authorized to award attorneys fees, includ
 
 Section 36.506 restates section 513 of the Act, which encourages use of alternative means of dispute resolution. Section 36.507 explains that, as provided in section 506(e) of the Act, a public accommodation or other private entity is not excused from compliance with the requirements of this part because of any failure to receive technical assistance.
 
-#### Section 36.305 Effective Date
+### Section 36.305 Effective Date
 
 In general, title III is effective 18 months after enactment of the Americans with Disabilities Act, *i.e.*, January 26, 1992. However, there are several exceptions to this general rule contained throughout title III. Section 36.508 sets forth all of these exceptions in one place.
 
@@ -3930,7 +3932,7 @@ Paragraph (b) contains the rule on civil actions. It states that, except with re
 
 Paragraph (c) concerns transportation services provided by public accommodations not primarily engaged in the business of transporting people. The 18-month effective date applies to all of the transportation provisions except those requiring newly purchased or leased vehicles to be accessible. Vehicles subject to that requirement must be accessible to and usable by individuals with disabilities if the solicitation for the vehicle is made on or after August 26, 1990.
 
-### Subpart F -- Certification of State Labs or Local Building Codes
+## Subpart F -- Certification of State Labs or Local Building Codes
 
 Subpart F establishes procedures to implement section 308(b)(1)(A)(ii) of the Act, which provides that, on the application of a State or local government, the Attorney General may certify that a State law or local building code or similar ordinance meets or exceeds the minimum accessibility requirements of the Act. In enforcement proceedings, this certification will constitute rebuttable evidence that the law or code meets or exceeds the ADA's requirements.
 
@@ -3978,7 +3980,7 @@ NOTE: The Guidance and Section-by-Section Analysis for the updates made by the P
 
 ## Title III Regulations ADA Amendments Act Final Rule Guidance and Section-by-Section Analysis
 
-**APPENDIX E - GUIDANCE TO REVISIONS TO ADA TITLE II AND TITLE III REGULATIONS REVISING THE MEANING AND INTERPRETATION OF THE DEFINITION OF &quot;DISABILITY&quot; AND OTHER PROVISIONS IN ORDER TO INCORPORATE THE REQUIREMENTS OF THE ADA AMENDMENTS ACT**
+### APPENDIX E - GUIDANCE TO REVISIONS TO ADA TITLE II AND TITLE III REGULATIONS REVISING THE MEANING AND INTERPRETATION OF THE DEFINITION OF &quot;DISABILITY&quot; AND OTHER PROVISIONS IN ORDER TO INCORPORATE THE REQUIREMENTS OF THE ADA AMENDMENTS ACT
 
 For guidance providing a section-by-section analysis of the revisions to 28 CFR parts 35 and 36 published on August 11, 2016, see appendix C of 28 CFR part 35.
 
@@ -3986,7 +3988,7 @@ For guidance providing a section-by-section analysis of the revisions to 28 CFR 
 
 ### Appendix F to Part 36—Guidance and Section-by-Section Analysis
 
-#### Section 36.303(g)(1) Definitions
+### Section 36.303(g)(1) Definitions
 
 In the Notice of Proposed Rulemaking, 79 FR 44976 (Aug. 1, 2014) (NPRM), the Department proposed &sect; 36.303(g)(1), which set forth definitions for certain terms specifically referenced in paragraph (g). The Department sought public comment on these proposed definitions.
 
@@ -4043,7 +4045,7 @@ The NPRM proposed defining &ldquo;open movie captioning” as &ldquo;the provisi
 
 While commenters were evenly split on whether the new regulation should use the term &ldquo;open movie captioning” or &ldquo;open captioning,” the Department chose the former to avoid confusion and emphasize that the term refers only to captioning provided at movie theaters. The final rule defines &ldquo;open movie captioning” as &ldquo;the written on-screen display of a movie's dialogue and non-speech information, such as music, the identity of the character who is speaking, and other sounds and sound effects.”
 
-#### Section 36.303(g)(2) General.
+### Section 36.303(g)(2) General.
 
 In the NPRM, the Department proposed at &sect; 36.303(g)(2)(i) that &ldquo;[a] public accommodation that owns, leases, leases to, or operates a movie theater shall ensure that its auditoriums have the capability to exhibit movies with closed movie captions." That paragraph further provided that in all cases where the movies the theater intends to exhibit are produced, distributed, or otherwise made available with closed movie captions, the public accommodation must ensure that it acquires the captioned version of those movies and makes closed movie captions available at all scheduled screenings of those movies. An identical provision requiring movie theaters to exhibit movies with audio description was proposed at &sect; 36.303(g)(3)(i).  The Department proposed applying the requirements for closed movie captioning and audio description to all movie screens (auditoriums) in movie theaters that show digital movies and sought public comment as to the best approach to take with respect to movie theaters that show analog movies. The Department sought public comment on whether it should adopt one of two options regarding the specific obligation to provide captioning and audio description at movie theater auditoriums that display analog movies. Option 1 proposed covering movie theater screens (auditoriums) that display analog movies but giving them 4 years to come into compliance with the requirements of &sect; 36.303(g). Option 2 proposed deferring the decision whether to apply the rule's requirements to movie theater screens (auditoriums) showing analog movies and considering additional rulemaking at a later date.
 
@@ -4091,7 +4093,7 @@ It has been, and continues to be, the Department's position that
  (No. 08-16075); <i>see also</i> NPRM, 79 FR 44976, 44982-83 (Aug. 1,
  2014). The Department received no public comments challenging that position.
 
-#### Section 36.303(g)(3) Minimum requirements for captioning devices
+### Section 36.303(g)(3) Minimum requirements for captioning devices
 
 In the NPRM, the Department proposed that movie
  theaters be required to have available a minimum number of captioning devices
@@ -4337,7 +4339,7 @@ In the interim, for those movie theaters that are located in
  utilize other approaches, including open movie captioning, to satisfy their
  patrons' regular and actual demand.
 
-#### Section 36.303(g)(4) Minimum requirements for audio description devices
+### Section 36.303(g)(4) Minimum requirements for audio description devices
 
 In order to ensure that individuals who are blind
  or have low vision have access to audio-described movies when such movies are
@@ -4428,7 +4430,7 @@ In consideration of the comments received and the
  219.3 of the 2010 Standards, if those receivers have a minimum of two channels
  available for sound transmission to patrons.”
 
-#### Section 36.303(g)(5) Performance requirements for captioning devices and audio description devices
+### Section 36.303(g)(5) Performance requirements for captioning devices and audio description devices
 
 In the NPRM, the Department proposed performance
  requirements for the individual devices used by movie patrons at their
@@ -4496,7 +4498,7 @@ Renumbered &sect; 36.303(g)(5) of the final rule retains the
  performance requirements proposed in the NPRM, but it has been restructured for
  clarity.
 
-#### Section 36.303(g)(6) Alternative technologies
+### Section 36.303(g)(6) Alternative technologies
 
 Although commenters on the 2010 Advance Notice of Proposed
  Rulemaking, 75 FR 43467 (July 26, 2010) (ANPRM), encouraged the Department to
@@ -4623,7 +4625,7 @@ The revised provision
  this rule by providing open movie captioning at all showings, or whenever requested
  by or for an individual who is deaf or hard of hearing.
 
-#### Section 36.303(g)(7) Compliance date for providing captioning and audio description
+### Section 36.303(g)(7) Compliance date for providing captioning and audio description
 
 In the NPRM, the Department proposed at &sect; 36.303(g)(4)(i)
  that all movie theaters with auditoriums displaying digital movies must comply
@@ -4714,7 +4716,7 @@ The final rule continues to provide additional time for
  projection after the publication date of the rule a sufficient amount of time to
  acquire the necessary equipment to provide captioning and audio description.
 
-#### Section 36.303(g)(8) Notice
+### Section 36.303(g)(8) Notice
 
 The Department believes that it is essential that movie
  theaters provide adequate notice to patrons of the availability of captioned
@@ -4806,7 +4808,7 @@ This provision applies to movie theaters once they provide
  date of the rule, January 17, 2017. Thus, movie theaters that already show digital movies with closed movie captions and audio description must comply with this provision as soon as
  the rule takes effect.
 
-#### Section 36.303(g)(9) Operationa requirements
+### Section 36.303(g)(9) Operationa requirements
 
 In response to the ANPRM, the Department received a
  significant number of comments from individuals with disabilities and groups
@@ -4906,7 +4908,7 @@ This provision applies to movie theaters once they
  with closed movie captions and audio description must comply with this
  provision as soon as the rule takes effect.
 
-#### Section 36.303(g)(10)
+### Section 36.303(g)(10)
 
 Section 36.303(g)(10) in the final rule provides that &ldquo;[t]his
  section does not require the use of open movie captioning as a means of compliance
