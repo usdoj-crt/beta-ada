@@ -1,17 +1,32 @@
 ---
-title: "The ADA and Opioid Use Disorder: Combating Discrimination Against People in Treatment or Recovery"
-description: "This guidance document provides information about how the ADA can protect individuals with OUD from discrimination — an important part of combating the opioid epidemic across American communities."
+title: "The ADA and Opioid Use Disorder: Combating Discrimination Against People
+  in Treatment or Recovery"
+description: This guidance document provides information about how the ADA can
+  protect individuals with OUD from discrimination — an important part of
+  combating the opioid epidemic across American communities.
+lead: The opioid crisis poses an extraordinary challenge to communities
+  throughout our country. The Department of Justice (the Department) has
+  responded with a comprehensive approach prioritizing prevention, enforcement,
+  and treatment. This includes enforcing the Americans with Disabilities Act
+  (ADA), which prohibits discrimination against people in recovery from opioid
+  use disorder (OUD) who are not engaging in illegal drug use, including those
+  who are taking legally-prescribed medication to treat their OUD. This guidance
+  document provides information about how the ADA can protect individuals with
+  OUD from discrimination—an important part of combating the opioid epidemic
+  across American communities. While this document focuses on individuals with
+  OUD, the legal principles discussed also apply to individuals with other types
+  of substance use disorders.
 permalink: /resources/opioid-use-disorder/
 redirect_from:
   - /opioid-guidance.pdf/
-lead: |-
-  The opioid crisis poses an extraordinary challenge to communities throughout our country. The Department of Justice (the Department) has responded with a comprehensive approach prioritizing prevention, enforcement, and treatment. This includes enforcing the Americans with Disabilities Act (ADA), which prohibits discrimination against people in recovery from opioid use disorder (OUD) who are not engaging in illegal drug use, including those who are taking legally-prescribed medication to treat their OUD. This guidance document provides information about how the ADA can protect individuals with OUD from discrimination—an important part of combating the opioid epidemic across American communities. While this document focuses on individuals with OUD, the legal principles discussed also apply to individuals with other types of substance use disorders.
-lang: "en"
-news-item: false
-publish-date: 2022-04-05 00:00:00
+lang: en
 print: true
+publish-date: 2022-04-05 00:00:00
+updated-date: ""
+news-item: false
 sidenav-pdf:
-  title: The ADA and Opioid Use Disorder - Combating Discrimination Against People in Treatment or Recovery
+  title: The ADA and Opioid Use Disorder - Combating Discrimination Against People
+    in Treatment or Recovery
   filename: opioid-guidance.pdf
 tags:
   - medical care
