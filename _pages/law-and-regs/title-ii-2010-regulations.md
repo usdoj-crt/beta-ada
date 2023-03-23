@@ -345,7 +345,7 @@ Administrative practice and procedure, Buildings and facilities, Civil rights, C
 
 (b) Other laws. This part does not invalidate or limit the remedies, rights, and procedures of any other Federal laws, or State or local laws (including State common law) that provide greater or equal protection for the rights of individuals with disabilities or individuals associated with them.
 
-### Section 35.104 Definitions.
+###  &sect; 35.104 Definitions.
 
 For purposes of this part, the term&#8212;
 
@@ -850,7 +850,7 @@ This part does not require a public entity to provide to individuals with disabi
 (3) _Investigation of fraud._ A public entity may investigate the potential misuse of accessible seating where
 there is good cause to believe that such seating has been purchased fraudulently.
 
-### Section 35.139 Direct threat.
+### &sect; 35.139 Direct threat.
 
 (a) This part does not require a public entity to permit an individual to participate in or benefit from the services, programs, or activities of that public entity when that individual poses a direct threat to the health or safety of others.
 
@@ -2569,7 +2569,7 @@ Paragraph (b) makes clear that Congress did not intend to displace any of the ri
 
 With respect to State law, a plaintiff may choose to pursue claims under a State law that does not confer greater substantive rights, or even confers fewer substantive rights, if the alleged violation is protected under the alternative law and the remedies are greater. For example, a person with a physical disability could seek damages under a State law that allows compensatory and punitive damages for discrimination on the basis of physical disability, but not on the basis of mental disability. In that situation, the State law would provide narrower coverage, by excluding mental disabilities, but broader remedies, and an individual covered by both laws could choose to bring an action under both laws. Moreover, State tort claims confer greater remedies and are not preempted by the ADA. A plaintiff may join a State tort claim to a case brought under the ADA. In such a case, the plaintiff must, of course, prove all the elements of the State tort claim in order to prevail under that cause of action.
 
-&sect; 35.104 Definitions.
+### &sect; 35.104 Definitions.
 
 &quot;Act.&quot; The word &quot;Act&quot; is used in this part to refer to the Americans with Disabilities Act of 1990, Pub. L. 101-336, which is also referred to as the &quot;ADA.&quot;
 
