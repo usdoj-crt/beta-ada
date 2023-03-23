@@ -160,7 +160,7 @@ facilities that qualify as places of public accommodation are covered by the ADA
 use of the areas is not limited exclusively to owners, residents, and their guests.
 
 ILLUSTRATION 1: A private residential apartment complex includes a swimming
-pool for use by apartment tenants and their guests.The complex also sells pool
+pool for use by apartment tenants and their guests. The complex also sells pool
 &quot;memberships&quot; generally to the public. The pool qualifies as a place of public
 accommodation.
 
@@ -234,7 +234,7 @@ building may contain both commercial facilities and places of public accommodati
 
 Commercial facilities do not include rail vehicles or any
 facility covered by the Fair Housing Act. Residential dwelling units, therefore, are not
-commercial facilities.In addition, facilities that are expressly exempted from coverage
+commercial facilities. In addition, facilities that are expressly exempted from coverage
 under the Fair Housing Act are also not considered to be commercial facilities. For
 example, owner-occupied rooming houses providing living quarters for four or fewer
 families, which are exempt from the Fair Housing Act, would not be commercial
@@ -250,7 +250,7 @@ statutory language exempts air transportation), the retail stores and service
 establishments located within a private airport would be places of public
 accommodation. (In addition, private airports that receive Federal financial assistance
 are subject to the requirements of section 504 of the Rehabilitation Act of 1973, which
-prohibits discrimination on the basis of disability in programs and activities of recipients of Federal funds.Airline operations at private airports may also be subject
+prohibits discrimination on the basis of disability in programs and activities of recipients of Federal funds. Airline operations at private airports may also be subject
 to the nondiscrimination requirements of the Air Carrier Access Act.) Air terminals
 operated by public entities would be covered by title II of the ADA, not title III; but
 any private retail stores operated within the terminal would be places of public
@@ -300,7 +300,7 @@ not apply if the landlord is a religious entity.
 
 #### If a nonreligious entity operates a community theater or other place of public accommodation in donated space on the congregation&#39;s premises, is the nonreligious entity covered by title III?
 
-No. A nonreligious entity running a place of public accommodation in space donated by a religious entity is exempt from title III's requirements.The nonreligious tenant entity is subject to title III only if a lease exists
+No. A nonreligious entity running a place of public accommodation in space donated by a religious entity is exempt from title III's requirements. The nonreligious tenant entity is subject to title III only if a lease exists
 under which rent or other consideration is paid.
 
 ### III-1.6000 Private clubs.
@@ -384,7 +384,7 @@ Regulatory references: 28 CFR 36.104.
 Title III of the ADA prohibits discrimination against any
 &quot;individual with a disability.&quot;  People commonly refer to disabilities or disabling
 conditions in a broad sense. For example, poverty or lack of education may impose
-real limitations on an individual&#39;s opportunities.Likewise, being only five feet in
+real limitations on an individual&#39;s opportunities. Likewise, being only five feet in
 height may prove to be an insurmountable barrier to an individual whose ambition is
 to play professional basketball. Although one might loosely characterize these
 conditions as &quot;disabilities&quot; in relation to the aspirations of the particular individual,
@@ -459,7 +459,7 @@ currently taking illegal drugs to ensure that its belief is a reasonable one.
 
 #### Does title III protect drug addicts who no longer take controlled substances?  
 Yes. Title III prohibits discrimination against drug addicts based solely on the fact that they
-previously illegally used controlled substances.Protected individuals include persons
+previously illegally used controlled substances. Protected individuals include persons
 who have successfully completed a supervised drug rehabilitation program or have otherwise been rehabilitated successfully and who are not engaging in current illegal
 use of drugs. Additionally, discrimination is prohibited against an individual who is
 currently participating in a supervised rehabilitation program and is not engaging in
@@ -515,7 +515,7 @@ impairment and the extent to which it actually limits a major life activity of t
 affected individual.
 
 ILLUSTRATION: During a house fire, M received burns affecting his hands and
-arms.While it is expected that, with treatment, M will eventually recover full use of
+arms. While it is expected that, with treatment, M will eventually recover full use of
 his hands, in the meantime he is substantially limited in performing basic tasks
 required to care for himself such as eating and dressing. Because M&#39;s burns are
 expected to substantially limit a major life activity (caring for one&#39;s self) for a
@@ -527,9 +527,9 @@ III.
 Whether
 a person has a disability is determined without regard to the availability of mitigating
 measures, such as reasonable modifications, auxiliary aids and services, services or
-devices of a personal nature, or medication.For example, a person with severe hearing
+devices of a personal nature, or medication. For example, a person with severe hearing
 loss is substantially limited in the major life activity of hearing, even though the loss
-may be improved through the use of a hearing aid.Likewise, persons with
+may be improved through the use of a hearing aid. Likewise, persons with
 impairments, such as epilepsy or diabetes, that, if untreated, would substantially limit
 a major life activity, are still individuals with disabilities under the ADA, even if the
 debilitating consequences of the impairment are controlled by medication.
@@ -543,7 +543,7 @@ This protected group includes --
 activity but who has recovered from the impairment. Examples of individuals who
 have a history of an impairment are persons who have histories of mental or emotional
 illness, drug addiction, alcoholism, heart disease, or cancer.
-2. Persons who have been misclassified as having an impairment.Examples include
+2. Persons who have been misclassified as having an impairment. Examples include
 persons who have been erroneously diagnosed as mentally retarded or mentally ill.
 
 ### III-2.6000 &quot;Regarded as.&quot;
@@ -611,7 +611,7 @@ Several broad principles underlie the nondiscrimination requirements of title II
 The specific requirements discussed below in III-4.0000 are all designed to effectuate
 the general requirements. The specific provisions furnish guidance on how a public
 accommodation can meet its obligations in particular situations and establish
-standards for determining when the general requirement has been violated.Where a
+standards for determining when the general requirement has been violated. Where a
 specific requirement applies, it controls over the general requirement.
 
 ILLUSTRATION: Public accommodations are only required to remove architectural
@@ -650,7 +650,7 @@ derive the same result from the class as persons without disabilities.
 
 A primary goal of the ADA is the
 equal participation of individuals with disabilities in the &quot;mainstream&quot; of American
-society.The major principles of mainstreaming include the following:  
+society. The major principles of mainstreaming include the following:  
 1. Individuals with disabilities must be integrated to the maximum extent appropriate.
 2. Separate programs are permitted where necessary to ensure equal opportunity.A
 separate program must be appropriate to the particular individual.
@@ -678,7 +678,7 @@ league for individuals who use wheelchairs.
 
 Even if a separate or
 special program for individuals with disabilities is offered, a public accommodation
-cannot deny an individual with a disability participation in its regular program, unless some other limitation on the obligation to provide services applies.See, e.g., III-
+cannot deny an individual with a disability participation in its regular program, unless some other limitation on the obligation to provide services applies. See, e.g., III-
 3.8000 (direct threat); III-4.1000 (eligibility criteria).
 
 ILLUSTRATION: An individual who uses a wheelchair may be excluded from
@@ -844,7 +844,7 @@ Such an inquiry is essential to protect individuals with disabilities from discr
 based on prejudice, stereotypes, or unfounded fear, while giving appropriate weight to
 legitimate concerns, such as the need to avoid exposing others to significant health
 and safety risks. Making this assessment will not usually require the services of a
-physician.Sources for medical knowledge include public health authorities, such as
+physician. Sources for medical knowledge include public health authorities, such as
 the U.S. Public Health Service, the Centers for Disease Control, and the National
 Institutes of Health, including the National Institute of Mental Health.
 
@@ -981,7 +981,7 @@ necessary for the provision of the goods, services, privileges, advantages, or
 accommodations.
 
 ILLUSTRATION 1: A restaurant has an unofficial policy of seating individuals with
-visible disabilities in the least desirable parts of the restaurant.This policy violates the
+visible disabilities in the least desirable parts of the restaurant. This policy violates the
 ADA because it establishes an eligibility criterion that discriminates against
 individuals with certain disabilities and that is not necessary for the operation of the
 restaurant. The restaurant may not justify its policy on the basis of the preferences of
@@ -1053,7 +1053,7 @@ during an office visit, a doctor arranges for the services of a sign language in
 ILLUSTRATION 3: A community civic association arranges to provide interpreting
 services for a deaf individual wishing to attend a business seminar sponsored by the
 organization in rented space at a local motel. The interpreting service requires the
-organization to provide payment in full prior to the seminar.Due to a business
+organization to provide payment in full prior to the seminar. Due to a business
 emergency, the individual is unable to attend. The organization may not charge the
 deaf individual for the cost of the unused interpreting services.
 
@@ -1124,7 +1124,7 @@ impaired hearing to the presence of intruders or sounds, providing minimal prote
 or rescue work, pulling a wheelchair, or retrieving dropped items.
 
 The care or supervision of a service animal is the responsibility of his or her owner,
-not the public accommodation.A public accommodation may not require an
+not the public accommodation. A public accommodation may not require an
 individual with a disability to post a deposit as a condition to permitting a service
 animal to accompany its owner in a place of public accommodation, even if such
 deposits are required for pets.
@@ -1134,7 +1134,7 @@ restaurant by her guide dog. The restaurant must permit the guide dog to accompa
 its owner in all areas of the restaurant open to other patrons and may not insist that the
 dog be separated from her.
 
-A number of States have programs to certify service animals.A private entity,
+A number of States have programs to certify service animals. A private entity,
 however, may not insist on proof of State certification before permitting the entry of a
 service animal to a place of public accommodation.
 
@@ -1142,13 +1142,13 @@ service animal to a place of public accommodation.
 
 If a store has check-out aisles, customers with
 disabilities must be provided an equivalent level of convenience in access to check-
-out facilities as customers without disabilities.To accomplish this, the store must
+out facilities as customers without disabilities. To accomplish this, the store must
 either keep an adequate number of accessible aisles open or otherwise modify its
 policies and practices.
 
 ILLUSTRATION: PQR Foodmart has twenty narrow, inaccessible check-out aisles
 and one wider, accessible aisle. The accessible aisle is used as an express lane limited
-to customers purchasing fewer than ten items.K, who uses a wheelchair, wishes to
+to customers purchasing fewer than ten items. K, who uses a wheelchair, wishes to
 make a larger purchase. PQR Foodmart must permit K to make his large purchase at
 the express lane.
 
@@ -1171,7 +1171,7 @@ accessible goods at the request of a customer with a disability if --
 suppliers.
 
 ILLUSTRATION: A customer of a local bookstore begins to experience some vision
-loss and has difficulty reading regular print.Upon request by the customer, the
+loss and has difficulty reading regular print. Upon request by the customer, the
 bookstore is required to try to obtain large print books, if it normally fills special
 orders (of any kind) for its other customers, and if large print books can be obtained
 from its regular suppliers.
@@ -1260,7 +1260,7 @@ to the floor models in order to decide which one to buy. Reading the model infor
 be an undue burden to spend extended periods of time reading price and product
 information.
 
-ILLUSTRATION 4: S also has tickets to a play.When S arrives at the theater, the
+ILLUSTRATION 4: S also has tickets to a play. When S arrives at the theater, the
 usher notices that S is an individual who is blind and guides S to her seat. An usher is
 also available to guide S to her seat following intermission. With the provision of
 these services, a Brailled ticket is not necessary for effective communication in
@@ -1302,7 +1302,7 @@ specialized vocabulary.
 
 #### Can a public accommodation use a staff member who signs &quot;pretty well&quot; as an interpreter for meetings with individuals who use sign language to communicate?
 
-Signing and interpreting are not the same thing.Being able to sign does not mean that a person can process spoken communication into the proper signs, nor does it mean that he or she possesses the proper skills to observe someone signing and change their signed or fingerspelled communication into spoken words. The interpreter must be able to interpret both receptively and expressively.
+Signing and interpreting are not the same thing. Being able to sign does not mean that a person can process spoken communication into the proper signs, nor does it mean that he or she possesses the proper skills to observe someone signing and change their signed or fingerspelled communication into spoken words. The interpreter must be able to interpret both receptively and expressively.
 
 #### If a sign language interpreter is required for effective communication, must only a certified interpreter be provided?
 
@@ -1464,13 +1464,13 @@ without a significant increase in cost.
 
 This standard also requires a lesser degree of effort on the part of a public
 accommodation than the &quot;undue burden&quot; limitation on the auxiliary aids requirements
-of the ADA. In that sense, it can be characterized as a lower standard.The readily
+of the ADA. In that sense, it can be characterized as a lower standard. The readily
 achievable standard is also less demanding than the &quot;undue hardship&quot; standard in title
 I, which limits the obligation to make reasonable accommodation in employment.
 
 #### How does a public accommodation determine when barrier removal is readily achievable?
 
-Determining if barrier removal is readily achievable is necessarily a case-by-case judgment.Factors to consider include:
+Determining if barrier removal is readily achievable is necessarily a case-by-case judgment. Factors to consider include:
 1. The nature and cost of the action;
 2. The overall financial resources of the site or sites involved; the number of persons
 employed at the site; the effect on expenses and resources; legitimate safety
@@ -1524,7 +1524,7 @@ fountain;
 Businesses such as restaurants may need to rearrange tables and department stores may need to adjust their layout of racks and shelves in order to permit wheelchair access, but they are not required to do so if it would result in a significant loss of
 selling or serving space.
 
-The list is intended to be illustrative.Each of these modifications will be readily
+The list is intended to be illustrative. Each of these modifications will be readily
 achievable in many instances, but not in all. Whether or not any of these measures is
 readily achievable is to be determined on a case-by-case basis in light of the particular
 circumstances presented and the factors discussed above.
@@ -1535,7 +1535,7 @@ A public accommodation generally would not be required to remove a barrier to ph
 
 #### Does a public accommodation have an obligation to search for accessible space?
 
-A public accommodation is not required to lease space that is accessible. However, upon leasing, the barrier removal requirements for existing facilities apply.In addition, any alterations to the space must meet the accessibility requirements for alterations.
+A public accommodation is not required to lease space that is accessible. However, upon leasing, the barrier removal requirements for existing facilities apply. In addition, any alterations to the space must meet the accessibility requirements for alterations.
 
 #### Does the ADA require barrier removal in historic buildings?
 
@@ -1574,7 +1574,7 @@ considered in determining whether the action is readily achievable.
 ### III-4.4300 Standards to apply.
 
 Measures taken to remove barriers should comply with the ADA Accessibility Guidelines (ADAAG) contained in the appendix to the
-Department&#39;s rule.Barrier removal in existing facilities does not, however, trigger the
+Department&#39;s rule. Barrier removal in existing facilities does not, however, trigger the
 accessible path of travel requirement (see III-6.2000). Deviations from ADAAG are
 acceptable only when full compliance with those requirements is not readily
 achievable. In such cases, barrier removal measures may be taken that do not fully
@@ -1582,13 +1582,13 @@ comply with the standards, so long as the measures do not pose a significant ris
 the health or safety of individuals with disabilities or others.
 
 ILLUSTRATION: As a first step toward removing architectural barriers, the owner of
-a small shop decides to widen the shop&#39;s 26-inch wide front door. However, because of space constraints, he is unable to widen the door to the full 32-inch clearance required for alterations under ADAAG.Because full compliance with ADAAG is not
+a small shop decides to widen the shop&#39;s 26-inch wide front door. However, because of space constraints, he is unable to widen the door to the full 32-inch clearance required for alterations under ADAAG. Because full compliance with ADAAG is not
 readily achievable, the shop owner need not widen the door the full 32 inches but, rather, may widen the door to only 30 inches. The 30-inch door clearance does not pose a significant risk to health or safety.
 
 #### Are portable ramps permitted?
 Yes, but only when the installation of a permanent
-ramp is not readily achievable.In order to promote safety, a portable ramp should
-have railings and a firm, stable, nonslip surface.It should also be properly secured.
+ramp is not readily achievable. In order to promote safety, a portable ramp should
+have railings and a firm, stable, nonslip surface. It should also be properly secured.
 
 ### III-4.4400 Continuing obligation.
 
@@ -1610,30 +1610,30 @@ accessible rooms in the area being altered that is proportionate to the number i
 be required to provide in new construction.
 
 A hotel that is engaged in barrier removal should meet this alterations standard, if it is
-readily achievable to do so.It is not required to exceed this level of access. Even if it
+readily achievable to do so. It is not required to exceed this level of access. Even if it
 is readily achievable to make more rooms accessible than would be required under the
 ADAAG alterations standards, once the hotel provides this level of access, it has no
 obligation to remove barriers in additional guest rooms.
 
 ILLUSTRATION 2: A grocery store that has more than 5000 square feet of selling
 space and now has six inaccessible check-out aisles is assessing its obligations under
-the barrier removal requirement.ADAAG does not contain specific provisions
+the barrier removal requirement. ADAAG does not contain specific provisions
 applicable to the alteration of check-out aisles, but, in new construction, two of the six
 check-out aisles would be required to be accessible. The store is never required to
 provide more than two accessible check-out aisles, even if it would be readily
 achievable to do so.
 
 ILLUSTRATION 3: An office building that houses places of public accommodation
-is removing barriers in common areas.If the building were newly constructed, the
+is removing barriers in common areas. If the building were newly constructed, the
 building would be required to contain areas of rescue assistance. However, the
 ADAAG alterations standard explicitly specifies that areas of rescue assistance are not
-required in buildings that are being altered.Because barrier removal is not required to
+required in buildings that are being altered. Because barrier removal is not required to
 exceed the alterations standard, the building owner need not establish areas of rescue
 assistance.
 
-### III-4.4500 Priorities for barrier removal.q
+### III-4.4500 Priorities for barrier removal.
 
-The Department&#39;s regulation recommends priorities for removing barriers in existing facilities. Because the resources qavailable for barrier removal may not be adequate to remove all existing barriers at any given
+The Department&#39;s regulation recommends priorities for removing barriers in existing facilities. Because the resources available for barrier removal may not be adequate to remove all existing barriers at any given
 time, the regulation suggests a way to determine which barriers should be mitigated or
 eliminated first. The purpose of these priorities is to facilitate long-term business
 planning and to maximize the degree of effective access that will result from any
@@ -1668,8 +1668,8 @@ achievable&quot; obligation to remove barriers in existing facilities does not e
 of a facility that are used exclusively by employees as work areas.
 
 #### How can a public accommodation decide what needs to be done?
-One effective approach is to conduct a &quot;self-evaluation&quot; of the facility to identify existing barriers. The Department&#39;s regulation does not require public accommodations to conduct a self-evaluation.However, public accommodations are urged to establish procedures for an ongoing assessment of their compliance with the ADA&#39;s barrier removal requirements This process should include consultation with individuals with
-disabilities or organizations representing them.A serious effort at self-assessment and consultation can diminish the threat of litigation and save resources by identifying the most efficient means of providing required access.
+One effective approach is to conduct a &quot;self-evaluation&quot; of the facility to identify existing barriers. The Department&#39;s regulation does not require public accommodations to conduct a self-evaluation. However, public accommodations are urged to establish procedures for an ongoing assessment of their compliance with the ADA&#39;s barrier removal requirements This process should include consultation with individuals with
+disabilities or organizations representing them. A serious effort at self-assessment and consultation can diminish the threat of litigation and save resources by identifying the most efficient means of providing required access.
 
 #### If a public accommodation determines that its facilities have barriers that should be removed, but it is not readily achievable to undertake all of the modifications now, what should it do?
 
@@ -1690,7 +1690,7 @@ remove, and the most efficient means of removing them.
 
 This is a decision best made on a case-by-case basis after
 considering the specific barriers that need to be removed in that facility, and whether
-it is readily achievable to remove these barriers.It is likely that if it is readily
+it is readily achievable to remove these barriers. It is likely that if it is readily
 achievable to make one restroom fully accessible, that option would be preferred by
 the clients or customers of the facility.
 
@@ -1775,13 +1775,13 @@ follows:
 1. Fixed route system: Vehicle capacity over 16.Any vehicle with a capacity over 16
 that is purchased or leased for a fixed route system must be &quot;readily accessible to and
 usable by individuals with disabilities, including those who use wheelchairs.&quot;  
-2. Fixed route system: Vehicle capacity of 16 or less.Vehicles of this description
+2. Fixed route system: Vehicle capacity of 16 or less. Vehicles of this description
 must meet the same &quot;readily accessible and usable&quot; standard described in (1) above,
 unless they are part of a system that already meets the &quot;equivalent service&quot; standard.
 3. Demand responsive system: Vehicle capacity over 16.These vehicles must meet
 the &quot;readily accessible and usable&quot; standard, unless they are part of a system that
 already meets the &quot;equivalent service&quot; standard.
-4. Demand responsive system: Vehicle capacity of 16 or less.Vehicles of this
+4. Demand responsive system: Vehicle capacity of 16 or less. Vehicles of this
 description are not subject to any requirements for purchase of accessible vehicles. However, &quot;equivalent service&quot; must be provided.
 
 #### What is &quot;equivalent service&quot;?
@@ -1956,7 +1956,7 @@ the applicant&#39;s aptitude or achievement level, or whatever other factor it p
 measure, the entity administering the examination may also be required to modify the
 manner in which it is administered.
 
-ILLUSTRATION: X has a manual impairment that makes writing difficult.It may be
+ILLUSTRATION: X has a manual impairment that makes writing difficult. It may be
 necessary to provide X with more time to complete the exam and/or permit typing of
 answers.
 
@@ -1989,13 +1989,13 @@ ILLUSTRATION: A college entrance examination is offered by LMN Testing
 Service in several cities in a State, but only one location has either an accessible
 facility or an alternative accessible facility. X, an individual who uses a wheelchair,
 lives near an inaccessible test location at which no alternative accessible facility is
-provided.The nearest test location with an accessible facility is 500 miles away. LMN
+provided. The nearest test location with an accessible facility is 500 miles away. LMN
 has violated the ADA, because X is required to travel a longer distance to take the
 examination than other people who can take the examination in the city that is most
 convenient for them.
 
 #### Can individuals with disabilities be required to file their applications to take an examination earlier than the deadline for other applicants?
-No.This would violate the
+No. This would violate the
 requirement that examinations designed for individuals with disabilities be offered in
 as timely a manner as other examinations. Entities that administer tests may require
 individuals with disabilities to provide advance notice of their disabilities and of any
@@ -2176,7 +2176,7 @@ steps down to the bowling area and a step up to the lanes. ADAAG requirements fo
 ramping steps can be applied to the design of new bowling alleys, resulting in an
 accessible bowling alley. Unlike in the case of pool lifts above, appropriate technical
 standards for ramps are applicable. However, ADAAG contains no &quot;scoping&quot; for
-bowling alleys.In other words, it does not specify how many alleys need to be
+bowling alleys. In other words, it does not specify how many alleys need to be
 accessible. As a result, if a reasonable number, but at least one, of the alleys is
 designed to be accessible, no ADA violation will be found.
 
@@ -2204,7 +2204,7 @@ BUT: A two-story shopping center with 40,000 square feet on each floor is requir
 ILLUSTRATION 2: A four-story building has 2900 square feet per floor. An elevator is not required because each floor has less than 3000 square feet.
 
 ILLUSTRATION 3: A four-story office building has 3500 square feet on the first
-floor and 2500 square feet on each of the other floors.An elevator is required. (All of
+floor and 2500 square feet on each of the other floors. An elevator is required. (All of
 the stories must be under 3000 square feet to qualify for the exemption.)
 
 #### What is a &quot;story&quot;?
@@ -2272,7 +2272,7 @@ establishment. Although no floor alone has five sales establishments, the first 
 second floor each have at least one such establishment and, together, the total is five. (The accountant&#39;s and lawyer&#39;s offices are &quot;service establishments&quot; and are not
 included in the number of &quot;sales or retail establishments.&quot;)  
 
-#### When a building is being constructed, the owner or developer does not always know exactly what types of stores will be located in the facility.In such a situation, how will the Department of Justice determine whether a facility was intended as a shopping center?
+#### When a building is being constructed, the owner or developer does not always know exactly what types of stores will be located in the facility. In such a situation, how will the Department of Justice determine whether a facility was intended as a shopping center?
 
 There are a number of factors that can be considered in determining whether a
 particular floor was designed or intended for use by at least one sales or rental
@@ -2300,7 +2300,7 @@ professional provides physical or mental health services to the public. The ADA&
 elevator exemption does not apply to buildings housing the offices of a health care
 provider.
 
-ILLUSTRATION: A physician has offices on the first floor of a multistory building. The second floor has other types of offices.An elevator is not required.
+ILLUSTRATION: A physician has offices on the first floor of a multistory building. The second floor has other types of offices. An elevator is not required.
 
 BUT: If the second floor was designed or intended for use by a health care provider, an elevator would be required.
 
@@ -2318,7 +2318,7 @@ fact, health care providers.
 
 ### III-5.4300 Transportation terminals.
 
-The ADA&#39;s elevator exemption also does not apply to bus or train terminals or depots, or to airport passenger terminals.If,
+The ADA&#39;s elevator exemption also does not apply to bus or train terminals or depots, or to airport passenger terminals. If,
 however, all passenger services in a two-story facility - including boarding, debarking,
 loading and unloading, baggage claim, dining facilities, and other common areas open
 to the public - are located on the same floor level and on an accessible route from an
@@ -2368,7 +2368,7 @@ alteration must still comply with standards for individuals with other impairmen
 
 ILLUSTRATION 1: A restaurant is undergoing a major renovation. Widening the
 entrance would affect the building structure because removal of an essential part of
-the structural frame would be required.In this case, it is &quot;technically infeasible&quot; to
+the structural frame would be required. In this case, it is &quot;technically infeasible&quot; to
 widen the entrance, and the action is not required. However, all other ADAAG
 alterations requirements apply to the renovation.
 
@@ -2432,7 +2432,7 @@ signs. Again this is an alteration because it can affect usability, and the new 
 must comply with ADAAG. Here, the path of travel requirements are not triggered for
 two separate reasons. First, as in the above case, the alteration is to &quot;signs&quot; and thus
 will never trigger the path of travel requirement. In addition, in this case, the alteration
-is to the restroom.Restrooms are not primary function areas except in limited
+is to the restroom. Restrooms are not primary function areas except in limited
 circumstances, such as highway rest stops.
 
 #### What if a tenant remodels his store in a manner that would trigger the path of travel obligation, but the tenant has no authority to create an accessible path of travel because the common areas are under the control of the landlord? Does this mean the landlord must now make an accessible path of travel to the remodeled store?
@@ -2506,13 +2506,13 @@ installed, because ADAAG provides that, in such a situation, an accessible means
 vertical access must be provided. However, elevators or lifts are never required to be
 installed during alterations if it is technically infeasible to do so.
 
-#### Why is there a different definition of &quot;shopping center or mall&quot; for alterations as opposed to new construction
+#### Why is there a different definition of &quot;shopping center or mall&quot; for alterations as opposed to new construction?
 
 A &quot;shopping center or mall&quot; is defined in the alterations
 provisions as a series of existing buildings on a common site connected by a
 &quot;common pedestrian route&quot; above or below the ground floor. This definition was
 included to avoid a requirement for several separate elevators in buildings that were
-initially designed and built independently of one another.The common pedestrian
+initially designed and built independently of one another. The common pedestrian
 route would allow access to all of the stores to be provided by a single elevator.
 
 #### If an alteration is planned on the third floor of a building and an elevator is not required, do any other ADAAG requirements apply to the third floor?
@@ -2529,7 +2529,7 @@ These are properties that are listed or that are eligible for listing in the Nat
 
 #### What are the alternative requirements?
 
-The alternative requirements provide a minimal level of access.For example --
+The alternative requirements provide a minimal level of access. For example --
 1. An accessible route is only required from one site access point (such as the parking
 lot).
 2. A ramp may be steeper than is ordinarily permitted.
@@ -2539,7 +2539,7 @@ lot).
 
 #### But what if complying with even these minimal alternative requirements will threaten or destroy the historic significance?
 
-In such a case, which is rare, structural changes need not be made.Rather, alternative methods can be used to provide access, such as providing auxiliary aids or modifying policies.
+In such a case, which is rare, structural changes need not be made. Rather, alternative methods can be used to provide access, such as providing auxiliary aids or modifying policies.
 
 ILLUSTRATION: A historic house is being altered to be used as a museum. The
 architect designing the project concludes that most of the normal standards for
@@ -2581,7 +2581,7 @@ A117.1 standards.
 
 #### How does ADAAG compare to ANSI?
 
-ADAAG&#39;s technical design standards (e.g., how many inches wide a doorway must be) resemble the 1986 ANSI A117.1 standards, in large part.Some design standards were adopted from the proposed new version of ANSI as it appeared in draft form when ADAAG was developed. The numbering and format of ADAAG also resemble ANSI. However, there are
+ADAAG&#39;s technical design standards (e.g., how many inches wide a doorway must be) resemble the 1986 ANSI A117.1 standards, in large part. Some design standards were adopted from the proposed new version of ANSI as it appeared in draft form when ADAAG was developed. The numbering and format of ADAAG also resemble ANSI. However, there are
 significant differences between ADAAG and the 1986 ANSI standards.
 
 Perhaps the most important difference is in the new scoping requirements. ADAAG,
@@ -2589,7 +2589,7 @@ unlike the 1986 ANSI standards, contains scoping requirements; that is, specific
 as to how many, and under what circumstances, accessibility features must be
 incorporated. These requirements explain when to apply the technical standards. Other differences reflect congressional intent that the ADA guidelines focus on
 certain areas not specifically addressed in ANSI, such as dressing rooms, restaurants,
-automated teller machines, and mercantile establishments.ADAAG also reflects
+automated teller machines, and mercantile establishments. ADAAG also reflects
 congressional intent that the guidelines place an increased emphasis on
 communications with individuals with vision or hearing impairments.
 
@@ -2677,7 +2677,7 @@ employee). Otherwise, the general ADAAG work area requirements apply, and an
 individual with disabilities must be able to approach, enter, and exit the area.This
 means that, if there is a change in level of over 1/2&quot;, a ramp or lift must be provided to
 the raised area. Note, however, that in many instances a raised platform is surrounded
-by another work area, such as a service counter.The work area accessibility
+by another work area, such as a service counter. The work area accessibility
 requirement would be satisfied as long as that outer area could be approached,
 entered, and exited.
 
@@ -2710,12 +2710,12 @@ and equipment directly associated with major construction are not covered.
 1. Observation galleries used primarily for security purposes; or  
 2. Nonoccupiable spaces accessed only by ladders, crawl spaces, very narrow
 passageways, or freight (nonpassenger) elevators, and frequented only by service
-personnel for repair purposes.This includes elevator pits, elevator penthouses, piping
+personnel for repair purposes. This includes elevator pits, elevator penthouses, piping
 or equipment catwalks, cooling towers, and utility tunnels.
 
 #### What about mechanical rooms or closets not accessed by ladders or narrow passageways?
 
-They are not exempt.However, they are work areas subject to the
+They are not exempt. However, they are work areas subject to the
 limited exemption discussed above. In addition, mechanical rooms are exempt from
 the elevator requirement (§4.1.3(5), Exception 2).
 
@@ -2754,7 +2754,7 @@ serving each such unit or facility must be accessible.
 
 In addition to the general requirements for accessible automobile spaces, ADAAG
 requires that at least one of every eight accessible parking spaces have adequate
-adjacent space for a van lift to be deployed.Each such space must have a sign
+adjacent space for a van lift to be deployed. Each such space must have a sign
 indicating that it is van-accessible, but it is not to be reserved exclusively for vans.
 
 Alternatively, &quot;universal parking,&quot; in which all spaces can accommodate van widths,
@@ -2794,7 +2794,7 @@ to serve each level in a newly constructed building, with four exceptions:
 2. Exception 2 exempts elevator pits, elevator penthouses, mechanical rooms, and
 piping or equipment catwalks.
 3. Exception 3 permits the use of accessible ramps instead of elevators at any time.
-4. Exception 4 permits the use of platform lifts under certain conditions.Lifts must
+4. Exception 4 permits the use of platform lifts under certain conditions. Lifts must
 permit unassisted entry, operation, and exit.
 
 ### III-7.5120 Windows (ADAAG §4.1.3(6)).
@@ -2818,7 +2818,7 @@ entrances to enclosed parking, pedestrian tunnels, and elevated walkways.
 
 ### III-7.5135 Areas of rescue assistance (ADAAG §4.1.3(9)).
 
-Areas of rescue assistance (safe areas in which to await help in an emergency) are generally required on each floor, other than the ground floor, of a multistory building.An accessible egress route or an area of rescue assistance is required for each exit required by the local fire code. Specific requirements are provided for such features as location, size, stairway width, and two-way communications. Areas of rescue assistance are not required in buildings with supervised automatic sprinkler systems, nor are they required in alterations.
+Areas of rescue assistance (safe areas in which to await help in an emergency) are generally required on each floor, other than the ground floor, of a multistory building. An accessible egress route or an area of rescue assistance is required for each exit required by the local fire code. Specific requirements are provided for such features as location, size, stairway width, and two-way communications. Areas of rescue assistance are not required in buildings with supervised automatic sprinkler systems, nor are they required in alterations.
 
 ### III-7.5140 Drinking fountains (ADAAG §4.1.3(10)).
 
@@ -2888,7 +2888,7 @@ telecommunication devices for the deaf (TDD&#39;s)):
 1. One accessible public phone must be provided for each floor, unless the floor has
 two or more banks of phones, in which case there must be one accessible phone for
 each bank.
-2. All accessible public phones must be equipped with volume controls.In addition,
+2. All accessible public phones must be equipped with volume controls. In addition,
 25 percent, but never less than one, of all other public phones must have volume
 controls.
 3. One TDD or text telephone must be provided inside any building that has four or
@@ -2900,7 +2900,7 @@ waiting room.
 ### III-7.5175 Fixed seating (ADAAG §4.1.3(18)).
 
 At least five percent of fixed or built-
-in seating or tables must be accessible.Wheelchair seating spaces in assembly areas
+in seating or tables must be accessible. Wheelchair seating spaces in assembly areas
 and restaurants are not subject to this requirement but, rather, are covered by specific
 requirements for &quot;assembly areas&quot; and &quot;restaurants.&quot;  
 
@@ -2953,7 +2953,7 @@ ATM, as installed, provides equivalent facilitation in compliance with ADAAG.
 ### III-7.5190 Dressing and fitting rooms (ADAAG §4.1.3(21)).
 
 Where dressing rooms
-are provided, five percent or at least one must be accessible.Technical standards are
+are provided, five percent or at least one must be accessible. Technical standards are
 provided for doors, benches, and mirrors, with less stringent standards for alterations.
 
 ### III-7.6000 Additions (ADAAG §4.1.5).
@@ -3024,7 +3024,7 @@ No, but employees should be instructed to bring food items around to the front o
 The size of the store and the number of floors
 will be relevant factors in determining how many counters need to be accessible.
 
-ILLUSTRATION 1: A small one-story clothing store has four identical cash register counters, one in each department.Only one counter need be accessible, if all items can be purchased there.
+ILLUSTRATION 1: A small one-story clothing store has four identical cash register counters, one in each department. Only one counter need be accessible, if all items can be purchased there.
 
 ILLUSTRATION 2: A very narrow but six-story tall department store has identical cash register counters throughout the facility ADAAG will be satisfied if there is one accessible counter per floor at which all purchases can be made.
 
@@ -3063,7 +3063,7 @@ provisions for alterations.
 2. Homeless shelters, halfway houses, and other social service establishments: These
 entities must provide the same percentage of accessible sleeping accommodations as
 other places of transient lodging. At least one type of amenity in each common area
-must be accessible.Alterations are subject to less stringent standards.
+must be accessible. Alterations are subject to less stringent standards.
 
 ### III-7.8700 Transportation facilities (ADAAG §10).
 
@@ -3180,7 +3180,7 @@ successful and may be either the complainant (plaintiff) or the covered entity a
 which the action is brought (defendant).The defendant, however, may not recover
 attorney&#39;s fees unless the court finds that the plaintiff&#39;s action was frivolous,
 unreasonable, or without foundation, although it does not have to find that the action
-was brought in subjective bad faith.Attorney&#39;s fees include litigation expenses, such
+was brought in subjective bad faith. Attorney&#39;s fees include litigation expenses, such
 as expert witness fees, travel expenses, and costs. The United States is liable for
 attorney&#39;s fees in the same manner as any other party, but is not entitled to them when
 it is the prevailing party.
@@ -3194,7 +3194,7 @@ disputes, where appropriate and to the extent authorized by law. In appropriate 
 these types of procedures may be faster, more efficient, and less expensive than the
 judicial and administrative procedures available under the ADA. Alternative means of
 dispute resolution, however, are intended to supplement the procedures provided in
-the ADA, not to replace them.Use of alternative procedures is completely voluntary
+the ADA, not to replace them. Use of alternative procedures is completely voluntary
 and must be agreed to by the parties involved.
 
 ### III-8.7000 Technical assistance.
@@ -3223,7 +3223,7 @@ and covered entities about their rights and duties; and to provide information a
 cost-effective methods and procedures to achieve compliance.
 
 The Department plans to provide technical assistance through publications, exhibits,
-videotapes and audiotapes, and public service announcements.It has developed a
+videotapes and audiotapes, and public service announcements. It has developed a
 number of nontechnical publications, including this manual, explaining the
 requirements of the Act, and has established a Speakers Bureau to provide speakers
 for events such as conferences, workshops, and training programs. It is also operating
@@ -3249,7 +3249,7 @@ Accommodation Centers to serve as regional resources for ADA information.
 
 The agencies involved in providing ADA technical assistance are making, and will
 continue to make, a sustained effort to ensure that effective technical assistance is
-available to all covered entities.Nevertheless, covered entities retain responsibility for
+available to all covered entities. Nevertheless, covered entities retain responsibility for
 ensuring that their activities comply with the requirements of the Act, and a public
 accommodation or other private entity is not excused from compliance because of any
 failure to receive technical assistance.
@@ -3282,7 +3282,7 @@ Regulatory references: 28 CFR 36.601-36.608.
 
 The ADA authorizes the Attorney General to certify that State
 laws, local building codes, or similar ordinances meet or exceed the title III
-accessibility requirements.Certification is advantageous for the following reasons --  
+accessibility requirements. Certification is advantageous for the following reasons --  
 
 1. When an entity is designing, constructing, or altering a building in accordance with
 an applicable State or local code that has been certified by the Department, the
@@ -3341,7 +3341,7 @@ will be able to point to compliance with the certified code as &quot;rebuttable 
 compliance with the ADA.
 
 ILLUSTRATION: The JKL Hotel chain builds hotels to a standard plan throughout
-the United States.The State of C has had its code certified by the Department, and
+the United States. The State of C has had its code certified by the Department, and
 JKL has designed a hotel, according to its standard plan, to be built in that State. The
 State has approved the plans, with no waivers or modifications. If the Department
 brings a lawsuit challenging the hotel&#39;s compliance with ADAAG, JKL has the
@@ -3352,7 +3352,7 @@ because the hotel was designed in compliance with a certified code.
 
 #### If a builder follows a State&#39;s certified code, and the building official grants a waiver of certain requirements, does that mean the waiver is good for ADA purposes too?
 
-No. State or local officials have no authority to waive ADA requirements.Many State or
+No. State or local officials have no authority to waive ADA requirements. Many State or
 local codes allow the building official to grant waivers, variances, or other types of
 exceptions (e.g., in cases of &quot;undue hardship,&quot; &quot;impossibility,&quot; or &quot;impracticability&quot;). They may also allow compliance by means other than those required by the code if
 &quot;equivalent facilitation&quot; is provided.
@@ -3411,9 +3411,9 @@ any differences between the model and the code being submitted for certification
 
 ### III-9.4000 Preliminary determination.
 
-After receiving the application, the Office of the Assistant Attorney General for Civil Rights will determine whether or not to begin considering the application for certification.If the Assistant Attorney General&#39;s office
+After receiving the application, the Office of the Assistant Attorney General for Civil Rights will determine whether or not to begin considering the application for certification. If the Assistant Attorney General&#39;s office
 decides to proceed, the office will consult with the Architectural and Transportation
-Barriers Compliance Board.After that consultation, the office will make a preliminary
+Barriers Compliance Board. After that consultation, the office will make a preliminary
 determination to either --  
 1. Find that the code is equivalent (make a &quot;preliminary determination of
 equivalency&quot;); or  
@@ -3473,16 +3473,16 @@ No. In other words, the Department will evaluate and certify only the
 code itself, not the process by which it is implemented. This is true even though the
 Department has certified a code with provisions concerning waivers, variances, or
 equivalent facilitation. Certification of a code with those provisions is not to be
-interpreted as an endorsement of actions taken pursuant to those provisions.The
+interpreted as an endorsement of actions taken pursuant to those provisions. The
 Department&#39;s certification of a code is effective only with respect to the standards in
 the code; it is not to be interpreted to apply to a State or local government&#39;s
-application of the code.For example, a local official&#39;s decision that a particular
+application of the code. For example, a local official&#39;s decision that a particular
 approach constitutes equivalent facilitation under a local code is not effective for
 ADA purposes.
 
 #### Can a code that is consistent with ADAAG be certified if the local enforcement process allows deviations from ADAAG?
 Yes. The Department expects that many
-jurisdictions will allow slight variations from a particular code.ADAAG itself permits
+jurisdictions will allow slight variations from a particular code. ADAAG itself permits
 variations from its standards in certain limited circumstances. ADAAG includes in
 §2.2 a statement allowing departures from particular requirements where substantially
 equivalent or greater access and usability is provided. Several sections specifically
@@ -3543,10 +3543,10 @@ Department for review.
 <hr>
 The Americans with Disabilities Act authorizes the Department of Justice (the
 Department) to provide technical assistance to individuals and entities that have rights
-or responsibilities under the Act.This document provides informal guidance to assist you in understanding the ADA and the Department&#39;s regulations.
+or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department&#39;s regulations.
 
 This guidance document is not intended to be a final agency action, has no legally
 binding effect, and may be rescinded or modified in the Department&#39;s complete
-discretion, in accordance with applicable laws.The Department&#39;s guidance
+discretion, in accordance with applicable laws. The Department&#39;s guidance
 documents, including this guidance, do not establish legally enforceable
-responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precident.
+responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
