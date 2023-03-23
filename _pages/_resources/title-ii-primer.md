@@ -101,7 +101,7 @@ Public entities may not require documentation, such as proof that the animal has
 
 The ADA does not restrict the breeds of dogs that may be used as service animals. Therefore, a town ordinance that prohibits certain breeds must be modified to allow a person with a disability to use a service animal of a prohibited breed, unless the dog's presence poses a direct threat to the health or safety of others. Public entities have the right to determine, on a case-by-case basis, whether use of a particular service animal poses a direct threat, based on that animal's actual behavior or history; they may not, however, exclude a service animal based solely on fears or generalizations about how an animal or particular breed might behave.
 
-For additional information, see [ADA 2010 Revised Requirements: Service Animals]( {{'/resources/service-animals-2010-requirements' | relative_url}})
+For additional information, see [ADA 2010 Revised Requirements: Service Animals]({{'/resources/service-animals-2010-requirements' | relative_url}})
 
 ### Wheelchairs and Other Power-Driven Mobility Devices
 
@@ -343,7 +343,7 @@ Public entities that have 50 or more employees are required to have a grievance 
 
 The 1991 ADA regulation required all public entities, regardless of size, to evaluate all of their services, policies, and practices and to modify any that did not meet ADA requirements. In addition, public entities with 50 or more employees were required to develop a transition plan detailing any structural changes that would be undertaken to achieve program access and specifying a time frame for their completion. Public entities were also required to provide an opportunity for interested individuals to participate in the self-evaluation and transition planning processes by submitting comments. While the 2010 regulation does not specifically require public entities to conduct a new self-evaluation or develop a new transition plan, they are encouraged to do so.
 
-For more information, see ADA Best Practices Tool Kit for State and Local Governments.
+For more information, see [ADA Best Practices Tool Kit for State and Local Governments](https://archive.ada.gov/pcatoolkit/toolkitmain.htm).
 
 ### Staff Training
 
