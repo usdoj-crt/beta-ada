@@ -289,7 +289,7 @@ elementary school for members and nonmembers alike. Even though the congregation
 is operating facilities that would otherwise be places of public accommodation, its
 operations are exempt from title III requirements.
 
-#### What if the congregation rents to a private day care center or elementary school? Is the tenant organization also exempt
+#### What if the congregation rents to a private day care center or elementary school? Is the tenant organization also exempt?
 
 The private entity that rents the congregation&#39;s
 facilities to operate a place of public accommodation is not exempt, unless it is also a
