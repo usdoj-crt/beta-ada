@@ -58,9 +58,11 @@ collections:
           - label: Sitemap
             name: sitemap
             widget: boolean
+            default: false
           - label: Enable Sidenav
             name: sidenav
             widget: boolean
+            default: false
           - label: Body
             name: body
             widget: markdown
@@ -274,7 +276,7 @@ collections:
           widget: text
         - label: Body Content
           name: body
-          widget:  markdown
+          widget: markdown
       # Resources page:
       - label: Resources
         name: Resources
@@ -291,7 +293,7 @@ collections:
           widget: text
         - label: Body Content
           name: body
-          widget:  markdown
+          widget: markdown
     # Subpages which share the same information structure can be edited in folder collections
     # Topic pages:
   - label: Topics
@@ -308,9 +310,11 @@ collections:
       - label: Short Title
         name: short title
         widget: string
+        required: false
       - label: Lead Text
         name: lead
         widget: text
+        required: false
       - label: Featured
         name: featured
         widget: boolean
@@ -341,6 +345,7 @@ collections:
           - label: Title Alt
             name: title alt
             widget: string
+            required: false
           - label: Description
             name: description
             widget: text
@@ -353,6 +358,7 @@ collections:
           - label: Position
             name: position
             widget: string
+            required: false
           - label: Href
             name: href
             widget: string
@@ -374,6 +380,7 @@ collections:
       - label: Lead Text
         name: lead
         widget: text
+        required: false
       - label: Permalink
         name: permalink
         widget: string
@@ -386,10 +393,8 @@ collections:
         required: false
       - label: Language
         name: lang
-        widget: select
-        multiple: false
-        default: "en"
-        options: ["en", "es"]
+        widget: string
+        default: 'en'
       - label: Print
         name: print
         widget: boolean
@@ -456,12 +461,15 @@ collections:
       - label: Lead Text
         name: lead
         widget: text
+        required: false
       - label: Permalink
         name: permalink
         widget: string
       - label: Sidenav
         name: sidenav
         widget: boolean
+        default: true
+        required: false
       - label: Body Content
         name: body
         widget: markdown
@@ -508,13 +516,15 @@ collections:
       - label: Lead Text
         name: lead
         widget: text
+        required: false
       - label: Language
         name: lang
         default: 'es'
         widget: string
       - label: Translation Reference
-        name: Reference
+        name: ref
         widget: string
+        required: false
       - label: Body Content
         name: body
         widget: markdown
