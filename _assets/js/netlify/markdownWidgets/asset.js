@@ -4,9 +4,9 @@ export default function list(engine) {
         this.value = tagToken.args;
       },
       *render(context, emitter) {
-        const args = this.value.split(' ');
-        console.log(args);
-        return `<img src="" alt="" class="" id="" />`
+        const options = this.value.split(' ');
+        const imageTitle = options[0].split('/');
+        return `<img src="${window.location.origin}/assets/images/${imageTitle[1]}">`;
       },
     });
   }
