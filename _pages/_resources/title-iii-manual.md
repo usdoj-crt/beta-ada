@@ -96,7 +96,7 @@ A place of public accommodation is a facility whose operations --
 8. Places of public display or collection (e.g., museums, libraries, galleries);  
 9. Places of recreation (e.g., parks, zoos, amusement parks);  
 10. Places of education (e.g., nursery schools, elementary, secondary, undergraduate, or postgraduate private schools);  
-11. Social service center establishments (e.g., day care centers, senior citizen centers,homeless shelters, food banks, adoption agencies); and  
+11. Social service center establishments (e.g., day care centers, senior citizen centers, homeless shelters, food banks, adoption agencies); and  
 12. Places of exercise or recreation (e.g., gymnasiums, health spas, bowling alleys, golf courses).
 
 #### Can a facility be considered a place of public accommodation if it does not fall under one of these 12 categories?  
@@ -652,7 +652,7 @@ A primary goal of the ADA is the
 equal participation of individuals with disabilities in the &quot;mainstream&quot; of American
 society. The major principles of mainstreaming include the following:  
 1. Individuals with disabilities must be integrated to the maximum extent appropriate.
-2. Separate programs are permitted where necessary to ensure equal opportunity.A
+2. Separate programs are permitted where necessary to ensure equal opportunity. A
 separate program must be appropriate to the particular individual.
 3. Individuals with disabilities cannot be excluded from the regular program, or
 required to accept special services or benefits.
@@ -2005,7 +2005,7 @@ notice is no earlier than the deadline for others applying to take the examinati
 #### May an examiner require that an applicant provide documentation of the existence and nature of the disability as evidence that he or she is entitled to modifications or aids?
 
 Yes, but requests for documentation must be reasonable and must be limited to the
-need for the modification or aid requested.Appropriate documentation might include
+need for the modification or aid requested. Appropriate documentation might include
 a letter from a physician or other professional, or evidence of a prior diagnosis or
 accommodation, such as eligibility for a special education program. The applicant may be required to bear the cost of providing such documentation, but the entity administering the examination cannot charge the applicant for the cost of any
 modifications or auxiliary aids, such as interpreters, provided for the examination.
@@ -2099,7 +2099,7 @@ It is not covered by the title III new construction requirements.
 
 #### What does &quot;structurally impracticable&quot; mean?
 The phrase &quot;structurally impracticable&quot; means that unique characteristics of the land prevent the incorporation of accessibility
-features in a facility.In such a case, the new construction requirements apply, except
+features in a facility. In such a case, the new construction requirements apply, except
 where the private entity can demonstrate that it is structurally impracticable to meet
 those requirements. This exception is very narrow and should not be used in cases of
 merely hilly terrain. The Department expects that it will be used in only rare and
@@ -2113,7 +2113,7 @@ impracticable to provide access to individuals who use wheelchairs.
 ILLUSTRATION: M owns a large piece of land on which he plans to build many
 facilities, including office buildings, warehouses, and stores. The eastern section of
 the land is fairly level, the central section of the land is extremely steep, and the
-western section of the land is marshland.M assumes that he only need comply with
+western section of the land is marshland. M assumes that he only need comply with
 the new construction requirements in the eastern section. He notifies his architect and
 construction contractor to be sure that all buildings in the eastern section are built in
 full compliance with ADAAG. He further advises that no ADAAG requirements
@@ -2253,7 +2253,7 @@ Included within the phrase &quot;sales or retail establishments&quot; are those 
 listed in the fifth category of places of public accommodations, i.e., bakery, grocery
 store, clothing store, hardware store, etc.(see III-1.2000). The term includes floor
 levels containing at least one such establishment, or any floor that was designed or
-intended for use by at least one such establishment.The definition of &quot;shopping center
+intended for use by at least one such establishment. The definition of &quot;shopping center
 or mall&quot; is slightly different for purposes of alterations (see III-6.3000).
 
 ILLUSTRATION 1: A strip of stores includes a grocery store, a clothing store, a
@@ -2266,7 +2266,7 @@ under the sixth category in the definition of place of public accommodation.
 
 ILLUSTRATION 2: A building has a card store, office supply store, video store, and
 a bakery on the first floor; and a hobby shop, accountant&#39;s office, and lawyer&#39;s office
-on the second floor.In this case, both the first and second floors qualify as a
+on the second floor. In this case, both the first and second floors qualify as a
 &quot;shopping center or mall,&quot; because each of those floors has at least one sales
 establishment. Although no floor alone has five sales establishments, the first and
 second floor each have at least one such establishment and, together, the total is five. (The accountant&#39;s and lawyer&#39;s offices are &quot;service establishments&quot; and are not
@@ -2612,7 +2612,7 @@ of providing an accessible ticketing or other similar counter (§7.2(2)(iii));
 4. Accessible guest quarters in newly constructed hotels may all be &quot;multiple-
 occupancy&quot; rooms, provided that individuals with disabilities who request accessible
 single-occupancy rooms are allowed to use the multiple-occupancy rooms at the cost
-of a single-occupancy room (?9.1.4(2));  
+of a single-occupancy room (&sect;9.1.4(2));  
 5. If balconies or terraces cannot be made accessible because wind or water damage
 will result, a ramp or raised decking may be used (§9.2.2(6)).
 
@@ -2663,7 +2663,7 @@ need to approach, enter, and exit the work area.
 It applies to the larger spaces as well. Thus, the requirement for a
 restaurant kitchen, a factory production area, or warehouse space, is that it be
 constructed so that an individual with a disability can approach, enter, or exit the area. However, alterations within those work areas need not be done accessibly, because
-that interior area is not covered by ADAAG.On the other hand, if alterations are
+that interior area is not covered by ADAAG. On the other hand, if alterations are
 made in such work areas, the path of travel requirements will be triggered because
 those work areas are primary function areas (see III-6.2000).
 
@@ -2674,7 +2674,7 @@ is an &quot;observation galler[y] used primarily for security purposes,&quot; it
 of facilities that is totally exempt from any accessibility requirements (see III-7.3130)
 (although title I may later require a lift as a reasonable accommodation for a particular
 employee). Otherwise, the general ADAAG work area requirements apply, and an
-individual with disabilities must be able to approach, enter, and exit the area.This
+individual with disabilities must be able to approach, enter, and exit the area. This
 means that, if there is a change in level of over 1/2&quot;, a ramp or lift must be provided to
 the raised area. Note, however, that in many instances a raised platform is surrounded
 by another work area, such as a service counter. The work area accessibility
@@ -2993,7 +2993,7 @@ Throughout ADAAG, there are numerous examples of areas where there are less stri
 <li>Install only one accessible dressing room for each sex on each level.</li>  
 </ol></li>
 <li>Areas of rescue assistance are not required in alterations (§4.1.6(1)(g)).</li>
-<li>There are special less stringent requirements for alterations in many other areas, including sales and service counters (§7.2(1)), check-out aisles (§7.3(1)), hotels (?9.1.5), and homeless shelters (?9.5.2(2)).</li>
+<li>There are special less stringent requirements for alterations in many other areas, including sales and service counters (§7.2(1)), check-out aisles (&sect;7.3(1)), hotels (&sect;9.1.5), and homeless shelters (&sect;9.5.2(2)).</li>
 </ol>
 
 ### III-7.8000 Special facility types
@@ -3124,9 +3124,9 @@ of covered entities. An investigation may be requested by any individual who bel
 Complaints may be sent to the following address:  
 Office on the Americans with Disabilities Act  
 Civil Rights Division  
-U.S.Department of Justice  
-P.O.Box 66738  
-Washington, D.C.20035-9998  
+U.S. Department of Justice  
+P.O. Box 66738  
+Washington, D.C. 20035-9998  
 
 ### III-8.4000 Suit by the Attorney General.
 
