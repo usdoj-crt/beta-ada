@@ -1,22 +1,33 @@
 ---
+publish-date: 2022-09-16 00:00:00
 title: Equal Access to Child Care
-description: The information in this document is intended to help ensure equal access for all children to child care programs And not turned away based on assumptions about the severity of their disability or how much assistance they may need.
-lead: |-
-  Currently, children with disabilities are thriving alongside their nondisabled peers in childcare centers across the country that foster inclusion. A child with a disability must never be turned away from a child care center based on assumptions about the severity of the disability or how much assistance they may need. Inclusive programs fulfill the ADA’s promise to ensure equal access to child care programs for all children. The information below is intended to help ensure that your child care program fulfills this promise, too.
-print: true
+description: The information in this document is intended to help ensure equal
+  access for all children to child care programs And not turned away based on
+  assumptions about the severity of their disability or how much assistance they
+  may need.
+lead: Currently, children with disabilities are thriving alongside their
+  nondisabled peers in childcare centers across the country that foster
+  inclusion. A child with a disability must never be turned away from a child
+  care center based on assumptions about the severity of the disability or how
+  much assistance they may need. Inclusive programs fulfill the ADA’s promise to
+  ensure equal access to child care programs for all children. The information
+  below is intended to help ensure that your child care program fulfills this
+  promise, too.
 featured: true
+print: true
+related-content: true
+tags:
+  - child care
 card:
   title: Equal Access to Child Care
   title_alt: child care
-  description: |-
-    The ADA requires child care centers to comply with the ADA.  A child with a disability must never be turned away based on assumptions about their disability.
-  image: landing/childcare.jpg
-  alt: "a child with down-syndrome is playing guitar and sitting with kids and a teacher"
+  description: The ADA requires child care centers to comply with the ADA.  A
+    child with a disability must never be turned away based on assumptions about
+    their disability.
+  image: assets/images/childcare.jpg
+  alt: a child with down-syndrome is playing guitar and sitting with kids and a
+    teacher
   href: /topics/child-care-centers/
-tags:
-  - child care
-related-content: true
-publish-date: 2022-09-16 00:00:00
 ---
 ## About Child Care Centers
 
