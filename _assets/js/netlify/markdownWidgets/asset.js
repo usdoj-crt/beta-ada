@@ -4,9 +4,10 @@ export default function list(engine) {
         this.value = tagToken.args;
       },
       *render(context, emitter) {
-        const options = this.value.split(' ');
-        const imageTitle = options[0].split('/');
-        return `<img src="${window.location.origin}/assets/images/${imageTitle[1]}">`;
+        const valArr = this.value.split(' ');
+        const imagePathArr = valArr[0].split('/');
+        const imageTitle = imagePathArr[imagePathArr.length - 1];
+        return `<img src="${window.location.origin}/assets/images/${imageTitle}">`;
       },
     });
   }

@@ -23,7 +23,7 @@ publish_mode: editorial_workflow
 
 # Media Folder: The media_folder option specifies the folder path where uploaded files should be saved, relative to the base of the repo.
 # Required.
-media_folder: _assets/netlify
+media_folder: _assets/images
 public_folder: .
 # Search: since site search is already managed by Federalist, we are going to set this value to false. It defaults to true.
 search: false
