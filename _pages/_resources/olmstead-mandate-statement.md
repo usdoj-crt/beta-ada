@@ -166,7 +166,7 @@ Olmstead, 527 U.S. at 598; 28 C.F.R. 35.130(d).
 {% endfnbody %}
 
 {% fnbody 14 %}
-See CMS, Olmstead Update No. 4, at 4 (Jan. 10, 2001), available at  https://www.cms.gov/smdl/downloads/smd011001a.pdf.
+*See* CMS, Olmstead Update No. 4, at 4 (Jan. 10, 2001), available at [https://www.cms.gov/smdl/downloads/smd011001a.pdf](https://www.cms.gov/smdl/downloads/smd011001a.pdf).
 {% endfnbody %}
 
 {% fnbody 15 %}
