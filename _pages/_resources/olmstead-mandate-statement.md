@@ -56,7 +56,7 @@ A. Yes, the ADA and the <em>Olmstead</em> decision extend to persons at serious 
 {% enddetails %}
 
 {% details 7. May the ADA and <em>Olmstead</em> require states to provide additional services, or services to additional individuals, than are provided for in their Medicaid programs? expandable %}
-A. A state&rsquo;s obligations under the ADA are independent from the requirements of the Medicaid program.  {% fn 14 %}Providing services beyond what a state currently provides under Medicaid may not cause a fundamental alteration, and the ADA may require states to provide those services, under certain circumstances.&nbsp; For example, the fact that a state is permitted to &ldquo;cap&rdquo; the number of individuals it serves in a particular waiver program under the Medicaid Act does not exempt the state from serving additional people in the community to comply with the ADA or other laws.{% fn 15 %}
+A. A state&rsquo;s obligations under the ADA are independent from the requirements of the Medicaid program.{% fn 14 %}  Providing services beyond what a state currently provides under Medicaid may not cause a fundamental alteration, and the ADA may require states to provide those services, under certain circumstances.&nbsp; For example, the fact that a state is permitted to &ldquo;cap&rdquo; the number of individuals it serves in a particular waiver program under the Medicaid Act does not exempt the state from serving additional people in the community to comply with the ADA or other laws.{% fn 15 %}
 {% enddetails %}
 
 {% details 8. Do the ADA and <em>Olmstead</em> require a public entity to provide services in the community to persons with disabilities when it would otherwise provide such services in institutions? expandable %}
@@ -166,7 +166,7 @@ Olmstead, 527 U.S. at 598; 28 C.F.R. 35.130(d).
 {% endfnbody %}
 
 {% fnbody 14 %}
-*See* CMS, Olmstead Update No. 4, at 4 (Jan. 10, 2001), available at [https://www.cms.gov/smdl/downloads/smd011001a.pdf](https://www.cms.gov/smdl/downloads/smd011001a.pdf).
+*See* CMS, Olmstead Update No. 4, at 4 (Jan. 10, 2001), available at [https://downloads.cms.gov/cmsgov/archived-downloads/SMDL/downloads/smd011001a.pdf](https://downloads.cms.gov/cmsgov/archived-downloads/SMDL/downloads/smd011001a.pdf)
 {% endfnbody %}
 
 {% fnbody 15 %}
