@@ -1,4 +1,4 @@
-import renderWidgets from "./markdownWidgets/renderMdWidgets";
+import renderWidgets from "./renderMdWidgets";
 const md = window.markdownit();
 md.options['html'] = true;
 md.options['linkify'] = true;
