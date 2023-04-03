@@ -6,6 +6,7 @@
 <!-- The array containing the tags needs to be initialized with some content, not sure why -->
 {% assign tagArray = 'a,b' | split:"," %}
 {% for tag in page.tags %}
+{% if tag != "title ii" and tag != "title iii" %}
 {% for post in pagesAndPosts %}
 {% if site.data.tags.allowed-tags contains tag %}
 {% if post.tags contains tag %}
@@ -15,6 +16,7 @@
 {% endif %}
 {% endif %}
 {% endfor %}
+{% endif %}
 {% endfor %}
 {% assign tagArray = tagArray | uniq %}
 {% assign tagSize = tagArray | size %}
