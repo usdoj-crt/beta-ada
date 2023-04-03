@@ -8,5 +8,5 @@ const preview = createClass({
   },
   });
 
-const pages = ['topics', 'resources', 'law-and-regs', 'pages'];
+const pages = ['index', 'topics', 'resources', 'law-and-regs', 'pages'];
 pages.forEach((page) => CMS.registerPreviewTemplate(page, preview));

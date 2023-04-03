@@ -165,6 +165,7 @@ parallel_localization: true
 
 include:
   - _pages
+  - _includes
 
 exclude:
   - package.json

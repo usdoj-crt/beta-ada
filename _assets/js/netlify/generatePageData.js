@@ -9,7 +9,8 @@ export default function generatePageData(entry) {
   const print = entry.getIn(['data', 'print']);
   const sideNavPDF = entry.getIn(['data', 'sidenav-pdf']);
   const relatedContent = entry.getIn(['data', 'related-content']);
-  const bodyContentsArr = makeHTMLFromBodyContent(rawBodyContent);
+  const variables = entry.get('data').toJS();
+  const bodyContentsArr = makeHTMLFromBodyContent(rawBodyContent, variables);
   const pageData = {
     title,
     leadText,
