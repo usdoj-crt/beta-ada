@@ -5,6 +5,8 @@ lead: |-
   The ADA requires state and local governments and their election officials to ensure that people with disabilities have a full and equal opportunity to vote in all elections. This includes federal, state, and local elections. And it includes all parts of voting, like voter registration, selecting a location for polling places, and voting, whether on election day or during an early or absentee voting process.
 print: true
 featured: true
+tags:
+  - voting
 card:
   title: Voting and Polling Places
   title_alt: voting
