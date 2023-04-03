@@ -184,6 +184,7 @@ exclude:
   - /playwright-report
   - /mock_data
   - make_redirects.rb
+  - /scripts
 
 assets:
   autoprefixer:
