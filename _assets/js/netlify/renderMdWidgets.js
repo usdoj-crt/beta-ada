@@ -14,12 +14,12 @@ const tagNames = [
   'list_item',
 ];
 
-function buildEngine(variables) {
+function buildEngine(globals) {
   const engine = new Liquid({
     jekyllInclude: true,
     partials: '/_includes',
     ownPropertyOnly: false,
-    globals: {'page': variables},
+    globals,
   });
 
   tagNames.forEach((tagName) => {
@@ -150,7 +150,10 @@ function buildEngine(variables) {
 }
 
 function renderWidgets(interimHTML, variables) {
-  const engine = buildEngine(variables);
+  const engine = buildEngine({
+    'page': variables,
+    'site': window.jekyllSite,  // This is defined globally via site_json.rb
+  });
   const renderedHTML = engine.parseAndRenderSync(interimHTML);
   return renderedHTML;
 }
