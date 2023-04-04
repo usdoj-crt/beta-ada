@@ -157,6 +157,10 @@ defaults:
       path: "admin/"
     values:
       sitemap: false
+  - scope:
+      path: "_includes/"
+    values:
+      sitemap: false
 
 languages: ["en"]
 default_lang: "en"
@@ -207,6 +211,7 @@ assets:
     - source: _pdfs/*
     - source: _assets/images/*
       strip: _assets/
+    - source: _includes/**/*
   sources:
     - node_modules/anchor-js
     - node_modules/gumshoejs/dist
