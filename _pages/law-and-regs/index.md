@@ -1,8 +1,9 @@
 ---
 permalink: /law-and-regs/
-title: Review Laws, Regulations & Standards
+title: Laws, Regulations & Standards
 sidenav: false
 compact: true
+hide_page_type_info: true
 redirect_from:
     - /2010_regs.htm
     - /pubs/ada.htm

@@ -7,7 +7,7 @@ layout: default
   <div class="grid-row grid-gap-xl">
     {% if page.sidenav %}
     <div id="crt-page--sidenav" class="desktop:grid-col-4">
-      {% if page.title =='View Guidance & Resource Materials' %}
+      {% if page.title =='Guidance & Resource Materials' %}
         {% include ta-left-rail.html %}
       {% else %}
       <div class="usa-accordion margin-bottom-2">
@@ -70,7 +70,9 @@ layout: default
           {{page.lead | markdownify}}
         </div>
         {% endif %}
+        {% unless page.hide_page_type_info %}
         {% include page-type-info-box.html %}
+        {% endunless %}
         {{ content }}
         {% if page.publish-date and page.updated-date %}
         <p class="text-thin font-sans-3xs">

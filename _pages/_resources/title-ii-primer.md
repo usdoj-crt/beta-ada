@@ -1,5 +1,5 @@
 ---
-title: ADA Update - A Primer for State and Local Governments
+title: "ADA Update: A Primer for State and Local Governments"
 description: "This document provides general guidance to assist State and local governments in understanding and complying with the ADA's requirements."
 permalink: /resources/title-ii-primer/
 lead: |-
