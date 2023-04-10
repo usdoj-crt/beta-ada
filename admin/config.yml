@@ -43,7 +43,7 @@ collections:
   # Pages:
   - label: Pages
     name: pages
-    summary: "{{filename}} ({{title}})"
+    summary: "{{title}} ({{filename}})"
     files:
     # 404 error page:
       - label: "404"
