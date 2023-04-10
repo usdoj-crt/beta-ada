@@ -11,6 +11,7 @@ print: true
 related-content: true
 tags:
   - mobility devices
+  - physical accessibility
 redirect_from:
   - /opdmd.htm
 ---
