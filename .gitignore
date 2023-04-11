@@ -9,3 +9,4 @@ playwright-report/
 test-results/
 _assets/js/dist/*
 _assets/css
+/scripts/out
