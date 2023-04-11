@@ -72,7 +72,7 @@ Parking requirements are in Section A of the 2016 Checklist found in Part 3 of t
 
 **Problem One:** Parking is available, but no accessible parking is provided or there are not enough accessible parking or van accessible spaces.
 
-**Solution:** Find a relatively level parking area near the accessible entrance and then designate the area for accessible parking spaces and adjacent access aisles.  Use three parking spaces to make two accessible parking spaces with an access aisle.  Traffic cones or other temporary elements may be used to mark these spaces and access aisles.  Provide a temporary sign designating each accessible parking space and make sure the access aisle of each space is connected to the accessible route to the accessible entrance. 
+**Solution:** Find a relatively level parking area near the accessible entrance and then designate the area for accessible parking spaces and adjacent access aisles.  Use three parking spaces to make two accessible parking spaces with an access aisle.  Traffic cones or other temporary elements may be used to mark these spaces and access aisles.  Provide a temporary sign designating each accessible parking space and make sure the access aisle of each space is connected to the accessible route to the accessible entrance.
 
 **Problem Two:** Accessible parking is provided, but it does not have a marked access aisle next to each designated accessible parking space.
 
@@ -313,7 +313,7 @@ Special care is needed when measuring the clear opening of a doorway. To measure
 ### Taking Photographs
 
 It is always useful to first take a photo that will clearly identify the site, then the elements surveyed. A comprehensive set of photographs makes it easier to understand existing conditions after the survey is completed. It is a good idea to take several photos of the exterior and interior of the polling place. We recommend taking photographs of measurements and noncompliant elements such as steps. It is likely
-that others may review information about the facility you are surveying. 
+that others may review information about the facility you are surveying.
 
 ## Temporary Remedies
 
@@ -411,9 +411,9 @@ In completing the checklist, provide a measurement for every question with a "no
 
 **Status of Polling Place**
 
-_ All Elements Compliant
-_ Non-Compliant Elements Remediable with Temporary Measures
-_ Non-Compliant Elements Not Remediable with Temporary Measures (Relocate Polling Place)
+_All Elements Compliant
+_Non-Compliant Elements Remediable with Temporary Measures
+_Non-Compliant Elements Not Remediable with Temporary Measures (Relocate Polling Place)
 
 Ward:
 
@@ -540,8 +540,7 @@ Location name:
 </thead>
   <tr>
     <th>B1</th>
-    <td>Is  the vehicle pull-up space on a level surface,   with slopes not exceeding 1:48 in all  directions? 
-(&sect;503.4) </td>
+    <td>Is  the vehicle pull-up space on a level surface, with slopes not exceeding 1:48 in all directions? (&sect;503.4) </td>
     <td></td>
     <td></td>
     <td></td>
@@ -549,8 +548,7 @@ Location name:
   </tr>
   <tr>
     <th>B2</th>
-    <td>Is  the access aisle next to the vehicle pull-up   space on a level surface, with a slope not 
-exceeding 1:48 in all directions? (&sect;503.4)</td>
+    <td>Is  the access aisle next to the vehicle pull-up space on a level surface, with a slope not exceeding 1:48 in all directions? (&sect;503.4)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -566,8 +564,7 @@ exceeding 1:48 in all directions? (&sect;503.4)</td>
   </tr>
   <tr>
     <th>B4</th>
-    <td>Is  a curb ramp provided if a curb separates   the access aisle from the accessible route to 
-the accessible entrance? (&sect;&sect;206.2.1, 503.3)</td>
+    <td>Is  a curb ramp provided if a curb separates the access aisle from the accessible route to the accessible entrance? (&sect;&sect;206.2.1, 503.3)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -583,8 +580,7 @@ the accessible entrance? (&sect;&sect;206.2.1, 503.3)</td>
   </tr>
   <tr>
     <th>B6</th>
-    <td>Does  an accessible route connect the access   aisle and curb ramp to the accessible entrance 
-of the polling place? (&sect;206.2)</td>
+    <td>Does  an accessible route connect the access aisle and curb ramp to the accessible entrance of the polling place? (&sect;206.2)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -728,13 +724,12 @@ Location name:
 </thead>
  <tr>
     <th>D1</th>
-    <td>Is the clear width of the door opening (one 
-      door or one active leaf of a double door) at      least 32&quot;? (&sect;404.2.3)</td>
+    <td>Is the clear width of the door opening (one door or one active leaf of a double door) at least 32&quot; (&sect;404.2.3)</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-  </tr>
+    </tr>
   <tr>
     <th>D2</th>
     <td>Is each door hardware useable with one hand      without tight grasping, pinching, or twisting<br />
