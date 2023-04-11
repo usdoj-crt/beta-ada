@@ -52,12 +52,12 @@ Check out DOJ’s current ADA regulations:
 - [Title II]({{'/law-and-regs/title-ii-2010-regulations/' | relative_url}}) (State and Local Governments)
 - [Title III]( {{'/law-and-regs/title-iii-regulations' | relative_url}}) (Public Accommodations and Commercial Facilities)
 
-In the [Spring 2022 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain), DOJ announced that it plans to issue new ADA regulations on the following topics:
+In the [Fall 2022 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain), DOJ announced that it plans to issue new ADA regulations on the following topics:
 
-- [Medical Diagnostic Equipment](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202204&RIN=1190-AA78) (Titles II and III)
-- [Web Accessibility](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202204&RIN=1190-AA79) (Title II)
-- [The Public Right-of-Way](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202204&RIN=1190-AA77) (Title II)
-- [Equipment and Furniture](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202204&RIN=1190-AA76) (Titles II and III)
+- [Medical Diagnostic Equipment](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202210&RIN=1190-AA78)
+- [Title II Web Accessibility](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202210&RIN=1190-AA79)
+- [The Public Right of Way](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202210&RIN=1190-AA77)
+- [Equipment and Furniture](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202210&RIN=1190-AA76)
 
 {% details What is the Unified Agenda? %}
 The [Unified Agenda](https://www.reginfo.gov/public/jsp/eAgenda/UA_About.myjsp) provides information about federal agencies’ regulatory priorities and the specific regulations that they plan to issue in the short and long term.
