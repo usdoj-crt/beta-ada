@@ -13,8 +13,8 @@ card:
   href: /topics/community-integration/
 tags:
   - title ii
+  - olmstead
 related-content: true
-news-item: true
 publish-date: 2023-01-14 00:00:00
 ---
 In a 1999 case called *Olmstead v. L.C.*, the Supreme Court wrote that the unnecessary

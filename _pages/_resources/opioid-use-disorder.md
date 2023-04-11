@@ -15,6 +15,7 @@ sidenav-pdf:
   filename: opioid-guidance.pdf
 tags:
   - medical care
+  - health care
 ---
 ## 1) What is the ADA?  
 

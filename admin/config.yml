@@ -43,6 +43,7 @@ collections:
   # Pages:
   - label: Pages
     name: pages
+    summary: "{{title}} ({{filename}})"
     files:
     # 404 error page:
       - label: "404"
@@ -58,9 +59,11 @@ collections:
           - label: Sitemap
             name: sitemap
             widget: boolean
+            default: false
           - label: Enable Sidenav
             name: sidenav
             widget: boolean
+            default: false
           - label: Body
             name: body
             widget: markdown
@@ -274,10 +277,10 @@ collections:
           widget: text
         - label: Body Content
           name: body
-          widget:  markdown
+          widget: markdown
       # Resources page:
       - label: Resources
-        name: Resources
+        name: resources
         file: _pages/resources.md
         fields:
         - label: Permalink
@@ -291,11 +294,12 @@ collections:
           widget: text
         - label: Body Content
           name: body
-          widget:  markdown
+          widget: markdown
     # Subpages which share the same information structure can be edited in folder collections
     # Topic pages:
   - label: Topics
     name: topics
+    summary: "{{filename}} ({{title}})"
     folder: _pages/_topics
     create: true
     fields:
@@ -308,9 +312,11 @@ collections:
       - label: Short Title
         name: short title
         widget: string
+        required: false
       - label: Lead Text
         name: lead
         widget: text
+        required: false
       - label: Featured
         name: featured
         widget: boolean
@@ -341,6 +347,7 @@ collections:
           - label: Title Alt
             name: title alt
             widget: string
+            required: false
           - label: Description
             name: description
             widget: text
@@ -353,6 +360,7 @@ collections:
           - label: Position
             name: position
             widget: string
+            required: false
           - label: Href
             name: href
             widget: string
@@ -362,6 +370,7 @@ collections:
   # Resources pages:
   - label: Resources
     name: resources
+    summary: "{{filename}} ({{title}})"
     folder: _pages/_resources
     create: true
     fields:
@@ -374,6 +383,7 @@ collections:
       - label: Lead Text
         name: lead
         widget: text
+        required: false
       - label: Permalink
         name: permalink
         widget: string
@@ -386,10 +396,8 @@ collections:
         required: false
       - label: Language
         name: lang
-        widget: select
-        multiple: false
-        default: "en"
-        options: ["en", "es"]
+        widget: string
+        default: 'en'
       - label: Print
         name: print
         widget: boolean
@@ -447,6 +455,7 @@ collections:
     # Laws and regulations pages
   - label: Law and Regs
     name: law-and-regs
+    summary: "{{filename}} ({{title}})"
     folder: _pages/law-and-regs
     create: true
     fields:
@@ -456,12 +465,52 @@ collections:
       - label: Lead Text
         name: lead
         widget: text
+        required: false
       - label: Permalink
         name: permalink
         widget: string
       - label: Sidenav
         name: sidenav
         widget: boolean
+        default: true
+        required: false
+      - label: Body Content
+        name: body
+        widget: markdown
+      - label: Related Content
+        name: related-content
+        widget: boolean
+        default: false
+        required: false
+      - label: Tags
+        name: tags
+        widget: select
+        options: ["artificial intelligence","design standards","effective communication" , "employment","parking","service animals","title ii","title iii","web access"]
+        multiple: true
+        min: 0
+        required: false
+  # Design standards pages
+  - label: Design Standards
+    name: design-standards
+    summary: "{{filename}} ({{title}})"
+    folder: _pages/law-and-regs/design-standards
+    create: true
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Lead Text
+        name: lead
+        widget: text
+        required: false
+      - label: Permalink
+        name: permalink
+        widget: string
+      - label: Sidenav
+        name: sidenav
+        widget: boolean
+        default: true
+        required: false
       - label: Body Content
         name: body
         widget: markdown
@@ -480,6 +529,7 @@ collections:
     # Posts under the Notices pages
   - label: Notices
     name: notices-posts
+    summary: "{{filename}} ({{title}})"
     folder: notices/_posts
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
@@ -493,6 +543,7 @@ collections:
   # Spanish Translations
   - label: Español
     name: es
+    summary: "{{filename}} ({{title}})"
     folder: _pages/es/
     create: true
     fields:
@@ -508,13 +559,15 @@ collections:
       - label: Lead Text
         name: lead
         widget: text
+        required: false
       - label: Language
         name: lang
         default: 'es'
         widget: string
       - label: Translation Reference
-        name: Reference
+        name: ref
         widget: string
+        required: false
       - label: Body Content
         name: body
         widget: markdown
