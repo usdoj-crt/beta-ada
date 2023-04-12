@@ -1,6 +1,6 @@
 ---
 title: Statement of the Department of Justice on Enforcement of the Integration Mandate of Title II of the Americans with Disabilities Act and <em>Olmstead</em> v. L.C.
-description: "This technical assistance guide is created to assist individuals in understanding their rights and public entities in understanding their obligations under the ADA and Olmstead."
+description: "This technical assistance guide is created to assist individuals in understanding their rights and public entities in understanding their obligations under the ADA and <em>Olmstead</em>."
 permalink: /resources/olmstead-mandate-statement/
 lead: |-
   In the years since the Supreme Court&rsquo;s decision in <em>Olmstead v. L.C.</em>, 527 U.S. 581 (1999), the goal of the integration mandate in title II of the Americans with Disabilities Act &ndash; to provide individuals with disabilities opportunities to live their lives like individuals without disabilities &ndash; has yet to be fully realized.&nbsp; Some state and local governments have begun providing more integrated community alternatives to individuals in or at risk of segregation in institutions or other segregated settings.&nbsp; Yet many people who could and want to live, work, and receive services in integrated settings are still waiting for the promise of <em>Olmstead</em> to be fulfilled.
@@ -8,6 +8,7 @@ lang: "en"
 publish-date: 2011-06-22 00:00:00
 updated-date: 2020-02-28 00:00:00
 related-content: true
+print: true
 tags:
   - community integration
 redirect_from:
@@ -100,7 +101,7 @@ A. By statute, Congress has created an independent protection and advocacy syste
 {% enddetails %}
 
 {% details 18. Can someone file a complaint with the Department of Justice regarding a violation of the ADA and <em>Olmstead</em>? expandable %}
-A. Yes, individuals can file complaints about violations of title II and <em>Olmstead </em>with the Department of Justice.&nbsp; A title II complaint form is available on-line at [archive.ada.gov](https://archive.ada.gov/CRT-ReportPDF-Sep2021.pdf) and can be sent to:
+A. Yes, individuals can file complaints about violations of title II and <em>Olmstead</em> with the Department of Justice.&nbsp; A title II complaint form is available on-line at [archive.ada.gov](https://archive.ada.gov/CRT-ReportPDF-Sep2021.pdf) and can be sent to:
 U.S. Department of Justice
 Civil Rights Division
 950 Pennsylvania Avenue, NW
@@ -110,7 +111,7 @@ Washington, DC 20530
 
 Individuals may also call the Department&rsquo;s toll-free ADA Information Line&nbsp;for information about filing a complaint and to order forms and other materials that can assist you in providing information about the violation.&nbsp; The number for the ADA Information Line is (800) 514-0301 (voice) or (800) 514-0383(TTY).
 
-In addition, individuals may file a complaint about violations of Olmstead with the Office for Civil Rights at the U.S. Department of Health and Human Services. Instructions on filing a complaint with OCR are available at [http://www.hhs.gov/ocr/civilrights/complaints/index.html](http://www.hhs.gov/ocr/civilrights/complaints/index.html)
+In addition, individuals may file a complaint about violations of <em>Olmstead</em> with the Office for Civil Rights at the U.S. Department of Health and Human Services. Instructions on filing a complaint with OCR are available at [http://www.hhs.gov/ocr/civilrights/complaints/index.html](http://www.hhs.gov/ocr/civilrights/complaints/index.html)
 
 {% footnotes %}
 {% fnbody 1 %}
@@ -138,7 +139,7 @@ See 42 U.S.C. § 12134(a); 28 C.F.R. § 35.190(a); Executive Order 12250, 45 Fed
 {% endfnbody %}
 
 {% fnbody 7 %}
-Olmstead v. L.C., 527 U.S.at 607.
+<em>Olmstead v. L.C.</em>, 527 U.S.at 607.
 {% endfnbody %}
 
 {% fnbody 8 %}
@@ -150,7 +151,7 @@ Id. at 600-01.
 {% endfnbody %}
 
 {% fnbody 10 %}
-Id.; see also Olmstead, 527 U.S. at 604-07.
+Id.; <em>see</em> also <em>Olmstead</em>, 527 U.S. at 604-07.
 {% endfnbody %}
 
 {% fnbody 11 %}
@@ -162,11 +163,11 @@ See 28 C.F.R. § 35.130(b)(1) (prohibiting a public entity from discriminating �
 {% endfnbody %}
 
 {% fnbody 13 %}
-Olmstead, 527 U.S. at 598; 28 C.F.R. 35.130(d).
+*Olmstead*, 527 U.S. at 598; 28 C.F.R. 35.130(d).
 {% endfnbody %}
 
 {% fnbody 14 %}
-*See* CMS, Olmstead Update No. 4, at 4 (Jan. 10, 2001), available at <a class="pa11y-skip" href="https://downloads.cms.gov/cmsgov/archived-downloads/SMDL/downloads/smd011001a.pdf">https://downloads.cms.gov/cmsgov/archived-downloads/SMDL/downloads/smd011001a.pdf</a>
+*See* CMS, *Olmstead* Update No. 4, at 4 (Jan. 10, 2001), available at <a class="pa11y-skip" href="https://downloads.cms.gov/cmsgov/archived-downloads/SMDL/downloads/smd011001a.pdf">https://downloads.cms.gov/cmsgov/archived-downloads/SMDL/downloads/smd011001a.pdf</a>
 {% endfnbody %}
 
 {% fnbody 15 %}
@@ -182,7 +183,7 @@ See U.S. Dept. of Justice, ADA Title II Technical Assistance Manual § II-3.6200
 {% endfnbody %}
 
 {% fnbody 18 %}
-Olmstead, 527 U.S. at 604.
+*Olmstead*, 527 U.S. at 604.
 {% endfnbody %}
 
 {% fnbody 19 %}
