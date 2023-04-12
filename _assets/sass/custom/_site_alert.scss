@@ -8,6 +8,10 @@
 // Change the default alert border color and add a small left hand border to the alert
 #warning-banner {
     background-color: #FBF3D1;
+
+    .usa-alert__heading {
+        background-color: #FBF3D1;
+    }
 }
 
 .usa-site-alert--info .usa-alert {
