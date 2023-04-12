@@ -40,7 +40,7 @@ In addition to the 2016 Checklist, election officials should consult the Departm
 
 Another Justice Department publication, Solutions for Five Common ADA Access Problems at Polling Places, illustrates suggested temporary solutions for several common accessibility problems found at polling places.
 
-The 2016 Checklist and other Justice Department publications, as well as the title II regulation and the 2010 Standards are available at archive.ada.gov.
+The 2016 Checklist and other Justice Department publications, as well as the title II regulation and the 2010 Standards are available at [archive.ada.gov](https://archive.ada.gov).
 
 ## Part 1: Evaluating the Physical Accessibility of Polling Places
 
@@ -434,7 +434,7 @@ Location name:
   <thead>
     <tr>
       <th scope="col">A</th>
-<th scope="col">Only complete this section if off-street parking is provided to voters. If off-street parking is not provided to voters, go to Section B.<br>If more than 25 parking spaces are provided  to voters, see the 2010 Standards for the  number of accessible parking spaces required.  (&sect;208.2)</th>
+<th scope="col">Only complete this section if off-street parking is provided to voters. If off-street parking is not provided to voters, go to Section B.<br>If more than 25 parking spaces are provided to voters, see the 2010 Standards for the  number of accessible parking spaces required.  (&sect;208.2)</th>
 <th scope="col">Yes</th>
 <th scope="col">No</th>
 <th scope="col">N/A</th>
@@ -443,10 +443,8 @@ Location name:
 </thead>
 <tr>
     <th>A1</th>
-    <td>Is there at least one designated van accessible
-space with signage with the International
-Symbol of Accessibility and designated "van
-accessible"? (&sect;&sect;208.2, 208.2.4, 502.6)</td>
+    <td>Is there at least one designated van accessible space with signage with the International
+Symbol of Accessibility and designated "van accessible"? (&sect;&sect;208.2, 208.2.4, 502.6)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -454,10 +452,8 @@ accessible"? (&sect;&sect;208.2, 208.2.4, 502.6)</td>
   </tr>
   <tr>
     <th>A2</th>
-    <td>Are the designated van accessible spaces at
-least 96" wide with a 96" wide access aisle,
-or 132" wide with a 60" wide access aisle?
-(&sect;&sect;502.2, 502.3)
+    <td>Are the designated van accessible spaces at least 96" wide with a 96" wide access aisle,
+or 132" wide with a 60" wide access aisle? (&sect;&sect;502.2, 502.3)
 Width of space _____
 Width of access aisle _____</td>
     <td></td>
@@ -467,12 +463,7 @@ Width of access aisle _____</td>
   </tr>
   <tr>
     <th>A3</th>
-    <td>For van accessible spaces (particularly in a
-garage or parking structure), is there vertical
-clearance of at least 98" for the vehicular
-route to the parking space, in the parking
-space and access aisle, and along the vehicular
-route to the exit? (&sect;502.5)</td>
+    <td>For van accessible spaces (particularly in a garage or parking structure), is there vertical clearance of at least 98" for the vehicular route to the parking space, in the parking space and access aisle, and along the vehicular route to the exit? (&sect;502.5)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -480,12 +471,7 @@ route to the exit? (&sect;502.5)</td>
   </tr>
   <tr>
     <th>A4</th>
-    <td>Are designated accessible parking spaces
-and the access aisles serving them on a level
-surface, with slopes not exceeding 1:48 in
-all directions? (Note: Curb ramps may not
-be part of an access aisle since they include
-slopes greater than 1:48.) (&sect;502.4)</td>
+    <td>Are designated accessible parking spaces and the access aisles serving them on a level surface, with slopes not exceeding 1:48 in all directions? (Note: Curb ramps may not be part of an access aisle since they include slopes greater than 1:48.) (&sect;502.4)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -493,9 +479,7 @@ slopes greater than 1:48.) (&sect;502.4)</td>
   </tr>
   <tr>
     <th>A5</th>
-    <td>Are the surfaces of the designated accessible
-parking spaces and access aisles stable, firm,
-and slip resistant? (&sect;&sect;502.4, 302.1)</td>
+    <td>Are the surfaces of the designated accessible parking spaces and access aisles stable, firm, and slip resistant? (&sect;&sect;502.4, 302.1)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -503,9 +487,7 @@ and slip resistant? (&sect;&sect;502.4, 302.1)</td>
   </tr>
   <tr>
     <th>A6</th>
-    <td>Are the designated accessible parking spaces
-located on the shortest accessible route to the
-accessible entrance? (&sect;208.3.1)</td>
+    <td>Are the designated accessible parking spaces located on the shortest accessible route to the accessible entrance? (&sect;208.3.1)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -564,7 +546,7 @@ Location name:
   </tr>
   <tr>
     <th>B4</th>
-    <td>Is  a curb ramp provided if a curb separates the access aisle from the accessible route to the accessible entrance? (&sect;&sect;206.2.1, 503.3)</td>
+    <td>Is a curb ramp provided if a curb separates the access aisle from the accessible route to the accessible entrance? (&sect;&sect;206.2.1, 503.3)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -572,7 +554,7 @@ Location name:
   </tr>
   <tr>
     <th>B5</th>
-    <td>Is  the width of the curb ramp surface at least   36&rdquo; (not counting the side flares)? (&sect;405.5)</td>
+    <td>Is the width of the curb ramp surface at least   36&rdquo; (not counting the side flares)? (&sect;405.5)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -580,7 +562,7 @@ Location name:
   </tr>
   <tr>
     <th>B6</th>
-    <td>Does  an accessible route connect the access aisle and curb ramp to the accessible entrance of the polling place? (&sect;206.2)</td>
+    <td>Does an accessible route connect the access aisle and curb ramp to the accessible entrance of the polling place? (&sect;206.2)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -732,8 +714,7 @@ Location name:
     </tr>
   <tr>
     <th>D2</th>
-    <td>Is each door hardware useable with one hand      without tight grasping, pinching, or twisting<br />
-      of the wrist? (&sect;&sect;309.4, 404.2.7)</td>
+    <td>Is each door hardware useable with one hand without tight grasping, pinching, or twisting of the wrist? (&sect;&sect;309.4, 404.2.7)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -741,9 +722,7 @@ Location name:
   </tr>
   <tr>
     <th>D3</th>
-    <td>On the pull side of the door, is there at least<br />
-      18&quot; of clearance provided to the side of the<br />
-      latch? (&sect;&sect;404.2.4.4, 405.7.1)</td>
+    <td>On the pull side of the door, is there at least 18&quot; of clearance provided to the side of the latch? (&sect;&sect;404.2.4.4, 405.7.1)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -751,9 +730,7 @@ Location name:
   </tr>
   <tr>
     <th>D4</th>
-    <td>Is the area in front of the door level, with<br />
-      slopes no greater than 1:48 in all directions?<br />
-      (&sect;&sect;404.2.4.4, 405.7.1)</td>
+    <td>Is the area in front of the door level, with slopes no greater than 1:48 in all directions? (&sect;&sect;404.2.4.4, 405.7.1)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -761,10 +738,7 @@ Location name:
   </tr>
   <tr>
     <th>D5</th>
-    <td>If there are doors in a series, is the distance<br />
-      between the two hinged doors at least 48&quot;<br />
-      plus the width of the door swinging into the<br />
-      space? (&sect;404.2.6)</td>
+    <td>If there are doors in a series, is the distance between the two hinged doors at least 48&quot; plus the width of the door swinging into the space? (&sect;404.2.6)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -772,9 +746,7 @@ Location name:
   </tr>
   <tr>
     <th>D6</th>
-    <td>Can the second door (interior door) in the<br />
-      series be opened with no more than 5<br />
-      pounds of force? (&sect;309.4)</td>
+    <td>Can the second door (interior door) in the series be opened with no more than 5 pounds of force? (&sect;309.4)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -782,8 +754,7 @@ Location name:
   </tr>
   <tr>
     <th>D7</th>
-    <td>Does the second door (interior door) in the<br />
-      series comply with D2, D3, and D4, above?</td>
+    <td>Does the second door (interior door) in the series comply with D2, D3, and D4, above?</td>
     <td></td>
     <td></td>
     <td></td>
@@ -791,9 +762,7 @@ Location name:
   </tr>
   <tr>
     <th>D8</th>
-    <td>Are door thresholds no higher than 1/2&quot;?<br />
-      (Note: If the threshold is between 1/4&quot; and 1/2&quot;<br />
-      it must be beveled.) (&sect;404.2.5)</td>
+    <td>Are door thresholds no higher than 1/2&quot;? (Note: If the threshold is between 1/4&quot; and 1/2&quot; it must be beveled.) (&sect;404.2.5)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -801,9 +770,7 @@ Location name:
   </tr>
   <tr>
     <th>D9</th>
-    <td>Do inaccessible entrances have signage<br />
-      directing voters to the accessible entrance?<br />
-      (&sect;216.6)</td>
+    <td>Do inaccessible entrances have signage directing voters to the accessible entrance? (&sect;216.6)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -811,10 +778,7 @@ Location name:
   </tr>
   <tr>
     <th>D10</th>
-    <td>If voters are directed to an alternative accessible<br />
-      entrance, is this entrance kept unlocked<br />
-      during voting hours? (28 C.F.R. &sect;&sect;35.130,<br />
-      35.133)</td>
+    <td>If voters are directed to an alternative accessible entrance, is this entrance kept unlocked during voting hours? (28 C.F.R. &sect;&sect;35.130, 35.133)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -858,9 +822,7 @@ Location name:
   </tr>
   <tr>
     <th>E2</th>
-    <td>Is the route free of wall mounted objects that<br />
-      protrude more than 4&quot; into the path of travel<br />
-      and are between 27&quot; and 80&quot; high? (&sect;307.2)</td>
+    <td>Is the route free of wall mounted objects that protrude more than 4&quot; into the path of travel and are between 27&quot; and 80&quot; high? (&sect;307.2)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -868,9 +830,7 @@ Location name:
   </tr>
   <tr>
     <th>E3</th>
-    <td>Is the route free of post mounted objects that<br />
-      protrude more than 12&quot; into the path of travel<br />
-      and are between 27&quot; and 80&quot; high? (&sect;307.3)</td>
+    <td>Is the route free of post mounted objects that protrude more than 12&quot; into the path of travel and are between 27&quot; and 80&quot; high? (&sect;307.3)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -878,9 +838,7 @@ Location name:
   </tr>
   <tr>
     <th>E4</th>
-    <td>Are objects that hang over the route 80&quot; or<br />
-      higher, including the underside of stairs?<br />
-      (&sect;307.4)</td>
+    <td>Are objects that hang over the route 80&quot; or higher, including the underside of stairs? (&sect;307.4)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -888,8 +846,7 @@ Location name:
   </tr>
   <tr>
     <th>E5</th>
-    <td>Is the route free of abrupt changes in level<br />
-      greater than 1/2&quot;, including stairs? (&sect;303)</td>
+    <td>Is the route free of abrupt changes in level greater than 1/2&quot;, including stairs? (&sect;303)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -897,8 +854,7 @@ Location name:
   </tr>
   <tr>
     <th>E6</th>
-    <td>Is the running slope of part of the route
-      greater than 1:20? If yes, go to Section G. (&sect;      303.4)</td>
+    <td>Is the running slope of part of the route greater than 1:20? If yes, go to Section G. (&sect; 303.4)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -906,10 +862,7 @@ Location name:
   </tr>
   <tr>
     <th>E7</th>
-    <td>If the route to the voting area has stairs, is a<br />
-      platform lift or elevator provided? If yes, go<br />
-      to Section H (lifts) or Section I (elevators).<br />
-      (&sect;402.2)</td>
+    <td>If the route to the voting area has stairs, is a platform lift or elevator provided? If yes, go to Section H (lifts) or Section I (elevators). (&sect;402.2)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -917,10 +870,7 @@ Location name:
   </tr>
   <tr>
     <th>E8</th>
-    <td>If doors are provided along the route to the<br />
-      voting area, is the clear width of each door<br />
-      opening (one door or one active leaf of a<br />
-      double door) at least 32&quot;? (&sect;404.2.3)</td>
+    <td>If doors are provided along the route to the voting area, is the clear width of each door opening (one door or one active leaf of a double door) at least 32&quot;? (&sect;404.2.3)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -928,9 +878,7 @@ Location name:
   </tr>
   <tr>
     <th>E9</th>
-    <td>Is each door hardware useable with one hand<br />
-      without tight grasping, pinching, or twisting<br />
-      of the wrist? (&sect;&sect;309.4, 404.2.7)</td>
+    <td>Is each door hardware useable with one hand without tight grasping, pinching, or twisting of the wrist? (&sect;&sect;309.4, 404.2.7)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -938,8 +886,7 @@ Location name:
   </tr>
   <tr>
     <th>E10</th>
-    <td>Can each door be opened with no more than<br />
-      5 pounds of force? (&sect;309.4)</td>
+    <td>Can each door be opened with no more than 5 pounds of force? (&sect;309.4)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -947,9 +894,7 @@ Location name:
   </tr>
   <tr>
     <th>E11</th>
-    <td>Is the threshold at each door no higher than<br />
-      1/2&quot;? (Note: If the threshold is between 1/4&quot;<br />
-      and 1/2&quot; it must be beveled.) (&sect;404.2.5)</td>
+    <td>Is the threshold at each door no higher than 1/2&quot;? (Note: If the threshold is between 1/4&quot; and 1/2&quot; it must be beveled.) (&sect;404.2.5)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -957,9 +902,7 @@ Location name:
   </tr>
   <tr>
     <th>E12</th>
-    <td>On the pull side of each door, is there at least<br />
-      18&quot; of clearance provided to the side of the<br />
-      latch? (&sect;404.2.4)</td>
+    <td>On the pull side of each door, is there at least 18&quot; of clearance provided to the side of the latch? (&sect;404.2.4)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -967,9 +910,7 @@ Location name:
   </tr>
   <tr>
     <th>E13</th>
-    <td>Is the area in front of each door level, with<br />
-      slopes no greater than 1:48 in all directions?<br />
-      (&sect;&sect;404.2.4.4, 405.7.1)</td>
+    <td>Is the area in front of each door level, with slopes no greater than 1:48 in all directions? (&sect;&sect;404.2.4.4, 405.7.1)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1005,8 +946,7 @@ Location name:
 </thead>
 <tr>
     <th>F1</th>
-    <td>Are floor surfaces stable, firm, and slip resistant?<br />
-      (&sect;302.1)</td>
+    <td>Are floor surfaces stable, firm, and slip resistant? (&sect;302.1)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1014,9 +954,7 @@ Location name:
   </tr>
   <tr>
     <th>F2</th>
-    <td>Is the route free of wall mounted objects that<br />
-      protrude more than 4&quot; into the path of travel<br />
-      and are between 27&quot; and 80&quot; high? (&sect;307.2)</td>
+    <td>Is the route free of wall mounted objects that protrude more than 4&quot; into the path of travel and are between 27&quot; and 80&quot; high? (&sect;307.2)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1024,9 +962,7 @@ Location name:
   </tr>
   <tr>
     <th>F3</th>
-    <td>Is the route free of post mounted objects that<br />
-      protrude more than 12&quot; into the path of travel<br />
-      and are between 27&quot; and 80&quot; high? (&sect;307.3)</td>
+    <td>Is the route free of post mounted objects that protrude more than 12&quot; into the path of travel and are between 27&quot; and 80&quot; high? (&sect;307.3)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1034,9 +970,7 @@ Location name:
   </tr>
   <tr>
     <th>F4</th>
-    <td>Are objects that hang over the route 80&quot; or<br />
-      higher, including the underside of stairs?<br />
-      (&sect;307.4)</td>
+    <td>Are objects that hang over the route 80&quot; or higher, including the underside of stairs? (&sect;307.4)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1044,9 +978,7 @@ Location name:
   </tr>
   <tr>
     <th>F5</th>
-    <td>Is there enough room to provide a route at<br />
-      least 36&quot; wide to the registration table and<br />
-      voting stations? (&sect;403.5.1)</td>
+    <td>Is there enough room to provide a route at least 36&quot; wide to the registration table and voting stations? (&sect;403.5.1)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1054,10 +986,7 @@ Location name:
   </tr>
   <tr>
     <th>F6</th>
-    <td>Is there enough room to provide a turning<br />
-      space in front of at least one voting station,<br />
-      such as a circle that is at least 60&quot; in diameter?<br />
-      (&sect;304.3)</td>
+    <td>Is there enough room to provide a turning space in front of at least one voting station, such as a circle that is at least 60&quot; in diameter? (&sect;304.3)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1065,10 +994,7 @@ Location name:
   </tr>
   <tr>
     <th>F7</th>
-    <td>Is there enough room to provide a turning<br />
-      space in front of at least one accessible voting<br />
-      machine, such as a circle that is at least 60&quot; in<br />
-      diameter? (&sect;304.3)</td>
+    <td>Is there enough room to provide a turning space in front of at least one accessible voting machine, such as a circle that is at least 60&quot; in diameter? (&sect;304.3)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1095,7 +1021,7 @@ Location name:
   <thead>
     <tr>
       <th scope="col">G</th>
-<th scope="col">Ramps<br>Complete a separate ramp form for each ramp, whether exterior or interior.</th>
+<th scope="col">Ramps<br>Complete a separate ramp form for each ramp, whether exterior or interior.<br>Ramp Location:  ___</th>
 <th scope="col">Yes</th>
 <th scope="col">No</th>
 <th scope="col">N/A</th>
@@ -1104,8 +1030,7 @@ Location name:
 </thead>
 <tr>
     <th>G1</th>
-    <td>Is the running slope of the ramp no greater<br />
-      than 1:12? (&sect;405.2)</td>
+    <td>Is the running slope of the ramp no greater than 1:12? (&sect;405.2)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1113,8 +1038,7 @@ Location name:
   </tr>
   <tr>
     <th>G2</th>
-    <td>Is the cross slope of the ramp 1:48 or less?<br />
-      (&sect;405.3)</td>
+    <td>Is the cross slope of the ramp 1:48 or less? (&sect;405.3)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1122,8 +1046,7 @@ Location name:
   </tr>
   <tr>
     <th>G3</th>
-    <td>Is the rise (height) for any ramp run 30&quot; or<br />
-      less? (&sect;405.6)</td>
+    <td>Is the rise (height) for any ramp run 30&quot; or less? (&sect;405.6)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1131,8 +1054,7 @@ Location name:
   </tr>
   <tr>
     <th>G4</th>
-    <td>Is the ramp, measured between handrails,<br />
-      at least 36&quot; wide? (&sect;405.5)</td>
+    <td>Is the ramp, measured between handrails, at least 36&quot; wide? (&sect;405.5)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1140,9 +1062,7 @@ Location name:
   </tr>
   <tr>
     <th>G5</th>
-    <td>Does the ramp have a level landing that is at<br />
-      least 60&quot; long, at the top and bottom of each<br />
-      ramp section? (&sect;405.7)</td>
+    <td>Does the ramp have a level landing that is at least 60&quot; long, at the top and bottom of each ramp section? (&sect;405.7)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1150,8 +1070,7 @@ Location name:
   </tr>
   <tr>
     <th>G6</th>
-    <td>For every 30&quot; of rise, is a level landing at<br />
-      least 60&quot; long provided? (&sect;&sect;405.6, 405.7)</td>
+    <td>For every 30&quot; of rise, is a level landing at least 60&quot; long provided? (&sect;&sect;405.6, 405.7)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1159,8 +1078,7 @@ Location name:
   </tr>
   <tr>
     <th>G7</th>
-    <td>Is a level landing, at least 60&quot; by 60&quot; provided<br />
-      where the ramp changes direction? (&sect;405.7.4)</td>
+    <td>Is a level landing, at least 60&quot; by 60&quot; provided where the ramp changes direction? (&sect;405.7.4)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1168,9 +1086,7 @@ Location name:
   </tr>
   <tr>
     <th>G8</th>
-    <td>If the rise of the ramp is greater than 6&quot;, are<br />
-      handrails provided that are between 34&quot; and<br />
-      38&quot; above the ramp surface? (&sect;&sect;405.8, 505.4)</td>
+    <td>If the rise of the ramp is greater than 6&quot;, are handrails provided that are between 34&quot; and 38&quot; above the ramp surface? (&sect;&sect;405.8, 505.4)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1178,10 +1094,7 @@ Location name:
   </tr>
   <tr>
     <th>G9</th>
-    <td>If the rise of the ramp is greater than 6&quot; and<br />
-      the ramp or landing has a vertical drop-off<br />
-      on either side of the ramp, is edge protection<br />
-      provided? (&sect;405.9)</td>
+    <td>If the rise of the ramp is greater than 6&quot; and the ramp or landing has a vertical drop-off on either side of the ramp, is edge protection provided? (&sect;405.9)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1217,8 +1130,7 @@ Location name:
 </thead>
 <tr>
     <th>H1</th>
-    <td>Is the lift operational at the time of the<br />
-      survey? (28 C.F.R. &sect;&sect;35.130, 35.133)</td>
+    <td>Is the lift operational at the time of the survey? (28 C.F.R. &sect;&sect;35.130, 35.133)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1226,8 +1138,7 @@ Location name:
   </tr>
   <tr>
     <th>H2</th>
-    <td>Is the lift independently operable, or can it be<br />
-      made so during Election Day? (&sect;410.1)</td>
+    <td>Is the lift independently operable, or can it be made so during Election Day? (&sect;410.1)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1235,8 +1146,7 @@ Location name:
   </tr>
   <tr>
     <th>H3</th>
-    <td>Is there 30&quot; by 48&quot; of clear floor space within<br />
-      the lift? (&sect;&sect;410.3, 305.3)</td>
+    <td>Is there 30&quot; by 48&quot; of clear floor space within the lift? (&sect;&sect;410.3, 305.3)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1244,8 +1154,7 @@ Location name:
   </tr>
   <tr>
     <th>H4</th>
-    <td>Are the controls for the lift no higher than<br />
-      48&quot;? (&sect;&sect;410.5, 309.3, 308)</td>
+    <td>Are the controls for the lift no higher than 48&quot;? (&sect;&sect;410.5, 309.3, 308)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1253,9 +1162,7 @@ Location name:
   </tr>
   <tr>
     <th>H5</th>
-    <td>Are the controls useable with one hand<br />
-      without tight grasping, pinching or twisting?<br />
-      (&sect;&sect;410.5, 309.4)</td>
+    <td>Are the controls useable with one hand without tight grasping, pinching or twisting? (&sect;&sect;410.5, 309.4)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1263,10 +1170,7 @@ Location name:
   </tr>
   <tr>
     <th>H6</th>
-    <td>Is the clear width of the door opening/gate<br />
-      opening at the end of the lift at least 32&quot;? If a<br />
-      side door/gate is provided, is the clear opening<br />
-      width at least 42&quot;? (&sect;410.6)</td>
+    <td>Is the clear width of the door opening/gate opening at the end of the lift at least 32&quot;? If a side door/gate is provided, is the clear opening width at least 42&quot;? (&sect;410.6)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1302,8 +1206,7 @@ Location name:
 </thead>
 <tr>
     <th>I1</th>
-    <td>Is the elevator car door opening at least 36&quot;<br />
-      wide? (&sect;407.3.6, Table 407.4.1)</td>
+    <td>Is the elevator car door opening at least 36&quot; wide? (&sect;407.3.6, Table 407.4.1)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1311,10 +1214,7 @@ Location name:
   </tr>
   <tr>
     <th>I2</th>
-    <td>Is there space to maneuver within the elevator<br />
-      car, e.g., 51&quot; deep and 68&quot; wide; OR 80&quot;<br />
-      deep and 54&quot; wide; OR 60&quot; deep and 60&quot;<br />
-      wide? (&sect;407.4.1)</td>
+    <td>Is there space to maneuver within the elevator car, e.g., 51&quot; deep and 68&quot; wide; OR 80&quot; deep and 54&quot; wide; OR 60&quot; deep and 60&quot; wide? (&sect;407.4.1)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1322,8 +1222,7 @@ Location name:
   </tr>
   <tr>
     <th>I3</th>
-    <td>Are hallway elevator call buttons 48&quot; high or<br />
-      lower? (&sect;&sect;407.2.1.1, 308.2, 308.3)</td>
+    <td>Are hallway elevator call buttons 48&quot; high or lower? (&sect;&sect;407.2.1.1, 308.2, 308.3)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1331,8 +1230,7 @@ Location name:
   </tr>
   <tr>
     <th>I4</th>
-    <td>Are elevator car controls 48&quot; high or lower?<br />
-      (&sect;&sect;407.4.6.1, 308.2, 308.3)</td>
+    <td>Are elevator car controls 48&quot; high or lower? (&sect;&sect;407.4.6.1, 308.2, 308.3)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1340,9 +1238,7 @@ Location name:
   </tr>
   <tr>
     <th>I5</th>
-    <td>Does the elevator have visible and audible<br />
-      signals in the hallway to indicate the arrival<br />
-      and direction of the elevator car? (&sect;407.2.2.1)</td>
+    <td>Does the elevator have visible and audible signals in the hallway to indicate the arrival and direction of the elevator car? (&sect;407.2.2.1)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1350,9 +1246,7 @@ Location name:
   </tr>
   <tr>
     <th>I6</th>
-    <td>Does the elevator have visible and audible<br />
-      signals within the elevator car to indicate the<br />
-      position of the car? (&sect;407.4.8)</td>
+    <td>Does the elevator have visible and audible signals within the elevator car to indicate the position of the car? (&sect;407.4.8)</td>
     <td></td>
     <td></td>
     <td></td>
