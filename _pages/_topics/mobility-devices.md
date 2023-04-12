@@ -17,6 +17,7 @@ card:
   href: /topics/mobility-devices/
 tags:
   - mobility devices
+  - physical accessibility
 related-content: true
 ---
 

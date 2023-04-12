@@ -15,6 +15,7 @@ card:
   href: /topics/child-care-centers/
 tags:
   - child care
+  - families
 related-content: true
 publish-date: 2022-09-16 00:00:00
 ---

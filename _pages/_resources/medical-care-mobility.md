@@ -11,6 +11,7 @@ print: true
 related-content: true
 tags:
   - medical care
+  - health care
 redirect_from:
   - /medcare_mobility_ta/medcare_ta.htm
   - /medcare_ta.htm
