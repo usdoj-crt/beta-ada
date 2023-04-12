@@ -8,7 +8,7 @@ sidenav: false
 compact: true
 ---
 
-In late November 2022, The Department announced the launch of the new and improved version of ADA.gov. Our goal for this revamped website is to better empower people to comply with the Americans with Disabilities Act (ADA) as well as understand their rights and others’ rights, by creating and maintaining a website that is modern and user-centered.
+In late November 2022, the Department announced the launch of the new and improved version of ADA.gov. Our goal for this revamped website is to better empower people to comply with the Americans with Disabilities Act (ADA) as well as understand their rights and others’ rights, by creating and maintaining a website that is modern and user-centered.
 
 “With the new and improved version of ADA.gov, the Civil Rights Division is taking an important step forward by providing information about the ADA in a format that is more tailored to the needs of the people seeking this information.” said Assistant Attorney General Kristen Clarke of the Justice Department’s Civil Rights Division. “As we continue our work to increase compliance with the ADA, the department is committed to helping people with disabilities understand their rights, and to helping those who have obligations under the ADA understand their responsibilities.”
 
