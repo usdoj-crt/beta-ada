@@ -102,16 +102,17 @@ A. By statute, Congress has created an independent protection and advocacy syste
 
 {% details 18. Can someone file a complaint with the Department of Justice regarding a violation of the ADA and <em>Olmstead</em>? expandable %}
 A. Yes, individuals can file complaints about violations of title II and <em>Olmstead</em> with the Department of Justice.&nbsp; A title II complaint form is available on-line at [archive.ada.gov](https://archive.ada.gov/CRT-ReportPDF-Sep2021.pdf) and can be sent to:
-U.S. Department of Justice
-Civil Rights Division
-950 Pennsylvania Avenue, NW
-Disability Rights Section - NYAV
-Washington, DC 20530
-{% enddetails %}
+
+U.S. Department of Justice<br>
+Civil Rights Division<br>
+950 Pennsylvania Avenue, NW<br>
+Disability Rights Section - NYAV<br>
+Washington, DC 20530<br>
 
 Individuals may also call the Department&rsquo;s toll-free ADA Information Line&nbsp;for information about filing a complaint and to order forms and other materials that can assist you in providing information about the violation.&nbsp; The number for the ADA Information Line is (800) 514-0301 (voice) or (800) 514-0383(TTY).
 
 In addition, individuals may file a complaint about violations of <em>Olmstead</em> with the Office for Civil Rights at the U.S. Department of Health and Human Services. Instructions on filing a complaint with OCR are available at [http://www.hhs.gov/ocr/civilrights/complaints/index.html](http://www.hhs.gov/ocr/civilrights/complaints/index.html)
+{% enddetails %}
 
 {% footnotes %}
 {% fnbody 1 %}
