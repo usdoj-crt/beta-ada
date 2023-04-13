@@ -168,7 +168,7 @@ See 28 C.F.R. ยง 35.130(b)(1) (prohibiting a public entity from discriminating โ
 {% endfnbody %}
 
 {% fnbody 14 %}
-<em>See</em> CMS, <em>Olmstead</em> Update No. 4, at 4 (Jan. 10, 2001), available at <a class="pa11y-skip" href="https://downloads.cms.gov/cmsgov/archived-downloads/SMDL/downloads/smd011001a.pdf">https://downloads.cms.gov/cmsgov/archived-downloads/SMDL/downloads/smd011001a.pdf</a>
+<em>See</em> CMS, <em>Olmstead</em> Update No. 4, at 4 (Jan. 10, 2001), available at [https://downloads.cms.gov/cmsgov/archived-downloads/SMDL/downloads/smd011001a.pdf](https://downloads.cms.gov/cmsgov/archived-downloads/SMDL/downloads/smd011001a.pdf)
 {% endfnbody %}
 
 {% fnbody 15 %}
