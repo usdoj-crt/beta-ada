@@ -42,16 +42,16 @@
       <div class="margin-1">
         {% case pageType %}
           {% when 'topics' %}
-            <p>This article is a basic introduction to this topic area. Read this page to get a high-level understanding.</p>
+            <p>Read this article to get a basic understanding of this topic.</p>
           {% when 'resources' %}
-            <p>This article is a deeper dive into this topic area. Read this page to understand specific parameters on a topic.</p>
+            <p>Read this article to get specific guidance on this topic.</p>
           {% when 'law-and-regs' %}
-            <p>This article contains policy and legal regulations. Read this page to inform the creation of any legal policy, or to cite in a court of law.</p>
+            <p>Read this article to inform the creation of any legal policy, or to cite in a court of law.</p>
         {% endcase %}
 
         <ul>
           {% unless pageType == 'topics' %}
-          <li>For a higher level introduction, view <a class="usa-summary-box__link" href="/topics">Featured Topics</a></li>
+          <li>For a beginner-level introduction, view <a class="usa-summary-box__link" href="/topics">Featured Topics</a></li>
           {% endunless %}
           {% unless pageType == 'resources' %}
           <li>For a deeper dive, view <a class="usa-summary-box__link" href="/resources">Guidance & Resource Materials</a></li>
