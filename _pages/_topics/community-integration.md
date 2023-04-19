@@ -17,6 +17,7 @@ tags:
 related-content: true
 publish-date: 2023-01-14 00:00:00
 ---
+TESTING NETLIFY [link](https://www.ada.gov)
 In a 1999 case called *Olmstead v. L.C.*, the Supreme Court wrote that the unnecessary
 segregation of people with disabilities is a form of discrimination. The Court said that a person
 with a disability must be served in the community when:  
