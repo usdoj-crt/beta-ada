@@ -1,5 +1,5 @@
 ---
-title: ADA Requirements - Ticket Sales
+title: "ADA Requirements: Ticket Sales"
 description: "This publication provides guidance on the Department&#39;s nondiscrimination requirements that apply to selling tickets for assigned seats at events such as concerts, plays, and sporting events."
 permalink: /resources/ticket-sales/
 lead: |-
@@ -12,6 +12,7 @@ updated-date: 2020-02-28 00:00:00
 tags:
   - title ii
   - title iii
+  - design standards
 ---
 ## Overview  
 
