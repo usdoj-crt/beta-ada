@@ -3,6 +3,7 @@ import renderSearchResults from "./renderSearchResults";
 import applyFocusStyling from "./applyFocusStyling";
 import createRange from "./createRange";
 import wrapUrls from "./wrapUrls";
+import bestBetsSectionTemplate from "../templates/search/bestBetsSectionTemplate";
 import paginationTemplate from "../templates/pagination/paginationTemplate";
 import textBestBetsTemplate from "../templates/search/textBestBetsTemplate";
 import searchResultsTemplate from "../templates/search/searchResultsTemplate";
@@ -17,10 +18,10 @@ export default function renderSearchPage(searchResults, urlParams, numberOfResul
   const target = document.getElementById("totalResultsTarget");
   // Then check if this key has any values:
   if (textResults.length) {
-    textResults.forEach(function (item) {
-      // If it does, slap this into the DOM
-      renderSearchResults(textBestBetsTemplate(item));
-    });
+    const bestBetResults = textResults.map(item => textBestBetsTemplate(item));
+    const bestBetsSection = bestBetsSectionTemplate(bestBetResults);
+    renderSearchResults(bestBetsSection);
+    renderSearchResults(`<p markdown="0" class="total-results margin-top-4">All search results</p>`)
   }
   if (webResults.length) {
     // Set the offset value to 0 initially, this helps with styling the first page icon:
@@ -42,7 +43,7 @@ export default function renderSearchPage(searchResults, urlParams, numberOfResul
     // Set up click tracking for search.gov:
     clickTracking();
     // List the total number of results:
-    target.innerHTML = totalResults(webTotalResults, 'result');
+    target.innerHTML = totalResults(webTotalResults, 'result', `for '` + results.query + `'`);
     // FOR PAGINATION:
     // Generate our results pages array:
     const offsetValueArray = createRange(0, webTotalResults, numberOfResults);
@@ -83,7 +84,7 @@ export default function renderSearchPage(searchResults, urlParams, numberOfResul
     }
   }
   if (document.getElementById("search-results").childNodes.length == 0) {
-    target.innerHTML = totalResults(webTotalResults, 'result');
+    target.innerHTML = totalResults(webTotalResults, 'result', `for '` + results.query + `'`);
   } else {
     const urlsToWrap = document.querySelectorAll(".content-url");
     Array.prototype.forEach.call(urlsToWrap, function(url) {

@@ -62,19 +62,19 @@ primary_navigation:
       en: "/topics/"
       es: "/topics/"
   - name:
-      en: Laws, Regulations & Standards
-      en-short: Laws & Regulations
-      es: Laws, Regulations & Standards
-    url:
-      en: "/law-and-regs/"
-      es: "/law-and-regs/"
-  - name:
       en: Guidance & Resource Materials
       en-short: Resources
       es: Guidance & Resource Materials
     url:
       en: "/resources/"
       es: "/resources/"
+  - name:
+      en: Laws, Regulations & Standards
+      en-short: Laws & Regulations
+      es: Laws, Regulations & Standards
+    url:
+      en: "/law-and-regs/"
+      es: "/law-and-regs/"
   - name:
       en: Enforcement
       en-short: Enforcement
@@ -184,7 +184,6 @@ exclude:
   - /playwright-report
   - /mock_data
   - make_redirects.rb
-  - _pages/redirects/
 
 assets:
   autoprefixer:
