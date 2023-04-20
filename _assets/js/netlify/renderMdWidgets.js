@@ -14,7 +14,17 @@ const tagNames = [
   'list_item',
 ];
 
-function buildEngine(globals) {
+function getImagePath(imageTitle, imagePaths) {
+  let imagePath = '';
+  for (let i = 0; i < imagePaths.length; i++) {
+    if (imagePaths[i]['name'] === imageTitle) {
+      imagePath = imagePaths[i]['download_url'];
+    }
+  }
+  return imagePath;
+}
+
+function buildEngine(globals, imagePaths) {
   const engine = new Liquid({
     jekyllInclude: true,
     partials: '/_includes',
@@ -62,7 +72,9 @@ function buildEngine(globals) {
             const valArr = this.value.split(' ');
             const imagePathArr = valArr[0].split('/');
             const imageTitle = imagePathArr[imagePathArr.length - 1];
-            return `<img src="${window.location.origin}/assets/images/${imageTitle}">`;
+            console.log(imageTitle);
+            const imagePath = getImagePath(imageTitle, imagePaths);
+            return `<img src="${imagePath}">`;
           case 'collapsible':
             const accordionID = context._accordionID;
             let idx = context._collapsedIDX;
@@ -149,11 +161,11 @@ function buildEngine(globals) {
   return engine;
 }
 
-function renderWidgets(interimHTML, variables) {
+function renderWidgets(interimHTML, variables, imagePaths) {
   const engine = buildEngine({
     'page': variables,
     'site': window.jekyllSite,  // This is defined globally via site_json.rb
-  });
+  }, imagePaths);
   const renderedHTML = engine.parseAndRenderSync(interimHTML);
   return renderedHTML;
 }

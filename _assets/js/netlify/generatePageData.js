@@ -1,5 +1,6 @@
 import makeHTMLFromBodyContent from './makeHTMLFromBodyContent';
-
+import genImagePaths from "./genImagePaths";
+const imagePaths = await genImagePaths();
 export default function generatePageData(entry) {
   const title = entry.getIn(['data', 'title']);
   const leadText = entry.getIn(['data', 'lead']);
@@ -10,7 +11,7 @@ export default function generatePageData(entry) {
   const sideNavPDF = entry.getIn(['data', 'sidenav-pdf']);
   const relatedContent = entry.getIn(['data', 'related-content']);
   const variables = entry.get('data').toJS();
-  const bodyContentsArr = makeHTMLFromBodyContent(rawBodyContent, variables);
+  const bodyContentsArr = makeHTMLFromBodyContent(rawBodyContent, variables, imagePaths);
   const pageData = {
     title,
     leadText,

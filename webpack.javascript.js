@@ -12,6 +12,9 @@ module.exports = {
     netlifyPreview: './_assets/js/netlify/preview.js',
     redirect404: './_assets/js/redirect404.js',
   },
+  experiments: {
+      topLevelAwait: true
+  },
   output: {
     path: path.resolve(__dirname, './_assets/js/', 'dist'),
     filename: '[name]-compiled.js',
