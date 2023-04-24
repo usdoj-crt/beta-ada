@@ -1,8 +1,10 @@
 import makeHTMLFromBodyContent from './makeHTMLFromBodyContent';
+import getPreviewLink from './getPreviewLink';
 import genImagePaths from "./genImagePaths";
 const imagePaths = await genImagePaths();
 export default function generatePageData(entry) {
   const title = entry.getIn(['data', 'title']);
+  const previewLink = getPreviewLink(entry);
   const leadText = entry.getIn(['data', 'lead']);
   const rawBodyContent = entry.getIn(['data', 'body']);
   const publishDate = entry.getIn(['data', 'publish-date']);
@@ -13,6 +15,7 @@ export default function generatePageData(entry) {
   const variables = entry.get('data').toJS();
   const bodyContentsArr = makeHTMLFromBodyContent(rawBodyContent, variables, imagePaths);
   const pageData = {
+    previewLink,
     title,
     leadText,
     body: bodyContentsArr,
