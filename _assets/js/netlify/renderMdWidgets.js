@@ -14,17 +14,16 @@ const tagNames = [
   'list_item',
 ];
 
-function getImagePath(imageTitle, imagePaths) {
-  let imagePath = '';
-  for (let i = 0; i < imagePaths.length; i++) {
-    if (imagePaths[i]['name'] === imageTitle) {
-      imagePath = imagePaths[i]['download_url'];
-    }
-  }
-  return imagePath;
+function getImagePath(imageTitle, imageData) {
+  const imageListPaths = imageData['imageList']
+    .filter(image => image['name'] === imageTitle)
+    .map(image => image['download_url']);
+  return imageListPaths.length
+    ? imageListPaths[0]
+    : imageData['newImagePath'].concat(imageTitle);
 }
 
-function buildEngine(globals, imagePaths) {
+function buildEngine(globals, imageData) {
   const engine = new Liquid({
     jekyllInclude: true,
     partials: '/_includes',
@@ -72,8 +71,7 @@ function buildEngine(globals, imagePaths) {
             const valArr = this.value.split(' ');
             const imagePathArr = valArr[0].split('/');
             const imageTitle = imagePathArr[imagePathArr.length - 1];
-            console.log(imageTitle);
-            const imagePath = getImagePath(imageTitle, imagePaths);
+            const imagePath = getImagePath(imageTitle, imageData);
             return `<img src="${imagePath}">`;
           case 'collapsible':
             const accordionID = context._accordionID;
@@ -161,11 +159,11 @@ function buildEngine(globals, imagePaths) {
   return engine;
 }
 
-function renderWidgets(interimHTML, variables, imagePaths) {
+function renderWidgets(interimHTML, variables, imageData) {
   const engine = buildEngine({
     'page': variables,
     'site': window.jekyllSite,  // This is defined globally via site_json.rb
-  }, imagePaths);
+  }, imageData);
   const renderedHTML = engine.parseAndRenderSync(interimHTML);
   return renderedHTML;
 }
