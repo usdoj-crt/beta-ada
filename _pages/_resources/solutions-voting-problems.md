@@ -18,18 +18,23 @@ This publication provides a brief discussion of physical barriers to access in f
 
 While locating polling places in accessible facilities makes ADA compliance more likely, there may be times when that is not possible and the use of temporary measures to provide access will be necessary.
 
-overhead view of the front of a polling place
-
-Entrance to a polling place with the accessible route
-shown from parking and drop off areas into the polling place
+<figure id="cover">
+{% asset project-images/polling-place-front.jpg alt="overhead view of the front of a polling place" height="325" width="250" %}
+<figcaption>
+**Entrance to a polling place with the accessible route shown from parking and drop off areas into the polling place**
+</figcaption>
+</figure>
 
 ## Temporary Measures
 
 While permanently removing architectural barriers is preferable, this document provides some low-cost, temporary solutions that can provide temporary access for people with disabilities on Election Day.
 
-picture of person using a wheelchair entering polling place
-
-A person using a wheelchair enters a polling place
+<figure id="wheelchair-user">
+{% asset project-images/solutions-3.jpeg alt="picture of person using a wheelchair entering polling place" height="325" width="250" %}
+<figcaption>
+**A person using a wheelchair enters a polling place**
+</figcaption>
+</figure>
 
 Temporary measures may not be suitable for every polling place that has physical barriers that block access. For example, if the only entrance door at a polling place is 29 inches wide, then propping the door open or providing a doorbell for a poll worker to open the door will still not allow a person using a wheelchair or a walker to pass through the door. If another accessible entrance is not available, the door must either be permanently modified or the polling place must be relocated to an accessible facility.
 
