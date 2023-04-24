@@ -1,25 +1,33 @@
 ---
 title: Accessible Parking Spaces
-description: Accessible parking spaces are different than traditional parking spaces. They have specific features that make it easier for people with disabilities to access programs, goods, or services. The ADA requires businesses, non-profits, and state/local governments to provide accessible parking spaces.
-short_title: Parking Spaces
-lead: |-
-  When state or local governments, businesses and non-profit organizations provide parking lots or garages, accessible parking spaces complying with the Americans with Disabilities Act (ADA) must be provided.
+description: Accessible parking spaces are different than traditional parking
+  spaces. They have specific features that make it easier for people with
+  disabilities to access programs, goods, or services. The ADA requires
+  businesses, non-profits, and state/local governments to provide accessible
+  parking spaces.
+lead: >-
+  When state or local governments, businesses and non-profit organizations
+  provide parking lots or garages, accessible parking spaces complying with the
+  Americans with Disabilities Act (ADA) must be provided.
+
 
   Accessible parking spaces are different than traditional parking spaces. They have specific features that make it easier for people with disabilities to access your programs, goods or services.
-print: true
 featured: true
+print: true
+related-content: true
 card:
   title: Parking
-  description: |-
-    Find out how the ADA requires businesses, non-profits, and state/local governments to provide accessible parking spaces.
+  description: Find out how the ADA requires businesses, non-profits, and
+    state/local governments to provide accessible parking spaces.
   image: landing/parking.jpg
   alt: A man in a wheelchair approaching a vehicle with his hand on the door handle
   position: top
   href: /topics/parking/
+short_title: Parking Spaces
 tags:
   - parking
-related-content: true
 ---
+![test](20200501_195418-min-min.jpg "test")
 
 ## Features
 
@@ -76,8 +84,8 @@ Have a sign with the international symbol of accessibility on it, mounted at lea
 {% list_item %}Have a surface that is firm, stable, and slip-resistant{% endlist_item %}
 {% list_item %}Have two signs, mounted at least 60 inches above the ground (measured to the bottom of the sign)
 
-- First sign: international symbol of accessibility
-- Second sign: stating that the space is van accessible{% endlist_item %}
+* First sign: international symbol of accessibility
+* Second sign: stating that the space is van accessible{% endlist_item %}
   {% endlist %}
 
 ##### Option #2
@@ -90,8 +98,8 @@ Have a sign with the international symbol of accessibility on it, mounted at lea
 {% list_item %}Have a surface that is firm, stable and slip-resistant{% endlist_item %}
 {% list_item %}Have two signs, mounted at least 60 inches above the ground (measured to the bottom of the sign)
 
-- First sign: international symbol of accessibility
-- Second sign: stating that the space is van accessible{% endlist_item %}
+* First sign: international symbol of accessibility
+* Second sign: stating that the space is van accessible{% endlist_item %}
   {% endlist %}
 
 {% asset project-images/van-accessible.png alt="Minimum 96-inch wide van-accessible parking space with 96-inch minimum width access aisle" %}
@@ -100,7 +108,7 @@ Have a sign with the international symbol of accessibility on it, mounted at lea
 
 The number of accessible parking spaces must be considered separately for each parking structure (lot or garage), not based on the total number of parking spaces provided on a site.
 
-The chart below shows the number of accessible spaces required by the [2010 ADA Standards for Accessible Design]({{'/law-and-regs/design-standards/2010-stds#parking-spaces' | relative_url}}).
+The chart below shows the number of accessible spaces required by the \[2010 ADA Standards for Accessible Design]({{'/law-and-regs/design-standards/2010-stds#parking-spaces' | relative_url}}).
 
 <table class="usa-table">
   <thead>
@@ -198,6 +206,6 @@ Where parking spaces are limited to four or fewer spaces:
 
 You might find the links below helpful:
 
-- [ADA Update: Primer for Small Businesses]({{'/resources/title-iii-primer/' | relative_url}})
-- [ADA Update: A Primer for State and Local Governments]({{'/resources/title-ii-primer/' | relative_url}})
-- [ADA Compliance Brief: Restriping Parking Spaces]( {{'/resources/restriping-parking-spaces/'| relative_url}})
+* \[ADA Update: Primer for Small Businesses]({{'/resources/title-iii-primer/' | relative_url}})
+* \[ADA Update: A Primer for State and Local Governments]({{'/resources/title-ii-primer/' | relative_url}})
+* \[ADA Compliance Brief: Restriping Parking Spaces]( {{'/resources/restriping-parking-spaces/'| relative_url}})
