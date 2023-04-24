@@ -27,7 +27,7 @@ short_title: Parking Spaces
 tags:
   - parking
 ---
-![test](20200501_195418-min-min.jpg "test")
+{% asset 20200501_195418-min-min.jpg %}
 
 ## Features
 
