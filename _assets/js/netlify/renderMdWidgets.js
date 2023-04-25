@@ -18,7 +18,7 @@ function getImagePath(imageTitle, imageData) {
   const imageListPaths = imageData['imageList']
     .filter(image => image['name'] === imageTitle)
     .map(image => image['download_url']);
-  return imageListPaths.length
+  return imageListPaths.length > 0
     ? imageListPaths[0]
     : imageData['newImagePath'].concat(imageTitle);
 }
