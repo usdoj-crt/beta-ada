@@ -10,11 +10,11 @@ function makeTemplate(data) {
       id="crt-page--content"
       className="mobile-lg:grid-col tablet:grid-col-12 desktop:grid-col-8"
     >
-      {previewLink ? (
-        <div className="width-full padding-bottom-2 padding-top-2 border-bottom">
+      <div className="width-full padding-bottom-2 padding-top-2 border-bottom">
+        {previewLink ? (
           <a href={previewLink} target="_blank" className="margin-top-4 text-bold line-height-mono-6">Page preview link</a>
-        </div>
-      ) : null}
+        ) : <p>No preview link available. Save changes to entry to generate preview.</p>}
+      </div>
       <h1>{title}</h1>
       <div className="measure-6">
         <div className="crt-lead">
