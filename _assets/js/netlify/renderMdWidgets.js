@@ -16,11 +16,11 @@ const tagNames = [
 
 function getImagePath(imageTitle, imageData) {
   const imageListPaths = imageData['imageList']
-    .filter(image => image['name'] === imageTitle)
-    .map(image => image['download_url']);
+    .filter(image => image['path'] != null && image['path'].includes(imageTitle))
+    .map(image => "https://raw.githubusercontent.com/usdoj-crt/beta-ada/main/_assets/images/" + image['path']);
   return imageListPaths.length > 0
     ? imageListPaths[0]
-    : imageData['newImagePath'].concat(imageTitle);
+    : imageData['newImagePath'] + imageTitle;
 }
 
 function buildEngine(globals, imageData) {

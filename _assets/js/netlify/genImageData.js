@@ -6,13 +6,13 @@ export default async function genImageData() {
         ? currentPage[6].concat('/')
         : null;
     const ref = currentPage.includes('entries') && collection != null
-        ? 'cms/'.concat(collection).concat(currentPage[8])
+        ? 'cms/' + collection + currentPage[8]
         : null;
 
     let newImagePath = '';
     const octokit = new Octokit();
     if (ref !== null) {
-        const commitSha = await octokit.request('GET /repos/usdoj-crt/beta-ada/commits/heads/'.concat(ref), {
+        const commitSha = await octokit.request('GET /repos/usdoj-crt/beta-ada/commits/heads/' + ref, {
             owner: 'usdoj-crt',
             repo: 'beta-ada',
             ref: ref,
@@ -22,25 +22,27 @@ export default async function genImageData() {
             }
         });
 
-        newImagePath = 'https://raw.githubusercontent.com/usdoj-crt/beta-ada/'.concat(commitSha.data).concat('/_assets/images/');
+        newImagePath = 'https://raw.githubusercontent.com/usdoj-crt/beta-ada/' + commitSha.data + '/_assets/images/';
     }
-    const folders = ['/', '/design-standards/', '/landing/', '/project-images/']
-    const imageList = [];
-
-    for (const folder of folders) {
-        const response = await octokit.request('GET /repos/usdoj-crt/beta-ada/contents/_assets/images'.concat(folder), {
-            owner: 'usdoj-crt',
-            repo: 'beta-ada',
-            path: '_assets/images/'.concat(folder),
-            headers: {
+    const assetContentResponse = await octokit.request('GET /repos/usdoj-crt/beta-ada/contents/_assets/', {
+        owner: 'usdoj-crt',
+        repo: 'beta-ada',
+        path: '_assets/',
+        headers: {
+        'X-GitHub-Api-Version': '2022-11-28'
+        }
+    });
+    const imageFolderSha = assetContentResponse.data.filter(folder => folder['name'] === 'images').map(folder => folder['sha'])[0];
+    const treeResponse = await octokit.request('GET /repos/usdoj-crt/beta-ada/git/trees/' + imageFolderSha + '?recursive=1', {
+        owner: 'usdoj-crt',
+        repo: 'beta-ada',
+        tree_sha: imageFolderSha,
+        headers: {
             'X-GitHub-Api-Version': '2022-11-28'
-            }
-        });
-        imageList.push(...response.data);
-    }
+        }
+    });
+    
+    const imageList = treeResponse.data.tree.filter(result => result['type'] === 'blob');
 
-    return {
-        'imageList': imageList,
-        'newImagePath': newImagePath,
-    };
+    return {imageList, newImagePath};
 }
