@@ -69,7 +69,7 @@ A. Yes, budget cuts can violate the ADA and <em>Olmstead </em>when significant f
 {% enddetails %}
 
 {% details 10. What is the fundamental alteration defense? expandable %}
-A: A public entity&rsquo;s obligation under <em>Olmstead</em> to provide services in the most integrated setting is not unlimited.&nbsp; A public entity may be excused in instances where it can prove that the requested modification would result in a &ldquo;fundamental alteration&rdquo; of the public entity&rsquo;s service system.&nbsp; A fundamental alteration requires the public entity to prove &ldquo;that, in the allocation of available resources, immediate relief for plaintiffs would be inequitable, given the responsibility the State [or local government] has taken for the care and treatment of a large and diverse population of persons with [ ]&nbsp; disabilities.&rdquo;{% fn 18 %}  It is the public entity&rsquo;s burden to establish that the requested modification would fundamentally alter its service system.
+A. A public entity&rsquo;s obligation under <em>Olmstead</em> to provide services in the most integrated setting is not unlimited.&nbsp; A public entity may be excused in instances where it can prove that the requested modification would result in a &ldquo;fundamental alteration&rdquo; of the public entity&rsquo;s service system.&nbsp; A fundamental alteration requires the public entity to prove &ldquo;that, in the allocation of available resources, immediate relief for plaintiffs would be inequitable, given the responsibility the State [or local government] has taken for the care and treatment of a large and diverse population of persons with [ ]&nbsp; disabilities.&rdquo;{% fn 18 %}  It is the public entity&rsquo;s burden to establish that the requested modification would fundamentally alter its service system.
 {% enddetails %}
 
 {% details 11. What budgetary resources and costs are relevant to determine if the relief sought would constitute a fundamental alteration? expandable %}
@@ -93,7 +93,7 @@ A. A wide range of remedies may be appropriate to address violations of the ADA 
 {% enddetails %}
 
 {% details 16. Can the ADA's integration mandate be enforced through a private right of action? expandable %}
-Yes, private individuals may file a lawsuit for violation of the ADA&rsquo;s integration mandate.&nbsp; &nbsp;A private right of action lies to enforce a regulation that authoritatively construes a statute.&nbsp; The Supreme Court in <em>Olmstead</em> clarified that unnecessary institutionalization constitutes &ldquo;discrimination&rdquo; under the ADA, consistent with the Department of Justice integration regulation.
+A. Yes, private individuals may file a lawsuit for violation of the ADA&rsquo;s integration mandate.&nbsp; &nbsp;A private right of action lies to enforce a regulation that authoritatively construes a statute.&nbsp; The Supreme Court in <em>Olmstead</em> clarified that unnecessary institutionalization constitutes &ldquo;discrimination&rdquo; under the ADA, consistent with the Department of Justice integration regulation.
 {% enddetails %}
 
 {% details 17. What is the role of protection and advocacy organizations in enforcing <em>Olmstead</em>? expandable %}
@@ -106,10 +106,9 @@ A. Yes, individuals can file complaints about violations of title II and <em>Olm
 U.S. Department of Justice<br>
 Civil Rights Division<br>
 950 Pennsylvania Avenue, NW<br>
-Disability Rights Section - NYAV<br>
 Washington, DC 20530<br>
 
-Individuals may also call the Department&rsquo;s toll-free ADA Information Line&nbsp;for information about filing a complaint and to order forms and other materials that can assist you in providing information about the violation.&nbsp; The number for the ADA Information Line is (800) 514-0301 (voice) or (800) 514-0383(TTY).
+Individuals may also call the Department&rsquo;s toll-free ADA Information Line&nbsp;for information about filing a complaint and to order forms and other materials that can assist you in providing information about the violation.&nbsp; The number for the ADA Information Line is (800) 514-0301 (voice) or (833) 610-1264 (TTY).
 
 In addition, individuals may file a complaint about violations of <em>Olmstead</em> with the Office for Civil Rights at the U.S. Department of Health and Human Services. Instructions on filing a complaint with OCR are available at [http://www.hhs.gov/ocr/civilrights/complaints/index.html](http://www.hhs.gov/ocr/civilrights/complaints/index.html)
 {% enddetails %}
