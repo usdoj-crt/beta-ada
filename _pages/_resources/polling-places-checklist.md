@@ -1,6 +1,6 @@
 ---
 title: "ADA Checklist for Polling Places"
-description: "This document discusses polling place accessibility with a focus on the areas of a facility that may be used as a polling place on Election Day.  It also includes a list of the tools election officials will need in order to use the Checklist, as well as other helpful tips."
+description: "This document discusses polling place accessibility with a focus on the areas of a facility that may be used on Election Day.  It also includes a list of the tools election officials will need in order to use the Checklist, as well as other helpful tips."
 permalink: /resources/polling-places-checklist/
 lead: |-
   Part 1 discusses polling place accessibility with a focus on the areas of a facility that may be used as a polling place on Election Day.
