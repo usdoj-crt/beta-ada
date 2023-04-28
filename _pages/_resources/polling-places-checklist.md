@@ -411,8 +411,8 @@ In completing the checklist, provide a measurement for every question with a "no
 
 **Status of Polling Place**
 
-_All Elements Compliant
-_Non-Compliant Elements Remediable with Temporary Measures
+_All Elements Compliant<br>
+_Non-Compliant Elements Remediable with Temporary Measures<br>
 _Non-Compliant Elements Not Remediable with Temporary Measures (Relocate Polling Place)
 
 Ward:
@@ -434,7 +434,7 @@ Location name:
   <thead>
     <tr>
       <th scope="col">A</th>
-<th scope="col">Only complete this section if off-street parking is provided to voters. If off-street parking is not provided to voters, go to Section B.<br>If more than 25 parking spaces are provided to voters, see the 2010 Standards for the  number of accessible parking spaces required.  (&sect;208.2)</th>
+<th scope="col">Parking - Only complete this section if off-street parking is provided to voters. If off-street parking is not provided to voters, go to Section B.<br>If more than 25 parking spaces are provided to voters, see the 2010 Standards for the  number of accessible parking spaces required.  (&sect;208.2)</th>
 <th scope="col">Yes</th>
 <th scope="col">No</th>
 <th scope="col">N/A</th>
@@ -513,7 +513,7 @@ Location name:
   <thead>
     <tr>
       <th scope="col">B</th>
-<th scope="col">Only complete this section if a passenger drop-off area is provided for voters. If a drop-off area is not provided to voters, go to Section C.</th>
+<th scope="col">Passenger Drop-off Area - Only complete this section if a passenger drop-off area is provided for voters. If a drop-off area is not provided to voters, go to Section C.</th>
 <th scope="col">Yes</th>
 <th scope="col">No</th>
 <th scope="col">N/A</th>
@@ -589,7 +589,7 @@ Location name:
   <thead>
     <tr>
       <th scope="col">C</th>
-<th scope="col">Complete a separate Exterior Route form, when applicable, for the routes from parking, passenger drop-off areas, public sidewalks and public transportation stops.<br>Exterior route location:</th>
+<th scope="col">Exterior Route to Accessible Entrance - Complete a separate Exterior Route form, when applicable, for the routes from parking, passenger drop-off areas, public sidewalks and public transportation stops.<br>Exterior route location:</th>
 <th scope="col">Yes</th>
 <th scope="col">No</th>
 <th scope="col">N/A</th>
@@ -706,7 +706,7 @@ Location name:
 </thead>
  <tr>
     <th>D1</th>
-    <td>Is the clear width of the door opening (one door or one active leaf of a double door) at least 32&quot; (&sect;404.2.3)</td>
+    <td>Is the clear width of the door opening (one door or one active leaf of a double door) at least 32&quot;? (&sect;404.2.3)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1021,7 +1021,7 @@ Location name:
   <thead>
     <tr>
       <th scope="col">G</th>
-<th scope="col">Ramps<br>Complete a separate ramp form for each ramp, whether exterior or interior.<br>Ramp Location:  ___</th>
+<th scope="col">Ramps - Complete a separate ramp form for each ramp, whether exterior or interior.<br>Ramp Location:  ___</th>
 <th scope="col">Yes</th>
 <th scope="col">No</th>
 <th scope="col">N/A</th>
