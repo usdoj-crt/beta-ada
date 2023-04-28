@@ -15,8 +15,9 @@ sidenav-pdf:
   filename: opioid-guidance.pdf
 tags:
   - medical care
+  - health care
 ---
-## 1) What is the ADA?  
+## 1) What is the ADA?
 
 The ADA is a federal law that gives civil rights protections to individuals with disabilities in many
 areas of life. The ADA guarantees that people with disabilities have the same opportunities as
@@ -24,14 +25,14 @@ everyone else to enjoy employment opportunities,{% fn 1 %} participate in state 
 programs,{% fn 2 %} and purchase goods and services.{% fn 3 %} For example, the ADA protects people with
 disabilities from discrimination by social services agencies; child welfare agencies; courts;
 prisons and jails; medical facilities, including hospitals, doctors’ offices, and skilled nursing
-facilities; homeless shelters; and schools, colleges, and universities.  
+facilities; homeless shelters; and schools, colleges, and universities.
 
-## 2) Does an individual in treatment or recovery from opioid use disorder have a disability under the ADA?  
+## 2) Does an individual in treatment or recovery from opioid use disorder have a disability under the ADA?
 
-Typically, yes, unless the individual is currently engaged in illegal drug use. <em>See</em> Question 5.  
+Typically, yes, unless the individual is currently engaged in illegal drug use. <em>See</em> Question 5.
 
 The ADA prohibits discrimination on the basis of disability.{% fn 4%} The ADA defines disability as (1) a
-physical or mental impairment that substantially limits one or more major life activities, including major bodily functions; (2) a record of such an impairment; or (3) being regarded as having such an impairment.{% fn 5 %}  
+physical or mental impairment that substantially limits one or more major life activities, including major bodily functions; (2) a record of such an impairment; or (3) being regarded as having such an impairment.{% fn 5 %}
 
 People with OUD typically have a disability because they have a drug addiction that
 substantially limits one or more of their major life activities. Drug addiction is considered a
@@ -41,7 +42,7 @@ meet major responsibilities at work, school, or home.{% fn 7 %} People with OUD 
 experience a substantial limitation of one or more major life activities, such as caring for
 oneself, learning, concentrating, thinking, communicating, working, or the operation of major
 bodily functions, including neurological and brain functions.{% fn 8 %} The ADA also protects individuals
-who are in recovery, but who would be limited in a major life activity in the absence of treatment and/or services to support recovery.{% fn 9 %}  
+who are in recovery, but who would be limited in a major life activity in the absence of treatment and/or services to support recovery.{% fn 9 %}
 
 ## 3) Does the ADA protect individuals who are taking legally prescribed medication to treat their opioid use disorder?
 
@@ -53,7 +54,7 @@ use disorder (MOUD) or medication assisted treatment (MAT). MOUD is the use of o
 three medications (methadone, buprenorphine, or naltrexone) approved by the Food and Drug
 Administration (FDA) for treatment of OUD;{% fn 11 %} MAT refers to treatment of OUD and certain
 other substance use disorders by combining counseling and behavioral therapies with the use
-of FDA-approved medications.{% fn 12 %}  
+of FDA-approved medications.{% fn 12 %}
 
 {% accordion %}
 {% collapsible %}
@@ -74,22 +75,22 @@ detention. The jail’s blanket policy prohibiting the use of MOUD would violate
 Yes. Individuals whose OUD is a disability and who are participating in a supervised
 rehabilitation or drug treatment program are protected by the ADA if they are not currently
 engaging in the illegal use of drugs.{% fn 13 %} <em>See</em> explanation in Question 5. It is illegal to discriminate
-against these individuals based on their treatment for OUD.  
+against these individuals based on their treatment for OUD.
 
 {% collapsible %}
-### Example C  
+### Example C
 A doctor’s office has a blanket policy of denying care to patients receiving treatment for
-OUD. The office would violate the ADA if it excludes individuals based on their OUD.  
-{% endcollapsible %}  
-
-{% collapsible %}  
-### Example D  
-A town refuses to allow a treatment center for people with OUD to open after residents
-complained that they did not want “those kind of people” in their area. The town may
-violate the ADA if its refusal is because of the residents’ hostility towards people with OUD.  
+OUD. The office would violate the ADA if it excludes individuals based on their OUD.
 {% endcollapsible %}
 
-## 5) Does the ADA protect individuals who are currently illegally using opioids?  
+{% collapsible %}
+### Example D
+A town refuses to allow a treatment center for people with OUD to open after residents
+complained that they did not want “those kind of people” in their area. The town may
+violate the ADA if its refusal is because of the residents’ hostility towards people with OUD.
+{% endcollapsible %}
+
+## 5) Does the ADA protect individuals who are currently illegally using opioids?
 
 Generally, no. With limited exceptions, the ADA does not protect individuals engaged in the
 current illegal use of drugs if an entity takes action against them because of that illegal drug
@@ -97,21 +98,21 @@ use.{% fn 14 %} “Current illegal use of drugs” means illegal use of drugs th
 justify a reasonable belief that a person’s drug use is current or that continuing use is a real and
 ongoing problem.{% fn 15 %} Illegal use, however, does not include taking a medication, including an
 opioid or medication used to treat OUD, under the supervision of a licensed health care
-professional.{% fn 16 %}  
+professional.{% fn 16 %}
 
 {% collapsible %}
 ### Example E
 A mentoring program requires its volunteers to provide test results showing that they do not
 engage in the illegal use of drugs. The program dismisses a volunteer who tests positive for
 opioids for which the volunteer does not have a valid prescription. This does not violate the
-ADA because the dismissal was based on current illegal drug use.  
+ADA because the dismissal was based on current illegal drug use.
 {% endcollapsible %}
 
 In addition, an individual cannot be denied health services, or services provided in connection
 with drug rehabilitation, on the basis of that individual’s current illegal use of drugs, if the
 individual is otherwise entitled to such services.{% fn 17 %} But a drug rehabilitation or treatment
 program may deny participation to individuals who engage in illegal use of drugs while they are
-in the program.{% fn 18 %}  
+in the program.{% fn 18 %}
 
 {% collapsible %}
 ### Example F
@@ -148,58 +149,58 @@ discriminating against the employee based on his record of OUD.
 ## 7) Does the ADA provide any legal protections for individuals who are regarded as having an opioid use disorder, whether or not they actually have an opioid use disorder?
 
 Yes. The ADA protects individuals who are “regarded as” having OUD, even if they do not in
-fact have OUD.{% fn 21 %}  
+fact have OUD.{% fn 21 %}
 
 {% collapsible %}
 ### Example I
 An employer mistakenly believes that an employee has OUD simply because that employee
 uses opioids legally prescribed by her physician to treat pain associated with an injury. The
-ADA prohibits an employer from firing the employee based on this mistaken belief.  
+ADA prohibits an employer from firing the employee based on this mistaken belief.
 {% endcollapsible %}
 {% endaccordion %}
 
-## 8) Does the ADA protect individuals from discrimination based on their association with individuals who have opioid use disorder?  
+## 8) Does the ADA protect individuals from discrimination based on their association with individuals who have opioid use disorder?
 Yes. The ADA protects individuals from discrimination based on their known association or
 relationship with an individual who has a disability, such as a friend, coworker, or family
 member. The ADA also protects organizations, such as OUD treatment clinics, from
 discriminatory enforcement of zoning rules based on the organization’s known association with
 or relationship to individuals with OUD.{% fn 22 %}
 
-## 9) Can employers have a drug policy or conduct drug testing for opioids?  
+## 9) Can employers have a drug policy or conduct drug testing for opioids?
 Yes. Employers may adopt or administer reasonable policies or procedures, including drug
 testing, designed to ensure that individuals are not engaging in the illegal use of drugs.{% fn 23 %}
 However, some individuals who test positive for an opioid, which may include MOUD, will be
 able to show that the medication is being taken as prescribed or administered and a licensed
 health care professional is supervising its use. These individuals may not be denied, or fired
 from, a job for this legal use of medication, unless they cannot do the job safely and effectively,
-or are disqualified under another federal law.{% fn 24 %}  
+or are disqualified under another federal law.{% fn 24 %}
 
 ## 10) What can I do if I believe I have been discriminated against because of my opioid use disorder or treatment for my opioid use disorder?
 Individuals may file a complaint with the Department of Justice if they believe that a public
 accommodation or a state or local government is discriminating or has discriminated against
-them because of OUD. Individuals may also bring private lawsuits under the ADA.  
+them because of OUD. Individuals may also bring private lawsuits under the ADA.
 
 Information about filing an ADA complaint with the Department is available
-at [civilrights.justice.gov](https://civilrights.justice.gov). More information about the ADA is available by calling the
+at [civilrights.justice.gov](https://civilrights.justice.gov/report?utm_campaign=499a0d26-884a-47aa-9afc-70094d92e6f5). More information about the ADA is available by calling the
 Department’s toll-free ADA information line at 800-514-0301 or 800-514-0383 (TTY), or
-accessing its ADA website at [ADA.gov]({{'/index' | relative_url}}).  
+accessing its ADA website at [ADA.gov]({{'/index' | relative_url}}).
 
 Complaints about a state or local government’s programs, services, or activities relating to the
 provision of health care and social services can also be filed with the Department of Health and
 Human Services Office for Civil Rights (HHS OCR). Information about filing an HHS OCR
-complaint is available at [hhs.gov/civil-rights/filing-a-complaint](https://www.hhs.gov/civil-rights/filing-a-complaint), by email at [OCRMail@hhs.gov](mailto:OCRMail@hhs.gov), by phone at 1-800-368-1019, or at 1-800-537-7697 (TTY).  
+complaint is available at [hhs.gov/civil-rights/filing-a-complaint](https://www.hhs.gov/civil-rights/filing-a-complaint), by email at [OCRMail@hhs.gov](mailto:OCRMail@hhs.gov), by phone at 1-800-368-1019, or at 1-800-537-7697 (TTY).
 
 Complaints about employment discrimination (called “charges”) on the basis of disability can be
 filed with the Equal Employment Opportunity Commission (EEOC). Information about filing an
 EEOC charge is available at [eeoc.gov](https://www.eeoc.gov) or 800-669-4000, 800-669-6820 (TTY), or 844-234-5122
 (ASL Video Phone). Additional EEOC resources regarding employees and opioid use are
-available at [eeoc.gov/laws/guidance/use-codeine-oxycodone-and-other-opioids-information-employees](https://www.eeoc.gov/laws/guidance/use-codeine-oxycodone-and-other-opioids-information-employees) and [eeoc.gov/laws/guidance/how-health-care-providers-can-help-current-and-former-patients-who-have-used-opioids](https://www.eeoc.gov/laws/guidance/how-health-care-providers-can-help-current-and-former-patients-who-have-used-opioids).  
+available at [eeoc.gov/laws/guidance/use-codeine-oxycodone-and-other-opioids-information-employees](https://www.eeoc.gov/laws/guidance/use-codeine-oxycodone-and-other-opioids-information-employees) and [eeoc.gov/laws/guidance/how-health-care-providers-can-help-current-and-former-patients-who-have-used-opioids](https://www.eeoc.gov/laws/guidance/how-health-care-providers-can-help-current-and-former-patients-who-have-used-opioids).
 
 Individuals who believe they have been discriminated against under the ADA and would like to
 file a complaint should file as soon as possible. For instance, there are specific filing deadlines
-for a charge of employment discrimination, either 180 days or 300 days from the date of the alleged discrimination, depending on the jurisdiction where the charge is filed.  
+for a charge of employment discrimination, either 180 days or 300 days from the date of the alleged discrimination, depending on the jurisdiction where the charge is filed.
 
-## 11) Where can I find treatment for opioid use disorder?  
+## 11) Where can I find treatment for opioid use disorder?
 Information about treatment for opioid use disorder is available at [hhs.gov/opioids](https://www.hhs.gov/opioids), [findtreatment.gov](https://www.findtreatment.gov), [samhsa.gov/medication-assisted-treatment/practitioner-programdata/treatment-practitioner-locator](https://www.samhsa.gov/medication-assisted-treatment/practitioner-program-data/treatment-practitioner-locator), and [dpt2.samhsa.gov/treatment](https://dpt2.samhsa.gov/treatment).
 <hr>
 
@@ -207,15 +208,15 @@ Information about treatment for opioid use disorder is available at [hhs.gov/opi
 {% fnbody 1 %}
 42 U.S.C. &sect;&sect; 12111-12117. The Equal Employment Opportunity Commission (EEOC) and the Department of
 Justice jointly enforce the ADA’s ban on employment discrimination. For more information or to file a complaint of
-employment discrimination, visit [eeoc.gov](https://www.eeoc.gov).  
+employment discrimination, visit [eeoc.gov](https://www.eeoc.gov).
 {% endfnbody %}
 
 {% fnbody 2 %}
-<em>Id.</em> &sect;&sect; 12131-12134.  
+<em>Id.</em> &sect;&sect; 12131-12134.
 {% endfnbody %}
 
 {% fnbody 3 %}
-<em>Id.</em> &sect;&sect; 12181-12189.  
+<em>Id.</em> &sect;&sect; 12181-12189.
 {% endfnbody %}
 
 {% fnbody 4 %}
@@ -246,7 +247,7 @@ operation of major bodily functions), 36.105(c)(1) (same).
 {% endfnbody %}
 
 {% fnbody 10 %}
-42 U.S.C. &sect; 12210(d); 28 C.F.R. &sect;&sect; 35.104, 36.104.  
+42 U.S.C. &sect; 12210(d); 28 C.F.R. &sect;&sect; 35.104, 36.104.
 {% endfnbody %}
 
 {% fnbody 11 %}
@@ -257,7 +258,7 @@ Disorder: A Toolkit for Organization Leaders and Providers</em>, [hrsa.gov/sites
 
 {% fnbody 12 %}
 <em>See</em> Substance Abuse and Mental Health Services Administration, <em>Medication-Assisted Treatment (MAT)</em>,
-[samhsa.gov/medication-assisted-treatment](https://www.samhsa.gov/medication-assisted-treatment) (last visited Apr. 1, 2022); <em>see also</em> Substance Abuse and Mental Health Services Administration, <em>MAT Medications, Counseling, and Related Conditions</em>, [samhsa.gov/medication-assistedtreatment/medications-counseling-related-conditions](https://www.samhsa.gov/medication-assisted-treatment/medications-counseling-related-conditions) (last visited Apr. 1, 2022).  
+[samhsa.gov/medication-assisted-treatment](https://www.samhsa.gov/medication-assisted-treatment) (last visited Apr. 1, 2022); <em>see also</em> Substance Abuse and Mental Health Services Administration, <em>MAT Medications, Counseling, and Related Conditions</em>, [samhsa.gov/medication-assistedtreatment/medications-counseling-related-conditions](https://www.samhsa.gov/medication-assisted-treatment/medications-counseling-related-conditions) (last visited Apr. 1, 2022).
 {% endfnbody %}
 
 {% fnbody 13 %}
@@ -289,7 +290,7 @@ Disorder: A Toolkit for Organization Leaders and Providers</em>, [hrsa.gov/sites
 {% endfnbody %}
 
 {% fnbody 20 %}
-42 U.S.C. &sect; 12102(1)(B); 28 C.F.R. &sect;&sect; 35.108(e), 36.105(e).  
+42 U.S.C. &sect; 12102(1)(B); 28 C.F.R. &sect;&sect; 35.108(e), 36.105(e).
 {% endfnbody %}
 
 {% fnbody 21 %}
@@ -313,7 +314,7 @@ Disorder: A Toolkit for Organization Leaders and Providers</em>, [hrsa.gov/sites
 The Americans with Disabilities Act authorizes the Department of Justice to provide technical
 assistance to individuals and entities that have rights or responsibilities under the Act. This
 document provides informal guidance to assist you in understanding the ADA and the
-Department’s regulations.  
+Department’s regulations.
 
 The contents of this document do not have the force and effect of law and are not meant to
 bind the public in any way. This document is intended to provide clarity to the public regarding

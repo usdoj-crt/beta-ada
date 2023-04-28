@@ -84,8 +84,8 @@ learn:
           title: A Guide to Disability Rights Laws
           link: resources/disability-rights-guide
         - ex2:
-          title: ADA Checklist for Polling Places
-          link: topics/voting
+          title: ADA Requirements - Effective Communication
+          link: resources/effective-communication
         - ex3:
           title: Frequently Asked Questions about Service Animals
           link: resources/service-animals-faqs

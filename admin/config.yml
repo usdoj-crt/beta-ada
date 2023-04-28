@@ -43,6 +43,7 @@ collections:
   # Pages:
   - label: Pages
     name: pages
+    summary: "{{title}} ({{filename}})"
     files:
     # 404 error page:
       - label: "404"
@@ -279,7 +280,7 @@ collections:
           widget: markdown
       # Resources page:
       - label: Resources
-        name: Resources
+        name: resources
         file: _pages/resources.md
         fields:
         - label: Permalink
@@ -298,6 +299,7 @@ collections:
     # Topic pages:
   - label: Topics
     name: topics
+    summary: "{{filename}} ({{title}})"
     folder: _pages/_topics
     create: true
     fields:
@@ -368,6 +370,7 @@ collections:
   # Resources pages:
   - label: Resources
     name: resources
+    summary: "{{filename}} ({{title}})"
     folder: _pages/_resources
     create: true
     fields:
@@ -452,7 +455,45 @@ collections:
     # Laws and regulations pages
   - label: Law and Regs
     name: law-and-regs
+    summary: "{{filename}} ({{title}})"
     folder: _pages/law-and-regs
+    create: true
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Lead Text
+        name: lead
+        widget: text
+        required: false
+      - label: Permalink
+        name: permalink
+        widget: string
+      - label: Sidenav
+        name: sidenav
+        widget: boolean
+        default: true
+        required: false
+      - label: Body Content
+        name: body
+        widget: markdown
+      - label: Related Content
+        name: related-content
+        widget: boolean
+        default: false
+        required: false
+      - label: Tags
+        name: tags
+        widget: select
+        options: ["artificial intelligence","design standards","effective communication" , "employment","parking","service animals","title ii","title iii","web access"]
+        multiple: true
+        min: 0
+        required: false
+  # Design standards pages
+  - label: Design Standards
+    name: design-standards
+    summary: "{{filename}} ({{title}})"
+    folder: _pages/law-and-regs/design-standards
     create: true
     fields:
       - label: Title
@@ -488,6 +529,7 @@ collections:
     # Posts under the Notices pages
   - label: Notices
     name: notices-posts
+    summary: "{{filename}} ({{title}})"
     folder: notices/_posts
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
@@ -501,6 +543,7 @@ collections:
   # Spanish Translations
   - label: Español
     name: es
+    summary: "{{filename}} ({{title}})"
     folder: _pages/es/
     create: true
     fields:

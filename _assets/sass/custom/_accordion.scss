@@ -8,6 +8,10 @@
     margin-top: 1rem;
   }
 
+  .netlify-preview .usa-accordion__content h2 {
+    display: none;
+  }
+
   .usa-accordion__button {
     @extend .h4 !optional;
 

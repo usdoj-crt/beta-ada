@@ -10,6 +10,7 @@ print: true
 related-content: true
 tags:
   - child care
+  - families
 redirect_from:
   - /childqanda.htm
 ---
