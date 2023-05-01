@@ -3,7 +3,7 @@ import { Octokit } from "@octokit/core";
 export default async function genImageData() {
     const currentPage = window.location.href.split('/');
     const collection = currentPage[6] != "pages"
-        ? currentPage[6].concat('/')
+        ? currentPage[6]?.concat('/')
         : null;
     const ref = currentPage.includes('entries') && collection != null
         ? 'cms/' + collection + currentPage[8]
@@ -41,7 +41,7 @@ export default async function genImageData() {
             'X-GitHub-Api-Version': '2022-11-28'
         }
     });
-    
+
     const imageList = treeResponse.data.tree.filter(result => result['type'] === 'blob');
 
     return {imageList, newImagePath};
