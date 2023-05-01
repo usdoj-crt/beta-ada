@@ -1,6 +1,7 @@
 import makeHTMLFromBodyContent from './makeHTMLFromBodyContent';
 import getPreviewLink from './getPreviewLink';
-
+import genImageData from "./genImageData";
+const imageData = await genImageData();
 export default function generatePageData(entry) {
   const title = entry.getIn(['data', 'title']);
   const previewLink = getPreviewLink(entry);
@@ -12,7 +13,7 @@ export default function generatePageData(entry) {
   const sideNavPDF = entry.getIn(['data', 'sidenav-pdf']);
   const relatedContent = entry.getIn(['data', 'related-content']);
   const variables = entry.get('data').toJS();
-  const bodyContentsArr = makeHTMLFromBodyContent(rawBodyContent, variables);
+  const bodyContentsArr = makeHTMLFromBodyContent(rawBodyContent, variables, imageData);
   const pageData = {
     previewLink,
     title,

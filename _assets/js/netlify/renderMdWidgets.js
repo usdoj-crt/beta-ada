@@ -14,7 +14,16 @@ const tagNames = [
   'list_item',
 ];
 
-function buildEngine(globals) {
+function getImagePath(imageTitle, imageData) {
+  const imageListPaths = imageData['imageList']
+    .filter(image => image['path'] != null && image['path'].includes(imageTitle))
+    .map(image => "https://raw.githubusercontent.com/usdoj-crt/beta-ada/main/_assets/images/" + image['path']);
+  return imageListPaths.length > 0
+    ? imageListPaths[0]
+    : imageData['newImagePath'] + imageTitle;
+}
+
+function buildEngine(globals, imageData) {
   const engine = new Liquid({
     jekyllInclude: true,
     partials: '/_includes',
@@ -62,7 +71,8 @@ function buildEngine(globals) {
             const valArr = this.value.split(' ');
             const imagePathArr = valArr[0].split('/');
             const imageTitle = imagePathArr[imagePathArr.length - 1];
-            return `<img src="${window.location.origin}/assets/images/${imageTitle}">`;
+            const imagePath = getImagePath(imageTitle, imageData);
+            return `<img src="${imagePath}">`;
           case 'collapsible':
             const accordionID = context._accordionID;
             let idx = context._collapsedIDX;
@@ -149,11 +159,11 @@ function buildEngine(globals) {
   return engine;
 }
 
-function renderWidgets(interimHTML, variables) {
+function renderWidgets(interimHTML, variables, imageData) {
   const engine = buildEngine({
     'page': variables,
     'site': window.jekyllSite,  // This is defined globally via site_json.rb
-  });
+  }, imageData);
   const renderedHTML = engine.parseAndRenderSync(interimHTML);
   return renderedHTML;
 }
