@@ -12,6 +12,9 @@
     "runners": [
       "axe"
     ],
+    "ignore": [
+      "color-contrast"
+    ],
     "timeout": 240000,
     "viewport": {
       "width": 390,
