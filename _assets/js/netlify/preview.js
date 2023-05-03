@@ -1,5 +1,6 @@
 import generatePageData from './generatePageData';
 import makeTemplate from './makeTemplate';
+import loadSiteData from './loadSiteData';
 
 const preview = createClass({
   render: function () {
@@ -7,6 +8,8 @@ const preview = createClass({
     return makeTemplate(pageData);
   },
   });
+
+await loadSiteData();
 
 const pages = [
   'index',

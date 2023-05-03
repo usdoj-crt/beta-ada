@@ -163,6 +163,7 @@ function renderWidgets(interimHTML, variables, imageData) {
   const engine = buildEngine({
     'page': variables,
     'site': window.jekyllSite,  // This is defined globally via site_json.rb
+    'lang': 'en',
   }, imageData);
   const renderedHTML = engine.parseAndRenderSync(interimHTML);
   return renderedHTML;

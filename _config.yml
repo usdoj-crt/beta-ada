@@ -190,6 +190,7 @@ exclude:
   - /mock_data
   - make_redirects.rb
   - /scripts
+  - /node_modules
 
 assets:
   autoprefixer:
