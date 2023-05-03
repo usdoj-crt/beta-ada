@@ -71,7 +71,8 @@ function buildEngine(globals, imageData) {
             break;
           case 'asset':
             const valArr = renderedValue.split(' ');
-            const imagePathArr = valArr[0].split('/');
+            const imagePathRaw = valArr[0].replaceAll(/(^')|('$)/g, '');
+            const imagePathArr = imagePathRaw.split('/');
             const imageTitle = imagePathArr[imagePathArr.length - 1];
             const imagePath = getImagePath(imageTitle, imageData);
             return `<img src="${imagePath}">`;
