@@ -1,24 +1,24 @@
+{% assign ignored_fields = "date, excerpt, content, next, previous, output" | split: ", " %}
+
 {
-  "title": {{ page.title | jsonify }},
-  "url": {{ page.url | jsonify }},
+  {% for entry in page %}
+
+  {% if entry[0] %}
+    {% assign field = entry[0] %}
+    {% assign value = entry[1] %}
+  {% else %}
+    {% assign field = entry %}
+    {% assign value = page[entry] %}
+  {% endif %}
+
+  {% unless ignored_fields contains field }} %}
+  {% if field %}
+    {{ field | jsonify }}: {{ value | jsonify }},
+  {% endif %}
+  {% endunless %}
+
+  {% endfor %}
+
   "date": "{{ page.date | date_to_xmlschema }}",
-  "id": {{ page.id | jsonify }},
-  "categories": {{ page.categories | jsonify }},
-  "collection": {{ page.collection | jsonify }},
-  "tags": {{ page.tags | jsonify }},
-  "dir": {{ page.dir | jsonify }},
-  "name": {{ page.name | jsonify }},
-  "path": {{ page.path | jsonify }},
-
-  {% comment %}
-    Content is very large, tricky to escape, and we don't use it:
-  {% endcomment %}
   "content": "Empty content for Netlify"
-
-  {% comment %}
-    These fields are explicitly excluded:
-    "excerpt": page.excerpt,
-    "next": page.next,
-    "previous": page.previous",
-  {% endcomment %}
 }

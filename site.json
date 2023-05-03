@@ -3,32 +3,34 @@ layout: null
 ---
 {
   "pages": [
-    {%- for page in site.pages -%}
-      {%- include page.json page=page -%}{%- unless forloop.last -%},{%- endunless -%}
-    {%- endfor -%}
+    {% for page in site.pages %}
+      {% include page.json page=page %}{% unless forloop.last %},{% endunless %}
+    {% endfor %}
   ],
   "posts": [
-    {%- for page in site.posts -%}
-      {%- include page.json page=page -%}{%- unless forloop.last -%},{%- endunless -%}
-    {%- endfor -%}
+    {% for page in site.posts %}
+      {% include page.json page=page %}{% unless forloop.last %},{% endunless %}
+    {% endfor %}
   ],
   "topics": [
-    {%- for page in site.topics -%}
-      {%- include page.json page=page -%}{%- unless forloop.last -%},{%- endunless -%}
-    {%- endfor -%}
+    {% for page in site.topics %}
+      {% include page.json page=page %}{% unless forloop.last %},{% endunless %}
+    {% endfor %}
   ],
   "resources": [
-    {%- for page in site.resources -%}
-      {%- include page.json page=page -%}{%- unless forloop.last -%},{%- endunless -%}
-    {%- endfor -%}
+    {% for page in site.resources %}
+      {% include page.json page=page %}{% unless forloop.last %},{% endunless %}
+    {% endfor %}
   ],
   "categories": {
-    {%- for category in site.categories -%}
+    {% for category in site.categories %}
+    {% if category[0] %}
     {{ category[0] | jsonify }}: [
-      {%- for page in category[1] -%}
-        {%- include page.json page=page -%}{%- unless forloop.last -%},{%- endunless -%}
-      {%- endfor -%}
-    ]{%- unless forloop.last -%},{%- endunless -%}
-    {%- endfor -%}
+      {% for page in category[1] %}
+        {% include page.json page=page %}{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]{% unless forloop.last %},{% endunless %}
+    {% endif %}
+    {% endfor %}
   }
 }
