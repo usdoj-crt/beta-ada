@@ -51,9 +51,11 @@ function buildEngine(globals, imageData) {
         }
       },
       *render(context, emitter) {
+        // It's possible to use templating inside of tags, so resolve that first:
+        const renderedValue = this.liquid.parseAndRenderSync(this.value, context, emitter);
         switch (tagName) {
           case 'accordion':
-            const options = this.value.split(' ');
+            const options = renderedValue.split(' ');
             const accId = `accordion-${options[0].trim()}`;
             const multiselect = options.includes('multiselect');
             const expandable = options.includes('expandable');
@@ -68,8 +70,9 @@ function buildEngine(globals, imageData) {
             emitter.write('</div>');
             break;
           case 'asset':
-            const valArr = this.value.split(' ');
-            const imagePathArr = valArr[0].split('/');
+            const valArr = renderedValue.split(' ');
+            const imagePathRaw = valArr[0].replaceAll(/(^')|('$)/g, '');
+            const imagePathArr = imagePathRaw.split('/');
             const imageTitle = imagePathArr[imagePathArr.length - 1];
             const imagePath = getImagePath(imageTitle, imageData);
             return `<img src="${imagePath}">`;
@@ -92,7 +95,7 @@ function buildEngine(globals, imageData) {
             emitter.write('</div>');
             break;
           case 'details':
-            const detailTitle = yield this.value;
+            const detailTitle = yield renderedValue;
             emitter.write(
               `<details data-detail-open='false'><summary><div><span class='pa11y-skip'>${detailTitle}</span></div></summary><div><p>`
             );
@@ -105,7 +108,7 @@ function buildEngine(globals, imageData) {
             emitter.write('</figcaption>');
             break;
           case 'figure':
-            const figTitle = this.value;
+            const figTitle = renderedValue;
             const figId = title.toLowerCase().trim().replaceAll(/\s/g, '');
             emitter.write(`<figure id=${figId}>
                  <strong>${figTitle}</strong><br/>`);
@@ -113,10 +116,10 @@ function buildEngine(globals, imageData) {
             emitter.write('</figure>');
             break;
           case 'fn':
-            const fnId = this.value;
+            const fnId = renderedValue;
             return `<sup><a href="#fn:${fnId}" class="footnote" id="fn-back:${fnId}">${fnId}</a></sup>`;
           case 'fnbody':
-            const fnBodyId = this.value.trim();
+            const fnBodyId = renderedValue.trim();
             emitter.write(`<li id='fn:${fnBodyId}' class='footnotebody' value='${fnBodyId}'>`);
             yield this.liquid.renderer.renderTemplates(this.tpls, context, emitter);
             emitter.write(`<a href='#fn-back:${fnBodyId}' class='backlink'>Back to text</a>`);
@@ -127,7 +130,7 @@ function buildEngine(globals, imageData) {
             emitter.write('</ol></div>');
             break;
           case 'list':
-            const listIconType = this.value;
+            const listIconType = renderedValue;
             context._iconType = listIconType;
             emitter.write("<ul class='usa-icon-list margin-bottom-2'>");
             yield this.liquid.renderer.renderTemplates(this.tpls, context, emitter);
@@ -163,6 +166,7 @@ function renderWidgets(interimHTML, variables, imageData) {
   const engine = buildEngine({
     'page': variables,
     'site': window.jekyllSite,  // This is defined globally via site_json.rb
+    'lang': 'en',
   }, imageData);
   const renderedHTML = engine.parseAndRenderSync(interimHTML);
   return renderedHTML;
