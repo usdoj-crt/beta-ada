@@ -387,18 +387,12 @@ The requirements that new construction and alterations comply with the 2010 Stan
 
 ## Part 3: Polling Place Accessibility Checklist
 
-Ward:
-
-Precinct:
-
-Staff:
-
-Date:
-
-Time:
-
-Address:
-
+Ward:<br>
+Precinct:<br>
+Staff:<br>
+Date:<br>
+Time:<br>
+Address:<br>
 Location name:
 
 This checklist is designed to provide guidance for determining whether a polling place has basic accessibility features needed by voters with disabilities.
@@ -415,18 +409,12 @@ _All Elements Compliant<br>
 _Non-Compliant Elements Remediable with Temporary Measures<br>
 _Non-Compliant Elements Not Remediable with Temporary Measures (Relocate Polling Place)
 
-Ward:
-
-Precinct:
-
-Staff:
-
-Date:
-
-Time:
-
-Address:
-
+Ward:<br>
+Precinct:<br>
+Staff:<br>
+Date:<br>
+Time:<br>
+Address:<br>
 Location name:
 
 <table class="usa-table">
@@ -434,7 +422,9 @@ Location name:
   <thead>
     <tr>
       <th scope="col">A</th>
-<th scope="col">Parking - Only complete this section if off-street parking is provided to voters. If off-street parking is not provided to voters, go to Section B.<br>If more than 25 parking spaces are provided to voters, see the 2010 Standards for the  number of accessible parking spaces required.  (&sect;208.2)</th>
+<th scope="col">Parking - <br>
+Only complete this section if off-street parking is provided to voters. If off-street parking is not provided to voters, go to Section B.
+<p>If more than 25 parking spaces are provided to voters, see the 2010 Standards for the  number of accessible parking spaces required.  (&sect;208.2)</p></th>
 <th scope="col">Yes</th>
 <th scope="col">No</th>
 <th scope="col">N/A</th>
@@ -494,18 +484,12 @@ Width of access aisle _____</td>
     <td></td>
   </tr>
 </table>
-Ward:
-
-Precinct:
-
-Staff:
-
-Date:
-
-Time:
-
-Address:
-
+Ward:<br>
+Precinct:<br>
+Staff:<br>
+Date:<br>
+Time:<br>
+Address:<br>
 Location name:
 
 <table class="usa-table">
@@ -513,7 +497,9 @@ Location name:
   <thead>
     <tr>
       <th scope="col">B</th>
-<th scope="col">Passenger Drop-off Area - Only complete this section if a passenger drop-off area is provided for voters. If a drop-off area is not provided to voters, go to Section C.</th>
+<th scope="col">Passenger Drop-off Area -<br>
+Only complete this section if a passenger drop-off area is provided for voters.
+<p>If a drop-off area is not provided to voters, go to Section C.</p></th>
 <th scope="col">Yes</th>
 <th scope="col">No</th>
 <th scope="col">N/A</th>
@@ -570,18 +556,12 @@ Location name:
   </tr>
 </table>
 
-Ward:
-
-Precinct:
-
-Staff:
-
-Date:
-
-Time:
-
-Address:
-
+Ward:<br>
+Precinct:<br>
+Staff:<br>
+Date:<br>
+Time:<br>
+Address:<br>
 Location name:
 
 <table class="usa-table">
@@ -589,7 +569,9 @@ Location name:
   <thead>
     <tr>
       <th scope="col">C</th>
-<th scope="col">Exterior Route to Accessible Entrance - Complete a separate Exterior Route form, when applicable, for the routes from parking, passenger drop-off areas, public sidewalks and public transportation stops.<br>Exterior route location:</th>
+<th scope="col">Exterior Route to Accessible Entrance -<br>
+Complete a separate Exterior Route form, when applicable, for the routes from parking, passenger drop-off areas, public sidewalks and public transportation stops.
+<p>Exterior route location:</p></th>
 <th scope="col">Yes</th>
 <th scope="col">No</th>
 <th scope="col">N/A</th>
@@ -678,18 +660,12 @@ Location name:
   </tr>
 </table>
 
-Ward:
-
-Precinct:
-
-Staff:
-
-Date:
-
-Time:
-
-Address:
-
+Ward:<br>
+Precinct:<br>
+Staff:<br>
+Date:<br>
+Time:<br>
+Address:<br>
 Location name:
 
 <table class="usa-table">
@@ -786,19 +762,13 @@ Location name:
   </tr>
 </table>
 
-Ward:
-
-Precinct:
-
-Staff:
-
-Date:
-
-Time:
-
-Address:
-
-Location name:
+Ward:<br>
+Precinct:<br>
+Staff:<br>
+Date:<br>
+Time:<br>
+Address:<br>
+Location name:<br>
 
 <table class="usa-table">
 <caption>Route from Entrance into Voting Area</caption>
@@ -918,18 +888,12 @@ Location name:
   </tr>
 </table>
 
-Ward:
-
-Precinct:
-
-Staff:
-
-Date:
-
-Time:
-
-Address:
-
+Ward:<br>
+Precinct:<br>
+Staff:<br>
+Date:<br>
+Time:<br>
+Address:<br>
 Location name:
 
 <table class="usa-table">
@@ -1002,18 +966,12 @@ Location name:
   </tr>
 </table>
 
-Ward:
-
-Precinct:
-
-Staff:
-
-Date:
-
-Time:
-
-Address:
-
+Ward:<br>
+Precinct:<br>
+Staff:<br>
+Date:<br>
+Time:<br>
+Address:<br>
 Location name:
 
 <table class="usa-table">
@@ -1021,7 +979,9 @@ Location name:
   <thead>
     <tr>
       <th scope="col">G</th>
-<th scope="col">Ramps - Complete a separate ramp form for each ramp, whether exterior or interior.<br>Ramp Location:  ___</th>
+<th scope="col">Ramps -<br>
+Complete a separate ramp form for each ramp, whether exterior or interior.
+<p>Ramp Location:</p></th>
 <th scope="col">Yes</th>
 <th scope="col">No</th>
 <th scope="col">N/A</th>
@@ -1102,18 +1062,12 @@ Location name:
   </tr>
 </table>
 
-Ward:
-
-Precinct:
-
-Staff:
-
-Date:
-
-Time:
-
-Address:
-
+Ward:<br>
+Precinct:<br>
+Staff:<br>
+Date:<br>
+Time:<br>
+Address:<br>
 Location name:
 
 <table class="usa-table">
@@ -1178,18 +1132,12 @@ Location name:
   </tr>
 </table>
 
-Ward:
-
-Precinct:
-
-Staff:
-
-Date:
-
-Time:
-
-Address:
-
+Ward:<br>
+Precinct:<br>
+Staff:<br>
+Date:<br>
+Time:<br>
+Address:<br>
 Location name:
 
 <table class="usa-table">
