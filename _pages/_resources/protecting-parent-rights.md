@@ -82,7 +82,7 @@ To be eligible, an individual with a disability must be &ldquo;qualified.&rdquo;
 
 {% details 3. Who do Title II of the ADA and Section 504  protect in child welfare programs? expandable %}
 
-**Answer:  **Title II of the ADA and Section 504  protect qualified individuals with disabilities, which can include children,  parents, legal guardians, relatives, other caretakers, foster and adoptive parents,  and individuals seeking to become foster or adoptive parents, from  discrimination by child welfare agencies and courts.{% fn 49 %}  Title II also protects individuals or  entities from being denied or excluded from child welfare services, programs or  activities because of association with an individual with a disability.{% fn 50 %}  For example, Title II prohibits a child  welfare agency from refusing to place a child with a prospective foster or  adoptive parent because the parent has a friend or relative with HIV.
+**Answer:**  Title II of the ADA and Section 504  protect qualified individuals with disabilities, which can include children,  parents, legal guardians, relatives, other caretakers, foster and adoptive parents,  and individuals seeking to become foster or adoptive parents, from  discrimination by child welfare agencies and courts.{% fn 49 %}  Title II also protects individuals or  entities from being denied or excluded from child welfare services, programs or  activities because of association with an individual with a disability.{% fn 50 %}  For example, Title II prohibits a child  welfare agency from refusing to place a child with a prospective foster or  adoptive parent because the parent has a friend or relative with HIV.
 
 Title II and Section 504 also protect &ldquo;companions&rdquo; of  individuals involved in the child welfare system when the companion is an  appropriate person with whom the child welfare agency or court should  communicate.  A companion may include any  family member, friend, or associate of a person seeking or receiving child  welfare services.{% fn 51 %}  For instance, when a child welfare agency  communicates with an individual&rsquo;s family member who is deaf, appropriate  auxiliary aids and services to the family member must be provided by the agency  to ensure effective communication.{% fn 52 %}
 
@@ -163,7 +163,7 @@ Agencies also have an obligation to ensure that the aids,  benefits, and service
 
 To ensure that persons with disabilities have equal  opportunity to retain or reunify with their children, it may be necessary for  the agency to reasonably modify policies, practices, and procedures in child  welfare proceedings.  In general,  agencies should consider whether their existing policies, practices, and  procedures; their actual processing of cases; and their training materials comply  with the nondiscrimination requirements of Title II and Section 504 for  individuals with disabilities.  Agencies  should also take appropriate steps to ensure that components of child welfare  processing, such as &ldquo;fast-track&rdquo; and concurrent planning, are not applied to  persons with disabilities in a manner that has a discriminatory effect and that  denies parents with disabilities the opportunity to participate fully and  meaningfully in family reunification efforts.
 
-In some instances, providing appropriate supports for persons  with disabilities means selecting an appropriate alternative already provided  in the Federal child welfare statutes.  For instance, section 475 of the Social  Security Act provides that the child welfare agency is required to file a  petition to terminate parental rights when the child is in foster care for the preceding  15 out of 22 months.  However, the law  provides exceptions to this requirement and gives child welfare agencies the  flexibility to work with parents who have a child in foster care beyond the 15  month period, including parents with disabilities.{% fn 81 %}  Exceptions to the termination of parental rights  requirement include situations where: (1) at the state&rsquo;s discretion, the child  is being cared for by a relative; (2) there is a compelling reason for  determining that filing the petition would not be in the best interests of the  child; or (3) the state, when reasonable efforts are to be made, has failed to  provide such services deemed necessary for the safe return of the child to his  or her home. {% fn 82 %} As to number (3), a child  welfare agency should provide the family of the child with the services  necessary for the safe return of the child to the child&rsquo;s home in a manner that  meets the unique needs of the family.   Failure to provide services, including services to address family members&rsquo;  disability-related needs, could qualify as an exception to the termination of  parental rights requirement.  Decisions  about whether this exception applies to a situation in which the supports necessary  for a person with a disability to access services were not provided should be  made on a case-by-case basis.
+In some instances, providing appropriate supports for persons  with disabilities means selecting an appropriate alternative already provided  in the Federal child welfare statutes.  For instance, section 475 of the Social  Security Act provides that the child welfare agency is required to file a  petition to terminate parental rights when the child is in foster care for the preceding  15 out of 22 months.  However, the law  provides exceptions to this requirement and gives child welfare agencies the  flexibility to work with parents who have a child in foster care beyond the 15  month period, including parents with disabilities.{% fn 81 %}  Exceptions to the termination of parental rights  requirement include situations where: (1) at the state&rsquo;s discretion, the child  is being cared for by a relative; (2) there is a compelling reason for  determining that filing the petition would not be in the best interests of the  child; or (3) the state, when reasonable efforts are to be made, has failed to  provide such services deemed necessary for the safe return of the child to his  or her home.{% fn 82 %} As to number (3), a child  welfare agency should provide the family of the child with the services  necessary for the safe return of the child to the child&rsquo;s home in a manner that  meets the unique needs of the family.   Failure to provide services, including services to address family members&rsquo;  disability-related needs, could qualify as an exception to the termination of  parental rights requirement.  Decisions  about whether this exception applies to a situation in which the supports necessary  for a person with a disability to access services were not provided should be  made on a case-by-case basis.
 
 Given the responsibilities of agencies discussed above, we also  recommend that courts consider whether parents and prospective parents with disabilities  have been afforded an equal opportunity to attain reunification, including  whether they have been provided with appropriate services and supports and  other reasonable modifications to enable them to participate fully and  meaningfully in family preservation efforts.   Additionally, we suggest that courts consider whether any reasonable  modifications are necessary and should be made for parents with disabilities.  We also recommend that courts consider  evidence concerning the manner in which the use of adaptive equipment or  supportive services may enable a parent with disabilities to carry out the  responsibilities of parenting.
 
@@ -212,321 +212,320 @@ As such, in some cases an individual with a disability may not  be a qualified i
 
 {% details 16. What can individuals do when they believe they  have been subjected to discrimination in violation of Title II or Section 504? expandable %}
   
-  **Answer:**  An aggrieved person may raise a Title II  or Section 504 claim in child welfare proceedings.  Additionally, subject to certain limitations,  an aggrieved person may pursue a complaint regarding discrimination in child  welfare services, programs, or activities under Title II or Section 504 in  federal court. {% fn 92 %}
+  **Answer:**  An aggrieved person may raise a Title II  or Section 504 claim in child welfare proceedings.  Additionally, subject to certain limitations,  an aggrieved person may pursue a complaint regarding discrimination in child  welfare services, programs, or activities under Title II or Section 504 in  federal court.{% fn 92 %}
   
   Aggrieved individuals may also file  complaints with HHS and DOJ.  HHS and DOJ  also have authority to initiate compliance review investigations of child  welfare agencies and courts with or without receiving a complaint.  If an investigation of a complaint or a  compliance review reveals a violation, HHS or DOJ may issue letters of findings  and initiate resolution efforts.{% fn 93 %}  DOJ may initiate litigation when it finds  that a child welfare agency or court is not in compliance with  Title II.  HHS may also refer cases to  DOJ for litigation where a violation is found and is not voluntarily resolved.{% fn 94 %}
   
   Title II and Section 504 allow for  declaratory and injunctive relief, such as an order from a court finding a  violation and requiring the provision of reasonable modifications.  Title II and Section 504 also allow for  compensatory damages for aggrieved individuals.   Individuals who prevail as parties in litigation may also obtain  reasonable attorney&rsquo;s fees, costs, and litigation expenses.{% fn 95 %}
   
   Under Section 504, remedies also  include suspension and termination of Federal financial assistance, the use of  cautionary language or attachment of special conditions when awarding Federal  financial assistance, and bypassing recalcitrant agencies and providing Federal  financial assistance directly to sub-recipients.{% fn 96 %}
-  {% enddetails %}
+{% enddetails %}
   
-  ## Additional Resources
+## Additional Resources
+
+For more information about the ADA and Section 504, you may call the  DOJ&rsquo;s toll-free ADA information line at 800-514-0301 or 800-514-0383 (TDD), or  access its ADA website at [ADA.gov]({{'/index' | relative_url}})  For more information about the responsibilities of child  welfare agencies under the ADA and Rehabilitation Act, see &ldquo;DOJ/HHS Joint  Letter to Massachusetts Department of Children and Families,&rdquo; at [ADA.gov](https://archive.ada.gov/new.htm).  For  more information about Title II of the ADA, including the Title II Technical Assistance Manual and [Revised ADA Requirements:  Effective Communication]({{'resources/effective-communication/' | relative_url}}).
+
+Information about filing an ADA or Section 504 complaint with DOJ can be found at [Filing a Complaint]({{'/file-a-complaint' | relative_url}}).  Individuals  who believe they have been aggrieved under Title II or Section 504 should file  complaints at the earliest opportunity.
+
+You can also file a Section 504 or Title II ADA complaint with OCR at [http://www.hhs.gov/ocr/civilrights/complaints/index.html](http://www.hhs.gov/ocr/civilrights/complaints/index.html).
   
-  For more information about the ADA and Section 504, you may call the  DOJ&rsquo;s toll-free ADA information line at 800-514-0301 or 800-514-0383 (TDD), or  access its ADA website at [ADA.gov]({{'/index' | relative_url}})  For more information about the responsibilities of child  welfare agencies under the ADA and Rehabilitation Act, see &ldquo;DOJ/HHS Joint  Letter to Massachusetts Department of Children and Families,&rdquo; at <a href="https://archive.ada.gov/new.htm">archive.ada.gov/new.htm</a>.  For  more information about Title II of the ADA, including the Title II Technical Assistance Manual and [Revised ADA Requirements:   Effective Communication]({{'resources/effective-communication/' | relative_url}}).
+General information about civil rights and child welfare issues can be found at [http://www.hhs.gov/ocr/civilrights/resources/specialtopics/adoption/index.html](http://www.hhs.gov/ocr/civilrights/resources/specialtopics/adoption/index.html).
+
+For information about ACF's Children Bureau, please visit [http://www.acf.hhs.gov/programs/cb](http://www.acf.hhs.gov/programs/cb).
   
-  Information about filing an ADA or Section 504 complaint with DOJ can be found at [Filing a Complaint]({{'/file-a-complaint' | relative_url}}).  Individuals  who believe they have been aggrieved under Title II or Section 504 should file  complaints at the earliest opportunity.
-  
-  You can also file a Section 504 or Title II ADA complaint with OCR at <a href="http://www.hhs.gov/ocr/civilrights/complaints/index.html">http://www.hhs.gov/ocr/civilrights/complaints/index.html</a>.
-  
-  General information about civil rights and child welfare issues can be found at <a href="http://www.hhs.gov/ocr/civilrights/resources/specialtopics/adoption/index.html">http://www.hhs.gov/ocr/civilrights/resources/specialtopics/adoption/index.html</a>.
-  
-  For information about ACF's Children Bureau, please visit <a href="http://www.acf.hhs.gov/programs/cb">http://www.acf.hhs.gov/programs/cb</a>.
-  
-  For ACF and OCR regional offices, please visit:
-  
-  - <a href="http://www.acf.hhs.gov/programs/oro">http://www.acf.hhs.gov/programs/oro</a>
-  - <a href="http://www.hhs.gov/ocr/office/about/rgn-hqaddresses.html">http://www.hhs.gov/ocr/office/about/rgn-hqaddresses.html</a>
+For ACF and OCR regional offices, please visit:
+- [http://www.acf.hhs.gov/programs/oro](http://www.acf.hhs.gov/programs/oro)
+- [http://www.hhs.gov/ocr/office/about/rgn-hqaddresses.html](http://www.hhs.gov/ocr/office/about/rgn-hqaddresses.html)
 
 {% footnotes %}
 {% fnbody 1 %}
-  <a href="#_ftnref1" name="_ftn1" title="">1</a> The term &ldquo;parents&rdquo;  includes biological, foster, and adoptive parents.  It also includes caretakers such as legal  guardians or relatives.  Prospective  parents include individuals who are seeking to become foster or adoptive  parents.
+The term &ldquo;parents&rdquo;  includes biological, foster, and adoptive parents.  It also includes caretakers such as legal  guardians or relatives.  Prospective  parents include individuals who are seeking to become foster or adoptive  parents.
 {% endfnbody %}
- {% fnbody 2 %}
- 29 U.S.C. &sect; 794.
-  {% endfnbody %}
+{% fnbody 2 %}
+29 U.S.C. &sect; 794.
+{% endfnbody %}
 {% fnbody 3 %}
 42 U.S.C. &sect;&sect; 12131-12134.
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 4 %}
 Children with disabilities  also have nondiscrimination protections under Section 504 and Title II of the  ADA, but the focus of this technical assistance is on parents and prospective  parents with disabilities.
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 5 %}
 Letter from the U.S.  Department of Justice, Civil Rights Division and U.S. Department of Health and  Human Services, Office for Civil Rights to the Massachusetts Department of  Children and Families (Jan. 29, 2015), at www.ada.gov/ma_docf_lof.pdf and <a href="http://www.hhs.gov/ocr/civilrights/activities/examples/Disability/mass_lof.pdf">www.hhs.gov/ocr/civilrights/activities/examples/Disability/mass_lof.pdf</a>(Massachusetts  Department of Children and Families).
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 6 %}
 National Council on  Disability, Rocking the Cradle: Ensuring the Rights of Parents with  Disabilities and Their Children at 14, 18 (2012), at <a href="http://www.ncd.gov/publications/2012/Sep272012/">www.ncd.gov/publications/2012/Sep272012/</a>.
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 7 %}
 *Id*. at 114, 122-26.
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 8 %}
- *Id.* at 92-93.
-  {% endfnbody %}
- {% fnbody 9 %}
- *Id*.at 194-199.
-  {% endfnbody %}
-  {% fnbody 10 %}
-  *Id*. at 114.  
-  {% endfnbody %}
- {% fnbody 11 %} 
- *Id*. at 125-26.
-  {% endfnbody %}
+*Id.* at 92-93.
+{% endfnbody %}
+{% fnbody 9 %}
+*Id*.at 194-199.
+{% endfnbody %}
+{% fnbody 10 %}
+*Id*. at 114.  
+{% endfnbody %}
+{% fnbody 11 %}
+*Id*. at 125-26.
+{% endfnbody %}
 {% fnbody 12 %}
 42 U.S.C. &sect; 12132.
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 13 %}
- 42 U.S.C. &sect; 12131(1)(A),  (B); s*ee also, e.g.,* 28 C.F.R. &sect;  35.130(b)(1) (prohibiting disability discrimination directly or through  contractual, licensing, or other arrangements), 35.130(b)(3) (prohibiting  methods of administration that have a discriminatory effect).  Private entities involved in the child  welfare system may also be independently covered by Title III of the ADA, 42  U.S.C. &sect;&sect; 12181-12189.
-  {% endfnbody %}
-  {% fnbody 14 %}
+42 U.S.C. &sect; 12131(1)(A),  (B); s*ee also, e.g.,* 28 C.F.R. &sect;  35.130(b)(1) (prohibiting disability discrimination directly or through  contractual, licensing, or other arrangements), 35.130(b)(3) (prohibiting  methods of administration that have a discriminatory effect).  Private entities involved in the child  welfare system may also be independently covered by Title III of the ADA, 42  U.S.C. &sect;&sect; 12181-12189.
+{% endfnbody %}
+{% fnbody 14 %}
 29 U.S.C. &sect; 794(a).
-  {% endfnbody %}
-  {% fnbody 15 %}
-   *See, e.g., *28 C.F.R. &sect; 42.105; 45 C.F.R. &sect; 84.5.
-  {% endfnbody %}
-  {% fnbody 16 %}
-   *See Grove City College v. Bell*, 465 U.S. 555, 564 (1984).
-  {% endfnbody %}
-  {% fnbody 17 %}
-  29 U.S.C. &sect; 794(b).
-  {% endfnbody %}
-  {% fnbody 18 %}
-   *See, e.g., *45 C.F.R. &sect; 84.5.
-  {% endfnbody %}
-  {% fnbody 19 %}
-  *See* 28 C.F.R. &sect; 35.130(b)(3); 45 C.F.R.  &sect; 84.4(b)(4);); *see also* 28 C.F.R. &sect;  42.503(b)(3).
-  {% endfnbody %}
-  {% fnbody 20 %}
-   *See, e.g.,* 28 C.F.R. &sect; 35.130(b); *see also* 28 C.F.R. pt. 35, App. B (explaining in the 1991  Section-by-Section guidance to the Title II regulation that, &ldquo;[t]aken together,  the[] provisions [in 28 C.F.R. &sect; 35.130(b)] are intended to prohibit exclusion  . . . of individuals with disabilities and the denial of equal opportunities  enjoyed by others, based on, among other things, presumptions, patronizing  attitudes, fears, and stereotypes about individuals with disabilities.  Consistent with these standards, public  entities are required to ensure that their actions are based on facts  applicable to individuals and not presumptions as to what a class of  individuals with disabilities can or cannot do.&rdquo;); *School Bd. of Nassau County v. Arline*, 480 U.S. 273, 285 (1987).
-  {% endfnbody %}
-  {% fnbody 21 %}
-  *See, e.g.*, *id.*
-  {% endfnbody %}
- {% fnbody 22 %}
-  *See* 28 C.F.R. &sect;&sect; 35.130(b)(1)(ii)-(iv), (vii), (b)(7); 45 C.F.R. &sect;  84.4(b)(1)(ii)-(iii); *see also* 28  C.F.R. &sect; 42.503(b)(1)(ii), (iii).
-  {% endfnbody %}
-  {% fnbody 23 %}
-   *See, e.g.,* 28 C.F.R. &sect; 35.130(b)(1)(ii)-(iv).
-  {% endfnbody %}
-  {% fnbody 24 %}
-  *Id*; *see also Alexander v.  Choate*, 469 U.S. 287 (1985). 
-  {% endfnbody %}
- {% fnbody 25 %}
-  28 C.F.R. &sect;&sect; 35.149-151, 160-164; 45 C.F.R.  &sect;&sect; 84.21-23, 84.52(d); *see also* 28  C.F.R. &sect;&sect; 42.503(e), (f), 42.520-522. 
-  {% endfnbody %}
-  {% fnbody 26 %}
- *See* 45 C.F.R. &sect;&sect; 84.12(a), 84.22(a) and (f), and 84.52(d); and 28 C.F.R. &sect;  35.130(b)(7).
-  {% endfnbody %}
-  {% fnbody 27 %}
-  28 C.F.R. &sect; 35.139(a)-(b); *Arline*, 273 U.S. at 287.
-  {% endfnbody %}
-  {% fnbody 28 %}
-  28 C.F.R. &sect; 35.139(b); *Arline*, 273 U.S. at 288.
-  {% endfnbody %}
-  {% fnbody 29 %}
-  28 C.F.R. &sect; 35.139(b); *Arline*, 273 U.S. at 288. 
-  {% endfnbody %}
-  {% fnbody 30 %}
-  *See* 28 C.F.R. &sect; 35.130(h).
-  {% endfnbody %}
-  {% fnbody 31 %}
-   42 U.S.C. &sect; 12132.
-  {% endfnbody %}
-  {% fnbody 32 %}
-  29 U.S.C. &sect; 794(a).
-  {% endfnbody %}
-  {% fnbody 33 %}
-   42 U.S.C. &sect; 12132;  29 U.S.C. &sect; 794(a); 28 C.F.R. &sect; 35.130(a); 45 C.F.R. &sect; 84.4(a). 
-  {% endfnbody %}
-  {% fnbody 34 %}
-  *Choate*,  469 U.S. 287. 
-  {% endfnbody %}
-  {% fnbody 35 %}
-   28 C.F.R. &sect; 35.150(a);  45 C.F.R. &sect; 84.22(a). 
-  {% endfnbody %}
-  {% fnbody 36 %}
-  28 C.F.R. &sect; 35.130(b)(1)(ii);  45 C.F.R. &sect; 84.4(b)(1)(ii); 
-  {% endfnbody %}
-  {% fnbody 37 %}
-  28 C.F.R. &sect; 35.130(b)(3);  45 C.F.R. &sect; 84.4(b)(4). 
-  {% endfnbody %}
-  {% fnbody 38 %}
-   28 C.F.R. &sect; 35.130(b)(7); *Choate*, 469 U.S. at 301. 
-  {% endfnbody %}
-  {% fnbody 39 %}
-  28 C.F.R.&sect; 35.160(a)(1); *see also *45  C.F.R. &sect; 84.52(d) (requiring health and social services entities to provide  appropriate auxiliary aids to persons with impaired sensory, manual, or  speaking skills, where necessary to afford such persons an equal opportunity to  benefit from the service in question).
-  {% endfnbody %}
-  {% fnbody 40 %}
-   42 U.S.C. &sect; 12132; 29  U.S.C. &sect; 794(a).
-  {% endfnbody %}
-  {% fnbody 41 %}
-  42 U.S.C. &sect; 12102(1),  (2)(A); 29 U.S.C. &sect; 705(9)(B).
-  {% endfnbody %}
-  {% fnbody 42 %}
+{% endfnbody %}
+{% fnbody 15 %}
+*See*, e.g., 28 C.F.R. &sect; 42.105; 45 C.F.R. &sect; 84.5.
+{% endfnbody %}
+{% fnbody 16 %}
+*See* *Grove City College v. Bell*, 465 U.S. 555, 564 (1984).
+{% endfnbody %}
+{% fnbody 17 %}
+29 U.S.C. &sect; 794(b).
+{% endfnbody %}
+{% fnbody 18 %}
+*See*, e.g., 45 C.F.R. &sect; 84.5.
+{% endfnbody %}
+{% fnbody 19 %}
+*See* 28 C.F.R. &sect; 35.130(b)(3); 45 C.F.R.  &sect; 84.4(b)(4);); *see also* 28 C.F.R. &sect;  42.503(b)(3).
+{% endfnbody %}
+{% fnbody 20 %}
+*See*, e.g., 28 C.F.R. &sect; 35.130(b); *see also* 28 C.F.R. pt. 35, App. B (explaining in the 1991  Section-by-Section guidance to the Title II regulation that, &ldquo;[t]aken together,  the[] provisions [in 28 C.F.R. &sect; 35.130(b)] are intended to prohibit exclusion  . . . of individuals with disabilities and the denial of equal opportunities  enjoyed by others, based on, among other things, presumptions, patronizing  attitudes, fears, and stereotypes about individuals with disabilities.  Consistent with these standards, public  entities are required to ensure that their actions are based on facts  applicable to individuals and not presumptions as to what a class of  individuals with disabilities can or cannot do.&rdquo;); *School Bd. of Nassau County v. Arline*, 480 U.S. 273, 285 (1987).
+{% endfnbody %}
+{% fnbody 21 %}
+*See*, e.g., *id.*
+{% endfnbody %}
+{% fnbody 22 %}
+*See* 28 C.F.R. &sect;&sect; 35.130(b)(1)(ii)-(iv), (vii), (b)(7); 45 C.F.R. &sect;  84.4(b)(1)(ii)-(iii); *see also* 28  C.F.R. &sect; 42.503(b)(1)(ii), (iii).
+{% endfnbody %}
+{% fnbody 23 %}
+*See*, e.g., 28 C.F.R. &sect; 35.130(b)(1)(ii)-(iv).
+{% endfnbody %}
+{% fnbody 24 %}
+*Id*; *see* also *Alexander v.  Choate*, 469 U.S. 287 (1985). 
+{% endfnbody %}
+{% fnbody 25 %}
+28 C.F.R. &sect;&sect; 35.149-151, 160-164; 45 C.F.R.  &sect;&sect; 84.21-23, 84.52(d); *see also* 28  C.F.R. &sect;&sect; 42.503(e), (f), 42.520-522. 
+{% endfnbody %}
+{% fnbody 26 %}
+*See* 45 C.F.R. &sect;&sect; 84.12(a), 84.22(a) and (f), and 84.52(d); and 28 C.F.R. &sect;  35.130(b)(7).
+{% endfnbody %}
+{% fnbody 27 %}
+28 C.F.R. &sect; 35.139(a)-(b); *Arline*, 273 U.S. at 287.
+{% endfnbody %}
+{% fnbody 28 %}
+28 C.F.R. &sect; 35.139(b); *Arline*, 273 U.S. at 288.
+{% endfnbody %}
+{% fnbody 29 %}
+28 C.F.R. &sect; 35.139(b); *Arline*, 273 U.S. at 288. 
+{% endfnbody %}
+{% fnbody 30 %}
+*See* 28 C.F.R. &sect; 35.130(h).
+{% endfnbody %}
+{% fnbody 31 %}
+42 U.S.C. &sect; 12132.
+{% endfnbody %}
+{% fnbody 32 %}
+29 U.S.C. &sect; 794(a).
+{% endfnbody %}
+{% fnbody 33 %}
+42 U.S.C. &sect; 12132;  29 U.S.C. &sect; 794(a); 28 C.F.R. &sect; 35.130(a); 45 C.F.R. &sect; 84.4(a). 
+{% endfnbody %}
+{% fnbody 34 %}
+*Choate*,  469 U.S. 287. 
+{% endfnbody %}
+{% fnbody 35 %}
+28 C.F.R. &sect; 35.150(a);  45 C.F.R. &sect; 84.22(a). 
+{% endfnbody %}
+{% fnbody 36 %}
+28 C.F.R. &sect; 35.130(b)(1)(ii);  45 C.F.R. &sect; 84.4(b)(1)(ii); 
+{% endfnbody %}
+{% fnbody 37 %}
+28 C.F.R. &sect; 35.130(b)(3);  45 C.F.R. &sect; 84.4(b)(4). 
+{% endfnbody %}
+{% fnbody 38 %}
+28 C.F.R. &sect; 35.130(b)(7); *Choate*, 469 U.S. at 301. 
+{% endfnbody %}
+{% fnbody 39 %}
+28 C.F.R.&sect; 35.160(a)(1); *see also *45  C.F.R. &sect; 84.52(d) (requiring health and social services entities to provide  appropriate auxiliary aids to persons with impaired sensory, manual, or  speaking skills, where necessary to afford such persons an equal opportunity to  benefit from the service in question).
+{% endfnbody %}
+{% fnbody 40 %}
+42 U.S.C. &sect; 12132; 29  U.S.C. &sect; 794(a).
+{% endfnbody %}
+{% fnbody 41 %}
+42 U.S.C. &sect; 12102(1),  (2)(A); 29 U.S.C. &sect; 705(9)(B).
+{% endfnbody %}
+{% fnbody 42 %}
 42 U.S.C. &sect; 12102(2)(B).
-  {% endfnbody %}
-  {% fnbody 43 %}
-  42 U.S.C. &sect; 12102(4)(A);  29 U.S.C. &sect; 705(9)(B).
-  {% endfnbody %}
-  {% fnbody 44 %}
-  42 U.S.C. &sect; 12102(4)(E)(i);  29 U.S.C. &sect; 705(9)(B); *see also* Equal  Employment Opportunity Commission, Questions and Answers on the Final Rule  Implementing the ADA Amendments Act of 2008, at <a href="http://www.eeoc.gov/laws/regulations/ada_qa_final_rule.cfm">www.eeoc.gov/laws/regulations/ada_qa_final_rule.cfm</a>.
-  {% endfnbody %}
- {% fnbody 45 %}
- 42 U.S.C. &sect; 12102(2)(1)(B)-(C); 29 U.S.C. &sect; 705(9)(B).  The  ADA Amendments Act of 2008 amended the definition of disability for Titles I,  II, and III of the ADA as well as Section 504.   Pub. L. No. 110 ‐ 325, 122 Stat. 3553 (2008).   For a discussion of the United States Department of Justice&rsquo;s (DOJ&rsquo;s)  interpretation of the changes to the definition, see DOJ&rsquo;s Notice of Proposed  Rulemaking to Implement ADA Amendments Act of 2008, 79 Fed. Reg. 4839 (January  30, 2014).  *See also* Equal Employment Opportunity Commission, Questions and  Answers on the Final Rule Implementing the ADA Amendments Act of 2008, at <a href="http://www.eeoc.gov/laws/regulations/ada_qa_final_rule.cfm">www.eeoc.gov/laws/regulations/ada_qa_final_rule.cfm</a>.
-  {% endfnbody %}
-  {% fnbody 46 %}
-  42 U.S.C. &sect; 12210(a); 29  U.S.C. &sect; 794(d).
-  {% endfnbody %}
-  {% fnbody 47 %}
-  42 U.S.C. &sect; 12210(b)(1)-(2);  29 U.S.C. &sect; 794(d).
-  {% endfnbody %}
-  {% fnbody 48 %}
-  42 U.S.C. &sect; 12131(1); 28  C.F.R. &sect; 35.104; *see also* 45 C.F.R. &sect;  84.3(l)(4) (defining &ldquo;qualified handicapped person&rdquo; under HHS&rsquo; Section 504 regulation).
-  {% endfnbody %}
-  {% fnbody 49 %}
-  For a discussion of a  &ldquo;qualified individual with a disability,&rdquo; *see* discussion *supra* at Q&amp;A 2.
-  {% endfnbody %}
-  {% fnbody 50 %}
+{% endfnbody %}
+{% fnbody 43 %}
+42 U.S.C. &sect; 12102(4)(A);  29 U.S.C. &sect; 705(9)(B).
+{% endfnbody %}
+{% fnbody 44 %}
+42 U.S.C. &sect; 12102(4)(E)(i);  29 U.S.C. &sect; 705(9)(B); *see also* Equal  Employment Opportunity Commission, Questions and Answers on the Final Rule  Implementing the ADA Amendments Act of 2008, at <a href="http://www.eeoc.gov/laws/regulations/ada_qa_final_rule.cfm">www.eeoc.gov/laws/regulations/ada_qa_final_rule.cfm</a>.
+{% endfnbody %}
+{% fnbody 45 %}
+42 U.S.C. &sect; 12102(2)(1)(B)-(C); 29 U.S.C. &sect; 705(9)(B).  The  ADA Amendments Act of 2008 amended the definition of disability for Titles I,  II, and III of the ADA as well as Section 504.   Pub. L. No. 110 ‐ 325, 122 Stat. 3553 (2008).   For a discussion of the United States Department of Justice&rsquo;s (DOJ&rsquo;s)  interpretation of the changes to the definition, see DOJ&rsquo;s Notice of Proposed  Rulemaking to Implement ADA Amendments Act of 2008, 79 Fed. Reg. 4839 (January  30, 2014).  *See also* Equal Employment Opportunity Commission, Questions and  Answers on the Final Rule Implementing the ADA Amendments Act of 2008, at <a href="http://www.eeoc.gov/laws/regulations/ada_qa_final_rule.cfm">www.eeoc.gov/laws/regulations/ada_qa_final_rule.cfm</a>.
+{% endfnbody %}
+{% fnbody 46 %}
+42 U.S.C. &sect; 12210(a); 29  U.S.C. &sect; 794(d).
+{% endfnbody %}
+{% fnbody 47 %}
+42 U.S.C. &sect; 12210(b)(1)-(2);  29 U.S.C. &sect; 794(d).
+{% endfnbody %}
+{% fnbody 48 %}
+42 U.S.C. &sect; 12131(1); 28  C.F.R. &sect; 35.104; *see also* 45 C.F.R. &sect;  84.3(l)(4) (defining &ldquo;qualified handicapped person&rdquo; under HHS&rsquo; Section 504 regulation).
+{% endfnbody %}
+{% fnbody 49 %}
+For a discussion of a  &ldquo;qualified individual with a disability,&rdquo; *see* discussion *supra* at Q&amp;A 2.
+{% endfnbody %}
+{% fnbody 50 %}
 28 C.F.R. &sect; 35.130(g); 28  C.F.R. pt. 35, App. B.
-  {% endfnbody %}
- {% fnbody 51 %}
- 28 C.F.R. &sect; 35.160(a)(2).
-  {% endfnbody %}
-  {% fnbody 52 %}
-  28 C.F.R. &sect; 35.160(a)(1);  28 C.F.R. pt. 35, App. A., Subpt. E (2010).
-  {% endfnbody %}
-  {% fnbody 53 %}
-  42 U.S.C. &sect; 12203; 28  C.F.R. &sect; 35.134; 45 C.F.R. &sect; 84.61; 45 C.F.R. &sect; 80.7(e).
-  {% endfnbody %}
- {% fnbody 54 %}
- *See Pa. Dep&rsquo;t. of Corrs. v. Yeskey*, 524 U.S. 206, 209-12 (1998)  (discussing the breadth of Title II&rsquo;s coverage).
-  {% endfnbody %}
- {% fnbody 55 %}
- *See* 29 U.S.C. &sect; 794(b)(1)(A), (B).
-  {% endfnbody %}
-  {% fnbody 56 %}
+{% endfnbody %}
+{% fnbody 51 %}
+28 C.F.R. &sect; 35.160(a)(2).
+{% endfnbody %}
+{% fnbody 52 %}
+28 C.F.R. &sect; 35.160(a)(1);  28 C.F.R. pt. 35, App. A., Subpt. E (2010).
+{% endfnbody %}
+{% fnbody 53 %}
+42 U.S.C. &sect; 12203; 28  C.F.R. &sect; 35.134; 45 C.F.R. &sect; 84.61; 45 C.F.R. &sect; 80.7(e).
+{% endfnbody %}
+{% fnbody 54 %}
+*See Pa. Dep&rsquo;t. of Corrs. v. Yeskey*, 524 U.S. 206, 209-12 (1998)  (discussing the breadth of Title II&rsquo;s coverage).
+{% endfnbody %}
+{% fnbody 55 %}
+*See* 29 U.S.C. &sect; 794(b)(1)(A), (B).
+{% endfnbody %}
+{% fnbody 56 %}
 *See* 28 C.F.R. &sect;&sect; 35.130(b)(1), (3), 42.503(b)(1), (3); 45 C.F.R. &sect;  84.4(b)(1), (4).
-  {% endfnbody %}
-  {% fnbody 57 %}
-  *See Yeskey*, 524 U.S. at 209-12 (discussing the breadth of Title  II&rsquo;s coverage); c*f. Shelley v. Kraemer*,  334 U.S. 1 (1948) (finding judicial enforcement of racially discriminatory restrictive  covenants state action in violation of the Fourteenth Amendment).  *See  also* 28 C.F.R. &sect; 35.190(b)(6) (designating to the DOJ responsibility for  investigation of complaints and compliance reviews of &ldquo;[a]ll programs,  services, and regulatory activities relating to . . . the administration of  justice, including courts.&rdquo;).
-  {% endfnbody %}
-  {% fnbody 58 %}
+{% endfnbody %}
+{% fnbody 57 %}
+*See Yeskey*, 524 U.S. at 209-12 (discussing the breadth of Title  II&rsquo;s coverage); c*f. Shelley v. Kraemer*,  334 U.S. 1 (1948) (finding judicial enforcement of racially discriminatory restrictive  covenants state action in violation of the Fourteenth Amendment).  *See  also* 28 C.F.R. &sect; 35.190(b)(6) (designating to the DOJ responsibility for  investigation of complaints and compliance reviews of &ldquo;[a]ll programs,  services, and regulatory activities relating to . . . the administration of  justice, including courts.&rdquo;).
+{% endfnbody %}
+{% fnbody 58 %}
 29 U.S.C. &sect; 794; *see U.S. Dep&rsquo;t of Transp. v. Paralyzed  Veterans of America*, 477 U.S. 597, 600 n.4 (1986).  We also remind judges and court personnel of  their obligations under the <a href="http://www.americanbar.org/groups/professional_responsibility/publications/model_code_of_judicial_conduct/model_code_of_judicial_conduct_canon_2/rule2_3biasprejudiceandharassment.html/">American  Bar Association, Model Code of Judicial Conduct, Rule 2.3 (b)</a> that states:  &ldquo;A judge shall not, in the performance of judicial duties, by words or conduct  manifest bias or prejudice, or engage in harassment, including but not limited  to bias, prejudice, or harassment based upon race, sex, gender, religion,  national origin, ethnicity, disability, . . . and shall not permit court staff,  court officials, or others subject to the judge&rsquo;s direction and control to do  so.&rdquo;
-  {% endfnbody %}
-  {% fnbody 59 %}
-  *See* 28 C.F.R. &sect; 35.130; 45  C.F.R. &sect; 84.4; *see also* 28 C.F.R. &sect;  42.503.  
-  {% endfnbody %}
- {% fnbody 60 %}
- 28 C.F.R. &sect; 35.160-.164; 45 C.F.R. &sect; 84.52(d); *see also* 28 C.F.R. &sect; 42.503(f).
-  {% endfnbody %}
-  {% fnbody 61 %}
-   28 C.F.R. &sect; 35.130(b)(7); *see also* *Choate*, 469 U.S. at 304-06.
-  {% endfnbody %}
+{% endfnbody %}
+{% fnbody 59 %}
+*See* 28 C.F.R. &sect; 35.130; 45  C.F.R. &sect; 84.4; *see also* 28 C.F.R. &sect;  42.503.
+{% endfnbody %}
+{% fnbody 60 %}
+28 C.F.R. &sect; 35.160-.164; 45 C.F.R. &sect; 84.52(d); *see also* 28 C.F.R. &sect; 42.503(f).
+{% endfnbody %}
+{% fnbody 61 %}
+28 C.F.R. &sect; 35.130(b)(7); *see also* *Choate*, 469 U.S. at 304-06.
+{% endfnbody %}
 {% fnbody 62 %}
- In addition, advocacy  organizations, such as those within the Protection and Advocacy system, may  provide assistance to individuals with disabilities when they become involved  with the child welfare system.
-  {% endfnbody %}
+In addition, advocacy  organizations, such as those within the Protection and Advocacy system, may  provide assistance to individuals with disabilities when they become involved  with the child welfare system.
+{% endfnbody %}
 {% fnbody 63 %}
- *See* 28 C.F.R. &sect; 35.130(b)(7), 35.160-.164;  *see  also* *Choate, *469 U.S. at 300-309.
-  {% endfnbody %}
+*See* 28 C.F.R. &sect; 35.130(b)(7), 35.160-.164;  *see  also* *Choate, *469 U.S. at 300-309.
+{% endfnbody %}
 {% fnbody 64 %}
 *See* 28 C.F.R. &sect;&nbsp;35.130(b)(1), (3).
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 65 %}
 29 U.S.C. &sect; 794(a); 45  C.F.R. &sect;&sect; 84.3(h); 84.4(b)(1), (4).
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 66 %}
 Private entities involved  in child welfare activities may also be public accommodations with their own  nondiscrimination obligations under Title III of the ADA.  *See* 42 U.S.C. &sect;&sect; 12181-12189 (Title III of the ADA).
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 67 %}
- *See* 28 C.F.R. &sect; 35.130(b)(7); 45 C.F.R. &sect; 84.22(a).   A fundamental alteration can be a change that is so significant  that it alters the essential nature of the public entity&rsquo;s service, program, or  activity.  *Id*.; *cf.* U.S. Dep&rsquo;t of  Justice, ADA Title III Technical Assistance Manual Covering Public  Accommodations and Commercial Facilities &sect; III-4.3600 (discussing a fundamental  alteration as a modification that is so significant it alters the essential  nature of services, privileges, and accommodations).  A fundamental alteration is necessarily  highly fact-specific.  Child welfare  entities have the burden of establishing that a proposed action would  fundamentally alter the service, program, or activity or would result in undue  financial and administrative burdens.  A  public entity still must take any other action that would not result in such an  alteration or such burdens but would nevertheless ensure that, to the maximum  extent possible, individuals with disabilities receive the benefits or services  provided by the public entity.    
-  {% endfnbody %}
+*See* 28 C.F.R. &sect; 35.130(b)(7); 45 C.F.R. &sect; 84.22(a).   A fundamental alteration can be a change that is so significant  that it alters the essential nature of the public entity&rsquo;s service, program, or  activity.  *Id*.; *cf.* U.S. Dep&rsquo;t of  Justice, ADA Title III Technical Assistance Manual Covering Public  Accommodations and Commercial Facilities &sect; III-4.3600 (discussing a fundamental  alteration as a modification that is so significant it alters the essential  nature of services, privileges, and accommodations).  A fundamental alteration is necessarily  highly fact-specific.  Child welfare  entities have the burden of establishing that a proposed action would  fundamentally alter the service, program, or activity or would result in undue  financial and administrative burdens.  A  public entity still must take any other action that would not result in such an  alteration or such burdens but would nevertheless ensure that, to the maximum  extent possible, individuals with disabilities receive the benefits or services  provided by the public entity.
+{% endfnbody %}
 {% fnbody 68 %}
 28 C.F.R. &sect; 35.160; 45  C.F.R. &sect; 84.52(d).
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 69 %}
- 42 U.S.C. &sect; 12103(1); 28  C.F.R. &sect; 35.104.
-  {% endfnbody %}
+42 U.S.C. &sect; 12103(1); 28  C.F.R. &sect; 35.104.
+{% endfnbody %}
 {% fnbody 70 %}
- 28 C.F.R. &sect;  35.160(b)(2).  For further information on  ensuring effective communication, *see* U.S. Dep&rsquo;t of Justice, ADA Requirements: Effective Communication (Jan. 31,  2014), at <a href="http://www.ada.gov/effective-comm.htm">www.ada.gov/effective-comm.htm</a>; *see also *U.S. Dep&rsquo;t of Justice and  U.S. Dep&rsquo;t of Educ., Frequently Asked Questions on Effective Communication for  Students with Hearing, Vision, or Speech Disabilities in Public Elementary and  Secondary Schools (2015), at <a href="http://www.ada.gov/doe_doj_eff_comm/doe_doj_eff_comm_faqs.pdf">www.ada.gov/doe_doj_eff_comm/doe_doj_eff_comm_faqs.pdf</a>.
-  {% endfnbody %}
+28 C.F.R. &sect;  35.160(b)(2).  For further information on  ensuring effective communication, *see* U.S. Dep&rsquo;t of Justice, ADA Requirements: Effective Communication (Jan. 31,  2014), at <a href="http://www.ada.gov/effective-comm.htm">www.ada.gov/effective-comm.htm</a>; *see also *U.S. Dep&rsquo;t of Justice and  U.S. Dep&rsquo;t of Educ., Frequently Asked Questions on Effective Communication for  Students with Hearing, Vision, or Speech Disabilities in Public Elementary and  Secondary Schools (2015), at <a href="http://www.ada.gov/doe_doj_eff_comm/doe_doj_eff_comm_faqs.pdf">www.ada.gov/doe_doj_eff_comm/doe_doj_eff_comm_faqs.pdf</a>.
+{% endfnbody %}
 {% fnbody 71 %}
 28 C.F.R. &sect; 35.160(b)(2).
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 72 %}
 28 C.F.R. &sect;&sect; 35.160(b)(2);  35.164.
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 73 %}
 *See supra *footnote70.
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 74 %}
 28 C.F.R. &sect; 35.160(b)(2).
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 75 %}
 28 C.F.R. &sect; 35.160(c)(1).
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 76 %}
 28 C.F.R. &sect;  35.160(c)(2)(i), (3).
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 77 %}
 28 C.F.R. &sect;  35.160(c)(2)(ii).
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 78 %}
- *See* 28 C.F.R. &sect; 35.130(f).
-  {% endfnbody %}
+*See* 28 C.F.R. &sect; 35.130(f).
+{% endfnbody %}
 {% fnbody 79 %}
- 28 C.F.R. &sect;  35.130(b)(1)(ii); 45 C.F.R. &sect;&sect; 84.4(b)(1)(ii), 84.52(a)(2).
-  {% endfnbody %}
+28 C.F.R. &sect;  35.130(b)(1)(ii); 45 C.F.R. &sect;&sect; 84.4(b)(1)(ii), 84.52(a)(2).
+{% endfnbody %}
 {% fnbody 80 %}
-&ldquo;Family preservation services&rdquo; are services  for children and families to protect children from harm and to help families at  risk or in crisis.  42 U.S.C. &sect;  629a(a)(1); 45 C.F.R. &sect; 1357.10(c).   &ldquo;Family support services&rdquo; are community-based services to promote the  safety and well-being of children and families, to increase the strength and  stability of families in various ways, and to enhance child development.  42 U.S.C. &sect; 629a (a)(2); 45 C.F.R. &sect;  1357.10(c). 
-  {% endfnbody %}
+&ldquo;Family preservation services&rdquo; are services  for children and families to protect children from harm and to help families at  risk or in crisis.  42 U.S.C. &sect;  629a(a)(1); 45 C.F.R. &sect; 1357.10(c).   &ldquo;Family support services&rdquo; are community-based services to promote the  safety and well-being of children and families, to increase the strength and  stability of families in various ways, and to enhance child development.  42 U.S.C. &sect; 629a (a)(2); 45 C.F.R. &sect;  1357.10(c).
+{% endfnbody %}
 {% fnbody 81 %}
-42 U.S.C. &sect; 675(5)(E); 45  C.F.R. &sect; 1356.21(i).  
-  {% endfnbody %}
+42 U.S.C. &sect; 675(5)(E); 45  C.F.R. &sect; 1356.21(i).
+{% endfnbody %}
 {% fnbody 82 %}
-42 U.S.C. &sect; 675(5)(E)(i)-(iii);  45 C.F.R. &sect; 1356.21(i)(2)(i)-(iii).  
-  {% endfnbody %}
+42 U.S.C. &sect; 675(5)(E)(i)-(iii);  45 C.F.R. &sect; 1356.21(i)(2)(i)-(iii).
+{% endfnbody %}
 {% fnbody 83 %}
 42 U.S.C. &sect; 12132; 29  U.S.C. &sect; 794(a); 28 C.F.R. pt. 35 (Title II); 28 C.F.R. pt. 42, subpt. G (DOJ  Section 504 regulation); 45 C.F.R. pt. 84 (HHS Section 504 regulation).
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 84 %}
 *See* 28 C.F.R. pt. 35, App. B; *cf.* *PGA Tour, Inc. v. Martin*, 532 U.S.  661, 690 (2001) (explaining that an individualized inquiry is among the ADA&rsquo;s  most &ldquo;basic requirement[s].&rdquo;).
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 85 %}
- *See* 28 C.F.R. &sect; 35.130(b)(1)(i)-(iv), (b)(7). 
-  {% endfnbody %}
+*See* 28 C.F.R. &sect; 35.130(b)(1)(i)-(iv), (b)(7).
+{% endfnbody %}
 {% fnbody 86 %}
 *See* 28 C.F.R. &sect; 35.130(f).
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 87 %}
 28 C.F.R. &sect;&nbsp;35.139.
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 88 %}
 *See Arline*, 480 U.S. 273.
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 89 %}
 28 C.F.R. &sect; 35.139(b).
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 90 %}
  *Id.*
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 91 %}
 *See* 28 C.F.R. &sect; 35.139.
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 92 %}
 *See* 28 C.F.R. &sect;&sect; 35.170-172; 45 C.F.R. &sect; 84.61; *see also* 28 C.F.R. &sect; 42.530.  In addition, child welfare agencies and  courts that employ 50 or more persons are required to have grievance procedures  for prompt and equitable resolution of complaints alleging actions prohibited  by Title II and Section 504.  28 C.F.R. &sect;  35.107; 45 C.F.R. &sect; 84.6; *see also* 28  C.F.R. &sect; 42.505.
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 93 %}
-28 C.F.R. &sect;&sect; 35.172(c),  35.173; 45 C.F.R. &sect; 84.61; *see also* 28 C.F.R. &sect; 42.530. 
-  {% endfnbody %}
+28 C.F.R. &sect;&sect; 35.172(c),  35.173; 45 C.F.R. &sect; 84.61; *see also* 28 C.F.R. &sect; 42.530.
+{% endfnbody %}
 {% fnbody 94 %}
 28 C.F.R. &sect; 35.174; 45  C.F.R. &sect; 84.61.
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 95 %}
  42 U.S.C. &sect; 12205; 29  U.S.C. &sect; 794a(b); 28 C.F.R. &sect; 35.175.
-  {% endfnbody %}
+{% endfnbody %}
 {% fnbody 96 %}
 *See* 42 U.S.C. &sect; 2000d-1.
-  {% endfnbody %}
-  {% endfootnotes %}
+{% endfnbody %}
+{% endfootnotes %}
 
-  Duplication of this document is encouraged.
+Duplication of this document is encouraged.
