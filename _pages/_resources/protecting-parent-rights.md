@@ -42,7 +42,7 @@ Title II of the ADA  provides that no qualified individual with a disability sha
 
 Section 504 provides  that no qualified individual with a disability shall, by reason of such  disability, be excluded from participation in or be denied the benefits of the  services, programs, or activities of any entity that receives Federal financial  assistance, or be subjected to discrimination by such entity.{% fn 14 %} Federal financial assistance includes grants,  loans, and reimbursements from Federal agencies, including assistance provided  to child welfare agencies and the courts.{% fn 15 %}  An entity can be a recipient of Federal  financial assistance either directly or as a sub-recipient.{% fn 16 %}  Section 504 applies to all of the operations  of agencies and sub-agencies of state and local governments, even if Federal  financial assistance is directed to one component of the agency or for one  purpose of the agency.{% fn 17 %}  Recipients of Federal financial assistance  must agree to comply with Section 504, and generally other civil rights laws, as  a condition of receiving Federal financial assistance.{% fn 18 %}
 
-## Application
+### Application
 
 A child welfare  agency or court may not, directly or through contract or other arrangements,  engage in practices or methods of administration that have the effect of  discriminating on the basis of disability, or that have the purpose or effect  of defeating or substantially impairing accomplishment of the objectives of the  child welfare agency&rsquo;s or court&rsquo;s program for persons with disabilities.{% fn 19 %}  Under these prohibitions, a child welfare  agency could be responsible for the discriminatory actions of a private foster  care or adoption agency with which it contracts when those actions are taken in  fulfillment of the private entity&rsquo;s contractual obligations with the child  welfare agency.  For example, if the  private foster care or adoption agency imposed discriminatory eligibility  requirements for foster or adoptive parents that screened out prospective  parents with HIV, the state child welfare agency would most likely be  responsible for the contractor&rsquo;s practice of discriminating on the basis of  disability.
 
@@ -68,7 +68,7 @@ By applying these  principles consistently in the child welfare system, child we
 Under the ADA and Section 504, programs cannot deny people  with disabilities an opportunity to participate,{% fn 33 %} and must provide people with disabilities with meaningful and equal access to  programs, services, and activities.{% fn 34 %}  Programs and services must be accessible to  and usable by people with disabilities.{% fn 35 %}  In addition, programs must provide people  with disabilities with an equal opportunity to participate in and benefit from  the programs, services and activities of the entity;{% fn 36 %} they  are also prohibited from using methods of program administration, which  includes written rules as well as agency practices, that have a discriminatory  effect on individuals with disabilities.{% fn 37 %}  Moreover, programs must provide reasonable  modifications in policies, practices, and procedures when necessary to avoid discrimination;{% fn 38 %}  and must take appropriate steps to ensure that communications with applicants,  participants, members of the public, and companions with disabilities are as  effective as communications with others through the provision of auxiliary aids  and services.{% fn 39 %}
 {% enddetails %}
 
-## Who is protected by disability nondiscrimination laws?
+### Who is protected by disability nondiscrimination laws?
 
 {% details 2. Who is considered a person with a disability  under Title II of the ADA and Section 504? expandable %}
 **Answer**:  The ADA and Section 504 protect the rights of  individuals with disabilities.{% fn 40 %}  A &ldquo;disability&rdquo; is defined as a physical or  mental impairment that substantially limits a major life activity, such as caring  for oneself, performing manual tasks, breathing, standing, lifting, bending,  speaking, walking, reading, thinking, learning, concentrating, seeing, hearing,  eating, sleeping, or working.{% fn 41 %}  Major life activities also include the  operation of major bodily functions, including but not limited to, functions of  the immune system, normal cell growth, digestive, bowel, or bladder, neurological,  brain, and respiratory, circulatory, endocrine, and reproductive functions.{% fn 42 %}
@@ -89,7 +89,7 @@ Title II and Section 504 also protect &ldquo;companions&rdquo; of  individuals i
 Finally, the ADA and Section 504 protect individuals from any retaliation  or coercion for exercising their right not to experience discrimination on the  basis of disability.  Individuals enjoy  this protection whether or not they have a disability.{% fn 53 %}
 {% enddetails %}
 
-## Who is required to  comply with the disability nondiscrimination laws?
+### Who is required to  comply with the disability nondiscrimination laws?
 
 {% details 4. What types of child welfare programs and activities are covered by  these laws? expandable %}
 
@@ -114,7 +114,7 @@ Like child welfare agencies, courts must also make reasonable  modifications to 
 **Answer**:  Yes.   Title II prohibits discrimination in child welfare programs and services  when those services are provided by contractors.{% fn 64 %}  Section 504 prohibits discrimination in child  welfare programs receiving federal financial assistance, including programs  receiving federal financial assistance operated by private entities under  contract with child welfare agencies.{% fn 65 %}  Accordingly, to the extent that courts and  agencies contract with private agencies and providers to conduct child welfare  activities, the agencies should ensure that in the performance of their  contractual duties contractors comply with the prohibition of discrimination in  Title II and Section 504.{% fn 66 %}
 {% enddetails %}
 
-## What do the disability nondiscrimination laws require of child welfare  agencies and courts?
+### What do the disability nondiscrimination laws require of child welfare  agencies and courts?
 
 {% details 7. What is a reasonable modification? expandable %}
 
@@ -208,7 +208,7 @@ As such, in some cases an individual with a disability may not  be a qualified i
 **Answer**:  We recommend that child welfare agencies and  courts review and update their policies and procedures on a regular basis to  ensure that they comply with the ADA and Section 504.  We recommend that child welfare agencies and  courts also ensure that their employees and contractors are sufficiently  trained in ADA and Section 504 compliance.   In addition, we recommend that they look for ways to coordinate with  disability organizations and agencies to assist in service planning and to  support them in their efforts to ensure equal opportunity for parents and prospective  parents with disabilities.
 {% enddetails %}
 
-## How can aggrieved persons file a  complaint?
+### How can aggrieved persons file a  complaint?
 
 {% details 16. What can individuals do when they believe they  have been subjected to discrimination in violation of Title II or Section 504? expandable %}
   
@@ -293,7 +293,7 @@ National Council on  Disability, Rocking the Cradle: Ensuring the Rights of Pare
 *See*, e.g., 45 C.F.R. &sect; 84.5.
 {% endfnbody %}
 {% fnbody 19 %}
-*See* 28 C.F.R. &sect; 35.130(b)(3); 45 C.F.R.  &sect; 84.4(b)(4);); *see also* 28 C.F.R. &sect;  42.503(b)(3).
+*See* 28 C.F.R. &sect; 35.130(b)(3); 45 C.F.R.  &sect; 84.4(b)(4); *see also* 28 C.F.R. &sect;  42.503(b)(3).
 {% endfnbody %}
 {% fnbody 20 %}
 *See*, e.g., 28 C.F.R. &sect; 35.130(b); *see also* 28 C.F.R. pt. 35, App. B (explaining in the 1991  Section-by-Section guidance to the Title II regulation that, &ldquo;[t]aken together,  the[] provisions [in 28 C.F.R. &sect; 35.130(b)] are intended to prohibit exclusion  . . . of individuals with disabilities and the denial of equal opportunities  enjoyed by others, based on, among other things, presumptions, patronizing  attitudes, fears, and stereotypes about individuals with disabilities.  Consistent with these standards, public  entities are required to ensure that their actions are based on facts  applicable to individuals and not presumptions as to what a class of  individuals with disabilities can or cannot do.&rdquo;); *School Bd. of Nassau County v. Arline*, 480 U.S. 273, 285 (1987).
@@ -308,10 +308,10 @@ National Council on  Disability, Rocking the Cradle: Ensuring the Rights of Pare
 *See*, e.g., 28 C.F.R. &sect; 35.130(b)(1)(ii)-(iv).
 {% endfnbody %}
 {% fnbody 24 %}
-*Id*; *see* also *Alexander v.  Choate*, 469 U.S. 287 (1985). 
+*Id*; *see* also *Alexander v. Choate*, 469 U.S. 287 (1985).
 {% endfnbody %}
 {% fnbody 25 %}
-28 C.F.R. &sect;&sect; 35.149-151, 160-164; 45 C.F.R.  &sect;&sect; 84.21-23, 84.52(d); *see also* 28  C.F.R. &sect;&sect; 42.503(e), (f), 42.520-522. 
+28 C.F.R. &sect;&sect; 35.149-151, 160-164; 45 C.F.R.  &sect;&sect; 84.21-23, 84.52(d); *see also* 28  C.F.R. &sect;&sect; 42.503(e), (f), 42.520-522.
 {% endfnbody %}
 {% fnbody 26 %}
 *See* 45 C.F.R. &sect;&sect; 84.12(a), 84.22(a) and (f), and 84.52(d); and 28 C.F.R. &sect;  35.130(b)(7).
@@ -323,7 +323,7 @@ National Council on  Disability, Rocking the Cradle: Ensuring the Rights of Pare
 28 C.F.R. &sect; 35.139(b); *Arline*, 273 U.S. at 288.
 {% endfnbody %}
 {% fnbody 29 %}
-28 C.F.R. &sect; 35.139(b); *Arline*, 273 U.S. at 288. 
+28 C.F.R. &sect; 35.139(b); *Arline*, 273 U.S. at 288.
 {% endfnbody %}
 {% fnbody 30 %}
 *See* 28 C.F.R. &sect; 35.130(h).
@@ -335,22 +335,22 @@ National Council on  Disability, Rocking the Cradle: Ensuring the Rights of Pare
 29 U.S.C. &sect; 794(a).
 {% endfnbody %}
 {% fnbody 33 %}
-42 U.S.C. &sect; 12132;  29 U.S.C. &sect; 794(a); 28 C.F.R. &sect; 35.130(a); 45 C.F.R. &sect; 84.4(a). 
+42 U.S.C. &sect; 12132;  29 U.S.C. &sect; 794(a); 28 C.F.R. &sect; 35.130(a); 45 C.F.R. &sect; 84.4(a).
 {% endfnbody %}
 {% fnbody 34 %}
-*Choate*,  469 U.S. 287. 
+*Choate*,  469 U.S. 287.
 {% endfnbody %}
 {% fnbody 35 %}
-28 C.F.R. &sect; 35.150(a);  45 C.F.R. &sect; 84.22(a). 
+28 C.F.R. &sect; 35.150(a);  45 C.F.R. &sect; 84.22(a).
 {% endfnbody %}
 {% fnbody 36 %}
-28 C.F.R. &sect; 35.130(b)(1)(ii);  45 C.F.R. &sect; 84.4(b)(1)(ii); 
+28 C.F.R. &sect; 35.130(b)(1)(ii);  45 C.F.R. &sect; 84.4(b)(1)(ii);
 {% endfnbody %}
 {% fnbody 37 %}
-28 C.F.R. &sect; 35.130(b)(3);  45 C.F.R. &sect; 84.4(b)(4). 
+28 C.F.R. &sect; 35.130(b)(3);  45 C.F.R. &sect; 84.4(b)(4).
 {% endfnbody %}
 {% fnbody 38 %}
-28 C.F.R. &sect; 35.130(b)(7); *Choate*, 469 U.S. at 301. 
+28 C.F.R. &sect; 35.130(b)(7); *Choate*, 469 U.S. at 301.
 {% endfnbody %}
 {% fnbody 39 %}
 28 C.F.R.&sect; 35.160(a)(1); *see also *45  C.F.R. &sect; 84.52(d) (requiring health and social services entities to provide  appropriate auxiliary aids to persons with impaired sensory, manual, or  speaking skills, where necessary to afford such persons an equal opportunity to  benefit from the service in question).
@@ -425,7 +425,7 @@ For a discussion of a  &ldquo;qualified individual with a disability,&rdquo; *se
 In addition, advocacy  organizations, such as those within the Protection and Advocacy system, may  provide assistance to individuals with disabilities when they become involved  with the child welfare system.
 {% endfnbody %}
 {% fnbody 63 %}
-*See* 28 C.F.R. &sect; 35.130(b)(7), 35.160-.164;  *see  also* *Choate, *469 U.S. at 300-309.
+*See* 28 C.F.R. &sect; 35.130(b)(7), 35.160-.164;  *see also* *Choate,* 469 U.S. at 300-309.
 {% endfnbody %}
 {% fnbody 64 %}
 *See* 28 C.F.R. &sect;&nbsp;35.130(b)(1), (3).
@@ -446,7 +446,7 @@ Private entities involved  in child welfare activities may also be public accomm
 42 U.S.C. &sect; 12103(1); 28  C.F.R. &sect; 35.104.
 {% endfnbody %}
 {% fnbody 70 %}
-28 C.F.R. &sect;  35.160(b)(2).  For further information on  ensuring effective communication, *see* U.S. Dep&rsquo;t of Justice, ADA Requirements: Effective Communication (Jan. 31,  2014), at <a href="http://www.ada.gov/effective-comm.htm">www.ada.gov/effective-comm.htm</a>; *see also *U.S. Dep&rsquo;t of Justice and  U.S. Dep&rsquo;t of Educ., Frequently Asked Questions on Effective Communication for  Students with Hearing, Vision, or Speech Disabilities in Public Elementary and  Secondary Schools (2015), at <a href="http://www.ada.gov/doe_doj_eff_comm/doe_doj_eff_comm_faqs.pdf">www.ada.gov/doe_doj_eff_comm/doe_doj_eff_comm_faqs.pdf</a>.
+28 C.F.R. &sect;  35.160(b)(2).  For further information on  ensuring effective communication, *see* U.S. Dep&rsquo;t of Justice, [ADA Requirements: Effective Communication]({{'resources/effective-communication/' | relative_url}}) (Jan. 31,  2014),; *see also *U.S. Dep&rsquo;t of Justice and  U.S. Dep&rsquo;t of Educ., Frequently Asked Questions on Effective Communication for  Students with Hearing, Vision, or Speech Disabilities in Public Elementary and  Secondary Schools (2015), at <a href="http://www.ada.gov/doe_doj_eff_comm/doe_doj_eff_comm_faqs.pdf">www.ada.gov/doe_doj_eff_comm/doe_doj_eff_comm_faqs.pdf</a>.
 {% endfnbody %}
 {% fnbody 71 %}
 28 C.F.R. &sect; 35.160(b)(2).
@@ -455,7 +455,7 @@ Private entities involved  in child welfare activities may also be public accomm
 28 C.F.R. &sect;&sect; 35.160(b)(2);  35.164.
 {% endfnbody %}
 {% fnbody 73 %}
-*See supra *footnote70.
+*See supra* footnote 70.
 {% endfnbody %}
 {% fnbody 74 %}
 28 C.F.R. &sect; 35.160(b)(2).
