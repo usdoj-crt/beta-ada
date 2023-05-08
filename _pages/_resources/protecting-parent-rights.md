@@ -233,9 +233,9 @@ General information about civil rights and child welfare issues can be found at 
 
 For information about ACF's Children Bureau, please visit [http://www.acf.hhs.gov/programs/cb](http://www.acf.hhs.gov/programs/cb).
   
-For ACF and OCR regional offices, please visit:
-- [http://www.acf.hhs.gov/programs/oro](http://www.acf.hhs.gov/programs/oro)
-- [http://www.hhs.gov/ocr/office/about/rgn-hqaddresses.html](http://www.hhs.gov/ocr/office/about/rgn-hqaddresses.html)
+For ACF and OCR regional offices, please visit [http://www.acf.hhs.gov/programs/oro](http://www.acf.hhs.gov/programs/oro) and [http://www.hhs.gov/ocr/office/about/rgn-hqaddresses.html](http://www.hhs.gov/ocr/office/about/rgn-hqaddresses.html)
+
+<hr>
 
 {% footnotes %}
 {% fnbody 1 %}
@@ -353,7 +353,7 @@ National Council on  Disability, Rocking the Cradle: Ensuring the Rights of Pare
 28 C.F.R. &sect; 35.130(b)(7); *Choate*, 469 U.S. at 301.
 {% endfnbody %}
 {% fnbody 39 %}
-28 C.F.R.&sect; 35.160(a)(1); *see also *45  C.F.R. &sect; 84.52(d) (requiring health and social services entities to provide  appropriate auxiliary aids to persons with impaired sensory, manual, or  speaking skills, where necessary to afford such persons an equal opportunity to  benefit from the service in question).
+28 C.F.R.&sect; 35.160(a)(1); *see also* 45 C.F.R. &sect; 84.52(d) (requiring health and social services entities to provide  appropriate auxiliary aids to persons with impaired sensory, manual, or  speaking skills, where necessary to afford such persons an equal opportunity to  benefit from the service in question).
 {% endfnbody %}
 {% fnbody 40 %}
 42 U.S.C. &sect; 12132; 29  U.S.C. &sect; 794(a).
@@ -529,3 +529,8 @@ Private entities involved  in child welfare activities may also be public accomm
 {% endfootnotes %}
 
 Duplication of this document is encouraged.
+
+<hr>
+The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
+
+This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
