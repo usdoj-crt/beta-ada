@@ -5,7 +5,7 @@ import formatPublishDates from './formatPublishDates';
 
 function makeTemplate(data) {
   const { previewLink, title, leadText, body, publishDate, updatedDate, print, pdf, relatedContent } = data;
-  const pageTemplate = (
+  return (
     <div
       id="crt-page--content"
       className="mobile-lg:grid-col tablet:grid-col-12 desktop:grid-col-8"
@@ -62,7 +62,6 @@ function makeTemplate(data) {
       </div>
     </div>
   );
-  return pageTemplate;
 };
 
 export default makeTemplate;

@@ -1,11 +1,16 @@
 import generatePageData from './generatePageData';
 import makeTemplate from './makeTemplate';
+import makeError from './makeError';
 import loadSiteData from './loadSiteData';
 
 const preview = createClass({
   render: function () {
-    const pageData = generatePageData(this.props.entry);
-    return makeTemplate(pageData);
+    try {
+      const pageData = generatePageData(this.props.entry);
+      return makeTemplate(pageData);
+    } catch (error) {
+      return makeError(error);
+    }
   },
   });
 
