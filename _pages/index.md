@@ -84,11 +84,11 @@ learn:
           title: A Guide to Disability Rights Laws
           link: resources/disability-rights-guide
         - ex2:
+          title: Algorithms, Artificial Intelligence, and Disability Discrimination in Hiring
+          link:  resources/ai-guidance
+        - ex3:
           title: ADA Requirements - Effective Communication
           link: resources/effective-communication
-        - ex3:
-          title: Frequently Asked Questions about Service Animals
-          link: resources/service-animals-faqs
     - heading: Laws & Regulations
       content: |-
         Find legal documents that are enforceable under the ADA in a court of law.
