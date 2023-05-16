@@ -81,21 +81,23 @@ function buildEngine(globals, imageData) {
             let idx = context._collapsedIDX;
             const collapsedID = `${accordionID}-${idx}`;
             context._collapsedIDX += 1;
-            const content = this.tpls[0].str.split('</h2>');
-            const heading = content[0].split('<h2>')[1].replace('<h2>', '').replace('</h2>', '');
-            emitter.write(`<h2 class="usa-accordion__heading"">
+            const htag = this.tpls[0].str.includes('<h2>') ? 'h2' : 'h3';
+            const content = this.tpls[0].str.split('</' + htag + '>');
+            const heading = content[0].split('<' + htag + '>')[1]?.replace('<' + htag + '>', '')?.replace('</' + htag + '>', '');
+            emitter.write(`<h3 class="usa-accordion__heading"">
                  <button class="usa-accordion__button pa11y-skip"
                    aria-expanded="true"
                    aria-controls="${collapsedID}">
                    ${heading}
                  </button>
-               </h2>
+               </h3>
                <div id="${collapsedID}" class="usa-accordion__content usa-prose">`);
             yield this.liquid.renderer.renderTemplates(this.tpls, context, emitter);
             emitter.write('</div>');
             break;
           case 'details':
-            const detailTitle = yield renderedValue;
+            const detailTitleArr = renderedValue.split('expandable');
+            const detailTitle = yield detailTitleArr[0];
             emitter.write(
               `<details data-detail-open='false'><summary><div><span class='pa11y-skip'>${detailTitle}</span></div></summary><div><p>`
             );
@@ -109,7 +111,7 @@ function buildEngine(globals, imageData) {
             break;
           case 'figure':
             const figTitle = renderedValue;
-            const figId = title.toLowerCase().trim().replaceAll(/\s/g, '');
+            const figId = figTitle.toLowerCase().trim().replaceAll(/\s/g, '');
             emitter.write(`<figure id=${figId}>
                  <strong>${figTitle}</strong><br/>`);
             yield this.liquid.renderer.renderTemplates(this.tpls, context, emitter);
