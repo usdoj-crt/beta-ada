@@ -84,13 +84,13 @@ function buildEngine(globals, imageData) {
             const htag = this.tpls[0].str.includes('<h2>') ? 'h2' : 'h3';
             const content = this.tpls[0].str.split('</' + htag + '>');
             const heading = content[0].split('<' + htag + '>')[1]?.replace('<' + htag + '>', '')?.replace('</' + htag + '>', '');
-            emitter.write(`<h3 class="usa-accordion__heading"">
+            emitter.write(`<h2 class="usa-accordion__heading"">
                  <button class="usa-accordion__button pa11y-skip"
                    aria-expanded="true"
                    aria-controls="${collapsedID}">
                    ${heading}
                  </button>
-               </h3>
+               </h2>
                <div id="${collapsedID}" class="usa-accordion__content usa-prose">`);
             yield this.liquid.renderer.renderTemplates(this.tpls, context, emitter);
             emitter.write('</div>');
