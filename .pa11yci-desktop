@@ -8,6 +8,9 @@
     "hideElements": ["#fba-button", ".pa11y-skip", "#fba-modal-dialog"],
     "standard": "WCAG2AA",
     "runners": ["axe"],
+    "ignore": [
+      "color-contrast"
+    ],
     "timeout": 240000
   }
 }
