@@ -70,6 +70,9 @@ layout: default
           {{page.lead | markdownify}}
         </div>
         {% endif %}
+        {% unless page.hide_page_type_info %}
+        {% include page-type-info-box.html %}
+        {% endunless %}
         {{ content }}
         {% if page.publish-date and page.updated-date %}
         <p class="text-thin font-sans-3xs">
