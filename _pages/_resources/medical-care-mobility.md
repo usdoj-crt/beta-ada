@@ -11,6 +11,7 @@ print: true
 related-content: true
 tags:
   - medical care
+  - health care
 redirect_from:
   - /medcare_mobility_ta/medcare_ta.htm
   - /medcare_ta.htm
@@ -301,9 +302,9 @@ Finally, training staff to properly assist with transfers and lifts, and to use 
 
 <hr>
 
-For more information about the ADA, please visit [ADA.gov](https://www.ada.gov) or call our toll-free number.
+For more information about the ADA, please visit [ADA.gov]({{'/index' | relative_url}}) or call our toll-free number.
 
-[ADA Information Line]( {{'/infoline'| relative_url}})
+[ADA Information Line]({{'/infoline' | relative_url}})
 {{site.contact.tollfree}} (Voice) and {{site.contact.tty}} (TTY)
 M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.
 

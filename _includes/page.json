@@ -1,0 +1,24 @@
+{% assign ignored_fields = "date, excerpt, content, next, previous, output" | split: ", " %}
+
+{
+  {% for entry in page %}
+
+  {% if entry[0] %}
+    {% assign field = entry[0] %}
+    {% assign value = entry[1] %}
+  {% else %}
+    {% assign field = entry %}
+    {% assign value = page[entry] %}
+  {% endif %}
+
+  {% unless ignored_fields contains field }} %}
+  {% if field %}
+    {{ field | jsonify }}: {{ value | jsonify }},
+  {% endif %}
+  {% endunless %}
+
+  {% endfor %}
+
+  "date": "{{ page.date | date_to_xmlschema }}",
+  "content": "Empty content for Netlify"
+}

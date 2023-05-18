@@ -1,14 +1,17 @@
 ---
 layout: null
 ---
+
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="{% asset 'favicon.png' @path %}" />
     <title>ADA Content Manager</title>
   </head>
   <body>
+    {% site_json %}
     <!-- Include the script that builds the page and powers Netlify CMS -->
     <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
     <script
@@ -19,7 +22,7 @@ layout: null
     ></script>
     {% asset dist/netlifyPreview-compiled.js %}
     <script>
-      CMS.registerPreviewStyle('{% asset styles.css @path %}')
+      CMS.registerPreviewStyle('{% asset styles.css @path %}');
     </script>
     <link href="/admin/config.yml" type="text/yaml" rel="cms-config-url" />
     <style>
@@ -27,12 +30,22 @@ layout: null
         margin-left: 75px;
         width: 150px;
       }
-      p {
-        color: red;
-      }
       button {
         margin-top: 0px !important;
       }
+      .css-g42qkj-ToolbarSubSectionFirst .css-16pehfe-StyledDropdownButton-button-default-caret-caretDown-DropdownButton-noOverflow-PublishedToolbarButton-publishedButton  {
+        color: #117888;
+      }
+      .css-g42qkj-ToolbarSubSectionFirst .css-1ixjrmh-ToolbarButton-button-default-buttonMargin-noOverflow-DeleteButton-lightRed {
+        color: #D60032;
+      }
+      .css-1prcas7-ControlPaneContainer .css-pcief1-FieldLabel-fieldLabel {
+        color: #5D626F;
+      }
+      .css-pp9jk1-DropdownList-dropdownList-DropdownList .css-1hu7ve8-button-dropdownItem-StyledMenuItem {
+        color: #6C7584;
+      }
     </style>
+
   </body>
 </html>

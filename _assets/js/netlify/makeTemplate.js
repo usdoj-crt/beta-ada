@@ -3,13 +3,18 @@ import formatPublishDates from './formatPublishDates';
 
 /** @jsx h */
 
-const makeTemplate = (data) => {
-  const { title, leadText, body, publishDate, updatedDate, print, pdf, relatedContent } = data;
-  const pageTemplate = (
+function makeTemplate(data) {
+  const { previewLink, title, leadText, body, publishDate, updatedDate, print, pdf, relatedContent } = data;
+  return (
     <div
       id="crt-page--content"
       className="mobile-lg:grid-col tablet:grid-col-12 desktop:grid-col-8"
     >
+      <div className="width-full padding-bottom-2 padding-top-2 border-bottom">
+        {previewLink ? (
+          <a href={previewLink} target="_blank" className="margin-top-4 text-bold line-height-mono-6">Page preview link</a>
+        ) : <p>No preview link available. Save changes to entry to generate preview.</p>}
+      </div>
       <h1>{title}</h1>
       <div className="measure-6">
         <div className="crt-lead">
@@ -57,7 +62,6 @@ const makeTemplate = (data) => {
       </div>
     </div>
   );
-  return pageTemplate;
 };
 
 export default makeTemplate;

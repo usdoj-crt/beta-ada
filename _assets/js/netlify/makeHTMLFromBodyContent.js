@@ -1,11 +1,16 @@
+import renderWidgets from "./renderMdWidgets";
 const md = window.markdownit();
 md.options['html'] = true;
 md.options['linkify'] = true;
 const parser = new DOMParser();
-function makeHTMLFromBodyContent(bodyContent) {
+function makeHTMLFromBodyContent(bodyContent, variables, imageData) {
+  // Replace any <hr> tags with markdown so they render outside of the nearest <p> tag
+  const content = bodyContent ? bodyContent.replaceAll(/<hr>/g, "***") : '';
   // The DOMParser returns a full HTML document, so grabbing the first child element actually grabs the <html> element because it is the first element under <!doctype>
   // the second child element of the <html> is the <body> element. We aren't starting at the <html> element but rather the <!doctype> tag.
-  const html = parser.parseFromString(md.render(bodyContent), 'text/html');
+  const interimHTML = md.render(content);
+  const renderedHTML = renderWidgets(interimHTML, variables, imageData);
+  const html = parser.parseFromString(renderedHTML, 'text/html');
   const elementsArray = Array.from(html.children[0].children[1].childNodes);
   return elementsArray;
 };

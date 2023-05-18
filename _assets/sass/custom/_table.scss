@@ -4,4 +4,8 @@
 
 table {
     @extend .usa-table;
+
+    caption {
+      background-color: white;
+    }
   }
