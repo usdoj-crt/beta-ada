@@ -7,6 +7,7 @@ lead: |-
   implementing the Americans with Disabilities Act (ADA) for title II (State and local government services) and title III (public accommodations and commercial facilities) on September 15, 2010, in the Federal Register. These requirements, or rules, contain updated requirements, including the 2010 Standards for Accessible Design (2010 Standards).
 lang: "en"
 related-content: true
+print: true
 publish-date: 2011-07-01 00:00:00
 updated-date: 2020-02-28 00:00:00
 tags:
