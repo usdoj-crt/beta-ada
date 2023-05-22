@@ -245,7 +245,7 @@ ADA information is also available on the Department’s [ADA Home Page]({{'/inde
 
 ### Other Documents Available from the Department of Justice
 
-- [Five Steps to Make New Lodging Facilities Comply With the ADA](https://archive.ada.gov/fivestep.htm) 
+- [Five Steps to Make New Lodging Facilities Comply With the ADA](https://archive.ada.gov/fivestep.htm)
 - [Title III regulation]({{'/law-and-regs/title-ii-2010-regulations' | relative_url}})
 - [2010 ADA Standards for Accessible Design]({{'/law-and-regs/design-standards/2010-stds' | relative_url}})
 - [Title III Technical Assistance Manual and Supplement]({{'/resources/title-iii-manual' | relative_url}})
