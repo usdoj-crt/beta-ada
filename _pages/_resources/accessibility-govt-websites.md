@@ -75,10 +75,10 @@ A more comprehensive resource is the **Web Content Accessibility Guidelines** de
 
 - **Establish a policy that your web pages will be accessible** and create a process for implementation.
 - **Ensure that all new and modified web pages and content are accessible:**
-    - Check the HTML{% fn 1 %} of all new web pages. Make sure that accessible elements are used, including alt tags, long descriptions, and captions, as needed.
-    - If images are used, including photos, graphics, scanned images, or image maps, make sure to include alt tags and/or long descriptions for each.
-    - If you use online forms and tables, make those elements accessible.
-    - When posting documents on the website, always provide them in HTML or a text-based format (even if you are also providing them in another format, such as Portable Document Format (PDF)).
+  - Check the HTML{% fn 1 %} of all new web pages. Make sure that accessible elements are used, including alt tags, long descriptions, and captions, as needed.
+  - If images are used, including photos, graphics, scanned images, or image maps, make sure to include alt tags and/or long descriptions for each.
+  - If you use online forms and tables, make those elements accessible.
+  - When posting documents on the website, always provide them in HTML or a text-based format (even if you are also providing them in another format, such as Portable Document Format (PDF)).
 
 - **Develop a plan for making your existing web content more accessible.** Describe your plan on an accessible web page. Encourage input on improvements,
 including which pages should be given high priority for change. Let citizens know about the standards or guidelines that are being used. Consider making the more popular web pages a priority.
@@ -115,7 +115,7 @@ Notes:<br>
 For technical assistance regarding Section 508 Standards and how to make web pages accessible to people with disabilities, please contact the Access Board:
 
 >800-872-2253 (voice)
-
+>
 >800-993-2822 (TTY)
 
 ### Information about the ADA
@@ -127,7 +127,7 @@ In addition, the Department of Justice operates a toll-free ADA Information Line
 ### ADA Information Line
 
 >800-514-0301 (voice)
-
+>
 >833-610-1264 (TTY)
 <hr>
 {% footnotes %}
