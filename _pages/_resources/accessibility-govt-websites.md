@@ -13,7 +13,7 @@ tags:
   - web access
   - technology
 redirect_from:
-  - /childqanda.htm
+  - /websites2.htm
 ---
 Taking advantage of new technology, many State and local governments are using the web to offer citizens a host of services including:
 
