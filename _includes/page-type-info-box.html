@@ -1,0 +1,64 @@
+{% if page.permalink contains '/topics/' %}
+  {% assign pageType = 'topics' %}
+{% elsif page.permalink contains '/resources/' %}
+  {% assign pageType = 'resources' %}
+{% elsif page.permalink contains '/law-and-regs/' %}
+  {% assign pageType = 'law-and-regs' %}
+{% endif %}
+
+{% if page.tags %}
+  {% assign filters = page.tags | join: ";" | replace: " ", "-" | prepend: "?filters=" %}
+{% else %}
+  {% assign filters = "" %}
+{% endif %}
+
+{% if pageType %}
+
+<div
+  class="icon-box usa-summary-box border-0 padding-2 bg-primary-lighter"
+  role="region"
+  aria-labelledby="page-type-info-box-header"
+>
+  <div class="content-column">
+    <h3 class="usa-summary-box__heading" id="page-type-info-box-header">
+      {% case pageType %}
+        {% when 'topics' %}
+          {% include svg/library.html %}
+          <span>Featured Topic</span>
+        {% when 'resources' %}
+          {% include svg/folder.html %}
+          <span>Guidance & Resources</span>
+        {% when 'law-and-regs' %}
+          {% include svg/gavel.html %}
+          <span>Laws, Regulations, & Standards</span>
+      {% endcase %}
+    </h3>
+
+    <div class="usa-summary-box__text">
+      <div class="margin-1">
+        {% case pageType %}
+          {% when 'topics' %}
+            <p>Read this to get a basic understanding of this topic.</p>
+          {% when 'resources' %}
+            <p>Read this to get specific guidance about this topic.</p>
+          {% when 'law-and-regs' %}
+            <p>Read this document to understand your legal rights or responsibilities under the ADA.</p>
+        {% endcase %}
+
+        <ul class="no-bullets">
+          {% unless pageType == 'topics' %}
+          <li>For a beginner-level introduction to a topic, view <a class="usa-summary-box__link" href="/topics">Featured Topics</a></li>
+          {% endunless %}
+          {% unless pageType == 'resources' %}
+          <li>For more detailed information on a topic, view <a class="usa-summary-box__link" href="/resources{{ filters }}">Guidance & Resource materials</a></li>
+          {% endunless %}
+          {% unless pageType == 'law-and-regs' %}
+          <li>For information about the legal requirements, visit <a class="usa-summary-box__link" href="/law-and-regs">Laws, Regulations & Standards</a></li>
+          {% endunless %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endif %}
