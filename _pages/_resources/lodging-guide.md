@@ -56,7 +56,7 @@ Many people who are blind or who have low vision wear very thick glasses or very
 
 ## Arriving At the Hotel
 
-**Shuttle Buses.** If you provide shuttle bus services, those services are subject to the ADA. Your shuttle bus drivers should be trained to offer assistance to people who are blind or who have low vision. Staff should inform guests who are blind or who have low vision of the presence of the shuttle bus. Drivers should announce all stops to riders who are blind or who have low vision. Service animals such as guide dogs should be permitted to accompany their handlers. For other requirements applicable to shuttle buses, please contact the Department of Transportation at 1-888-446-4511 (voice; TTY users should use relay service) or review their information [online](https://www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/americans-disabilities-act)
+**Shuttle Buses.** If you provide shuttle bus services, those services are subject to the ADA. Your shuttle bus drivers should be trained to offer assistance to people who are blind or who have low vision. Staff should inform guests who are blind or who have low vision of the presence of the shuttle bus. Drivers should announce all stops to riders who are blind or who have low vision. Service animals such as guide dogs should be permitted to accompany their handlers. For other requirements applicable to shuttle buses, please contact the Department of Transportation at 1-888-446-4511 (voice; TTY users should use relay service) or review their information [online](https://www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/americans-disabilities-act).
 
 **Wayfinding.** Staff who assist guests at the front door should offer assistance to guests who are blind or who have low vision in finding the Registration Desk or other hotel facilities.
 
@@ -101,7 +101,7 @@ You must allow people with disabilities to go wherever guests are generally allo
 <table class="usa-table">
   <thead>
     <tr>
-      <th scope="col">Compliance Date for New Construction or Alterations</th>
+      <th scope="col">Compliance Date for New Construction and Alterations</th>
 <th scope="col">Applicable Standards</th>
 </tr>
 </thead>
@@ -241,7 +241,7 @@ The ADA Information Line is available during weekdays to provide technical assis
 >
 >833-610-1264 (TTY)
 
-ADA information is also available on the Department’s [ADA Home Page]({{'/index' | relative_url}}).
+ADA information is also available on the Department’s [ADA Home Page]({{'/index/' | relative_url}}).
 
 ### Other Documents Available from the Department of Justice
 
