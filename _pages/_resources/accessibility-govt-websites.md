@@ -62,14 +62,14 @@ To make web pages accessible, the web developer needs to know about web page fea
 
 Two important resources provide guidance for web developers designing accessible web pages. One is the **Section 508 Standards**, which Federal agencies must follow for their own new web pages. To learn more about the Section 508 Standards:
 
-- The Access Board maintains information on its website at [www.access-board.gov](https://www.access-board.gov) and has a useful guide for web developers at [www.access-board.gov/sec508/guide/1194.22.htm](https://www.access-board.gov/sec508/guide/1194.22.htm);
-- The Department of Justice has information about accessible web page design in an April 2000 report to the President. This report is available at [www.usdoj.gov/crt/508/report/content.htm](https://www.usdoj.gov/crt/508/report/content.htm), and
-- The General Services Administration hosts an online course for web developers interested in accessible web design. This program was developed in conjunction with the Access Board, the Department of Justice, and the Department of Education and provides an interactive demonstration of how to build accessible web pages. This course is available at [www.section508.gov](https://www.section508.gov), which also provides information about the Federal government’s initiative to make its electronic and information technology accessible to people with disabilities.
+- The Access Board maintains information on its website at [https://www.access-board.gov](https://www.access-board.gov) and has a useful guide for web developers at [https://ictbaseline.access-board.gov/](https://ictbaseline.access-board.gov/);
+- The Department of Justice has information about accessible web page design in an April 2000 report to the President. This report is available at [https://www.justice.gov/crt/section-508-home-page-0](https://www.justice.gov/crt/section-508-home-page-0), and
+- The General Services Administration hosts an online course for web developers interested in accessible web design. This program was developed in conjunction with the Access Board, the Department of Justice, and the Department of Education and provides an interactive demonstration of how to build accessible web pages. This course is available at [https://www.section508.gov](https://www.section508.gov), which also provides information about the Federal government’s initiative to make its electronic and information technology accessible to people with disabilities.
 
 A more comprehensive resource is the **Web Content Accessibility Guidelines** developed by the Web Accessibility Initiative. These guidelines help designers make web pages as accessible as possible to the widest range of users, including users with disabilities. The Web Accessibility Initiative is a subgroup of the World Wide Web Consortium — the same organization that standardizes the programming language followed by all web developers.
 
-- Information for web developers interested in making their web pages as accessible as possible, including the current version of the **Web Content Accessibility Guidelines** (and associated checklists), can be found at [www.w3c.org/WAI/Resources](https://www.w3c.org/WAI/Resources), and
-- Information about the Web Accessibility Initiative can be found at [www.w3c.org/WAI](https://www.w3c.org/WAI).
+- Information for web developers interested in making their web pages as accessible as possible, including the current version of the **Web Content Accessibility Guidelines** (and associated checklists), can be found at [https://www.w3.org/WAI/resources/](https://www.w3.org/WAI/resources/), and
+- Information about the Web Accessibility Initiative can be found at [https://www.w3.org/WAI/](https://www.w3.org/WAI/).
 
 ## Voluntary Action Plan for Accessible Websites
 
