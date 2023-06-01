@@ -1,20 +1,25 @@
 ---
-title: "ADA Guide for Places of Lodging:  Serving Guests Who Are Blind or Who Have Low Vision"
-description: "A publication explaining what hotels, motels, and other places of transient lodging can do to accommodate guests who are blind or have low vision."
+title: "ADA Guide for Places of Lodging:  Serving Guests Who Are Blind or Who
+  Have Low Vision"
+description: A publication explaining what hotels, motels, and other places of
+  transient lodging can do to accommodate guests who are blind or have low
+  vision.
+lead: The Americans with Disabilities Act (ADA) requires places of public
+  accommodation, including hotels, motels, and other places of transient
+  lodging, to ensure that everyone regardless of disability has an equal
+  opportunity to enjoy their services and facilities.
 permalink: /resources/lodging-guide/
-lead: |-
-    The Americans with Disabilities Act (ADA) requires places of public accommodation, including hotels, motels, and other places of transient lodging, to ensure that everyone regardless of disability has an equal opportunity to enjoy their services and facilities.
-lang: "en"
+redirect_from:
+  - /lodblind.htm
+lang: en
+print: true
 publish-date: 2001-01-01 00:00:00
 updated-date: 2020-02-24 00:00:00
-print: true
 related-content: true
 tags:
   - business
   - physical accessibility
   - effective communication
-redirect_from:
-  - /lodblind.htm
 ---
 Your establishment is covered by the ADA as a place of public accommodation if it is a private entity and is a place of lodging (including inns, hotels, and motels), regardless of whether it is a for-profit or non-profit establishment. The ADA does not cover owner-occupied establishments renting five or fewer rooms.
 
@@ -22,11 +27,11 @@ Your establishment is covered by the ADA as a place of public accommodation if i
 
 Places of lodging, like other places of public accommodation, must provide their services to the public in a way that gives people who are blind or who have low vision a full and equal opportunity to enjoy the services that are provided to others. You must, for instance:
 
-- Follow accessibility standards when constructing or altering facilities;
-- Remove architectural or structural communication barriers in existing facilities where it is readily achievable to do so;
-- Make reasonable modifications in policies and procedures (e.g., allow a person to be accompanied by a service animal, even if a hotel has a ‘no pets’ policy);
-- Eliminate discriminatory eligibility criteria (e.g., allow a guest to use alternative state ID to substitute for driver’s license at check-in); and
-- Provide auxiliary aids and services leading to effective communication if it is not an undue burden and does not fundamentally alter the nature of the goods or services provided (e.g., provide alternate format materials such as Braille, large print, and audio recordings when a guest cannot read standard print materials due to a disability).
+* Follow accessibility standards when constructing or altering facilities;
+* Remove architectural or structural communication barriers in existing facilities where it is readily achievable to do so;
+* Make reasonable modifications in policies and procedures (e.g., allow a person to be accompanied by a service animal, even if a hotel has a ‘no pets’ policy);
+* Eliminate discriminatory eligibility criteria (e.g., allow a guest to use alternative state ID to substitute for driver’s license at check-in); and
+* Provide auxiliary aids and services leading to effective communication if it is not an undue burden and does not fundamentally alter the nature of the goods or services provided (e.g., provide alternate format materials such as Braille, large print, and audio recordings when a guest cannot read standard print materials due to a disability).
 
 This publication is designed to help you and your staff to understand these obligations.
 
@@ -34,17 +39,17 @@ The ADA gives businesses a certain degree of flexibility in meeting these obliga
 
 To make sure your hotel and the services you offer do not discriminate against people who are blind or who have low vision, it is helpful to think about how guests use your hotel:
 
->How do guests arrive at your hotel and what do they do once they get there?
+> How do guests arrive at your hotel and what do they do once they get there?
 >
->How do guests check-in and check-out?
+> How do guests check-in and check-out?
 >
->How do they move about your facilities?
+> How do they move about your facilities?
 >
->How are the rooms set up?
+> How are the rooms set up?
 >
->What in-room guest services are provided?
+> What in-room guest services are provided?
 >
->What other amenities are available?
+> What other amenities are available?
 
 ## People Who Are Blind or Who Have Low Vision
 
@@ -127,41 +132,41 @@ Both the 1991 and 2010 ADA Standards, as well as the Department of Justice's tit
 
 Interior and exterior signs that identify permanent rooms and spaces—including, but not necessarily limited to those identifying rest rooms or room numbers—must comply with 2010 Standards to include the requirements for:
 
-- Raised characters and Braille (§§ 703.2, 703.3);
-- Installation height and location (§ 703.4);
-- Contrast between the characters and background (§ 703.5);
-- Non-glare finish (§ 703.5); and
-- Pictograms, where provided, with text descriptors (§ 703.6).
+* Raised characters and Braille (§§ 703.2, 703.3);
+* Installation height and location (§ 703.4);
+* Contrast between the characters and background (§ 703.5);
+* Non-glare finish (§ 703.5); and
+* Pictograms, where provided, with text descriptors (§ 703.6).
 
 Signs that provide direction to, or information about, interior spaces and facilities of the site must comply with 2010 Standards §§ 216.3 and 703.5, to include the requirements for:
 
-- Character proportion (§ 703.5.4);
-- Character height (§ 703.5.5);
-- Non-glare finish and contrast between the characters and background (§ 703.5.1);
-- Case and style (§§ 703.5.2, 703.5.3);
-- Height above finish floor or ground (§ 703.5.6);
-- Stroke Thickness (§ 703.5.7);
-- Character Spacing (§ 703.5.8); and
-- Line Spacing (§ 703.5.9).
+* Character proportion (§ 703.5.4);
+* Character height (§ 703.5.5);
+* Non-glare finish and contrast between the characters and background (§ 703.5.1);
+* Case and style (§§ 703.5.2, 703.5.3);
+* Height above finish floor or ground (§ 703.5.6);
+* Stroke Thickness (§ 703.5.7);
+* Character Spacing (§ 703.5.8); and
+* Line Spacing (§ 703.5.9).
 
 Signs for means of egress must comply with 2010 Standards §§ 216.4 and 703, to include the requirements for:
 
-- Exit Doors (§§ 703.1, 703.2, 703.5);
-- Areas of Refuge, where required to provide instructions in areas of refuge (§ 703.5); and
-- Directional Signs, where required to provide directions to accessible means of egress (§ 703.5);
+* Exit Doors (§§ 703.1, 703.2, 703.5);
+* Areas of Refuge, where required to provide instructions in areas of refuge (§ 703.5); and
+* Directional Signs, where required to provide directions to accessible means of egress (§ 703.5);
 
 **Elevators.** In newly constructed or altered facilities, elevators must comply with 2010 Standards §§ 206.6 and 407, to include the requirements for:
 
-- Call control button size, mounting height, location, and visible signals (§ 407.2.1);
-- Hall visible signals, size, mounting height, and indicating car's direction of travel, and audible signals (§ 407.2.2);
-- Raised and Braille character floor designations on elevator hoistway entrances (door jambs), including mounting location, size, and tactile star (§ 407.2.3);
-- Door reopening devices (§ 407.3.3);
-- Door and signal timing for calls (§ 407.3.4);
-- Door delay for car calls (§ 407.3.5);
-- Illumination levels (§ 407.4.5);
-- Elevator car control size and arrangement, mounting height and location, tactile characters, Braille designations, tactile symbols, and visible indicators (§§ 407.4.6, 407.4.7);
-- Car position visible and audible indicators (§ 407.4.8); and
-- Emergency communication (§ 407.4.9).
+* Call control button size, mounting height, location, and visible signals (§ 407.2.1);
+* Hall visible signals, size, mounting height, and indicating car's direction of travel, and audible signals (§ 407.2.2);
+* Raised and Braille character floor designations on elevator hoistway entrances (door jambs), including mounting location, size, and tactile star (§ 407.2.3);
+* Door reopening devices (§ 407.3.3);
+* Door and signal timing for calls (§ 407.3.4);
+* Door delay for car calls (§ 407.3.5);
+* Illumination levels (§ 407.4.5);
+* Elevator car control size and arrangement, mounting height and location, tactile characters, Braille designations, tactile symbols, and visible indicators (§§ 407.4.6, 407.4.7);
+* Car position visible and audible indicators (§ 407.4.8); and
+* Emergency communication (§ 407.4.9).
 
 ## Guest Rooms and In-Room Guest Services
 
@@ -175,13 +180,13 @@ It is also helpful to inform the guest as to the location of ice and soda dispen
 
 **Instructions for Use.** During check-in, hotels should inform guests who are blind or who have low vision that the hotel will provide, free of charge, large print, Braille, and recorded instructions for all services for which print instructions are provided for guests. Some of the more common instructions include:
 
-- Telephone – including dialing instructions, local and long distance charges, and a list of the in-house numbers for room service, wake-up calls, etc.;
-- Room service menus, hours of operation, and telephone number;
-- Television – including a list of available channels, instructions and charges for ordering in-house movies, etc.;
-- Thermostat – including any automatic features, location of ‘on’ and ‘off’ switches, etc.;
-- Laundry, valet, and water-conservation policies;
-- Security instructions;
-- Check-out policy.
+* Telephone – including dialing instructions, local and long distance charges, and a list of the in-house numbers for room service, wake-up calls, etc.;
+* Room service menus, hours of operation, and telephone number;
+* Television – including a list of available channels, instructions and charges for ordering in-house movies, etc.;
+* Thermostat – including any automatic features, location of ‘on’ and ‘off’ switches, etc.;
+* Laundry, valet, and water-conservation policies;
+* Security instructions;
+* Check-out policy.
 
 Guests may require assistance when ordering movies or using other television features, as choices are only visual and change frequently.
 
@@ -235,21 +240,25 @@ The tax deduction is available to all businesses with a maximum deduction of $15
 
 ### Department of Justice’s ADA Information Line
 
-The ADA Information Line is available during weekdays to provide technical assistance on the ADA Standards for Accessible Design and other ADA provisions applying to businesses, non-profit service agencies and state and local government programs. It also provides a 24-hour automated service for ordering ADA materials. This free service provides answers to general and technical questions about ADA requirements and is a source for free ADA materials including the ADA Standards for Accessible Design. You may reach the [ADA Information Line]({{'/infoline' | relative_url}}) at:
+The ADA Information Line is available during weekdays to provide technical assistance on the ADA Standards for Accessible Design and other ADA provisions applying to businesses, non-profit service agencies and state and local government programs. It also provides a 24-hour automated service for ordering ADA materials. This free service provides answers to general and technical questions about ADA requirements and is a source for free ADA materials including the ADA Standards for Accessible Design. You may reach the \[ADA Information Line]({{'/infoline' | relative_url}}) at:
 
->800-514-0301 (voice)
+> 800-514-0301 (voice)
 >
->833-610-1264 (TTY)
+> 833-610-1264 (TTY)
 
+<<<<<<< HEAD
 ADA information is also available on the Department’s [ADA Home Page]({{'/index/' | relative_url}}).
+=======
+ADA information is also available on the Department’s \[ADA Home Page]({{'/index' | relative_url}}).
+>>>>>>> edba00b8a85d35852cf123d19bc1f3ce4a1456f8
 
 ### Other Documents Available from the Department of Justice
 
-- [Five Steps to Make New Lodging Facilities Comply With the ADA](https://archive.ada.gov/fivestep.htm)
-- [Title III regulation]({{'/law-and-regs/title-ii-2010-regulations' | relative_url}})
-- [2010 ADA Standards for Accessible Design]({{'/law-and-regs/design-standards/2010-stds' | relative_url}})
-- [Title III Technical Assistance Manual and Supplement]({{'/resources/title-iii-manual' | relative_url}})
-- [Expanding Your Market: Tax Incentives for Businesses](https://archive.ada.gov/taxincent.htm)
+* [Five Steps to Make New Lodging Facilities Comply With the ADA](https://archive.ada.gov/fivestep.htm)
+* \[Title III regulation]({{'/law-and-regs/title-ii-2010-regulations' | relative_url}})
+* \[2010 ADA Standards for Accessible Design]({{'/law-and-regs/design-standards/2010-stds' | relative_url}})
+* \[Title III Technical Assistance Manual and Supplement]({{'/resources/title-iii-manual' | relative_url}})
+* [Expanding Your Market: Tax Incentives for Businesses](https://archive.ada.gov/taxincent.htm)
 
 ### ADA National Network
 
@@ -273,6 +282,7 @@ Employment questions: 800-669-4000 (voice)
 The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
 
 This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
+
 <hr>
 
 Reproduction of this document is encouraged.
