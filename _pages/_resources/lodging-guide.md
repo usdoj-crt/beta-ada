@@ -246,18 +246,14 @@ The ADA Information Line is available during weekdays to provide technical assis
 >
 > 833-610-1264 (TTY)
 
-<<<<<<< HEAD
 ADA information is also available on the Department’s [ADA Home Page]({{'/index/' | relative_url}}).
-=======
-ADA information is also available on the Department’s \[ADA Home Page]({{'/index' | relative_url}}).
->>>>>>> edba00b8a85d35852cf123d19bc1f3ce4a1456f8
 
 ### Other Documents Available from the Department of Justice
 
 * [Five Steps to Make New Lodging Facilities Comply With the ADA](https://archive.ada.gov/fivestep.htm)
-* \[Title III regulation]({{'/law-and-regs/title-ii-2010-regulations' | relative_url}})
-* \[2010 ADA Standards for Accessible Design]({{'/law-and-regs/design-standards/2010-stds' | relative_url}})
-* \[Title III Technical Assistance Manual and Supplement]({{'/resources/title-iii-manual' | relative_url}})
+* [Title III regulation]({{'/law-and-regs/title-ii-2010-regulations' | relative_url}})
+* [2010 ADA Standards for Accessible Design]({{'/law-and-regs/design-standards/2010-stds' | relative_url}})
+* [Title III Technical Assistance Manual and Supplement]({{'/resources/title-iii-manual' | relative_url}})
 * [Expanding Your Market: Tax Incentives for Businesses](https://archive.ada.gov/taxincent.htm)
 
 ### ADA National Network
