@@ -8,6 +8,7 @@ lang: "en"
 publish-date: 2015-07-20 00:00:00
 updated-date: 2020-02-28 00:00:00
 related-content: true
+print: true
 tags:
   - service animals
 redirect_from:

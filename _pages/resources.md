@@ -2,6 +2,7 @@
 permalink: /resources/
 title: Guidance & Resource Materials
 lead: Information for people with disabilities, state and local governments, and businesses
+hide_page_type_info: true
 redirect_from:
     - /ta-pubs-pg2.htm
     - /ta_titleii.html
