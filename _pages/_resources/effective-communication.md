@@ -134,4 +134,5 @@ The Americans with Disabilities Act authorizes the Department of Justice (the De
 
 This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.  
 <hr>
+
 Duplication of this document is encouraged.
