@@ -5,7 +5,14 @@ md.options['linkify'] = true;
 const parser = new DOMParser();
 function makeHTMLFromBodyContent(bodyContent, variables, imageData) {
   // Replace any <hr> tags with markdown so they render outside of the nearest <p> tag
-  const content = bodyContent ? bodyContent.replaceAll(/<hr>/g, "***") : '';
+  let content = bodyContent ? bodyContent.replaceAll(/<hr>/g, "***") : '';
+  const contentParts = content.split('{');
+  contentParts.forEach(contentPart => {
+    if (contentPart.includes('% details')) {
+      const newText = contentPart.replaceAll("'", '$');
+      content = content.replace(contentPart, newText);
+    }
+  });
   // The DOMParser returns a full HTML document, so grabbing the first child element actually grabs the <html> element because it is the first element under <!doctype>
   // the second child element of the <html> is the <body> element. We aren't starting at the <html> element but rather the <!doctype> tag.
   const interimHTML = md.render(content);
