@@ -1,0 +1,51 @@
+{% assign pageArray = '' | split: '' %}
+{% assign topicPageArray = '' | split: '' %}
+{% assign resourcePageArray = '' | split: '' %}
+{% assign lawPageArray = '' | split: '' %}
+{% assign pages=site.pages %} {% assign posts=site.posts %}
+{% assign topics=site.topics %}
+{% assign resources=site.resources %}
+{% assign pages = pages | concat: posts | concat: topics | concat: resources %}
+{% for page in pages %}
+    {% if page.sitemap!=false and page.title!=nil %}
+        {% if page.permalink contains '/topics/' %}
+            {% assign topicPageArray = topicPageArray | push:page | sort:"permalink" %}
+        {% elsif page.permalink contains '/resources/' %}
+            {% assign resourcePageArray = resourcePageArray| push:page | sort:"permalink" %}
+        {% elsif page.permalink contains '/law-and-regs/' %}
+            {% assign lawPageArray = lawPageArray | push:page | sort:"permalink" %}
+        {% else %}
+            {% assign pageArray = pageArray | push:page %}
+        {% endif %}
+    {% endif %}
+{% endfor %}
+
+<ul class="usa-list usa-list--unstyled">
+{% for page in pageArray %}
+    <li><h3><a href="{{ page.permalink }}">{{ page.title }}</a></h3></li>
+{% endfor %}
+
+    {% for topic in topicPageArray %}
+        {% if topic.permalink == '/topics/' %}
+        <li><h3><a href="{{ topic.permalink }}">{{ topic.title }}</a></h3></li>
+        {% else %}
+        <li class="margin-left-2"><a href="{{ topic.permalink }}">{{ topic.title }}</a></li>
+        {% endif %}
+    {% endfor %}
+
+    {% for resource in resourcePageArray %}
+    {% if resource.permalink == '/resources/' %}
+        <li><h3><a href="{{ resource.permalink }}">{{ resource.title }}</a></h3></li>
+    {% else %}
+        <li class="margin-left-2"><a href="{{ resource.permalink }}">{{ resource.title }}</a></li>
+    {% endif %}
+    {% endfor %}
+
+    {% for law in lawPageArray %}
+    {% if law.permalink == '/law-and-regs/' %}
+        <li><h3><a href="{{ law.permalink }}">{{ law.title }}</a></h3></li>
+    {% else %}
+        <li class="margin-left-2"><a href="{{ law.permalink }}">{{ law.title }}</a></li>
+    {% endif %}
+    {% endfor %}
+</ul>
