@@ -97,7 +97,7 @@ function buildEngine(globals, imageData) {
             break;
           case 'details':
             const detailTitleArr = renderedValue.split('expandable');
-            const detailTitle = yield detailTitleArr[0];
+            const detailTitle = yield detailTitleArr[0].replaceAll('$', "'");
             emitter.write(
               `<details data-detail-open='false'><summary><div><span class='pa11y-skip'>${detailTitle}</span></div></summary><div><p>`
             );
@@ -165,12 +165,22 @@ function buildEngine(globals, imageData) {
 }
 
 function renderWidgets(interimHTML, variables, imageData) {
+  const parser = new DOMParser();
+  let newHTML = interimHTML;
+  const htmlDoc = parser.parseFromString(interimHTML, 'text/html');
+  const pTags = Array.from(htmlDoc.getElementsByTagName('p'));
+  pTags.forEach(pTag => {
+    if (pTag.innerText.includes('{% details')) {
+      const newText = pTag.innerText.replaceAll("'", '');
+      newHTML = newHTML.replaceAll(pTag.innerText, newText);
+    }
+  });
   const engine = buildEngine({
     'page': variables,
     'site': window.jekyllSite,  // This is defined globally via site_json.rb
     'lang': 'en',
   }, imageData);
-  const renderedHTML = engine.parseAndRenderSync(interimHTML);
+  const renderedHTML = engine.parseAndRenderSync(newHTML);
   return renderedHTML;
 }
 
