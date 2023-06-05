@@ -14,20 +14,21 @@ tags:
 redirect_from:
   - /regs2014/testing_accommodations.html
 ---
-Standardized examinations and other high-stakes tests are gateways to educational and employment opportunities.  Whether seeking admission to a high school, college, or graduate program, or attempting to obtain a professional license or certification for a trade, it is difficult to achieve such goals without sitting for some kind of standardized exam or high-stakes test.  While many testing entities have made efforts to ensure equal opportunity for individuals with disabilities, the Department continues to receive questions and complaints relating to excessive and burdensome documentation demands, failures to provide needed testing accommodations, and failures to respond to requests for testing accommodations in a timely manner.   
+Standardized examinations and other high-stakes tests are gateways to educational and employment opportunities.  Whether seeking admission to a high school, college, or graduate program, or attempting to obtain a professional license or certification for a trade, it is difficult to achieve such goals without sitting for some kind of standardized exam or high-stakes test.  While many testing entities have made efforts to ensure equal opportunity for individuals with disabilities, the Department continues to receive questions and complaints relating to excessive and burdensome documentation demands, failures to provide needed testing accommodations, and failures to respond to requests for testing accommodations in a timely manner.
 
 The Americans with Disabilities Act (ADA) ensures that individuals with disabilities have the opportunity to fairly compete for and pursue such opportunities by requiring testing entities to offer exams in a manner accessible to persons with disabilities.  When needed testing accommodations are provided, test-takers can demonstrate their true aptitude.
 
 The Department of Justice (Department) published revised final regulations implementing the ADA for title II (State and local government services) and title III (public accommodations and commercial facilities) on September 15, 2010.  These rules clarify and refine issues that have arisen over the past 20 years and contain new and updated requirements.
 
-  ## Overview
+## Overview
 
-  This publication provides technical assistance on testing accommodations for individuals with disabilities who take standardized exams and other high-stakes tests.  It addresses the obligations of testing entities, which include private, state, or local government entities that offer exams related to applications, licensing, certification, or credentialing for secondary (high school), postsecondary (college and graduate school), professional (law, medicine, etc.), or trade (cosmetology, electrician, etc.) purposes.  Who is entitled to testing accommodations, what types of testing accommodations must be provided, and what documentation may be required of the person requesting testing accommodations are also discussed.
-  
-  ## What Kinds Of Tests Are Covered?
-  
-  **Exams  administered by any private, state, or local government entity related to  applications, licensing, certification, or credentialing for secondary or  postsecondary education, professional, or trade purposes are covered by the ADA  and testing accommodations, pursuant to the ADA, must be provided.**{% fn 1 %}
-    
+This publication provides technical assistance on testing accommodations for individuals with disabilities who take standardized exams and other high-stakes tests.  It addresses the obligations of testing entities, which include private, state, or local government entities that offer exams related to applications, licensing, certification, or credentialing for secondary (high school), postsecondary (college and graduate school), professional (law, medicine, etc.), or trade (cosmetology, electrician, etc.) purposes.  Who is entitled to testing accommodations, what types of testing accommodations must be provided, and what documentation may be required of the person requesting testing accommodations are also discussed.
+
+## What Kinds Of Tests Are Covered?
+
+**Exams  administered by any private, state, or local government entity related to  applications, licensing, certification, or credentialing for secondary or  postsecondary education, professional, or trade purposes are covered by the ADA  and testing accommodations, pursuant to the ADA, must be provided.** {% fn 1 %}
+
+
 Examples of covered exams include:
 
 - High school equivalency exams (such as the GED);
@@ -40,7 +41,7 @@ Examples of covered exams include:
 ## What Are Testing Accommodations?
 
 **Testing  accommodations are changes to the regular testing environment and auxiliary  aids and services {% fn 2 %} that allow individuals with disabilities to demonstrate their true aptitude or  achievement level on standardized exams or other high-stakes tests.**
-    
+
 Examples  of the wide range of testing accommodations that may be required include:
 
 - Braille or large-print exam booklets;
@@ -68,12 +69,12 @@ Examples  of the wide range of testing accommodations that may be required inclu
 
 **Testing  entities must ensure that the test scores of individuals with disabilities accurately  reflect the individual&rsquo;s aptitude or achievement level or whatever skill the  exam or test is intended to measure.**  A  testing entity must administer its exam so that it accurately reflects an  individual&rsquo;s aptitude, achievement level, or the skill that the exam purports  to measure, rather than the individual&rsquo;s impairment (except where the impaired  skill is one the exam purports to measure).{% fn 3 %}
 
-  - **Example:** An individual may be entitled to the use of a basic calculator during  exams as a testing accommodation.  If the  objective of the test is to measure one’s ability to solve algebra equations,  for example, and the ability to perform basic math computations (e.g.,  addition, subtraction, multiplication, and division), is secondary to the  objective of the test, then a basic calculator may be an appropriate testing  accommodation.  If, however, the  objective of the test is to measure the individual’s understanding of, and  ability to perform, math computations, then it likely would not be appropriate  to permit a calculator as a testing accommodation.
+- **Example:** An individual may be entitled to the use of a basic calculator during  exams as a testing accommodation.  If the  objective of the test is to measure one’s ability to solve algebra equations,  for example, and the ability to perform basic math computations (e.g.,  addition, subtraction, multiplication, and division), is secondary to the  objective of the test, then a basic calculator may be an appropriate testing  accommodation.  If, however, the  objective of the test is to measure the individual’s understanding of, and  ability to perform, math computations, then it likely would not be appropriate  to permit a calculator as a testing accommodation.
 
 ## What Kind Of Documentation Is Sufficient To Support A Request For Testing Accommodations?
 
-All testing entities must adhere to the following principles  regarding what may and may not be required when a person with a disability  requests a testing accommodation.     
-    
+All testing entities must adhere to the following principles  regarding what may and may not be required when a person with a disability  requests a testing accommodation.
+
 - **Documentation.  Any documentation if required by a testing entity in support of a request for testing accommodations must be reasonable and limited to the need for the requested testing accommodations.**  Requests for supporting documentation should be narrowly tailored to the information needed to determine the nature of the candidate’s disability and his or her need for the requested testing accommodation.  Appropriate documentation will vary depending on the nature of the disability and the specific testing accommodation requested.
 
 Examples of types of documentation include:
@@ -121,9 +122,9 @@ Depending on the particular  testing accommodation request and the nature of the
 
 **To  view model testing accommodation practices and for more information about the  ADA, please visit our website or call our toll-free number:**
 
-- **ADA Website**: <a href="http://www.ada.gov">www.ADA.gov</a>
-- <a href="http://www.ada.gov/infoline.htm">**ADA Information Line**</a>**: **800-514-0301 (Voice) and 800-514-0383 (TTY); M-W, F 9:30 a.m. – 5:30 p.m., Th 12:30 p.m. – 5:30 p.m. (Eastern Time)
-- **Model Testing Accommodation Practices Resulting From Recent Litigation: **<a href="http://www.ada.gov/lsac_best_practices_report.docx">http://www.ada.gov/lsac_best_practices_report.docx</a>
+- ADA Website: [www.ADA.gov]({{'/index' | relative_url}})
+- [ADA Information Line]({{'/index' | relative_url}}): 800-514-0301 (Voice) and 800-514-0383 (TTY); M-W, F 9:30 a.m. – 5:30 p.m., Th 12:30 p.m. – 5:30 p.m. (Eastern Time)
+- Model Testing Accommodation Practices Resulting From Recent Litigation: <a href="http://archive.ada.gov/lsac_best_practices_report.docx">http://archive.ada.gov/lsac_best_practices_report.docx</a>
 
 {% footnotes %}
 {% fnbody 1 %}
