@@ -25,6 +25,7 @@
     <div class="usa-card__footer">
       {% if include.card.card.href %}
       <a
+        class="topic-card__link"
         href="{{ include.card.card.href | relative_url }}"
         aria-label="Learn more about {{include.card.card.title_alt | default:include.card.card.title}}"
         >{{site.data[lang]["i18n"].links.learn}}</a
