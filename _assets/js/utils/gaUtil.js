@@ -1,6 +1,8 @@
 function sendGAClickEvent(e) {
   e.preventDefault();
-  const event_name = e.target.ariaLabel + ' ' + e.target.innerText;
+  const ariaLabel = e.target.ariaLabel ?? 'unlabeled link element';
+  const innerText = e.target.innerText ?? 'empty link element';
+  const event_name = ariaLabel + ' ' + innerText;
   gtag('event', 'click', { event_name: event_name });
   window.location.href = e.target.href;
 }
@@ -10,29 +12,19 @@ function gtag() {
   dataLayer.push(arguments);
 }
 
-export default function initGAEvents() {
-  const infoBoxLinks = document.getElementsByClassName("info-box-link");
-  Array.from(infoBoxLinks).forEach((el) => {
-    el.addEventListener('click', sendGAClickEvent);
-  });
-  const relatedContentLinks = document.getElementsByClassName("related-content-link");
-  Array.from(relatedContentLinks).forEach((el) => {
-    el.addEventListener('click', sendGAClickEvent);
-  });
-  const alertLinks = document.getElementsByClassName("alert-link");
-  Array.from(alertLinks).forEach((el) => {
-    el.addEventListener('click', sendGAClickEvent);
-  });
-  const topicCardLinks = document.getElementsByClassName("topic-card__link");
-  Array.from(topicCardLinks).forEach((el) => {
-    el.addEventListener('click', sendGAClickEvent);
-  });
-  const learnLinks = document.getElementsByClassName("learn-link");
-  Array.from(learnLinks).forEach((el) => {
-    el.addEventListener('click', sendGAClickEvent);
-  });
-  const sideNavLinks = document.getElementsByClassName("crt-sidenav-subnav-item");
-  Array.from(sideNavLinks).forEach((el) => {
-    el.addEventListener('click', sendGAClickEvent);
-  });
-}
+  const ANALYTICS_CONFIG = [
+    ['.related-content-link', 'click', sendGAClickEvent],
+    ['.alert-link', 'click', sendGAClickEvent],
+    ['.topic-card__link', 'click', sendGAClickEvent],
+    ['.learn-link', 'click', sendGAClickEvent],
+    ['.crt-sidenav-subnav-item', 'click', sendGAClickEvent],
+    ['.info-box-link', 'click', sendGAClickEvent],
+  ]
+  
+  export default function initGAEvents() {
+    ANALYTICS_CONFIG.forEach(([selector, event, action]) => {
+      document.querySelectorAll(selector).forEach(el => {
+        el.addEventListener(event, action);
+      });
+    });
+  }
