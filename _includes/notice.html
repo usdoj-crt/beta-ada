@@ -5,7 +5,9 @@
   <div class="usa-alert">
     <div class="usa-alert__body">
       {% for post in site.categories.notices reversed limit:1 %}
-      <h3 class="usa-alert__heading pa11y-skip">{% if lang=="en" %}{{ post.notice_text }}{% elsif lang=="es" %}{{post.notice_text_es}}{% endif %}</h3>
+      {% if post.notice_text != nil %}
+        <h3 class="usa-alert__heading pa11y-skip">{% if lang=="en" %}{{ post.notice_text }}{% elsif lang=="es" %}{{post.notice_text_es}}{% endif %}</h3>
+      {% endif %}
       <p class="usa-alert__text">
         <a
           aria-label="alert link"
