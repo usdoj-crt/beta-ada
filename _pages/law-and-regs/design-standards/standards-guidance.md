@@ -9,9 +9,7 @@ publish-date: 2010-09-15 00:00:00
 related-content: true
 print: true
 back-to-top: true
-redirect_from:
-  - /regs2010/2010adastandards/guidance2010adastandards.htm
-  - /regs2010/2010ADAStandards/Guidance2010ADAstandards.htm
+redirect_to: https://www.ada.gov/law-and-regs/design-standards/standards-guidance/
 sidenav-pdf:
   title: Guidance on the 2010 ADA Standards for Accessible Design
   filename: guidance-2010-standards.pdf

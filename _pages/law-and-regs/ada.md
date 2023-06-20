@@ -5,12 +5,7 @@ lead: |-
     Editor's Note:
 
     Here is the text of the Americans with Disabilities Act of 1990 (ADA), including changes made by the ADA Amendments Act of 2008. Congress passed the ADA as a “Public Law,” and it originally was in a different format than presented here. To make the law more widely available, the ADA was later reformatted and published in volume 42 (called “title 42”) of the United States Code. One small part of the ADA is found in title 47 of the United States Code. The text below mirrors the law as it is found in the U.S. Code. Because the numbering system is different in the U.S. Code, the headings provide in brackets the title numbers of the ADA as originally enacted.
-print: true
-redirect_from:
-  - /adastatute08.htm
-  - /pubs/adastatute08mark.htm
-  - /archive/adastat91.htm
-  - /pubs/adastatute08.htm
+redirect_to: https://www.ada.gov/law-and-regs/ada/
 ---
 
 ## Title 42 - The Public Health and Welfare

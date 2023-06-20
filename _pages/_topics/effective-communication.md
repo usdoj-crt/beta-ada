@@ -20,6 +20,7 @@ card:
 tags:
   - effective communication
 related-content: true
+redirect_to: https://www.ada.gov/topics/effective-communication/
 ---
 
 ## Examples of Communication Aids and Services

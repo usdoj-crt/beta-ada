@@ -10,9 +10,7 @@ print: true
 related-content: true
 tags:
   - child care
-  - families
-redirect_from:
-  - /childqanda.htm
+redirect_to: https://www.ada.gov/resources/child-care-centers/
 ---
 {% include expand-accordions-wrapper.html expand-heading='Coverage' %}
 

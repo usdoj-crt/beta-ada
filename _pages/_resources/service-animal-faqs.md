@@ -11,8 +11,7 @@ related-content: true
 print: true
 tags:
   - service animals
-redirect_from:
-  - /regs2010/service_animal_qa.html
+redirect_to: https://www.ada.gov/resources/service-animals-faqs/
 ---
 The Department of Justice continues to receive many questions about how the Americans with Disabilities Act (ADA) applies to service animals. The ADA requires State and local government agencies, businesses, and non-profit organizations (covered entities) that provide goods or services to the public to make "reasonable modifications" in their policies, practices, or procedures when necessary to accommodate people with disabilities. The service animal rules fall under this general principle. Accordingly, entities that have a "no pets" policy generally must modify the policy to allow service animals into their facilities. This publication provides guidance on the ADA's service animal provisions and should be read in conjunction with the publication [ADA Revised Requirements: Service Animals]( {{'/resources/service-animals-2010-requirements'| relative_url}}).
 

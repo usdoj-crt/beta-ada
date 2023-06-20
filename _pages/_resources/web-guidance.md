@@ -15,7 +15,7 @@ sidenav-pdf:
   filename: web-guidance.pdf
 tags:
   - web access
-  - technology
+redirect_to: https://www.ada.gov/resources/web-guidance/
 ---
 [Learn more about businesses' and state and local governments' ADA responsibilities.]( {{'/topics/intro-to-ada'| relative_url}})
 

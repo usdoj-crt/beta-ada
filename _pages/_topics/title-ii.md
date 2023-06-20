@@ -16,9 +16,7 @@ card:
 tags:
   - title ii
 related-content: true
-redirect_from:
-  - /ada_title_ii.htm
-  - /ada_title_II.htm
+redirect_to: https://www.ada.gov/topics/title-ii/
 ---
 
 ## Title II Applies to State/Local Programs

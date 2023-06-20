@@ -16,6 +16,7 @@ sidenav-pdf:
 tags:
   - artificial intelligence
   - employment
+redirect_to: https://www.ada.gov/resources/ai-guidance/
 ---
 
 ## How employers use algorithms and artificial intelligence

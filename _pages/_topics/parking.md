@@ -19,6 +19,7 @@ card:
 tags:
   - parking
 related-content: true
+redirect_to: https://www.ada.gov/topics/parking/
 ---
 
 ## Features

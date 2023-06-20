@@ -11,9 +11,7 @@ print: true
 related-content: true
 tags:
   - title ii
-redirect_from:
-  - /regs2010/titleii_2010/title_ii_primer.html
-  - /regs2010/titleII_2010/title_ii_primer.html
+redirect_to: https://www.ada.gov/resources/title-ii-primer/
 ---
 People with disabilities have too often been excluded from participating in basic civic activities like using the public transportation system, serving on a jury, voting, seeking refuge at an emergency shelter, or simply attending a high school sports event with family and friends. The Americans with Disabilities Act (ADA) is a Federal civil rights law that prohibits discrimination against people with disabilities. Under this law, people with disabilities are entitled to all of the rights, privileges, advantages, and opportunities that others have when participating in civic activities.
 

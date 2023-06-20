@@ -19,6 +19,7 @@ tags:
   - mobility devices
   - physical accessibility
 related-content: true
+redirect_to: https://www.ada.gov/topics/mobility-devices/
 ---
 
 ## Basic Requirements

@@ -2,20 +2,7 @@
 permalink: /law-and-regs/
 title: Laws, Regulations & Standards
 sidenav: false
-compact: true
-hide_page_type_info: true
-redirect_from:
-    - /2010_regs.htm
-    - /pubs/ada.htm
-    - /newproposed_regs.htm
-    - /pcatoolkit/chap3toolkit.htm
-    - /regs_footer.htm
-    - /regs2010/
-    - /regs2010/index.html
-    - /regs2010/adaregs2010.htm
-    - /regs2010/ADAregs2010.htm
-tags:
-    - design standards
+redirect_to: https://www.ada.gov/law-and-regs/
 ---
 
 When we talk about what the ADA requires on ADA.gov, we are usually referring to two sources:

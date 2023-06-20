@@ -14,8 +14,7 @@ tags:
   - employment
   - title ii
   - title iii
-redirect_from:
-  - /cguide.htm
+redirect_to: https://www.ada.gov/resources/disability-rights-guide/
 ---
 ## Americans with Disabilities Act (ADA)
 

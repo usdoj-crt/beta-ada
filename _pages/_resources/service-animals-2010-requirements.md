@@ -9,10 +9,9 @@ related-content: true
 print: true
 tags:
   - service animals
-publish-date: 2011-07-01 00:00:00
-updated-date: 2020-02-28 00:00:00
-redirect_from:
-  - /service_animals_2010.htm
+publish-date: 2011-07-12 00:00:00
+updated-date: 2020-02-24 00:00:00
+redirect_to: https://www.ada.gov/resources/service-animals-2010-requirements/
 ---
 ## Overview
 

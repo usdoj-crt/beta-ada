@@ -11,10 +11,8 @@ print: true
 related-content: true
 tags:
   - medical care
-  - health care
-redirect_from:
-  - /medcare_mobility_ta/medcare_ta.htm
-  - /medcare_ta.htm
+  - mobility devices
+redirect_to: https://www.ada.gov/resources/medical-care-mobility/
 ---
 ## Part 1:  Overview and General Requirements
 

@@ -11,6 +11,7 @@ redirect_from:
     - /regs2010/titleiii_2010/titleiii_2010_withbold.htm
     - /regs2010/titleIII_2010/reg3_2010_appendix_b.htm
 related-content: true
+redirect_to: https://www.ada.gov/law-and-regs/title-iii-regulations/
 tags:
   - title iii
 lead: |-

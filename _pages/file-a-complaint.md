@@ -6,6 +6,7 @@ lead: |-
   The Americans with Disabilities Act provides an important tool to fight discrimination: filing a complaint with an appropriate federal agency.  This page outlines the steps to get you started.
 lang: "en"
 ref: complaint
+<<<<<<< HEAD
 print: true
 redirect_from:
   - /filing_complaint.htm
@@ -16,6 +17,9 @@ redirect_from:
   - /criminaljustice/cj_complaint.html
   - /olmstead/olmstead_complaints.htm
   - /hiv/ada_hiv_complaints.htm
+=======
+redirect_to: https://www.ada.gov/file-a-complaint/
+>>>>>>> 89f7e73078618ea9d22fd162dc0ad833672c6569
 ---
 
 ## Who You Can File a Complaint Against

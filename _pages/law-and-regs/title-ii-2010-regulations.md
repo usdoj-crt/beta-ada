@@ -17,6 +17,7 @@ redirect_from:
   - /regs2010/titleII_2010/titleII_2010_withbold.htm
   - /regs2010/titleII_2010regulations/
 related-content: true
+redirect_to: https://www.ada.gov/law-and-regs/title-ii-2010-regulations/
 tags:
   - title ii
 ---

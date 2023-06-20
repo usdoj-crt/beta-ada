@@ -16,6 +16,7 @@ card:
   alt: Asian American father hugging his son
   href: /topics/parental-rights/
 publish-date: 2022-07-25 00:00:00
+redirect_to: https://www.ada.gov/topics/parental-rights/
 ---
 
 {% details Learn more about the parts of the ADA that state/local governments need to comply with %}

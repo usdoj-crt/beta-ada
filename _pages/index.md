@@ -153,10 +153,14 @@ report:
     Think you or someone you know has experienced a disability rights violation?
   link:
     text: File a complaint
+<<<<<<< HEAD
 redirect_from:
   - /contact_drs.htm
   - /adahom1.htm
   - /index/
+=======
+redirect_to: https://www.ada.gov
+>>>>>>> 89f7e73078618ea9d22fd162dc0ad833672c6569
 ---
 
 {% include landing/hero.html hero=page.hero %}

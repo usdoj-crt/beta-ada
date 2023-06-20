@@ -14,6 +14,7 @@ card:
   alt: "photo of a person on a video call with a doctor"
   href: /topics/telehealth/
 publish-date: 2022-09-16 00:00:00
+redirect_to: https://www.ada.gov/topics/telehealth/
 tags:
   - medical care
   - health care

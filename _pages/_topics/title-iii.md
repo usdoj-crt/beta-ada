@@ -16,9 +16,7 @@ card:
 tags:
   - title iii
 related-content: true
-redirect_from:
-  - /ada_title_iii.htm
-  - /ada_title_III.htm
+redirect_to: https://www.ada.gov/topics/title-iii/
 ---
 
 ## Title III Applies to Businesses
