@@ -19,6 +19,8 @@ This site requires Ruby and Node.js in order to run locally. For guidance on ins
     $ bundle install
     $ npm start
 
+Note that running `npm start` will disable some features of the site for performance reasons. See _config.dev.yml, or search for jekyll.environment or Jekyll.env for details.
+
 To build but not serve the site, run `npm run build`.
 
 #### With Docker: UNDER CONSTRUCTION
