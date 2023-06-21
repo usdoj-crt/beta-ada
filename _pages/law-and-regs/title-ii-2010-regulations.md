@@ -16,6 +16,9 @@ redirect_from:
   - /regs2010/titleii_2010/titleii_2010_withbold.htm
   - /regs2010/titleII_2010/titleII_2010_withbold.htm
   - /regs2010/titleII_2010regulations/
+sidenav-pdf:
+  title: Americans with Disabilities Act Title II Regulations
+  filename: title-ii-2010-regulations.pdf
 related-content: true
 tags:
   - title ii
