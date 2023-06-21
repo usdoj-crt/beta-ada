@@ -11,7 +11,7 @@ jobs:
       - name: Install Ruby Dependencies
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.7.4
+          ruby-version: 2.7.8
           bundler-cache: true
 
       - name: Install Node.js Dependencies
@@ -20,10 +20,10 @@ jobs:
           node-version: "16"
       - run: |
           npm install
-      
+
       - name: Start Server
         run: npm run build:css && npm run build:js && bundle exec jekyll serve --config _config.yml,_config_test.yml --detach
-      
+
       - name: Run Lighthouse CI
         run: |
           npm install -g @lhci/cli@0.8.x
