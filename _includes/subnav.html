@@ -17,7 +17,7 @@
   </li>
   {% else %}
   <li class="usa-sidenav__item">
-    <a class="crt-sidenav-subnav-item" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+    <a class="crt-sidenav-subnav-item" aria-label="side nav link" href="{{ item.url | relative_url }}">{{ item.title }}</a>
   </li>
   {% endif %}
   {% endfor %} {% else %} {% for item in include.collection %}

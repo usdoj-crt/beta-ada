@@ -51,14 +51,16 @@ A regulation (also called a "rule") is a set of requirements issued by a federal
 Check out DOJ’s current ADA regulations:
 
 - [Title II]({{'/law-and-regs/title-ii-2010-regulations/' | relative_url}}) (State and Local Governments)
+{% include download.html text="Download PDF for ADA's Title II Regulations" filename="title-ii-2010-regulations.pdf" %} (4.2MB, 279 Pages)
 - [Title III]( {{'/law-and-regs/title-iii-regulations' | relative_url}}) (Public Accommodations and Commercial Facilities)
+{% include download.html text="Download PDF for ADA's Title III Regulations" filename="title-iii-2010-regulations.pdf" %} (4.2MB, 279 Pages)
 
-In the [Fall 2022 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain), DOJ announced that it plans to issue new ADA regulations on the following topics:
+In the [Spring 2023 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain), DOJ announced that it plans to issue new ADA regulations on the following topics:
 
-- [Medical Diagnostic Equipment](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202210&RIN=1190-AA78)
-- [Title II Web Accessibility](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202210&RIN=1190-AA79)
-- [The Public Right of Way](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202210&RIN=1190-AA77)
-- [Equipment and Furniture](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202210&RIN=1190-AA76)
+- [Medical Diagnostic Equipment](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202304&RIN=1190-AA78)
+- [Title II Web Accessibility](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202304&RIN=1190-AA79)
+- [The Public Right of Way](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202304&RIN=1190-AA77)
+- [Equipment and Furniture](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202304&RIN=1190-AA76)
 
 {% details What is the Unified Agenda? %}
 The [Unified Agenda](https://www.reginfo.gov/public/jsp/eAgenda/UA_About.myjsp) provides information about federal agencies’ regulatory priorities and the specific regulations that they plan to issue in the short and long term.
