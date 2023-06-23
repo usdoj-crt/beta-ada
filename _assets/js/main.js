@@ -6,6 +6,7 @@ import redirectModal from "./redirect-modal";
 import printButton from "./print-button";
 import print from "./print";
 import search from "./search";
+import sidenav from "./expand-sidenav";
 
 modal();
 redirectModal();
@@ -13,6 +14,7 @@ print();
 printButton();
 search();
 initGAEvents();
+sidenav();
 
 const anchors = new AnchorJS();
 anchors.add(".crt-page h2:not([class*='usa']) h2:not(.noAnchor)");
