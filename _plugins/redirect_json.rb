@@ -38,6 +38,11 @@ module RedirectsJson
     priority :highest
 
     def generate(site)
+      # Don't run this on development for performance reasons:
+      if Jekyll.env == 'development'
+        return
+      end
+
       # Merging in this order will overwrite entries in generated_redirects
       # with entries from manual_redirects
       #
