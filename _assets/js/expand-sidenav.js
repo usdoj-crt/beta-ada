@@ -3,23 +3,13 @@ const sidenav = () => {
 
     function expandAll(e) {
         const submenuButtons = document.getElementsByClassName('usa-accordion__button');
-        if (e.target.innerText === 'Expand all') {
-            Array.from(submenuButtons).forEach(button => {
-                const isExpanded = button.getAttribute('aria-expanded') === "true";
-                if (!isExpanded) {
-                    button.click();
-                }
-            });
-            e.target.innerText = 'Collapse all';
-        } else {
-            Array.from(submenuButtons).forEach(button => {
-                const isExpanded = button.getAttribute('aria-expanded') === "true";
-                if (isExpanded) {
-                    button.click();
-                }
-            });
-            e.target.innerText = 'Expand all';
-        }
+        expandingAll = e.target.innerText === 'Expand all';
+        Array.from(submenuButtons).forEach(button => {
+            const isExpanded = button.getAttribute('aria-expanded') === "true";
+            if (!isExpanded && expandingAll) button.click();
+            if (isExpanded && !expandingAll) button.click();
+        });
+        e.target.innerText = expandingAll ? 'Collapse all' : 'Expand all';
     }
 
     if (expandButton) {
