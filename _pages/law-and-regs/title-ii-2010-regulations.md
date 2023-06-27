@@ -19,6 +19,7 @@ redirect_from:
 sidenav-pdf:
   title: Americans with Disabilities Act Title II Regulations
   filename: title-ii-2010-regulations.pdf
+expand-sidenav: true
 related-content: true
 tags:
   - title ii
