@@ -3,7 +3,7 @@ const sidenav = () => {
 
     function expandAll(e) {
         const submenuButtons = document.getElementsByClassName('usa-accordion__button');
-        expandingAll = e.target.innerText === 'Expand all';
+        let expandingAll = e.target.innerText === 'Expand all';
         Array.from(submenuButtons).forEach(button => {
             const isExpanded = button.getAttribute('aria-expanded') === "true";
             if (!isExpanded && expandingAll) button.click();
