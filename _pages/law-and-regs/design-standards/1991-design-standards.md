@@ -20,6 +20,7 @@ expand-sidenav: true
 sidenav-pdf:
   title: 1991 ADA Standards for Accessible Design
   filename: 1991-design-standards.pdf
+  text: Download PDF Guidance
 ---
 
 ## 1. Purpose

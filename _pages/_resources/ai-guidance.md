@@ -13,6 +13,7 @@ print: true
 sidenav-pdf:
   title: Algorithms, Artificial Intelligence, and Disability Discrimination in Hiring
   filename: ai-guidance.pdf
+  text: Download PDF Guidance
 tags:
   - artificial intelligence
   - employment

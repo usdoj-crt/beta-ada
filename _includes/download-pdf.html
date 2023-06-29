@@ -3,6 +3,6 @@
     href="/assets/_pdfs/{{include.filename}}"
     download
     class="usa-button crt-page--downloadpdf-button text-bold"
-    >Download PDF Guidance</a
+    >{% if include.text %}{{include.text}}{% else %}Download PDF{% endif %}</a
   >
 </div>

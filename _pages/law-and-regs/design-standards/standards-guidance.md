@@ -15,6 +15,7 @@ redirect_from:
 sidenav-pdf:
   title: Guidance on the 2010 ADA Standards for Accessible Design
   filename: guidance-2010-standards.pdf
+  text: Download PDF Guidance
 ---
 ## State and Local Government Facilities: Guidance on the Revisions to 28 CFR 35.151
 
