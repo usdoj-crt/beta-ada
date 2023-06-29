@@ -2,7 +2,6 @@
 title: "Protecting the Rights of Persons Living with HIV/AIDS Fighting Discrimination"
 description: "A publication explaining the rights of persons with HIV/AIDS under the Americans with Disabilities Act (ADA), and the requirements of the ADA for employers, businesses and non-profit agencies that serve the public, and State and local governments to avoid discriminating against persons with HIV/AIDS"
 permalink: /resources/protecting-rights-persons-hiv/
-lead: |-
 lang: "en"
 publish-date: 2015-09-01 00:00:00
 updated-date: 2020-02-28 00:00:00
