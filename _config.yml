@@ -152,6 +152,7 @@ defaults:
         asset: default-card.png
       layout: "page"
       sidenav: true
+      yesno: true
       featured: false
   - scope:
       path: "admin/"

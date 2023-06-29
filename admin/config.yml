@@ -325,6 +325,11 @@ collections:
         name: print
         widget: boolean
         required: false
+      - label: Helpful Yes or No
+        name: yesno
+        widget: boolean
+        default: true
+        required: false
       - label: Related Content
         name: related-content
         widget: boolean
@@ -437,6 +442,11 @@ collections:
             widget: string
             required: false
         required: false
+      - label: Helpful Yes or No
+        name: yesno
+        widget: boolean
+        default: true
+        required: false
       - label: Related Content
         name: related-content
         widget: boolean
@@ -477,6 +487,11 @@ collections:
       - label: Body Content
         name: body
         widget: markdown
+      - label: Helpful Yes or No
+        name: yesno
+        widget: boolean
+        default: true
+        required: false
       - label: Related Content
         name: related-content
         widget: boolean
@@ -514,6 +529,11 @@ collections:
       - label: Body Content
         name: body
         widget: markdown
+      - label: Helpful Yes or No
+        name: yesno
+        widget: boolean
+        default: true
+        required: false
       - label: Related Content
         name: related-content
         widget: boolean

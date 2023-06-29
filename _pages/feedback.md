@@ -6,4 +6,5 @@ lead: |-
     Please tell us how we can make this site better. Thank you.
 lang: "en"
 sidenav: false
+yesno: false
 ---

@@ -76,3 +76,44 @@
   }
 
 }
+
+#touchpoints-yes-no-all-wrapper {
+  padding: 1.25rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  background-color: #d9e8f6;
+
+  .fba-modal-dialog {
+    background-color: #d9e8f6;
+  }
+
+  #touchpoints-longer-feedback-form {
+    .question.white-bg {
+      background: white;
+      border-radius: 5px;
+      margin-bottom: 1em;
+      padding: 1.25em;
+    }
+  }
+
+  #touchpoints-yes-no-form {
+    .question.white-bg {
+      background-color: #d9e8f6;
+    }
+
+    .questions label {
+      display: none;
+    }
+  }
+
+  .usa-button{
+    background-color: color($theme-color-primary-darker);
+    &:hover {
+      background-color: color($theme-link-hover-color) !important;
+    }
+    &:focus {
+      background-color: color($theme-link-hover-color) !important;
+    }
+  }
+
+}

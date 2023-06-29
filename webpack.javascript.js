@@ -11,6 +11,7 @@ module.exports = {
     clickTracking: './_assets/js/click-tracking.js',
     netlifyPreview: './_assets/js/netlify/preview.js',
     redirect404: './_assets/js/redirect404.js',
+    yesNo: './_assets/js/yes-no.js',
   },
   experiments: {
       topLevelAwait: true
