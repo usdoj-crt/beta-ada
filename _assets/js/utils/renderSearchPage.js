@@ -4,6 +4,8 @@ import applyFocusStyling from "./applyFocusStyling";
 import createRange from "./createRange";
 import wrapUrls from "./wrapUrls";
 import bestBetsSectionTemplate from "../templates/search/bestBetsSectionTemplate";
+import graphicBestBetsTemplate from "../templates/search/graphicBestBetsTemplate";
+import graphicBestBetsSectionTemplate from "../templates/search/graphicBestBetsSectionTemplate";
 import paginationTemplate from "../templates/pagination/paginationTemplate";
 import textBestBetsTemplate from "../templates/search/textBestBetsTemplate";
 import searchResultsTemplate from "../templates/search/searchResultsTemplate";
@@ -12,6 +14,7 @@ import clickTracking from "../click-tracking";
 
 export default function renderSearchPage(searchResults, urlParams, numberOfResults) {
   const results = searchResults;
+  const graphicResults = results.graphic_best_bets;
   const textResults = results.text_best_bets;
   const webResults = results.web.results;
   let webTotalResults = results.web.total;
@@ -22,6 +25,11 @@ export default function renderSearchPage(searchResults, urlParams, numberOfResul
     const bestBetsSection = bestBetsSectionTemplate(bestBetResults);
     renderSearchResults(bestBetsSection);
     renderSearchResults(`<p markdown="0" class="total-results margin-top-4">All search results</p>`)
+  }
+  if (graphicResults.length) {
+    const bestBetGraphicResults = graphicResults.map(item => graphicBestBetsTemplate(item));
+    const bestBetsGraphicSection = graphicBestBetsSectionTemplate(bestBetGraphicResults);
+    renderSearchResults(bestBetsGraphicSection);
   }
   if (webResults.length) {
     // Set the offset value to 0 initially, this helps with styling the first page icon:
