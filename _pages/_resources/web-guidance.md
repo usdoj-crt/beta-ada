@@ -13,6 +13,7 @@ print: true
 sidenav-pdf:
   title: Guidance on Web Accessibility and the ADA
   filename: web-guidance.pdf
+  text: Download PDF Guidance
 tags:
   - web access
   - technology

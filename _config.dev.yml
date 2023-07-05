@@ -1,0 +1,22 @@
+exclude: # Be sure to add new excludes to _config.yml as well!
+  - package.json
+  - package-lock.json
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE.md
+  - Dockerfile
+  - docker-compose.yml
+  - babel.config.json
+  - webpack.javascript.js
+  - webpack.sass.js
+  - playwright.config.js
+  - /docs
+  - /tests
+  - /test-results
+  - /playwright-report
+  - /mock_data
+  - make_redirects.rb
+  - /scripts
+  - /node_modules
+  # The following are only excluded from the dev workflow:
+  - _pages/redirects

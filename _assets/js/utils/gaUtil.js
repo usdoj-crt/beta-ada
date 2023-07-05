@@ -19,6 +19,8 @@ function gtag() {
     ['.learn-link', 'click', sendGAClickEvent],
     ['.crt-sidenav-subnav-item', 'click', sendGAClickEvent],
     ['.info-box-link', 'click', sendGAClickEvent],
+    ['.best-bet', 'click', sendGAClickEvent],
+    ['.expand-all', 'click', sendGAClickEvent],
   ]
   
   export default function initGAEvents() {
