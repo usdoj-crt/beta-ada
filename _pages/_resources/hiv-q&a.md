@@ -27,10 +27,8 @@ Moreover, the ADA protects persons who are discriminated against because they ha
 {% enddetails %}
 
 {% accordion fc %}
-{% collapsible %}
 ### Filing a Complaint Information
 Information on filing a complaint with the Department of Justice can be found at [Filing A Complaint]({{'/file-a-complaint' | relative_url}}). For more information on how to send complaints to the Department by mail, fax, or online, see the end of this document.
-{% endcollapsible %}
 {% endaccordion %}
 
 ## II. Employment
