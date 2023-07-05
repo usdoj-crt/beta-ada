@@ -436,6 +436,11 @@ collections:
             name: filename
             widget: string
             required: false
+          - label: Text
+            name: text
+            widget: string
+            required: false
+            default: "Download PDF"
         required: false
       - label: Related Content
         name: related-content
@@ -474,6 +479,23 @@ collections:
         widget: boolean
         default: true
         required: false
+      - label: Sidenav PDF
+        name: sidenav-pdf
+        widget: object
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            required: false
+          - label: Filename
+            name: filename
+            widget: string
+            required: false
+          - label: Text
+            name: text
+            widget: string
+            required: false
+            default: "Download PDF"
       - label: Body Content
         name: body
         widget: markdown
@@ -511,6 +533,23 @@ collections:
         widget: boolean
         default: true
         required: false
+      - label: Sidenav PDF
+        name: sidenav-pdf
+        widget: object
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            required: false
+          - label: Filename
+            name: filename
+            widget: string
+            required: false
+          - label: Text
+            name: text
+            widget: string
+            required: false
+            default: "Download PDF"
       - label: Body Content
         name: body
         widget: markdown

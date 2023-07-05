@@ -13,6 +13,7 @@ print: true
 sidenav-pdf:
   title: The ADA and Opioid Use Disorder - Combating Discrimination Against People in Treatment or Recovery
   filename: opioid-guidance.pdf
+  text: Download PDF Guidance
 tags:
   - medical care
   - health care

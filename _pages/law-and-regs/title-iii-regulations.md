@@ -13,6 +13,7 @@ redirect_from:
 sidenav-pdf:
   title: Americans with Disabilities Act Title III Regulations
   filename: title-iii-2010-regulations.pdf
+  text: Download PDF
 expand-sidenav: true
 related-content: true
 tags:

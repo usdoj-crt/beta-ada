@@ -30,7 +30,7 @@ layout: default
         {% include print-button.html %}
       {% endif %}
       {% if page.sidenav-pdf.title and page.sidenav-pdf.filename %}
-        {% include download-pdf.html filename=page.sidenav-pdf.filename %}
+        {% include download-pdf.html text=page.sidenav-pdf.text filename=page.sidenav-pdf.filename %}
       {% endif %}
     </div>
     {% endif %}
