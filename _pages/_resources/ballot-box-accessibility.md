@@ -48,9 +48,10 @@ An accessible route has the following features:
 {% list check_circle %}
 {% list_item %}Stable, firm, and slip-resistant surface (no grass, gravel, or standing water, for example){% endlist_item %}
 {% list_item %}No surface openings (such as holes or grate openings) greater than ½ inch wide{% endlist_item %}
-{% list_item %}Clear width no less than 36 inches Running slope in the direction of travel no greater than 1:20 (5.0%){% endlist_item %}
-{% list_item %}Cross slope no greater than 1:48 (2.08%) No changes in level greater than ½ inch (no steps, for example){% endlist_item %}
-{% list_item %}Cross slope no greater than 1:48 (2.08%) No changes in level greater than ½ inch (no steps, for example){% endlist_item %}
+{% list_item %}Clear width no less than 36 inches{% endlist_item %}
+{% list_item %}Running slope in the direction of travel no greater than 1:20 (5.0%){% endlist_item %}
+{% list_item %}Cross slope no greater than 1:48 (2.08%){% endlist_item %}
+{% list_item %}No changes in level greater than ½ inch (no steps, for example){% endlist_item %}
 {% list_item %}No protruding or overhanging objects (such as tree branches){% endlist_item %}
 {% endlist %}
 
