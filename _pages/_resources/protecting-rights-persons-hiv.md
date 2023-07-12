@@ -63,7 +63,7 @@ Entities may also impose necessary legitimate safety requirements, but must ensu
 
 A person who believes that he or she is being or has been discriminated against because of HIV or AIDS by a public accommodation or a State or local government may file a complaint with the U.S. Department of Justice (DOJ). Individuals are also entitled to bring private lawsuits under the ADA.
 
-To file a complaint with DOJ, visit [https://civilrights.justice.gov/](https://civilrights.justice.gov/report/?utm_campaign=499a0d26-884a-47aa-9afc-70094d92e6f5)
+To file a complaint with DOJ, visit [https://civilrights.justice.gov/.](https://civilrights.justice.gov/report/?utm_campaign=499a0d26-884a-47aa-9afc-70094d92e6f5)
 
 Complaints may also be sent as follows:
 
