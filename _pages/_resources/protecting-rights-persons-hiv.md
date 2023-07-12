@@ -1,16 +1,19 @@
 ---
-title: "Protecting the Rights of Persons Living with HIV/AIDS Fighting Discrimination"
-description: "A publication explaining the rights of persons with HIV/AIDS under the Americans with Disabilities Act (ADA), and the requirements of the ADA for employers, businesses and non-profit agencies that serve the public, and State and local governments to avoid discriminating against persons with HIV/AIDS"
+title: Protecting the Rights of Persons Living with HIV/AIDS Fighting Discrimination
+description: A publication explaining the rights of persons with HIV/AIDS under
+  the Americans with Disabilities Act (ADA), and the requirements of the ADA for
+  employers, businesses and non-profit agencies that serve the public, and State
+  and local governments to avoid discriminating against persons with HIV/AIDS
 permalink: /resources/protecting-rights-persons-hiv/
-lang: "en"
+redirect_from:
+  - /hiv/ada_hiv_brochure.html
+lang: en
+print: true
 publish-date: 2015-09-01 00:00:00
 updated-date: 2020-02-28 00:00:00
-print: true
 related-content: true
 tags:
   - health care
-redirect_from:
-  - /hiv/ada_hiv_brochure.html
 ---
 {% asset project-images/ribbon.png alt="AIDS red ribbon" height="100" width="100" style="float:right" %}The Americans with Disabilities Act (ADA) guarantees equal opportunity for individuals with disabilities in public accommodations, employment, transportation, State and local government services, and telecommunications. People with HIV, both symptomatic and asymptomatic, are protected by the ADA.  The ADA also protects persons who are discriminated against because they have a record of or are regarded as having HIV, or they have a known association or relationship with an individual who has HIV.
 
@@ -34,13 +37,10 @@ The ADA prohibits discrimination by public accommodations, which include busines
 
 Public accommodations generally:
 
-- *Must* give a person with a disability an equal opportunity to use or enjoy the entity's goods, services, and facilities.
-
-- *Must* make reasonable modifications in policies, practices, or procedures when necessary to afford goods and services to individuals with disabilities, unless the public accommodation can demonstrate that making such modifications would fundamentally alter the nature of the goods and services.
-
-- *Must* provide auxiliary aids and services when necessary to ensure that communication with individuals with disabilities is as effective as with others, unless the public accommodation can demonstrate that providing such aids and services would fundamentally alter the nature of the goods and services being offered or would result in an undue burden.
-
-- *Must* ensure that no individual with a disability is screened out, denied the opportunity to participate, segregated, or otherwise treated differently than other individuals, unless doing so is necessary for the provision of goods or services or necessary for safe operation.
+* *Must* give a person with a disability an equal opportunity to use or enjoy the entity's goods, services, and facilities.
+* *Must* make reasonable modifications in policies, practices, or procedures when necessary to afford goods and services to individuals with disabilities, unless the public accommodation can demonstrate that making such modifications would fundamentally alter the nature of the goods and services.
+* *Must* provide auxiliary aids and services when necessary to ensure that communication with individuals with disabilities is as effective as with others, unless the public accommodation can demonstrate that providing such aids and services would fundamentally alter the nature of the goods and services being offered or would result in an undue burden.
+* *Must* ensure that no individual with a disability is screened out, denied the opportunity to participate, segregated, or otherwise treated differently than other individuals, unless doing so is necessary for the provision of goods or services or necessary for safe operation.
 
 ## State and Local Governments
 
@@ -50,9 +50,8 @@ The ADA applies to all State and local government programs, services, and activi
 
 A health care provider, whether public or private:
 
-- *May* not generally refer a patient with HIV or AIDS to another provider simply because the person has HIV or AIDS.
-
-- *May* refer a person who requests or requires treatment or services outside the provider's area of expertise and such referrals are routinely made.
+* *May* not generally refer a patient with HIV or AIDS to another provider simply because the person has HIV or AIDS.
+* *May* refer a person who requests or requires treatment or services outside the provider's area of expertise and such referrals are routinely made.
 
 ## Exclusion of Individuals with HIV or AIDS
 
@@ -70,15 +69,15 @@ Complaints may also be sent as follows:
 
 By Mail:
 
->U.S. Department of Justice<br>
->Civil Rights Division<br>
->Disability Rights Section<br>
->950 Pennsylvania Ave., NW<br>
->Washington, D.C.20530
+> U.S. Department of Justice<br>
+> Civil Rights Division<br>
+> Disability Rights Section<br>
+> 950 Pennsylvania Ave., NW<br>
+> Washington, D.C.20530
 
 By Fax:
 
->(202) 307-1197
+> (202) 307-1197
 
 ## Housing
 
@@ -90,16 +89,16 @@ For complaints concerning housing-related discrimination, contact the U.S. Depar
 
 ## ADA Information Line
 
-For more information on the ADA and the rights of persons living with HIV/AIDS, or to request this publication in an alternative format, call our [ADA Information Line]({{'/infoline' | relative_url}}) Monday, Tuesday, Wednesday, Friday: 9:30am - 12pm and 3pm - 5:30pm ET and Thursday 2:30pm - 5:30pm (Eastern Time) to speak with an ADA specialist. Calls are confidential.
+For more information on the ADA and the rights of persons living with HIV/AIDS, or to request this publication in an alternative format, call our \[ADA Information Line]({{'/infoline' | relative_url}}) Monday, Tuesday, Wednesday, Friday: 9:30am - 12pm and 3pm - 5:30pm ET and Thursday 2:30pm - 5:30pm (Eastern Time) to speak with an ADA specialist. Calls are confidential.
 
->800-514-0301 (Voice)<br>
->833-610-1264 (TTY)
+> 800-514-0301 (Voice)<br>
+> 833-610-1264 (TTY)
 
 ## Additional Resources
 
 For advice to employers on how to reasonably accommodate individuals with disabilities in the workplace, contact the Job Accommodation Network (JAN) at 800-526-7234 (Voice) or 877-781-9401 (TTY) or visit [www.askjan.org](https://www.askjan.org).
 
-For more Federal government resources and information on HIV/AIDS, including about prevention, testing, treatment, research, and the National HIV/AIDS Strategy, visit [AIDS.gov](https://www.aids.gov)
+For more Federal government resources and information on HIV/AIDS, including about prevention, testing, treatment, research, and the National HIV/AIDS Strategy, visit [AIDS.gov.](https://www.aids.gov)
 
 <hr>
 The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
