@@ -24,12 +24,14 @@ export default function renderSearchPage(searchResults, urlParams, numberOfResul
     const bestBetResults = textResults.map(item => textBestBetsTemplate(item));
     const bestBetsSection = bestBetsSectionTemplate(bestBetResults);
     renderSearchResults(bestBetsSection);
-    renderSearchResults(`<p markdown="0" class="total-results margin-top-4">All search results</p>`)
   }
   if (graphicResults.length) {
     const bestBetGraphicResults = graphicResults.map(item => graphicBestBetsTemplate(item));
     const bestBetsGraphicSection = graphicBestBetsSectionTemplate(bestBetGraphicResults);
     renderSearchResults(bestBetsGraphicSection);
+  }
+  if (textResults.length || graphicResults.length) {
+    renderSearchResults(`<p markdown="0" class="total-results margin-top-4">All search results</p>`);
   }
   if (webResults.length) {
     // Set the offset value to 0 initially, this helps with styling the first page icon:
