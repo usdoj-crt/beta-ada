@@ -1,0 +1,26 @@
+{% assign lang = page.lang %}
+{% if lang==nil %}{% assign lang="en" %}{% endif %}
+{% assign sorted_topics = site.topics | sort: 'card.title' %}
+{% assign first_column = sorted_topics | slice:0, 7 %}
+{% assign second_column = sorted_topics | slice:7, 14 %}
+<div class="grid-container">
+<h3>Jump to your topic</h3>
+<ul class="grid-row add-list-reset margin-bottom-7">
+    <li class="grid-col-6">
+        <ul class="add-list-reset">
+    {% for topic in first_column %}
+        {% assign hash = topic.card.title | split: " " | join: "" %}
+        <li><a class="line-height-mono-6" href="#{{ hash }}" aria-label="Learn more about {{ topic.card.title }}">{{ topic.card.title }}</a></li>
+    {% endfor %}
+        </ul>
+    </li>
+    <li class="grid-col-6">
+        <ul class="add-list-reset">
+        {% for topic in second_column %}
+            {% assign hash = topic.card.title | split: " " | join: "" %}
+            <li><a class="line-height-mono-6" href="#{{ hash }}" aria-label="Learn more about {{ topic.card.title }}">{{ topic.card.title }}</a></li>
+        {% endfor %}
+        </ul>
+    </li>
+</ul>
+</div>
