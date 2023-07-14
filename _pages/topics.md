@@ -13,7 +13,7 @@ lead: Featured topics are high-level, plain-language explanations of the existin
 <h1>Topics</h1>
 <p>Featured topics are high-level, plain-language explanations of the existing information that the Department has made available about the law.</p>
 {% details Learn more about Topics %}
-Featured topics are intended for an audience of people who are not legal experts. We expect that these overviews will answer 80 percent of common questions about a particular topic. They are designed to be easy to scan and navigate. They have clear headings and links that help users skip to a particular section. The overviews are also designed to be easy to understand. They use icons to help explain definitions and they provide clear examples.
+<p>Featured topics are intended for an audience of people who are not legal experts. We expect that these overviews will answer 80 percent of common questions about a particular topic. They are designed to be easy to scan and navigate. They have clear headings and links that help users skip to a particular section. The overviews are also designed to be easy to understand. They use icons to help explain definitions and they provide clear examples.</p>
 {% enddetails %}
 </div>
 </div>
