@@ -1,5 +1,6 @@
 ---
 title: Americans with Disabilities Act Title II Regulations
+description: Title II of the ADA - regulations for state and local governments meant to ensure that people with disabilities can participate in all aspects of civic life.
 permalink: /law-and-regs/title-ii-2010-regulations/
 lead: |-
   Part 35 Nondiscrimination on the Basis of Disability in State and Local Government Services.
