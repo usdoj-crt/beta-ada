@@ -1,5 +1,6 @@
 ---
 title: Americans with Disabilities Act Title III Regulations
+description: Title III of the ADA - regulations for businesses, including nonprofits meant to ensure that people with disabilities can access places of business and public accommodation.
 permalink: /law-and-regs/title-iii-regulations/
 publish-date: 2012-03-08 00:00:00
 print: true

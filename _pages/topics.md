@@ -1,6 +1,7 @@
 ---
 permalink: /topics/
 title: Topics
+description: These topic overviews are a basic starting point for understanding areas the ADA covers including service animals, parking and effective communication.
 hide_page_type_info: true
 layout: default
 lead: Featured topics are high-level, plain-language explanations of the existing information that the Department has made available about the law.
