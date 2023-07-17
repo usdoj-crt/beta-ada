@@ -1,5 +1,16 @@
+{% for post in site.categories.notices reversed limit:1 %}
+
 {% assign lang = "en" %}
 {% if lang==nil %}{% assign lang="en" %}{% endif %}
+
+{% if post.notice_link==nil && post.notice_link_es==nil %}
+  {% assign notice_link = nil %}
+{% elsif lang=="en" %}
+  {% assign notice_link = post.notice_link %}
+{% elsif lang=="es" %}
+  {% assign notice_link = post.notice_link_es %}
+{% endif %}
+
 {% if post.notice_text==nil && post.notice_text_es==nil %}
   {% assign notice_text = nil %}
 {% elsif lang=="en" %}
@@ -8,23 +19,25 @@
   {% assign notice_text = post.notice_text_es %}
 {% endif %}
 
-<section id="warning-banner" class="usa-site-alert usa-site-alert--info" aria-label='Site alert, {{ notice_text }}'>
+{% if notice_link || notice_text %}
+<section id="warning-banner" class="usa-site-alert usa-site-alert--info" aria-label='Site alert'>
   <div class="usa-alert">
     <div class="usa-alert__body">
-      {% for post in site.categories.notices reversed limit:1 %}
       {% if notice_text %}
-        <h3 class="usa-alert__heading pa11y-skip">{{ notice_text }}</h3>
+      <h3 class="usa-alert__heading pa11y-skip">{{ notice_text }}</h3>
       {% endif %}
+      {% if notice_link %}
       <p class="usa-alert__text">
         <a
           aria-label="alert link"
           class="pa11y-skip alert-link"
           href="{{ post.url | relative_url }}"
-          >{% if lang=="en" %}{{ post.notice_link }}{% elsif lang=="es" %}{{post.notice_link}}{% endif %}</a
+          >{% if lang=="en" %}{{ notice_link }}{% elsif lang=="es" %}{{notice_link}}{% endif %}</a
         >
       </p>
-      {% endfor %}
+      {% endif %}
     </div>
   </div>
 </section>
-
+{% endif %}
+{% endfor %}

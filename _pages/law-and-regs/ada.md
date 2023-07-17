@@ -1,5 +1,6 @@
 ---
 title: Americans with Disabilities Act of 1990, As Amended
+description: The text of the Americans with Disabilities Act of 1990 (ADA), including changes made by the ADA Amendments Act of 2008.
 permalink: /law-and-regs/ada/
 lead: |-
     Editor's Note:

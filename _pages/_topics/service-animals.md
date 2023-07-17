@@ -1,6 +1,6 @@
 ---
 title: Service Animals
-description: The ADA explains what businesses and state/local governments must do to make sure that they do not discriminate against a member of the public with a disability who uses a service animal. Generally, service animals must be allowed to go most places where the public can go. Service animals can be any breed and any size of dog. Service animals are trained to perform a task directly related to a person's disability.
+description: Overview of the ADA's explanation of what businesses and governments must do to make sure that they do not discriminate against people who use service animals.
 lead: |-
   The ADA explains what businesses and state/local governments must do to make sure that they do not discriminate against a member of the public with a disability who uses a service animal.
 
