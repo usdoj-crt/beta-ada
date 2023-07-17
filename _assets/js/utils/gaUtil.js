@@ -21,8 +21,9 @@ function gtag() {
     ['.info-box-link', 'click', sendGAClickEvent],
     ['.best-bet', 'click', sendGAClickEvent],
     ['.expand-all', 'click', sendGAClickEvent],
+    ['.topic-jumplink', 'click', sendGAClickEvent],
   ]
-  
+
   export default function initGAEvents() {
     ANALYTICS_CONFIG.forEach(([selector, event, action]) => {
       document.querySelectorAll(selector).forEach(el => {

@@ -10,7 +10,7 @@
         <ul class="add-list-reset">
     {% for topic in first_column %}
         {% assign hash = topic.card.title | split: " " | join: "" %}
-        <li><a class="line-height-mono-6" href="#{{ hash }}" aria-label="Learn more about {{ topic.card.title }}">{{ topic.card.title }}</a></li>
+        <li><a class="line-height-mono-6 topic-jumplink" href="#{{ hash }}" aria-label="Jumplink to learn more about {{ topic.card.title }}">{{ topic.card.title }}</a></li>
     {% endfor %}
         </ul>
     </li>
@@ -18,7 +18,7 @@
         <ul class="add-list-reset">
         {% for topic in second_column %}
             {% assign hash = topic.card.title | split: " " | join: "" %}
-            <li><a class="line-height-mono-6" href="#{{ hash }}" aria-label="Learn more about {{ topic.card.title }}">{{ topic.card.title }}</a></li>
+            <li><a class="line-height-mono-6 topic-jumplink" href="#{{ hash }}" aria-label="Jumplink to learn more about {{ topic.card.title }}">{{ topic.card.title }}</a></li>
         {% endfor %}
         </ul>
     </li>
