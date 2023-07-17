@@ -15,11 +15,11 @@
     <li property="itemListElement"
     typeof="ListItem" class="usa-breadcrumb__list-item">
       {% if forloop.last %} {{ page.title }} {% else %}
-      <a aria-label="{{ crumb | replace:'-',' ' | remove:'.html' | capitalize | replace:'Topics','Featured Topics' | replace:'Law and regs','Laws, Regulations & Standards' | replace:'Resources','Guidance & Resource Materials' }}" property="item"
+      <a aria-label="{{ crumb | replace:'-',' ' | remove:'.html' | capitalize | replace:'Law and regs','Laws, Regulations & Standards' | replace:'Resources','Guidance & Resource Materials' }}" property="item"
       typeof="WebPage"
         href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}"
         ><span property="name">
-          {{ crumb | replace:'-',' ' | remove:'.html' | capitalize | replace:'Topics','Featured Topics' | replace:'Law and regs','Laws, Regulations & Standards' | replace:'Resources','Guidance & Resource Materials' | truncate: 25, '...' }}</span></a
+          {{ crumb | replace:'-',' ' | remove:'.html' | capitalize | replace:'Law and regs','Laws, Regulations & Standards' | replace:'Resources','Guidance & Resource Materials' | truncate: 25, '...' }}</span></a
       ><meta property="position" content="{{crumb_limit}}" />
       {% endif %}
     </li>

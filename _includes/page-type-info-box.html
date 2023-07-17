@@ -24,7 +24,7 @@
       {% case pageType %}
         {% when 'topics' %}
           {% include svg/library.html %}
-          <span>Featured Topic</span>
+          <span>Topic</span>
         {% when 'resources' %}
           {% include svg/folder.html %}
           <span>Guidance & Resources</span>
@@ -47,7 +47,7 @@
 
         <ul class="no-bullets">
           {% unless pageType == 'topics' %}
-          <li>For a beginner-level introduction to a topic, view <a class="usa-summary-box__link info-box-link" href="/topics" aria-label="info box link">Featured Topics</a></li>
+          <li>For a beginner-level introduction to a topic, view <a class="usa-summary-box__link info-box-link" href="/topics" aria-label="info box link">Topics</a></li>
           {% endunless %}
           {% unless pageType == 'resources' %}
           <li>For more detailed information on a topic, view <a class="usa-summary-box__link info-box-link" href="/resources{{ filters }}" aria-label="info box link">Guidance & Resource materials</a></li>
