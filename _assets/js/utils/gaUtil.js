@@ -27,6 +27,7 @@ function gtag() {
     ['.info-box-link', 'click', sendGAClickEvent],
     ['.best-bet', 'click', sendGAClickEvent],
     ['.expand-all', 'click', sendGAClickEvent],
+    ['.file-a-complaint', 'click', sendGAClickEvent],
   ]
 
   export default function initGAEvents() {
