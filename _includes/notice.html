@@ -29,7 +29,7 @@
       {% if notice_link %}
       <p class="usa-alert__text">
         <a
-          aria-label="alert link"
+          data-ga-event-name="alert link {{ notice_link }}"
           class="pa11y-skip alert-link"
           href="{{ post.url | relative_url }}"
           >{% if lang=="en" %}{{ notice_link }}{% elsif lang=="es" %}{{notice_link}}{% endif %}</a
