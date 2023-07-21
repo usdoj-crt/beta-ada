@@ -1,0 +1,144 @@
+@use 'uswds-core' as *;
+@use 'variables' as *;
+
+.carousel,
+.slide {
+  padding: 0;
+  margin: 0;
+}
+
+.slide {
+  width: 90%;
+}
+
+.carousel {
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.carousel .slide-container {
+    height: 475px;
+}
+
+.carousel ul {
+  margin: 0;
+  padding: 0;
+}
+.carousel .controls {
+    height: 16px;
+}
+
+.carousel .hidden {
+    visibility: hidden;
+}
+
+.slide {
+  height: 475px;
+  background-size: cover;
+  position: relative;
+  margin-bottom: 1em;
+}
+
+.slide p {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.carousel.active {
+  height: 600px;
+  position: relative;
+}
+
+.active .slide {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 100%;
+  z-index: 200;
+}
+
+.slide.current {
+  display: block;
+  z-index: 500;
+}
+
+.btn-prev,
+.btn-next {
+  height: 80%;
+  position: absolute;
+  z-index: 700;
+  top: 0;
+  border: 0;
+  background: transparent;
+  width: 50%;
+}
+
+.btn-prev {
+  left: 0;
+}
+
+.btn-next {
+  right: 0;
+}
+
+.carousel.with-slidenav {
+  padding-bottom: 2.5em;
+}
+
+.slidenav {
+  display: flex;
+}
+
+.slidenav li {
+  display: inline-block;
+  margin: 0 2px;
+  width: 20%;
+}
+
+.slidenav button {
+  background-color: #919191;
+  border: solid 1px #919191;
+  height: 8px;
+  width: 100%;
+}
+
+.slidenav button.current {
+  background-color: #265D9D;
+  border: solid 1px black;
+}
+
+.slidenav button:hover,
+.slidenav button:focus {
+  background-color: #265D9D;
+}
+
+.slidenav button.current:hover,
+.slidenav button.current:focus {
+  background-color: #265D9D;
+}
+
+.active .slide {
+  display: block;
+  visibility: hidden;
+  transition: left 0.6s ease-out;
+  width: 85%;
+}
+
+.active .slide.current {
+  visibility: visible;
+  left: 0;
+}
+
+.active .slide.next {
+  visibility: visible;
+  left: 85%;
+}
+
+.active .slide.prev {
+  left: -85%;
+}
+
+.active .slide.next.in-transition,
+.active .slide.prev.in-transition {
+  visibility: visible;
+}
