@@ -7,10 +7,6 @@
   margin: 0;
 }
 
-.slide {
-  width: 90%;
-}
-
 .carousel {
   overflow-x: hidden;
   position: relative;
@@ -38,6 +34,7 @@
   background-size: cover;
   position: relative;
   margin-bottom: 1em;
+  width: 90%;
 }
 
 .slide p {
@@ -50,11 +47,14 @@
 }
 
 .active .slide {
-  display: none;
+  display: block;
   position: absolute;
   top: 0;
   left: 85%;
   z-index: 200;
+  visibility: hidden;
+  transition: left 0.6s ease-out;
+  width: 85%;
 }
 
 .slide.current {
@@ -112,13 +112,6 @@
 .slidenav button.current:hover,
 .slidenav button.current:focus {
   background-color: #265D9D;
-}
-
-.active .slide {
-  display: block;
-  visibility: hidden;
-  transition: left 0.6s ease-out;
-  width: 85%;
 }
 
 .active .slide.current {
