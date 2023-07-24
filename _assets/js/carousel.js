@@ -69,10 +69,10 @@ const mobileCarousel = () => {
     ctrls.className = 'controls';
     ctrls.innerHTML =
       '<li>' +
-      '<button type="button" class="btn-prev" alt="Previous Item" />' +
+      '<button type="button" class="btn-prev" aria-label="Previous slide" alt="Previous Item" />' +
       '</li>' +
       '<li>' +
-      '<button type="button" class="btn-next" alt="Next Item" />' +
+      '<button type="button" class="btn-next" aria-label="Next slide" alt="Next Item" />' +
       '</li>';
 
     ctrls.querySelector('.btn-prev').addEventListener('click', function () {
@@ -103,10 +103,11 @@ const mobileCarousel = () => {
 
       if (settings.slidenav) {
         forEachElement(slides, function (el, i) {
-          let li = document.createElement('li');
-          let klass = i === 0 ? 'class="current" ' : '';
+          const li = document.createElement('li');
+          const klass = i === 0 ? 'class="current" ' : '';
+          const ariaLabel = '"slide ' + (i + 1) + ' navigation"'
 
-          li.innerHTML = '<button ' + klass + 'data-slide="' + i + '"/>';
+          li.innerHTML = '<button aria-label=' + ariaLabel + klass + 'data-slide="' + i + '"/>';
           slidenav.appendChild(li);
         });
       }
@@ -227,7 +228,7 @@ const mobileCarousel = () => {
 
     // Add classes to the previous, next and current slide
     slides[new_next].className = 'next slide' + (transition == 'next' ? ' in-transition' : '');
-    slides[new_next].setAttribute('aria-hidden', 'true');
+    slides[new_next].removeAttribute('aria-hidden');
 
     slides[new_prev].className = 'prev slide' + (transition == 'prev' ? ' in-transition' : '');
     slides[new_prev].setAttribute('aria-hidden', 'true');
@@ -258,7 +259,7 @@ const mobileCarousel = () => {
   function nextSlide(announceItem) {
     announceItem = typeof announceItem !== 'undefined' ? announceItem : false;
 
-    let length = slides.length,
+    const length = slides.length,
       new_current = index + 1;
 
     if (new_current === length) {
@@ -281,7 +282,7 @@ const mobileCarousel = () => {
   function prevSlide(announceItem) {
     announceItem = typeof announceItem !== 'undefined' ? announceItem : false;
 
-    let length = slides.length,
+    const length = slides.length,
       new_current = index - 1;
 
     // If we are already on the first slide, show the last slide instead.
