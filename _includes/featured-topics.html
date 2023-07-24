@@ -1,5 +1,5 @@
 <div class="crt-landing--section crt-lightblue" markdown="0">
-  <div class="grid-container margin-bottom-7 margin-top-7">
+  <div class="grid-container desktop:margin-bottom-7 desktop:margin-top-7 mobile:margin-bottom-2 mobile:margin-top-5">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-10">
 
@@ -11,7 +11,7 @@
           </p>
         </div>
     </div>
-        <div class="tablet:grid-col-12">
+        <div class="tablet:grid-col-12 featured-topics">
           <ul class="usa-card-group">
             {% for topic in site.topics %} {% if topic.topic-page-feature == true %} {% include
             card.html card=topic %} {% endif %}{% endfor %}
