@@ -16,13 +16,13 @@ This can include, among other things, modifying policies, practices, and procedu
 
 The term criminal justice is wide-ranging. Here are some examples of criminal justice agencies, criminal justice professionals and their duties:
 
-Examples of Criminal Justice Agencies:
+**Examples of Criminal Justice Agencies:**
 
 - Law Enforcement
 - Criminal Courts
 - Prisons and Jails
 
-Examples of Criminal Justice Professionals:
+**Examples of Criminal Justice Professionals:**
 
 - Police Officers
 - Sheriff’s Deputies
@@ -35,7 +35,7 @@ Examples of Criminal Justice Professionals:
 - Officers, Managers, and Medical Staff in prisons and jails
 - Parole Officers
 
-Examples of Criminal Justice Duties:
+**Examples of Criminal Justice Duties:**
 
 - Conducting traffic stops
 - Providing 911 emergency services
@@ -44,7 +44,7 @@ Examples of Criminal Justice Duties:
 - Conducting criminal hearings, motions, and trials
 - Housing and managing people who are incarcerated in prisons or jails
 
-The ADA affects virtually everything that criminal justice agencies do. For example, criminal justice agencies must:
+**The ADA affects virtually everything that criminal justice agencies do. For example, criminal justice agencies must:**
 
 - Make reasonable modifications to policies, practices, and procedures where needed to make sure that a person with a disability can access their programs, services, and activities.
 - Follow specific standards for physical accessibility when building or altering a building or facility.
@@ -57,14 +57,18 @@ You can find examples and limitations to these requirements and how they look in
 
 Criminal justice agencies and their employees must reasonably modify their policies, practices, and procedures to avoid discriminating against people with disabilities.
 
-Examples of Reasonable Modifications:
+**Examples of Reasonable Modifications:**
 
 - Handcuffing a person who is deaf in front of the body instead of behind the body so that they may communicate using sign language or by writing notes.
-- Having someone with an intellectual disability repeat back each sentence of their Miranda rights in their own words to make sure that these rights are understood.
+- Having someone with an intellectual disability repeat back each sentence of their *Miranda* rights in their own words to make sure that these rights are understood.
 
-Sometimes a Modification is Not Required
+### Sometimes a Modification is Not Required
 
-Criminal justice agencies do not have to make modifications that would fundamentally alter the program or service being provided.  [accordion – “more about what fundamental alteration means”]
+Criminal justice agencies do not have to make modifications that would *fundamentally alter* the program or service being provided.
+
+{% details More about what fundamental alteration means? %}
+A fundamental alteration is something that would change the essential nature of the entity's program or services.
+{% enddetails %}
 
 ## Architectural Access
 
@@ -87,7 +91,7 @@ Criminal justice agencies must make their programs, services, and activities acc
 <th scope="row">A criminal courthouse built in 1887 has a courtroom on the second floor and there is no elevator. The person on trial uses a wheelchair.</th>
 <td>The court can make the trial accessible by holding it in a courtroom on the first floor or in another building that is wheelchair accessible.
 
-"Because the courthouse was built before 1992, it is not required to put in an elevator. Instead, it must make its program – in this case, the trial – accessible."</td>
+<p>"Because the courthouse was built before 1992, it is not required to put in an elevator. Instead, it must make its program – in this case, the trial – accessible."</p></td>
 </tr>
 <tr>
 <th scope="row">A person with a mobility disability tries to access a police station to file a police report. The station has not been altered since before the ADA was passed and has stairs and narrow doorways that make it inaccessible.</th>
@@ -119,20 +123,28 @@ When deciding what communication aid should be provided, primary consideration s
 <th scope="row">A person who is deaf is pulled over by a local law enforcement officer.</th>
 <td>The law enforcement agency provided paper and pen to the officer to communicate with the driver the reason the driver was pulled over and to answer any questions the driver might have.
 
-The law enforcement agency must provide communication aids that enable the officer to communicate effectively with the person being arrested.</td>
+<p>The law enforcement agency must provide communication aids that enable the officer to communicate effectively with the person being arrested.</p></td>
 </tr>
 </tbody>
 </table>
 
-Sometimes a Communication Aid or Service is Not Required
+### Sometimes a Communication Aid or Service is Not Required
 
-Criminal justice agencies do not have to provide aids and services if providing them would place an undue burden on them.  [accordion – “more about what undue burden means”]
+Criminal justice agencies do not have to provide aids and services if providing them would place an *undue burden* on them.
 
-Criminal justice agencies also do not have to provide communication aids or services that would fundamentally alter the criminal justice program or service being provided.  [accordion – “more about what fundamental alteration means”]
+{% details More about what undue burden means %}
+An undue burden means a significant difficulty or expense.  Whether something is a significant difficulty or expense wil lvary from government to government and may vary from year to year.
+{% enddetails %}
+
+Criminal justice agencies also do not have to provide communication aids or services that would *fundamentally alter* the criminal justice program or service being provided.
+
+{% details More about what fundamental alteration means %}
+A fundamental alteration is something that would change the essential nature of the entity's programs or services.
+{% enddetails %}
 
 If an aid or service would result in an undue burden or fundamental alteration, the criminal justice agency must provide an alternative aid or service if possible.
 
-Learn more about these requirements and limitations in ADA Requirements: Effective Communication, Communicating Effectively with People with Disabilities and Communicating with People Who Are Deaf or Hard of Hearing: ADA Guide for Law Enforcement Officers.
+Learn more about these requirements and limitations in [ADA Requirements: Effective Communication, Communicating Effectively with People with Disabilities]({{'/resources/effective=communication/'| relative_url}}) and [Communicating with People Who Are Deaf or Hard of Hearing: ADA Guide for Law Enforcement Officers]({{'/resources/law-enforcement-guide/'| relative_url}}).
 
 ### Learn more about the ADA and Criminal Justice
 
@@ -141,7 +153,7 @@ The following technical assistance documents contain more information about crim
 - [Commonly Asked Questions About the Americans with Disabilities Act and Law Enforcement]({{'/resources/commonly-asked-questions-law-enforcement/'| relative_url}})
 - [ADA Update: A Primer for State and Local Governments]({{'/resources/title-ii-primer/'| relative_url}})
 - [Communicating with People Who Are Deaf or Hard of Hearing: ADA Guide for Law Enforcement Officers]({{'/resources/law-enforcement-guide/'| relative_url}})
-- Model Policy for Law Enforcement on Communicating with People Who Are Deaf or Hard of Hearing
-- Access for 9-1-1 and Telephone Emergency Services
-- Examples and Resources to Support Criminal Justice Entities in Compliance with Title II of the Americans with Disabilities Act
-- Guide for Law Enforcement Officers When in Contact with People Who Are Deaf or Hard of Hearing
+- [Model Policy for Law Enforcement on Communicating with People Who Are Deaf or Hard of Hearing](https://archive.ada.gov/lawenfmodpolicy.htm)
+- [Access for 9-1-1 and Telephone Emergency Services](https://archive.ada.gov/911ta.htm)
+- [Examples and Resources to Support Criminal Justice Entities in Compliance with Title II of the Americans with Disabilities Act](https://archive.ada.gov/cjta.html)
+- [Guide for Law Enforcement Officers When in Contact with People Who Are Deaf or Hard of Hearing](https://archive.ada.gov/PCALawEnfGuide.htm)
