@@ -33,6 +33,18 @@ contact:
   time1: "M, Tu, W, F: 9:30am - 12pm and 3pm - 5:30pm ET"
   time2: "Th: 2:30pm - 5:30pm ET"
 
+# For alerts that aren't tied to a site.categories.notice
+external_notices:
+  - text:
+      en: This is a test
+      es: Esto es una prueba
+    link_text:
+      en: Click here
+      es: Clic aquí
+    link_href:
+      en: https://ada.gov/en
+      es: https://ada.gov/es
+
 # Display beta disclamers
 beta: false
 
