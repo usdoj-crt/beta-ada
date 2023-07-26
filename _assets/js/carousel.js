@@ -4,40 +4,24 @@
  */
 
 const mobileCarousel = () => {
-  // Initial constiables
-  let carousel;
-  let slides;
-  let index;
-  let slidenav;
-  let settings;
-  let timer;
-  let setFocus;
-  let animationSuspended;
 
-  // Helper function: Iterates over an array of elements
-  function forEachElement(elements, fn) {
-    for (let i = 0; i < elements.length; i++) fn(elements[i], i);
-  }
+  const context = {
+    carousel: undefined,
+    slides: undefined,
+    index: undefined,
+    slidenav: undefined,
+    settings: undefined,
+    timer: undefined,
+    setFocus: undefined,
+    animationSuspended: false,
+};
 
-  // Helper function: Remove Class
   function removeClass(el, className) {
-    if (el.classList) {
-      el.classList.remove(className);
-    } else {
-      el.className = el.className.replace(
-        new RegExp('(^|\\b)' + className.split(' ').join('|') + '(\\b|$)', 'gi'),
-        ' '
-      );
-    }
+    el.classList.remove(className);
   }
 
-  // Helper function: Test if element has a specific class
   function hasClass(el, className) {
-    if (el.classList) {
-      return el.classList.contains(className);
-    } else {
-      return new RegExp('(^| )' + className + '( |$)', 'gi').test(el.className);
-    }
+    return el.classList.contains(className);
   }
 
   // Initialization for the carousel
@@ -53,16 +37,16 @@ const mobileCarousel = () => {
   // the play button.
   function init(set) {
     // Make settings available to all functions
-    settings = set;
+    context.settings = set;
 
     // Select the element and the individual slides
-    carousel = document.getElementById(settings.id);
+    context.carousel = document.getElementById(context.settings.id);
 
-    if (!carousel) return;
+    if (!context.carousel) return;
 
-    slides = carousel.querySelectorAll('.slide');
+    context.slides = context.carousel.querySelectorAll('.slide');
 
-    carousel.className = 'active carousel';
+    context.carousel.className = 'active carousel';
 
     const ctrls = document.createElement('ul');
 
@@ -82,43 +66,43 @@ const mobileCarousel = () => {
       nextSlide(true);
     });
 
-    carousel.appendChild(ctrls);
+    context.carousel.appendChild(ctrls);
     // If the carousel is animated or a slide navigation is requested in the settings, another unordered list that contains those elements is added. (Note that you cannot supress the navigation when it is animated.)
-    if (settings.slidenav || settings.animate) {
-      slidenav = document.createElement('ul');
+    if (!(context.settings.slidenav || context.settings.animate)) return;
+      context.slidenav = document.createElement('ul');
 
-      slidenav.className = 'slidenav';
+      context.slidenav.className = 'slidenav';
 
-      if (settings.animate) {
+      if (context.settings.animate) {
         const li = document.createElement('li');
 
-        if (settings.startAnimated) {
+        if (context.settings.startAnimated) {
           li.innerHTML = '<button data-action="stop" aria-label="Stop Animation">￭</button>';
         } else {
           li.innerHTML = '<button data-action="start" aria-label="Start Animation">▶</button>';
         }
 
-        slidenav.appendChild(li);
+        context.slidenav.appendChild(li);
       }
 
-      if (settings.slidenav) {
-        forEachElement(slides, function (el, i) {
+      if (context.settings.slidenav) {
+        context.slides.forEach((_slide, i) => {
           const li = document.createElement('li');
           const klass = i === 0 ? 'class="current" ' : '';
           const ariaLabel = '"slide ' + (i + 1) + ' navigation"'
 
           li.innerHTML = '<button aria-label=' + ariaLabel + klass + 'data-slide="' + i + '"/>';
-          slidenav.appendChild(li);
+          context.slidenav.appendChild(li);
         });
       }
 
-      slidenav.addEventListener(
+      context.slidenav.addEventListener(
         'click',
         function (event) {
           const button = event.target;
           if (button.localName == 'button') {
             if (button.getAttribute('data-slide')) {
-              if (settings.startAnimated) {
+              if (context.settings.startAnimated) {
                 stopAnimation();
               }
               setSlides(button.getAttribute('data-slide'), true);
@@ -132,62 +116,61 @@ const mobileCarousel = () => {
         true
       );
 
-      carousel.className = 'active carousel with-slidenav';
-      carousel.appendChild(slidenav);
-    }
+      context.carousel.className = 'active carousel with-slidenav';
+      context.carousel.appendChild(context.slidenav);
 
     // Add a live region to announce the slide number when using the previous/next buttons
     const liveregion = document.createElement('div');
     liveregion.setAttribute('aria-live', 'polite');
     liveregion.setAttribute('aria-atomic', 'true');
     liveregion.setAttribute('class', 'liveregion hidden');
-    carousel.appendChild(liveregion);
+    context.carousel.appendChild(liveregion);
 
     // After the slide transitioned, remove the in-transition class, if focus should be set, set the tabindex attribute to -1 and focus the slide.
-    slides[0].parentNode.addEventListener('transitionend', function (event) {
+    context.slides[0].parentNode.addEventListener('transitionend', function (event) {
       let slide = event.target;
       removeClass(slide, 'in-transition');
       if (hasClass(slide, 'current')) {
-        if (setFocus) {
+        if (context.setFocus) {
           slide.setAttribute('tabindex', '-1');
           slide.focus();
-          setFocus = false;
+          context.setFocus = false;
         }
       }
     });
 
     // When the mouse enters the carousel, suspend the animation.
-    carousel.addEventListener('mouseenter', suspendAnimation);
+    context.carousel.addEventListener('mouseenter', suspendAnimation);
 
     // When the mouse leaves the carousel, and the animation is suspended, start the animation.
-    carousel.addEventListener('mouseleave', function (event) {
-      if (animationSuspended) {
+    context.carousel.addEventListener('mouseleave', function (event) {
+      if (context.animationSuspended) {
         startAnimation();
       }
     });
 
     // When the focus enters the carousel, suspend the animation
-    carousel.addEventListener('focusin', function (event) {
+    context.carousel.addEventListener('focusin', function (event) {
       if (!hasClass(event.target, 'slide')) {
         suspendAnimation();
       }
     });
 
     // When the focus leaves the carousel, and the animation is suspended, start the animation
-    carousel.addEventListener('focusout', function (event) {
-      if (!hasClass(event.target, 'slide') && animationSuspended) {
+    context.carousel.addEventListener('focusout', function (event) {
+      if (!hasClass(event.target, 'slide') && context.animationSuspended) {
         startAnimation();
       }
     });
 
     // Set the index (=current slide) to 0 – the first slide
-    index = 0;
-    setSlides(index);
+    context.index = 0;
+    setSlides(context.index);
 
     // If the carousel is animated, advance to the
     // next slide after 5s
-    if (settings.startAnimated) {
-      timer = setTimeout(nextSlide, 5000);
+    if (context.settings.startAnimated) {
+      context.timer = setTimeout(nextSlide, 5000);
     }
   }
 
@@ -201,13 +184,13 @@ const mobileCarousel = () => {
     // If announceItem is set to true, the live region’s text is changed (and announced)
     // Here defaults are set:
 
-    setFocus = typeof setFocusHere !== 'undefined' ? setFocusHere : false;
+    context.setFocus = typeof setFocusHere !== 'undefined' ? setFocusHere : false;
     transition = typeof transition !== 'undefined' ? transition : 'none';
     const announceItem = typeof announceItemHere !== 'undefined' ? announceItemHere : false;
 
     new_current = parseFloat(new_current);
 
-    let length = slides.length;
+    let length = context.slides.length;
     let new_next = new_current + 1;
     let new_prev = new_current - 1;
 
@@ -222,29 +205,29 @@ const mobileCarousel = () => {
     }
 
     // Reset slide classes
-    for (let i = slides.length - 1; i >= 0; i--) {
-      slides[i].className = 'slide';
+    for (let i = context.slides.length - 1; i >= 0; i--) {
+      context.slides[i].className = 'slide';
     }
 
     // Add classes to the previous, next and current slide
-    slides[new_next].className = 'next slide' + (transition == 'next' ? ' in-transition' : '');
-    slides[new_next].removeAttribute('aria-hidden');
+    context.slides[new_next].className = 'next slide' + (transition == 'next' ? ' in-transition' : '');
+    context.slides[new_next].removeAttribute('aria-hidden');
 
-    slides[new_prev].className = 'prev slide' + (transition == 'prev' ? ' in-transition' : '');
-    slides[new_prev].setAttribute('aria-hidden', 'true');
+    context.slides[new_prev].className = 'prev slide' + (transition == 'prev' ? ' in-transition' : '');
+    context.slides[new_prev].setAttribute('aria-hidden', 'true');
 
-    slides[new_current].className = 'current slide';
-    slides[new_current].removeAttribute('aria-hidden');
+    context.slides[new_current].className = 'current slide';
+    context.slides[new_current].removeAttribute('aria-hidden');
 
     // Update the text in the live region which is then announced by screen readers.
     if (announceItem) {
-      carousel.querySelector('.liveregion').textContent =
-        'Item ' + (new_current + 1) + ' of ' + slides.length;
+      context.carousel.querySelector('.liveregion').textContent =
+        'Item ' + (new_current + 1) + ' of ' + context.slides.length;
     }
 
     // Update the buttons in the slider navigation to match the currently displayed  item
-    if (settings.slidenav) {
-      const buttons = carousel.querySelectorAll('.slidenav button[data-slide]');
+    if (context.settings.slidenav) {
+      const buttons = context.carousel.querySelectorAll('.slidenav button[data-slide]');
       for (let j = buttons.length - 1; j >= 0; j--) {
         buttons[j].className = '';
       }
@@ -252,15 +235,14 @@ const mobileCarousel = () => {
     }
 
     // Set the global index to the new current value
-    index = new_current;
+    context.index = new_current;
   }
 
-  // Function to advance to the next slide
   function nextSlide(announceItem) {
     announceItem = typeof announceItem !== 'undefined' ? announceItem : false;
 
-    const length = slides.length,
-      new_current = index + 1;
+    const length = context.slides.length;
+    let new_current = context.index + 1;
 
     if (new_current === length) {
       new_current = 0;
@@ -273,17 +255,16 @@ const mobileCarousel = () => {
 
     // If the carousel is animated, advance to the next
     // slide after 5s
-    if (settings.animate) {
-      timer = setTimeout(nextSlide, 5000);
+    if (context.settings.animate) {
+      context.timer = setTimeout(nextSlide, 5000);
     }
   }
 
-  // Function to advance to the previous slide
   function prevSlide(announceItem) {
     announceItem = typeof announceItem !== 'undefined' ? announceItem : false;
 
-    const length = slides.length,
-      new_current = index - 1;
+    const length = context.slides.length;
+    let new_current = context.index - 1;
 
     // If we are already on the first slide, show the last slide instead.
     if (new_current < 0) {
@@ -296,33 +277,29 @@ const mobileCarousel = () => {
     setSlides(new_current, false, 'next', announceItem);
   }
 
-  // Function to stop the animation
   function stopAnimation() {
-    clearTimeout(timer);
-    settings.animate = false;
-    animationSuspended = false;
-    const action = carousel.querySelector('[data-action]');
+    clearTimeout(context.timer);
+    context.settings.animate = false;
+    context.animationSuspended = false;
+    const action = context.carousel.querySelector('[data-action]');
     action.innerHTML = '<span class="visuallyhidden">Start Animation </span>▶';
     action.setAttribute('data-action', 'start');
   }
 
-  // Function to start the animation
   function startAnimation() {
-    settings.animate = true;
-    animationSuspended = false;
-    timer = setTimeout(nextSlide, 5000);
-    const action = carousel.querySelector('[data-action]');
+    context.settings.animate = true;
+    context.animationSuspended = false;
+    context.timer = setTimeout(nextSlide, 5000);
+    const action = context.carousel.querySelector('[data-action]');
     action.innerHTML = '<span class="visuallyhidden">Stop Animation </span>￭';
     action.setAttribute('data-action', 'stop');
   }
 
-  // Function to suspend the animation
   function suspendAnimation() {
-    if (settings.animate) {
-      clearTimeout(timer);
-      settings.animate = false;
-      animationSuspended = true;
-    }
+    if (!context.settings.animate) return;
+    clearTimeout(context.timer);
+    settings.animate = false;
+    context.animationSuspended = true;
   }
 
   init({
