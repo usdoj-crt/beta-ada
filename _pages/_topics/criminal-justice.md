@@ -24,8 +24,6 @@ card:
   alt: Five diverse enforcement officers stand together
   href: /topics/criminal-justice/
 ---
-State/local governments, including their criminal justice agencies, must comply with the ADA. They may not discriminate against or exclude people with disabilities, and they must give people with disabilities equal opportunities and benefits as those given to people who do not have disabilities.
-
 This can include, among other things, modifying policies, practices, and procedures, providing physical access to buildings, and providing communication aids and services, to ensure that people with disabilities can fully participate in all aspects of the criminal justice process.
 
 The term criminal justice is wide-ranging. Here are some examples of criminal justice agencies, criminal justice professionals and their duties:
