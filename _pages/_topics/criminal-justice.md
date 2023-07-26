@@ -84,7 +84,7 @@ A fundamental alteration is something that would change the essential nature of 
 
 ## Architectural Access
 
-The ADA's regulation and the ADA Standards for Accessible Design explain the ADA’s requirements for providing architectural access to, and within, buildings. What standard applies depends on when the building was built or altered. The “ADA Requirements: Effective Date and Compliance Date” explains which standards apply.
+The ADA's regulation and the ADA Standards for Accessible Design explain the ADA’s requirements for providing architectural access to, and within, buildings. What standard applies depends on when the building was built or altered. The “[ADA Requirements: Effective Date and Compliance Date](https://archive.ada.gov/revised_effective_dates-2010.htm)” explains which standards apply.
 
 ### Access to Programs and Services, and Activities in Existing Facilities
 
@@ -156,7 +156,7 @@ A fundamental alteration is something that would change the essential nature of 
 
 If an aid or service would result in an undue burden or fundamental alteration, the criminal justice agency must provide an alternative aid or service if possible.
 
-Learn more about these requirements and limitations in [ADA Requirements: Effective Communication, Communicating Effectively with People with Disabilities]({{'/resources/effective=communication/'| relative_url}}) and [Communicating with People Who Are Deaf or Hard of Hearing: ADA Guide for Law Enforcement Officers]({{'/resources/law-enforcement-guide/'| relative_url}}).
+Learn more about these requirements and limitations in [ADA Requirements: Effective Communication, Communicating Effectively with People with Disabilities]({{'/resources/effective-communication/'| relative_url}}) and [Communicating with People Who Are Deaf or Hard of Hearing: ADA Guide for Law Enforcement Officers]({{'/resources/law-enforcement-guide/'| relative_url}}).
 
 ### Learn more about the ADA and Criminal Justice
 
