@@ -1,6 +1,6 @@
 ---
 title: Criminal Justice
-description: This page explains how criminal justice agencies must comply with the ADA ...
+description: This page explains how criminal justice agencies must comply with the ADA and that persons with disabilities should familiarize themselves with their rights under the law.
 lead: |-
   State/local governments, including their criminal justice agencies, must comply with the ADA. They may not discriminate against or exclude people with disabilities, and they must give people with disabilities equal opportunities and benefits as those given to people who do not have disabilities. 
 print: true
@@ -11,7 +11,7 @@ related-content: true
 card:
   title: Criminal Justice
   description: |-
-     Criminal Justice agancies must comply with the ADA
+     The ADA requires state and local governments including their criminal justice agencies to comply with the ADA. If you are part of a criminal justice agency or a person with a disability, there are many aspects of the ADA that you should be familiar with.
   image: landing/criminal-justice.jpg
   alt: Five diverse enforcement officers stand together
   href: /topics/criminal-justice/
