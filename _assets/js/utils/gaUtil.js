@@ -10,6 +10,7 @@ function getEventName(e) {
 function sendGAClickEvent(e) {
   e.preventDefault();
   gtag('event', 'click', { event_name: getEventName(e) });
+  if (!e.target.href) return;
   window.location.href = e.target.href;
 }
 
