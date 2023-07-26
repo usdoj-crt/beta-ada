@@ -1,62 +1,67 @@
 ---
-title: Criminal Justice
-description: The ADA requires state and local governments including their criminal justice agencies to comply with the ADA. If you are part of a criminal justice agency or a person with a disability, there are many aspects of the ADA that you should be familiar with.
-lead: |-
-  State/local governments, including their criminal justice agencies, must comply with the ADA. They may not discriminate against or exclude people with disabilities, and they must give people with disabilities equal opportunities and benefits as those given to people who do not have disabilities. 
-print: true
 publish-date: 2023-07-26 08:00:00
 news-item: true
+title: Criminal Justice
+description: The ADA requires state and local governments including their
+  criminal justice agencies to comply with the ADA. If you are part of a
+  criminal justice agency or a person with a disability, there are many aspects
+  of the ADA that you should be familiar with.
+lead: "State/local governments, including their criminal justice agencies, must
+  comply with the ADA. They may not discriminate against or exclude people with
+  disabilities, and they must give people with disabilities equal opportunities
+  and benefits as those given to people who do not have disabilities. "
+print: true
+related-content: true
 tags:
   - law enforcement
-related-content: true
 card:
   title: Criminal Justice
-  description: |-
-     The ADA requires state and local governments including their criminal justice agencies to comply with the ADA. If you are part of a criminal justice agency or a person with a disability, there are many aspects of the ADA that you should be familiar with.
+  description: The ADA requires state and local governments including their
+    criminal justice agencies to comply with the ADA. If you are part of a
+    criminal justice agency or a person with a disability, there are many
+    aspects of the ADA that you should be familiar with.
   image: landing/criminal-justice.jpg
   alt: Five diverse enforcement officers stand together
   href: /topics/criminal-justice/
 ---
-State/local governments, including their criminal justice agencies, must comply with the ADA. They may not discriminate against or exclude people with disabilities, and they must give people with disabilities equal opportunities and benefits as those given to people who do not have disabilities.
-
 This can include, among other things, modifying policies, practices, and procedures, providing physical access to buildings, and providing communication aids and services, to ensure that people with disabilities can fully participate in all aspects of the criminal justice process.
 
 The term criminal justice is wide-ranging. Here are some examples of criminal justice agencies, criminal justice professionals and their duties:
 
 **Examples of Criminal Justice Agencies:**
 
-- Law Enforcement
-- Criminal Courts
-- Prisons and Jails
+* Law Enforcement
+* Criminal Courts
+* Prisons and Jails
 
 **Examples of Criminal Justice Professionals:**
 
-- Police Officers
-- Sheriff’s Deputies
-- Detectives
-- Criminal Investigators
-- District Attorneys
-- Public Defenders
-- Criminal Court Employees
-- Criminal Court Judges
-- Officers, Managers, and Medical Staff in prisons and jails
-- Parole Officers
+* Police Officers
+* Sheriff’s Deputies
+* Detectives
+* Criminal Investigators
+* District Attorneys
+* Public Defenders
+* Criminal Court Employees
+* Criminal Court Judges
+* Officers, Managers, and Medical Staff in prisons and jails
+* Parole Officers
 
 **Examples of Criminal Justice Duties:**
 
-- Conducting traffic stops
-- Providing 911 emergency services
-- Arresting, booking, holding, or interrogating individuals who have been arrested
-- Interviewing witnesses
-- Conducting criminal hearings, motions, and trials
-- Housing and managing people who are incarcerated in prisons or jails
+* Conducting traffic stops
+* Providing 911 emergency services
+* Arresting, booking, holding, or interrogating individuals who have been arrested
+* Interviewing witnesses
+* Conducting criminal hearings, motions, and trials
+* Housing and managing people who are incarcerated in prisons or jails
 
 **The ADA affects virtually everything that criminal justice agencies do. For example, criminal justice agencies must:**
 
-- Make reasonable modifications to policies, practices, and procedures where needed to make sure that a person with a disability can access their programs, services, and activities.
-- Follow specific standards for physical accessibility when building or altering a building or facility.
-- Provide program access by ensuring that individuals with disabilities are not excluded from programs because existing buildings or facilities are inaccessible to them.
-- Communicate with people with disabilities as effectively as they communicate with others.
+* Make reasonable modifications to policies, practices, and procedures where needed to make sure that a person with a disability can access their programs, services, and activities.
+* Follow specific standards for physical accessibility when building or altering a building or facility.
+* Provide program access by ensuring that individuals with disabilities are not excluded from programs because existing buildings or facilities are inaccessible to them.
+* Communicate with people with disabilities as effectively as they communicate with others.
 
 You can find examples and limitations to these requirements and how they look in practice below.
 
@@ -66,8 +71,8 @@ Criminal justice agencies and their employees must reasonably modify their polic
 
 **Examples of Reasonable Modifications:**
 
-- Handcuffing a person who is deaf in front of the body instead of behind the body so that they may communicate using sign language or by writing notes.
-- Having someone with an intellectual disability repeat back each sentence of their *Miranda* rights in their own words to make sure that these rights are understood.
+* Handcuffing a person who is deaf in front of the body instead of behind the body so that they may communicate using sign language or by writing notes.
+* Having someone with an intellectual disability repeat back each sentence of their *Miranda* rights in their own words to make sure that these rights are understood.
 
 ### Sometimes a Modification is Not Required
 
@@ -140,7 +145,7 @@ When deciding what communication aid should be provided, primary consideration s
 Criminal justice agencies do not have to provide aids and services if providing them would place an *undue burden* on them.
 
 {% details More about what undue burden means %}
-An undue burden means a significant difficulty or expense.  Whether something is a significant difficulty or expense wil lvary from government to government and may vary from year to year.
+An undue burden means a significant difficulty or expense.  Whether something is a significant difficulty or expense will vary from government to government and may vary from year to year.
 {% enddetails %}
 
 Criminal justice agencies also do not have to provide communication aids or services that would *fundamentally alter* the criminal justice program or service being provided.
@@ -151,15 +156,15 @@ A fundamental alteration is something that would change the essential nature of 
 
 If an aid or service would result in an undue burden or fundamental alteration, the criminal justice agency must provide an alternative aid or service if possible.
 
-Learn more about these requirements and limitations in [ADA Requirements: Effective Communication, Communicating Effectively with People with Disabilities]({{'/resources/effective=communication/'| relative_url}}) and [Communicating with People Who Are Deaf or Hard of Hearing: ADA Guide for Law Enforcement Officers]({{'/resources/law-enforcement-guide/'| relative_url}}).
+Learn more about these requirements and limitations in \[ADA Requirements: Effective Communication, Communicating Effectively with People with Disabilities]({{'/resources/effective=communication/'| relative_url}}) and \[Communicating with People Who Are Deaf or Hard of Hearing: ADA Guide for Law Enforcement Officers]({{'/resources/law-enforcement-guide/'| relative_url}}).
 
 ### Learn more about the ADA and Criminal Justice
 
 The following technical assistance documents contain more information about criminal justice and can be found at ada.gov:
 
-- [Commonly Asked Questions About the Americans with Disabilities Act and Law Enforcement]( {{'/resources/commonly-asked-questions-law-enforcement/'| relative_url}})
-- [ADA Update: A Primer for State and Local Governments]( {{'/resources/title-ii-primer/'| relative_url}})
-- [Communicating with People Who Are Deaf or Hard of Hearing: ADA Guide for Law Enforcement Officers]( {{'/resources/law-enforcement-guide/'| relative_url}})
+- [Commonly Asked Questions About the Americans with Disabilities Act and Law Enforcement]({{'/resources/commonly-asked-questions-law-enforcement/'| relative_url}})
+- [ADA Update: A Primer for State and Local Governments]({{'/resources/title-ii-primer/'| relative_url}})
+- [Communicating with People Who Are Deaf or Hard of Hearing: ADA Guide for Law Enforcement Officers]({{'/resources/law-enforcement-guide/'| relative_url}})
 - [Model Policy for Law Enforcement on Communicating with People Who Are Deaf or Hard of Hearing](https://archive.ada.gov/lawenfmodpolicy.htm)
 - [Access for 9-1-1 and Telephone Emergency Services](https://archive.ada.gov/911ta.htm)
 - [Examples and Resources to Support Criminal Justice Entities in Compliance with Title II of the Americans with Disabilities Act](https://archive.ada.gov/cjta.html)
