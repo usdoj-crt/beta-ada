@@ -6,7 +6,7 @@
 }
 
 // Change the default alert border color and add a small left hand border to the alert
-#warning-banner {
+.warning-banner {
     background-color: #FBF3D1;
 
     .usa-alert__heading {
@@ -19,7 +19,7 @@
 }
 
 // Change the anchor link styling to primary color darker
-#warning-banner a:hover {
+.warning-banner a:hover {
     color: #1a4480;
     text-decoration: underline;
 }
