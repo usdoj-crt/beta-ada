@@ -3,7 +3,7 @@
  * https://github.com/w3c/wai-tutorials/
  */
 
-const mobileCarousel = () => {
+function mobileCarousel () {
 
   const context = {
     carousel: undefined,
@@ -24,17 +24,17 @@ const mobileCarousel = () => {
     return el.classList.contains(className);
   }
 
-  // Initialization for the carousel
-  // Argument: set = an object of settings
-  // Possible settings:
-  // id <string> ID of the carousel wrapper element (required).
-  // slidenav <bool> If true, a list of slides is shown.
-  // animate <bool> If true, the slides can be animated.
-  // startAnimated <bool> If true, the animation begins
-  // immediately.
-  // If false, the animation needs
-  // to be initiated by clicking
-  // the play button.
+/* Initialization for the carousel
+  Argument: set = an object of settings
+  Possible settings:
+  id <string> ID of the carousel wrapper element (required).
+  slidenav <bool> If true, a list of slides is shown.
+  animate <bool> If true, the slides can be animated.
+  startAnimated <bool> If true, the animation begins
+  immediately.
+  If false, the animation needs
+  to be initiated by clicking
+  the play button. */
   function init(set) {
     // Make settings available to all functions
     context.settings = set;
@@ -48,76 +48,8 @@ const mobileCarousel = () => {
 
     context.carousel.className = 'active carousel';
 
-    const ctrls = document.createElement('ul');
-
-    ctrls.className = 'controls';
-    ctrls.innerHTML =
-      '<li>' +
-      '<button type="button" class="btn-prev" aria-label="Previous slide" alt="Previous Item" />' +
-      '</li>' +
-      '<li>' +
-      '<button type="button" class="btn-next" aria-label="Next slide" alt="Next Item" />' +
-      '</li>';
-
-    ctrls.querySelector('.btn-prev').addEventListener('click', function () {
-      prevSlide(true);
-    });
-    ctrls.querySelector('.btn-next').addEventListener('click', function () {
-      nextSlide(true);
-    });
-
-    context.carousel.appendChild(ctrls);
-    // If the carousel is animated or a slide navigation is requested in the settings, another unordered list that contains those elements is added. (Note that you cannot supress the navigation when it is animated.)
-    if (!(context.settings.slidenav || context.settings.animate)) return;
-      context.slidenav = document.createElement('ul');
-
-      context.slidenav.className = 'slidenav';
-
-      if (context.settings.animate) {
-        const li = document.createElement('li');
-
-        if (context.settings.startAnimated) {
-          li.innerHTML = '<button data-action="stop" aria-label="Stop Animation">￭</button>';
-        } else {
-          li.innerHTML = '<button data-action="start" aria-label="Start Animation">▶</button>';
-        }
-
-        context.slidenav.appendChild(li);
-      }
-
-      if (context.settings.slidenav) {
-        context.slides.forEach((_slide, i) => {
-          const li = document.createElement('li');
-          const klass = i === 0 ? 'class="current" ' : '';
-          const ariaLabel = '"slide ' + (i + 1) + ' navigation"'
-
-          li.innerHTML = '<button aria-label=' + ariaLabel + klass + 'data-slide="' + i + '"/>';
-          context.slidenav.appendChild(li);
-        });
-      }
-
-      context.slidenav.addEventListener(
-        'click',
-        function (event) {
-          const button = event.target;
-          if (button.localName == 'button') {
-            if (button.getAttribute('data-slide')) {
-              if (context.settings.startAnimated) {
-                stopAnimation();
-              }
-              setSlides(button.getAttribute('data-slide'), true);
-            } else if (button.getAttribute('data-action') == 'stop') {
-              stopAnimation();
-            } else if (button.getAttribute('data-action') == 'start') {
-              startAnimation();
-            }
-          }
-        },
-        true
-      );
-
-      context.carousel.className = 'active carousel with-slidenav';
-      context.carousel.appendChild(context.slidenav);
+    initControls()
+    initSidenav()
 
     // Add a live region to announce the slide number when using the previous/next buttons
     const liveregion = document.createElement('div');
@@ -130,13 +62,11 @@ const mobileCarousel = () => {
     context.slides[0].parentNode.addEventListener('transitionend', function (event) {
       let slide = event.target;
       removeClass(slide, 'in-transition');
-      if (hasClass(slide, 'current')) {
-        if (context.setFocus) {
-          slide.setAttribute('tabindex', '-1');
-          slide.focus();
-          context.setFocus = false;
-        }
-      }
+      if (!hasClass(slide, 'current')) return;
+      if (!context.setFocus) return;
+      slide.setAttribute('tabindex', '-1');
+      slide.focus();
+      context.setFocus = false;
     });
 
     // When the mouse enters the carousel, suspend the animation.
@@ -174,15 +104,91 @@ const mobileCarousel = () => {
     }
   }
 
+  function initControls() {
+
+    const ctrls = document.createElement('ul');
+
+    ctrls.className = 'controls';
+    ctrls.innerHTML =
+      '<li>' +
+      '<button type="button" class="btn-prev" aria-label="Previous slide" alt="Previous Item" />' +
+      '</li>' +
+      '<li>' +
+      '<button type="button" class="btn-next" aria-label="Next slide" alt="Next Item" />' +
+      '</li>';
+
+    ctrls.querySelector('.btn-prev').addEventListener('click', function () {
+      prevSlide(true);
+    });
+    ctrls.querySelector('.btn-next').addEventListener('click', function () {
+      nextSlide(true);
+    });
+
+    context.carousel.appendChild(ctrls);
+  }
+
+  function initSidenav() {
+      // If the carousel is animated or a slide navigation is requested in the settings, another unordered list that contains those elements is added. (Note that you cannot supress the navigation when it is animated.)
+      if (!(context.settings.slidenav || context.settings.animate)) return;
+      context.slidenav = document.createElement('ul');
+
+      context.slidenav.className = 'slidenav';
+
+      if (context.settings.animate) {
+        const li = document.createElement('li');
+
+        if (context.settings.startAnimated) {
+          li.innerHTML = '<button data-action="stop" aria-label="Stop Animation">￭</button>';
+        } else {
+          li.innerHTML = '<button data-action="start" aria-label="Start Animation">▶</button>';
+        }
+
+        context.slidenav.appendChild(li);
+      }
+
+      if (context.settings.slidenav) {
+        context.slides.forEach((_slide, i) => {
+          const li = document.createElement('li');
+          const klass = i === 0 ? 'class="current" ' : '';
+          const ariaLabel = '"slide ' + (i + 1) + ' navigation"'
+
+          li.innerHTML = '<button aria-label=' + ariaLabel + klass + 'data-slide="' + i + '"/>';
+          context.slidenav.appendChild(li);
+        });
+      }
+
+      context.slidenav.addEventListener(
+        'click',
+        function (event) {
+          const button = event.target;
+          if (button.localName != 'button') return;
+          if (button.getAttribute('data-slide')) {
+              if (context.settings.startAnimated) {
+                stopAnimation();
+              }
+              setSlides(button.getAttribute('data-slide'), true);
+            } else if (button.getAttribute('data-action') == 'stop') {
+              stopAnimation();
+            } else if (button.getAttribute('data-action') == 'start') {
+              startAnimation();
+            }
+        },
+        true
+      );
+
+      context.carousel.className = 'active carousel with-slidenav';
+      context.carousel.appendChild(context.slidenav);
+  }
+
   // Function to set a slide the current slide
   function setSlides(new_current, setFocusHere, transition, announceItemHere) {
-    // Focus, transition and announce Item are optional parameters.
-    // focus denotes if the focus should be set after the
-    // carousel advanced to slide number new_current.
-    // transition denotes if the transition is going into the
-    // next or previous direction.
-    // If announceItem is set to true, the live region’s text is changed (and announced)
-    // Here defaults are set:
+  /* Focus, transition and announce Item are optional parameters.
+    focus denotes if the focus should be set after the
+    carousel advanced to slide number new_current.
+    transition denotes if the transition is going into the
+    next or previous direction.
+    If announceItem is set to true, the live region’s text is changed (and announced)
+    Here defaults are set: */
 
     context.setFocus = typeof setFocusHere !== 'undefined' ? setFocusHere : false;
     transition = typeof transition !== 'undefined' ? transition : 'none';
@@ -194,10 +200,6 @@ const mobileCarousel = () => {
     let new_next = new_current + 1;
     let new_prev = new_current - 1;
 
-    // If the next slide number is equal to the length,
-    // the next slide should be the first one of the slides.
-    // If the previous slide number is less than 0.
-    // the previous slide is the last of the slides.
     if (new_next === length) {
       new_next = 0;
     } else if (new_prev < 0) {
@@ -205,9 +207,7 @@ const mobileCarousel = () => {
     }
 
     // Reset slide classes
-    for (let i = context.slides.length - 1; i >= 0; i--) {
-      context.slides[i].className = 'slide';
-    }
+    context.slides.forEach(slide => slide.className = 'slide');
 
     // Add classes to the previous, next and current slide
     context.slides[new_next].className = 'next slide' + (transition == 'next' ? ' in-transition' : '');
@@ -228,9 +228,7 @@ const mobileCarousel = () => {
     // Update the buttons in the slider navigation to match the currently displayed  item
     if (context.settings.slidenav) {
       const buttons = context.carousel.querySelectorAll('.slidenav button[data-slide]');
-      for (let j = buttons.length - 1; j >= 0; j--) {
-        buttons[j].className = '';
-      }
+      buttons.forEach(button => button.className = '')
       buttons[new_current].className = 'current';
     }
 
@@ -248,13 +246,8 @@ const mobileCarousel = () => {
       new_current = 0;
     }
 
-    // If we advance to the next slide, the previous needs to be
-    // visible to the user, so the third parameter is 'prev', not
-    // next.
     setSlides(new_current, false, 'prev', announceItem);
 
-    // If the carousel is animated, advance to the next
-    // slide after 5s
     if (context.settings.animate) {
       context.timer = setTimeout(nextSlide, 5000);
     }
@@ -271,9 +264,6 @@ const mobileCarousel = () => {
       new_current = length - 1;
     }
 
-    // If we advance to the previous slide, the next needs to be
-    // visible to the user, so the third parameter is 'next', not
-    // prev.
     setSlides(new_current, false, 'next', announceItem);
   }
 
