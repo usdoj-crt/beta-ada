@@ -84,7 +84,7 @@ A fundamental alteration is something that would change the essential nature of 
 
 ## Architectural Access
 
-The ADA's regulation and the ADA Standards for Accessible Design explain the ADA’s requirements for providing architectural access to, and within, buildings. What standard applies depends on when the building was built or altered. The “ADA Requirements: Effective Date and Compliance Date” explains which standards apply.
+The ADA's regulation and the ADA Standards for Accessible Design explain the ADA’s requirements for providing architectural access to, and within, buildings. What standard applies depends on when the building was built or altered. The “[ADA Requirements: Effective Date and Compliance Date](https://www.ada.gov/revised_effective_dates-2010.htm)” explains which standards apply.
 
 ### Access to Programs and Services, and Activities in Existing Facilities
 
@@ -156,16 +156,16 @@ A fundamental alteration is something that would change the essential nature of 
 
 If an aid or service would result in an undue burden or fundamental alteration, the criminal justice agency must provide an alternative aid or service if possible.
 
-Learn more about these requirements and limitations in [ADA Requirements: Effective Communication, Communicating Effectively with People with Disabilities]({{'/resources/effective=communication/'| relative_url}}) and [Communicating with People Who Are Deaf or Hard of Hearing: ADA Guide for Law Enforcement Officers]({{'/resources/law-enforcement-guide/'| relative_url}}).
+Learn more about these requirements and limitations in \[ADA Requirements: Effective Communication, Communicating Effectively with People with Disabilities]({{'/resources/effective=communication/'| relative_url}}) and \[Communicating with People Who Are Deaf or Hard of Hearing: ADA Guide for Law Enforcement Officers]({{'/resources/law-enforcement-guide/'| relative_url}}).
 
 ### Learn more about the ADA and Criminal Justice
 
 The following technical assistance documents contain more information about criminal justice and can be found at ada.gov:
 
-- [Commonly Asked Questions About the Americans with Disabilities Act and Law Enforcement]({{'/resources/commonly-asked-questions-law-enforcement/'| relative_url}})
-- [ADA Update: A Primer for State and Local Governments]({{'/resources/title-ii-primer/'| relative_url}})
-- [Communicating with People Who Are Deaf or Hard of Hearing: ADA Guide for Law Enforcement Officers]({{'/resources/law-enforcement-guide/'| relative_url}})
-- [Model Policy for Law Enforcement on Communicating with People Who Are Deaf or Hard of Hearing](https://archive.ada.gov/lawenfmodpolicy.htm)
-- [Access for 9-1-1 and Telephone Emergency Services](https://archive.ada.gov/911ta.htm)
-- [Examples and Resources to Support Criminal Justice Entities in Compliance with Title II of the Americans with Disabilities Act](https://archive.ada.gov/cjta.html)
-- [Guide for Law Enforcement Officers When in Contact with People Who Are Deaf or Hard of Hearing](https://archive.ada.gov/PCALawEnfGuide.htm)
+* \[Commonly Asked Questions About the Americans with Disabilities Act and Law Enforcement]({{'/resources/commonly-asked-questions-law-enforcement/'| relative_url}})
+* \[ADA Update: A Primer for State and Local Governments]({{'/resources/title-ii-primer/'| relative_url}})
+* \[Communicating with People Who Are Deaf or Hard of Hearing: ADA Guide for Law Enforcement Officers]({{'/resources/law-enforcement-guide/'| relative_url}})
+* [Model Policy for Law Enforcement on Communicating with People Who Are Deaf or Hard of Hearing](https://archive.ada.gov/lawenfmodpolicy.htm)
+* [Access for 9-1-1 and Telephone Emergency Services](https://archive.ada.gov/911ta.htm)
+* [Examples and Resources to Support Criminal Justice Entities in Compliance with Title II of the Americans with Disabilities Act](https://archive.ada.gov/cjta.html)
+* [Guide for Law Enforcement Officers When in Contact with People Who Are Deaf or Hard of Hearing](https://archive.ada.gov/PCALawEnfGuide.htm)
