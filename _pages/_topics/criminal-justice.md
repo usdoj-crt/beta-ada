@@ -5,6 +5,7 @@ lead: |-
   State/local governments, including their criminal justice agencies, must comply with the ADA. They may not discriminate against or exclude people with disabilities, and they must give people with disabilities equal opportunities and benefits as those given to people who do not have disabilities. 
 print: true
 publish-date: 2023-07-26 00:00:00
+news-item: true
 tags:
   - law enforcement
 related-content: true
