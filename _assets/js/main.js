@@ -1,6 +1,7 @@
 import Gumshoe from "gumshoejs"
 import AnchorJS from "anchor-js";
 import initGAEvents from "./utils/gaUtil";
+import parseLawsAndRegs from "./laws-regs-parser";
 import modal from "./modal";
 import redirectModal from "./redirect-modal";
 import printButton from "./print-button";
@@ -15,6 +16,7 @@ printButton();
 search();
 initGAEvents();
 sidenav();
+parseLawsAndRegs();
 
 const anchors = new AnchorJS();
 anchors.add(".crt-page h2:not([class*='usa']) h2:not(.noAnchor)");

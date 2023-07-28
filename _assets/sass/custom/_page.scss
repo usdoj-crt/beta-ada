@@ -33,6 +33,16 @@
     }
   }
 
+  .body-section {
+    position: relative;
+
+    .btn-group {
+      display: flex;
+      position: absolute;
+      right: 0;
+    }
+  }
+
   #crt-page--content {
     .crt-lead {
       > p,
