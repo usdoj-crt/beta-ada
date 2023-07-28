@@ -1,6 +1,6 @@
 ---
 title: ADA Standards for Accessible Design Title III Regulation 28 CFR Part 36 (1991)
-description: TBD
+description: The 1991 Design Standards set accessibility requirements for newly constructed or altered government and commercial facilities and public accommodations.
 permalink: /law-and-regs/design-standards/1991-design-standards/
 lead: |-
   Editor's Note:

@@ -1,6 +1,6 @@
 ---
 title:  Guidance on the 2010 ADA Standards for Accessible Design
-description: "The following includes guidance from the revised regulations related to 28 CFR  35.151; 28 CFR part 26, subpart D; and the 2004 ADAAG.  It addresses changes to the Standards, the reasoning behind those changes, and responses to public comments received  on these topics."
+description: Design Standards guidance addressing changes from the revised regulations related to 28 CFR 35.151; 28 CFR part 26, subpart D; and the 2004 ADAAG.
 permalink: /law-and-regs/design-standards/standards-guidance/
 lead: |-
   The  Department of Justice published its revised regulations for Titles II and III  of the Americans with Disabilities Act of 1990 &ldquo;ADA&rdquo; in the <em>Federal Register</em> on September 15, 2010, which  include the 2010 Standards for Accessible Design &ldquo;2010 Standards&rdquo; or &ldquo;Standards&rdquo;.&nbsp; In the revised regulations, the Department included detailed guidance with a  section-by-section analysis of the revisions:  The following includes guidance from the revised regulations related to 28 CFR 35.151; 28 CFR part 26, subpart D; and the 2004 ADAAG. It addresses changes to the Standards, the reasoning behind those changes, and responses to public comments received  on these topics.
