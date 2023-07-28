@@ -20,7 +20,7 @@
 {% endif %}
 
 {% if notice_link || notice_text %}
-<section id="warning-banner" class="usa-site-alert usa-site-alert--info" aria-label='Site alert'>
+<section class="warning-banner usa-site-alert usa-site-alert--info" aria-label='Site alert'>
   <div class="usa-alert">
     <div class="usa-alert__body">
       {% if notice_text %}
@@ -40,4 +40,52 @@
   </div>
 </section>
 {% endif %}
+{% endfor %}
+
+{% for notice in site.external_notices %}
+
+{% if notice.link_text.en==nil && notice.link_text.es==nil %}
+  {% assign link_text = nil %}
+{% elsif lang=="en" %}
+  {% assign link_text = notice.link_text.en %}
+{% elsif lang=="es" %}
+  {% assign link_text = notice.link_text.es %}
+{% endif %}
+
+{% if notice.text.en==nil && notice.text.es==nil %}
+  {% assign text = nil %}
+{% elsif lang=="en" %}
+  {% assign text = notice.text.en %}
+{% elsif lang=="es" %}
+  {% assign text = notice.text.es %}
+{% endif %}
+
+{% if notice.link_href.en==nil && notice.link_href.es==nil %}
+  {% assign link_href = nil %}
+{% elsif lang=="en" %}
+  {% assign link_href = notice.link_href.en %}
+{% elsif lang=="es" %}
+  {% assign link_href = notice.link_href.es %}
+{% endif %}
+
+<section class="warning-banner usa-site-alert usa-site-alert--info" aria-label='Site alert'>
+  <div class="usa-alert">
+    <div class="usa-alert__body">
+      {% if text %}
+      <h3 class="usa-alert__heading pa11y-skip">{{ text }}</h3>
+      {% endif %}
+      {% if link_text %}
+      <p class="usa-alert__text">
+        <a
+          data-ga-event-name="alert link {{ link_text }}"
+          class="pa11y-skip alert-link"
+          href="{{ link_href | relative_url }}"
+          >{% if lang=="en" %}{{ link_text }}{% elsif lang=="es" %}{{link_text}}{% endif %}</a
+        >
+      </p>
+      {% endif %}
+    </div>
+  </div>
+</section>
+
 {% endfor %}

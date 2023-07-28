@@ -156,7 +156,7 @@ A fundamental alteration is something that would change the essential nature of 
 
 If an aid or service would result in an undue burden or fundamental alteration, the criminal justice agency must provide an alternative aid or service if possible.
 
-Learn more about these requirements and limitations in [ADA Requirements: Effective Communication, Communicating Effectively with People with Disabilities]({{'/resources/effective=communication/'| relative_url}}) and [Communicating with People Who Are Deaf or Hard of Hearing: ADA Guide for Law Enforcement Officers]({{'/resources/law-enforcement-guide/'| relative_url}}).
+Learn more about these requirements and limitations in [ADA Requirements: Effective Communication, Communicating Effectively with People with Disabilities]({{'/resources/effective-communication/'| relative_url}}) and [Communicating with People Who Are Deaf or Hard of Hearing: ADA Guide for Law Enforcement Officers]({{'/resources/law-enforcement-guide/'| relative_url}}).
 
 ### Learn more about the ADA and Criminal Justice
 
