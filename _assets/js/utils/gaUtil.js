@@ -1,9 +1,15 @@
-function sendGAClickEvent(e) {
-  e.preventDefault();
+function getEventName(e) {
+  if (e.target.dataset.gaEventName) {
+    return e.target.dataset.gaEventName;
+  }
   const ariaLabel = e.target.ariaLabel ?? 'unlabeled link element';
   const innerText = e.target.innerText ?? 'empty link element';
-  const event_name = ariaLabel + ' ' + innerText;
-  gtag('event', 'click', { event_name: event_name });
+  return ariaLabel + ' ' + innerText;
+}
+
+function sendGAClickEvent(e) {
+  e.preventDefault();
+  gtag('event', 'click', { event_name: getEventName(e) });
   window.location.href = e.target.href;
 }
 
@@ -22,6 +28,7 @@ function gtag() {
     ['.best-bet', 'click', sendGAClickEvent],
     ['.expand-all', 'click', sendGAClickEvent],
     ['.topic-jumplink', 'click', sendGAClickEvent],
+    ['.file-a-complaint', 'click', sendGAClickEvent],
   ]
 
   export default function initGAEvents() {
