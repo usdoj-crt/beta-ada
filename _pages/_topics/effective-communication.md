@@ -10,6 +10,7 @@ lead: |-
 
   The goal is to find a solution that fits the circumstances.
 print: true
+topic-page-feature: true
 card:
   title: Effective Communication
   description: |-
