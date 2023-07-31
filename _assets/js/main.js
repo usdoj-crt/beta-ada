@@ -7,6 +7,7 @@ import printButton from "./print-button";
 import print from "./print";
 import search from "./search";
 import sidenav from "./expand-sidenav";
+import mobileCarousel from "./carousel";
 
 modal();
 redirectModal();
@@ -15,6 +16,7 @@ printButton();
 search();
 initGAEvents();
 sidenav();
+mobileCarousel();
 
 const anchors = new AnchorJS();
 anchors.add(".crt-page h2:not([class*='usa']) h2:not(.noAnchor)");
