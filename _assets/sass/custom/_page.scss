@@ -33,13 +33,23 @@
     }
   }
 
-  .body-section {
+  .section {
     position: relative;
 
     .btn-group {
       display: flex;
+      gap: 8px;
       position: absolute;
       right: 0;
+      top: 0;
+
+      @media(max-width: 55rem) {
+        position: relative;
+      }
+
+      a {
+        text-decoration: none;
+      }
     }
   }
 
@@ -73,6 +83,12 @@
     h4 {
       margin-top: 2rem;
       margin-bottom: 1rem;
+    }
+
+    .section {
+      h4, h3 {
+        max-width: 90%;
+      }
     }
   }
 }
