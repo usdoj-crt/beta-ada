@@ -1,0 +1,34 @@
+{% assign topics = site.topics | where_exp:"topic", "topic.topic-page-feature == true" %}
+{% assign slide-count = 1 %}
+<div id="carousel" class="active carousel with-slidenav" markdown="0">
+    <ul class="slide-container">
+        {% for topic in topics %}
+            <li class="slide {% if forloop.index == 1 %}current {% elsif forloop.index == 2 %}next {% elsif forloop.index == topics | length %}prev {% endif %}" aria-hidden="true">
+                <div class="usa-card__container">
+                    <header class="usa-card__header">
+                      <h2 class="usa-card__heading">{{ topic.card.title }}</h2>
+                    </header>
+                    <div class="usa-card__media">
+                      <div
+                        class="usa-card__img height-card-lg {% unless topic.card.href%}opacity-40{% endunless %}">
+                        {% asset '{{ topic.card.image | default: "landing/default.png" }}' alt='{{ topic.card.alt }}' style='object-position: center {{ topic.card.position | default: "center" }}' %}
+                      </div>
+                    </div>
+                    <div class="usa-card__body">
+                      <p>
+                        {{ topic.card.description }}
+                      </p>
+                    </div>
+                    <div class="usa-card__footer">
+                      {% if topic.card.href %}
+                      <a
+                        class="topic-card__link"
+                        href="{{ topic.card.href | relative_url }}"
+                        aria-label="Learn more about {{topic.card.title_alt | default:topic.card.title}}">{{site.data[lang]["i18n"].links.learn}}</a>
+                      {% endif %}
+                    </div>
+                  </div>
+            </li>
+        {% endfor %}
+      </ul>
+</div>

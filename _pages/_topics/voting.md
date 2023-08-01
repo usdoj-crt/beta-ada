@@ -15,7 +15,6 @@ card:
   image: landing/voting.jpg
   alt: "A vote here sign at a polling place on election day"
   href: /topics/voting/
-publish-date: 2022-09-21 00:00:00
 ---
 If you are an election official, you can use the information below to help make voting accessible and resolve some common accessibility barriers. If you are a person with a disability, the information should help you understand how the ADA protects your right to vote.
 
