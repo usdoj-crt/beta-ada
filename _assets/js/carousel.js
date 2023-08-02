@@ -111,10 +111,10 @@ function mobileCarousel () {
     ctrls.className = 'controls';
     ctrls.innerHTML =
       '<li>' +
-      '<button type="button" class="btn-prev" aria-label="Previous slide" alt="Previous Item" />' +
+      '<button type="button" data-ga-event-name="Previous slide" class="carousel-btn btn-prev" aria-label="Previous slide" alt="Previous Item" />' +
       '</li>' +
       '<li>' +
-      '<button type="button" class="btn-next" aria-label="Next slide" alt="Next Item" />' +
+      '<button type="button" data-ga-event-name="Next slide" class="carousel-btn btn-next" aria-label="Next slide" alt="Next Item" />' +
       '</li>';
 
     ctrls.querySelector('.btn-prev').addEventListener('click', function () {
@@ -152,7 +152,7 @@ function mobileCarousel () {
           const klass = i === 0 ? 'class="current" ' : '';
           const ariaLabel = '"slide ' + (i + 1) + ' navigation"'
 
-          li.innerHTML = '<button aria-label=' + ariaLabel + klass + 'data-slide="' + i + '"/>';
+          li.innerHTML = '<button class="carousel-nav" data-ga-event-name=' + ariaLabel + 'aria-label=' + ariaLabel + klass + 'data-slide="' + i + '"/>';
           context.slidenav.appendChild(li);
         });
       }
