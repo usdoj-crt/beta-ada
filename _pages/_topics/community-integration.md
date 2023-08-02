@@ -15,7 +15,6 @@ tags:
   - title ii
   - olmstead
 related-content: true
-publish-date: 2023-01-14 00:00:00
 ---
 In a 1999 case called *Olmstead v. L.C.*, the Supreme Court wrote that the unnecessary
 segregation of people with disabilities is a form of discrimination. The Court said that a person

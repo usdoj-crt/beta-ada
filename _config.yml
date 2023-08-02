@@ -67,9 +67,9 @@ primary_navigation:
       en: "/"
       es: "/"
   - name:
-      en: Featured Topics
-      en-short: Featured Topics
-      es: Featured Topics
+      en: Topics
+      en-short: Topics
+      es: Topics
     url:
       en: "/topics/"
       es: "/topics/"

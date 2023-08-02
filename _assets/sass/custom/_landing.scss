@@ -49,6 +49,9 @@ $arrow-height: 24px;
     background-size: cover;
     min-height: 400px;
     background-position: center;
+    &.crt-landing-topics--hero {
+      background-image: url('images/laws-and-regs-lp.jpeg');
+    }
   }
 
   @include at-media(widescreen) {

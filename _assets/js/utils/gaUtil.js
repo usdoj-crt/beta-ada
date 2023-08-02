@@ -28,6 +28,7 @@ function gtag() {
     ['.info-box-link', 'click', sendGAClickEvent],
     ['.best-bet', 'click', sendGAClickEvent],
     ['.expand-all', 'click', sendGAClickEvent],
+    ['.topic-jumplink', 'click', sendGAClickEvent],
     ['.file-a-complaint', 'click', sendGAClickEvent],
     ['.section-btn', 'click', sendGAClickEvent],
   ]

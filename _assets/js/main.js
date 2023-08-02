@@ -8,6 +8,7 @@ import printButton from "./print-button";
 import print from "./print";
 import search from "./search";
 import sidenav from "./expand-sidenav";
+import mobileCarousel from "./carousel";
 
 modal();
 redirectModal();
@@ -16,6 +17,7 @@ printButton();
 search();
 initGAEvents();
 sidenav();
+mobileCarousel();
 parseLawsAndRegs();
 
 const anchors = new AnchorJS();

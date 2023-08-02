@@ -8,6 +8,7 @@ lead: |-
   Accessible parking spaces are different than traditional parking spaces. They have specific features that make it easier for people with disabilities to access your programs, goods or services.
 print: true
 featured: true
+topic-page-feature: true
 card:
   title: Parking
   description: |-
