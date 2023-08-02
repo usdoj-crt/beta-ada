@@ -36,8 +36,7 @@ export default function parseLawsAndRegs () {
             const btnDiv = buildBtns();
             div.firstChild.after(btnDiv);
             const jumpLink = document.createElement('a');
-            const id = div.firstChild.textContent.split(' ').join('').substring(0, 20);
-            jumpLink.id = id;
+            jumpLink.id = i.toString();
             div.prepend(jumpLink);
         }
         newMainEl.appendChild(div);
