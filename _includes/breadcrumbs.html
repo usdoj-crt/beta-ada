@@ -7,7 +7,7 @@
   </svg>
   <ol class="padding-left-1" vocab="http://schema.org/"
   typeof="BreadcrumbList" class="usa-breadcrumb__list">
-    {% assign crumbs = page.url | remove:'/index.html' | remove:'/es' | remove: '/notices' | remove: '/2022' | remove: '/11' | remove: '/16' | split: '/' %}
+    {% assign crumbs = page.url | remove:'/index.html' | remove:'/es' | remove: '/notices' | remove: '/2022' | remove: '/11' | remove: '/16' | remove '/2023' | remove '/07' | remove '/20' | split: '/' %}
     <li property="itemListElement"
     typeof="ListItem" class="usa-breadcrumb__list-item"><a property="item"
     typeof="WebPage" href="/"><span property="name">{{ site.primary_navigation[0].name[lang] }}</span></a><meta property="position" content="1" /></li>

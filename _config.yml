@@ -35,15 +35,6 @@ contact:
 
 # For alerts that aren't tied to a site.categories.notice
 external_notices:
-  - text:
-      en: Celebrating 33 Years of the ADA
-      es: Celebrating 33 Years of the ADA
-    link_text:
-      en: Moving America Closer to the Promise
-      es: Moving America Closer to the Promise
-    link_href:
-      en: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/25/fact-sheet-biden-harris-administration-works-to-make-it-easier-for-people-with-disabilities-to-access-public-services-online/
-      es: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/25/fact-sheet-biden-harris-administration-works-to-make-it-easier-for-people-with-disabilities-to-access-public-services-online/
 
 # Display beta disclamers
 beta: false
