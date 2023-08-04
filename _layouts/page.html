@@ -76,7 +76,13 @@ layout: default
         {% unless page.hide_page_type_info %}
         {% include page-type-info-box.html %}
         {% endunless %}
+        {% if page.permalink contains '/law-and-regs/' %}
+        <div class="interactive-headers">
+          {{ content }}
+        </div>
+        {% else %}
         {{ content }}
+        {% endif %}
         {% if page.publish-date and page.updated-date %}
         <p class="text-thin font-sans-3xs">
           Originally issued:

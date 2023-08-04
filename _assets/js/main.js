@@ -18,7 +18,8 @@ search();
 initGAEvents();
 sidenav();
 mobileCarousel();
-parseLawsAndRegs();
+const mainEl = document.querySelector('.interactive-headers');
+parseLawsAndRegs(mainEl);
 
 const anchors = new AnchorJS();
 anchors.add(".crt-page h2:not([class*='usa']) h2:not(.noAnchor)");

@@ -1,8 +1,4 @@
-export default function parseLawsAndRegs () {
-    const url = window.location.href;
-    if (!url.includes('law-and-regs')) return;
-
-    const mainEl = document.getElementsByClassName('measure-6')[0];
+export default function parseLawsAndRegs (mainEl) {
     if (!mainEl) return;
 
     const parser = new DOMParser();
@@ -10,35 +6,36 @@ export default function parseLawsAndRegs () {
     const content = mainEl.innerHTML.toString();
     const parent = mainEl.parentElement;
     const newMainEl = document.createElement('div');
-    newMainEl.className = 'measure-6';
+    newMainEl.className = 'interactive-headers';
     mainEl.remove();
     const htmlDoc = parser.parseFromString(content, 'text/html');
-    const elArr = Array.from(htmlDoc.children[0].children[1].childNodes);
+    const contentNodes = Array.from(htmlDoc.children[0].children[1].childNodes);
     const sectionStrs = [];
     const subpartIndices = [];
     const subparts = [];
     let lastSectionHeading = 0;
-    elArr.forEach((el, i) => {
-        if (!(headingEls.includes(el.localName)
-            || (el.localName === 'p' && el.firstChild.localName === 'strong')
-            || i === elArr.length - 1)) return;
-        if (el.localName === 'h2') {
+    contentNodes.forEach((node, i) => {
+        if (!(headingEls.includes(node.localName)
+            || (node.localName === 'p' && node.firstChild.localName === 'strong')
+            || i === contentNodes.length - 1)) return;
+        if (node.localName === 'h2') {
             const subpart = document.createElement('div');
             subpart.className = 'subpart';
             subparts.push(subpart);
             subpartIndices.push(sectionStrs.length + 1);
         }
-        const sectionStr = elArr
-            .slice(lastSectionHeading, i === elArr.length - 1 ? i : i - 1)
-            .map(el => el.outerHTML).join(' ');
+        const sectionStr = contentNodes
+            .slice(lastSectionHeading, i)
+            .map(node => node.outerHTML).join(' ');
         sectionStrs.push(sectionStr);
         lastSectionHeading = i;
     });
 
     let currentSubpart = subparts[0];
     sectionStrs.forEach((sectionStr, i) => {
+        if (!sectionStr.length) return;
         const section = document.createElement('div');
-        section.className = i === 0 ? 'intro-section' : 'section';
+        section.className = 'section';
         section.innerHTML = sectionStr.trim();
         if (subpartIndices.includes(i)) {
           currentSubpart = subparts[subpartIndices.indexOf(i)];
@@ -53,9 +50,9 @@ export default function parseLawsAndRegs () {
     });
 
     subparts.forEach((subpart, i) => {
-        if (i !== 0 && Array.from(subpart.childNodes).length >= 2) {
+        if (Array.from(subpart.childNodes).length >= 2) {
             const btnDiv = buildBtns('.subpart');
-            subpart.prepend(btnDiv);
+            subpart.getElementsByClassName('section')[0].firstChild.after(btnDiv);
             const jumpLink = document.createElement('a');
             jumpLink.id = 'subpart' + i.toString();
             subpart.prepend(jumpLink);
