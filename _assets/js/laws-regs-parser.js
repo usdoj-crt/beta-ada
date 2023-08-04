@@ -53,7 +53,7 @@ export default function parseLawsAndRegs () {
     });
 
     subparts.forEach((subpart, i) => {
-        if (Array.from(subpart.childNodes).length >= 2) {
+        if (i !== 0 && Array.from(subpart.childNodes).length >= 2) {
             const btnDiv = buildBtns('.subpart');
             subpart.prepend(btnDiv);
             const jumpLink = document.createElement('a');
