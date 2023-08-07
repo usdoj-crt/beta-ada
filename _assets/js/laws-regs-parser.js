@@ -1,14 +1,12 @@
 export default function parseLawsAndRegs (mainContent) {
     if (!mainContent) return;
 
-    const parser = new DOMParser();
     const headings = ['h2', 'h3', 'h4', 'h5', 'strong'];
-    const content = mainContent.innerHTML.toString();
     const parent = mainContent.parentElement;
     const newMainContent = document.createElement('div');
     newMainContent.className = 'interactive-headers';
-    const htmlDoc = parser.parseFromString(content, 'text/html');
-    const contentNodes = Array.from(htmlDoc.children[0].children[1].childNodes);
+    const clone = mainContent.cloneNode(true);
+    const contentNodes = Array.from(clone.childNodes);
     const sections = [];
     let lastHeading = 0;
 
@@ -27,15 +25,17 @@ export default function parseLawsAndRegs (mainContent) {
         const sectionContainer = document.createElement('div');
         sectionContainer.className = 'section';
         sectionContainer.innerHTML = section.trim();
-        if (i !== 0 && Array.from(sectionContainer.childNodes).length >= 2) {
-            const btnDiv = buildBtns();
-            sectionContainer.firstChild.after(btnDiv);
-            const jumpLink = document.createElement('a');
-            jumpLink.id = i.toString();
-            sectionContainer.prepend(jumpLink);
-            jumpLink.id = 'section' + i.toString();
-            sectionContainer.prepend(jumpLink);
+        if (i === 0 && Array.from(sectionContainer.childNodes).length < 2) {
+            newMainContent.appendChild(sectionContainer);
+            return;
         }
+        const btnDiv = buildBtns();
+        sectionContainer.firstChild.after(btnDiv);
+        const jumpLink = document.createElement('a');
+        jumpLink.id = i.toString();
+        sectionContainer.prepend(jumpLink);
+        jumpLink.id = 'section' + i.toString();
+        sectionContainer.prepend(jumpLink);
         newMainContent.appendChild(sectionContainer);
     });
 
