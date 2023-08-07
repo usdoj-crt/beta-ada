@@ -1,48 +1,46 @@
-export default function parseLawsAndRegs () {
-    const url = window.location.href;
-    if (!url.includes('law-and-regs')) return;
-
-    const mainEl = document.getElementsByClassName('measure-6')[0];
-    if (!mainEl) return;
+export default function parseLawsAndRegs (mainContent) {
+    if (!mainContent) return;
 
     const parser = new DOMParser();
-    const headingEls = ['h3', 'h4', 'h5', 'strong'];
-    const content = mainEl.innerHTML.toString();
-    const parent = mainEl.parentElement;
-    const newMainEl = document.createElement('div');
-    newMainEl.className = 'measure-6';
-    mainEl.remove();
+    const headings = ['h2', 'h3', 'h4', 'h5', 'strong'];
+    const content = mainContent.innerHTML.toString();
+    const parent = mainContent.parentElement;
+    const newMainContent = document.createElement('div');
+    newMainContent.className = 'interactive-headers';
     const htmlDoc = parser.parseFromString(content, 'text/html');
-    const elArr = Array.from(htmlDoc.children[0].children[1].childNodes);
-    const sectionStrs = [];
+    const contentNodes = Array.from(htmlDoc.children[0].children[1].childNodes);
+    const sections = [];
     let lastHeading = 0;
 
-    elArr.forEach((el, i) => {
-        if (!(headingEls.includes(el.localName)
-            || (el.localName === 'p' && el.firstChild.localName === 'strong')
-            || i === elArr.length - 1)) return;
-        const sliceStr = elArr
-            .slice(lastHeading, i === elArr.length - 1 ? i : i - 1)
-            .map(element => element.outerHTML).join(' ');
-        sectionStrs.push(sliceStr);
+    contentNodes.map((node, i) => {
+        if (!(headings.includes(node.localName)
+            || i === contentNodes.length - 1)) return;
+        const sectionText = contentNodes
+            .slice(lastHeading, i)
+            .map(node => node.outerHTML).join(' ');
+        sections.push(sectionText);
         lastHeading = i;
     });
 
-    sectionStrs.forEach((section, i) => {
-        const div = document.createElement('div');
-        div.className = i === 0 ? 'intro-section' : 'section';
-        div.innerHTML = section.trim();
-        if (i !== 0 && Array.from(div.childNodes).length >= 2) {
+    sections.map((section, i) => {
+        if (!section.length) return;
+        const sectionContainer = document.createElement('div');
+        sectionContainer.className = 'section';
+        sectionContainer.innerHTML = section.trim();
+        if (i !== 0 && Array.from(sectionContainer.childNodes).length >= 2) {
             const btnDiv = buildBtns();
-            div.firstChild.after(btnDiv);
+            sectionContainer.firstChild.after(btnDiv);
             const jumpLink = document.createElement('a');
             jumpLink.id = i.toString();
-            div.prepend(jumpLink);
+            sectionContainer.prepend(jumpLink);
+            jumpLink.id = 'section' + i.toString();
+            sectionContainer.prepend(jumpLink);
         }
-        newMainEl.appendChild(div);
+        newMainContent.appendChild(sectionContainer);
     });
 
-    parent.appendChild(newMainEl);
+    parent.insertBefore(newMainContent, mainContent);
+    mainContent.remove()
 }
 
 function buildBtns() {
@@ -54,7 +52,7 @@ function buildBtns() {
         btn.className = btnType + '-btn text-no-underline section-btn';
         btn.setAttribute('data-ga-event-name', btnType);
         btn.setAttribute('aria-label', btnType);
-        btn.href = '#'
+        btn.href = '#';
         if (btnType === 'Share') {
             btn.innerHTML = '<span class="copied-link text-no-underline" style="display:none;">Copied share link</span><svg class="usa-icon share-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#share"></use></svg>';
             btn.addEventListener('click', shareLink);
