@@ -1,14 +1,12 @@
 export default function parseLawsAndRegs (mainContent) {
     if (!mainContent) return;
 
-    const parser = new DOMParser();
     const headings = ['h2', 'h3', 'h4', 'h5', 'strong'];
-    const content = mainContent.innerHTML.toString();
     const parent = mainContent.parentElement;
     const newMainContent = document.createElement('div');
     newMainContent.className = 'interactive-headers';
-    const htmlDoc = parser.parseFromString(content, 'text/html');
-    const contentNodes = Array.from(htmlDoc.children[0].children[1].childNodes);
+    const clone = mainContent.cloneNode(true);
+    const contentNodes = Array.from(clone.childNodes);
     const sections = [];
     const firstSubpart = document.createElement('div');
     firstSubpart.className = 'subpart';
