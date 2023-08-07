@@ -36,13 +36,15 @@ export default function parseLawsAndRegs (mainContent) {
         sectionContainer.className = 'section';
         sectionContainer.innerHTML = section.trim();
         currentSubpart = subpartIndices.includes(i) ? subparts[subpartIndices.indexOf(i)] : currentSubpart;
-        if (i !== 0 && Array.from(sectionContainer.childNodes).length >= 2 && !subpartIndices.includes(i)) {
-            const btnDiv = buildBtns('.section');
-            sectionContainer.firstChild.after(btnDiv);
-            const jumpLink = document.createElement('a');
-            jumpLink.id = 'section' + i.toString();
-            sectionContainer.prepend(jumpLink);
+       if (i === 0 || Array.from(sectionContainer.childNodes).length < 2 || subpartIndices.includes(i)) {
+            currentSubpart.appendChild(sectionContainer);
+            return;
         }
+        const btnDiv = buildBtns('.section');
+        sectionContainer.firstChild.after(btnDiv);
+        const jumpLink = document.createElement('a');
+        jumpLink.id = 'section' + i.toString();
+        sectionContainer.prepend(jumpLink);
         currentSubpart.appendChild(sectionContainer);
     });
 
