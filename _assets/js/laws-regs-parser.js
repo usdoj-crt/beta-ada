@@ -25,7 +25,7 @@ export default function parseLawsAndRegs (mainContent) {
         const sectionContainer = document.createElement('div');
         sectionContainer.className = 'section';
         sectionContainer.innerHTML = section.trim();
-        if (i === 0 && Array.from(sectionContainer.childNodes).length < 2) {
+        if (i === 0 || Array.from(sectionContainer.childNodes).length < 2) {
             newMainContent.appendChild(sectionContainer);
             return;
         }
