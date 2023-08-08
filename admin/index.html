@@ -27,6 +27,7 @@ layout: null
       CMS.registerEventListener({
         name: "preSave",
         handler: ({entry}) => {
+          if (entry.get('data').get('collection') === 'law-and-regs') return entry;
           const body = entry.get("data").get("body").replaceAll(/\\\[/g,"[")
           return entry.get("data").set("body", body);
         }
