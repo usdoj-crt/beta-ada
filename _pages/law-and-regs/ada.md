@@ -1,11 +1,13 @@
 ---
 title: Americans with Disabilities Act of 1990, As Amended
-description: The text of the Americans with Disabilities Act of 1990 (ADA), including changes made by the ADA Amendments Act of 2008.
-permalink: /law-and-regs/ada/
-lead: |-
-    Editor's Note:
+description: The text of the Americans with Disabilities Act of 1990 (ADA),
+  including changes made by the ADA Amendments Act of 2008.
+lead: >-
+  Editor's Note:
 
-    Here is the text of the Americans with Disabilities Act of 1990 (ADA), including changes made by the ADA Amendments Act of 2008. Congress passed the ADA as a “Public Law,” and it originally was in a different format than presented here. To make the law more widely available, the ADA was later reformatted and published in volume 42 (called “title 42”) of the United States Code. One small part of the ADA is found in title 47 of the United States Code. The text below mirrors the law as it is found in the U.S. Code. Because the numbering system is different in the U.S. Code, the headings provide in brackets the title numbers of the ADA as originally enacted.
+
+  Here is the text of the Americans with Disabilities Act of 1990 (ADA), including changes made by the ADA Amendments Act of 2008. Congress passed the ADA as a “Public Law,” and it originally was in a different format than presented here. To make the law more widely available, the ADA was later reformatted and published in volume 42 (called “title 42”) of the United States Code. One small part of the ADA is found in title 47 of the United States Code. The text below mirrors the law as it is found in the U.S. Code. Because the numbering system is different in the U.S. Code, the headings provide in brackets the title numbers of the ADA as originally enacted.
+permalink: /law-and-regs/ada/
 print: true
 redirect_from:
   - /adastatute08.htm
@@ -13,7 +15,6 @@ redirect_from:
   - /archive/adastat91.htm
   - /pubs/adastatute08.htm
 ---
-
 ## Title 42 - The Public Health and Welfare
 
 ### Chapter 126 - Equal Opportunity for Individuals with Disabilities
@@ -39,6 +40,7 @@ redirect_from:
 <p class="margin-left-8">(4) to invoke the sweep of congressional authority, including the power to enforce the fourteenth amendment and to regulate commerce, in order to address the major areas of discrimination faced day-to-day by people with disabilities.</p>
 
 #### Sec. 12101 note: Findings and Purposes of ADA Amendments Act of 2008, Pub. L. 110-325, §2, Sept. 25, 2008, 122 Stat. 3553, provided that:
+
 <p class="margin-left-4"><a name="12101notea" id="12101notea"></a>(a) Findings</p>
 
   <p class="margin-left-4">Congress finds that—</p>
@@ -60,6 +62,7 @@ redirect_from:
   <p class="margin-left-8">(6) to express Congress' expectation that the Equal Employment Opportunity Commission will revise that portion of its current regulations that defines the term "substantially limits" as "significantly restricted" to be consistent with this Act, including the amendments made by this Act.</p>
 
 ### Sec. 12102.  Definition of disability
+
 <p class="margin-left-4"> As used in this chapter: </p>
 <p class="margin-left-8"> (1) Disability</p>
 <p class="margin-left-8"> The term "disability" means, with respect to an individual—</p>
@@ -93,6 +96,7 @@ redirect_from:
   <p class="margin-left-20">(II) the term "low-vision devices" means devices that magnify, enhance, or otherwise augment a visual image.</p>
 
 ### Sec. 12103. Additional definitions
+
   <p class="margin-left-1"> As used in this chapter:</p>
   <p class="margin-left-8"> (1) Auxiliary aids and services</p>
   <p class="margin-left-8"> The term "auxiliary aids and services" includes—</p>
@@ -105,6 +109,7 @@ redirect_from:
 </p>
 
 ## Subchapter I - Employment <span class="font-serif-lg">[Title I]</span>
+
 ### Sec. 12111. Definitions
 
 <p class="margin-left-1"> As used in this subchapter:</p>
@@ -147,6 +152,7 @@ redirect_from:
 <p class="margin-left-16">(iv) the type of operation or operations of the covered entity, including the composition, structure, and functions of the workforce of such entity; the geographic separateness, administrative, or fiscal relationship of the facility or facilities in question to the covered entity.</p>
 
 ### Sec. 12112. Discrimination
+
 <p class="margin-left-4"> <a name="12112a" id="12112a"></a>(a) General rule</p>
 <p class="margin-left-4">No covered entity shall discriminate against a qualified individual  on the basis of disability in regard to job application procedures, the hiring, advancement, or discharge of employees, employee compensation, job training, and other terms, conditions, and privileges of employment.</p>
 <p class="margin-left-4"> <a name="12112b" id="12112b"></a>(b) Construction</p>
@@ -201,6 +207,7 @@ redirect_from:
 <p class="margin-left-12">Information obtained under subparagraph (B) regarding the medical condition or history of any employee are subject to the requirements of subparagraphs (B) and (C) of paragraph (3).</p>
 
 ### Sec. 12113. Defenses
+
 <p class="margin-left-4"> <a name="12113a" id="12113a"></a>(a) In general</p>
 <p class="margin-left-4">It may be a defense to a charge of discrimination under this chapter that an alleged application of qualification standards, tests, or selection criteria that screen out or tend to screen out or otherwise deny a job or benefit to an individual with a disability has been shown to be job- related and consistent with business necessity, and such performance cannot be accomplished by reasonable accommodation, as required under this subchapter.</p>
 <p class="margin-left-4"> <a name="12113b" id="12113b"></a>(b) Qualification standards</p>
@@ -228,6 +235,7 @@ redirect_from:
 <p class="margin-left-8">Nothing in this chapter shall be construed to preempt, modify, or amend any State, county, or local law, ordinance, or regulation applicable to food handling which is designed to protect the public health from individuals who pose a significant risk to the health or safety of others, which cannot be eliminated by reasonable accommodation, pursuant to the list of infectious or communicable diseases and the modes of transmissibility published by the Secretary of Health and Human Services.</p>
 
 ### Sec. 12114. Illegal use of drugs and alcohol
+
 <p class="margin-left-4"> <a name="12114a" id="12114a"></a>(a) Qualified individual with a disability</p>
 <p class="margin-left-4">For purposes of this subchapter, a qualified individual with a disability shall not include any employee or applicant who is currently engaging in the illegal use of drugs, when the covered entity acts on the basis of such use.</p>
 <p class="margin-left-4"> <a name="12114b" id="12114b"></a>(b) Rules of construction</p>
@@ -257,20 +265,26 @@ redirect_from:
 <p class="margin-left-8">(2) remove such persons who test positive for illegal use of drugs and on-duty impairment by alcohol pursuant to paragraph (1) from safety-sensitive duties in implementing subsection (c).</p>
 
 ### Sec. 12115. Posting notices
+
 <p class="margin-left-1">Every employer, employment agency, labor organization, or joint labor-management committee covered under this subchapter shall post notices in an accessible format to applicants, employees, and members describing the applicable provisions of this chapter, in the manner prescribed by section 2000e-10 of this title.</p>
 
 ### Sec. 12116. Regulations
+
 <p class="margin-left-1">Not later than 1 year after July 26, 1990, the Commission shall issue regulations in an accessible format to carry out this subchapter in accordance with subchapter II of chapter 5 of title 5.</p>
 
 ### Sec. 12117. Enforcement
+
 <p class="margin-left-4"> <a name="12117a" id="12117a"></a>(a) Powers, remedies, and procedures</p>
 <p class="margin-left-4">The powers, remedies, and procedures set forth in sections 2000e-4, 2000e-5, 2000e-6, 2000e-8, and 2000e-9 of this title shall be the powers, remedies, and procedures this subchapter provides to the Commission, to the Attorney General, or to any person alleging discrimination on the basis of disability in violation of any provision of this chapter, or regulations promulgated under section 12116 of this title, concerning employment.</p>
 <p class="margin-left-4"> <a name="12117b" id="12117b"></a>(b) Coordination</p>
 <p class="margin-left-4">The agencies with enforcement authority for actions which allege employment discrimination under this subchapter and under the Rehabilitation Act of 1973 [29 U.S.C. 701 et seq.] shall develop procedures to ensure that administrative complaints filed under this subchapter and under the Rehabilitation Act of 1973 are dealt with in a manner that avoids duplication of effort and prevents imposition of inconsistent or conflicting standards for the same requirements under this subchapter and the Rehabilitation Act of 1973. The Commission, the Attorney General, and the Office of Federal Contract Compliance Programs shall establish such coordinating mechanisms (similar to provisions contained in the joint regulations promulgated by the Commission and the Attorney General at part 42 of title 28 and part 1691 of title 29, Code of Federal Regulations, and the Memorandum of Understanding between the Commission and the Office of Federal Contract Compliance Programs dated January 16, 1981 (46 Fed. Reg. 7435, January 23, 1981)) in regulations implementing this subchapter and Rehabilitation Act of 1973 not later than 18 months after July 26, 1990.</p>
 
 ## Subchapter II - Public Services <span class="font-serif-lg">[Title II]</span>
+
 ### Part A - Prohibition Against Discrimination and Other Generally Applicable Provisions
+
 #### Sec. 12131. Definitions
+
 <p class="margin-left-1"> As used in this subchapter:</p>
 <p class="margin-left-8"> (1) Public entity</p>
 <p class="margin-left-8"> The term "public entity" means</p>
@@ -281,12 +295,15 @@ redirect_from:
 <p class="margin-left-8">The term "qualified individual with a disability" means an individual with a disability who, with or without reasonable modifications to rules, policies, or practices, the removal of architectural, communication, or transportation barriers, or the provision of auxiliary aids and services, meets the essential eligibility requirements for the receipt of services or the participation in programs or activities provided by a public entity.</p>
 
 #### Sec. 12132. Discrimination
+
 <p class="margin-left-1">Subject to the provisions of this subchapter, no qualified individual with a disability shall, by reason of such disability, be excluded from participation in or be denied the benefits of services, programs, or activities of a public entity, or be subjected to discrimination by any such entity.</p>
 
 #### Sec. 12133. Enforcement
+
 <p class="margin-left-1">The remedies, procedures, and rights set forth in section 794a of title 29 shall be the remedies, procedures, and rights this subchapter provides to any person alleging discrimination on the basis of disability in violation of section 12132 of this title.</p>
 
 #### Sec. 12134. Regulations
+
 <p class="margin-left-8"> <a name="12134a" id="12134a"></a>(a) In general</p>
 <p class="margin-left-8">Not later than 1 year after July 26, 1990, the Attorney General shall promulgate regulations in an accessible format that implement this part. Such regulations shall not include any matter within the scope of the authority of the Secretary of Transportation under section 12143, 12149, or 12164 of this title.</p>
 <p class="margin-left-8"> <a name="12134b" id="12134b"></a>(b) Relationship to other regulations</p>
@@ -295,8 +312,11 @@ redirect_from:
 <p class="margin-left-8">Regulations under subsection (a) of this section shall include standards applicable to facilities and vehicles covered by this part, other than facilities, stations, rail passenger cars, and vehicles covered by part B of this subchapter. Such standards shall be consistent with the minimum guidelines and requirements issued by the Architectural and Transportation Barriers Compliance Board in accordance with section 12204(a) of this title.</p>
 
 ### Part B - Actions Applicable to Public Transportation Provided by Public Entities Considered Discriminatory
+
 #### Subpart I - Public Transportation Other than by Aircraft or Certain Rail Operations
+
 ##### Sec. 12141. Definitions
+
 <p class="margin-left-1"> As used in this subpart:</p>
 <p class="margin-left-8"> (1) Demand responsive system</p>
 <p class="margin-left-8">The term "demand responsive system" means any system of providing designated public transportation which is not a fixed route system.</p>
@@ -312,6 +332,7 @@ redirect_from:
 <p class="margin-left-8"> The term "Secretary" means the Secretary of Transportation.</p>
 
 ##### Sec. 12142. Public entities operating fixed route systems
+
 <p class="margin-left-4"> <a name="12142a" id="12142a"></a>(a) Purchase and lease of new vehicles</p>
 <p class="margin-left-4">It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a public entity which operates a fixed route system to purchase or lease a new bus, a new rapid rail vehicle, a new light rail vehicle, or any other new vehicle to be used on such system, if the solicitation for such purchase or lease is made after the 30th day following July 26, 1990, and if such bus, rail vehicle, or other vehicle is not readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs.</p>
 <p class="margin-left-4"> <a name="12142b" id="12142b"></a>(b) Purchase and lease of used vehicles</p>
@@ -328,6 +349,7 @@ redirect_from:
 <p class="margin-left-12">For purposes of this paragraph and section 12148(a) of this title, a vehicle of historic character shall be defined by the regulations issued by the Secretary to carry out this subsection.</p>
 
 ##### Sec. 12143. Paratransit as a complement to fixed route service
+
 <p class="margin-left-4"> <a name="12143a" id="12143a"></a>(a) General rule</p>
 <p class="margin-left-4">It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a public entity which operates a fixed route system (other than a system which provides solely commuter bus service) to fail to provide with respect to the operations of its fixed route system, in accordance with this section, paratransit and other special transportation services to individuals with disabilities, including individuals who use wheelchairs that are sufficient to provide to such individuals a level of service</p>
 <p class="margin-left-8">(1) which is comparable to the level of designated public transportation services provided to individuals without disabilities using such system; or</p>
@@ -384,9 +406,11 @@ redirect_from:
 <p class="margin-left-8">(3) from providing such services to individuals in addition to those individuals to whom such services are required to be provided by this section.</p>
 
 ##### Sec. 12144. Public entity operating a demand responsive system
+
 <p class="margin-left-1">If a public entity operates a demand responsive system, it shall be considered discrimination, for purposes of section 12132 of this title and section 794 of title 29, for such entity to purchase or lease a new vehicle for use on such system, for which a solicitation is made after the 30th day following July 26, 1990, that is not readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, unless such system, when viewed in its entirety, provides a level of service to such individuals equivalent to the level of service such system provides to individuals without disabilities.</p>
 
 ##### Sec. 12145. Temporary relief where lifts are unavailable
+
 <p class="margin-left-4"> <a name="12145a" id="12145a"></a>(a) Granting</p>
 <p class="margin-left-4">With respect to the purchase of new buses, a public entity may apply for, and the Secretary may temporarily relieve such public entity from the obligation under section 12142(a) or 12144 of this title to purchase new buses that are readily accessible to and usable by individuals with disabilities if such public entity demonstrates to the satisfaction of the Secretary</p>
 <p class="margin-left-8">(1) that the initial solicitation for new buses made by the public entity specified that all new buses were to be lift-equipped and were to be otherwise accessible to and usable by individuals with disabilities;</p>
@@ -401,9 +425,11 @@ redirect_from:
 <p class="margin-left-8"> (2) take such other action as the Secretary considers appropriate.</p>
 
 ##### Sec. 12146. New facilities
+
 <p class="margin-left-1">For purposes of section 12132 of this title and section 794 of title 29, it shall be considered discrimination for a public entity to construct a new facility to be used in the provision of designated public transportation services unless such facility is readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs.</p>
 
 ##### Sec. 12147. Alterations of existing facilities
+
 <p class="margin-left-4"> <a name="12147a" id="12147a"></a>(a) General rule</p>
 <p class="margin-left-4">With respect to alterations of an existing facility or part thereof used in the provision of designated public transportation services that affect or could affect the usability of the facility or part thereof, it shall be considered discrimination, for purposes of section 12132 of this title and section 794 of title 29, for a public entity to fail to make such alterations (or to ensure that the alterations are made) in such a manner that, to the maximum extent feasible, the altered portions of the facility are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, upon the completion of such alterations. Where the public entity is undertaking an alteration that affects or could affect usability of or access to an area of the facility containing a primary function, the entity shall also make the alterations in such a manner that, to the maximum extent feasible, the path of travel to the altered area and the bathrooms, telephones, and drinking fountains serving the altered area, are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, upon completion of such alterations, where such alterations to the path of travel or the bathrooms, telephones, and drinking fountains serving the altered area are not disproportionate to the overall alterations in terms of cost and scope (as determined under criteria established by the Attorney General).</p>
 <p class="margin-left-4"> <a name="12147b" id="12147b"></a>(b) Special rule for stations</p>
@@ -420,6 +446,7 @@ redirect_from:
 <p class="margin-left-12">(B) that establishes milestones for achievement of the requirements of this subsection.</p>
 
 ##### Sec. 12148. Public transportation programs and activities in existing facilities and one car per train rule
+
 <p class="margin-left-4"> <a name="12148a" id="12148a"></a>(a) Public transportation programs and activities in existing facilities</p>
 <p class="margin-left-8"> (1) In general</p>
 <p class="margin-left-8">With respect to existing facilities used in the provision of designated public transportation services, it shall be considered discrimination, for purposes of section 12132 of this title and section 794 of title 29, for a public entity to fail to operate a designated public transportation program or activity conducted in such facilities so that, when viewed in the entirety, the program or activity is readily accessible to and usable by individuals with disabilities.</p>
@@ -434,16 +461,20 @@ redirect_from:
 <p class="margin-left-8">In order to comply with paragraph (1) with respect to the remanufacture of a vehicle of historic character which is to be used on a segment of a light or rapid rail system which is included on the National Register of Historic Places, if making such vehicle readily accessible to and usable by individuals with disabilities would significantly alter the historic character of such vehicle, the public entity which operates such system only has to make (or to purchase or lease a remanufactured vehicle with) those modifications which are necessary to meet the requirements of section 12142(c)(1) of this title and which do not significantly alter the historic character of such vehicle.</p>
 
 ##### Sec. 12149. Regulations
+
 <p class="margin-left-4"> <a name="12149a" id="12149a"></a>(a) In general</p>
 <p class="margin-left-4">Not later than 1 year after July 26, 1990, the Secretary of Transportation shall issue regulations, in an accessible format, necessary for carrying out this subpart (other than section 12143 of this title).</p>
 <p class="margin-left-4"> <a name="12149b" id="12149b"></a>(b) Standards</p>
 <p class="margin-left-4">The regulations issued under this section and section 12143 of this title shall include standards applicable to facilities and vehicles covered by this part. The standards shall be consistent with the minimum guidelines and requirements issued by the Architectural and Transportation Barriers Compliance Board in accordance with section 12204 of this title.</p>
 
 ##### Sec. 12150. Interim accessibility requirements
+
 <p class="margin-left-1">If final regulations have not been issued pursuant to section 12149 of this title, for new construction or alterations for which a valid and appropriate State or local building permit is obtained prior to the issuance of final regulations under such section, and for which the construction or alteration authorized by such permit begins within one year of the receipt of such permit and is completed under the terms of such permit, compliance with the Uniform Federal Accessibility Standards in effect at the time the building permit is issued shall suffice to satisfy the requirement that facilities be readily accessible to and usable by persons with disabilities as required under sections 12146 and 12147 of this title, except that, if such final regulations have not been issued one year after the Architectural and Transportation Barriers Compliance Board has issued the supplemental minimum guidelines required under section 12204(a) of this title, compliance with such supplemental minimum guidelines shall be necessary to satisfy the requirement that facilities be readily accessible to and usable by persons with disabilities prior to issuance of the final regulations.</p>
 
 ### Subpart II - Public Transportation by Intercity and Commuter Rail
+
 #### Sec. 12161. Definitions
+
 <p class="margin-left-1"> As used in this subpart:</p>
 <p class="margin-left-8"> (1) Commuter authority</p>
 <p class="margin-left-8">The term "commuter authority" has the meaning given such term in section 24102(4) of title 49.</p>
@@ -462,6 +493,7 @@ redirect_from:
 <p class="margin-left-8">The term "station" means the portion of a property located appurtenant to a right-of-way on which intercity or commuter rail transportation is operated, where such portion is used by the general public and is related to the provision of such transportation, including passenger platforms, designated waiting areas, ticketing areas, restrooms, and, where a public entity providing rail transportation owns the property, concession areas, to the extent that such public entity exercises control over the selection, design, construction, or alteration of the property, but such term does not include flag stops.</p>
 
 #### Sec. 12162. Intercity and commuter rail actions considered discriminatory
+
 <p class="margin-left-4"> <a name="12162a" id="12162a"></a>(a) Intercity rail transportation</p>
 <p class="margin-left-8"> (1) One car per train rule</p>
 <p class="margin-left-8">It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a person who provides intercity rail transportation to fail to have at least one passenger car per train that is readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, in accordance with regulations issued under section 12164 of this title, as soon as practicable, but in no event later than 5 years after July 26, 1990.</p>
@@ -552,19 +584,24 @@ redirect_from:
 <p class="margin-left-12">It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for an owner, or person in control, of a station governed by subparagraph (a) or (b) to fail to provide reasonable cooperation to a responsible person with respect to such station in that responsible person's efforts to comply with such subparagraph. An owner, or person in control, of a station shall be liable to a responsible person for any failure to provide reasonable cooperation as required by this subparagraph. Failure to receive reasonable cooperation required by this subparagraph shall not be a defense to a claim of discrimination under this chapter.</p>
 
 #### Sec. 12163. Conformance of accessibility standards
+
 <p class="margin-left-1">Accessibility standards included in regulations issued under this subpart shall be consistent with the minimum guidelines issued by the Architectural and Transportation Barriers Compliance Board under section 12204 of this title.</p>
 
 #### Sec. 12164. Regulations
+
 <p class="margin-left-1">Not later than 1 year after July 26, 1990, the Secretary of Transportation shall issue regulations, in an accessible format, necessary for carrying out this subpart.</p>
 
 #### Sec. 12165. Interim accessibility requirements
+
 <p class="margin-left-4"> <a name="12165a" id="12165a"></a>(a) Stations</p>
 <p class="margin-left-4">If final regulations have not been issued pursuant to section 12164 of this title, for new construction or alterations for which a valid and appropriate State or local building permit is obtained prior to the issuance of final regulations under such section, and for which the construction or alteration authorized by such permit begins within one year of the receipt of such permit and is completed under the terms of such permit, compliance with the Uniform Federal Accessibility Standards in effect at the time the building permit is issued shall suffice to satisfy the requirement that stations be readily accessible to and usable by persons with disabilities as required under section 12162(e) of this title, except that, if such final regulations have not been issued one year after the Architectural and Transportation Barriers Compliance Board has issued the supplemental minimum guidelines required under section 12204(a) of this title, compliance with such supplemental minimum guidelines shall be necessary to satisfy the requirement that stations be readily accessible to and usable by persons with disabilities prior to issuance of the final regulations.</p>
 <p class="margin-left-4"> <a name="12165b" id="12165b"></a>(b) Rail passenger cars</p>
 <p class="margin-left-4">If final regulations have not been issued pursuant to section 12164 of this title, a person shall be considered to have complied with the requirements of section 12162(a) through (d) of this title that a rail passenger car be readily accessible to and usable by individuals with disabilities, if the design for such car complies with the laws and regulations (including the Minimum Guidelines and Requirements for Accessible Design and such supplemental minimum guidelines as are issued under section 12204(a) of this title) governing accessibility of such cars, to the extent that such laws and regulations are not inconsistent with this subpart and are in effect at the time such design is substantially completed.</p>
 
 ## Subchapter III - Public Accommodations and Services by Private Entities <span class="font-serif-lg">[Title III]</span>
+
 ### Sec. 12181. Definitions
+
 <p class="margin-left-1"> As used in this subchapter:</p>
 <p class="margin-left-8"> (1) Commerce</p>
 <p class="margin-left-8">The term "commerce" means travel, trade, traffic, commerce, transportation, or communication—</p>
@@ -612,6 +649,7 @@ redirect_from:
 <p class="margin-left-8">The term "vehicle" does not include a rail passenger car, railroad locomotive, railroad freight car, railroad caboose, or a railroad car described in section 12162 of this title or covered under this subchapter.</p>
 
 ### Sec. 12182. Prohibition of discrimination by public accommodations
+
 <p class="margin-left-4"> <a name="12182a" id="12182a"></a>(a) General rule</p>
 <p class="margin-left-4">No individual shall be discriminated against on the basis of disability in the full and equal enjoyment of the goods, services, facilities, privileges, advantages, or accommodations of any place of public accommodation by any person who owns, leases (or leases to), or operates a place of public accommodation.</p>
 <p class="margin-left-4"> <a name="12182b" id="12182b"></a>(b) Construction</p>
@@ -663,6 +701,7 @@ redirect_from:
 <p class="margin-left-8">Nothing in this subchapter shall require an entity to permit an individual to participate in or benefit from the goods, services, facilities, privileges, advantages and accommodations of such entity where such individual poses a direct threat to the health or safety of others. The term "direct threat" means a significant risk to the health or safety of others that cannot be eliminated by a modification of policies, practices, or procedures or by the provision of auxiliary aids or services.</p>
 
 ### Sec. 12183. New construction and alterations in public accommodations and commercial facilities
+
 <p class="margin-left-4"> <a name="12183a" id="12183a"></a>(a) Application of term</p>
 <p class="margin-left-4">Except as provided in subsection (b) of this section, as applied to public accommodations and commercial facilities, discrimination for purposes of section 12182(a) of this title includes</p>
 <p class="margin-left-8">(1) a failure to design and construct facilities for first occupancy later than 30 months after July 26, 1990, that are readily accessible to and usable by individuals with disabilities, except where an entity can demonstrate that it is structurally impracticable to meet the requirements of such subsection in accordance with standards set forth or incorporated by reference in regulations issued under this subchapter; and</p>
@@ -671,6 +710,7 @@ redirect_from:
 <p class="margin-left-4">Subsection (a) shall not be construed to require the installation of an elevator for facilities that are less than three stories or have less than 3,000 square feet per story unless the building is a shopping center, a shopping mall, or the professional office of a health care provider or unless the Attorney General determines that a particular category of such facilities requires the installation of elevators based on the usage of such facilities.</p>
 
 ### Sec. 12184. Prohibition of discrimination in specified public transportation services provided by private entities
+
 <p class="margin-left-4"> <a name="12184a" id="12184a"></a>(a) General rule</p>
 <p class="margin-left-4">No individual shall be discriminated against on the basis of disability in the full and equal enjoyment of specified public transportation services provided by a private entity that is primarily engaged in the business of transporting people and whose operations affect commerce.</p>
 <p class="margin-left-4"> <a name="12184b" id="12184b"></a>(b) Construction</p>
@@ -699,6 +739,7 @@ redirect_from:
 <p class="margin-left-16">(ii) embodies, or is being restored to embody, the distinctive characteristics of a type of rail passenger car used in the past, or to represent a time period which has passed.</p>
 
 ### Sec. 12185. Study
+
 <p class="margin-left-4"> <a name="12185a" id="12185a"></a>(a) Purposes</p>
 <p class="margin-left-4">The Office of Technology Assessment shall undertake a study to determine</p>
 <p class="margin-left-8">(1) the access needs of individuals with disabilities to over-the-road buses and over-the- road bus service; and</p>
@@ -723,6 +764,7 @@ redirect_from:
 <p class="margin-left-4">In developing the study required by subsection (a) of this section, the Office of Technology Assessment shall provide a preliminary draft of such study to the Architectural and Transportation Barriers Compliance Board established under section 792 of title 29. The Board shall have an opportunity to comment on such draft study, and any such comments by the Board made in writing within 120 days after the Board's receipt of the draft study shall be incorporated as part of the final study required to be submitted under subsection (d).</p>
 
 ### Sec. 12186. Regulations
+
 <p class="margin-left-4"> <a name="12186a" id="12186a"></a>(a) Transportation provisions</p>
 <p class="margin-left-8"> (1) General rule</p>
 <p class="margin-left-8">Not later than 1 year after July 26, 1990, the Secretary of Transportation shall issue regulations in an accessible format to carry out section 12182(b)(2)(B) and (C) of this title and to carry out section 12184 of this title (other than subsection (a)(4)).</p>
@@ -756,9 +798,11 @@ redirect_from:
 <p class="margin-left-8">If final regulations have not been issued pursuant to this section, a private entity shall be considered to have complied with the requirements of this subchapter, if any, that a vehicle or rail passenger car be readily accessible to and usable by individuals with disabilities, if the design for such vehicle or car complies with the laws and regulations (including the Minimum Guidelines and Requirements for Accessible Design and such supplemental minimum guidelines as are issued under section 12204(a) of this title) governing accessibility of such vehicles or cars, to the extent that such laws and regulations are not inconsistent with this subchapter and are in effect at the time such design is substantially completed.</p>
 
 ### Sec. 12187. Exemptions for private clubs and religious organizations
+
 <p class="margin-left-1">The provisions of this subchapter shall not apply to private clubs or establishments exempted from coverage under title II of the Civil Rights Act of 1964 (42 U.S.C. 2000-a(e)) or to religious organizations or entities controlled by religious organizations, including places of worship.</p>
 
 ### Sec. 12188. Enforcement
+
 <p class="margin-left-4"> <a name="12188a" id="12188a"></a>(a) In general</p>
 <p class="margin-left-8"> (1) Availability of remedies and procedures</p>
 <p class="margin-left-8">The remedies and procedures set forth in section 2000a-3(a) of this title are the remedies and procedures this subchapter provides to any person who is being subjected to discrimination on the basis of disability in violation of this subchapter or who has reasonable grounds for believing that such person is about to be subjected to discrimination in violation of section 12183 of this title. Nothing in this section shall require a person with a disability to engage in a futile gesture if such person has actual notice that a person or organization covered by this subchapter does not intend to comply with its provisions.</p>
@@ -794,10 +838,13 @@ redirect_from:
 <p class="margin-left-8">In a civil action under paragraph (1)(B), the court, when considering what amount of civil penalty, if any, is appropriate, shall give consideration to any good faith effort or attempt to comply with this chapter by the entity. In evaluating good faith, the court shall consider, among other factors it deems relevant, whether the entity could have reasonably anticipated the need for an appropriate type of auxiliary aid needed to accommodate the unique needs of a particular individual with a disability.</p>
 
 ### Sec. 12189. Examinations and courses
+
 <p class="margin-left-1">Any person that offers examinations or courses related to applications, licensing, certification, or credentialing for secondary or postsecondary education, professional, or trade purposes shall offer such examinations or courses in a place and manner accessible to persons with disabilities or offer alternative accessible arrangements for such individuals.</p>
 
 ## Subchapter IV - Miscellaneous Provisions <span class="font-serif-lg">[Title V]</span>
+
 ### Sec. 12201. Construction
+
 <p class="margin-left-4"> <a name="12201a" id="12201a"></a>(a) In general</p>
 <p class="margin-left-4">Except as otherwise provided in this chapter, nothing in this chapter shall be construed to apply a lesser standard than the standards applied under title V of the Rehabilitation Act of 1973 (29 U.S.C. 790 et seq.) or the regulations issued by Federal agencies pursuant to such title.</p>
 <p class="margin-left-4"> <a name="12201b" id="12201b"></a>(b) Relationship to other laws</p>
@@ -822,9 +869,11 @@ redirect_from:
 </p>
 
 ### Sec. 12202. State immunity
+
 <p class="margin-left-1">A State shall not be immune under the eleventh amendment to the Constitution of the United States from an action in Federal or State court of competent jurisdiction for a violation of this chapter. In any action against a State for a violation of the requirements of this chapter, remedies (including remedies both at law and in equity) are available for such a violation to the same extent as such remedies are available for such a violation in an action against any public or private entity other than a State.</p>
 
 ### Sec. 12203. Prohibition against retaliation and coercion
+
 <p class="margin-left-4"> <a name="12203a" id="12203a"></a>(a) Retaliation</p>
 <p class="margin-left-4">No person shall discriminate against any individual because such individual has opposed any act or practice made unlawful by this chapter or because such individual made a charge, testified, assisted, or participated in any manner in an investigation, proceeding, or hearing under this chapter.</p>
 <p class="margin-left-4"> <a name="12203b" id="12203b"></a>(b) Interference, coercion, or intimidation</p>
@@ -833,6 +882,7 @@ redirect_from:
 <p class="margin-left-4">The remedies and procedures available under sections 12117, 12133, and 12188 of this title shall be available to aggrieved persons for violations of subsections (a) and (b), with respect to subchapter I, subchapter II and subchapter III of this chapter, respectively.</p>
 
 ### Sec. 12204. Regulations by Architectural and Transportation Barriers Compliance Board
+
 <p class="margin-left-4"> <a name="12204a" id="12204a"></a>(a) Issuance of guidelines</p>
 <p class="margin-left-4">Not later than 9 months after July 26, 1990, the Architectural and Transportation Barriers Compliance Board shall issue minimum guidelines that shall supplement the existing Minimum Guidelines and Requirements for Accessible Design for purposes of subchapters II and III of this chapter.</p>
 <p class="margin-left-4"> <a name="12204b" id="12204b"></a>(b) Contents of guidelines</p>
@@ -846,12 +896,15 @@ redirect_from:
 <p class="margin-left-8">With respect to alterations of buildings or facilities designated as historic under State or local law, the guidelines described in paragraph (1) shall establish procedures equivalent to those established by 4.1.7(1)(b) and (c) of the Uniform Federal Accessibility Standards, and shall require, at a minimum, compliance with the requirements established in 4.1.7(2) of such standards.</p>
 
 ### Sec. 12205. Attorney's fees
+
 <p class="margin-left-1">In any action or administrative proceeding commenced pursuant to this chapter, the court or agency, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney's fee, including litigation expenses, and costs, and the United States shall be liable for the foregoing the same as a private individual. </p>
 
 ### Sec. 12205a. Rule of Construction Regarding Regulatory Authority
+
 <p class="margin-left-1">The authority to issue regulations granted to the Equal Employment Opportunity Commission, the Attorney General, and the Secretary of Transportation under this chapter includes the authority to issue regulations implementing the definitions of disability in section 12102 of this title (including rules of construction) and the definitions in section 12103 of this title, consistent with the ADA Amendments Act of 2008.</p>
 
 ### Sec. 12206. Technical assistance
+
 <p class="margin-left-4"> <a name="12206a" id="12206a"></a>(a) Plan for assistance</p>
 <p class="margin-left-8"> (1) In general</p>
 <p class="margin-left-8">Not later than 180 days after July 26, 1990, the Attorney General, in consultation with the Chair of the Equal Employment Opportunity Commission, the Secretary of Transportation, the Chair of the Architectural and Transportation Barriers Compliance Board, and the Chairman of the Federal Communications Commission, shall develop a plan to assist entities covered under this chapter, and other Federal agencies, in understanding the responsibility of such entities and agencies under this chapter.</p>
@@ -885,6 +938,7 @@ redirect_from:
 <p class="margin-left-4">An employer, public accommodation, or other entity covered under this chapter shall not be excused from compliance with the requirements of this chapter because of any failure to receive technical assistance under this section, including any failure in the development or dissemination of any technical assistance manual authorized by this section.</p>
 
 ### Sec. 12207. Federal wilderness areas
+
 <p class="margin-left-4"> <a name="12207a" id="12207a"></a>(a) Study</p>
 <p class="margin-left-4">The National Council on Disability shall conduct a study and report on the effect that wilderness designations and wilderness land management practices have on the ability of individuals with disabilities to use and enjoy the National Wilderness Preservation System as established under the Wilderness Act (16 U.S.C. 1131 et seq.).</p>
 <p class="margin-left-4"> <a name="12207b" id="12207b"></a>(b) Submission of report</p>
@@ -896,9 +950,11 @@ redirect_from:
 <p class="margin-left-8">For purposes of paragraph (1), the term "wheelchair" means a device designed solely for use by a mobility-impaired person for locomotion, that is suitable for use in an indoor pedestrian area.</p>
 
 ### Sec. 12208. Transvestites
+
 <p class="margin-left-1">For the purposes of this chapter, the term "disabled" or "disability" shall not apply to an individual solely because that individual is a transvestite.</p>
 
 ### Sec. 12209. Instrumentalities of Congress
+
 <p class="margin-left-1">The Government Accountability Office, the Government Publishing Office, and the Library of Congress shall be covered as follows:</p>
 <p class="margin-left-8"> (1) In general</p>
 <p class="margin-left-8">The rights and protections under this chapter shall, subject to paragraph (2), apply with respect to the conduct of each instrumentality of the Congress.</p>
@@ -916,6 +972,7 @@ redirect_from:
 <p class="margin-left-8">Nothing in this section shall alter the enforcement procedures for individuals with disabilities provided in the General Accounting Office Personnel Act of 1980 and regulations promulgated pursuant to that Act.</p>
 
 ### Sec. 12210. Illegal use of drugs
+
 <p class="margin-left-4"> <a name="12210a" id="12210a"></a>(a) In general</p>
 <p class="margin-left-4">For purposes of this chapter, the term "individual with a disability" does not include an individual who is currently engaging in the illegal use of drugs, when the covered entity acts on the basis of such use.</p>
 <p class="margin-left-4"> <a name="12210b" id="12210b"></a>(b) Rules of construction</p>
@@ -933,6 +990,7 @@ redirect_from:
 <p class="margin-left-8">The term "drug" means a controlled substance, as defined in schedules I through V of section 202 of the Controlled Substances Act (21 U.S.C. 812).</p>
 
 ### Sec. 12211. Definitions
+
 <p class="margin-left-4"> <a name="12211a" id="12211a"></a>(a) Homosexuality and bisexuality</p>
 <p class="margin-left-4">For purposes of the definition of "disability" in section 12102(2) of this title, homosexuality and bisexuality are not impairments and as such are not disabilities under this chapter.</p>
 <p class="margin-left-4"> <a name="12211b" id="12211b"></a>(b) Certain conditions</p>
@@ -942,15 +1000,21 @@ redirect_from:
 <p class="margin-left-8">(3) psychoactive substance use disorders resulting from current illegal use of drugs.</p>
 
 ### Sec. 12212. Alternative means of dispute resolution
+
 <p class="margin-left-1">Where appropriate and to the extent authorized by law, the use of alternative means of dispute resolution, including settlement negotiations, conciliation, facilitation, mediation, fact-finding, minitrials, and arbitration, is encouraged to resolve disputes arising under this chapter.</p>
 <p class="margin-left-1"> <a name="12213" id="12213"></a>Sec. 12213. Severability</p>
 <p class="margin-left-1">Should any provision in this chapter be found to be unconstitutional by a court of law, such provision shall be severed from the remainder of the chapter, and such action shall not affect the enforceability of the remaining provisions of the chapter.</p>
 
 ## Title 47 - Telegraphs, Telephones, and Radiotelegraphs <span class="font-serif-lg">[Title IV]</span>
+
 ### Chapter 5 - Wire or Radio Communication
+
 #### Subchapter II - Common Carriers
+
 ##### Part I - Common Carrier Regulation
+
 ###### Sec. 225. Telecommunications services for hearing-impaired and speech-impaired individuals
+
 <p class="margin-left-4"> <a name="225a" id="225a"></a>(a) Definitions</p>
 <p class="margin-left-4"> As used in this section—</p>
 <p class="margin-left-8"> (1) Common carrier or carrier</p>
@@ -1012,7 +1076,9 @@ redirect_from:
 <p class="margin-left-12">(B) the Commission determines that such State program is no longer qualified for certification under subsection (f).</p>
 
 #### Subchapter VI - Miscellaneous Provisions
+
 ##### Sec. 611. Closed-captioning of public service announcements
+
 <p class="margin-left-1">Any television public service announcement that is produced or funded in whole or in part by any agency or instrumentality of Federal Government shall include closed captioning of the verbal content of such announcement. A television broadcast station licensee—</p>
 <p class="margin-left-8">(1) shall not be required to supply closed captioning for any such announcement that fails to include it; and</p>
 <p class="margin-left-8">(2) shall not be liable for broadcasting any such announcement without transmitting a closed caption unless the licensee intentionally fails to transmit the closed caption that was included with the announcement.</p>
