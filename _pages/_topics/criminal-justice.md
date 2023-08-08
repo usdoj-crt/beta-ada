@@ -164,7 +164,7 @@ The following technical assistance documents contain more information about crim
 
 * \[Commonly Asked Questions About the Americans with Disabilities Act and Law Enforcement]({{'/resources/commonly-asked-questions-law-enforcement/'| relative_url}})
 * \[ADA Update: A Primer for State and Local Governments]({{'/resources/title-ii-primer/'| relative_url}})
-* \[Communicating with People Who Are Deaf or Hard of Hearing: ADA Guide for Law Enforcement Officers]({{'/resources/law-enforcement-guide/'| relative_url}})
+* [Communicating with People Who Are Deaf or Hard of Hearing: ADA Guide for Law Enforcement Officers]({{'/resources/law-enforcement-guide/'| relative_url}})
 * [Model Policy for Law Enforcement on Communicating with People Who Are Deaf or Hard of Hearing](https://archive.ada.gov/lawenfmodpolicy.htm)
 * [Model Policy for Law Enforcement on Communicating with People Who Are Deaf or Hard of Hearing](https://archive.ada.gov/lawenfmodpolicy.htm)
 * [Access for 9-1-1 and Telephone Emergency Services](https://archive.ada.gov/911ta.htm)
