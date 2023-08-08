@@ -162,7 +162,7 @@ Learn more about these requirements and limitations in \[ADA Requirements: Effec
 
 The following technical assistance documents contain more information about criminal justice and can be found at ada.gov:
 
-* \[Commonly Asked Questions About the Americans with Disabilities Act and Law Enforcement]({{'/resources/commonly-asked-questions-law-enforcement/'| relative_url}})
+* [Commonly Asked Questions About the Americans with Disabilities Act and Law Enforcement]({{'/resources/commonly-asked-questions-law-enforcement/'| relative_url}})
 * [ADA Update: A Primer for State and Local Governments]({{'/resources/title-ii-primer/'| relative_url}})
 * [Communicating with People Who Are Deaf or Hard of Hearing: ADA Guide for Law Enforcement Officers]({{'/resources/law-enforcement-guide/'| relative_url}})
 * [Model Policy for Law Enforcement on Communicating with People Who Are Deaf or Hard of Hearing](https://archive.ada.gov/lawenfmodpolicy.htm)
