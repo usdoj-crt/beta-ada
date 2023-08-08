@@ -23,6 +23,14 @@ layout: null
     {% asset dist/netlifyPreview-compiled.js %}
     <script>
       CMS.registerPreviewStyle('{% asset styles.css @path %}');
+      // Fix bug where Netlify adds a backslash to the markdown before internal links
+      CMS.registerEventListener({
+        name: "preSave",
+        handler: ({entry}) => {
+          const body = entry.get("data").get("body").replaceAll(/\\\[/g,"[")
+          return entry.get("data").set("body", body);
+        }
+      });
     </script>
     <link href="/admin/config.yml" type="text/yaml" rel="cms-config-url" />
     <style>
