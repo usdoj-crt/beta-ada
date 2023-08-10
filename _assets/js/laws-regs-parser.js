@@ -1,55 +1,52 @@
 export default function parseLawsAndRegs (mainContent) {
     if (!mainContent) return;
 
-    const headings = ['h2', 'h3', 'h4', 'h5', 'strong'];
     const parent = mainContent.parentElement;
-    const newMainContent = document.createElement('div');
-    newMainContent.className = 'interactive-headers';
+    const newMainContent = createDiv('interactive-headers');
     const clone = mainContent.cloneNode(true);
     const contentNodes = Array.from(clone.childNodes);
-    const sections = [];
-    const firstSubpart = document.createElement('div');
-    firstSubpart.className = 'subpart';
+    const firstSubpart = createDiv('subpart');
     const subpartIndices = [0];
     const subparts = [firstSubpart];
     let lastHeading = 0;
-    contentNodes.map((node, i) => {
-        if (!(headings.includes(node.localName)
-            || i === contentNodes.length - 1)) return;
+    let length = 1;
+    const sections = contentNodes.map((node, i) => {
+        const isInteractiveHeader = getIsInteractiveHeader(contentNodes, node, i);
+        if (!isInteractiveHeader) return null;
         if (node.localName === 'h2') {
-            const subpart = document.createElement('div');
-            subpart.className = 'subpart';
+            const subpart = createDiv('subpart');
             subparts.push(subpart);
-            subpartIndices.push(sections.length + 1);
+            subpartIndices.push(length);
         }
         const sectionText = contentNodes
             .slice(lastHeading, i)
             .map(node => node.outerHTML).join(' ');
-        sections.push(sectionText);
         lastHeading = i;
-    });
+        length++
+        const section = createDiv('section');
+        section.innerHTML = sectionText.trim();
+        return section;
+    }).filter(section => !!section);
 
     let currentSubpart = subparts[0];
     sections.map((section, i) => {
-        if (!section.length) return;
-        const sectionContainer = document.createElement('div');
-        sectionContainer.className = 'section';
-        sectionContainer.innerHTML = section.trim();
+        //if (!section.length) return;
+        //const sectionContainer = createDiv('section');
+       // sectionContainer.innerHTML = section.trim();
         currentSubpart = subpartIndices.includes(i) ? subparts[subpartIndices.indexOf(i)] : currentSubpart;
-        if (i !== 0 && Array.from(sectionContainer.childNodes).length >= 2 && !subpartIndices.includes(i)) {
+        if (i !== 0 && Array.from(section.childNodes).length >= 2 && !subpartIndices.includes(i)) {
             const btnDiv = buildBtns('.section');
-            sectionContainer.firstChild.after(btnDiv);
+            section.firstChild.after(btnDiv);
             const jumpLink = document.createElement('a');
             jumpLink.id = 'section' + i.toString();
-            sectionContainer.prepend(jumpLink);
+            section.prepend(jumpLink);
         }
-        currentSubpart.appendChild(sectionContainer);
+        currentSubpart.appendChild(section);
     });
 
     subparts.map((subpart, i) => {
         if (Array.from(subpart.childNodes).length >= 1) {
             const btnDiv = buildBtns('.subpart');
-            console.log(subpart.childNodes)
             subpart.getElementsByTagName('h2')[0]?.after(btnDiv);
             const jumpLink = document.createElement('a');
             jumpLink.id = 'subpart' + i.toString();
@@ -61,9 +58,19 @@ export default function parseLawsAndRegs (mainContent) {
     mainContent.remove()
 }
 
+function getIsInteractiveHeader(contentNodes, node, i) {
+    const headings = ['h2', 'h3', 'h4', 'h5'];
+    return (headings.includes(node.localName) && node.id !== null) || i === contentNodes.length - 1;
+}
+
+function createDiv(className) {
+    const div = document.createElement('div');
+    div.className = className;
+    return div;
+}
+
 function buildBtns(divType) {
-    const btnDiv = document.createElement('div');
-    btnDiv.className = 'btn-group display-flex flex-row flex-justify maxw-card';
+    const btnDiv = createDiv('btn-group display-flex flex-row flex-justify maxw-card');
     const btnTypes = ['Share', 'Copy', 'Print'];
     btnTypes.forEach(btnType => {
         const btn = document.createElement('a');
