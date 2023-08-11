@@ -2,12 +2,10 @@ export default function parseLawsAndRegs (mainContent) {
     if (!mainContent) return;
 
     const parent = mainContent.parentElement;
-    const newMainContent = createDiv('interactive-headers');
     const clone = mainContent.cloneNode(true);
     const contentNodes = Array.from(clone.childNodes);
-    const firstSubpart = createDiv('subpart');
     const subpartIndices = [0];
-    const subparts = [firstSubpart];
+    const subparts = [createDiv('subpart')];
     let lastHeading = 0;
     let length = 1;
     const sections = contentNodes.map((node, i) => {
@@ -30,9 +28,6 @@ export default function parseLawsAndRegs (mainContent) {
 
     let currentSubpart = subparts[0];
     sections.map((section, i) => {
-        //if (!section.length) return;
-        //const sectionContainer = createDiv('section');
-       // sectionContainer.innerHTML = section.trim();
         currentSubpart = subpartIndices.includes(i) ? subparts[subpartIndices.indexOf(i)] : currentSubpart;
         if (i !== 0 && Array.from(section.childNodes).length >= 2 && !subpartIndices.includes(i)) {
             const btnDiv = buildBtns('.section');
@@ -44,6 +39,15 @@ export default function parseLawsAndRegs (mainContent) {
         currentSubpart.appendChild(section);
     });
 
+    const newMainContent = buildMainContent(subparts);
+
+
+    parent.insertBefore(newMainContent, mainContent);
+    mainContent.remove()
+}
+
+function buildMainContent(subparts) {
+    const newMainContent = createDiv('interactive-headers');
     subparts.map((subpart, i) => {
         if (Array.from(subpart.childNodes).length >= 1) {
             const btnDiv = buildBtns('.subpart');
@@ -54,8 +58,7 @@ export default function parseLawsAndRegs (mainContent) {
         }
         newMainContent.appendChild(subpart);
     });
-    parent.insertBefore(newMainContent, mainContent);
-    mainContent.remove()
+    return newMainContent;
 }
 
 function getIsInteractiveHeader(contentNodes, node, i) {
