@@ -1,17 +1,19 @@
 ---
 title: "Access for 9-1-1 and Telephone Emergency Services"
-description: ""
+description: "A publication explaining the requirements for direct, equal access to 9-1-1 for persons who use teletypewriters (TTYs)."
 permalink: /resources/access-911/
 lead: |-
- 
+
 lang: "en"
 related-content: true
-publish-date: 1997-03-25 00:00:00
-updated-date: 2020-02-25 00:00:00
+publish-date: 1998-07-01 00:00:00
+updated-date: 2020-02-28 00:00:00
 print: true
 tags:
   - law enforcement
   - effective communication
+subnavigation: true
+
 ---
 ## I. Introduction
 
