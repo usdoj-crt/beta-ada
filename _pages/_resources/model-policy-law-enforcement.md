@@ -55,7 +55,7 @@ It is the policy of this law enforcement agency (Agency) to ensure that a consis
 
   - Use of gestures;
   - Use of visual aids;
-  - se of a notepad and pen or pencil;
+  - Use of a notepad and pen or pencil;
   - Use of a computer or typewriter;
   - Use of an assistive listening system or device;
   - Use of a teletypewriter (TTY);
