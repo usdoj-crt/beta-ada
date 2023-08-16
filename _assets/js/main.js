@@ -8,6 +8,7 @@ import print from "./print";
 import search from "./search";
 import sidenav from "./expand-sidenav";
 import mobileCarousel from "./carousel";
+import getCookies from "./feature-flag";
 
 modal();
 redirectModal();
@@ -17,6 +18,12 @@ search();
 initGAEvents();
 sidenav();
 mobileCarousel();
+
+const cookies = getCookies();
+if (cookies.feature_flags.includes('laws-and-regs')) {
+  // call laws and regs parsing function here
+  console.log('allowlisted on laws-and-regs feature flag');
+}
 
 const anchors = new AnchorJS();
 anchors.add(".crt-page h2:not([class*='usa']) h2:not(.noAnchor)");
