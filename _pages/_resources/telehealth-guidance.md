@@ -1,6 +1,7 @@
 ---
 title: "Guidance on Nondiscrimination in Telehealth: Federal Protections to Ensure Accessibility to People with Disabilities and Limited English Proficient Persons"
-description: "This guidance explains how algorithms and artificial intelligence can lead to disability discrimination in hiring."
+description: "This guidance explains how various federal laws require making telehealth accessible to people
+with disabilities and limited English proficient persons."
 permalink: /resources/telehealth-guidance/
 redirect_from:
   - /telehealth_guidance.pdf/
@@ -308,7 +309,7 @@ Office for the Advancement of Telehealth, Health Res. & Servs. Admin., https://w
 {% endfnbody %}
 {% fnbody 9 %}
 U.S. Dep’t of Health and Hum. Servs., FAQs on Telehealth and HIPAA during the COVID-19 nationwide public
-health emergency (March 20, 2020), *available at* https://www.hhs.gov/sites/default/files/telehealth-faqs-508.pdf. 
+health emergency (March 20, 2020), *available at* https://www.hhs.gov/sites/default/files/telehealth-faqs-508.pdf.
 {% endfnbody %}
 {% fnbody 10 %}
 U.S. Dep’t of Health and Hum. Servs., Guidance on How the HIPAA Rules Permit Covered Health Care
