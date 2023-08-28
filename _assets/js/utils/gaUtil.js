@@ -9,11 +9,7 @@ function getEventName(e) {
 
 function sendGAClickEvent(e) {
   e.preventDefault();
-  const userVariant = document.cookie
-    .split("; ")
-    .find((row) => row.startsWith("ab_variant="))
-    ?.split("=")[1];
-  gtag('event', 'click', { event_name: getEventName(e), user_variant: userVariant });
+  gtag('event', 'click', { event_name: getEventName(e) });
   if (!e.target.href) return;
   window.location.href = e.target.href;
 }

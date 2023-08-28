@@ -1,38 +1,39 @@
-export default function getCookies() {
+export default function setCookies() {
     const isNetlifyUser = sessionStorage.getItem('isNetlifyUser') ?? false;
-    const featureFlags = setFeatureFlagCookies(isNetlifyUser);
-    const variant = setVariant();
-
-    return {'variant': variant, 'feature_flags': featureFlags};
+    setFeatureFlagCookies(isNetlifyUser);
   }
 
-function setVariant() {
+function setPublicPercentVariant(name, publicPercentOn) {
   let variant;
   // Check if the user already has a variant assigned
   const userVariant = document.cookie
       .split("; ")
-      .find((row) => row.startsWith("ab_variant="))
+      .find((row) => row.startsWith(name + "="))
       ?.split("=")[1];
 
   if (userVariant) {
     variant = userVariant;
   } else {
     // Assign a random variant if the user doesn't have one
-    variant = Math.random() < 0.5 ? 'A' : 'B';
-    // Set the variant in a cookie for future visits
-    document.cookie = 'ab_variant='+ variant;
+    variant = Math.random() < publicPercentOn ? true : false;
   }
 
   return variant;
 }
 
 const FEATURE_FLAGS = [
-    'laws-and-regs',
+    {
+      name: 'laws-and-regs',
+      released: false,
+      publicPercentOn: 0,
+      optedIn: false,
+    }
 ];
 
 function setFeatureFlagCookies(allowlisted=false) {
-    return FEATURE_FLAGS.filter((flag) => {
-      document.cookie = flag + '=' + allowlisted;
-      return allowlisted;
+    FEATURE_FLAGS.forEach((flag) => {
+      const publicPercentVariant = setPublicPercentVariant(flag.name, flag.publicPercentOn);
+      flag.optedIn = allowlisted;
+      document.cookie = flag.name + '=' + (publicPercentVariant || flag.optedIn || flag.released);
     });
 }

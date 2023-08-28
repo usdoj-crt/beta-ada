@@ -8,7 +8,7 @@ import print from "./print";
 import search from "./search";
 import sidenav from "./expand-sidenav";
 import mobileCarousel from "./carousel";
-import getCookies from "./feature-flag";
+import setCookies from "./feature-flag";
 
 modal();
 redirectModal();
@@ -18,9 +18,14 @@ search();
 initGAEvents();
 sidenav();
 mobileCarousel();
+setCookies();
 
-const cookies = getCookies();
-if (cookies.feature_flags.includes('laws-and-regs')) {
+const lawsAndRegsFlag = document.cookie
+  .split("; ")
+  .find((row) => row.startsWith("laws-and-regs="))
+  ?.split("=")[1];
+
+if (lawsAndRegsFlag === 'true') {
   // call laws and regs parsing function here
   console.log('allowlisted on laws-and-regs feature flag');
 }
