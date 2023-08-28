@@ -7,7 +7,7 @@ layout: default
 lead: Featured topics are high-level, plain-language explanations of the existing information that the Department has made available about the law.
 ---
 
-{% include landing-hero.html mobile-src="laws-and-regs-lp.jpeg" alt="topics page landing hero image" %}
+{% include landing-hero.html mobile-src="laws-and-regs-lp.jpeg" alt="topics page landing hero image" page="topics" %}
 
 <div class="grid-container" markdown="0">
   <div class="grid-row grid-gap margin-bottom-7 margin-top-7">

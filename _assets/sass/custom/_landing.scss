@@ -52,6 +52,9 @@ $arrow-height: 24px;
     &.crt-landing-topics--hero {
       background-image: url('images/laws-and-regs-lp.jpeg');
     }
+    &.crt-landing-laws-and-regs--hero {
+      background-image: url('images/law-reg.png');
+    }
   }
 
   @include at-media(widescreen) {

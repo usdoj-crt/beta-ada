@@ -4,6 +4,7 @@ title: Laws, Regulations & Standards
 description: Regulations developed by the Department of Justice that explain the rights of people with disabilities and the obligations of those covered by the law.
 sidenav: false
 compact: true
+layout: default
 hide_page_type_info: true
 redirect_from:
     - /2010_regs.htm
@@ -19,6 +20,14 @@ tags:
     - design standards
 ---
 
+{% include landing-hero.html mobile-src="law-reg.png" alt="laws and regulations landing hero image" page="laws-and-regs" %}
+
+<div class="grid-container">
+<div class="grid-row grid-gap margin-bottom-7 margin-top-7">
+<div class="tablet:grid-col-10">
+
+# Laws, Regulations & Standards
+
 When we talk about what the ADA requires on ADA.gov, we are usually referring to two sources:
 
 1. The text of the ADA, also referred to as the ADA statute, passed by Congress in
@@ -26,6 +35,14 @@ When we talk about what the ADA requires on ADA.gov, we are usually referring to
 2. Regulations developed by the Department of Justice that state/local governments
 and many businesses must follow to ensure that they do not discriminate against
 people with disabilities.
+
+<div class="tablet:grid-col-12">
+    <ul class="usa-card-group">
+        {% for lawreg in site.laws-and-regs %}
+          {% include card.html card=lawreg heading_level=2 %}
+        {% endfor %}
+    </ul>
+</div>
 
 ## The Americans with Disabilities Act (ADA)
 
@@ -70,3 +87,7 @@ The [Unified Agenda](https://www.reginfo.gov/public/jsp/eAgenda/UA_About.myjsp) 
 ## Design Standards
 
 [View the 1991 and 2010 Design Standards, and the Guidance on the 2010 ADA Standards for Accessible Design]({{'/law-and-regs/design-standards' | relative_url }}).
+
+</div>
+</div>
+</div>
