@@ -31,6 +31,8 @@ function gtag() {
     ['.topic-jumplink', 'click', sendGAClickEvent],
     ['.file-a-complaint', 'click', sendGAClickEvent],
     ['.section-btn', 'click', sendGAClickEvent],
+    ['.carousel-btn', 'click', sendGAClickEvent],
+    ['.carousel-nav', 'click', sendGAClickEvent],
   ]
 
   export default function initGAEvents() {

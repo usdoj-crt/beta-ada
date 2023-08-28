@@ -1,6 +1,6 @@
 ---
 title: File a Complaint
-description: "The Americans with Disabilities Act provides an important tool to fight discrimination: filing a complaint with an appropriate federal agency.  This page outlines the steps to get you started."
+description: "The ADA provides an important tool to fight discrimination: filing a complaint with an appropriate federal agency. This page outlines the steps to do so."
 permalink: /file-a-complaint/
 lead: |-
   The Americans with Disabilities Act provides an important tool to fight discrimination: filing a complaint with an appropriate federal agency.  This page outlines the steps to get you started.

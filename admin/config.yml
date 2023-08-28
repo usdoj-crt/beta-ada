@@ -569,7 +569,7 @@ collections:
   - label: Notices
     name: notices-posts
     summary: "{{title}} ({{filename}})"
-    folder: notices/_posts
+    folder: _pages/notices/_posts
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
