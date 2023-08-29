@@ -108,6 +108,9 @@ collections:
   resources:
     output: true
     permalink: /:collection/:name/
+  law-and-regs:
+    output: true
+    permalink: /:collection/:name/
 # Configuration for Touchpoints
 touchpoints:
   url: https://touchpoints.app.cloud.gov/touchpoints/73c5715c/submit

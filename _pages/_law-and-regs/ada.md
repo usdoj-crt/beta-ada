@@ -7,6 +7,14 @@ lead: |-
 
     Here is the text of the Americans with Disabilities Act of 1990 (ADA), including changes made by the ADA Amendments Act of 2008. Congress passed the ADA as a “Public Law,” and it originally was in a different format than presented here. To make the law more widely available, the ADA was later reformatted and published in volume 42 (called “title 42”) of the United States Code. One small part of the ADA is found in title 47 of the United States Code. The text below mirrors the law as it is found in the U.S. Code. Because the numbering system is different in the U.S. Code, the headings provide in brackets the title numbers of the ADA as originally enacted.
 print: true
+card:
+  title: Americans with Disabilities Act
+  title_alt: Americans with Disabilities Act
+  description: |-
+    The text of the Americans with Disabilities Act of 1990 (ADA), including changes made by the ADA Amendments Act of 2008.
+  image: landing/intro_ada.jpg
+  alt: A teacher and a student sitting at a table signing to one another
+  href: /law-and-regs/ada/
 redirect_from:
   - /adastatute08.htm
   - /pubs/adastatute08mark.htm

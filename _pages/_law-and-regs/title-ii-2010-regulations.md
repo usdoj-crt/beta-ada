@@ -21,6 +21,14 @@ sidenav-pdf:
   title: Americans with Disabilities Act Title II Regulations
   filename: title-ii-2010-regulations.pdf
   text: Download PDF
+card:
+  title: ADA Title II Regulations
+  title_alt: ADA Title II Regulations
+  description: |-
+    Title II of the ADA - regulations for state and local governments meant to ensure that people with disabilities can participate in all aspects of civic life.
+  image: landing/title-ii.gif
+  alt: "An aerial view of a city; includes city hall, streets, sidewalks, cars, and other government and non-government buildings"
+  href: /law-and-regs/title-ii-2010-regulations/
 expand-sidenav: true
 related-content: true
 tags:

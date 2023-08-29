@@ -15,6 +15,14 @@ sidenav-pdf:
   title: Americans with Disabilities Act Title III Regulations
   filename: title-iii-2010-regulations.pdf
   text: Download PDF
+card:
+  title: ADA Title III Regulations
+  title_alt: ADA Title III Regulations
+  description: |-
+    Title III of the ADA - regulations for businesses, including nonprofits meant to ensure that people with disabilities can access places of business and public accommodation.
+  image: landing/title-iii.gif
+  alt: "A sign hanging inside a storefront window reads Welcome. We are Open. Please come in"
+  href: /law-and-regs/title-iii-regulations/
 expand-sidenav: true
 related-content: true
 tags:

@@ -36,10 +36,12 @@ When we talk about what the ADA requires on ADA.gov, we are usually referring to
 and many businesses must follow to ensure that they do not discriminate against
 people with disabilities.
 
-<div class="tablet:grid-col-12">
+<div class="tablet:grid-col-12" markdown="0">
     <ul class="usa-card-group">
-        {% for lawreg in site.laws-and-regs %}
-          {% include card.html card=lawreg heading_level=2 %}
+        {% for page in site.law-and-regs %}
+            {% if page.card %}
+                {% include card.html card=page heading_level=2 %}
+            {% endif %}
         {% endfor %}
     </ul>
 </div>
