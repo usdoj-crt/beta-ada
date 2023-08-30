@@ -15,10 +15,10 @@ redirectModal();
 print();
 printButton();
 search();
-initGAEvents();
 sidenav();
 mobileCarousel();
 setCookies();
+initGAEvents();
 
 const lawsAndRegsFlag = document.cookie
   .split("; ")

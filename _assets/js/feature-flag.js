@@ -4,21 +4,16 @@ export default function setCookies() {
   }
 
 function setPublicPercentVariant(name, publicPercentOn) {
-  let variant;
   // Check if the user already has a variant assigned
   const userVariant = document.cookie
       .split("; ")
       .find((row) => row.startsWith(name + "="))
       ?.split("=")[1];
 
-  if (userVariant) {
-    variant = userVariant;
-  } else {
-    // Assign a random variant if the user doesn't have one
-    variant = Math.random() < publicPercentOn ? true : false;
-  }
+  if (userVariant) return userVariant;
 
-  return variant;
+  // Assign a random variant if the user doesn't have one
+  return Math.random() < publicPercentOn;
 }
 
 const FEATURE_FLAGS = [
@@ -30,7 +25,7 @@ const FEATURE_FLAGS = [
     }
 ];
 
-function setFeatureFlagCookies(allowlisted=false) {
+function setFeatureFlagCookies(allowlisted) {
     FEATURE_FLAGS.forEach((flag) => {
       const publicPercentVariant = setPublicPercentVariant(flag.name, flag.publicPercentOn);
       flag.optedIn = allowlisted;
