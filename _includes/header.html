@@ -38,9 +38,10 @@
             <ul id="{{ nav_id }}" class="usa-nav__submenu">
               {% for subnav_item in nav_item.children %}
               <li class="usa-nav__submenu-item">
-                <a href="{{ subnav_item.url | prepend: site.baseurl }}"
-                  >{{ subnav_item.name[lang] | escape }}</a
-                >
+                <a href="{{ subnav_item.url | prepend: site.baseurl }}">
+                  <span class="desktop:display-none widescreen:display-block">{{ subnav_item.name["en"] | escape }}</span>
+                  <span class="mobile:display-none desktop:display-block widescreen:display-none">{{ subnav_item.name["en-short"] | escape }}</span>
+                </a>
               </li>
               {% endfor %}
             </ul>
