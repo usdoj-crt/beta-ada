@@ -9,17 +9,28 @@ import print from "./print";
 import search from "./search";
 import sidenav from "./expand-sidenav";
 import mobileCarousel from "./carousel";
+import setCookies from "./feature-flag";
 
 modal();
 redirectModal();
 print();
 printButton();
 search();
-initGAEvents();
 sidenav();
 mobileCarousel();
-const mainEl = document.querySelector('.interactive-headers');
-parseLawsAndRegs(mainEl);
+setCookies();
+
+const lawsAndRegsFlag = document.cookie
+  .split("; ")
+  .find((row) => row.startsWith("laws-and-regs="))
+  ?.split("=")[1];
+
+if (lawsAndRegsFlag === 'true') {
+  const mainEl = document.querySelector('.interactive-headers');
+  parseLawsAndRegs(mainEl);
+}
+
+initGAEvents();
 
 const anchors = new AnchorJS();
 anchors.add(".crt-page h2:not([class*='usa']) h2:not(.noAnchor)");
