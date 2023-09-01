@@ -111,10 +111,10 @@ function mobileCarousel () {
     ctrls.className = 'controls';
     ctrls.innerHTML =
       '<li>' +
-      '<button type="button" class="btn-prev" aria-label="Previous slide" alt="Previous Item" />' +
+      '<button type="button" data-ga-event-name="Previous slide" class="carousel-btn btn-prev" aria-label="Previous slide" alt="Previous Item" />' +
       '</li>' +
       '<li>' +
-      '<button type="button" class="btn-next" aria-label="Next slide" alt="Next Item" />' +
+      '<button type="button" data-ga-event-name="Next slide" class="carousel-btn btn-next" aria-label="Next slide" alt="Next Item" />' +
       '</li>';
 
     ctrls.querySelector('.btn-prev').addEventListener('click', function () {
@@ -149,10 +149,10 @@ function mobileCarousel () {
       if (context.settings.slidenav) {
         context.slides.forEach((_slide, i) => {
           const li = document.createElement('li');
-          const klass = i === 0 ? 'class="current" ' : '';
-          const ariaLabel = '"slide ' + (i + 1) + ' navigation"'
+          const klass = i === 0 ? 'class="current carousel-nav" ' : 'class="carousel-nav" ';
+          const ariaLabel = '"slide ' + (i + 1) + ' navigation" '
 
-          li.innerHTML = '<button aria-label=' + ariaLabel + klass + 'data-slide="' + i + '"/>';
+          li.innerHTML = '<button data-ga-event-name=' + ariaLabel + 'aria-label=' + ariaLabel + klass + 'data-slide="' + i + '"/>';
           context.slidenav.appendChild(li);
         });
       }
@@ -228,8 +228,8 @@ function mobileCarousel () {
     // Update the buttons in the slider navigation to match the currently displayed  item
     if (context.settings.slidenav) {
       const buttons = context.carousel.querySelectorAll('.slidenav button[data-slide]');
-      buttons.forEach(button => button.className = '')
-      buttons[new_current].className = 'current';
+      buttons.forEach(button => button.className = 'carousel-nav')
+      buttons[new_current].className = 'current carousel-nav';
     }
 
     // Set the global index to the new current value

@@ -1,6 +1,6 @@
 export default function graphicBestBetsTemplate(content) {
     const links = content.links.map(link => {
-        return `<a href="${link.url}" class="padding-right-3 grid-col-6 padding-bottom-2" aria-label="best bet box">${link.title}</a>`
+        return `<a href="${link.url}" class="padding-right-3 grid-col-6 padding-bottom-2 best-bet" aria-label="best bet box">${link.title}</a>`
     });
     return `
      <div class="padding-bottom-3 padding-top-2 usa-prose">
