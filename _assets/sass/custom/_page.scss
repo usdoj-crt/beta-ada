@@ -33,6 +33,26 @@
     }
   }
 
+  .section {
+    position: relative;
+
+    .btn-group {
+      display: flex;
+      gap: 8px;
+      position: relative;
+      justify-content: start;
+      z-index: 2;
+
+      @media(max-width: 55rem) {
+        position: relative;
+      }
+
+      a {
+        text-decoration: none;
+      }
+    }
+  }
+
   #crt-page--content {
     .crt-lead {
       > p,
@@ -64,6 +84,7 @@
       margin-top: 2rem;
       margin-bottom: 1rem;
     }
+
   }
 }
 

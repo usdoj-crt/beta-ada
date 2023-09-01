@@ -1,6 +1,7 @@
 import Gumshoe from "gumshoejs"
 import AnchorJS from "anchor-js";
 import initGAEvents from "./utils/gaUtil";
+import parseLawsAndRegs from "./laws-regs-parser";
 import modal from "./modal";
 import redirectModal from "./redirect-modal";
 import printButton from "./print-button";
@@ -18,7 +19,6 @@ search();
 sidenav();
 mobileCarousel();
 setCookies();
-initGAEvents();
 
 const lawsAndRegsFlag = document.cookie
   .split("; ")
@@ -26,9 +26,11 @@ const lawsAndRegsFlag = document.cookie
   ?.split("=")[1];
 
 if (lawsAndRegsFlag === 'true') {
-  // call laws and regs parsing function here
-  console.log('allowlisted on laws-and-regs feature flag');
+  const mainEl = document.querySelector('.interactive-headers');
+  parseLawsAndRegs(mainEl);
 }
+
+initGAEvents();
 
 const anchors = new AnchorJS();
 anchors.add(".crt-page h2:not([class*='usa']) h2:not(.noAnchor)");
