@@ -40,6 +40,25 @@
       display: flex;
       gap: 8px;
       position: relative;
+      z-index: 2;
+
+      @media(max-width: 55rem) {
+        position: relative;
+      }
+
+      a {
+        text-decoration: none;
+      }
+    }
+  }
+
+  .subpart {
+    position: relative;
+
+    .btn-group {
+      display: flex;
+      gap: 8px;
+      position: relative;
       justify-content: start;
       z-index: 2;
 
