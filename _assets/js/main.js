@@ -19,19 +19,18 @@ search();
 sidenav();
 mobileCarousel();
 setCookies();
-initGAEvents();
 
 const lawsAndRegsFlag = document.cookie
   .split("; ")
   .find((row) => row.startsWith("laws-and-regs="))
   ?.split("=")[1];
 
-if (true) {
-  // call laws and regs parsing function here
+if (lawsAndRegsFlag === 'true') {
   const mainEl = document.querySelector('.interactive-headers');
   parseLawsAndRegs(mainEl);
-  console.log('allowlisted on laws-and-regs feature flag');
 }
+
+initGAEvents();
 
 const anchors = new AnchorJS();
 anchors.add(".crt-page h2:not([class*='usa']) h2:not(.noAnchor)");

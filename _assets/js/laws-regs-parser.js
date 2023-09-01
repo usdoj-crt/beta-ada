@@ -30,7 +30,7 @@ export default function parseLawsAndRegs (mainContent) {
     sections.forEach((section, i) => {
         currentSubpart = subpartIndices.includes(i) ? subparts[subpartIndices.indexOf(i)] : currentSubpart;
         if (i !== 0 && Array.from(section.childNodes).length >= 2 && !subpartIndices.includes(i)) {
-            const btnDiv = buildBtns('.section');
+            const btnDiv = buildBtns(i, '.section');
             section.firstChild.after(btnDiv);
             const jumpLink = document.createElement('a');
             jumpLink.id = 'section' + i.toString();
@@ -50,7 +50,7 @@ function buildMainContent(subparts) {
     const newMainContent = createDiv('interactive-headers');
     subparts.forEach((subpart, i) => {
         if (!Array.from(subpart.childNodes).length >= 1) newMainContent.appendChild(subpart);
-        const btnDiv = buildBtns('.subpart');
+        const btnDiv = buildBtns(i, '.subpart');
         subpart.getElementsByTagName('h2')[0]?.after(btnDiv);
         const jumpLink = document.createElement('a');
         jumpLink.id = 'subpart' + i.toString();
@@ -73,23 +73,23 @@ function createDiv(className) {
     return div;
 }
 
-function buildBtns(divType) {
+function buildBtns(i, divType) {
     const btnDiv = createDiv('btn-group display-flex flex-row flex-justify maxw-card');
     const btnTypes = ['Share', 'Copy', 'Print'];
     btnTypes.forEach(btnType => {
         const btn = document.createElement('a');
         btn.className = btnType + '-btn text-no-underline section-btn';
-        btn.setAttribute('data-ga-event-name', btnType);
+        const gaEventName = 'data-ga-event-name="' + btnType + ' ' + divType + ' ' + i + '"';
         btn.setAttribute('aria-label', btnType);
         btn.href = '#';
         if (btnType === 'Share') {
-            btn.innerHTML = '<span class="copied-link text-no-underline" style="display:none;">Copied share link</span><svg class="usa-icon share-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#share"></use></svg>';
+            btn.innerHTML = '<span class="copied-link text-no-underline" style="display:none;">Copied link</span><svg ' + gaEventName + ' class="usa-icon share-icon usa-tooltip" data-position="bottom" title="Copy link" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#link"></use></svg>';
             btn.addEventListener('click', (e) => { shareLink(e, divType) });
         } else if (btnType === 'Copy') {
-            btn.innerHTML = '<span class="copied text-no-underline" style="display:none;">Copied text</span><svg class="usa-icon copy-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#content_copy"></use></svg>';
+            btn.innerHTML = '<span class="copied text-no-underline" style="display:none;">Copied text</span><svg ' + gaEventName + ' class="usa-icon copy-icon usa-tooltip" data-position="bottom" title="Copy text" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#content_copy"></use></svg>';
             btn.addEventListener('click', (e) => { copyText(e, divType) });
         } else if (btnType === 'Print') {
-            btn.innerHTML = '<svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#print"></use></svg>';
+            btn.innerHTML = '<svg ' + gaEventName + ' class="usa-icon usa-tooltip" data-position="bottom" title="Print" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#print"></use></svg>';
             btn.addEventListener('click', (e) => { printText(e, divType) });
         }
         btnDiv.appendChild(btn);
