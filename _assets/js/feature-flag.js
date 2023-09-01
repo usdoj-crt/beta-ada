@@ -29,6 +29,7 @@ function setFeatureFlagCookies(allowlisted) {
     FEATURE_FLAGS.forEach((flag) => {
       const publicPercentVariant = setPublicPercentVariant(flag.name, flag.publicPercentOn);
       flag.optedIn = allowlisted;
-      document.cookie = flag.name + '=' + (publicPercentVariant || flag.optedIn || flag.released);
+      document.cookie = flag.name + '=;expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+      if (publicPercentVariant || flag.optedIn || flag.released) document.cookie = flag.name + '=true';
     });
 }

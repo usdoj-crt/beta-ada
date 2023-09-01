@@ -29,7 +29,7 @@ export default function parseLawsAndRegs (mainContent) {
             newMainContent.appendChild(sectionContainer);
             return;
         }
-        const btnDiv = buildBtns();
+        const btnDiv = buildBtns(i);
         sectionContainer.firstChild.after(btnDiv);
         const jumpLink = document.createElement('a');
         jumpLink.id = i.toString();
@@ -43,24 +43,24 @@ export default function parseLawsAndRegs (mainContent) {
     mainContent.remove()
 }
 
-function buildBtns() {
+function buildBtns(i) {
     const btnDiv = document.createElement('div');
     btnDiv.className = 'btn-group display-flex flex-row flex-justify maxw-card';
     const btnTypes = ['Share', 'Copy', 'Print'];
     btnTypes.forEach(btnType => {
         const btn = document.createElement('a');
         btn.className = btnType + '-btn text-no-underline section-btn';
-        btn.setAttribute('data-ga-event-name', btnType);
+        const gaEventName = 'data-ga-event-name="' + btnType + ' section ' + i + '"';
         btn.setAttribute('aria-label', btnType);
         btn.href = '#';
         if (btnType === 'Share') {
-            btn.innerHTML = '<span class="copied-link text-no-underline" style="display:none;">Copied share link</span><svg class="usa-icon share-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#share"></use></svg>';
+            btn.innerHTML = '<span class="copied-link text-no-underline" style="display:none;">Copied link</span><svg ' + gaEventName + ' class="usa-icon share-icon usa-tooltip" data-position="bottom" title="Copy link" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#link"></use></svg>';
             btn.addEventListener('click', shareLink);
         } else if (btnType === 'Copy') {
-            btn.innerHTML = '<span class="copied text-no-underline" style="display:none;">Copied text</span><svg class="usa-icon copy-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#content_copy"></use></svg>';
+            btn.innerHTML = '<span class="copied text-no-underline" style="display:none;">Copied text</span><svg ' + gaEventName + ' class="usa-icon copy-icon usa-tooltip" data-position="bottom" title="Copy text" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#content_copy"></use></svg>';
             btn.addEventListener('click', copyText);
         } else if (btnType === 'Print') {
-            btn.innerHTML = '<svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#print"></use></svg>';
+            btn.innerHTML = '<svg ' + gaEventName + ' class="usa-icon usa-tooltip" data-position="bottom" title="Print" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#print"></use></svg>';
             btn.addEventListener('click', printText);
         }
         btnDiv.appendChild(btn);
