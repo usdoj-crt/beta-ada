@@ -16,10 +16,6 @@ const preview = createClass({
 
 await loadSiteData();
 
-window.addEventListener('popstate', () => {
-  if (document.querySelector('nav')) sessionStorage.setItem('isNetlifyUser', true);
-});
-
 const pages = [
   'index',
   'topics',
