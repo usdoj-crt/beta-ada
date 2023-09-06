@@ -17,6 +17,7 @@ sidenav-pdf:
   text: Download PDF
 expand-sidenav: true
 related-content: true
+interactive-headers: true
 tags:
   - title iii
 lead: |-
