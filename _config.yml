@@ -78,6 +78,32 @@ primary_navigation:
     url:
       en: "/law-and-regs/"
       es: "/law-and-regs/"
+    children:
+      - name:
+          en: Laws, Regulations & Standards
+          en-short: Laws & Regulations
+          es: Laws, Regulations & Standards
+        url: "/law-and-regs/"
+      - name:
+          en: ADA
+          en-short: ADA
+          es: ADA
+        url: "/law-and-regs/ada/"
+      - name:
+          en: Title II Regulations
+          en-short: Title II
+          es: Title II Regulations
+        url: "/law-and-regs/title-ii-2010-regulations/"
+      - name:
+          en: Title III Regulations
+          en-short: Title III
+          es: Title III Regulations
+        url: "/law-and-regs/title-iii-regulations/"
+      - name:
+          en: Design Standards
+          en-short: Design Standards
+          es: Design Standards
+        url: "/law-and-regs/design-standards/"
   - name:
       en: Enforcement
       en-short: Enforcement
