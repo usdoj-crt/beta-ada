@@ -1,8 +1,3 @@
-export default function setCookies() {
-    const isNetlifyUser = sessionStorage.getItem('isNetlifyUser') ?? false;
-    setFeatureFlagCookies(isNetlifyUser);
-  }
-
 function setPublicPercentVariant(name, publicPercentOn) {
   // Check if the user already has a variant assigned
   const userVariant = document.cookie
@@ -25,11 +20,12 @@ const FEATURE_FLAGS = [
     }
 ];
 
-function setFeatureFlagCookies(allowlisted) {
+export default function setCookies() {
     FEATURE_FLAGS.forEach((flag) => {
       const publicPercentVariant = setPublicPercentVariant(flag.name, flag.publicPercentOn);
-      flag.optedIn = allowlisted;
+      flag.optedIn = sessionStorage.getItem(flag.name) ?? false;
       document.cookie = flag.name + '=;expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+      if (flag.optedIn === 'false') return;
       if (publicPercentVariant || flag.optedIn || flag.released) document.cookie = flag.name + '=true';
     });
 }
