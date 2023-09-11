@@ -148,7 +148,7 @@ working with the patient to best determine what works for the patient.{% fn 24 %
 - A physical therapy practice that uses telehealth to provide remote training
 sessions to patients may need to provide a sign language interpreter who is
 qualified to interpret physical therapy instructions and techniques, including
-using any necessary specialized vocabulary, for a patient who is deaf.25 When an
+using any necessary specialized vocabulary, for a patient who is deaf.{% fn 25 %} When an
 interpreter is necessary, the provider will need to make sure that their telehealth
 platform allows the interpreter to join the session.{% fn 26 %} The provider may not
 require patients to bring their own interpreter.{% fn 27 %}
@@ -221,58 +221,56 @@ the Notification of Enforcement Discretion is no longer in effect.
 
 - If you believe that a telehealth provider has violated your or another person’s civil
 rights or health information privacy rights, you may file a complaint with HHS at:
-https://www.hhs.gov/ocr/complaints/index.html.
+[https://www.hhs.gov/ocr/complaints/index.html](https://www.hhs.gov/ocr/complaints/index.html).
 - If you believe that a telehealth provider has violated your or another person’s civil
 rights, you may also file a complaint with the Department of Justice at:
-https://civilrights.justice.gov/report/.
+[https://civilrights.justice.gov/report/](https://civilrights.justice.gov/report/).
 
 *Both OCR and CRT share civil rights jurisdiction in some instances and work collaboratively to ensure complaints are addressed by the appropriate office.*
 
 ## Resources
 
 Department of Health and Human Services
-- Website on telehealth, https://telehealth.hhs.gov/
+- Website on telehealth, [https://telehealth.hhs.gov/](https://telehealth.hhs.gov/)
 - Guidance for recipients of federal financial assistance regarding the prohibition
 against national origin discrimination affecting LEP persons,
-https://www.hhs.gov/civil-rights/for-individuals/special-topics/limited-englishproficiency/guidance-federal-financial-assistance-recipients-title-vi/index.html
+[https://www.hhs.gov/civil-rights/for-individuals/special-topics/limited-englishproficiency/guidance-federal-financial-assistance-recipients-title-vi/index.html](https://www.hhs.gov/civil-rights/for-individuals/special-topics/limited-englishproficiency/guidance-federal-financial-assistance-recipients-title-vi/index.html)
 - Guidance for ensuring accessibility of health programs and activities offered
-through electronic information technology, https://www.hhs.gov/civil-rights/forindividuals/disability/eit-guidance-bulletin/index.html
+through electronic information technology, [https://www.hhs.gov/civil-rights/forindividuals/disability/eit-guidance-bulletin/index.html](https://www.hhs.gov/civil-rights/forindividuals/disability/eit-guidance-bulletin/index.html)
 - Webpage on Civil Rights and COVID-19, which includes guidance about nondiscrimination on the basis of race, color, national origin, LEP, and disability,
-www.hhs.gov/civil-rights/for-providers/civil-rights-covid19/index.html
+[https://www.hhs.gov/civil-rights/for-providers/civil-rights-covid19/index.html](https://www.hhs.gov/civil-rights/for-providers/civil-rights-covid19/index.html)
 - FAQs on telehealth and HIPAA during the COVID-19 pandemic,
-https://www.hhs.gov/sites/default/files/telehealth-faqs-508.pdf
+[https://www.hhs.gov/sites/default/files/telehealth-faqs-508.pdf](https://www.hhs.gov/sites/default/files/telehealth-faqs-508.pdf)
 - Bulletin on ensuring the rights of LEP people in health care during COVID-19,
-https://www.hhs.gov/sites/default/files/lep-bulletin-5-12-2020-english.pdf
-- Toolkit for telehealth providers, https://www.cms.gov/files/document/telehealthtoolkit-providers.pdf
-- Americans with Disabilities Act National Network, www.adata.org
+[https://www.hhs.gov/sites/default/files/lep-bulletin-5-12-2020-english.pdf](https://www.hhs.gov/sites/default/files/lep-bulletin-5-12-2020-english.pdf)
+- Toolkit for telehealth providers, [https://www.cms.gov/files/document/telehealthtoolkit-providers.pdf](https://www.cms.gov/files/document/telehealthtoolkit-providers.pdf)
+- Americans with Disabilities Act National Network, [https://www.adata.org](https://www.adata.org)
 
 **Department of Justice, Civil Rights Division**
 
 Disability Resources
 
-- Introduction to the ADA, https://beta.ada.gov/topics/intro-to-ada/
-- Overview of the ADA’s effective communication requirements, https://beta.ada.gov/topics/effective-communication
-- Guidance for understanding effective communication obligations for public entities and places of public accommodation, https://www.ada.gov/effectivecomm.pdf
+- Introduction to the ADA, [https://www.ada.gov/topics/intro-to-ada/](https://www.ada.gov/topics/intro-to-ada/)
+- Overview of the ADA’s effective communication requirements, [https://www.ada.gov/topics/effective-communication](https://www.ada.gov/topics/effective-communication)
+- Guidance for understanding effective communication obligations for public entities and places of public accommodation, [https://www.ada.gov/effective-comm.pdf](https://archive.ada.gov/effective-comm.pdf)
 - For information and technical assistance about the ADA, contact the ADA
-Information Line at 800-514-0301 (voice) and 800-514-0383 (TTY). The ADA line
+Information Line at 800-514-0301 (voice) and 833-610-1264 (TTY). The ADA line
 is open on Monday, Tuesday, Wednesday, and Friday from 9:30 am until 12:00
 pm ET and again from 3:00 pm until 5:30 pm ET and on Thursday from 2:30 pm
 until 5:30 pm ET. Calls are confidential.
 
 Limited English Proficiency (LEP) Resources
 
-- Website on Limited English Proficiency, https://www.lep.gov/
+- Website on Limited English Proficiency, [https://www.lep.gov/](https://www.lep.gov)
 - Improving Access to Public Websites and Digital Services for Limited English
 Proficient (LEP) Persons,
-https://www.lep.gov/sites/lep/files/media/document/2021-
-12/2021_12_07_Website_Language_Access_Guide_508.pdf
+[https://www.lep.gov/sites/lep/files/media/document/2021-12/2021_12_07_Website_Language_Access_Guide_508.pdf](https://www.lep.gov/sites/lep/files/media/document/2021-12/2021_12_07_Website_Language_Access_Guide_508.pdf)
 - TIPS for working effectively with telephone interpreters,
-https://www.lep.gov/sites/lep/files/media/document/2020-
-03/TIPS_Telephone_Interpreters_0.pdf
+[https://www.lep.gov/sites/lep/files/media/document/2020-03/TIPS_Telephone_Interpreters_0.pdf](https://www.lep.gov/sites/lep/files/media/document/2020-03/TIPS_Telephone_Interpreters_0.pdf)
 - Guide on selecting language service providers,
-https://www.gsa.gov/cdnstatic/Foreign_Language_Services.pdf
+[https://www.gsa.gov/cdnstatic/Foreign_Language_Services.pdf](https://www.gsa.gov/cdnstatic/Foreign_Language_Services.pdf)
 - TIPS on hiring the right telephonic interpretation vendor,
-https://www.lep.gov/sites/lep/files/media/document/2020-03/TIPS_Telephone_Vendor_Selection.pdf
+[https://www.lep.gov/sites/lep/files/media/document/2020-03/TIPS_Telephone_Vendor_Selection.pdf](https://www.lep.gov/sites/lep/files/media/document/2020-03/TIPS_Telephone_Vendor_Selection.pdf)
 
 {% footnotes %}
 {% fnbody 1 %}
@@ -292,48 +290,48 @@ on discrimination in telehealth on the basis of disability, race, color, or nati
 45 C.F.R. §92.104(a).
 {% endfnbody %}
 {% fnbody 6 %}
-U.S. Dep’t of Health and Hum. Servs., https://telehealth.hhs.gov/ (last visited Jun. 21, 2022); *see* also Health
-equity in telehealth, U.S. Dep’t of Health and Hum. Servs., https://telehealth.hhs.gov/providers/health-equity-intelehealth (last visited Jun. 21, 2022).
+U.S. Dep’t of Health and Hum. Servs., [https://telehealth.hhs.gov/](https://telehealth.hhs.gov/) (last visited Jun. 21, 2022); *see* also Health
+equity in telehealth, U.S. Dep’t of Health and Hum. Servs., [https://telehealth.hhs.gov/providers/health-equity-intelehealth](https://telehealth.hhs.gov/providers/health-equity-intelehealth) (last visited Jun. 21, 2022).
 {% endfnbody %}
 {% fnbody 7 %}
 The HHS Health Resources & Services Administration (HRSA) sponsored a two-day National Telehealth
 Conference on May 16-17, 2022, bringing together public and private senior leaders to discuss telehealth best
 practices and lessons learned during the COVID-19 pandemic. *See* Health Resources & Services Administration and
 Telehealth.HHS.gov, National Telehealth Conference Summary Report,
-https://www.hrsa.gov/sites/default/files/hrsa/rural-health/topics/chsd-national-telehealth-summary-report.pdf (last visited July 26, 2022). The HHS Health Resources Administration sponsored a two-day National Telehealth
+[https://www.hrsa.gov/sites/default/files/hrsa/rural-health/topics/chsd-national-telehealth-summary-report.pdf](https://www.hrsa.gov/sites/default/files/hrsa/rural-health/topics/chsd-national-telehealth-summary-report.pdf) (last visited July 26, 2022). The HHS Health Resources Administration sponsored a two-day National Telehealth
 Conference on May 17 and 18, 2022, bringing together public and private senior leaders to discuss telehealth best
 practices and lessons learned during the COVID-19 pandemic.
 {% endfnbody %}
 {% fnbody 8 %}
-Office for the Advancement of Telehealth, Health Res. & Servs. Admin., https://www.hrsa.gov/ruralhealth/telehealth (last visited Jun. 21, 2022).
+Office for the Advancement of Telehealth, Health Res. & Servs. Admin., [https://www.hrsa.gov/ruralhealth/telehealth](https://www.hrsa.gov/ruralhealth/telehealth) (last visited Jun. 21, 2022).
 {% endfnbody %}
 {% fnbody 9 %}
 U.S. Dep’t of Health and Hum. Servs., FAQs on Telehealth and HIPAA during the COVID-19 nationwide public
-health emergency (March 20, 2020), *available at* https://www.hhs.gov/sites/default/files/telehealth-faqs-508.pdf.
+health emergency (March 20, 2020), *available at* [https://www.hhs.gov/sites/default/files/telehealth-faqs-508.pdf](https://www.hhs.gov/sites/default/files/telehealth-faqs-508.pdf).
 {% endfnbody %}
 {% fnbody 10 %}
 U.S. Dep’t of Health and Hum. Servs., Guidance on How the HIPAA Rules Permit Covered Health Care
 Providers and Health Plans to Use Remote Communication Technologies for Audio-Only Telehealth (Jun. 13,
-2022), *available at* https://www.hhs.gov/about/news/2022/06/13/hhs-issues-guidance-hipaa-audio-telehealth.html. 
+2022), *available at* [https://www.hhs.gov/about/news/2022/06/13/hhs-issues-guidance-hipaa-audio-telehealth.html](https://www.hhs.gov/about/news/2022/06/13/hhs-issues-guidance-hipaa-audio-telehealth.html). 
 {% endfnbody %}
 {% fnbody 11 %}
-U.S. Dep’t of Health and Hum. Servs. Off. for Civ. Rts., HHS.gov, *available at* https://www.hhs.gov/civilrights/index.html (last visited Jun. 21, 2022).
+U.S. Dep’t of Health and Hum. Servs. Off. for Civ. Rts., HHS.gov, *available at* [https://www.hhs.gov/civilrights/index.html](https://www.hhs.gov/civilrights/index.html) (last visited Jun. 21, 2022).
 {% endfnbody %}
 {% fnbody 12 %}
-Civil Rights and COVID-19, U.S. Dep’t of Health and Hum. Servs. Off. for Civ. Rts., https://www.hhs.gov/civilrights/for-providers/civil-rightscovid19/index.html#:~:text=The%20federal%20civil%20rights%20laws,gender%2C%20age%2C%20or%20sex (last visited Jun. 21, 2022).
+Civil Rights and COVID-19, U.S. Dep’t of Health and Hum. Servs. Off. for Civ. Rts., [https://www.hhs.gov/civilrights/for-providers/civil-rightscovid19/index.html#:~:text=The%20federal%20civil%20rights%20laws,gender%2C%20age%2C%20or%20sex](https://www.hhs.gov/civilrights/for-providers/civil-rightscovid19/index.html#:~:text=The%20federal%20civil%20rights%20laws,gender%2C%20age%2C%20or%20sex) (last visited Jun. 21, 2022).
 {% endfnbody %}
 {% fnbody 13 %}
 *See* U.S. Dep’t of Justice, Communicating Effectively with People with Disabilities, ADA.gov, *available at*
-https://beta.ada.gov/topics/effective-communication/ (last visited June 21, 2022); U.S. Dep’t of Justice, Effective Communication, ADA.gov, *available at* https://www.ada.gov/effective-comm.pdf (last visited June 21, 2022); *see* also, *e.g.*, 28 C.F.R. §§ 35.160(a), 36.303(c).
+[https://www.ada.gov/topics/effective-communication/](https://www.ada.gov/topics/effective-communication/) (last visited June 21, 2022); U.S. Dep’t of Justice, Effective Communication, ADA.gov, *available at* [https://archive.ada.gov/effective-comm.pdf](https://archive.ada.gov/effective-comm.pdf) (last visited June 21, 2022); *see* also, *e.g.*, 28 C.F.R. §§ 35.160(a), 36.303(c).
 {% endfnbody %}
 {% fnbody 14 %}
 *See* U.S. Dep’t of Justice, Statement by the Principal Deputy Assistant Attorney General for Civil Rights Leading
 a Coordinated Civil Rights Response to Coronavirus (COVID-19), Office of Public Affairs (Apr. 2, 2021), available
-at https://www.justice.gov/opa/pr/statement-principal-deputy-assistant-attorney-general-civil-rights-leadingcoordinated-civil.
+at [https://www.justice.gov/opa/pr/statement-principal-deputy-assistant-attorney-general-civil-rights-leadingcoordinated-civil](https://www.justice.gov/opa/pr/statement-principal-deputy-assistant-attorney-general-civil-rights-leadingcoordinated-civil).
 {% endfnbody %}
 {% fnbody 15 %}
 *See* U.S. Dep’t of Justice, Barrier-Free Health Care Initiative, ADA.gov (Apr. 13, 2013), *available at*
-https://www.ada.gov/usao-agreements.htm.
+[https://www.ada.gov/usao-agreements.htm](https://www.ada.gov/usao-agreements.htm).
 {% endfnbody %}
 {% fnbody 16 %}
 28 C.F.R. § 42.405(d)(2) (“Federal agencies shall also take reasonable steps to provide, in languages other than English, information regarding programs subject to title VI.”)
