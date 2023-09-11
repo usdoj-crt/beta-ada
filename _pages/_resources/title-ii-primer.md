@@ -355,7 +355,7 @@ It is important that staff -- especially front line staff who routinely interact
 
 ## ADA Information Resources
 
-For more information about the revised ADA regulations, the 2010 Standards, and the ADA, please visit [ADA.gov](https://www.ada.gov) or call our toll-free number.
+For more information about the revised ADA regulations, the 2010 Standards, and the ADA, please visit [ADA.gov]({{'/index' | relative_url}}) or call our toll-free number.
 
 [ADA Information Line]( {{'/infoline'| relative_url}})
 {{site.contact.tollfree}} (Voice) and {{site.contact.tty}} (TTY)

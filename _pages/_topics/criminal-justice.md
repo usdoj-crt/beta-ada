@@ -1,6 +1,4 @@
 ---
-publish-date: 2023-07-26 08:00:00
-news-item: true
 title: Criminal Justice
 description: The ADA requires state and local governments including their
   criminal justice agencies to comply with the ADA. If you are part of a

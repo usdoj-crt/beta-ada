@@ -183,7 +183,7 @@ them because of OUD. Individuals may also bring private lawsuits under the ADA.
 
 Information about filing an ADA complaint with the Department is available
 at [civilrights.justice.gov](https://civilrights.justice.gov/report?utm_campaign=499a0d26-884a-47aa-9afc-70094d92e6f5). More information about the ADA is available by calling the
-Department’s toll-free ADA information line at 800-514-0301 or 800-514-0383 (TTY), or
+Department’s toll-free ADA information line at 800-514-0301 or 833-610-1264 (TTY), or
 accessing its ADA website at [ADA.gov]({{'/index' | relative_url}}).
 
 Complaints about a state or local government’s programs, services, or activities relating to the

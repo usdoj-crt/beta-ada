@@ -154,7 +154,7 @@ Van-accessible parking spaces incorporate the features of accessible parking spa
 
 ## Resources
 
-For more information about the ADA, please visit [ADA.gov](https://www.ada.gov) or call our toll-free number.
+For more information about the ADA, please visit [ADA.gov]({{'/index' | relative_url}}) or call our toll-free number.
 
 [ADA Information Line]( {{'/infoline'| relative_url}})
 {{site.contact.tollfree}} (Voice) and {{site.contact.tty}} (TTY)
