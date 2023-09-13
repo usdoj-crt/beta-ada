@@ -57,7 +57,7 @@ Complaints of title II violations may be filed with the Department of Justice wi
 >Washington, D.C. 20530
 >{{site.contact.tollfree}} (voice)
 >{{site.contact.tty}} (TTY)
->[ADA.gov]({{'/index' | relative_url}})
+>[ADA.gov]({{ '/' | relative_url }})
 
 Title II may also be enforced through private lawsuits in Federal court. It is not necessary to file a complaint with the Department of Justice (DOJ) or any other Federal agency, or to receive a "right-to-sue" letter, before going to court.
 
@@ -92,7 +92,7 @@ Complaints of title III violations may be filed with the Department of Justice. 
 >Washington, D.C. 20530
 >{{site.contact.tollfree}} (voice)
 >{{site.contact.tty}} (TTY)
->[ADA.gov]({{'/index' | relative_url}})
+>[ADA.gov]({{ '/' | relative_url }})
 
 ### ADA Title IV: Telecommunications Relay Services
 
@@ -246,7 +246,7 @@ For information on how to file 504 complaints with the appropriate agency, conta
 >Washington, D.C. 20530
 >{{site.contact.tollfree}} (voice)
 >{{site.contact.tty}} (TTY)
->[ADA.gov]({{'/index' | relative_url}})
+>[ADA.gov]({{ '/' | relative_url }})
 
 ### Section 508
 
@@ -284,7 +284,7 @@ The Architectural Barriers Act (ABA) requires that buildings and facilities that
 >[ADA Information Line]( {{'/infoline/' | relative_url}})
  >{{site.contact.tollfree}} (voice)
 >{{site.contact.tty}} (TTY)
->[ADA.gov]({{'/index' | relative_url}})
+>[ADA.gov]({{ '/' | relative_url }})
 <br>
 >ADA National Network
 >(800) 949-4232 (voice/TTY)

@@ -87,7 +87,7 @@ For more information about the ADA, contact the Equal Employment Opportunity Com
 **DOJ**
 1-800-514-0301 (voice)
 1-833-610-1264 (TTY)
-[ADA.gov]({{'/index' | relative_url}})
+[ADA.gov]({{ '/' | relative_url }})
 
 For free information about many types of reasonable accommodations, contact the **Job Accommodation Network** at:
 

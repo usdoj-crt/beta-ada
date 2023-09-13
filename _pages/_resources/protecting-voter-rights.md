@@ -90,7 +90,7 @@ For information about how the ADA applies to voting, please visit our website or
 Monday-Wednesday, Friday 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Thursday 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.
 >
 >ADA Website
-[www.ADA.gov]({{'/index' | relative_url}})
+[www.ADA.gov]({{ '/' | relative_url }})
 
 To receive e-mail notifications when new ADA information is available, visit visit [https://public.govdelivery.com/accounts/USDOJ/subscriber/new?category_id=USDOJ_C26](https://public.govdelivery.com/accounts/USDOJ/subscriber/new?category_id=USDOJ_C26)
 

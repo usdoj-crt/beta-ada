@@ -457,7 +457,7 @@ Section 190 of the IRS Code provides a tax deduction for businesses of all sizes
 
 **U.S. Department of Justice**
 
-For more information about the revised ADA regulations and 2010 ADA Standards, please visit the Department of Justice's [ADA Website]({{'/index' | relative_url}}) or call our toll-free number.
+For more information about the revised ADA regulations and 2010 ADA Standards, please visit the Department of Justice's [ADA Website]({{ '/' | relative_url }}) or call our toll-free number.
 
 [ADA Information Line]( {{'/infoline'| relative_url}})
 {{site.contact.tollfree}} (Voice) and {{site.contact.tty}} (TTY)

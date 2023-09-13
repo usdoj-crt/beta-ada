@@ -67,7 +67,7 @@ In addition, all buildings, including those built before the ADA went into effec
 {% enddetails %}
 
 {% details What should I do if my staff do not know how to help a person with a disability transfer or know what the ADA requires my office to do? Also, I am unsure how to examine someone with spasticity or paralysis. expandable %}
-**To provide medical services in an accessible manner, the medical provider and staff will likely need to receive training.** This training will need to address how to operate the accessible equipment, how to assist with transfers and positioning of individuals with disabilities, and how not to discriminate against individuals with disabilities. Local or national disability organizations may be able to provide training for your staff. This document and other technical assistance materials found on the [ADA Website]({{'/index' | relative_url}}) can be used in conjunction with live training to train medical staff. The U.S. Department of Justice ADA Information Line is another resource. Anyone can call the Information Line at {{site.contact.tollfree}} (voice) or {{site.contact.tty}} (TTY) to speak with an ADA Specialist to get answers to questions about the ADA. Additionally, when preparing to assist a patient with a disability, it is always best to ask the patient if assistance is needed and if so, what is the best way to help. If the provider is unsure of how to handle something, it is absolutely OK to ask the patient what works best.
+**To provide medical services in an accessible manner, the medical provider and staff will likely need to receive training.** This training will need to address how to operate the accessible equipment, how to assist with transfers and positioning of individuals with disabilities, and how not to discriminate against individuals with disabilities. Local or national disability organizations may be able to provide training for your staff. This document and other technical assistance materials found on the [ADA Website]({{ '/' | relative_url }}) can be used in conjunction with live training to train medical staff. The U.S. Department of Justice ADA Information Line is another resource. Anyone can call the Information Line at {{site.contact.tollfree}} (voice) or {{site.contact.tty}} (TTY) to speak with an ADA Specialist to get answers to questions about the ADA. Additionally, when preparing to assist a patient with a disability, it is always best to ask the patient if assistance is needed and if so, what is the best way to help. If the provider is unsure of how to handle something, it is absolutely OK to ask the patient what works best.
 {% enddetails %}
 
 {% details If I lease my medical office space, am I responsible for making sure the examination room, waiting room, and toilet rooms are accessible? expandable %}
@@ -302,7 +302,7 @@ Finally, training staff to properly assist with transfers and lifts, and to use 
 
 <hr>
 
-For more information about the ADA, please visit [ADA.gov]({{'/index' | relative_url}}) or call our toll-free number.
+For more information about the ADA, please visit [ADA.gov]({{ '/' | relative_url }}) or call our toll-free number.
 
 [ADA Information Line]({{'/infoline' | relative_url}})
 {{site.contact.tollfree}} (Voice) and {{site.contact.tty}} (TTY)

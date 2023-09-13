@@ -94,7 +94,7 @@ Ongoing staff training is essential to ensure that people with disabilities who 
 
 <hr>
 
-For more information about the ADA, please visit [ADA.gov](({{'/index' | relative_url}})) or call our toll-free number.
+For more information about the ADA, please visit [ADA.gov](({{ '/' | relative_url }})) or call our toll-free number.
 
 [ADA Information Line]( {{'/infoline'| relative_url}})
 {{site.contact.tollfree}} (Voice) and {{site.contact.tty}} (TTY)
