@@ -31,6 +31,35 @@ layout: null
           return entry.get("data").set("body", body);
         }
       });
+
+      const FEATURE_FLAGS = ['laws-and-regs'];
+
+      const contentContainer = document.querySelector('#nc-root');
+
+      const observer = new MutationObserver(function(mutations) {
+        FEATURE_FLAGS.forEach((flag) => {
+          if (sessionStorage.getItem(flag) === 'true') {
+            const flagCheckBox = document.getElementById(flag);
+            flagCheckBox.checked = true;
+          }
+        });
+        mutations.forEach(function(mutation) {
+          const header = Array.from(contentContainer.childNodes).filter((node) => node.localName === 'header');
+          const featureFlagMenu = document.getElementById('featureFlag');
+          if (header.length) {
+            featureFlagMenu.style.display = 'block';
+          } else {
+            featureFlagMenu.style.display = 'none';
+          }
+        });
+      });
+
+      observer.observe(contentContainer, { childList: true });
+
+      function setFlag(checkbox, flagName) {
+        sessionStorage.setItem(flagName, checkbox.checked);
+      }
+
     </script>
     <link href="/admin/config.yml" type="text/yaml" rel="cms-config-url" />
     <style>
@@ -53,7 +82,26 @@ layout: null
       .css-pp9jk1-DropdownList-dropdownList-DropdownList .css-1hu7ve8-button-dropdownItem-StyledMenuItem {
         color: #6C7584;
       }
+      .feature-flag-wrapper {
+        background-color: white;
+        padding: 16px 12px;
+        border-radius: 5px;
+        width: 250px;
+        box-shadow: rgba(68, 74, 87, 0.05) 0px 2px 6px 0px, rgba(68, 74, 87, 0.1) 0px 1px 3px 0px;
+        margin-left: 18px;
+        position: absolute;
+        top: 605px;
+        z-index: -1;
+      }
+      .checkbox-label {
+        font-size: 14px;
+      }
     </style>
-
+    <div class="feature-flag-wrapper" id="featureFlag" style="display: none;">
+      <h2>Feature flags</h2>
+      <input id="laws-and-regs" type="checkbox" onclick="setFlag(this, 'laws-and-regs')">
+        <label class="checkbox-label">Law and regs</label>
+      </input>
+    </div>
   </body>
 </html>
