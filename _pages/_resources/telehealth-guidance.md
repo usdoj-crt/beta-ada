@@ -1,12 +1,11 @@
 ---
 title: "Guidance on Nondiscrimination in Telehealth: Federal Protections to Ensure Accessibility to People with Disabilities and Limited English Proficient Persons"
-description: "This guidance explains how various federal laws require making telehealth accessible to people
-with disabilities and limited English proficient persons."
+description: "This guidance explains how various federal laws require making telehealth accessible to people with disabilities and limited English proficient persons."
 permalink: /resources/telehealth-guidance/
 redirect_from:
   - /telehealth_guidance.pdf/
 lead: |-
-  
+
 lang: "en"
 news-item: false
 publish-date: 2022-05-12 00:00:00
@@ -312,7 +311,7 @@ health emergency (March 20, 2020), *available at* [https://www.hhs.gov/sites/def
 {% fnbody 10 %}
 U.S. Dep’t of Health and Hum. Servs., Guidance on How the HIPAA Rules Permit Covered Health Care
 Providers and Health Plans to Use Remote Communication Technologies for Audio-Only Telehealth (Jun. 13,
-2022), *available at* [https://www.hhs.gov/about/news/2022/06/13/hhs-issues-guidance-hipaa-audio-telehealth.html](https://www.hhs.gov/about/news/2022/06/13/hhs-issues-guidance-hipaa-audio-telehealth.html). 
+2022), *available at* [https://www.hhs.gov/about/news/2022/06/13/hhs-issues-guidance-hipaa-audio-telehealth.html](https://www.hhs.gov/about/news/2022/06/13/hhs-issues-guidance-hipaa-audio-telehealth.html).
 {% endfnbody %}
 {% fnbody 11 %}
 U.S. Dep’t of Health and Hum. Servs. Off. for Civ. Rts., HHS.gov, *available at* [https://www.hhs.gov/civilrights/index.html](https://www.hhs.gov/civilrights/index.html) (last visited Jun. 21, 2022).
