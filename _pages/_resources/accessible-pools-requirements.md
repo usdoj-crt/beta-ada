@@ -108,7 +108,7 @@ Title III entities may be able to take advantage of federal tax credits for smal
 
 For more information about the ADA, please visit our website or call our toll-free number.  
 
-[ADA.gov]({{'/index' | relative_url}})  
+[ADA.gov]({{ '/' | relative_url }})  
 
 [archive.ada.gov](https://archive.ada.gov)  
 

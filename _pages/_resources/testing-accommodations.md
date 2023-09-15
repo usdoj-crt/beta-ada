@@ -122,8 +122,8 @@ Depending on the particular  testing accommodation request and the nature of the
 
 **To  view model testing accommodation practices and for more information about the  ADA, please visit our website or call our toll-free number:**
 
-- ADA Website: [www.ADA.gov]({{'/index' | relative_url}})
-- [ADA Information Line]({{'/index' | relative_url}}): 800-514-0301 (Voice) and 1-833-610-1264 (TTY); M, Tu, W, F: 9:30am - 12pm and 3pm - 5:30pm ET, Th: 2:30pm - 5:30pm ET
+- ADA Website: [www.ADA.gov]({{ '/' | relative_url }})
+- [ADA Information Line]({{ '/' | relative_url }}): 800-514-0301 (Voice) and 1-833-610-1264 (TTY); M, Tu, W, F: 9:30am - 12pm and 3pm - 5:30pm ET, Th: 2:30pm - 5:30pm ET
 - Model Testing Accommodation Practices Resulting From Recent Litigation: [http://archive.ada.govlsac_best_practices_report.docx](http://archive.ada.gov/lsac_best_practices_report.docx)
 
 {% footnotes %}

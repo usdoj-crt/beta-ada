@@ -121,7 +121,7 @@ As a general matter, the Department favors voluntary compliance with the ADA fro
 
 ## Resources  
 {% details 19. If I have a question about the new requirements, where do I go? expandable %}
-The Department’s wide-ranging outreach, education and technical assistance program is designed to assist businesses and State and local governments to understand their obligations under the ADA. Additional information about the ADA’s requirements, including the 2010 ADA Standards, is available on the Department’s ADA Website at [www.ada.gov]({{'/index' | relative_url}}).
+The Department’s wide-ranging outreach, education and technical assistance program is designed to assist businesses and State and local governments to understand their obligations under the ADA. Additional information about the ADA’s requirements, including the 2010 ADA Standards, is available on the Department’s ADA Website at [www.ada.gov]({{ '/' | relative_url }}).
 {% enddetails %}  
 
 If you have questions and would like to speak to an ADA Specialist, please call the ADA Information Line at 800-514-0301 (voice); 833-610-1264 (TTY).  Specialists are available Monday, Tuesday, Wednesday, Friday 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Thursday 2:30 p.m. – 5:30 p.m. (Eastern Time).  

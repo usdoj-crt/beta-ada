@@ -180,7 +180,7 @@ To provide temporary access to voters with disabilities, election officials shou
 
 This document provides guidance on providing temporary access to polling places. Election officials should note that the ADA requires jurisdictions to select polling sites that are accessible or can be made accessible for elections. The ADA title II regulation and the ADA Standards for Accessible Design set out what makes a facility accessible and should be used to determine the level of accessibility at each facility being used or considered for use as a polling place. Election officials should consult the Justice Department’s ADA Checklist for Polling Places for more detailed guidance on how to assess whether a polling place is fully accessible to voters with disabilities or if barriers can be removed.
 
-The Checklist, title II regulation, and the ADA Standards are available at [ADA.gov]({{'/index' | relative_url}}).
+The Checklist, title II regulation, and the ADA Standards are available at [ADA.gov]({{ '/' | relative_url }}).
 
 In addition, election officials should consult the Department’s 7-page publication on the rights of voters with disabilities, The Americans with Disabilities Act and Other Federal Laws Protecting the Rights of Voters with Disabilities, also available at www.ada.gov.
 
@@ -196,7 +196,7 @@ Thursday 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist.
 All calls are confidential.
 
 **ADA Website**
-[www.ADA.gov]({{'/index' | relative_url}})
+[www.ADA.gov]({{ '/' | relative_url }})
 
 To receive e-mail notifications when new ADA information is available, visit [https://public.govdelivery.com/accounts/USDOJ/subscriber/new?category_id=USDOJ_C26](https://public.govdelivery.com/accounts/USDOJ/subscriber/new?category_id=USDOJ_C26)
 
