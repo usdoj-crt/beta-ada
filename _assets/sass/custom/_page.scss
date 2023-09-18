@@ -36,6 +36,10 @@
   .section {
     position: relative;
 
+    &.highlight {
+      background-color: #FDFD96;
+    }
+
     .btn-group {
       display: flex;
       gap: 8px;
