@@ -103,12 +103,12 @@ function buildBtns(i, divType) {
 
 function highlightText(e, divType) {
     const section = e.target.closest(divType);
-    section.className = 'section highlight';
+    section.classList.add('highlight');
 }
 
 function unHighlightText(e, divType) {
     const section = e.target.closest(divType);
-    section.className = 'section';
+    section.classList.remove('highlight');
 }
 
 function copyText(e, divType) {
