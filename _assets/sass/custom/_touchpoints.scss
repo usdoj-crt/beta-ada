@@ -64,7 +64,7 @@
   }
 
   .usa-alert {
-    padding-top: 0px !important;
+    padding-top: 0px;
   }
 
   .usa-alert::before {
@@ -73,6 +73,46 @@
 
   .usa-alert--success {
     background-position-y: center;
+  }
+
+}
+
+#touchpoints-yes-no-form {
+  padding: 1.25rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+
+  .usa-alert--success {
+    padding: 1.25rem;
+
+    .usa-alert__body {
+      padding-left: 1.25rem;
+    }
+  }
+
+  .fba-modal-title {
+    font-size: 1.34rem;
+    margin-bottom: 0;
+  }
+
+  #touchpoints-yes-no-form {
+    .question.white-bg {
+      background-color: #d9e8f6;
+    }
+
+    .questions label {
+      display: none;
+    }
+  }
+
+  .usa-button{
+    background-color: color($theme-color-primary-darker);
+    &:hover {
+      background-color: color($theme-link-hover-color) !important;
+    }
+    &:focus {
+      background-color: color($theme-link-hover-color) !important;
+    }
   }
 
 }

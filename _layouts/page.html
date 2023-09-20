@@ -21,6 +21,9 @@ layout: default
           </button>
         </h4>
       {% include sidenav.html collection=page.subnav %}
+      {% if page.page-helpful != false %}
+        {% include touchpoints-page-helpful.html %}
+      {% endif %}
       </div>
       {% endif %}
     </div>

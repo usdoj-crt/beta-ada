@@ -10,6 +10,7 @@ import search from "./search";
 import sidenav from "./expand-sidenav";
 import mobileCarousel from "./carousel";
 import setCookies from "./feature-flag";
+import tryToSetPageAnswer from "./touchpoints-page-helpful";
 
 modal();
 redirectModal();
@@ -19,6 +20,7 @@ search();
 sidenav();
 mobileCarousel();
 setCookies();
+tryToSetPageAnswer();
 
 const lawsAndRegsFlag = document.cookie
   .split("; ")

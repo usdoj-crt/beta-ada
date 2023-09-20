@@ -9,6 +9,9 @@
     {% include notice.html %}
     {{ content }}
   </main>
+  {% if page.page-helpful != false and page.subnavigation != true %}
+    {% include touchpoints-page-helpful.html %}
+  {% endif %}
   {% include footer.html %}
   {% unless page.back-to-top == nil or page.back-to-top == false  %}
   {% include back-to-top.html %}
