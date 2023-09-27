@@ -223,7 +223,7 @@ As such, in some cases an individual with a disability may not  be a qualified i
   
 ## Additional Resources
 
-For more information about the ADA and Section 504, you may call the  DOJ&rsquo;s toll-free ADA information line at 800-514-0301 or 833-610-1264 (TDD), or  access its ADA website at [ADA.gov]({{'/index' | relative_url}})  For more information about the responsibilities of child  welfare agencies under the ADA and Rehabilitation Act, see &ldquo;DOJ/HHS Joint  Letter to Massachusetts Department of Children and Families,&rdquo; at [ADA.gov](https://archive.ada.gov/new.htm).  For  more information about Title II of the ADA, including the Title II Technical Assistance Manual and [Revised ADA Requirements:  Effective Communication]({{'resources/effective-communication/' | relative_url}}).
+For more information about the ADA and Section 504, you may call the  DOJ&rsquo;s toll-free ADA information line at 800-514-0301 or 833-610-1264 (TDD), or  access its ADA website at [ADA.gov]({{ '/' | relative_url }})  For more information about the responsibilities of child  welfare agencies under the ADA and Rehabilitation Act, see &ldquo;DOJ/HHS Joint  Letter to Massachusetts Department of Children and Families,&rdquo; at [ADA.gov](https://archive.ada.gov/new.htm).  For  more information about Title II of the ADA, including the Title II Technical Assistance Manual and [Revised ADA Requirements:  Effective Communication]({{'resources/effective-communication/' | relative_url}}).
 
 Information about filing an ADA or Section 504 complaint with DOJ can be found at [Filing a Complaint]({{'/file-a-complaint' | relative_url}}).  Individuals  who believe they have been aggrieved under Title II or Section 504 should file  complaints at the earliest opportunity.
 

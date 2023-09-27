@@ -181,7 +181,7 @@ A. No.  The Air Carrier Access Act is the Federal law that protects the rights 
 
 ## Resources
 
-For more information about the ADA, please visit [ADA.gov](https://www.ada.gov) or call our toll-free number.
+For more information about the ADA, please visit [ADA.gov](({{ '/' | relative_url }})) or call our toll-free number.
 
 [ADA Information Line]( {{'/infoline/' | relative_url}})
 {{site.contact.tollfree}} (Voice) and {{site.contact.tty}} (TTY)

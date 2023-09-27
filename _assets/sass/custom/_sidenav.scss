@@ -13,6 +13,12 @@
     flex-direction: column;
   }
 
+  .usa-sidenav__item {
+    .display-flex {
+      display: flex;
+    }
+  }
+
   a:not(.crt-page--downloadpdf-button)  {
     color: color($theme-text-color);
 
