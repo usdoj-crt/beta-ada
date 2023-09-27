@@ -26,7 +26,7 @@ card:
   title_alt: ADA Title II Regulations
   description: |-
     Title II of the ADA - regulations for state and local governments meant to ensure that people with disabilities can participate in all aspects of civic life.
-  image: landing/title-ii.gif
+  image: title-ii.png
   alt: "An aerial view of a city; includes city hall, streets, sidewalks, cars, and other government and non-government buildings"
   href: /law-and-regs/title-ii-2010-regulations/
 expand-sidenav: true

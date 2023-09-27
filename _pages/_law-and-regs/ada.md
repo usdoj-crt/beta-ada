@@ -12,7 +12,7 @@ card:
   title_alt: Americans with Disabilities Act
   description: |-
     The text of the Americans with Disabilities Act of 1990 (ADA), including changes made by the ADA Amendments Act of 2008.
-  image: landing/intro_ada.jpg
+  image: signing-ada.png
   alt: A teacher and a student sitting at a table signing to one another
   href: /law-and-regs/ada/
 redirect_from:

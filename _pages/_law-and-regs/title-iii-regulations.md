@@ -20,7 +20,7 @@ card:
   title_alt: ADA Title III Regulations
   description: |-
     Title III of the ADA - regulations for businesses, including nonprofits meant to ensure that people with disabilities can access places of business and public accommodation.
-  image: landing/title-iii.gif
+  image: title-iii.png
   alt: "A sign hanging inside a storefront window reads Welcome. We are Open. Please come in"
   href: /law-and-regs/title-iii-regulations/
 expand-sidenav: true

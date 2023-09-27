@@ -11,7 +11,7 @@ card:
   title_alt: ADA Standards for Accessible Design
   description: |-
     The ADA Standards for Accessible Design — along with the Title II and Title III regulations—say what is required for a building or facility to be physically accessible to people with disabilities.
-  image: landing/emergency-planning.jpg
+  image: 2010-design-standards.jpg
   alt: "A building floor plan with braille showing hallways and evacuation routes"
   href: /law-and-regs/design-standards/
 redirect_from:
