@@ -1,15 +1,15 @@
-@use "uswds-core" as *;
+@use 'uswds-core' as *;
 @use 'variables' as *;
 
 #fba-button {
-    background: color($theme-color-warning);
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-    color: color($theme-color-primary-darker) !important;
+  background: color($theme-color-warning);
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  color: color($theme-color-primary-darker) !important;
 
-    &:hover {
-      background: color($theme-color-warning-dark);
-    }
+  &:hover {
+    background: color($theme-color-warning-dark);
+  }
 }
 
 #fba-modal-dialog {
@@ -40,7 +40,7 @@
     padding-left: 0px !important;
   }
 
-  .usa-label[for=answer_01] {
+  .usa-label[for='answer_01'] {
     margin-top: 0px !important;
   }
 
@@ -53,7 +53,7 @@
     max-width: 100% !important;
   }
 
-  .usa-button{
+  .usa-button {
     background-color: color($theme-color-primary-darker);
     &:hover {
       background-color: color($theme-link-hover-color) !important;
@@ -74,15 +74,101 @@
   .usa-alert--success {
     background-position-y: center;
   }
+}
 
+.touchpoints-sidenav {
+  .grid-gap-xl > * {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  &.grid-container {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
+  #touchpoints-yes-no-form {
+    .fba-modal-title {
+      font-size: 14px;
+      font-weight: bold;
+      padding-left: 2.5rem;
+
+      &:before {
+        height: 18px;
+        width: 18px;
+      }
+    }
+  }
 }
 
 #touchpoints-yes-no-form {
-  padding: 1.25rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
+  background-color: white;
+  border: 1px solid #dfe1e2;
+  padding: 0;
+
+  .fba-modal-title {
+    border-bottom: 1px solid #dfe1e2;
+    color: #2e2e2a;
+    font-family: inherit;
+    font-size: 16px;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 1rem;
+    padding-left: 3rem;
+
+    &:before {
+      content: ' ';
+      background-image: url('img/usa-icons/comment.svg');
+      background-size: contain;
+      display: block;
+      height: 24px;
+      left: 1rem;
+      position: absolute;
+      width: 24px;
+    }
+  }
+
+  .grid-container {
+    &.touchpoints-sidenav {
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+
+  .question-options {
+    display: flex;
+    gap: 10px;
+    padding-top: 1em;
+
+    .usa-radio__input--tile + [class*='__label'] {
+      background-color: transparent;
+      border-color: #2378c3;
+      color: #2378c3;
+      font-weight: bold;
+      padding: 0.5rem 2rem;
+
+      &:before {
+        display: none;
+      }
+    }
+
+    .usa-radio__input:checked + [class*='__label'] {
+      background-color: #2378c3;
+      color: white;
+    }
+  }
+
+  .touchpoints-form-body {
+    padding: 0 1rem;
+  }
+
+  .usa-alert {
+    padding: 1rem;
+  }
 
   .usa-alert--success {
+    margin-top: 0;
     padding: 1.25rem;
 
     .usa-alert__body {
@@ -90,22 +176,11 @@
     }
   }
 
-  .fba-modal-title {
-    font-size: 1.34rem;
-    margin-bottom: 0;
+  .usa-banner {
+    padding: 0 1rem;
   }
 
-  #touchpoints-yes-no-form {
-    .question.white-bg {
-      background-color: #d9e8f6;
-    }
-
-    .questions label {
-      display: none;
-    }
-  }
-
-  .usa-button{
+  .usa-button {
     background-color: color($theme-color-primary-darker);
     &:hover {
       background-color: color($theme-link-hover-color) !important;
@@ -115,4 +190,15 @@
     }
   }
 
+  .usa-label {
+    display: none;
+  }
+
+  .usa-radio {
+    background: none;
+  }
+
+  .wrapper > p {
+    display: none;
+  }
 }
