@@ -14,7 +14,7 @@ function setPublicPercentVariant(name, publicPercentOn) {
 const FEATURE_FLAGS = [
     {
       name: 'laws-and-regs',
-      released: false,
+      released: true,
       publicPercentOn: 0,
       optedIn: false,
     }
