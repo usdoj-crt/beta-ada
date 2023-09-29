@@ -35,6 +35,15 @@ contact:
 
 # For alerts that aren't tied to a site.categories.notice
 external_notices:
+  - text:
+      en: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      es: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link_text:
+      en: sed do eiusmod tempor
+      es: sed do eiusmod tempor
+    link_href:
+      en: https://www.ada.gov/
+      es: https://www.ada.gov/
 
 # Display beta disclamers
 beta: false
