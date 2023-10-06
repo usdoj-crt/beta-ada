@@ -7,5 +7,14 @@ export default function tryToSetPageAnswer() {
       return;
     }
 
+    const answer1 = document.querySelector('#touchpoints-yes-no-form #answer_01');
+    const submitButton = document.querySelector('#touchpoints-yes-no-form .submit_form_button');
+
+    Array.from(answer1.getElementsByTagName('input')).forEach(input => {
+      input.addEventListener('change', () => {
+        submitButton.click();
+      })
+    });
+
     pageAnswer.value = window.location.href;
   }
