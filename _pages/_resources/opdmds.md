@@ -1,6 +1,6 @@
 ---
 title: "ADA Requirements: Wheelchairs, Mobility Aids, and Other Power-Driven Mobility Devices"
-description: "This document is designed to help title II entities (State and local governments) and title III entities (businesses and non-profit organizations that serve the public) understand how the new rules for other power driven mobility devices apply to them."
+description: "Guidance on the rules for power driven mobility devices for State and local governments, and businesses and non-profit organizations that serve the public."
 permalink: /resources/opdmds/
 lead: |-
   People with mobility, circulatory, respiratory, or neurological disabilities use many kinds of devices for mobility. Some use walkers, canes, crutches, or braces. Some use manual or power wheelchairs or electric scooters. In addition, advances in technology have given rise to new devices, such as Segways, that some people with disabilities use as mobility devices, including many veterans injured while serving in the military. And more advanced devices will inevitably be invented, providing more mobility options for people with disabilities.
@@ -101,8 +101,8 @@ For more information about the ADA, please visit [ADA.gov](({{ '/' | relative_ur
 M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.
 
 For people with disabilities, this publication is available in alternate formats.
-<hr>  
-The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
+<hr>
+The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.
 
 This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
 <hr>
