@@ -81,7 +81,7 @@ function buildBtns(i, divType) {
     const btnDiv = createDiv('btn-group display-flex flex-row flex-justify maxw-card');
     const btnTypes = ['Share', 'Copy', 'Print'];
     btnTypes.forEach(btnType => {
-        const btn = document.createElement('div');
+        const btn = document.createElement('a');
         btn.className = btnType + '-btn text-no-underline section-btn';
         const gaEventName = 'data-ga-event-name="' + btnType + ' ' + divType + ' ' + i + '"';
         btn.setAttribute('aria-label', btnType);
