@@ -85,6 +85,7 @@ function buildBtns(i, divType) {
         btn.className = btnType + '-btn text-no-underline section-btn';
         const gaEventName = 'data-ga-event-name="' + btnType + ' ' + divType + ' ' + i + '"';
         btn.setAttribute('aria-label', btnType);
+        btn.href = '#';
         if (btnType === 'Share') {
             btn.innerHTML = '<span class="copied-link text-no-underline" style="display:none;">Copied link</span><svg title="Copy link" ' + gaEventName + ' class="usa-icon share-icon usa-tooltip" data-position="bottom" focusable="false" role="img"><title>Copy link</title><use xlink:href="/assets/img/sprite.svg#link"></use></svg>';
             btn.addEventListener('click', (e) => { shareLink(e, divType) });
