@@ -4,8 +4,8 @@
   "scripts": {
     "federalist": "npm run build:js && npm run build:css",
     "build": "npm run webpack --progress bundle exec jekyll build",
-    "build:js": "`npm bin`/webpack --config webpack.javascript.js",
-    "build:css": "`npm bin`/webpack --config webpack.sass.js",
+    "build:js": "webpack --config webpack.javascript.js",
+    "build:css": "webpack --config webpack.sass.js",
     "clean": "bundle exec jekyll clean",
     "clean:js": "prettier --write \"_assets/js/**/*.js\"",
     "lint:js": "prettier --check \"_assets/js/**/*.js\"",

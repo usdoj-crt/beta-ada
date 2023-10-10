@@ -10,7 +10,8 @@ updated-date: 2022-12-20 00:00:00
 print: true
 sidenav-pdf:
   title: Ballot Box Accessibility
-  filename: ballot-box-accessibility.pdf
+  filename: ballot-box-accessiblity.pdf
+  text: Download PDF Guidance
 related-content: true
 tags:
   - voting
