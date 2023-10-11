@@ -68,6 +68,7 @@ layout: default
         {% include page-type-info-box.html %}
         {% endunless %}
         {% if page.interactive-headers %}
+        {% include search-box.html %}
         <div class="interactive-headers">
           {{ content }}
         </div>
