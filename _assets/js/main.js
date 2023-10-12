@@ -2,7 +2,6 @@ import Gumshoe from "gumshoejs"
 import AnchorJS from "anchor-js";
 import initGAEvents from "./utils/gaUtil";
 import parseLawsAndRegs from "./laws-regs-parser";
-import pageSearch from "./laws-regs-search";
 import modal from "./modal";
 import redirectModal from "./redirect-modal";
 import printButton from "./print-button";
@@ -29,7 +28,6 @@ const lawsAndRegsFlag = document.cookie
 if (lawsAndRegsFlag === 'true') {
   const mainEl = document.querySelector('.interactive-headers');
   parseLawsAndRegs(mainEl);
-  pageSearch();
 }
 
 initGAEvents();

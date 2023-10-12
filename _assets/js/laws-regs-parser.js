@@ -43,7 +43,9 @@ export default function parseLawsAndRegs (mainContent) {
 
 
     parent.insertBefore(newMainContent, mainContent);
-    mainContent.remove()
+    mainContent.remove();
+    const searchBtn = document.getElementById('searchbtn');
+    searchBtn.addEventListener('click', search);
 }
 
 function buildMainContent(subparts) {
@@ -81,20 +83,15 @@ function buildBtns(i, divType) {
         btn.className = btnType + '-btn text-no-underline section-btn';
         const gaEventName = 'data-ga-event-name="' + btnType + ' ' + divType + ' ' + i + '"';
         btn.setAttribute('aria-label', btnType);
-        btn.href = '#';
         if (btnType === 'Share') {
-            btn.innerHTML = '<span class="copied-link text-no-underline" style="display:none;">Copied link</span><svg ' + gaEventName + ' class="usa-icon share-icon usa-tooltip" data-position="bottom" focusable="false" role="img"><title>copy link</title><use xlink:href="/assets/img/sprite.svg#link"></use></svg>';
+            btn.innerHTML = '<p class="copied-link text-no-underline margin-0" style="display:none;">Copied link</p><svg ' + gaEventName + ' class="usa-icon share-icon usa-tooltip" data-position="bottom" focusable="false" role="img"><title>copy link</title><use xlink:href="/assets/img/sprite.svg#link"></use></svg>';
             btn.addEventListener('click', (e) => { shareLink(e, divType) });
         } else if (btnType === 'Copy') {
-            btn.innerHTML = '<span class="copied text-no-underline" style="display:none;">Copied text</span><svg ' + gaEventName + ' class="usa-icon copy-icon usa-tooltip" data-position="bottom" focusable="false" role="img"><title>copy text</title><use xlink:href="/assets/img/sprite.svg#content_copy"></use></svg>';
-            btn.addEventListener('click', (e) => { copyText(e, divType) });
-            btn.addEventListener('mouseover', (e) => { highlightText(e, divType) });
-            btn.addEventListener('mouseleave', (e) => { unHighlightText(e, divType) });
+            btn.innerHTML = '<p class="copied text-no-underline margin-0" style="display:none;">Copied text</p><svg ' + gaEventName + ' class="usa-icon copy-icon usa-tooltip" data-position="bottom" focusable="false" role="img"><title>copy text</title><use xlink:href="/assets/img/sprite.svg#content_copy"></use></svg>';
+            addCopyEventListeners(btn, divType);
         } else if (btnType === 'Print') {
             btn.innerHTML = '<svg title="print" ' + gaEventName + ' class="usa-icon usa-tooltip" data-position="bottom" focusable="false" role="img"><title>print</title><use xlink:href="/assets/img/sprite.svg#print"></use></svg>';
-            btn.addEventListener('click', (e) => { printText(e, divType) });
-            btn.addEventListener('mouseover', (e) => { highlightText(e, divType) });
-            btn.addEventListener('mouseleave', (e) => { unHighlightText(e, divType) });
+            addPrintEventListeners(btn, divType);
         }
         btnDiv.appendChild(btn);
     });
@@ -157,4 +154,62 @@ function shareLink(e, divType) {
         copyLinkText.style.display = 'none';
         shareIcon.style.display = 'block';
     }, 2000);
+}
+
+function addCopyEventListeners(btn, divType) {
+    btn.addEventListener('click', (e) => { copyText(e, divType) });
+    btn.addEventListener('mouseover', (e) => { highlightText(e, divType) });
+    btn.addEventListener('mouseleave', (e) => { unHighlightText(e, divType) });
+}
+
+function addPrintEventListeners(btn, divType) {
+    btn.addEventListener('click', (e) => { printText(e, divType) });
+    btn.addEventListener('mouseover', (e) => { highlightText(e, divType) });
+    btn.addEventListener('mouseleave', (e) => { unHighlightText(e, divType) });
+}
+
+function search() {
+    const searchBox = document.getElementById('searchbox');
+    const searchQuery = searchBox.value.toLowerCase();
+    if (!searchQuery.length){
+        clearSearch();
+        return;
+    };
+    const sections = document.querySelectorAll('.section')
+    for (let i = 0; i < sections.length; i++) {
+        removeHighlights(sections[i]);
+        if(sections[i].innerText.toLowerCase()
+            .includes(searchQuery)) {
+            sections[i].classList.remove("hidden");
+            sections[i].classList.add("searched");
+            highlightTerm(searchQuery, sections[i]);
+        } else {
+            sections[i].classList.add("hidden");
+            sections[i].classList.remove("searched");
+        }
+    }
+}
+
+function highlightTerm(text, section) {
+    const innerHTML = section.innerHTML.replaceAll(new RegExp('(' + text + ')',"ig"), `<span class='search-term'>$1</span>`);
+    section.innerHTML = innerHTML;
+    const shareBtn = section.querySelector('.Share-btn');
+    shareBtn.addEventListener('click', (e) => { shareLink(e, '.section') });
+    const copyBtn = section.querySelector('.Copy-btn');
+    addCopyEventListeners(copyBtn, '.section');
+    const printBtn = section.querySelector('.Print-btn');
+    addPrintEventListeners(printBtn, '.section');
+  }
+
+function removeHighlights(section) {
+    const innerHTML = section.innerHTML.replaceAll('<span class="search-term">', '').replaceAll("</span>", '');
+    section.innerHTML = innerHTML;
+}
+
+function clearSearch() {
+    const sections = document.querySelectorAll('.section')
+    for (let i = 0; i < sections.length; i++) {
+        removeHighlights(sections[i]);
+        sections[i].classList.remove("searched", "hidden");
+    }
 }
