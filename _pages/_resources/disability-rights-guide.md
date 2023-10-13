@@ -1,6 +1,6 @@
 ---
 title: Guide to Disability Rights Laws
-description: "A guidance document that provides a brief overview of ten Federal laws that protect the rights of people with disabilities and provides information about the Federal agencies to contact for more information."
+description: "A brief overview of ten Federal laws that protect the rights of people with disabilities and the Federal agencies to contact for more information."
 permalink: /resources/disability-rights-guide/
 lead: |-
   This guide provides an overview of Federal civil rights laws that ensure equal opportunity for people with disabilities. To find out more about how these laws may apply to you, contact the agencies and organizations listed below.
@@ -357,7 +357,7 @@ The Architectural Barriers Act (ABA) requires that buildings and facilities that
 **Voting Accessibility for the Elderly and Handicapped Act of 1984**
 42 U.S.C. §§ 1973ee et seq.
 
-<hr>  
-The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
+<hr>
+The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.
 
 This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.

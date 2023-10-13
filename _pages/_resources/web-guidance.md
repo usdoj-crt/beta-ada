@@ -1,6 +1,6 @@
 ---
 title: Guidance on Web Accessibility and the ADA
-description: "The Department of Justice published guidance on web accessibility and the Americans with Disabilities Act (ADA).  It explains how state and local governments (entities covered by ADA Title II) and businesses open to the public (entities covered by ADA Title III) can make sure their websites are accessible to people with disabilities in line with the ADA’s requirements."
+description: "Guidance on how state and local governments and businesses open to the public can make sure their websites are in line with the ADA’s requirements."
 permalink: /resources/web-guidance/
 redirect_from:
   - /web-guidance/

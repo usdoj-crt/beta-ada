@@ -1,6 +1,6 @@
 ---
 title: "The ADA and Opioid Use Disorder: Combating Discrimination Against People in Treatment or Recovery"
-description: "This guidance document provides information about how the ADA can protect individuals with OUD from discrimination — an important part of combating the opioid epidemic across American communities."
+description: "Information about how the ADA can protect individuals with OUD from discrimination — an important part of combating the opioid epidemic."
 permalink: /resources/opioid-use-disorder/
 redirect_from:
   - /opioid-guidance.pdf/
