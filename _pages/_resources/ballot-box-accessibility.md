@@ -10,7 +10,8 @@ updated-date: 2022-12-20 00:00:00
 print: true
 sidenav-pdf:
   title: Ballot Box Accessibility
-  filename: ballot-box-accessibility.pdf
+  filename: ballot-box-accessiblity.pdf
+  text: Download PDF Guidance
 related-content: true
 tags:
   - voting
@@ -91,12 +92,12 @@ An accessible ballot drop box opening has the following features:
 {% endlist %}
 
 {% details ADA Checklist for Polling Places %}
-The ADA Checklist for Polling Places (“Polling Places Checklist”), provides guidance to election officials for determining whether a polling place is accessible to voters with disabilities. The Polling Place Checklist can be used along with this guidance to assess elements such as parking, exterior, and interior routes to the ballot drop box, ramps and curb ramps along the routes, and facility entrances. Title II and its regulation, the Polling Place Checklist, and the 2010 ADA Standards are available at [ADA.gov]({{'/index' | relative_url}})
+The ADA Checklist for Polling Places (“Polling Places Checklist”), provides guidance to election officials for determining whether a polling place is accessible to voters with disabilities. The Polling Place Checklist can be used along with this guidance to assess elements such as parking, exterior, and interior routes to the ballot drop box, ramps and curb ramps along the routes, and facility entrances. Title II and its regulation, the Polling Place Checklist, and the 2010 ADA Standards are available at [ADA.gov]({{ '/' | relative_url }})
 {% enddetails %}
 
 ## ADA Checklist for Ballot Drop Boxes
 
-This checklist is designed to provide guidance for determining whether a ballot drop box has basic accessibility features for voters with disabilities and includes the route to the ballot box (Section J) and the ballot drop box features (Section K). Each question below provides citations to the 2010 ADA Standards for Accessible Design. Please review the 2010 ADA Standards for all requirements. This ballot drop box checklist can be used with the ADA Checklist for Polling Places (Polling Place Checklist) to ensure the accessibility of other features at the site, such as parking and passenger drop-off areas (Sections A-I). This checklist, the Polling Place Checklist, the Title II regulation, and the 2010 ADA Standards are available at [ADA.gov]({{'/index' | relative_url}}).
+This checklist is designed to provide guidance for determining whether a ballot drop box has basic accessibility features for voters with disabilities and includes the route to the ballot box (Section J) and the ballot drop box features (Section K). Each question below provides citations to the 2010 ADA Standards for Accessible Design. Please review the 2010 ADA Standards for all requirements. This ballot drop box checklist can be used with the ADA Checklist for Polling Places (Polling Place Checklist) to ensure the accessibility of other features at the site, such as parking and passenger drop-off areas (Sections A-I). This checklist, the Polling Place Checklist, the Title II regulation, and the 2010 ADA Standards are available at [ADA.gov]({{ '/' | relative_url }}).
 
 <table class="usa-table">
 <caption>Route from Entrance into Voting Area</caption>

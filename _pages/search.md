@@ -4,6 +4,7 @@ title: Search
 sitemap: false
 sidenav: false
 compact: true
+description: Search result page featuring results from ADA.gov and Archive.ADA.gov.
 redirect_from:
   - /search.htm
 ---

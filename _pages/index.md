@@ -61,7 +61,7 @@ learn:
   lead: |-
     From <span class="crt-landing--goldtext">answers to common questions</span> to <span class="crt-landing--goldtext">official legal documents</span>, ADA.gov has everything you need to understand your rights and responsibilities under the ADA.
   sections:
-    - heading: Featured Topics
+    - heading: Topics
       content: |-
         These overviews are a basic starting point for understanding areas the ADA covers.
       icon: landing/featured_topics_gold.svg
@@ -109,7 +109,7 @@ service-animals:
   lead: |-
     Understand how the ADA defines a service animal and what your rights are under the law.
   sections:
-    - heading: Featured Topics
+    - heading: Topics
       icon: landing/featured_topics_grey_bg.png
       examples:
       - ex1:

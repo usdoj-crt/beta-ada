@@ -9,6 +9,7 @@ publish-date: 2010-09-15 00:00:00
 related-content: true
 print: true
 back-to-top: true
+interactive-headers: true
 redirect_from:
   - /regs2010/2010adastandards/guidance2010adastandards.htm
   - /regs2010/2010ADAStandards/Guidance2010ADAstandards.htm

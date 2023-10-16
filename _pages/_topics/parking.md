@@ -1,6 +1,6 @@
 ---
 title: Accessible Parking Spaces
-description: Accessible parking spaces are different than traditional parking spaces. They have specific features that make it easier for people with disabilities to access programs, goods, or services. The ADA requires businesses, non-profits, and state/local governments to provide accessible parking spaces.
+description: The ADA requires businesses, non-profits, and state/local governments to provide parking spaces accessible to people with disabilities.
 short_title: Parking Spaces
 lead: |-
   When state or local governments, businesses and non-profit organizations provide parking lots or garages, accessible parking spaces complying with the Americans with Disabilities Act (ADA) must be provided.
@@ -8,6 +8,7 @@ lead: |-
   Accessible parking spaces are different than traditional parking spaces. They have specific features that make it easier for people with disabilities to access your programs, goods or services.
 print: true
 featured: true
+topic-page-feature: true
 card:
   title: Parking
   description: |-

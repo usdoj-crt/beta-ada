@@ -1,6 +1,6 @@
 ---
 title: Guide to Disability Rights Laws
-description: "A guidance document that provides a brief overview of ten Federal laws that protect the rights of people with disabilities and provides information about the Federal agencies to contact for more information."
+description: "A brief overview of ten Federal laws that protect the rights of people with disabilities and the Federal agencies to contact for more information."
 permalink: /resources/disability-rights-guide/
 lead: |-
   This guide provides an overview of Federal civil rights laws that ensure equal opportunity for people with disabilities. To find out more about how these laws may apply to you, contact the agencies and organizations listed below.
@@ -57,7 +57,7 @@ Complaints of title II violations may be filed with the Department of Justice wi
 >Washington, D.C. 20530
 >{{site.contact.tollfree}} (voice)
 >{{site.contact.tty}} (TTY)
->[ADA.gov](https://www.ada.gov)
+>[ADA.gov]({{ '/' | relative_url }})
 
 Title II may also be enforced through private lawsuits in Federal court. It is not necessary to file a complaint with the Department of Justice (DOJ) or any other Federal agency, or to receive a "right-to-sue" letter, before going to court.
 
@@ -92,7 +92,7 @@ Complaints of title III violations may be filed with the Department of Justice. 
 >Washington, D.C. 20530
 >{{site.contact.tollfree}} (voice)
 >{{site.contact.tty}} (TTY)
->[ADA.gov](https://www.ada.gov)
+>[ADA.gov]({{ '/' | relative_url }})
 
 ### ADA Title IV: Telecommunications Relay Services
 
@@ -246,7 +246,7 @@ For information on how to file 504 complaints with the appropriate agency, conta
 >Washington, D.C. 20530
 >{{site.contact.tollfree}} (voice)
 >{{site.contact.tty}} (TTY)
->[ADA.gov](https://www.ada.gov)
+>[ADA.gov]({{ '/' | relative_url }})
 
 ### Section 508
 
@@ -284,7 +284,7 @@ The Architectural Barriers Act (ABA) requires that buildings and facilities that
 >[ADA Information Line]( {{'/infoline/' | relative_url}})
  >{{site.contact.tollfree}} (voice)
 >{{site.contact.tty}} (TTY)
->[ADA.gov](https://www.ada.gov)
+>[ADA.gov]({{ '/' | relative_url }})
 <br>
 >ADA National Network
 >(800) 949-4232 (voice/TTY)
@@ -357,7 +357,7 @@ The Architectural Barriers Act (ABA) requires that buildings and facilities that
 **Voting Accessibility for the Elderly and Handicapped Act of 1984**
 42 U.S.C. §§ 1973ee et seq.
 
-<hr>  
-The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
+<hr>
+The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.
 
 This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.

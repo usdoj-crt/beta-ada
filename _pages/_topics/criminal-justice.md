@@ -1,6 +1,4 @@
 ---
-publish-date: 2023-07-26 08:00:00
-news-item: true
 title: Criminal Justice
 description: The ADA requires state and local governments including their
   criminal justice agencies to comply with the ADA. If you are part of a
@@ -84,7 +82,7 @@ A fundamental alteration is something that would change the essential nature of 
 
 ## Architectural Access
 
-The ADA's regulation and the ADA Standards for Accessible Design explain the ADA’s requirements for providing architectural access to, and within, buildings. What standard applies depends on when the building was built or altered. The “[ADA Requirements: Effective Date and Compliance Date](https://archive.ada.gov/revised_effective_dates-2010.htm)” explains which standards apply.
+The ADA's regulation and the ADA Standards for Accessible Design explain the ADA’s requirements for providing architectural access to, and within, buildings. What standard applies depends on when the building was built or altered. The “[ADA Requirements: Effective Date and Compliance Date](https://www.ada.gov/revised_effective_dates-2010.htm)” explains which standards apply.
 
 ### Access to Programs and Services, and Activities in Existing Facilities
 

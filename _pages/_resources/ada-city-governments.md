@@ -37,7 +37,7 @@ City programs held in this municipal gazebo are covered by the ADA.
 
 For additional information about the Americans with Disabilities Act's Title II requirements, please contact the [Department of Justice ADA Information Line]({{'/infoline' | relative_url}}). This free service provides answers to general and technical questions about ADA requirements and free ADA documents, such as [Commonly Asked Questions about Title II of the Americans with Disabilities Act (ADA)]({{'/resources/title-ii-primer' | relative_url}}), [Commonly Asked Questions about the Americans with Disabilities Act and Law Enforcement]({{'/resources/law-enforcement-guide' | relative_url}}), [Access for 9-1-1 and Telephone Emergency Services](https://archive.ada.gov/911ta.htm), the [ADA Guide for Small Towns](https://archive.ada.gov/smtown.htm), and the [ADA Standards for Accessible Design]({{'/law-and-regs/design-standards/2010-stds' | relative_url}}). You may reach the ADA Information Line at 800-514-0301 (voice) or 833-610-1264 (TTY)
 
-ADA information is also available on the Department's ADA Home Page at [www.ADA.gov]({{'/index' | relative_url}})
+ADA information is also available on the Department's ADA Home Page at [www.ADA.gov]({{ '/' | relative_url }})
 
 ## Issue: "Grandfather" Clause or Small Entity Exemption
 
