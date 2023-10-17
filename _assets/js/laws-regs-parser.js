@@ -3,6 +3,10 @@ export default function parseLawsAndRegs (mainContent) {
     if (location.includes('SVGAnimatedString')) {
         history.back();
     }
+    if (location.includes('SVGAnimatedString')) {
+        setTimeout(() => parseLawsAndRegs(mainContent), 500);
+        return;
+    }
     if (!mainContent) return;
 
     const parent = mainContent.parentElement;
@@ -87,15 +91,52 @@ function buildBtns(i, divType) {
         btn.setAttribute('aria-label', btnType);
         btn.href = '#';
         if (btnType === 'Share') {
-            btn.innerHTML = '<span class="copied-link text-no-underline" style="display:none;">Copied link</span><svg title="Copy link" ' + gaEventName + ' class="usa-icon share-icon usa-tooltip" data-position="bottom" focusable="false" role="img"><title>Copy link</title><use xlink:href="/assets/img/sprite.svg#link"></use></svg>';
+            btn.innerHTML = `
+                <span class="copied-link text-no-underline" style="display:none;">Copied link</span>
+                <svg title="Copy link"
+                    ${gaEventName}
+                    class="usa-icon share-icon usa-tooltip"
+                    data-position="bottom"
+                    focusable="false"
+                    role="img">
+                    <title>Copy link</title>
+                    <use xlink:href="/assets/img/sprite.svg#link"></use>
+                </svg>
+            `;
             btn.addEventListener('click', (e) => { shareLink(e, divType) });
         } else if (btnType === 'Copy') {
-            btn.innerHTML = '<span class="copied text-no-underline" style="display:none;">Copied text</span><svg title="Copy text" ' + gaEventName + ' class="usa-icon copy-icon usa-tooltip" data-position="bottom" focusable="false" role="img"><title>Copy text</title><use xlink:href="/assets/img/sprite.svg#content_copy"></use></svg>';
+            btn.innerHTML = `
+                <span class="copied text-no-underline" style="display:none;">
+                    Copied text
+                </span>
+                <svg
+                    title="Copy text"
+                    ${gaEventName}
+                    class="usa-icon copy-icon usa-tooltip"
+                    data-position="bottom"
+                    focusable="false"
+                    role="img">
+                    <title>Copy text</title>
+                    <use xlink:href="/assets/img/sprite.svg#content_copy">
+                    </use>
+                </svg>
+            `;
             btn.addEventListener('click', (e) => { copyText(e, divType) });
             btn.addEventListener('mouseover', (e) => { highlightText(e, divType) });
             btn.addEventListener('mouseleave', (e) => { unHighlightText(e, divType) });
         } else if (btnType === 'Print') {
-            btn.innerHTML = '<svg title="Print" ' + gaEventName + ' class="usa-icon usa-tooltip" data-position="bottom" focusable="false" role="img"><title>Print</title><use xlink:href="/assets/img/sprite.svg#print"></use></svg>';
+            btn.innerHTML = `
+                <svg
+                    title="Print"
+                    ${gaEventName}
+                    class="usa-icon usa-tooltip"
+                    data-position="bottom"
+                    focusable="false" role="img">
+                    <title>Print</title>
+                    <use xlink:href="/assets/img/sprite.svg#print">
+                    </use>
+                </svg>
+            `;
             btn.addEventListener('click', (e) => { printText(e, divType) });
             btn.addEventListener('mouseover', (e) => { highlightText(e, divType) });
             btn.addEventListener('mouseleave', (e) => { unHighlightText(e, divType) });
