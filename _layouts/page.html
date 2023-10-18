@@ -23,6 +23,9 @@ layout: default
       {% include sidenav.html collection=page.subnav %}
       </div>
       {% endif %}
+      {% if page.page-helpful != false and page.permalink contains '/law-and-regs/' %}
+        {% include touchpoints-page-helpful.html sidenav=false in-sidenav=true %}
+      {% endif %}
     </div>
     {% endif %}
     <div

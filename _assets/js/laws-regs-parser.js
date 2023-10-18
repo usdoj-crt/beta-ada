@@ -1,4 +1,12 @@
 export default function parseLawsAndRegs (mainContent) {
+    const location = window.location.href;
+    if (location.includes('SVGAnimatedString')) {
+        history.back();
+    }
+    if (location.includes('SVGAnimatedString')) {
+        setTimeout(() => parseLawsAndRegs(mainContent), 500);
+        return;
+    }
     if (!mainContent) return;
 
     const parent = mainContent.parentElement;
@@ -84,13 +92,50 @@ function buildBtns(i, divType) {
         const gaEventName = 'data-ga-event-name="' + btnType + ' ' + divType + ' ' + i + '"';
         btn.setAttribute('aria-label', btnType);
         if (btnType === 'Share') {
-            btn.innerHTML = '<p class="copied-link text-no-underline margin-0" style="display:none;">Copied link</p><svg ' + gaEventName + ' class="usa-icon share-icon usa-tooltip" data-position="bottom" focusable="false" role="img"><title>copy link</title><use xlink:href="/assets/img/sprite.svg#link"></use></svg>';
+            btn.innerHTML = `
+                <p class="copied-link text-no-underline margin-0" style="display:none;">Copied link</p>
+                <svg title="Copy link"
+                    ${gaEventName}
+                    class="usa-icon share-icon usa-tooltip"
+                    data-position="bottom"
+                    focusable="false"
+                    role="img">
+                    <title>Copy link</title>
+                    <use xlink:href="/assets/img/sprite.svg#link"></use>
+                </svg>
+            `;
             btn.addEventListener('click', (e) => { shareLink(e, divType) });
         } else if (btnType === 'Copy') {
-            btn.innerHTML = '<p class="copied text-no-underline margin-0" style="display:none;">Copied text</p><svg ' + gaEventName + ' class="usa-icon copy-icon usa-tooltip" data-position="bottom" focusable="false" role="img"><title>copy text</title><use xlink:href="/assets/img/sprite.svg#content_copy"></use></svg>';
+            btn.innerHTML = `
+                <p class="copied text-no-underline margin-0" style="display:none;">
+                    Copied text
+                </p>
+                <svg
+                    title="Copy text"
+                    ${gaEventName}
+                    class="usa-icon copy-icon usa-tooltip"
+                    data-position="bottom"
+                    focusable="false"
+                    role="img">
+                    <title>Copy text</title>
+                    <use xlink:href="/assets/img/sprite.svg#content_copy">
+                    </use>
+                </svg>
+            `;
             addCopyEventListeners(btn, divType);
         } else if (btnType === 'Print') {
-            btn.innerHTML = '<svg title="print" ' + gaEventName + ' class="usa-icon usa-tooltip" data-position="bottom" focusable="false" role="img"><title>print</title><use xlink:href="/assets/img/sprite.svg#print"></use></svg>';
+            btn.innerHTML = `
+                <svg
+                    title="Print"
+                    ${gaEventName}
+                    class="usa-icon usa-tooltip"
+                    data-position="bottom"
+                    focusable="false" role="img">
+                    <title>Print</title>
+                    <use xlink:href="/assets/img/sprite.svg#print">
+                    </use>
+                </svg>
+            `;
             addPrintEventListeners(btn, divType);
         }
         btnDiv.appendChild(btn);
@@ -108,9 +153,22 @@ function unHighlightText(e, divType) {
     section.classList.remove('highlight');
 }
 
+function openAccordions(section) {
+    section.querySelectorAll('details').forEach(accordion => {
+        accordion.setAttribute('open', true);
+    });
+}
+
+function closeAccordions(section) {
+    section.querySelectorAll('details').forEach(accordion => {
+        accordion.removeAttribute('open');
+    });
+}
+
 function copyText(e, divType) {
     e.preventDefault();
     const section = e.target.closest(divType);
+    openAccordions(section);
     const selection = window.getSelection();
     const range = document.createRange();
     range.selectNodeContents(section);
@@ -119,6 +177,7 @@ function copyText(e, divType) {
     // using deprecated execCommand function to maintain formatting lost when using navigate
     document.execCommand('copy');
     window.getSelection().removeAllRanges();
+    closeAccordions(section);
     const copyText = section.getElementsByClassName('copied')[0];
     const copyIcon = section.getElementsByClassName('copy-icon')[0];
     copyText.style.display = 'block';
@@ -132,6 +191,7 @@ function copyText(e, divType) {
 function printText(e, divType) {
     e.preventDefault();
     const section = e.target.closest(divType);
+    openAccordions(section);
     const winPrint = window.open('', '', 'left=0,top=0,width=800,height=900,toolbar=0,scrollbars=0,status=0');
     winPrint.document.write(section.outerHTML);
     Array.from(winPrint.document.getElementsByClassName('btn-group')).forEach(btnGroup => btnGroup.style.display = 'none');

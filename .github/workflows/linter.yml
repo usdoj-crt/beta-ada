@@ -59,8 +59,6 @@ jobs:
       ################################
       - name: Lint Code Base
         uses: github/super-linter@v4.0.2
-        rules:
-          MD024: false
         env:
           DEFAULT_BRANCH: main
           FILTER_REGEX_INCLUDE: .*(\_assets|\_pages|\_site).*

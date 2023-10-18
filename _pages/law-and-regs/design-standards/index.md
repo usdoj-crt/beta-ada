@@ -1,6 +1,7 @@
 ---
 title:  ADA Standards for Accessible Design
 permalink: /law-and-regs/design-standards/
+description: The ADA Standards for Accessible Designs say what is required for a building or facility to be physically accessible to people with disabilities.
 lead: |-
   The ADA Standards for Accessible Design—along with the [Title II](../title-ii-2010-regulations/) and [Title III](../title-iii-regulations/) regulations—say what is required for a building or facility to be physically accessible to people with disabilities.
 lang: "en"

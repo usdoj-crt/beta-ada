@@ -153,6 +153,7 @@ report:
     Think you or someone you know has experienced a disability rights violation?
   link:
     text: File a complaint
+sidenav: false
 redirect_from:
   - /contact_drs.htm
   - /adahom1.htm
