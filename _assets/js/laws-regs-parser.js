@@ -157,13 +157,13 @@ function unHighlightText(e, divType) {
 }
 
 function openAccordions(section) {
-    Array.from(section.getElementsByTagName('details')).forEach(accordion => {
+    section.querySelectorAll('details').forEach(accordion => {
         accordion.setAttribute('open', true);
     });
 }
 
 function closeAccordions(section) {
-    Array.from(section.getElementsByTagName('details')).forEach(accordion => {
+    section.querySelectorAll('details').forEach(accordion => {
         accordion.removeAttribute('open');
     });
 }
