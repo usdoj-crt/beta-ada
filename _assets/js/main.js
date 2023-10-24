@@ -72,7 +72,7 @@ function expandPanel(hash) {
 // USWDS generates tooltips with duplicate ids. This finds and re-ids them.
 window.addEventListener("DOMContentLoaded", function() {
   const ids = new Set();
-  document.querySelectorAll("usa-tooltip__body").forEach(tooltip => {
+  document.querySelectorAll(".usa-tooltip__body").forEach(tooltip => {
     let conflicted = false;
     const describedby = `[aria-describedby="${tooltip.id}"]`;
     while (ids.has(tooltip.id)) {
