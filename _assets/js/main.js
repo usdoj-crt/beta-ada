@@ -67,3 +67,24 @@ function expandPanel(hash) {
     button.click();
   }
 }
+
+// Hacky fix for https://github.com/uswds/uswds/issues/4338
+// USWDS generates tooltips with duplicate ids. This finds and re-ids them.
+window.addEventListener("DOMContentLoaded", function() {
+  const ids = new Set();
+  document.querySelectorAll(".usa-tooltip__body").forEach(tooltip => {
+    let conflicted = false;
+    const describedby = `[aria-describedby="${tooltip.id}"]`;
+    while (ids.has(tooltip.id)) {
+      conflicted = true;
+      tooltip.id += "a";
+    }
+    ids.add(tooltip.id);
+
+    if (!conflicted) return;
+
+    document.querySelectorAll(describedby).forEach(el => {
+      el.setAttribute("aria-describedby", tooltip.id);
+    });
+  });
+});
