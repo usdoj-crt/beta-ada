@@ -32,7 +32,7 @@ layout: null
         }
       });
 
-      const FEATURE_FLAGS = ['laws-and-regs'];
+      const FEATURE_FLAGS = [];
 
       const contentContainer = document.querySelector('#nc-root');
 
@@ -46,7 +46,7 @@ layout: null
         mutations.forEach(function(mutation) {
           const header = Array.from(contentContainer.childNodes).filter((node) => node.localName === 'header');
           const featureFlagMenu = document.getElementById('featureFlag');
-          if (header.length) {
+          if (header.length && FEATURE_FLAGS.length) {
             featureFlagMenu.style.display = 'block';
           } else {
             featureFlagMenu.style.display = 'none';

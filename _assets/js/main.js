@@ -22,15 +22,9 @@ mobileCarousel();
 setCookies();
 tryToSetPageAnswer();
 
-const lawsAndRegsFlag = document.cookie
-  .split("; ")
-  .find((row) => row.startsWith("laws-and-regs="))
-  ?.split("=")[1];
 
-if (lawsAndRegsFlag === 'true') {
-  const mainEl = document.querySelector('.interactive-headers');
-  parseLawsAndRegs(mainEl);
-}
+const mainEl = document.querySelector('.interactive-headers');
+parseLawsAndRegs(mainEl);
 
 initGAEvents();
 

@@ -11,7 +11,7 @@ function makeHTMLFromBodyContent(bodyContent, variables, imageData) {
     || '';
   const contentParts = content.split('{');
   contentParts.forEach(contentPart => {
-    if (contentPart.includes('% details')) {
+    if (contentPart.includes('% details') || contentPart.includes('% asset') ) {
       const newText = contentPart.replaceAll("'", '$');
       content = content.replace(contentPart, newText);
     }

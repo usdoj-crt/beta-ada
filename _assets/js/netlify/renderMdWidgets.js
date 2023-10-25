@@ -75,7 +75,8 @@ function buildEngine(globals, imageData) {
             const imagePathArr = imagePathRaw.split('/');
             const imageTitle = imagePathArr[imagePathArr.length - 1];
             const imagePath = getImagePath(imageTitle, imageData);
-            return `<img src="${imagePath}">`;
+            emitter.write(`<img src="${imagePath}">`);
+            break;
           case 'collapsible':
             const accordionID = context._accordionID;
             let idx = context._collapsedIDX;

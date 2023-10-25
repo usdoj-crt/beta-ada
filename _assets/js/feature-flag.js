@@ -11,14 +11,7 @@ function setPublicPercentVariant(name, publicPercentOn) {
   return Math.random() < publicPercentOn;
 }
 
-const FEATURE_FLAGS = [
-    {
-      name: 'laws-and-regs',
-      released: true,
-      publicPercentOn: 0,
-      optedIn: false,
-    }
-];
+const FEATURE_FLAGS = [];
 
 export default function setCookies() {
     FEATURE_FLAGS.forEach((flag) => {
