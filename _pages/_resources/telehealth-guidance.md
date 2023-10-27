@@ -1,18 +1,14 @@
 ---
-title: "Guidance on Nondiscrimination in Telehealth: Federal Protections to Ensure Accessibility to People with Disabilities and Limited English Proficient Persons"
+title: Guidance on Nondiscrimination in Telehealth - Federal Protections to Ensure Accessibility to People with Disabilities and Limited English Proficient Persons
 description: "This guidance explains how various federal laws require making telehealth accessible to people with disabilities and limited English proficient persons."
 permalink: /resources/telehealth-guidance/
-redirect_from:
-  - /telehealth_guidance.pdf/
-lead: |-
-
 lang: "en"
 news-item: false
 publish-date: 2022-05-12 00:00:00
 print: true
 sidenav-pdf:
-  title: "Guidance on Nondiscrimination in Telehealth: Federal Protections to Ensure Accessibility to People with Disabilities and Limited English Proficient Persons"
-  filename: telehealth-guidance.pdf
+  title: Guidance on Nondiscrimination in Telehealth - Federal Protections to Ensure Accessibility to People with Disabilities and Limited English Proficient Persons
+  filename: telehealth_guidance.pdf
   text: Download PDF Guidance
 tags:
   - health care
