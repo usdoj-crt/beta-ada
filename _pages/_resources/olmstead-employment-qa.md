@@ -1,5 +1,5 @@
 ---
-title: Questions and Answers on the Application of the ADA’s Integration Mandate and <em>Olmstead v. L.C.</em> to Employment and Day Services for People with Disabilities
+title: Questions and Answers on the Application of the ADA's Integration Mandate and <em>Olmstead v. L.C.</em> to Employment and Day Services for People with Disabilities
 description: "This document discusses and explains the requirements of the ADA's integration mandate and the Supreme Court's decision in <em>Olmstead v. L.C. ex rel. Zimring</em>, 527 U.S. 581 (1999), as applied to segregated employment settings and facility-based day programs."
 permalink: /resources/olmstead-employment-qa/
 lead: |-
@@ -9,7 +9,7 @@ publish-date: 2023-10-30 00:00:00
 related-content: true
 news-item: true
 sidenav-pdf:
-  title: Questions and Answers on the Application of the ADA’s Integration Mandate and <em>Olmstead v. L.C.</em> to Employment and Day Services for People with Disabilities
+  title: Questions and Answers on the Application of the ADA's Integration Mandate and <em>Olmstead v. L.C.</em> to Employment and Day Services for People with Disabilities
   filename: olmstead-employment-guidance.pdf
   text: Download PDF Guidance
 print: true
@@ -352,7 +352,7 @@ Act (July 26, 1990), [https://perma.cc/VNU4-HR7P](https://perma.cc/VNU4-HR7P).
 {% fnbody 2 %}
 42 U.S.C. § 12101(a)(7).
 {% endfnbody %}
-{% fnbody 3 %} 
+{% fnbody 3 %}
 *Id*. § 12101(b)(1).
 {% endfnbody %}
 {% fnbody 4 %}
