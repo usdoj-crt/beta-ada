@@ -14,7 +14,7 @@ sidenav-pdf:
   text: Download PDF Guidance
 print: true
 tags:
-  - community integration
+  - olmstead
   - employment
 ---
 The work of individuals with disabilities in segregated settings is often highly
