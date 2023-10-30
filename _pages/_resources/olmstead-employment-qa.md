@@ -1,15 +1,16 @@
 ---
 title: Questions and Answers on the Application of the ADA’s Integration Mandate and <em>Olmstead v. L.C.</em> to Employment and Day Services for People with Disabilities
-description: "This technical assistance guide "
+description: "This document discusses and explains the requirements of the ADA's integration mandate and the Supreme Court's decision in <em>Olmstead v. L.C. ex rel. Zimring</em>, 527 U.S. 581 (1999), as applied to segregated employment settings and facility-based day programs."
 permalink: /resources/olmstead-employment-qa/
 lead: |-
   Nationally, a significant number of individuals with disabilities spend the majority of their daytime hours receiving public services in sheltered workshops and facility-based day programs. These settings segregate individuals from the community and provide little or no opportunity to interact with people without disabilities, other than paid staff.
 lang: "en"
 publish-date: 2023-10-30 00:00:00
 related-content: true
+news-item: true
 sidenav-pdf:
   title: Questions and Answers on the Application of the ADA’s Integration Mandate and <em>Olmstead v. L.C.</em> to Employment and Day Services for People with Disabilities
-  filename: olmstead-employment-qa.pdf
+  filename: olmstead-employment-guidance.pdf
   text: Download PDF Guidance
 print: true
 tags:
@@ -336,7 +337,7 @@ that the requested modification would fundamentally alter its service system.
 ## Additional Resources
 
 For more information about the ADA, you may call the Department’s toll-free ADA
-information line at 800-514-0301 or 800-514-0383 (TDD), or access its ADA website at
+information line at 800-514-0301 or 833-610-1264 (TTY), or access its ADA website at
 https://www.ada.gov/. For more information about the Department’s enforcement of the
 integration mandate of Title II of the ADA, please visit Community Integration | ADA.gov.
 Information regarding disability employment-related policies and practices can be
