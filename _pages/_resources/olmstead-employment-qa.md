@@ -10,7 +10,7 @@ related-content: true
 news-item: true
 sidenav-pdf:
   title: Questions and Answers on the Application of the ADA's Integration Mandate and <em>Olmstead v. L.C.</em> to Employment and Day Services for People with Disabilities
-  filename: olmstead-employment-guidance.pdf
+  filename: olmstead-employment-qa.pdf
   text: Download PDF Guidance
 print: true
 tags:
@@ -338,11 +338,11 @@ that the requested modification would fundamentally alter its service system.
 
 For more information about the ADA, you may call the Department’s toll-free ADA
 information line at 800-514-0301 or 833-610-1264 (TTY), or access its ADA website at
-https://www.ada.gov/. For more information about the Department’s enforcement of the
-integration mandate of Title II of the ADA, please visit Community Integration | ADA.gov.
+[https://www.ada.gov]({{ '/' | relative_url }}). For more information about the Department’s enforcement of the
+integration mandate of Title II of the ADA, please visit [Community Integration]({{ '/topics/community-integration/' | relative_url }}).
 Information regarding disability employment-related policies and practices can be
-found at: www.dol.gov/odep/; https://acl.gov/programs/youth-transitions/employment;
-and aoddisabilityemploymenttacenter.com.
+found at: [https://www.dol.gov/odep/](https://www.dol.gov/odep/); [https://acl.gov/programs/youth-transitions/employment](https://acl.gov/programs/youth-transitions/employment);
+and [https;//www.aoddisabilityemploymenttacenter.com](https://www.aoddisabilityemploymenttacenter.com).
 
 {% footnotes %}
 {% fnbody 1 %}
@@ -410,7 +410,7 @@ and Local Government Services, 28 C.F.R. pt. 35, app. B; cf. *Olmstead*, 527 U.S
 {% fnbody 17 %}
 *See* U.S. Dep’t of Educ., Off. Of Special Educ. And Rehab. Servs., et al., <u>A Framework
 for Community Engagement A Pathway to Competitive Integrated Employment</u> (Aug. 3,
-2022), https://perma.cc/BZ6K-QRG7.
+2022), [https://perma.cc/BZ6K-QRG7](https://perma.cc/BZ6K-QRG7).
 {% endfnbody %}
 {% fnbody 18 %}
 Providing compensation and benefits to people with disabilities in an employment setting
