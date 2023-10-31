@@ -150,7 +150,8 @@ may include helping you find a place to live or help paying rent.
 
 ## Learn more about the ADA and Community Integration:
 
-The following document provides more detailed information about the ADA and community
+The following documents provide more detailed information about the ADA and community
 integration:
 - [Statement of the Department of Justice on Enforcement of the Integration Mandate of
 Title II of the Americans with Disabilities Act and *Olmstead v. L.C.*](https://archive.ada.gov/olmstead/q&a_olmstead.htm)
+- [Questions and Answers on the Application of the ADA's Integration Mandate and <em>Olmstead v. L.C.</em> to Employment and Day Services for People with Disabilities]({{ '/resources/olmstead-employment-qa/' | relative_url }})
