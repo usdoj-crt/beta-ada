@@ -5,7 +5,7 @@ permalink: /resources/olmstead-employment-qa/
 lead: |-
   Nationally, a significant number of individuals with disabilities spend the majority of their daytime hours receiving public services in sheltered workshops and facility-based day programs. These settings segregate individuals from the community and provide little or no opportunity to interact with people without disabilities, other than paid staff.
 lang: "en"
-publish-date: 2023-10-30 00:00:00
+publish-date: 2023-10-31 00:00:00
 related-content: true
 news-item: true
 sidenav-pdf:
