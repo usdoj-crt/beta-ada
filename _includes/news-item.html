@@ -14,7 +14,7 @@
         <a class="usa-link" href="{{ news-item.permalink | relative_url }}"
           >{{ news-item.title | truncatewords: 15 }}</a>
       </h3>
-      <p class="usa-collection__description">{{ news-item.description | truncatewords:25 }}</p>
+      <p class="usa-collection__description">{{ news-item.description | truncatewords:60 }}</p>
       {% if news-item.meta.tags.length>0 %}
       <ul class="usa-collection__meta" aria-label="Topics">
         {% for tag in news-item.meta.tags %}
