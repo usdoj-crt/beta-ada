@@ -497,7 +497,7 @@ do not desire it.”).
 *Steimel v. Wernert*, 823 F.3d 902, 911–13 (7th Cir. 2016); *Davis v. Shah*, 821 F.3d 231,
 263 (2d Cir. 2016); *Pashby v. Delia*, 709 F.3d 307, 321–22 (4th Cir. 2013); *M.R. v.
 Dreyfus*, 663 F.3d 1100, 1116–18 (9th Cir. 2011), amended by 697 F.3d 706 (9th Cir.
-2012); *Fisher v. Okla. Health Care Auth.*, 335 F.3d 1175, 1181–82 (10th Cir. 2003).
+2012); *Fisher v. Okla. Health Care Auth.*, 335 F.3d 1175, 1181–82 (10th Cir. 2003). *But see United States v. Mississippi,* 82 F.4th 387, 392–93 (5th Cir. 2023)
 {% endfnbody %}
 {% fnbody 30 %}
 42 U.S.C. § 12201(d) (“Nothing in this chapter shall be construed to require an individual
