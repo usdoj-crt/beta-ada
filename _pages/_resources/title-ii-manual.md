@@ -1,19 +1,19 @@
 ---
 title: ADA Title II Technical Assistance Manual
-description: "This document explains what businesses and non-profit agencies must do to ensure access to their goods, services, and facilities."
+description: This document explains what businesses and non-profit agencies must
+  do to ensure access to their goods, services, and facilities.
+lead: ""
 permalink: /resources/title-ii-manual/
-lead: |-
-  
-lang: "en"
-publish-date: 2015-07-20 00:00:00
-updated-date: 1993-11-01 00:00:00
-related-content: true
-subnavigation: true
-print: true
-tags:
-  - title ii
 redirect_from:
   - /taman2.html
+lang: en
+print: true
+publish-date: 2015-07-20 00:00:00
+updated-date: 1993-11-01 00:00:00
+subnavigation: true
+related-content: true
+tags:
+  - title ii
 ---
 ## II-1.0000 COVERAGE
 
@@ -44,7 +44,7 @@ In some cases it is difficult to determine whether a particular entity that is p
 3. Whether the entity receives significant assistance from the government by provision of property or equipment; and
 4. Whether the entity is governed by an independent board selected by members of a private organization or a board elected by the voters or appointed by elected officials.
 
-### II-1.3000 Relationship to title III. 
+### II-1.3000 Relationship to title III.
 
 Public entities are not subject to title III of the ADA, which covers only private entities. Conversely, private entities are not subject to title II. In many situations, however, public entities have a close relationship to private entities that are covered by title III, with the result that certain activities may be at least indirectly affected by both titles.
 
@@ -58,7 +58,7 @@ ILLUSTRATION 4: A private, nonprofit corporation operates a number of group home
 
 ### II-1.4000 Relationship to other laws
 
-#### II-1.4100 
+#### II-1.4100
 
 Rehabilitation Act. Title II provides protections to individuals with disabilities that are at least equal to those provided by the nondiscrimination provisions of title V of the Rehabilitation Act. Title V includes such provisions as section 501, which prohibits discrimination on the basis of disability in Federal employment; section 503, which addresses the employment practices of Federal contractors; and section 504, which covers all programs receiving Federal financial assistance and all the operations of Federal Executive agencies. Title II may not be interpreted to provide a lesser degree of protection to individuals with disabilities than is provided under these laws.
 
@@ -70,7 +70,7 @@ Other Federal and State laws. Title II does not disturb other Federal laws or an
 
 *Regulatory references:* 28 CFR 35.104.
 
-### II-2.1000 General. 
+### II-2.1000 General.
 
 Title II of the ADA prohibits discrimination against any "qualified individual with a disability." Whether a particular individual is protected by title II requires a careful analysis first, of whether an individual is an "individual with a disability," and then whether that individual is "qualified."
 
@@ -79,9 +79,7 @@ People commonly refer to disabilities or disabling conditions in a broad sense. 
 Title II protects three categories of individuals with disabilities:
 
 1. Individuals who have a physical or mental impairment that substantially limits one or more major life activities;
-
 2. Individuals who have a record of a physical or mental impairment that substantially limited one or more of the individual's major life activities; and
-
 3. Individuals who are regarded as having such an impairment, whether they have the impairment or not.
 
 ### II-2.2000 Physical or mental impairments.
@@ -89,9 +87,7 @@ Title II protects three categories of individuals with disabilities:
 The first category of persons covered by the definition of an individual with a disability is restricted to those with "physical or mental impairments." Physical impairments include --
 
 1. Physiological disorders or conditions;
-
 2. Cosmetic disfigurement; or
-
 3. Anatomical loss
 
 affecting one or more of the following body systems: neurological; musculoskeletal; special sense organs (which would include speech organs that are not respiratory such as vocal cords, soft palate, tongue, etc.); respiratory, including speech organs; cardiovascular; reproductive; digestive; genitourinary; hemic and lymphatic; skin; and endocrine.
@@ -143,7 +139,6 @@ ILLUSTRATION: During a house fire, M received burns affecting his hands and arms
 The ADA protects not only those individuals with disabilities who actually have a physical or mental impairment that substantially limits a major life activity, but also those with a record of such an impairment. This protected group includes --
 
 1. A person who has a history of an impairment that substantially limited a major life activity but who has recovered from the impairment. Examples of individuals who have a history of an impairment are persons who have histories of mental or emotional illness, drug addiction, alcoholism, heart disease, or cancer.
-
 2. Persons who have been misclassified as having an impairment. Examples include persons who have been erroneously diagnosed as mentally retarded or mentally ill.
 
 ### II-2.6000 "Regarded as."
@@ -171,9 +166,7 @@ The following conditions are specifically excluded from the definition of "disab
 In order to be an individual protected by title II, the individual must be a "qualified" individual with a disability. To be qualified, the individual with a disability must meet the essential eligibility requirements for receipt of services or participation in a public entity's programs, activities, or services with or without --
 
 1. Reasonable modifications to a public entity's rules, policies, or practices;
-
 2. Removal of architectural, communication, or transportation barriers; or
-
 3. Provision of auxiliary aids and services.
 
 The "essential eligibility requirements" for participation in many activities of public entities may be minimal. For example, most public entities provide information about their programs, activities, and services upon request. In such situations, the only "eligibility requirement" for receipt of such information would be the request for it. However, under other circumstances, the "essential eligibility requirements" imposed by a public entity may be quite stringent.
@@ -191,9 +184,7 @@ ILLUSTRATION: Public schools generally operate programs and activities that are 
 *How does one determine whether a direct threat exists?* The determination must be based on an individualized assessment that relies on current medical evidence, or on the best available objective evidence, to assess --
 
 1. The nature, duration, and severity of the risk;
-
 2. The probability that the potential injury will actually occur; and,
-
 3. Whether reasonable modifications of policies, practices, or procedures will mitigate or eliminate the risk.
 
 Making this assessment will not usually require the services of a physician. Medical guidance may be obtained from public health authorities, such as the U.S. Public Health Service, the Centers for Disease Control, and the National Institutes of Health, including the National Institute of Mental Health.
@@ -243,9 +234,7 @@ Specific requirements for physical access to programs and communications are dis
 A primary goal of the ADA is the equal participation of individuals with disabilities in the "mainstream" of American society. The major principles of mainstreaming are --
 
 1. Individuals with disabilities must be integrated to the maximum extent appropriate.
-
 2. Separate programs are permitted where necessary to ensure equal opportunity. A separate program must be appropriate to the particular individual.
-
 3. Individuals with disabilities cannot be excluded from the regular program, or required to accept special services or benefits.
 
 #### II-3.4100 Separate programs.
@@ -370,7 +359,7 @@ A State or local government may not discriminate against individuals or entities
 
 ILLUSTRATION 1: A county recreation center may not refuse admission to a summer camp program to a child whose brother has HIV disease.
 
-ILLUSTRATION 2: A local government could not refuse to allow a theater company to use a school auditorium on the grounds that the company ha srecently performed at an HIV hospice.
+ILLUSTRATION 2: A local government could not refuse to allow a theater company to use a school auditorium on the grounds that the company has recently performed at an HIV hospice.
 
 ILLUSTRATION 3: If a county-owned sports arena refuses to admit G, an individual with cerebral palsy, as well as H (his sister) because G has cerebral palsy, the arena would be illegally discriminating against H on the basis of her association with G.
 
@@ -408,12 +397,11 @@ A public entity may prohibit smoking, or may impose restrictions on smoking, in 
 
 Beginning January 26, 1992, title II prohibits all public entities, regardless of size of workforce, from discriminating in their employment practices against qualified individuals with disabilities.
 
-### II-4.2000 Relationship among title II and other Federal laws that prohibit employment discrimination by public entities on the basis of disability. 
+### II-4.2000 Relationship among title II and other Federal laws that prohibit employment discrimination by public entities on the basis of disability.
 
 In addition to title II's employment coverage, title I of the ADA and section 504 of the Rehabilitation Act of 1973 prohibit employment discrimination against qualified individuals with disabilities by certain public entities. Title I of the ADA, which is primarily enforced by the Equal Employment Opportunity Commission (EEOC), prohibits job discrimination --
 
 1. Effective July 26, 1992, by State and local employers with 25 or more employees; and
-
 2. Effective July 26, 1994, by State and local employers with 15 or more employees. Section 504 of the Rehabilitation Act prohibits discrimination in employment in programs or activities that receive Federal financial assistance, including federally funded State or local programs or activities. Each Federal agency that extends financial assistance is responsible for enforcement of section 504 in the programs it funds.
 
 *What standards are used to determine compliance under title II?* For those public entities that are subject to title I of the ADA, title II adopts the standards of title I. In all other cases, the section 504 standards for employment apply. On October 29, 1992, legislation reauthorizing the Rehabilitation Act of 1973 was signed by the President. The law amended section 504 to conform its provisions barring employment discrimination to those applied under title I of the ADA. Thus, employment standards under section 504 are now identical to those under title I.
@@ -433,13 +421,9 @@ All public entities must make "reasonable accommodation" to the known physical o
 "Reasonable accommodation" means any change or adjustment to a job or work environment that permits a qualified applicant or employee with a disability to participate in the job application process, to perform the essential functions of a job, or to enjoy benefits and privileges of employment equal to those enjoyed by employees without disabilities. Examples include --
 
 1. Acquiring or modifying equipment or devices;
-
 2. Job restructuring;
-
 3. Part-time or modified work schedules;
-
 4. Providing readers or interpreters;
-
 5. Making the workplace accessible to and usable by individuals with disabilities.
 
 However, any particular change or adjustment would not be required if, under the circumstances involved, it would result in an undue hardship.
@@ -457,7 +441,6 @@ During the hiring process, public entities may ask about an applicant's ability 
 Public entities may not conduct preemployment medical examinations, but they may condition a job offer on the results of a medical examination conducted prior to an individual's entrance on duty if --
 
 1. All entering employees in the same job category, regardless of disability, are required to take the same medical examination, and
-
 2. The results of the medical examination are not used to impermissibly discriminate on the basis of disability.
 
 The results of a medical entrance examination must be kept confidential and maintained in separate medical files.
@@ -622,21 +605,16 @@ UFAS: No requirements for valet parking.
 
 ADAAG:
 
-- Signs designating permanent rooms and spaces (men's and women's rooms; room numbers; exit signs) must have raised and Brailled letters; must comply with finish and contrast standards; and must be mounted at a certain height and location (§4.1.3(16)(a)).
-
-- Signs that provide direction to or information about functional spaces of a building (e.g. "cafeteria this way;" "copy room") need not comply with requirements for raised and Brailled letters, but they must comply with requirements for character proportion, finish, and contrast. If suspended or projected overhead, they must also comply with character height requirements (§4.1.3(16)(b)).
-
-- Building directories and other signs providing temporary information (such as current occupant's name) do not have to comply with any ADAAG requirements (§4.1.3(16)).
-
-- Has requirements not only for the standard international symbol of accessibility, but also for symbols of accessibility identifying volume control telephones, text telephones, and assistive listening systems (§§4.1.2(7); 4.30.7).
+* Signs designating permanent rooms and spaces (men's and women's rooms; room numbers; exit signs) must have raised and Brailled letters; must comply with finish and contrast standards; and must be mounted at a certain height and location (§4.1.3(16)(a)).
+* Signs that provide direction to or information about functional spaces of a building (e.g. "cafeteria this way;" "copy room") need not comply with requirements for raised and Brailled letters, but they must comply with requirements for character proportion, finish, and contrast. If suspended or projected overhead, they must also comply with character height requirements (§4.1.3(16)(b)).
+* Building directories and other signs providing temporary information (such as current occupant's name) do not have to comply with any ADAAG requirements (§4.1.3(16)).
+* Has requirements not only for the standard international symbol of accessibility, but also for symbols of accessibility identifying volume control telephones, text telephones, and assistive listening systems (§§4.1.2(7); 4.30.7).
 
 UFAS:
 
-- Signs designating permanent rooms and spaces must be raised (Braille is not required) and must be mounted at a certain height and location (§4.1.2(15)).
-
-- All other signs (including temporary signs) must comply with requirements for letter proportion and color contrast, but not with requirements for raised letters or mounting height (§4.1.2(15)).
-
-- Requires only the standard international symbol of accessibility (§4.30.5).
+* Signs designating permanent rooms and spaces must be raised (Braille is not required) and must be mounted at a certain height and location (§4.1.2(15)).
+* All other signs (including temporary signs) must comply with requirements for letter proportion and color contrast, but not with requirements for raised letters or mounting height (§4.1.2(15)).
+* Requires only the standard international symbol of accessibility (§4.30.5).
 
 4. *Entrances*
 
@@ -678,15 +656,13 @@ UFAS: No requirement for TDD's.
 
 ADAAG:
 
-- Wheelchair seating: Requirements triggered in any assembly area with fixed seating that seats four or more people. The number of wheelchair locations required depends upon the size of the assembly area. When the area has over 300 seats, there are requirements for dispersal of wheelchair seating. ADAAG also contains requirements for aisle seats without armrests (or with removable armrests) and fixed seating for companions located adjacent to each wheelchair seating area (§4.1.3(19)(a)).
-
-- Assistive listening systems: Certain fixed seating assembly areas that accommodate 50 or more people or have audio-amplification systems must have permanently installed assistive listening systems. Other assembly areas must have permanent systems or an adequate number of electrical outlets or other wiring to support a portable system. A special sign indicating the availability of the system is required. The minimum number of receivers must be equal to four percent of the total number of seats, but never less than two (§4.1.3(19)(b)).
+* Wheelchair seating: Requirements triggered in any assembly area with fixed seating that seats four or more people. The number of wheelchair locations required depends upon the size of the assembly area. When the area has over 300 seats, there are requirements for dispersal of wheelchair seating. ADAAG also contains requirements for aisle seats without armrests (or with removable armrests) and fixed seating for companions located adjacent to each wheelchair seating area (§4.1.3(19)(a)).
+* Assistive listening systems: Certain fixed seating assembly areas that accommodate 50 or more people or have audio-amplification systems must have permanently installed assistive listening systems. Other assembly areas must have permanent systems or an adequate number of electrical outlets or other wiring to support a portable system. A special sign indicating the availability of the system is required. The minimum number of receivers must be equal to four percent of the total number of seats, but never less than two (§4.1.3(19)(b)).
 
 UFAS:
 
-- Wheelchair seating: No requirements for wheelchair seating are triggered, unless the assembly area has 50 or more seats. Seating must be dispersed and provide comparable lines of sight (§4.1.2(18)(a)).
-
-- Assistive listening systems: Assembly areas with audio-amplification systems must have a listening system that serves a reasonable number of people, but at least two. If it has no amplification system or is used primarily as meeting or conference room, it must have a permanent or portable system. No special signs are required (§4.1.2(18)(b)).
+* Wheelchair seating: No requirements for wheelchair seating are triggered, unless the assembly area has 50 or more seats. Seating must be dispersed and provide comparable lines of sight (§4.1.2(18)(a)).
+* Assistive listening systems: Assembly areas with audio-amplification systems must have a listening system that serves a reasonable number of people, but at least two. If it has no amplification system or is used primarily as meeting or conference room, it must have a permanent or portable system. No special signs are required (§4.1.2(18)(b)).
 
 11. *Automated teller machines (ATM's)*
 
@@ -748,9 +724,8 @@ UFAS: Contains requirements for buildings eligible for listing in the National R
 
 ADAAG:
 
-- <u>Hotels, motels, dormitories, and other similar establishments:</u> Four percent of the first 100 rooms and approximately two percent of rooms in excess of 100 must be accessible to both persons with hearing impairments (i.e., contain visual alarms, visual notification devices, volume-control telephones, and an accessible electrical outlet for a text telephone) and to persons with mobility impairments. Moreover, a similar percentage of additional rooms must be accessible to persons with hearing impairments. In addition, where there are more than 50 rooms, approximately one percent of rooms must be accessible rooms with a special roll-in/transfer shower. There are special provisions for alterations (§§9.1-9.4).
-
-- <u>Homeless shelters, halfway houses, and similar social service establishments:</u> Homeless shelters and other social service entities must provide the same percentage of accessible sleeping accommodations as above. At least one type of amenity in each common area must be accessible. Alterations are subject to less stringent standards (§9.5).
+* <u>Hotels, motels, dormitories, and other similar establishments:</u> Four percent of the first 100 rooms and approximately two percent of rooms in excess of 100 must be accessible to both persons with hearing impairments (i.e., contain visual alarms, visual notification devices, volume-control telephones, and an accessible electrical outlet for a text telephone) and to persons with mobility impairments. Moreover, a similar percentage of additional rooms must be accessible to persons with hearing impairments. In addition, where there are more than 50 rooms, approximately one percent of rooms must be accessible rooms with a special roll-in/transfer shower. There are special provisions for alterations (§§9.1-9.4).
+* <u>Homeless shelters, halfway houses, and similar social service establishments:</u> Homeless shelters and other social service entities must provide the same percentage of accessible sleeping accommodations as above. At least one type of amenity in each common area must be accessible. Alterations are subject to less stringent standards (§9.5).
 
 UFAS: Contains requirements for residential occupancies with technical requirements for "dwelling units." No requirements for sleeping rooms for individuals with hearing impairments. No requirements for roll-in showers as in ADAAG. No standards for alterations (§§4.1.4(11); 4.34).
 
@@ -770,13 +745,12 @@ ADAAG:
 
 <u>Counters:</u>
 
-- At least one of each type of sales or service counter where a cash register is located must be accessible. Accessible counters must be dispersed throughout the facility. Auxiliary counters are permissible in alterations (§7.2(1)).
-
-- At counters without cash registers, such as bank teller windows and ticketing counters, three alternatives are possible: (1) a portion of the counter may be lowered, (2) an auxiliary counter may be provided, or (3) equivalent facilitation may be provided by installing a folding shelf on the front of a counter to provide a work surface for a person using a wheelchair (§7.2(2)).
+* At least one of each type of sales or service counter where a cash register is located must be accessible. Accessible counters must be dispersed throughout the facility. Auxiliary counters are permissible in alterations (§7.2(1)).
+* At counters without cash registers, such as bank teller windows and ticketing counters, three alternatives are possible: (1) a portion of the counter may be lowered, (2) an auxiliary counter may be provided, or (3) equivalent facilitation may be provided by installing a folding shelf on the front of a counter to provide a work surface for a person using a wheelchair (§7.2(2)).
 
 <u>Check-out aisles:</u>
 
-- At least one of each design of check-out aisle must be accessible, and, in many cases, additional check-out aisles are required to be accessible (i.e., from 20 to 40 percent) depending on the number of check-out aisles and the size of the facility. There are less stringent standards for alterations (§7.3).
+* At least one of each design of check-out aisle must be accessible, and, in many cases, additional check-out aisles are required to be accessible (i.e., from 20 to 40 percent) depending on the number of check-out aisles and the size of the facility. There are less stringent standards for alterations (§7.3).
 
 UFAS:
 
@@ -801,13 +775,9 @@ Alterations to historic properties must comply with the specific provisions gove
 *What are the alternative requirements?* The alternative requirements for historic buildings or facilities provide a minimal level of access. For example --
 
 1. An accessible route is only required from one site access point (such as the parking lot).
-
 2. A ramp may be steeper than is ordinarily permitted.
-
 3. The accessible entrance does not need to be the one used by the general public.
-
 4. Only one accessible toilet is required and it may be unisex.
-
 5. Accessible routes are only required on the level of the accessible entrance.
 
 *But what if complying with even these minimal alternative requirements will threaten or destroy the historic significance?* In such a case, which is rare, the public entity need not make the structural changes required by UFAS or ADAAG. But, if structural modifications that comply with UFAS or ADAAG cannot be undertaken, the Department's regulation requires that "program accessibility" be provided.
@@ -911,11 +881,8 @@ Public entities are encouraged, but not required, to provide voice amplification
 Title II requires that public entities take several steps designed to achieve compliance. These include the preparation of a self-evaluation. In addition, public entities with 50 or more employees are required to --
 
 1. Develop a grievance procedure;
-
 2. Designate an individual to oversee title II compliance;
-
 3. Develop a transition plan if structural changes are necessary for achieving program accessibility; and
-
 4. Retain the self-evaluation for three years.
 
 *How does a public entity determine whether it has "50 or more employees"?* Determining the number of employees will be based on a governmentwide total of employees, rather than by counting the number of employees of a subunit, department, or division of the local government. Part-time employees are included in the determination.
@@ -937,7 +904,6 @@ All public entities subject to title II of the ADA must complete a self-evaluati
 *What should a self-evaluation contain?* A self-evaluation is a public entity's assessment of its current policies and practices. The self-evaluation identifies and corrects those policies and practices that are inconsistent with title II's requirements. As part of the self-evaluation, a public entity should:
 
 1. Identify all of the public entity's programs, activities, and services; and
-
 2. Review all the policies and practices that govern the administration of the public entity's programs, activities, and services.
 
 Normally, a public entity's policies and practices are reflected in its laws, ordinances, regulations, administrative manuals or guides, policy directives, and memoranda. Other practices, however, may not be recorded and may be based on local custom.
@@ -945,29 +911,17 @@ Normally, a public entity's policies and practices are reflected in its laws, or
 Once a public entity has identified its policies and practices, it should analyze whether these policies and practices adversely affect the full participation of individuals with disabilities in its programs, activities, and services. In this regard, a public entity should be mindful that although its policies and practices may appear harmless, they may result in denying individuals with disabilities the full participation of its programs, activities, or services. Areas that need careful examination include the following:
 
 1. A public entity must examine each program to determine whether any physical barriers to access exist. It should identify steps that need to be taken to enable these programs to be made accessible when viewed in their entirety. If structural changes are necessary, they should be included in the transition plan (see II-8.3000).
-
 2. A public entity must review its policies and practices to determine whether any exclude or limit the participation of individuals with disabilities in its programs, activities, or services. Such policies or practices must be modified, unless they are necessary for the operation or provision of the program, service, or activity. The self- evaluation should identify policy modifications to be implemented and include complete justifications for any exclusionary or limiting policies or practices that will not be modified.
-
 3. A public entity should review its policies to ensure that it communicates with applicants, participants, and members of the public with disabilities in a manner that is as effective as its communications with others. If a public entity communicates with applicants and beneficiaries by telephone, it should ensure that TDD's or equally effective telecommunication systems are used to communicate with individuals with impaired hearing or speech. Finally, if a public entity provides telephone emergency services, it should review its policies to ensure direct access to individuals who use TDD's and computer modems.
-
 4. A public entity should review its policies to ensure that they include provisions for readers for individuals with visual impairments; interpreters or other alternative communication measures, as appropriate, for individuals with hearing impairments; and amanuenses for individuals with manual impairments. A method for securing these services should be developed, including guidance on when and where these services will be provided. Where equipment is used as part of a public entity's program, activity, or service, an assessment should be made to ensure that the equipment is usable by individuals with disabilities, particularly individuals with hearing, visual, and manual impairments. In addition, a public entity should have policies that ensure that its equipment is maintained in operable working order.
-
 5. A review should be made of the procedures to evacuate individuals with disabilities during an emergency. This may require the installation of visual and audible warning signals and special procedures for assisting individuals with disabilities from a facility during an emergency.
-
 6. A review should be conducted of a public entity's written and audio-visual materials to ensure that individuals with disabilities are not portrayed in an offensive or demeaning manner.
-
 7. If a public entity operates historic preservation programs, it should review its policies to ensure that it gives priority to methods that provide physical access to individuals with disabilities.
-
 8. A public entity should review its policies to ensure that its decisions concerning a fundamental alteration in the nature of a program, activity, or service, or a decision that an undue financial and administrative burden will be imposed by title II, are made properly and expeditiously.
-
 9. A public entity should review its policies and procedures to ensure that individuals with mobility impairments are provided access to public meetings.
-
 10. A public entity should review its employment practices to ensure that they comply with other applicable nondiscrimination requirements, including section 504 of the Rehabilitation Act and the ADA regulation issued by the Equal Employment Opportunity Commission.
-
 11. A public entity should review its building and construction policies to ensure that the construction of each new facility or part of a facility, or the alteration of existing facilities after January 26, 1992, conforms to the standards designated under the title II regulation.
-
 12. A review should be made to ascertain whether measures have been taken to ensure that employees of a public entity are familiar with the policies and practices for the full participation of individuals with disabilities. If appropriate, training should be provided to employees.
-
 13. If a public entity limits or denies participation in its programs, activities, or services based on drug usage, it should make sure that such policies do not discriminate against former drug users, as opposed to individuals who are currently engaged in illegal use of drugs.
 
 *If a public entity identifies policies and practices that deny or limit the participation of individuals with disabilities in its programs, activities, and services, when should it make changes?* Once a public entity has identified policies and practices that deny or limit the participation of individuals with disabilities in its programs, activities, and services, it should take immediate remedial action to eliminate the impediments to full and equivalent participation. Structural modifications that are required for program accessibility should be made as expeditiously as possible but no later than January 26, 1995.
@@ -985,11 +939,8 @@ Must the transition plan be made available to the public? If a public entity has
 *What are the elements of an acceptable transition plan?* A transition plan should contain at a minimum --
 
 1. A list of the physical barriers in a public entity's facilities that limit the accessibility of its programs, activities, or services to individuals with disabilities;
-
 2. A detailed outline of the methods to be utilized to remove these barriers and make the facilities accessible;
-
 3. The schedule for taking the necessary steps to achieve compliance with title II. If the time period for achieving compliance is longer than one year, the plan should identify the interim steps that will be taken during each year of the transition period; and,
-
 4. The name of the official responsible for the plan's implementation.
 
 ### II-8.4000 Notice to the public.
@@ -1013,7 +964,6 @@ In addition, the public entity must adopt and publish grievance procedures provi
 Individuals wishing to file title II complaints may either file --
 
 1. An administrative complaint with an appropriate Federal agency; or
-
 2. A lawsuit in Federal district court.
 
 If an individual files an administrative complaint, an appropriate Federal agency will investigate the allegations of discrimination. Should the agency conclude that the public entity violated title II, it will attempt to negotiate a settlement with the public entity to remedy the violations. If settlement efforts fail, the matter will be referred to the Department of Justice for a decision whether to institute litigation.
@@ -1035,9 +985,7 @@ A person or a specific class of individuals or their representative may file a c
 *Where should a complaint be filed?* A complaint may be filed with either --
 
 1. Any Federal agency that provides funding to the public entity that is the subject of the complaint;
-
 2. A Federal agency designated in the title II regulation to investigate title II complaints; or
-
 3. The Department of Justice.
 
 Complainants may file with a Federal funding agency that has section 504 jurisdiction, if known. If no Federal funding agency is known, then complainants should file with the appropriate designated agency. In any event, complaints may always be filed with the Department of Justice, which will refer the complaint to the appropriate agency. The Department's regulation designates eight Federal agencies to investigate title II complaints primarily in those cases where there is no Federal agency with section 504 jurisdiction.
@@ -1045,9 +993,7 @@ Complainants may file with a Federal funding agency that has section 504 jurisdi
 *How will employment complaints be handled?* Individuals who believe that they have been discriminated against in employment by a State or local government in violation of title II may file a complaint --
 
 1. With a Federal agency that provides financial assistance, if any, to the State or local program in which the alleged discrimination took place; or
-
 2. With the EEOC, if the State or local government is also subject to title I of the ADA (see II-4.0000); or
-
 3. With the Federal agency designated in the title II regulation to investigate complaints in the type of program in which the alleged discrimination took place.
 
 As is the case with complaints related to nonemployment issues, employment complaints may be filed with the Department of Justice, which will refer the complaint to the appropriate agency.
@@ -1055,19 +1001,12 @@ As is the case with complaints related to nonemployment issues, employment compl
 *Which are the designated Federal agencies and what are their areas of responsibility?* The eight designated Federal agencies, the functional areas covered by these agencies, and the addresses for filing a complaint are the --
 
 1. Department of Agriculture: All programs, services, and regulatory activities relating to farming and the raising of livestock, including extension services. Complaints should be sent to: Complaints Adjudication Division, Office of Advocacy and Enterprise, Room 1353 - South Building, Department of Agriculture, 14th & Independence Avenue, S.W., Washington, D.C. 20250.
-
 2. Department of Education: All programs, services, and regulatory activities relating to the operation of elementary and secondary education systems and institutions, institutions of higher education and vocational education (other than schools of medicine, dentistry, nursing, and other health-related schools), and libraries. Complaints should be sent to: Office for Civil Rights, Department of Education, 330 C Street, S.W., Suite 5000, Washington, D.C. 20202.
-
 3. Department of Health and Human Services: All programs, services, and regulatory activities relating to the provision of health care and social services, including schools of medicine, dentistry, nursing, and other health-related schools, the operation of health care and social service providers and institutions, including "grass-roots" and community services organizations and programs, and preschool and day care programs. Complaints should be sent to: Office for Civil Rights, Department of Health & Human Services, 330 Independence Avenue, S.W., Washington, D.C. 20201.
-
 4. Department of Housing and Urban Development: All programs, services, and regulatory activities relating to State and local public housing, and housing assistance and referral. Complaints should be sent to: Assistant Secretary for Fair Housing and Equal Opportunity, Department of Housing and Urban Development, 451 7th Street, S.W., Room 5100, Washington, D.C. 20410.
-
 5. Department of the Interior: All programs, services, and regulatory activities relating to lands and natural resources, including parks and recreation, water and waste management, environmental protection, energy, historic and cultural preservation, and museums. Complaints should be sent to: Office for Equal Opportunity, Office of the Secretary, Department of the Interior, 18th & C Streets, N.W., Washington, D.C. 20547.
-
 6. Department of Justice: All programs, services, and regulatory activities relating to law enforcement, public safety, and the administration of justice, including courts and correctional institutions; commerce and industry, including general economic development, banking and finance, consumer protection, insurance, and small business; planning, development, and regulation (unless assigned to other designated agencies); State and local government support services (e.g., audit, personnel, comptroller, administrative services); all other government functions not assigned to other designated agencies. Complaints should be sent to: Coordination and Review Section, P.O. Box 66118, Civil Rights Division, U.S. Department of Justice, Washington, D.C. 20035-6118.
-
 7. Department of Labor: All programs, services, and regulatory activities relating to labor and the work force. Complaints should be sent to: Directorate of Civil Rights, Department of Labor, 200 Constitution Avenue, N.W., Room N-4123, Washington, D.C. 20210.
-
 8. Department of Transportation: All programs, services, and regulatory activities relating to transportation, including highways, public transportation, traffic management (non-law enforcement), automobile licensing and inspection, and driver licensing. Complaints should be sent to: Office for Civil Rights, Office of the Secretary, Department of Transportation, 400 Seventh Street, S.W., Room 10215, Washington, D.C. 20590.
 
 *Where should a complaint be filed if more than one designated agency has responsibility for a complaint because it concerns more than one department or agency of a public entity?* Complaints involving more than one area should be filed with the Department of Justice. If two or more agencies have apparent responsibility for a complaint, the Assistant Attorney General for Civil Rights of the Department of Justice shall determine which one of the agencies shall be the designated agency for purposes of that complaint. Complaints involving more than one area of a public entity should be sent to: Coordination and Review Section, Civil Rights Division, U.S. Department of Justice, P.O. Box 66118, Washington, D.C. 20035-6118.
