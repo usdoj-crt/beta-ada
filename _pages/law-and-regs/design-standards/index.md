@@ -43,7 +43,7 @@ There are two versions of the ADA Standards:
 <div class="standards-and-guidance">
 <div class="document">
 <a href="{{'/law-and-regs/design-standards/2010-stds' | relative_url}}">
-{% asset 2010-design-standards.jpg alt="'2010 Standards Cover Photo'"%}
+<img src="{{/assets/2010-design-standards.jpg | relative_url}}" alt="'2010 Standards Cover Photo'"/>
 2010 ADA Standards for Accessible Design
 </a>
 {% include download.html text="Download PDF for 2010 ADA Design Standards" filename="2010-design-standards.pdf" %} (4.2MB, 279 Pages)
@@ -51,7 +51,7 @@ There are two versions of the ADA Standards:
 
 <div class="document">
 <a href="{{'/law-and-regs/design-standards/standards-guidance' | relative_url}}">
-{% asset guidance-2010-standards.jpg alt="'2010 Guidance Cover Photo'"%}
+<img src="{{/assets/guidance-2010-standards.jpg | relative_url}}" alt="'2010 Guidance Cover Photo'"/>
 Guidance on the 2010 ADA Standards for Accessible Design
 </a>
 {% include download.html text="Download PDF for Guidance on the 2010 ADA Design Standards" filename="guidance-2010-standards.pdf" %} (3.1MB, 166 Pages)
@@ -61,7 +61,7 @@ Guidance on the 2010 ADA Standards for Accessible Design
 <div class="standards-and-guidance">
 <div class="document">
 <a href="{{'/law-and-regs/design-standards/1991-design-standards' | relative_url}}">
-{% asset 1991-design-standards.jpg alt="'1991 Standards Cover Photo'"%}
+<img src="{{/assets/1991-design-standards.jpg | relative_url}}" alt="'1991 Standards Cover Photo'"/>
 1991 ADA Standards for Accessible Design
 </a>
 {% include download.html text="Download PDF for 1991 ADA Design Standards" filename="1991-design-standards.pdf" %} (5.1MB, 92 Pages)

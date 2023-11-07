@@ -6,7 +6,7 @@
     <div class="grid-container usa-footer__logo-section">
       <div class="usa-footer__logo grid-row grid-gap-1">
         <div class="grid-col-auto">
-          {% asset doj-logo.png alt="{{ site.data[lang]['i18n'].banner.doj_seal }}" %}
+          <img src="{{/assets/doj-logo.png | relative_url}}" alt="{{ site.data[lang]['i18n'].banner.doj_seal }}" />
         </div>
         <div class="grid-col-auto">
           <div class="display-flex flex-align-center">
@@ -53,7 +53,7 @@
           <div id="contact-crt" class="usa-footer__contact">
             <div class="usa-footer__section">
               <div class="usa-footer__icon">
-                {% asset mail.svg class="icon" alt="{{site.data[lang]['i18n'].aria.mail}}" %}
+                <img src="{{/assets/mail.svg | relative_url}}" class="icon" alt="{{site.data[lang]['i18n'].aria.mail}}" />
               </div>
               <div id="address-footer" class="usa-footer__links">
                 <p>U.S. Department of Justice</p>
@@ -66,7 +66,7 @@
 
             <div class="usa-footer__section">
               <div class="usa-footer__icon">
-                {% asset phone.svg class="icon" alt="{{site.data[lang]['i18n'].aria.phone}}" %}
+                <img src="{{/assets/phone.svg | relative_url}}" class="icon" alt="{{site.data[lang]['i18n'].aria.phone}}" />
               </div>
               <div id="phone-footer" class="usa-footer__links">
                 <p>
