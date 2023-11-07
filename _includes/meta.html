@@ -2,7 +2,7 @@
 endif %} {% assign pages=site.pages | where:"ref", page.ref | sort: lang %}
 
 <head>
-  <link rel="icon" href="{% asset 'favicon.png' @path %}" />
+  <link rel="icon" href="{{ /assets/favicon.png | relative_url }}" />
   <!-- Basic Page Needs
     ================================================== -->
   <meta charset="utf-8" />
