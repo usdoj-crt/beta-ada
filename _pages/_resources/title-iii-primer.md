@@ -367,7 +367,7 @@ Temporary access interruptions for maintenance, repair, or operational activitie
 The obligation to remove barriers also applies to merchandise shelves, sales and service counters, and check-out aisles. Shelves and counters must be on an accessible route with enough space to allow customers using mobility devices to access merchandise. However, shelves may be of any height since they are not subject to the ADA's reach range requirements. Where barriers prevent access to these areas, they must be removed if readily achievable. However, businesses are not required to take any steps that would result in a significant loss of selling space. At least one check-out aisle must be usable by people with mobility disabilities, though more are required in larger stores. When it is not readily achievable to make a sales or service counter accessible, businesses should provide a folding shelf or a nearby accessible counter. If these changes are not readily achievable, businesses may provide a clip board or lap board until more permanent changes can be made.
 
 <figure id="checking-out">
-{% asset project-images/money-counter.jpg alt="A woman using a wheelchair is buying a drink at a small grocery store.  Adequate maneuvering space and a low, uncluttered counter make it possible for her to approach the sales counter." height="300" width="250" %}
+<img src="/assets/project-images/money-counter.jpg | relative_url" alt="A woman using a wheelchair is buying a drink at a small grocery store.  Adequate maneuvering space and a low, uncluttered counter make it possible for her to approach the sales counter." height="300" width="250" />
 <figcaption>
 **A lowered counter and clear floor space are critical components of an accessible service counter.**
 </figcaption>
