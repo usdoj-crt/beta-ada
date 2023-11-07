@@ -9,7 +9,11 @@ endif %} {% assign pages=site.pages | where:"ref", page.ref | sort: lang %}
   {% assign pageType = 'law-and-regs' %}
 {% endif %}
 <head>
+<<<<<<< HEAD
   <link rel="icon" href="{{ '/assets/images/favicon.png' | relative_url }}" />
+=======
+  <link rel="icon" href="{{ /assets/favicon.png | relative_url }}" />
+>>>>>>> 1348c8d (Move all @path assets to relative_url (as part of removing jekyll-assets))
   <!-- Basic Page Needs
     ================================================== -->
   <meta charset="utf-8" />

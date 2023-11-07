@@ -7,7 +7,11 @@ layout: null
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<<<<<<< HEAD
     <link rel="icon" href="{{ '/assets/images/favicon.png' | relative_url }}" />
+=======
+    <link rel="icon" href="{{ /assets/favicon.png | relative_url }}" />
+>>>>>>> 1348c8d (Move all @path assets to relative_url (as part of removing jekyll-assets))
     <title>ADA Content Manager</title>
   </head>
   <body>
@@ -22,7 +26,11 @@ layout: null
     ></script>
     <script src="{{ '/assets/js/dist/netlifyPreview-compiled.js' | relative_url }}"></script>
     <script>
+<<<<<<< HEAD
       CMS.registerPreviewStyle("{{ '/assets/css/styles.css' | relative_url }}");
+=======
+      CMS.registerPreviewStyle('{{ /assets/styles.css | relative_url }}');
+>>>>>>> 1348c8d (Move all @path assets to relative_url (as part of removing jekyll-assets))
       // Fix bug where Netlify adds a backslash to the markdown before internal links
       CMS.registerEventListener({
         name: "preSave",
