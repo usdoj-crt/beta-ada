@@ -20,13 +20,13 @@
 {% endif %}
 {% endif %}
 
-{% asset vendor/uswds/uswds.min.js !type %}
-{% asset dist/main-compiled.js !type %}
-{% asset dist/accordion-compiled.js !type %}
+<script src="{{/assets/vendor/uswds/uswds.min.js | relative_url}}"></script>
+<script src="{{/assets/dist/main-compiled.js | relative_url}}"></script>
+<script src="{{/assets/dist/accordion-compiled.js | relative_url}}"></script>
 
 {% if page.title == 'Search' %}
-{% asset dist/pagination-compiled.js !type %}
-{% asset dist/clickTracking-compiled.js %}
+<script src="{{/assets/dist/pagination-compiled.js | relative_url}}"></script>
+<script src="{{/assets/dist/clickTracking-compiled.js | relative_url}}"></script>
 {% endif %}
 
 {% if page.title == 'Give Us Feedback' %}
@@ -37,13 +37,13 @@
 <script src="https://touchpoints.app.cloud.gov/touchpoints/a09c8a7c.js" async></script>
 
 {% if page.title == 'Guidance & Resource Materials'%}
-{% asset dist/taResources-compiled.js %}
+<script src="{{/assets/dist/taResources-compiled.js | relative_url}}"></script>
 {% endif %}
 
 {% if page.title == 'Page not found' %}
-{% asset dist/redirect404-compiled.js %}
+<script src="{{/assets/dist/redirect404-compiled.js | relative_url}}"></script>
 {% endif %}
 
 {% unless page.back-to-top == nil or page.back-to-top == false %}
-{% asset dist/backToTop-compiled.js %}
+<script src="{{/assets/dist/backToTop-compiled.js | relative_url}}"></script>
 {% endunless %}

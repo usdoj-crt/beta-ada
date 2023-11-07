@@ -20,7 +20,7 @@ layout: null
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     ></script>
-    {% asset dist/netlifyPreview-compiled.js %}
+    <script src="{{/assets/dist/netlifyPreview-compiled.js | relative_url}}"></script>
     <script>
       CMS.registerPreviewStyle('{{ /assets/styles.css | relative_url }}');
       // Fix bug where Netlify adds a backslash to the markdown before internal links

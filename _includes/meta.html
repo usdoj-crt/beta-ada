@@ -21,5 +21,7 @@ endif %} {% assign pages=site.pages | where:"ref", page.ref | sort: lang %}
   {% endif%} {% endfor %}
   <!-- CSS
     ================================================== -->
-  {% asset styles.css %} {% asset vendor/uswds/uswds-init.min.js !type %}
+
+  <link rel="stylesheet" type="text/css" href="{{/assets/styles.css | relative_url}}"/>
+  <script src="{{/assets/vendor/uswds/uswds-init.min.js | relative_url}}"></script>
 </head>
