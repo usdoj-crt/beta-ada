@@ -2,7 +2,7 @@
 {% if lang==nil %}{% assign lang="en" %}{% endif %}
 <a href="/assets/_pdfs/{{include.filename}}" download class="crt-page--downloadpdf-link">
     <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use xlink:href="{{ /assets/img/sprite.svg | relative_url }}#file_download"></use>
+        <use xlink:href="{{ '/assets/img/sprite.svg' | relative_url }}#file_download"></use>
     </svg>
     {{ include.text }}
 </a>

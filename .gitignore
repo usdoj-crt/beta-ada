@@ -7,6 +7,6 @@ node_modules
 .DS_Store
 playwright-report/
 test-results/
-_assets/js/dist/*
-_assets/css
+assets/js/dist/*
+assets/css
 /scripts/out

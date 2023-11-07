@@ -5,10 +5,10 @@ module.exports = {
   mode: process.env.NODE_ENV || 'production',
   devtool: 'source-map',
   entry: {
-    styles: '/_assets/sass/styles.scss',
+    styles: '/assets/sass/styles.scss',
   },
   output: {
-    path: path.resolve(__dirname, './_assets/', 'css'),
+    path: path.resolve(__dirname, './assets/', 'css'),
     filename: 'styles.js',
   },
   module: {

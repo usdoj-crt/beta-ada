@@ -17,7 +17,7 @@ const tagNames = [
 function getImagePath(imageTitle, imageData) {
   const imageListPaths = imageData['imageList']
     .filter(image => image['path'] != null && image['path'].includes(imageTitle))
-    .map(image => "https://raw.githubusercontent.com/usdoj-crt/beta-ada/main/_assets/images/" + image['path']);
+    .map(image => "https://raw.githubusercontent.com/usdoj-crt/beta-ada/main/assets/images/" + image['path']);
   return imageListPaths.length > 0
     ? imageListPaths[0]
     : imageData['newImagePath'] + imageTitle;

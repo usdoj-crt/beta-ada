@@ -144,7 +144,7 @@ govdelivery:
   link_text: Sign Up
 
 # Search.gov configuration
-# NOTE: The configuration is also set in the Javascript code: /_assets/js/utils/constants.js
+# NOTE: The configuration is also set in the Javascript code: /assets/js/utils/constants.js
 # 1. Create an account with Search.gov https://search.usa.gov/signup
 # 2. Add a new site.
 # 3. Add your site/affiliate name here.
@@ -240,8 +240,8 @@ assets:
     - source: node_modules/@uswds/uswds/dist/img/sprite.svg
       strip: node_modules/@uswds/uswds/dist/
     - source: _pdfs/*
-    - source: _assets/images/*
-      strip: _assets/
+    - source: assets/images/*
+      strip: assets/
     - source: _includes/**/*
   sources:
     - node_modules/anchor-js

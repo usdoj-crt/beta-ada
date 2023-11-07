@@ -14,10 +14,10 @@ export default async function genImageData() {
 
     const newImagePath = await getNewImagePath(ref);
 
-    const assetContentResponse = await octokit.request('GET /repos/usdoj-crt/beta-ada/contents/_assets/', {
+    const assetContentResponse = await octokit.request('GET /repos/usdoj-crt/beta-ada/contents/assets/', {
         owner: 'usdoj-crt',
         repo: 'beta-ada',
-        path: '_assets/',
+        path: 'assets/',
         headers: {
         'X-GitHub-Api-Version': '2022-11-28'
         }
@@ -61,7 +61,7 @@ async function getNewImagePath(ref) {
 
     const prNumber = PR.data[0].number;
 
-    if (!prNumber) return rawAssetURL + commitSha.data + '/_assets/images/';
+    if (!prNumber) return rawAssetURL + commitSha.data + '/assets/images/';
 
     const prFiles = await octokit.request('GET /repos/usdoj-crt/beta-ada/pulls/' + prNumber + '/files', {
         owner: 'usdoj-crt',
@@ -71,11 +71,11 @@ async function getNewImagePath(ref) {
           'X-GitHub-Api-Version': '2022-11-28'
         }
       });
-    const fileNames = prFiles.data.filter(prFile => assetFileTypes.indexOf(prFile.filename.split('.')[1]) !== -1).map(prFile => { 
+    const fileNames = prFiles.data.filter(prFile => assetFileTypes.indexOf(prFile.filename.split('.')[1]) !== -1).map(prFile => {
         const prFileArr = prFile.filename.split('/');
         prFileArr.pop();
         return '/' + prFileArr.join('/') + '/';
     });
-    if (!fileNames.length) return rawAssetURL + commitSha.data + '/_assets/images/';
+    if (!fileNames.length) return rawAssetURL + commitSha.data + '/assets/images/';
     return rawAssetURL + commitSha.data + fileNames[0]
 }

@@ -61,7 +61,7 @@ jobs:
         uses: github/super-linter@v4.0.2
         env:
           DEFAULT_BRANCH: main
-          FILTER_REGEX_INCLUDE: .*(\_assets|\_pages|\_site).*
+          FILTER_REGEX_INCLUDE: .*(\assets|\_pages|\_site).*
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LINTER_RULES_PATH: /
           VALIDATE_CSS: true

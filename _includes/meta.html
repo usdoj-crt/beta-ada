@@ -2,7 +2,7 @@
 endif %} {% assign pages=site.pages | where:"ref", page.ref | sort: lang %}
 
 <head>
-  <link rel="icon" href="{{ /assets/favicon.png | relative_url }}" />
+  <link rel="icon" href="{{ '/assets/favicon.png' | relative_url }}" />
   <!-- Basic Page Needs
     ================================================== -->
   <meta charset="utf-8" />
@@ -22,6 +22,6 @@ endif %} {% assign pages=site.pages | where:"ref", page.ref | sort: lang %}
   <!-- CSS
     ================================================== -->
 
-  <link rel="stylesheet" type="text/css" href="{{/assets/styles.css | relative_url}}"/>
-  <script src="{{/assets/vendor/uswds/uswds-init.min.js | relative_url}}"></script>
+  <link rel="stylesheet" type="text/css" href="{{ '/assets/styles.css' | relative_url }}"/>
+  <script src="{{ '/assets/vendor/uswds/uswds-init.min.js' | relative_url }}"></script>
 </head>
