@@ -1,6 +1,6 @@
 ---
 title: "Questions and Answers on the Application of the ADA's Integration Mandate and <em>Olmstead v. L.C.</em> to Employment and Day Services for People with Disabilities"
-description: "This document discusses and explains the requirements of the ADA's integration mandate and the Supreme Court's decision in <em>Olmstead v. L.C. ex rel. Zimring</em>, 527 U.S. 581 (1999), as applied to segregated employment settings and facility-based day programs."
+description: "This document discusses and explains the requirements of the ADA's integration mandate and the Supreme Court's decision in <em>Olmstead v. L.C. ex rel. Zimring</em>, 527 U.S. 581 (1999), as applied to segregated employment settings and facility-based day programs. In addition, this document provides a link to the Department's Federal Register notice, which provides more information about this guidance."
 permalink: /resources/olmstead-employment-qa/
 lead: |-
   Nationally, a significant number of individuals with disabilities spend the majority of their daytime hours receiving public services in sheltered workshops and facility-based day programs. These settings segregate individuals from the community and provide little or no opportunity to interact with people without disabilities, other than paid staff.
