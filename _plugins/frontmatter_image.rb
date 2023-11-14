@@ -9,24 +9,16 @@ module Jekyll
     end
 
     def self.run_with(document)
-      site = document.site
       hash = document["image"]
 
-      update_frontmatter(site.sprockets, hash)
+      update_frontmatter(hash)
     end
 
-    def self.update_frontmatter(sprockets, hash)
+    def self.update_frontmatter(hash)
       return unless hash.is_a? Hash
       return if hash["asset"].nil?
 
-      hash["path"] ||= digest_path(sprockets, hash["asset"])
-    end
-
-    def self.digest_path(sprockets, name)
-      asset = sprockets.find_asset!(name)
-      sprockets.manifest.compile(asset.logical_path)
-
-      sprockets.prefix_url(asset.digest_path)
+      hash["path"] ||= '/assets/images/' + hash["asset"]
     end
   end
 end
