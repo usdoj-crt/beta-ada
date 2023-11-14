@@ -103,7 +103,7 @@
 
 #touchpoints-yes-no-form {
   background-color: white;
-  border: 1px solid #dfe1e2;
+  border: 1px solid #adadad;
   padding: 0;
 
   .submit-button {
@@ -119,11 +119,11 @@
   }
 
   .fba-modal-title {
-    border-bottom: 1px solid #dfe1e2;
+    border-bottom: 1px solid #adadad;
     color: #2e2e2a;
     font-family: inherit;
     font-size: 16px;
-    font-weight: normal;
+    font-weight: bold;
     margin-bottom: 0;
     margin-top: 0;
     padding: 1rem;
@@ -141,6 +141,10 @@
     }
   }
 
+  .usa-legend {
+    display: none;
+  }
+
   .grid-container {
     &.touchpoints-sidenav {
       padding-left: 0;
@@ -151,7 +155,6 @@
   .question-options {
     display: flex;
     gap: 10px;
-    padding-top: 1em;
 
     .usa-radio__input--tile + [class*='__label'] {
       background-color: transparent;
@@ -189,6 +192,7 @@
   }
 
   .usa-banner {
+    border-radius: 0.25rem;
     padding: 0 1rem;
   }
 
