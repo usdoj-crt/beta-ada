@@ -1,5 +1,10 @@
 const path = require('path');
+const CopyPlugin = require('copy-webpack-plugin');
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
+
+function relativePath(target) {
+  return path.resolve(__dirname, target);
+}
 
 module.exports = {
   mode: process.env.NODE_ENV || 'production',
@@ -14,7 +19,7 @@ module.exports = {
   module: {
     rules: [
       {
-        test: /\.(scss|svg|png|jpe?g)$/,
+        test: /\.scss$/,
         use: [
           MiniCssExtractPlugin.loader,
           {
@@ -39,5 +44,7 @@ module.exports = {
       },
     ],
   },
-  plugins: [new MiniCssExtractPlugin({filename: '[name].css'})],
+  plugins: [
+    new MiniCssExtractPlugin({filename: '[name].css'}),
+  ],
 };

@@ -8,7 +8,7 @@ export default function nextButton() {
             <span class="usa-pagination__link-text"> Next Page </span>
 
             <svg class="usa-icon" aria-hidden="true" role="img">
-              <use xlink:href="/assets/img/sprite.svg#navigate_next"></use>
+              <use xlink:href="/assets/images/uswds/sprite.svg#navigate_next"></use>
             </svg>
           </a>
           </li>`;

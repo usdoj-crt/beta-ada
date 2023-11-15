@@ -145,7 +145,7 @@ function buildEngine(globals, imageData) {
               `<li class='usa-icon-list__item'>
                    <div class='usa-icon-list__icon'>
                      <div class='usa-icon' aria-hidden='true'
-                         style="background-image:url('${window.location.origin}/assets/img/usa-icons/${listItemIconType}.svg')"
+                         style="background-image:url('${window.location.origin}/assets/images/uswds/usa-icons/${listItemIconType}.svg')"
                          >
                      </div>
                    </div>
