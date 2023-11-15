@@ -7,7 +7,7 @@ layout: null
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="icon" href="{{ '/assets/favicon.png' | relative_url }}" />
+    <link rel="icon" href="{{ '/assets/images/favicon.png' | relative_url }}" />
     <title>ADA Content Manager</title>
   </head>
   <body>
@@ -20,9 +20,9 @@ layout: null
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     ></script>
-    <script src="{{ '/assets/dist/netlifyPreview-compiled.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/dist/netlifyPreview-compiled.js' | relative_url }}"></script>
     <script>
-      CMS.registerPreviewStyle('{{ '/assets/styles.css' | relative_url }}');
+      CMS.registerPreviewStyle('{{ '/assets/css/styles.css' | relative_url }}');
       // Fix bug where Netlify adds a backslash to the markdown before internal links
       CMS.registerEventListener({
         name: "preSave",

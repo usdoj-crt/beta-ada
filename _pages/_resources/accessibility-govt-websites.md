@@ -32,7 +32,7 @@ These government websites are important because they:
 - expand the possibilities of reaching new sectors of the community or offering new programs.
 
 {% figure Homepage example %}
-<img src="{{ '/assets/project-images/fullertonhome.jpg' | relative_url }}" alt="image of a homepage of a local government website" />
+<img src="{{ '/assets/images/project-images/fullertonhome.jpg' | relative_url }}" alt="image of a homepage of a local government website" />
 {% figcaption %}
 Local government websites provide important information and services to citizens
 {% endfigcaption %}
@@ -88,7 +88,7 @@ including which pages should be given high priority for change. Let citizens kno
 information to increase accessibility.
 
 {% figure Examples of Accessible Features for Websites %}
-<img src="{{ '/assets/project-images/forall-web-image.jpg' | relative_url }}" alt="demonstration webpage image with notes for accessible features" />
+<img src="{{ '/assets/images/project-images/forall-web-image.jpg' | relative_url }}" alt="demonstration webpage image with notes for accessible features" />
 {% figcaption %}
 Notes:<br>
 

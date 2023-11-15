@@ -4140,14 +4140,14 @@ Additional floor plans of
 **Comparison of Single-User Toilet Room Layouts**
 
 {% figure 1991 Standards %}
-<img src="{{ '/assets/project-images/plan1a.jpg' | relative_url }}" alt="2010 standard minimum with out-swinging door" />
+<img src="{{ '/assets/images/project-images/plan1a.jpg' | relative_url }}" alt="2010 standard minimum with out-swinging door" />
 {% figcaption %}
 <strong>Plan-1A: 1991 Standards Minimum with Out-Swinging Door - 5’-0” x 7’-3” 36.25 Square Feet:</strong>  This plan shows a typical example of a single-user toilet room that meets the minimum requirements of the 1991 Standards. The size of this space is determined by the minimum width required for the water closet and lavatory between the side walls, the minimum wheelchair turning space, and the space required for the out-swinging door. A lavatory with knee space can overlap the clear floor space required for the water closet provided that at least 36 inches of clearance is maintained between the side wall next to the water closet and the lavatory (see section 4.16.2 and Fig. 28 of the 1991 Standards). A wheelchair turning space meeting section 4.2.3 of the 1991 Standards must be provided. The size of this room requires that the entry door swing out. The room would be larger if the door were in-swinging.
 {% endfigcaption %}
 {% endfigure %}
 
 {% figure 2010 Standards %}
-<img src="{{ '/assets/project-images/plan1b.jpg' | relative_url }}" alt="2010 standard minimum with out-swinging door" />
+<img src="{{ '/assets/images/project-images/plan1b.jpg' | relative_url }}" alt="2010 standard minimum with out-swinging door" />
 {% figcaption %}
 <strong>Plan-1B: 2010 Standards Minimum with Out-Swinging Door - 7’-0” x 5’-0” 35.00 Square Feet</strong>:  This plan shows a typical example of a single-user toilet room that meets the minimum requirements of the 2010 Standards. Features include: five-foot minimum width between the side wall of the water closet and the lavatory; 60-inch minimum circular wheelchair turning space; and 36-inch by 48-inch clear maneuvering space for the out-swinging entry door. Section 604.3.1 of the 2010 Standards requires a floor clearance at a water closet that is a minimum of 60 inches wide by 56 inches deep regardless of approach. Section 604.3.2 prohibits any other plumbing fixtures from being located in this clear space, except in residential dwelling units. The 2010 Standards, at section 304.3, allows the turning space to extend into toe and knee space provided beneath fixtures and other elements. Required maneuvering space for the entry door (inside the room) must be clear of all fixtures. If the door had both a closer and latch, section 404.2.4.1 and Figure 404.2.4.1(c) require additional space on the latch side.  This layout is three point five percent (3.5%) smaller than the accompanying Plan-1A: 1991 Standards Minimum with Out-Swinging Door example.
 {% endfigcaption %}
@@ -4156,7 +4156,7 @@ Additional floor plans of
 **Comparison of Single-User Toilet Room Layouts**
 
 {% figure 2010 Standards %}
-<img src="{{ '/assets/project-images/plan1c.jpg' | relative_url }}" alt="Plan-1C: 2010 Standards Minimum with Out-Swinging Door (entry door has both closer and latch)" />
+<img src="{{ '/assets/images/project-images/plan1c.jpg' | relative_url }}" alt="Plan-1C: 2010 Standards Minimum with Out-Swinging Door (entry door has both closer and latch)" />
 {% figcaption %}
 <strong>Plan-1C: 2010 Standards Minimum with Out-Swinging Door (entry door has both closer and latch)- 7’-0” x 5’-6” 38.50 Square Feet:</strong>  This plan shows the same typical features of a single-user toilet room that meets the minimum requirements of the 2010 Standards as Plan-1B does except the entry door has both a closer and latch. Because the door has both a closer and latch, a minimum additional foot of maneuvering space is required on the latch side (see section 404.2.4.1 and Figure 404.2.4.1(c) of the 2010 Standards).
 
@@ -4167,14 +4167,14 @@ This layout is six point two percent (6.2%) larger than the accompanying Plan-1A
 **Comparison of Single-User Toilet Room Layouts**
 
 {% figure 1991 Standards %}
-<img src="{{ '/assets/project-images/plan2a.jpg' | relative_url }}" alt="Plan-2A: 1991 Standards Minimum with In-Swinging Door" />
+<img src="{{ '/assets/images/project-images/plan2a.jpg' | relative_url }}" alt="Plan-2A: 1991 Standards Minimum with In-Swinging Door" />
 {% figcaption %}
 <strong>Plan-2A - 1991 Standards Minimum with In-Swinging Door - 5’-0” x 8’-6” 42.50 Square Feet:</strong>  This plan shows a typical example of a single-user toilet room that meets the minimum requirements of the 1991 Standards. Depending on the width of the hallway and other circulation issues, it can be preferable to swing the entry door into the toilet room. Businesses and public entities typically prefer to have an in-swinging door. The in-swinging door increases overall room size because it cannot swing over the required clear floor space at any accessible fixture, (see section 4.22.2 of the 1991 Standards). This increases the room depth from Plan-1A. The door is permitted to swing over the required turning space shown as a 60-inch circle.
 {% endfigcaption %}
 {% endfigure %}
 
 {% figure 2010 Standards %}
-<img src="{{ '/assets/project-images/plan2b.jpg' | relative_url }}" alt="Plan-2B: 2010 Standards Minimum with In-Swinging Door" />
+<img src="{{ '/assets/images/project-images/plan2b.jpg' | relative_url }}" alt="Plan-2B: 2010 Standards Minimum with In-Swinging Door" />
 {% figcaption %}
 <strong>Plan-2B - 2010 Standards Minimum with In-Swinging Door - 7’-0” x 6’-6” 45.50 Square Feet:</strong>  This plan shows a typical example of a single-user toilet room that meets the minimum requirements of the 2010 Standards when the entry door swings into the room. In the 2010 Standards an exception allows the entry door to swing over the clear floor spaces and clearances required at the fixtures if a clear floor space complying with section 305.3 (minimum 30 inches by 48 inches) is provided outside the arc of the door swing, section 603.2.3 exception 2. The required maneuvering space for the door, section 404.2.4.1 and Figure 404.2.4.1(a), also is a factor in room size. This clear space cannot be obstructed by the plumbing fixtures. Note that this layout provides more space for turning when the door is closed than Plan-1B.  This layout is seven percent (7%) larger than the accompanying Plan-2A: 1991 Standards Minimum with In-Swinging Door example.
 {% endfigcaption %}
@@ -4183,7 +4183,7 @@ This layout is six point two percent (6.2%) larger than the accompanying Plan-1A
 **Comparison of Single-User Toilet Room Layouts**
 
 {% figure 2010 Standards %}
-<img src="{{ '/assets/project-images/plan2c.jpg' | relative_url }}" alt="Plan-2C: 2010 Standards Minimum with In-Swinging Door" />
+<img src="{{ '/assets/images/project-images/plan2c.jpg' | relative_url }}" alt="Plan-2C: 2010 Standards Minimum with In-Swinging Door" />
 {% figcaption %}
 <strong>Plan-2C - 2010 Standards Minimum with In-Swinging Door - 7’-0” x 6’-6” 40.00 Square Feet (plumbing chase not included):</strong>  This plan shows the same typical features of a single-user toilet room that meets the minimum requirements of the 2010 Standards as Plan-2B when the entry door swings into the room. Note that this layout also provides more space for turning when the door is closed than Plan-1B.  This layout is six point two five percent (6.25%) smaller than the accompanying Plan-2A: 1991 Standards Minimum with In-Swinging Door example.
 {% endfigcaption %}
@@ -4191,7 +4191,7 @@ This layout is six point two percent (6.2%) larger than the accompanying Plan-1A
 
 **Comparison of Single-User Toilet Room Layouts**
 {% figure 1991 and 2010 Standards %}
-<img src="{{ '/assets/project-images/plan3.jpg' | relative_url }}" alt="Plan-3: Meets Both 1991 Standards and 2010 Standards" />
+<img src="{{ '/assets/images/project-images/plan3.jpg' | relative_url }}" alt="Plan-3: Meets Both 1991 Standards and 2010 Standards" />
 {% figcaption %}
 <strong>Plan-3 - Meets Both 1991 Standards and 2010 Standards - 7’-0” x 5’-9” 40.25 Square Feet:</strong>  This plan shows an example of a single-user toilet room that meets the minimum requirements of both the 1991 Standards and 2010 Standards. A T-shaped turning space has been used (see Fig. 3(a) of the 1991 Standards and Figure 304.3.2 of the 2010 Standards) to maintain a compact room size. An out-swinging door also minimizes the overall layout depth and cannot swing over the required clear floor space or clearance at any accessible plumbing fixture.  This layout is eleven percent (11%) larger than the Plan-1A: 1991 Standards Minimum with Out-Swinging Door example shown at the beginning of these plan comparisons.
 {% endfigcaption %}
@@ -4199,14 +4199,14 @@ This layout is six point two percent (6.2%) larger than the accompanying Plan-1A
 
 **Comparison of Single-User Toilet Room “Pairs” With Fixtures Side-by-Side**
 {% figure 1991 Standards %}
-<img src="{{ '/assets/project-images/plan1a_pair.jpg' | relative_url }}" alt="" />
+<img src="{{ '/assets/images/project-images/plan1a_pair.jpg' | relative_url }}" alt="" />
 {% figcaption %}
 Plan-1A Pair: 1991 Standards with Out-Swinging Doors - Two 5’-0” x 7’-3” Rooms– 72.50 Square Feet Total
 {% endfigcaption %}
 {% endfigure %}
 
 {% figure 2010 Standards %}
-<img src="{{ '/assets/project-images/plan1b_pair.jpg' | relative_url }}" alt="Plan-1B Pair: 2010 Standards with Out-Swinging Doors" />
+<img src="{{ '/assets/images/project-images/plan1b_pair.jpg' | relative_url }}" alt="Plan-1B Pair: 2010 Standards with Out-Swinging Doors" />
 {% figcaption %}
 <strong>Plan-1A Pair: 1991 Standards with Out-Swinging Doors - Two 5’-0” x 7’-3” Rooms– 72.50 Square Feet Total:</strong>  These plans show men’s/women’s room configurations using Plans 1A and 1B.
 {% endfigcaption %}
@@ -4215,7 +4215,7 @@ Plan-1A Pair: 1991 Standards with Out-Swinging Doors - Two 5’-0” x 7’-3”
 **Comparison of Single-User Toilet Room “Pairs” With Fixtures Side-by-Side**
 
 {% figure 2010 Standards %}
-<img src="{{ '/assets/project-images/plan2c_pair.jpg' | relative_url }}" alt="Plan-2C Pair: 2010 Standards with In-Swinging Doors" />
+<img src="{{ '/assets/images/project-images/plan2c_pair.jpg' | relative_url }}" alt="Plan-2C Pair: 2010 Standards with In-Swinging Doors" />
 {% figcaption %}
 <strong>Plan-2C Pair: 2010 Standards with In-Swinging Doors - Two 7’-2” x 6’-6” Rooms - 82.00 Square Feet Total</strong>:  This plan shows a men’s/women’s room configuration using Plan 2C.
 {% endfigcaption %}
@@ -5307,7 +5307,7 @@ The Department has included the following floor plans showing application of the
   transient lodging compared to the 1991 Standards.
 
 {% figure Plan 1A: 13-Foot Wide Accessible Guest Room %}
-<img src="{{ '/assets/project-images/plan1a_gst-rm.jpg' | relative_url }}" alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards." />
+<img src="{{ '/assets/images/project-images/plan1a_gst-rm.jpg' | relative_url }}" alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards." />
 {% figcaption %}
 Features include a standard bathtub with a seat, comparable vanity, clothes closet with swinging doors, and door connecting to adjacent guest room. Furnishings include a king bed and additional seating.
 {% endfigcaption %}
@@ -5335,7 +5335,7 @@ The following accessible features are provided in the living area:
 - Accessible controls for the heat and air conditioning (section 309).
 
 {% figure Plan 1B: 13-Foot Wide Accessible Guest Room %}
-<img src="{{ '/assets/project-images/plan1b_gst-rm.jpg' | relative_url }}" alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards." />
+<img src="{{ '/assets/images/project-images/plan1b_gst-rm.jpg' | relative_url }}" alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards." />
 {% figcaption %}
 Features include a standard bathtub with a seat, comparable vanity, clothes closet with swinging doors, and door connecting to adjacent guest room. Furnishings include two beds.
 {% endfigcaption %}
@@ -5365,7 +5365,7 @@ The following accessible features are provided in the living area:
 - Accessible controls for the heat and air conditioning (section 309).
 
 {% figure Plan 2A: 13-Foot Wide Accessible Guest Room %}
-<img src="{{ '/assets/project-images/plan2a_gst-rm.jpg' | relative_url }}" alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards." />
+<img src="{{ '/assets/images/project-images/plan2a_gst-rm.jpg' | relative_url }}" alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards." />
 {% figcaption %}
 Features include a standard roll-in shower with a seat, comparable vanity,
 wardrobe, and door connecting to adjacent guest room. Furnishings include a
@@ -5396,7 +5396,7 @@ The following accessible features are provided in the living area:
 - Accessible controls for the heat and air conditioning (section 309).
 
 {% figure Plan 2B: 13-Foot Wide Accessible Guest Room %}
-<img src="{{ '/assets/project-images/plan2b_gst-rm.jpg' | relative_url }}" alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards." />
+<img src="{{ '/assets/images/project-images/plan2b_gst-rm.jpg' | relative_url }}" alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards." />
 {% figcaption %}
 Features include an alternate roll-in shower with a seat, comparable vanity,
 wardrobe, and door connecting to adjacent guest room. Furnishings include two
@@ -5427,7 +5427,7 @@ The following accessible features are provided in the living area:
 - Accessible controls for the heat and air conditioning (section 309).
 
 {% figure Plan 3A: 12-Foot Wide Accessible Guest Room %}
-<img src="{{ '/assets/project-images/plan3a_gst-rm.jpg' | relative_url }}" alt="This drawing shows an accessible 12-foot wide guest room with features that comply with the 2010 Standards." />
+<img src="{{ '/assets/images/project-images/plan3a_gst-rm.jpg' | relative_url }}" alt="This drawing shows an accessible 12-foot wide guest room with features that comply with the 2010 Standards." />
 {% figcaption %}
 Features include a bathtub with a seat, comparable vanity, open clothes closet,
 and door connecting to adjacent guest room. Furnishings include a king bed and
@@ -5463,7 +5463,7 @@ The following accessible features are provided in the living area:
 - Accessible controls for the heat and air conditioning (section 309).
 
 {% figure Plan 3B: 12-Foot Wide Accessible Guest Room %}
-<img src="{{ '/assets/project-images/plan3b_gst-rm.jpg' | relative_url }}" alt="This drawing shows an accessible 12-foot wide guest room with features that comply with the 2010 Standards." />
+<img src="{{ '/assets/images/project-images/plan3b_gst-rm.jpg' | relative_url }}" alt="This drawing shows an accessible 12-foot wide guest room with features that comply with the 2010 Standards." />
 {% figcaption %}
 Features include a standard roll-in shower with a seat, comparable vanity,
 wardrobe, and door connecting to adjacent guest room. Furnishings include two
@@ -5509,7 +5509,7 @@ conditioning (section 309).
 
 
 {% figure Plan 4A: 13-Foot Wide Accessible Guest Room %}
-<img src="{{ '/assets/project-images/plan4a_gst-rm.jpg' | relative_url }}" alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards." />
+<img src="{{ '/assets/images/project-images/plan4a_gst-rm.jpg' | relative_url }}" alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards." />
 {% figcaption %}
 Features include a standard roll-in shower with a seat, comparable vanity, clothes closet with swinging doors, and door connecting to adjacent guest room. Furnishings include a king bed and additional seating.
 {% endfigcaption %}
@@ -5554,7 +5554,7 @@ conditioning (section 309).
 13&rsquo;-0&rdquo;  7&rsquo;-6&rdquo;  15&rsquo;-4
 
 {% figure Plan 4B: 13-Foot Wide Accessible Guest Room %}
-<img src="{{ '/assets/project-images/plan4b_gst-rm.jpg' | relative_url }}" alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards." />
+<img src="{{ '/assets/images/project-images/plan4b_gst-rm.jpg' | relative_url }}" alt="This drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards." />
 {% figcaption %}
 Features include an alternate roll-in shower with a seat, comparable vanity, wardrobe, and door connecting to adjacent guest room. Furnishings include two beds.
 {% endfigcaption %}
@@ -5596,7 +5596,7 @@ The following accessible features are provided in the living area:
 conditioning (section 309).
 
 {% figure Plan 5A: 13-Foot Wide Accessible Guest Room %}
-<img src="{{ '/assets/project-images/plan5a_gst-rm.jpg' | relative_url }}" alt="his drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards." />
+<img src="{{ '/assets/images/project-images/plan5a_gst-rm.jpg' | relative_url }}" alt="his drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards." />
 {% figcaption %}
 Features include a transfer shower, comparable vanity, clothes closet with
 swinging door, and door connecting to adjacent guest room. Furnishings include
@@ -5627,7 +5627,7 @@ The following accessible features are provided in the living area:
 - Accessible controls for the heat and air conditioning (section 309).
 
 {% figure Plan 5B: 13-Foot Wide Accessible Guest Room %}
-<img src="{{ '/assets/project-images/plan5b_gst-rm.jpg' | relative_url }}" alt="his drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards." />
+<img src="{{ '/assets/images/project-images/plan5b_gst-rm.jpg' | relative_url }}" alt="his drawing shows an accessible 13-foot wide guest room with features that comply with the 2010 Standards." />
 {% figcaption %}
 Features include a transfer shower, comparable vanity, open clothes closet, and door
 connecting to adjacent guest room. Furnishings include two beds.
@@ -5656,7 +5656,7 @@ The following accessible features are provided in the living area:
 - Accessible controls for the heat and air conditioning (section 309).
 
 {% figure Plan 6A: 12-Foot Wide Accessible Guest Room %}
-<img src="{{ '/assets/project-images/plan6a_gst-rm.jpg' | relative_url }}" alt="This drawing shows an accessible 12-foot wide guest room with features that comply with the 2010 Standards." />
+<img src="{{ '/assets/images/project-images/plan6a_gst-rm.jpg' | relative_url }}" alt="This drawing shows an accessible 12-foot wide guest room with features that comply with the 2010 Standards." />
 {% figcaption %}
 Features include a transfer shower, water closet length (rim to rear wall) 24 inches maximum, comparable vanity, clothes closet with swinging door, and door connecting to adjacent guest room. Furnishings include a king bed and additional seating.
 {% endfigcaption %}
@@ -5683,7 +5683,7 @@ The following accessible features are provided in the living area:
 - Accessible controls for the heat and air conditioning (section 309).
 
 {% figure Plan 6B: 12-Foot Wide Accessible Guest Room %}
-<img src="{{ '/assets/project-images/plan6b_gst-rm.jpg' | relative_url }}" alt="This drawing shows an accessible 12-foot wide guest room with features that comply with the 2010 Standards." />
+<img src="{{ '/assets/images/project-images/plan6b_gst-rm.jpg' | relative_url }}" alt="This drawing shows an accessible 12-foot wide guest room with features that comply with the 2010 Standards." />
 {% figcaption %}
 Features include a transfer shower, water closet length (rim to rear wall) 24
 inches maximum, comparable vanity, wardrobe, and door connecting to adjacent

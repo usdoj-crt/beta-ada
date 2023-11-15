@@ -25,7 +25,7 @@ government programs,{% fn 1 %} including voting. The ADA applies to all parts of
 process, including ballot drop boxes.
 
 <figure id="intro">
-<img src="{{ '/assets/project-images/Picture1.jpg' | relative_url }}" alt="image of a ballot drop box and a "Vote Here" sign" height="375" width="450" />
+<img src="{{ '/assets/images/project-images/Picture1.jpg' | relative_url }}" alt="image of a ballot drop box and a "Vote Here" sign" height="375" width="450" />
 <figcaption>
 **A fixed ballot drop box**
 </figcaption>
@@ -57,7 +57,7 @@ An accessible route has the following features:
 {% endlist %}
 
 <figure id="route">
-<img src="{{ '/assets/project-images/Picture2.jpg' | relative_url }}" alt="image of a polling place showing an accessible route that connects the ballot drop box with accessible parking, accessible passenger loading zone, and an accessible entrance sign" height="375" width="450" />
+<img src="{{ '/assets/images/project-images/Picture2.jpg' | relative_url }}" alt="image of a polling place showing an accessible route that connects the ballot drop box with accessible parking, accessible passenger loading zone, and an accessible entrance sign" height="375" width="450" />
 <figcaption>
 **An accessible route connects the ballot drop box with accessible parking, accessible passenger loading zone, and an accessible entrance**
 </figcaption>
@@ -76,7 +76,7 @@ An accessible clear floor or ground space in front of the ballot drop box has th
 {% endlist %}
 
 <figure id="clearance">
-<img src="{{ '/assets/project-images/Picture3.jpg' | relative_url }}" alt="image of a ballot box with 30x48 inch accessible clear ground space and an 48 inch maximum, 15 inch minimum reach range accessible opening" height="375" width="450" />
+<img src="{{ '/assets/images/project-images/Picture3.jpg' | relative_url }}" alt="image of a ballot box with 30x48 inch accessible clear ground space and an 48 inch maximum, 15 inch minimum reach range accessible opening" height="375" width="450" />
 <figcaption>
 **An accessible ballot drop box with accessible clear ground space and an accessible opening**
 </figcaption>
