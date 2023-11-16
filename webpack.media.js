@@ -5,7 +5,7 @@ module.exports = {
   mode: process.env.NODE_ENV || "production",
   entry: {},
   output: {
-    path: path.resolve(__dirname, '_site/'),
+    path: path.resolve(__dirname),
   },
   module: {
     rules: [
@@ -21,13 +21,8 @@ module.exports = {
     new CopyPlugin({
       patterns: [
         {
-          from: '**/*',
-          to: 'assets/fonts',
-          context: 'node_modules/@uswds/uswds/dist/fonts',
-        },
-        {
           from: '*',
-          to: 'assets/images/uswds/img',
+          to: 'assets/images/uswds/',
           context: 'node_modules/@uswds/uswds/dist/img',
         },
         {
@@ -36,9 +31,9 @@ module.exports = {
           context: 'node_modules/@uswds/uswds/dist/img/usa-icons',
         },
         {
-          from: 'usa-icons-bg/*',
-          to: 'assets/images/uswds/',
-          context: 'node_modules/@uswds/uswds/dist/img',
+          from: '*',
+          to: 'assets/images/uswds/usa-icons-bg/',
+          context: 'node_modules/@uswds/uswds/dist/img/usa-icons-bg',
         },
         {
           from: 'sprite.svg',
@@ -50,6 +45,11 @@ module.exports = {
         },
         {
           from: '_includes/**/*',
+        },
+        {
+          from: '**/*',
+          to: 'assets/fonts',
+          context: 'node_modules/@uswds/uswds/dist/fonts',
         },
       ],
     }),
