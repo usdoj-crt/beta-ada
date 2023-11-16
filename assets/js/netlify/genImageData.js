@@ -18,6 +18,7 @@ export default async function genImageData() {
         owner: 'usdoj-crt',
         repo: 'beta-ada',
         path: 'assets/',
+        ref: '__WEBPACK_GIT_BRANCH__',
         headers: {
         'X-GitHub-Api-Version': '2022-11-28'
         }

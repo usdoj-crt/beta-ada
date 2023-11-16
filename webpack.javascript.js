@@ -1,4 +1,22 @@
 const path = require('path');
+const webpack = require('webpack');
+
+function getGitBranch() {
+  let child_process;
+  try {
+    child_process = require('child_process');
+  } catch (e) {
+    console.log('Unable to run git, using default ref for content', e);
+    return undefined;
+  }
+
+  try {
+    return child_process.execSync('git rev-parse --abbrev-ref HEAD').toString().trim();
+  } catch (e) {
+    console.log('Unable to run git, using default ref for content', e);
+    return undefined;
+  }
+}
 
 module.exports = {
   mode: process.env.NODE_ENV || "production",
@@ -27,5 +45,10 @@ module.exports = {
         exclude: /node_modules/
       }
     ]
-  }
+  },
+  plugins: [
+    new webpack.DefinePlugin({
+      __WEBPACK_GIT_BRANCH__: getGitBranch(),
+    }),
+  ],
 };
