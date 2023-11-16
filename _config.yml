@@ -220,9 +220,3 @@ exclude: # Be sure to add new excludes to _config.dev.yml as well!
   - make_redirects.rb
   - /scripts
   - /node_modules
-
-assets:
-  sources:
-    - node_modules/anchor-js
-    - node_modules/gumshoejs/dist
-    - node_modules/@uswds/uswds/dist
