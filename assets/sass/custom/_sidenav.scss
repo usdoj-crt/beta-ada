@@ -58,7 +58,7 @@
 
     * .usa-accordion__button {
       color: #2e2e2a;
-      background-image: url("/assets/images/remove.svg");
+      background-image: url("../images/remove.svg");
       background-color: transparent;
       border-radius: 0px;
       font-size: 1rem;
@@ -70,7 +70,7 @@
       padding-bottom: 0.25rem;
 
       &[aria-expanded="false"] {
-        background-image: url("/assets/images/add.svg");
+        background-image: url("../images/add.svg");
       }
     }
   }
@@ -79,10 +79,10 @@
     @extend .h4 !optional;
     background-color: color($theme-color-primary-lighter);
     color: color($theme-color-primary-darker);
-    background-image: url('/assets/images/remove.svg');
+    background-image: url('../images/remove.svg');
 
     &[aria-expanded='false'] {
-      background-image: url('/assets/images/add.svg');
+      background-image: url('../images/add.svg');
     }
   }
 
@@ -110,13 +110,13 @@
 
   .usa-accordion__button {
     background-color: color($theme-color-primary-darker);
-    background-image: url('/assets/images/uswds/usa-icons-bg/remove--white.svg');
+    background-image: url('../images/uswds/usa-icons-bg/remove--white.svg');
     color: color('white');
     font-weight: normal;
     @include u-radius('md');
 
     &[aria-expanded='false'] {
-      background-image: url('/assets/images/uswds/usa-icons-bg/add--white.svg');
+      background-image: url('../images/uswds/usa-icons-bg/add--white.svg');
     }
   }
 

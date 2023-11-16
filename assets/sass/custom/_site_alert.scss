@@ -1,8 +1,8 @@
 // Overwrite the icon used by the alert banner on the homepage:
 .usa-site-alert--info .usa-alert::before {
-    background: url("/assets/images/uswds/usa-icons/warning.svg") no-repeat center/contain;
-    -webkit-mask: url("/assets/images/uswds/usa-icons/warning.svg") no-repeat center/contain;
-    mask: url("/assets/images/uswds/usa-icons/warning.svg") no-repeat center/contain;
+    background: url("../images/uswds/usa-icons/warning.svg") no-repeat center/contain;
+    -webkit-mask: url("../images/uswds/usa-icons/warning.svg") no-repeat center/contain;
+    mask: url("../images/uswds/usa-icons/warning.svg") no-repeat center/contain;
 }
 
 // Change the default alert border color and add a small left hand border to the alert
