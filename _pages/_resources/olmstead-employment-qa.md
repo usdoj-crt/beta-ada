@@ -1,6 +1,6 @@
 ---
-title: Questions and Answers on the Application of the ADA's Integration Mandate and <em>Olmstead v. L.C.</em> to Employment and Day Services for People with Disabilities
-description: "This document discusses and explains the requirements of the ADA's integration mandate and the Supreme Court's decision in <em>Olmstead v. L.C. ex rel. Zimring</em>, 527 U.S. 581 (1999), as applied to segregated employment settings and facility-based day programs. A Federal Register notice discussing the guidance will be forthcoming."
+title: "Questions and Answers on the Application of the ADA's Integration Mandate and <em>Olmstead v. L.C.</em> to Employment and Day Services for People with Disabilities"
+description: "This document discusses and explains the requirements of the ADA's integration mandate and the Supreme Court's decision in <em>Olmstead v. L.C. ex rel. Zimring</em>, 527 U.S. 581 (1999), as applied to segregated employment settings and facility-based day programs. In addition, this document provides a link to the Department's Federal Register notice, which provides more information about this guidance."
 permalink: /resources/olmstead-employment-qa/
 lead: |-
   Nationally, a significant number of individuals with disabilities spend the majority of their daytime hours receiving public services in sheltered workshops and facility-based day programs. These settings segregate individuals from the community and provide little or no opportunity to interact with people without disabilities, other than paid staff.
@@ -336,7 +336,7 @@ that the requested modification would fundamentally alter its service system.
 
 ## Additional Resources
 
-For more information about the ADA, you may call the Department’s toll-free ADA
+For more information about this guidance, you can read the Department's Federal Register notice announcing the availability of this guidance.  The Federal Register notice can be found at [https://www.federalregister.gov/documents/2023/11/13/2023-24989/questions-and-answers-on-the-application-of-the-adas-integration-mandate-and-olmstead-v-lc-to](https://www.federalregister.gov/documents/2023/11/13/2023-24989/questions-and-answers-on-the-application-of-the-adas-integration-mandate-and-olmstead-v-lc-to). For more information about the ADA, you may call the Department’s toll-free ADA
 information line at 800-514-0301 or 833-610-1264 (TTY), or access its ADA website at
 [https://www.ada.gov]({{ '/' | relative_url }}). For more information about the Department’s enforcement of the
 integration mandate of Title II of the ADA, please visit [Community Integration]({{ '/topics/community-integration/' | relative_url }}).
