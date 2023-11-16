@@ -16,7 +16,7 @@
     @extend .h4 !optional;
 
     background-color: color($theme-color-primary-lightest);
-    background-image: url("./images/remove--primary.svg");
+    background-image: url("/assets/images/remove--primary.svg");
     color: color($theme-color-primary-darker);
 
     &:hover {
@@ -24,7 +24,7 @@
     }
 
     &[aria-expanded="false"] {
-      background-image: url("./images/add--primary.svg");
+      background-image: url("/assets/images/add--primary.svg");
     }
   }
 
@@ -50,7 +50,7 @@
       margin-top: 3rem;
     }
   }
-  
+
   #expand-header-wrapper .button-container {
     @include at-media(mobile) {
       order: -1;

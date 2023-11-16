@@ -38,11 +38,14 @@
   },
   "devDependencies": {
     "@playwright/test": "^1.29.1",
+    "autoprefixer": "^10.4.16",
     "babel-jest": "^28.0.2",
     "copy-webpack-plugin": "^11.0.0",
     "css-loader": "^6.7.1",
     "gray-matter": "^4.0.3",
     "mini-css-extract-plugin": "^2.6.1",
+    "postcss": "^8.4.31",
+    "postcss-loader": "^7.3.3",
     "prettier": "^2.5.1",
     "sass": "^1.53.0",
     "sass-loader": "^13.0.2"
