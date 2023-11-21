@@ -42,7 +42,7 @@ jobs:
       - name: Install Ruby dependencies
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.7.8
+          ruby-version: 3.2.2
           bundler-cache: true
 
       - name: Install Node.js dependencies
@@ -59,11 +59,9 @@ jobs:
       ################################
       - name: Lint Code Base
         uses: github/super-linter@v4.0.2
-        rules:
-          MD024: false
         env:
           DEFAULT_BRANCH: main
-          FILTER_REGEX_INCLUDE: .*(\_assets|\_pages|\_site).*
+          FILTER_REGEX_INCLUDE: .*(\assets|\_pages|\_site).*
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LINTER_RULES_PATH: /
           VALIDATE_CSS: true

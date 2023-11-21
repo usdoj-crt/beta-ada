@@ -4,5 +4,5 @@
       role="img"
       aria-label="{{ include.alt }}">
     </span>
-    {% asset '{{ include.mobile-src }}' alt="'{{ include.alt }}'" class="height-auto width-full desktop:display-none" %}
+    <img src="{{include.mobile-src | prepend: '/assets/images/' | relative_url}}" alt="{{ include.alt }}" class="height-auto width-full desktop:display-none" />
 </div>

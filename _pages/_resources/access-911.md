@@ -104,7 +104,7 @@ Historically, many persons who use TTYs have not had confidence in the accessibi
 {% details Q: If a PSAP complies with a State law, which requires only one TTY per PSAP, is that PSAP also in compliance with the ADA? %}
 A: No. Satisfying State law requirements does not mean that a PSAP is also in compliance with the ADA. Some State laws require only one TTY per PSAP. The ADA, however, requires direct, equal access, which means that PSAPs must have enough TTY equipment so that each call-taking position has its own TTY capability. Also, if a PSAP has extra voice telephone equipment in case of malfunction, which most do, the ADA would also require them to have back-up TTY equipment. Therefore, under the ADA, virtually all PSAPs must have two or more TTYs.
 {% enddetails %}
- 
+
 #### Enhanced Features
 
 Many PSAPs have advanced features that facilitate prompt responses to callers. Many PSAPs have, for example, automatic number identification (ANI) and automatic location identification (ALI), which tell the call taker the phone number and address from which a call originates. PSAPs that have these features must ensure that TTY calls have the same access to enhanced features as do voice telephone calls. TTY calls may not be required to be transferred to a third line, because those transfers often result in the loss of the automatic phone number and address information. Another feature employed by PSAPs is automatic call distribution (ACD), which places incoming calls into a queue, sends out a programmed message to callers to let them know that their calls have been received, and distributes calls to the next available call taker. This feature, if offered, must also be made accessible for TTY calls, with a programmed TTY message.
