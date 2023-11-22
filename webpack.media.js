@@ -41,9 +41,6 @@ module.exports = {
           context: 'node_modules/@uswds/uswds/dist/img',
         },
         {
-          from: 'assets/_pdfs/**/*',
-        },
-        {
           from: '**/*',
           to: 'assets/fonts',
           context: 'node_modules/@uswds/uswds/dist/fonts',
