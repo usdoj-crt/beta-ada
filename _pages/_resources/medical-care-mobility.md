@@ -50,7 +50,7 @@ In addition, all buildings, including those built before the ADA went into effec
 **You should always address the patient directly, not the companion, as you would with any other patient.** Just because the patient has a disability does not mean that he or she cannot speak for him or herself or understand the exam results. It is up to the patient to decide whether a companion remains in the room during your exam or discussion with the patient. The patient may have brought a companion to assist in getting to the exam, but would prefer to ask the companion to leave the room before the doctor begins a substantive discussion. Before beginning your examination or discussion, you should ask the patient if he or she wishes the companion to remain in the room.
 {% enddetails %}
 
-{% details Can I decide not to treat a patient with a disability because it takes me longer to examine them, and insurance won't reimburse me for the additional time? expandalbe %}
+{% details Can I decide not to treat a patient with a disability because it takes me longer to examine them, and insurance won't reimburse me for the additional time? expandable %}
 **No, you cannot refuse to treat a patient who has a disability just because the exam might take more of your or your staff's time.** Some examinations take longer than others, for all sorts of reasons, in the normal course of a medical practice.
 {% enddetails %}
 
