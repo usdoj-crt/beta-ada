@@ -190,6 +190,10 @@ defaults:
       path: "_includes/"
     values:
       sitemap: false
+  - scope:
+      path: "assets/"
+    values:
+      sitemap: false
 
 languages: ["en"]
 default_lang: "en"
