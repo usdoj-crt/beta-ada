@@ -15,7 +15,7 @@
       <div
         class="usa-card__img height-card-lg {% unless include.card.card.href%}opacity-40{% endunless %}"
       >
-        {% asset '{{ include.card.card.image | default: "landing/default.png" }}' alt='{{ include.card.card.alt }}' style='object-position: center {{ include.card.card.position | default: "center" }}' %}
+      <img src="{{ include.card.card.image | default: "landing/default.png" | prepend: '/assets/images/' | relative_url }}" alt='{{ include.card.card.alt }}' style='object-position: center {{ include.card.card.position | default: "center" }}'/>
       </div>
     </div>
     <div class="usa-card__body">

@@ -1,7 +1,7 @@
 source "https://rubygems.org"
-ruby '>= 2.7.8'
+ruby '>= 3.2.2'
 
-gem "jekyll", "~> 4.0"
+gem "jekyll"
 gem "autoprefixer-rails"
 
 group :jekyll_plugins do
@@ -9,6 +9,6 @@ group :jekyll_plugins do
   gem 'jekyll-redirect-from'
   gem 'jekyll-sitemap'
   gem 'jekyll-seo-tag'
-  gem 'jekyll-assets', git: "https://github.com/envygeeks/jekyll-assets"
-  gem 'jekyll-sass-converter', '~> 2.1.0'  # Locked because it breaks CI/CD
+  gem 'jekyll-sass-converter'
+  gem 'nokogiri'
 end

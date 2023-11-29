@@ -6,7 +6,7 @@ export default function badge(title) {
     <button class="usa-button usa-button--unstyled text-no-underline"
     >
     <span class="margin-left-05 flex-align-center"><svg fill='#162e51' aria-hidden="true" role="img">
-    <use xlink:href="/assets/img/sprite.svg#close"></use>
+    <use xlink:href="/assets/images/uswds/sprite.svg#close"></use>
         </svg></span>
     <span class="usa-sr-only">Press enter to remove ${normalizedTitle} filter.</span>
     </button>

@@ -20,7 +20,7 @@ redirect_from:
 One important way to ensure that Title II's requirements are being met in cities of all sizes is through self-evaluation, which is required by the ADA regulations. Self-evaluation enables local governments to pinpoint the facilities, programs and services that must be modified or relocated to ensure that local governments are complying with the ADA.
 
 {% figure City Street Corner %}
-{% asset project-images/city-govts-1.jpg alt="A photograph of a street scene in a downtown block. A street corner is shown with curb ramps." %}
+<img src="{{ '/assets/images/project-images/city-govts-1.jpg' | relative_url }}" alt="A photograph of a street scene in a downtown block. A street corner is shown with curb ramps." />
 {% figcaption %}
 Curb ramps providing access to streets and sidewalks are a basic city service.
 {% endfigcaption %}
@@ -29,7 +29,7 @@ Curb ramps providing access to streets and sidewalks are a basic city service.
 This document contains a sampling of common problems shared by city governments of all sizes that have been identified through the Department of Justice's ongoing enforcement efforts. The document provides examples of common deficiencies and explains how these problems affect persons with disabilities. The document is not intended to be comprehensive or exhaustive.
 
 {% figure City Programs %}
-{% asset project-images/city-govts-2.jpg alt="A photo of a gazebo in a public park surrounded by American flags." %}
+<img src="{{ '/assets/images/project-images/city-govts-2.jpg' | relative_url }}" alt="A photo of a gazebo in a public park surrounded by American flags." />
 {% figcaption %}
 City programs held in this municipal gazebo are covered by the ADA.
 {% endfigcaption %}
@@ -54,7 +54,7 @@ Because city governments wrongly believe that a "grandfather" clause or a small 
 There is no "grandfather" clause in the ADA. However, the law is flexible. City governments must comply with Title II of the ADA, and must provide program access for people with disabilities to the whole range of city services and programs. In providing program access city governments are not required to take any action that would result in a fundamental alteration to the nature of the service, program, or activity in question or that would result in undue financial and administrative burdens. This determination can only be made by the head of the public entity or a designee and must be accompanied by a written statement of the reasons for reaching that conclusion. The determination that undue burden would result must be based on all resources available for use in a program. If an action would result in such an alteration or such burdens, a city government must take any other action that it can to ensure that people with disabilities receive the benefits and services of the program or activity. 28 C.F.R. § 35.150(a)(3).
 
 {% figure "Grandfather" Clause %}
-{% asset project-images/city-govts-3.jpg alt="A photograph of the main entrance to a city police station. There are steps at the entrance and no ramp." %}
+<img src="{{ '/assets/images/project-images/city-govts-3.jpg' | relative_url }}" alt="A photograph of the main entrance to a city police station. There are steps at the entrance and no ramp." />
 {% figcaption %}
 Cities must remove barriers to provide alternative access to programs and services in existing facilities.
 {% endfigcaption %}
@@ -73,7 +73,7 @@ City governments often have failed to ensure that the whole range of the city's 
 People with disabilities are unable to participate in the activities of city government, such as public meetings, unable to attend city functions, and unable to gain access to the city's various programs and services. If a municipal building such as a courthouse is inaccessible, people with disabilities who use wheelchairs are unable to participate in jury duty, attend hearings, and gain access to other services, because doorways are too narrow, restroom facilities are inaccessible, and steps are the only way to get to all or portions of a facility.
 
 {% figure Program Accessibility %}
-{% asset project-images/city-govts-4.jpg alt="A photograph of the front of building showing an accessible parking space, accessible route and ramp to the entrance." %}
+<img src="{{ '/assets/images/project-images/city-govts-4.jpg' | relative_url }}" alt="A photograph of the front of building showing an accessible parking space, accessible route and ramp to the entrance." />
 {% figcaption %}
 A ramp was installed to provide access to the city activities conducted in this facility.
 {% endfigcaption %}
@@ -98,7 +98,7 @@ Many city programs, services, and activities are conducted in buildings that are
 Historically significant facilities are those facilities or properties that are listed or eligible for listing in the National Register of Historic Places or properties designated as historic under State or local law. Structural changes to these facilities that would threaten or destroy the historical significance of the property or would fundamentally change the program being offered at the historic facility need not be undertaken. Nevertheless, a city must consider alternatives to structural changes in these instances -- including using audio-visual materials to depict the inaccessible portions of the facility and other innovative solutions.
 
 {% figure Historic Facility %}
-{% asset project-images/city-govts-5.jpg alt="A photograph of the front of a historic museum that has steps at the entrance." %}
+<img src="{{ '/assets/images/project-images/city-govts-5.jpg' | relative_url }}" alt="A photograph of the front of a historic museum that has steps at the entrance." />
 {% figcaption %}
 An accessible side entrance was added to this historic facility.
 {% endfigcaption %}
@@ -120,7 +120,7 @@ Without the required curb ramps, sidewalk travel in urban areas is dangerous, di
 When streets and roads are newly built or altered, they must have ramps wherever there are curbs or other barriers to entry from a pedestrian walkway. Likewise, when new sidewalks or walkways are built or altered, they must contain curb ramps or sloped areas wherever they intersect with streets or roads. While resurfacing a street or sidewalk is considered an alteration for these purposes, filling in potholes alone will not trigger the alterations requirements. At existing roads and sidewalks that have not been altered, however, city governments may choose to construct curb ramps at every point where a pedestrian walkway intersects a curb, but they are not necessarily required to do so. Under program access, alternative routes to buildings that make use of existing curb ramps may be acceptable where people with disabilities must only travel a marginally longer route.
 
 {% figure Curb Ramps %}
-{% asset project-images/city-govts-6.jpg alt="A photograph of a woman using a wheelchair crossing the street at a crosswalk behind a young child." %}
+<img src="{{ '/assets/images/project-images/city-govts-6.jpg' | relative_url }}" alt="A photograph of a woman using a wheelchair crossing the street at a crosswalk behind a young child." />
 {% figcaption %}
 Curb ramps provide basic access at intersections and pedestrian crossings.
 {% endfigcaption %}
@@ -142,7 +142,7 @@ Individuals who are deaf or hard of hearing are unable to participate in governm
 Title II requires that city governments ensure that communications with individuals with disabilities are as effective as communications with others. Thus, city governments must provide appropriate auxiliary aids and services for people with disabilities (e.g., qualified interpreters, notetakers, computer-aided transcription services, assistive listening systems, written materials, audio recordings, large print, and Brailled materials) to ensure that individuals with disabilities will be able to participate in the range of city services and programs. City governments must give primary consideration to the type of auxiliary aid or service that an individual with a disability requests. The final decision is the government's.
 
 {% figure Effective Communication %}
-{% asset project-images/city-govts-7.jpg alt="A photograph of a sign language interpreter signing for a speaker standing beside her." %}
+<img src="{{ '/assets/images/project-images/city-govts-7.jpg' | relative_url }}" alt="A photograph of a sign language interpreter signing for a speaker standing beside her." />
 {% figcaption %}
 A sign language interpreter at a public meeting may be needed to provide effective communication for people who are deaf.
 {% endfigcaption %}
@@ -165,7 +165,7 @@ City governments may fail to consider reasonable modifications in local laws, or
 Laws, ordinances, and regulations that appear to be neutral often adversely impact individuals with disabilities. For example, where a municipal zoning ordinance requires a set-back of 12 feet from the curb in the central business district, installing a ramp to ensure access for people who use wheelchairs may be impermissible without a variance from the city. People with disabilities are therefore unable to gain access to businesses in the city.
 
 {% figure City Zoning %}
-{% asset project-images/city-govts-9.jpg alt="A photograph of a one-story brick building with several store fronts, one of which has an accessible ramp leading to the entrance of a restaurant. The wooden ramp extends into the wide sidewalk area." %}
+<img src="{{ '/assets/images/project-images/city-govts-9.jpg' | relative_url }}" alt="A photograph of a one-story brick building with several store fronts, one of which has an accessible ramp leading to the entrance of a restaurant. The wooden ramp extends into the wide sidewalk area." />
 {% figcaption %}
 City zoning policies were changed to permit this business to install a ramp at its entrance.
 {% endfigcaption %}
@@ -218,7 +218,7 @@ When self-evaluations are not conducted and transition plans not developed, city
 All city governments were required to complete a self-evaluation of their facilities, programs, policies, and practices by January 26, 1993. The self-evaluation identifies and corrects those policies and practices that are inconsistent with Title II's requirements. Self-evaluations should consider all of a city's programs, activities, and services, as well as the policies and practices that a city has put in place to implement its various programs and services. Remedial measures necessary to bring the programs, policies, and services into compliance with Title II should be specified -- including, but not limited to: (1) relocation of programs to accessible facilities; (2) offering programs in an alternative accessible manner; (3) structural changes to provide program access; (4) policy modifications to ensure nondiscrimination; and (5) auxiliary aids needed to provide effective communication.
 
 {% figure Evaluation of Plans and Policies %}
-{% asset project-images/city-govts-8.jpg alt="A photograph of a woman and her service animal walking down a city street." %}
+<img src="{{ '/assets/images/project-images/city-govts-8.jpg' | relative_url }}" alt="A photograph of a woman and her service animal walking down a city street." />
 {% figcaption %}
 City policies, including those affecting service animals, should be reviewed during the self-evaluation.
 {% endfigcaption %}
@@ -226,8 +226,8 @@ City policies, including those affecting service animals, should be reviewed dur
 
 If a city that employs 50 or more persons decided to make structural changes to achieve program access, it was required to develop a transition plan that identifies those changes and sets a schedule for implementing them. Transition plans must be available to the public. 28 C.F.R. § 35.150(d).
 
-<hr>  
-The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
+<hr>
+The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.
 
 This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
 <hr>

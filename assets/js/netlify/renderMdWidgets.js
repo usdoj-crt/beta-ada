@@ -17,7 +17,7 @@ const tagNames = [
 function getImagePath(imageTitle, imageData) {
   const imageListPaths = imageData['imageList']
     .filter(image => image['path'] != null && image['path'].includes(imageTitle))
-    .map(image => "https://raw.githubusercontent.com/usdoj-crt/beta-ada/main/_assets/images/" + image['path']);
+    .map(image => "https://raw.githubusercontent.com/usdoj-crt/beta-ada/main/assets/images/" + image['path']);
   return imageListPaths.length > 0
     ? imageListPaths[0]
     : imageData['newImagePath'] + imageTitle;
@@ -145,7 +145,7 @@ function buildEngine(globals, imageData) {
               `<li class='usa-icon-list__item'>
                    <div class='usa-icon-list__icon'>
                      <div class='usa-icon' aria-hidden='true'
-                         style="background-image:url('${window.location.origin}/assets/img/usa-icons/${listItemIconType}.svg')"
+                         style="background-image:url('${window.location.origin}/assets/images/uswds/usa-icons/${listItemIconType}.svg')"
                          >
                      </div>
                    </div>

@@ -100,7 +100,7 @@ function buildBtns(i, divType) {
                     focusable="false"
                     role="img">
                     <title>Copy link</title>
-                    <use xlink:href="/assets/img/sprite.svg#link"></use>
+                    <use xlink:href="/assets/images/uswds/sprite.svg#link"></use>
                 </svg>
             `;
             btn.addEventListener('click', (e) => { shareLink(e, divType) });
@@ -117,7 +117,7 @@ function buildBtns(i, divType) {
                     focusable="false"
                     role="img">
                     <title>Copy text</title>
-                    <use xlink:href="/assets/img/sprite.svg#content_copy">
+                    <use xlink:href="/assets/images/uswds/sprite.svg#content_copy">
                     </use>
                 </svg>
             `;
@@ -133,7 +133,7 @@ function buildBtns(i, divType) {
                     data-position="bottom"
                     focusable="false" role="img">
                     <title>Print</title>
-                    <use xlink:href="/assets/img/sprite.svg#print">
+                    <use xlink:href="/assets/images/uswds/sprite.svg#print">
                     </use>
                 </svg>
             `;

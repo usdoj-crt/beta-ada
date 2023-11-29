@@ -4,8 +4,7 @@
     role="img"
     aria-label="{{ include.hero.alt.desktop }}"
   ></span>
-  {% asset hero-mobile-2022.jpg alt="'{{ include.hero.alt.mobile }}'"
-  class="height-auto width-full desktop:display-none" %}
+  <img src="{{ '/assets/images/hero-mobile-2022.jpg' | relative_url }}" alt="'{{ include.hero.alt.mobile }}'" class="height-auto width-full desktop:display-none" />
   <div class="grid-container">
     <div class="grid-row grid-gap">
       <div class="desktop:grid-col-6">

@@ -109,7 +109,7 @@
     }
 
     .usa-nav__primary button[aria-expanded="false"] {
-      background-image: url("./img/sprite.svg#expand_more");
+      background-image: url("../images/uswds/sprite.svg#expand_more");
       ::after {
         background-color: color("white");
       }
