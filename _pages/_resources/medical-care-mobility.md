@@ -12,8 +12,6 @@ related-content: true
 tags:
   - medical care
   - health care
-  - title ii
-  - title iii
 redirect_from:
   - /medcare_mobility_ta/medcare_ta.htm
   - /medcare_ta.htm
