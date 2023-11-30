@@ -55,7 +55,19 @@ There are three options for filing an ADA complaint:
 
 <li>
 <h3 class="margin-left-1">2. Mail</h3>
+<<<<<<< HEAD
 <span>Fill out and send the paper ADA Complaint Form (<a class="pa11y-skip file-a-complaint" data-ga-event-name="ADA complaint form 1 file a complaint link" href="{{'assets/pdfs/file-a-complaint.pdf' | relative_url}}">Regular Format</a> | <a class="pa11y-skip file-a-complaint" data-ga-event-name="ADA complaint form 1 file a complaint link" href="{{'assets/pdfs/file-a-complaint-lg.pdf' | relative_url}}">Large Format</a>) or a letter containing the same information, to:</span>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<span>Fill out and send the paper ADA Complaint Form (<a class="pa11y-skip file-a-complaint" data-ga-event-name="ADA complaint form 1 file a complaint link" href="{{'assets/pdfs/file-a-complaint.pdf' | relative_url}}">Regular Format</a> | <a class="pa11y-skip file-a-complaint" data-ga-event-name="ADA complaint form 1 file a complaint link" href="{{'assets/pdfs/file-a-complaint-lg.pdf' | relative_url}}">Large Format</a>) or a letter containing the same information, to:</span>
+=======
+<span>Fill out and send the paper ADA Complaint Form (<a class="pa11y-skip file-a-complaint" data-ga-event-name="ADA complaint form 1 file a complaint link" href="{{'assets/_pdfs/file-a-complaint.pdf' | relative_url}}">Regular Format</a> | <a class="pa11y-skip file-a-complaint" data-ga-event-name="ADA complaint form 1 file a complaint link" href="{{'assets/_pdfs/file-a-complaint-lg.pdf' | relative_url}}">Large Format</a>) or a letter containing the same information, to:</span>
+>>>>>>> a0b0a9d (commit)
+=======
+<span>Fill out and send the paper ADA Complaint Form (<a class="pa11y-skip file-a-complaint" data-ga-event-name="ADA complaint form 1 file a complaint link" href="{{'assets/_pdfs/file-a-complaint.pdf' | relative_url}}">Regular Format</a> | <a class="pa11y-skip file-a-complaint" data-ga-event-name="ADA complaint form 1 file a complaint link" href="{{'assets/_pdfs/file-a-complaint-lg.pdf' | relative_url}}">Large Format</a>) or a letter containing the same information, to:</span>
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 U.S. Department of Justice<br/>
 Civil Rights Division<br/>
 950 Pennsylvania Avenue, NW<br/>
@@ -63,7 +75,19 @@ Washington, DC 20530
 </li>
 <li>
 <h3 class="margin-left-1">3. Fax</h3>
+<<<<<<< HEAD
 <span>Fill out and send the paper ADA Complaint Form (<a class="pa11y-skip file-a-complaint" data-ga-event-name="ADA complaint form 1 file a complaint link" href="{{'assets/pdfs/file-a-complaint.pdf' | relative_url}}">Regular Format</a> | <a class="pa11y-skip file-a-complaint" data-ga-event-name="ADA complaint form large 1 file a complaint link" href="{{'assets/pdfs/file-a-complaint-lg.pdf' | relative_url}}">Large Format</a>) or a letter containing the same information, and fax to (202) 307-1197. <br/><br/>Remember to keep a copy of your complaint and the original documents for your own records.</span>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<span>Fill out and send the paper ADA Complaint Form (<a class="pa11y-skip file-a-complaint" data-ga-event-name="ADA complaint form 1 file a complaint link" href="{{'assets/pdfs/file-a-complaint.pdf' | relative_url}}">Regular Format</a> | <a class="pa11y-skip file-a-complaint" data-ga-event-name="ADA complaint form large 1 file a complaint link" href="{{'assets/pdfs/file-a-complaint-lg.pdf' | relative_url}}">Large Format</a>) or a letter containing the same information, and fax to (202) 307-1197. <br/><br/>Remember to keep a copy of your complaint and the original documents for your own records.</span>
+=======
+<span>Fill out and send the paper ADA Complaint Form (<a class="pa11y-skip file-a-complaint" data-ga-event-name="ADA complaint form 1 file a complaint link" href="{{'assets/_pdfs/file-a-complaint.pdf' | relative_url}}">Regular Format</a> | <a class="pa11y-skip file-a-complaint" data-ga-event-name="ADA complaint form large 1 file a complaint link" href="{{'assets/_pdfs/file-a-complaint-lg.pdf' | relative_url}}">Large Format</a>) or a letter containing the same information, and fax to (202) 307-1197. <br/><br/>Remember to keep a copy of your complaint and the original documents for your own records.</span>
+>>>>>>> a0b0a9d (commit)
+=======
+<span>Fill out and send the paper ADA Complaint Form (<a class="pa11y-skip file-a-complaint" data-ga-event-name="ADA complaint form 1 file a complaint link" href="{{'assets/_pdfs/file-a-complaint.pdf' | relative_url}}">Regular Format</a> | <a class="pa11y-skip file-a-complaint" data-ga-event-name="ADA complaint form large 1 file a complaint link" href="{{'assets/_pdfs/file-a-complaint-lg.pdf' | relative_url}}">Large Format</a>) or a letter containing the same information, and fax to (202) 307-1197. <br/><br/>Remember to keep a copy of your complaint and the original documents for your own records.</span>
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 </li>
 </ol>
 </div>

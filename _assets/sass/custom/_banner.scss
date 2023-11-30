@@ -1,0 +1,12 @@
+@use "uswds-core" as *;
+
+body > .usa-banner {
+  .usa-banner__button-text {
+    font-weight: bold;
+  }
+
+  .usa-banner__header {
+    padding-bottom: units(1);
+    padding-top: units(1);
+  }
+}

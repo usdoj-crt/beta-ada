@@ -21,7 +21,19 @@
           {% for section in include.learn.sections %}
             <div class="tablet:grid-col-4 crt-landing--section__item">
               <div class="crt-landing--reporting_column">
+<<<<<<< HEAD
                 <div class="h4 crt-landing--icon_gold"><img src="{{section.icon | prepend: '/assets/images/' | relative_url}}" alt=""/></div>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+                <div class="h4 crt-landing--icon_gold"><img src="{{section.icon | prepend: '/assets/images/' | relative_url}}" alt=""/></div>
+=======
+                <div class="h4 crt-landing--icon_gold">{% asset {{section.icon}} alt=""%}</div>
+>>>>>>> a0b0a9d (commit)
+=======
+                <div class="h4 crt-landing--icon_gold">{% asset {{section.icon}} alt=""%}</div>
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
                 <div>
                   <h3 class="text__reverse margin-bottom-0">
                     {{ section.heading }}

@@ -1,0 +1,77 @@
+@use "uswds-core" as *;
+@use 'variables' as *;
+
+/******************************************
+Heading and body type styles
+******************************************/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @include add-knockout-font-smoothing;
+}
+
+// NOTE: We're overriding the USWDS declarations for heading tags here because
+// we want to avoid the normalization that happens with the font tokens:
+// https://designsystem.digital.gov/design-tokens/typesetting/overview/
+h1,
+.h1 {
+  @include text--heading__xlarge();
+  font-family: family("heading");
+  font-weight: $theme-font-weight-bold;
+  color: color($theme-color-primary-darker);
+}
+
+h2,
+.h2 {
+  @include text--heading__large();
+  font-family: family("heading");
+  font-weight: $theme-font-weight-bold;
+  color: color($theme-color-primary-darker);
+}
+
+h3,
+.h3 {
+  @include heading--three();
+}
+
+h4,
+.h4 {
+  @include text--heading__small();
+  font-family: family("heading");
+  font-weight: $theme-font-weight-bold;
+  color: color($theme-color-primary-darker);
+}
+
+p,
+li {
+  @include text--body-copy__medium();
+}
+
+.word-break {
+  @include at-media(mobile) {
+    word-break: break-all;
+  }
+}
+
+a,
+a:visited {
+  color: color($theme-link-color);
+  &:hover {
+    color: color($theme-link-hover-color);
+  }
+}
+
+.text__reverse {
+  color: color("white");
+}
+
+.total-results {
+  font-size: 1.375rem;
+}
+
+blockquote a {
+  overflow-wrap: break-word;
+}

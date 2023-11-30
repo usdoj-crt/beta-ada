@@ -1,9 +1,28 @@
 ---
 title: "ADA Requirements:  Testing Accommodations"
 description: "This document provides technical assistance on testing accommodations for individuals with disabilities who take standardized exams and other high-stakes tests."
+<<<<<<< HEAD
 permalink: /resources/testing-accommodations/
 lead: |-
   
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+permalink: /resources/testing-accommodations/
+lead: |-
+  
+=======
+=======
+>>>>>>> a0b0a9d (commit)
+searchgov_custom1: "This document provides technical assistance on testing accommodations for individuals with disabilities who take standardized exams and other high-stakes tests."
+permalink: /resources/testing-accommodations/
+lead: |-
+
+<<<<<<< HEAD
+>>>>>>> a0b0a9d (commit)
+=======
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 lang: "en"
 publish-date: 2015-09-08 00:00:00
 updated-date: 2020-02-28 00:00:00
@@ -113,7 +132,19 @@ Depending on the particular  testing accommodation request and the nature of the
 
 ## How Quickly Should A Testing Entity  Respond To A Request For Testing Accommodations?
 
+<<<<<<< HEAD
  **A testing entity  must respond in a timely manner to requests for testing accommodations so as to  ensure equal opportunity for individuals with disabilities.**  Testing entities should ensure that  their process for reviewing and approving testing accommodations responds in  time for applicants to register and prepare for the test.<a href="#_ftn6" name="_ftnref6" title="" id="_ftnref6"><sup>6</sup></a>  In addition, the process should provide  applicants with a reasonable opportunity to respond to any requests for  additional information from the testing entity, and still be able to take the  test in the same testing cycle.  Failure  by a testing entity to act in a timely manner, coupled with seeking unnecessary  documentation, could result in such an extended delay that it constitutes a  denial of equal opportunity or equal treatment in an examination setting for  persons with disabilities.  
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+ **A testing entity  must respond in a timely manner to requests for testing accommodations so as to  ensure equal opportunity for individuals with disabilities.**  Testing entities should ensure that  their process for reviewing and approving testing accommodations responds in  time for applicants to register and prepare for the test.<a href="#_ftn6" name="_ftnref6" title="" id="_ftnref6"><sup>6</sup></a>  In addition, the process should provide  applicants with a reasonable opportunity to respond to any requests for  additional information from the testing entity, and still be able to take the  test in the same testing cycle.  Failure  by a testing entity to act in a timely manner, coupled with seeking unnecessary  documentation, could result in such an extended delay that it constitutes a  denial of equal opportunity or equal treatment in an examination setting for  persons with disabilities.  
+=======
+ **A testing entity  must respond in a timely manner to requests for testing accommodations so as to  ensure equal opportunity for individuals with disabilities.**  Testing entities should ensure that  their process for reviewing and approving testing accommodations responds in  time for applicants to register and prepare for the test.<a href="#_ftn6" name="_ftnref6" title="" id="_ftnref6"><sup>6</sup></a>  In addition, the process should provide  applicants with a reasonable opportunity to respond to any requests for  additional information from the testing entity, and still be able to take the  test in the same testing cycle.  Failure  by a testing entity to act in a timely manner, coupled with seeking unnecessary  documentation, could result in such an extended delay that it constitutes a  denial of equal opportunity or equal treatment in an examination setting for  persons with disabilities.
+>>>>>>> a0b0a9d (commit)
+=======
+ **A testing entity  must respond in a timely manner to requests for testing accommodations so as to  ensure equal opportunity for individuals with disabilities.**  Testing entities should ensure that  their process for reviewing and approving testing accommodations responds in  time for applicants to register and prepare for the test.<a href="#_ftn6" name="_ftnref6" title="" id="_ftnref6"><sup>6</sup></a>  In addition, the process should provide  applicants with a reasonable opportunity to respond to any requests for  additional information from the testing entity, and still be able to take the  test in the same testing cycle.  Failure  by a testing entity to act in a timely manner, coupled with seeking unnecessary  documentation, could result in such an extended delay that it constitutes a  denial of equal opportunity or equal treatment in an examination setting for  persons with disabilities.
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 ## How  Should Testing Entities Report Test Scores for Test-Takers Receiving  Disability-Related Accommodations?
 
 **Testing  entities should report accommodated scores in the same way they report scores  generally.**  Testing entities must not decline to report  scores for test-takers with disabilities receiving accommodations under the  ADA.

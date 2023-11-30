@@ -32,7 +32,19 @@ These government websites are important because they:
 - expand the possibilities of reaching new sectors of the community or offering new programs.
 
 {% figure Homepage example %}
+<<<<<<< HEAD
 <img src="{{ '/assets/images/project-images/fullertonhome.jpg' | relative_url }}" alt="image of a homepage of a local government website" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<img src="{{ '/assets/images/project-images/fullertonhome.jpg' | relative_url }}" alt="image of a homepage of a local government website" />
+=======
+{% asset project-images/fullertonhome.jpg alt="image of a homepage of a local government website" %}
+>>>>>>> a0b0a9d (commit)
+=======
+{% asset project-images/fullertonhome.jpg alt="image of a homepage of a local government website" %}
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 {% figcaption %}
 Local government websites provide important information and services to citizens
 {% endfigcaption %}
@@ -88,7 +100,19 @@ including which pages should be given high priority for change. Let citizens kno
 information to increase accessibility.
 
 {% figure Examples of Accessible Features for Websites %}
+<<<<<<< HEAD
 <img src="{{ '/assets/images/project-images/forall-web-image.jpg' | relative_url }}" alt="demonstration webpage image with notes for accessible features" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<img src="{{ '/assets/images/project-images/forall-web-image.jpg' | relative_url }}" alt="demonstration webpage image with notes for accessible features" />
+=======
+{% asset project-images/forall-web-image.jpg alt="demonstration webpage image with notes for accessible features" %}
+>>>>>>> a0b0a9d (commit)
+=======
+{% asset project-images/forall-web-image.jpg alt="demonstration webpage image with notes for accessible features" %}
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 {% figcaption %}
 Notes:<br>
 
@@ -140,8 +164,29 @@ Reproduction of this document is encouraged.
 
 The Attorney General has determined that publication of this periodical is necessary in the transaction of the public business required by law of the Department of Justice.
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> e75e6a3 (commit)
 <hr>
 The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.
 
 This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
 <hr>
+<<<<<<< HEAD
+=======
+=======
+=======
+>>>>>>> a0b0a9d (commit)
+<hr>  
+The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
+
+This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
+<<<<<<< HEAD
+<hr>
+>>>>>>> a0b0a9d (commit)
+=======
+<hr>
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
