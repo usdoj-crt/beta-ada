@@ -12,7 +12,19 @@ jobs:
       - name: Install Ruby Dependencies
         uses: ruby/setup-ruby@v1
         with:
+<<<<<<< HEAD
           ruby-version: 3.2.2
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+          ruby-version: 3.2.2
+=======
+          ruby-version: 2.7.8
+>>>>>>> a0b0a9d (commit)
+=======
+          ruby-version: 2.7.8
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
           bundler-cache: true
 
       - name: Install Node.js Dependencies
@@ -22,7 +34,19 @@ jobs:
       - run: npm install
 
       - name: Start Server
+<<<<<<< HEAD
         run: npm run build:media && npm run build:css && npm run build:js && bundle exec jekyll serve --config _config.yml,_config_test.yml --detach
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+        run: npm run build:media && npm run build:css && npm run build:js && bundle exec jekyll serve --config _config.yml,_config_test.yml --detach
+=======
+        run: npm run build:css && npm run build:js && bundle exec jekyll serve --config _config.yml,_config_test.yml --detach
+>>>>>>> a0b0a9d (commit)
+=======
+        run: npm run build:css && npm run build:js && bundle exec jekyll serve --config _config.yml,_config_test.yml --detach
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 
       - name: Run Accessibility Tests -- Desktop
         run: npm run test:a11y-desktop

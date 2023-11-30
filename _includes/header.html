@@ -10,7 +10,19 @@
     <nav aria-label="{{site.data['en']['i18n'].aria.primary_navigation}}" class="usa-nav desktop:margin-top-3">
       <div class="usa-nav__inner">
         <button aria-expanded="true" class="usa-nav__close">
+<<<<<<< HEAD
           <img src="{{ '/assets/images/uswds/usa-icons/close.svg' | relative_url }}" alt="{{site.data['en']['i18n'].aria.close}}" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+          <img src="{{ '/assets/images/uswds/usa-icons/close.svg' | relative_url }}" alt="{{site.data['en']['i18n'].aria.close}}" />
+=======
+          {% asset img/usa-icons/close.svg alt="{{site.data['en']['i18n'].aria.close}}" %}
+>>>>>>> a0b0a9d (commit)
+=======
+          {% asset img/usa-icons/close.svg alt="{{site.data['en']['i18n'].aria.close}}" %}
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
         </button>
         <ul class="usa-nav__primary usa-accordion">
           {% for nav_item in site.primary_navigation %} {% unless nav_item.children %} {% assign
@@ -54,7 +66,21 @@
         <div
           class="display-flex order-3 desktop:display-none flex-align-start padding-left-6 padding-right-3 bg-primary-lighter margin-x-neg-3 padding-y-3 line-height-sans-5"
         >
+<<<<<<< HEAD
         <img src="{{ '/assets/images/ic_phone-circle.svg' | relative_url }}" class="margin-right-1" alt="{{site.data["en"]['i18n'].aria.phone}}" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+        <img src="{{ '/assets/images/ic_phone-circle.svg' | relative_url }}" class="margin-right-1" alt="{{site.data["en"]['i18n'].aria.phone}}" />
+=======
+          {% asset ic_phone-circle.svg class="margin-right-1"
+          alt="{{site.data["en"]['i18n'].aria.phone}}" %}
+>>>>>>> a0b0a9d (commit)
+=======
+          {% asset ic_phone-circle.svg class="margin-right-1"
+          alt="{{site.data["en"]['i18n'].aria.phone}}" %}
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
           <div>
             <span class="display-block margin-bottom-05 text-bold"
               ><a href="{{'/infoline/' | relative_url }}">{{site.data["en"]["i18n"].hotline.heading}}</a></span

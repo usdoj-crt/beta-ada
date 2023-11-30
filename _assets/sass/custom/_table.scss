@@ -1,0 +1,11 @@
+@forward 'usa-table/src/styles';
+@use 'variables' as *;
+
+
+table {
+    @extend .usa-table;
+
+    caption {
+      background-color: white;
+    }
+  }

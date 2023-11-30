@@ -144,7 +144,19 @@ govdelivery:
   link_text: Sign Up
 
 # Search.gov configuration
+<<<<<<< HEAD
 # NOTE: The configuration is also set in the Javascript code: /assets/js/utils/constants.js
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+# NOTE: The configuration is also set in the Javascript code: /assets/js/utils/constants.js
+=======
+# NOTE: The configuration is also set in the Javascript code: /_assets/js/utils/constants.js
+>>>>>>> a0b0a9d (commit)
+=======
+# NOTE: The configuration is also set in the Javascript code: /_assets/js/utils/constants.js
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 # 1. Create an account with Search.gov https://search.usa.gov/signup
 # 2. Add a new site.
 # 3. Add your site/affiliate name here.
@@ -190,10 +202,22 @@ defaults:
       path: "_includes/"
     values:
       sitemap: false
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> e75e6a3 (commit)
   - scope:
       path: "assets/"
     values:
       sitemap: false
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a0b0a9d (commit)
+=======
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 
 languages: ["en"]
 default_lang: "en"
@@ -224,3 +248,42 @@ exclude: # Be sure to add new excludes to _config.dev.yml as well!
   - make_redirects.rb
   - /scripts
   - /node_modules
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a0b0a9d (commit)
+
+assets:
+  autoprefixer:
+    browsers:
+      - "> 2%"
+      - "last 2 versions"
+      - "IE 11"
+      - "not dead"
+  raw_precompile:
+    - source: node_modules/@uswds/uswds/dist/fonts/**/*
+      strip: node_modules/@uswds/uswds/dist/
+    - source: node_modules/@uswds/uswds/dist/img/*
+      strip: node_modules/@uswds/uswds/dist/
+    - source: node_modules/@uswds/uswds/dist/img/usa-icons/*
+      strip: node_modules/@uswds/uswds/dist/
+    - source: node_modules/@uswds/uswds/dist/img/usa-icons-bg/*
+      strip: node_modules/@uswds/uswds/dist/
+    - source: node_modules/@uswds/uswds/dist/img/sprite.svg
+      strip: node_modules/@uswds/uswds/dist/
+    - source: _pdfs/*
+    - source: _assets/images/*
+      strip: _assets/
+    - source: _includes/**/*
+  sources:
+    - node_modules/anchor-js
+    - node_modules/gumshoejs/dist
+    - node_modules/@uswds/uswds/dist
+<<<<<<< HEAD
+>>>>>>> a0b0a9d (commit)
+=======
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)

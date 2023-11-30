@@ -50,7 +50,19 @@ In addition, all buildings, including those built before the ADA went into effec
 **You should always address the patient directly, not the companion, as you would with any other patient.** Just because the patient has a disability does not mean that he or she cannot speak for him or herself or understand the exam results. It is up to the patient to decide whether a companion remains in the room during your exam or discussion with the patient. The patient may have brought a companion to assist in getting to the exam, but would prefer to ask the companion to leave the room before the doctor begins a substantive discussion. Before beginning your examination or discussion, you should ask the patient if he or she wishes the companion to remain in the room.
 {% enddetails %}
 
+<<<<<<< HEAD
 {% details Can I decide not to treat a patient with a disability because it takes me longer to examine them, and insurance won't reimburse me for the additional time? expandable %}
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+{% details Can I decide not to treat a patient with a disability because it takes me longer to examine them, and insurance won't reimburse me for the additional time? expandable %}
+=======
+{% details Can I decide not to treat a patient with a disability because it takes me longer to examine them, and insurance won't reimburse me for the additional time? expandalbe %}
+>>>>>>> a0b0a9d (commit)
+=======
+{% details Can I decide not to treat a patient with a disability because it takes me longer to examine them, and insurance won't reimburse me for the additional time? expandalbe %}
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 **No, you cannot refuse to treat a patient who has a disability just because the exam might take more of your or your staff's time.** Some examinations take longer than others, for all sorts of reasons, in the normal course of a medical practice.
 {% enddetails %}
 
@@ -95,7 +107,19 @@ The number of examination rooms with accessible equipment needed by the medical 
 
 Under the ADA Standards for Accessible Design, an accessible doorway must have a minimum clear opening width of 32 inches when the door is opened to 90 degrees.
 
+<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/ManClearDoorExample.jpg' | relative_url }}" alt="Illustration showing plan view of hinged door with clear floor space on both sides of door." /> |
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+| <img src="{{ '/assets/images/project-images/ManClearDoorExample.jpg' | relative_url }}" alt="Illustration showing plan view of hinged door with clear floor space on both sides of door." /> |
+=======
+| {% asset project-images/ManClearDoorExample.jpg alt="Illustration showing plan view of hinged door with clear floor space on both sides of door." %} |
+>>>>>>> a0b0a9d (commit)
+=======
+| {% asset project-images/ManClearDoorExample.jpg alt="Illustration showing plan view of hinged door with clear floor space on both sides of door." %} |
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 
 Maneuvering clearances on either side of the door that comply with the ADA Standards must be provided. In addition, the door hardware must not require tight twisting, pinching, or grasping in order to use it. Keep in mind that the hallway outside of the door and the space inside the door should be kept free of boxes, chairs, or equipment, so that they do not interfere with the maneuvering clearance or accessible route.
 
@@ -103,7 +127,19 @@ Maneuvering clearances on either side of the door that comply with the ADA Stand
 
 In order for accessible equipment to be usable by an individual who uses a wheelchair or other mobility device, that individual must be able to approach the exam table and any other elements of the room to which patients have access. The exam table must have sufficient clear floor space next to it so that an individual using a wheelchair can approach the side of the table for transfer onto it. The minimum amount of space required is 30 inches by 48 inches. Clear floor space is needed along at least one side of an adjustable height examination table.
 
+<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/30X48ClrFlrSpc.jpg' | relative_url }}" alt="Illustration showing minimum clear floor space for a wheelchair – 48 min by 30 min." /> |
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+| <img src="{{ '/assets/images/project-images/30X48ClrFlrSpc.jpg' | relative_url }}" alt="Illustration showing minimum clear floor space for a wheelchair – 48 min by 30 min." /> |
+=======
+| {% asset project-images/30X48ClrFlrSpc.jpg alt="Illustration showing minimum clear floor space for a wheelchair – 48 min by 30 min." %} |
+>>>>>>> a0b0a9d (commit)
+=======
+| {% asset project-images/30X48ClrFlrSpc.jpg alt="Illustration showing minimum clear floor space for a wheelchair – 48 min by 30 min." %} |
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 
 Because some individuals can only transfer from the right or left side, providing clear floor space on both sides of the table allows one accessible table to serve both right and left side transfers. Another way to allow transfers to either side of exam tables, particularly when more than one accessible examination room is available, is to provide a reverse furniture layout in another accessible examination room.
 
@@ -111,9 +147,27 @@ The room should also have enough turning space for an individual using a wheelch
 
 When a portable patient lift or stretcher is to be used, additional clear floor space will be needed to maneuver the lift or stretcher. Ceiling-mounted lifts, on the other hand, do not require the additional maneuvering clear floor space because these lifts are mounted overhead. (See Part 4 of this publication for more information about lifts.)
 
+<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/30x40ClrFlrSpcExTb.jpg' | relative_url }}" alt="Illustration of patient sitting on adjustable height exam table with clear floor space on both sides and a wheelchair is parked beside the exam table." /> |
 
 | <img src="{{ '/assets/images/project-images/60inTurnCircle.gif' | relative_url }}" alt="Plan view of an exam room showing a circular turning space at the end of the exam table and next to the entry door." /> |
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+| <img src="{{ '/assets/images/project-images/30x40ClrFlrSpcExTb.jpg' | relative_url }}" alt="Illustration of patient sitting on adjustable height exam table with clear floor space on both sides and a wheelchair is parked beside the exam table." /> |
+
+| <img src="{{ '/assets/images/project-images/60inTurnCircle.gif' | relative_url }}" alt="Plan view of an exam room showing a circular turning space at the end of the exam table and next to the entry door." /> |
+=======
+| {% asset project-images/30x40ClrFlrSpcExTb.jpg alt="Illustration of patient sitting on adjustable height exam table with clear floor space on both sides and a wheelchair is parked beside the exam table." %} |
+
+| {% asset project-images/60inTurnCircle.gif alt="Plan view of an exam room showing a circular turning space at the end of the exam table and next to the entry door." %} |
+>>>>>>> a0b0a9d (commit)
+=======
+| {% asset project-images/30x40ClrFlrSpcExTb.jpg alt="Illustration of patient sitting on adjustable height exam table with clear floor space on both sides and a wheelchair is parked beside the exam table." %} |
+
+| {% asset project-images/60inTurnCircle.gif alt="Plan view of an exam room showing a circular turning space at the end of the exam table and next to the entry door." %} |
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 
 ### Features of an Accessible Examination Room
 
@@ -125,7 +179,19 @@ When a portable patient lift or stretcher is to be used, additional clear floor 
 6. Accessible entry door has 32" minimum clear opening width with door open 90 degrees.
 7. Maneuvering clearances are needed at the door to the room.
 
+<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/AccExamRmOverview.jpg' | relative_url }}" alt="Illustration showing an exam room with standard equipment and furniture plus an accessible door, an adjustable height exam table and clear floor space." /> |
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+| <img src="{{ '/assets/images/project-images/AccExamRmOverview.jpg' | relative_url }}" alt="Illustration showing an exam room with standard equipment and furniture plus an accessible door, an adjustable height exam table and clear floor space." /> |
+=======
+| {% asset project-images/AccExamRmOverview.jpg alt="Illustration showing an exam room with standard equipment and furniture plus an accessible door, an adjustable height exam table and clear floor space." %} |
+>>>>>>> a0b0a9d (commit)
+=======
+| {% asset project-images/AccExamRmOverview.jpg alt="Illustration showing an exam room with standard equipment and furniture plus an accessible door, an adjustable height exam table and clear floor space." %} |
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 
 Note: Additional clear floor space can be provided by moving or relocating chairs, trash cans, carts, and other items.
 
@@ -133,11 +199,31 @@ Note: Additional clear floor space can be provided by moving or relocating chair
 
 Availability of accessible medical equipment is an important part of providing accessible medical care, and doctors and other providers must ensure that medical equipment is not a barrier to individuals with disabilities. This section provides examples of accessible medical equipment and how it is used by people with mobility disabilities. Such equipment includes adjustable-height exam tables and chairs, wheelchair-accessible scales, adjustable-height radiologic equipment, portable floor and overhead track lifts, and gurneys and stretchers.
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> e75e6a3 (commit)
 | <img src="{{ '/assets/images/project-images/AdjHhtTableScooter.jpg' | relative_url }}" alt="Illustration showing a man lying on an exam table while a doctor does an exam.  A motorized scooter is positioned next to the table." /> |
 
 The right solution or solutions for providing accessible medical care depends on existing equipment, the space available both within the examination room and for storage of equipment, the size of the practice and staff, and the patient population. What is important is that a person with a disability receives medical services equal to those received by a person without a disability. For example, if a patient must be lying down to be thoroughly examined, then a person with a disability must also be examined lying down. Likewise, examinations which require specialized positioning, such as gynecological examinations, must be accessible to a person with a disability. To provide an accessible gynecological exam to women with paralysis or other conditions that make it difficult or impossible for them to move or support their legs, the provider may need an accessible height exam table with adjustable, padded leg supports, instead of typical stirrups.
 
 | <img src="{{ '/assets/images/project-images/AccExamTable4.jpg' | relative_url }}" alt="Illustration showing an exam table with adjustable lower leg supports." /> |
+<<<<<<< HEAD
+=======
+=======
+=======
+>>>>>>> a0b0a9d (commit)
+| {% asset project-images/AdjHhtTableScooter.jpg alt="Illustration showing a man lying on an exam table while a doctor does an exam.  A motorized scooter is positioned next to the table." %} |
+
+The right solution or solutions for providing accessible medical care depends on existing equipment, the space available both within the examination room and for storage of equipment, the size of the practice and staff, and the patient population. What is important is that a person with a disability receives medical services equal to those received by a person without a disability. For example, if a patient must be lying down to be thoroughly examined, then a person with a disability must also be examined lying down. Likewise, examinations which require specialized positioning, such as gynecological examinations, must be accessible to a person with a disability. To provide an accessible gynecological exam to women with paralysis or other conditions that make it difficult or impossible for them to move or support their legs, the provider may need an accessible height exam table with adjustable, padded leg supports, instead of typical stirrups.
+
+| {% asset project-images/AccExamTable4.jpg alt="Illustration showing an exam table with adjustable lower leg supports." %} |
+<<<<<<< HEAD
+>>>>>>> a0b0a9d (commit)
+=======
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 
 However, if the examination or procedure does not require that a person lie down (for example, an examination of the face or an x-ray of the hand), then using an exam table is not necessarily important to the quality of the medical care and the patient may remain seated.
 
@@ -145,7 +231,19 @@ However, if the examination or procedure does not require that a person lie down
 
 Traditional fixed-height exam tables and chairs (also called treatment tables or procedure tables) are too high for many people with a mobility disability to use. Individuals with mobility disabilities often need to use an adjustable-height table which, when positioned at a low height, allows them to transfer from a wheelchair. A handle or support rail is often needed along one side of the table for stability during a transfer and during the examination. Individuals transfer to and from adjustable-height exam tables and chairs differently. Some will be able to transfer on their own by standing up from a mobility device, pivoting, and sitting down on the exam table. Those using walkers may simply walk to the exam table and sit down, while others with limited mobility may walk more slowly and need a steadying arm or hand to help with balance and sitting down. Some people using wheelchairs may be able to independently transfer to the table or chair, while others will need assistance from a staff member. Transfers may also require use of equipment, such as a transfer board or patient lift.
 
+<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/AdHgtTblElev.jpg' | relative_url }}" alt="Illustration showing an adjustable height exam table in lowered and raised positions.  In lowered position, a woman sits from a standing position.  In raised position, a doctor conducts an examination." /> |
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+| <img src="{{ '/assets/images/project-images/AdHgtTblElev.jpg' | relative_url }}" alt="Illustration showing an adjustable height exam table in lowered and raised positions.  In lowered position, a woman sits from a standing position.  In raised position, a doctor conducts an examination." /> |
+=======
+| {% asset project-images/AdHgtTblElev.jpg alt="Illustration showing an adjustable height exam table in lowered and raised positions.  In lowered position, a woman sits from a standing position.  In raised position, a doctor conducts an examination." %} |
+>>>>>>> a0b0a9d (commit)
+=======
+| {% asset project-images/AdHgtTblElev.jpg alt="Illustration showing an adjustable height exam table in lowered and raised positions.  In lowered position, a woman sits from a standing position.  In raised position, a doctor conducts an examination." %} |
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 
 An accessible exam table or chair should have at least have the following:
 - ability to lower to the height of the wheelchair seat, 17-19 inches from the floor; and
@@ -162,7 +260,19 @@ Different types of exam tables are used for different purposes. Some exam tables
 3. Exam surface lowers to 17" to 19" above the floor
 4. 36" wide minimum accessible route
 
+<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/AccExamTable1.jpg' | relative_url }}" alt="Drawing showing features 1 through 4 of an adjustable height exam table." /> |
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+| <img src="{{ '/assets/images/project-images/AccExamTable1.jpg' | relative_url }}" alt="Drawing showing features 1 through 4 of an adjustable height exam table." /> |
+=======
+| {% asset project-images/AccExamTable1.jpg alt="Drawing showing features 1 through 4 of an adjustable height exam table." %} |
+>>>>>>> a0b0a9d (commit)
+=======
+| {% asset project-images/AccExamTable1.jpg alt="Drawing showing features 1 through 4 of an adjustable height exam table." %} |
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 
 <ol start="5">
 <li>Exam surface may articulate to provide support during patient transfers and positioning</li>
@@ -171,14 +281,38 @@ Different types of exam tables are used for different purposes. Some exam tables
 <li>Space to position a wheelchair alongside table is critical for transfer</li>
 </ol>
 
+<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/AccExamTable2.jpg' | relative_url }}" alt="Drawing showing features 5 through 8 of a woman transferring from her wheelchair to an exam table with the back raised for sitting.  A wheelchair is positioned next to the exam table." /> |
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+| <img src="{{ '/assets/images/project-images/AccExamTable2.jpg' | relative_url }}" alt="Drawing showing features 5 through 8 of a woman transferring from her wheelchair to an exam table with the back raised for sitting.  A wheelchair is positioned next to the exam table." /> |
+=======
+| {% asset project-images/AccExamTable2.jpg alt="Drawing showing features 5 through 8 of a woman transferring from her wheelchair to an exam table with the back raised for sitting.  A wheelchair is positioned next to the exam table." %} |
+>>>>>>> a0b0a9d (commit)
+=======
+| {% asset project-images/AccExamTable2.jpg alt="Drawing showing features 5 through 8 of a woman transferring from her wheelchair to an exam table with the back raised for sitting.  A wheelchair is positioned next to the exam table." %} |
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 
 <ol start="9">
 <li>Positioning and support aids, such as wedges and rolled up blankets, should be available</li>
 <li>Exam surface extensions, such as head and foot rests, provide additional support and positioning options</li>
 </ol>
 
+<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/AccExamTable3.jpg' | relative_url }}" alt="Drawing showing illustrating features 9 and 10 of a woman lying on her side on an exam table and being examined by a doctor." /> |
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+| <img src="{{ '/assets/images/project-images/AccExamTable3.jpg' | relative_url }}" alt="Drawing showing illustrating features 9 and 10 of a woman lying on her side on an exam table and being examined by a doctor." /> |
+=======
+| {% asset project-images/AccExamTable3.jpg alt="Drawing showing illustrating features 9 and 10 of a woman lying on her side on an exam table and being examined by a doctor." %} |
+>>>>>>> a0b0a9d (commit)
+=======
+| {% asset project-images/AccExamTable3.jpg alt="Drawing showing illustrating features 9 and 10 of a woman lying on her side on an exam table and being examined by a doctor." %} |
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 
 ### Typical Transfer Techniques: Staff Assistance and Patient Lifts
 
@@ -186,7 +320,19 @@ Some individuals will need additional assistance to get on and off an exam table
 
 Some individuals will need only a steady hand from a staff person in order to transfer safely to the exam table. Other individuals will need simple tools such as a transfer board (a product made of a smooth rigid material which acts as a supporting bridge between a wheelchair and another surface, along which the individual slides) or sheet. Individuals using a transfer board may need assistance from a staff person.
 
+<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/AssistTrnsfrBrd.jpg' | relative_url }}" alt="Drawing showing techniques 1 and 2 of a man transferring from a wheelchair to an exam table using a sliding board and being supported by an attendant using a gait belt that goes around the waist." /> |
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+| <img src="{{ '/assets/images/project-images/AssistTrnsfrBrd.jpg' | relative_url }}" alt="Drawing showing techniques 1 and 2 of a man transferring from a wheelchair to an exam table using a sliding board and being supported by an attendant using a gait belt that goes around the waist." /> |
+=======
+| {% asset project-images/AssistTrnsfrBrd.jpg alt="Drawing showing techniques 1 and 2 of a man transferring from a wheelchair to an exam table using a sliding board and being supported by an attendant using a gait belt that goes around the waist." %} |
+>>>>>>> a0b0a9d (commit)
+=======
+| {% asset project-images/AssistTrnsfrBrd.jpg alt="Drawing showing techniques 1 and 2 of a man transferring from a wheelchair to an exam table using a sliding board and being supported by an attendant using a gait belt that goes around the waist." %} |
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 
 1. A gait belt with handles assists with guiding along transfer board.
 2. A transfer or sliding board acts as a bridge between wheelchair seat and table surface.
@@ -207,7 +353,19 @@ The most common types of lifts in medical settings are portable with a U-shaped 
 
 #### Assisted Transfer Utilizing a Portable Floor Lift
 
+<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/AssistTransferFlrLift.gif' | relative_url }}" alt="Drawing showing a portable lift being used to transfer a man to movable exam table.  Two other people assist with the transfer and operate the lift." /> |
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+| <img src="{{ '/assets/images/project-images/AssistTransferFlrLift.gif' | relative_url }}" alt="Drawing showing a portable lift being used to transfer a man to movable exam table.  Two other people assist with the transfer and operate the lift." /> |
+=======
+| {% asset project-images/AssistTransferFlrLift.gif alt="Drawing showing a portable lift being used to transfer a man to movable exam table.  Two other people assist with the transfer and operate the lift." %} |
+>>>>>>> a0b0a9d (commit)
+=======
+| {% asset project-images/AssistTransferFlrLift.gif alt="Drawing showing a portable lift being used to transfer a man to movable exam table.  Two other people assist with the transfer and operate the lift." %} |
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 
 To properly and safely assist patients with transfers, medical staff will likely need training on how to operate the equipment and on safe patient handling techniques.
 
@@ -216,7 +374,19 @@ To properly and safely assist patients with transfers, medical staff will likely
 1. Movable exam tables allow additional flexibility to position table and lift for optimal patient transfer.
 2. Clearance beneath the exam table and an angled approach of the lift allows the patient to be positioned directly over the exam table for a safe transfer.
 
+<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/AssTrnsfrLftTbl.jpg' | relative_url }}" alt="Drawing showing a portable lift being used to transfer a woman to movable exam table.  Two other people assist with the transfer and operate the lift." /> |
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+| <img src="{{ '/assets/images/project-images/AssTrnsfrLftTbl.jpg' | relative_url }}" alt="Drawing showing a portable lift being used to transfer a woman to movable exam table.  Two other people assist with the transfer and operate the lift." /> |
+=======
+| {% asset project-images/AssTrnsfrLftTbl.jpg alt="Drawing showing a portable lift being used to transfer a woman to movable exam table.  Two other people assist with the transfer and operate the lift." %} |
+>>>>>>> a0b0a9d (commit)
+=======
+| {% asset project-images/AssTrnsfrLftTbl.jpg alt="Drawing showing a portable lift being used to transfer a woman to movable exam table.  Two other people assist with the transfer and operate the lift." %} |
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 
 #### Notes for Portable Floor Lifts:
 
@@ -232,7 +402,19 @@ Overhead track lifts include ceiling mounted lifts and lifts mounted on a frame 
 
 Ceiling mounted lifts are permanently mounted to the ceiling structure and run along one or more tracks. These lifts require no extra maneuvering space in the room adjacent to the exam table and require little storage space. However, they cannot be used in multiple exam rooms, since they are permanently attached to the ceiling structure.
 
+<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/AssistTrnsMntdOrhdLift.jpg' | relative_url }}" alt="Drawing illustrating a permanently mounted overhead lift transferring a woman from her wheelchair to an exam table.  Two people assist with the transfer and operate the lift." /> |
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+| <img src="{{ '/assets/images/project-images/AssistTrnsMntdOrhdLift.jpg' | relative_url }}" alt="Drawing illustrating a permanently mounted overhead lift transferring a woman from her wheelchair to an exam table.  Two people assist with the transfer and operate the lift." /> |
+=======
+| {% asset project-images/AssistTrnsMntdOrhdLift.jpg alt="Drawing illustrating a permanently mounted overhead lift transferring a woman from her wheelchair to an exam table.  Two people assist with the transfer and operate the lift." %} |
+>>>>>>> a0b0a9d (commit)
+=======
+| {% asset project-images/AssistTrnsMntdOrhdLift.jpg alt="Drawing illustrating a permanently mounted overhead lift transferring a woman from her wheelchair to an exam table.  Two people assist with the transfer and operate the lift." %} |
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 
 1. Ceiling structure must support weight of lift and person.
 2. Overhead track lifts can be used in rooms with limited floor space or where an exam table cannot accommodate a portable floor lift.
@@ -241,7 +423,19 @@ Ceiling mounted lifts are permanently mounted to the ceiling structure and run a
 
 Another type of overhead lift is supported from a frame that rests on the floor. Free-standing, nonpermanent overhead track lifts are a good solution when the provider does not want the lift to be permanently installed or where the existing ceiling structure cannot support a ceiling-mounted overhead lift. The medical provider should choose the type of lift that will work best with the exam tables, the space, and the ceiling or floor structure of the medical facility.
 
+<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/AssistTransFstOverHdLft.jpg' | relative_url }}" alt="Drawing showing a free standing overhead lift transferring a man to an exam table.  Two people assist with the transfer and operate the lift." /> |
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+| <img src="{{ '/assets/images/project-images/AssistTransFstOverHdLft.jpg' | relative_url }}" alt="Drawing showing a free standing overhead lift transferring a man to an exam table.  Two people assist with the transfer and operate the lift." /> |
+=======
+| {% asset project-images/AssistTransFstOverHdLft.jpg alt="Drawing showing a free standing overhead lift transferring a man to an exam table.  Two people assist with the transfer and operate the lift." %} |
+>>>>>>> a0b0a9d (commit)
+=======
+| {% asset project-images/AssistTransFstOverHdLft.jpg alt="Drawing showing a free standing overhead lift transferring a man to an exam table.  Two people assist with the transfer and operate the lift." %} |
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 
 1. Free-standing overhead track lift systems function like ceiling-mounted lifts and do not require modifications to existing construction.
 2. While not as portable as floor lifts with wheels, these lifts are movable and can be relocated as needs or services change.
@@ -253,7 +447,19 @@ Some equipment, including radiologic equipment, lacks space underneath necessary
 
 When it is not feasible or possible to use a lift, another option is an adjustable-height stretcher or gurney (a table that is on wheels) that can be raised or lowered to the height of the exam table or surface. This approach involves a two step process in which the patient must transfer from their wheelchair to the stretcher, usually in a different space or area away from the equipment, and then from the stretcher to the table or surface. As many stretchers do not lower to 17" to 19" above the floor, an assisted transfer with a lift may be required to get the patient onto the stretcher. Stretchers that can be lowered to this range of typical wheelchair seat heights allow individuals capable of independent transfers a choice to do so if they prefer. Once the stretcher is positioned next to the equipment and set at the right height, many people will require assisted transfers utilizing devices such as transfer boards or slip sheets to get onto the table or surface.
 
+<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/AssistedTrnsfrStrchr.jpg' | relative_url }}" alt="Drawing showing a woman being transferred to an exam table using a portable floor lift.  Two people assist with the transfer and operate the lift.  A power wheelchair is positioned to the side." /> |
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+| <img src="{{ '/assets/images/project-images/AssistedTrnsfrStrchr.jpg' | relative_url }}" alt="Drawing showing a woman being transferred to an exam table using a portable floor lift.  Two people assist with the transfer and operate the lift.  A power wheelchair is positioned to the side." /> |
+=======
+| {% asset project-images/AssistedTrnsfrStrchr.jpg alt="Drawing showing a woman being transferred to an exam table using a portable floor lift.  Two people assist with the transfer and operate the lift.  A power wheelchair is positioned to the side." %} |
+>>>>>>> a0b0a9d (commit)
+=======
+| {% asset project-images/AssistedTrnsfrStrchr.jpg alt="Drawing showing a woman being transferred to an exam table using a portable floor lift.  Two people assist with the transfer and operate the lift.  A power wheelchair is positioned to the side." %} |
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 
 1. Adjustable height stretchers facilitate transfer onto radiologic equipment with a table surface. Assisted transfers from a wheelchair may require use of a lift.
 2. Open space under stretcher allows close positioning of lift for transfer.
@@ -262,7 +468,19 @@ When it is not feasible or possible to use a lift, another option is an adjustab
 
 There are many types of radiologic technologies and equipment associated with them, including MRI, x-ray, CT scan, bone densitometry, mammography, and ultrasound. Most of these technologies require the patient to lie on a flat surface that is part of the equipment. The accessibility issues related to transfer to the surface are similar to those addressed previously under Examination Tables and Chairs. However, because the technology is often integrated into the table, the table may not be able to be lowered sufficiently. In these cases, use of a patient lift or another transfer and positioning technique is particularly important for access to this equipment.
 
+<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/AssistTrnsfrDensitometer.jpg' | relative_url }}" alt="Drawing showing a woman being moved from a stretcher to a table at a densitometer.  Three people assist with the lateral transfer." /> |
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+| <img src="{{ '/assets/images/project-images/AssistTrnsfrDensitometer.jpg' | relative_url }}" alt="Drawing showing a woman being moved from a stretcher to a table at a densitometer.  Three people assist with the lateral transfer." /> |
+=======
+| {% asset project-images/AssistTrnsfrDensitometer.jpg alt="Drawing showing a woman being moved from a stretcher to a table at a densitometer.  Three people assist with the lateral transfer." %} |
+>>>>>>> a0b0a9d (commit)
+=======
+| {% asset project-images/AssistTrnsfrDensitometer.jpg alt="Drawing showing a woman being moved from a stretcher to a table at a densitometer.  Three people assist with the lateral transfer." %} |
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 
 1. Set stretcher height to be level with table surface for lateral transfer.
 2. Adequate floor space to maneuver and position stretcher.
@@ -275,7 +493,19 @@ Many radiologic technologies also require the patient to keep still, which may b
 
 A mammography exam typically requires the patient to stand up. Individuals who use wheelchairs will need to have an exam while staying in their wheelchair. The mammography machine will need to adjust to their height and accommodate the space of the wheelchair. People who walk with a mobility device or who cannot stand for prolonged periods of time may need to sit in a chair with adequate support, locking wheels, and an adjustable back and, like people who use wheelchairs, need the machine to adjust to their height once seated. Additionally, some patients may need support to lean forward.
 
+<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/AccMamMachine.jpg' | relative_url }}" alt="Drawing showing a woman seated in a wheelchair in position to receive a mammography exam with features 1, 2 and 3 listed below.  A technician assists the patient in positioning." /> |
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+| <img src="{{ '/assets/images/project-images/AccMamMachine.jpg' | relative_url }}" alt="Drawing showing a woman seated in a wheelchair in position to receive a mammography exam with features 1, 2 and 3 listed below.  A technician assists the patient in positioning." /> |
+=======
+| {% asset project-images/AccMamMachine.jpg alt="Drawing showing a woman seated in a wheelchair in position to receive a mammography exam with features 1, 2 and 3 listed below.  A technician assists the patient in positioning." %} |
+>>>>>>> a0b0a9d (commit)
+=======
+| {% asset project-images/AccMamMachine.jpg alt="Drawing showing a woman seated in a wheelchair in position to receive a mammography exam with features 1, 2 and 3 listed below.  A technician assists the patient in positioning." %} |
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 
 1. Unit pivots to multiple angles and adjusts in height for seated patients.
 2. It is best to position equipment to allow both front and side approaches; for some patients a side or angled approach may be better for positioning at the camera unit and plate.
@@ -285,7 +515,19 @@ A mammography exam typically requires the patient to stand up. Individuals who u
 
 A patient's weight is essential medical information used for diagnostics and treatment. Too often, individuals who use wheelchairs are not weighed at the doctor's office or hospital, even though patients without disabilities are routinely weighed, because the provider does not have a scale that can accommodate a wheelchair. Medical providers should have an accessible scale with a platform large enough to fit a wheelchair, and with a high weight capacity for weighing an individual while seated in his or her wheelchair. Other options may include a scale integrated into a patient lift, hospital bed, or exam table.
 
+<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/accuscale.jpg' | relative_url }}" alt=" Drawing showing a man using a power wheelchair about to get onto an accessible scale with items 1 through 4 noted below." /> |
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+| <img src="{{ '/assets/images/project-images/accuscale.jpg' | relative_url }}" alt=" Drawing showing a man using a power wheelchair about to get onto an accessible scale with items 1 through 4 noted below." /> |
+=======
+| {% asset project-images/accuscale.jpg alt=" Drawing showing a man using a power wheelchair about to get onto an accessible scale with items 1 through 4 noted below." %} |
+>>>>>>> a0b0a9d (commit)
+=======
+| {% asset project-images/accuscale.jpg alt=" Drawing showing a man using a power wheelchair about to get onto an accessible scale with items 1 through 4 noted below." %} |
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 
 1. Sloped surface provides access to scale platform -- no abrupt level changes at floor or platform.
 2. Edge protection at drop off.
@@ -308,6 +550,11 @@ For more information about the ADA, please visit [ADA.gov]({{ '/' | relative_url
 {{site.contact.tollfree}} (Voice) and {{site.contact.tty}} (TTY)
 M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> e75e6a3 (commit)
 For people with disabilities, this publication is available in alternate formats.
 
 For more information about Section 504,visit the [Department of Health and Human Services Office for Civil Rights website](https://www.hhs.gov/ocr).  You may also search the list of [HHS OCR regional offices](https://www.hhs.gov/ocr/about-us/contact-us/index.html) near you.
@@ -316,6 +563,24 @@ Section 504's requirements for new construction and alterations to buildings and
 
 <hr>
 The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.
+<<<<<<< HEAD
+=======
+=======
+=======
+>>>>>>> a0b0a9d (commit)
+For people with disabilities, this publication is available in alternate formats.  
+
+For more information about Section 504,visit the [Department of Health and Human Services Office for Civil Rights website](https://www.hhs.gov/ocr).  You may also search the list of [HHS OCR regional offices](https://www.hhs.gov/ocr/about-us/contact-us/index.html) near you.
+
+Section 504's requirements for new construction and alterations to buildings and facilities are found at 45 C.F.R. Part 84, Subpart C for recipients of federal financial assistance.  The regulations are available at [https://www.hhs.gov/ocr/about-us/contact-us/index.html](https://www.hhs.gov/ocr/about-us/contact-us/index.html)  
+
+<hr>  
+The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
+<<<<<<< HEAD
+>>>>>>> a0b0a9d (commit)
+=======
+>>>>>>> a0b0a9d (commit)
+>>>>>>> e75e6a3 (commit)
 
 This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
 <hr>
