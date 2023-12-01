@@ -28,8 +28,6 @@ understand:
   heading: Topics
   lead: |-
     Information for people with disabilities, state and local governments, and businesses
-  content: |-
-    <strong>Pick a topic to find out how the ADA works.</strong> We’ll add more soon.
 
 history:
   content: |-
