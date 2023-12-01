@@ -20,19 +20,7 @@ In addition, businesses or privately owned facilities that provide goods or serv
 
 This compliance brief provides information about the features of accessible car and van parking spaces and how many accessible spaces are required when parking facilities are restriped.
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/shared-van-car-space-2010.jpg' | relative_url }}" alt="An illustration showing a van-accessible parking space sharing an access aisle with an accessible parking space for a car" /> |
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/shared-van-car-space-2010.jpg' | relative_url }}" alt="An illustration showing a van-accessible parking space sharing an access aisle with an accessible parking space for a car" /> |
-=======
-| {% asset project-images/shared-van-car-space-2010.jpg alt="An illustration showing a van-accessible parking space sharing an access aisle with an accessible parking space for a car" %} |
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/shared-van-car-space-2010.jpg alt="An illustration showing a van-accessible parking space sharing an access aisle with an accessible parking space for a car" %} |
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>One of six accessible parking space, but always at least one, must be van-accessible</b> |
 
@@ -118,19 +106,7 @@ Accessible parking spaces may be clustered in one or more facilities if equivale
 
 ## Features of Accessible Parking Spaces
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/60-96-space.jpg' | relative_url }}" alt="An illustration of accessible parking spaces with 60-inch Minimum Width Access Aisle for Cars." /> |
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/60-96-space.jpg' | relative_url }}" alt="An illustration of accessible parking spaces with 60-inch Minimum Width Access Aisle for Cars." /> |
-=======
-| {% asset project-images/60-96-space.jpg alt="An illustration of accessible parking spaces with 60-inch Minimum Width Access Aisle for Cars." %} |
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/60-96-space.jpg alt="An illustration of accessible parking spaces with 60-inch Minimum Width Access Aisle for Cars." %} |
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>Accessible Parking Spaces with 60-inch Minimum Width Access Aisle for Cars</b> |
 
@@ -156,19 +132,7 @@ Access aisles may be located on either side of the parking space except for angl
 
 Van-accessible parking spaces incorporate the features of accessible parking spaces on the previous page and require the following additional features: a "van accessible" designation on the sign; different widths for the van parking space or the access aisle; and at least 98 inches of vertical clearance for the van parking space, access aisle, and vehicular route to and from the van-accessible space. The first image below shows a van-accessible space with a 60-inch minimum width access aisle. The second image shows a van-accessible space with a 96-inch minimum width access aisle. Both configurations are permitted and requirements for van-accessible signage and vertical clearance apply to both configurations.
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/60-132-space.jpg' | relative_url }}" alt="An illustration of a minimum 132 inch wide van-accessible parking space with 60-inch minimum width access aisle." />|
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/60-132-space.jpg' | relative_url }}" alt="An illustration of a minimum 132 inch wide van-accessible parking space with 60-inch minimum width access aisle." />|
-=======
-| {% asset project-images/60-132-space.jpg alt="An illustration of a minimum 132 inch wide van-accessible parking space with 60-inch minimum width access aisle." %}|
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/60-132-space.jpg alt="An illustration of a minimum 132 inch wide van-accessible parking space with 60-inch minimum width access aisle." %}|
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>Van-Accessible Parking Space with 60-inch Minimum Width Access Aisle</b> |
 
@@ -180,31 +144,11 @@ Van-accessible parking spaces incorporate the features of accessible parking spa
 
 3. Van parking space must be 132 inches wide minimum with an adjacent 60-inch wide minimum access aisle. A van parking space of 96 inches wide minimum width an adjacent 96-inch wide minimum access aisle is also permitted (see below).
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> e75e6a3 (commit)
 | <img src="{{ '/assets/images/project-images/96-96-space.jpg' | relative_url }}" alt="An illustration of a minimum 96 inch wide van-accessible parking space with 96-inch minimum width access aisle." /> |
 |:--:|
 | <b>Van-Accessible Parking Space with 96-inch Minimum Width Access Aisle</b> |
 
 | <img src="{{ '/assets/images/project-images/4-spaces-exception.jpg' | relative_url }}" alt="An illustration showing the front of a convenience store with four parking spaces.  One parking space is a van-accessible space." /> |
-<<<<<<< HEAD
-=======
-=======
-=======
->>>>>>> a0b0a9d (commit)
-| {% asset project-images/96-96-space.jpg alt="An illustration of a minimum 96 inch wide van-accessible parking space with 96-inch minimum width access aisle." %} |
-|:--:|
-| <b>Van-Accessible Parking Space with 96-inch Minimum Width Access Aisle</b> |
-
-| {% asset project-images/4-spaces-exception.jpg alt="An illustration showing the front of a convenience store with four parking spaces.  One parking space is a van-accessible space." %} |
-<<<<<<< HEAD
->>>>>>> a0b0a9d (commit)
-=======
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>Where four or fewer parking spaces are provided on a site, signage identifying the van-accessible parking space is not required.</b> |
 
@@ -231,16 +175,4 @@ The Americans with Disabilities Act authorizes the Department of Justice (the De
 
 This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
 <hr>
-<<<<<<< HEAD
 Duplication of this document is encouraged.
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-Duplication of this document is encouraged.
-=======
-Duplication of this document is encouraged.
->>>>>>> a0b0a9d (commit)
-=======
-Duplication of this document is encouraged.
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)

@@ -22,19 +22,11 @@ lead: |-
 
 **2021 - Present**
 
-<<<<<<< HEAD
 Go to our cases page on [justice.gov/CRT](https://www.justice.gov/crt/disability-rights-cases)
 
 **2006 - 2020**
 
 Go to our cases page on [archive.ADA.gov](http://archive.ada.gov/enforce_current.htm)
-=======
-Go to our cases page on <a class="pa11y-skip enforcement-link" data-ga-event-name="Justice.gov enforcement cases" href="https://www.justice.gov/crt/disability-rights-cases">justice.gov/CRT</a>
-
-**2006 - 2020**
-
-Go to our cases page on <a class="pa11y-skip enforcement-link" data-ga-event-name="ADA Archive enforcement cases" href="http://archive.ada.gov/enforce_current.htm">archive.ADA.gov</a>
->>>>>>> e75e6a3 (commit)
 
 ## Enforcing the ADA
 

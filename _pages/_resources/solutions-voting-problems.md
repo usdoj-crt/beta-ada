@@ -19,19 +19,7 @@ This publication provides a brief discussion of physical barriers to access in f
 While locating polling places in accessible facilities makes ADA compliance more likely, there may be times when that is not possible and the use of temporary measures to provide access will be necessary.
 
 <figure id="cover">
-<<<<<<< HEAD
 <img src="{{ '/assets/images/project-images/polling-place-front.jpg' | relative_url }}" alt="overhead view of the front of a polling place" height="325" width="250" />
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<img src="{{ '/assets/images/project-images/polling-place-front.jpg' | relative_url }}" alt="overhead view of the front of a polling place" height="325" width="250" />
-=======
-{% asset project-images/polling-place-front.jpg alt="overhead view of the front of a polling place" height="325" width="250" %}
->>>>>>> a0b0a9d (commit)
-=======
-{% asset project-images/polling-place-front.jpg alt="overhead view of the front of a polling place" height="325" width="250" %}
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 <figcaption>
 **Entrance to a polling place with the accessible route shown from parking and drop off areas into the polling place**
 </figcaption>
@@ -42,19 +30,7 @@ While locating polling places in accessible facilities makes ADA compliance more
 While permanently removing architectural barriers is preferable, this document provides some low-cost, temporary solutions that can provide temporary access for people with disabilities on Election Day.
 
 <figure id="wheelchair-user">
-<<<<<<< HEAD
 <img src="{{ '/assets/images/project-images/solutions-3.jpeg' | relative_url }}" alt="picture of person using a wheelchair entering polling place" height="325" width="250" />
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<img src="{{ '/assets/images/project-images/solutions-3.jpeg' | relative_url }}" alt="picture of person using a wheelchair entering polling place" height="325" width="250" />
-=======
-{% asset project-images/solutions-3.jpeg alt="picture of person using a wheelchair entering polling place" height="325" width="250" %}
->>>>>>> a0b0a9d (commit)
-=======
-{% asset project-images/solutions-3.jpeg alt="picture of person using a wheelchair entering polling place" height="325" width="250" %}
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 <figcaption>
 **A person using a wheelchair enters a polling place**
 </figcaption>
@@ -73,19 +49,7 @@ Many polling places provide parking for voters but the provision of accessible p
 All of these barriers can prevent voters with disabilities from reaching the polling place.
 
 <figure id="wheelchair-user">
-<<<<<<< HEAD
 <img src="{{ '/assets/images/project-images/solutions-9.jpeg' | relative_url }}" alt="image showing a person using a scooter getting out of van at a temporary van parking space marked with traffic cones to create a  parking space and access aisle" height="325" width="250" />
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<img src="{{ '/assets/images/project-images/solutions-9.jpeg' | relative_url }}" alt="image showing a person using a scooter getting out of van at a temporary van parking space marked with traffic cones to create a  parking space and access aisle" height="325" width="250" />
-=======
-{% asset project-images/solutions-9.jpeg alt="image showing a person using a scooter getting out of van at a temporary van parking space marked with traffic cones to create a  parking space and access aisle" height="325" width="250" %}
->>>>>>> a0b0a9d (commit)
-=======
-{% asset project-images/solutions-9.jpeg alt="image showing a person using a scooter getting out of van at a temporary van parking space marked with traffic cones to create a  parking space and access aisle" height="325" width="250" %}
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 <figcaption>
 **A van parked in a temporary accessible parking space marked with traffic cones to create the access aisle and accessible route and a temporary ramp provides access to the sidewalk**
 </figcaption>
@@ -100,19 +64,7 @@ Parking provided at the polling place must meet specific minimum width requireme
 Temporary parking must be located on the most level area available and as close to the accessible entrance as possible. Traffic cones and portable signs can be used to create accessible parking spaces and access aisles.
 
 <figure id="temp-sign">
-<<<<<<< HEAD
 <img src="{{ '/assets/images/project-images/solutions-2.jpeg' | relative_url }}" alt="photo of a temporary sign providing direction" height="325" width="250" />
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<img src="{{ '/assets/images/project-images/solutions-2.jpeg' | relative_url }}" alt="photo of a temporary sign providing direction" height="325" width="250" />
-=======
-{% asset project-images/solutions-2.jpeg alt="photo of a temporary sign providing direction" height="325" width="250" %}
->>>>>>> a0b0a9d (commit)
-=======
-{% asset project-images/solutions-2.jpeg alt="photo of a temporary sign providing direction" height="325" width="250" %}
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 <figcaption>
 **Temporary sign providing direction to the area for van-accessible parking**
 </figcaption>
@@ -125,19 +77,7 @@ Temporary parking must be located on the most level area available and as close 
 If sidewalks and walkways are in disrepair, it can be difficult, and sometimes impossible, for a voter using a wheelchair or other mobility device to safely navigate to the polling place. Often, sidewalks and walkways are uneven, cracked, or contain potholes, gravel, dirt, or grass. Some sidewalks do not include curb ramps or, if they do, the ramped section is too narrow or steep.
 
 <figure id="sidewalk">
-<<<<<<< HEAD
 <img src="{{ '/assets/images/project-images/solutions-7.jpeg' | relative_url }}" alt="Photo of a sidewalk with broken pavement, raised sections, and patches" height="325" width="250" />
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<img src="{{ '/assets/images/project-images/solutions-7.jpeg' | relative_url }}" alt="Photo of a sidewalk with broken pavement, raised sections, and patches" height="325" width="250" />
-=======
-{% asset project-images/solutions-7.jpeg alt="Photo of a sidewalk with broken pavement, raised sections, and patches" height="325" width="250" %}
->>>>>>> a0b0a9d (commit)
-=======
-{% asset project-images/solutions-7.jpeg alt="Photo of a sidewalk with broken pavement, raised sections, and patches" height="325" width="250" %}
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 <figcaption>
 **A sidewalk with raised and broken sections is a barrier to access**
 </figcaption>
@@ -166,38 +106,14 @@ The entrance area must be level (no level change greater than ½ inch) and shoul
 The use of temporary ramps can provide access over steps or high thresholds. If the area in front of the door is not level or does not provide adequate maneuvering space, then the door may be propped open to allow the person using a wheelchair to enter the polling place. If one door of a double-leaf door is not wide enough, propping open the second door may provide enough clearance. In some circumstances, temporary levers or other adapters that do not require tight grasping, pinching, or twisting, may be installed over existing door hardware to provide independent access. Alternatively, a temporary doorbell or buzzer system may be used to alert a poll worker to open the door or doors for the voter.
 
 <figure id="door-open">
-<<<<<<< HEAD
 <img src="{{ '/assets/images/project-images/solutions-4.jpeg' | relative_url }}" alt="image showing a door to a polling place being held open by staff" height="325" width="250" />
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<img src="{{ '/assets/images/project-images/solutions-4.jpeg' | relative_url }}" alt="image showing a door to a polling place being held open by staff" height="325" width="250" />
-=======
-{% asset project-images/solutions-4.jpeg alt="image showing a door to a polling place being held open by staff" height="325" width="250" %}
->>>>>>> a0b0a9d (commit)
-=======
-{% asset project-images/solutions-4.jpeg alt="image showing a door to a polling place being held open by staff" height="325" width="250" %}
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 <figcaption>
 **Entry doors to the polling place can be propped open or opened by staff to provide access**
 </figcaption>
 </figure>
 
 <figure id="temp-ramp">
-<<<<<<< HEAD
 <img src="{{ '/assets/images/project-images/solutions-10.jpeg' | relative_url }}" alt="image showing a temporary ramp installed at the entrance to a polling place" height="325" width="250" />
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<img src="{{ '/assets/images/project-images/solutions-10.jpeg' | relative_url }}" alt="image showing a temporary ramp installed at the entrance to a polling place" height="325" width="250" />
-=======
-{% asset project-images/solutions-10.jpeg alt="image showing a temporary ramp installed at the entrance to a polling place" height="325" width="250" %}
->>>>>>> a0b0a9d (commit)
-=======
-{% asset project-images/solutions-10.jpeg alt="image showing a temporary ramp installed at the entrance to a polling place" height="325" width="250" %}
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 <figcaption>
 **A temporary ramp with handrails and edge protection provides access over steps**
 </figcaption>
@@ -208,19 +124,7 @@ The use of temporary ramps can provide access over steps or high thresholds. If 
 **Problem**
 
 <figure id="man-cane">
-<<<<<<< HEAD
 <img src="{{ '/assets/images/project-images/solutions-12.jpeg' | relative_url }}" alt="man who is blind walking with a white cane runs into a drinking fountain that is a protruding object" height="325" width="250" />
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<img src="{{ '/assets/images/project-images/solutions-12.jpeg' | relative_url }}" alt="man who is blind walking with a white cane runs into a drinking fountain that is a protruding object" height="325" width="250" />
-=======
-{% asset project-images/solutions-12.jpeg alt="man who is blind walking with a white cane runs into a drinking fountain that is a protruding object" height="325" width="250" %}
->>>>>>> a0b0a9d (commit)
-=======
-{% asset project-images/solutions-12.jpeg alt="man who is blind walking with a white cane runs into a drinking fountain that is a protruding object" height="325" width="250" %}
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 </figure>
 
 In many polling places, particularly those in large facilities such as schools and apartment buildings, hallways contain drinking fountains, coat racks, fire extinguishers, and other protruding objects. These objects may pose hazards to voters with vision disabilities, who may bump into them if they are not detectable by a sweep of a cane.
@@ -234,19 +138,7 @@ Wall-mounted objects located between 27 inches and 80 inches above the floor may
 Place traffic cones or other cane-detectable barriers, such as planters or portable railings, at or under protruding objects. Cane-detectable barriers can also be placed to re-direct voters with vision disabilities around or away from the protruding object. An alternate pedestrian route that does not include the protruding object, if available, may be appropriate.
 
 <figure id="man">
-<<<<<<< HEAD
 <img src="{{ '/assets/images/project-images/solutions-11.jpeg' | relative_url }}" alt="image showing several wall-mounted objects mounted so they are not protruding objects and a man using a white cane using the base of the wall as a shoreline" height="325" width="250" />
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<img src="{{ '/assets/images/project-images/solutions-11.jpeg' | relative_url }}" alt="image showing several wall-mounted objects mounted so they are not protruding objects and a man using a white cane using the base of the wall as a shoreline" height="325" width="250" />
-=======
-{% asset project-images/solutions-11.jpeg alt="image showing several wall-mounted objects mounted so they are not protruding objects and a man using a white cane using the base of the wall as a shoreline" height="325" width="250" %}
->>>>>>> a0b0a9d (commit)
-=======
-{% asset project-images/solutions-11.jpeg alt="image showing several wall-mounted objects mounted so they are not protruding objects and a man using a white cane using the base of the wall as a shoreline" height="325" width="250" %}
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 <figcaption>
 **A voter who is blind walks along a corridor with wall-mounted objects that are not protruding objects because they do not protrude more than 4 inches from the wall, are mounted above 80 inches or are recessed into an alcove**
 </figcaption>
@@ -267,38 +159,14 @@ There must be a minimum 36 inch wide route in and through the voting area. There
 Arrange check-in tables and voting stations to provide an accessible path for the voter to go from the check-in table to the voting station and out again. At least one voting station should provide at least 30 x 48 inches of clear floor space to allow a voter using a wheelchair or other mobility device to maneuver. All floor coverings, such as cardboard or plastic sheets, should be removed or firmly affixed to the floor to provide a stable and slip-resistant floor.
 
 <figure id="voting-machine">
-<<<<<<< HEAD
 <img src="{{ '/assets/images/project-images/solutions-14.jpeg' | relative_url }}" alt="image showing a woman using a power wheelchair pulling up to an accessible voting machine" height="325" width="250" />
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<img src="{{ '/assets/images/project-images/solutions-14.jpeg' | relative_url }}" alt="image showing a woman using a power wheelchair pulling up to an accessible voting machine" height="325" width="250" />
-=======
-{% asset project-images/solutions-14.jpeg alt="image showing a woman using a power wheelchair pulling up to an accessible voting machine" height="325" width="250" %}
->>>>>>> a0b0a9d (commit)
-=======
-{% asset project-images/solutions-14.jpeg alt="image showing a woman using a power wheelchair pulling up to an accessible voting machine" height="325" width="250" %}
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 <figcaption>
 **An accessible voting station with clear floor space**
 </figcaption>
 </figure>
 
 <figure id="overhead">
-<<<<<<< HEAD
 <img src="{{ '/assets/images/project-images/solutions-5.jpeg' | relative_url }}" alt="view of a polling place showing accessible route and turning space" height="325" width="250" />
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<img src="{{ '/assets/images/project-images/solutions-5.jpeg' | relative_url }}" alt="view of a polling place showing accessible route and turning space" height="325" width="250" />
-=======
-{% asset project-images/solutions-5.jpeg alt="view of a polling place showing accessible route and turning space" height="325" width="250" %}
->>>>>>> a0b0a9d (commit)
-=======
-{% asset project-images/solutions-5.jpeg alt="view of a polling place showing accessible route and turning space" height="325" width="250" %}
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 <figcaption>
 **Overhead view of the polling place showing the accessible route and maneuvering spaces for voters who use mobility devices**
 </figcaption>
@@ -333,24 +201,6 @@ All calls are confidential.
 To receive e-mail notifications when new ADA information is available, visit [https://public.govdelivery.com/accounts/USDOJ/subscriber/new?category_id=USDOJ_C26](https://public.govdelivery.com/accounts/USDOJ/subscriber/new?category_id=USDOJ_C26)
 
 <hr>
-<<<<<<< HEAD
 The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.
 
 This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.
-
-This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
-=======
-The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
-
-This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
->>>>>>> a0b0a9d (commit)
-=======
-The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
-
-This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)

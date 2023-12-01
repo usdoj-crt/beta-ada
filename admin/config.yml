@@ -23,19 +23,7 @@ publish_mode: editorial_workflow
 
 # Media Folder: The media_folder option specifies the folder path where uploaded files should be saved, relative to the base of the repo.
 # Required.
-<<<<<<< HEAD
 media_folder: assets/images
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-media_folder: assets/images
-=======
-media_folder: _assets/images
->>>>>>> a0b0a9d (commit)
-=======
-media_folder: _assets/images
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 public_folder: .
 # Search: since site search is already managed by Federalist, we are going to set this value to false. It defaults to true.
 search: false

@@ -4,27 +4,9 @@ description: "This document discusses polling place accessibility with a focus o
 permalink: /resources/polling-places-checklist/
 lead: |-
   Part 1 discusses polling place accessibility with a focus on the areas of a facility that may be used as a polling place on Election Day.
-<<<<<<< HEAD
 
   Part 2 includes a list of the tools election officials will need in order to use the Checklist, some helpful tips on taking measurements and photographs, and a useful list of the most common tools for temporary remedies and the circumstances in which they may be used.
 
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-  Part 2 includes a list of the tools election officials will need in order to use the Checklist, some helpful tips on taking measurements and photographs, and a useful list of the most common tools for temporary remedies and the circumstances in which they may be used.
-
-=======
-  
-  Part 2 includes a list of the tools election officials will need in order to use the Checklist, some helpful tips on taking measurements and photographs, and a useful list of the most common tools for temporary remedies and the circumstances in which they may be used.
-  
->>>>>>> a0b0a9d (commit)
-=======
-  
-  Part 2 includes a list of the tools election officials will need in order to use the Checklist, some helpful tips on taking measurements and photographs, and a useful list of the most common tools for temporary remedies and the circumstances in which they may be used.
-  
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
   Part 3 is the 2016 Checklist.
 lang: "en"
 publish-date: 2016-06-1 00:00:00
@@ -48,19 +30,7 @@ People with disabilities must have the opportunity to be full participants in an
 
 The ADA’s regulations and the ADA Standards for Accessible Design set out what makes a facility accessible and should be used to determine the accessibility of any facility being considered for use as a polling place. This publication, the ADA Checklist for Polling Places (2016 Checklist), provides guidance to election officials for determining whether a polling place already has the basic accessibility features needed by most voters with disabilities or can be made accessible on Election Day using temporary solutions to remove barriers. The updated Checklist includes provisions from the 2010 ADA Standards for Accessible Design (“2010 Standards”).{% fn 3 %} Any alterations made to a polling place must comply with the 2010 Standards.
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/voter-with-service-animal.jpeg' | relative_url }}" alt="illustration of a voter with a disability casting his ballot" />|
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/voter-with-service-animal.jpeg' | relative_url }}" alt="illustration of a voter with a disability casting his ballot" />|
-=======
-| {% asset project-images/voter-with-service-animal.jpeg alt="illustration of a voter with a disability casting his ballot" %}|
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/voter-with-service-animal.jpeg alt="illustration of a voter with a disability casting his ballot" %}|
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>A voter with a disability casting his ballot</b> |
 
@@ -76,19 +46,7 @@ The 2016 Checklist and other Justice Department publications, as well as the tit
 
 The 2016 Checklist, found in Part 3 of this document, is designed to assist officials in determining whether a facility being considered for use as a polling place is accessible to people with mobility or vision disabilities, and, if not, whether modifications can be made to ensure accessibility or relocation to another accessible facility will be necessary.  The 2016 Checklist should be used to evaluate whether both new and existing polling places.  Completing the 2016 Checklist will provide guidance on whether a facility is accessible for voters with disabilities, and how to identify and remedy any barriers that exist.
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/building-entrance.jpeg' | relative_url }}" alt="illustration of the exterior of an accessible polling place" />|
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/building-entrance.jpeg' | relative_url }}" alt="illustration of the exterior of an accessible polling place" />|
-=======
-| {% asset project-images/building-entrance.jpeg alt="illustration of the exterior of an accessible polling place" %}|
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/building-entrance.jpeg alt="illustration of the exterior of an accessible polling place" %}|
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>Accessible polling place</b> |
 
@@ -104,19 +62,7 @@ An evaluation of polling place accessibility focuses on those areas of a facilit
 
 If parking is provided for voters, accessible parking must be provided for people with disabilities. An accessible space is composed of three elements: the parking space, an access aisle adjacent to the space that is wide enough to allow voters with a mobility disability to get out of their car or van, and signage designating it as an accessible space. The 2010 Standards require one accessible parking space per 25 parking spaces provided (up to the first 100 spaces). One of six (or fraction of six) accessible parking spaces, but always at least one, must be van accessible. Generally, the access aisle must be at least 60 inches wide for cars and 96 inches wide for vans. Van accessible spaces can also have an access aisle at least 60 inches wide if the width of the van parking space is at least 132 inches. A sign, with the International Symbol of Accessibility, must mark each accessible parking space. Van accessible spaces must be designated as such on the sign at these spaces. Accessible parking spaces and the access aisles serving them must be on a surface that is stable, firm, and slip resistant (e.g., clear of gravel or mud) without wide cracks or broken pavement and located on the closest accessible route to the accessible entrance. The accessible parking spaces and access aisles must also be level to allow a safe transfer from the car to a person's wheelchair. (See Part 2 of this document for tips on measuring slopes and cross slopes.)
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/shared-van-car-space.jpeg' | relative_url }}" alt="illustration of a van accessible parking space and a car parking space share an access aisle" />|
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/shared-van-car-space.jpeg' | relative_url }}" alt="illustration of a van accessible parking space and a car parking space share an access aisle" />|
-=======
-| {% asset project-images/shared-van-car-space.jpeg alt="illustration of a van accessible parking space and a car parking space share an access aisle" %}|
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/shared-van-car-space.jpeg alt="illustration of a van accessible parking space and a car parking space share an access aisle" %}|
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>A van accessible parking space and a car parking space share an access aisle</b> |
 
@@ -144,19 +90,7 @@ Parking requirements are in Section A of the 2016 Checklist found in Part 3 of t
 
 **Solution:**  Find a relatively level parking area near the accessible entrance to the voting area and then designate the area for accessible parking spaces and adjacent access aisles. Traffic cones or other temporary elements may be used to mark the spaces and access aisles. Provide a temporary sign for each accessible parking space and make sure the access aisle of each space is connected to the accessible route to the accessible entrance.
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/temp-mod-entrance.jpeg' | relative_url }}" alt="illustration of three standard parking spaces converted into a van accessible space using cones and a temporary ramp" />|
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/temp-mod-entrance.jpeg' | relative_url }}" alt="illustration of three standard parking spaces converted into a van accessible space using cones and a temporary ramp" />|
-=======
-| {% asset project-images/temp-mod-entrance.jpeg alt="illustration of three standard parking spaces converted into a van accessible space using cones and a temporary ramp" %}|
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/temp-mod-entrance.jpeg alt="illustration of three standard parking spaces converted into a van accessible space using cones and a temporary ramp" %}|
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>Three standard parking spaces are converted into a van accessible parking space with an access aisle. Cones mark and block off the access aisle and a temporary curb ramp with edge protection connects to an accessible route to the polling place.</b> |
 
@@ -166,19 +100,7 @@ Some voters with disabilities will be driven to the polling place and dropped of
 
 Passenger drop-off area requirements are in Section B of the 2016 Checklist found in Part 3 of this document.
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/passenger-loading-zone.jpeg' | relative_url }}" alt="illustration of an accessible passenger drop-off and loading area" />|
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/passenger-loading-zone.jpeg' | relative_url }}" alt="illustration of an accessible passenger drop-off and loading area" />|
-=======
-| {% asset project-images/passenger-loading-zone.jpeg alt="illustration of an accessible passenger drop-off and loading area" %}|
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/passenger-loading-zone.jpeg alt="illustration of an accessible passenger drop-off and loading area" %}|
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>Accessible passenger drop-off and loading area</b> |
 
@@ -191,19 +113,7 @@ walking or who use wheelchairs or other mobility devices to get into the polling
 
 Route requirements are in Sections C and E of the 2016 Checklist found in Part 3 of this document.
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/polling-place-overview.jpeg' | relative_url }}" alt="illustration of accessible routes to and within the polling place" />|
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/polling-place-overview.jpeg' | relative_url }}" alt="illustration of accessible routes to and within the polling place" />|
-=======
-| {% asset project-images/polling-place-overview.jpeg alt="illustration of accessible routes to and within the polling place" %}|
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/polling-place-overview.jpeg alt="illustration of accessible routes to and within the polling place" %}|
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>Accessible routes to and within the polling place</b> |
 
@@ -233,19 +143,7 @@ If any part of the accessible route - exterior or interior - has a slope greater
 
 In the past, at some polling places where one or more steps were present, officials or other voters have carried people using wheelchairs up the steps. This practice is not only dangerous for the person being carried, but also for those lifting the wheelchair. It is also degrading to the person using a wheelchair and does not provide independent access. Carrying should never be used as an alternative to providing an accessible way to enter a polling place (or other facility).
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/portable-ramp.jpeg' | relative_url }}" alt="illustration of a portable ramp with edge protection and handrails is placed over stairs to provide an accessible route on Election Day" />|
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/portable-ramp.jpeg' | relative_url }}" alt="illustration of a portable ramp with edge protection and handrails is placed over stairs to provide an accessible route on Election Day" />|
-=======
-| {% asset project-images/portable-ramp.jpeg alt="illustration of a portable ramp with edge protection and handrails is placed over stairs to provide an accessible route on Election Day" %}|
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/portable-ramp.jpeg alt="illustration of a portable ramp with edge protection and handrails is placed over stairs to provide an accessible route on Election Day" %}|
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>A portable ramp with edge protection and handrails is placed over stairs to provide an accessible route on Election Day.</b> |
 
@@ -264,19 +162,7 @@ When people who are blind or who have vision loss use a cane to detect hazards, 
 
 Protruding objects are found outdoors on sidewalks and walkways, and indoors in lobby areas, hallways, or voting areas. Because people who are blind or have vision loss may walk on any circulation path, not just the accessible routes, all routes serving or leading to the voting area must be checked for protruding objects.
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/wall-mounted-objects.jpeg' | relative_url }}" alt="illustration of signs and objects placed in a pedestrian route" />|
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/wall-mounted-objects.jpeg' | relative_url }}" alt="illustration of signs and objects placed in a pedestrian route" />|
-=======
-| {% asset project-images/wall-mounted-objects.jpeg alt="illustration of signs and objects placed in a pedestrian route" %}|
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/wall-mounted-objects.jpeg alt="illustration of signs and objects placed in a pedestrian route" %}|
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>Signs or other objects in the pedestrian route can be a hazard if the bottom is more than 27 inches but less than 80 inches above the route. Objects that overhang the pedestrian route must be at least 80 inches above the route.</b> |
 
@@ -298,19 +184,7 @@ Protruding object requirements are in Sections C, E, and F of the 2016 Checklist
 
 **Solution:** Provide a detectable fence or other object so voters cannot walk under the stairs.
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/open-stair-underneath.jpeg' | relative_url }}" alt="illustration of a person walking with a walking stick toward staircases" />|
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/open-stair-underneath.jpeg' | relative_url }}" alt="illustration of a person walking with a walking stick toward staircases" />|
-=======
-| {% asset project-images/open-stair-underneath.jpeg alt="illustration of a person walking with a walking stick toward staircases" %}|
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/open-stair-underneath.jpeg alt="illustration of a person walking with a walking stick toward staircases" %}|
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>When the underside of a set of stairs is open, it is a hazard to people who are blind or have low vision. Enclosing the area below the stair or installing a cane-detectable barrier helps the person to stop before hitting her head.</b> |
 
@@ -327,19 +201,7 @@ Building entrance requirements are in Section D of the 2016 Checklist found in P
 
 **Solution:** If another entrance is accessible and on an accessible route from parking, passenger drop-off sites, or public transportation stops, designate it as the accessible entrance. If the main entrance is not accessible, install a directional sign at the main entrance directing voters with disabilities to the accessible entrance. Keep the accessible entrance unlocked during all voting hours. If another accessible entrance is not available, install a temporary ramp at the main entrance.
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/acc-entrance.jpeg' | relative_url }}" alt="illustration of a polling place with signage indicating an accessible entrance" />|
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/acc-entrance.jpeg' | relative_url }}" alt="illustration of a polling place with signage indicating an accessible entrance" />|
-=======
-| {% asset project-images/acc-entrance.jpeg alt="illustration of a polling place with signage indicating an accessible entrance" %}|
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/acc-entrance.jpeg alt="illustration of a polling place with signage indicating an accessible entrance" %}|
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>Accessible entrance to polling place with signs directing voters to the accessible entrance</b> |
 
@@ -355,19 +217,7 @@ Building entrance requirements are in Section D of the 2016 Checklist found in P
 
 **Solution:** There are four typical solutions: add an accessible pull or handle and leave the door unlatched; install fully accessible door hardware; leave the door propped open; or provide a temporary doorbell to notify officials that the door needs to be opened in a timely manner.
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/accessible-handles.jpeg' | relative_url }}" alt="illustration of four accessible door handles" />|
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/accessible-handles.jpeg' | relative_url }}" alt="illustration of four accessible door handles" />|
-=======
-| {% asset project-images/accessible-handles.jpeg alt="illustration of four accessible door handles" %}|
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/accessible-handles.jpeg alt="illustration of four accessible door handles" %}|
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>Examples of accessible door hardware</b> |
 
@@ -391,19 +241,7 @@ The accessible voting area must have an accessible entrance and adequate circula
 
 Voting area requirements are in Section F of the 2016 Checklist found in Part 3 of this document.
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/voting-area.jpeg' | relative_url }}" alt="illustration of voting machines and accessible pathways inside a polling place" />|
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/voting-area.jpeg' | relative_url }}" alt="illustration of voting machines and accessible pathways inside a polling place" />|
-=======
-| {% asset project-images/voting-area.jpeg alt="illustration of voting machines and accessible pathways inside a polling place" %}|
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/voting-area.jpeg alt="illustration of voting machines and accessible pathways inside a polling place" %}|
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>An accessible route connects the building entrance with the voting area, including voter check-in and voting stations.</b> |
 
@@ -446,37 +284,13 @@ The amount of slope or grade is described as the proportion of a vertical rise t
 
 The easiest way to measure slope is to use a digital level. The digital display gives a reading that may be shown as a ratio, percent, or degree. Calibrate the digital level before each use.
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/digital-level-gs.jpeg' | relative_url }}" alt="illustration of a digital level" />|
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/digital-level-gs.jpeg' | relative_url }}" alt="illustration of a digital level" />|
-=======
-| {% asset project-images/digital-level-gs.jpeg alt="illustration of a digital level" %}|
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/digital-level-gs.jpeg alt="illustration of a digital level" %}|
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>A digital level that can be used with measurements in degrees, percentages, or ratios</b> |
 
 Another way to measure slope is to use a 24 inch level with leveling bubbles and a tape measure. Place the level on the sloped surface in the direction you wish to measure. Rest one end of the level at the highest point of the sloped surface and lift the other end (see image) until the bubble is in the middle of the tube. This is the "level" position. While the level is in this position, measure the distance between the bottom end of the level and the sloped surface below. If the distance is two inches or less, then the slope is 1:12 or less. When the distance is more than two inches, record the distance on the checklist so the exact slope can be calculated later. For measuring cross slope, if the distance measured from the level position is 1/2 inch or less then the slope is 1:48 or less.
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/measuring-slope.jpeg' | relative_url }}" alt="illustration of a person using a bubble level" />|
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/measuring-slope.jpeg' | relative_url }}" alt="illustration of a person using a bubble level" />|
-=======
-| {% asset project-images/measuring-slope.jpeg alt="illustration of a person using a bubble level" %}|
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/measuring-slope.jpeg alt="illustration of a person using a bubble level" %}|
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>Measuring slope using a 24 inch bubble level and tape measure.</b> |
 
@@ -484,19 +298,7 @@ Another way to measure slope is to use a 24 inch level with leveling bubbles and
 
 A tape measure is used to measure the length, width, height, and depth of various elements including parking spaces and access aisles, routes, thresholds, doorways, and protruding objects.
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/measure-parking.jpeg' | relative_url }}" alt="illustration of a two people measuring a parking space" />|
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/measure-parking.jpeg' | relative_url }}" alt="illustration of a two people measuring a parking space" />|
-=======
-| {% asset project-images/measure-parking.jpeg alt="illustration of a two people measuring a parking space" %}|
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/measure-parking.jpeg alt="illustration of a two people measuring a parking space" %}|
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>Using a tape measure to measure the width of a parking space.</b> |
 
@@ -504,19 +306,7 @@ A tape measure is used to measure the length, width, height, and depth of variou
 
 Special care is needed when measuring the clear opening of a doorway. To measure the clear opening of a standard hinged door, open the door to 90 degrees. Measure the clear door opening from the edge of the doorstop to the edge of the door (not to the door jamb). This measures the clear width of the door opening through which people pass, which is less than the width of the door itself. Door handles and push bars should not be included in the measurements of door opening widths.
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/measure-doorway.jpeg' | relative_url }}" alt="illustration of a person measuring the width of a doorway" />|
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/measure-doorway.jpeg' | relative_url }}" alt="illustration of a person measuring the width of a doorway" />|
-=======
-| {% asset project-images/measure-doorway.jpeg alt="illustration of a person measuring the width of a doorway" %}|
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/measure-doorway.jpeg alt="illustration of a person measuring the width of a doorway" %}|
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>Measuring the clear door opening.</b> |
 
@@ -531,163 +321,55 @@ Many accessibility barriers at polling places can be removed with temporary reme
 
 **Traffic Cones**
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/traffic-cone.jpeg' | relative_url }}" alt="illustration of a traffic cone" />|
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/traffic-cone.jpeg' | relative_url }}" alt="illustration of a traffic cone" />|
-=======
-| {% asset project-images/traffic-cone.jpeg alt="illustration of a traffic cone" %}|
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/traffic-cone.jpeg alt="illustration of a traffic cone" %}|
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>Traffic cones can be used to mark parking spaces, access aisles and passenger loading zones, to hold parking signs, and to warn of protruding objects.</b> |
 
 **Parking Signs**
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/parking-sign2.jpeg' | relative_url }}" alt="illustration of a parking sign atop a traffic cone" />|
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/parking-sign2.jpeg' | relative_url }}" alt="illustration of a parking sign atop a traffic cone" />|
-=======
-| {% asset project-images/parking-sign2.jpeg alt="illustration of a parking sign atop a traffic cone" %}|
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/parking-sign2.jpeg alt="illustration of a parking sign atop a traffic cone" %}|
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>Accessible parking signs should be used to designate accessible parking locations.</b> |
 
 **Van Parking Sign**
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/van-signage-2.jpeg' | relative_url }}" alt="illustration of a van accessible parking sign" />|
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/van-signage-2.jpeg' | relative_url }}" alt="illustration of a van accessible parking sign" />|
-=======
-| {% asset project-images/van-signage-2.jpeg alt="illustration of a van accessible parking sign" %}|
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/van-signage-2.jpeg alt="illustration of a van accessible parking sign" %}|
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>Van accessible parking signs should be used to designate van accessible parking locations.</b> |
 
 **Directional Signs**
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/directional-signage.jpeg' | relative_url }}" alt="illustration of a sign directing to an accessible entrance" />|
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/directional-signage.jpeg' | relative_url }}" alt="illustration of a sign directing to an accessible entrance" />|
-=======
-| {% asset project-images/directional-signage.jpeg alt="illustration of a sign directing to an accessible entrance" %}|
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/directional-signage.jpeg alt="illustration of a sign directing to an accessible entrance" %}|
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>Directional signage should be used to show direction to the accessible route, accessible entrance, and voting area.</b> |
 
 **Portable ramp - step 6 inches or less**
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/portable-ramp-step.jpeg' | relative_url }}" alt="illustration of a portable ramp" />|
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/portable-ramp-step.jpeg' | relative_url }}" alt="illustration of a portable ramp" />|
-=======
-| {% asset project-images/portable-ramp-step.jpeg alt="illustration of a portable ramp" %}|
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/portable-ramp-step.jpeg alt="illustration of a portable ramp" %}|
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>Portable ramps without handrails can only be used for heights six inches or less and can provide access at a curb or low step. Portable ramps also can be placed flat to cover holes or gaps in a sidewalk.</b> |
 
 **Portable ramp - greater than six inch step**
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/portable-ramp-at-steps.jpeg' | relative_url }}" alt="illustration of a portable ramp with side rails" />|
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/portable-ramp-at-steps.jpeg' | relative_url }}" alt="illustration of a portable ramp with side rails" />|
-=======
-| {% asset project-images/portable-ramp-at-steps.jpeg alt="illustration of a portable ramp with side rails" %}|
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/portable-ramp-at-steps.jpeg alt="illustration of a portable ramp with side rails" %}|
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>Portable ramps with handrails must be used for heights greater than six inches to provide access over steps. For ramps greater than six inches high, temporary edge protection such as a pipe or piece of wood can be attached with ties or twine to the edges of the ramp. Edge protection must run the entire length of the ramp.</b> |
 
 **Wedges**
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/wedge.jpeg' | relative_url }}" alt="illustration of a wedge placed in a threshold" />|
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/wedge.jpeg' | relative_url }}" alt="illustration of a wedge placed in a threshold" />|
-=======
-| {% asset project-images/wedge.jpeg alt="illustration of a wedge placed in a threshold" %}|
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/wedge.jpeg alt="illustration of a wedge placed in a threshold" %}|
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>Wedges can provide access at thresholds and slight changes in level.</b> |
 
 **Door stop**
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/door-stop.jpeg' | relative_url }}" alt="illustration of a door stop" />|
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/door-stop.jpeg' | relative_url }}" alt="illustration of a door stop" />|
-=======
-| {% asset project-images/door-stop.jpeg alt="illustration of a door stop" %}|
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/door-stop.jpeg alt="illustration of a door stop" %}|
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>Door stops can be used to prop open a door if the door handle is inaccessible, or if there is an inadequate maneuvering clearance for a person using a wheelchair or other mobility device to open the door.</b> |
 
 **Remove post (increase clear width at double leaf doors)**
 
-<<<<<<< HEAD
 | <img src="{{ '/assets/images/project-images/astragal.jpeg' | relative_url }}" alt="illustration of double doors with a center post in the door frame" />|
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-| <img src="{{ '/assets/images/project-images/astragal.jpeg' | relative_url }}" alt="illustration of double doors with a center post in the door frame" />|
-=======
-| {% asset project-images/astragal.jpeg alt="illustration of double doors with a center post in the door frame" %}|
->>>>>>> a0b0a9d (commit)
-=======
-| {% asset project-images/astragal.jpeg alt="illustration of double doors with a center post in the door frame" %}|
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 |:--:|
 | <b>Remove center post between doors if the post is bolted to the door frame to provide a 32 inch clear opening or to allow double doors to be propped open.</b> |
 
@@ -1523,16 +1205,4 @@ Location name:
 <hr>
 The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.
 
-<<<<<<< HEAD
 This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
-=======
-This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
->>>>>>> a0b0a9d (commit)
-=======
-This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)

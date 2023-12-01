@@ -42,19 +42,7 @@ jobs:
       - name: Install Ruby dependencies
         uses: ruby/setup-ruby@v1
         with:
-<<<<<<< HEAD
           ruby-version: 3.2.2
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-          ruby-version: 3.2.2
-=======
-          ruby-version: 2.7.8
->>>>>>> a0b0a9d (commit)
-=======
-          ruby-version: 2.7.8
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
           bundler-cache: true
 
       - name: Install Node.js dependencies
@@ -73,19 +61,7 @@ jobs:
         uses: github/super-linter@v4.0.2
         env:
           DEFAULT_BRANCH: main
-<<<<<<< HEAD
           FILTER_REGEX_INCLUDE: .*(\assets|\_pages|\_site).*
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-          FILTER_REGEX_INCLUDE: .*(\assets|\_pages|\_site).*
-=======
-          FILTER_REGEX_INCLUDE: .*(\_assets|\_pages|\_site).*
->>>>>>> a0b0a9d (commit)
-=======
-          FILTER_REGEX_INCLUDE: .*(\_assets|\_pages|\_site).*
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LINTER_RULES_PATH: /
           VALIDATE_CSS: true

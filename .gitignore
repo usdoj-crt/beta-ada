@@ -7,24 +7,8 @@ node_modules
 .DS_Store
 playwright-report/
 test-results/
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> e75e6a3 (commit)
 assets/js/dist/*
 assets/css
 assets/images/uswds
 assets/fonts
-<<<<<<< HEAD
-=======
-=======
-_assets/js/dist/*
-_assets/css
->>>>>>> a0b0a9d (commit)
-=======
-_assets/js/dist/*
-_assets/css
->>>>>>> a0b0a9d (commit)
->>>>>>> e75e6a3 (commit)
 /scripts/out
