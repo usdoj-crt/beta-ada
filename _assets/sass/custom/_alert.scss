@@ -1,7 +1,0 @@
-@use "uswds-core" as *;
-@use 'variables' as *;
-
-.usa-alert,
-.usa-alert__heading {
-  color: color($theme-text-color) !important;
-}
