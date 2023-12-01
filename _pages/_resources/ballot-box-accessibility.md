@@ -1,6 +1,7 @@
 ---
 title: Ballot Box Accessibility
 description: "This publication includes a survey to guide election officials in evaluating the accessibility of ballot drop boxes used or being considered for use in elections and is a companion piece to the ADA Checklist for Polling Places."
+searchgov-custom: This publication includes a survey to guide election officials in evaluating the accessibility of ballot drop boxes used or being considered for use in elections and is a companion piece to the ADA Checklist for Polling Places.
 permalink: /resources/ballot-box-accessibility/
 lead: |-
 
