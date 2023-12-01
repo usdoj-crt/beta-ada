@@ -1,6 +1,7 @@
 ---
 title: Ballot Box Accessibility
 description: "This publication includes a survey to guide election officials in evaluating the accessibility of ballot drop boxes used or being considered for use in elections and is a companion piece to the ADA Checklist for Polling Places."
+searchgov-custom: This publication includes a survey to guide election officials in evaluating the accessibility of ballot drop boxes used or being considered for use in elections and is a companion piece to the ADA Checklist for Polling Places.
 permalink: /resources/ballot-box-accessibility/
 lead: |-
 
@@ -25,7 +26,7 @@ government programs,{% fn 1 %} including voting. The ADA applies to all parts of
 process, including ballot drop boxes.
 
 <figure id="intro">
-<img src="{{ '/assets/images/project-images/Picture1.jpg' | relative_url }}" alt="image of a ballot drop box and a "Vote Here" sign" height="375" width="450" />
+<img src="{{ '/assets/images/project-images/Picture1.jpg' | relative_url }}" alt='image of a ballot drop box and a "Vote Here" sign' height="375" width="450" />
 <figcaption>
 **A fixed ballot drop box**
 </figcaption>
