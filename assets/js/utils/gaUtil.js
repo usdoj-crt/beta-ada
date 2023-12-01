@@ -33,6 +33,7 @@ function gtag() {
     ['.section-btn', 'click', sendGAClickEvent],
     ['.carousel-btn', 'click', sendGAClickEvent],
     ['.carousel-nav', 'click', sendGAClickEvent],
+    ['.enforcement-link','click', sendGAClickEvent],
   ]
 
   export default function initGAEvents() {

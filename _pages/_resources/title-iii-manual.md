@@ -4,7 +4,7 @@ description: "This document explains what businesses and non-profit agencies mus
 permalink: /resources/title-iii-manual/
 lead: |-
   This technical assistance manual addresses the requirements of title III of the Americans with Disabilities Act, which applies to public accommodations, commercial facilities, and private entities offering certain examinations and courses. It is one of a series of publications issued by Federal agencies under section 506 of the ADA to assist individuals and entities in understanding their rights and duties under the Act.
-  
+
   This manual is part of a broader program of technical assistance conducted by the Department of Justice to promote voluntary compliance with the requirements not only of title III, but also of title II of the ADA, which applies to the operations of State and local governments.
 lang: "en"
 publish-date: 2015-07-20 00:00:00
@@ -16,7 +16,7 @@ tags:
 redirect_from:
   - /taman3.html
 ---
-## Introduction  
+## Introduction
 
 The purpose of this technical assistance manual is to present the ADA&#39;s title III
 requirements in a format that will be useful to the widest possible audience. The
@@ -36,10 +36,10 @@ Regulatory references: 28 CFR 36.102-36.104.
 
 ### III-1.1000 General.
 
-Title III of the ADA covers --  
+Title III of the ADA covers --
 
-1. Places of public accommodation;  
-2. Commercial facilities; and  
+1. Places of public accommodation;
+2. Commercial facilities; and
 3. Examinations and courses related to applications, licensing, certification, or
 credentialing for secondary or postsecondary education, professional, or trade
 purposes.
@@ -75,31 +75,31 @@ auxiliary aids; and removal of barriers in existing facilities.
 ### III-1.2000 Public accommodations.
 
 The broad range of title III obligations relating to &quot;places of public accommodation&quot; must be met by entities that the Department of Justice regulation labels as &quot;public accommodations.&quot; In order to be considered a
-public accommodation with title III obligations, an entity must be private and it must --  
+public accommodation with title III obligations, an entity must be private and it must --
 - Own;
 - Lease;
 - Lease to; or
 - Operate a place of public accommodation.
 
-#### What is a place of public accommodation?  
-A place of public accommodation is a facility whose operations --  
+#### What is a place of public accommodation?
+A place of public accommodation is a facility whose operations --
 
-- Affect commerce; and  
-- Fall within at least one of the following 12 categories:  
-1. Places of lodging (e.g., inns, hotels, motels) (except for owner-occupied establishments renting fewer than six rooms);  
-2. Establishments serving food or drink (e.g., restaurants and bars);  
-3. Places of exhibition or entertainment (e.g., motion picture houses, theaters, concert halls, stadiums);  
-4. Places of public gathering (e.g., auditoriums, convention centers, lecture halls);  
-5. Sales or rental establishments (e.g., bakeries, grocery stores, hardware stores, shopping centers);  
-6. Service establishments (e.g., laundromats, dry-cleaners, banks, barber shops, beauty shops, travel services, shoe repair services, funeral parlors, gas stations, offices of accountants or lawyers, pharmacies, insurance offices, professional offices of health care providers, hospitals);  
-7. Public transportation terminals, depots, or stations (not including facilities relating to air transportation);  
-8. Places of public display or collection (e.g., museums, libraries, galleries);  
-9. Places of recreation (e.g., parks, zoos, amusement parks);  
-10. Places of education (e.g., nursery schools, elementary, secondary, undergraduate, or postgraduate private schools);  
-11. Social service center establishments (e.g., day care centers, senior citizen centers, homeless shelters, food banks, adoption agencies); and  
+- Affect commerce; and
+- Fall within at least one of the following 12 categories:
+1. Places of lodging (e.g., inns, hotels, motels) (except for owner-occupied establishments renting fewer than six rooms);
+2. Establishments serving food or drink (e.g., restaurants and bars);
+3. Places of exhibition or entertainment (e.g., motion picture houses, theaters, concert halls, stadiums);
+4. Places of public gathering (e.g., auditoriums, convention centers, lecture halls);
+5. Sales or rental establishments (e.g., bakeries, grocery stores, hardware stores, shopping centers);
+6. Service establishments (e.g., laundromats, dry-cleaners, banks, barber shops, beauty shops, travel services, shoe repair services, funeral parlors, gas stations, offices of accountants or lawyers, pharmacies, insurance offices, professional offices of health care providers, hospitals);
+7. Public transportation terminals, depots, or stations (not including facilities relating to air transportation);
+8. Places of public display or collection (e.g., museums, libraries, galleries);
+9. Places of recreation (e.g., parks, zoos, amusement parks);
+10. Places of education (e.g., nursery schools, elementary, secondary, undergraduate, or postgraduate private schools);
+11. Social service center establishments (e.g., day care centers, senior citizen centers, homeless shelters, food banks, adoption agencies); and
 12. Places of exercise or recreation (e.g., gymnasiums, health spas, bowling alleys, golf courses).
 
-#### Can a facility be considered a place of public accommodation if it does not fall under one of these 12 categories?  
+#### Can a facility be considered a place of public accommodation if it does not fall under one of these 12 categories?
 No, the 12 categories are an exhaustive list. However, within each category the examples given are just illustrations. For example, the category &quot;sales or rental establishments&quot; would include many facilities other than those specifically listed, such as video stores, carpet showrooms, and athletic equipment stores.
 
 #### What if a private entity operates, or leases space to, many different types of facilities, of which only relatively few are places of public accommodation? Is the whole private entity still a public accommodation?
@@ -134,7 +134,7 @@ to indemnify it against all losses caused by XYZ&#39;s failure to comply with it
 obligations under the lease, but again, such matters would be between the parties and
 would not affect their liability under the ADA.
 
-#### Is a bank that acquires ownership of a place of public accommodation through foreclosure subject to title III?  
+#### Is a bank that acquires ownership of a place of public accommodation through foreclosure subject to title III?
 Yes. Any owner of a place of public accommodation is covered as a public accommodation regardless of the intended or actual duration of its ownership.
 
 #### Can a place of public accommodation be covered by both the ADA and the Fair Housing Act (FHA)?
@@ -153,7 +153,7 @@ addition, if the shelter provides a significant enough level of social services,
 medical care, meals, counseling, transportation, or training, it may also be covered
 under title III as a &quot;social service center establishment.&quot;
 
-#### Does title III apply to common areas within residential facilities?  
+#### Does title III apply to common areas within residential facilities?
 Although title III does not apply to strictly residential facilities, it covers places of public
 accommodation within residential facilities. Thus, areas within multifamily residential
 facilities that qualify as places of public accommodation are covered by the ADA if
@@ -173,7 +173,7 @@ is not a place of public accommodation.
 
 ILLUSTRATION 3: A private residential apartment complex contains a rental office. The rental office is a place of public accommodation.
 
-#### Are model homes places of public accommodation?  
+#### Are model homes places of public accommodation?
 Generally, no. A model home does not fall under one of the 12 categories of places of public accommodation. If,
 however, the sales office for a residential housing development were located in a
 model home, the area used for the sales office would be considered a place of public
@@ -184,16 +184,16 @@ physical access (via ramp or lift) to the primary level of one of several model 
 and make photographs of other levels within the home as well as of other models
 available to the customer.
 
-#### Can a vacation timeshare property be a place of public accommodation?  
+#### Can a vacation timeshare property be a place of public accommodation?
 Yes. Whether a particular timeshare property is a place of public accommodation depends upon how
 much the timeshare operation resembles that of a hotel or other typical place of
-lodging. Among the factors to be considered in this determination are --  
+lodging. Among the factors to be considered in this determination are --
 1. Whether the timeshare offers short-term ownership interests (for instance, stays of
-one week or less are considered short term);  
-2. The nature of the ownership interest conveyed (e.g., fee simple);  
+one week or less are considered short term);
+2. The nature of the ownership interest conveyed (e.g., fee simple);
 3. The degree of restrictions placed on the ownership (e.g., whether the timeshare
 owner has the right to occupy, alter, or exercise control over a particular unit over a
-period of time);  
+period of time);
 4. The extent to which the operations resemble those of a hotel, motel, or inn (e.g.,
 reservations, central registration, meals, laundry service).
 
@@ -275,7 +275,7 @@ obligations of title I if it has enough employees to meet the requirements for c
 A religious entity is a religious organization or an entity
 controlled by a religious organization, including a place of worship.
 
-#### If an organization has a lay board, is it automatically ineligible for the religious exemption?  
+#### If an organization has a lay board, is it automatically ineligible for the religious exemption?
 No. The exemption is intended to have broad application. For example, a
 parochial school that teaches religious doctrine and is sponsored by a religious order
 could be exempt, even if it has a lay board.
@@ -308,7 +308,7 @@ under which rent or other consideration is paid.
 The obligations of title III do not apply to any &quot;private club.&quot; An entity is a private club for purposes of the ADA if it is a private club under title II of the Civil Rights Act of 1964, which prohibits discrimination on the basis of race,
 color, and national origin by public accommodations.
 
-Courts have been most inclined to find private club status in cases where --  
+Courts have been most inclined to find private club status in cases where --
 1. Members exercise a high degree of control over club operations.
 2. The membership selection process is highly selective.
 3. Substantial membership fees are charged.
@@ -357,7 +357,7 @@ compliance with the accessibility guidelines of both titles II and III. In cases
 the standards differ, the stadium would have to meet the standard that provides the
 highest degree of access to individuals with disabilities.
 
-### III-1.8000 Relationship to other laws  
+### III-1.8000 Relationship to other laws
 
 ### III-1.8100 Rehabilitation Act.
 
@@ -375,7 +375,7 @@ laws or any State law that provides protection for individuals with disabilities
 level greater or equal to that provided by the ADA. It does, however, prevail over any
 conflicting State laws.
 
-## III-2.0000 INDIVIDUALS WITH DISABILITIES  
+## III-2.0000 INDIVIDUALS WITH DISABILITIES
 
 Regulatory references: 28 CFR 36.104.
 
@@ -392,12 +392,12 @@ the disabilities reached by title III are limited to those that meet the ADA&#39
 definition -- those that place substantial limitations on an individual&#39;s major life
 activities.
 
-Title III protects three categories of individuals with disabilities:  
+Title III protects three categories of individuals with disabilities:
 
 1. Individuals who have a physical or mental impairment that substantially limits one
-or more major life activities;  
+or more major life activities;
 2. Individuals who have a record of a physical or mental impairment that substantially
-limited one or more of the individual&#39;s major life activities; and  
+limited one or more of the individual&#39;s major life activities; and
 3. Individuals who are regarded as having such an impairment, whether they have the
 impairment or not.
 
@@ -405,10 +405,10 @@ impairment or not.
 
 The first category of persons covered
 by the definition of an individual with a disability is restricted to those with &quot;physical
-or mental impairments.&quot; Physical impairments include --  
+or mental impairments.&quot; Physical impairments include --
 
-1. Physiological disorders or conditions;  
-2. Cosmetic disfigurement; or  
+1. Physiological disorders or conditions;
+2. Cosmetic disfigurement; or
 3. Anatomical loss affecting one or more of the following body systems: neurological; musculoskeletal;
 special sense organs (which would include speech organs that are not respiratory such
 as vocal cords, soft palate, tongue, etc.); respiratory, including speech organs;
@@ -441,7 +441,7 @@ under the ADA. A public accommodation generally, however, may base a decision to
 withhold services or benefits in most cases on the fact that an addict is engaged in the
 current and illegal use of drugs.
 
-#### What is illegal use of drugs?  
+#### What is illegal use of drugs?
 Illegal use of drugs means the use of one or more
 drugs, the possession or distribution of which is unlawful under the Controlled
 Substances Act. It does not include use of controlled substances pursuant to a valid
@@ -449,7 +449,7 @@ prescription or other uses that are authorized by the Controlled Substances Act 
 other Federal law. Alcohol is not a &quot;controlled substance,&quot; but alcoholism is a
 disability.
 
-#### What is &quot;current use&quot;?  
+#### What is &quot;current use&quot;?
 
 &quot;Current use&quot; is the illegal use of controlled substances that
 occurred recently enough to justify a reasonable belief that a person&#39;s drug use is
@@ -457,7 +457,7 @@ current or that continuing use is a real and ongoing problem. Therefore, a priva
 entity should review carefully all the facts surrounding its belief that an individual is
 currently taking illegal drugs to ensure that its belief is a reasonable one.
 
-#### Does title III protect drug addicts who no longer take controlled substances?  
+#### Does title III protect drug addicts who no longer take controlled substances?
 Yes. Title III prohibits discrimination against drug addicts based solely on the fact that they
 previously illegally used controlled substances. Protected individuals include persons
 who have successfully completed a supervised drug rehabilitation program or have otherwise been rehabilitated successfully and who are not engaging in current illegal
@@ -479,7 +479,7 @@ To constitute a
 activities include such activities as caring for one&#39;s self, performing manual tasks,
 walking, seeing, hearing, speaking, breathing, learning, and working.
 
-#### When does an impairment &quot;substantially limit&quot; a major life activity?  
+#### When does an impairment &quot;substantially limit&quot; a major life activity?
 There is no
 absolute standard for determining when an impairment is a substantial limitation. Some impairments obviously or by their nature substantially limit the ability of an
 individual to engage in a major life activity.
@@ -506,7 +506,7 @@ substantially limited in walking merely because, on the eleventh mile, he or she
 begins to experience pain, because most people would not be able to walk eleven
 miles without experiencing some discomfort.
 
-#### Are &quot;temporary&quot; mental or physical impairments covered by title III?  
+#### Are &quot;temporary&quot; mental or physical impairments covered by title III?
 Yes, if the
 impairment substantially limits a major life activity. The issue of whether a temporary
 impairment is significant enough to be a disability must be resolved on a case-by-case
@@ -538,7 +538,7 @@ debilitating consequences of the impairment are controlled by medication.
 
 The ADA protects not only those individuals with disabilities who actually have a physical or mental impairment that substantially limits a major life activity, but also those with a record of such an impairment.
 
-This protected group includes --  
+This protected group includes --
 1. A person who has a history of an impairment that substantially limited a major life
 activity but who has recovered from the impairment. Examples of individuals who
 have a history of an impairment are persons who have histories of mental or emotional
@@ -555,7 +555,7 @@ typical situations are covered by this category:
 
 1. An individual who has a physical or mental impairment that does not substantially
 limit major life activities, but who is treated as if the impairment does substantially
-limit a major life activity;  
+limit a major life activity;
 
 ILLUSTRATION: A, an individual with mild diabetes controlled by medication, is
 barred by the staff of a private summer camp from participation in certain sports
@@ -564,7 +564,7 @@ substantially limits a major life activity, she is protected under the ADA becau
 is treated as though she does.
 
 2. An individual who has a physical or mental impairment that substantially limits
-major life activities only as a result of the attitudes of others towards the impairment;  
+major life activities only as a result of the attitudes of others towards the impairment;
 
 ILLUSTRATION: B, a three-year old child born with a prominent facial
 disfigurement, has been refused admittance to a private day care program on the
@@ -574,7 +574,6 @@ only as the result of the attitudes of others toward her impairment.
 
 3. An individual who has no impairments but who is treated by a public
 accommodation as having an impairment that substantially limits a major life activity.
-
 ILLUSTRATION: C is excluded from a private elementary school because the
 principal believes rumors that C is infected with the HIV virus. Even though these
 rumors are untrue, C is protected under the ADA, because he is being subjected to
@@ -589,7 +588,7 @@ voyeurism, gender identity disorders not resulting from physical impairments, ot
 sexual behavior disorders, compulsive gambling, kleptomania, pyromania, and
 psychoactive substance use disorders resulting from current illegal use of drugs.
 
-## III-3.0000 GENERAL REQUIREMENTS  
+## III-3.0000 GENERAL REQUIREMENTS
 
 Regulatory references: 28 CFR 36.201-36.213.
 
@@ -603,8 +602,8 @@ advantages, or accommodations&quot; applies to whatever type of good or service 
 accommodation provides to its customers or clients. In other words, a public
 accommodation must ensure equal opportunity for individuals with disabilities.
 
-Several broad principles underlie the nondiscrimination requirements of title III. These include --  
-1. Equal opportunity to participate;  
+Several broad principles underlie the nondiscrimination requirements of title III. These include --
+1. Equal opportunity to participate;
 2. Equal opportunity to benefit; and
 3. Receipt of benefits in the most integrated setting appropriate.
 
@@ -650,7 +649,7 @@ derive the same result from the class as persons without disabilities.
 
 A primary goal of the ADA is the
 equal participation of individuals with disabilities in the &quot;mainstream&quot; of American
-society. The major principles of mainstreaming include the following:  
+society. The major principles of mainstreaming include the following:
 1. Individuals with disabilities must be integrated to the maximum extent appropriate.
 2. Separate programs are permitted where necessary to ensure equal opportunity. A
 separate program must be appropriate to the particular individual.
@@ -669,7 +668,7 @@ ILLUSTRATION 1: Museums generally do not allow visitors to touch exhibits
 because handling can cause damage to the objects. A municipal museum may offer a
 special tour for individuals with vision impairments during which they are permitted
 to touch and handle specific objects on a limited basis.(It cannot, however, exclude a
-blind person from the standard museum tour.)  
+blind person from the standard museum tour.)
 
 ILLUSTRATION 2: A private athletic facility may sponsor a separate basketball
 league for individuals who use wheelchairs.
@@ -834,9 +833,9 @@ considers the particular activity and the actual abilities and disabilities of t
 individual.
 
 The individual assessment must be based on reasonable judgment that relies on
-current medical evidence, or on the best available objective evidence, to determine --  
-1. The nature, duration, and severity of the risk;  
-2. The probability that the potential injury will actually occur; and  
+current medical evidence, or on the best available objective evidence, to determine --
+1. The nature, duration, and severity of the risk;
+2. The probability that the potential injury will actually occur; and
 3. Whether reasonable modifications of policies, practices, or procedures will mitigate
 or eliminate the risk.
 
@@ -965,11 +964,11 @@ the title III new construction requirements, because the rooms are not being use
 exclusively as a residence. Moreover, J must assure that there is an accessible route to
 the day care rooms and bathroom.
 
-## III-4.0000 SPECIFIC REQUIREMENTS  
+## III-4.0000 SPECIFIC REQUIREMENTS
 
 Regulatory references: 28 CFR 36.301-36.310.
 
-### III-4.1000 Eligibility criteria  
+### III-4.1000 Eligibility criteria
 
 ### III-4.1100 General.
 
@@ -1057,7 +1056,7 @@ organization to provide payment in full prior to the seminar. Due to a business
 emergency, the individual is unable to attend. The organization may not charge the
 deaf individual for the cost of the unused interpreting services.
 
-### III-4.2000 Reasonable modifications  
+### III-4.2000 Reasonable modifications
 
 ### III-4.2100 General.
 
@@ -1096,9 +1095,9 @@ from persons with disabilities.
 
 It is not considered discriminatory for a public
 accommodation with a specialty in a particular area to refer an individual with a
-disability to a different public accommodation if --  
+disability to a different public accommodation if --
 1. The individual is seeking a service or treatment outside the referring public
-accommodation&#39;s area of expertise; and  
+accommodation&#39;s area of expertise; and
 2. The public accommodation would make a similar referral for an individual who
 does not have a disability.
 
@@ -1165,8 +1164,8 @@ versions of books. The ADA does not require the bookstore to expand its inventor
 include large print books or books on audio tape.
 
 On the other hand, a public accommodation may be required to special order
-accessible goods at the request of a customer with a disability if --  
-1. It makes special orders for unstocked goods in its regular course of business, and  
+accessible goods at the request of a customer with a disability if --
+1. It makes special orders for unstocked goods in its regular course of business, and
 2. The accessible or special goods requested can be obtained from one of its regular
 suppliers.
 
@@ -1209,7 +1208,7 @@ the same service to its customers with disabilities. However, a &quot;no frills&
 merchandiser would not be required to provide assistance in trying on garments,
 because it does not provide such a service to any of its customers.
 
-### III-4.3000 Auxiliary aids  
+### III-4.3000 Auxiliary aids
 
 ### III-4.3100 General.
 
@@ -1413,7 +1412,7 @@ is therefore a &quot;lesser&quot; standard, the factors to be considered in dete
 readily achievable are identical to those listed above for determining undue burden.
 
 
-### III-4.4000 Removal of barriers  
+### III-4.4000 Removal of barriers
 
 ### III-4.4100 General.
 
@@ -1500,25 +1499,25 @@ The Department&#39;s regulation contains a list of 21 examples of modifications 
 be readily achievable:
 1. Installing ramps;
 2. Making curb cuts in sidewalks and entrances;
-3. Repositioning shelves;  
-4. Rearranging tables, chairs, vending machines, display racks, and other furniture;  
-5. Repositioning telephones;  
-6. Adding raised markings on elevator control buttons;  
-7. Installing flashing alarm lights;  
-8. Widening doors;  
-9. Installing offset hinges to widen doorways;  
-10. Eliminating a turnstile or providing an alternative accessible path;  
-11. Installing accessible door hardware;  
-12. Installing grab bars in toilet stalls;  
-13. Rearranging toilet partitions to increase maneuvering space;  
-14. Insulating lavatory pipes under sinks to prevent burns;  
-15. Installing a raised toilet seat;  
-16. Installing a full-length bathroom mirror;  
-17. Repositioning the paper towel dispenser in a bathroom;  
-18. Creating designated accessible parking spaces;  
+3. Repositioning shelves;
+4. Rearranging tables, chairs, vending machines, display racks, and other furniture;
+5. Repositioning telephones;
+6. Adding raised markings on elevator control buttons;
+7. Installing flashing alarm lights;
+8. Widening doors;
+9. Installing offset hinges to widen doorways;
+10. Eliminating a turnstile or providing an alternative accessible path;
+11. Installing accessible door hardware;
+12. Installing grab bars in toilet stalls;
+13. Rearranging toilet partitions to increase maneuvering space;
+14. Insulating lavatory pipes under sinks to prevent burns;
+15. Installing a raised toilet seat;
+16. Installing a full-length bathroom mirror;
+17. Repositioning the paper towel dispenser in a bathroom;
+18. Creating designated accessible parking spaces;
 19. Installing an accessible paper cup dispenser at an existing inaccessible water
-fountain;  
-20. Removing high pile, low density carpeting; or  
+fountain;
+20. Removing high pile, low density carpeting; or
 21. Installing vehicle hand controls.
 
 Businesses such as restaurants may need to rearrange tables and department stores may need to adjust their layout of racks and shelves in order to permit wheelchair access, but they are not required to do so if it would result in a significant loss of
@@ -1701,10 +1700,10 @@ remove barriers to physical access in assembly areas such as theaters, lecture h
 and conference rooms with fixed seating.
 
 If it is readily achievable to do so, public accommodations that operate places of
-assembly must locate seating for individuals who use wheelchairs so that it --  
-1. Is dispersed throughout the seating area;  
-2. Provides lines of sight and choices of admission prices comparable to those offered to the general public;  
-3. Adjoins an accessible route for emergency egress; and  
+assembly must locate seating for individuals who use wheelchairs so that it --
+1. Is dispersed throughout the seating area;
+2. Provides lines of sight and choices of admission prices comparable to those offered to the general public;
+3. Adjoins an accessible route for emergency egress; and
 4. Permits people who use wheelchairs to sit with their friends or family.
 
 If it is not readily achievable for auditoriums or theaters to remove seats to allow
@@ -1774,7 +1773,7 @@ and vary depending on both the capacity of the vehicle and its intended use, as
 follows:
 1. Fixed route system: Vehicle capacity over 16.Any vehicle with a capacity over 16
 that is purchased or leased for a fixed route system must be &quot;readily accessible to and
-usable by individuals with disabilities, including those who use wheelchairs.&quot;  
+usable by individuals with disabilities, including those who use wheelchairs.&quot;
 2. Fixed route system: Vehicle capacity of 16 or less. Vehicles of this description
 must meet the same &quot;readily accessible and usable&quot; standard described in (1) above,
 unless they are part of a system that already meets the &quot;equivalent service&quot; standard.
@@ -1805,7 +1804,7 @@ Opportunity Commission to implement title I of the ADA. However, if employees an
 customers or clients are served by the same transportation system, the provisions of
 the title III regulation will also apply.
 
-### III-4.5000 Alternatives to barrier removal  
+### III-4.5000 Alternatives to barrier removal
 
 ### III-4.5100 General.
 
@@ -1847,7 +1846,7 @@ The factors to consider in determining if an alternative is readily
 achievable are the same as those that are considered in determining if barrier removal
 is readily achievable (see III-4.4200).
 
-#### If a public accommodation provides its services through alternative measures, such as home delivery, may it charge its customers for this special service?  
+#### If a public accommodation provides its services through alternative measures, such as home delivery, may it charge its customers for this special service?
 No.  When goods
 or services are provided to an individual with a disability through alternative methods
 because the public accommodation&#39;s facility is inaccessible, the public
@@ -2070,7 +2069,7 @@ covered by the requirement that they be offered in an accessible place and manne
 and an entity that offers such courses may not designate particular courses for
 individuals with disabilities and refuse to make other courses accessible.
 
-## III-5.0000 NEW CONSTRUCTION  
+## III-5.0000 NEW CONSTRUCTION
 
 Regulatory references: 28 CFR 36.401; 36.406; Appendix A.
 
@@ -2184,7 +2183,7 @@ ILLUSTRATION 3: Because of the unique structure of ships, none of the ADAAG tech
 standards are appropriate. Until such time as the Architectural and Transportation
 Barriers Compliance Board issues specific standards applicable to ships, there is no
 requirement that ships be constructed accessibly. (Cruise ships would still be subject
-to other title III requirements.)  
+to other title III requirements.)
 
 ### III-5.4000 Elevator exemption.
 
@@ -2270,7 +2269,7 @@ on the second floor. In this case, both the first and second floors qualify as a
 &quot;shopping center or mall,&quot; because each of those floors has at least one sales
 establishment. Although no floor alone has five sales establishments, the first and
 second floor each have at least one such establishment and, together, the total is five. (The accountant&#39;s and lawyer&#39;s offices are &quot;service establishments&quot; and are not
-included in the number of &quot;sales or retail establishments.&quot;)  
+included in the number of &quot;sales or retail establishments.&quot;)
 
 #### When a building is being constructed, the owner or developer does not always know exactly what types of stores will be located in the facility. In such a situation, how will the Department of Justice determine whether a facility was intended as a shopping center?
 
@@ -2280,10 +2279,10 @@ establishment (which would mean that floor is a shopping center).Relevant questi
 include --
 1. What type of businesses did the developer target in his advertising and marketing
 of the property? Was the developer trying to encourage sales establishments to join
-the property?  
+the property?
 2. Was the facility designed with any special features for sales or rental
 establishments? For example, are there counters and large windows and check-out
-aisles?  
+aisles?
 3. What type of establishment actually first occupied the floor? Was it retail stores or
 was it offices, for example?
 
@@ -2324,7 +2323,7 @@ loading and unloading, baggage claim, dining facilities, and other common areas 
 to the public - are located on the same floor level and on an accessible route from an
 accessible entrance, an elevator is not required.
 
-## III-6.0000 ALTERATIONS  
+## III-6.0000 ALTERATIONS
 
 Regulatory references: 28 CFR 36.402-36.406; Appendix A.
 
@@ -2356,7 +2355,7 @@ alteration that must be done in accordance with ADAAG reach requirements.
 
 BUT: If the electrical wiring inside the wall is being changed, usability by an
 individual with disabilities is not affected. Thus, the wiring need not be done in
-compliance with ADAAG because it is not an &quot;alteration.&quot;  
+compliance with ADAAG because it is not an &quot;alteration.&quot;
 
 #### What does &quot;maximum extent feasible&quot; mean?
 Occasionally, the nature of a facility makes it impossible to comply with all of the alterations standards. In such a case,
@@ -2563,7 +2562,7 @@ the activities offered in the inaccessible room by making available a video
 presentation of the items within the inaccessible room. The video can be viewed in a
 nearby accessible room in the museum.
 
-## III-7.0000 THE AMERICANS WITH DISABILITIES ACT ACCESSIBILITY GUIDELINES (ADAAG)  
+## III-7.0000 THE AMERICANS WITH DISABILITIES ACT ACCESSIBILITY GUIDELINES (ADAAG)
 
 Regulatory references: Appendix A to 28 CFR Part 36.
 
@@ -2601,18 +2600,18 @@ Departures are permitted from particular
 requirements where alternative designs and technologies will provide substantially
 equivalent or greater access to and usability of the facility.
 
-ADAAG itself provides various examples of equivalent facilitation, i.e., acceptable deviations from the standards. For instance --  
+ADAAG itself provides various examples of equivalent facilitation, i.e., acceptable deviations from the standards. For instance --
 1. In altered areas, elevator car dimensions can be smaller than the standards would
-mandate for new construction (§4.1.6(3)(c));  
+mandate for new construction (§4.1.6(3)(c));
 2. Rather than install a text telephone next to a pay phone, hotels may keep portable
 text telephones at the desk, if they are available 24 hours per day and certain other
-conditions are met (§4.31.9);  
+conditions are met (§4.31.9);
 3. A folding shelf with space for handing materials back and forth can be used instead
-of providing an accessible ticketing or other similar counter (§7.2(2)(iii));  
+of providing an accessible ticketing or other similar counter (§7.2(2)(iii));
 4. Accessible guest quarters in newly constructed hotels may all be &quot;multiple-
 occupancy&quot; rooms, provided that individuals with disabilities who request accessible
 single-occupancy rooms are allowed to use the multiple-occupancy rooms at the cost
-of a single-occupancy room (&sect;9.1.4(2));  
+of a single-occupancy room (&sect;9.1.4(2));
 5. If balconies or terraces cannot be made accessible because wind or water damage
 will result, a ramp or raised decking may be used (§9.2.2(6)).
 
@@ -2706,8 +2705,8 @@ made fully accessible, either by ramp or elevator.
 Temporary buildings that are extensively used or are essential for public use are covered. However, structures, sites,
 and equipment directly associated with major construction are not covered.
 
-### III-7.3130 General exceptions (ADAAG §4.1.1(5)). Accessibility is not required to --  
-1. Observation galleries used primarily for security purposes; or  
+### III-7.3130 General exceptions (ADAAG §4.1.1(5)). Accessibility is not required to --
+1. Observation galleries used primarily for security purposes; or
 2. Nonoccupiable spaces accessed only by ladders, crawl spaces, very narrow
 passageways, or freight (nonpassenger) elevators, and frequented only by service
 personnel for repair purposes. This includes elevator pits, elevator penthouses, piping
@@ -2719,7 +2718,7 @@ They are not exempt. However, they are work areas subject to the
 limited exemption discussed above. In addition, mechanical rooms are exempt from
 the elevator requirement (§4.1.3(5), Exception 2).
 
-### III-7.4000 Sites and exterior facilities  
+### III-7.4000 Sites and exterior facilities
 
 ### III-7.4100 General.
 
@@ -2788,7 +2787,7 @@ Interior and exterior stairs must comply if they go between levels not connected
 ### III-7.5115 Elevators and platform lifts (ADAAG §4.1.3(5)).
 
 Elevators are required
-to serve each level in a newly constructed building, with four exceptions:  
+to serve each level in a newly constructed building, with four exceptions:
 
 1. Exception 1 is the &quot;elevator exemption&quot; discussed above (see III-5.4000).
 2. Exception 2 exempts elevator pits, elevator penthouses, mechanical rooms, and
@@ -2803,9 +2802,9 @@ There are currently no requirements for windows.
 
 ### III-7.5125 Doors (ADAAG §4.1.3(7)).
 
-The following doors must be accessible:  
-1. At least one at each accessible entrance and at each accessible space;  
-2. Each door that is part of an accessible route; and  
+The following doors must be accessible:
+1. At least one at each accessible entrance and at each accessible space;
+2. Each door that is part of an accessible route; and
 3. Each door that is required for egress.
 
 Automated doors are not required. Because of a wide variety of factors that affect door usability, no specific force limit for exterior doors is identified, although standards are provided for interior doors.
@@ -2857,7 +2856,7 @@ Barriers Compliance Board, and will be the subject of future rulemaking.
 
 ### III-7.5165 Signage (ADAAG §§4.1.3(16); 4.30.7).
 
-Different requirements apply to various types of signs:  
+Different requirements apply to various types of signs:
 1. Signs designating permanent rooms and spaces (e.g., men&#39;s and women&#39;s rooms,
 room numbers, exit signs) must have raised and Brailled letters; must comply with
 finish and contrast standards; and must be mounted at a certain height and location.
@@ -2884,7 +2883,7 @@ This section establishes requirements
 for accessibility of pay phones to persons with mobility impairments, hearing
 impairments (requiring some phones with volume controls), and those who cannot use
 voice telephones and need &quot;text telephones&quot; (referred to in the Department&#39;s rule as
-telecommunication devices for the deaf (TDD&#39;s)):  
+telecommunication devices for the deaf (TDD&#39;s)):
 1. One accessible public phone must be provided for each floor, unless the floor has
 two or more banks of phones, in which case there must be one accessible phone for
 each bank.
@@ -2902,7 +2901,7 @@ waiting room.
 At least five percent of fixed or built-
 in seating or tables must be accessible. Wheelchair seating spaces in assembly areas
 and restaurants are not subject to this requirement but, rather, are covered by specific
-requirements for &quot;assembly areas&quot; and &quot;restaurants.&quot;  
+requirements for &quot;assembly areas&quot; and &quot;restaurants.&quot;
 
 ### III-7.5180 Assembly areas (ADAAG §4.1.3(19)).
 
@@ -2923,7 +2922,7 @@ other aisles that do not serve the accessible wheelchair locations are not requi
 comply with the requirements for ramps. ADAAG does not specify the location of the
 accessible means of egress. Therefore, the accessible means of egress from wheelchair
 locations can be through the rear, the side, or the front of the theater. (The general
-requirements for accessible routes are discussed above in III-7.4200.)  
+requirements for accessible routes are discussed above in III-7.4200.)
 2. Assistive listening systems: Certain fixed seating assembly areas that accommodate
 50 or more people or have audio-amplification systems must have a permanently
 installed assistive listening system. Other assembly areas must have a permanent
@@ -2987,10 +2986,10 @@ Throughout ADAAG, there are numerous examples of areas where there are less stri
 <ol>
 <li>Section 4.1.6(3) contains a detailed set of special technical provisions for alterations to be applied where it is technically infeasible to comply with other provisions of the guidelines. Entities are permitted to
 <ol type="a">
-<li>Install only one accessible unisex bathroom per floor;</li>  
-<li>Cluster wheelchair seating in altered assembly areas;</li>  
-<li>Use platform lifts as part of an accessible route, without having to meet any of the conditions for use of platform lifts applicable in the new construction context (§4.1.3(5));</li>  
-<li>Install only one accessible dressing room for each sex on each level.</li>  
+<li>Install only one accessible unisex bathroom per floor;</li>
+<li>Cluster wheelchair seating in altered assembly areas;</li>
+<li>Use platform lifts as part of an accessible route, without having to meet any of the conditions for use of platform lifts applicable in the new construction context (§4.1.3(5));</li>
+<li>Install only one accessible dressing room for each sex on each level.</li>
 </ol></li>
 <li>Areas of rescue assistance are not required in alterations (§4.1.6(1)(g)).</li>
 <li>There are special less stringent requirements for alterations in many other areas, including sales and service counters (§7.2(1)), check-out aisles (&sect;7.3(1)), hotels (&sect;9.1.5), and homeless shelters (&sect;9.5.2(2)).</li>
@@ -3074,14 +3073,14 @@ transportation provisions of titles II and III.
 
 There are currently no standards for boats or ferry docks.
 
-## III-8.0000 ENFORCEMENT  
+## III-8.0000 ENFORCEMENT
 
 Regulatory references: 28 CFR 36.501-36.508.
 
 ### III-8.1000 General.
 
 The ADA establishes two avenues for enforcement of the
-requirements of title III --  
+requirements of title III --
 
 1. Private suits by individuals who are being subjected to discrimination or who have
 reasonable grounds for believing that they are about to be subjected to discrimination.
@@ -3121,18 +3120,18 @@ methods of barrier removal.
 The Department of Justice will investigate alleged violations of title III and undertake periodic reviews of compliance
 of covered entities. An investigation may be requested by any individual who believes that he or she has been discriminated against or that a specific class of persons has been discriminated against in violation of title III. Where the Department has reason to believe that there may be a violation, it may initiate a compliance review.
 
-Complaints may be sent to the following address:  
-Office on the Americans with Disabilities Act  
-Civil Rights Division  
-U.S. Department of Justice  
-P.O. Box 66738  
-Washington, D.C. 20035-9998  
+Complaints may be sent to the following address:
+Office on the Americans with Disabilities Act
+Civil Rights Division
+U.S. Department of Justice
+P.O. Box 66738
+Washington, D.C. 20035-9998
 
 ### III-8.4000 Suit by the Attorney General.
 
-The Department may bring a civil action in any appropriate United States district court if it has reasonable cause to believe that--  
+The Department may bring a civil action in any appropriate United States district court if it has reasonable cause to believe that--
 1. Any person or group of persons is engaged in a pattern or practice of discrimination
-in violation of title III; or  
+in violation of title III; or
 2. Any person or group of persons has been discriminated against in violation of title III and the discrimination raises an issue of general public importance.
 
 #### What remedies are available in civil actions brought by the Department of Justice?
@@ -3149,9 +3148,9 @@ individual victims of discrimination. Monetary damages do not include punitive
 damages. They do include, however, all forms of compensatory damages, including
 out-of-pocket expenses and damages for pain and suffering.
 
-Also, to vindicate the public interest, the court may assess a civil penalty against the covered entity in an amount --  
+Also, to vindicate the public interest, the court may assess a civil penalty against the covered entity in an amount --
 
-1. Not exceeding $50,000 for a first violation; and  
+1. Not exceeding $50,000 for a first violation; and
 2. Not exceeding $100,000 for any subsequent violation.
 
 #### How will violations be counted in determining whether a particular violation is &quot;first&quot; or &quot;subsequent&quot;?
@@ -3256,8 +3255,8 @@ failure to receive technical assistance.
 
 ### III-8.8000 Effective date.
 
-The ADA requirements became effective on --  
-1. January 26, 1992, generally;  
+The ADA requirements became effective on --
+1. January 26, 1992, generally;
 2. August 26, 1990, for purchase or lease of new vehicles that are required to be
 accessible.
 
@@ -3268,13 +3267,13 @@ New facilities designed and constructed for first occupancy later than January 2
 No. All businesses must comply by
 January 26, 1992. Small businesses, however, do enjoy limited protection from
 lawsuits. Except with respect to new construction and alterations, no lawsuit may be
-filed until --  
+filed until --
 1. July 26, 1992, against businesses with 25 or fewer employees and gross receipts of
 $1 million or less.
 2. January 26, 1993, against businesses with ten or fewer employees and gross
 receipts of $500,000 or less.
 
-## III-9.0000 CERTIFICATION  
+## III-9.0000 CERTIFICATION
 
 Regulatory references: 28 CFR 36.601-36.608.
 
@@ -3282,7 +3281,7 @@ Regulatory references: 28 CFR 36.601-36.608.
 
 The ADA authorizes the Attorney General to certify that State
 laws, local building codes, or similar ordinances meet or exceed the title III
-accessibility requirements. Certification is advantageous for the following reasons --  
+accessibility requirements. Certification is advantageous for the following reasons --
 
 1. When an entity is designing, constructing, or altering a building in accordance with
 an applicable State or local code that has been certified by the Department, the
@@ -3380,7 +3379,7 @@ to do so.
 
 #### What does the State or local agency have to do before it applies for certification?
 
-Four things are required:  
+Four things are required:
 1. The code or law must have been formally approved by the issuing body. In those
 States where an administrative agency (rather than the legislature) is charged with
 developing a code, and it becomes law on a certain date if it is not modified by the
@@ -3398,15 +3397,15 @@ public examination and copying.
 
 #### What should the application include?
 The submitting official must include two copies
-of --  
-1. The code;  
-2. Standards or other documents referenced in the code;  
-3. The law creating the agency;  
-4. Any relevant manuals, guides, or other interpretive information;  
-5. Any formal legal opinions that pertain to the code;  
+of --
+1. The code;
+2. Standards or other documents referenced in the code;
+3. The law creating the agency;
+4. Any relevant manuals, guides, or other interpretive information;
+5. Any formal legal opinions that pertain to the code;
 6. Any model code or statute on which the code is based, along with an explanation of
-any differences between the model and the code being submitted for certification;  
-7. The transcript of the public hearing; and  
+any differences between the model and the code being submitted for certification;
+7. The transcript of the public hearing; and
 8. Any other information that the submitting official wants to be considered.
 
 ### III-9.4000 Preliminary determination.
@@ -3414,21 +3413,21 @@ any differences between the model and the code being submitted for certification
 After receiving the application, the Office of the Assistant Attorney General for Civil Rights will determine whether or not to begin considering the application for certification. If the Assistant Attorney General&#39;s office
 decides to proceed, the office will consult with the Architectural and Transportation
 Barriers Compliance Board. After that consultation, the office will make a preliminary
-determination to either --  
+determination to either --
 1. Find that the code is equivalent (make a &quot;preliminary determination of
-equivalency&quot;); or  
+equivalency&quot;); or
 2. Deny certification.
 
 The next step depends on which of these preliminary determinations is made.
 
 ### III-9.5000 Procedure following preliminary determination of equivalency.
 
-If the AAG makes a preliminary determination of equivalency, he or she will --  
-1. Inform the submitting official in writing;  
+If the AAG makes a preliminary determination of equivalency, he or she will --
+1. Inform the submitting official in writing;
 2. Publish a notice in the Federal Register informing the public of the preliminary
-determination and inviting comment for 60 days;  
+determination and inviting comment for 60 days;
 3. Consider the comments, and then hold an informal hearing in Washington. In many
-cases, this &quot;hearing&quot; may consist of a meeting with those who are interested;  
+cases, this &quot;hearing&quot; may consist of a meeting with those who are interested;
 4. Consult again with the ATBCB and make a final determination of equivalency or a
 final determination to deny the request for certification.
 5. Publish a notice of the final determination in the Federal Register.

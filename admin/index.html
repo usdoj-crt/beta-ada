@@ -22,7 +22,7 @@ layout: null
     ></script>
     <script src="{{ '/assets/js/dist/netlifyPreview-compiled.js' | relative_url }}"></script>
     <script>
-      CMS.registerPreviewStyle('{{ '/assets/css/styles.css' | relative_url }}');
+      CMS.registerPreviewStyle("{{ '/assets/css/styles.css' | relative_url }}");
       // Fix bug where Netlify adds a backslash to the markdown before internal links
       CMS.registerEventListener({
         name: "preSave",

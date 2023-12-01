@@ -1,59 +1,59 @@
 <div>
-<fieldset class="usa-fieldset">
-  <legend class="usa-legend">
-    <h2 class="noAnchor margin-y-0">Category</h2>
-    <p>Filter the page content by category</p>
-    <span id="category--assistiveHint" class="usa-sr-only">
-      Press enter to open the category filter dropdown list. Use either the tab key or arrow keys to move between different filter options. Press either the spacebar or enter key to select or deselect a filter option.
-    </span>
-  </legend>
-  <div class="crt-dropdown">
-    <button
-      class="crt-dropdown__title"
-      aria-controls="category-list-container"
-      aria-describedby="category--assistiveHint"
-      aria-expanded="false"
-      type="button"
-      id="category-expand"
-    >
-      <span class="label">Select a category</span>
-      <svg class="usa-icon" id="expand-more" aria-hidden="true" role="img">
-        <use xlink:href="{{ '/assets/images/uswds/sprite.svg' | relative_url }}#expand_more"></use>
-      </svg>
-      <svg class="usa-icon" id="expand-less" aria-hidden="true" role="img" style="display:none">
-        <use xlink:href="{{ '/assets/images/uswds/sprite.svg' | relative_url }}#expand_less"></use>
-      </svg>
-    </button>
-    <div class="content" id="category-list-container" hidden="">
-      <div id="category-filter" class="multicheckboxes-container">
-        <ul id="category-filter-list">
-          {% for tag in site.data.tags.allowed-tags %} {% unless tag=='title ii' or tag=='title iii'
-          %}
-          <li>
-            <div class="usa-checkbox">
-              <input
-                type="checkbox"
-                name="category"
-                value="{{tag | replace: ' ', '-'}}"
-                class="usa-checkbox__input checkbox-option"
-                id="{{tag | replace: ' ', '-'}}"
-                data-checked="false"
-              />
-              <label class="usa-checkbox__label" for="{{tag | replace: ' ', '-'}}"
+  <fieldset class="usa-fieldset">
+    <legend class="usa-legend">
+      <h2 class="noAnchor margin-y-0">Category</h2>
+      <p>Filter the page content by category</p>
+      <span id="category--assistiveHint" class="usa-sr-only">
+        Press enter to open the category filter dropdown list. Use either the tab key or arrow keys to move between different filter options. Press either the spacebar or enter key to select or deselect a filter option.
+      </span>
+    </legend>
+    <div class="crt-dropdown">
+      <button
+        class="crt-dropdown__title"
+        aria-controls="category-list-container"
+        aria-describedby="category--assistiveHint"
+        aria-expanded="false"
+        type="button"
+        id="category-expand"
+      >
+        <span class="label">Select a category</span>
+        <svg class="usa-icon" id="expand-more" aria-hidden="true" role="img">
+          <use xlink:href="{{ '/assets/images/uswds/sprite.svg' | relative_url }}#expand_more"></use>
+        </svg>
+        <svg class="usa-icon" id="expand-less" aria-hidden="true" role="img" style="display:none">
+          <use xlink:href="{{ '/assets/images/uswds/sprite.svg' | relative_url }}#expand_less"></use>
+        </svg>
+      </button>
+      <div class="content" id="category-list-container" hidden="">
+        <div id="category-filter" class="multicheckboxes-container">
+          <ul id="category-filter-list">
+            {% for tag in site.data.tags.allowed-tags %} {% unless tag=='title ii' or tag=='title iii'
+            %}
+            <li>
+              <div class="usa-checkbox">
+                <input
+                  type="checkbox"
+                  name="category"
+                  value="{{tag | replace: ' ', '-'}}"
+                  class="usa-checkbox__input checkbox-option"
+                  id="{{tag | replace: ' ', '-'}}"
+                  data-checked="false"
+                />
+                <label class="usa-checkbox__label" for="{{tag | replace: ' ', '-'}}"
+                  >
+                    {% if tag == 'covid-19' %}
+                      {{ tag | upcase }}
+                    {% else %}
+                      {{tag | capitalize}}
+                    {% endif %}
+                    </label
                 >
-                  {% if tag == 'covid-19' %}
-                    {{ tag | upcase }}
-                  {% else %}
-                    {{tag | capitalize}}
-                  {% endif %}
-                  </label
-              >
-            </div>
-          </li>
-          {% endunless %} {% endfor %}
-        </ul>
+              </div>
+            </li>
+            {% endunless %} {% endfor %}
+          </ul>
+        </div>
       </div>
     </div>
+  </fieldset>
   </div>
-</fieldset>
-</div>
