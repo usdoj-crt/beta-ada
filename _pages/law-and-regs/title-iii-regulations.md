@@ -52,7 +52,7 @@ This rule is also available in an accessible format on the ADA Home Page at [htt
 
 You may obtain copies of this rule in large print or on computer disk by calling the ADA Information Line listed above.
 
-## SUPPLEMENTARY INFORMATION
+## Supplementary Information
 
  **The Roles of the Access Board and the Department of Justice**
 
