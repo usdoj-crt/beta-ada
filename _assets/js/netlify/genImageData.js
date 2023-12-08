@@ -59,7 +59,7 @@ async function getNewImagePath(ref) {
         }
       });
 
-    const prNumber = PR.data[0].number;
+    const prNumber = PR.data[0]?.number;
 
     if (!prNumber) return rawAssetURL + commitSha.data + '/_assets/images/';
 
@@ -71,7 +71,7 @@ async function getNewImagePath(ref) {
           'X-GitHub-Api-Version': '2022-11-28'
         }
       });
-    const fileNames = prFiles.data.filter(prFile => assetFileTypes.indexOf(prFile.filename.split('.')[1]) !== -1).map(prFile => { 
+    const fileNames = prFiles.data.filter(prFile => assetFileTypes.indexOf(prFile.filename.split('.')[1]) !== -1).map(prFile => {
         const prFileArr = prFile.filename.split('/');
         prFileArr.pop();
         return '/' + prFileArr.join('/') + '/';
