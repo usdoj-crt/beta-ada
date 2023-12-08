@@ -59,7 +59,7 @@ async function getNewImagePath(ref) {
         }
       });
 
-    const prNumber = PR.data[0]?.number;
+    const prNumber = PR.data[0].number;
 
     if (!prNumber) return rawAssetURL + commitSha.data + '/_assets/images/';
 
