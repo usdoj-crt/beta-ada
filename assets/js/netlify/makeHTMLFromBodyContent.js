@@ -8,6 +8,8 @@ function makeHTMLFromBodyContent(bodyContent, variables, imageData) {
   let content = bodyContent?.replaceAll(/<hr>/g, "***")
       .replaceAll("{{'", '')
       .replaceAll("' | relative_url}}", '')
+      .replaceAll("'| relative_url}}", '')
+      .replaceAll("'|relative_url}}", '')
     || '';
   const contentParts = content.split('{');
   contentParts.forEach(contentPart => {
