@@ -44,7 +44,7 @@ In some cases it is difficult to determine whether a particular entity that is p
 3. Whether the entity receives significant assistance from the government by provision of property or equipment; and
 4. Whether the entity is governed by an independent board selected by members of a private organization or a board elected by the voters or appointed by elected officials.
 
-### II-1.3000 Relationship to title III. 
+### II-1.3000 Relationship to title III.
 
 Public entities are not subject to title III of the ADA, which covers only private entities. Conversely, private entities are not subject to title II. In many situations, however, public entities have a close relationship to private entities that are covered by title III, with the result that certain activities may be at least indirectly affected by both titles.
 
@@ -58,7 +58,7 @@ ILLUSTRATION 4: A private, nonprofit corporation operates a number of group home
 
 ### II-1.4000 Relationship to other laws
 
-#### II-1.4100 
+#### II-1.4100
 
 Rehabilitation Act. Title II provides protections to individuals with disabilities that are at least equal to those provided by the nondiscrimination provisions of title V of the Rehabilitation Act. Title V includes such provisions as section 501, which prohibits discrimination on the basis of disability in Federal employment; section 503, which addresses the employment practices of Federal contractors; and section 504, which covers all programs receiving Federal financial assistance and all the operations of Federal Executive agencies. Title II may not be interpreted to provide a lesser degree of protection to individuals with disabilities than is provided under these laws.
 
@@ -70,7 +70,7 @@ Other Federal and State laws. Title II does not disturb other Federal laws or an
 
 *Regulatory references:* 28 CFR 35.104.
 
-### II-2.1000 General. 
+### II-2.1000 General.
 
 Title II of the ADA prohibits discrimination against any "qualified individual with a disability." Whether a particular individual is protected by title II requires a careful analysis first, of whether an individual is an "individual with a disability," and then whether that individual is "qualified."
 
@@ -402,7 +402,7 @@ A public entity may prohibit smoking, or may impose restrictions on smoking, in 
 
 Beginning January 26, 1992, title II prohibits all public entities, regardless of size of workforce, from discriminating in their employment practices against qualified individuals with disabilities.
 
-### II-4.2000 Relationship among title II and other Federal laws that prohibit employment discrimination by public entities on the basis of disability. 
+### II-4.2000 Relationship among title II and other Federal laws that prohibit employment discrimination by public entities on the basis of disability.
 
 In addition to title II's employment coverage, title I of the ADA and section 504 of the Rehabilitation Act of 1973 prohibit employment discrimination against qualified individuals with disabilities by certain public entities. Title I of the ADA, which is primarily enforced by the Equal Employment Opportunity Commission (EEOC), prohibits job discrimination --
 
