@@ -843,6 +843,7 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 ### &sect; 36.303 Auxiliary aids and services.
 
 (a) *General*. A public accommodation shall take those steps that may be necessary to ensure that no individual with a disability is excluded, denied services, segregated or otherwise treated differently than other individuals because of the absence of auxiliary aids and services, unless the public accommodation can demonstrate that taking those steps would fundamentally alter the nature of the goods, services, facilities, privileges, advantages, or accommodations being offered or would result in an undue burden, *i.e.*, significant difficulty or expense.
+
 (b) *Examples*. The term &quot;auxiliary aids and services&quot; includes –
 
 (1) Qualified interpreters on-site or through video remote interpreting (VRI) services; notetakers; real-time computer-aided transcription services; written materials; exchange of written notes; telephone handset amplifiers; assistive listening devices; assistive listening systems; telephones compatible with hearing aids; closed caption decoders; open and closed captioning, including real-time captioning; voice, text, and video-based telecommunications products and systems, including text telephones (TTYs), videophones, and captioned telephones, or equally effective telecommunications devices; videotext displays; accessible electronic and information technology; or other effective methods of making aurally delivered information available to individuals who are deaf or hard of hearing;
@@ -874,6 +875,7 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 (5) This part does not require a public accommodation to use a TTY for receiving or making telephone calls incident to its operations.
 
 (e) *Closed caption decoders*. Places of lodging that provide televisions in five or more guest rooms and hospitals that provide televisions for patient use shall provide, upon request, a means for decoding captions for use by an individual with impaired hearing.
+
 (f) *Video remote interpreting (VRI) services*. A public accommodation that chooses to provide qualified interpreters via VRI service shall ensure that it provides –
 
 (1) Real-time, full-motion video and audio over a dedicated high-speed, wide-bandwidth video connection or wireless connection that delivers high-quality video images that do not produce lags, choppy, blurry, or grainy images, or irregular pauses in communication;
