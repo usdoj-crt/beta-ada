@@ -1,0 +1,45 @@
+{% assign lang = page.lang %} {% if lang==nil %}{% assign lang="en" %}{% endif %}
+{% for nav_item in site.primary_navigation %}{% if nav_item.url[lang] == page.permalink %}{% assign parent=nav_item %}{% endif %}{% endfor %}
+<nav
+  id="toc"
+  class="usa-accordion__content pa11y-skip"
+  aria-label="{{site.data[lang]['i18n'].aria.side_nav}}"
+>
+<ul class="usa-sidenav">
+  {% if page.expand-sidenav %}
+    {% include expand-button.html %}
+  {% endif %}
+  <li class="usa-sidenav__item">
+  <a href="#top" class="usa-current">
+    {% if page.short_title %}{{ page.short_title }}{% else %}{{ page.title }}{% endif %}
+  </a>
+  </li>
+<ul class="usa-sidenav__sublist">
+    {% for child in parent.children %}
+    {% if child.name[lang] != page.title %}
+    {% if child.children.size > 0 %}
+    <li class="usa-accordion">
+    <button
+        type="button"
+        class="usa-accordion__button"
+        aria-expanded="false"
+        aria-controls='{{child.name[lang] | remove: " " }}'
+      >
+      {{ child.name[lang] }}
+      </button>
+      <div id='{{child.name[lang]  | remove: " " }}' class="usa-accordion__content">
+      </div>
+    </li>
+    <li class="usa-sidenav__item">
+      <a class="crt-sidenav-subnav-item" data-ga-event-name="side nav link {{ child.name[lang] }}" href="{{ child.url | relative_url }}">{{ child.name[lang] }}</a>
+    </li>
+     {% else %}
+    <li class="usa-sidenav__item">
+      <a href="{{ child.url | relative_url }}">{{ child.name[lang] }}</a>
+    </li>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+  </ul>
+</ul>
+</nav>

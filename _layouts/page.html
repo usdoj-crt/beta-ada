@@ -5,7 +5,7 @@ layout: default
 <div class="crt-page grid-container {% if page.compact %}compact{% endif %}">
   {% include breadcrumbs.html %}
   <div class="grid-row grid-gap-xl">
-    {% if page.sidenav %}
+    {% if page.sidenav or page.subpagenav %}
     <div id="crt-page--sidenav" class="desktop:grid-col-4">
       {% if page.title =='Guidance & Resource Materials' %}
         {% include ta-left-rail.html %}
@@ -20,7 +20,11 @@ layout: default
             {{site.data[lang]["i18n"].links.toc}}
           </button>
         </h4>
-      {% include sidenav.html collection=page.subnav %}
+        {% if page.sidenav %}
+          {% include sidenav.html collection=page.subnav %}
+        {% elsif page.subpagenav %}
+          {% include subpagenav.html %}
+        {% endif %}
       </div>
       {% endif %}
       {% if page.page-helpful != false and page.permalink contains '/law-and-regs/' %}
