@@ -26,6 +26,7 @@ const pages = [
   'law-and-regs',
   'pages',
   'design-standards',
+  'regulations',
   'notices-posts',
   'es',
 ];

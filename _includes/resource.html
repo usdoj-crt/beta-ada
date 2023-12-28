@@ -1,0 +1,13 @@
+<div class="tablet:grid-col-4 crt-landing--section__item">
+    <div class="crt-landing--reporting_column">
+        <div class="h4 crt-landing--icon_grey"><img src="{{include.icon | relative_url}}" alt="resource cta icon"/></div>
+        <div>
+            <h3>
+                <a href="{{include.link | relative_url}}">{{include.title}}</a>
+            </h3>
+            <div style="margin-top: 0px" class="no-bullets padding-left-2">
+            <p>{% if include.subtitle !=  nil %}<strong>{{include.subtitle}}</strong>{% endif %}{{include.text}}</p>
+            </div>
+        </div>
+    </div>
+</div>

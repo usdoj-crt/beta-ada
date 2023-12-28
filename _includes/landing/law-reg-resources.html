@@ -1,0 +1,11 @@
+<div class="grid-row grid-gap law-reg-tiles crt-landing--service_animals" markdown="0">
+    {% if include.type == "docs" %}
+        {% include resource.html icon="/assets/images/accessibility_new.png" title="The Americans with Disabilities Act" link="/law-and-regs/ada" text="This is the law that protects the civil rights of people with disabilities in many aspects of public life." %}
+        {% include resource.html icon="/assets/images/landing/laws_regs_standards_grey_bg.png" title="Title II Regulation" link="/law-and-regs/regulations/title-ii-2010-regulations" subtitle="State and Local Governments" text="The Title II Regulation explains the rights of people with disabilities and the obligations of state and local governments." %}
+        {% include resource.html icon="/assets/images/landing/laws_regs_standards_grey_bg.png" title="Title III Regulation" link="/law-and-regs/regulations/title-iii-regulations" subtitle="Public Accommodations and Commercial Facilities" text="The Title III Regulations explains the rights of people with disabilities and the obligations of businesses, nonprofit organizations, and commercial facilities." %}
+    {% elsif include.type == "resources" %}
+        {% include resource.html icon="/assets/images/landing/guidance_resource_materials_grey_bg.png" title="A Guide to Disability Rights Laws" link="/topics/intro-to-ada" text="A brief overview of ten Federal laws that protect the rights of people with disabilities and the Federal agencies to contact for more information." %}
+        {% include resource.html icon="/assets/images/landing/guidance_resource_materials_grey_bg.png" title="A Primer for State and Local Governments" link="/topics/title-ii" text="This document provides general guidance to assist State and local governments in understanding and complying with the ADA's requirements." %}
+        {% include resource.html icon="/assets/images/landing/guidance_resource_materials_grey_bg.png" title="A Primer for Small Business" link="/topics/intro-to-ada" text="This document provides general guidance to assist small businesses in understanding and complying with the ADA's requirements." %}
+    {% endif %}
+</div>

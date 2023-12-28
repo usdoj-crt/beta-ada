@@ -3,10 +3,10 @@ title:  ADA Standards for Accessible Design
 permalink: /law-and-regs/design-standards/
 description: The ADA Standards for Accessible Designs say what is required for a building or facility to be physically accessible to people with disabilities.
 lead: |-
-  The ADA Standards for Accessible Design—along with the [Title II](../title-ii-2010-regulations/) and [Title III](../title-iii-regulations/) regulations—say what is required for a building or facility to be physically accessible to people with disabilities.
+  The ADA Standards for Accessible Design—along with the [Title II](../regulations/title-ii-2010-regulations/) and [Title III](../regulations/title-iii-regulations/) regulations—say what is required for a building or facility to be physically accessible to people with disabilities.
 lang: "en"
+subpagenav: true
 sidenav: false
-compact: true
 redirect_from:
   - 2010adastandards_index.htm
 tags:
@@ -46,7 +46,7 @@ There are two versions of the ADA Standards:
 <img src="{{ '/assets/images/2010-design-standards.jpg' | relative_url }}" alt="'2010 Standards Cover Photo'"/>
 2010 ADA Standards for Accessible Design
 </a>
-{% include download.html text="Download PDF for 2010 ADA Design Standards" filename="2010-design-standards.pdf" %} (4.2MB, 279 Pages)
+{% include download.html text="PDF for 2010 ADA Design Standards" filename="2010-design-standards.pdf" %}
 </div>
 
 <div class="document">
@@ -54,7 +54,7 @@ There are two versions of the ADA Standards:
 <img src="{{ '/assets/images/guidance-2010-standards.jpg' | relative_url }}" alt="'2010 Guidance Cover Photo'"/>
 Guidance on the 2010 ADA Standards for Accessible Design
 </a>
-{% include download.html text="Download PDF for Guidance on the 2010 ADA Design Standards" filename="guidance-2010-standards.pdf" %} (3.1MB, 166 Pages)
+{% include download.html text="PDF for Guidance on the 2010 ADA Design Standards" filename="guidance-2010-standards.pdf" %}
 </div>
 </div>
 
@@ -64,7 +64,7 @@ Guidance on the 2010 ADA Standards for Accessible Design
 <img src="{{ '/assets/images/1991-design-standards.jpg' | relative_url }}" alt="'1991 Standards Cover Photo'"/>
 1991 ADA Standards for Accessible Design
 </a>
-{% include download.html text="Download PDF for 1991 ADA Design Standards" filename="1991-design-standards.pdf" %} (5.1MB, 92 Pages)
+{% include download.html text="PDF for 1991 ADA Design Standards" filename="1991-design-standards.pdf" %}
 </div>
 <div class="document">
 <span class="usa-sr-only">No guidance document is available for the 1991 standards</span>

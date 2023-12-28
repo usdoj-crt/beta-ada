@@ -113,18 +113,19 @@
 
 #crt-page--content {
 .law-reg-tiles {
+  margin-bottom: 2em;
   strong {
     display: block;
     padding-bottom: 0.5em;
   }
-  :first-of-type.grid-col-5  {
+  :first-of-type.lp-tile  {
     margin-right: 2em;
   }
-  .tablet\:grid-col-5  {
+  .lp-tile  {
     border: solid 1px #D9D9D9;
     padding: 0.5rem;
   }
-  .grid-col-5 {
+  .lp-tile {
     .crt-landing--reporting_column {
       h3 {
         font-family: family("heading");

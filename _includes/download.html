@@ -1,8 +1,16 @@
 {% assign lang = page.lang %}
 {% if lang==nil %}{% assign lang="en" %}{% endif %}
+<div class="download-cta">
+<a href="/assets/pdfs/{{include.filename}}" download class="crt-page--downloadpdf-link">
+    <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+        <use xlink:href="{{ '/assets/images/uswds/sprite.svg' | relative_url }}#file_present"></use>
+    </svg>
+    View {{ include.text }}
+</a>
 <a href="/assets/pdfs/{{include.filename}}" download class="crt-page--downloadpdf-link">
     <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ '/assets/images/uswds/sprite.svg' | relative_url }}#file_download"></use>
     </svg>
-    {{ include.text }}
+    Download {{ include.text }}
 </a>
+</div>

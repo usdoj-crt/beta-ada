@@ -94,10 +94,10 @@ learn:
       examples:
       - ex1:
         title: State and Local Government Services (Title II)
-        link: law-and-regs/title-ii-2010-regulations/
+        link: law-and-regs/regulations/title-ii-2010-regulations/
       - ex2:
         title: Public Accommodations (Title III)
-        link: law-and-regs/title-iii-regulations/
+        link: law-and-regs/regulations/title-iii-regulations/
       - ex3:
         title: ADA Standards for Accessible Design
         link: law-and-regs/design-standards/
@@ -127,10 +127,10 @@ service-animals:
       examples:
       - ex1:
         title: State and Local Government Services (Title II)
-        link: law-and-regs/title-ii-2010-regulations/
+        link: law-and-regs/regulations/title-ii-2010-regulations/
       - ex2:
         title: Public Accommodations (Title III)
-        link: law-and-regs/title-iii-regulations/
+        link: law-and-regs/regulations/title-iii-regulations/
 
 
 report:
