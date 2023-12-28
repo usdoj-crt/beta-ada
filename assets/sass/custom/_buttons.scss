@@ -32,29 +32,18 @@
 }
 
 .download-cta {
-  div {
-    border: solid 1px #D9D9D9;
-    padding: 1em;
-    min-width: 300px;
-    margin-right: 2em;
-    margin-top: 1em;
-  .size {
-    color: #162e51;
-    margin-left: 30px;
-  }
   p {
     display: flex;
     flex-wrap: wrap;
-    margin: 0;
     a {
+      border: solid 1px #D9D9D9;
+      padding: 1em 0.5em;
+      min-width: 300px;
+      margin-right: 2em;
+      margin-top: 1em;
       font-weight: bold;
-      .usa-icon {
-        min-width: 22px;
-        min-height: 22px;
-      }
     }
   }
-}
 }
 
 .crt-page--downloadpdf-link {

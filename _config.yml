@@ -96,14 +96,14 @@ primary_navigation:
         url: "/law-and-regs/regulations/"
         children:
         - name:
-            en: Title II Regulation
-            en-short: Title II Regulation
-            es: Title II Regulation
+            en: Title II Regulations
+            en-short: Title II Regulations
+            es: Title II Regulations
           url: "/law-and-regs/regulations/title-ii-2010-regulations/"
         - name:
-            en: Title III Regulation
-            en-short: Title III Regulation
-            es: Title III Regulation
+            en: Title III Regulations
+            en-short: Title III Regulations
+            es: Title III Regulations
           url: "/law-and-regs/regulations/title-iii-regulations/"
       - name:
           en: Design Standards
@@ -122,9 +122,9 @@ primary_navigation:
             es: 2010 Design Standards
           url: "/law-and-regs/design-standards/2010-stds/"
         - name:
-            en: Guidance on the 2010 Standards
-            en-short: Guidance on the 2010 Standards
-            es: Guidance on the 2010 Standards
+            en: Standards Guidance
+            en-short: Standards Guidance
+            es: Standards Guidance
           url: "/law-and-regs/design-standards/standards-guidance/"
   - name:
       en: Enforcement

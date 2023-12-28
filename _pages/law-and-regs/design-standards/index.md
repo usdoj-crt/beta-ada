@@ -46,14 +46,14 @@ Knowing when the 1991 or the 2010 ADA Standards apply to buildings and facilitie
 <a href="{{'/law-and-regs/design-standards/2010-stds' | relative_url}}">
 <img src="{{ '/assets/images/2010-design-standards.jpg' | relative_url }}" alt="'2010 Standards Cover Photo'"/>
 </a>
-{% include download.html text="PDF for 2010 ADA Design Standards" filename="2010-design-standards.pdf" size="4.2MB, 279 Pages" %}
+{% include download.html text="PDF for 2010 ADA Design Standards" filename="2010-design-standards.pdf" %}
 </div>
 
 <div class="document">
 <a href="{{'/law-and-regs/design-standards/standards-guidance' | relative_url}}">
 <img src="{{ '/assets/images/guidance-2010-standards.jpg' | relative_url }}" alt="'2010 Guidance Cover Photo'"/>
 </a>
-{% include download.html text="PDF for Guidance on the 2010 ADA Design Standards" filename="guidance-2010-standards.pdf" size="3.1MB, 166 Pages" %}
+{% include download.html text="PDF for Guidance on the 2010 ADA Design Standards" filename="guidance-2010-standards.pdf" %}
 </div>
 </div>
 
@@ -62,7 +62,7 @@ Knowing when the 1991 or the 2010 ADA Standards apply to buildings and facilitie
 <a href="{{'/law-and-regs/design-standards/1991-design-standards' | relative_url}}">
 <img src="{{ '/assets/images/1991-design-standards.jpg' | relative_url }}" alt="'1991 Standards Cover Photo'"/>
 </a>
-{% include download.html text="PDF for 1991 ADA Design Standards" filename="1991-design-standards.pdf" size="5.1MB, 92 Pages" %}
+{% include download.html text="PDF for 1991 ADA Design Standards" filename="1991-design-standards.pdf" %}
 </div>
 <div class="document">
 <span class="usa-sr-only">No guidance document is available for the 1991 standards</span>
