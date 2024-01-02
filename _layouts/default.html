@@ -8,7 +8,7 @@
   <main id="main-content" class="margin-top-0 margin-bottom-0">
     {% include notice.html %}
     {{ content }}
-    {% if page.page-helpful != false %}
+    {% if page.page-helpful != false and page.subpagenav != true %}
       {% include touchpoints-page-helpful.html sidenav=page.sidenav in-sidenav=false %}
     {% endif %}
   </main>

@@ -3,7 +3,7 @@ title:  Regulations
 permalink: /law-and-regs/regulations/
 description: DOJ is responsible for issuing regulations under Title II and Title III of the Americans with Disabilities Act (ADA) that explain the rights of people with disabilities and the obligations of those covered by the laws.
 lead: |-
-  DOJ is responsible for issuing regulations under Title II and Title III of the Americans with Disabilities Act (ADA) that explain the rights of people with disabilities and the obligations of those covered by the laws.
+  DOJ is responsible for issuing regulations under [Title II](../regulations/title-ii-2010-regulations/) and [Title III](../regulations/title-iii-regulations/) of the Americans with Disabilities Act (ADA) that explain the rights of people with disabilities and the obligations of those covered by the laws.
 lang: "en"
 sidenav: false
 subpagenav: true
