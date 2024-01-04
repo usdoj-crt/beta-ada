@@ -521,6 +521,9 @@ collections:
       - label: Title
         name: title
         widget: string
+      - label: Title Icon
+        name: title-icon
+        widget: string
       - label: Lead Text
         name: lead
         widget: text
@@ -574,6 +577,9 @@ collections:
     fields:
       - label: Title
         name: title
+        widget: string
+      - label: Title Icon
+        name: title-icon
         widget: string
       - label: Lead Text
         name: lead

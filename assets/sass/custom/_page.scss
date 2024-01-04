@@ -120,6 +120,9 @@
   }
   :first-of-type.lp-tile  {
     margin-right: 2em;
+    @media(max-width: 639px) {
+      margin-right: 0;
+    }
   }
   .lp-tile  {
     border: solid 1px #D9D9D9;
@@ -164,7 +167,7 @@
       border: 1px solid lightgray;
       display: block;
       margin-bottom: 1em;
-      max-width: 50%;
+      max-width: 40%;
     }
   }
 }

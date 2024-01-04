@@ -1,6 +1,6 @@
 ---
 permalink: /law-and-regs/
-title: Laws, Regulations & Standards
+title: Law, Regulations & Standards
 description: Regulations developed by the Department of Justice that explain the rights of people with disabilities and the obligations of those covered by the law.
 subpagenav: true
 sidenav: false

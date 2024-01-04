@@ -27,7 +27,7 @@ layout: default
         {% endif %}
       </div>
       {% endif %}
-      {% if page.page-helpful != false and page.permalink contains '/law-and-regs/' %}
+      {% if page.page-helpful != false and page.permalink contains '/law-and-regs/' and page.subpagenav != true %}
         {% include touchpoints-page-helpful.html sidenav=false in-sidenav=true %}
       {% endif %}
     </div>
@@ -45,7 +45,15 @@ layout: default
         undergone final review for legal accuracy and is not intended to provide legal guidance." %}
       {% endif %}
       {% if page.ref!=nil %} {% include toggle-language.html %} {% endif %}
-      <h1 id="top">{{page.title}}</h1>
+      {% if page.title-icon %}
+        <div class="display-flex flex-align-center page-title-icon">
+          <div class="h4 crt-landing--icon_grey margin-right-1"><img src="{{page.title-icon | relative_url}}" alt=""/></div>
+          <h1 id="top">{{page.title}}</h1>
+        </div>
+      {% else %}
+        <h1 id="top">{{page.title}}</h1>
+      {% endif %}
+
       <div class="crt-landing--separator_small"></div>
       {% if page.sidenav %}
       <div class="measure-6">

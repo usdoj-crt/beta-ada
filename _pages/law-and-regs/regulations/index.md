@@ -1,6 +1,7 @@
 ---
 title:  Regulations
 permalink: /law-and-regs/regulations/
+title-icon: /assets/images/landing/laws_regs_standards_grey_bg.png
 description: DOJ is responsible for issuing regulations under Title II and Title III of the Americans with Disabilities Act (ADA) that explain the rights of people with disabilities and the obligations of those covered by the laws.
 lead: |-
   DOJ is responsible for issuing regulations under [Title II](../regulations/title-ii-2010-regulations/) and [Title III](../regulations/title-iii-regulations/) of the Americans with Disabilities Act (ADA) that explain the rights of people with disabilities and the obligations of those covered by the laws.
@@ -24,7 +25,7 @@ The ADA is meant to ensure that people with disabilities can fully participate i
 
 The Title II Regulation explains the rights of people with disabilities and the obligations of state and local governments. Read [Title II Regulations]({{'/law-and-regs/regulations/title-ii-2010-regulations/' | relative_url}}) to understand your legal rights or responsibilities under the ADA.
 
-{% include download.html text="Title II Regulation" filename="title-ii-2010-regulations.pdf" %}
+{% include download.html text="Title II Regulation" filename="title-ii-2010-regulations.pdf" size="4.2MB, 279 Pages" %}
 
 ## Title III Regulation
 
@@ -32,4 +33,4 @@ The ADA is meant to ensure that people with disabilities can fully participate i
 
 The Title III Regulations explains the rights of people with disabilities and the obligations of businesses, nonprofit organizations, and commercial facilities. Read [Title III Regulations]({{'/law-and-regs/regulations/title-iii-regulations/' | relative_url}}) to understand your legal rights or responsibilities under the ADA.
 
-{% include download.html text="Title III Regulation" filename="title-iii-2010-regulations.pdf" %}
+{% include download.html text="Title III Regulation" filename="title-iii-2010-regulations.pdf" size="4.2MB, 279 Pages" %}
