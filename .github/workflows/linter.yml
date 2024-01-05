@@ -49,10 +49,16 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: "16"
-      - run: npm install --production
+      - run: npm install --production=false  # Install linting tools
 
       - name: Build site
         run: bundle exec jekyll build
+
+      ################################
+      # Run npm prettier linting     #
+      ################################
+      - name: Prettier Lint
+        run: npm run lint:js || exit 1
 
       ################################
       # Run Linter against code base #
@@ -66,6 +72,4 @@ jobs:
           LINTER_RULES_PATH: /
           VALIDATE_CSS: true
           VALIDATE_HTML: true
-          VALIDATE_JAVASCRIPT_STANDARD: true
-          JAVASCRIPT_DEFAULT_STYLE: prettier
           VALIDATE_MARKDOWN: true
