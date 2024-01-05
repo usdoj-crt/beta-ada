@@ -9,12 +9,7 @@ function attemptToRedirect(attemptedPath, manual, generated) {
 
   // (the path without html/htm/trailing slash)
   const cleanPath = attemptedPath.replace(/\.html?$/, '').replace(/\/+$/, '');
-  const pathsToTry = [
-    cleanPath,
-    cleanPath + '/',
-    cleanPath + '.htm',
-    cleanPath + '.html',
-  ]
+  const pathsToTry = [cleanPath, cleanPath + '/', cleanPath + '.htm', cleanPath + '.html'];
 
   for (const normalizedPath of pathsToTry) {
     if (manual.hasOwnProperty(normalizedPath)) {

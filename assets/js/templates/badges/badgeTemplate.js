@@ -1,6 +1,9 @@
 export default function badge(title) {
-    const normalizedTitle = title === 'covid-19' ? title.toUpperCase() : title.split('-').join(" ")[0].toUpperCase() + title.split('-').join(" ").substring(1);
-    return `
+  const normalizedTitle =
+    title === 'covid-19'
+      ? title.toUpperCase()
+      : title.split('-').join(' ')[0].toUpperCase() + title.split('-').join(' ').substring(1);
+  return `
     <span class="usa-button text-normal button-wrapper">
      ${normalizedTitle}
     <button class="usa-button usa-button--unstyled text-no-underline"
@@ -11,5 +14,5 @@ export default function badge(title) {
     <span class="usa-sr-only">Press enter to remove ${normalizedTitle} filter.</span>
     </button>
     </span>
-    `
+    `;
 }

@@ -24,4 +24,4 @@ const toggleButtonText = (button) => {
   }
 };
 
-export {isOpen, isClosed, toggleButtonText};
+export { isOpen, isClosed, toggleButtonText };

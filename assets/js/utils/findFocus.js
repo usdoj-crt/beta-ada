@@ -1,4 +1,4 @@
 export default function findFocus() {
-	const focusPoint = document.activeElement
-	return focusPoint
+  const focusPoint = document.activeElement;
+  return focusPoint;
 }

@@ -1,6 +1,6 @@
 import { NUMBER_OF_RESULTS, SEARCH_ENDPOINT, ACCESS_KEY, AFFILIATE } from './utils/constants';
 import renderSearchPage from './utils/renderSearchPage';
-import totalResults from "./templates/search/totalResultsTemplate";
+import totalResults from './templates/search/totalResultsTemplate';
 
 // Set up the search parameters:
 let urlParams = new URLSearchParams(window.location.search);
@@ -13,7 +13,7 @@ let searchParams = {
   limit: NUMBER_OF_RESULTS,
 };
 // Add our total number of results DOM node:
-const target = document.getElementById("totalResultsTarget");
+const target = document.getElementById('totalResultsTarget');
 
 Object.keys(searchParams).forEach(function (key) {
   searchEndpoint.searchParams.append(key, searchParams[key]);

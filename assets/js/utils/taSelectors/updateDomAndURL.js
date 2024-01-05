@@ -13,8 +13,8 @@ export default function updateDOMandURL(state) {
   setStorage('filters', state.join(';'));
   renderBadges(state);
   toggleVisibility(state),
-  document.getElementById('resultsListTarget').innerHTML = totalResults(
-    countVisibleArticles(),
-    'item'
-  );
-};
+    (document.getElementById('resultsListTarget').innerHTML = totalResults(
+      countVisibleArticles(),
+      'item'
+    ));
+}
