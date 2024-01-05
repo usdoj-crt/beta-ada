@@ -58,7 +58,7 @@ jobs:
       # Run npm prettier linting     #
       ################################
       - name: Prettier Lint
-        run: npm run lint:js || exit 1
+        run: npm run lint:check || exit 1
 
       ################################
       # Run Linter against code base #

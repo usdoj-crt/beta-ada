@@ -17,7 +17,15 @@ const TAGS = [
   'medical-care',
   'mobility-devices',
   'child-care',
-  'covid-19'
+  'covid-19',
 ];
 
-export { NUMBER_OF_RESULTS, SEARCH_ENDPOINT, CLICK_TRACKING_ENDPOINT, ACCESS_KEY, AFFILIATE, MODULE_CODE,TAGS };
+export {
+  NUMBER_OF_RESULTS,
+  SEARCH_ENDPOINT,
+  CLICK_TRACKING_ENDPOINT,
+  ACCESS_KEY,
+  AFFILIATE,
+  MODULE_CODE,
+  TAGS,
+};

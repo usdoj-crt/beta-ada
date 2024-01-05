@@ -18,7 +18,9 @@ const preparePageForPrint = function () {
   const afterPrint = function () {
     // If the button exists, and the accordions are open then toggle the button state so it is closed:
     if (openAccordionsButton) {
-      expandButtonTextIsOpen(openAccordionsButton) === false ? toggleButtonText(openAccordionsButton) : null;
+      expandButtonTextIsOpen(openAccordionsButton) === false
+        ? toggleButtonText(openAccordionsButton)
+        : null;
     }
 
     document.querySelectorAll('details').forEach((detail) => {

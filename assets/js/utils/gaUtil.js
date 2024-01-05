@@ -40,10 +40,10 @@ function gtag() {
     ['.law-reg-resource-link', 'click', sendGAClickEvent],
   ]
 
-  export default function initGAEvents() {
-    ANALYTICS_CONFIG.forEach(([selector, event, action]) => {
-      document.querySelectorAll(selector).forEach(el => {
-        el.addEventListener(event, action);
-      });
+export default function initGAEvents() {
+  ANALYTICS_CONFIG.forEach(([selector, event, action]) => {
+    document.querySelectorAll(selector).forEach((el) => {
+      el.addEventListener(event, action);
     });
-  }
+  });
+}

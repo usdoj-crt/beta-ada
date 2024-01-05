@@ -12,7 +12,7 @@ const preview = createClass({
       return makeError(error);
     }
   },
-  });
+});
 
 await loadSiteData();
 

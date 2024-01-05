@@ -12,4 +12,4 @@ export default function nextButton() {
             </svg>
           </a>
           </li>`;
-};
+}

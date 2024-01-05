@@ -13,16 +13,16 @@ function makeError(error) {
       <div className="measure-6">
         <div className="crt-lead">
           <p>Couldn't render the template:</p>
-          <code>{error.name} ({error.message})</code>
+          <code>
+            {error.name} ({error.message})
+          </code>
           <p>Please edit the code on the left and try again</p>
           <p>Full details:</p>
           <code>{error.stack}</code>
         </div>
-
-
       </div>
     </div>
   );
-};
+}
 
 export default makeError;
