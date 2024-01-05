@@ -81,7 +81,7 @@ primary_navigation:
     children:
       - name:
           en: Law, Regulations & Standards
-          en-short: Laws & Regulations
+          en-short: Law & Regulations
           es: Law, Regulations & Standards
         url: "/law-and-regs/"
       - name:

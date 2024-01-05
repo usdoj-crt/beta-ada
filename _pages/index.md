@@ -87,7 +87,7 @@ learn:
         - ex3:
           title: ADA Requirements - Effective Communication
           link: resources/effective-communication
-    - heading: Laws & Regulations
+    - heading: Law & Regulations
       content: |-
         Find legal documents that are enforceable under the ADA in a court of law.
       icon: landing/laws_regs_standards_gold.png
@@ -122,7 +122,7 @@ service-animals:
         - ex2:
           title: 'ADA Requirements: Service Animals'
           link: resources/service-animals-2010-requirements/
-    - heading: Laws & Regulations
+    - heading: Law & Regulations
       icon: landing/laws_regs_standards_grey_bg.png
       examples:
       - ex1:

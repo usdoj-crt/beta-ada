@@ -457,7 +457,7 @@ collections:
       - label: Body Content
         name: body
         widget: markdown
-    # Laws and regulations pages
+    # Law and regulations pages
   - label: Law and Regs
     name: law-and-regs
     summary: "{{title}} ({{filename}})"

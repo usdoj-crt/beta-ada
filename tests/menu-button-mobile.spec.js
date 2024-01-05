@@ -5,7 +5,7 @@ const LINKS = [
   'Home',
   'Topics',
   'Law, Regulations & Standards',
-  'Laws & Regulations',
+  'Law & Regulations',
   'File a Complaint',
   'Guidance & Resource Materials',
   'Resources'
