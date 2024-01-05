@@ -66,6 +66,6 @@ jobs:
           LINTER_RULES_PATH: /
           VALIDATE_CSS: true
           VALIDATE_HTML: true
-          VALIDATE_JAVASCRIPT: true
+          VALIDATE_JAVASCRIPT_STANDARD: true
           JAVASCRIPT_DEFAULT_STYLE: prettier
           VALIDATE_MARKDOWN: true
