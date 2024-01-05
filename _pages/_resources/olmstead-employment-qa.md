@@ -7,6 +7,7 @@ lead: |-
 lang: "en"
 publish-date: 2023-10-31 00:00:00
 related-content: true
+news-item: true
 sidenav-pdf:
   title: Questions and Answers on the Application of the ADA's Integration Mandate and <em>Olmstead v. L.C.</em> to Employment and Day Services for People with Disabilities
   filename: olmstead-employment-qa.pdf
