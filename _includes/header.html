@@ -42,7 +42,7 @@
                     <span class="desktop:display-none widescreen:display-block">{{ subnav_item.name["en"] | escape }}</span>
                     <span class="mobile:display-none desktop:display-block widescreen:display-none">{{ subnav_item.name["en-short"] | escape }}</span>
                   </a>
-                  <ul id="{{ nav_id }}" class="usa-nav__subnav_child_menu">
+                  <ul class="usa-nav__subnav_child_menu">
                     {% for subnav_child in subnav_item.children %}
                     <li class="usa-nav__submenu-item">
                       <a href="{{ subnav_child.url | prepend: site.baseurl }}">
