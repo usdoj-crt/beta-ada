@@ -80,6 +80,22 @@
   }
 }
 
+.usa-nav__submenu {
+  .usa-nav__submenu-item {
+    font-weight: bold;
+    .ADA {
+      font-weight: normal;
+      padding-left: 40px;
+    }
+  }
+}
+
+.usa-nav__subnav_child_menu {
+  .usa-nav__submenu-item {
+    font-weight: normal;
+  }
+}
+
 .usa-header--extended .usa-nav__inner {
   display: flex;
   flex-direction: column;

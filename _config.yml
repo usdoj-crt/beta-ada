@@ -85,7 +85,7 @@ primary_navigation:
           es: Law, Regulations & Standards
         url: "/law-and-regs/"
       - name:
-          en: ADA
+          en: Americans with Disabilities Act
           en-short: ADA
           es: ADA
         url: "/law-and-regs/ada/"
