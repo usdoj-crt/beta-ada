@@ -9,7 +9,7 @@ export default async function loadSiteData() {
 /** Some of the jekyll site variables depend on browser context. */
 function getLocalSite() {
   return {
-    'baseurl': window.location.origin,
-    'active_lang': 'en',
+    baseurl: window.location.origin,
+    active_lang: 'en',
   };
 }

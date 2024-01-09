@@ -1,20 +1,17 @@
 //= require ../../utils/offsetUtils.js
-import {getSearchParam, setSearchParam} from "../../utils/searchParamUtils";
+import { getSearchParam, setSearchParam } from '../../utils/searchParamUtils';
 
 export default function paginationButton(offsetVal, index, resultsArr) {
   const currentOffset = getSearchParam('offset');
-  let ariaLabel = "";
-  let ariaCurrent = "false";
-  if (
-    currentOffset !== offsetVal &&
-    offsetVal === resultsArr[resultsArr.length - 1]
-  ) {
-    ariaLabel = "Last page; Page " + (index + 1);
+  let ariaLabel = '';
+  let ariaCurrent = 'false';
+  if (currentOffset !== offsetVal && offsetVal === resultsArr[resultsArr.length - 1]) {
+    ariaLabel = 'Last page; Page ' + (index + 1);
   } else if (currentOffset !== offsetVal) {
-    ariaLabel = "Page " + (index + 1);
+    ariaLabel = 'Page ' + (index + 1);
   }
   if (currentOffset === offsetVal) {
-    ariaCurrent = "true";
+    ariaCurrent = 'true';
   }
   return `<li class="usa-pagination__item usa-pagination__page-no display-none tablet:display-block">
       <a
@@ -27,4 +24,4 @@ export default function paginationButton(offsetVal, index, resultsArr) {
         ${index + 1}
       </a>
     </li>`;
-};
+}

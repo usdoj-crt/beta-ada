@@ -7,17 +7,21 @@
 
 export default function wrapUrls(url) {
   // Split the URL into an array to distingish double slashes from single slashes
-  const doubleSlash = url.split("//");
+  const doubleSlash = url.split('//');
   // Format the strings on either side of double slashes separately
-  const formatted = doubleSlash.map(function(str) {
-    return str
-          .replace(/(?<after>:)/giu, "$1<wbr>")
+  const formatted = doubleSlash
+    .map(function (str) {
+      return (
+        str
+          .replace(/(?<after>:)/giu, '$1<wbr>')
           // Before a single slash, tilde, period, comma, hyphen, underline, question mark, number sign, or percent symbol
-           .replace(/(?<before>[/~.,_?#%-])/giu, "<wbr>$1")
-           // Before and after an equals sign or ampersand
-           .replace(/(?<equals>=)/giu, "<wbr>$1<wbr>")
-           .replace(/(?<ampersand>&amp;)/giu, "<wbr>&<wbr>")
-           // Reconnect the strings with word break opportunities after double slashes
-    }).join("//<wbr>");
+          .replace(/(?<before>[/~.,_?#%-])/giu, '<wbr>$1')
+          // Before and after an equals sign or ampersand
+          .replace(/(?<equals>=)/giu, '<wbr>$1<wbr>')
+          .replace(/(?<ampersand>&amp;)/giu, '<wbr>&<wbr>')
+      );
+      // Reconnect the strings with word break opportunities after double slashes
+    })
+    .join('//<wbr>');
   return formatted;
-};
+}
