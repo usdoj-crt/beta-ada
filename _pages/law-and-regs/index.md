@@ -35,7 +35,7 @@ Guides and primers curate information for people with disabilities, state and lo
 
 {% include landing/law-reg-resources.html type="resources" %}
 
-## Updates to the ADA
+## Proposed Changes to Our Regulations
 
 In the [Spring 2023 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain), DOJ announced that it plans to issue new ADA regulations on the following topics:
 
