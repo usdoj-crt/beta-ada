@@ -5,10 +5,10 @@ export default function searchResultsTemplate(content) {
     .replace(/\uE000/g, '<span class="bg-yellow">')
     .replace(/\uE001/g, '</span>')}</a></b>
       <div class="text-base content-url"> ${content.url} </div>
-      <div> ${content.searchgov_custom1 ??
-          content.snippet
-          .replace(/\uE000/g, '<span class="bg-yellow">')
-          .replace(/\uE001/g, "</span>")} </div>
+      <div> ${
+        content.searchgov_custom1 ??
+        content.snippet.replace(/\uE000/g, '<span class="bg-yellow">').replace(/\uE001/g, '</span>')
+      } </div>
       </li>
 `;
 }

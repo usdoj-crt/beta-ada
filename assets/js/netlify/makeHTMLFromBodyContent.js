@@ -12,7 +12,6 @@ function makeHTMLFromBodyContent(bodyContent, variables, imageData) {
       .replaceAll("' | relative_url}}", '')
       .replaceAll("'| relative_url}}", '')
       .replaceAll("'|relative_url}}", '') || '';
-
   const contentParts = content.split('{');
   contentParts.forEach((contentPart) => {
     if (contentPart.includes('% details') || contentPart.includes('% asset')) {
