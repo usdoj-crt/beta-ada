@@ -25,7 +25,7 @@ government programs,{% fn 1 %} including voting. The ADA applies to all parts of
 process, including ballot drop boxes.
 
 <figure id="intro">
-<img src="{{ '/assets/images/project-images/Picture1.jpg' | relative_url }}" alt="image of a ballot drop box and a "Vote Here" sign" height="375" width="450" />
+<img src="{{ '/assets/images/project-images/Picture1.jpg' | relative_url }}" alt='image of a ballot drop box and a "Vote Here" sign' height="375" width="450" />
 <figcaption>
 **A fixed ballot drop box**
 </figcaption>
