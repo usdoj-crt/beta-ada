@@ -85,12 +85,14 @@
     font-weight: bold;
     .ADA {
       font-weight: normal;
-      padding-left: 40px;
+      margin: 0 20px;
     }
   }
 }
 
 .usa-nav__subnav_child_menu {
+  list-style: none;
+  padding: 0 20px;
   .usa-nav__submenu-item {
     font-weight: normal;
   }
