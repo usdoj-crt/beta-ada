@@ -49,10 +49,16 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: "16"
-      - run: npm install --production
+      - run: npm install --production=false  # Install linting tools
 
       - name: Build site
         run: bundle exec jekyll build
+
+      ################################
+      # Run npm prettier linting     #
+      ################################
+      - name: Prettier Lint
+        run: npm run lint:check || exit 1
 
       ################################
       # Run Linter against code base #

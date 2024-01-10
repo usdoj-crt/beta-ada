@@ -1,4 +1,4 @@
-import { NUMBER_OF_RESULTS } from "../constants";
+import { NUMBER_OF_RESULTS } from '../constants';
 
 // If you are viewing the first page of results,
 // display the first, second, third and fourth pagination

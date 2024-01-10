@@ -1,22 +1,28 @@
 // Imports:
-import nextButton from "./nextButtonTemplate";
-import previousButton from "./previousButtonTemplate";
-import ellipsis from "./ellipsisTemplate";
-import paginationButton from "./paginationButtonTemplate";
-import pageNumber from "./pageNumber";
-import { firstPage, secondPageEtc, intermediatePages, secondToLastPage, lastPage } from "../../utils/paginationLogic/index"
+import nextButton from './nextButtonTemplate';
+import previousButton from './previousButtonTemplate';
+import ellipsis from './ellipsisTemplate';
+import paginationButton from './paginationButtonTemplate';
+import pageNumber from './pageNumber';
+import {
+  firstPage,
+  secondPageEtc,
+  intermediatePages,
+  secondToLastPage,
+  lastPage,
+} from '../../utils/paginationLogic/index';
 
 export default function paginationTemplate(resultsArr, urlParams) {
-  const offsetInt = parseInt(urlParams.get("offset"));
+  const offsetInt = parseInt(urlParams.get('offset'));
   pageNumber(resultsArr);
   if (resultsArr.length <= 7) {
     return `
         ${previousButton()}
         ${resultsArr
-          .map(function(offsetValue, index, resArr) {
+          .map(function (offsetValue, index, resArr) {
             return paginationButton(offsetValue, index, resArr);
           })
-          .join(" ")}
+          .join(' ')}
         ${nextButton()}`;
   }
   return `
@@ -25,16 +31,13 @@ export default function paginationTemplate(resultsArr, urlParams) {
         ${
           // If we are on the first, second or third page of results hide the left ellipses
           offsetInt === 0 || offsetInt === 20 || offsetInt === 40
-            ? ""
+            ? ''
             : ellipsis(offsetInt, resultsArr)
         }
         ${resultsArr
-          .map(function(offsetValue, index, resArr) {
+          .map(function (offsetValue, index, resArr) {
             // If it is either the first page or last page, render nothing. The first and last page buttons are fixed.
-            if (
-              index === 0 ||
-              index === resultsArr.indexOf(resultsArr[resultsArr.length - 1])
-            ) {
+            if (index === 0 || index === resultsArr.indexOf(resultsArr[resultsArr.length - 1])) {
               // If you are on the first page, render the next three page buttons.
             } else if (firstPage(offsetValue, offsetInt)) {
               return paginationButton(offsetValue, index, resArr);
@@ -52,13 +55,13 @@ export default function paginationTemplate(resultsArr, urlParams) {
               return paginationButton(offsetValue, index, resArr);
             }
           })
-          .join(" ")}
+          .join(' ')}
         ${
           // If we are on the third to last, second to last or last page of results, hide the right ellipsis.
           offsetInt === resultsArr[resultsArr.length - 1] ||
           offsetInt === resultsArr[resultsArr.length - 2] ||
           offsetInt === resultsArr[resultsArr.length - 3]
-            ? ""
+            ? ''
             : ellipsis()
         }
         ${paginationButton(
@@ -67,4 +70,4 @@ export default function paginationTemplate(resultsArr, urlParams) {
           resultsArr
         )}
         ${nextButton()}`;
-};
+}

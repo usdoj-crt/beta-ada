@@ -3,8 +3,7 @@
  * https://github.com/w3c/wai-tutorials/
  */
 
-function mobileCarousel () {
-
+function mobileCarousel() {
   const context = {
     carousel: undefined,
     slides: undefined,
@@ -14,7 +13,7 @@ function mobileCarousel () {
     timer: undefined,
     setFocus: undefined,
     animationSuspended: false,
-};
+  };
 
   function removeClass(el, className) {
     el.classList.remove(className);
@@ -24,7 +23,7 @@ function mobileCarousel () {
     return el.classList.contains(className);
   }
 
-/* Initialization for the carousel
+  /* Initialization for the carousel
   Argument: set = an object of settings
   Possible settings:
   id <string> ID of the carousel wrapper element (required).
@@ -48,8 +47,8 @@ function mobileCarousel () {
 
     context.carousel.className = 'active carousel';
 
-    initControls()
-    initSidenav()
+    initControls();
+    initSidenav();
 
     // Add a live region to announce the slide number when using the previous/next buttons
     const liveregion = document.createElement('div');
@@ -105,7 +104,6 @@ function mobileCarousel () {
   }
 
   function initControls() {
-
     const ctrls = document.createElement('ul');
 
     ctrls.className = 'controls';
@@ -128,61 +126,69 @@ function mobileCarousel () {
   }
 
   function initSidenav() {
-      // If the carousel is animated or a slide navigation is requested in the settings, another unordered list that contains those elements is added. (Note that you cannot supress the navigation when it is animated.)
-      if (!(context.settings.slidenav || context.settings.animate)) return;
-      context.slidenav = document.createElement('ul');
+    // If the carousel is animated or a slide navigation is requested in the settings, another unordered list that contains those elements is added. (Note that you cannot supress the navigation when it is animated.)
+    if (!(context.settings.slidenav || context.settings.animate)) return;
+    context.slidenav = document.createElement('ul');
 
-      context.slidenav.className = 'slidenav';
+    context.slidenav.className = 'slidenav';
 
-      if (context.settings.animate) {
+    if (context.settings.animate) {
+      const li = document.createElement('li');
+
+      if (context.settings.startAnimated) {
+        li.innerHTML = '<button data-action="stop" aria-label="Stop Animation">￭</button>';
+      } else {
+        li.innerHTML = '<button data-action="start" aria-label="Start Animation">▶</button>';
+      }
+
+      context.slidenav.appendChild(li);
+    }
+
+    if (context.settings.slidenav) {
+      context.slides.forEach((_slide, i) => {
         const li = document.createElement('li');
+        const klass = i === 0 ? 'class="current carousel-nav" ' : 'class="carousel-nav" ';
+        const ariaLabel = '"slide ' + (i + 1) + ' navigation" ';
 
-        if (context.settings.startAnimated) {
-          li.innerHTML = '<button data-action="stop" aria-label="Stop Animation">￭</button>';
-        } else {
-          li.innerHTML = '<button data-action="start" aria-label="Start Animation">▶</button>';
-        }
-
+        li.innerHTML =
+          '<button data-ga-event-name=' +
+          ariaLabel +
+          'aria-label=' +
+          ariaLabel +
+          klass +
+          'data-slide="' +
+          i +
+          '"/>';
         context.slidenav.appendChild(li);
-      }
+      });
+    }
 
-      if (context.settings.slidenav) {
-        context.slides.forEach((_slide, i) => {
-          const li = document.createElement('li');
-          const klass = i === 0 ? 'class="current carousel-nav" ' : 'class="carousel-nav" ';
-          const ariaLabel = '"slide ' + (i + 1) + ' navigation" '
+    context.slidenav.addEventListener(
+      'click',
+      function (event) {
+        const button = event.target;
+        if (button.localName != 'button') return;
+        if (button.getAttribute('data-slide')) {
+          if (context.settings.startAnimated) {
+            stopAnimation();
+          }
+          setSlides(button.getAttribute('data-slide'), true);
+        } else if (button.getAttribute('data-action') == 'stop') {
+          stopAnimation();
+        } else if (button.getAttribute('data-action') == 'start') {
+          startAnimation();
+        }
+      },
+      true
+    );
 
-          li.innerHTML = '<button data-ga-event-name=' + ariaLabel + 'aria-label=' + ariaLabel + klass + 'data-slide="' + i + '"/>';
-          context.slidenav.appendChild(li);
-        });
-      }
-
-      context.slidenav.addEventListener(
-        'click',
-        function (event) {
-          const button = event.target;
-          if (button.localName != 'button') return;
-          if (button.getAttribute('data-slide')) {
-              if (context.settings.startAnimated) {
-                stopAnimation();
-              }
-              setSlides(button.getAttribute('data-slide'), true);
-            } else if (button.getAttribute('data-action') == 'stop') {
-              stopAnimation();
-            } else if (button.getAttribute('data-action') == 'start') {
-              startAnimation();
-            }
-        },
-        true
-      );
-
-      context.carousel.className = 'active carousel with-slidenav';
-      context.carousel.appendChild(context.slidenav);
+    context.carousel.className = 'active carousel with-slidenav';
+    context.carousel.appendChild(context.slidenav);
   }
 
   // Function to set a slide the current slide
   function setSlides(new_current, setFocusHere, transition, announceItemHere) {
-  /* Focus, transition and announce Item are optional parameters.
+    /* Focus, transition and announce Item are optional parameters.
     focus denotes if the focus should be set after the
     carousel advanced to slide number new_current.
     transition denotes if the transition is going into the
@@ -207,13 +213,15 @@ function mobileCarousel () {
     }
 
     // Reset slide classes
-    context.slides.forEach(slide => slide.className = 'slide');
+    context.slides.forEach((slide) => (slide.className = 'slide'));
 
     // Add classes to the previous, next and current slide
-    context.slides[new_next].className = 'next slide' + (transition == 'next' ? ' in-transition' : '');
+    context.slides[new_next].className =
+      'next slide' + (transition == 'next' ? ' in-transition' : '');
     context.slides[new_next].removeAttribute('aria-hidden');
 
-    context.slides[new_prev].className = 'prev slide' + (transition == 'prev' ? ' in-transition' : '');
+    context.slides[new_prev].className =
+      'prev slide' + (transition == 'prev' ? ' in-transition' : '');
     context.slides[new_prev].setAttribute('aria-hidden', 'true');
 
     context.slides[new_current].className = 'current slide';
@@ -228,7 +236,7 @@ function mobileCarousel () {
     // Update the buttons in the slider navigation to match the currently displayed  item
     if (context.settings.slidenav) {
       const buttons = context.carousel.querySelectorAll('.slidenav button[data-slide]');
-      buttons.forEach(button => button.className = 'carousel-nav')
+      buttons.forEach((button) => (button.className = 'carousel-nav'));
       buttons[new_current].className = 'current carousel-nav';
     }
 
@@ -298,6 +306,6 @@ function mobileCarousel () {
     animate: false,
     startAnimated: false,
   });
-};
+}
 
 export default mobileCarousel;

@@ -38,12 +38,12 @@ function gtag() {
     ['.view-link', 'click', sendGAClickEvent],
     ['.law-reg-tile-link', 'click', sendGAClickEvent],
     ['.law-reg-resource-link', 'click', sendGAClickEvent],
-  ]
+  ];
 
-  export default function initGAEvents() {
-    ANALYTICS_CONFIG.forEach(([selector, event, action]) => {
-      document.querySelectorAll(selector).forEach(el => {
-        el.addEventListener(event, action);
-      });
+export default function initGAEvents() {
+  ANALYTICS_CONFIG.forEach(([selector, event, action]) => {
+    document.querySelectorAll(selector).forEach((el) => {
+      el.addEventListener(event, action);
     });
-  }
+  });
+}

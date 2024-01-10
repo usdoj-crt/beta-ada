@@ -1,6 +1,6 @@
 import makeHTMLFromBodyContent from './makeHTMLFromBodyContent';
 import getPreviewLink from './getPreviewLink';
-import genImageData from "./genImageData";
+import genImageData from './genImageData';
 const imageData = await genImageData();
 export default function generatePageData(entry) {
   const title = entry.getIn(['data', 'title']);

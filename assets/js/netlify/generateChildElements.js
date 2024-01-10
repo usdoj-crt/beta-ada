@@ -13,13 +13,15 @@ const generateChildElements = (html) =>
     } else {
       content = null;
     }
-    const attrs = Object.fromEntries([...item.attributes].map((attr) => {
-      let val = attr.value;
-      if (attr.name === 'style') {
-        val = toStyle(attr.value);
-      }
-     return [attr.name, val]
-    }));
+    const attrs = Object.fromEntries(
+      [...item.attributes].map((attr) => {
+        let val = attr.value;
+        if (attr.name === 'style') {
+          val = toStyle(attr.value);
+        }
+        return [attr.name, val];
+      })
+    );
     return h(item.nodeName.toLowerCase(), attrs, content);
   });
 

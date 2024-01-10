@@ -6,5 +6,4 @@ export default function ellipsis() {
   >
     <span class="text-bold"> … </span>
   </li>`;
-};
-
+}
