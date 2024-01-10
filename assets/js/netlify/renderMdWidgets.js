@@ -16,11 +16,12 @@ const tagNames = [
 
 function getImagePath(imageTitle, imageData) {
   const imageListPaths = imageData['imageList']
-    .filter(image => image['path'] != null && image['path'].includes(imageTitle))
-    .map(image => "https://raw.githubusercontent.com/usdoj-crt/beta-ada/main/assets/images/" + image['path']);
-  return imageListPaths.length > 0
-    ? imageListPaths[0]
-    : imageData['newImagePath'] + imageTitle;
+    .filter((image) => image['path'] != null && image['path'].includes(imageTitle))
+    .map(
+      (image) =>
+        'https://raw.githubusercontent.com/usdoj-crt/beta-ada/main/assets/images/' + image['path']
+    );
+  return imageListPaths.length > 0 ? imageListPaths[0] : imageData['newImagePath'] + imageTitle;
 }
 
 function buildEngine(globals, imageData) {
@@ -84,7 +85,10 @@ function buildEngine(globals, imageData) {
             context._collapsedIDX += 1;
             const htag = this.tpls[0].str.includes('<h2>') ? 'h2' : 'h3';
             const content = this.tpls[0].str.split('</' + htag + '>');
-            const heading = content[0].split('<' + htag + '>')[1]?.replace('<' + htag + '>', '')?.replace('</' + htag + '>', '');
+            const heading = content[0]
+              .split('<' + htag + '>')[1]
+              ?.replace('<' + htag + '>', '')
+              ?.replace('</' + htag + '>', '');
             emitter.write(`<h2 class="usa-accordion__heading"">
                  <button class="usa-accordion__button pa11y-skip"
                    aria-expanded="true"
@@ -170,17 +174,20 @@ function renderWidgets(interimHTML, variables, imageData) {
   let newHTML = interimHTML;
   const htmlDoc = parser.parseFromString(interimHTML, 'text/html');
   const pTags = Array.from(htmlDoc.getElementsByTagName('p'));
-  pTags.forEach(pTag => {
+  pTags.forEach((pTag) => {
     if (pTag.innerText.includes('{% details')) {
       const newText = pTag.innerText.replaceAll("'", '');
       newHTML = newHTML.replaceAll(pTag.innerText, newText);
     }
   });
-  const engine = buildEngine({
-    'page': variables,
-    'site': window.jekyllSite,  // This is defined globally via site_json.rb
-    'lang': 'en',
-  }, imageData);
+  const engine = buildEngine(
+    {
+      page: variables,
+      site: window.jekyllSite, // This is defined globally via site_json.rb
+      lang: 'en',
+    },
+    imageData
+  );
   const renderedHTML = engine.parseAndRenderSync(newHTML);
   return renderedHTML;
 }

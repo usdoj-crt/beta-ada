@@ -2,5 +2,4 @@
 const getAccordionButtons = () =>
   Array.from(document.querySelectorAll('.expand button.usa-accordion__button.pa11y-skip'));
 
-
 export default getAccordionButtons;

@@ -7,7 +7,7 @@ function setStorage(name, data) {
 }
 
 function accessStorage(name) {
-  return storageAvailable('localStorage') ? localStorage.getItem(name) : ''
+  return storageAvailable('localStorage') ? localStorage.getItem(name) : '';
 }
 
 export { accessStorage, setStorage };

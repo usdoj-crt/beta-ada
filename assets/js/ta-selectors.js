@@ -57,7 +57,7 @@ window.onload = function () {
   if (userClickedAnchorLink(paramName)) {
     selectorState = accessStorage(paramName).split(';');
   } else {
-  // If we have search params available in the URL, use them to populate state
+    // If we have search params available in the URL, use them to populate state
     selectorState = getSearchParam(paramName).split(';');
   }
   // Remove items not allowed in the tags list:
@@ -73,7 +73,7 @@ window.onload = function () {
       document.getElementById(selectorState[item]).checked = true;
       document.getElementById(selectorState[item]).dataset.checked = true;
     }
-  };
+  }
   // Close the dropdown if user clicks outside of it:
   document.addEventListener('click', (e) => {
     const didClickedOutside = !dropdownContainer.contains(e.target);
