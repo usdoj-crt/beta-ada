@@ -44,10 +44,6 @@ eval("__webpack_require__.r(__webpack_exports__);\nObject(function webpackMissin
 /******/ 	// This entry module can't be inlined because the eval devtool is used.
 /******/ 	var __webpack_exports__ = {};
 /******/ 	__webpack_modules__["./_assets/js/ta-selectors.js"](0, __webpack_exports__, __webpack_require__);
-<<<<<<< HEAD
 /******/
-=======
-/******/
->>>>>>> 151bfa7 (set up only)
 /******/ })()
 ;
