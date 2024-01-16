@@ -9,11 +9,11 @@ publish-date: 2014-01-31 00:00:00
 updated-date: 2020-02-28 00:00:00
 print: true
 related-content: true
+redirect_from:
+  - /opdmd.htm
 tags:
   - mobility devices
   - physical accessibility
-redirect_from:
-  - /opdmd.htm
 ---
 This publication is designed to help title II entities (State and local governments) and title III entities (businesses and non-profit organizations that serve the public) (together, "covered entities") understand how the new rules for mobility devices apply to them. These rules went into effect on March 15, 2011.
 

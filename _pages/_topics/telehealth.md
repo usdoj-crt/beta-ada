@@ -13,10 +13,10 @@ card:
   image: landing/telehealth.jpg
   alt: "photo of a person on a video call with a doctor"
   href: /topics/telehealth/
+related-content: true
 tags:
   - medical care
   - health care
-related-content: true
 ---
 ## What is telehealth?
 

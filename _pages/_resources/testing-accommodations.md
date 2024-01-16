@@ -9,10 +9,10 @@ publish-date: 2015-09-08 00:00:00
 updated-date: 2020-02-28 00:00:00
 print: true
 related-content: true
-tags:
-  - education
 redirect_from:
   - /regs2014/testing_accommodations.html
+tags:
+  - education
 ---
 Standardized examinations and other high-stakes tests are gateways to educational and employment opportunities.  Whether seeking admission to a high school, college, or graduate program, or attempting to obtain a professional license or certification for a trade, it is difficult to achieve such goals without sitting for some kind of standardized exam or high-stakes test.  While many testing entities have made efforts to ensure equal opportunity for individuals with disabilities, the Department continues to receive questions and complaints relating to excessive and burdensome documentation demands, failures to provide needed testing accommodations, and failures to respond to requests for testing accommodations in a timely manner.
 

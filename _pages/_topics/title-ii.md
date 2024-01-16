@@ -13,12 +13,12 @@ card:
   image: landing/title-ii.gif
   alt: "An aerial view of a city; includes city hall, streets, sidewalks, cars, and other government and non-government buildings"
   href: /topics/title-ii/
-tags:
-  - title ii
 related-content: true
 redirect_from:
   - /ada_title_ii.htm
   - /ada_title_II.htm
+tags:
+  - title ii
 ---
 
 ## Title II Applies to State/Local Programs

@@ -10,9 +10,9 @@ subpagenav: true
 sidenav: false
 redirect_from:
   - 2010adastandards_index.htm
+related-content: true
 tags:
   - design standards
-related-content: true
 ---
 
 The ADA Standards for Accessible Design (“ADA Standards”) cover:

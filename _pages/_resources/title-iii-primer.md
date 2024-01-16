@@ -9,10 +9,10 @@ publish-date: 2011-03-01 00:00:00
 updated-date: 2020-02-28 00:00:00
 print: true
 related-content: true
-tags:
-  - title iii
 redirect_from:
   - /regs2010/smallbusiness/smallbusprimer2010.htm
+tags:
+  - title iii
 ---
 ## New Customers
 

@@ -13,12 +13,12 @@ card:
   image: landing/title-iii.gif
   alt: "A sign hanging inside a storefront window reads Welcome. We are Open. Please come in"
   href: /topics/title-iii/
-tags:
-  - title iii
 related-content: true
 redirect_from:
   - /ada_title_iii.htm
   - /ada_title_III.htm
+tags:
+  - title iii
 ---
 
 ## Title III Applies to Businesses

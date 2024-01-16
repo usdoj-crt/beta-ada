@@ -11,10 +11,10 @@ publish-date: 2015-07-20 00:00:00
 updated-date: 1993-11-01 00:00:00
 related-content: true
 print: true
-tags:
-  - title iii
 redirect_from:
   - /taman3.html
+tags:
+  - title iii
 ---
 ## Introduction
 

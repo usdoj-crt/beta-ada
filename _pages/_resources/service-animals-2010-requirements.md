@@ -7,12 +7,12 @@ lead: |-
 lang: "en"
 related-content: true
 print: true
-tags:
-  - service animals
 publish-date: 2011-07-01 00:00:00
 updated-date: 2020-02-28 00:00:00
 redirect_from:
   - /service_animals_2010.htm
+tags:
+  - service animals
 ---
 ## Overview
 

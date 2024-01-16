@@ -3,16 +3,16 @@ title: The Americans with Disabilities Act and Other Federal Laws Protecting the
 description: "This document provides guidance on how the ADA and other Federal laws protect the rights of voters with disabilities."
 permalink: /resources/protecting-voter-rights/
 lead: |-
-  Voting is one of our nation’s most fundamental rights and a hallmark of our democracy. Yet for too long, many people with disabilities have been excluded from this core aspect of citizenship.  People with intellectual or mental health disabilities have been prevented from voting because of prejudicial assumptions about their capabilities.  People who use wheelchairs or other mobility aids, such as walkers, have been unable to enter the polling place to cast their ballot because there was no ramp.  People who are blind or have low vision could not cast their vote because the ballot was completely inaccessible to them. 
+  Voting is one of our nation’s most fundamental rights and a hallmark of our democracy. Yet for too long, many people with disabilities have been excluded from this core aspect of citizenship.  People with intellectual or mental health disabilities have been prevented from voting because of prejudicial assumptions about their capabilities.  People who use wheelchairs or other mobility aids, such as walkers, have been unable to enter the polling place to cast their ballot because there was no ramp.  People who are blind or have low vision could not cast their vote because the ballot was completely inaccessible to them.
 lang: "en"
 publish-date: 2014-09-30 00:00:00
 updated-date: 2020-02-28 00:00:00
 print: true
 related-content: true
-tags:
-  - voting
 redirect_from:
   - /ada_voting/ada_voting_ta.htm
+tags:
+  - voting
 ---
 Important federal civil rights laws were enacted to combat such forms of discrimination and protect the fundamental right to vote for all Americans. This document provides guidance to states, local jurisdictions, election officials, poll workers, and voters on how the Americans with Disabilities Act and other federal laws help ensure fairness in the voting process for people with disabilities.
 
@@ -96,7 +96,7 @@ To receive e-mail notifications when new ADA information is available, visit vis
 
 For information about the VRA, VAEHA, NVRA, and HAVA, please visit the [Voting Section's website](https://www.justice.gov/crt/about/vot/)
 
-To report complaints of possible violations of the federal voting rights laws, you may contact the [Voting Section](https://www.justice.gov/crt/about/vot/misc/contact.php).  
+To report complaints of possible violations of the federal voting rights laws, you may contact the [Voting Section](https://www.justice.gov/crt/about/vot/misc/contact.php).
 
 You can contact the Voting Section though our toll-free number (800-253-3931) or [our email address](mailto:voting.section@usdoj.gov).
 

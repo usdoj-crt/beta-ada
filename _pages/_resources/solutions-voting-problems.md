@@ -9,10 +9,10 @@ publish-date: 2014-10-10 00:00:00
 updated-date: 2020-02-28 00:00:00
 print: true
 related-content: true
-tags:
-  - voting
 redirect_from:
   - /ada_voting/voting_solutions_ta/polling_place_solutions.htm
+tags:
+  - voting
 ---
 This publication provides a brief discussion of physical barriers to access in five commonly found areas at polling places: parking, sidewalks and walkways, building entrances, interior hallways, and the voting area itself. It is intended to assist election officials to meet their ADA obligation to provide polling places that are accessible to and usable by individuals with disabilities. To provide access to the polling place, a route into and through the polling place must be accessible to voters with disabilities. This accessible route should connect each area, from parking to the voting area and back again and should be the same route all voters take. If this is not possible and alternate routes must be used to provide access for voters with disabilities, temporary signs should direct voters to and along these alternate accessible routes.
 

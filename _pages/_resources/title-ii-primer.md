@@ -9,11 +9,11 @@ publish-date: 2015-06-01 00:00:00
 updated-date: 2020-02-28 00:00:00
 print: true
 related-content: true
-tags:
-  - title ii
 redirect_from:
   - /regs2010/titleii_2010/title_ii_primer.html
   - /regs2010/titleII_2010/title_ii_primer.html
+tags:
+  - title ii
 ---
 People with disabilities have too often been excluded from participating in basic civic activities like using the public transportation system, serving on a jury, voting, seeking refuge at an emergency shelter, or simply attending a high school sports event with family and friends. The Americans with Disabilities Act (ADA) is a Federal civil rights law that prohibits discrimination against people with disabilities. Under this law, people with disabilities are entitled to all of the rights, privileges, advantages, and opportunities that others have when participating in civic activities.
 

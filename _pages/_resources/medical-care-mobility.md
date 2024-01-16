@@ -9,12 +9,12 @@ publish-date: 2010-07-01 00:00:00
 updated-date: 2020-06-26 00:00:00
 print: true
 related-content: true
-tags:
-  - medical care
-  - health care
 redirect_from:
   - /medcare_mobility_ta/medcare_ta.htm
   - /medcare_ta.htm
+tags:
+  - medical care
+  - health care
 ---
 ## Part 1:  Overview and General Requirements
 

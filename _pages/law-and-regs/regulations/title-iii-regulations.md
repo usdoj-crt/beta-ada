@@ -18,10 +18,9 @@ sidenav-pdf:
 expand-sidenav: true
 related-content: true
 interactive-headers: true
+lead: |-
 tags:
   - title iii
-lead: |-
-
 ---
 
 **Title III Regulations Supplementary Information**

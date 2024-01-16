@@ -3,18 +3,18 @@ title: Model Policy for Law Enforcement on Communicating with People Who are Dea
 description: "This document serves a model for law enforcement agencies when adopting a policy on effective communication with people who are deaf or hard of hearing."
 permalink: /resources/model-policy-law-enforcement/
 lead: |-
-  
+
 lang: "en"
 publish-date: 2006-01-01 00:00:00
 updated-date: 2020-02-28 00:00:00
 print: true
 related-content: true
+redirect_from:
+  - /lawenfmodpolicy.htm
 tags:
   - title ii
   - effective communication
   - law enforcement
-redirect_from:
-  - /lawenfmodpolicy.htm
 ---
 ## OVERVIEW
 
@@ -60,7 +60,7 @@ It is the policy of this law enforcement agency (Agency) to ensure that a consis
   - Use of an assistive listening system or device;
   - Use of a teletypewriter (TTY);
   - Use of a qualified oral or sign language interpreter.
-  
+
 - Officers must review and have a working knowledge of the publication [Communicating with People Who Are Deaf or Hard of Hearing:  ADA Guide for Law Enforcement Officers]({{'/resources/law-enforcement-guide/'| relative_url}}).  This document reviews how officers should communicate effectively in the types of situations officers will encounter.
 
 ## PROCEDURES FOR OBTAINING AUXILIARY AIDS AND SERVICES

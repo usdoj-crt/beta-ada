@@ -9,11 +9,10 @@ related-content: true
 publish-date: 1998-07-01 00:00:00
 updated-date: 2020-02-28 00:00:00
 print: true
+subnavigation: true
 tags:
   - law enforcement
   - effective communication
-subnavigation: true
-
 ---
 ## I. Introduction
 

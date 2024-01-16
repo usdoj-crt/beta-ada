@@ -14,11 +14,11 @@ card:
   alt: Image of the acronym OUD for Opioid Use Disorder represented by wooden letter tiles
   position: top
   href: /topics/opioid-use-disorder/
+related-content: true
 tags:
   - employment
   - opioid use disorder
   - health care
-related-content: true
 ---
 Employers, businesses that are open to the public, and state/local
 government programs cannot discriminate against people with OUD
