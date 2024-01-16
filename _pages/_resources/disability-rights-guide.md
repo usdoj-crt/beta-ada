@@ -10,12 +10,12 @@ publish-date: 1996-10-01 00:00:00
 updated-date: 2020-02-28 00:00:00
 print: true
 related-content: true
+redirect_from:
+  - /cguide.htm
 tags:
   - employment
   - title ii
   - title iii
-redirect_from:
-  - /cguide.htm
 ---
 ## Americans with Disabilities Act (ADA)
 

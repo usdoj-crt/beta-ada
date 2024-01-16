@@ -3,16 +3,16 @@ title: A Guide for People with Disabilities Seeking Employment
 description: "This document contains information for people with disabilities seeking employment.  It provides a general explanation of the employment provisions of the ADA and how to file a complaint with the Equal Employment Opportunity Commission."
 permalink: /resources/employment-seeking-guide/
 lead: |-
-  
+
 lang: "en"
 publish-date: 2000-10-01 00:00:00
 updated-date: 2020-02-25 00:00:00
 print: true
 related-content: true
-tags:
-  - employment
 redirect_from:
   - /workta.htm
+tags:
+  - employment
 ---
 {% include expand-accordions-wrapper.html expand-heading='There are more opportunities now than ever before for people who are receiving SSDI and SSI benefits to learn job skills and find permanent employment.' %}
 

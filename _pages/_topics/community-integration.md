@@ -11,10 +11,10 @@ card:
   image: landing/community-integration.jpg
   alt: "Two women, one with a disability, play with a dog on a lawn"
   href: /topics/community-integration/
+related-content: true
 tags:
   - title ii
   - olmstead
-related-content: true
 ---
 In a 1999 case called *Olmstead v. L.C.*, the Supreme Court wrote that the unnecessary
 segregation of people with disabilities is a form of discrimination. The Court said that a person

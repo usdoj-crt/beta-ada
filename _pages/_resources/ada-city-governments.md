@@ -7,13 +7,13 @@ lead: |-
 lang: "en"
 related-content: true
 print: true
-tags:
-  - design standards
-  - title ii
 publish-date: 2000-01-1 00:00:00
 updated-date: 2020-02-24 00:00:00
 redirect_from:
   - /comprob.htm
+tags:
+  - design standards
+  - title ii
 ---
 ## Introduction
 
