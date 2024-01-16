@@ -18,6 +18,7 @@ tags:
   - physical accessibility
 ---
 ## Overview
+## Overview
 
 **Providing equal opportunity to people with disabilities is the fundamental principle of the Americans with Disabilities Act. This publication is designed to help title II and title III entities understand how new requirements for swimming pools, especially existing pools, apply to them.**
 **Providing equal opportunity to people with disabilities is the fundamental principle of the Americans with Disabilities Act. This publication is designed to help title II and title III entities understand how new requirements for swimming pools, especially existing pools, apply to them.**
@@ -35,7 +36,9 @@ There are a limited number of exceptions to the requirements. One applies to mul
 There are a limited number of exceptions to the requirements. One applies to multiple spas provided in a cluster. A second applies to wave pools, lazy rivers, sand bottom pools, and other pools that have only one point of entry. For more information on the specific requirements and exceptions, see sections [242]({{'/law-and-regs/design-standards/2010-stds#242-swimming-pools-wading-pools-and-spas' | relative_url}}) and [1009]({{'/law-and-regs/design-standards/2010-stds#1009-swimming-pools-wading-pools-and-spas' | relative_url}}) of the 2010 Standards.
 
 ## Existing Pools
+## Existing Pools
 
+### Title II Program Accessibility
 ### Title II Program Accessibility
 
 Individuals with disabilities cannot be excluded from or denied participation in State and local government programs, services, or activities because a facility is inaccessible or unusable. This means that all programs, services, and activities, when viewed in their entirety, must be accessible to individuals with disabilities unless doing so results in a fundamental alteration in the nature of the program or in an undue financial and administrative burden. This requirement is known as "program accessibility."
@@ -65,6 +68,7 @@ To determine which pools must be made accessible, public entities should conside
 - Which pools are accessible and to what extent; and
 - Level of dispersion of the accessible locations and convenience to reach them (e.g., one pool in each quadrant of the town, all on accessible mass transit).
 
+### Title III Readily Achievable Barrier Removal
 ### Title III Readily Achievable Barrier Removal
 
 Title III of the ADA requires that places of public accommodation (e.g., hotels, resorts, swim clubs, and sites of events open to the public) remove physical barriers in existing pools to the extent that it is readily achievable to do so (i.e., easily accomplishable and able to be carried out without much difficulty or expense).
