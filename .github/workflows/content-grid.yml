@@ -5,17 +5,20 @@ on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./scripts
     steps:
       - name: Checkout Source
         uses: actions/checkout@v3
 
       - name: Make the script files executable
-        run: chmod +x ../../scripts/create_content_grid.sh
+        run: chmod +x create_content_grid.sh
       - name: Build content grid
-        run: ../../scripts/create_content_grid.sh
+        run: ./create_content_grid.sh
 
       - name: Archive content grid results
         uses: actions/upload-artifact@v3
         with:
           name: content_grid
-          path: ../../scripts/out/content_grid.xls
+          path: out/content_grid.xls
