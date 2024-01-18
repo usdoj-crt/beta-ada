@@ -1,4 +1,4 @@
-content_grid="$(git rev-parse --show-toplevel)/scripts/out/content_grid.xls"
+content_grid="$(git rev-parse --show-toplevel)/scripts/out/content_grid.csv"
 
 mkdir -p out
 
