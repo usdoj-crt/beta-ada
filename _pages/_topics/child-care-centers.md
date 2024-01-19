@@ -13,10 +13,10 @@ card:
   image: landing/childcare.jpg
   alt: "a child with down-syndrome is playing guitar and sitting with kids and a teacher"
   href: /topics/child-care-centers/
+related-content: true
 tags:
   - child care
   - families
-related-content: true
 ---
 ## About Child Care Centers
 

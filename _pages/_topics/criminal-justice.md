@@ -10,8 +10,6 @@ lead: "State/local governments, including their criminal justice agencies, must
   and benefits as those given to people who do not have disabilities. "
 print: true
 related-content: true
-tags:
-  - law enforcement
 card:
   title: Criminal Justice
   description: The ADA requires state and local governments including their
@@ -21,6 +19,8 @@ card:
   image: landing/criminal-justice.jpg
   alt: Five diverse enforcement officers stand together
   href: /topics/criminal-justice/
+tags:
+  - law enforcement
 ---
 This can include, among other things, modifying policies, practices, and procedures, providing physical access to buildings, and providing communication aids and services, to ensure that people with disabilities can fully participate in all aspects of the criminal justice process.
 

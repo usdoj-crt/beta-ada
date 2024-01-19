@@ -9,11 +9,11 @@ publish-date: 2003-06-01 00:00:00
 updated-date: 2020-02-28 00:00:00
 print: true
 related-content: true
+redirect_from:
+  - /websites2.htm
 tags:
   - web access
   - technology
-redirect_from:
-  - /websites2.htm
 ---
 Taking advantage of new technology, many State and local governments are using the web to offer citizens a host of services including:
 

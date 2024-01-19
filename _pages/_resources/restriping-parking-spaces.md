@@ -9,12 +9,12 @@ publish-date: 2015-12-1 00:00:00
 updated-date: 2020-02-28 00:00:00
 print: true
 related-content: true
-tags:
-  - parking
-  - physical accessibility
 redirect_from:
   - /restriping_parking/restriping2015.html
   - /restripe.htm
+tags:
+  - parking
+  - physical accessibility
 ---
 In addition, businesses or privately owned facilities that provide goods or services to the public have a continuing ADA obligation to remove barriers to access in existing parking facilities when it is readily achievable to do so. Because restriping is relatively inexpensive, it is readily achievable in most cases. State and local government facilities also have an ongoing ADA obligation to make their programs accessible, which can require providing accessible parking.
 

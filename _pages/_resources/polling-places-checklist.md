@@ -13,10 +13,10 @@ publish-date: 2016-06-1 00:00:00
 updated-date: 2020-02-28 00:00:00
 print: true
 related-content: true
-tags:
-  - voting
 redirect_from:
   - /votingchecklist.htm
+tags:
+  - voting
 ---
 ## Polling Place Accessibility is Required by the Americans with Disabilities Act
 
