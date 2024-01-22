@@ -79,9 +79,12 @@ learn:
       icon: landing/guidance_resource_materials_gold.png
       examples:
         - ex1:
+          title: "Fact Sheet:  Notice of Proposed Rulemaking on Accessibility of Web Information and Services of State and Local Government Entities"
+          link: resources/2023-07-20-web-nprm
+        - ex2:
           title: A Guide to Disability Rights Laws
           link: resources/disability-rights-guide
-        - ex2:
+        - ex3:
           title: Algorithms, Artificial Intelligence, and Disability Discrimination in Hiring
           link:  resources/ai-guidance
         - ex3:
