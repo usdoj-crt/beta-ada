@@ -3,7 +3,7 @@ function getDescription(content) {
     const custom_description = content.searchgov_custom1[0].replace(',', ', ');
     return custom_description.charAt(0).toUpperCase() + custom_description.slice(1);
   }
-  
+
   return content.snippet
     .replace(/\uE000/g, '<span class="bg-yellow">')
     .replace(/\uE001/g, '</span>');
