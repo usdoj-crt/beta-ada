@@ -1,0 +1,71 @@
+{% assign lang = page.lang %}
+{% if lang==nil %}{% assign lang="en" %}{% endif %}
+{% if include.searchgov %}
+<script>
+    //<![CDATA[
+    var usasearch_config = { siteHandle: "{{include.searchgov.affiliate}}" };
+
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = "//search.usa.gov/javascripts/remote.loader.js";
+    document.getElementsByTagName("head")[0].appendChild(script);
+
+    //]]>
+  </script>
+  <form
+  id="search_form"
+  class="usa-search usa-search--small"
+  action="{{site.baseurl}}/search/"
+  accept-charset="UTF-8"
+  method="get"
+  role="search"
+>
+<input
+name="query"
+type="hidden"
+id="hiddenQuery"
+value=""
+/>
+<fieldset class="grid-col-3 usa-fieldset margin-bottom-2 search-filters">
+    <legend class="usa-legend">
+      <h3 class="noAnchor margin-y-0">Audience</h3><p class="margin-bottom-0">Filter the page content by audience type</p>
+    </legend>
+    <div class="usa-checkbox">
+      <input
+        class="usa-checkbox__input topics"
+        id="topics-checkbox"
+        type="checkbox"
+        name="audience"
+        value="topics"
+        data-checked="false"
+        type="submit"
+      />
+      <label class="usa-checkbox__label" for="topics-checkbox">Basic Overview</label>
+    </div>
+    <div class="usa-checkbox">
+      <input
+        class="usa-checkbox__input resources"
+        id="guidance-checkbox"
+        type="checkbox"
+        name="audience"
+        value="guidance"
+        data-checked="false"
+        type="submit"
+      />
+      <label class="usa-checkbox__label" for="guidance-checkbox">Detailed Guidance</label>
+    </div>
+    <div class="usa-checkbox">
+      <input
+        class="usa-checkbox__input law-and-regs"
+        id="legal-checkbox"
+        type="checkbox"
+        name="audience"
+        value="law-and-regs"
+        data-checked="false"
+        type="submit"
+      />
+      <label class="usa-checkbox__label" for="legal-checkbox">Legal Documents</label>
+    </div>
+  </fieldset>
+  </form>
+  {% endif %}
