@@ -1,13 +1,16 @@
 ---
 title: "ADA Know Your Rights: Know Your Rights - Returning Service Members with Disabilities"
-description: 
+description: This publication is designed to provide military service members who have been seriously wounded while serving a basic understanding of their rights under the ADA and where to turn for additional information and assistance. (2010)
 sidenav: true
 print: true
 compact: true
 subnavigation: true
 permalink: /resources/returning-servicemembers/
+redirect_from:
+  - /servicemembers_adainfo.html
 tags:
-  - web access
+  - employment
+  - physical access
   - title ii
 ---
 You've been seriously injured while serving on active duty in the U.S. Military -- perhaps you've lost a limb, sustained a traumatic brain injury or spinal cord injury, sustained hearing or vision loss, or are experiencing post traumatic stress disorder (PTSD) -- and now you're back in the States trying to adjust to living with your injury. This publication explains your rights under the Americans with Disabilities Act (ADA) and provides information on where to get assistance.
