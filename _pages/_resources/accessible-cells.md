@@ -14,7 +14,7 @@ redirect_from:
 tags:
   - physical access
 ---
-All such entities are covered by the Americans with Disabilities Act of 1990 (ADA), and those that receive Federal funds are also covered by section 504 of the Rehabilitation Act (Section 504).{% fn 1 %} These laws prohibit discrimination against persons with disabilities, including inmates who use wheelchairs, walkers, or other mobility devices. While all aspects of law enforcement and correctional services are covered by these laws - including facilities, employment, transportation, and other activities, programs, and services - this guide focuses on the prevention of discrimination against inmates with mobility disabilities through the design of accessible cells.     
+All such entities are covered by the Americans with Disabilities Act of 1990 (ADA), and those that receive Federal funds are also covered by section 504 of the Rehabilitation Act (Section 504).{% fn 1 %} These laws prohibit discrimination against persons with disabilities, including inmates who use wheelchairs, walkers, or other mobility devices. While all aspects of law enforcement and correctional services are covered by these laws - including facilities, employment, transportation, and other activities, programs, and services - this guide focuses on the prevention of discrimination against inmates with mobility disabilities through the design of accessible cells.
 
 ## Security
 Accessible cells do not compromise the security of prison personnel. In fact, having accessible cells increases security because they allow inmates with mobility disabilities to function independently, minimizing the need for assistance from corrections officers.
