@@ -190,7 +190,7 @@ The following publications can be ordered by telephone or viewed online.
 
 [Accommodating Service Members and Veterans with PTSD](https://askjan.org/publications/consultants-corner/vol03iss02.cfm)
 800-526-7234 (voice)
-877-781-9403 (TTY) 
+877-781-9403 (TTY)
 
 [Accommodating Employees with Traumatic Brain Injury](https://www.govinfo.gov/content/pkg/GOVPUB-L41-PURL-gpo9207/pdf/GOVPUB-L41-PURL-gpo9207.pdf)
 
