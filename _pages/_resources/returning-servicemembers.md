@@ -207,16 +207,16 @@ All the agencies listed below provide technical assistance to help businesses, S
 >Questions<br>
 1-800-669-4000 (voice)<br>
 1-800-669-6820 (TTY)
-
+>
 >Order publications by mail<br>
 1-800-669-3362 (voice)<br>
 1-800-800-3302 (TTY)
-
+>
 >Order publications [online](http://www.eeoc.gov/eeoc/publications/index.cfm)
-
+>
 >[Email](mailto:info@eeoc.gov)<br>
 Please include your zipcode and/or city and state so your email will be sent to the appropriate office.
-
+>
 >Mail<br>
 Please call, or go [here](https://www.eeoc.gov/field-office) to get the address of the office that serves your area.
 
@@ -227,21 +227,21 @@ Please call, or go [here](https://www.eeoc.gov/field-office) to get the address 
 304-293-7186 (voice)<br>
 877-781-9403 (TTY)<br>
 304-293-5407 (fax)
-
+>
 >Address:<br>
-Job Accommodation Network<bt>
+Job Accommodation Network<br>
 PO Box 6080<br>
 Morgantown, WV 26506-6080
 
 <a name="doj"></a>The [U.S. Department of Justice](https://www.justice.gov) provides information about the provisions applying to businesses and State and local government agencies, including the ADA Standards for Accessible Design. Contact the ADA Information Line to speak to an ADA Specialist who can answer questions and help you understand the ADA´s requirements. All calls are confidential.
 
 >[ADA.gov]({{'/index' | relative_url}})
-
+>
 >ADA Information Line<br>
 1-800-514-0301 (voice)<br>
 1-833-610-1264 (TTY)<br>
 Speak to an ADA Specialist M, Tu, W, F: 9:30am - 12pm and 3pm - 5:30pm ET, Th: 2:30pm - 5:30pm ET
-
+>
 >Address:<br>
 U.S. Department of Justice<br>
 Civil Rights Division<br>
@@ -253,9 +253,9 @@ Washington, D.C. 20530
 >ADA Assistance Line<br>
 888-446-4511 (voice)<br>
 TTY: use relay service
-
+>
 >[E-mail](mailto:FTA.ADAassistance@dot.gov)
-
+>
 >Address:<br>
 Federal Transit Administration<br>
 East Building<br>
@@ -266,15 +266,15 @@ Washington, DC 20590
 
 >800-421-3481 (voice)<br>
 877-521-2172 (TTY)
-
+>
 >[E-mail](mailto:ocr@ed.gov)
-
+>
 >[Mail](https://www2.ed.gov/about/contacts/gen/index.html?src=ft)
 
 <a name="adata"></a>The ten regional [DBTAC - ADA Centers](https://www.adata.org) provide information about the ADA.
 
 >800-949-4232 (voice and TTY)
-
+>
 <a name="dol"></a>The [U.S. Department of Labor](https://www.dol.gov/vets/programs/userra/main.htm) provides information about the provisions of USERRA.
 
 >202-693-4731 (voice)<br>
