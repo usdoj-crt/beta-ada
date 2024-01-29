@@ -1,6 +1,12 @@
 {% assign lang = page.lang %} {% assign ref = page.ref %} {% if lang==nil %}{% assign lang="en" %}{%
 endif %} {% assign pages=site.pages | where:"ref", page.ref | sort: lang %}
-
+{% if page.permalink contains '/topics/' %}
+  {% assign pageType = 'topics' %}
+{% elsif page.permalink contains '/resources/' %}
+  {% assign pageType = 'resources' %}
+{% elsif page.permalink contains '/law-and-regs/' %}
+  {% assign pageType = 'law-and-regs' %}
+{% endif %}
 <head>
   <link rel="icon" href="{{ '/assets/images/favicon.png' | relative_url }}" />
   <!-- Basic Page Needs
@@ -18,7 +24,7 @@ endif %} {% assign pages=site.pages | where:"ref", page.ref | sort: lang %}
   <meta http-equiv="Content-Language" content="{{lang}}" />
 
   <meta name="searchgov_custom1" content="{{page.description}}" />
-  <meta name="dcterms.audience" content="{{page.permalink | split: '/' | third}}" />
+  <meta name="audience" content="{{pageType}}" />
   {% for item in pages %} {% if item.ref!=nil and item.ref==ref %}
   <link rel="alternate" hreflang="{{item.lang}}" href="{{item.url | relative_url }}" />
   {% endif%} {% endfor %}
