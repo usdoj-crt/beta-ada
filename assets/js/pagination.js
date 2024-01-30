@@ -12,14 +12,15 @@ let searchParams = {
   query: urlParams.get('query'),
   offset: urlParams.get('offset') || 0,
   limit: NUMBER_OF_RESULTS,
-  audience: urlParams.get('audience'),
+ // audience: urlParams.get('audience'),
 };
 // Add our total number of results DOM node:
+const audience = urlParams.get('audience');
 const target = document.getElementById('totalResultsTarget');
 const hiddenQueryInput = document.getElementById('hiddenQuery');
 hiddenQueryInput.value = urlParams.get('query');
 document.querySelectorAll('.usa-checkbox__input').forEach((checkbox) => {
-  if (checkbox.value == urlParams.get('audience')) {
+  if (checkbox.value == audience) {
     checkbox.setAttribute('data-checked', true);
   } else {
     checkbox.setAttribute('data-checked', false);
@@ -34,7 +35,7 @@ Object.keys(searchParams).forEach(function (key) {
 function reqLoaded() {
   if (this.status === 200) {
     let resJSON = JSON.parse(this.responseText);
-    renderSearchPage(resJSON, urlParams, NUMBER_OF_RESULTS);
+    renderSearchPage(resJSON, urlParams, NUMBER_OF_RESULTS, audience);
   } else {
     target.innerHTML = totalResults(-1, 'result');
   }

@@ -12,7 +12,7 @@ import searchResultsTemplate from '../templates/search/searchResultsTemplate';
 import totalResults from '../templates/search/totalResultsTemplate';
 import clickTracking from '../click-tracking';
 
-export default function renderSearchPage(searchResults, urlParams, numberOfResults) {
+export default function renderSearchPage(searchResults, urlParams, numberOfResults, audience = null) {
   const results = searchResults;
   const graphicResults = results.graphic_best_bets;
   const textResults = results.text_best_bets;
@@ -48,8 +48,11 @@ export default function renderSearchPage(searchResults, urlParams, numberOfResul
     const pagination_list = document.querySelectorAll('ol.usa-pagination__list')[0];
     // Put the fetched results into a list, and render in the DOM:
     webResults.forEach(function (item) {
-      renderSearchResults(searchResultsTemplate(item));
-    });
+      if (!audience || item.url.includes(audience)) {
+        renderSearchResults(searchResultsTemplate(item));
+      }
+      return null
+    }).filter(x => !!x);
     // Set up click tracking for search.gov:
     clickTracking();
     // List the total number of results:
