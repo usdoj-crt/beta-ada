@@ -2,7 +2,7 @@ content_grid="$(git rev-parse --show-toplevel)/scripts/out/content_grid.csv"
 
 mkdir -p out
 
-echo "Title,Link,File Path, Deployment Date,Publish Date,Updated Date,Description,Tags" > "$content_grid"
+echo "Title,Link,Deployment Date,Publish Date,Updated Date,Description,Tags" > "$content_grid"
 top_level_files=../_pages/
 resource_files=../_pages/_resources/
 topic_files=../_pages/_topics/
@@ -14,7 +14,7 @@ for file in "$top_level_files"*.md "$resource_files"*.md "$topic_files"*.md "$es
   title="$(sed -n 's/^title:\(.*\)/\1/p' < $file | sed 's/,//g')"
   publish_date="$(sed -n 's/^publish-date:\(.*\)/\1/p' < $file)"
   updated_date="$(sed -n 's/^updated-date:\(.*\)/\1/p' < $file)"
-  deployment_date="$(git log --pretty=format:"%ad" --date=short --diff-filter=A -- $file_path)"
+  deployment_date="$(git log --pretty=format:"%ad" main --date=short --diff-filter=A -- $file_path)"
   description="$(sed -n 's/^description:\(.*\)/\1/p' < $file | sed 's/,//g')"
   tags="$(awk '/---/{p=0}p;/tags:/{p=1}' $file | tr -d '\n')"
 
@@ -24,7 +24,7 @@ for file in "$top_level_files"*.md "$resource_files"*.md "$topic_files"*.md "$es
     link="$(sed -n 's/^permalink:\(.*\)/\1/p' < $file)"
   fi
 
-  echo "$title,$link,$file_path,$deployment_date,$publish_date,$updated_date,$description,$tags" | tee -a "$content_grid"
+  echo "$title,$link,$deployment_date,$publish_date,$updated_date,$description,$tags" | tee -a "$content_grid"
 done
 
 echo ""
