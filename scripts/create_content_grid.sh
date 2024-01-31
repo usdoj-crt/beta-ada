@@ -2,7 +2,7 @@ content_grid="$(git rev-parse --show-toplevel)/scripts/out/content_grid.csv"
 
 mkdir -p out
 
-echo "Title,Link,File Path,Deployment Date,Publish Date,Updated Date,Description,Tags" > "$content_grid"
+echo "Title,Link,File Path, Deployment Date,Publish Date,Updated Date,Description,Tags" > "$content_grid"
 top_level_files=../_pages/
 resource_files=../_pages/_resources/
 topic_files=../_pages/_topics/
