@@ -5,7 +5,7 @@ layout: default
 <div class="crt-page grid-container {% if page.compact %}compact{% endif %}">
   {% include breadcrumbs.html %}
   <div class="grid-row grid-gap-xl">
-    {% if page.sidenav %}
+    {% if page.sidenav or page.subpagenav %}
     <div id="crt-page--sidenav" class="desktop:grid-col-4">
       {% if page.title =='Guidance & Resource Materials' %}
         {% include ta-left-rail.html %}
@@ -22,17 +22,21 @@ layout: default
             {{site.data[lang]["i18n"].links.toc}}
           </button>
         </h4>
-      {% include sidenav.html collection=page.subnav %}
+      {% if page.sidenav %}
+        {% include sidenav.html collection=page.subnav %}
+      {% elsif page.subpagenav %}
+        {% include subpagenav.html %}
+      {% endif %}
       </div>
       {% endif %}
-      {% if page.page-helpful != false and page.permalink contains '/law-and-regs/' %}
+      {% if page.page-helpful != false and page.permalink contains '/law-and-regs/' and page.subpagenav != true %}
         {% include touchpoints-page-helpful.html sidenav=false in-sidenav=true %}
       {% endif %}
     </div>
     {% endif %}
     <div
       id="crt-page--content"
-      class="mobile-lg:grid-col {% if page.sidenav %}tablet:grid-col-12 desktop:grid-col-8{% endif %}"
+      class="mobile-lg:grid-col {% if page.sidenav or page.subpagenav %}tablet:grid-col-12 desktop:grid-col-8{% endif %}"
     >
       {% if page.common-alert %}
         {% include common-alert.html redirect=page.common-alert.redirect type=page.common-alert.type text=page.common-alert.text %}
@@ -43,7 +47,14 @@ layout: default
         undergone final review for legal accuracy and is not intended to provide legal guidance." %}
       {% endif %}
       {% if page.ref!=nil %} {% include toggle-language.html %} {% endif %}
+    {% if page.title-icon %}
+      <div class="display-flex flex-align-center page-title-icon">
+        <div class="h4 crt-landing--icon_grey margin-right-1"><img src="{{page.title-icon | relative_url}}" alt=""/></div>
+        <h1 id="top">{{page.title}}</h1>
+      </div>
+    {% else %}
       <h1 id="top">{{page.title}}</h1>
+    {% endif %}
       <div class="crt-landing--separator_small"></div>
       {% if page.sidenav %}
       <div class="measure-6">

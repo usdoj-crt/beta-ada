@@ -31,14 +31,25 @@
   color: white;
 }
 
+.download-cta {
+  p {
+    display: flex;
+    flex-wrap: wrap;
+    a {
+      border: solid 1px #D9D9D9;
+      padding: 1em 0.5em;
+      min-width: 300px;
+      margin-right: 2em;
+      margin-top: 1em;
+      font-weight: bold;
+    }
+  }
+}
+
 .crt-page--downloadpdf-link {
   align-items: baseline;
   display: inline-flex;
   gap: 8px;
-
-  .usa-icon {
-    flex: 1 0 22px;
-  }
 }
 
 span.usa-sr-only {

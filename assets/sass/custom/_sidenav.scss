@@ -19,6 +19,20 @@
     }
   }
 
+  .subpagenav {
+    .usa-current::after {
+      background-color: #162e51;
+      border-radius: 99rem;
+      content: "";
+      display: block;
+      position: absolute;
+      bottom: 0.25rem;
+      top: 0.25rem;
+      width: 0.25rem;
+      left: 0;
+    }
+  }
+
   a:not(.crt-page--downloadpdf-button)  {
     color: color($theme-text-color);
 
