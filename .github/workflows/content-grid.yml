@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout Source
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Make the script files executable
         run: chmod +x create_content_grid.sh
