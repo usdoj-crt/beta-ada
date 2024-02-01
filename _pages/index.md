@@ -84,6 +84,9 @@ learn:
         - ex2:
           title: Algorithms, Artificial Intelligence, and Disability Discrimination in Hiring
           link:  resources/ai-guidance
+        - ex3:
+          title: ADA Requirements - Effective Communication
+          link: resources/effective-communication
     - heading: Laws & Regulations
       content: |-
         Find legal documents that are enforceable under the ADA in a court of law.
