@@ -9,7 +9,8 @@
     {% include notice.html %}
     {{ content }}
     {% if page.page-helpful != false %}
-      {% include touchpoints-page-helpful.html sidenav=page.sidenav in-sidenav=false %}
+      {% if page.sidenav or page.subpagenav %}{% assign sidenav=true %}{% else %}{% assign sidenav=false %}{% endif %}
+      {% include touchpoints-page-helpful.html sidenav=sidenav in-sidenav=false %}
     {% endif %}
   </main>
   {% include footer.html %}
