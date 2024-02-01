@@ -94,7 +94,7 @@ For more information on effective dates, see the Department's publication called
 
 ## Maintenance of Accessible Features  
 
-Accessible pool features must be maintained in operable, working condition so that persons with disabilities have access to the pool whenever the pool is open to others. For example, a portable pool lift may be stored when the pool is closed but it must be at poolside and fully operational during all open pool hours.  
+Accessible pool features must be maintained in operable, working condition so that persons with disabilities have access to the pool whenever the pool is open to others. For example, a portable pool lift may be stored when the pool is closed but it must be at poolside and fully operational during all open pool hours.
 
 An entity should recognize that certain types of equipment may require more staff support and maintenance than others (e.g. ensuring there are enough batteries for a pool lift to maintain a continued charge during pool hours). Entities should plan for these issues and modify operational policies as needed to provide accessible means of entry while the pool is open.  
 
@@ -116,7 +116,7 @@ For more information about the ADA, please visit our website or call our toll-fr
 
 Call 800-514-0301 (Voice) and 833-610-1264 (TTY) M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist.  All calls are confidential.  
 
-For persons with disabilities, this publication is available in alternate formats.  
+For persons with disabilities, this publication is available in alternate formats.
 
 <hr>  
 The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
