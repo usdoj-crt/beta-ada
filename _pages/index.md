@@ -87,20 +87,17 @@ learn:
         - ex3:
           title: Algorithms, Artificial Intelligence, and Disability Discrimination in Hiring
           link:  resources/ai-guidance
-        - ex3:
-          title: ADA Requirements - Effective Communication
-          link: resources/effective-communication
-    - heading: Law & Regulations
+    - heading: Laws & Regulations
       content: |-
         Find legal documents that are enforceable under the ADA in a court of law.
       icon: landing/laws_regs_standards_gold.png
       examples:
       - ex1:
         title: State and Local Government Services (Title II)
-        link: law-and-regs/regulations/title-ii-2010-regulations/
+        link: law-and-regs/title-ii-2010-regulations/
       - ex2:
         title: Public Accommodations (Title III)
-        link: law-and-regs/regulations/title-iii-regulations/
+        link: law-and-regs/title-iii-regulations/
       - ex3:
         title: ADA Standards for Accessible Design
         link: law-and-regs/design-standards/
@@ -125,15 +122,15 @@ service-animals:
         - ex2:
           title: 'ADA Requirements: Service Animals'
           link: resources/service-animals-2010-requirements/
-    - heading: Law & Regulations
+    - heading: Laws & Regulations
       icon: landing/laws_regs_standards_grey_bg.png
       examples:
       - ex1:
         title: State and Local Government Services (Title II)
-        link: law-and-regs/regulations/title-ii-2010-regulations/
+        link: law-and-regs/title-ii-2010-regulations/
       - ex2:
         title: Public Accommodations (Title III)
-        link: law-and-regs/regulations/title-iii-regulations/
+        link: law-and-regs/title-iii-regulations/
 
 
 report:
