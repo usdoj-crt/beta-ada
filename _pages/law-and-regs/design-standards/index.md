@@ -8,7 +8,6 @@ lead: |-
 lang: "en"
 subpagenav: true
 sidenav: false
-compact: true
 redirect_from:
   - 2010adastandards_index.htm
 related-content: true

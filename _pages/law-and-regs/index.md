@@ -4,7 +4,6 @@ title: Law, Regulations & Standards
 description: Regulations developed by the Department of Justice that explain the rights of people with disabilities and the obligations of those covered by the law.
 subpagenav: true
 sidenav: false
-compact: true
 hide_page_type_info: true
 redirect_from:
     - /2010_regs.htm
