@@ -19,7 +19,7 @@ tags:
 ---
 ## Overview  
 
-**Providing equal opportunity to people with disabilities is the fundamental principle of the Americans with Disabilities Act. This publication is designed to help title II and title III entities understand how new requirements for swimming pools, especially existing pools, apply to them.**
+**Providing equal opportunity to people with disabilities is the fundamental principle of the Americans with Disabilities Act. This publication is designed to help title II and title III entities understand how new requirements for swimming pools, especially existing pools, apply to them.**  
 
 People with disabilities were, for too long, excluded from participating in many recreational activities, including swimming. The revised 2010 Standards change that. For the first time, the 2010 Standards set minimum requirements for making swimming pools, wading pools, and spas (pools) accessible. Newly constructed and altered pools must meet these requirements. Public entities and public accommodations also have obligations with respect to existing pools. State and local governments must make recreational programs and services, including swimming pool programs, accessible to people with disabilities. Public accommodations must bring existing pools into compliance with the 2010 Standards to the extent that it is readily achievable to do so.  
 
@@ -41,14 +41,14 @@ A public entity determines which method it will use for meeting its program acce
 
 Over time, a public entity will need to reassess its compliance with program accessibility, and it may become necessary to acquire new accessible equipment or make structural modifications. For more information about program accessibility, see the title II regulations at [Section 35.150]({{'/law-and-regs/title-ii-2010-regulations#35150' | relative_url}}).  
 
-To determine which pools must be made accessible, public entities should consider the following factors:
+To determine which pools must be made accessible, public entities should consider the following factors:  
 
-- How to provide swimming programs in the most integrated setting appropriate;
-- The ways in which people participate in the programs (e.g., individually, in families, in youth groups);
-- Locations where the programs are offered;
-- What programs are offered at each pool and to which constituencies (e.g., family swims, children's swimming lessons, older adult exercise classes, high school swim meets);
-- Which pools are accessible and to what extent; and
-- Level of dispersion of the accessible locations and convenience to reach them (e.g., one pool in each quadrant of the town, all on accessible mass transit).
+- How to provide swimming programs in the most integrated setting appropriate;  
+- The ways in which people participate in the programs (e.g., individually, in families, in youth groups);  
+- Locations where the programs are offered;  
+- What programs are offered at each pool and to which constituencies (e.g., family swims, children's swimming lessons, older adult exercise classes, high school swim meets);  
+- Which pools are accessible and to what extent; and  
+- Level of dispersion of the accessible locations and convenience to reach them (e.g., one pool in each quadrant of the town, all on accessible mass transit).  
 
 ### Title III Readily Achievable Barrier Removal  
 
@@ -60,13 +60,13 @@ For an existing pool, removing barriers may involve installation of a fixed pool
 
 If you have purchased a non-fixed lift before March 15th that otherwise complies with the requirements in the 2010 Standards for pool lifts (such as seat size, etc.), you may use it, as long as you keep it in position for use at the pool and operational during all times that the pool is open to guests. Because of a misunderstanding by some pool owners regarding whether the use of portable pool lifts would comply with barrier removal obligations, the Department, as a matter of prosecutorial discretion, will not enforce the fixed elements of the 2010 Standards against those owners or operators of existing pools who purchased portable lifts prior to March 15, 2012 and who keep the portable lifts in position for use at the pool and operational during all times that the pool is open to guests so long as those lifts otherwise comply with the requirements of the 2010 Standards.  Generally, lifts purchased after March 15, 2012 must be fixed if it is readily achievable to do so.  
 
-To determine which pools must be made accessible, public accommodations should consider the following factors:
+To determine which pools must be made accessible, public accommodations should consider the following factors:  
 
-- The nature and cost of the action;
-- Overall resources of the site or sites involved;
-- The geographic separateness and relationship of the site(s) to any parent corporation or entity;
-- The overall resources of any parent corporation or entity, if applicable; and
-- The type of operation or operations of any parent corporation or entity, if applicable.
+- The nature and cost of the action;  
+- Overall resources of the site or sites involved;  
+- The geographic separateness and relationship of the site(s) to any parent corporation or entity;  
+- The overall resources of any parent corporation or entity, if applicable; and  
+- The type of operation or operations of any parent corporation or entity, if applicable.  
 
 ## New Construction and Alterations  
 
@@ -82,9 +82,9 @@ A physical change to a swimming pool which affects or could affect the usability
 
 ### On or after March 15, 2012  
 
-- All newly constructed or altered facilities of public entities and public accommodations, including pools, must comply with the 2010 Standards.
+- All newly constructed or altered facilities of public entities and public accommodations, including pools, must comply with the 2010 Standards.  
 
-- All existing facilities of public entities and public accommodations, **except** pools, must comply with the 2010 Standards to the extent required under title II program accessibility or title III readily achievable barrier removal requirements.
+- All existing facilities of public entities and public accommodations, **except** pools, must comply with the 2010 Standards to the extent required under title II program accessibility or title III readily achievable barrier removal requirements.  
 
 ### On or after January 31, 2013  
 
