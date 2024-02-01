@@ -24,7 +24,14 @@ The ADA is meant to ensure that people with disabilities can fully participate i
 
 The Title II Regulation explains the rights of people with disabilities and the obligations of state and local governments. Read [Title II Regulations]({{'/law-and-regs/regulations/title-ii-2010-regulations/' | relative_url}}) to understand your legal rights or responsibilities under the ADA.
 
-{% include download.html text="Title II Regulation" filename="title-ii-2010-regulations.pdf" %}
+<div class="standards-and-guidance"  markdown="0">
+<div class="document">
+<a href="{{'/law-and-regs/regulations/title-ii-2010-regulations' | relative_url}}">
+<img src="{{ '/assets/images/title-ii.png' | relative_url }}" alt="'Title II Regulation Cover Photo'"/>
+</a>
+{% include download.html text="Title II Regulation" filename="title-ii-2010-regulations.pdf" size="4.2MB, 279 Pages" %}
+</div>
+</div>
 
 ## Title III Regulation
 
@@ -32,4 +39,11 @@ The ADA is meant to ensure that people with disabilities can fully participate i
 
 The Title III Regulations explains the rights of people with disabilities and the obligations of businesses, nonprofit organizations, and commercial facilities. Read [Title III Regulations]({{'/law-and-regs/regulations/title-iii-regulations/' | relative_url}}) to understand your legal rights or responsibilities under the ADA.
 
-{% include download.html text="Title III Regulation" filename="title-iii-2010-regulations.pdf" %}
+<div class="standards-and-guidance"  markdown="0">
+<div class="document">
+<a href="{{'/law-and-regs/regulations/title-iii-regulations' | relative_url}}">
+<img src="{{ '/assets/images/title-iii.png' | relative_url }}" alt="'Title III Regulation Cover Photo'"/>
+</a>
+{% include download.html text="Title III Regulation" filename="title-iii-2010-regulations.pdf" size="4.2MB, 279 Pages" %}
+</div>
+</div>

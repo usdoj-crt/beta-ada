@@ -1,16 +1,21 @@
 {% assign lang = page.lang %}
 {% if lang==nil %}{% assign lang="en" %}{% endif %}
-<div class="download-cta">
+<div class="download-cta display-flex flex-align-start flex-wrap">
+    <div>
     <a href="/assets/pdfs/{{include.filename}}" data-ga-event-name="view {{include.filename}}" class="crt-page--downloadpdf-link view-link">
         <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
             <use xlink:href="{{ '/assets/images/uswds/sprite.svg' | relative_url }}#file_present"></use>
         </svg>
         View {{ include.text }}
     </a>
+</div>
+<div>
     <a href="/assets/pdfs/{{include.filename}}" download data-ga-event-name="download {{include.filename}}" class="crt-page--downloadpdf-link download-link">
         <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
             <use xlink:href="{{ '/assets/images/uswds/sprite.svg' | relative_url }}#file_download"></use>
         </svg>
         Download {{ include.text }}
     </a>
-    </div>
+    <p class="display-block size">{{ include.size }}</p>
+</div>
+</div>

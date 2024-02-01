@@ -38,10 +38,20 @@
               <ul id="{{ nav_id }}" class="usa-nav__submenu">
                 {% for subnav_item in nav_item.children %}
                 <li class="usa-nav__submenu-item">
-                  <a href="{{ subnav_item.url | prepend: site.baseurl }}">
+                  <a href="{{ subnav_item.url | prepend: site.baseurl }}"  class="{{ subnav_item.name['en-short'] | replace:' ', '' }}">
                     <span class="desktop:display-none widescreen:display-block">{{ subnav_item.name["en"] | escape }}</span>
                     <span class="mobile:display-none desktop:display-block widescreen:display-none">{{ subnav_item.name["en-short"] | escape }}</span>
                   </a>
+                  <ul class="usa-nav__subnav_child_menu">
+                    {% for subnav_child in subnav_item.children %}
+                    <li class="usa-nav__submenu-item">
+                      <a href="{{ subnav_child.url | prepend: site.baseurl }}">
+                        <span class="desktop:display-none widescreen:display-block">{{ subnav_child.name["en"] | escape }}</span>
+                        <span class="mobile:display-none desktop:display-block widescreen:display-none">{{ subnav_child.name["en-short"] | escape }}</span>
+                      </a>
+                    </li>
+                    {% endfor %}
+                  </ul>
                 </li>
                 {% endfor %}
               </ul>
