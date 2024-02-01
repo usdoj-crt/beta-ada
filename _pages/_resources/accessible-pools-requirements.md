@@ -108,9 +108,9 @@ Title III entities may be able to take advantage of federal tax credits for smal
 
 For more information about the ADA, please visit our website or call our toll-free number.  
 
-[ADA.gov]({{ '/' | relative_url }})
+[ADA.gov]({{ '/' | relative_url }})  
 
-[archive.ada.gov](https://archive.ada.gov)
+[archive.ada.gov](https://archive.ada.gov)  
 
 **ADA Information Line**  
 
@@ -118,7 +118,7 @@ Call 800-514-0301 (Voice) and 833-610-1264 (TTY) M-W, F 9:30 a.m. – 12:00 p.m.
 
 For persons with disabilities, this publication is available in alternate formats.  
 
-<hr>
+<hr>  
 The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
 
 This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.  
