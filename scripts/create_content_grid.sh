@@ -25,7 +25,7 @@ for file in "$top_level_files"*.md "$resource_files"*.md "$topic_files"*.md "$es
     link="$(sed -n 's/^permalink:\(.*\)/\1/p' < $file)"
   fi
 
-  # echo "$title,$link,$deployment_date,$publish_date,$updated_date,$description,$tags" | tee -a "$content_grid"
+  echo "$title,$link,$deployment_date,$publish_date,$updated_date,$description,$tags" | tee -a "$content_grid"
 done
 
 echo ""
