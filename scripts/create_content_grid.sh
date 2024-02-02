@@ -15,7 +15,7 @@ for file in "$top_level_files"*.md "$resource_files"*.md "$topic_files"*.md "$es
   publish_date="$(sed -n 's/^publish-date:\(.*\)/\1/p' < $file)"
   updated_date="$(sed -n 's/^updated-date:\(.*\)/\1/p' < $file)"
   file_path="$(readlink -nf $file)"
-  deployment_date="$(git log --follow --format=%ad --date=short $file_path | tail -1)"
+  deployment_date="$(git log --first-parent main --follow --format=%ad --date=short $file_path | tail -1)"
   description="$(sed -n 's/^description:\(.*\)/\1/p' < $file | sed 's/,//g')"
   tags="$(awk '/---/{p=0}p;/tags:/{p=1}' $file | tr -d '\n')"
 
