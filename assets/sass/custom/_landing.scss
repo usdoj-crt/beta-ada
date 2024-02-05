@@ -43,10 +43,15 @@ $arrow-height: 24px;
 .crt-landing--hero {
   padding-top: 0;
 
+  .width-full {
+    width: 100%;
+  }
+
   @include at-media(desktop) {
     background-image: url($theme-hero-image);
     background-repeat: no-repeat;
     background-size: cover;
+    height: 40vh;
     min-height: 400px;
     background-position: center;
     &.crt-landing-topics--hero {
