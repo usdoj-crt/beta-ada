@@ -1,20 +1,32 @@
 ---
 title: ADA Title II Technical Assistance Manual
-description: "This document explains what businesses and non-profit agencies must do to ensure access to their goods, services, and facilities."
+description: This document explains what businesses and non-profit agencies must
+  do to ensure access to their goods, services, and facilities.
+lead: ""
 permalink: /resources/title-ii-manual/
-lead: |-
-  
-lang: "en"
-publish-date: 2015-07-20 00:00:00
-updated-date: 1993-11-01 00:00:00
-related-content: true
-subnavigation: true
-print: true
-tags:
-  - title ii
 redirect_from:
   - /taman2.html
+lang: en
+print: true
+publish-date: 2015-07-20 00:00:00
+updated-date: 1993-11-01 00:00:00
+subnavigation: true
+related-content: true
+tags:
+  - title ii
 ---
+**Covering State and Local Government Programs and Services**
+
+Introduction
+
+This technical assistance manual addresses the requirements of title II of the Americans with Disabilities Act, which applies to the operations of State and local governments. It is one of a series of publications issued by Federal agencies under section 506 of the ADA to assist individuals and entities in understanding their rights and duties under the Act.
+
+This manual is part of a broader program of technical assistance conducted by the Department of Justice to promote voluntary compliance with the requirements not only of title II, but also of title III of the ADA, which applies to public accommodations, commercial facilities, and private entities offering certain examinations and courses.
+
+The purpose of this technical assistance manual is to present the ADA's requirements for State and local governments in a format that will be useful to the widest possible audience. The guidance provided in the Department's regulations and accompanying preambles has been carefully reorganized to provide a focused, systematic description of the ADA's requirements. The manual attempts to avoid an overly legalistic style without sacrificing completeness. In order to promote readability and understanding, the text makes liberal use of questions and answers and illustrations.
+
+The manual is divided into nine major subject matter headings with numerous numbered subheadings. Each numbered heading and subheading is listed in a quick reference table of contents at the beginning of the manual.
+
 ## II-1.0000 COVERAGE
 
 *Regulatory references:* 28 CFR 35.102-35.104.
@@ -79,9 +91,7 @@ People commonly refer to disabilities or disabling conditions in a broad sense. 
 Title II protects three categories of individuals with disabilities:
 
 1. Individuals who have a physical or mental impairment that substantially limits one or more major life activities;
-
 2. Individuals who have a record of a physical or mental impairment that substantially limited one or more of the individual's major life activities; and
-
 3. Individuals who are regarded as having such an impairment, whether they have the impairment or not.
 
 ### II-2.2000 Physical or mental impairments.
@@ -89,9 +99,7 @@ Title II protects three categories of individuals with disabilities:
 The first category of persons covered by the definition of an individual with a disability is restricted to those with "physical or mental impairments." Physical impairments include --
 
 1. Physiological disorders or conditions;
-
 2. Cosmetic disfigurement; or
-
 3. Anatomical loss
 
 affecting one or more of the following body systems: neurological; musculoskeletal; special sense organs (which would include speech organs that are not respiratory such as vocal cords, soft palate, tongue, etc.); respiratory, including speech organs; cardiovascular; reproductive; digestive; genitourinary; hemic and lymphatic; skin; and endocrine.
@@ -143,18 +151,15 @@ ILLUSTRATION: During a house fire, M received burns affecting his hands and arms
 The ADA protects not only those individuals with disabilities who actually have a physical or mental impairment that substantially limits a major life activity, but also those with a record of such an impairment. This protected group includes --
 
 1. A person who has a history of an impairment that substantially limited a major life activity but who has recovered from the impairment. Examples of individuals who have a history of an impairment are persons who have histories of mental or emotional illness, drug addiction, alcoholism, heart disease, or cancer.
-
 2. Persons who have been misclassified as having an impairment. Examples include persons who have been erroneously diagnosed as mentally retarded or mentally ill.
 
 ### II-2.6000 "Regarded as."
 
 The ADA also protects certain persons who are regarded by a public entity as having a physical or mental impairment that substantially limits a major life activity, whether or not that person actually has an impairment. Three typical situations are covered by this category:
 
-1. An individual who has a physical or mental impairment that does not substantially limit major life activities, but who is treated as if the impairment does substantially limit a major life activity; ILLUSTRATION: A, an individual with mild diabetes controlled by medication, is barred by the staff of a county-sponsored summer camp from participation in certain sports because of her diabetes. Even though A does not actually have an impairment that substantially limits a major life activity, she is protected under the ADA because she is treated as though she does.</p>
-
-2. An individual who has a physical or mental impairment that substantially limits major life activities only as a result of the attitudes of others towards the impairment; ILLUSTRATION: B, a three-year old child born with a prominent facial disfigurement, has been refused admittance to a county-run day care program on the grounds that her presence in the program might upset the other children. B is an individual with a physical impairment that substantially limits her major life activities only as the result of the attitudes of others toward her impairment.</p>
-
-3. An individual who has no impairments but who is treated by a public entity as having an impairment that substantially limits a major life activity. ILLUSTRATION: C is excluded from a county-sponsored soccer team because the coach believes rumors that C is infected with the HIV virus. Even though these rumors are untrue, C is protected under the ADA, because he is being subjected to discrimination by the county based on the belief that he has an impairment that substantially limits major life activities (i.e., the belief that he is infected with HIV).</p>
+1. An individual who has a physical or mental impairment that does not substantially limit major life activities, but who is treated as if the impairment does substantially limit a major life activity; ILLUSTRATION: A, an individual with mild diabetes controlled by medication, is barred by the staff of a county-sponsored summer camp from participation in certain sports because of her diabetes. Even though A does not actually have an impairment that substantially limits a major life activity, she is protected under the ADA because she is treated as though she does.
+2. An individual who has a physical or mental impairment that substantially limits major life activities only as a result of the attitudes of others towards the impairment; ILLUSTRATION: B, a three-year old child born with a prominent facial disfigurement, has been refused admittance to a county-run day care program on the grounds that her presence in the program might upset the other children. B is an individual with a physical impairment that substantially limits her major life activities only as the result of the attitudes of others toward her impairment.
+3. An individual who has no impairments but who is treated by a public entity as having an impairment that substantially limits a major life activity. ILLUSTRATION: C is excluded from a county-sponsored soccer team because the coach believes rumors that C is infected with the HIV virus. Even though these rumors are untrue, C is protected under the ADA, because he is being subjected to discrimination by the county based on the belief that he has an impairment that substantially limits major life activities (i.e., the belief that he is infected with HIV).
 
 ### II-2.7000 Exclusions.
 
@@ -165,9 +170,7 @@ The following conditions are specifically excluded from the definition of "disab
 In order to be an individual protected by title II, the individual must be a "qualified" individual with a disability. To be qualified, the individual with a disability must meet the essential eligibility requirements for receipt of services or participation in a public entity's programs, activities, or services with or without --
 
 1. Reasonable modifications to a public entity's rules, policies, or practices;
-
 2. Removal of architectural, communication, or transportation barriers; or
-
 3. Provision of auxiliary aids and services.
 
 The "essential eligibility requirements" for participation in many activities of public entities may be minimal. For example, most public entities provide information about their programs, activities, and services upon request. In such situations, the only "eligibility requirement" for receipt of such information would be the request for it. However, under other circumstances, the "essential eligibility requirements" imposed by a public entity may be quite stringent.
@@ -185,9 +188,7 @@ ILLUSTRATION: Public schools generally operate programs and activities that are 
 *How does one determine whether a direct threat exists?* The determination must be based on an individualized assessment that relies on current medical evidence, or on the best available objective evidence, to assess --
 
 1. The nature, duration, and severity of the risk;
-
 2. The probability that the potential injury will actually occur; and,
-
 3. Whether reasonable modifications of policies, practices, or procedures will mitigate or eliminate the risk.
 
 Making this assessment will not usually require the services of a physician. Medical guidance may be obtained from public health authorities, such as the U.S. Public Health Service, the Centers for Disease Control, and the National Institutes of Health, including the National Institute of Mental Health.
@@ -237,9 +238,7 @@ Specific requirements for physical access to programs and communications are dis
 A primary goal of the ADA is the equal participation of individuals with disabilities in the "mainstream" of American society. The major principles of mainstreaming are --
 
 1. Individuals with disabilities must be integrated to the maximum extent appropriate.
-
 2. Separate programs are permitted where necessary to ensure equal opportunity. A separate program must be appropriate to the particular individual.
-
 3. Individuals with disabilities cannot be excluded from the regular program, or required to accept special services or benefits.
 
 #### II-3.4100 Separate programs.
@@ -364,7 +363,7 @@ A State or local government may not discriminate against individuals or entities
 
 ILLUSTRATION 1: A county recreation center may not refuse admission to a summer camp program to a child whose brother has HIV disease.
 
-ILLUSTRATION 2: A local government could not refuse to allow a theater company to use a school auditorium on the grounds that the company ha srecently performed at an HIV hospice.
+ILLUSTRATION 2: A local government could not refuse to allow a theater company to use a school auditorium on the grounds that the company has recently performed at an HIV hospice.
 
 ILLUSTRATION 3: If a county-owned sports arena refuses to admit G, an individual with cerebral palsy, as well as H (his sister) because G has cerebral palsy, the arena would be illegally discriminating against H on the basis of her association with G.
 
@@ -407,7 +406,6 @@ Beginning January 26, 1992, title II prohibits all public entities, regardless o
 In addition to title II's employment coverage, title I of the ADA and section 504 of the Rehabilitation Act of 1973 prohibit employment discrimination against qualified individuals with disabilities by certain public entities. Title I of the ADA, which is primarily enforced by the Equal Employment Opportunity Commission (EEOC), prohibits job discrimination --
 
 1. Effective July 26, 1992, by State and local employers with 25 or more employees; and
-
 2. Effective July 26, 1994, by State and local employers with 15 or more employees. Section 504 of the Rehabilitation Act prohibits discrimination in employment in programs or activities that receive Federal financial assistance, including federally funded State or local programs or activities. Each Federal agency that extends financial assistance is responsible for enforcement of section 504 in the programs it funds.
 
 *What standards are used to determine compliance under title II?* For those public entities that are subject to title I of the ADA, title II adopts the standards of title I. In all other cases, the section 504 standards for employment apply. On October 29, 1992, legislation reauthorizing the Rehabilitation Act of 1973 was signed by the President. The law amended section 504 to conform its provisions barring employment discrimination to those applied under title I of the ADA. Thus, employment standards under section 504 are now identical to those under title I.
@@ -427,13 +425,9 @@ All public entities must make "reasonable accommodation" to the known physical o
 "Reasonable accommodation" means any change or adjustment to a job or work environment that permits a qualified applicant or employee with a disability to participate in the job application process, to perform the essential functions of a job, or to enjoy benefits and privileges of employment equal to those enjoyed by employees without disabilities. Examples include --
 
 1. Acquiring or modifying equipment or devices;
-
 2. Job restructuring;
-
 3. Part-time or modified work schedules;
-
 4. Providing readers or interpreters;
-
 5. Making the workplace accessible to and usable by individuals with disabilities.
 
 However, any particular change or adjustment would not be required if, under the circumstances involved, it would result in an undue hardship.
@@ -451,7 +445,6 @@ During the hiring process, public entities may ask about an applicant's ability 
 Public entities may not conduct preemployment medical examinations, but they may condition a job offer on the results of a medical examination conducted prior to an individual's entrance on duty if --
 
 1. All entering employees in the same job category, regardless of disability, are required to take the same medical examination, and
-
 2. The results of the medical examination are not used to impermissibly discriminate on the basis of disability.
 
 The results of a medical entrance examination must be kept confidential and maintained in separate medical files.
@@ -561,118 +554,98 @@ Set forth below is a summary of some of the major differences between ADAAG and 
 #### II-6.3100 General principles
 
 1. *Work areas*<br>
-ADAAG: Requires that areas used only by employees as work areas be designed and constructed so that individuals with disabilities can approach, enter, and exit the areas. There is, then, only a limited application of the standards to work areas (§4.1.1(3)).<br>
-UFAS: Contains no special limited requirement for work areas. The UFAS standards apply (as provided in the Architectural Barriers Act) in all areas frequented by the public or which "may result in employment ... of physically handicapped persons" (§1).
-
+   ADAAG: Requires that areas used only by employees as work areas be designed and constructed so that individuals with disabilities can approach, enter, and exit the areas. There is, then, only a limited application of the standards to work areas (§4.1.1(3)).<br>
+   UFAS: Contains no special limited requirement for work areas. The UFAS standards apply (as provided in the Architectural Barriers Act) in all areas frequented by the public or which "may result in employment ... of physically handicapped persons" (§1).
 2. *Equivalent facilitation*<br>
-ADAAG: Departures from particular standards are permitted where alternatives will provide substantially equivalent or greater access (§2.2).<br>
-UFAS: UFAS itself does not contain a statement concerning equivalent facilitation. However, section 504 regulations, as well as the Department's title II regulation (28 CFR 35.151(c)), state that departures are permitted where it is "clearly evident that equivalent access" is provided.
-
+   ADAAG: Departures from particular standards are permitted where alternatives will provide substantially equivalent or greater access (§2.2).<br>
+   UFAS: UFAS itself does not contain a statement concerning equivalent facilitation. However, section 504 regulations, as well as the Department's title II regulation (28 CFR 35.151(c)), state that departures are permitted where it is "clearly evident that equivalent access" is provided.
 3. *Exemption from application of standards in new construction*<br>
-ADAAG: Contains a structural impracticability exception for new construction: full compliance with the new construction standards is not required in the rare case where the terrain prevents compliance (§4.1.1(5)(a)).<br>
-UFAS: Does not contain a structural impracticability exception (or any other exception) for new construction
-
+   ADAAG: Contains a structural impracticability exception for new construction: full compliance with the new construction standards is not required in the rare case where the terrain prevents compliance (§4.1.1(5)(a)).<br>
+   UFAS: Does not contain a structural impracticability exception (or any other exception) for new construction.
 4. *Exemption from application of standards in alterations*<br>
-ADAAG: For alterations, application of standards is not required where it would be "technically infeasible" (i.e., where application of the standards would involve removal of a load-bearing structural member or where existing physical or site restraints prevent compliance). Cost is not a factor (§4.1.6(1)(j)).
-UFAS: Application of standards is not required for alterations where "structurally impracticable," i.e., where removal of a load-bearing structural member is involved or where the result would be an increased cost of 50 percent or more of the value of the element involved (§§4.1.6(3); 3.5 ("structural impractibility")). Cost is a factor. (Note that the similar term, "structural impracticability," is used in ADAAG (see item #3 above), but in ADAAG it is used in relation to new construction. In UFAS, it is used in relation to alterations, and it has a different meaning.)
-
+   ADAAG: For alterations, application of standards is not required where it would be "technically infeasible" (i.e., where application of the standards would involve removal of a load-bearing structural member or where existing physical or site restraints prevent compliance). Cost is not a factor (§4.1.6(1)(j)).
+   UFAS: Application of standards is not required for alterations where "structurally impracticable," i.e., where removal of a load-bearing structural member is involved or where the result would be an increased cost of 50 percent or more of the value of the element involved (§§4.1.6(3); 3.5 ("structural impractibility")). Cost is a factor. (Note that the similar term, "structural impracticability," is used in ADAAG (see item #3 above), but in ADAAG it is used in relation to new construction. In UFAS, it is used in relation to alterations, and it has a different meaning.)
 5. *Alterations triggering additional requirements*<br>
-ADAAG: Alterations to primary function areas (where major activities take place) trigger a "path of travel" requirement, that is, a requirement to make the path of travel from the entrance to the altered area -- and telephones, restrooms, and drinking fountains serving the altered area -- accessible (§4.1.6(2)). But, under the Department of Justice title III rule, a public entity is not required to spend more than 20% of the cost of the original alteration on making the path of travel accessible, even if this cost limitation results in less than full accessibility (28 CFR 36.403(f)).<br>
-UFAS: If a building undergoes a "substantial alteration" (where the total cost of all alterations in a 12-month period amounts to 50% or more of the value of the building), the public entity must provide an accessible route from public transportation, parking, streets, and sidewalks to all accessible parts of the building; an accessible entrance; and accessible restrooms (§4.1.6(3)).
-
+   ADAAG: Alterations to primary function areas (where major activities take place) trigger a "path of travel" requirement, that is, a requirement to make the path of travel from the entrance to the altered area -- and telephones, restrooms, and drinking fountains serving the altered area -- accessible (§4.1.6(2)). But, under the Department of Justice title III rule, a public entity is not required to spend more than 20% of the cost of the original alteration on making the path of travel accessible, even if this cost limitation results in less than full accessibility (28 CFR 36.403(f)).<br>
+   UFAS: If a building undergoes a "substantial alteration" (where the total cost of all alterations in a 12-month period amounts to 50% or more of the value of the building), the public entity must provide an accessible route from public transportation, parking, streets, and sidewalks to all accessible parts of the building; an accessible entrance; and accessible restrooms (§4.1.6(3)).
 6. *Additions*<br>
-ADAAG: Each addition to an existing building is regarded as an alteration subject to the ADAAG alterations requirements (including triggering of path of travel obligations, if applicable). If the addition does not have an accessible entrance, the path of travel obligation may require an accessible route from the addition through the existing building, including its entrance and exterior approaches, subject to the 20% disproportionality limitation. Moreover, to the extent that a space or element is newly constructed as part of an addition, it is also regarded as new construction and must comply with the applicable new construction provisions of ADAAG (§4.1.5).<br>
-UFAS: Has specific requirements for additions, including requirements for entrances, routes, restrooms, and common areas. An accessible route from the addition through the existing building, including its entrance, is required if the addition does not have an accessible entrance (§4.1.5).
+   ADAAG: Each addition to an existing building is regarded as an alteration subject to the ADAAG alterations requirements (including triggering of path of travel obligations, if applicable). If the addition does not have an accessible entrance, the path of travel obligation may require an accessible route from the addition through the existing building, including its entrance and exterior approaches, subject to the 20% disproportionality limitation. Moreover, to the extent that a space or element is newly constructed as part of an addition, it is also regarded as new construction and must comply with the applicable new construction provisions of ADAAG (§4.1.5).<br>
+   UFAS: Has specific requirements for additions, including requirements for entrances, routes, restrooms, and common areas. An accessible route from the addition through the existing building, including its entrance, is required if the addition does not have an accessible entrance (§4.1.5).
 
 #### II-6.3200 Elements.
 
 The following requirements apply in new construction, unless otherwise indicated.
 
 1. *Van parking*<br>
-ADAAG: One in every eight accessible spaces must be wide enough and high enough for a van lift to be deployed. The space must be marked as "van accessible" with a supplementary sign. Alternatively, "universal parking" is permitted, in which all spaces can accommodate van widths (§4.1.2(5)(b)).<br>
-UFAS: Van parking is not required. Universal parking is not addressed.
-
+   ADAAG: One in every eight accessible spaces must be wide enough and high enough for a van lift to be deployed. The space must be marked as "van accessible" with a supplementary sign. Alternatively, "universal parking" is permitted, in which all spaces can accommodate van widths (§4.1.2(5)(b)).<br>
+   UFAS: Van parking is not required. Universal parking is not addressed.
 2. *Valet parking*<br>
-ADAAG: Facilities with valet parking must have an accessible passenger loading zone on an accessible route to the exterior of the facility (§4.1.2(5)(e)).<br>
-UFAS: No requirements for valet parking.
-
+   ADAAG: Facilities with valet parking must have an accessible passenger loading zone on an accessible route to the exterior of the facility (§4.1.2(5)(e)).<br>
+   UFAS: No requirements for valet parking.
 3. *Signs*<br>
-ADAAG:
-- Signs designating permanent rooms and spaces (men's and women's rooms; room numbers; exit signs) must have raised and Brailled letters; must comply with finish and contrast standards; and must be mounted at a certain height and location (§4.1.3(16)(a)).
-- Signs that provide direction to or information about functional spaces of a building (e.g. "cafeteria this way;" "copy room") need not comply with requirements for raised and Brailled letters, but they must comply with requirements for character proportion, finish, and contrast. If suspended or projected overhead, they must also comply with character height requirements (§4.1.3(16)(b)).
-- Building directories and other signs providing temporary information (such as current occupant's name) do not have to comply with any ADAAG requirements (§4.1.3(16)).
-- Has requirements not only for the standard international symbol of accessibility, but also for symbols of accessibility identifying volume control telephones, text telephones, and assistive listening systems (§§4.1.2(7); 4.30.7).<br>
-UFAS:
-- Signs designating permanent rooms and spaces must be raised (Braille is not required) and must be mounted at a certain height and location (§4.1.2(15)).
-- All other signs (including temporary signs) must comply with requirements for letter proportion and color contrast, but not with requirements for raised letters or mounting height (§4.1.2(15)).
-- Requires only the standard international symbol of accessibility (§4.30.5).
+   ADAAG:
+
+* Signs designating permanent rooms and spaces (men's and women's rooms; room numbers; exit signs) must have raised and Brailled letters; must comply with finish and contrast standards; and must be mounted at a certain height and location (§4.1.3(16)(a)).
+* Signs that provide direction to or information about functional spaces of a building (e.g. "cafeteria this way;" "copy room") need not comply with requirements for raised and Brailled letters, but they must comply with requirements for character proportion, finish, and contrast. If suspended or projected overhead, they must also comply with character height requirements (§4.1.3(16)(b)).
+* Building directories and other signs providing temporary information (such as current occupant's name) do not have to comply with any ADAAG requirements (§4.1.3(16)).
+* Has requirements not only for the standard international symbol of accessibility, but also for symbols of accessibility identifying volume control telephones, text telephones, and assistive listening systems (§§4.1.2(7); 4.30.7).<br><p>UFAS:
+* Signs designating permanent rooms and spaces must be raised (Braille is not required) and must be mounted at a certain height and location (§4.1.2(15)).
+* All other signs (including temporary signs) must comply with requirements for letter proportion and color contrast, but not with requirements for raised letters or mounting height (§4.1.2(15)).
+* Requires only the standard international symbol of accessibility (§4.30.5).
 
 4. *Entrances*<br>
-ADAAG: At least 50 percent of all public entrances must be accessible with certain qualifications. In addition, there must be accessible entrances to enclosed parking, pedestrian tunnels, and elevated walkways (§4.1.3(8)).<br>
-UFAS: At least one principal entrance at each grade floor level must be accessible. In addition, there must be an accessible entrance to transportation facilities, passenger loading zones, accessible parking, taxis, streets, sidewalks, and interior accessible areas, if the building has entrances that normally serve those functions (§4.1.2(8)) . (This latter requirement could result in all entrances having to be accessible in many cases.)
-
+   ADAAG: At least 50 percent of all public entrances must be accessible with certain qualifications. In addition, there must be accessible entrances to enclosed parking, pedestrian tunnels, and elevated walkways (§4.1.3(8)).<br>
+   UFAS: At least one principal entrance at each grade floor level must be accessible. In addition, there must be an accessible entrance to transportation facilities, passenger loading zones, accessible parking, taxis, streets, sidewalks, and interior accessible areas, if the building has entrances that normally serve those functions (§4.1.2(8)) . (This latter requirement could result in all entrances having to be accessible in many cases.)
 5. *Areas of rescue assistance or places of refuge*<br>
-ADAAG: Areas of rescue assistance (safe areas in which to await help in an emergency) are generally required on each floor, other than the ground floor, of a multistory building. An accessible egress route or an area of rescue assistance is required for each exit required by the local fire code. Specific requirements are provided for such features as location, size, stairway width, and two-way communications. Areas of rescue assistance are not required in buildings with supervised automatic sprinkler systems, nor are they required in alterations (§4.1.3(9)).<br>
-UFAS: Accessible routes must serve as a means of egress or connect to an accessible "place of refuge." No specific requirements for places of refuge are included. Rather, UFAS refers to local administrative authority for specific provisions on location, size, etc. UFAS requires more than one means of accessible egress when more than one exit is required (§4.3.10).
-
+   ADAAG: Areas of rescue assistance (safe areas in which to await help in an emergency) are generally required on each floor, other than the ground floor, of a multistory building. An accessible egress route or an area of rescue assistance is required for each exit required by the local fire code. Specific requirements are provided for such features as location, size, stairway width, and two-way communications. Areas of rescue assistance are not required in buildings with supervised automatic sprinkler systems, nor are they required in alterations (§4.1.3(9)).<br>
+   UFAS: Accessible routes must serve as a means of egress or connect to an accessible "place of refuge." No specific requirements for places of refuge are included. Rather, UFAS refers to local administrative authority for specific provisions on location, size, etc. UFAS requires more than one means of accessible egress when more than one exit is required (§4.3.10).
 6. *Water fountains*<br>
-ADAAG: Where there is more than one fountain on a floor, 50% must be accessible to persons using wheelchairs. If there is only one drinking fountain on a floor, it must be accessible both to individuals who use wheelchairs and to individuals who have trouble bending or stooping (for example, a "hi-lo fountain" or fountain and water cooler may be used) (§4.1.3(10)).<br>
-UFAS: Approximately 50% on each floor must be accessible. If there is only one fountain on a floor, it must be accessible to individuals who use wheelchairs (§4.1.3(9)).
-
+   ADAAG: Where there is more than one fountain on a floor, 50% must be accessible to persons using wheelchairs. If there is only one drinking fountain on a floor, it must be accessible both to individuals who use wheelchairs and to individuals who have trouble bending or stooping (for example, a "hi-lo fountain" or fountain and water cooler may be used) (§4.1.3(10)).<br>
+   UFAS: Approximately 50% on each floor must be accessible. If there is only one fountain on a floor, it must be accessible to individuals who use wheelchairs (§4.1.3(9)).
 7. *Storage and shelves*<br>
-ADAAG: One of each type of fixed storage facility must be accessible. Self-service shelves and displays must be on an accessible route but need not comply with reach-range requirements (§4.1.3(12)).<br>
-UFAS: Has the same requirements as ADAAG for fixed storage, but does not contain the reach requirement exemption for self-service shelves and displays (§4.1.2(11)).
-
+   ADAAG: One of each type of fixed storage facility must be accessible. Self-service shelves and displays must be on an accessible route but need not comply with reach-range requirements (§4.1.3(12)).<br>
+   UFAS: Has the same requirements as ADAAG for fixed storage, but does not contain the reach requirement exemption for self-service shelves and displays (§4.1.2(11)).
 8. *Volume controls*<br>
-ADAAG: All accessible public phones must be equipped with volume controls. In addition, 25%, but never less than one, of all other public phones must have volume controls (§4.1.3(17)(b)).<br>
-UFAS: At least one accessible telephone must have a volume control (§4.1.2(16)(b)).
-
+   ADAAG: All accessible public phones must be equipped with volume controls. In addition, 25%, but never less than one, of all other public phones must have volume controls (§4.1.3(17)(b)).<br>
+   UFAS: At least one accessible telephone must have a volume control (§4.1.2(16)(b)).
 9. *Telecommunication Devices for the Deaf (TDD's)*<br>
-ADAAG: One TDD (also known as a "text telephone") must be provided inside any building that has at least one interior pay phone and four or more public pay telephones, counting both interior and exterior phones. In addition, one TDD or text telephone (per facility) must be provided whenever there is an interior public pay phone in a stadium or arena; convention center; hotel with a convention center; covered shopping mall; or hospital emergency, recovery, or waiting room (§4.1.3(17)(c)).<br>
-UFAS: No requirement for TDD's.
-
+   ADAAG: One TDD (also known as a "text telephone") must be provided inside any building that has at least one interior pay phone and four or more public pay telephones, counting both interior and exterior phones. In addition, one TDD or text telephone (per facility) must be provided whenever there is an interior public pay phone in a stadium or arena; convention center; hotel with a convention center; covered shopping mall; or hospital emergency, recovery, or waiting room (§4.1.3(17)(c)).<br>
+   UFAS: No requirement for TDD's.
 10. *Assembly areas*<br>
-ADAAG:
-- Wheelchair seating: Requirements triggered in any assembly area with fixed seating that seats four or more people. The number of wheelchair locations required depends upon the size of the assembly area. When the area has over 300 seats, there are requirements for dispersal of wheelchair seating. ADAAG also contains requirements for aisle seats without armrests (or with removable armrests) and fixed seating for companions located adjacent to each wheelchair seating area (§4.1.3(19)(a)).
-- Assistive listening systems: Certain fixed seating assembly areas that accommodate 50 or more people or have audio-amplification systems must have permanently installed assistive listening systems. Other assembly areas must have permanent systems or an adequate number of electrical outlets or other wiring to support a portable system. A special sign indicating the availability of the system is required. The minimum number of receivers must be equal to four percent of the total number of seats, but never less than two (§4.1.3(19)(b)).<br>
-UFAS:
-- Wheelchair seating: No requirements for wheelchair seating are triggered, unless the assembly area has 50 or more seats. Seating must be dispersed and provide comparable lines of sight (§4.1.2(18)(a)).
-- Assistive listening systems: Assembly areas with audio-amplification systems must have a listening system that serves a reasonable number of people, but at least two. If it has no amplification system or is used primarily as meeting or conference room, it must have a permanent or portable system. No special signs are required (§4.1.2(18)(b)).
+    ADAAG:
+
+* Wheelchair seating: Requirements triggered in any assembly area with fixed seating that seats four or more people. The number of wheelchair locations required depends upon the size of the assembly area. When the area has over 300 seats, there are requirements for dispersal of wheelchair seating. ADAAG also contains requirements for aisle seats without armrests (or with removable armrests) and fixed seating for companions located adjacent to each wheelchair seating area (§4.1.3(19)(a)).
+* Assistive listening systems: Certain fixed seating assembly areas that accommodate 50 or more people or have audio-amplification systems must have permanently installed assistive listening systems. Other assembly areas must have permanent systems or an adequate number of electrical outlets or other wiring to support a portable system. A special sign indicating the availability of the system is required. The minimum number of receivers must be equal to four percent of the total number of seats, but never less than two (§4.1.3(19)(b)).<br>
+  <p>UFAS:
+* Wheelchair seating: No requirements for wheelchair seating are triggered, unless the assembly area has 50 or more seats. Seating must be dispersed and provide comparable lines of sight (§4.1.2(18)(a)).
+* Assistive listening systems: Assembly areas with audio-amplification systems must have a listening system that serves a reasonable number of people, but at least two. If it has no amplification system or is used primarily as meeting or conference room, it must have a permanent or portable system. No special signs are required (§4.1.2(18)(b)).
 
 11. *Automated teller machines (ATM's)*<br>ADAAG: Where ATM's are provided, each must be accessible, except that only one need comply when two or more ATM's are at the same location. Accessible machines must have, among other features, accessible controls and instructions and other information accessible to persons with sight impairments (§4.1.3(20)).<br>UFAS: No requirements for ATM's.
-
 12. *Bathrooms*<br>ADAAG: Every public and common use bathroom must be accessible. Generally only one stall must be accessible (standard five-by-five feet). When there are six or more stalls, there must be one accessible stall and one stall that is three feet wide (§§4.1.3(11); 4.22.4).<br>UFAS: Same general requirements but no requirement for an additional three-foot-wide stall (§§4.1.2(10); 4.22.4).
-
 13. *Detectable warnings*<br>ADAAG: Required on curb ramps, hazardous vehicular areas, and reflecting pools, but not on doors to hazardous areas. The warnings must be truncated domes (§4.29).<br>UFAS: "Tactile warnings" (uses different terminology) required only on doors to hazardous areas. Must be a textured surface on the door handle or hardware (§4.29).
-
 14. *Carpet and carpet tile*<br>ADAAG: Same standards for carpet and carpet tile: maximum pile height of 1/2" (§4.5.3).<br>UFAS: Carpet must have maximum pile height of 1/2". Carpet tile must have maximum combined thickness of pile, cushion, and backing height of 1/2" (§4.5.3).
-
 15. *Curb ramps*<br>ADAAG: Curb ramps must have detectable warnings (which must be raised truncated domes) (§4.7.7).<br>UFAS: No requirement for detectable warnings on curb ramps.
-
 16. *Elevator hoistway floor designations and car controls*<br>ADAAG: Must have raised and Brailled characters (§§4.10.5; 4.10.12).<br>UFAS: Must have raised characters; no requirement for Braille (§§4.10.5; 4.10.12).
-
 17. *Visual alarms*<br>ADAAG: Contains details about features required on visual alarms for individuals with hearing impairments, including type of lamp, color, intensity, and location. Flash rate must be at a minimum of 1Hz and maximum of 3Hz (§4.28.3).<br>UFAS: Contains much less detail. Allows faster flash rate of up to 5Hz (§4.28.3).
-
 18. *Elevators and platform lifts in new construction and alterations*<br>ADAAG: The elevator exemption for two-story places of public accommodation or commercial facilities does not apply to buildings and facilities subject to title II. Therefore, elevators are required in all new multilevel buildings or facilities, but vertical access to elevator pits, elevator penthouses, mechanical rooms, and piping or equipment catwalks is not required. Platform lifts may be used instead of elevators under certain conditions in new construction and may always be used in alterations (§4.1.3(5)). Individuals must be able to enter unassisted, operate, and exit the lift without assistance (4.11.3).<br>UFAS: Has same general requirement for elevators and exceptions similar to those in ADAAG. Platform lifts may be substituted for elevators in new construction or alterations "if no other alternative is feasible" (§4.1.2(5)). Lifts must facilitate unassisted entry and exit (but not "operation" of the lift as in ADAAG) (§4.11.3).
 
 #### II-6.3300 Types of facilities
 
 1. *Historic buildings*<br>ADAAG: Contains procedures for buildings eligible for listing in the National Register of Historic Places under the National Historic Preservation Act and for historic buildings designated under State or local law (§4.1.7).<br>UFAS: Contains requirements for buildings eligible for listing in the National Register of Historic Places under the National Historic Preservation Act that are also subject to the Architectural Barriers Act. UFAS does not contain provisions applicable to buildings and facilities that are designated as "historic" under State or local law. (Under title II, the UFAS provisions may be applied to any building that is eligible for listing on the National Register of Historic Places, regardless of whether it is also subject to the Architectural Barriers Act.) (§4.1.7).
-
 2. *Residential facilities/transient lodging*<br>ADAAG:  
-- Hotels, motels, dormitories, and other similar establishments:  Four percent of the first 100 rooms and approximately two percent of rooms in excess of 100 must be accessible to both persons with hearing impairments (i.e., contain visual alarms, visual notification devices, volume-control telephones, and an accessible electrical outlet for a text telephone) and to persons with mobility impairments. Moreover, a similar percentage of additional rooms must be accessible to persons with hearing impairments. In addition, where there are more than 50 rooms, approximately one percent of rooms must be accessible rooms with a special roll-in/transfer shower. There are special provisions for alterations (§§9.1-9.4).
-- Homeless shelters, halfway houses, and similar social service establishments:  Homeless shelters and other social service entities must provide the same percentage of accessible sleeping accommodations as above. At least one type of amenity in each common area must be accessible. Alterations are subject to less stringent standards (§9.5).<br>UFAS: Contains requirements for residential occupancies with technical requirements for "dwelling units." No requirements for sleeping rooms for individuals with hearing impairments. No requirements for roll-in showers as in ADAAG. No standards for alterations (§§4.1.4(11); 4.34).
+
+* Hotels, motels, dormitories, and other similar establishments:  Four percent of the first 100 rooms and approximately two percent of rooms in excess of 100 must be accessible to both persons with hearing impairments (i.e., contain visual alarms, visual notification devices, volume-control telephones, and an accessible electrical outlet for a text telephone) and to persons with mobility impairments. Moreover, a similar percentage of additional rooms must be accessible to persons with hearing impairments. In addition, where there are more than 50 rooms, approximately one percent of rooms must be accessible rooms with a special roll-in/transfer shower. There are special provisions for alterations (§§9.1-9.4).
+* Homeless shelters, halfway houses, and similar social service establishments:  Homeless shelters and other social service entities must provide the same percentage of accessible sleeping accommodations as above. At least one type of amenity in each common area must be accessible. Alterations are subject to less stringent standards (§9.5).<br>UFAS: Contains requirements for residential occupancies with technical requirements for "dwelling units." No requirements for sleeping rooms for individuals with hearing impairments. No requirements for roll-in showers as in ADAAG. No standards for alterations (§§4.1.4(11); 4.34).
 
 3. *Restaurants*<br>
-ADAAG: In restaurants, generally all dining areas and five percent of fixed tables (but not less than one) must be accessible. While raised or sunken dining areas must be accessible, inaccessible mezzanines are permitted under certain conditions. Contains requirements for counters and bars, access aisles, food service lines, tableware and condiment areas, raised speaker's platforms, and vending machine areas (but not controls). Contains some less stringent requirements for alterations (§5).<br>UFAS: Less detailed requirements. Does not address counters and bars. Raised platforms are allowed if same service and decor are provided. Vending machines and controls are covered. No special, less stringent requirements for alterations (§5).
-
+   ADAAG: In restaurants, generally all dining areas and five percent of fixed tables (but not less than one) must be accessible. While raised or sunken dining areas must be accessible, inaccessible mezzanines are permitted under certain conditions. Contains requirements for counters and bars, access aisles, food service lines, tableware and condiment areas, raised speaker's platforms, and vending machine areas (but not controls). Contains some less stringent requirements for alterations (§5).<br>UFAS: Less detailed requirements. Does not address counters and bars. Raised platforms are allowed if same service and decor are provided. Vending machines and controls are covered. No special, less stringent requirements for alterations (§5).
 4. *Medical or health care facilities*<br>ADAAG: In medical care facilities, all public and common use areas must be accessible. In general purpose hospitals and in psychiatric and detoxification facilities, 10 percent of patient bedrooms and toilets must be accessible. The required percentage is 100 percent for special facilities treating conditions that affect mobility, and 50 percent for long-term care facilities and nursing homes. Uses terms clarified by the Department of Health and Human Services to describe types of facilities. Some descriptive information was added. Contains special, less stringent requirements for alterations (§6).<br>UFAS: Uses different terms to describe types of facilities. Required clearances in rooms exceed ADAAG requirements. No special, less stringent requirements for alterations (§6).
-
 5. *Mercantile*<br>ADAAG:<br>
-  Counters:
-- At least one of each type of sales or service counter where a cash register is located must be accessible. Accessible counters must be dispersed throughout the facility. Auxiliary counters are permissible in alterations (§7.2(1)).
-- At counters without cash registers, such as bank teller windows and ticketing counters, three alternatives are possible: (1) a portion of the counter may be lowered, (2) an auxiliary counter may be provided, or (3) equivalent facilitation may be provided by installing a folding shelf on the front of a counter to provide a work surface for a person using a wheelchair (§7.2(2)).<br>Check-out aisles:
-- At least one of each design of check-out aisle must be accessible, and, in many cases, additional check-out aisles are required to be accessible (i.e., from 20 to 40 percent) depending on the number of check-out aisles and the size of the facility. There are less stringent standards for alterations (§7.3).<br>UFAS:  Much less detail. At service counters, must provide an accessible portion of the counter or a nearby accessible counter. At least one check-out aisle must be accessible (§7).
+   Counters:
+
+* At least one of each type of sales or service counter where a cash register is located must be accessible. Accessible counters must be dispersed throughout the facility. Auxiliary counters are permissible in alterations (§7.2(1)).
+* At counters without cash registers, such as bank teller windows and ticketing counters, three alternatives are possible: (1) a portion of the counter may be lowered, (2) an auxiliary counter may be provided, or (3) equivalent facilitation may be provided by installing a folding shelf on the front of a counter to provide a work surface for a person using a wheelchair (§7.2(2)).<br>Check-out aisles:
+* At least one of each design of check-out aisle must be accessible, and, in many cases, additional check-out aisles are required to be accessible (i.e., from 20 to 40 percent) depending on the number of check-out aisles and the size of the facility. There are less stringent standards for alterations (§7.3).<br>UFAS:  Much less detail. At service counters, must provide an accessible portion of the counter or a nearby accessible counter. At least one check-out aisle must be accessible (§7).
 
 6. *Jails and prisons*<br>ADAAG: No scoping requirements indicating how many cells need to be accessible.<br>UFAS: Five percent of residential units in jails, prisons, reformatories, and other detention or correctional facilities must be accessible (§4.1.4(9)(c)).
 
@@ -689,13 +662,9 @@ Alterations to historic properties must comply with the specific provisions gove
 *What are the alternative requirements?* The alternative requirements for historic buildings or facilities provide a minimal level of access. For example --
 
 1. An accessible route is only required from one site access point (such as the parking lot).
-
 2. A ramp may be steeper than is ordinarily permitted.
-
 3. The accessible entrance does not need to be the one used by the general public.
-
 4. Only one accessible toilet is required and it may be unisex.
-
 5. Accessible routes are only required on the level of the accessible entrance.
 
 *But what if complying with even these minimal alternative requirements will threaten or destroy the historic significance?* In such a case, which is rare, the public entity need not make the structural changes required by UFAS or ADAAG. But, if structural modifications that comply with UFAS or ADAAG cannot be undertaken, the Department's regulation requires that "program accessibility" be provided.
@@ -799,11 +768,8 @@ Public entities are encouraged, but not required, to provide voice amplification
 Title II requires that public entities take several steps designed to achieve compliance. These include the preparation of a self-evaluation. In addition, public entities with 50 or more employees are required to --
 
 1. Develop a grievance procedure;
-
 2. Designate an individual to oversee title II compliance;
-
 3. Develop a transition plan if structural changes are necessary for achieving program accessibility; and
-
 4. Retain the self-evaluation for three years.
 
 *How does a public entity determine whether it has "50 or more employees"?* Determining the number of employees will be based on a governmentwide total of employees, rather than by counting the number of employees of a subunit, department, or division of the local government. Part-time employees are included in the determination.
@@ -825,7 +791,6 @@ All public entities subject to title II of the ADA must complete a self-evaluati
 *What should a self-evaluation contain?* A self-evaluation is a public entity's assessment of its current policies and practices. The self-evaluation identifies and corrects those policies and practices that are inconsistent with title II's requirements. As part of the self-evaluation, a public entity should:
 
 1. Identify all of the public entity's programs, activities, and services; and
-
 2. Review all the policies and practices that govern the administration of the public entity's programs, activities, and services.
 
 Normally, a public entity's policies and practices are reflected in its laws, ordinances, regulations, administrative manuals or guides, policy directives, and memoranda. Other practices, however, may not be recorded and may be based on local custom.
@@ -833,29 +798,17 @@ Normally, a public entity's policies and practices are reflected in its laws, or
 Once a public entity has identified its policies and practices, it should analyze whether these policies and practices adversely affect the full participation of individuals with disabilities in its programs, activities, and services. In this regard, a public entity should be mindful that although its policies and practices may appear harmless, they may result in denying individuals with disabilities the full participation of its programs, activities, or services. Areas that need careful examination include the following:
 
 1. A public entity must examine each program to determine whether any physical barriers to access exist. It should identify steps that need to be taken to enable these programs to be made accessible when viewed in their entirety. If structural changes are necessary, they should be included in the transition plan (see II-8.3000).
-
 2. A public entity must review its policies and practices to determine whether any exclude or limit the participation of individuals with disabilities in its programs, activities, or services. Such policies or practices must be modified, unless they are necessary for the operation or provision of the program, service, or activity. The self- evaluation should identify policy modifications to be implemented and include complete justifications for any exclusionary or limiting policies or practices that will not be modified.
-
 3. A public entity should review its policies to ensure that it communicates with applicants, participants, and members of the public with disabilities in a manner that is as effective as its communications with others. If a public entity communicates with applicants and beneficiaries by telephone, it should ensure that TDD's or equally effective telecommunication systems are used to communicate with individuals with impaired hearing or speech. Finally, if a public entity provides telephone emergency services, it should review its policies to ensure direct access to individuals who use TDD's and computer modems.
-
 4. A public entity should review its policies to ensure that they include provisions for readers for individuals with visual impairments; interpreters or other alternative communication measures, as appropriate, for individuals with hearing impairments; and amanuenses for individuals with manual impairments. A method for securing these services should be developed, including guidance on when and where these services will be provided. Where equipment is used as part of a public entity's program, activity, or service, an assessment should be made to ensure that the equipment is usable by individuals with disabilities, particularly individuals with hearing, visual, and manual impairments. In addition, a public entity should have policies that ensure that its equipment is maintained in operable working order.
-
 5. A review should be made of the procedures to evacuate individuals with disabilities during an emergency. This may require the installation of visual and audible warning signals and special procedures for assisting individuals with disabilities from a facility during an emergency.
-
 6. A review should be conducted of a public entity's written and audio-visual materials to ensure that individuals with disabilities are not portrayed in an offensive or demeaning manner.
-
 7. If a public entity operates historic preservation programs, it should review its policies to ensure that it gives priority to methods that provide physical access to individuals with disabilities.
-
 8. A public entity should review its policies to ensure that its decisions concerning a fundamental alteration in the nature of a program, activity, or service, or a decision that an undue financial and administrative burden will be imposed by title II, are made properly and expeditiously.
-
 9. A public entity should review its policies and procedures to ensure that individuals with mobility impairments are provided access to public meetings.
-
 10. A public entity should review its employment practices to ensure that they comply with other applicable nondiscrimination requirements, including section 504 of the Rehabilitation Act and the ADA regulation issued by the Equal Employment Opportunity Commission.
-
 11. A public entity should review its building and construction policies to ensure that the construction of each new facility or part of a facility, or the alteration of existing facilities after January 26, 1992, conforms to the standards designated under the title II regulation.
-
 12. A review should be made to ascertain whether measures have been taken to ensure that employees of a public entity are familiar with the policies and practices for the full participation of individuals with disabilities. If appropriate, training should be provided to employees.
-
 13. If a public entity limits or denies participation in its programs, activities, or services based on drug usage, it should make sure that such policies do not discriminate against former drug users, as opposed to individuals who are currently engaged in illegal use of drugs.
 
 *If a public entity identifies policies and practices that deny or limit the participation of individuals with disabilities in its programs, activities, and services, when should it make changes?* Once a public entity has identified policies and practices that deny or limit the participation of individuals with disabilities in its programs, activities, and services, it should take immediate remedial action to eliminate the impediments to full and equivalent participation. Structural modifications that are required for program accessibility should be made as expeditiously as possible but no later than January 26, 1995.
@@ -873,11 +826,8 @@ Must the transition plan be made available to the public? If a public entity has
 *What are the elements of an acceptable transition plan?* A transition plan should contain at a minimum --
 
 1. A list of the physical barriers in a public entity's facilities that limit the accessibility of its programs, activities, or services to individuals with disabilities;
-
 2. A detailed outline of the methods to be utilized to remove these barriers and make the facilities accessible;
-
 3. The schedule for taking the necessary steps to achieve compliance with title II. If the time period for achieving compliance is longer than one year, the plan should identify the interim steps that will be taken during each year of the transition period; and,
-
 4. The name of the official responsible for the plan's implementation.
 
 ### II-8.4000 Notice to the public.
@@ -901,7 +851,6 @@ In addition, the public entity must adopt and publish grievance procedures provi
 Individuals wishing to file title II complaints may either file --
 
 1. An administrative complaint with an appropriate Federal agency; or
-
 2. A lawsuit in Federal district court.
 
 If an individual files an administrative complaint, an appropriate Federal agency will investigate the allegations of discrimination. Should the agency conclude that the public entity violated title II, it will attempt to negotiate a settlement with the public entity to remedy the violations. If settlement efforts fail, the matter will be referred to the Department of Justice for a decision whether to institute litigation.
@@ -923,9 +872,7 @@ A person or a specific class of individuals or their representative may file a c
 *Where should a complaint be filed?* A complaint may be filed with either --
 
 1. Any Federal agency that provides funding to the public entity that is the subject of the complaint;
-
 2. A Federal agency designated in the title II regulation to investigate title II complaints; or
-
 3. The Department of Justice.
 
 Complainants may file with a Federal funding agency that has section 504 jurisdiction, if known. If no Federal funding agency is known, then complainants should file with the appropriate designated agency. In any event, complaints may always be filed with the Department of Justice, which will refer the complaint to the appropriate agency. The Department's regulation designates eight Federal agencies to investigate title II complaints primarily in those cases where there is no Federal agency with section 504 jurisdiction.
@@ -933,9 +880,7 @@ Complainants may file with a Federal funding agency that has section 504 jurisdi
 *How will employment complaints be handled?* Individuals who believe that they have been discriminated against in employment by a State or local government in violation of title II may file a complaint --
 
 1. With a Federal agency that provides financial assistance, if any, to the State or local program in which the alleged discrimination took place; or
-
 2. With the EEOC, if the State or local government is also subject to title I of the ADA (see II-4.0000); or
-
 3. With the Federal agency designated in the title II regulation to investigate complaints in the type of program in which the alleged discrimination took place.
 
 As is the case with complaints related to nonemployment issues, employment complaints may be filed with the Department of Justice, which will refer the complaint to the appropriate agency.
@@ -943,19 +888,12 @@ As is the case with complaints related to nonemployment issues, employment compl
 *Which are the designated Federal agencies and what are their areas of responsibility?* The eight designated Federal agencies, the functional areas covered by these agencies, and the addresses for filing a complaint are the --
 
 1. Department of Agriculture: All programs, services, and regulatory activities relating to farming and the raising of livestock, including extension services. Complaints should be sent to: Complaints Adjudication Division, Office of Advocacy and Enterprise, Room 1353 - South Building, Department of Agriculture, 14th & Independence Avenue, S.W., Washington, D.C. 20250.
-
 2. Department of Education: All programs, services, and regulatory activities relating to the operation of elementary and secondary education systems and institutions, institutions of higher education and vocational education (other than schools of medicine, dentistry, nursing, and other health-related schools), and libraries. Complaints should be sent to: Office for Civil Rights, Department of Education, 330 C Street, S.W., Suite 5000, Washington, D.C. 20202.
-
 3. Department of Health and Human Services: All programs, services, and regulatory activities relating to the provision of health care and social services, including schools of medicine, dentistry, nursing, and other health-related schools, the operation of health care and social service providers and institutions, including "grass-roots" and community services organizations and programs, and preschool and day care programs. Complaints should be sent to: Office for Civil Rights, Department of Health & Human Services, 330 Independence Avenue, S.W., Washington, D.C. 20201.
-
 4. Department of Housing and Urban Development: All programs, services, and regulatory activities relating to State and local public housing, and housing assistance and referral. Complaints should be sent to: Assistant Secretary for Fair Housing and Equal Opportunity, Department of Housing and Urban Development, 451 7th Street, S.W., Room 5100, Washington, D.C. 20410.
-
 5. Department of the Interior: All programs, services, and regulatory activities relating to lands and natural resources, including parks and recreation, water and waste management, environmental protection, energy, historic and cultural preservation, and museums. Complaints should be sent to: Office for Equal Opportunity, Office of the Secretary, Department of the Interior, 18th & C Streets, N.W., Washington, D.C. 20547.
-
 6. Department of Justice: All programs, services, and regulatory activities relating to law enforcement, public safety, and the administration of justice, including courts and correctional institutions; commerce and industry, including general economic development, banking and finance, consumer protection, insurance, and small business; planning, development, and regulation (unless assigned to other designated agencies); State and local government support services (e.g., audit, personnel, comptroller, administrative services); all other government functions not assigned to other designated agencies. Complaints should be sent to: Coordination and Review Section, P.O. Box 66118, Civil Rights Division, U.S. Department of Justice, Washington, D.C. 20035-6118.
-
 7. Department of Labor: All programs, services, and regulatory activities relating to labor and the work force. Complaints should be sent to: Directorate of Civil Rights, Department of Labor, 200 Constitution Avenue, N.W., Room N-4123, Washington, D.C. 20210.
-
 8. Department of Transportation: All programs, services, and regulatory activities relating to transportation, including highways, public transportation, traffic management (non-law enforcement), automobile licensing and inspection, and driver licensing. Complaints should be sent to: Office for Civil Rights, Office of the Secretary, Department of Transportation, 400 Seventh Street, S.W., Room 10215, Washington, D.C. 20590.
 
 *Where should a complaint be filed if more than one designated agency has responsibility for a complaint because it concerns more than one department or agency of a public entity?* Complaints involving more than one area should be filed with the Department of Justice. If two or more agencies have apparent responsibility for a complaint, the Assistant Attorney General for Civil Rights of the Department of Justice shall determine which one of the agencies shall be the designated agency for purposes of that complaint. Complaints involving more than one area of a public entity should be sent to: Coordination and Review Section, Civil Rights Division, U.S. Department of Justice, P.O. Box 66118, Washington, D.C. 20035-6118.
