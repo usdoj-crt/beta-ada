@@ -1,13 +1,15 @@
 ---
-title: Ballot Box Accessibility
-description: "This publication includes a survey to guide election officials in evaluating the accessibility of ballot drop boxes used or being considered for use in elections and is a companion piece to the ADA Checklist for Polling Places."
+title: Ballot Drop Box Accessibility
+description: This publication includes a survey to guide election officials in
+  evaluating the accessibility of ballot drop boxes used or being considered for
+  use in elections and is a companion piece to the ADA Checklist for Polling
+  Places.
+lead: ""
 permalink: /resources/ballot-box-accessibility/
-lead: |-
-
-lang: "en"
+lang: en
+print: true
 publish-date: 2022-02-15 00:00:00
 updated-date: 2022-12-20 00:00:00
-print: true
 sidenav-pdf:
   title: Ballot Box Accessibility
   filename: ballot-box-accessiblity.pdf
