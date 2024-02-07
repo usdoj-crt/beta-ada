@@ -80,6 +80,11 @@ primary_navigation:
       es: "/law-and-regs/"
     children:
     - name:
+        en: Law, Regulations & Standards
+        en-short: Law & Regulations
+        es: Law, Regulations & Standards
+      url: "/law-and-regs/"
+    - name:
         en: The Americans with Disabilities Act
         en-short: The ADA
         es: The ADA
@@ -117,9 +122,9 @@ primary_navigation:
           es: 2010 Design Standards
         url: "/law-and-regs/design-standards/2010-stds/"
       - name:
-          en: Standards Guidance
-          en-short: Standards Guidance
-          es: Standards Guidance
+          en: Guidance to the 2010 Standards
+          en-short: Guidance to the 2010 Standards
+          es: Guidance to the 2010 Standards
         url: "/law-and-regs/design-standards/standards-guidance/"
   - name:
       en: Enforcement

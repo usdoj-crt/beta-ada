@@ -21,8 +21,6 @@ tags:
 
 When we talk about what the ADA requires on ADA.gov, we are usually referring to two sources. First, the text of the ADA, also referred to as the ADA statute, passed by Congress in 1990 and later amended. Second, regulations developed by the Department of Justice that state/local governments and many businesses must follow to ensure that they do not discriminate against people with disabilities.
 
-## Law, Regulations & Standards Documents
-
 {% include landing/law-reg-tiles.html %}
 
 Or, go straight to any of the following by clicking any of the links below.
