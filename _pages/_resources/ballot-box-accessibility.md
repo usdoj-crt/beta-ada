@@ -11,7 +11,7 @@ print: true
 publish-date: 2022-02-15 00:00:00
 updated-date: 2022-12-20 00:00:00
 sidenav-pdf:
-  title: Ballot Box Accessibility
+  title: Ballot Drop Box Accessibility
   filename: ballot-box-accessiblity.pdf
   text: Download PDF Guidance
 related-content: true
@@ -33,13 +33,13 @@ process, including ballot drop boxes.
 </figcaption>
 </figure>
 
-## Ballot Box Accessibility
+## Ballot Drop Box Accessibility
 
 The ADA requires that ballot drop boxes are accessible to people with disabilities. Ballot drop boxes must comply with ADA accessibility standards, known as the 2010 ADA Standards.{% fn 2 %}
 
 To be accessible, a ballot drop box must include:
 - **an accessible route** to the ballot drop box
-- an **accessible clear floor or ground space** in front of the ballot drop box
+- **an accessible clear floor or ground space** in front of the ballot drop box
 - **an accessible** ballot drop box opening
 
 ### Accessible Route to Ballot Drop Box
