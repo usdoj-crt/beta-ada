@@ -39,7 +39,7 @@ The ADA requires that ballot drop boxes are accessible to people with disabiliti
 
 To be accessible, a ballot drop box must include:
 - **an accessible route** to the ballot drop box
-- an **accessible clear floor or ground space** in front of the ballot drop box
+- **an accessible clear floor or ground space** in front of the ballot drop box
 - **an accessible** ballot drop box opening
 
 ### Accessible Route to Ballot Drop Box
