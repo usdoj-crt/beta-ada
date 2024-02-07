@@ -1,16 +1,22 @@
 ---
 title: "ADA/Section 504 Design Guide:  Accessible Cells in Correctional Facilities"
-description: "A publication providing guidance on preventing discrimination against inmates with mobility disabilities through the design of accessible cells in State and local correctional facilities. (2004)"
+description: A publication providing guidance on preventing discrimination
+  against inmates with mobility disabilities through the design of accessible
+  cells in State and local correctional facilities. (2004)
+lead: Many inmates in State and local correctional facilities have mobility
+  disabilities and need to be housed in accessible cells. Yet, many correctional
+  facilities do not have enough cells that are accessible to inmates with
+  disabilities. Federal laws protect people with disabilities from
+  discrimination by State and local governments, including entities that own or
+  operate correctional facilities.
 permalink: /resources/accessible-cells/
-lead: |-
-  Many inmates in State and local correctional facilities have mobility disabilities and need to be housed in accessible cells. Yet, many correctional facilities do not have enough cells that are accessible to inmates with disabilities. Federal laws protect people with disabilities from discrimination by State and local governments, including entities that own or operate correctional facilities.
-lang: "en"
-publish-date: 2010-07-01 00:00:00
-updated-date: 2020-02-05 00:00:00
-print: true
-related-content: true
 redirect_from:
   - /accessiblecells.htm
+lang: en
+print: true
+publish-date: 2010-07-01 00:00:00
+updated-date: 2020-02-05 00:00:00
+related-content: true
 tags:
   - physical access
 ---
@@ -60,7 +66,7 @@ Appropriate clear floor space (shown by dashed lines) is needed adjacent to each
 {% figcaption %}
 <b>Drawing Notes:</b><br>
 <b>1.</b> Side grab bar: There is a grab bar on the adjacent side wall that is at least 42 inches long and from 33 to 36 inches above the floor.<br>
-<b>2.</b> Side grab bar: There is a grab bar on the adjacent side wall that is at least 42 inches long and from 33 to 36 inches above the floor.<br>
+<b>2.</b> Rear grab bar: There is a grab bar behind the toilet that is at least 36 inches long and from 33 to 36 inches above the floor.<br>
 <b>3.</b> Flush valve is located in reach range and is operable without tight grasping, twisting, or pinching.<br>
 <b>4.</b> Toilet seat height: The toilet seat needs to be from 17 to 19 inches above the floor to permit transfers to and from wheelchairs.<br>
 <b>5.</b> Toilet centerline: The toilet bowl needs to be centered 16 to 18 inches from the side wall,{% fn 2 %} so that inmates with disabilities can use the side grab bar.
