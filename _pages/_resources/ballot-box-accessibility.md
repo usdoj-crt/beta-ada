@@ -33,7 +33,7 @@ process, including ballot drop boxes.
 </figcaption>
 </figure>
 
-## Ballot Box Accessibility
+## Ballot Drop Box Accessibility
 
 The ADA requires that ballot drop boxes are accessible to people with disabilities. Ballot drop boxes must comply with ADA accessibility standards, known as the 2010 ADA Standards.{% fn 2 %}
 
