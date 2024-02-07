@@ -11,7 +11,7 @@ print: true
 publish-date: 2022-02-15 00:00:00
 updated-date: 2022-12-20 00:00:00
 sidenav-pdf:
-  title: Ballot Box Accessibility
+  title: Ballot Drop Box Accessibility
   filename: ballot-box-accessiblity.pdf
   text: Download PDF Guidance
 related-content: true
