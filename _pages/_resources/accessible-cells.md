@@ -69,7 +69,7 @@ Appropriate clear floor space (shown by dashed lines) is needed adjacent to each
 <b>2.</b> Rear grab bar: There is a grab bar behind the toilet that is at least 36 inches long and from 33 to 36 inches above the floor.<br>
 <b>3.</b> Flush valve is located in reach range and is operable without tight grasping, twisting, or pinching.<br>
 <b>4.</b> Toilet seat height: The toilet seat needs to be from 17 to 19 inches above the floor to permit transfers to and from wheelchairs.<br>
-<b>5.</b> Toilet centerline: The toilet bowl needs to be centered 16 to 18 inches from the side wall,{% fn 2 %} so that inmates with disabilities can use the side grab bar.
+<b>5.</b> Toilet centerline: The toilet bowl needs to be centered 16 to 18 inches from the side wall,{% fn 2 %} so that inmates with disabilities can use the side grab bar.<br>
 <b>6.</b> Clear floor space: Adequate space is provided to approach the toilet from a variety of wheelchair transfer positions (i.e. diagonal or side approaches). Generally, the toilet needs to be placed within a 60-inch-wide by 59-inch-deep clear area of the floor.
 {% endfigcaption %}
 {% endfigure %}
