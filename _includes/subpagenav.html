@@ -1,0 +1,46 @@
+{% assign lang = page.lang %} {% if lang==nil %}{% assign lang="en" %}{% endif %}
+{% for nav_item in site.primary_navigation %}{% if page.permalink contains nav_item.url[lang] %}{% assign parent=nav_item %}{% endif %}{% endfor %}
+<nav
+  id="toc"
+  class="usa-accordion__content pa11y-skip subpagenav"
+  aria-label="{{site.data[lang]['i18n'].aria.side_nav}}"
+>
+<ul class="usa-sidenav">
+  {% if page.expand-sidenav %}
+    {% include expand-button.html %}
+  {% endif %}
+<ul class="usa-sidenav__sublist">
+    {% for child in parent.children %}
+    {% if child.children.size > 0 %}
+    <li class="usa-sidenav__item">
+        {% if child.url == page.permalink %}
+            <a href="#top" class="usa-current">{{ child.name[lang] }}</a>
+        {% else %}
+            <a class="crt-sidenav-subnav-item" data-ga-event-name="side nav link {{ child.name[lang] }}" href="{{ child.url | relative_url }}">{{ child.name[lang] }}</a>
+        {% endif %}
+    </li>
+        <ul class="usa-sidenav__sublist">
+        {% for grandchild in child.children %}
+            {% if grandchild.url == page.permalink %}
+            <a href="#top" class="usa-current">{{ grandchild.name[lang] }}</a>
+            {% else %}
+            <li class="usa-sidenav__item">
+                <a href="{{ grandchild.url | relative_url }}">{{ grandchild.name[lang] }}</a>
+            </li>
+            {% endif %}
+        {% endfor %}
+        </ul>
+     {% else %}
+    <li class="usa-sidenav__item">
+      {% if child.url == page.permalink %}
+        <a href="#top" class="usa-current">{{ child.name[lang] }}</a>
+      {% else %}
+        <a href="{{ child.url | relative_url }}">{{ child.name[lang] }}</a>
+      {% endif %}
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</ul>
+{% include phone-box.html %}
+</nav>

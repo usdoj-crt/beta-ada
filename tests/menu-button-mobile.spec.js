@@ -4,8 +4,8 @@ const HOME = 'http://localhost:4000/';
 const LINKS = [
   'Home',
   'Topics',
-  'Laws, Regulations & Standards',
-  'Laws & Regulations',
+  'Law, Regulations & Standards',
+  'Law & Regulations',
   'File a Complaint',
   'Guidance & Resource Materials',
   'Resources'
