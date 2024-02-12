@@ -142,7 +142,7 @@ An example of providing a program in a different manner is:
 
 An example of an "undue burden" and how it might be solved is:
 
-In a small municipality, the town council holds its public meetings in an auditorium on the second floor of an historic town building. There is no space on the accessible first floor large enough to hold the meetings, there is no other building where the meetings could be held, and the cost of installing an elevator is beyond the town´s financial ability and would destroy the historic features of the town hall. The town´s solution may be to install a video conference system in a room on the first floor so people with mobility disabilities can participate in the meetings.
+- In a small municipality, the town council holds its public meetings in an auditorium on the second floor of an historic town building. There is no space on the accessible first floor large enough to hold the meetings, there is no other building where the meetings could be held, and the cost of installing an elevator is beyond the town´s financial ability and would destroy the historic features of the town hall. The town´s solution may be to install a video conference system in a room on the first floor so people with mobility disabilities can participate in the meetings.
 
 | <img src="{{ '/assets/images/project-images/hornburg.jpg' | relative_url }}" alt="Photo: General Hornburg squats between two service members sitting in wheelchairs, both of whom have double leg amputations." />|
 |:--:|
@@ -166,9 +166,11 @@ The Uniformed Services Employment and Reemployment Rights Act (USERRA) prohibits
 
 ### A Word about Benefit Programs
 
+You have probably already received information from your service branch or the Department of Veterans Affairs about programs designed to assist returning service members. But you may not know that there are many other benefit programs for people with disabilities, whether you’ve served in the military or not.
+
 All over the United States there are organizations called Independent Living Centers that provide information about benefit programs and other services for people with disabilities. You can find out how to contact the center nearest you by calling the ADA Information Line or by calling your regional DBTAC - ADA Center. *See* [Contact Information](#adata).
 
-State Vocational Rehabilitation agencies also offer services to help people with disabilities enter or return to employment. Your State´s contact information is available at www.rehabnetwork.org/directors_contact.htm or from the ADA Information Line.
+State Vocational Rehabilitation agencies also offer services to help people with disabilities enter or return to employment. Your State´s contact information is available at [https://rsa.ed.gov/about/states](https://rsa.ed.gov/about/states) or from the [ADA Information Line]({{'/infoline' | relative_url}}).
 
 ## Publications
 
