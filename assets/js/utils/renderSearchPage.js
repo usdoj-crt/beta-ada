@@ -52,9 +52,7 @@ export default function renderSearchPage(searchResults, urlParams, numberOfResul
         if (!audience || item.url.includes(audience)) {
           renderSearchResults(searchResultsTemplate(item));
         }
-        return null;
-      })
-      .filter((x) => !!x);
+      });
     // Set up click tracking for search.gov:
     clickTracking();
     // List the total number of results:
