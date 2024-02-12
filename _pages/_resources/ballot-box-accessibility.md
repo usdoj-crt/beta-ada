@@ -1,15 +1,17 @@
 ---
-title: Ballot Box Accessibility
-description: "This publication includes a survey to guide election officials in evaluating the accessibility of ballot drop boxes used or being considered for use in elections and is a companion piece to the ADA Checklist for Polling Places."
+title: Ballot Drop Box Accessibility
+description: This publication includes a survey to guide election officials in
+  evaluating the accessibility of ballot drop boxes used or being considered for
+  use in elections and is a companion piece to the ADA Checklist for Polling
+  Places.
+lead: ""
 permalink: /resources/ballot-box-accessibility/
-lead: |-
-
-lang: "en"
+lang: en
+print: true
 publish-date: 2022-02-15 00:00:00
 updated-date: 2022-12-20 00:00:00
-print: true
 sidenav-pdf:
-  title: Ballot Box Accessibility
+  title: Ballot Drop Box Accessibility
   filename: ballot-box-accessiblity.pdf
   text: Download PDF Guidance
 related-content: true
@@ -31,13 +33,13 @@ process, including ballot drop boxes.
 </figcaption>
 </figure>
 
-## Ballot Box Accessibility
+## Ballot Drop Box Accessibility
 
 The ADA requires that ballot drop boxes are accessible to people with disabilities. Ballot drop boxes must comply with ADA accessibility standards, known as the 2010 ADA Standards.{% fn 2 %}
 
 To be accessible, a ballot drop box must include:
 - **an accessible route** to the ballot drop box
-- an **accessible clear floor or ground space** in front of the ballot drop box
+- **an accessible clear floor or ground space** in front of the ballot drop box
 - **an accessible** ballot drop box opening
 
 ### Accessible Route to Ballot Drop Box
@@ -268,6 +270,6 @@ Checklist for Polling Places]({{'/resources/polling-places-checklist' | relative
 {% endfnbody %}
 
 {% fnbody 2 %}
-The 2010 ADA Standards apply to building or site elements that are “fixed.” 28 C.F.R. § 35.151(d). Fixed means built-in, bolted, secured, or chained in place, and includes elements like the route and ground space in front of the drop box. For a ballot drop box that is not fixed, elements such as the reach range to the opening to put the ballot in the drop box or the usability of a handle, are not covered by the 2010 ADA Standards specifically. Instead, the Title II regulation applies, and the 2010 ADA Standards are used as a guide. For more information, the Title II regulation, 28 C.F.R. pt. 35, can be found at [ADA Laws and Regulations]({{'/law-and-regs/title-ii-2010-regulations' | relative_url}}) and the 2010 ADA Standards, 28 C.F.R. § 35.104, are available at [Design Standards]({{'/law-and-regs/design-standards/2010-stds' | relative_url}}) .
+The 2010 ADA Standards apply to building or site elements that are “fixed.” 28 C.F.R. § 35.151(d). Fixed means built-in, bolted, secured, or chained in place, and includes elements like the route and ground space in front of the drop box. For a ballot drop box that is not fixed, elements such as the reach range to the opening to put the ballot in the drop box or the usability of a handle, are not covered by the 2010 ADA Standards specifically. Instead, the Title II regulation applies, and the 2010 ADA Standards are used as a guide. For more information, the Title II regulation, 28 C.F.R. pt. 35, can be found at [ADA Laws and Regulations]({{'/law-and-regs/regulations/title-ii-2010-regulations' | relative_url}}) and the 2010 ADA Standards, 28 C.F.R. § 35.104, are available at [Design Standards]({{'/law-and-regs/design-standards/2010-stds' | relative_url}}) .
 {% endfnbody %}
 {% endfootnotes %}

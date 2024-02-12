@@ -88,7 +88,7 @@
       margin: 0;
     }
 
-    h2:not(.usa-alert__heading):not(.usa-accordion__heading):not(.usa-card__heading):not(.ta-article-heading) {
+    h2:not(.usa-alert__heading):not(.usa-accordion__heading):not(.usa-card__heading):not(.ta-article-heading):not(.lp-tile-heading) {
       margin-top: 3rem;
       &:after {
         content: '';
@@ -111,6 +111,46 @@
   }
 }
 
+#crt-page--content {
+  .law-reg-tiles {
+    margin-bottom: 2em;
+    strong {
+      display: block;
+      padding-bottom: 0.5em;
+    }
+    :first-of-type.lp-tile  {
+      margin-right: 2em;
+      @media(max-width: 639px) {
+        margin-right: 0;
+      }
+    }
+    .lp-tile  {
+      border: solid 1px #D9D9D9;
+      padding: 0.5rem;
+      @media(max-width: 639px) {
+        flex: 0 1 100%;
+      }
+    }
+    .lp-tile {
+      .crt-landing--reporting_column {
+        h2 {
+          font-family: family("heading");
+          font-weight: bold;
+          font-size: 1.375rem;
+        }
+      }
+    }
+    .crt-landing--reporting_column {
+      h3 {
+        font-family: Public Sans Web, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+        font-size: 22px;
+        font-weight: normal;
+        margin-top: 0;
+      }
+    }
+  }
+  }
+
 .standards-and-guidance {
   display: flex;
   gap: 4rem;
@@ -131,7 +171,8 @@
       border: 1px solid lightgray;
       display: block;
       margin-bottom: 1em;
-      max-width: 50%;
+      max-height: 300px;
+      max-width: 40%;
     }
   }
 }

@@ -72,38 +72,60 @@ primary_navigation:
       en: "/resources/"
       es: "/resources/"
   - name:
-      en: Laws, Regulations & Standards
-      en-short: Laws & Regulations
-      es: Laws, Regulations & Standards
+      en: Law, Regulations & Standards
+      en-short: Law & Regulations
+      es: Law, Regulations & Standards
     url:
       en: "/law-and-regs/"
       es: "/law-and-regs/"
     children:
-      - name:
-          en: Laws, Regulations & Standards
-          en-short: Laws & Regulations
-          es: Laws, Regulations & Standards
-        url: "/law-and-regs/"
-      - name:
-          en: ADA
-          en-short: ADA
-          es: ADA
-        url: "/law-and-regs/ada/"
+    - name:
+        en: Law, Regulations & Standards
+        en-short: Law & Regulations
+        es: Law, Regulations & Standards
+      url: "/law-and-regs/"
+    - name:
+        en: The Americans with Disabilities Act
+        en-short: The ADA
+        es: The ADA
+      url: "/law-and-regs/ada/"
+    - name:
+        en: Regulations
+        en-short: Regulations
+        es: Regulations
+      url: "/law-and-regs/regulations/"
+      children:
       - name:
           en: Title II Regulations
-          en-short: Title II
+          en-short: Title II Regulations
           es: Title II Regulations
-        url: "/law-and-regs/title-ii-2010-regulations/"
+        url: "/law-and-regs/regulations/title-ii-2010-regulations/"
       - name:
           en: Title III Regulations
-          en-short: Title III
+          en-short: Title III Regulations
           es: Title III Regulations
-        url: "/law-and-regs/title-iii-regulations/"
+        url: "/law-and-regs/regulations/title-iii-regulations/"
+    - name:
+        en: Design Standards
+        en-short: Design Standards
+        es: Design Standards
+      url: "/law-and-regs/design-standards/"
+      children:
       - name:
-          en: Design Standards
-          en-short: Design Standards
-          es: Design Standards
-        url: "/law-and-regs/design-standards/"
+          en: 1991 Design Standards
+          en-short: 1991 Design Standards
+          es: 1991 Design Standards
+        url: "/law-and-regs/design-standards/1991-design-standards/"
+      - name:
+          en: 2010 Design Standards
+          en-short: 2010 Design Standards
+          es: 2010 Design Standards
+        url: "/law-and-regs/design-standards/2010-stds/"
+      - name:
+          en: Guidance to the 2010 Standards
+          en-short: Guidance to the 2010 Standards
+          es: Guidance to the 2010 Standards
+        url: "/law-and-regs/design-standards/standards-guidance/"
   - name:
       en: Enforcement
       en-short: Enforcement

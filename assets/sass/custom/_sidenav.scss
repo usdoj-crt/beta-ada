@@ -19,6 +19,27 @@
     }
   }
 
+  .subpagenav {
+    .usa-current::after {
+      background-color: #162e51;
+      border-radius: 99rem;
+      content: "";
+      display: block;
+      position: absolute;
+      bottom: 0.25rem;
+      top: 0.25rem;
+      width: 0.25rem;
+      left: 0;
+    }
+
+    .phone-box {
+      padding: 0.5em 1em;
+      font-size: .875rem;
+      background-color: #E6E6E6;
+      font-family: Public Sans Web, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol !important;
+    }
+  }
+
   a:not(.crt-page--downloadpdf-button)  {
     color: color($theme-text-color);
 
