@@ -47,12 +47,11 @@ export default function renderSearchPage(searchResults, urlParams, numberOfResul
     // Grab our pagination list node that will contain the pagination:
     const pagination_list = document.querySelectorAll('ol.usa-pagination__list')[0];
     // Put the fetched results into a list, and render in the DOM:
-    webResults
-      .forEach(function (item) {
-        if (!audience || item.url.includes(audience)) {
-          renderSearchResults(searchResultsTemplate(item));
-        }
-      });
+    webResults.forEach(function (item) {
+      if (!audience || item.url.includes(audience)) {
+        renderSearchResults(searchResultsTemplate(item));
+      }
+    });
     // Set up click tracking for search.gov:
     clickTracking();
     // List the total number of results:
