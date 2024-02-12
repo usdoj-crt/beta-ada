@@ -1,6 +1,6 @@
 ---
-title: "ADA Know Your Rights: Know Your Rights - Returning Service Members with Disabilities"
-description: This publication is designed to provide military service members who have been seriously wounded while serving a basic understanding of their rights under the ADA and where to turn for additional information and assistance. (2010)
+title: "ADA:  Know Your Rights - Returning Service Members with Disabilities"
+description: This publication is designed to provide military service members who have been seriously wounded while serving a basic understanding of their rights under the ADA and where to turn for additional information and assistance.
 sidenav: true
 print: true
 compact: true
@@ -12,10 +12,12 @@ tags:
   - employment
   - physical access
   - title ii
+  - effective communication
 ---
 You've been seriously injured while serving on active duty in the U.S. Military -- perhaps you've lost a limb, sustained a traumatic brain injury or spinal cord injury, sustained hearing or vision loss, or are experiencing post traumatic stress disorder (PTSD) -- and now you're back in the States trying to adjust to living with your injury. This publication explains your rights under the Americans with Disabilities Act (ADA) and provides information on where to get assistance.
 
-<img src="{{ '/assets/images/project-images/handshakeretouch.gif' | relative_url }}" alt="A close-up of a handshake between two service members in camouflage uniforms. One person's hand is a prosthesis.">
+| :---        |    :----:   |          ---: |
+| <img src="{{ '/assets/images/project-images/handshakeretouch.gif' | relative_url }}" alt="A close-up of a handshake between two service members in camouflage uniforms. One person's hand is a prosthesis." />      | <img src="{{ '/assets/images/project-images/hugged.jpg' | relative_url }}" alt="Photo: A woman hugs a man wearing a ball cap. He has severe burn scars on his face, ears, and hands." />     | <img src="{{ '/assets/images/project-images/2intruck.jpg' | relative_url }}" alt="Photo: Inside a van with the door open, a man wearing ball cap and shorts smiles and makes a victory sign. He has two prosthetic legs." />  |
 
 ## Introduction
 
@@ -69,8 +71,6 @@ Typical examples of reasonable modifications are:
 - Modifying procedures at a bank so customers who have difficulty standing for a long time can sit down without losing their place in line.
 - Providing refueling assistance at the self-serve price for a customer with a disability who cannot pump his or her own gas.
 
-<img src="{{ '/assets/images/project-images/hugged.jpg' | relative_url }}" alt="Photo: A woman hugs a man wearing a ball cap. He has severe burn scars on his face, ears, and hands." />
-
 An example of a fundamental alteration or change is:
 
 - At a gas station with only one employee whose primary job is to protect the cash box or activate the gas pumps remotely, it would be a fundamental change for the employee to leave his or her post unattended in order to pump gas for a customer with a disability.
@@ -78,8 +78,6 @@ An example of a fundamental alteration or change is:
 ### Effective Communication
 
 Businesses must communicate effectively with customers who have vision, hearing, or speech disabilities. The businesses, not the customers, are responsible for providing the tools or services that are needed for "effective communication." Businesses are not, however, required to provide any tools or services that would be an "undue burden," which means significant difficulty or expense. The type of tool or service needed depends on the nature of the communication as well as the particular customer´s disability. Additional information about the rules for "effective communication" can be found at [archive.ada.gov/reachingout/lesson21.htm](https://archive.ada.gov/reachingout/lesson21.htm) or by calling the ADA Information Line. *See* [Contact Information](#doj).
-
-<img src="{{ '/assets/images/project-images/2intruck.jpg' | relative_url }}" alt="Photo: Inside a van with the door open, a man wearing ball cap and shorts smiles and makes a victory sign. He has two prosthetic legs." />
 
 Examples of effective communication are:
 
@@ -125,7 +123,8 @@ For more information about these provisions or [how to file a complaint]({{'/fil
 
 State and local governments offer a wide variety of services and activities that returning service members might need or wish to participate in, and all of these must comply with the ADA. Here are just a few examples of the many types of public services that are covered by the ADA: public trade schools and community colleges, public libraries, public hospitals, public parks and recreational facilities, public transit buses and trains, city and county offices where people go to renew licenses, apply for food stamps, pay their taxes, attend town meetings, serve on boards and commissions, or conduct other government business.
 
-<img src="{{ '/assets/images/project-images/family.jpg' | relative_url }}" alt="Photo: A man sits in a wheelchair with a woman standing behind him, her hands on his shoulders. A baby sits in his lap." />
+| :---        |    :----:   |          ---: |
+| <img src="{{ '/assets/images/project-images/family.jpg' | relative_url }}" alt="Photo: A man sits in a wheelchair with a woman standing behind him, her hands on his shoulders. A baby sits in his lap." />      | <img src="{{ '/assets/images/project-images/4marines.jpg' | relative_url }}" alt="Photo: Three seated men pose for the camera. Two of them sit on a bench and have prosthetic legs. One sits in a wheelchair and has double leg amputations. A fourth man stands behind the group." />    |
 
 The rules for State and local governments concerning policy modification, effective communication, and facilities built or altered since the ADA went into effect are very similar to the rules for businesses, as described in the previous section of this publication. However, the rules for government facilities that have architectural barriers are different than the rules for businesses. The rules for government facilities are outlined here.
 
@@ -158,8 +157,6 @@ Contact the [U.S. Department of Justice](#doj) for more information about the AD
 ### Other Federal Disability Rights Laws
 
 As noted earlier, the ADA covers employment, access to goods and services, and State and local government programs, activities, and services. There are other Federal disability rights laws that cover housing, air travel, telecommunications, Federal programs and services, and other topics. For more information, *see* the Department of Justice publication called [A Guide to Disability Rights Laws]({{'resources/disability-rights-guide' | relative_url}}).
-
-<img src="{{ '/assets/images/project-images/4marines.jpg' | relative_url }}" alt="Photo: Three seated men pose for the camera. Two of them sit on a bench and have prosthetic legs. One sits in a wheelchair and has double leg amputations. A fourth man stands behind the group." />
 
 ### Uniformed Services Employment and Reemployment Rights Act
 
