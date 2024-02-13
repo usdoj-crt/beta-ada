@@ -82,8 +82,8 @@ learn:
           title: "Fact Sheet:  Notice of Proposed Rulemaking on Accessibility of Web Information and Services of State and Local Government Entities"
           link: resources/2023-07-20-web-nprm
         - ex2:
-          title: A Guide to Disability Rights Laws
-          link: resources/disability-rights-guide
+          title: "Fact Sheet:  Notice of Proposed Rulemaking on Accessibility of Medical Diagnostic Equipment"
+          link: resources/2024-01-10-mde-nprm
         - ex3:
           title: Algorithms, Artificial Intelligence, and Disability Discrimination in Hiring
           link:  resources/ai-guidance
