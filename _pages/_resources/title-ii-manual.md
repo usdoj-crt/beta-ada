@@ -582,13 +582,13 @@ The following requirements apply in new construction, unless otherwise indicated
 2. *Valet parking*<br>
    ADAAG: Facilities with valet parking must have an accessible passenger loading zone on an accessible route to the exterior of the facility (§4.1.2(5)(e)).<br>
    UFAS: No requirements for valet parking.
-3. *Signs*<br>
-   ADAAG:
+3. *Signs*
 
-* Signs designating permanent rooms and spaces (men's and women's rooms; room numbers; exit signs) must have raised and Brailled letters; must comply with finish and contrast standards; and must be mounted at a certain height and location (§4.1.3(16)(a)).
-* Signs that provide direction to or information about functional spaces of a building (e.g. "cafeteria this way;" "copy room") need not comply with requirements for raised and Brailled letters, but they must comply with requirements for character proportion, finish, and contrast. If suspended or projected overhead, they must also comply with character height requirements (§4.1.3(16)(b)).
-* Building directories and other signs providing temporary information (such as current occupant's name) do not have to comply with any ADAAG requirements (§4.1.3(16)).
-* Has requirements not only for the standard international symbol of accessibility, but also for symbols of accessibility identifying volume control telephones, text telephones, and assistive listening systems (§§4.1.2(7); 4.30.7).<br><p>UFAS:
+   ADAAG:
+- Signs designating permanent rooms and spaces (men's and women's rooms; room numbers; exit signs) must have raised and Brailled letters; must comply with finish and contrast standards; and must be mounted at a certain height and location (§4.1.3(16)(a))
+- Signs that provide direction to or information about functional spaces of a building (e.g. "cafeteria this way;" "copy room") need not comply with requirements for raised and Brailled letters, but they must comply with requirements for character proportion, finish, and contrast. If suspended or projected overhead, they must also comply with character height requirements (§4.1.3(16)(b)).
+- Building directories and other signs providing temporary information (such as current occupant's name) do not have to comply with any ADAAG requirements (§4.1.3(16)).
+- Has requirements not only for the standard international symbol of accessibility, but also for symbols of accessibility identifying volume control telephones, text telephones, and assistive listening systems (§§4.1.2(7); 4.30.7).<br><p>UFAS:
 * Signs designating permanent rooms and spaces must be raised (Braille is not required) and must be mounted at a certain height and location (§4.1.2(15)).
 * All other signs (including temporary signs) must comply with requirements for letter proportion and color contrast, but not with requirements for raised letters or mounting height (§4.1.2(15)).
 * Requires only the standard international symbol of accessibility (§4.30.5).
@@ -611,12 +611,14 @@ The following requirements apply in new construction, unless otherwise indicated
 9. *Telecommunication Devices for the Deaf (TDD's)*<br>
    ADAAG: One TDD (also known as a "text telephone") must be provided inside any building that has at least one interior pay phone and four or more public pay telephones, counting both interior and exterior phones. In addition, one TDD or text telephone (per facility) must be provided whenever there is an interior public pay phone in a stadium or arena; convention center; hotel with a convention center; covered shopping mall; or hospital emergency, recovery, or waiting room (§4.1.3(17)(c)).<br>
    UFAS: No requirement for TDD's.
-10. *Assembly areas*<br>
-    ADAAG:
+10. *Assembly areas*
+   
+
+>ADAAG:
 
 * Wheelchair seating: Requirements triggered in any assembly area with fixed seating that seats four or more people. The number of wheelchair locations required depends upon the size of the assembly area. When the area has over 300 seats, there are requirements for dispersal of wheelchair seating. ADAAG also contains requirements for aisle seats without armrests (or with removable armrests) and fixed seating for companions located adjacent to each wheelchair seating area (§4.1.3(19)(a)).
+
 * Assistive listening systems: Certain fixed seating assembly areas that accommodate 50 or more people or have audio-amplification systems must have permanently installed assistive listening systems. Other assembly areas must have permanent systems or an adequate number of electrical outlets or other wiring to support a portable system. A special sign indicating the availability of the system is required. The minimum number of receivers must be equal to four percent of the total number of seats, but never less than two (§4.1.3(19)(b)).<br>
-  <p>UFAS:
 * Wheelchair seating: No requirements for wheelchair seating are triggered, unless the assembly area has 50 or more seats. Seating must be dispersed and provide comparable lines of sight (§4.1.2(18)(a)).
 * Assistive listening systems: Assembly areas with audio-amplification systems must have a listening system that serves a reasonable number of people, but at least two. If it has no amplification system or is used primarily as meeting or conference room, it must have a permanent or portable system. No special signs are required (§4.1.2(18)(b)).
 
@@ -635,16 +637,20 @@ The following requirements apply in new construction, unless otherwise indicated
 2. *Residential facilities/transient lodging*<br>ADAAG:  
 
 * Hotels, motels, dormitories, and other similar establishments:  Four percent of the first 100 rooms and approximately two percent of rooms in excess of 100 must be accessible to both persons with hearing impairments (i.e., contain visual alarms, visual notification devices, volume-control telephones, and an accessible electrical outlet for a text telephone) and to persons with mobility impairments. Moreover, a similar percentage of additional rooms must be accessible to persons with hearing impairments. In addition, where there are more than 50 rooms, approximately one percent of rooms must be accessible rooms with a special roll-in/transfer shower. There are special provisions for alterations (§§9.1-9.4).
+
 * Homeless shelters, halfway houses, and similar social service establishments:  Homeless shelters and other social service entities must provide the same percentage of accessible sleeping accommodations as above. At least one type of amenity in each common area must be accessible. Alterations are subject to less stringent standards (§9.5).<br>UFAS: Contains requirements for residential occupancies with technical requirements for "dwelling units." No requirements for sleeping rooms for individuals with hearing impairments. No requirements for roll-in showers as in ADAAG. No standards for alterations (§§4.1.4(11); 4.34).
 
 3. *Restaurants*<br>
    ADAAG: In restaurants, generally all dining areas and five percent of fixed tables (but not less than one) must be accessible. While raised or sunken dining areas must be accessible, inaccessible mezzanines are permitted under certain conditions. Contains requirements for counters and bars, access aisles, food service lines, tableware and condiment areas, raised speaker's platforms, and vending machine areas (but not controls). Contains some less stringent requirements for alterations (§5).<br>UFAS: Less detailed requirements. Does not address counters and bars. Raised platforms are allowed if same service and decor are provided. Vending machines and controls are covered. No special, less stringent requirements for alterations (§5).
 4. *Medical or health care facilities*<br>ADAAG: In medical care facilities, all public and common use areas must be accessible. In general purpose hospitals and in psychiatric and detoxification facilities, 10 percent of patient bedrooms and toilets must be accessible. The required percentage is 100 percent for special facilities treating conditions that affect mobility, and 50 percent for long-term care facilities and nursing homes. Uses terms clarified by the Department of Health and Human Services to describe types of facilities. Some descriptive information was added. Contains special, less stringent requirements for alterations (§6).<br>UFAS: Uses different terms to describe types of facilities. Required clearances in rooms exceed ADAAG requirements. No special, less stringent requirements for alterations (§6).
-5. *Mercantile*<br>ADAAG:<br>
-   Counters:
 
-* At least one of each type of sales or service counter where a cash register is located must be accessible. Accessible counters must be dispersed throughout the facility. Auxiliary counters are permissible in alterations (§7.2(1)).
-* At counters without cash registers, such as bank teller windows and ticketing counters, three alternatives are possible: (1) a portion of the counter may be lowered, (2) an auxiliary counter may be provided, or (3) equivalent facilitation may be provided by installing a folding shelf on the front of a counter to provide a work surface for a person using a wheelchair (§7.2(2)).<br>Check-out aisles:
+
+5. *Mercantile*<br>ADAAG:<br />
+   Counters:
+- At least one of each type of sales or service counter where a cash register is located must be accessible. Accessible counters must be dispersed throughout the facility. Auxiliary counters are permissible in alterations (§7.2(1)).  
+* At counters without cash registers, such as bank teller windows and ticketing counters, three alternatives are possible: (1) a portion of the counter may be lowered, (2) an auxiliary counter may be provided, or (3) equivalent facilitation may be provided by installing a folding shelf on the front of a counter to provide a work surface for a person using a wheelchair (§7.2(2)).<br>
+
+>Check-out aisles:
 * At least one of each design of check-out aisle must be accessible, and, in many cases, additional check-out aisles are required to be accessible (i.e., from 20 to 40 percent) depending on the number of check-out aisles and the size of the facility. There are less stringent standards for alterations (§7.3).<br>UFAS:  Much less detail. At service counters, must provide an accessible portion of the counter or a nearby accessible counter. At least one check-out aisle must be accessible (§7).
 
 6. *Jails and prisons*<br>ADAAG: No scoping requirements indicating how many cells need to be accessible.<br>UFAS: Five percent of residential units in jails, prisons, reformatories, and other detention or correctional facilities must be accessible (§4.1.4(9)(c)).
