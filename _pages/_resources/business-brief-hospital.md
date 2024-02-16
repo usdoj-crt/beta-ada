@@ -25,17 +25,20 @@ Written forms or information sheets may provide effective communication in situa
 
 For more complicated and interactive communications, such as a patient’s discussion of symptoms with medical personnel, a physician’s presentation of diagnosis and treatment options to patients or family members, or a group therapy session, it may be necessary to provide a qualified sign language interpreter or other interpreter.
 
-Sign language interpreters
+**Sign language interpreters**
 Sign language is used by many people who are deaf or hard of hearing. It is a visually interactive language that uses a combination of hand motions, body gestures, and facial expressions. There are several different types of sign language, including American Sign Language (ASL) and Signed English.
 
-Oral interpreters
+**Oral interpreters**
+
 Not all people who are deaf or hard of hearing are trained in sign language. Some individuals with hearing disabilities are trained in speech reading (lip reading) and can understand spoken words fairly well with assistance from an oral interpreter. Oral interpreters are specially trained to
 articulate speech silently and clearly, sometimes rephrasing words or phrases to give higher visibility on the lips. Natural body language and gestures are also used.
 
-Cued speech interpreters
+**Cued speech interpreters**
+
 A cued speech interpreter functions in the same manner as an oral interpreter except that he or she also uses a hand code, or cue, to represent each speech sound.
 
-Computer Assisted Real-time Transcription (CART)
+**Computer Assisted Real-time Transcription (CART)**
+
 Many people who are deaf or hard of hearing are not trained in either sign language or speech reading. CART is a service in which an operator types what is said into a computer that displays the typed words on a screen.
 
 Situations where an interpreter may be required for effective communication:
@@ -57,21 +60,59 @@ Individuals with hearing disabilities have different communication skills and th
 
 Sign language or other interpreters must be qualified. An interpreter is qualified if he or she can interpret competently, accurately, and impartially. In the hospital setting, the interpreter must be familiar with any specialized vocabulary used and must be able to interpret medical terms and concepts. Hospital personnel who have a limited familiarity with sign language should interpret only in emergency situations for a brief time until a qualified interpreter can be present.
 
+{% figure Illustration 1 %}
+<img src="{{ '/assets/images/project-images/signerdoc.gif' | relative_url }}" alt="doctor and sign language interpreter with patient in ER exam area" />
+{% figcaption %}
+A doctor uses a sign language interpreter to communicate with a patient who is deaf.
+{% endfigcaption %}
+{% endfigure %}
+
 It is inappropriate to ask family members or other companions to interpret for a person who is deaf or hard of hearing. Family members may be unable to interpret accurately in the emotional situation that often exists in a medical emergency.
 
-{% figure Illustration 1 %}
-<img src="{{ '/assets/images/project-images/ttyhosprm.gif' | relative_url }}" alt="man using portable TTY from his hospital bed" />
-{% figcaption %}
-A doctor uses a sign language interpreter to communicate with a patient who is deaf.
-{% endfigcaption %}
-{% endfigure %}
+Hospitals should have arrangements in place to ensure that qualified interpreters are readily available on a scheduled basis and on an unscheduled basis with minimal delay, including on-call arrangements for after-hours emergencies. Larger facilities may choose to have interpreters on staff.
 
+For training or other educational services offered to patients or members of the public, additional aids and services such as note takers, captioned videos, and assistive listening systems may be necessary for effective communication.
+
+Hospitals should develop protocols and provide training to ensure that staff know how to obtain interpreter services and other communication aids and services when needed by persons who are deaf or hard of hearing.
+
+It is helpful to have signs and other types of notices to advise persons with disabilities that services and assistance are available and what they need to do to obtain them. It is most useful to post signs at locations where patients or visitors typically seek information or assistance and to include information in general information packets.
+
+Hospitals cannot charge patients or other persons with hearing disabilities an extra fee for interpreter services or other communication aids and services.
+
+For telephone communications, many people who are deaf or hard of hearing use a teletypewriter (TTY, also known as a TDD) rather than a standard telephone. These devices have a keyboard and a visual display for exchanging written messages over the telephone.
 
 {% figure Illustration 2 %}
-<img src="{{ '/assets/images/project-images/erwaitty.gif' | relative_url }}" alt="ER waiting area with tty-equipped pay phone" />
+<img src="{{ '/assets/images/project-images/ttyhosprm.gif' | relative_url }}" alt="man using portable TTY from his hospital bed" />
 {% figcaption %}
-A doctor uses a sign language interpreter to communicate with a patient who is deaf.
+A hospital patient uses a TTY in his hospital room.
 {% endfigcaption %}
 {% endfigure %}
+
+The ADA established a free nationwide relay network to handle voice-to-TTY and TTY-to-voice calls. Individuals may use this network to call the hospital from a TTY. The relay consists of an operator with a TTY who receives the call from a TTY user and then places the call to the hospital. The caller types the message into the TTY and the operator relays the message by voice to the hospital staff person, listens to the staff person’s response, and types the response back to the caller. The hospital must be prepared to make and receive relay system calls, which may take a little longer than voice calls. For outgoing calls to a TTY user, simply dial 7-1-1 to reach a relay operator.
+
+If telephones and televisions are provided in patient rooms, the hospital must provide patients who are deaf or hard of hearing comparable accessible equipment upon request, including TTY’s, telephones that are hearing-aid compatible and have volume control, and televisions with closed captioning or decoders.
+
+Visual alarms are not required in patient rooms. However, hospital evacuation procedures should include specific measures to ensure the safety of patients and visitors who are deaf or hard of hearing.
+
+A hospital need not provide communication aids or services if doing so would fundamentally alter the nature of the goods or services offered or would result in an undue burden.
+
+Certain built-in communication features are required for hospitals built or altered after the effective date of the ADA:
+
+- Visual alarms must be provided in all public and common-use areas, including restrooms, where audible alarms are provided.
+- TTY’s must be provided at public pay phones serving emergency, recovery, or waiting rooms and at least one TTY must be provided at other locations where there are four or more pay phones.
+- A certain percentage of public phones must have other features, such as TTY plug-in capability, volume controls, and hearing-aid compatibility. Consult the [ADA Standards for Accessible Design]({{ '/law-and-regs/design-standards/2010-stds' | relative_url }}) for more specific information.
+
+{% figure Illustration 3 %}
+<img src="{{ '/assets/images/project-images/erwaittty.gif' | relative_url }}" alt="ER waiting area with tty-equipped pay phone" />
+{% figcaption %}
+A man uses a TTY that is connected to a pay telephone in a hospital emergency room waiting area.
+{% endfigcaption %}
+{% endfigure %}
+
+If you have specific questions concerning the ADA, call the Department of Justice's [ADA Information Line]({{ '/infoline' | relative_url }}).
+>800-514-0301 (voice)<br>
+833-610-1264 (TTY)
+
+
 
 
