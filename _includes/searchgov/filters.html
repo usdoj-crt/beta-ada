@@ -14,7 +14,7 @@
 </script>
 <form
   id="search_form"
-  class="usa-search usa-search--small grid-col-3"
+  class="usa-search usa-search--small"
   action="{{site.baseurl}}/search/"
   accept-charset="UTF-8"
   method="get"
@@ -28,7 +28,7 @@
  />
  <fieldset class="usa-fieldset margin-bottom-2 search-filters">
     <legend class="usa-legend">
-      <h3 class="noAnchor margin-y-0">Document type</h3><p class="margin-bottom-0">Filter the page content by document type</p>
+      <h2 class="noAnchor margin-y-0">Document type</h2><p class="margin-bottom-0">Filter the page content by document type</p>
     </legend>
     <div class="usa-checkbox">
       <input
@@ -47,7 +47,7 @@
         focusable="false"
         role="img">
       <title>Basic overview</title>
-      <use xlink:href="/assets/images/uswds/sprite.svg#info"></use>
+      <use xlink:href="{{ '/assets/images/uswds/sprite.svg' | relative_url }}#info"></use>
     </svg>
     </div>
     <div class="usa-checkbox">
@@ -60,14 +60,14 @@
         data-checked="false"
         type="submit"
       />
-      <label class="usa-checkbox__label" for="resources-checkbox">Resources</label>
+      <label class="usa-checkbox__label" for="resources-checkbox">Guidance & Resource Materials</label>
       <svg title="Detailed guidance"
         class="usa-icon share-icon usa-tooltip"
         data-position="bottom"
         focusable="false"
         role="img">
       <title>Detailed guidance</title>
-      <use xlink:href="/assets/images/uswds/sprite.svg#info"></use>
+      <use xlink:href="{{ '/assets/images/uswds/sprite.svg' | relative_url }}#info"></use>
   </svg>
     </div>
     <div class="usa-checkbox">
@@ -80,14 +80,14 @@
         data-checked="false"
         type="submit"
       />
-      <label class="usa-checkbox__label" for="law-and-regs-checkbox">Law and Regulations</label>
+      <label class="usa-checkbox__label" for="law-and-regs-checkbox">Law, Regulations & Standards</label>
       <svg title="Legal documents"
         class="usa-icon share-icon usa-tooltip"
         data-position="bottom"
         focusable="false"
         role="img">
       <title>Legal documents</title>
-      <use xlink:href="/assets/images/uswds/sprite.svg#info"></use>
+      <use xlink:href="{{ '/assets/images/uswds/sprite.svg' | relative_url }}#info"></use>
   </svg>
     </div>
   </fieldset>
