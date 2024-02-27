@@ -35,12 +35,12 @@ Guides and primers curate information for people with disabilities, state and lo
 
 ## Proposed Changes to Our Regulations
 
-In the [Spring 2023 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain), DOJ announced that it plans to issue new ADA regulations on the following topics:
+In the [Fall 2023 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain), DOJ announced that it plans to issue new ADA regulations on the following topics:
 
-- [Medical Diagnostic Equipment](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202304&RIN=1190-AA78)
-- [Title II Web Accessibility](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202304&RIN=1190-AA79)
-- [The Public Right of Way](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202304&RIN=1190-AA77)
-- [Equipment and Furniture](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202304&RIN=1190-AA76)
+- [Medical Diagnostic Equipment](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202310&RIN=1190-AA78)
+- [Title II Web Accessibility](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202310&RIN=1190-AA79)
+- [The Public Right of Way](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202310&RIN=1190-AA77)
+- [Equipment and Furniture](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202310&RIN=1190-AA76)
 
 {% details What is the Unified Agenda? %}
 The [Unified Agenda](https://www.reginfo.gov/public/jsp/eAgenda/UA_About.myjsp) provides information about federal agencies’ regulatory priorities and the specific regulations that they plan to issue in the short and long term.
