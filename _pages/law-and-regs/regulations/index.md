@@ -12,8 +12,6 @@ tags:
     - title iii
 related-content: true
 ---
-
-<br />
 {% details What are <em>regulations</em>? %}
 A regulation (also called a “rule”) is a set of requirements issued by a federal agency to implement laws passed by Congress. When Congress passes laws, many details are often left to federal agencies to flesh out in regulations. For example, when Congress passed the ADA, it gave DOJ the authority to issue regulations that explain the rights and obligations under Titles II and III of the ADA.
 {% enddetails %}
