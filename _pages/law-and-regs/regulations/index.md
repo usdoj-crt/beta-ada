@@ -12,8 +12,6 @@ tags:
     - title iii
 related-content: true
 ---
-
-<br />
 {% details What are <em>regulations</em>? %}
 A regulation (also called a “rule”) is a set of requirements issued by a federal agency to implement laws passed by Congress. When Congress passes laws, many details are often left to federal agencies to flesh out in regulations. For example, when Congress passed the ADA, it gave DOJ the authority to issue regulations that explain the rights and obligations under Titles II and III of the ADA.
 {% enddetails %}
@@ -47,3 +45,16 @@ The Title III Regulations explains the rights of people with disabilities and th
 {% include download.html text="Title III Regulations" filename="title-iii-2010-regulations.pdf" size="4.2MB, 279 Pages" %}
 </div>
 </div>
+
+## Proposed Changes to Our Regulations
+
+In the [Fall 2023 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain), DOJ announced that it plans to issue new ADA regulations on the following topics:
+
+- [Medical Diagnostic Equipment](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202310&RIN=1190-AA78)
+- [Title II Web Accessibility](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202310&RIN=1190-AA79)
+- [The Public Right of Way](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202310&RIN=1190-AA77)
+- [Equipment and Furniture](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202310&RIN=1190-AA76)
+
+{% details What is the Unified Agenda? %}
+The [Unified Agenda](https://www.reginfo.gov/public/jsp/eAgenda/UA_About.myjsp) provides information about federal agencies’ regulatory priorities and the specific regulations that they plan to issue in the short and long term.
+{% enddetails %}
