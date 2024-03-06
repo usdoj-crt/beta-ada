@@ -9,8 +9,6 @@ layout: default
     <div id="crt-page--sidenav" class="desktop:grid-col-4">
       {% if page.title =='Guidance & Resource Materials' %}
         {% include ta-left-rail.html %}
-      {% elsif page.title =='Search' %}
-        {% include searchgov/filters.html searchgov=site.searchgov %}
       {% else %}
       <div class="usa-accordion margin-bottom-2">
         <h4 class="usa-accordion__heading desktop:display-none">
@@ -53,9 +51,13 @@ layout: default
         <h1 id="top">{{page.title}}</h1>
       </div>
     {% else %}
-      <h1 id="top">{{page.title}}</h1>
+      {% if page.title != 'Search' %}
+        <h1 id="top">{{page.title}}</h1>
+      {% endif %}
     {% endif %}
-      <div class="crt-landing--separator_small"></div>
+      {% if page.title != 'Search' %}
+        <div class="crt-landing--separator_small"></div>
+      {% endif %}
       {% if page.sidenav %}
       <div class="measure-6">
         {% else %}

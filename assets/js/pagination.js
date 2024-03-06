@@ -5,15 +5,16 @@ import totalResults from './templates/search/totalResultsTemplate';
 // Set up the search parameters:
 let urlParams = new URLSearchParams(window.location.search);
 let searchEndpoint = new URL(SEARCH_ENDPOINT);
+const audience = urlParams.get('audience');
 let searchParams = {
   affiliate: AFFILIATE,
   access_key: ACCESS_KEY,
   query: urlParams.get('query'),
   offset: urlParams.get('offset') || 0,
   limit: NUMBER_OF_RESULTS,
+  audience: audience ?? '',
 };
 // Add our total number of results DOM node:
-const audience = urlParams.get('audience');
 const target = document.getElementById('totalResultsTarget');
 const hiddenQueryInput = document.getElementById('hiddenQuery');
 hiddenQueryInput.value = urlParams.get('query');
@@ -29,7 +30,7 @@ Object.keys(searchParams).forEach(function (key) {
 function reqLoaded() {
   if (this.status === 200) {
     let resJSON = JSON.parse(this.responseText);
-    renderSearchPage(resJSON, urlParams, NUMBER_OF_RESULTS, audience);
+    renderSearchPage(resJSON, urlParams, NUMBER_OF_RESULTS);
   } else {
     target.innerHTML = totalResults(-1, 'result');
   }

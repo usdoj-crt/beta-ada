@@ -14,7 +14,7 @@
 </script>
 <form
   id="search_form"
-  class="usa-search usa-search--small"
+  class="usa-search filters"
   action="{{site.baseurl}}/search/"
   accept-charset="UTF-8"
   method="get"
@@ -28,7 +28,7 @@
  />
  <fieldset class="usa-fieldset margin-bottom-2 search-filters">
     <legend class="usa-legend">
-      <h2 class="noAnchor margin-y-0">Document type</h2><p class="margin-bottom-0">Filter the page content by document type</p>
+      <h2 class="noAnchor margin-y-0 lp-tile-heading">Document type</h2><p class="margin-bottom-0">Filter the page content by document type</p>
     </legend>
     <div class="usa-checkbox">
       <input
@@ -90,6 +90,7 @@
       <use xlink:href="{{ '/assets/images/uswds/sprite.svg' | relative_url }}#info"></use>
   </svg>
     </div>
+    <button name="audience" value="" type="submit">Clear filters</button>
   </fieldset>
 </form>
 {% endif %}
