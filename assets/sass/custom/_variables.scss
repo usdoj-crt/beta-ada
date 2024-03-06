@@ -110,6 +110,14 @@ $theme-body-copy-line-height: 1.625;
   }
 }
 
+.usa-checkbox__input[data-checked=true]+[class$=__label]::before {
+  background-color: #162e51;
+  background-image: url("../images/uswds/correct8.svg"),linear-gradient(transparent, transparent);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: .75rem auto;
+}
+
 @mixin external-link(
   $external-link: 'usa-icons/launch',
   $external-link-hover: 'usa-icons/launch',
