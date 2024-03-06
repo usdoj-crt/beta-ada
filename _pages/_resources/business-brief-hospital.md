@@ -26,6 +26,7 @@ Written forms or information sheets may provide effective communication in situa
 For more complicated and interactive communications, such as a patient’s discussion of symptoms with medical personnel, a physician’s presentation of diagnosis and treatment options to patients or family members, or a group therapy session, it may be necessary to provide a qualified sign language interpreter or other interpreter.
 
 **Sign language interpreters**
+
 Sign language is used by many people who are deaf or hard of hearing. It is a visually interactive language that uses a combination of hand motions, body gestures, and facial expressions. There are several different types of sign language, including American Sign Language (ASL) and Signed English.
 
 **Oral interpreters**
