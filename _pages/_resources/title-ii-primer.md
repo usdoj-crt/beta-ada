@@ -321,7 +321,7 @@ An accessible parking space must have an access aisle, which allows a person usi
 
 One small step at an entrance can make it impossible for individuals using wheelchairs, walkers, canes, or other mobility devices to enter a public facility. Removing this barrier may be accomplished in a number of ways, such as installing a ramp or a lift or regrading the walkway to provide an accessible route. If the main entrance cannot be made accessible, an alternate accessible entrance can be used.
 
-<img src="{{ '/assets/images/project-images/sign-to-entrance.jpg' | relative_url }}" alt="sign identifies the location of the nearest accessible entrance." height="150" width="225" />
+<img src="{{ '/assets/images/project-images/sign-to-entrance.jpg' | relative_url }}" alt="a sign identifies the location of the nearest accessible entrance." height="150" width="225" />
 
 If there are several entrances and only one is accessible, a sign should be posted at the inaccessible entrances directing individuals to the accessible entrance. This entrance must be open whenever other public entrances are open.
 
@@ -347,9 +347,9 @@ For more information, see [ADA Best Practices Tool Kit for State and Local Gover
 
 ### Staff Training
 
-A critical, but often overlooked, component of ensuring success is comprehensive and ongoing staff training. staff training session for front line staff and volunteersPublic entities may have good policies, but if front line staff or volunteers are not aware of them or do not know how to implement them, problems can arise.
+A critical, but often overlooked, component of ensuring success is comprehensive and ongoing staff training.  Public entities may have good policies, but if front line staff or volunteers are not aware of them or do not know how to implement them, problems can arise.
 
-<img src="{{ '/assets/images/project-images/staff-training.jpg' | relative_url }}" alt="staff training session for front line staff and volunteers" height="300" width="225" />
+<img src="{{ '/assets/images/project-images/staff-training.jpg' | relative_url }}" alt="an illustration of a staff training session for front line staff and volunteers" height="300" width="225" />
 
 It is important that staff -- especially front line staff who routinely interact with the public -- understand the requirements on modifying policies and practices, communicating with and assisting customers, accepting calls placed through the relay system, and identifying alternate ways to provide access to programs and services when necessary to accommodate individuals with a mobility disability. Many local disability organizations, including Centers for Independent Living, conduct ADA trainings in their communities. The Department of Justice or the National Network of ADA Centers can provide local contact information for these organizations.
 
