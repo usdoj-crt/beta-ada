@@ -454,7 +454,7 @@ coordinate its efforts to comply with and carry out its responsibilities under t
 
 (b) _Complaint procedure._ A public entity that employs 50 or more persons shall adopt and publish grievance procedures providing for prompt and equitable resolution of complaints alleging any action that would be prohibited by this part.
 
-**§ 35.108 Definition of disability**
+### &sect; 35.108 Definition of disability
 
 **(a)**
 
@@ -599,7 +599,7 @@ coordinate its efforts to comply with and carry out its responsibilities under t
 
 **(3) Psychoactive substance use disorders resulting from current illegal use of drugs.**
 
-### &sect;&sect; 35.109&#8212;35.129 \[Reserved\]
+### &sect;&sect; 35.109 - 35.129 \[Reserved\]
 
 ## Subpart B&#8212;General Requirements
 
