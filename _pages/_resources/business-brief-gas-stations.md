@@ -1,7 +1,7 @@
 ---
 title: "ADA Business Brief: Assistance at Gas Stations"
 description: A publication within the Business Brief series explaining methods and requirements of providing effective communication at a gas stations.
-lead: People with disabilities may find it difficult or impossible to obtain gas for their vehicle because they are unable to use the controls, hose, or nozzle of a self serve gas pump. At stations that offer only self service, they may be unable to purchase gas. At stations that offer both self service and full service, people with disabilities may have no choice but to purchase the more expensive fuel from a full-service pump.
+lead: People with disabilities may find it difficult or impossible to obtain gas for their vehicle because they are unable to use the controls, hose, or nozzle of a self serve gas pump. At stations that offer only self-service, they may be unable to purchase gas. At stations that offer both self-service and full-service, people with disabilities may have no choice but to purchase the more expensive fuel from a full-service pump.
 permalink: /resources/business-brief-gas-stations/
 redirect_from:
   - /gasbrief.htm
@@ -39,7 +39,7 @@ A pump may have a button to notify the attendant that assistance is needed.
 {% figure Illustration 3 %}
 <img src="{{ '/assets/images/project-images/assistgas.jpg' | relative_url }}" alt="hoto - close up of button on gas pump with access symbol" />
 {% figcaption %}
-A pump may have a button to notify the attendant that assistance is needed.
+A sign located next to pumps tells customers to honk their horns for assistance.
 {% endfigcaption %}
 {% endfigure %}
 
