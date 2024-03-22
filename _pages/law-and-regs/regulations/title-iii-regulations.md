@@ -1,26 +1,28 @@
 ---
-title: Americans with Disabilities Act Title III Regulations
-description: Title III of the ADA - regulations for businesses, including nonprofits meant to ensure that people with disabilities can access places of business and public accommodation.
+back-to-top: true
 permalink: /law-and-regs/regulations/title-iii-regulations/
 publish-date: 2012-03-08 00:00:00
-print: true
-back-to-top: true
-subnavigation: true
 redirect_from:
-    - /regs2010/titleiii_2010/titleiii_2010_regulations.htm
-    - /regs2010/titleIII_2010/titleIII_2010_regulations.htm
-    - /regs2010/titleiii_2010/titleiii_2010_withbold.htm
-    - /regs2010/titleIII_2010/reg3_2010_appendix_b.htm
+  - /regs2010/titleiii_2010/titleiii_2010_regulations.htm
+  - /regs2010/titleIII_2010/titleIII_2010_regulations.htm
+  - /regs2010/titleiii_2010/titleiii_2010_withbold.htm
+  - /regs2010/titleIII_2010/reg3_2010_appendix_b.htm
+print: true
 sidenav-pdf:
   title: Americans with Disabilities Act Title III Regulations
   filename: title-iii-2010-regulations.pdf
   text: Download PDF
-expand-sidenav: true
+subnavigation: true
+title: Americans with Disabilities Act Title III Regulations
+lead: ""
 related-content: true
-interactive-headers: true
-lead: |-
 tags:
   - title iii
+expand-sidenav: true
+interactive-headers: true
+description: Title III of the ADA - regulations for businesses, including
+  nonprofits meant to ensure that people with disabilities can access places of
+  business and public accommodation.
 ---
 
 **Title III Regulations Supplementary Information**
@@ -344,7 +346,7 @@ Administrative practice and procedure, Buildings and facilities, Business and in
 
 **Title III Regulations - Revised Final Title III Regulation with Integrated Text**
 
-NOTE: These provisions update the relevant portions of the title III regulation to incorporate changes made to the regulatory text through January 17, 2017. These modifications stem from the Pool Extension Final Rule (77 FR 30174, published May 21, 2012), the ADA Amendments Act Final Rule (81 FR 53202, published Aug. 11, 2016), and the Movie Captioning and Audio Description Final Rule (81 FR 87348, published Dec. 2, 2016). All section headings and changes are noted in bold.
+NOTE: These provisions update the relevant portions of the title III regulation to incorporate changes made to the regulatory text through January 17, 2017. These modifications stem from the Pool Extension Final Rule (77 FR 30174, published May 21, 2012), the ADA Amendments Act Final Rule (81 FR 53204, published Aug. 11, 2016), and the Movie Captioning and Audio Description Final Rule (81 FR 87348, published Dec. 2, 2016). All section headings and changes are noted in bold.
 
 ## Part 36 Nondiscrimination on the Basis of Disability in Public Accommodations and Commercial Facilities (*as amended by the final rules published on August 11, 2016, and December 2, 2016*)
 
