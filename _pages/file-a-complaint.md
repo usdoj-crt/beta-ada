@@ -1,12 +1,5 @@
 ---
-title: File a Complaint
-description: "The ADA provides an important tool to fight discrimination: filing a complaint with an appropriate federal agency. This page outlines the steps to do so."
 permalink: /file-a-complaint/
-lead: |-
-  The Americans with Disabilities Act provides an important tool to fight discrimination: filing a complaint with an appropriate federal agency.  This page outlines the steps to get you started.
-lang: "en"
-ref: complaint
-print: true
 redirect_from:
   - /filing_complaint.htm
   - /fact_on_complaint.htm
@@ -16,6 +9,16 @@ redirect_from:
   - /criminaljustice/cj_complaint.html
   - /olmstead/olmstead_complaints.htm
   - /hiv/ada_hiv_complaints.htm
+print: true
+title: File a Complaint
+description: "The ADA provides an important tool to fight discrimination: filing
+  a complaint with an appropriate federal agency. This page outlines the steps
+  to do so."
+lead: "The Americans with Disabilities Act provides an important tool to fight
+  discrimination: filing a complaint with an appropriate federal agency.  This
+  page outlines the steps to get you started."
+lang: en
+ref: complaint
 ---
 
 ## Who You Can File a Complaint Against
@@ -45,7 +48,7 @@ The nature of your complaint determines where you should file it. The table belo
 | Complaints involving anything else                                                          | Department of Justice, Civil Rights Division                                                           | [See below](#filing-a-complaint-with-the-department-of-justice-civil-rights-division){: .pa11y-skip .file-a-complaint}{: data-ga-event-name="See below DOJ CRT file a complaint link"}
 
 ## Filing an ADA Complaint with the Department of Justice, Civil Rights Division
-There are three options for filing an ADA complaint:
+There are two options for filing an ADA complaint:
 <div class="filing-options">
 <ol>
 <li>
