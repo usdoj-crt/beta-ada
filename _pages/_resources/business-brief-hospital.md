@@ -1,7 +1,7 @@
 ---
 title: "ADA Business Brief:  Communicating with People Who Are Deaf or Hard of Hearing in Hospital Settings"
 description: A publication within the Business Brief series explaining methods and requirements of providing effective communication in a hospital setting.
-lead: People who are deaf or hard of hearing use a variety of ways to communicate. Some rely on sign language interpreters or assistive listening devices; some rely primarily on written messages. Many can speak even though they cannot hear. The method of communication and the services or aids the hospital must provide will vary depending upon the abilities of the person who is deaf or hard of hearing and on the complexity and nature of the communications that are required. Effective communication is particularly critical in health care settings where miscommunication may lead to misdiagnosis and improper or delayed medical treatment.
+lead: People who are deaf or hard of hearing use a variety of ways to communicate. Some rely on sign language interpreters or assistive listening devices; some rely primarily on written messages. Many can speak even though they cannot hear. The method of communication and the services or aids the hospital must provide will vary depending upon the abilities of the person who is deaf or hard of hearing and on the complexity and nature of the communications that are required. **Effective communication is particularly critical in health care settings where miscommunication may lead to misdiagnosis and improper or delayed medical treatment.**
 permalink: /resources/business-brief-hospital/
 redirect_from:
   - /hospcombr.htm
@@ -48,7 +48,8 @@ Situations where an interpreter may be required for effective communication:
 - explaining and describing medical conditions, tests, treatment options, medications, surgery and other procedures
 - providing a diagnosis, prognosis, and recommendation for treatment
 - obtaining informed consent for treatment
-- communicating with a patient during treatment, testing procedures, and during physician’s rounds• providing instructions for medications, post-treatment activities, and follow-up treatments
+- communicating with a patient during treatment, testing procedures, and during physician’s rounds
+- providing instructions for medications, post-treatment activities, and follow-up treatments
 - providing mental health services, including group or individual therapy, or counseling for patients and family members
 - providing information about blood or organ donations
 - explaining living wills and powers of attorney
@@ -113,7 +114,3 @@ A man uses a TTY that is connected to a pay telephone in a hospital emergency ro
 If you have specific questions concerning the ADA, call the Department of Justice's [ADA Information Line]({{ '/infoline' | relative_url }}).
 >800-514-0301 (voice)<br>
 833-610-1264 (TTY)
-
-
-
-

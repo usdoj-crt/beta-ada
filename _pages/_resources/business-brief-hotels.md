@@ -52,8 +52,6 @@ These communication features are required in hotel facilities built or altered a
 
 Portable communication kits that include text telephones, visual alarms and visual notification devices are available on the market at relatively modest cost.
 
-You may view or download ADA information on the ADA website. This website provides access to the ADA Business Connection, ADA design standards, regulations, policy letters, technical assistance materials, and general ADA information. It also provides links to other Federal agencies and news about new ADA requirements and enforcement efforts.
-
 If you have specific questions concerning the ADA, call the Department of Justice's [ADA Information Line]({{ '/infoline' | relative_url }}).
 >800-514-0301 (voice)<br>
 833-610-1264 (TTY)
@@ -62,6 +60,3 @@ If you have specific questions concerning the ADA, call the Department of Justic
 The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.
 
 This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
-
-
-
