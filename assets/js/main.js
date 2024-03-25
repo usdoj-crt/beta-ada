@@ -10,7 +10,7 @@ import search from './search';
 import sidenav from './expand-sidenav';
 import mobileCarousel from './carousel';
 import setCookies from './feature-flag';
-import {tryToSetPageAnswer, submitFormOnAnswer} from './touchpoints-page-helpful';
+import { tryToSetPageAnswer, submitFormOnAnswer } from './touchpoints-page-helpful';
 
 modal();
 redirectModal();
