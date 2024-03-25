@@ -1,20 +1,29 @@
-export default function tryToSetPageAnswer() {
-  if (!document.querySelector('#touchpoints-yes-no-form')) return;
+export function tryToSetPageAnswer(formSelector, answerSelector) {
+  if (!document.querySelector(formSelector)) return;
 
-  const pageAnswer = document.querySelector('#touchpoints-yes-no-form #answer_02');
+  const pageAnswer = document.querySelector(`${formSelector} ${answerSelector}`);
   if (!pageAnswer) {
-    setTimeout(tryToSetPageAnswer, 500);
+    setTimeout(() => tryToSetPageAnswer(formSelector, answerSelector), 500);
     return;
   }
 
-  const yesNoButtons = document.querySelector('#touchpoints-yes-no-form #answer_01');
-  const submitButton = document.querySelector('#touchpoints-yes-no-form .submit_form_button');
+  pageAnswer.value = window.location.href;
+}
 
-  Array.from(yesNoButtons.getElementsByTagName('input')).forEach((input) => {
+export function submitFormOnAnswer(formSelector) {
+  if (!document.querySelector(formSelector)) return;
+
+  const yesNoButtons = document.querySelector(`${formSelector} .radios`);
+  if (!yesNoButtons) {
+    setTimeout(() => submitFormOnAnswer(formSelector), 500);
+    return;
+  }
+
+  const submitButton = document.querySelector(`${formSelector} .submit_form_button`);
+
+  Array.from(document.querySelector(`${formSelector} .radios input`)).forEach((input) => {
     input.addEventListener('change', () => {
       submitButton.click();
     });
   });
-
-  pageAnswer.value = window.location.href;
 }
