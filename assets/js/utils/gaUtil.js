@@ -38,6 +38,7 @@ const ANALYTICS_CONFIG = [
   ['.view-link', 'click', sendGAClickEvent],
   ['.law-reg-tile-link', 'click', sendGAClickEvent],
   ['.law-reg-resource-link', 'click', sendGAClickEvent],
+  ['#crt-back-to-top-button', 'click', sendGAClickEvent]
 ];
 
 export default function initGAEvents() {
