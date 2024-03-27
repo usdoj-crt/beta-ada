@@ -5,7 +5,7 @@
        "ignoreHTTPSErrors": true,
        "args": ["--disable-dev-shm-usage"]
      },
-    "hideElements": ["#fba-button", ".pa11y-skip", "#fba-modal-dialog"],
+    "hideElements": ["#feedback-button", ".pa11y-skip", "#fba-modal-dialog"],
     "standard": "WCAG2AA",
     "runners": ["axe"],
     "ignore": [
