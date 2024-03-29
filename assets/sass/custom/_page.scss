@@ -59,6 +59,12 @@
   .subpart {
     position: relative;
 
+    p {
+      a {
+        overflow-wrap: anywhere;
+      }
+    }
+
     .btn-group {
       display: flex;
       gap: 8px;
