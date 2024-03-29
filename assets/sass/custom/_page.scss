@@ -33,11 +33,35 @@
     }
   }
 
+  .search-box-wrapper {
+    .usa-input {
+      border: solid 1px;
+      float: none;
+      height: 2.45rem;
+    }
+  }
+
   .section {
     position: relative;
 
     &.highlight {
       background-color: #FDFD96;
+    }
+
+    &.searched {
+      border: solid 1px;
+      border-radius: 0.25rem;
+      padding: 1em;
+      margin: 2em 0;
+    }
+
+    &.hidden {
+      display: none;
+    }
+
+    .search-term {
+      background-color: #FDFD96;
+      font-weight: bold;
     }
 
     .btn-group {

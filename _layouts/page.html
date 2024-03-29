@@ -79,9 +79,10 @@ layout: default
         </div>
         {% endif %}
         {% unless page.hide_page_type_info %}
-        {% include page-type-info-box.html %}
+          {% include page-type-info-box.html %}
         {% endunless %}
         {% if page.interactive-headers %}
+        {% include search-box.html %}
         <div class="interactive-headers">
           {{ content }}
         </div>

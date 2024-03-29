@@ -56,6 +56,8 @@ export default function parseLawsAndRegs(mainContent) {
 
   parent.insertBefore(newMainContent, mainContent);
   mainContent.remove();
+  const searchBtn = document.querySelector('.searchbtn');
+  searchBtn.addEventListener('click', search);
 }
 
 function buildMainContent(subparts) {
@@ -90,13 +92,12 @@ function buildBtns(i, divType) {
   const btnTypes = ['Share', 'Copy', 'Print'];
   btnTypes.forEach((btnType) => {
     const btn = document.createElement('a');
-    btn.className = btnType + '-btn text-no-underline section-btn';
+    btn.className = btnType.toLowerCase() + '-btn text-no-underline section-btn';
     const gaEventName = 'data-ga-event-name="' + btnType + ' ' + divType + ' ' + i + '"';
     btn.setAttribute('aria-label', btnType);
-    btn.href = '#';
     if (btnType === 'Share') {
       btn.innerHTML = `
-                <span class="copied-link text-no-underline" style="display:none;">Copied link</span>
+                <p class="copied-link text-no-underline margin-0" style="display:none;">Copied link</p>
                 <svg title="Copy link"
                     ${gaEventName}
                     class="usa-icon share-icon usa-tooltip"
@@ -104,7 +105,7 @@ function buildBtns(i, divType) {
                     focusable="false"
                     role="img">
                     <title>Copy link</title>
-                    <use xlink:href="/assets/images/uswds/sprite.svg#link"></use>
+                    <use xlink:href="/assets/img/sprite.svg#link"></use>
                 </svg>
             `;
       btn.addEventListener('click', (e) => {
@@ -112,9 +113,9 @@ function buildBtns(i, divType) {
       });
     } else if (btnType === 'Copy') {
       btn.innerHTML = `
-                <span class="copied text-no-underline" style="display:none;">
-                    Copied text
-                </span>
+                      <p class="copied text-no-underline margin-0" style="display:none;">
+                          Copied text
+                </p>
                 <svg
                     title="Copy text"
                     ${gaEventName}
@@ -127,15 +128,7 @@ function buildBtns(i, divType) {
                     </use>
                 </svg>
             `;
-      btn.addEventListener('click', (e) => {
-        copyText(e, divType);
-      });
-      btn.addEventListener('mouseover', (e) => {
-        highlightText(e, divType);
-      });
-      btn.addEventListener('mouseleave', (e) => {
-        unHighlightText(e, divType);
-      });
+      addCopyEventListeners(btn, divType);
     } else if (btnType === 'Print') {
       btn.innerHTML = `
                 <svg
@@ -149,15 +142,7 @@ function buildBtns(i, divType) {
                     </use>
                 </svg>
             `;
-      btn.addEventListener('click', (e) => {
-        printText(e, divType);
-      });
-      btn.addEventListener('mouseover', (e) => {
-        highlightText(e, divType);
-      });
-      btn.addEventListener('mouseleave', (e) => {
-        unHighlightText(e, divType);
-      });
+      addPrintEventListeners(btn, divType);
     }
     btnDiv.appendChild(btn);
   });
@@ -241,4 +226,80 @@ function shareLink(e, divType) {
     copyLinkText.style.display = 'none';
     shareIcon.style.display = 'block';
   }, 2000);
+}
+
+function addCopyEventListeners(btn, divType) {
+  btn.addEventListener('click', (e) => {
+    copyText(e, divType);
+  });
+  btn.addEventListener('mouseover', (e) => {
+    highlightText(e, divType);
+  });
+  btn.addEventListener('mouseleave', (e) => {
+    unHighlightText(e, divType);
+  });
+}
+
+function addPrintEventListeners(btn, divType) {
+  btn.addEventListener('click', (e) => {
+    printText(e, divType);
+  });
+  btn.addEventListener('mouseover', (e) => {
+    highlightText(e, divType);
+  });
+  btn.addEventListener('mouseleave', (e) => {
+    unHighlightText(e, divType);
+  });
+}
+
+function search() {
+  const searchBox = document.querySelector('.searchbox');
+  const searchQuery = searchBox.value.toLowerCase();
+  if (!searchQuery.length) {
+    clearSearch();
+    return;
+  }
+  const sections = document.querySelectorAll('.section');
+  sections.forEach((section) => {
+    removeHighlights(section);
+    if (section.innerText.toLowerCase().includes(searchQuery)) {
+      section.classList.remove('hidden');
+      section.classList.add('searched');
+      highlightTerm(searchQuery, section);
+    } else {
+      section.classList.add('hidden');
+      section.classList.remove('searched');
+    }
+  });
+}
+
+function highlightTerm(text, section) {
+  const innerHTML = section.innerHTML.replaceAll(
+    new RegExp('(' + text + ')', 'ig'),
+    `<span class='search-term'>$1</span>`
+  );
+  section.innerHTML = innerHTML;
+  const shareBtn = section.querySelector('.share-btn');
+  shareBtn.addEventListener('click', (e) => {
+    shareLink(e, '.section');
+  });
+  const copyBtn = section.querySelector('.copy-btn');
+  addCopyEventListeners(copyBtn, '.section');
+  const printBtn = section.querySelector('.print-btn');
+  addPrintEventListeners(printBtn, '.section');
+}
+
+function removeHighlights(section) {
+  const innerHTML = section.innerHTML
+    .replaceAll('<span class="search-term">', '')
+    .replaceAll('</span>', '');
+  section.innerHTML = innerHTML;
+}
+
+function clearSearch() {
+  const sections = document.querySelectorAll('.section');
+  sections.forEach((section) => {
+    removeHighlights(section);
+    section.classList.remove('searched', 'hidden');
+  });
 }
