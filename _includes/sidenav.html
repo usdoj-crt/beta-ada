@@ -6,11 +6,8 @@
   aria-label="{{site.data[lang]['i18n'].aria.side_nav}}"
 >
 <ul class="usa-sidenav">
-    {% if page.print %}
-      {% include print-button.html %}
-    {% endif %}
-    {% if page.sidenav-pdf.title and page.sidenav-pdf.filename %}
-      {% include download-pdf.html text=page.sidenav-pdf.text filename=page.sidenav-pdf.filename %}
+    {% if page.interactive-headers %}
+      {% include search-box.html %}
     {% endif %}
     {% if page.expand-sidenav %}
       {% include expand-button.html %}
