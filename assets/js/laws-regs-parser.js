@@ -332,8 +332,12 @@ function search() {
     const nextButton = searchNav.querySelector('.next-result');
     const prevButton = searchNav.querySelector('.prev-result');
     const clearButton = searchNav.querySelector('.clear');
-    prevButton.addEventListener('click', () => navResults('prev', prevButton, nextButton, currentCount, results.length))
-    nextButton.addEventListener('click', () => navResults('next', prevButton, nextButton, currentCount, results.length))
+    prevButton.addEventListener('click', () =>
+      navResults('prev', prevButton, nextButton, currentCount, results.length)
+    );
+    nextButton.addEventListener('click', () =>
+      navResults('next', prevButton, nextButton, currentCount, results.length)
+    );
     clearButton.addEventListener('click', () => clearSearch(searchGo, searchNav, searchBox));
     totalCount.innerText = '/' + results.length;
     currentCount.innerText = '0';
