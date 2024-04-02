@@ -1,6 +1,8 @@
 ---
 permalink: /law-and-regs/
 title: Law, Regulations & Standards
+lead: |-
+  **The text on this page does not include a final rule that the Attorney General signed on [INSERT DATE]. We will update this page by the time the new rule is effective.  Learn more about the new requirements <a href="../notices/2024/03/08/web-rule/">here</a>.**
 description: Regulations developed by the Department of Justice that explain the rights of people with disabilities and the obligations of those covered by the law.
 subpagenav: true
 sidenav: false
