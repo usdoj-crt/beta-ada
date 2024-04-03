@@ -10,7 +10,7 @@ import search from './search';
 import sidenav from './expand-sidenav';
 import mobileCarousel from './carousel';
 import setCookies from './feature-flag';
-import tryToSetPageAnswer from './touchpoints-page-helpful';
+import { tryToSetPageAnswer, submitFormOnAnswer } from './touchpoints-page-helpful';
 
 modal();
 redirectModal();
@@ -20,7 +20,9 @@ search();
 sidenav();
 mobileCarousel();
 setCookies();
-tryToSetPageAnswer();
+tryToSetPageAnswer('#touchpoints-yes-no-form', '[name="answer_02"]');
+tryToSetPageAnswer('#touchpoints-give-us-feedback-924', '[name="answer_05"]');
+submitFormOnAnswer('#touchpoints-yes-no-form');
 
 const mainEl = document.querySelector('.interactive-headers');
 parseLawsAndRegs(mainEl);

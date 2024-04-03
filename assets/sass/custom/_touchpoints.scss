@@ -1,11 +1,12 @@
 @use 'uswds-core' as *;
 @use 'variables' as *;
 
-#fba-button {
+#feedback-button {
   background: color($theme-color-warning);
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
   color: color($theme-color-primary-darker) !important;
+  padding: 1rem 2rem;
 
   &:hover {
     background: color($theme-color-warning-dark);
