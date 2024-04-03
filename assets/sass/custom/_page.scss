@@ -50,7 +50,7 @@
       height: 24px;
     }
 
-    .next-result, .prev-result, a.searchbtn, .clear {
+    a#next-result, a#prev-result, a.searchbtn, a.clear {
       padding: 0;
       display: flex;
       cursor: pointer;
@@ -66,7 +66,7 @@
       }
     }
 
-    .next-result, a.searchbtn, .clear, .result-number {
+    a#next-result, a.searchbtn, a.clear, .result-number {
       margin-right: 8px;
     }
 

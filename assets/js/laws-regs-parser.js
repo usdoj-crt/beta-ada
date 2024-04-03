@@ -260,7 +260,8 @@ function addPrintEventListeners(btn, divType) {
   });
 }
 
-function navResults(dir, prevBtn, nextBtn, currentCount, totalCount) {
+function navResults(e, dir, prevBtn, nextBtn, currentCount, totalCount) {
+  e.preventDefault();
   const count = parseInt(currentCount.innerText);
   if (dir == 'next') {
     if (count >= totalCount) {
@@ -298,6 +299,7 @@ function navResults(dir, prevBtn, nextBtn, currentCount, totalCount) {
 function search() {
   const searchBoxWrapper = document.querySelector('.search-box-wrapper');
   const searchBox = searchBoxWrapper.querySelector('.searchbox');
+  searchBox.focus();
   const searchNav = searchBoxWrapper.querySelector('.result-nav');
   const totalCount = searchNav.querySelector('.total');
   const currentCount = searchNav.querySelector('.current');
@@ -332,14 +334,14 @@ function search() {
     const nextButton = searchNav.querySelector('.next-result');
     const prevButton = searchNav.querySelector('.prev-result');
     const clearButton = searchNav.querySelector('.clear');
-    prevButton.addEventListener('click', () =>
-      navResults('prev', prevButton, nextButton, currentCount, results.length)
+    prevButton.addEventListener('click', (e) =>
+      navResults(e, 'prev', prevButton, nextButton, currentCount, results.length)
     );
-    nextButton.addEventListener('click', () =>
-      navResults('next', prevButton, nextButton, currentCount, results.length)
+    nextButton.addEventListener('click', (e) =>
+      navResults(e, 'next', prevButton, nextButton, currentCount, results.length)
     );
-    clearButton.addEventListener('click', () => clearSearch(searchGo, searchNav, searchBox));
-    totalCount.innerText = '/' + results.length;
+    clearButton.addEventListener('click', (e) => clearSearch(searchGo, searchNav, searchBox, e));
+    totalCount.innerText = results.length;
     currentCount.innerText = '0';
   } else {
     searchNav.classList.add('display-none');
@@ -350,7 +352,7 @@ function search() {
 function highlightTerm(text, section) {
   const innerHTML = section.innerHTML.replaceAll(
     new RegExp('(' + text + ')', 'ig'),
-    `<span class='search-term'>$1</span>`
+    `<span class='search-term' tabindex='0'>$1</span>`
   );
   section.innerHTML = innerHTML;
   const shareBtn = section.querySelector('.share-btn');
@@ -369,12 +371,15 @@ function removeHighlights(section) {
     result.removeAttribute('id');
   });
   const innerHTML = section.innerHTML
-    .replaceAll('<span class="search-term">', '')
+    .replaceAll('<span class="search-term" tabindex="0">', '')
     .replaceAll('</span>', '');
   section.innerHTML = innerHTML;
 }
 
-function clearSearch(searchGo, searchNav, searchBox) {
+function clearSearch(searchGo, searchNav, searchBox, e=null) {
+  if (e){
+    e.preventDefault();
+  }
   const sections = document.querySelectorAll('.section');
   searchGo.classList.add('display-none');
   searchNav.classList.add('display-none');
