@@ -12,8 +12,10 @@ redirect_from:
   - /regs2010/titleII_2010regulations/
 print: true
 lang: en
-lead: Part 35 Nondiscrimination on the Basis of Disability in State and Local
-  Government Services.
+lead: |-
+  Part 35 Nondiscrimination on the Basis of Disability in State and Local Government Services.
+
+  **The text on this page does not include a final rule that the Attorney General signed on [INSERT DATE]. We will update this page by the time the new rule is effective.  <a href="../../../notices/2024/03/08/web-rule/">Learn more about the new requirements.</a>**
 sidenav-pdf:
   title: Americans with Disabilities Act Title II Regulations
   filename: title-ii-2010-regulations.pdf
@@ -29,7 +31,6 @@ description: Title II of the ADA - regulations for state and local governments
   meant to ensure that people with disabilities can participate in all aspects
   of civic life.
 ---
-
 ## Title II Regulations Supplementary Information
 
 **DEPARTMENT OF JUSTICE**<br/>
@@ -43,7 +44,6 @@ Department of Justice, Civil Rights Division.<br/>
 Final rule.<br/>
 
 ---
-
 **SUMMARY:**This final rule revises the regulation of the Department of Justice (Department) that implements title II of the Americans with Disabilities Act (ADA), relating to nondiscrimination on the basis of disability in State and local government services. The Department is issuing this final rule in order to adopt enforceable accessibility standards under the ADA that are consistent with the minimum guidelines and requirements issued by the Architectural and Transportation Barriers Compliance Board (Access Board), and to update or amend certain provisions of the title II regulation so that they comport with the Department's legal and practical experiences in enforcing the ADA since 1991. Concurrently with the publication of this final rule for title II, the Department is publishing a final rule amending its ADA title III regulation, which covers nondiscrimination on the basis of disability by public accommodations and in commercial facilities.
 
 **DATES:**
