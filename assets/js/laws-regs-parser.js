@@ -56,7 +56,15 @@ export default function parseLawsAndRegs(mainContent) {
 
   parent.insertBefore(newMainContent, mainContent);
   mainContent.remove();
+  const mobileSearchBtn = document.querySelector('#mobile-search-button');
   const searchInput = document.querySelector('.searchbox');
+  if (mobileSearchBtn) {
+    const searchBoxWrapper = document.querySelector('.mobile-search-box');
+    mobileSearchBtn.addEventListener('click', () => {
+      searchBoxWrapper.classList.add('mobile-overlay');
+      searchInput.focus();
+    })
+  }
   searchInput.addEventListener('input', initSearch);
 }
 

@@ -37,6 +37,10 @@
     position: relative;
     margin-bottom: 1em;
 
+    &.mobile-search-box {
+      display: none;
+    }
+
     .result-number {
       color: #71767A;
     }
@@ -83,6 +87,21 @@
       display: flex;
       max-height: 100%;
       top: 16px;
+    }
+  }
+
+  @media(max-width: 1023px) {
+    .search-box-wrapper {
+      display: none;
+
+      &.mobile-overlay {
+        display: block;
+        position: fixed;
+        top: 10px;
+        z-index: 999;
+        background-color: white;
+        padding: 1em;
+      }
     }
   }
 

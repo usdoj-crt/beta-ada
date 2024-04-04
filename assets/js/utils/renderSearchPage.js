@@ -14,6 +14,7 @@ import clickTracking from '../click-tracking';
 
 export default function renderSearchPage(searchResults, urlParams, numberOfResults) {
   const results = searchResults;
+  console.log(results)
   const graphicResults = results.graphic_best_bets;
   const textResults = results.text_best_bets;
   const webResults = results.web.results;

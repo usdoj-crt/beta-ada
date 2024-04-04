@@ -4,6 +4,9 @@ layout: default
 
 <div class="crt-page grid-container {% if page.compact %}compact{% endif %}">
   {% include breadcrumbs.html %}
+  {% if page.interactive-headers %}
+    {% include search-box.html mobile=true %}
+  {% endif %}
   <div class="grid-row grid-gap-xl">
     {% if page.sidenav or page.subpagenav %}
     <div id="crt-page--sidenav" class="desktop:grid-col-4">

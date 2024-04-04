@@ -11,7 +11,16 @@
   bottom: 0;
   position: fixed;
   margin-right: 0.5rem;
-  right: 12px;
+  right: 0;
+  width: auto;
+  z-index: 9999;
+}
+
+.fixed-search-button {
+  bottom: 0;
+  position: fixed;
+  margin-right: 0.5rem;
+  right: 33%;
   width: auto;
   z-index: 9999;
 }
