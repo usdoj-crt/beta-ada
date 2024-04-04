@@ -376,8 +376,8 @@ function removeHighlights(section) {
   section.innerHTML = innerHTML;
 }
 
-function clearSearch(searchGo, searchNav, searchBox, e=null) {
-  if (e){
+function clearSearch(searchGo, searchNav, searchBox, e = null) {
+  if (e) {
     e.preventDefault();
   }
   const sections = document.querySelectorAll('.section');
