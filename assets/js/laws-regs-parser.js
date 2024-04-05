@@ -389,7 +389,7 @@ function updateSection(section, searchQuery) {
 }
 
 function setUpButtons(searchGo, searchNav, searchBox, resultLength, currentCount) {
-  const nextButton = searchNav.querySelector('.next-result');
+  const nextButton  = searchNav.querySelector('. next-result');
   const prevButton = searchNav.querySelector('.prev-result');
   const clearButton = searchNav.querySelector('.clear');
   prevButton.addEventListener('click', (e) =>
@@ -402,7 +402,7 @@ function setUpButtons(searchGo, searchNav, searchBox, resultLength, currentCount
 }
 
 function clearSearch(searchGo, searchNav, searchBox, e = null) {
-  if (e) {
+  if (e)  {
     e.preventDefault();
     searchBox.focus();
   }
