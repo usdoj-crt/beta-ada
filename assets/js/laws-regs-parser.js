@@ -63,7 +63,14 @@ export default function parseLawsAndRegs(mainContent) {
     mobileSearchBtn.addEventListener('click', () => {
       searchBoxWrapper.classList.add('mobile-overlay');
       searchInput.focus();
-    })
+      const overlay = document.createElement('div');
+      overlay.classList.add('overlay');
+      document.body.appendChild(overlay);
+      overlay.addEventListener('click', () => {
+        closeSearch(overlay, searchBoxWrapper, searchInput);
+      });
+      mobileSearchBtn.classList.add('display-none');
+    });
   }
   searchInput.addEventListener('input', initSearch);
 }
@@ -74,6 +81,19 @@ function initSearch() {
   searchGo.classList.remove('display-none');
   searchNav.classList.add('display-none');
   searchGo.addEventListener('click', search);
+}
+
+function closeSearch(overlay, searchBoxWrapper, searchInput) {
+  const mobileSearchBtn = document.querySelector('#mobile-search-button');
+  overlay.classList.add('display-none');
+  searchBoxWrapper.classList.remove('mobile-overlay');
+  searchInput.value = '';
+  mobileSearchBtn.classList.remove('display-none');
+  const sections = document.querySelectorAll('.section');
+  sections.forEach((section) => {
+    removeHighlights(section);
+    section.classList.remove('searched');
+  });
 }
 
 function buildMainContent(subparts) {
@@ -308,6 +328,15 @@ function search() {
   const searchBoxWrapper = document.querySelector('.search-box-wrapper');
   const searchBox = searchBoxWrapper.querySelector('.searchbox');
   searchBox.focus();
+  const overlay = document.querySelector('.overlay');
+  if (overlay) {
+    overlay.classList.add('display-none');
+    searchBoxWrapper.classList.add('active');
+    const closeSearchBtn = searchBoxWrapper.querySelector('#closeSearch');
+    closeSearchBtn.addEventListener('click', () => {
+      closeSearch(overlay, searchBoxWrapper, searchBox);
+    });
+  }
   const searchNav = searchBoxWrapper.querySelector('.result-nav');
   const totalCount = searchNav.querySelector('.total');
   const currentCount = searchNav.querySelector('.current');
@@ -384,9 +413,10 @@ function removeHighlights(section) {
   section.innerHTML = innerHTML;
 }
 
-function clearSearch(searchGo, searchNav, searchBox, e=null) {
-  if (e){
+function clearSearch(searchGo, searchNav, searchBox, e = null) {
+  if (e) {
     e.preventDefault();
+    searchBox.focus();
   }
   const sections = document.querySelectorAll('.section');
   searchGo.classList.add('display-none');

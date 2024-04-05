@@ -14,15 +14,18 @@
   right: 0;
   width: auto;
   z-index: 9999;
+  font-size: 0.85em;
 }
 
 .fixed-search-button {
   bottom: 0;
   position: fixed;
   margin-right: 0.5rem;
-  right: 33%;
+  right: 50%;
+  transform: translateX(50%);
   width: auto;
   z-index: 9999;
+  font-size: 0.85em;
 }
 
 .grid-gap-xl {

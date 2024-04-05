@@ -1,12 +1,12 @@
 <div class="search-box-wrapper {% if include.mobile %} mobile-search-box {% endif %}">
     <div class="display-flex flex-row flex-align-center">
-        <svg class="usa-icon search" aria-hidden="true" focusable="false" role="img">
+        <svg class="usa-icon search mobile:display-none" aria-hidden="true" focusable="false" role="img">
             <use xlink:href="/assets/images/uswds/sprite.svg#search"></use>
         </svg>
         <input class="usa-input radius-lg searchbox" placeholder="Search this page" >
         <div class="icon-container">
         <div class="result-nav display-flex display-none flex-align-center">
-            <span class="result-number" tabindex="0" aria-label="number of in page search results"><span class="current" tabindex="0" aria-label="current result number"></span>/<span class="total" tabindex="0" aria-label="total results" aria-live="assertive"></span></span>
+            <span class="result-number mobile:display-none" tabindex="0" aria-label="number of in page search results"><span class="current" tabindex="0" aria-label="current result number"></span>/<span class="total" tabindex="0" aria-label="total results" aria-live="assertive"></span></span>
             <a href="#" class="prev-result display-flex flex-align-center flex-row flex-justify disabled" id="prev-result" tabindex="0" aria-label="go to previous result">
                 <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
                     <use xlink:href="/assets/images/uswds/sprite.svg#expand_less"></use>
@@ -18,16 +18,36 @@
                 </svg>
             </a>
             <a href="#" class="clear display-flex flex-align-center flex-row flex-justify" id="clear" tabindex="0" aria-label="clear search">
+                {% if include.mobile %}
+                CLEAR
+                {% else %}
                 <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
                     <use xlink:href="/assets/images/uswds/sprite.svg#close"></use>
                 </svg>
+                {% endif %}
             </a>
         </div>
-        <a href="#" class="display-flex display-none searchbtn flex-align-center flex-row flex-justify" id="submit-search" aria-label="search in page">
+        {% if include.mobile==false %}
+        <a href="#" class="mobile:display-none display-flex display-none searchbtn flex-align-center flex-row flex-justify" id="submit-search" aria-label="search in page">
             <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
                 <use xlink:href="/assets/images/uswds/sprite.svg#arrow_forward"></use>
             </svg>
         </a>
+        {% endif %}
     </div>
+    {% if include.mobile %}
+    <a href="#" class="desktop:display-none display-flex mobile-searchbar flex-align-center flex-row flex-justify-center" id="submit-search" tabindex="0" aria-label="search in page">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+            <use xlink:href="/assets/images/uswds/sprite.svg#search"></use>
+        </svg>
+    </a>
+    {% endif %}
 </div>
+{% if include.mobile %}
+    <a href="#" class="close-search display-flex flex-align-center flex-row flex-justify" id="closeSearch" tabindex="0" aria-label="close search">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+            <use xlink:href="/assets/images/uswds/sprite.svg#close"></use>
+        </svg>
+    </a>
+{% endif %}
 </div>
