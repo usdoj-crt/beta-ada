@@ -52,7 +52,7 @@ li {
 
 .word-break {
   @include at-media(mobile) {
-    word-break: break-all;
+    word-break: break-word;
   }
 }
 
