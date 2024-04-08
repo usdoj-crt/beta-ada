@@ -27,6 +27,16 @@
     display: flex;
   }
 
+  .usa-button.tool-button {
+    font-size: 0.8rem;
+    margin: 1em 0;
+    text-align: left;
+    &.disabled {
+      background-color: #C9C9C9;
+      cursor: unset;
+    }
+  }
+
   .usa-button.side-nav-button {
     background-color: #E1E7F1;
     color: #1A4480;

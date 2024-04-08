@@ -6,9 +6,6 @@
   aria-label="{{site.data[lang]['i18n'].aria.side_nav}}"
 >
 <ul class="usa-sidenav">
-    {% if page.interactive-headers %}
-      {% include search-box.html mobile=false %}
-    {% endif %}
     {% if page.expand-sidenav %}
       {% include expand-button.html %}
     {% endif %}
