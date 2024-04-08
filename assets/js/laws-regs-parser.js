@@ -72,47 +72,7 @@ export default function parseLawsAndRegs(mainContent) {
       closeSearch(toolWrapper, searchInput);
     });
   }
-  if (window.matchMedia('(max-width: 1023px)').matches) {
-    setUpMobileSearch();
-    return;
-  }
-  const searchBoxWrapper = document.querySelector('.desktop-search-box');
-  const searchInput = searchBoxWrapper.querySelector('.searchbox');
-  const searchGo = searchBoxWrapper.querySelector('.submit-search');
-  const searchNav = searchBoxWrapper.querySelector('.result-nav');
-  const searchBox = searchBoxWrapper.querySelector('.searchbox');
-  setUpButtons(searchGo, searchNav, searchBox);
-  searchInput.addEventListener('input', () =>
-    initSearch(searchInput, searchBoxWrapper, searchGo, searchNav)
-  );
-}
-
-function setUpMobileSearch() {
-  const searchBoxWrapper = document.querySelector('.mobile-search-box');
-  const searchInput = searchBoxWrapper.querySelector('.searchbox');
-  const searchGo = searchBoxWrapper.querySelector('.submit-search');
-  const searchNav = searchBoxWrapper.querySelector('.result-nav');
-  const searchBox = searchBoxWrapper.querySelector('.searchbox');
-  setUpButtons(searchGo, searchNav, searchBox);
-  searchInput.addEventListener('click', () => {
-    if (searchBoxWrapper.classList.contains('visible')) return;
-    searchBoxWrapper.classList.add('visible');
-    searchInput.focus();
-    let overlay = document.querySelector('.overlay');
-    if (overlay) {
-      overlay.classList.remove('display-none');
-      return;
-    }
-    overlay = document.createElement('div');
-    overlay.classList.add('overlay');
-    document.body.appendChild(overlay);
-    overlay.addEventListener('click', () => {
-      closeSearch(overlay, searchBoxWrapper, searchInput);
-    });
-  });
-  searchInput.addEventListener('input', () =>
-    initSearch(searchInput, searchBoxWrapper, searchGo, searchNav)
-  );
+  searchInput.addEventListener('input', initSearch);
 }
 
 function initSearch(searchInput, searchBoxWrapper, searchGo, searchNav) {
@@ -126,16 +86,15 @@ function initSearch(searchInput, searchBoxWrapper, searchGo, searchNav) {
   searchGo.addEventListener('click', () => search(searchBoxWrapper));
 }
 
-function closeSearch(overlay, searchBoxWrapper, searchInput) {
-  const searchGo = searchBoxWrapper.querySelector('.submit-search');
-  const searchNav = searchBoxWrapper.querySelector('.result-nav');
-  const searchBox = searchBoxWrapper.querySelector('.searchbox');
-  clearSearch(searchGo, searchNav, searchBox);
-  searchGo.classList.remove('display-none');
-  overlay.classList.add('display-none');
-  searchBoxWrapper.classList.remove('visible');
-  searchBoxWrapper.classList.remove('active');
+function closeSearch(toolWrapper, searchInput) {
+  const toolBtn = document.querySelector('#crt-page--toolbutton');
+  toolWrapper.classList.remove('active');
   searchInput.value = '';
+  const searchNav = toolWrapper.querySelector('.result-nav');
+  const searchGo = toolWrapper.querySelector('#submit-search');
+  searchGo.classList.add('display-none');
+  searchNav.classList.add('display-none');
+  toolBtn.classList.remove('disabled');
   const sections = document.querySelectorAll('.section');
   sections.forEach((section) => {
     let newSection = section.cloneNode(true);
