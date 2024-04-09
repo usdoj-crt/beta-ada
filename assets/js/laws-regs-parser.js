@@ -103,10 +103,11 @@ function buildBtns(i, divType) {
     btn.className = btnType.toLowerCase() + '-btn text-no-underline section-btn';
     const gaEventName = 'data-ga-event-name="' + btnType + ' ' + divType + ' ' + i + '"';
     btn.setAttribute('aria-label', btnType);
+    btn.setAttribute('role', 'button');
     btn.href = '#';
     if (btnType === 'Share') {
       btn.innerHTML = `
-                <span class="copied-link text-no-underline" style="display:none;">Copied link</span>
+                <p class="copied-link text-no-underline margin-0" style="display:none;">Copied link</p>
                 <svg title="Copy link"
                     ${gaEventName}
                     class="usa-icon share-icon usa-tooltip"
@@ -122,11 +123,8 @@ function buildBtns(i, divType) {
       });
     } else if (btnType === 'Copy') {
       btn.innerHTML = `
-                      <span class="copied text-no-underline" style="display:none;">
-                          Copied text
-                </span>
-                <svg
-                    title="Copy text"
+                <p class="copied text-no-underline margin-0" style="display:none;">Copied text</p>
+                <svg title="Copy text"
                     ${gaEventName}
                     class="usa-icon copy-icon usa-tooltip"
                     data-position="bottom"
@@ -140,8 +138,7 @@ function buildBtns(i, divType) {
       addCopyEventListeners(btn, divType);
     } else if (btnType === 'Print') {
       btn.innerHTML = `
-                <svg
-                    title="Print"
+                <svg title="Print"
                     ${gaEventName}
                     class="usa-icon usa-tooltip"
                     data-position="bottom"
@@ -266,7 +263,6 @@ function navResults(e, dir, prevBtn, nextBtn, currentCount, totalCount) {
   const count = parseInt(currentCount.innerText);
   const direction = dir === 'next' ? 1 : -1;
   const newCount = count + direction;
-  console.log(newCount);
   const canGoNext = newCount <= totalCount;
   const canGoPrev = newCount >= 0;
   nextBtn.classList.toggle('disabled', !canGoNext || newCount === totalCount);
@@ -315,8 +311,9 @@ function search() {
 }
 
 function highlightTerm(text, section) {
+  const newText = text.replaceAll('(', '(').replaceAll(')', ')');
   const innerHTML = section.innerHTML.replaceAll(
-    new RegExp('(' + text + ')', 'ig'),
+    new RegExp('(' + newText + ')', 'ig'),
     `<span class='search-term' tabindex='0'>$1</span>`
   );
   section.innerHTML = innerHTML;
