@@ -69,12 +69,17 @@ function setUpMobileSearch(mobileSearchBtn, searchInput) {
   mobileSearchBtn.addEventListener('click', () => {
     searchBoxWrapper.classList.add('visible');
     searchInput.focus();
-    const overlay = document.createElement('div');
-    overlay.classList.add('overlay');
-    document.body.appendChild(overlay);
-    overlay.addEventListener('click', () => {
-      closeSearch(overlay, searchBoxWrapper, searchInput);
-    });
+    const overlay = document.querySelector('.overlay');
+    if (overlay) {
+      overlay.classList.remove('display-none');
+    } else {
+      const overlay = document.createElement('div');
+      overlay.classList.add('overlay');
+      document.body.appendChild(overlay);
+      overlay.addEventListener('click', () => {
+        closeSearch(overlay, searchBoxWrapper, searchInput);
+      });
+    }
     mobileSearchBtn.classList.add('display-none');
   });
 }
@@ -88,9 +93,15 @@ function initSearch() {
 }
 
 function closeSearch(overlay, searchBoxWrapper, searchInput) {
+  const searchGo = searchBoxWrapper.querySelector('#submit-search');
+  const searchNav = searchBoxWrapper.querySelector('.result-nav');
+  const searchBox = searchBoxWrapper.querySelector('.searchbox');
+  clearSearch(searchGo, searchNav, searchBox);
+  searchGo.classList.remove('display-none');
   const mobileSearchBtn = document.querySelector('#mobile-search-button');
   overlay.classList.add('display-none');
   searchBoxWrapper.classList.remove('visible');
+  searchBoxWrapper.classList.remove('active');
   searchInput.value = '';
   mobileSearchBtn.classList.remove('display-none');
   const sections = document.querySelectorAll('.section');
