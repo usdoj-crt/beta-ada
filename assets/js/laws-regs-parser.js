@@ -103,9 +103,10 @@ function buildBtns(i, divType) {
     btn.className = btnType.toLowerCase() + '-btn text-no-underline section-btn';
     const gaEventName = 'data-ga-event-name="' + btnType + ' ' + divType + ' ' + i + '"';
     btn.setAttribute('aria-label', btnType);
+    btn.href = '#';
     if (btnType === 'Share') {
       btn.innerHTML = `
-                <p class="copied-link text-no-underline margin-0" style="display:none;">Copied link</p>
+                <span class="copied-link text-no-underline" style="display:none;">Copied link</span>
                 <svg title="Copy link"
                     ${gaEventName}
                     class="usa-icon share-icon usa-tooltip"
@@ -121,9 +122,9 @@ function buildBtns(i, divType) {
       });
     } else if (btnType === 'Copy') {
       btn.innerHTML = `
-                      <p class="copied text-no-underline margin-0" style="display:none;">
+                      <span class="copied text-no-underline" style="display:none;">
                           Copied text
-                </p>
+                </span>
                 <svg
                     title="Copy text"
                     ${gaEventName}
@@ -263,37 +264,18 @@ function addPrintEventListeners(btn, divType) {
 function navResults(e, dir, prevBtn, nextBtn, currentCount, totalCount) {
   e.preventDefault();
   const count = parseInt(currentCount.innerText);
-  if (dir == 'next') {
-    if (count >= totalCount) {
-      return;
-    } else {
-      nextBtn.classList.remove('disabled');
-    }
-    const newCount = count + 1;
-    location.hash = '#result' + newCount;
-    currentCount.innerText = newCount;
-    if (newCount >= totalCount) {
-      nextBtn.classList.add('disabled');
-    }
-    if (newCount > 0) {
-      prevBtn.classList.remove('disabled');
-    }
-  } else {
-    if (count <= 0) {
-      return;
-    } else {
-      prevBtn.classList.remove('disabled');
-    }
-    const newCount = count - 1;
-    location.hash = '#result' + newCount;
-    currentCount.innerText = newCount;
-    if (newCount <= 0) {
-      prevBtn.classList.add('disabled');
-    }
-    if (newCount < totalCount) {
-      nextBtn.classList.remove('disabled');
-    }
-  }
+  const direction = dir === 'next' ? 1 : -1;
+  const newCount = count + direction;
+  console.log(newCount);
+  const canGoNext = newCount <= totalCount;
+  const canGoPrev = newCount >= 0;
+  nextBtn.classList.toggle('disabled', !canGoNext || newCount === totalCount);
+  prevBtn.classList.toggle('disabled', !canGoPrev || newCount === 0);
+  if (dir === 'next' && !canGoNext) return;
+  if (dir !== 'next' && !canGoPrev) return;
+
+  location.hash = '#inPageResult' + newCount;
+  currentCount.innerText = newCount;
 }
 
 function search() {
@@ -312,41 +294,24 @@ function search() {
   const sections = document.querySelectorAll('.section');
   sections.forEach((section) => {
     removeHighlights(section);
-    if (section.innerText.toLowerCase().includes(searchQuery)) {
-      section.classList.add('searched');
-      const detailEls = section.querySelectorAll('details');
-      detailEls.forEach((detailEl) => detailEl.setAttribute('open', true));
-      highlightTerm(searchQuery, section);
-    } else {
-      section.classList.remove('searched');
-      const detailEls = section.querySelectorAll('details');
-      detailEls.forEach((detailEl) => detailEl.removeAttribute('open'));
-    }
+    updateSection(section, searchQuery);
   });
   const results = document.querySelectorAll('.search-term');
-  if (results.length > 0) {
-    results.forEach((result, i) => {
-      const count = i + 1;
-      result.id = 'result' + count;
-    });
-    searchGo.classList.add('display-none');
-    searchNav.classList.remove('display-none');
-    const nextButton = searchNav.querySelector('.next-result');
-    const prevButton = searchNav.querySelector('.prev-result');
-    const clearButton = searchNav.querySelector('.clear');
-    prevButton.addEventListener('click', (e) =>
-      navResults(e, 'prev', prevButton, nextButton, currentCount, results.length)
-    );
-    nextButton.addEventListener('click', (e) =>
-      navResults(e, 'next', prevButton, nextButton, currentCount, results.length)
-    );
-    clearButton.addEventListener('click', (e) => clearSearch(searchGo, searchNav, searchBox, e));
-    totalCount.innerText = results.length;
-    currentCount.innerText = '0';
-  } else {
+  if (results.length === 0) {
     searchNav.classList.add('display-none');
     searchGo.classList.remove('display-none');
+    return;
   }
+
+  results.forEach((result, i) => {
+    const count = i + 1;
+    result.id = 'inPageResult' + count;
+  });
+  searchGo.classList.add('display-none');
+  searchNav.classList.remove('display-none');
+  setUpButtons(searchGo, searchNav, searchBox, results.length, currentCount);
+  totalCount.innerText = results.length;
+  currentCount.innerText = '0';
 }
 
 function highlightTerm(text, section) {
@@ -374,6 +339,32 @@ function removeHighlights(section) {
     .replaceAll('<span class="search-term" tabindex="0">', '')
     .replaceAll('</span>', '');
   section.innerHTML = innerHTML;
+}
+
+function updateSection(section, searchQuery) {
+  if (section.innerText.toLowerCase().includes(searchQuery)) {
+    section.classList.add('searched');
+    const detailEls = section.querySelectorAll('details');
+    detailEls.forEach((detailEl) => detailEl.setAttribute('open', true));
+    highlightTerm(searchQuery, section);
+  } else {
+    section.classList.remove('searched');
+    const detailEls = section.querySelectorAll('details');
+    detailEls.forEach((detailEl) => detailEl.removeAttribute('open'));
+  }
+}
+
+function setUpButtons(searchGo, searchNav, searchBox, resultLength, currentCount) {
+  const nextButton = searchNav.querySelector('.next-result');
+  const prevButton = searchNav.querySelector('.prev-result');
+  const clearButton = searchNav.querySelector('.clear');
+  prevButton.addEventListener('click', (e) =>
+    navResults(e, 'prev', prevButton, nextButton, currentCount, resultLength)
+  );
+  nextButton.addEventListener('click', (e) =>
+    navResults(e, 'next', prevButton, nextButton, currentCount, resultLength)
+  );
+  clearButton.addEventListener('click', (e) => clearSearch(searchGo, searchNav, searchBox, e));
 }
 
 function clearSearch(searchGo, searchNav, searchBox, e = null) {
