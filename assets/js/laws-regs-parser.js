@@ -59,12 +59,12 @@ export default function parseLawsAndRegs(mainContent) {
   const mobileSearchBtn = document.querySelector('#mobile-search-button');
   const searchInput = document.querySelector('.searchbox');
   if (mobileSearchBtn) {
-    setUpMobileSearch(mobileSearchBtn);
+    setUpMobileSearch(mobileSearchBtn, searchInput);
   }
   searchInput.addEventListener('input', initSearch);
 }
 
-function setUpMobileSearch(mobileSearchBtn) {
+function setUpMobileSearch(mobileSearchBtn, searchInput) {
   const searchBoxWrapper = document.querySelector('.mobile-search-box');
   mobileSearchBtn.addEventListener('click', () => {
     searchBoxWrapper.classList.add('visible');
@@ -393,7 +393,7 @@ function updateSection(section, searchQuery) {
 }
 
 function setUpButtons(searchGo, searchNav, searchBox, resultLength, currentCount) {
-  const nextButton  = searchNav.querySelector('. next-result');
+  const nextButton  = searchNav.querySelector('.next-result');
   const prevButton = searchNav.querySelector('.prev-result');
   const clearButton = searchNav.querySelector('.clear');
   prevButton.addEventListener('click', (e) =>
