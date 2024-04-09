@@ -22,7 +22,7 @@ The ADA is meant to ensure that people with disabilities can fully participate i
 
 The Title II Regulations explains the rights of people with disabilities and the obligations of state and local governments. Read [Title II Regulations]({{'/law-and-regs/regulations/title-ii-2010-regulations/' | relative_url}}) to understand your legal rights or responsibilities under the ADA.
 
-**The text on this page does not include a final rule that the Attorney General signed on [INSERT DATE]. We will update this page by the time the new rule is effective.  <a href="../../notices/2024/03/08/web-rule/">Learn more about the new requirements.</a>.**
+**The text on this page does not include a final rule that the Attorney General signed on April 8, 2024. We will update this page by the time the new rule is effective.  <a href="../../notices/2024/03/08/web-rule/">Learn more about the new requirements.</a>.**
 
 <div class="standards-and-guidance"  markdown="0">
 <div class="document">
