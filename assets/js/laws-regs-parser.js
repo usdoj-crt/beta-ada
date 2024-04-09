@@ -59,20 +59,24 @@ export default function parseLawsAndRegs(mainContent) {
   const mobileSearchBtn = document.querySelector('#mobile-search-button');
   const searchInput = document.querySelector('.searchbox');
   if (mobileSearchBtn) {
-    const searchBoxWrapper = document.querySelector('.mobile-search-box');
-    mobileSearchBtn.addEventListener('click', () => {
-      searchBoxWrapper.classList.add('mobile-overlay');
-      searchInput.focus();
-      const overlay = document.createElement('div');
-      overlay.classList.add('overlay');
-      document.body.appendChild(overlay);
-      overlay.addEventListener('click', () => {
-        closeSearch(overlay, searchBoxWrapper, searchInput);
-      });
-      mobileSearchBtn.classList.add('display-none');
-    });
+    setUpMobileSearch(mobileSearchBtn);
   }
   searchInput.addEventListener('input', initSearch);
+}
+
+function setUpMobileSearch(mobileSearchBtn) {
+  const searchBoxWrapper = document.querySelector('.mobile-search-box');
+  mobileSearchBtn.addEventListener('click', () => {
+    searchBoxWrapper.classList.add('visible');
+    searchInput.focus();
+    const overlay = document.createElement('div');
+    overlay.classList.add('overlay');
+    document.body.appendChild(overlay);
+    overlay.addEventListener('click', () => {
+      closeSearch(overlay, searchBoxWrapper, searchInput);
+    });
+    mobileSearchBtn.classList.add('display-none');
+  });
 }
 
 function initSearch() {
@@ -86,7 +90,7 @@ function initSearch() {
 function closeSearch(overlay, searchBoxWrapper, searchInput) {
   const mobileSearchBtn = document.querySelector('#mobile-search-button');
   overlay.classList.add('display-none');
-  searchBoxWrapper.classList.remove('mobile-overlay');
+  searchBoxWrapper.classList.remove('visible');
   searchInput.value = '';
   mobileSearchBtn.classList.remove('display-none');
   const sections = document.querySelectorAll('.section');
