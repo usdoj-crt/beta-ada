@@ -34,7 +34,9 @@ The remainder of this document discusses how these laws apply to common aspects 
 
 The first step in the voting process is registration.  The NVRA requires all offices that provide public assistance or state-funded programs that primarily serve persons with disabilities to provide the opportunity to register to vote by providing voter registration forms, assisting voters in completing the forms, and transmitting completed forms to the appropriate election official.  The NVRA requires such offices to provide any citizen who wishes to register to vote the same degree of assistance with voter registration forms as it provides with regard to completing the office’s own forms.   The NVRA also requires that if such office provides its services to a person with a disability at the person’s home, the office shall provide these voter registration services at the home as well.
 
->*In a 2011 NVRA case, the Department reached a settlement with the State of Rhode Island that required state officials to ensure that voter registration opportunities are offered at all disability services offices in the state and to develop and implement training and tracking programs for those offices.*
+The Department has reached settlements with states to require state officials to ensure that voter registration
+opportunities are offered at all designated disability services offices in the state and to develop and implement
+training and tracking programs for those offices.
 
 In addition to the registration opportunities guaranteed by the NVRA, the ADA requires states to ensure that all aspects of the voter registration process are accessible to persons with disabilities.  The ADA also prohibits a state from categorically disqualifying all individuals who have intellectual or mental health disabilities from registering to vote or from voting because of their disability.
 
