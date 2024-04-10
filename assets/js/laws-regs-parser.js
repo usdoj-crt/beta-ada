@@ -56,16 +56,28 @@ export default function parseLawsAndRegs(mainContent) {
 
   parent.insertBefore(newMainContent, mainContent);
   mainContent.remove();
-  const mobileSearchBtn = document.querySelector('#mobile-search-button');
-  const searchInput = document.querySelector('.searchbox');
-  if (mobileSearchBtn) {
-    setUpMobileSearch(mobileSearchBtn, searchInput);
+  if (window.matchMedia('(max-width: 1023px)').matches) {
+    setUpMobileSearch();
+  } else {
+    const searchBoxWrapper = document.querySelector('.desktop-search-box');
+    const searchInput = searchBoxWrapper.querySelector('.searchbox');
+    const searchGo = searchBoxWrapper.querySelector('#submit-search');
+    const searchNav = searchBoxWrapper.querySelector('.result-nav');
+    const searchBox = searchBoxWrapper.querySelector('.searchbox');
+    setUpButtons(searchGo, searchNav, searchBox);
+    searchInput.addEventListener('input', () => initSearch(searchBoxWrapper, searchGo, searchNav));
   }
-  searchInput.addEventListener('input', initSearch);
 }
 
-function setUpMobileSearch(mobileSearchBtn, searchInput) {
+function setUpMobileSearch() {
+  const mobileSearchBtn = document.querySelector('#mobile-search-button');
   const searchBoxWrapper = document.querySelector('.mobile-search-box');
+  const searchInput = searchBoxWrapper.querySelector('.searchbox');
+  const searchGo = searchBoxWrapper.querySelector('#submit-search');
+  const searchNav = searchBoxWrapper.querySelector('.result-nav');
+  const searchBox = searchBoxWrapper.querySelector('.searchbox');
+  setUpButtons(searchGo, searchNav, searchBox);
+  searchInput.addEventListener('input', () => initSearch(searchBoxWrapper, searchGo, searchNav));
   mobileSearchBtn.addEventListener('click', () => {
     searchBoxWrapper.classList.add('visible');
     searchInput.focus();
@@ -84,12 +96,10 @@ function setUpMobileSearch(mobileSearchBtn, searchInput) {
   });
 }
 
-function initSearch() {
-  const searchGo = document.querySelector('#submit-search');
-  const searchNav = document.querySelector('.result-nav');
+function initSearch(searchBoxWrapper, searchGo, searchNav) {
   searchGo.classList.remove('display-none');
   searchNav.classList.add('display-none');
-  searchGo.addEventListener('click', search);
+  searchGo.addEventListener('click', () => search(searchBoxWrapper));
 }
 
 function closeSearch(overlay, searchBoxWrapper, searchInput) {
@@ -301,14 +311,17 @@ function addPrintEventListeners(btn, divType) {
   });
 }
 
-function navResults(e, dir, prevBtn, nextBtn, currentCount, totalCount) {
+function navResults(e, dir, prevBtn, nextBtn, searchNav) {
   e.preventDefault();
+  const currentCount = searchNav.querySelector('.current');
+  const totalCount = searchNav.querySelector('.total');
   const count = parseInt(currentCount.innerText);
+  const total = parseInt(totalCount.innerText);
   const direction = dir === 'next' ? 1 : -1;
   const newCount = count + direction;
-  const canGoNext = newCount <= totalCount;
+  const canGoNext = newCount <= total;
   const canGoPrev = newCount >= 0;
-  nextBtn.classList.toggle('disabled', !canGoNext || newCount === totalCount);
+  nextBtn.classList.toggle('disabled', !canGoNext || newCount === total);
   prevBtn.classList.toggle('disabled', !canGoPrev || newCount === 0);
   if (dir === 'next' && !canGoNext) return;
   if (dir !== 'next' && !canGoPrev) return;
@@ -317,8 +330,7 @@ function navResults(e, dir, prevBtn, nextBtn, currentCount, totalCount) {
   currentCount.innerText = newCount;
 }
 
-function search() {
-  const searchBoxWrapper = document.querySelector('.search-box-wrapper');
+function search(searchBoxWrapper) {
   const searchBox = searchBoxWrapper.querySelector('.searchbox');
   searchBox.focus();
   const overlay = document.querySelector('.overlay');
@@ -357,7 +369,6 @@ function search() {
   });
   searchGo.classList.add('display-none');
   searchNav.classList.remove('display-none');
-  setUpButtons(searchGo, searchNav, searchBox, results.length, currentCount);
   totalCount.innerText = results.length;
   currentCount.innerText = '0';
 }
@@ -403,15 +414,15 @@ function updateSection(section, searchQuery) {
   }
 }
 
-function setUpButtons(searchGo, searchNav, searchBox, resultLength, currentCount) {
+function setUpButtons(searchGo, searchNav, searchBox) {
   const nextButton = searchNav.querySelector('.next-result');
   const prevButton = searchNav.querySelector('.prev-result');
   const clearButton = searchNav.querySelector('.clear');
   prevButton.addEventListener('click', (e) =>
-    navResults(e, 'prev', prevButton, nextButton, currentCount, resultLength)
+    navResults(e, 'prev', prevButton, nextButton, searchNav)
   );
   nextButton.addEventListener('click', (e) =>
-    navResults(e, 'next', prevButton, nextButton, currentCount, resultLength)
+    navResults(e, 'next', prevButton, nextButton, searchNav)
   );
   clearButton.addEventListener('click', (e) => clearSearch(searchGo, searchNav, searchBox, e));
 }

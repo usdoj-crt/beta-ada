@@ -103,6 +103,10 @@
         min-width: 100%;
       }
 
+      .result-number {
+        display: none;
+      }
+
       .mobile-searchbar {
         background-color: #005EA2;
         color: white;
@@ -146,7 +150,7 @@
         }
 
         &.active {
-          bottom: 16px;
+          bottom: 50px;
           top: auto;
           padding-right: 3em;
 
