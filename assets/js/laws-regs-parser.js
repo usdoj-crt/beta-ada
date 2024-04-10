@@ -70,15 +70,50 @@ export default function parseLawsAndRegs(mainContent) {
       closeSearch(toolWrapper, searchInput);
     });
   }
-  searchInput.addEventListener('input', initSearch);
+  if (window.matchMedia('(max-width: 1023px)').matches) {
+    setUpMobileSearch();
+  } else {
+    const searchBoxWrapper = document.querySelector('.desktop-search-box');
+    const searchInput = searchBoxWrapper.querySelector('.searchbox');
+    const searchGo = searchBoxWrapper.querySelector('#submit-search');
+    const searchNav = searchBoxWrapper.querySelector('.result-nav');
+    const searchBox = searchBoxWrapper.querySelector('.searchbox');
+    setUpButtons(searchGo, searchNav, searchBox);
+    searchInput.addEventListener('input', () => initSearch(searchBoxWrapper, searchGo, searchNav));
+  }
 }
 
-function initSearch() {
-  const searchGo = document.querySelector('#submit-search');
-  const searchNav = document.querySelector('.result-nav');
+function setUpMobileSearch() {
+  const mobileSearchBtn = document.querySelector('#mobile-search-button');
+  const searchBoxWrapper = document.querySelector('.mobile-search-box');
+  const searchInput = searchBoxWrapper.querySelector('.searchbox');
+  const searchGo = searchBoxWrapper.querySelector('#submit-search');
+  const searchNav = searchBoxWrapper.querySelector('.result-nav');
+  const searchBox = searchBoxWrapper.querySelector('.searchbox');
+  setUpButtons(searchGo, searchNav, searchBox);
+  searchInput.addEventListener('input', () => initSearch(searchBoxWrapper, searchGo, searchNav));
+  mobileSearchBtn.addEventListener('click', () => {
+    searchBoxWrapper.classList.add('visible');
+    searchInput.focus();
+    const overlay = document.querySelector('.overlay');
+    if (overlay) {
+      overlay.classList.remove('display-none');
+    } else {
+      const overlay = document.createElement('div');
+      overlay.classList.add('overlay');
+      document.body.appendChild(overlay);
+      overlay.addEventListener('click', () => {
+        closeSearch(overlay, searchBoxWrapper, searchInput);
+      });
+    }
+    mobileSearchBtn.classList.add('display-none');
+  });
+}
+
+function initSearch(searchBoxWrapper, searchGo, searchNav) {
   searchGo.classList.remove('display-none');
   searchNav.classList.add('display-none');
-  searchGo.addEventListener('click', search);
+  searchGo.addEventListener('click', () => search(searchBoxWrapper));
 }
 
 function closeSearch(toolWrapper, searchInput) {
@@ -132,6 +167,8 @@ function buildBtns(i, divType) {
     btn.className = btnType.toLowerCase() + '-btn text-no-underline section-btn';
     const gaEventName = 'data-ga-event-name="' + btnType + ' ' + divType + ' ' + i + '"';
     btn.setAttribute('aria-label', btnType);
+    btn.setAttribute('role', 'button');
+    btn.href = '#';
     if (btnType === 'Share') {
       btn.innerHTML = `
                 <p class="copied-link text-no-underline margin-0" style="display:none;">Copied link</p>
@@ -150,11 +187,8 @@ function buildBtns(i, divType) {
       });
     } else if (btnType === 'Copy') {
       btn.innerHTML = `
-                      <p class="copied text-no-underline margin-0" style="display:none;">
-                          Copied text
-                </p>
-                <svg
-                    title="Copy text"
+                <p class="copied text-no-underline margin-0" style="display:none;">Copied text</p>
+                <svg title="Copy text"
                     ${gaEventName}
                     class="usa-icon copy-icon usa-tooltip"
                     data-position="bottom"
@@ -168,8 +202,7 @@ function buildBtns(i, divType) {
       addCopyEventListeners(btn, divType);
     } else if (btnType === 'Print') {
       btn.innerHTML = `
-                <svg
-                    title="Print"
+                <svg title="Print"
                     ${gaEventName}
                     class="usa-icon usa-tooltip"
                     data-position="bottom"
@@ -289,40 +322,23 @@ function addPrintEventListeners(btn, divType) {
   });
 }
 
-function navResults(e, dir, prevBtn, nextBtn, currentCount, totalCount) {
+function navResults(e, dir, prevBtn, nextBtn, searchNav) {
   e.preventDefault();
+  const currentCount = searchNav.querySelector('.current');
+  const totalCount = searchNav.querySelector('.total');
   const count = parseInt(currentCount.innerText);
-  if (dir == 'next') {
-    if (count >= totalCount) {
-      return;
-    } else {
-      nextBtn.classList.remove('disabled');
-    }
-    const newCount = count + 1;
-    location.hash = '#result' + newCount;
-    currentCount.innerText = newCount;
-    if (newCount >= totalCount) {
-      nextBtn.classList.add('disabled');
-    }
-    if (newCount > 0) {
-      prevBtn.classList.remove('disabled');
-    }
-  } else {
-    if (count <= 0) {
-      return;
-    } else {
-      prevBtn.classList.remove('disabled');
-    }
-    const newCount = count - 1;
-    location.hash = '#result' + newCount;
-    currentCount.innerText = newCount;
-    if (newCount <= 0) {
-      prevBtn.classList.add('disabled');
-    }
-    if (newCount < totalCount) {
-      nextBtn.classList.remove('disabled');
-    }
-  }
+  const total = parseInt(totalCount.innerText);
+  const direction = dir === 'next' ? 1 : -1;
+  const newCount = count + direction;
+  const canGoNext = newCount <= total;
+  const canGoPrev = newCount >= 0;
+  nextBtn.classList.toggle('disabled', !canGoNext || newCount === total);
+  prevBtn.classList.toggle('disabled', !canGoPrev || newCount === 0);
+  if (dir === 'next' && !canGoNext) return;
+  if (dir !== 'next' && !canGoPrev) return;
+
+  location.hash = '#inPageResult' + newCount;
+  currentCount.innerText = newCount;
 }
 
 function search() {
@@ -346,46 +362,29 @@ function search() {
   const sections = document.querySelectorAll('.section');
   sections.forEach((section) => {
     removeHighlights(section);
-    if (section.innerText.toLowerCase().includes(searchQuery)) {
-      section.classList.add('searched');
-      const detailEls = section.querySelectorAll('details');
-      detailEls.forEach((detailEl) => detailEl.setAttribute('open', true));
-      highlightTerm(searchQuery, section);
-    } else {
-      section.classList.remove('searched');
-      const detailEls = section.querySelectorAll('details');
-      detailEls.forEach((detailEl) => detailEl.removeAttribute('open'));
-    }
+    updateSection(section, searchQuery);
   });
   const results = document.querySelectorAll('.search-term');
-  if (results.length > 0) {
-    results.forEach((result, i) => {
-      const count = i + 1;
-      result.id = 'result' + count;
-    });
-    searchGo.classList.add('display-none');
-    searchNav.classList.remove('display-none');
-    const nextButton = searchNav.querySelector('.next-result');
-    const prevButton = searchNav.querySelector('.prev-result');
-    const clearButton = searchNav.querySelector('.clear');
-    prevButton.addEventListener('click', (e) =>
-      navResults(e, 'prev', prevButton, nextButton, currentCount, results.length)
-    );
-    nextButton.addEventListener('click', (e) =>
-      navResults(e, 'next', prevButton, nextButton, currentCount, results.length)
-    );
-    clearButton.addEventListener('click', (e) => clearSearch(searchGo, searchNav, searchBox, e));
-    totalCount.innerText = results.length;
-    currentCount.innerText = '0';
-  } else {
+  if (results.length === 0) {
     searchNav.classList.add('display-none');
     searchGo.classList.remove('display-none');
+    return;
   }
+
+  results.forEach((result, i) => {
+    const count = i + 1;
+    result.id = 'inPageResult' + count;
+  });
+  searchGo.classList.add('display-none');
+  searchNav.classList.remove('display-none');
+  totalCount.innerText = results.length;
+  currentCount.innerText = '0';
 }
 
 function highlightTerm(text, section) {
+  const newText = text.replaceAll('(', '(').replaceAll(')', ')');
   const innerHTML = section.innerHTML.replaceAll(
-    new RegExp('(' + text + ')', 'ig'),
+    new RegExp('(' + newText + ')', 'ig'),
     `<span class='search-term' tabindex='0'>$1</span>`
   );
   section.innerHTML = innerHTML;
@@ -408,6 +407,32 @@ function removeHighlights(section) {
     .replaceAll('<span class="search-term" tabindex="0">', '')
     .replaceAll('</span>', '');
   section.innerHTML = innerHTML;
+}
+
+function updateSection(section, searchQuery) {
+  if (section.innerText.toLowerCase().includes(searchQuery)) {
+    section.classList.add('searched');
+    const detailEls = section.querySelectorAll('details');
+    detailEls.forEach((detailEl) => detailEl.setAttribute('open', true));
+    highlightTerm(searchQuery, section);
+  } else {
+    section.classList.remove('searched');
+    const detailEls = section.querySelectorAll('details');
+    detailEls.forEach((detailEl) => detailEl.removeAttribute('open'));
+  }
+}
+
+function setUpButtons(searchGo, searchNav, searchBox) {
+  const nextButton = searchNav.querySelector('.next-result');
+  const prevButton = searchNav.querySelector('.prev-result');
+  const clearButton = searchNav.querySelector('.clear');
+  prevButton.addEventListener('click', (e) =>
+    navResults(e, 'prev', prevButton, nextButton, searchNav)
+  );
+  nextButton.addEventListener('click', (e) =>
+    navResults(e, 'next', prevButton, nextButton, searchNav)
+  );
+  clearButton.addEventListener('click', (e) => clearSearch(searchGo, searchNav, searchBox, e));
 }
 
 function clearSearch(searchGo, searchNav, searchBox, e = null) {
