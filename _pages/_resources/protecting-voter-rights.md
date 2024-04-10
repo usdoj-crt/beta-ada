@@ -103,15 +103,16 @@ The Department has entered into more than thirty settlement agreements with publ
 
 For information about how the ADA applies to voting, please visit our website [Voting and Polling Places]({{'/topics/voting' | relative_url}}) or call our toll-free number.
 
-ADA Information Line
-800-514-0301 (Voice) and 833-610-1264 (TTY)
-24 hours a day to order publications by mail.
-Monday, Wednesday, Friday: 9:30 am-12 pm and 3 pm-5:30 pm; Tuesday: 12:30 pm-5:30 pm; Thursday 12:30 pm-5:30 pm (Eastern Time) to speak with an ADA Specialist.  Calls are confidential.
+[ADA Information Line]({{'/infoline' | relative_url}})<br>
+800-514-0301 (Voice) and 833-610-1264 (TTY)<br>
+24 hours a day to order publications by mail.<br>
+Monday, Wednesday, Friday: 9:30 am-12 pm and 3 pm-5:30 pm; Tuesday: 12:30 pm-5:30 pm; Thursday 12:30 pm-5:30 pm (Eastern Time) to speak with an ADA Specialist.<br>
+Calls are confidential.
 
-ADA Website
+ADA Website<br>
 [The Americans with Disabilities Act (ADA.gov)]({{'/index' | relative_url}})
 
-To receive e-mail notifications when new ADA information is available, visit the ADA Website’s home page and click the link under [ADA.gov Updates](https://public.govdelivery.com/accounts/USDOJ/subscriber/new?category_id=USDOJ_C26) at the bottom of the page.
+To receive e-mail notifications when new ADA information is available, visit [ADA.gov Updates](https://public.govdelivery.com/accounts/USDOJ/subscriber/new?category_id=USDOJ_C26).
 
 For information about the VRA, VAEHA, NVRA, and HAVA, please visit the [Voting Section's website](https://www.justice.gov/crt/voting-section).
 
