@@ -44,12 +44,14 @@ export default function parseLawsAndRegs(mainContent) {
       : currentSubpart;
     if (i !== 0 && Array.from(section.childNodes).length >= 2 && !subpartIndices.includes(i)) {
       const btnDiv = buildBtns(i, '.section');
-      section.firstChild.after(btnDiv);
+      section.firstChild.firstChild.after(btnDiv);
       const jumpLink = document.createElement('a');
       jumpLink.id = 'section' + i.toString();
       section.prepend(jumpLink);
     }
-    currentSubpart.appendChild(section);
+    const sectionWrapper = createDiv('section-wrapper');
+    sectionWrapper.appendChild(section);
+    currentSubpart.appendChild(sectionWrapper);
   });
 
   const newMainContent = buildMainContent(subparts);
@@ -58,47 +60,55 @@ export default function parseLawsAndRegs(mainContent) {
   mainContent.remove();
   if (window.matchMedia('(max-width: 1023px)').matches) {
     setUpMobileSearch();
-  } else {
-    const searchBoxWrapper = document.querySelector('.desktop-search-box');
-    const searchInput = searchBoxWrapper.querySelector('.searchbox');
-    const searchGo = searchBoxWrapper.querySelector('#submit-search');
-    const searchNav = searchBoxWrapper.querySelector('.result-nav');
-    const searchBox = searchBoxWrapper.querySelector('.searchbox');
-    setUpButtons(searchGo, searchNav, searchBox);
-    searchInput.addEventListener('input', () => initSearch(searchBoxWrapper, searchGo, searchNav));
+    return;
   }
+  const searchBoxWrapper = document.querySelector('.desktop-search-box');
+  const searchInput = searchBoxWrapper.querySelector('.searchbox');
+  const searchGo = searchBoxWrapper.querySelector('#submit-search');
+  const searchNav = searchBoxWrapper.querySelector('.result-nav');
+  const searchBox = searchBoxWrapper.querySelector('.searchbox');
+  setUpButtons(searchGo, searchNav, searchBox);
+  searchInput.addEventListener('input', () =>
+    initSearch(searchInput, searchBoxWrapper, searchGo, searchNav)
+  );
 }
 
 function setUpMobileSearch() {
-  const mobileSearchBtn = document.querySelector('#mobile-search-button');
   const searchBoxWrapper = document.querySelector('.mobile-search-box');
   const searchInput = searchBoxWrapper.querySelector('.searchbox');
   const searchGo = searchBoxWrapper.querySelector('#submit-search');
   const searchNav = searchBoxWrapper.querySelector('.result-nav');
   const searchBox = searchBoxWrapper.querySelector('.searchbox');
   setUpButtons(searchGo, searchNav, searchBox);
-  searchInput.addEventListener('input', () => initSearch(searchBoxWrapper, searchGo, searchNav));
-  mobileSearchBtn.addEventListener('click', () => {
+  searchInput.addEventListener('click', () => {
+    if (searchBoxWrapper.classList.contains('visible')) return;
     searchBoxWrapper.classList.add('visible');
     searchInput.focus();
-    const overlay = document.querySelector('.overlay');
+    let overlay = document.querySelector('.overlay');
     if (overlay) {
       overlay.classList.remove('display-none');
-    } else {
-      const overlay = document.createElement('div');
-      overlay.classList.add('overlay');
-      document.body.appendChild(overlay);
-      overlay.addEventListener('click', () => {
-        closeSearch(overlay, searchBoxWrapper, searchInput);
-      });
+      return;
     }
-    mobileSearchBtn.classList.add('display-none');
+    overlay = document.createElement('div');
+    overlay.classList.add('overlay');
+    document.body.appendChild(overlay);
+    overlay.addEventListener('click', () => {
+      closeSearch(overlay, searchBoxWrapper, searchInput);
+    });
   });
+  searchInput.addEventListener('input', () =>
+    initSearch(searchInput, searchBoxWrapper, searchGo, searchNav)
+  );
 }
 
-function initSearch(searchBoxWrapper, searchGo, searchNav) {
+function initSearch(searchInput, searchBoxWrapper, searchGo, searchNav) {
   searchGo.classList.remove('display-none');
   searchNav.classList.add('display-none');
+  searchInput.addEventListener('keydown', (e) => {
+    if (e.key == 'Enter') {
+      search(searchBoxWrapper);
+    }
+  });
   searchGo.addEventListener('click', () => search(searchBoxWrapper));
 }
 
@@ -108,16 +118,16 @@ function closeSearch(overlay, searchBoxWrapper, searchInput) {
   const searchBox = searchBoxWrapper.querySelector('.searchbox');
   clearSearch(searchGo, searchNav, searchBox);
   searchGo.classList.remove('display-none');
-  const mobileSearchBtn = document.querySelector('#mobile-search-button');
   overlay.classList.add('display-none');
   searchBoxWrapper.classList.remove('visible');
   searchBoxWrapper.classList.remove('active');
   searchInput.value = '';
-  mobileSearchBtn.classList.remove('display-none');
   const sections = document.querySelectorAll('.section');
   sections.forEach((section) => {
-    removeHighlights(section);
-    section.classList.remove('searched');
+    let newSection = section.cloneNode(true);
+    newSection = removeHighlights(newSection);
+    newSection.classList.remove('searched');
+    section.parentNode.replaceChildren(newSection);
   });
 }
 
@@ -320,9 +330,11 @@ function navResults(e, dir, prevBtn, nextBtn, searchNav) {
   const direction = dir === 'next' ? 1 : -1;
   const newCount = count + direction;
   const canGoNext = newCount <= total;
-  const canGoPrev = newCount >= 0;
+  const canGoPrev = newCount >= 1;
   nextBtn.classList.toggle('disabled', !canGoNext || newCount === total);
-  prevBtn.classList.toggle('disabled', !canGoPrev || newCount === 0);
+  prevBtn.classList.toggle('disabled', !canGoPrev || newCount === 1);
+  nextBtn.setAttribute('tabIndex', !canGoNext || newCount === total ? -1 : 0);
+  prevBtn.setAttribute('tabIndex', !canGoPrev || newCount === 1 ? -1 : 0);
   if (dir === 'next' && !canGoNext) return;
   if (dir !== 'next' && !canGoPrev) return;
 
@@ -353,8 +365,10 @@ function search(searchBoxWrapper) {
   }
   const sections = document.querySelectorAll('.section');
   sections.forEach((section) => {
-    removeHighlights(section);
-    updateSection(section, searchQuery);
+    let newSection = section.cloneNode(true);
+    newSection = removeHighlights(newSection);
+    newSection = updateSection(newSection, searchQuery);
+    section.parentNode.replaceChildren(newSection);
   });
   const results = document.querySelectorAll('.search-term');
   if (results.length === 0) {
@@ -370,7 +384,8 @@ function search(searchBoxWrapper) {
   searchGo.classList.add('display-none');
   searchNav.classList.remove('display-none');
   totalCount.innerText = results.length;
-  currentCount.innerText = '0';
+  currentCount.innerText = '1';
+  location.hash = '#inPageResult1';
 }
 
 function highlightTerm(text, section) {
@@ -399,6 +414,7 @@ function removeHighlights(section) {
     .replaceAll('<span class="search-term" tabindex="0">', '')
     .replaceAll('</span>', '');
   section.innerHTML = innerHTML;
+  return section;
 }
 
 function updateSection(section, searchQuery) {
@@ -412,6 +428,7 @@ function updateSection(section, searchQuery) {
     const detailEls = section.querySelectorAll('details');
     detailEls.forEach((detailEl) => detailEl.removeAttribute('open'));
   }
+  return section;
 }
 
 function setUpButtons(searchGo, searchNav, searchBox) {
@@ -437,7 +454,9 @@ function clearSearch(searchGo, searchNav, searchBox, e = null) {
   searchNav.classList.add('display-none');
   searchBox.value = '';
   sections.forEach((section) => {
-    removeHighlights(section);
-    section.classList.remove('searched');
+    let newSection = section.cloneNode(true);
+    newSection = removeHighlights(newSection);
+    newSection.classList.remove('searched');
+    section.parentNode.replaceChildren(newSection);
   });
 }
