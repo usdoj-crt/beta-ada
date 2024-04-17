@@ -78,7 +78,7 @@ export default function parseLawsAndRegs(mainContent) {
   }
   const searchBoxWrapper = document.querySelector('.desktop-search-box');
   const searchInput = searchBoxWrapper.querySelector('.searchbox');
-  const searchGo = searchBoxWrapper.querySelector('#submit-search');
+  const searchGo = searchBoxWrapper.querySelector('.submit-search');
   const searchNav = searchBoxWrapper.querySelector('.result-nav');
   const searchBox = searchBoxWrapper.querySelector('.searchbox');
   setUpButtons(searchGo, searchNav, searchBox);
@@ -90,7 +90,7 @@ export default function parseLawsAndRegs(mainContent) {
 function setUpMobileSearch() {
   const searchBoxWrapper = document.querySelector('.mobile-search-box');
   const searchInput = searchBoxWrapper.querySelector('.searchbox');
-  const searchGo = searchBoxWrapper.querySelector('#submit-search');
+  const searchGo = searchBoxWrapper.querySelector('.submit-search');
   const searchNav = searchBoxWrapper.querySelector('.result-nav');
   const searchBox = searchBoxWrapper.querySelector('.searchbox');
   setUpButtons(searchGo, searchNav, searchBox);
@@ -127,7 +127,7 @@ function initSearch(searchInput, searchBoxWrapper, searchGo, searchNav) {
 }
 
 function closeSearch(overlay, searchBoxWrapper, searchInput) {
-  const searchGo = searchBoxWrapper.querySelector('#submit-search');
+  const searchGo = searchBoxWrapper.querySelector('.submit-search');
   const searchNav = searchBoxWrapper.querySelector('.result-nav');
   const searchBox = searchBoxWrapper.querySelector('.searchbox');
   clearSearch(searchGo, searchNav, searchBox);
