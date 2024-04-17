@@ -29,7 +29,7 @@
             </a>
         </div>
         {% unless include.mobile %}
-        <a href="#" class="mobile:display-none display-flex display-none searchbtn flex-align-center flex-row flex-justify" id="submit-search" aria-label="search in page">
+        <a href="#" class="mobile:display-none display-flex display-none searchbtn flex-align-center flex-row flex-justify submit-search" aria-label="search in page">
             <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
                 <use xlink:href="{{ '/assets/images/uswds/sprite.svg' | relative_url }}#arrow_forward"></use>
             </svg>
@@ -37,7 +37,7 @@
         {% endunless %}
     </div>
     {% if include.mobile %}
-    <a href="#" class="desktop:display-none display-flex mobile-searchbar flex-align-center flex-row flex-justify-center" id="submit-search" tabindex="0" aria-label="search in page">
+    <a href="#" class="desktop:display-none display-flex mobile-searchbar flex-align-center flex-row flex-justify-center submit-search" tabindex="0" aria-label="search in page">
         <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
             <use xlink:href="{{ '/assets/images/uswds/sprite.svg' | relative_url }}#search"></use>
         </svg>
