@@ -13,7 +13,6 @@ redirect_from:
   - /ada_voting/ada_voting_ta.htm
 tags:
   - voting
-  - title ii
 ---
 Important federal civil rights laws were enacted to combat such forms of discrimination and protect the fundamental right to vote for all Americans. This document provides guidance to states, local jurisdictions, election officials, poll workers, and voters on how the Americans with Disabilities Act and other federal laws help ensure fairness in the voting process for people with disabilities.
 
