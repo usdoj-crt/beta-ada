@@ -13,6 +13,7 @@ redirect_from:
   - /ada_voting/ada_voting_ta.htm
 tags:
   - voting
+  - title ii
 ---
 Important federal civil rights laws were enacted to combat such forms of discrimination and protect the fundamental right to vote for all Americans. This document provides guidance to states, local jurisdictions, election officials, poll workers, and voters on how the Americans with Disabilities Act and other federal laws help ensure fairness in the voting process for people with disabilities.
 
@@ -116,11 +117,11 @@ To receive e-mail notifications when new ADA information is available, visit [AD
 
 For information about the VRA, VAEHA, NVRA, and HAVA, please visit the [Voting Section's website](https://www.justice.gov/crt/voting-section).
 
-To report complaints of possible violations of the federal voting rights laws, you may contact the [Voting Section](https://www.justice.gov/crt/voting-section).
+[Contact us](https://civilrights.justice.gov/report/) to report complaints of possible violations of the federal voting rights laws.
 
 You can contact the Voting Section though our toll-free number (800-253-3931) or [email](mailto:voting.section@usdoj.gov).
 
-For persons with disabilities, this publication is available in large print, Braille, audio tape, and on computer disk.
+For persons with disabilities, this publication is available in large print.
 
 Reproduction of this publication is encouraged.
 
