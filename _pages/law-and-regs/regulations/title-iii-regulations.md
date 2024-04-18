@@ -450,7 +450,6 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 (A) Provides guest rooms for sleeping for stays that primarily are short-term in nature (generally 30 days or less) where the occupant does not have the right to return to a specific room or unit after the conclusion of his or her stay; and
 
 (B) Provides guest rooms under conditions and with amenities similar to a hotel, motel, or inn, including the following 
-
 –
 
 (*1*) On- or off-site management and reservations service;
