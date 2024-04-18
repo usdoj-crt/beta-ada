@@ -393,7 +393,7 @@ function search(searchBoxWrapper) {
   totalCount.innerText = results.length;
   currentCount.innerText = '1';
   location.hash = '#inPageResult1';
-  document.querySelector('#inPageResult1').focus()
+  document.querySelector('#inPageResult1').focus();
 }
 
 function highlightTerm(text, section) {
