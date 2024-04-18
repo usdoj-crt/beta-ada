@@ -35,8 +35,6 @@
 
   .tool-buttons {
     position: absolute;
-  .tool-buttons {
-    position: absolute;
     margin-bottom: 1em;
     display: none;
 
@@ -69,12 +67,13 @@
       z-index: 999;
       background-color: white;
       padding: 1em;
-      right: 1em;
+      right: 30%;
       box-shadow: 0 4px 3px 0 rgba(0, 0, 0, 0.1);
       width: auto;
       justify-content: space-between;
       align-items: flex-end;
       min-width: 650px;
+      transform:translateX(30%);
     }
 
     &.mobile-search-box {
