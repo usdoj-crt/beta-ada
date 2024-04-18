@@ -80,25 +80,32 @@ function setUpMobileSearch() {
   const searchNav = searchBoxWrapper.querySelector('.result-nav');
   const searchBox = searchBoxWrapper.querySelector('.searchbox');
   setUpButtons(searchGo, searchNav, searchBox);
+  searchInput.addEventListener('keydown', (e) => {
+    openOverlay(searchBoxWrapper, searchInput);
+  });
   searchInput.addEventListener('click', () => {
-    if (searchBoxWrapper.classList.contains('visible')) return;
-    searchBoxWrapper.classList.add('visible');
-    searchInput.focus();
-    let overlay = document.querySelector('.overlay');
-    if (overlay) {
-      overlay.classList.remove('display-none');
-      return;
-    }
-    overlay = document.createElement('div');
-    overlay.classList.add('overlay');
-    document.body.appendChild(overlay);
-    overlay.addEventListener('click', () => {
-      closeSearch(overlay, searchBoxWrapper, searchInput);
-    });
+    openOverlay(searchBoxWrapper, searchInput);
   });
   searchInput.addEventListener('input', () =>
     initSearch(searchInput, searchBoxWrapper, searchGo, searchNav)
   );
+}
+
+function openOverlay(searchBoxWrapper, searchInput) {
+  if (searchBoxWrapper.classList.contains('visible')) return;
+  searchBoxWrapper.classList.add('visible');
+  searchInput.focus();
+  let overlay = document.querySelector('.overlay');
+  if (overlay) {
+    overlay.classList.remove('display-none');
+    return;
+  }
+  overlay = document.createElement('div');
+  overlay.classList.add('overlay');
+  document.body.appendChild(overlay);
+  overlay.addEventListener('click', () => {
+    closeSearch(overlay, searchBoxWrapper, searchInput);
+  });
 }
 
 function initSearch(searchInput, searchBoxWrapper, searchGo, searchNav) {
@@ -344,7 +351,7 @@ function navResults(e, dir, prevBtn, nextBtn, searchNav) {
 
 function search(searchBoxWrapper) {
   const searchBox = searchBoxWrapper.querySelector('.searchbox');
-  searchBox.focus();
+  // searchBox.focus();
   const overlay = document.querySelector('.overlay');
   if (overlay) {
     overlay.classList.add('display-none');
@@ -386,6 +393,7 @@ function search(searchBoxWrapper) {
   totalCount.innerText = results.length;
   currentCount.innerText = '1';
   location.hash = '#inPageResult1';
+  document.querySelector('#inPageResult1').focus()
 }
 
 function highlightTerm(text, section) {
