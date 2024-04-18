@@ -58,6 +58,8 @@
       font-weight: normal;
       font-size: 14px;
       min-height: 36px;
+      margin-left: 0.5em;
+      margin-right: 0;
     }
 
     &.active {
@@ -71,7 +73,7 @@
       box-shadow: 0 4px 3px 0 rgba(0, 0, 0, 0.1);
       width: auto;
       justify-content: space-between;
-      align-items: center;
+      align-items: flex-end;
       min-width: 650px;
     }
 
@@ -91,7 +93,7 @@
       display: block;
       position: absolute;
       left: 8px;
-      top: 7px;
+      top: 28px;
       width: 24px;
       height: 24px;
     }
@@ -126,10 +128,10 @@
 
     .icon-container {
       position: absolute;
-      right: 0;
+      right: 70px;
       display: flex;
       max-height: 100%;
-      top: 7px;
+      top: 30px;
     }
   }
 

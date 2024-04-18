@@ -60,19 +60,25 @@ export default function parseLawsAndRegs(mainContent) {
   mainContent.remove();
   const toolBtn = document.querySelector('#crt-page--toolbutton');
   const searchInput = document.querySelector('.searchbox');
-  if (toolBtn) {
+  // if (toolBtn) {
     const toolWrapper = document.querySelector('.tool-buttons');
     toolBtn.addEventListener('click', () => {
       toolWrapper.classList.add('active');
-      searchInput.focus();
+      // searchInput.focus();
+      const button = toolWrapper.querySelector('.side-nav-button');
+      button.focus();
       toolBtn.classList.add('disabled');
     });
     const closeSearchBtn = toolWrapper.querySelector('#closeSearch');
     closeSearchBtn.addEventListener('click', () => {
       closeSearch(toolWrapper, searchInput);
     });
-  }
-  searchInput.addEventListener('input', initSearch);
+    const searchBoxWrapper = toolWrapper.querySelector('.search-box-wrapper');
+    const searchGo = searchBoxWrapper.querySelector('#submit-search');
+    const searchNav = searchBoxWrapper.querySelector('.result-nav');
+  // }
+  setUpButtons(searchGo, searchNav, searchInput);
+  searchInput.addEventListener('input', () => initSearch(searchInput, searchBoxWrapper, searchGo, searchNav));
 }
 
 function initSearch(searchInput, searchBoxWrapper, searchGo, searchNav) {
