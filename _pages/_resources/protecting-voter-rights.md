@@ -117,7 +117,7 @@ To receive e-mail notifications when new ADA information is available, visit [AD
 
 For information about the VRA, VAEHA, NVRA, and HAVA, please visit the [Voting Section's website](https://www.justice.gov/crt/voting-section).
 
-To report complaints of possible violations of the federal voting rights laws, you may contact the [Voting Section](https://civilrights.justice.gov/report/) . 
+To report complaints of possible violations of the federal voting rights laws, you may contact the [Voting Section](https://civilrights.justice.gov/report/).
 
 You can contact the Voting Section though our toll-free number (800-253-3931) or [email](mailto:voting.section@usdoj.gov).
 
