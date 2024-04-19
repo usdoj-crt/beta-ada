@@ -481,7 +481,6 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 
 (11) A day care center, senior citizen center, homeless shelter, food bank, adoption agency, or other social service center establishment; and
 
-=======
 (i) An inn, hotel, or motel; or<br>
 (ii) A facility that –
 
@@ -503,7 +502,6 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 (9) A park, zoo, amusement park, or other place of recreation;<br>
 (10) A nursery, elementary, secondary, undergraduate, or postgraduate private school, or other place of education;<br>
 (11) A day care center, senior citizen center, homeless shelter, food bank, adoption agency, or other social service center establishment; and<br>
->>>>>>> caf8e81d (modified spacing)
 (12) A gymnasium, health spa, bowling alley, golf course, or other place of exercise or recreation.
 
 *Private club* means a private club or establishment exempted from coverage under title II of the Civil Rights Act of 1964 (42 U.S.C. 2000a(e)).
