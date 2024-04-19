@@ -443,7 +443,7 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 
 (1) Place of lodging, except for an establishment located within a facility that contains not more than five rooms for rent or hire and that actually is occupied by the proprietor of the establishment as the residence of the proprietor. For purposes of this part, a facility is a &quot;place of lodging&quot; if it is –
 
-(i) An inn, hotel, or motel; or
+(i) An inn, hotel, or motel; or 
 
 (ii) A facility that –
 
