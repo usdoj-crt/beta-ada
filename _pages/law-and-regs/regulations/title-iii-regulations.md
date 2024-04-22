@@ -443,27 +443,27 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 
 (1) Place of lodging, except for an establishment located within a facility that contains not more than five rooms for rent or hire and that actually is occupied by the proprietor of the establishment as the residence of the proprietor. For purposes of this part, a facility is a &quot;place of lodging&quot; if it is –
 
-(i) An inn, hotel, or motel; or
+(i) An inn, hotel, or motel; or<br>
 (ii) A facility that –
 
-(A) Provides guest rooms for sleeping for stays that primarily are short-term in nature (generally 30 days or less) where the occupant does not have the right to return to a specific room or unit after the conclusion of his or her stay; and
+(A) Provides guest rooms for sleeping for stays that primarily are short-term in nature (generally 30 days or less) where the occupant does not have the right to return to a specific room or unit after the conclusion of his or her stay; and<br>
 (B) Provides guest rooms under conditions and with amenities similar to a hotel, motel, or inn, including the following –
 
-(*1*) On- or off-site management and reservations service;
-(*2*) Rooms available on a walk-up or call-in basis;
-(*3*) Availability of housekeeping or linen service; and
+(*1*) On- or off-site management and reservations service;<br>
+(*2*) Rooms available on a walk-up or call-in basis;<br>
+(*3*) Availability of housekeeping or linen service; and<br>
 (*4*) Acceptance of reservations for a guest room type without guaranteeing a particular unit or room until check-in, and without a prior lease or security deposit.
 
-(2) A restaurant, bar, or other establishment serving food or drink;
-(3) A motion picture house, theater, concert hall, stadium, or other place of exhibition or entertainment;
-(4) An auditorium, convention center, lecture hall, or other place of public gathering;
-(5) A bakery, grocery store, clothing store, hardware store, shopping center, or other sales or rental establishment;
-(6) A laundromat, dry-cleaner, bank, barber shop, beauty shop, travel service, shoe repair service, funeral parlor, gas station, office of an accountant or lawyer, pharmacy, insurance office, professional office of a health care provider, hospital, or other service establishment;
-(7) A terminal, depot, or other station used for specified public transportation;
-(8) A museum, library, gallery, or other place of public display or collection;
-(9) A park, zoo, amusement park, or other place of recreation;
-(10) A nursery, elementary, secondary, undergraduate, or postgraduate private school, or other place of education;
-(11) A day care center, senior citizen center, homeless shelter, food bank, adoption agency, or other social service center establishment; and
+(2) A restaurant, bar, or other establishment serving food or drink;<br>
+(3) A motion picture house, theater, concert hall, stadium, or other place of exhibition or entertainment;<br>
+(4) An auditorium, convention center, lecture hall, or other place of public gathering;<br>
+(5) A bakery, grocery store, clothing store, hardware store, shopping center, or other sales or rental establishment;<br>
+(6) A laundromat, dry-cleaner, bank, barber shop, beauty shop, travel service, shoe repair service, funeral parlor, gas station, office of an accountant or lawyer, pharmacy, insurance office, professional office of a health care provider, hospital, or other service establishment;<br>
+(7) A terminal, depot, or other station used for specified public transportation;<br>
+(8) A museum, library, gallery, or other place of public display or collection;<br>
+(9) A park, zoo, amusement park, or other place of recreation;<br>
+(10) A nursery, elementary, secondary, undergraduate, or postgraduate private school, or other place of education;<br>
+(11) A day care center, senior citizen center, homeless shelter, food bank, adoption agency, or other social service center establishment; and<br>
 (12) A gymnasium, health spa, bowling alley, golf course, or other place of exercise or recreation.
 
 *Private club* means a private club or establishment exempted from coverage under title II of the Civil Rights Act of 1964 (42 U.S.C. 2000a(e)).
