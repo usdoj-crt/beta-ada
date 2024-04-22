@@ -3,7 +3,7 @@
 @use 'variables' as *;
 
 .crt-glossary-popup {
-  position: fixed;
+  position: absolute;
   background-color: color($theme-color-primary-darker);
   border: 1px solid color($theme-color-primary-darker);
   border-radius: 5px;
@@ -29,8 +29,32 @@
     color: color($theme-color-primary-darker);
     background-color: white;
   }
+
+  .close {
+    display: none;
+    color: white;
+  }
+
+  &.sticky .close {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding-top: 1.5em;
+    padding-right: 1em;
+    cursor: pointer;
+    background: none;
+    font-style: italic;
+    text-decoration: underline;
+    border: none;
+  }
+}
+
+a[href] .crt-glossary-term {
+  border-bottom: none;
 }
 
 .crt-glossary-term {
   border-bottom: 1px dashed color($theme-color-primary-darker);
+  cursor: pointer;
 }
