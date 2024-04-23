@@ -100,10 +100,6 @@ To check the validity of links locally using playwright, you can run with CHECK_
 CHECK_EXTERNAL_LINKS=true npx playwright test redirects.spec.js --reporter list --project='chromium' --retries=0
 ```
 
-### Content grid
-
-A content grid is generated as an artifact of every pull request as part of the github actions to centralize information about the content on the site. The content grid contains the title, link, deployment date, publish date, updated date, description, and tags of all content pages on the site. This can be retrieved by downloading the artifact from the github action "Build Content Grid".
-
 ## Technologies you should familiarize yourself with
 
 - [Jekyll](https://jekyllrb.com/docs/) - The primary site engine that builds your code and content.
