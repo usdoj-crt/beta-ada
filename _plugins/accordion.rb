@@ -13,11 +13,7 @@ module Jekyll
         context.stack do
           context["accordionID"] = @accordionID
           context["collapsed_idx"] = 1
-          if @options.match?(/closed/)
-            context["expanded"] = false
-          else
-            context["expanded"] = true
-          end
+          context["expanded"] = not @options.match?(/closed/)
           @content = super
         end
 
