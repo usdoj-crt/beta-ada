@@ -100,7 +100,6 @@ To report complaints of possible violations of the federal voting rights laws, y
 
 You can contact the Voting Section though our toll-free number (800-253-3931) or [our email address](mailto:voting.section@usdoj.gov).
 
-
 For persons with disabilities, this publication is available in large print, Braille, audio tape, and on computer disk.
 
 Reproduction of this publication is encouraged.
