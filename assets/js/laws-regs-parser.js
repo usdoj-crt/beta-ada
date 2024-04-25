@@ -69,6 +69,15 @@ export default function parseLawsAndRegs(mainContent) {
       button.focus();
       toolBtn.classList.add('disabled');
     });
+    toolBtn.addEventListener('keydown', (e) => {
+      if (e.key == 'Enter') {
+      toolWrapper.classList.add('active');
+      // searchInput.focus();
+      const button = toolWrapper.querySelector('.side-nav-button');
+      button.focus();
+      toolBtn.classList.add('disabled');
+      }
+    });
     const closeSearchBtn = toolWrapper.querySelector('#closeSearch');
     closeSearchBtn.addEventListener('click', () => {
       closeSearch(toolWrapper, searchInput);
@@ -331,6 +340,7 @@ function search() {
     closeSearch(toolWrapper, searchBox);
   });
   const searchNav = toolWrapper.querySelector('.result-nav');
+  const resultNumber = searchNav.querySelector('.result-number');
   const totalCount = searchNav.querySelector('.total');
   const currentCount = searchNav.querySelector('.current');
   const searchGo = toolWrapper.querySelector('#submit-search');
@@ -361,7 +371,9 @@ function search() {
   searchNav.classList.remove('display-none');
   totalCount.innerText = results.length;
   currentCount.innerText = '1';
+  resultNumber.setAttribute('aria-label', results.length + ' in page search results');
   location.hash = '#inPageResult1';
+  resultNumber.focus();
 }
 
 function highlightTerm(text, section) {
