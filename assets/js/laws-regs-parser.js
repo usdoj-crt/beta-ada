@@ -81,7 +81,9 @@ function setUpMobileSearch() {
   const searchBox = searchBoxWrapper.querySelector('.searchbox');
   setUpButtons(searchGo, searchNav, searchBox);
   searchInput.addEventListener('keydown', (e) => {
-    openOverlay(searchBoxWrapper, searchInput);
+    if (e.keyCode != 9) {
+      openOverlay(searchBoxWrapper, searchInput);
+    }
   });
   searchInput.addEventListener('click', () => {
     openOverlay(searchBoxWrapper, searchInput);
@@ -351,7 +353,6 @@ function navResults(e, dir, prevBtn, nextBtn, searchNav) {
 
 function search(searchBoxWrapper) {
   const searchBox = searchBoxWrapper.querySelector('.searchbox');
-  // searchBox.focus();
   const overlay = document.querySelector('.overlay');
   if (overlay) {
     overlay.classList.add('display-none');
@@ -362,8 +363,9 @@ function search(searchBoxWrapper) {
     });
   }
   const searchNav = searchBoxWrapper.querySelector('.result-nav');
-  const totalCount = searchNav.querySelector('.total');
-  const currentCount = searchNav.querySelector('.current');
+  const resultNumber = searchNav.querySelector('.result-number');
+  const totalCount = resultNumber.querySelector('.total');
+  const currentCount = resultNumber.querySelector('.current');
   const searchGo = searchBoxWrapper.querySelector('.submit-search');
   const searchQuery = searchBox.value.toLowerCase();
   if (!searchQuery.length) {
@@ -392,8 +394,9 @@ function search(searchBoxWrapper) {
   searchNav.classList.remove('display-none');
   totalCount.innerText = results.length;
   currentCount.innerText = '1';
+  resultNumber.setAttribute('aria-label', results.length + ' in page search results');
   location.hash = '#inPageResult1';
-  document.querySelector('#inPageResult1').focus();
+  resultNumber.focus();
 }
 
 function highlightTerm(text, section) {
@@ -461,6 +464,8 @@ function clearSearch(searchGo, searchNav, searchBox, e = null) {
   searchGo.classList.add('display-none');
   searchNav.classList.add('display-none');
   searchBox.value = '';
+  const resultNumber = searchNav.querySelector('.result-number');
+  resultNumber.ariaLabel = 'number of in page search results';
   sections.forEach((section) => {
     let newSection = section.cloneNode(true);
     newSection = removeHighlights(newSection);

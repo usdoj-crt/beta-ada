@@ -167,6 +167,13 @@
           display: block;
         }
 
+        .close-search {
+          display: block;
+          position: absolute;
+          right: 10px;
+          top: 10px;
+        }
+
         &.active {
           bottom: 75px;
           top: auto;
