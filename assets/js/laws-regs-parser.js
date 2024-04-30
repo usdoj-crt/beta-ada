@@ -65,16 +65,16 @@ export default function parseLawsAndRegs(mainContent) {
     toolBtn.addEventListener('click', () => {
       toolWrapper.classList.add('active');
       // searchInput.focus();
-      const button = toolWrapper.querySelector('.side-nav-button');
-      button.focus();
+      // const button = toolWrapper.querySelector('.side-nav-button');
+      toolWrapper.focus();
       toolBtn.classList.add('disabled');
     });
     toolBtn.addEventListener('keydown', (e) => {
       if (e.key == 'Enter') {
       toolWrapper.classList.add('active');
       // searchInput.focus();
-      const button = toolWrapper.querySelector('.side-nav-button');
-      button.focus();
+      // const button = toolWrapper.querySelector('.side-nav-button');
+      toolWrapper.focus();
       toolBtn.classList.add('disabled');
       }
     });
