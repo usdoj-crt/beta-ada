@@ -50,9 +50,13 @@ layout: default
         <h1 id="top">{{page.title}}</h1>
       </div>
     {% else %}
-      <h1 id="top">{{page.title}}</h1>
+      {% if page.title != 'Search' %}
+        <h1 id="top">{{page.title}}</h1>
+      {% endif %}
     {% endif %}
-      <div class="crt-landing--separator_small"></div>
+      {% if page.title != 'Search' %}
+        <div class="crt-landing--separator_small"></div>
+      {% endif %}
       {% if page.sidenav %}
       <div class="measure-6">
         {% else %}

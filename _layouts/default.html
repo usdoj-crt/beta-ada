@@ -9,7 +9,7 @@
     {% include notice.html %}
     {{ content }}
     {% if page.page-helpful != false %}
-      {% if page.sidenav or page.subpagenav %}{% assign sidenav=true %}{% else %}{% assign sidenav=false %}{% endif %}
+      {% if page.sidenav or page.subpagenav or page.title == "Search" %}{% assign sidenav=true %}{% else %}{% assign sidenav=false %}{% endif %}
     {% endif %}
   </main>
   {% include footer.html %}
