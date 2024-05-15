@@ -4,6 +4,9 @@
 .crt-page.grid-container .usa-sidenav {
   margin-left: 0;
   margin-right: 0;
+  &.interactive {
+    padding-top: 80px;
+  }
 }
 
 #crt-page--sidenav {
@@ -19,12 +22,16 @@
     }
   }
 
-  .expand-all {
-    background-color: #DFE1E2;
+  a#expand-all {
+    color: white;
+    background-color: #162e51;
     font-weight: bold;
     border-radius: 0.25rem;
     margin-bottom: 8px;
     display: flex;
+    .expand-text {
+      color: white;
+    }
   }
 
   .usa-button.side-nav-button {
@@ -214,6 +221,14 @@
           color: color($theme-color-primary-darker);
         }
       }
+    }
+  }
+}
+
+@media(max-width: 1023px) {
+  .crt-page.grid-container .usa-sidenav {
+    &.interactive {
+      padding-top: 0;
     }
   }
 }

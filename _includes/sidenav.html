@@ -5,7 +5,7 @@
   class="usa-accordion__content pa11y-skip"
   aria-label="{{site.data[lang]['i18n'].aria.side_nav}}"
 >
-<ul class="usa-sidenav">
+<ul class="usa-sidenav {% if page.interactive-headers %}interactive{% endif %}">
     {% if page.interactive-headers %}
       {% include search-box.html mobile=false %}
     {% endif %}

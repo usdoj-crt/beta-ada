@@ -68,9 +68,11 @@ export default function parseLawsAndRegs(mainContent) {
   const searchNav = searchBoxWrapper.querySelector('.result-nav');
   const searchBox = searchBoxWrapper.querySelector('.searchbox');
   setUpButtons(searchGo, searchNav, searchBox);
-  searchInput.addEventListener('input', () =>
-    initSearch(searchInput, searchBoxWrapper, searchGo, searchNav)
-  );
+  searchInput.addEventListener('input', () => {
+    // if (!searchGo.classList.contains('display-none')) {
+    initSearch(searchInput, searchBoxWrapper, searchGo, searchNav);
+    //  }
+  });
 }
 
 function setUpMobileSearch() {
@@ -88,9 +90,9 @@ function setUpMobileSearch() {
   searchInput.addEventListener('click', () => {
     openOverlay(searchBoxWrapper, searchInput);
   });
-  searchInput.addEventListener('input', () =>
-    initSearch(searchInput, searchBoxWrapper, searchGo, searchNav)
-  );
+  searchInput.addEventListener('input', () => {
+    initSearch(searchInput, searchBoxWrapper, searchGo, searchNav);
+  });
 }
 
 function openOverlay(searchBoxWrapper, searchInput) {
@@ -110,15 +112,26 @@ function openOverlay(searchBoxWrapper, searchInput) {
   });
 }
 
+function listenForInput(e, searchBoxWrapper) {
+  console.log('hit input');
+  if (e.key == 'Enter') {
+    search(searchBoxWrapper);
+  }
+}
+
 function initSearch(searchInput, searchBoxWrapper, searchGo, searchNav) {
   searchGo.classList.remove('display-none');
   searchNav.classList.add('display-none');
+  if (searchGo.classList.contains('listening')) {
+    return;
+  }
+  searchGo.classList.add('listening');
   searchInput.addEventListener('keydown', (e) => {
-    if (e.key == 'Enter') {
-      search(searchBoxWrapper);
-    }
+    listenForInput(e, searchBoxWrapper);
   });
-  searchGo.addEventListener('click', () => search(searchBoxWrapper));
+  searchGo.addEventListener('click', () => {
+    search(searchBoxWrapper);
+  });
 }
 
 function closeSearch(overlay, searchBoxWrapper, searchInput) {
@@ -352,6 +365,7 @@ function navResults(e, dir, prevBtn, nextBtn, searchNav) {
 }
 
 function search(searchBoxWrapper) {
+  console.log('hit search');
   const searchBox = searchBoxWrapper.querySelector('.searchbox');
   const overlay = document.querySelector('.overlay');
   if (overlay) {
@@ -389,14 +403,21 @@ function search(searchBoxWrapper) {
   results.forEach((result, i) => {
     const count = i + 1;
     result.id = 'inPageResult' + count;
+    result.addEventListener('keydown', (e) => goToNextResult(e, count));
   });
   searchGo.classList.add('display-none');
   searchNav.classList.remove('display-none');
   totalCount.innerText = results.length;
   currentCount.innerText = '1';
   resultNumber.setAttribute('aria-label', results.length + ' in page search results');
-  location.hash = '#inPageResult1';
   resultNumber.focus();
+  location.hash = '#inPageResult1';
+}
+
+function goToNextResult(e, count) {
+  if (e.key != 'Enter') return;
+  const id = '#inPageResult' + (count + 1);
+  location.hash = id;
 }
 
 function highlightTerm(text, section) {
@@ -462,6 +483,7 @@ function clearSearch(searchGo, searchNav, searchBox, e = null) {
   }
   const sections = document.querySelectorAll('.section');
   searchGo.classList.add('display-none');
+  // searchGo.classList.remove('listening');
   searchNav.classList.add('display-none');
   searchBox.value = '';
   const resultNumber = searchNav.querySelector('.result-number');
@@ -472,4 +494,5 @@ function clearSearch(searchGo, searchNav, searchBox, e = null) {
     newSection.classList.remove('searched');
     section.parentNode.replaceChildren(newSection);
   });
+  location.hash = '#';
 }

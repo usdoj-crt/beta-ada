@@ -36,6 +36,17 @@
   .search-box-wrapper {
     position: relative;
     margin-bottom: 1em;
+    padding-bottom: 10px;
+    background-color: white;
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    width: calc(100% - 3rem);
+
+    svg.usa-icon {
+      height: 24px;
+      width: 24px;
+    }
 
     &.mobile-search-box {
       display: none;
@@ -91,6 +102,10 @@
   }
 
   @media(max-width: 1023px) {
+    .search-box-wrapper {
+      display: none;
+    }
+
     .search-box-wrapper.mobile-search-box {
       bottom: 0;
       position: fixed;
@@ -100,6 +115,9 @@
       width: auto;
       z-index: 9999;
       display: block;
+      padding-bottom: 0;
+      background-color: transparent;
+      top: auto;
 
       .search-label {
         display: none;
