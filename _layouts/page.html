@@ -28,7 +28,6 @@ layout: default
       </div>
       {% endif %}
       {% if page.page-helpful != false and page.permalink contains '/law-and-regs/' and page.subpagenav != true %}
-        {% include touchpoints-page-helpful.html sidenav=false in-sidenav=true %}
       {% endif %}
     </div>
     {% endif %}
@@ -114,9 +113,7 @@ layout: default
         {% if page.related-content %}
           {% include related-content.html %}
         {% endif %}
-        {% if page.title == 'Give Us Feedback' %}
           <div id="touchpoints-container"></div>
-        {% endif %}
       </div>
     </div>
   </div>
