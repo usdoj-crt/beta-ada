@@ -10,7 +10,6 @@
     {{ content }}
     {% if page.page-helpful != false %}
       {% if page.sidenav or page.subpagenav or page.title == "Search" %}{% assign sidenav=true %}{% else %}{% assign sidenav=false %}{% endif %}
-      {% include touchpoints-page-helpful.html sidenav=sidenav in-sidenav=false %}
     {% endif %}
   </main>
   {% include footer.html %}
