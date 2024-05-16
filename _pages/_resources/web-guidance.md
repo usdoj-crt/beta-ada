@@ -5,6 +5,8 @@ permalink: /resources/web-guidance/
 redirect_from:
   - /web-guidance/
 lead: |-
+  **The text on this page does not include a final rule that the Attorney General signed on April 8, 2024. We will update this page by the time the new rule is effective.  Learn more about the new requirements.**
+  
   This guidance describes how state and local governments and businesses open to the public can make sure that their websites are accessible to people with disabilities as required by the Americans with Disabilities Act (ADA).
 lang: "en"
 news-item: false
