@@ -117,6 +117,7 @@ A technical standard says specifically what is needed for something to be access
 ### State and local governments’ web content usually needs to meet WCAG 2.1, Level AA.
 
 - The requirements apply to web content that your state or local government provides or makes available. This includes when you have an arrangement with someone else who provides or makes available web content for your government.
+
   - **Example**: If a county web page lists the addresses and hours of operation for all county parks, that web page must meet WCAG 2.1, Level AA even if a local web design company made the web page and updates it for the county, or if the county uses a template that was created by a private company.
 
 {% details What is web content? expandable %}
@@ -126,6 +127,7 @@ A technical standard says specifically what is needed for something to be access
 ### State and local governments’ mobile apps usually need to meet WCAG 2.1, Level AA.
 
 - The requirements apply to mobile apps that your state or local government provides or makes available. This includes when you have an arrangement with someone else who provides or makes available a mobile app for your government.
+
   - **Example**: If a city lets people pay for public parking using a mobile app, that mobile app must meet WCAG 2.1, Level AA even if the app is run by a private company.
 
 {% details What is a mobile app? expandable %}
@@ -141,14 +143,18 @@ Yes, these requirements do not stop your state or local government from using de
 ### In limited situations described below, some kinds of web content and content in mobile apps do not have to meet WCAG 2.1, Level AA.
 
 - There are limited exceptions for some kinds of content that are not as frequently used or that may be particularly hard to address right away.
+
 - These exceptions are included so that you can prioritize making the most important content—like current or commonly used information—accessible to people with disabilities quickly.
+
 - If an exception applies to certain content, it means that content would not have to meet WCAG 2.1, Level AA.
+
 - In the next section, we describe the exceptions and provide examples of how they might apply. We also give examples of when the exceptions would not apply.
 
 {% details What the exceptions described below do not change expandable %}
 The ADA requires that your state or local government must provide individuals with disabilities with effective communication, reasonable modifications, and an equal opportunity to participate in or benefit from your state or local government’s services, programs, and activities.  So even when web content or content in mobile apps does not have to meet WCAG 2.1, Level AA, you would likely still need to provide the content to a person with a disability who needs it in a format that is accessible to them.
 
 - Learn more about your existing ADA obligations to ensure [effective communication]({{'/topics/effective-communication' | relative_url}}).
+
 - Learn more about your existing ADA obligations to make [reasonable modifications]({{'/topics/title-ii' | relative_url}}).
 {% enddetails %}
 
@@ -169,8 +175,11 @@ State and local governments’ websites often include a lot of content that is n
 
 {% details The exception does <u>not</u> apply unless all four points are present. If any point is missing, the exception does not apply. expandable %}
 - **Example**: City council meeting minutes created after the date the city must comply with this rule would **not** fall under the exception, even if they are posted in the “archive” section of the city’s website, because this content was created after the time the city had to comply with this rule.
+
 - **Example**: A spreadsheet of 2021 COVID-19 statistics posted in the “archive” section of a county health department’s website would **not** fall under the exception if the spreadsheet is later edited and reposted in the archive because the content was changed after it was first posted in the archive.
+
 - **Example**: A PDF document that includes up-to-date instructions for scheduling an event in a county park would not fall under the exception, even if the document is posted in the “archive” section of the county’s website. The PDF provides current information about using the park.  The exception would **not** apply because the content is **not** kept only for reference, research, or recordkeeping.
+
 - **Reminder**: If an exception does not apply to specific web content, that web content needs to meet WCAG 2.1, Level AA, apart from the very limited situations discussed later in this guide.
 {% enddetails %}
 
@@ -192,10 +201,14 @@ Some state and local governments have a lot of old documents, like PDFs, on thei
 
 - **Example**: This exception would apply to a PDF flyer for a Thanksgiving Day parade posted on a town’s website in 2018, or a Microsoft Word version of a sample ballot for a school board election posted on a school district’s website in 2014.
 
-{% details The exception does not apply unless all three points are present.  Where any point is missing, the exception does not apply. expandable %}
+{% details The exception does <u>not</u> apply unless all three points are present.  Where any point is missing, the exception does not apply. expandable %}
+
 - **Example**: After the date a town has to comply with the rule, it posts a PowerPoint presentation that will be used in an upcoming town council meeting.  The presentation would **not** fall under the exception because it was posted after the rule’s compliance date.
+
 - **Example**: After the date a city has to comply with the rule, it updates a Microsoft Word document that was first posted on its website in 2020 to include the city’s new contact information.  The updated document would **not** qualify for the exception anymore.
+
 - **Example**: A state posted a PDF version of a business license application on its website in 2020.  Members of the public still use that PDF to apply for a business license after the date the state has to comply with the rule.  The exception would **not** apply to the application.
+
 - **Reminder**: If an exception does not apply to specific web content or content in mobile apps, that content needs to meet WCAG 2.1, Level AA, apart from the very limited situations discussed later in this guide.
 {% enddetails %}
 
@@ -204,17 +217,21 @@ Some state and local governments have a lot of old documents, like PDFs, on thei
 Third parties sometimes post content on state and local governments’ websites or mobile apps.  Third parties are members of the public or others who are not controlled by or acting for state or local governments.  Your state or local government may not be able to change the content third parties post.
 
 - Content that is posted by third parties on your state or local government’s website or mobile app would not need to meet WCAG 2.1, Level AA.
+
   - **Example**: A message that a member of the public posts on a town’s online message board would fall under the exception.
 
 {% details This exception only applies to content posted by a third party. Content that is not posted by a third party, including the following, is not covered by the exception. expandable %}
 
 1. Third-party content posted by the state or local government.
+
     - **Example**: Many state or local governments post content on their websites that is developed by an outside technology company, like calendars, scheduling tools, maps, reservations systems, and payment systems.  This content would **not** fall under the exception  because it is posted by the state or local government.
 
 2. Content posted by a state or local government’s contractor or vendor.
+
     - **Example**: If a state or local government uses a company to design, manage, or update its website, the content the company posts for the government would **not** fall under the exception.
 
 3. Tools and platforms that allow third parties to post content.
+
     - **Example**: If the state or local government has a message board platform on its website, that platform would **not** fall under the exception because the message board was added to the website by the state or local government.  However, the exception would apply to posts on that platform made by third parties who are not controlled by or acting for the government.
 
 **Reminder**: If an exception does not apply to specific web content or content in mobile apps, that content needs to meet WCAG 2.1, Level AA, apart from the very limited situations discussed later in this guide.
@@ -271,8 +288,11 @@ The ADA requires that your state or local government must provide individuals wi
 Usually, yes.  But there are some situations where meeting WCAG 2.1, Level AA is not required:
 
 - Under the ADA rules, your state or local government does not need to take actions that would result in a fundamental alteration or an undue burden.  This is also true when applying the requirements of the rule.  Determining what a fundamental alteration or undue burden is differs from entity to entity and sometimes from one year to the next.
+
   - For more information about fundamental alteration and undue burden, see [the Department’s State and Local Governments page]({{'/topics/title-ii' | relative_url}}).
+
 - You are also allowed to use designs, methods, or techniques as alternatives to WCAG 2.1, Level AA if you can prove the alternatives provide the same or more accessibility and usability.
+
 - In very limited circumstances, there may be technical or legal limitations that prevent you from making your web content or content in mobile apps directly accessible.  In those rare situations, which are discussed more below, your state or local government could provide a separate accessible version of the content that complies with WCAG 2.1, Level AA.
 {% enddetails %}
 
@@ -298,10 +318,14 @@ In some limited situations, state and local governments may be able to show that
 You cannot use this part of the rule to avoid trying to meet WCAG 2.1, Level AA.
 
 If your web content fails to meet WCAG 2.1, Level AA, you would have to prove two things:
-   1. You would have to prove that the failure to meet WCAG 2.1, Level AA does not change what people with disabilities can use your web content or mobile apps to do.  You must show that despite the failure, people with disabilities can access the same information, engage in the same interactions, conduct the same transactions, and otherwise participate or benefit from your same services, programs, and activities as individuals without disabilities.
-   2. You also have to prove that the failure to meet WCAG 2.1, Level AA does not change the way people with disabilities can use your web content or mobile apps.  In other words, you must show that the failure does not make it harder, slower, or more frustrating for someone with a disability to use your web content or mobile apps, and that they do not lose any privacy or independence because of the failure.
+<blockquote>
+1. You would have to prove that the failure to meet WCAG 2.1, Level AA does not change what people with disabilities can use your web content or mobile apps to do.  You must show that despite the failure, people with disabilities can access the same information, engage in the same interactions, conduct the same transactions, and otherwise participate or benefit from your same services, programs, and activities as individuals without disabilities.
+
+2. You also have to prove that the failure to meet WCAG 2.1, Level AA does not change the way people with disabilities can use your web content or mobile apps.  In other words, you must show that the failure does not make it harder, slower, or more frustrating for someone with a disability to use your web content or mobile apps, and that they do not lose any privacy or independence because of the failure.
+</blockquote>
 
 - **Example that violates the rule**: A state’s online renewal form does not meet WCAG 2.1 Level AA.  Because of that, a person with a manual dexterity disability may need to spend a lot more time to renew their professional license online than someone without a disability.  This person might also need to get help from someone who does not have a disability, give personal information to someone else, or go through a much harder and more frustrating process than someone without a disability.  Even if this person with a disability could ultimately renew their license online, the state would violate the rule.
+
 - **Example that meets the rule**: A state’s web page with information about a park has text with a color contrast ratio that is 4.45:1.  WCAG 2.1, Level AA requires a color contrast ratio of 4.5:1 for this text.  It can be hard for some people with vision disabilities to see text on a web page if there is not enough contrast between the color of the text and the background color.  But that very small difference in color contrast ratio probably would not change whether most people with vision disabilities could read the text on the website and access the information about the park.  If the state can prove the difference in color contrast is so small that it would not make it harder for people with disabilities to access the information about the park, the state would not violate the rule.
 
 ## Planning for Success
