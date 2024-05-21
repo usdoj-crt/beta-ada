@@ -174,7 +174,7 @@ State and local governments’ websites often include a lot of content that is n
 - **Reminder**: If an exception does not apply to specific web content, that web content needs to meet WCAG 2.1, Level AA, apart from the very limited situations discussed later in this guide.
 {% enddetails %}
 
-{% details What the exception does not change expandable %}
+{% details What the exception does not change %}
 The ADA requires that your state or local government must provide individuals with disabilities with [effective communication]({{'/topics/effective-communication' | relative_url}}), [reasonable modifications]({{'/topics/title-ii' | relative_url}}), and an equal opportunity to participate in or benefit from your state or local government’s services, programs, and activities.
 
 - **Example**:  If a person with a hearing disability requests access to a video that is archived, one way that the city could provide effective communication to the person is by adding captions to the video and sharing a copy of the captioned video file with the person.
@@ -209,18 +209,18 @@ Third parties sometimes post content on state and local governments’ websites 
 {% details This exception only applies to content posted by a third party. Content that is not posted by a third party, including the following, is not covered by the exception. expandable %}
 
 1. Third-party content posted by the state or local government.
-  - **Example**: Many state or local governments post content on their websites that is developed by an outside technology company, like calendars, scheduling tools, maps, reservations systems, and payment systems.  This content would **not** fall under the exception  because it is posted by the state or local government. 
+    - **Example**: Many state or local governments post content on their websites that is developed by an outside technology company, like calendars, scheduling tools, maps, reservations systems, and payment systems.  This content would **not** fall under the exception  because it is posted by the state or local government.
 
 2. Content posted by a state or local government’s contractor or vendor.
-  - **Example**: If a state or local government uses a company to design, manage, or update its website, the content the company posts for the government would **not** fall under the exception.
+    - **Example**: If a state or local government uses a company to design, manage, or update its website, the content the company posts for the government would **not** fall under the exception.
 
 3. Tools and platforms that allow third parties to post content.
-  - **Example**: If the state or local government has a message board platform on its website, that platform would **not** fall under the exception because the message board was added to the website by the state or local government.  However, the exception would apply to posts on that platform made by third parties who are not controlled by or acting for the government.
+    - **Example**: If the state or local government has a message board platform on its website, that platform would **not** fall under the exception because the message board was added to the website by the state or local government.  However, the exception would apply to posts on that platform made by third parties who are not controlled by or acting for the government.
 
 **Reminder**: If an exception does not apply to specific web content or content in mobile apps, that content needs to meet WCAG 2.1, Level AA, apart from the very limited situations discussed later in this guide.
 {% enddetails %}
 
-{% details What the exception does not change expandable %}
+{% details What the exception does not change %}
 The ADA requires that your state or local government must provide individuals with disabilities with [effective communication]({{'/topics/effective-communication' | relative_url}}), [reasonable modifications]({{'/topics/title-ii' | relative_url}}), and an equal opportunity to participate in or benefit from your state or local government’s services, programs, and activities.
 
 - **Example**: If a person with a disability is a party to a state court case, and a third-party private law firm in the case submits documents to the state court’s website, the court could provide effective communication to the person with a disability by quickly providing the documents to the person in a format that is accessible to them upon request.
@@ -247,7 +247,7 @@ State and local governments sometimes use password-protected websites to share d
 - **Reminder**: If an exception does not apply to specific web content or content in mobile apps, that content needs to meet WCAG 2.1, Level AA, apart from the very limited situations discussed later in this guide.
 {% enddetails %}
 
-{% details What the exception does not change expandable %}
+{% details What the exception does not change %}
 The ADA requires that your state or local government must provide individuals with disabilities with [effective communication]({{'/topics/title-ii' | relative_url}}), [reasonable modifications]({{'/topics/title-ii' | relative_url}}), and an equal opportunity to participate in or benefit from your state or local government’s services, programs, and activities.
 
 - **Example**: If a person with vision loss asks to access their personal and password-protected PDF town water bill, the town might provide effective communication to the person by giving them a large print version of the water bill, or a version of the water bill that meets some WCAG criteria, even though the PDF document would meet the exception.
@@ -261,7 +261,7 @@ For these reasons, your state or local government’s social media posts made be
 
 - **Example**: This exception would apply to a 2017 social media post by a city’s sanitation department announcing that trash collection would be delayed due to a snowstorm.
 
-{% details What the exception does not change expandable %}
+{% details What the exception does not change %}
 The ADA requires that your state or local government must provide individuals with disabilities with [effective communication]({{'/topics/effective-communication' | relative_url}}), [reasonable modifications]({{'/topics/title-ii' | relative_url}}), and an equal opportunity to participate in or benefit from your state or local government’s services, programs, and activities.
 - **Example**: If an individual who is blind requests access to a picture a city posted on social media in 2023, the city could provide effective communication by providing an alternative text description of the image to the individual.
 {% enddetails %}
