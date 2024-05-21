@@ -220,7 +220,7 @@ Third parties sometimes post content on state and local governments’ websites 
 
   - **Example**: A message that a member of the public posts on a town’s online message board would fall under the exception.
 
-{% details This exception only applies to content posted by a third party. Content that is not posted by a third party, including the following, is not covered by the exception. expandable %}
+{% details This exception only applies to content posted by a third party. Content that is not posted by a third party, including the following, is <u>not</u> covered by the exception. expandable %}
 
 1. Third-party content posted by the state or local government.
 
