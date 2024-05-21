@@ -117,7 +117,7 @@ A technical standard says specifically what is needed for something to be access
 ### State and local governments’ web content usually needs to meet WCAG 2.1, Level AA.
 
 - The requirements apply to web content that your state or local government provides or makes available. This includes when you have an arrangement with someone else who provides or makes available web content for your government.
-    - **Example**: If a county web page lists the addresses and hours of operation for all county parks, that web page must meet WCAG 2.1, Level AA even if a local web design company made the web page and updates it for the county, or if the county uses a template that was created by a private company.
+  - **Example**: If a county web page lists the addresses and hours of operation for all county parks, that web page must meet WCAG 2.1, Level AA even if a local web design company made the web page and updates it for the county, or if the county uses a template that was created by a private company.
 
 {% details What is web content? expandable %}
 “Web content” is defined as the information and experiences available on the web, like text, images, sound, videos, and documents.
@@ -126,7 +126,7 @@ A technical standard says specifically what is needed for something to be access
 ### State and local governments’ mobile apps usually need to meet WCAG 2.1, Level AA.
 
 - The requirements apply to mobile apps that your state or local government provides or makes available. This includes when you have an arrangement with someone else who provides or makes available a mobile app for your government.
-    - **Example**: If a city lets people pay for public parking using a mobile app, that mobile app must meet WCAG 2.1, Level AA even if the app is run by a private company.
+  - **Example**: If a city lets people pay for public parking using a mobile app, that mobile app must meet WCAG 2.1, Level AA even if the app is run by a private company.
 
 {% details What is a mobile app? expandable %}
 Mobile apps are software applications that are downloaded and designed to run on mobile devices like smartphones and tablets.
