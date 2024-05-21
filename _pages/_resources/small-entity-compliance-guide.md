@@ -116,14 +116,14 @@ A technical standard says specifically what is needed for something to be access
 
 ### State and local governments’ web content usually needs to meet WCAG 2.1, Level AA.
 
--The requirements apply to web content that your state or local government provides or makes available. This includes when you have an arrangement with someone else who provides or makes available web content for your government.
-  - **Example**: If a county web page lists the addresses and hours of operation for all county parks, that web page must meet WCAG 2.1, Level AA even if a local web design company made the web page and updates it for the county, or if the county uses a template that was created by a private company.
+- The requirements apply to web content that your state or local government provides or makes available. This includes when you have an arrangement with someone else who provides or makes available web content for your government.
+    - **Example**: If a county web page lists the addresses and hours of operation for all county parks, that web page must meet WCAG 2.1, Level AA even if a local web design company made the web page and updates it for the county, or if the county uses a template that was created by a private company.
 
 {% details What is web content? expandable %}
 “Web content” is defined as the information and experiences available on the web, like text, images, sound, videos, and documents.
 {% enddetails %}
 
-### State and local governments’ mobile apps usually need to meet WCAG 2.1, Level AA
+### State and local governments’ mobile apps usually need to meet WCAG 2.1, Level AA.
 
 - The requirements apply to mobile apps that your state or local government provides or makes available. This includes when you have an arrangement with someone else who provides or makes available a mobile app for your government.
     - **Example**: If a city lets people pay for public parking using a mobile app, that mobile app must meet WCAG 2.1, Level AA even if the app is run by a private company.
@@ -167,7 +167,7 @@ State and local governments’ websites often include a lot of content that is n
 
 - **Example**: A water quality report from 1998 that a state has stored only for research purposes in an “archive” section of its website and has not updated would fall under the exception.  The exception would also apply to handwritten research notes or photos that go with the 1998 water quality report that the state scans and posts to its website in the archive section.
 
-{% details The exception does <u>not</u> apply unless all four points are present. If any point is missing, the exception does not apply expandable %}
+{% details The exception does <u>not</u> apply unless all four points are present. If any point is missing, the exception does not apply. expandable %}
 - **Example**: City council meeting minutes created after the date the city must comply with this rule would **not** fall under the exception, even if they are posted in the “archive” section of the city’s website, because this content was created after the time the city had to comply with this rule.
 - **Example**: A spreadsheet of 2021 COVID-19 statistics posted in the “archive” section of a county health department’s website would **not** fall under the exception if the spreadsheet is later edited and reposted in the archive because the content was changed after it was first posted in the archive.
 - **Example**: A PDF document that includes up-to-date instructions for scheduling an event in a county park would not fall under the exception, even if the document is posted in the “archive” section of the county’s website. The PDF provides current information about using the park.  The exception would **not** apply because the content is **not** kept only for reference, research, or recordkeeping.
@@ -206,7 +206,7 @@ Third parties sometimes post content on state and local governments’ websites 
 - Content that is posted by third parties on your state or local government’s website or mobile app would not need to meet WCAG 2.1, Level AA.
   - **Example**: A message that a member of the public posts on a town’s online message board would fall under the exception.
 
-{% details This exception only applies to content posted by a third party. Content that is not posted by a third party, including the following, is not covered by the exception.  This includes: expandable %}
+{% details This exception only applies to content posted by a third party. Content that is not posted by a third party, including the following, is not covered by the exception. expandable %}
 
 1. Third-party content posted by the state or local government.
   - **Example**: Many state or local governments post content on their websites that is developed by an outside technology company, like calendars, scheduling tools, maps, reservations systems, and payment systems.  This content would **not** fall under the exception  because it is posted by the state or local government. 
