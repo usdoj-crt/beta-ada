@@ -80,7 +80,7 @@ learn:
       examples:
         - ex1:
           title: "Fact Sheet: New Rule on the Accessibility of Web Content and Mobile Apps Provided by State and Local Governments"
-          link: notices/2024/03/08/web-rule/
+          link: resources/2024-03-08-web-rule
         - ex2:
           title: "Fact Sheet:  Notice of Proposed Rulemaking on Accessibility of Medical Diagnostic Equipment"
           link: resources/2024-01-10-mde-nprm
