@@ -5,16 +5,22 @@ import totalResults from './templates/search/totalResultsTemplate';
 // Set up the search parameters:
 let urlParams = new URLSearchParams(window.location.search);
 let searchEndpoint = new URL(SEARCH_ENDPOINT);
+const audience = urlParams.get('audience');
 let searchParams = {
   affiliate: AFFILIATE,
   access_key: ACCESS_KEY,
   query: urlParams.get('query'),
   offset: urlParams.get('offset') || 0,
   limit: NUMBER_OF_RESULTS,
+  audience: audience ?? '',
 };
 // Add our total number of results DOM node:
 const target = document.getElementById('totalResultsTarget');
-
+const hiddenQueryInput = document.getElementById('hiddenQuery');
+hiddenQueryInput.value = urlParams.get('query');
+document.querySelectorAll('.usa-checkbox__input').forEach((checkbox) => {
+  checkbox.setAttribute('data-checked', checkbox.value === audience);
+});
 Object.keys(searchParams).forEach(function (key) {
   searchEndpoint.searchParams.append(key, searchParams[key]);
 });

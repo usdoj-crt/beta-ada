@@ -1,7 +1,6 @@
 {% assign lang = page.lang %} {% assign ref = page.ref %} {% if lang==nil %}{% assign lang="en" %}{%
 endif %} {% assign pages=site.pages | where:"ref", page.ref | sort: lang %}
-
-{% if page.permalink contains '/topics/' %}
+{% if page.card.href contains '/topics/' %}
   {% assign pageType = 'topics' %}
 {% elsif page.permalink contains '/resources/' %}
   {% assign pageType = 'resources' %}
