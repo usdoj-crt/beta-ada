@@ -14,8 +14,6 @@ print: true
 lang: en
 lead: |-
   Part 35 Nondiscrimination on the Basis of Disability in State and Local Government Services.
-
-  **The guidance on this page does not reflect requirements for state and local governments that were published in the Federal Register on April 24, 2024. <a href="../../../notices/2024/03/08/web-rule/">Learn more about the new requirements.</a>**
 sidenav-pdf:
   title: Americans with Disabilities Act Title II Regulations
   filename: title-ii-2010-regulations.pdf
