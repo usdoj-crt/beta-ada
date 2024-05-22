@@ -5,6 +5,8 @@ permalink: /resources/web-guidance/
 redirect_from:
   - /web-guidance/
 lead: |-
+  **The guidance on this page does not reflect requirements for state and local governments that were published in the Federal Register on April 24, 2024. <a href="https://www.ada.gov/resources/2024-03-08-web-rule/">Learn more about the new requirements</a>.**
+  
   This guidance describes how state and local governments and businesses open to the public can make sure that their websites are accessible to people with disabilities as required by the Americans with Disabilities Act (ADA).
 lang: "en"
 news-item: false

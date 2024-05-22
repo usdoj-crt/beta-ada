@@ -145,7 +145,7 @@ Additionally, the Department of Justice can file cases involving a pattern or pr
 
 ## Air Carrier Access Act
 
-The Air Carrier Access Act prohibits discrimination in air transportation by domestic and foreign air carriers against qualified individuals with physical or mental impairments. It applies only to air carriers that provide regularly scheduled services for hire to the public. Requirements address a wide range of issues including boarding assistance and certain accessibility features in newly built aircraft and new or altered airport facilities. People may enforce rights under the Air Carrier Access Act by filing a complaint with the U.S. Department of Transportation, or by bringing a lawsuit in Federal court. For more information or to file a complaint, contact:
+The Air Carrier Access Act prohibits discrimination in air transportation by domestic and foreign air carriers against qualified individuals with physical or mental impairments. It applies only to air carriers that provide regularly scheduled services for hire to the public. Requirements address a wide range of issues including boarding assistance and certain accessibility features in newly built aircraft and new or altered airport facilities. People may enforce rights under the Air Carrier Access Act by filing a complaint with the U.S. Department of Transportation. For more information or to file a complaint, contact:
 
 >Aviation Consumer Protection Division, C-75
 >U.S. Department of Transportation

@@ -1,6 +1,6 @@
 ---
 title: "Accessibility of Web Content and Mobile Apps Provided by State and Local Government Entities:  A Small Entity Compliance Guide"
-description: "The guide will small state and local governments to understand the web rule’s requirements for making sure their web content and mobile apps are accessible."
+description: "The guide will help small state and local governments to understand the web rule’s requirements for making sure their web content and mobile apps are accessible."
 permalink: /resources/small-entity-compliance-guide/
 lang: "en"
 sidenav: true
