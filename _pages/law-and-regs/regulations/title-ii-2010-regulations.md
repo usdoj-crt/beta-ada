@@ -14,6 +14,8 @@ print: true
 lang: en
 lead: |-
   Part 35 Nondiscrimination on the Basis of Disability in State and Local Government Services.
+
+  **The text on this page does not include a final rule that the Attorney General signed on April 8, 2024. We will update this page by the time the new rule is effective. <a href="https://www.ada.gov/resources/2024-03-08-web-rule/">Learn more about the new requirements</a>.**
 sidenav-pdf:
   title: Americans with Disabilities Act Title II Regulations
   filename: title-ii-2010-regulations.pdf
