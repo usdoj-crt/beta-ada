@@ -69,9 +69,7 @@ export default function parseLawsAndRegs(mainContent) {
   const searchBox = searchBoxWrapper.querySelector('.searchbox');
   setUpButtons(searchGo, searchNav, searchBox);
   searchInput.addEventListener('input', () => {
-    // if (!searchGo.classList.contains('display-none')) {
     initSearch(searchInput, searchBoxWrapper, searchGo, searchNav);
-    //  }
   });
 }
 
@@ -83,7 +81,7 @@ function setUpMobileSearch() {
   const searchBox = searchBoxWrapper.querySelector('.searchbox');
   setUpButtons(searchGo, searchNav, searchBox);
   searchInput.addEventListener('keydown', (e) => {
-    if (e.keyCode != 9) {
+    if (e.key != 'Tab') {
       openOverlay(searchBoxWrapper, searchInput);
     }
   });
@@ -113,7 +111,6 @@ function openOverlay(searchBoxWrapper, searchInput) {
 }
 
 function listenForInput(e, searchBoxWrapper) {
-  console.log('hit input');
   if (e.key == 'Enter') {
     search(searchBoxWrapper);
   }
@@ -365,7 +362,6 @@ function navResults(e, dir, prevBtn, nextBtn, searchNav) {
 }
 
 function search(searchBoxWrapper) {
-  console.log('hit search');
   const searchBox = searchBoxWrapper.querySelector('.searchbox');
   const overlay = document.querySelector('.overlay');
   if (overlay) {
@@ -403,7 +399,7 @@ function search(searchBoxWrapper) {
   results.forEach((result, i) => {
     const count = i + 1;
     result.id = 'inPageResult' + count;
-    result.addEventListener('keydown', (e) => goToNextResult(e, count));
+    result.addEventListener('keydown', (e) => goToNextResult(e, count, currentCount));
   });
   searchGo.classList.add('display-none');
   searchNav.classList.remove('display-none');
@@ -414,9 +410,10 @@ function search(searchBoxWrapper) {
   location.hash = '#inPageResult1';
 }
 
-function goToNextResult(e, count) {
+function goToNextResult(e, count, currentCount) {
   if (e.key != 'Enter') return;
   const id = '#inPageResult' + (count + 1);
+  currentCount.innerText = count + 1;
   location.hash = id;
 }
 
@@ -483,7 +480,6 @@ function clearSearch(searchGo, searchNav, searchBox, e = null) {
   }
   const sections = document.querySelectorAll('.section');
   searchGo.classList.add('display-none');
-  // searchGo.classList.remove('listening');
   searchNav.classList.add('display-none');
   searchBox.value = '';
   const resultNumber = searchNav.querySelector('.result-number');
