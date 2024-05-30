@@ -16,7 +16,7 @@ export default function communityOutreach() {
       const faCLink = document.querySelector('.civil-rights-complaint');
       faCLink.setAttribute(
         'href',
-        'https://civilrights.justice.gov/report?utm_campaign=61607827-e620-4e59-8850-b946d32c69ab'
+        'https://civilrights.justice.gov/report?utm_campaign=4a7800e0-92e5-403f-bb5f-110f47c0f6c8'
       );
     }
   });
