@@ -3672,11 +3672,11 @@ The Department notes that the ADA Amendments Act revised the rules of constructi
 
 ## Title II Regulations; Web and Mobile Accessibility Guidance and Section-by-Section Analysis
 
-APPENDIX D TO PART 35—GUIDANCE TO REVISIONS TO ADA TITLE II REGULATION ON ACCESSIBILITY OF WEB INFORMATION AND SERVICES OF STATE AND LOCAL GOVERNMENT ENTITIES
+### APPENDIX D TO PART 35—GUIDANCE TO REVISIONS TO ADA TITLE II REGULATION ON ACCESSIBILITY OF WEB INFORMATION AND SERVICES OF STATE AND LOCAL GOVERNMENT ENTITIES
 
 NOTE: This appendix contains guidance providing a section-by-section analysis of the revisions to this part published on April 24, 2024.
 
-Section-by-Section Analysis and Response to Public Comments
+**Section-by-Section Analysis and Response to Public Comments**
 
 This appendix provides a detailed description of the Department’s changes to this part
 (the title II regulation), the reasoning behind those changes, and responses to public
@@ -3686,9 +3686,9 @@ analysis addresses the changes in the order they appear in the title II regulati
 
 ### Subpart A-General
 
-Section 35.104 Definitions
+#### Section 35.104 Definitions
 
-“Archived web content”
+**“Archived web content”**
 
 The Department is including in § 35.104 a definition for “archived web content.”
 “Archived web content” is defined as web content that was created before the date the
@@ -3704,16 +3704,16 @@ unaltered in a dedicated archived area for reference, research, or recordkeeping
 term is used in the exception set forth in § 35.201(a). The Department provides a more
 detailed explanation of the application of the exception in the section-by-section
 analysis of § 35.201(a).
+
 The Department made several revisions to the definition of “archived web content” from
 the notice of proposed rulemaking (“NPRM”). The Department added a new part to the
 definition to help clarify the scope of content covered by the definition and associated
 exception. The new part of the definition, the first part, specifies that archived web
 content is limited to three types of historic content: web content that was created before
-the date the public entity is required to comply with subpart H of this part; web content
-
-that reproduces paper documents created before the date the public entity is required to
+the date the public entity is required to comply with subpart H of this part; web content that reproduces paper documents created before the date the public entity is required to
 comply with subpart H; and web content that reproduces the contents of other physical
 media created before the date the public entity is required to comply with subpart H.
+
 Web content that was created before the date a public entity is required to comply with
 subpart H of this part satisfies the first part of the definition. In determining the date web
 content was created, the Department does not intend to prohibit public entities from
@@ -3727,6 +3727,7 @@ to an archive, the content would likely no longer meet the first part of the def
 the public entity later alters or updates the content after it is posted in an archive, the
 content would not meet the third part of the definition of “archived web content” and it
 would generally need to conform to WCAG 2.1 Level AA.
+
 Web content that reproduces paper documents or that reproduces the contents of other
 physical media would also satisfy the first part of the definition if the paper documents or
 the contents of the other physical media were created before the date the public entity is
@@ -3773,6 +3774,7 @@ time, prioritizing content that is most important for members of the public. In 
 another commenter suggested that the exception should apply to archived web content
 posted after the date the public entity is required to comply with subpart H if the content
 is of historical value and only minimally altered before posting.
+
 After reviewing the comments, the Department believes the first part of the definition
 sets an appropriate time-based limitation on the scope of content covered by the
 definition and exception that is consistent with the Department’s stated intent in the
@@ -3787,6 +3789,7 @@ that content must be historic, outdated, or superfluous, because it is more
 straightforward to differentiate content based on the date the content was created.
 Therefore, there will be greater predictability for individuals with disabilities and public
 entities as to which content is covered by the exception.
+
 The Department declines to establish time-based limitations for when content may be
 posted to an archive or to otherwise set an expiration date for the exception. As
 discussed elsewhere in this appendix, the Department recognizes that many public
@@ -3798,11 +3801,7 @@ content exception thus provides public entities flexibility as to when they will
 web content, so long as the web content was created before the date the public entity
 was required to comply with subpart H of this part or the web content reproduces paper
 documents or the contents of other physical media created before the date the public
-entity was required to comply with subpart H. In addition, the Department does not
-1 88 FR 51967.
-2 88 FR 51966.
-
-believe it is necessary to establish a waiting period before newly created web created
+entity was required to comply with subpart H. In addition, the Department does not believe it is necessary to establish a waiting period before newly created web created
 content can be posted in an archive. New content created after the date a public entity
 is required to comply with subpart H will generally not meet the first part of the definition
 of “archived web content.” In the limited circumstances in which newly created web
@@ -3812,6 +3811,7 @@ entity is required to comply with subpart H, the Department believes the scope o
 content covered by the exception is sufficiently limited by the second part of the
 definition: whether the content is retained exclusively for reference, research, or
 recordkeeping.
+
 In addition to adding a new first part to the definition of “archived web content,” the
 Department made one further change to the definition from the NPRM. In the NPRM,
 what is now the second part of the definition pertained to web content that is
@@ -3830,6 +3830,7 @@ but that is not what the Department intended to convey with its use of the word
 or update web content after it is archived, the Department instead uses the word
 “retained,” which has a definition synonymous with the Department’s intended use of
 “maintain” in the NPRM. 4
+
 Commenters raised concerns about several aspects of the definition of “archived web
 content.” With respect to the second part of the definition, commenters stated that the
 definition does not clearly articulate when content is retained exclusively for reference,
@@ -3842,12 +3843,7 @@ or prior legal interpretations that are still relevant. Therefore, commenters su
 that the definition should not cover recordkeeping documents, agendas, meeting
 minutes, and other related documents at all. One commenter recommended adding to
 the definition to clarify that it does not apply to content a public entity uses to offer a
-current service, program, or activity, and another commenter suggested that content
-3 Maintain, Black’s Law Dictionary (11th ed. 2019).
-4 See Retain, Black’s Law Dictionary (11th ed. 2019) (“To hold in possession or under control; to keep and not lose,
-part with, or dismiss.”).
-
-should be archived depending on how frequently members of the public seek to access
+current service, program, or activity, and another commenter suggested that content should be archived depending on how frequently members of the public seek to access
 the content. One commenter also stated that the Department is left with the
 responsibility to determine whether web content is appropriately designated as archived
 when enforcing subpart H of this part in the future, and the commenter believed that this
@@ -3855,6 +3851,7 @@ enforcement may be insufficient to avoid public entities evading their responsib
 under subpart H. Another commenter recommended that the Department should
 conduct random audits to determine if public entities are properly designating archived
 web content.
+
 The Department’s revised definition of “archived web content,” and specifically the new
 first part of the definition, make clear that the definition only pertains to content created
 before the date the public entity is required to comply with subpart H of this part.
@@ -3880,6 +3877,7 @@ the public entity, that web content is unlikely to be covered by the exception. 
 because the content is notifying members of the public about their ongoing rights and
 responsibilities. It therefore is not, as the definition requires, being used exclusively for
 reference, research, or recordkeeping.
+
 Commenters also raised concerns about the fourth part of the definition of “archived
 web content,” which requires archived web content to be stored in a dedicated area or
 areas clearly identified as being archived. Some commenters did not believe public
@@ -3891,9 +3889,7 @@ might not be clear to members of the public to look for content in an archive de
 on the overall makeup of the web content. Commenters also stated that it would be
 burdensome to create an archive area, identify web content for the archive, and move
 the content into the archive. One commenter stated that public entities might remove
-content rather than move it to a dedicated archive. Commenters instead suggested that
-
-the web content itself could be individually marked as archived regardless of where it is
+content rather than move it to a dedicated archive. Commenters instead suggested that the web content itself could be individually marked as archived regardless of where it is
 posted. One commenter also requested the Department clarify that the term “area”
 includes “websites” and “repositories” where archived web content is stored.After
 carefully weighing these comments, the Department has decided not to change the
@@ -3917,6 +3913,7 @@ being archived will, of course, depend on the facts of the particular situation.
 Department also emphasizes that the existence of a dedicated area or areas for
 archived content must not interfere with the accessibility of other web content that is not
 archived.
+
 Some commenters also recommended an alternative definition of “archived web
 content” that does not include the second or fourth parts of the definition. Commenters
 proposed that archived web content should be defined as web content that (1) was
@@ -3942,7 +3939,9 @@ Commenters made other suggestions related to the definition of and exception for
 “archived web content.” The Department has addressed these comments in the
 discussion of the § 35.201(a) archived web content exception in the section-by-section
 analysis.
-“Conventional electronic documents”
+
+**“Conventional electronic documents”**
+
 The Department is including in § 35.104 a definition for “conventional electronic
 documents.” “Conventional electronic documents” are defined as web content or
 content in mobile apps that is in the following electronic file formats: portable document
@@ -3963,6 +3962,7 @@ the section-by-section analysis of § 35.201(b) and (d). The definition of “c
 electronic documents” covers documents created or saved as electronic files that are
 commonly available in an electronic form on public entities’ web content and mobile
 apps and that would have been traditionally available as physical printed output.
+
 In the NPRM, the Department asked whether it should craft a more flexible definition of
 “conventional electronic documents” instead of a definition based on an exhaustive list
 of file formats. 5 In response, the Department heard a range of views from commenters.
@@ -3974,15 +3974,14 @@ focus on the importance of the content contained in a document rather than the f
 format. Some commenters favoring a broader definition reasoned that technology
 evolves rapidly, and the exhaustive list of file formats the Department identified might
 not keep pace with technological advancements.
+
 Other commenters preferred the Department’s approach of identifying an exhaustive list
 of file formats. Some commenters noted that an exhaustive list provides greater clarity
 and predictability, which assists public entities in identifying their obligations under
 subpart H of this part. Some commenters suggested that the Department could provide
-greater clarity by identifying specific file types in the regulatory text rather than listing file
-5 88 FR 51958, 51968.
-
-formats (e.g., the Department might specify the Microsoft Word “.docx” file type rather
+greater clarity by identifying specific file types in the regulatory text rather than listing file formats (e.g., the Department might specify the Microsoft Word “.docx” file type rather
 than “word processor file formats”).
+
 After considering all the comments, the Department declines to change its approach to
 defining conventional electronic documents. The Department expects that a more
 flexible definition would result in less predictability for both public entities and individuals
@@ -3993,8 +3992,8 @@ sets the scope of two exceptions, § 35.201(b) and (d). The Department carefull
 balanced benefits for individuals with disabilities with the challenges public entities face
 in making their web content and mobile apps accessible in compliance with subpart H of
 this part when crafting these exceptions, and the Department does not want to
-inadvertently expand or narrow the exceptions with a less predictable definition of
-“conventional electronic documents.”
+inadvertently expand or narrow the exceptions with a less predictable definition of “conventional electronic documents.”
+
 Unlike in the NPRM, the definition of “conventional electronic documents” does not
 include database file formats. In the NPRM, the Department solicited comments about
 whether it should add any file formats to, or remove any file formats from, the definition
@@ -4009,6 +4008,7 @@ Information System) files. Commenters noted that files in such other formats are
 commonly made available by public entities and they can be burdensome to remediate.
 Commenters questioned whether there is a basis for distinguishing between the file
 formats included in the definition and other file formats not included in the definition.
+
 Other commenters believed the list of file formats included in the proposed definition of
 “conventional electronic documents” was too broad. A number of disability advocacy
 groups stated that certain document formats included in the definition are generally
@@ -4022,9 +4022,9 @@ special software tools. The commenters pointed out that data that is not primari
 intended to be human-readable is equally accessible for individuals with disabilities and
 individuals without disabilities, and they recommended clarifying that the accessibility
 requirements do not apply to such data.
+
 Some commenters suggested that certain file formats not included in the definition of
 “conventional electronic documents,” such as images or videos, may warrant different
-
 treatment altogether. For example, one public entity stated that it would be better to
 place images and multimedia in a separate and distinct category with a separate
 definition and relevant technical standards where needed to improve clarity. In addition,
@@ -4033,6 +4033,7 @@ definition and covered by the associated exceptions because public entities can 
 uniquely exempt this content in some circumstances by marking it as decorative, and it
 is straightforward for public entities to add meaningful alternative text to important
 images and photos that are not decorative.
+
 After considering all the comments, the Department agrees that database file formats
 should not be included in the definition of “conventional electronic documents.” The
 Department now understands that database files may be less commonly available
@@ -4049,6 +4050,7 @@ concerns, if any, related to database files containing data that are not primari
 to be human-readable, public entities may utilize these data to create outputs for web
 content or mobile apps, such as tables, charts, or graphs posted on a web page, and
 those outputs would be covered by subpart H unless they fall into another exception.
+
 The Department declines to make additional changes to the list of file formats included
 in the definition of “conventional electronic documents.” After reviewing the range of
 different views expressed by commenters, the Department believes the current list
@@ -4075,11 +4077,13 @@ designed to be broadly applicable to current and future web technologies. 7 Acco
 the Department believes WCAG 2.1 Level AA is the appropriate standard for other file
 formats not included in the definition of “conventional electronic documents” because
 WCAG 2.1 was crafted to address those other file formats as well.
+
 The Department also recognizes that, as some commenters pointed out, this part treats
 conventional electronic documents differently than WCAG 2.1, in that conventional
 electronic documents are included in the definition of “web content” in § 35.104, while
 WCAG 2.1 does not include those documents in its definition of “web content.” The
 Department addresses these comments in its analysis of the definition of “web content.”
+
 As discussed in the preceding paragraphs, the scope of the associated exception for
 preexisting conventional electronic documents, at § 35.201(b), is based on the definition
 of “conventional electronic documents.” The definition applies to conventional electronic
@@ -4097,19 +4101,15 @@ conventional electronic documents. The Department will retain its approach of in
 “content in mobile apps” in the definition of “conventional electronic documents” given
 that the Department agrees that some mobile apps already use conventional electronic
 documents.
-“Mobile applications (‘apps’)”
+
+**“Mobile applications (‘apps’)”**
+
 Section 35.104 defines “mobile apps” as software applications that are downloaded and
 designed to run on mobile devices, such as smartphones and tablets. For purposes of
 this part, mobile apps include, for example, native apps built for a particular platform
 (e.g., Apple iOS, Google Android) or device and hybrid apps using web components
 inside native apps. This part will retain the definition of “mobile apps” from the NPRM
 without revision.
-
-6 W3C, Introduction to Understanding WCAG, https://www.w3.org/WAI/WCAG21/Understanding/intro
-[https://perma.cc/ XB3Y-QKVU] (June 20, 2023).
-7 See W3C, Understanding Techniques for WCAG Success Criteria,
-https://www.w3.org/​WAI/​WCAG21/​Understanding/​understanding-techniques [https://perma.cc/​AMT4-XAAL]
-(June 20, 2023).
 
 The Department received very few comments on this definition. One commenter noted
 that the Department does not appear to consider other technologies that may use
@@ -4120,7 +4120,9 @@ provides or makes available, regardless of the devices on which the apps are use
 The definition therefore may include mobile apps used on wearable technology.
 Accordingly, the proposed rule’s definition of “mobile apps” will remain unchanged in this
 part.
-“Special district government”
+
+**“Special district government”**
+
 The Department has added a definition for “special district government.” The term
 “special district government” is used in § 35.200(b) and is defined in § 35.104 to mean a
 public entity—other than a county, municipality, township, or independent school
@@ -4140,7 +4142,9 @@ definition of “public entity” in § 35.104 in any way. The Department made 
 grammatical correction in this part to remove an extra “or” from the definition as
 proposed in the NPRM. 9 However, the substance of the definition is unchanged from
 the Department’s proposal in the NPRM.
-“Total population”
+
+**“Total population”**
+
 Section 35.200 provides the dates by which public entities must begin complying with
 the technical standard. The compliance dates are generally based on a public entity’s
 total population, as defined in this part. The Department has added a definition for “total
@@ -4148,13 +4152,7 @@ population” in § 35.104. If a public entity has a population calculated by t
 States Census Bureau in the most recent decennial Census, the public entity’s total
 population as defined in this part is the population estimate for that public entity as
 calculated by the United States Census Bureau in the most recent decennial Census. If
-a public entity is an independent school district, or an instrumentality of an independent
-8 See U.S. Census Bureau, Special District Governments,
-https://www.census.gov/glossary/?term=Special+district+governments [https://perma.cc/8V43-KKL9] (last visited
-Feb. 26, 2024).
-9 88 FR 52018.
-
-school district, the entity’s total population as defined in this part is the population
+a public entity is an independent school district, or an instrumentality of an independent school district, the entity’s total population as defined in this part is the population
 estimate for the independent school district as calculated by the United States Census
 Bureau in the most recent Small Area Income and Poverty Estimates. If a public entity,
 other than a special district government or an independent school district, does not have
@@ -4173,6 +4171,7 @@ subpart H of this part. This part does not provide a method for calculating the 
 population of special district governments, because § 35.200 provides that all special
 district governments have three years following the publication of the final rule to begin
 complying with the technical standard, without reference to their population.
+
 The regulatory text of this definition has been revised from the NPRM for clarity. The
 regulatory text of this definition previously provided that “total population” generally
 meant the population estimate for a public entity as calculated by the United States
@@ -4191,15 +4190,11 @@ the regulatory text of this definition did not make clear how to calculate total
 for public entities that do not have populations calculated by the United States Census
 Bureau. Accordingly, the Department has revised the regulatory text of the definition for
 clarity.
+
 The revised regulatory text of this definition retains the language from the definition in
 the NPRM with respect to public entities that have populations calculated in the
 decennial Census and independent school districts that have populations calculated in
-the Small Area Income and Poverty Estimates. However, the revised regulatory text of
-10 42 U.S.C. 12131(1).
-11 Section 35.104.
-12 88 FR 51948, 51949, 51958 (Aug. 4, 2023).
-
-this definition incorporates the approach described in the preamble of the NPRM with
+the Small Area Income and Poverty Estimates. However, the revised regulatory text of this definition incorporates the approach described in the preamble of the NPRM with
 respect to how public entities that do not have populations calculated by the United
 States Census Bureau in the most recent decennial Census can determine their total
 populations as defined in this part. As the revised definition states, if a public entity,
@@ -4225,7 +4220,9 @@ Department expects that these changes will help public entities better understan
 time frame in which they must begin complying with the technical standard. Further
 discussion of this topic, including discussion of comments, can be found in the section-
 by-section analysis of § 35.200, under the heading “Requirements by Entity Size.”
-“User agent”
+
+**“User agent”**
+
 The Department has added a definition for “user agent.” The definition exactly matches
 the definition of “user agent” in WCAG 2.1. 13 WCAG 2.1 includes an accompanying
 illustration, which clarifies that the definition of “user agent” means web browsers, media
@@ -4238,16 +4235,13 @@ analysis, the Department has more closely aligned the definition of “web conte
 part with the definition in WCAG 2.1. Because this change introduced the term “user
 agent” into the title II regulation, and the Department does not believe this is a
 commonly understood term, the Department has added the definition of “user agent”
-provided in WCAG 2.1 to this part. One commenter suggested that the Department add
-13 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1 (June 5, 2018), https://www.w3.org/TR/2018/REC-
-WCAG21-20180605/ and https://perma.cc/UB8A-GG2F.
-14 Id.
-
-this definition in this part, and the Department also believes that adding this definition in
+provided in WCAG 2.1 to this part. One commenter suggested that the Department add this definition in this part, and the Department also believes that adding this definition in
 this part is consistent with the suggestions of many commenters who proposed aligning
 the definition of “web content” with the definition in WCAG 2.1, as explained further in
 the following section.
-“WCAG 2.1”
+
+**“WCAG 2.1”**
+
 The Department is including a definition of “WCAG 2.1.” The term “WCAG 2.1” refers to
 the 2018 version of the voluntary guidelines for web accessibility, known as the Web
 Content Accessibility Guidelines 2.1 (“WCAG 2.1”). W3C, the principal international
@@ -4255,7 +4249,9 @@ organization involved in developing standards for the web, published WCAG 2.1 i
 2018, and it is available at https://www.w3.org/TR/2018/REC-WCAG21-20180605/ and
 https://perma.cc/UB8A-GG2F. WCAG 2.1 is discussed in more detail in the section-by-
 section analysis of § 35.200.
-“Web content”
+
+**“Web content”**
+
 Section 35.104 defines “web content” as the information and sensory experience to be
 communicated to the user by means of a user agent, including code or markup that
 defines the content’s structure, presentation, and interactions. Examples of web
@@ -4267,6 +4263,7 @@ experiences available on the web. However, these examples are intended to illust
 the definition and not be exhaustive. The Department also notes that subpart H of this
 part covers the accessibility of public entities’ web content regardless of whether the
 web content is viewed on desktop computers, laptops, smartphones, or elsewhere.
+
 The Department slightly revised its definition from the proposed definition in the NPRM,
 which was based on the WCAG 2.1 definition but was slightly less technical and
 intended to be more easily understood by the public generally. The Department’s
@@ -4278,17 +4275,10 @@ electronic documents. 16 In this part, the first sentence of this definition is 
 provide that web content is the information and sensory experience to be communicated
 to the user by means of a user agent, including code or markup that defines the
 content’s structure, presentation, and interactions. The sentence is now aligned with
-15 See W3C, Web Content Accessibility Guidelines 2.1 (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-
-20180605/and https://perma.cc/UB8A-GG2F (see definition of “content (Web content)”). WCAG 2.1 defines “user
-agent” as “any software that retrieves and presents Web content for users,” such as web browsers, media players,
-plug-ins, and assistive technologies. See W3C, Web Content Accessibility Guidelines 2.1 (June 5, 2018),
-https://www.w3.org/TR/2018/REC-WCAG21-20180605/ and https://perma.cc/UB8A-GG2F (see definition of “user
-agent”).
-16 88 FR 52018.
-
 the WCAG 2.1 definition of web content (sometimes referred to as “content” by
 WCAG). 17 The Department has also added a definition of “user agent” in this part, as
 explained in the section-by-section analysis.
+
 The Department decided to more closely align the definition of “web content” in this part
 with the definition in WCAG 2.1 to avoid confusion, to ensure consistency in the
 application of WCAG 2.1, and to assist technical experts in implementing subpart H of
@@ -4312,12 +4302,14 @@ definition in WCAG 2.1. However, the Department maintained in its final definit
 additional sentence providing examples of web content to aid in the public’s
 understanding of this definition. This may be particularly useful for members of the
 public without a technical background.
+
 The Department received many comments supporting the Department’s proposed
 definition of “web content” from public entities, disability advocates, individuals, and
 technical and other organizations. Many of these commenters indicated that the
 Department’s definition was sufficiently generic and familiar to the public. The
 Department believes that the definition in this part aligns with these comments, since it
 is intended to mirror the definition in WCAG 2.1 and cover the same types of content.
+
 Some commenters raised concerns that the scope of the definition should be broader,
 arguing that the definition should be extended to include “closed” systems such as
 kiosks, printers, and point-of-sale devices. Another organization mistakenly believed
@@ -4327,8 +4319,6 @@ Department declines to broaden the definition of “web content” beyond the de
 this part because the Department seeks in its rulemaking to be responsive to calls from
 the public for the Department to provide certainty by adopting a technical standard State
 and local government entities must adhere to for their web content and mobile apps.
-17 See W3C, Web Content Accessibility Guidelines 2.1 (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-
-20180605/ and https://perma.cc/UB8A-GG2F.
 
 The Department thus is limiting its rulemaking effort to web content and mobile apps.
 However, the Department notes that State and local government entities have existing
@@ -4337,6 +4327,7 @@ other types of technology under title II of the Americans with Disabilities Act 
 other laws. 18 For example, “closed” systems 19 may need to be made accessible in
 accordance with the existing title II regulation, as public entities have ongoing
 responsibilities to ensure effective communication, among other requirements.
+
 Some commenters also suggested that the Department narrow the definition of “web
 content.” A few of these comments came from trade groups representing public
 accommodations, and they argued that the scope of the proposed definition would
@@ -4357,6 +4348,7 @@ technical or legal limitations. The Department believes this approach appropriat
 balances the costs of compliance with the significant benefits to individuals with
 disabilities of being able to access the services, programs, and activities of their State
 and local government entities.
+
 Some disability advocacy groups suggested that the Department modify the definition
 slightly, such as by providing for “information, sensory or otherwise” in lieu of
 “information and sensory experience.” The Department believes the prudent approach
@@ -4368,18 +4360,11 @@ sufficiently clear. The Department can provide further guidance on the applicati
 this definition as needed.
 
 Some commenters argued that the non-exhaustive list of examples of web content in
-this part would include web content that would not be considered web content under
-18 See §§ 35.130(b)(1)(ii) and (b)(7) and 35.160.
-19 A closed system, or “closed functionality,” means that users cannot attach assistive technology to the system to
-make the content accessible, such as with a travel kiosk. See W3C, WCAG2ICT Overview,
-https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/ [https://perma.cc/XRL6-6Q9Y] (Feb. 2, 2024).
-
-WCAG 2.1. In particular, some commenters noted that conventional electronic
+this part would include web content that would not be considered web content under WCAG 2.1. In particular, some commenters noted that conventional electronic
 documents are not web content under WCAG 2.1 because they are not opened or
 presented through a user agent. Those commenters said that the Department’s
 definition of “web content” should not include files such as word processor documents,
-presentation documents, and spreadsheets, even if they are downloaded from the web.
-The commenters further suggested that this part should split consideration of electronic
+presentation documents, and spreadsheets, even if they are downloaded from the web. The commenters further suggested that this part should split consideration of electronic
 document files from web content, similar to the approach they stated is used in the
 section 508 standards. 20 The Department also reviewed suggestions from commenters
 that the Department rely on WCAG guidance explaining how to apply WCAG to non-
@@ -4390,6 +4375,7 @@ content and should thus be held to the same standard as other types of web conte
 Those commenters agreed with the Department’s decision to include conventional
 electronic documents within the definition of “web content,” particularly when the version
 posted is not open for editing by the public.
+
 The Department has considered commenters’ views and determined that conventional
 electronic documents should still be considered web content for purposes of this part.
 The Department has found that public entities frequently provide their services,
@@ -4402,34 +4388,14 @@ that some WCAG 2.1 Level AA success criteria may not apply as written to conve
 electronic documents, 23 when public entities provide or make available web content and
 content in mobile apps, public entities generally must ensure conformance to the
 WCAG 2.1 Level AA success criteria to the extent those criteria can be applied. In
-determining how to make conventional electronic documents conform to WCAG 2.1
-20 See 29 U.S.C. 794d. A discussion of the section 508 standards is included later in the section-by-section analysis,
-in “WCAG 2.0 and Section 508 of the Rehabilitation Act.”
-21 W3C, WCAG2ICT Overview, https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/
-[https://perma.cc/XRL6-6Q9Y] (Feb. 2, 2024).
-22 International Organization for Standardization, ISO 14289-1:2014; Document management applications;
-Electronic document file format enhancement for accessibility; Part 1: Use of ISO 32000-1 (PDF/UA1) (Dec. 2014),
-https://www.iso.org/standard/64599.html [https://perma.cc/S53A-Q3Y2]. One commenter also referred to PDF/UA-
-2; however, the Department’s understanding is that PDF/UA-2 is still under development. International
-Organization for Standardization, ISO 14289-2; Document management applications; Electronic document file
-format enhancement for accessibility; Part 2: Use of ISO 32000-2 (PDF/UA-2),
-https://www.iso.org/standard/82278.html [https://perma.cc/3W5L-UJ7J].
-23 W3C explains in its guidance on non-web information and communications technology that “[w]hile WCAG 2.2
-was designed to be technology-neutral, it assumes the presence of a ‘user agent’ such as a browser, media player, or
-assistive technology as a means to access web content. Therefore, the application of WCAG 2.2 to documents and
-software in non-web contexts require[s] some interpretation in order to determine how the intent of each WCAG 2.2
-success criterion could be met in these different contexts of use.” W3C, Guidance on Applying WCAG 2.2 to Non-
-Web Information and Communications Technologies (WCAG2ICT): Group Draft Note (Aug. 15, 2023),
-https://www.w3.org/TR/wcag2ict-22/ [https://perma.cc/2PYA-4RFH]. While this quotation addresses WCAG 2.2,
-the beginning of the guidance notes that “the current draft includes guidance for WCAG 2.1 success criteria.” Id.
-
-Level AA, public entities may find it helpful to consult W3C’s guidance on non-web
+determining how to make conventional electronic documents conform to WCAG 2.1 Level AA, public entities may find it helpful to consult W3C’s guidance on non-web
 information and communications technology, which explains how the WCAG success
 criteria can be applied to conventional electronic documents. The Department believes
 the compliance dates discussed in § 35.200(b) will provide public entities sufficient time
 to understand how WCAG 2.1 Level AA applies to their conventional electronic
 documents. The Department will continue to monitor developments in the accessibility
 of conventional electronic documents and issue further guidance as appropriate.
+
 Finally, several commenters asked whether this definition would cover internal, non-
 public applications, such as web content used solely by employees. The Department
 reiterates that subpart H of this part includes requirements for the web content and
@@ -4438,12 +4404,16 @@ While subpart H is not promulgated under title I of the ADA, it is important to 
 compliance with subpart H will not relieve title II entities of their distinct employment-
 related obligations under title I of the ADA, which could include, for example,
 accommodations for a web developer with a disability working for a public entity.
-Subpart H-Web and Mobile Accessibility
+
+### Subpart H-Web and Mobile Accessibility
+
 The Department is creating a new subpart in its title II regulation. Subpart H addresses
 the accessibility of public entities’ web content and mobile apps.
-Section 35.200 Requirements for Web and Mobile Accessibility.
 
-General
+#### Section 35.200 Requirements for Web and Mobile Accessibility.
+
+**General**
+
 Section 35.200 sets forth specific requirements for the accessibility of web content and
 mobile apps of public entities. Section 35.200(a) requires a public entity to ensure that
 the following are readily accessible to and usable by individuals with disabilities: (1) web
@@ -4454,15 +4424,14 @@ detailed in this section, the remainder of § 35.200 sets forth the specific st
 public entities are required to meet to make their web content and mobile apps
 accessible and the timelines for compliance.
 
-Web Content and Mobile Apps that Public Entities Provide or Make Available
+***Web Content and Mobile Apps that Public Entities Provide or Make Available***
+
 Section 35.200(a) identifies the scope of content covered by subpart H of this part.
 Section 35.200(a)(1) and (2) applies to web content and mobile apps that a public entity
 provides or makes available. The Department intends the scope of § 35.200 to be
 consistent with the “Application” section of the existing title II regulation at § 35.102,
 which states that this part applies to all services, programs, and activities provided or
-made available by public entities. The Department therefore made minor changes to
-
-the language of § 35.200(a)(1) and (2) to make the section more consistent with §
+made available by public entities. The Department therefore made minor changes to the language of § 35.200(a)(1) and (2) to make the section more consistent with §
 35.102. In the NPRM, § 35.200(a)(1) and (2) applied to web content and mobile apps
 that a public entity makes available to members of the public or uses to offer services,
 programs, or activities to members of the public. 24 The Department revised
