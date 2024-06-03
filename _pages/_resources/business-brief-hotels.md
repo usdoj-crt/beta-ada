@@ -1,6 +1,6 @@
 ---
 title: "ADA Business Brief:  Communicating with Guests who are Deaf or Hard of Hearing in Hotels, Motels, and Other Places of Transient Lodging"
-description: A publication within the Business Brief series Sexplaining specific ADA issues that are designed to be printed and distributed to hotel employees.
+description: A publication within the Business Brief series explaining specific ADA issues that are designed to be printed and distributed to hotel employees.
 lead: People who are deaf or hard of hearing use a variety of ways to communicate. Some rely on sign language interpreters or assistive listening devices; some rely primarily on written messages. Many can speak but are not able to hear words spoken by others. The method of communication and the services or aids hotel staff must provide will vary depending upon the abilities of the guest and on the complexity and nature of the communications that are required.
 permalink: /resources/business-brief-hotels/
 redirect_from:
