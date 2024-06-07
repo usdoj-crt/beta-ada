@@ -4431,8 +4431,7 @@ Section 35.200(a)(1) and (2) applies to web content and mobile apps that a publ
 provides or makes available. The Department intends the scope of § 35.200 to be
 consistent with the “Application” section of the existing title II regulation at § 35.102,
 which states that this part applies to all services, programs, and activities provided or
-made available by public entities. The Department therefore made minor changes to the language of § 35.200(a)(1) and (2) to make the section more consistent with §
-35.102. In the NPRM, § 35.200(a)(1) and (2) applied to web content and mobile apps
+made available by public entities. The Department therefore made minor changes to the language of § 35.200(a)(1) and (2) to make the section more consistent with § 35.102. In the NPRM, § 35.200(a)(1) and (2) applied to web content and mobile apps
 that a public entity makes available to members of the public or uses to offer services,
 programs, or activities to members of the public. 24 The Department revised
 § 35.200(a)(1) and (2) to apply to web content and mobile apps that a public entity
@@ -4446,7 +4445,7 @@ language does not change or limit the coverage of subpart H as compared to the
 NPRM. Both the revised language and the NPRM are consistent with the broad
 coverage of § 35.102.
 
-Contractual, Licensing, and Other Arrangements
+**Contractual, Licensing, and Other Arrangements**
 
 The general requirements in subpart H of this part apply to web content or mobile apps
 that a public entity provides or makes available directly, as well as those the public
@@ -4463,6 +4462,7 @@ licensing, or other arrangements, they are not relieved of their obligations und
 H. For example, when public educational institutions arrange for third parties to post
 educational content on their behalf, public entities will still be responsible for the
 accessibility of that content under the ADA.
+
 Further, the Department emphasizes that the phrase “provides or makes available” in
 § 35.200 is not intended to mean that § 35.200 only applies when the public entity
 creates or owns the web content or mobile app. The plain meaning of “make available”
@@ -4470,12 +4470,7 @@ includes situations where a public entity relies on a third party to operate or 
 content.  Section 35.200 means that public entities provide or make available web
 content and mobile apps even where public entities do not design or own the web
 content or mobile app, if there is a contractual, licensing, or other arrangement through
-which the public entity uses the web content or mobile app to provide a service,
-24 88 FR 52018.
-25 Section 35.130(b)(1) and (3). See also § 35.152(a) (describing requirements for jails, detention and correctional
-facilities, and community correctional facilities).
-
-program, or activity. For example, even when a city does not design, create, or own a
+which the public entity uses the web content or mobile app to provide a service, program, or activity. For example, even when a city does not design, create, or own a
 mobile app allowing the public to pay for public parking, when a contractual, licensing,
 or other arrangement exists between the city and the mobile app enabling the public to
 use the mobile app to pay for parking in the city, the mobile app is covered under
@@ -4494,6 +4489,7 @@ to cover any content created by third parties even when it was created on behalf
 public entities. Commenters urged the Department to make clear in regulatory text that
 content created or provided by third-party entities is still covered by this part where
 those third parties are acting on behalf of a public entity.
+
 The Department agrees with these commenters’ concerns, so the Department has
 modified the language in subpart H of this part to make clear that the general
 requirements for web content and mobile app accessibility apply when the public entity
@@ -4510,16 +4506,13 @@ general requirements provisions in § 35.200(a)(1) and (2) and (b)(1) and (2) d
 change the meaning of the provisions, but rather ensures clarity about public entities’
 obligations when they are acting through a third party, such as when they contract with
 a vendor.
+
 Many commenters stated their concern that public entities lack control over third-party
 content, even where they contract with third parties to provide that content. These
 commenters, generally from public entities and trade groups representing public
 accommodations, argued that seeking to obtain accessible third-party content provided
 on behalf of public entities would be challenging. Some of these commenters said that
-in theory this type of content could be controlled by procurement, but that this has not
-26 See § 35.130(b)(1) and (3).
-27 88 FR 51957.
-
-been realized in practice. While the Department is sympathetic to these concerns, the
+in theory this type of content could be controlled by procurement, but that this has not been realized in practice. While the Department is sympathetic to these concerns, the
 Department also received many comments from disability advocates and individuals
 with disabilities pointing out the crucial nature of services provided by third parties on
 behalf of public entities. For example, some disability advocates argued that State and
@@ -4541,6 +4534,7 @@ subpart H, which will make it less difficult for public entities to procure acce
 services from contractors. The Department also notes that public entities will be able to
 rely on the fundamental alteration and undue burdens limitations in this part in § 35.204
 where they can satisfy the requirements of that provision.
+
 Further, the Department believes that when public entities engage in contractual,
 licensing, or other arrangements with third parties to provide or make available web
 content and mobile apps, public entities can choose to work with providers who can
@@ -4554,17 +4548,16 @@ where such circumstances warrant, public entities can rely on the undue burdens
 provision when they can satisfy its requirements. In addition, the Department expects
 that options for procuring accessible third-party services will grow in response to its
 rulemaking.
-Background on WCAG
+
+**Background on WCAG**
+
 Since 1994, W3C has been the principal international organization involved in
 developing protocols and guidelines for the web. 28 W3C develops a variety of voluntary
 technical standards and guidelines, including ones relating to privacy,
 internationalization of technology, and—relevant here—accessibility. W3C’s Web
-Accessibility Initiative (“WAI”) has developed voluntary guidelines for web accessibility,
-
-28 W3C, About Us, https://www.w3.org/about/ [https://perma.cc/TQ2W-T377].
-
-known as WCAG, to help web developers create web content that is accessible to
+Accessibility Initiative (“WAI”) has developed voluntary guidelines for web accessibility, known as WCAG, to help web developers create web content that is accessible to
 individuals with disabilities. 29
+
 The first version of WCAG, WCAG 1.0, was published in 1999. WCAG 2.0 was
 published in December 2008, and is available at http://www.w3.org/TR/2008/REC-
 WCAG20-20081211/ [https://perma.cc/L2NH-VLCR]. WCAG 2.0 was approved as an
@@ -4574,6 +4567,7 @@ was published in June 2018, and is available at https://www.w3.org/TR/2018/REC-
 WCAG21-20180605/ and https://perma.cc/UB8A-GG2F. 31 WCAG 2.1 is built on and is
 backwards compatible with WCAG 2.0. 32 In fact, 38 of the 50 Level A and AA success
 criteria in WCAG 2.1 are also included in WCAG 2.0. 33
+
 WCAG 2.1 contains four principles that provide the foundation for web accessibility: the
 web content must be perceivable, operable, understandable, and robust. 34 Testable
 success criteria (i.e., requirements for web accessibility that are measurable) are
@@ -4581,40 +4575,17 @@ provided “to be used where requirements and conformance testing are necessary 
 as in design specification, purchasing, regulation and contractual agreements.” 35 Thus,
 WCAG 2.1 contemplates establishing testable success criteria that could be used in
 regulatory efforts such as this one.
-Technical Standard— WCAG 2.1 Level AA
+
+**Technical Standard— WCAG 2.1 Level AA**
 
 Section 35.200 requires that public entities’ web content and mobile apps conform to
 WCAG 2.1 Level AA unless compliance would result in a fundamental alteration or
-undue financial and administrative burdens. As previously mentioned, WCAG 2.1 was
-
-29 The Department received one comment arguing that the process by which WCAG is developed is not equitable or
-inclusive of members of the disability community. The Department received another comment commending the
-Department for adopting WCAG as the technical standard and noting that WCAG is developed through an open,
-transparent, multi-stakeholder consensus process. The Department carefully considered these comments and
-concluded that it is appropriate to adopt a consensus standard promulgated by W3C with input from various
-stakeholders, which is also consistent with the NTTAA. Information from W3C about its process for developing
-standards is available at W3C, Web Accessibility Initiative, How WAI Develops Accessibility Standards Through the
-W3C Process: Milestones and Opportunities To Contribute (Sept. 2006), https://www.w3.org/WAI/standards-
-guidelines/w3c-process/ [https://perma.cc/3BED-RCJP] (Nov. 2, 2020).
-30 W3C, Web Content Accessibility Guidelines 2.0 Approved as ISO/IEC International Standard (Oct. 15, 2012),
-https://www.w3.org/press-releases/2012/wcag2pas/ [https://perma.cc/JQ39-HGKQ].
-31 The WAI also published some revisions to WCAG 2.1 on September 21, 2023. W3C, Web Content Accessibility
-Guidelines (WCAG) 2.1 (Sept. 21, 2023), https://www.w3.org/TR/WCAG21/ [https://perma.cc/4VF7-NF5F]; see
-infra note 47. The WAI also published a working draft of WCAG 3.0 in December 2021. W3C, W3C Accessibility
-Guidelines (WCAG) 3.0, https://www.w3.org/TR/wcag-3.0/ (July 24, 2023) [https://perma.cc/7FPQ-EEJ7].
-32 W3C, Web Content Accessibility Guidelines (WCAG) 2.1, 0.5 Comparison with WCAG 2.0 (June 5, 2018),
-https://www.w3.org/TR/2018/REC-WCAG21-20180605/#comparison-with-wcag-2-0 [https://perma.cc/H76F-
-6L27].
-33 See id.
-34 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1, WCAG 2 Layers of Guidance (Sept. 21, 2023),
-https://www.w3.org/TR/WCAG21/#wcag-2-layers-of-guidance [https://perma.cc/5PDG-ZTJE].
-35 Id. (emphasis added).
-
-published in June 2018 and is available at https://www.w3.org/TR/2018/REC-WCAG21-
+undue financial and administrative burdens. As previously mentioned, WCAG 2.1 was published in June 2018 and is available at https://www.w3.org/TR/2018/REC-WCAG21-
 20180605/ and https://perma.cc/UB8A-GG2F. To the extent there are differences
 between WCAG 2.1 Level AA and the standards articulated in this part, the standards
 articulated in this part prevail. WCAG 2.1 Level AA is not restated in full in this part but
 is instead incorporated by reference.
+
 In the NPRM, the Department solicited feedback on the appropriate technical standard
 for accessibility for public entities’ web content and mobile apps. The Department
 received many public comments from a variety of interested parties in response. After
@@ -4636,6 +4607,7 @@ WCAG standards were designed to be “technology neutral.” 37 This means that 
 designed to be broadly applicable to current and future web technologies. 38 Thus,
 WCAG 2.1 also allows web and mobile app developers flexibility and potential for
 innovation.
+
 The Department expects that adopting WCAG 2.1 Level AA as the technical standard
 will have benefits that are important to ensuring access for individuals with disabilities to
 public entities’ services, programs, and activities. For example, WCAG 2.1 Level AA
@@ -4644,18 +4616,6 @@ important, for example, for people with low vision who use magnifying tools. Wit
 the formatting that WCAG 2.1 Level AA requires, a person magnifying the text might find
 reading the text disorienting because they might have to scroll horizontally on every
 line. 40
-
-36 W3C, Web Content Accessibility Guidelines (WCAG) 2.1, 0.5 Comparison with WCAG 2.0 (June 5, 2018),
-https://www.w3.org/TR/2018/REC-WCAG21-20180605/#comparison-with-wcag-2-0 [https://perma.cc/H76F-
-6L27].
-37 W3C, Introduction to Understanding WCAG, https://www.w3.org/WAI/WCAG21/Understanding/intro
-[https://perma.cc/XB3Y-QKVU] (June 20, 2023).
-38 See W3C, Understanding Techniques for WCAG Success Criteria,
-https://www.w3.org/WAI/WCAG21/Understanding/understanding-techniques [https://perma.cc/AMT4-XAAL]
-(June 20, 2023).
-39 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 1.4.10 Reflow (June 5, 2018),
-https://www.w3.org/TR/2018/REC-WCAG21-20180605/#reflow [https://perma.cc/TU9U-C8K2].
-40 See id.
 
 WCAG 2.1 Level AA also includes success criteria addressing the accessibility of
 mobile apps or web content viewed on a mobile device. For example, WCAG 2.1
@@ -4670,6 +4630,7 @@ that if a function in an app can be operated by motion—for example, shaking th
 to undo typing—that there be an option to turn off that motion sensitivity. 44 This could be
 important, for example, for someone who has tremors, so that they do not accidentally
 undo their typing. 45
+
 Such accessibility features are critical for individuals with disabilities to have equal
 access to their State or local government entity’s services, programs, and activities.
 This is particularly true given that using mobile devices to access government services
@@ -4679,40 +4640,17 @@ of mobile-related criteria is important because of public entities’ increasing
 apps in offering their services, programs, or activities. Public entities are using mobile
 apps to offer a range of critical government services—from providing traffic information,
 to scheduling trash pickup, to making vaccination appointments.
+
 The Department also understands that public entities are likely already familiar with
 WCAG 2.1 Level AA or will be able to become familiar quickly. This is because
-WCAG 2.1 Level AA has been available since 2018, 47 and it builds upon WCAG 2.0,
-41 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 1.3.4 Orientation (June 5, 2018),
-https://www.w3.org/TR/2018/REC-WCAG21-20180605/#orientation [https://perma.cc/M2YG-LB9V].
-42 W3C, What’s New in WCAG 2.1, https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/
-[https://perma.cc/S7VS-J6E4] (Oct. 5, 2023).
-43 See id.
-44 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 2.5.4 Motion Actuation (June 5,
-2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#motion-actuation [https://perma.cc/D3PS-32NV].
-45 See W3C, What’s New in WCAG 2.1, https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/
-[https://perma.cc/W8HK-Z5QK] (Oct. 5, 2023).
-46 Andrew Buck, MobiLoud, What Percentage of Internet Traffic is Mobile?, https://www.mobiloud.com/blog/what-
-percentage-of-internet-traffic-is-mobile#what-percentage-of-internet-traffic-comes-on-mobile-devices
-[https://perma.cc/2FK6-UDD5] (Feb. 7, 2024).
-47 The WAI published some revisions to WCAG 2.1 on September 21, 2023.  See W3C, Web Content Accessibility
-Guidelines (WCAG) 2.1 (Sept. 21, 2023), https://www.w3.org/TR/WCAG21/ [https://perma.cc/4VF7-NF5F].
- However, for the reasons discussed in this section, subpart H of this part requires conformance to the version of
-WCAG 2.1 that was published in 2018.  W3C, Web Content Accessibility Guidelines 2.1 (June 5, 2018),
-https://www.w3.org/TR/2018/REC-WCAG21-20180605/ and https://perma.cc/UB8A-GG2F.  The Department
-believes that public entities have not had sufficient time to become familiar with the 2023 version.  Public entities
-and others also may not have had an adequate opportunity to comment on whether the Department should adopt the
-2023 version, which was published shortly before the comment period on the NPRM closed on October 3, 2023. 
-One recent revision to WCAG 2.1 relates to Success Criterion 4.1.1, which addresses parsing.  W3C has described
-Success Criterion 4.1.1 as “obsolete” and stated that it “is no longer needed for accessibility.”  W3C, WCAG 2 FAQ,
-https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411 [https://perma.cc/24FK-V8LS] (Oct. 5, 2023). 
-
-which has been in existence since 2008 and has been established for years as a
+WCAG 2.1 Level AA has been available since 2018, 47 and it builds upon WCAG 2.0, which has been in existence since 2008 and has been established for years as a
 benchmark for accessibility. According to the Department’s research, WCAG 2.1 is
 already being increasingly used by members of the public and State and local
 government entities. At least ten States now use, or aim to use, WCAG 2.1 as a
 standard for their websites, indicating increased familiarity with and use of the standard.
 In fact, as commenters also noted, the Department recently included WCAG 2.1 in
 several settlement agreements with covered entities addressing inaccessible websites. 48
+
 The Department expects, and heard in public comments, that web developers and
 professionals who work for or with public entities are likely to be familiar with WCAG 2.1
 Level AA. And the Department believes that if public entities and associated web
@@ -4726,36 +4664,10 @@ depending on population size, to come into compliance with subpart H of this par
 Therefore, public entities and web professionals who are not already familiar with
 WCAG 2.1 will have time to familiarize themselves and plan to ensure that they will be
 in compliance with the rule when required.
-Alternative Approaches Considered
-According to the 2023 version of WCAG, Success Criterion 4.1.1 “should be considered as always satisfied for any
-content using HTML or XML.”  W3C, Web Content Accessibility Guidelines (WCAG) 2.1 (Sept. 21, 2023),
-https://www.w3.org/TR/WCAG21/ [https://perma.cc/4VF7-NF5F].  The Department believes that either adopting
-this note from the 2023 version of WCAG or not requiring conformance to Success Criterion 4.1.1 is likely to create
-significant confusion.  And although Success Criterion 4.1.1 has been removed from WCAG 2.2, the Department
-has decided not to adopt WCAG 2.2 for the reasons described herein.  W3C, WCAG 2 FAQ,
-https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411 [https://perma.cc/45DS-RRYS] (Oct. 5,
-2023).  Therefore, conformance to Success Criterion 4.1.1 is still required by subpart H of this part.  Public entities
-that do not conform to Success Criterion 4.1.1 would nonetheless be able to rely on § 35.205 to satisfy their
-obligations under § 35.200 if the failure to conform to Success Criterion 4.1.1 would not affect the ability of
-individuals with disabilities to use the public entity’s web content or mobile app in the manner described in that
-section.  The Department expects that this provision will help public entities avoid any unnecessary burden that
-might be imposed by Success Criterion 4.1.1.
-48 See, e.g., Settlement Agreement Under the Americans with Disabilities Act Between the United States of America
-and CVS Pharmacy, Inc. (Apr. 11, 2022), https://www.ada.gov/cvs_sa.pdf [https://perma.cc/H5KZ-4VVF];
-Settlement Agreement Under the Americans with Disabilities Act Between the United States of America and Meijer,
-Inc. (Feb. 2, 2022), https://www.ada.gov/meijer_sa.pdf [https://perma.cc/5FGD-FK42]; Settlement Agreement
-Under the Americans with Disabilities Act Between the United States of America and the Kroger Co. (Jan. 28,
-2022), https://www.ada.gov/kroger_co_sa.pdf [https://perma.cc/6ASX-U7FQ]; Settlement Agreement Between the
-United States of America and the Champaign-Urbana Mass Transit District (Dec. 14, 2021),
-https://www.justice.gov/d9/case-documents/attachments/2021/12/14/champaign-urbana_sa.pdf
-[https://perma.cc/66XY-QGA8]; Settlement Agreement Under the Americans with Disabilities Act Between the
-United States of America and Hy-Vee, Inc. (Dec. 1, 2021), https://www.ada.gov/hy-vee_sa.pdf
-[https://perma.cc/GFY6-BJNE]; Settlement Agreement Under the Americans with Disabilities Act Between the
-United States of America and Rite Aid Corp. (Nov. 1, 2021), https://www.ada.gov/rite_aid_sa.pdf
-[https://perma.cc/4HBF-RBK2].
-49 See, e.g., W3C, Tutorials, https://www.w3.org/WAI/tutorials/ [https://perma.cc/SW5E-WWXV] (Feb. 16, 2023).
 
-WCAG 2.2
+***Alternative Approaches Considered***
+
+**<u>WCAG 2.2</u>**
 
 Commenters suggested that the Department adopt WCAG 2.2 as the technical
 standard. WCAG 2.2 was published as a candidate recommendation—a prefinalization
@@ -4776,11 +4688,13 @@ with cognitive disabilities by limiting the use of cognitive function tests, lik
 puzzles, in authentication processes. 53 Some commenters also suggested that the few
 additional criteria in WCAG 2.2 would not pose a substantial burden for web developers,
 who are likely already familiar with WCAG 2.1.
+
 Some commenters suggested that WCAG 2.1 would become outdated once WCAG 2.2
 was finalized. And because WCAG 2.2 was adopted more recently than WCAG 2.1,
 some commenters noted that the adoption of WCAG 2.2 would be more likely to help
 subpart H of this part keep pace with changes in technology. The Department
 understands and appreciates the concerns commenters raised.
+
 The Department believes that adopting WCAG 2.1 as the technical standard rather than
 WCAG 2.2 is the most prudent approach at this time. W3C, while recommending the
 use of the most recent recommended standard, has made clear that WCAG 2.2 does
@@ -4789,25 +4703,14 @@ existing standard. 54 The Department recognizes that WCAG 2.2 is a newer standa
 but in crafting subpart H of this part the Department sought to balance benefits for
 individuals with disabilities with feasibility for public entities making their content
 accessible in compliance with subpart H. Because WCAG 2.2 has been adopted so
-recently, web professionals have had less time to become familiar with the additional
-
-50 W3C, WCAG 2 Overview, https://www.w3.org/WAI/standards-guidelines/wcag/ [https://perma.cc/RQS2-P7JC]
-(Oct. 5, 2023).
-51 W3C, What’s New in WCAG 2.2, https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/
-[https://perma.cc/GDM3-A6SE] (Oct. 5, 2023).
-52 Id.
-53 Id.
-54 W3C, WCAG 2 Overview, https://www.w3.org/WAI/standards-
-guidelines/wcag/#:~:text=WCAG%202.0%2C%20WCAG%202.1%2C%20and%20WCAG%202.2%20are%20all%
-20existing,most%20recent%20version%20of%20WCAG [https://perma.cc/V5ZC-BF8Z] (Oct. 5, 2023).
-
-success criteria that have been incorporated in WCAG 2.2. The Department believes
+recently, web professionals have had less time to become familiar with the additional success criteria that have been incorporated in WCAG 2.2. The Department believes
 there will be fewer resources and less guidance available to web professionals and
 public entities on the new success criteria in WCAG 2.2. Additionally, the Department
 appreciates the concerns expressed by at least one commenter with adopting any
 standard that was not finalized before the NPRM’s comment period—as was the case
 with WCAG 2.2—because interested parties would not have had an opportunity to
 understand and comment on the finalized standard.
+
 Given the benefits of WCAG 2.2 highlighted by commenters, some public entities might
 choose to implement WCAG 2.2 to provide an even more accessible experience for
 individuals with disabilities and to increase customer service satisfaction. The
@@ -4818,7 +4721,7 @@ substantially equivalent or greater accessibility and usability as compared to W
 Level AA. This would be sufficient to meet the standard for equivalent facilitation in
 § 35.203, which is discussed in more detail later in the section-by-section analysis.
 
-WCAG 2.0 and Section 508 of the Rehabilitation Act
+**<u>WCAG 2.0 and Section 508 of the Rehabilitation Act</u>**
 
 Alternatively, the Department considered adopting WCAG 2.0. This change was
 suggested by the Small Business Administration, which argued that public entities
@@ -4831,25 +4734,18 @@ finalized. 55 And although WCAG 2.0 is the standard adopted by the Department o
 Transportation in its regulations implementing the Air Carrier Access Act, which covers
 airlines’ websites and kiosks, 56 those regulations—like the section 508 rule—were
 promulgated before WCAG 2.1 was published.
+
 The Department believes that adopting WCAG 2.1 as the technical standard for subpart
 H of this part is more appropriate than adopting WCAG 2.0. WCAG 2.1 provides for
 important accessibility features that are not included in WCAG 2.0, and an increasing
 number of governmental entities are using WCAG 2.1. A number of countries that have
 adopted WCAG 2.0 as their standard are now making efforts to move or have moved to
-WCAG 2.1. 57 In countries that are part of the European Union, public sector websites
-55 See Information and Communication Technology (ICT) Standards and Guidelines, 82 FR 5790, 5791 (Jan. 18,
-2017); W3C, Web Content Accessibility Guidelines (WCAG) 2.1 (June 5, 2018), https://www.w3.org/TR/2018/REC-
-WCAG21-20180605/and https://perma.cc/UB8A-GG2F.
-56 See 14 CFR 382.43(c) through (e) and 382.57.
-57 See, e.g., Austl. Gov’t Digital Transformation Agency, Exploring WCAG 2.1 for Australian Government Services
-(Aug. 22, 2018), https://www.dta.gov.au/blogs/exploring-wcag-21-australian-government-services. A Perma
-archive link was unavailable for this citation. See also W3C, Denmark (Danmark),
-
-and mobile apps generally must meet a technical standard that requires conformance to
+WCAG 2.1. 57 In countries that are part of the European Union, public sector websites and mobile apps generally must meet a technical standard that requires conformance to
 the WCAG 2.1 success criteria. 58 And WCAG 2.0 is likely to become outdated or less
 relevant more quickly than WCAG 2.1. As discussed previously in this appendix,
 WCAG 2.2 was recently published and includes even more success criteria for
 accessibility.
+
 The Department expects that the wide usage of WCAG 2.0 lays a solid foundation for
 public entities to become familiar with and implement WCAG 2.1’s additional Level A
 and AA criteria. According to the Department’s research, dozens of States either use or
@@ -4867,7 +4763,9 @@ into compliance with subpart H, which should also provide sufficient time to bec
 familiar with and implement WCAG 2.1. The Department also declines to adopt the
 Access Board’s section 508 standards, which are harmonized with WCAG 2.0, for the
 same reasons it declines to adopt WCAG 2.0.
-Effective Communication and Performance Standards
+
+**<u>Effective Communication and Performance Standards</u>**
+
 Some commenters suggested that the Department should require public entities to
 ensure that they are meeting title II’s effective communication standard—which requires
 that public entities ensure that their communications with individuals with disabilities are
@@ -4879,18 +4777,6 @@ Department believes that adopting into subpart H of this part the effective
 communication standard, which is already required under the existing title II regulation, 60
 would not meaningfully help ensure access for individuals with disabilities or provide
 clarity for public entities in terms of what specifically public entities must do to ensure
-https://www.w3.org/WAI/policies/denmark/#bekendtg%C3%B8relse-om-afgivelse-af-
-tilg%C3%A6ngelighedserkl%C3%A6ring-for-offentlige-organers-websteder-og-mobilapplikationer
-[https://perma.cc/K8BM-4QN8] (Mar. 15, 2023); see also W3C, Web Accessibility Laws &amp; Policies,
-https://www.w3.org/WAI/policies/ [https://perma.cc/6SU3-3VR3] (Dec. 2023).
-58 European Comm’n, Web Accessibility, https://digital-strategy.ec.europa.eu/en/policies/web-accessibility
-[https://perma.cc/LSG9-XW7L] (Oct. 10, 2023); European Telecomm. Standards Inst., Accessibility Requirements
-for ICT Products and Services 45–51, 64–78 (Mar. 2021),
-https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf
-[https://perma.cc/5TEZ-9GC6].
-59 Section 35.160.
-60 Id.
-
 that their web content and mobile apps are accessible. As previously mentioned,
 WCAG 2.1 Level AA provides specific, testable success criteria. As noted in section
 III.D.4 of the preamble to the final rule, relying solely on the existing title II obligations
@@ -4899,6 +4785,7 @@ the technical standard only as a safe harbor would pose similar issues in terms 
 and would not result in reliability and predictability for individuals with disabilities
 seeking to access, for example, critical government services that public entities have as
 part of their web content and mobile apps.
+
 Commenters also suggested that manual testing by individuals with disabilities be
 required to ensure that content is accessible to them. Although subpart H of this part
 does not specifically require manual testing by individuals with disabilities because
@@ -4906,6 +4793,7 @@ requiring such testing could pose logistical or other hurdles, the Department
 recommends that public entities seek and incorporate feedback from individuals with
 disabilities on their web content and mobile apps. Doing so will help ensure that
 everyone has access to critical government services.
+
 The Department received some comments recommending that the Department adopt a
 performance standard instead of a specific technical standard for accessibility of web
 content and mobile apps. Performance standards establish general expectations or
@@ -4930,13 +4818,8 @@ entities with less technological experience. This will assist public entities in
 and addressing accessibility errors, which may reduce costs they would incur without
 clear expectations.
 
-61 88 FR 51962.
-62 W3C, Benefits of Web Content Accessibility Guidelines WCAG 2,
-https://www.w3.org/WAI/presentations/WCAG20_benefits/WCAG20_benefits.html [https://perma.cc/3RTN-FLKV]
-(Aug. 12, 2010) (“WCAG 2 is adaptable and flexible, for different situations, and developing technologies and
-techniques. We described earlier how WCAG 2 is flexible to apply to Web technologies now and in the future.”).
+**<u>Evolving Standard</u>**
 
-Evolving Standard
 Other commenters suggested that the Department take an approach in the final rule
 whereby public entities would be required to comply with whatever is the most recent
 version of WCAG at the time. Under that approach, the required technical standard
@@ -4955,6 +4838,7 @@ incorporated into subpart H. In addition, the Department has concerns about
 regulating to a future standard of WCAG that has yet to be created, of which the
 Department has no knowledge, and for which compatibility with the ADA and covered
 entities’ content is uncertain.
+
 Relatedly, the Department also received comments suggesting that it institute a process
 for reviewing and revising its regulation every several years to ensure that subpart H of
 this part is up to date and effective for current technology. Pursuant to Executive Order
@@ -4965,30 +4849,28 @@ more effective or less burdensome in achieving the regulatory objectives. 65
 Consideration of the effectiveness of subpart H of this part in the future would fall
 within Executive Order 13563’s purview, such that building a mechanism into subpart
 H is not necessary at this time.
-Alternative Approaches Considered for Mobile Apps and Conventional
-Electronic Documents
+
+**<u>Alternative Approaches Considered for Mobile Apps and Conventional</u>**
+
+**<u>Electronic Documents</u>**
 
 Section 35.200 adopts WCAG 2.1 Level AA as the technical standard for mobile apps.
 This approach will ensure the accessibility standards for mobile apps in subpart H of
 this part are consistent with the accessibility standards for web content in subpart H.
 The NPRM asked for feedback on the appropriate technical standard for mobile apps,
 including whether the Department should adopt WCAG 2.1 Level AA or other standards
-like the standards for section 508 of the Rehabilitation Act (“Section 508 Standards”),
-
-63 See 1 CFR 51.1(f).
-64 Id.
-65 E.O. 13563, sec. 6, 3 CFR, 2012 Comp., p. 215.
-
-which apply to the Federal Government’s web content and mobile apps. 66 The
+like the standards for section 508 of the Rehabilitation Act (“Section 508 Standards”), which apply to the Federal Government’s web content and mobile apps. 66 The
 Department received several comments on the technical standard that should apply to
 mobile apps. Some commenters supported adopting WCAG 2.1 Level AA, some
 suggested adopting other technical standards or requirements, and others suggested
 that some WCAG success criteria may not apply to mobile apps.
+
 Some commenters had concerns about the costs and burdens associated with applying
 any technical standard to content on mobile apps, including to content in mobile apps
 that public entities already provide on the web. One commenter requested that the
 Department apply WCAG 2.0 to the extent that a public entity’s mobile app provides
 different content than is available online.
+
 However, many commenters expressed strong support for applying the same technical
 standard for mobile apps and web content and shared that web content and mobile
 apps generally should not be treated differently. These commenters emphasized the
@@ -4999,6 +4881,7 @@ bulletins, and government appointments. Some commenters further clarified that
 adopting different standards for mobile apps than web content could cause confusion.
 They also stated that adopting the same standard would ensure a uniform experience
 and expectations for users with disabilities.
+
 Many commenters, including disability advocacy organizations, individuals, and public
 entities, supported the use of WCAG 2.1 Level AA as the technical standard for mobile
 apps, in part because WCAG is internationally recognized, often adopted in practice,
@@ -5006,22 +4889,21 @@ and technology neutral (i.e., it applies to both web content and mobile apps). O
 commenters said that WCAG 2.1 Level AA is an appropriate standard for mobile apps
 because it includes specific success criteria aimed at addressing the unique challenges
 of mobile app accessibility.
+
 Some commenters suggested that the Department should adopt WCAG 2.2 as the
 technical standard for mobile apps. These commenters explained that WCAG 2.2 is
 more recent and includes newer guidelines based on accessibility issues found in
 smartphones. Commenters further shared that WCAG 2.2 can better ensure adequate
 button size and spacing to accommodate users with varying degrees of motor skills in
 their fingers.
+
 In addition, other commenters recommended that the Department adopt the Section
 508 Standards, either independently or together with WCAG 2.1 or WCAG 2.2. Some
 of these commenters shared their belief that WCAG was developed more for web
 content than for mobile apps. These commenters stated that while many of WCAG’s
 principles and guidelines can be applied to mobile apps, mobile apps have unique
 characteristics and interactions that may require additional considerations and depend
-on the specific requirements and goals of the mobile app in question. For example,
-66 36 CFR 1194.1; 36 CFR part 1194, appendices A, C, and D.
-
-commenters indicated that mobile apps may also need to adhere to platform-specific
+on the specific requirements and goals of the mobile app in question. For example, commenters indicated that mobile apps may also need to adhere to platform-specific
 accessibility guidelines for iOS (Apple) and Android (Google). In addition, commenters
 noted that the Section 508 Standards include additional requirements applicable to
 mobile apps that are not included in WCAG 2.1 Level AA, such as interoperability
@@ -5030,12 +4912,14 @@ assistive technology for individuals with disabilities (e.g., screen readers for
 are blind or have low vision). Some commenters suggested that the Department
 include these additional requirements from the Section 508 Standards in subpart H of
 this part.
+
 The Department carefully considered all of these comments and agrees with
 commenters who stated that the same technical standard for accessibility should apply
 to both web content and mobile apps. The Department believes that applying the same
 technical standard to both web content and mobile apps will reduce confusion by
 ensuring consistent requirements and user experiences across web and mobile
 platforms.
+
 The Department further agrees with the commenters who stated that WCAG 2.1
 Level AA is an appropriate technical standard. As discussed previously in this
 appendix, many developers and organizations are already familiar with WCAG 2.1
@@ -5047,7 +4931,8 @@ increased accessibility and usability for individuals with disabilities. The Dep
 notes that subpart H allows for equivalent facilitation in § 35.203, meaning that public
 entities could still choose to apply additional standards or techniques related to mobile
 apps, to the extent that the standard or technique results in substantially equivalent or
-greater accessibility and usability. 
+greater accessibility and usability.
+
 As commenters noted, WCAG 2.1 is designed to be technology neutral, which will help
 ensure accessibility for mobile apps. Although the Section 508 Standards include some
 additional requirements like interoperability that are not required by WCAG, 67 WCAG 2.1
@@ -5055,23 +4940,19 @@ Level AA includes specific success criteria related to mobile app accessibility
 success criteria address challenges such as touch target size, orientation, and motion
 actuation, among others. 68 Therefore, the Department believes that WCAG 2.1
 Level AA is a robust framework for mobile app accessibility.
+
 The Department also received comments indicating that certain requirements under
 WCAG 2.1 Level AA may not be applicable to mobile apps or conventional electronic
 documents and subpart H of this part should therefore set forth exceptions for those
 success criteria. The Access Board faced similar concerns when it promulgated its
-Section 508 Standards. 69 Accordingly, the Section 508 Standards indicate that “non-
-67 See 36 CFR 1194.1; 36 CFR part 1194, appendix C, ch. 5.
-68 W3C, Web Content Accessibility Guidelines (WCAG) 2.1 (June 5, 2018),
-https://www.w3.org/TR/2018/REC-WCAG21-20180605/ and https://perma.cc/UB8A-GG2F (success criteria 2.5.5,
-1.3.4, &amp; 2.5.4).
-
-Web documents” and “non-Web software,” which include conventional electronic
+Section 508 Standards. 69 Accordingly, the Section 508 Standards indicate that “non-Web documents” and “non-Web software,” which include conventional electronic
 documents and mobile apps, do not have to comply with the following WCAG 2.0
 Success Criteria: 2.4.1 Bypass Blocks, 2.4.5 Multiple Ways, 3.2.3 Consistent
 Navigation, and 3.2.4 Consistent Identification. 70 W3C has provided guidance on how
 these and other WCAG success criteria can be applied to non-web information and
 communications technologies, including conventional electronic documents and mobile
 apps. 71
+
 The Department understands that some WCAG 2.1 Level AA success criteria may not
 apply to conventional electronic documents and mobile apps directly as written, but the
 Department declines to set forth exceptions to these success criteria in subpart H of this
@@ -5090,34 +4971,21 @@ and mobile apps, especially because WCAG 2.1 has been in final form since 2018,
 which has provided time for familiarity and resources to develop. Further, the
 Department will continue to monitor developments in the accessibility of conventional
 electronic documents and mobile apps and may issue further guidance as appropriate.
-Alternative Approaches Considered for PDF Files and Digital Textbooks
+
+**<u>Alternative Approaches Considered for PDF Files and Digital Textbooks</u>**
+
 The Department also received a comment suggesting that subpart H of this part
 reference PDF/UA-1 for standards related to PDF files or W3C’s EPUB Accessibility 1.1
 standard 73 for digital textbooks. The Department declines to adopt additional technical
 standards for these specific types of content. As discussed, the WCAG standards were
-designed to be “technology neutral” 74 and are designed to be broadly applicable to
-69 See Information and Communication Technology (ICT) Standards and Guidelines, 82 FR 5790, 5798–99 (Jan. 18,
-2017).
-70 Id. at 5799.
-71 W3C, WCAG2ICT Overview, https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/
-[https://perma.cc/XRL6-6Q9Y] (Feb. 2, 2024).
-72 See W3C, Guidance on Applying WCAG 2.0 to Non-Web Information and Communications Technologies
-(WCAG2ICT) (Sep. 5, 2003), https://www.w3.org/TR/wcag2ict/ [https://perma.cc/6HKS-8YZP]. This guidance may
-provide assistance in interpreting certain WCAG 2.0 success criteria (also included in WCAG 2.1 Level AA) that do
-not appear to be directly applicable to non-web information and communications like conventional electronic
-documents and mobile apps as written, but that can be made applicable with minor revisions. For example, for
-Success Criterion 1.4.2 (audio control), replacing the words “on a Web page” with “in a non-web document or
-software” can make this Success Criterion clearly applicable to conventional electronic documents and mobile apps.
-73 W3C, EPUB Accessibility 1.1 (May 25, 2023), https://www.w3.org/TR/epub-a11y-11/ [https://perma.cc/48A5-
-NC2B].
-
-current and future web technologies. 75 The Department is concerned that adopting
+designed to be “technology neutral” 74 and are designed to be broadly applicable to current and future web technologies. 75 The Department is concerned that adopting
 multiple technical standards related to different types of web content and content in
 mobile apps could lead to confusion. However, the Department notes that subpart H
 allows for equivalent facilitation in § 35.203, meaning that public entities could still
 choose to comply with additional standards or guidance related to PDFs or digital
 textbooks to the extent that the standard or technique used provides substantially
 equivalent or greater accessibility and usability.
+
 In summary, the Department believes that adopting WCAG 2.1 Level AA as the
 technical standard strikes the appropriate balance of ensuring access for individuals
 with disabilities and feasibility of implementation because there is a baseline of
@@ -5125,7 +4993,9 @@ familiarity with the standard. In addition, for the reasons discussed previously
 appendix, the Department believes that WCAG 2.1 Level AA is an effective standard
 that sets forth clear, testable success criteria that will provide important benefits to
 individuals with disabilities.
-WCAG Conformance Level
+
+***WCAG Conformance Level***
+
 For web content and mobile apps to conform to WCAG 2.1, they must satisfy the
 success criteria under one of three levels of conformance: A, AA, or AAA. As previously
 mentioned, the Department is adopting Level AA as the conformance level under
@@ -5140,29 +5010,18 @@ criteria must be met to attain Level AA conformance. Accordingly, the Departmen
 made explicit in subpart H that both Level A and Level AA success criteria and
 conformance requirements must be met in order to comply with subpart H’s
 requirements.
+
 By way of background, the three levels of conformance indicate a measure of
 accessibility and feasibility. Level A, which is the minimum level of accessibility,
 contains criteria that provide basic web accessibility and are the least difficult to achieve
-for web developers. 78 Level AA, which is the intermediate level of accessibility, includes
-
-74 W3C, Introduction to Understanding WCAG (June 20, 2023),
-https://www.w3.org/WAI/WCAG21/Understanding/intro [https://perma.cc/​XB3Y-QKVU].
-75 See W3C, Understanding Techniques for WCAG Success Criteria (June 20, 2023),
-https://www.w3.org/WAI/WCAG21/Understanding/understanding-techniques [https://perma.cc/​AMT4-XAAL].
-76 88 FR 51961.
-77 W3C, Web Content Accessibility Guidelines (WCAG) 2.1, § 5.2 Conformance Requirements (June 5, 2018),
-https://www.w3.org/TR/2018/REC-WCAG21-20180605/#conformance-reqs [https://perma.cc/39WD-CHH9].
-WCAG 2.1 also allows a Level AA conforming alternate version to be provided instead. The Department has
-adopted a slightly different approach to conforming alternate versions, which is discussed in the section-by-section
-analysis of § 35.202.
-
-all of the Level A criteria and also contains other criteria that provide more
+for web developers. 78 Level AA, which is the intermediate level of accessibility, includes all of the Level A criteria and also contains other criteria that provide more
 comprehensive web accessibility, and yet are still achievable for most web developers. 79
 Level AAA, which is the highest level of conformance, includes all of the Level A and
 Level AA criteria and also contains additional criteria that can provide a more enriched
 user experience, but are the most difficult to achieve for web developers. 80 W3C does
 not recommend that Level AAA conformance be required as a general policy for entire
 websites because it is not possible to satisfy all Level AAA criteria for some content. 81
+
 Based on public feedback and independent research, the Department believes that
 WCAG 2.1 Level AA is the appropriate conformance level because it includes criteria
 that provide web and mobile app accessibility to individuals with disabilities—including
@@ -5179,6 +5038,7 @@ appropriate because it does not include criteria for providing web accessibility
 Department understands are critical, such as a minimum level of color contrast so that
 items like text boxes or icons are easier to see, which is important for individuals with
 vision disabilities.
+
 Some commenters suggested that certain Level AAA criteria or other unique
 accessibility requirements be added to the technical standard in subpart H of this part.
 However, the Department believes it would be confusing and difficult to implement
@@ -5189,26 +5049,15 @@ experience, it is the most difficult to achieve for many entities. Again, W3C do
 recommend that Level AAA conformance be required as a general policy for entire
 websites because it is not possible to satisfy all Level AAA criteria for some content. 84
 Adopting a Level AA conformance level makes the requirements of subpart H consistent
-with a standard that has been accepted internationally. 85 The web content of Federal
-78 W3C, Web Content Accessibility Guidelines (WCAG) 2 Level A Conformance (July 13, 2020),
-https://www.w3.org/WAI/WCAG2A-Conformance [https://perma.cc/KT74-JNHG].
-79 Id.
-80 Id.
-81 See W3C, Understanding Conformance, Understanding Requirement 1,
-https://www.w3.org/WAI/WCAG21/Understanding/conformance [https://perma.cc/K94N-Z3TF].
-82 88 FR 51961.
-83 W3C, Web Content Accessibility Guidelines (WCAG) 2.1, 0.5 Comparison with WCAG 2.0 (June 5, 2018),
-https://www.w3.org/TR/2018/REC-WCAG21-20180605/#comparison-with-wcag-2-0 [https://perma.cc/H76F-
-6L27].
-84 See W3C, Understanding Conformance, Understanding Requirement 1,
-https://www.w3.org/WAI/WCAG21/Understanding/conformance [https://perma.cc/9ZG9-G5N8].
-
-agencies is also required to conform to WCAG 2.0 Level AA under the Section 508
+with a standard that has been accepted internationally. 85 The web content of Federal agencies is also required to conform to WCAG 2.0 Level AA under the Section 508
 Standards. 86
+
 Therefore, the Department believes that adopting the Level AA conformance level
 strikes the right balance between accessibility for individuals with disabilities and
 achievability for public entities.
-Requirements by Entity Size
+
+**Requirements by Entity Size**
+
 In addition to setting forth a technical standard with which public entities must comply,
 § 35.200(b) also establishes dates by which a public entity must comply. The
 compliance time frames set forth in § 35.200(b) are generally delineated by the total
@@ -5221,6 +5070,7 @@ required. The 50,000 population threshold was chosen because it corresponds with
 definition of “small governmental jurisdictions” as defined in the Regulatory Flexibility
 Act. 87 After the compliance date, ongoing compliance with subpart H of this part is
 required.
+
 Commenters expressed a wide range of views about how long public entities should be
 given to bring their web content and mobile apps into compliance with subpart H of this
 part. Some commenters expressed concern that public entities would need more time
@@ -5233,26 +5083,21 @@ compliance milestones over time by prioritizing certain types of content or impl
 certain aspects of the technical standard. Refer to the section of the section-by-section
 analysis entitled “Compliance Time Frame Alternatives” for further discussion of these
 suggested approaches.
+
 The Department appreciates the various considerations raised by public stakeholders in
 their comments. After carefully weighing the arguments that the compliance dates
 should be kept the same, shortened, lengthened, or designed to phase in certain
 success criteria or focus on certain content, the Department has decided that the
 compliance dates in subpart H of this part—two years for large public entities and three
 years for small public entities and special district governments—strike the appropriate
-balance between the various interests at stake. Shortening the compliance dates would
-85 See W3C, Web Accessibility Laws &amp; Policies, https://www.w3.org/WAI/policies/ [https://perma.cc/6SU3-3VR3]
-(Dec. 4, 2023).
-86 See Information and Communication Technology (ICT) Standards and Guidelines, 82 FR 5790, 5791 (Jan. 18,
-2017).
-87 5 U.S.C. 601(5).
-
-likely result in increased costs and practical difficulties for public entities, especially
+balance between the various interests at stake. Shortening the compliance dates would likely result in increased costs and practical difficulties for public entities, especially
 small public entities. Lengthening the compliance dates would prolong the exclusion of
 many individuals with disabilities from public entities’ web content and mobile apps.
 The Department believes that the balance struck in the compliance time frame
 proposed in the NPRM was appropriate, and that there are no overriding reasons to
 shorten or lengthen these dates given the important and competing considerations
 involved by stakeholders.
+
 Some commenters said that the Department should not require compliance with
 technical standards for mobile apps until at least two years after the compliance
 deadline for web content. These commenters asserted that having different compliance
@@ -5260,6 +5105,7 @@ dates for web content and mobile apps would allow entities to learn how to apply
 accessibility techniques to their web content and then apply that experience to mobile
 apps. Other commenters argued that the compliance dates for mobile apps should be
 shortened or kept as proposed.
+
 The Department has considered these comments and subpart H of this part implements
 the same compliance dates for mobile apps and web content, as proposed in the
 NPRM. Because users can often access the same information from both web content
@@ -5267,7 +5113,8 @@ and mobile apps, it is important that both platforms are subject to the standard
 same times to ensure consistency in accessibility and to reduce confusion. The
 Department believes these compliance dates strike the appropriate balance between
 reducing burdens for public entities and ensuring accessibility for individuals with
-disabilities.
+disabilities. 
+
 Some commenters stated that it would be helpful to clarify whether subpart H of this
 part establishes a one-time compliance requirement or instead establishes an ongoing
 compliance obligation for public entities. The Department wishes to clarify that under
@@ -5285,15 +5132,15 @@ that public entities be required to review their content for accessibility every
 The Department does not view this as necessary given the ongoing nature of subpart
 H’s requirements. However, public entities might find that conducting such reviews is
 helpful in ensuring compliance.
+
 Of course, while public entities must begin complying with subpart H of this part on the
 applicable compliance date, the Department expects that public entities will need to
 prepare for compliance during the two or three years before the compliance date. In
-addition, commenters emphasized—and the Department agrees—that public entities
-
-still have an obligation to meet all of title II’s existing requirements both before and after
+addition, commenters emphasized—and the Department agrees—that public entities still have an obligation to meet all of title II’s existing requirements both before and after
 the date they must initially come into compliance with subpart H. These include the
 requirements to ensure equal access, ensure effective communication, and make
 reasonable modifications to avoid discrimination on the basis of disability. 88
+
 The requirements of § 35.200(b) are generally delineated by the size of the total
 population of the public entity. If a public entity has a population calculated by the
 United States Census Bureau in the most recent decennial Census, then the United
@@ -5302,6 +5149,7 @@ Census is the entity’s total population for purposes of this part. If a public
 independent school district, then the district’s total population for purposes of this part is
 determined by reference to the district’s population estimate as calculated by the United
 States Census Bureau in the most recent Small Area Income and Poverty Estimates.
+
 The Department recognizes that some public entities, like libraries or public colleges
 and universities, do not have population data associated with them in the most recent
 decennial Census conducted by the United States Census Bureau. As noted in the
@@ -5327,14 +5175,12 @@ most recent Small Area Income and Poverty Estimates. This part also states that 
 National Railroad Passenger Corporation’s total population for purposes of this part is
 determined by reference to the population estimate for the United States as calculated
 by the United States Census Bureau in the most recent decennial Census.
+
 For purposes of this part, the total population of a public entity is not defined by the
 population that is eligible for or that takes advantage of the specific services of the
 public entity. For example, an independent school district with a population of 60,000
 adults and children, as calculated in the Small Area Income and Poverty Estimates, is
-not a small public entity regardless of the number of students enrolled or eligible for
-88 Sections 35.130(b)(1)(ii) and (b)(7) and 35.160.
-
-services. Similarly, individual county schools are also not considered small public
+not a small public entity regardless of the number of students enrolled or eligible for services. Similarly, individual county schools are also not considered small public
 entities if they are instrumentalities of a county that has a population over 50,000.
 Though a specific county school may create and maintain web content or a mobile app,
 the Department expects that the specific school may benefit from the resources made
@@ -5346,6 +5192,7 @@ is an instrumentality of the State. However, a county community college in the s
 State where the county has a population of 35,000 would be considered a small public
 entity for the purposes of this part, because the community college is an instrumentality
 of the county.
+
 Some commenters provided feedback on this method of calculating a public entity’s size
 for purposes of determining the applicable compliance time frame. Some public
 educational entities seemed to mistakenly believe that their populations would be
@@ -5363,6 +5210,7 @@ they are instrumentalities. The Department understands that the financial relati
 between these entities may vary, but the Department believes that the method of
 calculating population it has adopted will generally be the clearest and most effective
 way for public entities to determine the applicable compliance time frame.
+
 Some commenters associated with educational entities suggested that the Department
 use the Carnegie classification system for purposes of determining when they must first
 comply with subpart H of this part. The Carnegie classification system takes into
@@ -5370,14 +5218,9 @@ account factors that are not relevant to subpart H, such as the nature of the de
 offered (e.g., baccalaureate versus associate’s degrees). 89 Subpart H treats educational
 entities the same as other public entities for purposes of determining the applicable
 compliance time frame, which promotes consistency and reliability.
-Other commenters suggested that factors such as number of employees, budget,
-number and type of services provided, and web presence be used to determine the
-89 See Am. Council on Educ., Carnegie Classification of Institutions of Higher Education,
-https://carnegieclassifications.acenet.edu/ [https://perma.cc/Q9JZ-GQN3]; Am. Council on Educ., About the
-Carnegie Classification, https://carnegieclassifications.acenet.edu/carnegie-classification/ [https://perma.cc/B6BH-
-68WM].
 
-appropriate compliance time frame. However, the Department believes that using
+Other commenters suggested that factors such as number of employees, budget,
+number and type of services provided, and web presence be used to determine the appropriate compliance time frame. However, the Department believes that using
 population as determined by the Census Bureau is the clearest, most predictable, and
 most reliable factor for determining the compliance time frame. At least one commenter
 highlighted that population size often relates to the audience of people with disabilities
@@ -5387,6 +5230,7 @@ jurisdictions qualify as “small.” 90 This concept, therefore, should be fami
 entities. Additionally, using population allows the Department to account for the unique
 challenges faced by small public entities, as discussed in the section-by-section
 analysis of § 35.200(b)(2).
+
 The Department also received comments asserting that the threshold for being
 considered “small” should be changed and that the Department should create varying
 compliance dates based on additional gradations of public entity size. The Department
@@ -5410,23 +5254,20 @@ Regulatory Flexibility Act. The Department also believes that retaining two cate
 public entities—large and small—strikes the appropriate balance of acknowledging the
 compliance challenges that small public entities may face while not crafting a system
 that is unduly complex, unpredictable, or inconsistent across public entities.
-Section 35.200(b)(1): Larger Public Entities
+
+***Section 35.200(b)(1): Larger Public Entities***
 
 Section 35.200(b)(1) sets forth the web content and mobile app accessibility
 requirements for public entities with a total population of 50,000 or more. The
 requirements of § 35.200(b)(1) apply to larger public entities—specifically, to those
 public entities that do not qualify as “small governmental jurisdictions” as defined in the
-Regulatory Flexibility Act. 92 Section 35.200(b)(1) requires that beginning two years after
-90 5 U.S.C. 601(5).
-91 See id.
-92 Id.
-
-the publication of the final rule, these public entities must ensure that the web content
+Regulatory Flexibility Act. 92 Section 35.200(b)(1) requires that beginning two years after the publication of the final rule, these public entities must ensure that the web content
 and mobile apps that they provide or make available 93 comply with Level A and Level AA
 success criteria and conformance requirements specified in WCAG 2.1, unless the
 entities can demonstrate that compliance would result in a fundamental alteration in the
 nature of a service, program, or activity or in undue financial and administrative
 burdens. 94
+
 As discussed previously in this appendix, the Department received varied feedback
 from the public regarding an appropriate time frame for requiring public entities to begin
 complying with subpart H of this part. Individuals with disabilities and disability
@@ -5444,6 +5285,7 @@ public entities requiring that their websites be made accessible in shorter amou
 time, such as a few months. 95 The Department notes that while such settlement
 agreements serve as important datapoints, those agreements are tailored to the specific
 situation and entity involved and are not broadly applicable like a regulation.
+
 State and local government entities have been particularly concerned—now and in the
 past—about shorter compliance deadlines, often citing budgets and staffing as major
 limitations. For example, as noted in the NPRM, when WCAG 2.0 was relatively new,
@@ -5453,23 +5295,9 @@ changes to their websites, they also needed time to train staff or contract with
 professionals who are proficient in developing accessible websites. Considering all
 these factors, as well as the fact that over a decade has passed since the Department
 started receiving such feedback and there is now more available technology to make
-web content and mobile apps accessible, the Department believes a two-year
-
-93 As the regulatory text for § 35.200(a)(1) and (2) and (b)(1) and (2) makes clear, subpart H of this part covers web
-content and mobile apps that a public entity provides or makes available, whether directly or through contractual,
-licensing, or other arrangements. This regulatory text is discussed in more detail in this section.
-94 The undue financial and administrative burdens limitation on a public entity’s obligation to comply with the
-requirements of subpart H of this part is discussed in more detail in the section-by-section analysis of § 35.204.
-95 See, e.g., Settlement Agreement Between the United States of America and the City of Cedar Rapids, Iowa Under
-the Americans with Disabilities Act (Sept. 1, 2015), https://www.ada.gov/cedar_rapids_pca/cedar_rapids_sa.html
-[https://perma.cc/Z338-B2BU]; Settlement Agreement Between the United States of America and the City of Fort
-Morgan, Colo. Under the Americans with Disabilities Act (Aug. 8, 2013), https://www.ada.gov/fort-morgan-
-pca/fort-morgan-pca-sa.htm [https://perma.cc/JA3E-QYMS]; Settlement Agreement Between the United States of
-America and the Town of Poestenkill, N.Y. Under the Americans with Disabilities Act (July 19, 2013),
-https://www.ada.gov/poestenkill-pca/poestenkill-sa.html [https://perma.cc/DGD5-NNC6].
-
-compliance time frame for public entities with a total population of 50,000 or more is
+web content and mobile apps accessible, the Department believes a two-year compliance time frame for public entities with a total population of 50,000 or more is
 appropriate.
+
 Public entities and the community of web developers have had more than a decade to
 familiarize themselves with WCAG 2.0, which was published in 2008 and serves as the
 foundation for WCAG 2.1, and more than five years to familiarize themselves with the
@@ -5481,8 +5309,9 @@ Department therefore believes that subpart H’s approach balances the resource
 challenges reported by public entities with the interests of individuals with disabilities in
 accessing the multitude of services, programs, and activities that public entities now
 offer via the web and mobile apps.
-Section 35.200(b)(2): Small Public Entities and Special District
-Governments
+
+***Section 35.200(b)(2): Small Public Entities and Special District Governments***
+
 Section 35.200(b)(2) sets forth the web content and mobile app accessibility
 requirements for public entities with a total population of less than 50,000 and special
 district governments. As noted in the preceding section, the 50,000 population
@@ -5495,27 +5324,21 @@ Level A and Level AA success criteria and conformance requirements specified i
 WCAG 2.1, unless the entities can demonstrate that compliance would result in a
 fundamental alteration in the nature of a service, program, or activity or in undue
 financial and administrative burdens.
-Small Public Entities
+
+**<u>Small Public Entities</u>**
+
 The Department appreciates that small public entities may sometimes face unique
 challenges in making their web content and mobile apps accessible, given that small
 entities may have more limited or inflexible budgets than other entities. The Department
 is very sensitive to the need to craft a workable approach for small entities and has
 taken the needs of small public entities into account at every stage in the rulemaking
-process, consistent with the Regulatory Flexibility Act of 1980 and Executive Order
-96 W3C, Web Content Accessibility Guidelines (WCAG) 2.1, 0.5 Comparison with WCAG 2.0 (June 5, 2018),
-https://www.w3.org/TR/2018/REC-WCAG21-20180605/#comparison-with-wcag-2-0 [https://perma.cc/H76F-
-6L27].
-97 5 U.S.C. 601(5).
-98 As the regulatory text for § 35.200(a)(1) and (2) and (b)(1) and (2) makes clear, subpart H of this part covers web
-content and mobile apps that a public entity provides or makes available, whether directly or through contractual,
-licensing, or other arrangements. This regulatory text is discussed in more detail in this section.
-
-13272. 99 The NPRM asked a series of questions about the impact of the rulemaking on
+process, consistent with the Regulatory Flexibility Act of 1980 and Executive Order 13272. 99 The NPRM asked a series of questions about the impact of the rulemaking on
 small public entities, including about the compliance costs and challenges that small
 entities might face in conforming with the rulemaking, the current level of accessibility of
 small public entities’ web content and mobile apps, and whether it would be appropriate
 to adopt different technical standards or compliance time frames for small public
 entities. 100
+
 The Department has reviewed public comments, including a comment from the Small
 Business Administration Office of Advocacy, 101 attended a virtual roundtable session
 hosted by the Small Business Administration at which approximately 200 members of
@@ -5529,6 +5352,7 @@ compliance. In addition, small public entities (like all public entities) can re
 exceptions set forth in § 35.201, in addition to the other mechanisms that are designed
 to make it feasible for all public entities to comply with subpart H of this part, as set forth
 in §‍§ 35.202, 35.203, 35.204 and 35.205.
+
 Many commenters emphasized the challenges that small public entities may face in
 making their web content and mobile apps accessible. For example, some commenters
 reported that small public entities often have restricted, inflexible budgets, and might
@@ -5547,17 +5371,9 @@ that small entities would simply remove their web content rather than make it
 accessible. Commenters also expressed concern that public entities would need to
 devote scarce resources to defending against web accessibility lawsuits that might arise
 as a result of subpart H, which might further exacerbate these entities’ budgetary
-challenges. The Department notes that public entities would not be required to
-
-99 See Nondiscrimination on the Basis of Disability; Accessibility of Web Information and Services of State and Local
-Government Entities and Public Accommodations, 75 FR 43460, 43467 (July 26, 2010); 88 FR 51949,
-51961–51966.
-100 88 FR 51961–51966.
-101 A discussion of the comment from the Small Business Administration Office of Advocacy can also be found in
-the Final Regulatory Flexibility Analysis.
-
-undertake changes that would result in a fundamental alteration in the nature of a
+challenges. The Department notes that public entities would not be required to undertake changes that would result in a fundamental alteration in the nature of a
 service, program, or activity, or impose undue financial and administrative burdens.
+
 As a result of these concerns, some commenters suggested that the Department should
 create different or more flexible standards for small entities. For example, some
 commenters suggested that the Department should require small entities to conform to
@@ -10574,4 +10390,257 @@ The term &quot;existing facility&quot; is defined in &sect; 35.104 as amended by
 {% fnbody 4 %}
 The Supreme Court in Tennessee v. Lane, 541 U.S. 509, 5330534 (2004), held that title II of the ADA constitutes a valid exercise of Congress' enforcement power under the Fourteenth Amendment in cases implicating the fundamental access to the courts.
 {% endfnbody %}
+1 88 FR 51967.
+2 88 FR 51966.
+3 Maintain, Black’s Law Dictionary (11th ed. 2019).
+4 See Retain, Black’s Law Dictionary (11th ed. 2019) (“To hold in possession or under control; to keep and not lose,
+part with, or dismiss.”).
+5 88 FR 51958, 51968.
+6 W3C, Introduction to Understanding WCAG, https://www.w3.org/WAI/WCAG21/Understanding/intro
+[https://perma.cc/ XB3Y-QKVU] (June 20, 2023).
+7 See W3C, Understanding Techniques for WCAG Success Criteria,
+https://www.w3.org/​WAI/​WCAG21/​Understanding/​understanding-techniques [https://perma.cc/​AMT4-XAAL]
+(June 20, 2023).
+8 See U.S. Census Bureau, Special District Governments,
+https://www.census.gov/glossary/?term=Special+district+governments [https://perma.cc/8V43-KKL9] (last visited
+Feb. 26, 2024).
+9 88 FR 52018.
+10 42 U.S.C. 12131(1).
+11 Section 35.104.
+12 88 FR 51948, 51949, 51958 (Aug. 4, 2023).
+13 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1 (June 5, 2018), https://www.w3.org/TR/2018/REC-
+WCAG21-20180605/ and https://perma.cc/UB8A-GG2F.
+14 Id.
+15 See W3C, Web Content Accessibility Guidelines 2.1 (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-
+20180605/and https://perma.cc/UB8A-GG2F (see definition of “content (Web content)”). WCAG 2.1 defines “user
+agent” as “any software that retrieves and presents Web content for users,” such as web browsers, media players,
+plug-ins, and assistive technologies. See W3C, Web Content Accessibility Guidelines 2.1 (June 5, 2018),
+https://www.w3.org/TR/2018/REC-WCAG21-20180605/ and https://perma.cc/UB8A-GG2F (see definition of “user
+agent”).
+16 88 FR 52018.
+17 See W3C, Web Content Accessibility Guidelines 2.1 (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-
+20180605/ and https://perma.cc/UB8A-GG2F.
+18 See §§ 35.130(b)(1)(ii) and (b)(7) and 35.160.
+19 A closed system, or “closed functionality,” means that users cannot attach assistive technology to the system to
+make the content accessible, such as with a travel kiosk. See W3C, WCAG2ICT Overview,
+https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/ [https://perma.cc/XRL6-6Q9Y] (Feb. 2, 2024).
+20 See 29 U.S.C. 794d. A discussion of the section 508 standards is included later in the section-by-section analysis,
+in “WCAG 2.0 and Section 508 of the Rehabilitation Act.”
+21 W3C, WCAG2ICT Overview, https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/
+[https://perma.cc/XRL6-6Q9Y] (Feb. 2, 2024).
+22 International Organization for Standardization, ISO 14289-1:2014; Document management applications;
+Electronic document file format enhancement for accessibility; Part 1: Use of ISO 32000-1 (PDF/UA1) (Dec. 2014),
+https://www.iso.org/standard/64599.html [https://perma.cc/S53A-Q3Y2]. One commenter also referred to PDF/UA-
+2; however, the Department’s understanding is that PDF/UA-2 is still under development. International
+Organization for Standardization, ISO 14289-2; Document management applications; Electronic document file
+format enhancement for accessibility; Part 2: Use of ISO 32000-2 (PDF/UA-2),
+https://www.iso.org/standard/82278.html [https://perma.cc/3W5L-UJ7J].
+23 W3C explains in its guidance on non-web information and communications technology that “[w]hile WCAG 2.2
+was designed to be technology-neutral, it assumes the presence of a ‘user agent’ such as a browser, media player, or
+assistive technology as a means to access web content. Therefore, the application of WCAG 2.2 to documents and
+software in non-web contexts require[s] some interpretation in order to determine how the intent of each WCAG 2.2
+success criterion could be met in these different contexts of use.” W3C, Guidance on Applying WCAG 2.2 to Non-
+Web Information and Communications Technologies (WCAG2ICT): Group Draft Note (Aug. 15, 2023),
+https://www.w3.org/TR/wcag2ict-22/ [https://perma.cc/2PYA-4RFH]. While this quotation addresses WCAG 2.2,
+the beginning of the guidance notes that “the current draft includes guidance for WCAG 2.1 success criteria.” Id.
+24 88 FR 52018.
+25 Section 35.130(b)(1) and (3). See also § 35.152(a) (describing requirements for jails, detention and correctional facilities, and community correctional facilities).
+26 See § 35.130(b)(1) and (3).
+27 88 FR 51957.
+28 W3C, About Us, https://www.w3.org/about/ [https://perma.cc/TQ2W-T377].
+29 The Department received one comment arguing that the process by which WCAG is developed is not equitable or
+inclusive of members of the disability community. The Department received another comment commending the
+Department for adopting WCAG as the technical standard and noting that WCAG is developed through an open,
+transparent, multi-stakeholder consensus process. The Department carefully considered these comments and
+concluded that it is appropriate to adopt a consensus standard promulgated by W3C with input from various
+stakeholders, which is also consistent with the NTTAA. Information from W3C about its process for developing
+standards is available at W3C, Web Accessibility Initiative, How WAI Develops Accessibility Standards Through the
+W3C Process: Milestones and Opportunities To Contribute (Sept. 2006), https://www.w3.org/WAI/standards-
+guidelines/w3c-process/ [https://perma.cc/3BED-RCJP] (Nov. 2, 2020).
+30 W3C, Web Content Accessibility Guidelines 2.0 Approved as ISO/IEC International Standard (Oct. 15, 2012),
+https://www.w3.org/press-releases/2012/wcag2pas/ [https://perma.cc/JQ39-HGKQ].
+31 The WAI also published some revisions to WCAG 2.1 on September 21, 2023. W3C, Web Content Accessibility
+Guidelines (WCAG) 2.1 (Sept. 21, 2023), https://www.w3.org/TR/WCAG21/ [https://perma.cc/4VF7-NF5F]; see
+infra note 47. The WAI also published a working draft of WCAG 3.0 in December 2021. W3C, W3C Accessibility
+Guidelines (WCAG) 3.0, https://www.w3.org/TR/wcag-3.0/ (July 24, 2023) [https://perma.cc/7FPQ-EEJ7].
+32 W3C, Web Content Accessibility Guidelines (WCAG) 2.1, 0.5 Comparison with WCAG 2.0 (June 5, 2018),
+https://www.w3.org/TR/2018/REC-WCAG21-20180605/#comparison-with-wcag-2-0 [https://perma.cc/H76F-
+6L27].
+33 See id.
+34 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1, WCAG 2 Layers of Guidance (Sept. 21, 2023),
+https://www.w3.org/TR/WCAG21/#wcag-2-layers-of-guidance [https://perma.cc/5PDG-ZTJE].
+35 Id. (emphasis added).
+36 W3C, Web Content Accessibility Guidelines (WCAG) 2.1, 0.5 Comparison with WCAG 2.0 (June 5, 2018),
+https://www.w3.org/TR/2018/REC-WCAG21-20180605/#comparison-with-wcag-2-0 [https://perma.cc/H76F-
+6L27].
+37 W3C, Introduction to Understanding WCAG, https://www.w3.org/WAI/WCAG21/Understanding/intro
+[https://perma.cc/XB3Y-QKVU] (June 20, 2023).
+38 See W3C, Understanding Techniques for WCAG Success Criteria,
+https://www.w3.org/WAI/WCAG21/Understanding/understanding-techniques [https://perma.cc/AMT4-XAAL]
+(June 20, 2023).
+39 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 1.4.10 Reflow (June 5, 2018),
+https://www.w3.org/TR/2018/REC-WCAG21-20180605/#reflow [https://perma.cc/TU9U-C8K2].
+40 See id.
+41 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 1.3.4 Orientation (June 5, 2018),
+https://www.w3.org/TR/2018/REC-WCAG21-20180605/#orientation [https://perma.cc/M2YG-LB9V].
+42 W3C, What’s New in WCAG 2.1, https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/
+[https://perma.cc/S7VS-J6E4] (Oct. 5, 2023).
+43 See id.
+44 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 2.5.4 Motion Actuation (June 5,
+2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#motion-actuation [https://perma.cc/D3PS-32NV].
+45 See W3C, What’s New in WCAG 2.1, https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/
+[https://perma.cc/W8HK-Z5QK] (Oct. 5, 2023).
+46 Andrew Buck, MobiLoud, What Percentage of Internet Traffic is Mobile?, https://www.mobiloud.com/blog/what-
+percentage-of-internet-traffic-is-mobile#what-percentage-of-internet-traffic-comes-on-mobile-devices
+[https://perma.cc/2FK6-UDD5] (Feb. 7, 2024).
+47 The WAI published some revisions to WCAG 2.1 on September 21, 2023.  See W3C, Web Content Accessibility
+Guidelines (WCAG) 2.1 (Sept. 21, 2023), https://www.w3.org/TR/WCAG21/ [https://perma.cc/4VF7-NF5F].
+ However, for the reasons discussed in this section, subpart H of this part requires conformance to the version of
+WCAG 2.1 that was published in 2018.  W3C, Web Content Accessibility Guidelines 2.1 (June 5, 2018),
+https://www.w3.org/TR/2018/REC-WCAG21-20180605/ and https://perma.cc/UB8A-GG2F.  The Department
+believes that public entities have not had sufficient time to become familiar with the 2023 version.  Public entities
+and others also may not have had an adequate opportunity to comment on whether the Department should adopt the
+2023 version, which was published shortly before the comment period on the NPRM closed on October 3, 2023. 
+One recent revision to WCAG 2.1 relates to Success Criterion 4.1.1, which addresses parsing.  W3C has described
+Success Criterion 4.1.1 as “obsolete” and stated that it “is no longer needed for accessibility.”  W3C, WCAG 2 FAQ,
+https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411 [https://perma.cc/24FK-V8LS] (Oct. 5, 2023). 
+According to the 2023 version of WCAG, Success Criterion 4.1.1 “should be considered as always satisfied for any content using HTML or XML.”  W3C, Web Content Accessibility Guidelines (WCAG) 2.1 (Sept. 21, 2023),
+https://www.w3.org/TR/WCAG21/ [https://perma.cc/4VF7-NF5F].  The Department believes that either adopting
+this note from the 2023 version of WCAG or not requiring conformance to Success Criterion 4.1.1 is likely to create
+significant confusion.  And although Success Criterion 4.1.1 has been removed from WCAG 2.2, the Department
+has decided not to adopt WCAG 2.2 for the reasons described herein.  W3C, WCAG 2 FAQ,
+https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411 [https://perma.cc/45DS-RRYS] (Oct. 5,
+2023).  Therefore, conformance to Success Criterion 4.1.1 is still required by subpart H of this part.  Public entities
+that do not conform to Success Criterion 4.1.1 would nonetheless be able to rely on § 35.205 to satisfy their
+obligations under § 35.200 if the failure to conform to Success Criterion 4.1.1 would not affect the ability of
+individuals with disabilities to use the public entity’s web content or mobile app in the manner described in that
+section.  The Department expects that this provision will help public entities avoid any unnecessary burden that
+might be imposed by Success Criterion 4.1.1.
+48 See, e.g., Settlement Agreement Under the Americans with Disabilities Act Between the United States of America
+and CVS Pharmacy, Inc. (Apr. 11, 2022), https://www.ada.gov/cvs_sa.pdf [https://perma.cc/H5KZ-4VVF];
+Settlement Agreement Under the Americans with Disabilities Act Between the United States of America and Meijer,
+Inc. (Feb. 2, 2022), https://www.ada.gov/meijer_sa.pdf [https://perma.cc/5FGD-FK42]; Settlement Agreement
+Under the Americans with Disabilities Act Between the United States of America and the Kroger Co. (Jan. 28,
+2022), https://www.ada.gov/kroger_co_sa.pdf [https://perma.cc/6ASX-U7FQ]; Settlement Agreement Between the
+United States of America and the Champaign-Urbana Mass Transit District (Dec. 14, 2021),
+https://www.justice.gov/d9/case-documents/attachments/2021/12/14/champaign-urbana_sa.pdf
+[https://perma.cc/66XY-QGA8]; Settlement Agreement Under the Americans with Disabilities Act Between the
+United States of America and Hy-Vee, Inc. (Dec. 1, 2021), https://www.ada.gov/hy-vee_sa.pdf
+[https://perma.cc/GFY6-BJNE]; Settlement Agreement Under the Americans with Disabilities Act Between the
+United States of America and Rite Aid Corp. (Nov. 1, 2021), https://www.ada.gov/rite_aid_sa.pdf
+[https://perma.cc/4HBF-RBK2].
+49 See, e.g., W3C, Tutorials, https://www.w3.org/WAI/tutorials/ [https://perma.cc/SW5E-WWXV] (Feb. 16, 2023).
+50 W3C, WCAG 2 Overview, https://www.w3.org/WAI/standards-guidelines/wcag/ [https://perma.cc/RQS2-P7JC]
+(Oct. 5, 2023).
+51 W3C, What’s New in WCAG 2.2, https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/
+[https://perma.cc/GDM3-A6SE] (Oct. 5, 2023).
+52 Id.
+53 Id.
+54 W3C, WCAG 2 Overview, https://www.w3.org/WAI/standards-
+guidelines/wcag/#:~:text=WCAG%202.0%2C%20WCAG%202.1%2C%20and%20WCAG%202.2%20are%20all%
+20existing,most%20recent%20version%20of%20WCAG [https://perma.cc/V5ZC-BF8Z] (Oct. 5, 2023).
+55 See Information and Communication Technology (ICT) Standards and Guidelines, 82 FR 5790, 5791 (Jan. 18,
+2017); W3C, Web Content Accessibility Guidelines (WCAG) 2.1 (June 5, 2018), https://www.w3.org/TR/2018/REC-
+WCAG21-20180605/and https://perma.cc/UB8A-GG2F.
+56 See 14 CFR 382.43(c) through (e) and 382.57.
+57 See, e.g., Austl. Gov’t Digital Transformation Agency, Exploring WCAG 2.1 for Australian Government Services
+(Aug. 22, 2018), https://www.dta.gov.au/blogs/exploring-wcag-21-australian-government-services. A Perma
+archive link was unavailable for this citation. See also W3C, Denmark (Danmark), https://www.w3.org/WAI/policies/denmark/#bekendtg%C3%B8relse-om-afgivelse-af-
+tilg%C3%A6ngelighedserkl%C3%A6ring-for-offentlige-organers-websteder-og-mobilapplikationer
+[https://perma.cc/K8BM-4QN8] (Mar. 15, 2023); see also W3C, Web Accessibility Laws &amp; Policies,
+https://www.w3.org/WAI/policies/ [https://perma.cc/6SU3-3VR3] (Dec. 2023).
+58 European Comm’n, Web Accessibility, https://digital-strategy.ec.europa.eu/en/policies/web-accessibility
+[https://perma.cc/LSG9-XW7L] (Oct. 10, 2023); European Telecomm. Standards Inst., Accessibility Requirements
+for ICT Products and Services 45–51, 64–78 (Mar. 2021),
+https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf
+[https://perma.cc/5TEZ-9GC6].
+59 Section 35.160.
+60 Id.
+61 88 FR 51962.
+62 W3C, Benefits of Web Content Accessibility Guidelines WCAG 2,
+https://www.w3.org/WAI/presentations/WCAG20_benefits/WCAG20_benefits.html [https://perma.cc/3RTN-FLKV]
+(Aug. 12, 2010) (“WCAG 2 is adaptable and flexible, for different situations, and developing technologies and
+techniques. We described earlier how WCAG 2 is flexible to apply to Web technologies now and in the future.”).
+63 See 1 CFR 51.1(f).
+64 Id.
+65 E.O. 13563, sec. 6, 3 CFR, 2012 Comp., p. 215.
+66 36 CFR 1194.1; 36 CFR part 1194, appendices A, C, and D.
+67 See 36 CFR 1194.1; 36 CFR part 1194, appendix C, ch. 5.
+68 W3C, Web Content Accessibility Guidelines (WCAG) 2.1 (June 5, 2018),
+https://www.w3.org/TR/2018/REC-WCAG21-20180605/ and https://perma.cc/UB8A-GG2F (success criteria 2.5.5,
+1.3.4, &amp; 2.5.4).
+69 See Information and Communication Technology (ICT) Standards and Guidelines, 82 FR 5790, 5798–99 (Jan. 18,
+2017).
+70 Id. at 5799.
+71 W3C, WCAG2ICT Overview, https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/
+[https://perma.cc/XRL6-6Q9Y] (Feb. 2, 2024).
+72 See W3C, Guidance on Applying WCAG 2.0 to Non-Web Information and Communications Technologies
+(WCAG2ICT) (Sep. 5, 2003), https://www.w3.org/TR/wcag2ict/ [https://perma.cc/6HKS-8YZP]. This guidance may
+provide assistance in interpreting certain WCAG 2.0 success criteria (also included in WCAG 2.1 Level AA) that do
+not appear to be directly applicable to non-web information and communications like conventional electronic
+documents and mobile apps as written, but that can be made applicable with minor revisions. For example, for
+Success Criterion 1.4.2 (audio control), replacing the words “on a Web page” with “in a non-web document or
+software” can make this Success Criterion clearly applicable to conventional electronic documents and mobile apps.
+73 W3C, EPUB Accessibility 1.1 (May 25, 2023), https://www.w3.org/TR/epub-a11y-11/ [https://perma.cc/48A5-
+NC2B].
+74 W3C, Introduction to Understanding WCAG (June 20, 2023),
+https://www.w3.org/WAI/WCAG21/Understanding/intro [https://perma.cc/​XB3Y-QKVU].
+75 See W3C, Understanding Techniques for WCAG Success Criteria (June 20, 2023),
+https://www.w3.org/WAI/WCAG21/Understanding/understanding-techniques [https://perma.cc/​AMT4-XAAL].
+76 88 FR 51961.
+77 W3C, Web Content Accessibility Guidelines (WCAG) 2.1, § 5.2 Conformance Requirements (June 5, 2018),
+https://www.w3.org/TR/2018/REC-WCAG21-20180605/#conformance-reqs [https://perma.cc/39WD-CHH9].
+WCAG 2.1 also allows a Level AA conforming alternate version to be provided instead. The Department has
+adopted a slightly different approach to conforming alternate versions, which is discussed in the section-by-section
+analysis of § 35.202.
+78 W3C, Web Content Accessibility Guidelines (WCAG) 2 Level A Conformance (July 13, 2020),
+https://www.w3.org/WAI/WCAG2A-Conformance [https://perma.cc/KT74-JNHG].
+79 Id.
+80 Id.
+81 See W3C, Understanding Conformance, Understanding Requirement 1,
+https://www.w3.org/WAI/WCAG21/Understanding/conformance [https://perma.cc/K94N-Z3TF].
+82 88 FR 51961.
+83 W3C, Web Content Accessibility Guidelines (WCAG) 2.1, 0.5 Comparison with WCAG 2.0 (June 5, 2018),
+https://www.w3.org/TR/2018/REC-WCAG21-20180605/#comparison-with-wcag-2-0 [https://perma.cc/H76F-
+6L27].
+84 See W3C, Understanding Conformance, Understanding Requirement 1,
+https://www.w3.org/WAI/WCAG21/Understanding/conformance [https://perma.cc/9ZG9-G5N8].
+85 See W3C, Web Accessibility Laws &amp; Policies, https://www.w3.org/WAI/policies/ [https://perma.cc/6SU3-3VR3]
+(Dec. 4, 2023).
+86 See Information and Communication Technology (ICT) Standards and Guidelines, 82 FR 5790, 5791 (Jan. 18,
+2017).
+87 5 U.S.C. 601(5).
+88 Sections 35.130(b)(1)(ii) and (b)(7) and 35.160.
+89 See Am. Council on Educ., Carnegie Classification of Institutions of Higher Education,
+https://carnegieclassifications.acenet.edu/ [https://perma.cc/Q9JZ-GQN3]; Am. Council on Educ., About the
+Carnegie Classification, https://carnegieclassifications.acenet.edu/carnegie-classification/ [https://perma.cc/B6BH-
+68WM].
+90 5 U.S.C. 601(5).
+91 See id.
+92 Id.
+93 As the regulatory text for § 35.200(a)(1) and (2) and (b)(1) and (2) makes clear, subpart H of this part covers web
+content and mobile apps that a public entity provides or makes available, whether directly or through contractual,
+licensing, or other arrangements. This regulatory text is discussed in more detail in this section.
+94 The undue financial and administrative burdens limitation on a public entity’s obligation to comply with the
+requirements of subpart H of this part is discussed in more detail in the section-by-section analysis of § 35.204.
+95 See, e.g., Settlement Agreement Between the United States of America and the City of Cedar Rapids, Iowa Under
+the Americans with Disabilities Act (Sept. 1, 2015), https://www.ada.gov/cedar_rapids_pca/cedar_rapids_sa.html
+[https://perma.cc/Z338-B2BU]; Settlement Agreement Between the United States of America and the City of Fort
+Morgan, Colo. Under the Americans with Disabilities Act (Aug. 8, 2013), https://www.ada.gov/fort-morgan-
+pca/fort-morgan-pca-sa.htm [https://perma.cc/JA3E-QYMS]; Settlement Agreement Between the United States of
+America and the Town of Poestenkill, N.Y. Under the Americans with Disabilities Act (July 19, 2013),
+https://www.ada.gov/poestenkill-pca/poestenkill-sa.html [https://perma.cc/DGD5-NNC6].
+96 W3C, Web Content Accessibility Guidelines (WCAG) 2.1, 0.5 Comparison with WCAG 2.0 (June 5, 2018),
+https://www.w3.org/TR/2018/REC-WCAG21-20180605/#comparison-with-wcag-2-0 [https://perma.cc/H76F-
+6L27].
+97 5 U.S.C. 601(5).
+98 As the regulatory text for § 35.200(a)(1) and (2) and (b)(1) and (2) makes clear, subpart H of this part covers web
+content and mobile apps that a public entity provides or makes available, whether directly or through contractual,
+licensing, or other arrangements. This regulatory text is discussed in more detail in this section.
+99 See Nondiscrimination on the Basis of Disability; Accessibility of Web Information and Services of State and Local
+Government Entities and Public Accommodations, 75 FR 43460, 43467 (July 26, 2010); 88 FR 51949,
+51961–51966.
+100 88 FR 51961–51966.
+101 A discussion of the comment from the Small Business Administration Office of Advocacy can also be found in
+the Final Regulatory Flexibility Analysis.
 {% endfootnotes %}
