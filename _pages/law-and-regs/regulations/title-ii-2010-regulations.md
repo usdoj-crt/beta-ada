@@ -5393,6 +5393,7 @@ lowering the cost of testing and consulting services. A commenter noted that som
 rural public entities may need extra time to bring their content into compliance but
 asserted that the Department should avoid adopting a compliance date so distant that it
 does not provide sufficient urgency to motivate those entities to address the issue.
+
 Although many commenters expressed concerns about the impact of subpart H of this
 part on small public entities, many other commenters expressed opposition to creating
 different standards or compliance time frames for small entities. Commenters
@@ -5411,14 +5412,7 @@ lack of predictability with respect to which government services people can expe
 accessible. Commenters also noted that people with disabilities have a right to equal
 access to their government’s services, regardless of where they live, and stated that
 setting different standards for small public entities would undermine that right. One
-commenter stated that, although each small public entity may have only a small
-
-102 See Katrina Crankshaw, U.S. Census Bureau, Disability Rates Higher in Rural Areas than Urban Areas (June 26,
-2023), https://www.census.gov/library/stories/2023/06/disability-rates-higher-in-rural-areas-than-urban-
-areas.html#:~:text=Examining%20disability%20rates%20across%20geography,ACS)%201%2Dyear%20estimates
-[https://perma.cc/NP5Y-CUJS].
-
-population, there are a large number of small public entities, meaning that any lowering
+commenter stated that, although each small public entity may have only a small population, there are a large number of small public entities, meaning that any lowering
 of the standards for small public entities would cumulatively affect a large number of
 people. Some commenters argued that setting different substantive standards for small
 public entities could make it challenging to enforce subpart H. Some commenters
@@ -5427,6 +5421,7 @@ inconsistent with title II of the ADA, which does not set different standards ba
 size of the entity. One commenter argued that requiring small public entities to comply
 only with Level A success criteria would be inadequate and inconsistent with
 international standards.
+
 Commenters also noted that there are many factors that may make it easier for small
 public entities to comply. For example, some commenters suggested that small entities
 may have smaller or less complex websites than larger entities. Commenters noted
@@ -5445,24 +5440,26 @@ that setting different technical standards for small public entities would creat
 for those attempting to implement needed accessibility changes. One commenter also
 contended that it may benefit small public entities to use a more recent version of
 WCAG because doing so may provide a better experience for all members of the public.
+
 Some commenters pointed out that the challenges small public entities may face are not
 necessarily unique, and that many public entities, regardless of size, face budgetary
 constraints, staffing issues, and a need for training. In addition, some commenters
 noted that the size of a public entity may not always be a good proxy for the number of
 people who may need access to an entity’s website.
+
 Having carefully considered these comments, the Department believes that subpart H of
 this part strikes the appropriate balance by requiring small public entities to comply with
 the same technical standard as larger public entities while giving small public entities
 additional time to do so. The Department believes this longer compliance time frame is
 prudent in recognition of the additional challenges that small public entities may face in
 complying, such as limited budgets, lack of technical expertise, and lack of personnel.
+
 The Department believes that providing an extra year for small public entities to comply
 will give those entities sufficient time to properly allocate their personnel and financial
 resources to make their web content and mobile apps conform to WCAG 2.1 Level AA,
-without providing so much additional time that individuals with disabilities have a
-
-reduced level of access to their State and local government entities’ resources for an
+without providing so much additional time that individuals with disabilities have a reduced level of access to their State and local government entities’ resources for an
 extended period.
+
 The Department believes that having provided an additional year for small public
 entities to comply with subpart H of this part, it is appropriate to require those entities to
 comply with the same technical standard and conformance level as all other public
@@ -5482,6 +5479,7 @@ Department notes that under appropriate circumstances, small public entities may
 rely on the exceptions, flexibilities, and other mechanisms described in the section-by-
 section analysis of §§ 35.201, 35.202, 35.203, 35.204, and 35.205, which the
 Department believes should help make compliance feasible for those entities.
+
 Some commenters suggested that the Department should provide additional exceptions
 or flexibilities to small public entities. For example, the Small Business Administration
 suggested that the Department explore developing a wholesale exception to subpart H
@@ -5502,10 +5500,6 @@ described in subpart H would not only hinder access for individuals with disabil
 would also leave those entities with no clear standard for how to satisfy their existing
 obligations under the ADA and the title II regulation.
 
-103 See, e.g., NORC Walsh Ctr. for Rural Health Analysis &amp; Rural Health Info. Hub, Access to Care for Rural People
-with Disabilities Toolkit (Dec. 2016), https://www.ruralhealthinfo.org/toolkits/disabilities.pdf
-[https://perma.cc/YX4E-QWEE].
-
 Other commenters made alternative suggestions, such as making WCAG 2.1 Level AA
 compliance recommended but not required. The Department does not believe this
 suggestion is workable or appropriate. As discussed in the section entitled,
@@ -5518,6 +5512,7 @@ and public entities have clarity and predictability in terms of what the law req
 Department believes that creating a recommended, non-mandatory technical standard
 would not provide this clarity or predictability and would instead largely maintain the
 status quo.
+
 Some commenters suggested that the Department should allow small public entities to
 avoid making their web content and mobile apps accessible by instead offering services
 to individuals with disabilities via the phone, providing an accessibility disclaimer or
@@ -5539,6 +5534,7 @@ which would not provide equal opportunity. Similarly, it would not provide equal
 opportunity to offer services, programs, or activities via the web or mobile apps to
 individuals without disabilities but require individuals with disabilities to rely exclusively
 on other methods to access those services.
+
 Many commenters also asked the Department to provide additional resources and
 guidance to help small entities comply. The Small Business Administration Office of
 Advocacy also highlighted the need for the Department to produce a small entity
@@ -5546,16 +5542,12 @@ compliance guide. 105 The Department plans to issue the required small entity
 compliance guide. The Department is also issuing a Final Regulatory Flexibility
 Analysis as part of this rulemaking, which explains the impact of subpart H of this part
 on small public entities. In addition, although the Department does not currently operate
-a grant program to assist public entities in complying with the ADA, the Department will
-104 88 FR 51953.
-105 See Contract with America Advancement Act of 1996, Public Law 104–121, sec. 212, 110 Stat. 847, 858 (5
-U.S.C. 601 note).
-
-consider offering additional technical assistance and guidance in the future to help
+a grant program to assist public entities in complying with the ADA, the Department will consider offering additional technical assistance and guidance in the future to help
 entities better understand their obligations. The Department also operates a toll-free
 ADA Information Line at (800) 514-0301 (voice) or 1-833-610-1264 (TTY), which public
 entities can call to get technical assistance about the ADA, including information about
 subpart H.
+
 Many commenters also expressed concern about the potential for an increase in
 litigation for small public entities as a result of subpart H of this part. Some commenters
 asked the Department to create a safe harbor or other flexibilities to protect small public
@@ -5576,6 +5568,7 @@ disabilities to use the public entity’s web content or mobile app with substan
 equivalent timeliness, privacy, independence, and ease of use. The Department
 believes that this will afford more flexibility for all public entities, including small ones,
 while simultaneously ensuring access for individuals with disabilities.
+
 One commenter asked the Department to state that public entities, including small ones,
 that are working towards conformance to WCAG 2.1 Level AA before the compliance
 dates are in compliance with the ADA and not engaging in unlawful discrimination. The
@@ -5592,11 +5585,6 @@ three years after the publication of the final rule, they will continue to have 
 to ensure accessibility in the meantime, and will generally have to achieve compliance
 with the technical standard by the date specified in subpart H.
 
-106 See, e.g., §§ 35.130 and 35.160.
-107 Sections 35.130(b)(1)(ii) and 35.160(b)(1).
-108 Section 35.130(b)(7)(i).
-109 Section 35.160.
-
 Some commenters asked the Department to provide additional flexibility for small public
 entities with respect to captioning requirements. A discussion of the approach to
 captioning in subpart H of this part can be found in the section entitled “Captions for
@@ -5608,7 +5596,8 @@ commenters asked the Department to add a notice-and-cure provision to subpart H 
 help protect small entities from liability. For the reasons discussed in the section-by-
 section analysis of § 35.205, entitled “Effect of noncompliance that has a minimal impact
 on access,” the Department does not believe this approach is appropriate.
-Special District Governments
+
+**<u>Special District Governments</u>**
 
 In addition to small public entities, § 35.200(b)(2) also covers public entities that are
 special district governments. As previously noted, special district governments are
@@ -5635,14 +5624,13 @@ governments are authorized to provide a single function or a limited number of f
 have more limited or specialized budgets. Therefore, § 35.200(b)(2) extends the
 deadline for compliance for special district governments to three years, as it does for
 small public entities.
+
 The Department notes that some commenters opposed giving special district
 governments three years to comply with subpart H of this part. One commenter
 asserted that most special district governments are aware of the size of the regions they
 serve and would be able to determine whether they fall within the threshold for small
 entities. One commenter noted that some special district governments may serve larger
-populations and should therefore be treated like large public entities. Another
-
-commenter argued that a public entity that has sufficient administrative and fiscal
+populations and should therefore be treated like large public entities. Another commenter argued that a public entity that has sufficient administrative and fiscal
 autonomy to qualify as a separate government should have the means to comply with
 subpart H in a timely manner.  However, as noted in the preceding paragraph, the
 Department is concerned that, because these special district governments do not have
@@ -5653,7 +5641,9 @@ Department also understands that these governments have limited functions and ma
 have particularly limited or constrained budgets in some cases. The Department
 therefore continues to believe it is appropriate to give these governments three years to
 comply.
-Compliance Time Frame Alternatives
+
+**Compliance Time Frame Alternatives**
+
 In addition to asking that the compliance time frames be lengthened or shortened,
 commenters also suggested a variety of other alternatives and models regarding how
 § 35.200’s compliance time frames could be structured. Commenters proposed that
@@ -5665,6 +5655,7 @@ Department could require conformance to some WCAG success criteria sooner than
 others. Commenters also suggested a phase-in model where public entities would be
 required to prioritize certain types of content, such as making all frequently used content
 conform to WCAG 2.1 Level AA first.
+
 Because § 35.200 gives public entities two or three years to come into compliance
 depending on entity size, public entities have the flexibility to structure their compliance
 efforts in the manner that works best for them. This means that if public entities want to
@@ -5677,6 +5668,7 @@ The Department, therefore, is not specifying certain criteria or types of conten
 should be prioritized. Public entities have the flexibility to determine how to make sure
 they comply with § 35.200 in the two- or three-year period before which compliance with
 § 35.200 is first required. After the compliance date, ongoing compliance is required.
+
 In addition, the Department believes that requiring only new content to be accessible or
 using another method for prioritization could lead to a significant accessibility gap for
 individuals with disabilities if public entities rely on content that is not regularly updated
@@ -5684,12 +5676,11 @@ or changed. The Department notes that unless otherwise covered by an exception,
 subpart H of this part requires that new and existing content be made accessible within
 the meaning of § 35.200 after the date initial compliance is required. Because some
 exceptions in § 35.201 only apply to preexisting content, the Department believes it is
-likely that public entities’ own newly created or added content will largely need to
-
-comply with § 35.200 because such content may not qualify for exceptions. For more
+likely that public entities’ own newly created or added content will largely need to comply with § 35.200 because such content may not qualify for exceptions. For more
 information about how the exceptions under § 35.201 function and how they will likely
 apply to existing and new content, please review the analysis of § 35.201 in this section-
 by-section analysis.
+
 Commenters also suggested that public entities be required to create transition plans
 like those discussed in the existing title II regulation at §§ 35.105 and 35.150(d). The
 Department does not believe it is appropriate to require transition plans as part of
@@ -5708,7 +5699,8 @@ apps accessible under § 35.200, instead of drafting required self-evaluation an
 transition plans. The Department notes that public entities can still engage in self-
 evaluation and create transition plans, and would likely find it helpful, but they are not
 required to do so under § 35.200.
-Fundamental Alteration or Undue Financial and Administrative Burdens
+
+**Fundamental Alteration or Undue Financial and Administrative Burdens**
 
 As discussed at greater length in the section-by-section analysis of § 35.204, subpart H
 of this part provides that where a public entity can demonstrate that compliance with the
@@ -5727,8 +5719,6 @@ facilities) and 35.164 (effective communication) and the fundamental alteration 
 currently provided in the title II regulation in § 35.130(b)(7) (reasonable modifications in
 policies, practices, or procedures).
 
-110 Section 35.151.
-
 If a public entity believes that a proposed action would fundamentally alter a service,
 program, or activity or would result in undue financial and administrative burdens, the
 public entity has the burden of proving that compliance would result in such an
@@ -5746,13 +5736,16 @@ out the circumstances in which an alteration or such burdens can be claimed. For
 information, see the discussion regarding limitations on obligations in the section-by-
 section analysis of § 35.204.
 
-Requirements for Selected Types of Content
+**Requirements for Selected Types of Content**
+
 In the NPRM, the Department asked questions about the standards that should apply to
 two particular types of content: social media platforms and captions for live-audio
 content. 111 In this section, the Department includes information about the standards that
 subpart H of this part applies to these types of content and responds to the comments
 received on these topics.
-Public Entities’ Use of Social Media Platforms
+
+**Public Entities’ Use of Social Media Platforms**
+
 Public entities are increasingly using social media platforms to provide information and
 communicate with the public about their services, programs, or activities in lieu of or in
 addition to engaging the public on the public entities’ own websites. Consistent with the
@@ -5761,6 +5754,7 @@ mobile apps of third parties whose primary purpose is to enable users to create 
 share content in order to participate in social networking (i.e., the creation and
 maintenance of personal and business relationships online through websites and mobile
 apps like Facebook, Instagram, X (formerly Twitter), and LinkedIn).
+
 Subpart H of this part requires that web content and mobile apps that public entities
 provide or make available, directly or through contractual, licensing, or other
 arrangements, be made accessible within the meaning of § 35.200. This requirement
@@ -5768,11 +5762,9 @@ applies regardless of whether that content is located on the public entity’s o
 or mobile app or elsewhere on the web or in mobile apps. The requirement therefore
 covers web content or content in a mobile app that a public entity makes available via a
 social media platform. With respect to social media posts that are posted before the
-compliance date, however, the Department has decided to add an exception, which is
-111 88 FR 51958, 51962–51963, 51965–51966.
-
-explained more in the section-by-section analysis of § 35.201(e), “Preexisting Social
+compliance date, however, the Department has decided to add an exception, which is explained more in the section-by-section analysis of § 35.201(e), “Preexisting Social
 Media Posts”.
+
 Many social media platforms that are widely used by members of the public are
 available to members of the public separate and apart from any arrangements with
 public entities to provide a service, program, or activity. As a result, subpart H of this
@@ -5786,6 +5778,7 @@ when it makes web content available on social media platforms. 112 For example, 
 public entity posts an image to a social media platform that allows users to include alt
 text, the public entity needs to ensure that appropriate alt text accompanies that image
 so that screen-reader users can access the information.
+
 The Department received many comments explaining the importance of social media to
 accessing public entities’ services, programs, or activities. Both public entities and
 disability advocates shared many examples of public entities using social media to
@@ -5799,6 +5792,7 @@ and trade groups representing public accommodations opposed the coverage of soci
 media posts in subpart H, arguing that social media is more like advertising. These
 commenters also said it is difficult to make social media content accessible because the
 platforms sometimes do not enable accessibility features.
+
 The Department agrees with the many commenters who opined that social media posts
 should be covered by subpart H of this part. The Department believes public entities
 should not be relieved from their duty under subpart H to provide accessible content to
@@ -5810,13 +5804,7 @@ toxic spills and wildfire smoke, for example. The Department believes that this
 information must also be accessible to individuals with disabilities. The fact that public
 entities use social media platforms to disseminate this type of crucial information also
 belies any analogy to advertising. And even to the extent that information does not rise
-to the level of an emergency, if an entity believes information is worth posting on social
-
-112 See U.S. Gen. Servs. Admin., Federal Social Media Accessibility Toolkit Hackpad,
-https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/ [https://perma.cc/DJ8X-UCHA]
-(last visited Mar. 13, 2024).
-
-media for members of the public without disabilities, it is no less important for that
+to the level of an emergency, if an entity believes information is worth posting on social media for members of the public without disabilities, it is no less important for that
 information to reach members of the public with disabilities. Therefore, the entity cannot
 deny individuals with disabilities equal access to that content, even if it is not about an
 emergency.
@@ -5833,6 +5821,7 @@ links. Several commenters also suggested that the Department should provide that
 where the same information is available on a public entity’s own accessible website,
 public entities should be considered in compliance with this part even if their content on
 social media platforms cannot be made entirely accessible.
+
 The Department declines to modify subpart H of this part in response to these
 commenters, because the Department believes the framework in subpart H balances
 the appropriate considerations to ensure equal access to public entities’ postings to
@@ -5854,17 +5843,18 @@ effective outreach from public entities to the public, and in some cases social 
 posts may reach many more people than a public entity’s own website. The
 Department sees no acceptable reason why individuals with disabilities should be
 excluded from this outreach.
+
 The Department received a few other comments related to social media, suggesting for
 example that the Department adopt guidance on making social media accessible
 instead of covering social media in subpart H of this part, and suggesting that the
 Department require inclusion of a disclaimer with contact information on social media
-platforms so that the public can notify a public entity about inaccessible content. The
-
-Department believes that these proposals would be difficult to implement in a way that
+platforms so that the public can notify a public entity about inaccessible content. The Department believes that these proposals would be difficult to implement in a way that
 would ensure content is proactively made accessible, rather than reactively corrected
 after it is discovered to be inaccessible, and thus the Department declines to adopt
 these proposals.
-Captions for Live-Audio and Prerecorded Content
+
+**Captions for Live-Audio and Prerecorded Content**
+
 WCAG 2.1 Level AA Success Criterion 1.2.4 requires captions for live-audio content in
 synchronized media. 113 The intent of this success criterion is to “enable people who are
 deaf or hard of hearing to watch real-time presentations. Captions provide the part of
@@ -5873,6 +5863,7 @@ identify who is speaking and notate sound effects and other significant audio.�
 Modern live captioning often can be created with the assistance of technology, such as
 by assigning captioners through Zoom or other conferencing software, which integrates
 captioning with live meetings.
+
 As proposed in the NPRM, 115 subpart H of this part applies the same compliance dates
 (determined primarily by size of public entity) to all of the WCAG 2.1 Level AA success
 criteria, including live-audio captioning requirements. As stated in § 35.200(b), this
@@ -5891,20 +5882,13 @@ any other success criterion, public entities would not be required to satisfy Su
 Criterion 1.2.4 if they can demonstrate that doing so would result in a fundamental
 alteration in the nature of a service, program, or activity or in undue financial and
 administrative burdens.
+
 The Department solicited comments to inform this approach, seeking input on the
 proposed compliance timeline, the type of live-audio content that entities make available
 through the web or mobile apps, and the cost of providing captioning for live-audio
 content for entities of all sizes. 116 Commenters expressed strong support for requiring
 captions as a general matter, noting that they benefit people with a variety of disabilities,
-including those who are deaf, deafblind, or neurodivergent, or have auditory processing
-113 W3C, Understanding WCAG 2.0: Captions (Live), Understanding SC 1.2.4 (2023),
-http://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-real-time-captions.html
-[https://perma.cc/NV74-U77R].
-114 Id. (emphasis in original).
-115 88 FR 51965–51966.
-116 88 FR 51965–51966.
-
-disabilities. No commenters argued for an outright exception to the captioning
+including those who are deaf, deafblind, or neurodivergent, or have auditory processing disabilities. No commenters argued for an outright exception to the captioning
 requirement. The vast majority of commenters who responded to these questions,
 including disability advocates, public entities, and accessible technology industry
 members, agreed with the Department’s proposal to require compliance with
@@ -5916,6 +5900,7 @@ commenter who had worked in higher education, for instance, noted challenges of
 providing live-audio captioning, including the limited number of captioners available and
 resulting need for lead time to reserve one, but nonetheless stated that entities should
 strive for the same compliance date.
+
 A smaller number of commenters urged the Department to adopt a longer compliance
 time frame in order to allow live-captioning technology to develop further. Some of
 these commenters supported a longer time frame for smaller entities in particular, which
@@ -5926,6 +5911,7 @@ availability of quality professional live captioners and the lead time necessary
 those services, but at the same time noted that public entities do not necessarily want to
 rely on automatically generated captioning in all scenarios because it may be
 insufficient for an individual’s needs.
+
 Commenters shared that public entities make many types of live-audio content
 available, including town hall meetings, board meetings, and other public engagement
 meetings; emergency-related and public-service announcements or information; special
@@ -5942,10 +5928,6 @@ believes that setting a different compliance date would only delay this essentia
 and leave people who are deaf or have hearing disabilities at a particular disadvantage
 in accessing these critical services. It also would hinder access for people with a variety
 of other disabilities, including cognitive disabilities. 117
-
-117 See W3C, Web Accessibility Initiative, Video Captions, https://www.w3.org/WAI/perspective-videos/captions/
-[https://perma.cc/QW6X-5SPG] (Jan. 23, 2019) (explaining that captions benefit “people with cognitive and
-learning disabilities who need to see and hear the content to better understand it”).
 
 The Department believes that the compliance dates set forth in subpart H of this part
 will give public entities sufficient time to locate captioning resources and implement or
@@ -5976,8 +5958,7 @@ continue to improve, perhaps eventually surpassing the quality of professional l
 captioning services. However, commenters also pointed out that automatic captions
 may not be sufficient in many contexts such as virtual classrooms or courtrooms, where
 mistakes in identifying a speaker, word, or punctuation can significantly change the
-meaning and the participant with a disability needs to be able to respond in real time.
-Commenters also argued, though, that requiring human captioners in all circumstances
+meaning and the participant with a disability needs to be able to respond in real time. Commenters also argued, though, that requiring human captioners in all circumstances
 may lead to public entities making fewer meetings, hearings, courses, and other live-
 audio content available online due to cost and availability of captioners, which could
 have a detrimental effect on overall access to these services for people with mobility
@@ -5993,7 +5974,6 @@ them; or human-generated captions as a default for events with a wide audience l
 graduations, but automatic captions as a default for private meetings and courses,
 unless human-generated captions are requested. An accessible technology industry
 member urged the Department to just require captions that provide “equivalent access”
-
 to live-audio content, rather than mandate a particular type of captioning.
 After consideration of commenters’ concerns and its independent assessment, the
 Department does not believe it is prudent to prescribe captioning requirements beyond
@@ -6013,8 +5993,7 @@ detrimental consequences for people with and without disabilities who benefit fr
 online offerings. Further, it is the Department’s understanding, supported by comments,
 that captioning technology is rapidly evolving and any additional specifications regarding
 how to meet WCAG 2.1’s live-audio captioning requirements could quickly become
-outdated.
-Rather than specify a particular accuracy level or method of satisfying Success Criterion
+outdated. Rather than specify a particular accuracy level or method of satisfying Success Criterion
 1.2.4 at this time, subpart H of this part provides public entities with the flexibility to
 determine the best way to comply with this success criterion based on current
 technology. The Department further encourages public entities to make use of W3C’s
@@ -6033,24 +6012,14 @@ prerecorded (i.e., non-live) content under Success Criterion 1.2.2, including co
 that public entities may choose to remove recordings of past events such as public
 hearings and local government sessions rather than comply with captioning
 requirements in the required time frames. The Department recommends that public
-entities consider other options that may alleviate costs, such as evaluating whether any
-
-118 W3C, Web Accessibility Initiative, Captions/Subtitles, https://www.w3.org/WAI/media/av/captions
-[https://perma.cc/D73P-RBZA] (July 14, 2022).
-119 E.g., W3C, Web Accessibility Initiative, Captions/Subtitles, https://www.w3.org/WAI/media/av/captions
-[https://perma.cc/D73P-RBZA] (July 14, 2022); W3C, WCAG 2.2 Understanding Docs: Understanding SC 1.2.4:
-Captions (Live) (Level AA), https://www.w3.org/WAI/WCAG22/Understanding/captions-live.html
-[https://perma.cc/R8SZ-JA6Z] (Mar. 7, 2024).
-
-exceptions apply, depending on the particular circumstances. And as with live-audio
+entities consider other options that may alleviate costs, such as evaluating whether any exceptions apply, depending on the particular circumstances. And as with live-audio
 captioning, public entities can rely on the fundamental alteration or undue burdens
 provisions in § 35.204 where they can satisfy the requirements of those provisions.
 Even where a public entity can demonstrate that conformance to Success Criterion
 1.2.2 would result in a fundamental alteration or undue financial and administrative
 burdens, the Department believes public entities may often be able to take other actions
 that do not result in such an alteration or such burdens; if they can, § 35.204 requires
-them to do so.
-The same reasoning discussed regarding Success Criterion 1.2.4 also applies to
+them to do so. The same reasoning discussed regarding Success Criterion 1.2.4 also applies to
 Success Criterion 1.2.2. The Department declines to adopt a separate timeline for this
 success criterion or to prescribe captioning requirements beyond those in WCAG 2.1
 due to rapidly evolving technology, the importance of these success criteria, and the
@@ -6058,7 +6027,8 @@ other factors already noted. After full consideration of all the comments receiv
 subpart H of this part requires conformance to WCAG 2.1 Level AA as a whole on the
 same compliance time frame, for all of the reasons stated in this section.
 
-Section 35.201 Exceptions
+**Section 35.201 Exceptions**
+
 Section 35.200 requires public entities to make their web content and mobile apps
 accessible by complying with a technical standard for accessibility—WCAG 2.1
 Level AA. However, some types of content do not have to comply with the technical
@@ -6070,6 +6040,7 @@ of this part is feasible and sustainable for public entities. The exceptions hel
 that compliance with subpart H is feasible by enabling public entities to focus their
 resources on making frequently used or high impact content WCAG 2.1 Level AA
 compliant first.
+
 Under § 35.201, the following types of content generally do not need to comply with the
 technical standard for accessibility—WCAG 2.1 Level AA: (1) archived web content; (2)
 preexisting conventional electronic documents, unless they are currently used to apply
@@ -6079,16 +6050,16 @@ secured conventional electronic documents; and (5) preexisting social media post
 The Department notes that if web content or content in mobile apps is covered by one
 exception, the content does not need to conform to WCAG 2.1 Level AA to comply with
 subpart H of this part, even if the content fails to qualify for another exception.
+
 However, as discussed in more detail later in this section-by-section analysis, there may
 be situations in which the content otherwise covered by an exception must still be made
 accessible to meet the needs of an individual with a disability under existing title II
 requirements. 120 Because these exceptions are specifically tailored to address what the
-120 See §§ 35.130(b)(1)(ii) and (b)(7) and 35.160.
-
 Department understands to be existing areas where compliance might be particularly
 difficult based on current content types and technologies, the Department also expects
 that these exceptions may become less relevant over time as new content is added and
 technology changes.
+
 The previously listed exceptions are those included in § 35.201. They differ in some
 respects from those exceptions proposed in the NPRM. The Department made
 changes to the proposed exceptions identified in the NPRM after consideration of the
@@ -6101,6 +6072,7 @@ caused confusion. In the NPRM, the Department discussed the possibility of inclu
 an exception for public entities’ preexisting social media posts. 122 After consideration of
 public feedback, § 35.201 includes such an exception. In addition, the Department
 made some technical tweaks and clarifications to the exceptions. 123
+
 The Department heard a range of views from public commenters on the exceptions
 proposed in the NPRM. The Department heard from some commenters that exceptions
 are necessary to avoid substantial burdens on public entities and would help public
@@ -6121,21 +6093,18 @@ little control over content posted to their website by unaffiliated third partie
 commenter noted that public entities may have individualized documents that apply only
 to individual members of the public and that in most cases do not need to be accessed
 by a person with a disability.
+
 On the other hand, the Department has also heard from commenters who objected to
 the inclusion of exceptions. Many commenters who objected to the inclusion of
 exceptions cited the need for all of public entities’ web content and mobile apps to be
-accessible to better ensure predictability and access for individuals with disabilities to
-121 88 FR 52019.
-122 Id. at 51962–51963.
-123 Id. at 52019–52020.
-
-critical government services. Some commenters who opposed including exceptions
+accessible to better ensure predictability and access for individuals with disabilities to critical government services. Some commenters who opposed including exceptions
 also asserted that a title II regulation need not include any exceptions to its specific
 requirements because the compliance limitation for undue financial and administrative
 burdens would suffice to protect public entities from any overly burdensome
 requirements. Some commenters argued that the exceptions would create loopholes
 that would result in public entities not providing sufficient access for individuals with
 disabilities, which could undermine the purpose of subpart H of this part.
+
 Commenters also contended that the proposed exceptions create confusion about what
 is covered and needs to conform to WCAG 2.1, which creates difficulties with
 compliance for public entities and barriers for individuals with disabilities seeking to
@@ -6143,6 +6112,7 @@ access public entities’ web content or mobile apps. Some commenters also noted
 there are already tools that can help public entities make web content and mobile apps
 accessible, such that setting forth exceptions for certain content is not necessary to help
 public entities comply.
+
 After consideration of the various public comments and after its independent
 assessment, the Department is including, with some refinements, five exceptions in §
 35.201. As noted in the preceding paragraphs and as will be discussed in greater
@@ -6162,6 +6132,7 @@ situations in which content covered by an exception might still need to be made
 accessible, strikes the appropriate balance between ensuring access for individuals with
 disabilities and feasibility for public entities so that they can comply with § 35.200, which
 will ensure greater accessibility moving forward.
+
 The Department was mindful of the pragmatic concern that, should subpart H of this
 part require actions that are likely to result in fundamental alterations or undue burdens
 for large numbers of public entities or large swaths of their content, subpart H could in
@@ -6173,9 +6144,9 @@ The Department agrees with commenters that clarifying that public entities do no
 to focus resources on certain content helps ensure that public entities can focus their
 resources on the large volume of content not covered by exceptions, as that content is
 likely more frequently used or up to date. In the sections that follow, the Department
-
 provides explanations for why the Department has included each specific exception and
 how the exceptions might apply.
+
 The Department understands and appreciates that including exceptions for certain
 types of content reduces the content that would be accessible at the outset to
 individuals with disabilities. The Department aimed to craft the exceptions with an eye
@@ -6203,22 +6174,18 @@ burdens on individuals with disabilities that did not already exist as part of t
 title II regulatory framework. As explained further, nothing in this part prohibits an entity
 from going beyond § 35.200’s requirements to make content covered by the exceptions
 fully or partially compliant with WCAG 2.1 Level AA.
+
 The following discussion provides information on each of the exceptions, including a
 discussion of public comments.
 
-Archived Web Content
+**Archived Web Content**
+
 Public entities may retain a significant amount of archived content, which may contain
 information that is outdated, superfluous, or replicated elsewhere. The Department’s
 understanding is that, generally, this historic information is of interest to only a small
 segment of the general population. The Department is aware and concerned, however,
 that based on current technologies, public entities would need to expend considerable
-resources to retroactively make accessible the large quantity of historic or otherwise
-124 See §§ 35.130(b)(1)(ii) and (b)(7) and 35.160. For more information about public entities’ existing obligation to
-ensure that communications with individuals with disabilities are as effective as communications with others, see
-U.S. Dep’t of Just., ADA Requirements: Effective Communication, ada.gov (Feb 28, 2020),
-https://www.ada.gov/resources/effective-communication/ [https://perma.cc/CLT7-5PNQ].
-
-outdated information that public entities created in the past and that they may need or
+resources to retroactively make accessible the large quantity of historic or otherwise outdated information that public entities created in the past and that they may need or
 want to make available on their websites. Thus, § 35.201(a) provides an exception from
 the requirements of § 35.200 for web content that meets the definition of “archived web
 content” in § 35.104. 125 As mentioned previously, the definition of “archived web
@@ -6232,7 +6199,8 @@ altered or updated after the date of archiving. Fourth, the web content is organ
 stored in a dedicated area or areas clearly identified as being archived. The archived
 web content exception allows public entities to retain historic web content, while utilizing
 their resources to make accessible the most widely and consistently used content that
-people need to access public services or to participate in civic life
+people need to access public services or to participate in civic life.
+
 The Department anticipates that public entities may retain various types of web content
 consistent with the exception for archived web content. For example, a town might
 create a web page for its annual parade. In addition to providing current information
@@ -6258,12 +6226,9 @@ the documents would likely be covered by the exception. The Department reiterate
 that these examples are meant to be illustrative and that the analysis of whether a given
 piece of web content meets the definition of “archived web content” depends on the
 specific circumstances.
-The Department recognizes, and commenters emphasized, that archived information
-may be of interest to some members of the public, including some individuals with
-125 In the NPRM, § 35.201(a) referred to archived web content as defined in § 35.104 “of this chapter.” 88 FR
-52019. The Department has removed the language “of this chapter” because it was unnecessary.
 
-disabilities, who are conducting research or are otherwise interested in these historic
+The Department recognizes, and commenters emphasized, that archived information
+may be of interest to some members of the public, including some individuals with disabilities, who are conducting research or are otherwise interested in these historic
 documents. Furthermore, some commenters expressed concerns that public entities
 would begin (or already are in some circumstances) improperly moving content into an
 archive. The Department emphasizes that under this exception, public entities may not
@@ -6290,6 +6255,7 @@ first part of the definition based on the date it was created. Instead, such new
 documents would generally need to conform to WCAG 2.1 Level AA for their initial
 intended purpose related to the meetings, and they would need to remain accessible if
 they were later added to an area clearly identified as being archived.
+
 The Department received comments both supporting and opposing the exception. In
 support of the exception, commenters highlighted various benefits. For example,
 commenters noted that remediating archived web content can be very burdensome, and
@@ -6297,6 +6263,7 @@ the exception allows public entities to retain content they might otherwise remo
 had to make the content conform to WCAG 2.1 Level AA. Some commenters also
 agreed that public entities should prioritize making current and future web content
 accessible.
+
 In opposition to the exception, commenters highlighted various concerns. For example,
 some commenters stated that the exception perpetuates unequal access to information
 for individuals with disabilities, and it continues to inappropriately place the burden on
@@ -6305,9 +6272,7 @@ content covered by the exception, and wait for the request to be processed. Some
 commenters also noted that the exception is not necessary because the compliance
 limitations for fundamental alteration and undue financial and administrative burdens
 would protect public entities from any unrealistic requirements under subpart H of this
-part. 126 Commenters also stated that the proposed exception is not timebound; it does
-
-not account for technology that exists, or might develop in the future, that may allow for
+part. 126 Commenters also stated that the proposed exception is not timebound; it does not account for technology that exists, or might develop in the future, that may allow for
 easy and reliable wide-scale remediation of archived web content; it might deter
 development of technology that could reliably remediate archived web content; and it
 does not include a time frame for the Department to reassess whether the exception is
@@ -6318,6 +6283,7 @@ in accordance with other laws. As previously discussed with respect to the defin
 “archived web content,” some commenters also stated that it is not clear when web
 content is retained exclusively for reference, research, or recordkeeping, and public
 entities may therefore improperly designate important web content as archived.
+
 The Department has decided to keep the exception in § 35.201. After reviewing the
 range of different views expressed by commenters, the Department continues to believe
 that the exception appropriately encourages public entities to utilize their resources to
@@ -6336,6 +6302,7 @@ believes the addition of the first part of the definition will lead to greater p
 about the application of the exception for individuals with disabilities and public entities.
 In addition, web content that is used for something other than reference, research, or
 recordkeeping is not covered by the exception.
+
 The Department understands the concerns raised by commenters about the burdens
 that individuals with disabilities may face because archived web content is not required
 to conform to WCAG 2.1 Level AA. The Department emphasizes that even if certain
@@ -6346,14 +6313,7 @@ their existing obligations under title II. These obligations include making reas
 modifications to avoid discrimination on the basis of disability, ensuring that
 communications with people with disabilities are as effective as communications with
 people without disabilities, and providing people with disabilities an equal opportunity to
-participate in or benefit from the entity’s services, programs, or activities. 128 Some
-126 A discussion of the relationship between these limitations and the exceptions in § 35.201 is also provided in the
-general explanation at the beginning of the discussion of § 35.201 in the section-by-section analysis.
-127 The section-by-section analysis of § 35.200 includes a discussion of the Department’s obligation to do a periodic
-retrospective review of its regulations pursuant to Executive Order 13563.
-128 See §§ 35.130(b)(1)(ii) and (b)(7) and 35.160.
-
-commenters suggested that the Department should also specify that if a public entity
+participate in or benefit from the entity’s services, programs, or activities. 128 Some commenters suggested that the Department should also specify that if a public entity
 makes archived web content conform to WCAG 2.1 Level AA in response to a request
 from an individual with a disability, such as by remediating a PDF stored in an archived
 area on the public entity’s website, the public entity should replace the inaccessible
@@ -6362,6 +6322,7 @@ individual. The Department agrees that this is a best practice public entities c
 implement, but did not add this to the text of this part because of the importance of
 providing public entities flexibility to meet the needs of individuals with disabilities on a
 case-by-case basis.
+
 Some commenters suggested that the Department should require public entities to
 adopt procedures and timelines for how individuals with disabilities could request
 access to inaccessible archived web content covered by the exception. The
@@ -6387,6 +6348,7 @@ issues that individuals with disabilities may encounter accessing web content or
 apps or to request assistance. Providing this information will help public entities to
 ensure that they are satisfying their obligations to provide equal access, effective
 communication, and reasonable modifications.
+
 Some commenters suggested that this part should require a way for users to search
 through archived web content, or information about the contents of the archive should
 otherwise be provided, so individuals with disabilities can identify what content is
@@ -6395,10 +6357,7 @@ archive is inherently imprecise and involves sifting through many documents, but
 exception places the burden on individuals with disabilities to know exactly which
 archived documents to request in accessible formats. After carefully considering these
 comments, the Department decided not to change the text of this part. The Department
-emphasizes that web content that is not archived, but instead notifies users about the
-129 Id.
-
-existence of archived web content and provides users access to archived web content,
+emphasizes that web content that is not archived, but instead notifies users about the existence of archived web content and provides users access to archived web content,
 generally must still conform to WCAG 2.1 Level AA. Therefore, the Department
 anticipates that members of the public will have information about what content is
 contained in an archive. For example, a public entity’s archive may include a list of links
@@ -6407,6 +6366,7 @@ entity would generally have to provide sufficient information in the text of the
 or in the text of the link together with the link’s programmatically determined link context,
 so users could understand the purpose of each link and determine whether they want to
 access a given document in the archive. 130
+
 Some commenters suggested that public entities should ensure that the systems they
 use to retain and store archived web content do not convert the content into an
 inaccessible format. The Department does not believe it is necessary to make updates
@@ -6427,6 +6387,7 @@ Because the newly created flyer would not meet the first part of the definition 
 after it is moved into an archive. Therefore, the city would need to ensure its system for
 retaining and storing archived web content does not convert the flyer into an
 inaccessible format.
+
 Some commenters also suggested that the exception should not apply to public entities
 whose primary function is to provide or make available what commenters perceived as
 archived web content, such as some libraries, museums, scientific research
@@ -6439,11 +6400,7 @@ archived and non-archived web content related to a city park. If the library’s
 included a current map of the park that was created by the city, that map would likely
 not be retained exclusively for reference, research, or recordkeeping, as it is a current
 part of the city’s program of providing and maintaining a park. Furthermore, if the map
-was newly created after the date the public entity was required to comply with subpart H
-130 See W3C, Understanding SC 2.4.4.: Link Purpose (In Context) (June 20, 2023),
-https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html [https://perma.cc/RE3T-J9PN].
-
-of this part, and it does not reproduce paper documents or the contents of other
+was newly created after the date the public entity was required to comply with subpart H of this part, and it does not reproduce paper documents or the contents of other
 physical media created before the date the public entity was required to comply with
 subpart H, the map would likely not meet the first part of the definition of “archived web
 content.” In addition, the library may decide to curate and host an exhibition on its
@@ -6455,6 +6412,7 @@ provide a new educational program for the members of the public. The Department
 believes the exception, including the definition of “archived web content,” provides a
 workable framework for determining whether all types of public entities properly
 designate web content as archived.
+
 In the NPRM, the Department asked commenters about the relationship between the
 content covered by the archived web content exception and the exception for
 preexisting conventional electronic documents set forth in § 35.201(b). 131 In response,
@@ -6480,15 +6438,13 @@ are covered by the exception. Instead, public entities can focus their time and
 resources elsewhere and attend to preexisting documents covered by the preexisting
 conventional electronic documents exception in the future as their resources permit,
 such as by adding them to an archive.
+
 The Department recognizes that there may be some overlap between the content
 covered by the archived web content exception and the exception for preexisting
 conventional electronic documents set forth in § 35.201(b). The Department notes that
 if web content is covered by the archived web content exception, it does not need to
 conform to WCAG 2.1 Level AA to comply with subpart H of this part, even if the content
-fails to qualify for another exception, such as the preexisting conventional electronic
-131 88 FR 51968.
-
-document exception. For example, after the date a public university is required to
+fails to qualify for another exception, such as the preexisting conventional electronic document exception. For example, after the date a public university is required to
 comply with subpart H, its athletics website may still include PDF documents containing
 the schedules for sports teams from academic year 2017-2018 that were posted in non-
 archived areas of the website in the summer of 2017. Those PDFs may be covered by
@@ -6503,6 +6459,7 @@ archived area of its athletics site and the PDFs satisfied all parts of the defi
 Level AA, regardless of how the preexisting conventional electronic document exception
 might otherwise have applied, because the content would fall within the archived web
 content exception.
+
 Some commenters also made suggestions about public entities’ practices and
 procedures related to archived web content, but these suggestions fall outside the
 scope of this part. For example, some commenters stated that public entities’ websites
@@ -6512,7 +6469,8 @@ changes to this part in response to these comments because this part is not inte
 control whether public entities can choose to retain archived material in the first
 instance, or whether members of the public must follow certain steps to access archived
 web content.
-Preexisting Conventional Electronic Documents
+
+**Preexisting Conventional Electronic Documents**
 
 Section 35.201(b) provides that conventional electronic documents that are available as
 part of a public entity’s web content or mobile apps before the date the public entity is
@@ -6550,6 +6508,7 @@ reports that were posted before the date the entity was required to comply with 
 H generally do not need to conform to WCAG 2.1 Level AA. As the public entity posts
 new reports going forward, however, those reports generally must conform to
 WCAG 2.1 Level AA.
+
 The Department modified the language of this exception from the NPRM. In the NPRM,
 the Department specified that the exception applied to conventional electronic
 documents “created by or for a public entity” that are available “on a public entity’s
@@ -6569,6 +6528,7 @@ mobile apps” to ensure consistency with other parts of the regulatory text by 
 consistency with the edits to § 35.200 aligning the scope of subpart H with the scope of
 title II of the ADA, as described in the explanation of § 35.200 in the section-by-section
 analysis.
+
 Some commenters sought clarification about how to determine whether a conventional
 electronic document is “preexisting.” They pointed out that the date a public entity
 posted or last modified a document may not necessarily reflect the actual date the
@@ -6577,12 +6537,11 @@ commenter noted that a public entity may copy its existing documents unchanged i
 new content management system after the date the public entity is required to comply
 with subpart H of this part, in which case the date stamp of the documents will reflect
 the date they were copied rather than the date they were first made available to the
-public. Another commenter recommended that the exception should refer to the date a
-
-document was “originally” posted to account for circumstances in which there is an
+public. Another commenter recommended that the exception should refer to the date a document was “originally” posted to account for circumstances in which there is an
 interruption to the time the document is provided or made available to members of the
 public, such as when a document is temporarily not available due to technical glitches
 or server problems.
+
 The Department believes the exception is sufficiently clear. Conventional electronic
 documents are preexisting if a public entity provides them or makes them available prior
 to the date the public entity is required to comply with subpart H of this part. While one
@@ -6606,6 +6565,7 @@ mailing address, the updated documents would no longer be preexisting for the
 purposes of the exception. The Department emphasizes that the purpose of the
 exception is to free up public entities’ resources that would otherwise be spent focusing
 directly on preexisting documents covered by the exception.
+
 Because the exception only applies to preexisting conventional electronic documents, it
 would not cover documents that are open for editing if they are changed or revised after
 the date a public entity is required to comply with subpart H of this part. For example, a
@@ -6623,9 +6583,7 @@ exception even if copies of the documents can be edited after the date the publi
 is required to comply with subpart H. For example, a public entity may post a Microsoft
 Word version of a flyer on its website prior to the date it is required to comply with
 subpart H. A member of the public could technically download and edit that Word
-document after the date the public entity is required to comply with subpart H, but their
-
-edits would not impact the “official” posted version. Therefore, the official version would
+document after the date the public entity is required to comply with subpart H, but their edits would not impact the “official” posted version. Therefore, the official version would
 still qualify as preexisting under the exception. Similarly, PDF files that include fillable
 form fields (e.g., areas for a user to input their name and address) may also be covered
 by the exception so long as members of the public do not edit the content contained in
@@ -6643,6 +6601,7 @@ Department clarify in the text of the regulation that conventional electronic do
 include only those documents that are not open for editing by the public. The
 Department believes this point is adequately captured by the requirement that
 conventional electronic documents must be preexisting to qualify for the exception.
+
 This exception is not without bounds: it does not apply to any preexisting documents
 that are currently used to apply for, gain access to, or participate in the public entity’s
 services, programs, or activities. In referencing “documents that are currently used,” the
@@ -6660,6 +6619,7 @@ needed to obtain the license, complete the application, understand the process, 
 otherwise take part in the program, such as business license application instructions,
 manuals, sample knowledge tests, and guides, such as “Questions and Answers”
 documents.
+
 Various commenters sought additional clarification about what it means for conventional
 electronic documents to be “used” in accordance with the limited scope of the
 exception. In particular, commenters questioned whether informational documents are
@@ -6670,9 +6630,9 @@ documents posted by public entities in accordance with other laws. Some commente
 also urged the Department to add additional language to the exception, such as
 specifying that documents would not be covered by the exception if they are used by
 members of the public to “enable or assist” them to apply for, gain access to, or
-
 participate in a public entity’s services, programs, or activities, or the documents
 “provide information about or describe” a public entity’s services, programs, or activities.
+
 Whether a document is currently used to apply for, gain access to, or participate in a
 public entity’s services, programs, or activities is a fact-specific analysis. For example,
 one commenter questioned whether a document containing a city’s description of a
@@ -6683,6 +6643,7 @@ services, programs, or activities is providing and maintaining a public park and
 accessibility features. An individual with a disability who accesses the document before
 visiting the park to understand the park’s accessibility features would be currently using
 the document to gain access to the park.
+
 One commenter suggested that if a public entity cannot change preexisting
 conventional electronic documents due to legal limitations or other similar restrictions,
 then the public entity should not have to make those documents accessible under
@@ -6697,6 +6658,7 @@ alternate version of a preexisting conventional electronic document currently us
 apply for, gain access to, or participate in the public entity’s services, programs, or
 activities if the document could not be made accessible for the individual due to legal
 limitations.
+
 One commenter expressed concern that public entities might convert large volumes of
 web content to formats covered by the exception ahead of the compliance dates in
 subpart H of this part. In contrast, a public entity stated that there is limited incentive to
@@ -6715,9 +6677,9 @@ entity’s services, programs, or activities, they would not be covered by the e
 and would generally need to conform to WCAG 2.1 Level AA, even if those documents
 were posted before the date the entity was required to comply with subpart H. And if a
 public entity revises a conventional electronic document after the date the entity must
-
 comply with subpart H, that document would no longer qualify as “preexisting” and
 would thus need to be made accessible as defined in § 35.200.
+
 The Department received comments both supporting and opposing the exception. In
 support of the exception, commenters highlighted various benefits. For example,
 commenters noted that the exception would help public entities preserve resources
@@ -6726,6 +6688,7 @@ Commenters also noted that the exception would focus public entities’ resource
 current and future content rather than preexisting documents that may be old, rarely
 accessed, or of little benefit. Commenters stated that in the absence of this exception
 public entities might remove preexisting documents from their websites.
+
 In opposition to the exception, commenters highlighted various concerns. For example,
 commenters argued that the exception is inconsistent with the ADA’s goal of equal
 access for individuals with disabilities because it perpetuates unequal access to
@@ -6747,6 +6710,7 @@ elsewhere in this appendix, it may not be clear when documents are “preexistin
 “used” to apply for, gain access to, or participate in a public entity’s services, programs,
 or activities, and confusion or a lack of predictability would make advocacy efforts more
 difficult.
+
 After reviewing the comments, the Department has decided to keep the exception in
 § 35.201. The Department continues to believe that the exception provides an
 important measure of clarity and certainty for public entities as they initially consider
@@ -6760,9 +6724,9 @@ entities will not have to expend their resources on identifying, cataloguing, an
 remediating preexisting conventional electronic documents that are not currently used to
 apply for, gain access to, or participate in the public entity’s services, programs, or
 activities. Based on the exception, public entities may thereby make more efficient use
-
 of the resources available to them to ensure equal access to their services, programs,
 or activities for all individuals with disabilities.
+
 The Department understands the concerns raised by commenters about the potential
 burdens that individuals with disabilities may face because some conventional
 electronic documents covered by the exception are not accessible. The Department
@@ -6775,6 +6739,7 @@ discrimination on the basis of disability, ensuring that communications with peo
 disabilities are as effective as communications with people without disabilities, and
 providing people with disabilities an equal opportunity to participate in or benefit from
 the entity’s services, programs, or activities. 132
+
 Some commenters suggested that the Department should require public entities to
 adopt procedures and timelines for how individuals with disabilities could request
 access to inaccessible conventional electronic documents covered by the exception.
@@ -6803,8 +6768,6 @@ accessing web content or mobile apps or to request assistance. Providing this
 information will help public entities to ensure that they are satisfying their obligations to
 provide equal access, effective communication, and reasonable modifications.
 
-132 See §§ 35.130(b)(1)(ii) and (b)(7) and 35.160.
-
 Commenters also suggested other possible revisions to the exception. Commenters
 recommended various changes that would cause conventional electronic documents
 covered by the exception to become accessible over time. For example, commenters
@@ -6818,6 +6781,7 @@ preexisting documents over time, initially prioritizing documents that are most 
 and frequently accessed; or public entities should be required to convert certain
 documents to HTML format according to the same schedule that other HTML content is
 made accessible.
+
 The Department already expects the impact of the exception will diminish over time for
 various reasons. For example, public entities may update the documents covered by
 the exception, in which case they are no longer “preexisting.” In addition, the
@@ -6825,6 +6789,7 @@ Department notes that there is nothing in subpart H of this part that would prev
 entities from taking steps, such as those identified by commenters, to make preexisting
 conventional electronic documents conform to WCAG 2.1 Level AA. In fact, public
 entities might find it beneficial to do so.
+
 One commenter recommended that the exception should apply to all preexisting
 conventional electronic documents regardless of how they are used by members of the
 public. The Department does not believe this approach is advisable because it has the
@@ -6833,6 +6798,7 @@ entities rely on conventional electronic documents that are not regularly update
 changed. This could result in inconsistent access to web content and mobile apps and
 therefore less predictability for people with disabilities in terms of what to expect when
 accessing public entities’ web content and mobile apps.
+
 One public entity recommended that the exception should also apply to preexisting
 documents posted on a public entity’s web content or mobile apps after the date the
 public entity is required to comply with subpart H of this part if the documents are of
@@ -6849,10 +6815,10 @@ documents can be archived under § 35.201(a), depending on the facts. In partic
 the definition of “archived web content” in § 35.104 includes web content posted to an
 archive after the date a public entity is required to comply with subpart H only if the web
 content was created before the date the public entity is required to comply with subpart
-
 H, reproduces paper documents created before the date the public entity is required to
 comply with subpart H, or reproduces the contents of other physical media created
 before the date the public entity is required to comply with subpart H.
+
 Several commenters also requested clarification about how the exception applies to
 preexisting conventional electronic documents that are created by a third party on
 behalf of a public entity or hosted on a third party’s web content or mobile apps on
@@ -6868,7 +6834,8 @@ be subject to subpart H of this part, and the documents would be covered by this
 exception unless they are currently used to apply for, gain access to, or participate in
 the public entity’s services, programs, or activities.
 
-Third-Party Content
+**Third-Party Content**
+
 Public entities’ web content or mobile apps can include or link to many different types of
 content created by someone other than the public entity, some of which is posted by or
 on behalf of public entities and some of which is not. For example, many public entities’
@@ -6881,6 +6848,7 @@ entity’s own web content or content in mobile apps, public entities frequently
 links to third-party content (i.e., links on the public entity’s website to content that has
 been posted on another website that does not belong to the public entity), including
 links to outside resources and information.
+
 Subpart H of this part requires web content and mobile apps created by third parties to
 comply with § 35.200 if the web content and mobile apps are provided or made
 available due to contractual, licensing, or other arrangements with the public entity. In
@@ -6906,6 +6874,7 @@ reliance on inaccessible third-party content can prevent people with disabilitie
 having equal access to the public entity’s own services, programs, or activities.
 Furthermore, boundaries between web content generated by a public entity and by a
 third party are often difficult to discern.
+
 In anticipation of these concerns, the Department originally proposed two limited
 exceptions related to third-party content in the NPRM. After review of the public’s
 comments to those exceptions and the comments related to third-party content
@@ -6915,7 +6884,9 @@ appendix, the Department notes that it eliminates redundancy to omit the previou
 proposed exception for third-party content linked from a public entity’s website, but it
 does not change the scope of content that is required to be made accessible under
 subpart H.
-Content Posted by a Third Party
+
+***Content Posted by a Third Party***
+
 Section 35.201(c) provides an exception to the web and mobile app accessibility
 requirements of § 35.200 for content posted by a third party, unless the third party is
 posting due to contractual, licensing, or other arrangements with the public entity.
@@ -6949,6 +6920,7 @@ receive high volumes of filings in these sorts of proceedings each year. Documen
 often submitted by third parties—such as a private attorney in a legal case or other
 members of the public—and those documents often include appendices, exhibits, or
 other similar supplementary materials that may be difficult to make accessible.
+
 However, the Department notes that public entities have existing obligations under title
 II of the ADA to ensure the accessibility of their services, programs, or activities. 133
 Accordingly, for example, if a person with a disability is a party to a case and requests
@@ -6960,6 +6932,7 @@ entities’ services, programs, or activities. For example, if a hearing had bee
 in the proceeding referenced in this paragraph, the court might need to postpone the
 hearing if the person with a disability was not provided filings in an accessible format
 before the scheduled hearing.
+
 Sometimes a public entity itself chooses to post content created by a third party on its
 website. The exception in § 35.201(c) does not apply to content posted by the public
 entity itself, or posted on behalf of the public entity due to contractual, licensing, or other
@@ -6977,11 +6950,6 @@ provide another example, if a public housing authority relies on a third-party c
 to collect online applications on the third-party contractor’s website for placement on a
 waitlist for housing, the public housing authority must ensure that this content is
 accessible.
-
-133 See, e.g., §§ 35.130(b)(1)(ii) and (b)(7) and 35.160.
-134 See § 35.130(b)(1)(ii) (prohibiting discrimination through a contractual, licensing, or other arrangement that
-would provide an aid, benefit, or service to a qualified individual with a disability that is not equal to that afforded
-others).
 
 The Department has added language to the third-party posted exception in § 35.201(c)
 to make clear that the exception does not apply where a third party is posting on behalf
@@ -7006,6 +6974,7 @@ type of content at issue), and the Department believes clarity about the meaning
 “third party” in the context of this exception is critical to avoid the exception being
 interpreted overly broadly. The Department believes this clarification is justified by the
 concerns raised by commenters.
+
 On another point, some commenters expressed confusion about when authoring tools
 and other embedded content that enables third-party postings would need to be made
 accessible. The Department wishes to clarify that while the exception for third-party
@@ -7026,8 +6995,6 @@ requirements of WCAG 2.1 Level AA in this way would undermine the purpose of r
 on an existing technical standard that web developers are already familiar with, and for
 which guidance is readily available, which could prove confusing for public entities.
 
-135 See supra section-by-section analysis of § 35.200(a)(1) and (2) and (b)(1) and (2).
-
 The Department received many comments either supporting or opposing the exception
 for content posted by a third party. Public entities and trade groups representing public
 accommodations generally supported the exception, and disability advocates generally
@@ -7040,6 +7007,7 @@ review and updating of third-party postings would take time. Further, public ent
 shared that requiring unaffiliated third-party web content to be made accessible would in
 many cases either be impossible or require the public entity to make changes to the
 third party’s content in a way that could be problematic.
+
 Commenters opposing the exception argued that unaffiliated third-party content should
 be accessible so that individuals with disabilities can engage with their State or local
 government entities, and commenters shared examples of legal proceedings,
@@ -7051,6 +7019,7 @@ Department emphasizes in response to these commenters that this exception does n
 apply where a third party such as a vendor is acting on behalf of a public entity, through
 contractual, licensing, or other arrangements. The Department added language to
 ensure this point is clear in regulatory text, as explained previously.
+
 After reviewing the comments, the Department emphasizes at the outset the
 narrowness of this exception—any third-party content that is posted due to contractual,
 licensing, or other arrangements with the public entity would not be covered by this
@@ -7063,6 +7032,7 @@ and third-party individuals independently comment on that post, or where a publi
 allows for legal filings through an online portal and a third-party attorney independently
 submits a legal filing on behalf of their private client (which is then available on the
 public entity’s web content or mobile apps).
+
 The Department has determined that maintaining this exception is appropriate because
 of the unique considerations relevant to this type of content. The Department takes
 seriously public entities’ concerns that they will often be unable to ensure independent
@@ -7072,7 +7042,6 @@ and State or local government entities. The Department further believes there ar
 unique considerations that could prove problematic with public entities editing or
 requiring third parties to edit their postings. For example, if public entities were required
 to add alt text to images or maps in third parties’ legal or other filings, it could require
-
 the public entity to make decisions about how to describe images or maps in a way that
 could be problematic from the perspective of the third-party filer. Alternatively, if the
 public entity were to place this burden on the third-party filer, it could lead to different
@@ -7081,6 +7050,7 @@ unaffiliated third party (someone who does not have obligations under subpart H 
 part) and requires the third party to update it, the result could be a delay of an
 emergency or time-sensitive filing or even impeding access to the forum if the third party
 is unable or does not have the resources to remediate the filing.
+
 The Department understands the concerns raised by the commenters who oppose this
 exception, and the Department appreciates that the inclusion of this exception means
 web content posted by third parties may not consistently be accessible by default. The
@@ -7093,6 +7063,7 @@ discrimination on the basis of disability, ensuring that communications with peo
 disabilities are as effective as communications with people without disabilities, and
 providing people with disabilities an equal opportunity to participate in or benefit from
 the entity’s services, programs, or activities. 136
+
 The Department believes the balance this exception strikes thus ensures accessibility to
 the extent feasible without requiring public entities to take actions that may be
 impossible or lead to problematic outcomes as described previously. These problematic
@@ -7115,8 +7086,6 @@ outcomes described previously would likely persist. The Department thus believes
 this exception appropriately balances the relevant considerations while ensuring access
 for individuals with disabilities.
 
-136 See §§ 35.130(b)(1)(ii) and (b)(7) and 35.160.
-
 Some commenters suggested alternative formulations that would narrow or expand the
 exception. For example, commenters suggested that the Department limit the
 exception to advertising and marketing or activities not used to access government
@@ -7131,6 +7100,7 @@ each proposed alternative the Department found that the proposal would not avoid
 problematic outcomes described previously, would result in practical difficulties to
 implement and define, or would be too expansive of an exception in that too much
 content would be inaccessible to individuals with disabilities.
+
 Commenters also suggested that the Department include a definition of “third party.”
 The Department is declining to add this definition because the critical factor in
 determining whether this exception applies is whether the third party is posting due to
@@ -7144,6 +7114,7 @@ suggested that subpart H of this part should cover third-party creators of digit
 and content regardless of whether the apps and content are used by public entities.
 Independent third-party providers unaffiliated with public entities are not covered by the
 scope of subpart H, as they are not title II entities.
+
 Finally, the Department made a change to the exception for third-party posted content
 from the NPRM to make the exception more technology neutral. The NPRM provided
 that the exception applies only to “web content” posted by a third party. 137 The
@@ -7158,15 +7129,11 @@ that same information would be subject to different requirements on different pl
 which could create perverse incentives for public entities to only make certain content
 available on certain platforms. To address these concerns, § 35.201(c) includes a
 revised exception for third-party posted content to make it more technology neutral by
-clarifying that the exception applies to “content” posted by a third party. The
-
-137 88 FR 52019.
-
-Department believes this will ensure consistent application of the exception whether the
+clarifying that the exception applies to “content” posted by a third party. The Department believes this will ensure consistent application of the exception whether the
 third-party content is posted on web content or mobile apps.
 
-Previously Proposed Exception for Third-Party Content Linked from a Public
-Entity’s Website
+***Previously Proposed Exception for Third-Party Content Linked from a Public Entity’s Website***
+
 In the NPRM, the Department proposed an exception for third-party content linked from
 a public entity’s website. After reviewing public comments on this proposed exception,
 the Department has decided not to include it in subpart H of this part. The Department
@@ -7179,7 +7146,9 @@ subpart H. Under subpart H, consistent with the approach in the NPRM, public ent
 are not responsible for making linked third-party content accessible where they do not
 provide or make available that content, directly or through contractual, licensing, or
 other arrangements.
-Exception Proposed in the NPRM
+
+**<u>Exception Proposed in the NPRM</u>**
+
 The exception for third-party-linked content that was proposed in the NPRM provided
 that a public entity would not be responsible for the accessibility of third-party web
 content linked from the public entity’s website unless the public entity uses the third-
@@ -7195,17 +7164,15 @@ make the content on a third party’s website accessible. 138 This exception was
 provided to make clear that public entities can continue to provide links to independent
 third-party web content without making the public entity responsible for the accessibility
 of the third party’s web content.
+
 However, in the NPRM, the Department provided that if the public entity uses the linked
 third-party web content to allow members of the public to participate in or benefit from
 the public entity’s services, programs, or activities, then the public entity must ensure it
 only links to third-party web content that complies with the web accessibility
 requirements of § 35.200. The Department clarified that this approach is consistent with
-public entities’ obligation to make all of their services, programs, and activities
-
-138 88 FR 52019; see also id. at 51969 (preamble text).
-
-accessible to the public, including those that public entities provide through third
+public entities’ obligation to make all of their services, programs, and activities accessible to the public, including those that public entities provide through third
 parties. 139
+
 Most commenters opining on this subject opposed the exception for third-party content
 linked from a public entity’s website, including disability advocates and individuals with
 disabilities. Commenters raised many concerns with the exception as drafted.
@@ -7230,6 +7197,7 @@ many commenters from disability advocacy groups, public entities, and trade grou
 representing public accommodations either expressed concern with or confusion about
 the exception, or demonstrated confusion through inaccurate statements about what
 content would fall into this exception to the requirements in subpart H of this part.
+
 Further, commenters also expressed concern with relieving public entities of the
 responsibility to ensure that the links they provide lead to accessible content.
 Commenters stated that when public entities provide links, they are engaging in
@@ -7245,15 +7213,12 @@ stated that in many cases public entities benefit from providing these links, as
 linked websites, and that public entities should thus be responsible for ensuring the
 accessibility of the linked content. Some commenters added that this exception would
 have implied that title III entities are permitted to discriminate by keeping their web
-139 88 FR 51969; see also § 35.130(b)(1)(ii) (prohibiting discrimination through a contractual, licensing, or other
-arrangement that would provide an aid, benefit, or service to a qualified individual with a disability that is not equal
-to that afforded others).
-
 content inaccessible, though the Department emphasizes in response to these
 commenters that subpart H does not alter the responsibilities title III entities have with
 regard to the goods, services, privileges, or activities offered by public accommodations
 on the web. 140 Commenters universally expressed their concern that the content at
 issue is often inaccessible, accentuating this problem.
+
 Some commenters supported the exception, generally including individuals, public
 entities, and trade groups representing public accommodations. These commenters
 contended that the content at issue in this exception should properly be considered
@@ -7269,11 +7234,14 @@ confusion with how the third-party-linked exception and its limitation as propos
 NPRM would apply in practice, which would lead to misconceptions in terms of when
 public entities must ensure conformance to WCAG 2.1 and what kinds of content
 individuals with disabilities can expect to be accessible.
-Approach to Linked Third-Party Content in Subpart H of this Part
+
+**<u>Approach to Linked Third-Party Content in Subpart H of this Part</u>**
+
 After reviewing public comments, the Department believes that inclusion of this
 exception is unnecessary, would result in confusion, and that removing the exception
 more consistently aligns with the language of title II of the ADA and the Department’s
 intent in proposing the exception in the NPRM.
+
 Consistent with what many commenters opined, the Department believes that the
 proper analysis is whether an entity has directly, or through contractual, licensing, or
 other arrangements, provided or made available the third-party content. This means
@@ -7288,9 +7256,6 @@ or other arrangement with the website to provide or make available content, thos
 party websites are not covered by title II of the ADA, because they are not services,
 programs, or activities provided or made available by public entities, and thus public
 entities are not responsible for the accessibility of that content.
-
-140 See U.S. Dep’t of Just., Guidance on Web Accessibility and the ADA, ADA.gov (Mar. 18, 2022),
-https://www.ada.gov/resources/web-guidance/ [https://perma.cc/WH9E-VTCY].
 
 Rather than conduct a separate analysis under the proposed exception in the NPRM,
 the Department believes the simpler and more legally consistent approach is for public
@@ -7315,6 +7280,7 @@ inaccessible to certain individuals with disabilities. 141 However, because the 
 website itself is private and is not being provided on behalf of the public entity due to a
 contractual, licensing, or other arrangement, the public entity would not be responsible
 for ensuring the hotel website’s ADA compliance. 142
+
 The Department believes that this approach is consistent with what the Department
 sought to achieve by including the exception in the NPRM, so this modification to
 subpart H of this part from the proposal in the NPRM does not change the web content
@@ -7332,12 +7298,6 @@ entity is using the third party’s linked web content as part of the public ent
 programs, or activities, and the public entity must thus ensure that it links to only third-
 party web content that complies with the requirements of § 35.200.
 
-141 See W3C, Web Content Accessibility Guidelines 2.1, Contrast (Minimum) (June 5, 2018),
-https://www.w3.org/TR/2018/REC-WCAG21-20180605/#contrast-minimum [https://perma.cc/VAA3-TYN9].
-142 The Department reminds the public, however, that the hotel would still have obligations under title III of the
-ADA. See U.S. Dep’t of Just., Guidance on Web Accessibility and the ADA, ADA.gov (Mar. 18, 2022),
-https://www.ada.gov/resources/web-guidance/ [https://perma.cc/WH9E-VTCY].
-
 The Department considered addressing commenters’ confusion by providing more
 guidance on the proposed exception, rather than removing the exception. However, the
 Department believes that the concept of an exception for this type of content, when that
@@ -7348,6 +7308,7 @@ that because the content at issue would generally not be covered by title II in 
 place, including this exception could inadvertently cause public entities to assume that
 the exception is broader than it is, which could result in the inaccessibility of content that
 is critical to accessing public entities’ services, programs, or activities.
+
 The Department also reviewed proposals by commenters to both narrow and expand
 the language of the exception proposed in the NPRM. Commenters suggested
 narrowing the exception by revising the limitation to cover information that “enables or
@@ -7359,7 +7320,9 @@ Several commenters made additional alternative proposals to both narrow and expa
 the language of the exception. The Department has reviewed these alternatives and is
 still persuaded that the most prudent approach is removing the exception altogether, for
 the reasons described previously.
-External Mobile Apps
+
+***External Mobile Apps***
+
 Many public entities use mobile apps that are developed, owned, and operated by third
 parties, such as private companies, to allow the public to access the public entity’s
 services, programs, or activities. This part of the section-by-section analysis refers to
@@ -7371,23 +7334,11 @@ H of this part, external mobile apps are subject to § 35.200 in the same way as
 apps that are developed, owned, and operated by a public entity. The Department is
 taking this approach because such external apps are generally made available through
 contractual, licensing, or other means, and this approach ensures consistency with
-existing ADA requirements that apply to other services, programs, and activities that a
-
-143 The Department does not use the term “third-party” to describe mobile apps in this section to avoid confusion.  It
-is the Department’s understanding that the term “third-party mobile app” may have a different meaning in the
-technology industry, and some understand “a third-party app” as an application that is provided by a vendor other
-than the manufacturer of the device or operating system provider.  See Alice Musyoka, Third-Party Apps,
-Webopedia (Aug. 4, 2022), https://www.webopedia.com/definitions/third-party-apps/ [https://perma.cc/SBW3-
-RRGN].
-144 See ParkMobile Parking App, https://parkmobile.io [https://perma.cc/G7GY-MDFE].
-145 See Using Mobile Apps in Government, IBM Ctr. for the Bus. of Gov’t, at 32–33 (2015),
-https://www.businessofgovernment.org/sites/default/files/Using%20Mobile%20Apps%20in%20Government.pdf
-[https://perma.cc/248X-8A6C].
-
-public entity provides in this manner. Consistent with these principles, if a public entity,
+existing ADA requirements that apply to other services, programs, and activities that a public entity provides in this manner. Consistent with these principles, if a public entity,
 directly or through contractual, licensing, or other arrangements, provides or makes
 available an external mobile app, that mobile app must comply with § 35.200 unless it is
 subject to one of the exceptions outlined in § 35.201.
+
 The Department requested feedback on the external mobile apps that public entities
 use to offer their services, programs, or activities and received comments on its
 approach to external mobile apps. Commenters pointed out that external mobile apps
@@ -7395,6 +7346,7 @@ are used for a variety of purposes by public entities, including for public info
 updates on road conditions, transportation purposes, information on recreation, class
 information, map-based tools for finding specific information like air quality, and
 emergency planning, among other things.
+
 Commenters overwhelmingly supported the Department’s position to not include a
 wholesale exception for every external mobile app, given how often these apps are
 used in public entities’ services, programs, and activities. As commenters noted, the
@@ -7410,6 +7362,7 @@ using a mobile app and a conventional web browser, and if the Department were to
 provide an exception for external mobile apps, commenters said that there would be a
 large loophole for accessibility because so many members of the public rely on external
 mobile apps to access a public entity’s services, programs, or activities.
+
 Some commenters sought clarity on the scope of external mobile apps that might be
 covered by subpart H of this part, such as whether apps used to vote in an election held
 by a public entity would be covered. Under subpart H, external mobile apps that public
@@ -7418,6 +7371,7 @@ would be covered by subpart H. As discussed in the section-by-section analysis o
 § 35.200, subpart H applies to a mobile app even if the public entity does not create or
 own the mobile app, if there is a contractual, licensing, or other arrangement through
 which the public entity provides or makes the mobile app available to the public.
+
 Some commenters raised concerns with applying accessibility standards to external
 mobile apps that a public entity provides or makes available, directly or through
 contractual, licensing, or other arrangements. Specifically, commenters indicated there
@@ -7427,9 +7381,9 @@ entities may have challenges in ensuring that these apps are accessible. Accordi
 some commenters indicated the Department should set forth an exception for external
 mobile apps. Another commenter suggested that the Department should delay the
 compliance date of subpart H of this part to ensure there is sufficient time for external
-
 mobile apps subject to § 35.200 to come into compliance with the requirements in
 subpart H.
+
 While the Department understands these concerns, the Department believes that the
 public relies on many public entities’ external mobile apps to access public entities’
 services, programs, or activities, and setting forth an exception for these apps would
@@ -7443,6 +7397,7 @@ consistent with the existing framework in title II of the ADA. 146 Under this fr
 public entities have obligations in other title II contexts where they choose to contract,
 license, or otherwise arrange with third parties to provide services, programs, or
 activities. 147
+
 With respect to concerns about an appropriate compliance date, the section-by-section
 analysis of § 35.200 addresses this issue. The Department believes the compliance
 dates in subpart H of this part will provide sufficient time for public entities to ensure
@@ -7450,8 +7405,9 @@ they are in compliance with the requirements of subpart H. Further lengthening t
 compliance dates would only further extend the time that individuals with disabilities
 remain excluded from the same level of access to public entities’ services, programs,
 and activities through mobile apps.
-Previously Proposed Exceptions for Password-Protected Class or Course
-Content of Public Educational Institutions
+
+**Previously Proposed Exceptions for Password-Protected Class or Course Content of Public Educational Institutions**
+
 In the NPRM, the Department proposed exceptions to the requirements of § 35.200 for
 certain password-protected class or course content of public elementary, secondary,
 and postsecondary institutions. 148 For the reasons discussed in this section, the
@@ -7461,19 +7417,9 @@ any other content and public educational institutions will generally need to ens
 that content complies with WCAG 2.1 Level AA starting two or three years after the
 publication of the final rule, depending on whether the public educational institution is
 covered by § 35.200(b)(1) or (2).
-146 See § 35.130(b)(1) and (3).
-147 For example, under title II, a State is required to make sure that the services, programs, or activities offered by a
-State park inn that is operated by a private entity under contract with the State comply with title II. See 56 FR
-35694, 35696 (July 26, 1991). 
-148 See 88 FR 52019.
-149 Some commenters asked for clarification about how the proposed course content exceptions would operate in
-practice. For example, one commenter asked for clarification about what it would mean for a public educational
-institution to be “on notice” about the need to make course content accessible for a particular student, one of the
-limitations proposed in the NPRM. Because the Department is eliminating the course content exceptions from
-subpart H of this part, these questions about how the exceptions would have operated are moot and are not addressed
-in subpart H.
 
-Course Content Exceptions Proposed in the NPRM
+***Course Content Exceptions Proposed in the NPRM***
+
 The NPRM included two proposed exceptions for password-protected class or course
 content of public educational institutions. The first proposed exception, which was
 included in the NPRM as proposed § 35.201(e), 150 stated that the requirements of
@@ -7483,6 +7429,7 @@ course offered by a public postsecondary institution. 151 Although the proposed
 exception applied to password-protected course content, it did not apply to the Learning
 Management System platforms on which public educational institutions make content
 available. 152
+
 This proposed exception was cabined by two proposed limitations, which are scenarios
 under which the proposed exception would not apply. The first such limitation provided
 that the proposed exception would not apply if a public entity is on notice that an
@@ -7495,6 +7442,7 @@ secured website for the specific course must comply with the requirements of §�
 by the date the academic term begins for that course offering, and new content added
 throughout the term for the course must also comply with the requirements of § 35.200
 at the time it is added to the website. 154
+
 The second limitation to the proposed exception for public postsecondary institutions’
 course content provided that the exception would not apply once a public entity is on
 notice that an admitted student with a disability is enrolled in a specific course offered
@@ -7507,15 +7455,6 @@ must comply with the requirements of § 35.200 within five business days of su
 and new content added throughout the term for the course must also comply with the
 requirements of § 35.200 at the time it is added to the website. 156
 
-150 Section 35.201(e) no longer refers to a course content exception, but now refers to a different exception for
-preexisting social media posts, as discussed in this section.
-151 88 FR 52019.
-152 Id. at 51970.
-153 Id. at 52019.
-154 Id.
-155 Id.
-156 Id.
-
 The second proposed course content exception, which was included in the NPRM as
 § 35.201(f), proposed the same exception as proposed § 35.201(e), but for public
 elementary and secondary schools. The proposed exception also contained the same
@@ -7525,6 +7464,7 @@ an admitted student with a disability enrolled in the course whose disability ma
 unable to access the course content, but also when there was a parent with a disability
 whose child was enrolled in the course and whose disability made them unable to
 access the course content. 157
+
 The Department proposed these exceptions in the NPRM based on its initial
 assessment that it might be too burdensome to require public educational institutions to
 make accessible all of the course content that is available on password-protected
@@ -7543,6 +7483,7 @@ on notice of the need for accessible content; public entities would have been re
 provide accessible course content either by the start of the term if the institution was on
 notice before the date the term began, or within five business days if the institution was
 on notice after the start of the term.
+
 The Department stated in the NPRM that it believed the proposed exceptions for
 password-protected course content struck the proper balance between meeting the
 needs of students and parents with disabilities while crafting a workable standard for
@@ -7554,12 +7495,8 @@ institutions to comply with subpart H of this part in the absence of these excep
 what the impact of the exceptions would be on individuals with disabilities, how long it
 takes to make course content accessible, and whether the Department should consider
 an alternative approach. 160
-Public Comments on Proposed Course Content Exceptions
 
-157 Id.
-158 Id. at 51973, 51976.
-159 Id. at 51973, 51974, 51976.
-160 Id. at 51973, 51974, 51976.
+***Public Comments on Proposed Course Content Exceptions***
 
 The overwhelming majority of comments on this topic expressed opposition to the
 course content exceptions as proposed in the NPRM. Many commenters suggested
@@ -7570,12 +7507,15 @@ decided not to include these exceptions in subpart H. The public comments suppor
 the conclusion that the exceptions would exacerbate existing educational inequities for
 students and parents with disabilities without serving their intended purpose of
 meaningfully alleviating burdens for public educational institutions.
-Infeasibility for Public Educational Institutions
+
+**Infeasibility for Public Educational Institutions**
+
 Many commenters, including some commenters affiliated with public educational
 institutions, asserted that the course content exceptions and limitations as proposed in
 the NPRM would not be workable for schools, and would almost inevitably result in
 delays in access to course content for students and parents with disabilities.
 Commenters provided varying reasons for these conclusions.
+
 Some commenters argued that because making course content accessible often takes
 time and intentionality to implement, it is more efficient and effective for public
 educational institutions to create policies and procedures to make course content
@@ -7585,6 +7525,7 @@ commenters pointed out that although the Department proposed the course content
 exceptions in an effort to make it easier for public educational institutions to comply with
 subpart H of this part, the exceptions would in fact likely result in more work for entities
 struggling to remediate content on the back end.
+
 Commenters noted that in many cases, public educational institutions do not generate
 course content themselves, but instead procure such content through third-party
 vendors. As a result, some commenters stated, public educational institutions may be
@@ -7599,15 +7540,12 @@ last minute, regardless of those instructors’ background or training on making
 accessible, and despite the fact that many instructors already have limited time to
 devote to teaching and preparing for class. One commenter noted that public
 educational institutions can leverage their contracting power to choose only to work with
-third-party vendors that can offer accessible content. This commenter noted that there
-161 Many comments on this topic indicated that they were drawing from the philosophy of “universal design.” See,
-e.g., 29 U.S.C. 3002(19).
-
-is precedent for this approach, as many universities and college stores already leverage
+third-party vendors that can offer accessible content. This commenter noted that there is precedent for this approach, as many universities and college stores already leverage
 their contracting power to limit participation in certain student discount programs to
 third-party publishers that satisfy accessibility requirements. Some commenters
 suggested that rulemaking in this area will spur vendors, publishers, and creators to
 improve the accessibility of their offerings.
+
 Some commenters also observed that even if public educational institutions might be
 able to make a subset of content accessible within the compressed time frames
 provided under the proposed exceptions, it could be close to impossible for institutions
@@ -7622,6 +7560,7 @@ developing materials that are accessible from the start. Some commenters also po
 out that it might be confusing for public educational institutions to have two separate
 standards for the accessibility of course content depending on whether there is a
 student (or student with a parent) with a disability in a particular course.
+
 Many commenters took particular issue with the five-day remediation time frame for
 course content when a school becomes on notice after the start of the term that there is
 a student or parent with a disability who needs accessible course content. Some
@@ -7630,6 +7569,7 @@ accessibility of all course content for a particular course, while simultaneousl
 long to avoid students with disabilities falling behind. Some commenters noted that the
 five-day time frame would be particularly problematic for short courses that occur during
 truncated academic terms, which may last only a small number of days or weeks.
+
 Some commenters also argued that the course content exceptions would create a
 series of perverse incentives for public educational institutions and the third-party
 vendors with whom they work, such as incentivizing institutions to neglect accessibility
@@ -7643,16 +7583,17 @@ Some commenters asserted that because the course content exceptions would cover
 only password-protected or otherwise secured content, the exceptions would also
 incentivize public educational institutions to place course content behind a password-
 protected wall, thereby making less content available to the public as a whole.
+
 Some commenters asserted that if the exceptions were not included in subpart H of this
 part, the existing fundamental alteration and undue burdens limitations would provide
 sufficient protection for public educational institutions. One commenter also suggested
-
 that making all course content accessible would offer benefits to public educational
 institutions, as accessible content often requires less maintenance than inaccessible
 content and can more readily be transferred between different platforms or accessed
 using different tools. This commenter contended that by relying on accessible content,
 public educational institutions would be able to offer better services to all students,
 because accessible content is more user friendly and provides value for all users.
+
 Some commenters pointed out that there are other factors that will ease the burden on
 public educational institutions of complying with subpart H of this part without the course
 content exceptions proposed in the NPRM. For example, one commenter reported that
@@ -7662,7 +7603,8 @@ commenter argued that school districts could therefore address the accessibility
 course materials for all schools in their district at once by making digital accessibility an
 evaluation criterion in their procurement process.
 
-Impact on Individuals with Disabilities
+**<u>Impact on Individuals with Disabilities</u>**
+
 As noted elsewhere in this appendix, many commenters asserted that the course
 content exceptions proposed in the NPRM could result in an untenable situation in
 which public educational institutions would likely be unable to fully respond to
@@ -7670,6 +7612,7 @@ individualized requests for accessible materials, potentially leading to widespr
 noncompliance with the technical standard and delays in access to course content for
 students and parents with disabilities. Many commenters emphasized the negative
 impact that this situation would have on individuals with disabilities.
+
 Some commenters highlighted the pervasive discrimination that has affected
 generations of students with disabilities and prevented them from obtaining equal
 access to education, despite existing statutory and regulatory obligations. As one
@@ -7680,23 +7623,12 @@ stated that due to accessibility issues, students with disabilities have sometim
 unable to complete required assignments, needed continuous support from others to
 complete their work, and as a result have felt frustrated, discouraged, and excluded.
 Some commenters also reported that some students with disabilities have dropped a
-162 Arielle M. Silverman et al., Access and Engagement III: Reflecting on the Impacts of the COVID-19 Pandemic on
-the Education of Children Who Are Blind or Have Low Vision, Am. Found. for the Blind (June 2022),
-https://afb.org/sites/default/files/2022-06/AFB_AccessEngagement_III_Report_Accessible_FINAL.pdf (A Perma
-archive link was unavailable for this citation.); L. Penny Rosenblum et al., Access and Engagement II: An
-Examination of How the COVID-19 Pandemic Continued to Impact Students with Visual Impairments, Their
-Families, and Professionals Nine Months Later, Am. Found. for the Blind (May 2021),
-https://static.afb.org/legacy/media/AFB_AccessEngagement_II_Accessible_F2.pdf?_ga=2.176468773.1214767753
-[https://perma.cc/H5P4-JZAB]; see also L. Penny Rosenblum et al., Access and Engagement: Examining the Impact
-of COVID-19 on Students Birth–21 with Visual Impairments, Their Families, and Professionals in the United States
-and Canada, Am. Found. for the Blind (Oct. 2020), https://afb.org/sites/default/files/2022-
-03/AFB_Access_Engagement_Report_Revised-03-2022.pdf [https://perma.cc/T3AY-ULAQ].
-
 class, taken an incomplete, or left their academic program altogether because of the
 inaccessibility of their coursework. Some commenters argued that the proposed course
 content exceptions would exacerbate this discouraging issue and would continue to
 exclude students with disabilities from equally accessing an education and segregate
 them from their classmates.
+
 Some commenters contended that the proposed exceptions would perpetuate the
 status quo by inappropriately putting the onus on students (or parents) with disabilities
 to request accessible materials on an individualized basis. Some commenters asserted
@@ -7712,6 +7644,7 @@ of their obligations not to discriminate against those students. One commenter n
 that constantly having to advocate for accessibility for years on end can be exhausting
 for students with disabilities and damaging to their self-esteem, sense of belonging, and
 ability to engage in academic exploration.
+
 Some commenters also noted that the structure of the proposed exceptions would be in
 significant tension with the typical structure of a public educational institution’s academic
 term. For example, some commenters noted that students, particularly students at
@@ -7723,6 +7656,7 @@ the academic term, the proposed course content exceptions would make it hard or
 impossible for students with disabilities to take advantage of these options that are
 available to other students. Commenters also noted that the course content exceptions
 could interfere with students’ ability to transfer to a new school in the middle of a term.
+
 Some commenters also stated many other ways in which the delays in access to course
 content likely resulting from these exceptions could disadvantage students with
 disabilities. Some commenters noted that even if public educational institutions were
@@ -7736,11 +7670,11 @@ did not require public educational institutions to make course content accessibl
 the first day of class for students who preregister. Some commenters also observed
 that because some students with disabilities do not file accessibility requests until after
 the start of the academic term, it would be impossible to avoid delays in access to
-
 course materials under the exceptions. Some commenters also noted that students are
 often expected to collaborate on assignments, and even a brief delay in access to
 course material could make it challenging or impossible for students with disabilities to
 participate in that collaborative process.
+
 Some commenters argued that in the likely outcome that schools are unable to provide
 accessible course content as quickly as the proposed limitations to the exceptions
 would require, the resulting delays could cause students with disabilities to fall behind in
@@ -7749,6 +7683,7 @@ course. Some commenters noted that even if students were able to rely on others 
 assist them in reviewing inaccessible course materials, doing so is often slower and less
 effective, and can have a negative emotional effect on students, undermining their
 senses of independence and self-sufficiency.
+
 Some commenters took particular issue with the proposed exception for postsecondary
 course content. For example, some commenters asserted that it is often more onerous
 and complicated for students with disabilities to obtain accessible materials upon
@@ -7757,6 +7692,7 @@ subject to the same obligations as public elementary and secondary institutions 
 identify students with disabilities under other laws addressing disability rights in the
 educational context. Accordingly, those commenters argued, the proposed exceptions
 might be especially harmful for postsecondary students with disabilities.
+
 Other commenters argued that the proposed exception for elementary and secondary
 course content was especially problematic because it would affect virtually every child
 with a disability in the country. Some commenters contended that this exception would
@@ -7769,6 +7705,7 @@ permission slips, and obtain information about important health and safety issue
 affecting their children. Some commenters opined that the proposed course content
 exceptions could make it hard or impossible for parents with disabilities to be involved in
 their children’s education in these ways.
+
 Some commenters contended that the proposed course content exceptions would be
 problematic in the wake of the COVID-19 pandemic, which has led to a rise in purely
 online courses. One commenter pointed out that students with disabilities may be more
@@ -7787,7 +7724,9 @@ proposed limitations to the exceptions did not require content to remain accessi
 a student with a disability was no longer in a particular course, the limitations to the
 exceptions as drafted in the NPRM would not be likely to ensure a fully accessible
 future in this area.
-Limited Support for Course Content Exceptions
+
+**<u>Limited Support for Course Content Exceptions</u>**
+
 Although many commenters expressed opposition to the course content exceptions,
 some commenters, including some commenters affiliated with public educational
 institutions, expressed support for some form of exception for course content. Some
@@ -7804,7 +7743,9 @@ accessibility. Notably, however, even among those commenters who supported the
 concept of an exception, many did not support the exceptions as drafted in the NPRM,
 in part because they did not believe the proposed remediation time frames were
 realistic.
-Approach to Course Content in Subpart H of this Part
+
+***Approach to Course Content in Subpart H of this Part***
+
 Having reviewed the public comments, the Department believes it is appropriate to, as
 many commenters suggested, not include the previously proposed course content
 exceptions in subpart H of this part. For many of the reasons noted by commenters, the
@@ -7822,11 +7763,11 @@ disabilities. While extending the remediation time frames might have made it mor
 feasible for public educational institutions to comply under some circumstances, this
 extension would have commensurately delayed access for students with disabilities,
 which would have been harmful for the many reasons noted by commenters. The
-
 Department believes that it is more efficient and effective for public educational
 institutions to use the two- or three-year compliance time frame to prepare to make
 course content accessible proactively, instead of having to scramble to remediate
 content reactively.
+
 Accordingly, under subpart H of this part, password-protected course content will be
 treated like any other content and will generally need to conform to WCAG 2.1
 Level AA. To the extent that it is burdensome for public educational institutions to make
@@ -7838,7 +7779,9 @@ conforming alternate versions and equivalent facilitation discussed in §§ 35.
 35.203, the fundamental alteration and undue burdens limitations discussed in
 § 35.204, and the approach to measuring compliance with § 35.200 discussed in
 § 35.205.
-Alternative Approaches Considered
+
+***Alternative Approaches Considered***
+
 There were some commenters that supported retaining the proposed course content
 exceptions with revisions. Commenters suggested a wide range of specific revisions,
 examples of which are discussed in this section. The Department appreciates the
@@ -7853,6 +7796,7 @@ the harm from being overly prescriptive in how public educational institutions c
 with subpart H. Subpart H provides educational institutions with the flexibility to
 determine how best to bring their content into compliance within the two or three years
 they have to begin complying with subpart H.
+
 Many commenters suggested that the Department should require all new course
 content to be made accessible more quickly, while providing a longer time period for
 public entities to remediate existing course content. There were a wide range of
@@ -7878,12 +7822,14 @@ sufficient time to make content accessible without putting students with disabil
 far behind their peers. In addition, given the wide variation in types of courses and
 public educational institution structures, it would be difficult to set a prioritization
 structure for existing content that would be workable across all such institutions.
+
 Some commenters suggested that the Department should set an expiration date for the
 course content exceptions. The Department does not believe this would be a desirable
 solution because the problems associated with the proposed exceptions—namely the
 harm to individuals with disabilities stemming from delayed access to course content
 and the likely infeasibility of complying with the expedited time frames set forth in the
 limitations to the exceptions—would likely persist during the lifetime of the exceptions.
+
 Some commenters suggested that the Department could retain the exceptions and
 accompanying limitations but revise their scope. For example, commenters suggested
 that the Department could revise the limitations to the exceptions to require public
@@ -7909,9 +7855,9 @@ believes that these types of approaches would present similar issues as those
 discussed in this paragraph and would result in courses being only partially accessible,
 which would reduce predictability for individuals with disabilities and clarity for public
 entities. These approaches would also limit the flexibility that public entities have to
-
 bring their content into compliance in the order that works best for them during the two
 or three years they have to begin complying with subpart H of this part.
+
 Some commenters suggested that the Department should revise the remediation
 timelines in the limitations to the course content exceptions. For example, one
 commenter suggested that the five-day remediation time frame should be reduced to
@@ -7921,6 +7867,7 @@ should be fact-dependent and should vary depending on factors such as how often 
 class meets and the type of content. Others recommended that the Department not
 adopt a specific required remediation time frame, but instead provide that a 10-
 business-day remediation time frame would be presumptively permissible.
+
 The conflicting comments on this issue illustrate the challenges associated with setting
 remediation time frames in this context. If the Department were to shorten the
 remediation time frames, it would make it even harder for public educational institutions
@@ -7932,6 +7879,7 @@ believes the better approach is to not include the course content exceptions in 
 H of this part to avoid the need for public educational institutions to make content
 accessible on an expedited time frame on the back end, and to instead require public
 entities to treat course content like any other content covered by subpart H.
+
 Some commenters suggested that the Department should take measures to ensure that
 once course content is accessible, it stays accessible, including by requiring institutions
 to regularly conduct course accessibility checks. Without the course content exceptions
@@ -7940,6 +7888,7 @@ addressed because course content will be treated like all other content under §
 which requires public entities to ensure on an ongoing basis that the web content and
 mobile apps they provide or make available are readily accessible to and usable by
 individuals with disabilities.
+
 Some commenters suggested that the Department should give public educational
 institutions additional time to comply with subpart H of this part beyond the compliance
 time frames specified in § 35.200(b). The Department does not believe this would be
@@ -7953,7 +7902,6 @@ programs, which would be especially problematic given that some of those program
 last only a few years in total, meaning that individuals with disabilities might, for
 example, be unable to access their public university’s web content and mobile apps for
 the entire duration of their postsecondary career. While access to public entities’ web
-
 content and mobile apps is important for individuals with disabilities in all contexts, it is
 uniquely critical to the public educational experience for students with disabilities,
 because exclusion from that content and those apps would make it challenging or
@@ -7979,6 +7927,7 @@ predictability for individuals with disabilities. Under this approach, some publ
 educational institutions will qualify as small public entities and will be entitled to an extra
 year to comply, while other public educational institutions in larger jurisdictions will need
 to comply within two years.
+
 Some commenters recommended that the Department give public educational
 institutions more flexibility with respect to their compliance with subpart H of this part.
 For example, some commenters suggested that the Department should give public
@@ -7993,11 +7942,11 @@ when content must be made accessible has not resulted in widespread web and mobi
 app accessibility. The Department therefore believes it is critical to establish clear and
 consistent requirements for public entities to follow in making their web content and
 mobile apps accessible.
+
 As noted in the preceding paragraph, although the Department believes it is important
 to set clear and consistent requirements for public educational institutions, the
 Department does not believe it is appropriate to be overly prescriptive with respect to
 the procedures that those institutions must follow to comply with subpart H of this part.
-163 See §§ 35.130(b)(1)(ii) and (7) and 35.160.
 
 Some commenters suggested that the Department should require public educational
 institutions to take particular steps to comply with subpart H, such as by holding certain
@@ -8005,6 +7954,7 @@ trainings for faculty and staff and dedicating staff positions and funding to ac
 The Department believes it is appropriate to allow public educational institutions to
 determine how best to allocate their resources, so long as they satisfy the requirements
 of subpart H.
+
 Some commenters suggested that the Department should adopt a more permissive
 approach to conforming alternate versions for public educational institutions.
 Commenters also suggested that the Department allow public educational institutions to
@@ -8017,6 +7967,7 @@ disabilities, which would be inconsistent with the ADA’s core principles of in
 integration. 164 The same rationale would apply to public educational institutions that
 wish to provide an equally effective method of alternative access to individuals with
 disabilities.
+
 Some commenters argued that the Department should provide additional resources,
 funding, and guidance to public educational institutions to help them comply with
 subpart H of this part. The Department notes that it will issue a small entity compliance
@@ -8027,6 +7978,7 @@ compliant with WCAG 2.1 Level AA. In addition, although the Department does no
 currently operate a grant program to assist public entities in complying with the ADA,
 the Department will consider offering additional technical assistance and guidance in
 the future to help entities better understand their obligations.
+
 One commenter suggested that the Department should create a list of approved third-
 party vendors for public educational institutions to use to obtain accessible content. Any
 such specific list that the Department could provide is unlikely to be helpful given the
@@ -8035,14 +7987,6 @@ find it useful to consult other publicly available resources that can assist in 
 accessibility evaluation tools and experts. 166 Public entities do not need to wait for the
 Department’s guidance before consulting with technical experts and using resources
 that already exist.
-164 See, e.g., 42 U.S.C. 12101(a)(2) (finding that society has tended to isolate and segregate individuals with
-disabilities); § 35.130(b)(1)(iv) (stating that public entities generally may not provide different or separate aids,
-benefits, or services to individuals with disabilities than is provided to others unless such action is necessary); id. §
-35.130(d) (requiring that public entities administer services, programs, and activities in the most integrated setting
-appropriate).
-165 See Public Law 104–121, sec. 212, 110 Stat. at 858.
-166 See, e.g., W3C, Evaluating Web Accessibility Overview, https://www.w3.org/WAI/test-evaluate/
-[https://perma.cc/6RDS-X6AR] (Aug. 1, 2023).
 
 One commenter suggested that the Department should require public educational
 institutions to offer mandatory courses on accessibility to students pursuing degrees in
@@ -8053,6 +7997,7 @@ make content accessible. The Department believes this suggestion is outside of t
 scope of subpart H of this part, which focuses on web and mobile app accessibility
 under title II. The Department notes that public educational institutions are free to offer
 such courses if they so choose.
+
 One commenter suggested that if the course content exceptions were retained, the
 Department should explicitly require public educational institutions to provide clear
 notice to students with disabilities on whether a particular piece of course content is
@@ -8061,6 +8006,7 @@ concerns are addressed by the decision not to include the course content excepti
 subpart H of this part, which should generally obviate the need for students with
 disabilities to make individualized requests for course content that complies with
 WCAG 2.1 Level AA.
+
 Many commenters expressed concern about the extent to which public educational
 institutions are dependent on third parties to ensure the accessibility of course content,
 and some commenters suggested that instead of or in addition to regulating public
@@ -8083,23 +8029,26 @@ The Department also expects that as a result of the rulemaking, there will be an
 increase in demand for accessible content from third-party vendors, and therefore a
 likely increase in the number of third-party vendors that are equipped to provide
 accessible content.
+
 Some commenters also expressed views about whether public educational institutions
 should be required to make posts by third parties on password-protected course
 websites accessible. The Department wishes to clarify that, because content on
 password-protected course websites will be treated like any other content under subpart
 H of this part, posts by third parties on course websites may be covered by the
-
 exception for content posted by a third party. However, that exception only applies
 where the third party is not posting due to contractual, licensing, or other arrangements
 with the public entity. Accordingly, if the third party is acting on behalf of the public
 entity, the third-party posted content exception would not apply. The Department
 believes that whether particular third-party content qualifies for this exception will
 involve a fact-specific inquiry.
-Other Issues Pertaining to Public Educational Entities and Public Libraries
+
+***Other Issues Pertaining to Public Educational Entities and Public Libraries***
+
 In connection with the proposed exceptions for password-protected course content, the
 Department also asked if there were any particular issues the Department should
 consider regarding digital books, textbooks, or libraries. The Department received a
 variety of comments that addressed these topics.
+
 Some commenters raised issues pertaining to intellectual property law. In particular,
 commenters expressed different views about whether public entities can alter or change
 inaccessible electronic books created by third-party vendors to make them accessible
@@ -8112,6 +8061,7 @@ law. However, as discussed with respect to § 35.202, “Conforming Alternate V
 there may be some instances in which a public entity is permitted to make a conforming
 alternate version of web content where it is not possible to make the content directly
 accessible due to legal limitations.
+
 Some commenters also discussed the EPUB file format. EPUB is a widely adopted
 format for digital books. 167 Commenters noted that EPUBs are commonly used by public
 entities and that they should be accessible. Commenters also stated that the
@@ -8121,18 +8071,11 @@ within the meaning of the PDF file format with respect to the definition of “c
 electronic documents” at § 35.104. Commenters also suggested that other
 requirements should apply to EPUBs, including W3C’s EPUB Accessibility 1.1
 standard 168 and Editor’s Draft on EPUB Fixed Layout Accessibility. 169
+
 As discussed with respect to § 35.104, the Department did not change the definition of
 “conventional electronic documents” because it believes the current exhaustive list
 strikes the appropriate balance between ensuring access for individuals with disabilities
-and feasibility for public entities so that they can comply with subpart H of this part. The
-167 See W3C, EPUB 3.3: Recommendation, § 1.1 Overview (May 25, 2023), https://www.w3.org/TR/epub-33/
-[https://perma.cc/G2WZ-3M9S].
-168 W3C, EPUB Accessibility 1.1: Recommendation (May 25, 2023), https://www.w3.org/TR/epub-a11y-11/
-[https://perma.cc/48A5-NC2B].
-169 W3C, EPUB Fixed Layout Accessibility: Editor’s Draft (Dec. 8, 2024), https://w3c.github.io/epub-
-specs/epub33/fxl-a11y/ [https://perma.cc/5SP7-VUHJ].
-
-Department also declines to adopt additional technical standards or guidance
+and feasibility for public entities so that they can comply with subpart H of this part. The Department also declines to adopt additional technical standards or guidance
 specifically related to EPUBs. The WCAG standards were designed to be “technology
 neutral.” 170 This means that they are designed to be broadly applicable to current and
 future web technologies. 171 The Department is concerned that adopting multiple
@@ -8142,6 +8085,7 @@ facilitation in § 35.203, meaning that public entities could still choose to a
 standards specifically related to EPUBs to the extent that the additional standards
 provide substantially equivalent or greater accessibility and usability as compared to
 WCAG 2.1 Level AA.
+
 Some commenters also addressed public educational entities’ use of digital textbooks in
 general. Commenters stated that many educational courses use digital materials,
 including digital textbooks, created by third-party vendors. Consistent with many
@@ -8157,6 +8101,7 @@ textbooks cannot be made accessible where the layout and properties of the conte
 cannot be changed without changing the meaning of the content, and they
 recommended that the Department create exceptions for certain aspects of digital
 books.
+
 After weighing all the comments, the Department believes the most prudent approach is
 to treat digital textbooks, including EPUBs, the same as all other educational course
 materials. The Department believes that treating digital textbooks, including EPUBs, in
@@ -8171,20 +8116,14 @@ to set forth a remediation time frame that would provide public educational inst
 sufficient time to make digital textbooks accessible without putting students with
 disabilities too far behind their peers. Accordingly, the Department did not make any
 changes to subpart H of this part to specifically address digital textbooks. The
-Department notes that if there are circumstances where certain aspects of digital
-
-170 W3C, Introduction to Understanding WCAG (June 20, 2023),
-https://www.w3.org/WAI/WCAG21/Understanding/intro [https://perma.cc/​XB3Y-QKVU].
-171 See W3C, Understanding Techniques for WCAG Success Criteria (June 20, 2023),
-https://www.w3.org/WAI/WCAG21/Understanding/understanding-techniques [https://perma.cc/​AMT4-XAAL].
-
-textbooks cannot conform to WCAG 2.1 Level AA without changing the meaning of the
+Department notes that if there are circumstances where certain aspects of digital textbooks cannot conform to WCAG 2.1 Level AA without changing the meaning of the
 content, public entities may assess whether the fundamental alteration or undue
 financial or administrative burdens limitations apply, as discussed in § 35.204. As noted
 elsewhere in this appendix, the Department also expects that as a result of the
 rulemaking, there will be an increase in demand for accessible content from third-party
 vendors, and therefore a likely increase in the number of third-party vendors that are
 equipped to provide accessible digital textbooks.
+
 Some commenters also discussed circumstances in which public entities seek to modify
 particular web content to meet the specific needs of individuals with disabilities. One
 commenter suggested that the Department should provide public entities flexibility to
@@ -8192,6 +8131,7 @@ focus on meeting the individual needs of students, rather than simply focusing o
 satisfying the requirements of WCAG 2.1 Level AA. The Department believes that the
 title II regulation provides public entities sufficient flexibility to meet the needs of all
 individuals with disabilities.
+
 The Department also recognizes that IDEA established the National Instructional
 Materials Access Center (“NIMAC”) in 2004, to assist State educational agencies and
 local educational agencies with producing accessible instructional materials to meet the
@@ -8210,6 +8150,7 @@ needs of the individual. Alternatively, a public entity may wish to use material
 from NIMAS files as a conforming alternate version where it is not possible to make the
 digital textbook or other course content directly accessible due to technical or legal
 limitations, consistent with § 35.202.
+
 Some commenters also raised issues relating to public libraries. Commenters stated
 that libraries have varying levels of resources. Some commenters noted that libraries
 need additional accessibility training. One commenter requested that the Department
@@ -8218,11 +8159,6 @@ recommended that the Department should consider allowing variations in complianc
 time frames for libraries and educational institutions based on their individual needs and
 circumstances. Commenters noted that digital content available through libraries is
 often hosted, controlled, or provided by third-party vendors, and libraries purchase
-
-172 Assistance to States for the Education of Children With Disabilities, 85 FR 31374 (May 26, 2020).
-173 Nat’l Instructional Materials Access Center, About NIMAC, https://www.nimac.us/about-nimac/
-[https://perma.cc/9PQ2-GLQM] (last visited Feb. 2, 2024).
-
 subscriptions or licenses to use the material. Commenters stated that it is costly and
 burdensome for public libraries to remediate inaccessible third-party vendor content.
 However, one commenter highlighted a number of examples in which libraries at public
@@ -8232,6 +8168,7 @@ pointed out that some public libraries also produce content themselves. For exam
 some libraries participate in the open educational resource movement, which promotes
 open and free digital educational materials, and some libraries either operate publishing
 programs or have a relationship with university presses.
+
 After weighing all the comments, the Department believes the most appropriate
 approach is to treat public libraries the same as other public entities in subpart H of this
 part. The Department is concerned that treating public libraries in any other way would
@@ -8253,6 +8190,7 @@ administrative burdens. The Department also notes there that there are free and 
 cost training materials available that would help public entities to produce content
 compliant with WCAG 2.1 Level AA. Accordingly, the Department has not made any
 changes to subpart H to specifically address public libraries.
+
 Some commenters also noted that public libraries may have collections of materials that
 are archival in nature, and discussed whether such materials should be covered by an
 exception. Subpart H of this part contains an exception for archived web content that
@@ -8267,15 +8205,15 @@ preexisting conventional electronic documents, unless such documents are current
 used to apply for, gain access to, or participate in a public entity’s services, programs, or
 activities. The Department addressed these exceptions in more detail in the section-by-
 section analysis of § 35.104, containing the definitions of “archived web content” and
-“conventional electronic documents”; § 35.201(a), the exception for archived web
-
-content; and § 35.201(b), the exception for preexisting conventional electronic
+“conventional electronic documents”; § 35.201(a), the exception for archived web content; and § 35.201(b), the exception for preexisting conventional electronic
 documents.
-Individualized, Password-Protected or Otherwise Secured Conventional
-Electronic Documents
+
+**Individualized, Password-Protected or Otherwise Secured Conventional Electronic Documents**
+
 In § 35.201(d), the Department has set forth an exception to the requirements of
 § 35.200 for conventional electronic documents that are: (1) about a specific individual,
 their property, or their account; and (2) password-protected or otherwise secured.
+
 Many public entities use web content and mobile apps to provide access to
 conventional electronic documents for their customers and other members of the public.
 For example, some public utility companies provide a website where customers can log
@@ -8286,6 +8224,7 @@ other types of content covered by subpart H of this part, these documents are re
 only to an individual member of the public, and in many instances, the individuals who
 are entitled to view a particular individualized conventional electronic document will not
 need an accessible version.
+
 While public entities, of course, have existing title II obligations to provide accessible
 versions of individualized, password-protected or otherwise secured conventional
 electronic documents in a timely manner when those documents pertain to individuals
@@ -8308,12 +8247,9 @@ protected or otherwise secured conventional electronic documents accessible by u
 for example, an accessible template to generate such documents, and subpart H of this
 part preserves flexibility for public entities that wish to take that approach. This
 approach is consistent with the broader title II regulatory framework. For example,
-public utility companies are not required to affirmatively mail accessible bills to all
-
-174 See §§ 35.130(b)(1)(ii) and (b)(7) and 35.160.
-
-customers. Instead, the companies need only provide accessible bills to those
+public utility companies are not required to affirmatively mail accessible bills to all customers. Instead, the companies need only provide accessible bills to those
 customers who need them because of a disability.
+
 This exception is limited to “conventional electronic documents” as defined in § 35.104.
 This exception would, therefore, not apply in a case where a public entity makes
 individualized information available in formats other than a conventional electronic
@@ -8337,6 +8273,7 @@ Criterion 2.4.4, a public entity would generally have to provide sufficient inf
 the text of the link alone, or in the text of the link together with the link’s
 programmatically determined link context, so that a user could understand the purpose
 of each link and determine whether they want to access a given document. 175
+
 This exception also only applies when the content is individualized for a specific person
 or their property or account. Examples of individualized documents include medical
 records or notes about a specific patient, receipts for purchases (like a parent’s receipt
@@ -8349,15 +8286,12 @@ customer’s particular circumstances would not be subject to this exception. Su
 general notice would not be subject to this exception even if it were attached to or sent
 with an individualized letter, like a bill, that does address a specific customer’s
 circumstances.
+
 This exception applies only to password-protected or otherwise secured content.
 Content may be otherwise secured if it requires a member of the public to use some
-process of authentication or login to access the content. Unless subject to another
-
-175 See W3C, Understanding SC 2.4.4.: Link Purpose (In Context) (June 20, 2023),
-https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html [https://perma.cc/RE3T-J9PN].
-
-exception, conventional electronic documents that are on a public entity’s general,
+process of authentication or login to access the content. Unless subject to another exception, conventional electronic documents that are on a public entity’s general,
 public web platform would not be covered by the exception.
+
 The Department recognizes that there may be some overlap between the content
 covered by this exception and the exception for certain preexisting conventional
 electronic documents, § 35.201(b). The Department notes that if web content is
@@ -8372,6 +8306,7 @@ exception for individualized, password-protected or otherwise secured convention
 electronic documents, the documents would not need to conform to WCAG 2.1
 Level AA, regardless of how the preexisting conventional electronic documents
 exception might otherwise have applied.
+
 As noted elsewhere in this appendix, while the exception is meant to alleviate the
 potential burden on public entities of making all individualized, password-protected or
 otherwise secured conventional electronic documents generally accessible, individuals
@@ -8385,6 +8320,7 @@ modifications to avoid discrimination on the basis of disability, ensuring that
 communications with people with disabilities are as effective as communications with
 people without disabilities, and providing people with disabilities an equal opportunity to
 participate in or benefit from the entity’s services, programs, or activities. 177
+
 The Department received comments expressing both support for and opposition to this
 exception. A supporter of the exception observed that, because many individualized,
 password-protected or otherwise secured conventional electronic documents do not
@@ -8395,13 +8331,9 @@ be burdensome for public entities to make all of these documents accessible,
 regardless of whether they pertain to a person with a disability. Some commenters
 noted that even if some public entities might find it more efficient to make all
 individualized, password-protected or otherwise secured conventional electronic
-documents accessible from the outset, this exception is valuable because it gives
-
-176 See §§ 35.130(b)(1)(ii) and (b)(7) and 35.160.
-177 See id.
-
-entities flexibility to select the most efficient option to meet the needs of individuals with
+documents accessible from the outset, this exception is valuable because it gives entities flexibility to select the most efficient option to meet the needs of individuals with
 disabilities.
+
 The Department also received many comments opposing this exception. Commenters
 pointed out that it is often critical for individuals, including individuals with disabilities, to
 have timely access to individualized, password-protected or otherwise secured
@@ -8432,6 +8364,7 @@ less overall accessibility. Some commenters suggested that if the exception is r
 in subpart H of this part, the Department should set forth specific procedures for public
 entities to follow when they are on notice of the need to make individualized documents
 accessible for a particular individual with a disability.
+
 After reviewing the comments, the Department has decided to retain this exception in
 subpart H of this part. 178 The Department continues to believe that public entities often
 provide or make available a large volume of individualized, password-protected or
@@ -8443,7 +8376,6 @@ versions of those documents. If, as many commenters suggested, it is in fact mor
 efficient and less expensive for some public entities to make all such documents
 accessible by using a template, there is nothing in subpart H that prevents public
 entities from taking that approach.
-178 The Department made a non-substantive change to the header of the exception to match the text of the exception.
 
 The Department understands the concerns raised by commenters about the potential
 burdens that individuals with disabilities may face if individualized password-protected
@@ -8475,6 +8407,7 @@ exception, any public-facing, web- or mobile app-based system or platform that a
 entity uses to provide or make available those documents, or to allow the public to make
 accessibility requests, must itself be accessible under § 35.200 if it is not covered by
 another exception.
+
 The Department also reiterates that a public entity might also need to make reasonable
 modifications to ensure that a person with a disability has equal access to its services,
 programs, or activities. 182 For example, if a public medical provider has a policy under
@@ -8483,14 +8416,6 @@ images into patients’ individualized accounts after medical appointments, but 
 provider knows that a particular patient is blind, the provider may need to modify its
 policy to ensure that a staffer with the necessary expertise provides an accessible
 version of the information the patient needs from the X-ray.
-
-179 See § 35.160(b)(1). For more information about public entities’ existing obligation to ensure that communications
-with individuals with disabilities are as effective as communications with others, see U.S. Dep’t of Just., ADA
-Requirements: Effective Communication, ada.gov (Feb 28, 2020), https://www.ada.gov/resources/effective-
-communication/ [https://perma.cc/CLT7-5PNQ]. 
-180 See § 35.160(b)(2).
-181 Id.
-182 See § 35.130(b)(7).
 
 Some commenters suggested that the Department should require public entities to
 adopt specific procedures when they are on notice of an individual’s need for accessible
@@ -8517,6 +8442,7 @@ suggested, coupled with the comments the Department received on the remediation
 time frames that were associated with the previously proposed course content
 exceptions, helps to illustrate the challenges associated with selecting a specific
 number of days for public entities to remediate content.
+
 Some commenters suggested other revisions to the exception. For example, some
 commenters suggested that the Department could limit the exception to existing
 individualized, password-protected or otherwise secured conventional electronic
@@ -8525,6 +8451,7 @@ The Department does not believe it is advisable to adopt this revision. A centra
 rationale of this exception—the fact that many individuals to whom individualized
 documents pertain do not need those documents in an accessible format—remains
 regardless of whether the documents at issue are existing or newly created.
+
 One commenter suggested the Department could create an expiration date for the
 exception. The Department does not believe this would be workable, because the
 challenges that public entities might face in making all individualized, password-
@@ -8534,10 +8461,7 @@ suggested that the exception should not apply to large public entities, such as 
 The Department believes that the rationales underlying this exception would apply to
 both large and small public entities. The Department also believes that the inconsistent
 application of this exception could create unpredictability for individuals with disabilities.
-Other commenters suggested additional revisions, such as limiting the exception to
-183 See §§ 35.130(b)(1)(ii) and (b)(7) and 35.160(b)(2).
-
-documents that are not based on templates; requiring public entities to remove
+Other commenters suggested additional revisions, such as limiting the exception to documents that are not based on templates; requiring public entities to remove
 inaccessible documents from systems of records once accessible versions of those
 documents have been created; and requiring public entities to use HTML pages, which
 may be easier to make accessible than conventional electronic documents, to deliver
@@ -8547,6 +8471,7 @@ password-protected or otherwise secured documents to the public, so long as thos
 entities ensure that individuals with disabilities have timely access to the information
 contained in those documents in an accessible format that protects the privacy and
 independence of the individual with a disability.
+
 Some commenters asked the Department for additional clarification about how the
 exception would operate in practice. One commenter asked for clarification about how
 this exception would apply to public hospitals and healthcare clinics, and whether the
@@ -8565,6 +8490,7 @@ Accordingly, in the scenario raised by the commenter, the exception would not ap
 unless the public hospital or healthcare clinic used an individualized, password-
 protected or otherwise secured document in one of the file types listed in this paragraph
 for scheduling appointments.
+
 The Department also received some comments that suggested that the Department
 take actions outside the scope of subpart H of this part to make it easier for certain
 people with disabilities to access platforms that provide individualized, password-
@@ -8574,17 +8500,17 @@ that are generally simpler to navigate. While the Department recognizes that the
 important issues, they are outside the scope of subpart H, and they are therefore not
 addressed in detail in subpart H.
 
-Preexisting Social Media Posts
+**Preexisting Social Media Posts**
+
 Subpart H of this part includes an exception in § 35.201(e) for preexisting social media
 posts, which provides that the requirements of § 35.200 will not apply to a public entity’s
 social media posts that were posted before the date the public entity is required to
 comply with subpart H. This means that public entities will need to ensure that their
-social media posts going forward are compliant with the requirements in subpart H
-
-beginning on the compliance date outlined in § 35.200(b), but not before that date. The
+social media posts going forward are compliant with the requirements in subpart H beginning on the compliance date outlined in § 35.200(b), but not before that date. The
 Department includes guidance on public entities’ use of social media platforms going
 forward in the section entitled “Public Entities’ Use of Social Media Platforms” in the
 section-by-section analysis of § 35.200.
+
 The Department is including this exception in subpart H of this part because making
 preexisting social media posts accessible may be impossible or result in a significant
 burden. Commenters told the Department that many public entities have posted on
@@ -8597,6 +8523,7 @@ resources are better spent ensuring that current web content and content in mobi
 apps are accessible, rather than reviewing all preexisting social media posts for
 compliance or possibly deleting public entities’ previous posts if remediation is
 impossible.
+
 In the NPRM, the Department did not propose any regulatory text specific to the web
 content and content in mobile apps that public entities make available via social media
 platforms. However, the Department asked for the public’s feedback on adding an
@@ -8605,6 +8532,7 @@ posts if they were posted before the effective date of subpart H. 184 After revi
 comment on this proposed exception, the Department has decided to include an
 exception in subpart H, which will apply to preexisting social media posts posted before
 the compliance date of subpart H.
+
 The Department emphasizes that even if preexisting social media posts do not have to
 conform to the technical standard, public entities still need to ensure that their services,
 programs, and activities offered using web content and mobile apps are accessible to
@@ -8614,18 +8542,15 @@ modifications to avoid discrimination on the basis of disability, ensuring that
 communications with people with disabilities are as effective as communications with
 people without disabilities, and providing people with disabilities an equal opportunity to
 participate in or benefit from the entity’s services, programs, and activities. 185
+
 Most commenters supported an exception for preexisting social media posts, including
 commenters representing public entities and disability advocates. Commenters shared
 that making preexisting social media posts accessible would require a massive
 allocation of resources, and that in many cases these posts would be difficult or
 impossible to remediate. Commenters shared that in practice, public entities may need
-to delete preexisting social media posts to comply with subpart H of this part in the
-
-184 88 FR 51962–51963.
-185 Sections 35.130(b)(1)(ii) and (b)(7) and 35.160.
-
-absence of this exception, which could result in a loss of historical information about
+to delete preexisting social media posts to comply with subpart H of this part in the absence of this exception, which could result in a loss of historical information about
 public entities’ activities.
+
 A few commenters shared alternative approaches to this exception. One commenter
 suggested that highlighted or so-called “pinned” posts (e.g., social media posts saved at
 the top of a page) be required to be made accessible regardless of the posting date.
@@ -8634,6 +8559,7 @@ emergency information or information pertinent to accessing core functions, expr
 concern that these postings would continue to be inaccessible between publication of
 the final rule and the date that public entities are required to be in compliance with
 subpart H of this part.
+
 The Department agrees with the majority of commenters who supported the exception
 as described in the NPRM, for the reasons shared previously. The Department
 understands some commenters’ concerns with respect to pinned posts as well as
@@ -8649,11 +8575,13 @@ pinned content. Also, requiring these pinned posts to be made accessible risks s
 the remediation concerns raised earlier, as public entities may need to delete pinned
 posts where remediation is infeasible. The Department also has concerns with
 delineating what content should be considered “core” or “emergency” content.
+
 For these reasons, the Department believes the appropriate approach is to set forth, as
 it does in § 35.201(e), an exception from the requirements of § 35.200 for all social
 media posts that were posted prior to the compliance date for subpart H of this part.
 The Department emphasizes, however, that after the compliance date, public entities
 must ensure all of their social media posts moving forward comply with subpart H.
+
 In the NPRM, the Department asked for the public’s feedback on whether public entities’
 preexisting videos posted to social media platforms should be covered by an exception
 due to these same concerns or whether these platforms should otherwise be treated
@@ -8667,9 +8595,9 @@ compliance date of subpart H. The Department recognizes that due to the continua
 evolving nature of social media platforms, there may be questions about which content
 is covered by the exception to subpart H. While the Department is choosing not to
 single out platforms or subsets of platforms in subpart H for unique treatment, the
-
 Department encourages public entities to err on the side of ensuring accessibility where
 there are doubts about coverage, to maximize access for people with disabilities.
+
 Commenters also suggested other ways to address social media, such as providing that
 public entities must create a timeline to incorporate accessibility features into their social
 media or providing that public entities can use separate accessible pages with all of
@@ -8683,7 +8611,8 @@ that social media posts posted after the compliance date are treated consistent 
 other web content and content in mobile apps, and the relevant exceptions may apply
 depending on the content at issue.
 
-Section 35.202 Conforming Alternate Versions
+### Section 35.202 Conforming Alternate Versions
+
 Section 35.202 sets forth the approach to “conforming alternate versions.” Under
 WCAG, a “conforming alternate version” is a separate web page that, among other
 things, is accessible, up to date, contains the same information and functionality as the
@@ -8697,6 +8626,7 @@ which represents a slight departure from WCAG 2.1. Section 35.202(a) states th
 public entity may use conforming alternate versions of web content to comply with
 § 35.200 only where it is not possible to make web content directly accessible due to
 technical or legal limitations.
+
 Generally, to conform to WCAG 2.1, a web page must be directly accessible in that it
 satisfies the success criteria for one of the defined levels of conformance—in the case
 of subpart H of this part, Level AA. 187 However, as noted in the preceding paragraph,
@@ -8704,21 +8634,14 @@ WCAG 2.1 also allows for the creation of a “conforming alternate version.” 
 of a “conforming alternate version” is to provide individuals with relevant disabilities
 access to the information and functionality provided to individuals without relevant
 disabilities, albeit via a separate vehicle. The Department believes that having direct
-access to accessible web content provides the best user experience for many
-186 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1: Recommendation, Conforming Alternate Version
-(June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#dfn-conforming-alternate-version
-[https://perma.cc/GWT6-AMAN]. WCAG 2.1 provides three options for how a conforming alternate version can
-be reached—the Department does not modify those options with respect to conforming alternative versions under
-subpart H of this part.
-187 See id.
-
-individuals with disabilities, and it may be difficult to reliably maintain conforming
+access to accessible web content provides the best user experience for many individuals with disabilities, and it may be difficult to reliably maintain conforming
 alternate versions, which must be kept up to date. W3C explains that providing a
 conforming alternate version is intended to be a “fallback option for conformance to
 WCAG and the preferred method of conformance is to make all content directly
 accessible.” 188 However, WCAG 2.1 does not explicitly limit the circumstances under
 which an entity may choose to create a conforming alternate version of a web page
 instead of making the web page directly accessible.
+
 The Department is concerned that WCAG 2.1 can be interpreted to permit the
 development of two separate versions of a public entity’s web content—one for
 individuals with relevant disabilities and another for individuals without relevant
@@ -8739,6 +8662,7 @@ financially worthwhile or otherwise necessary to incorporate in conforming alter
 versions. Ultimately, as discussed later in this section, the Department believes there
 are particular risks associated with permitting the creation of conforming alternate
 versions where not necessitated by the presence of technical or legal limitations.
+
 Due to the concerns about user experience, segregation of users with disabilities,
 unequal access to information, and maintenance burdens mentioned in the preceding
 paragraph, the Department is adopting a slightly different approach to conforming
@@ -8749,19 +8673,11 @@ comply with § 35.200 only where it is not possible to make web content directl
 accessible due to technical limitations (e.g., technology is not yet capable of being
 made accessible) or legal limitations (e.g., web content that cannot be changed due to
 legal reasons). The Department believes conforming alternate versions should be used
-rarely—when it is truly not possible to make the content accessible for reasons beyond
-188 See W3C, Understanding Conformance, https://www.w3.org/WAI/WCAG21/Understanding/conformance
-[https://perma.cc/QSG6-QCBL] (June 20, 2023).
-189 See § 35.130(b)(1)(iv) (stating that public entities generally may not provide different or separate aids, benefits, or
-services to individuals with disabilities than is provided to others unless such action is necessary); § 35.130(d)
-(requiring that public entities administer services, programs, and activities in the most integrated setting
-appropriate); cf. 42 U.S.C. 12101(a)(2) (finding that society has tended to isolate and segregate individuals with
-disabilities).
-
-the public entity’s control. However, § 35.202 does not prohibit public entities from
+rarely—when it is truly not possible to make the content accessible for reasons beyond the public entity’s control. However, § 35.202 does not prohibit public entities from
 providing alternate versions of web pages in addition to their WCAG 2.1 Level AA
 compliant main web page to possibly provide users with certain types of disabilities a
 better experience.
+
 The Department slightly revised the text that was proposed in the NPRM for this
 provision. 190 To ensure consistency with other provisions of subpart H of this part, the
 previously proposed text for § 35.202 was revised to refer to “web content” instead of
@@ -8771,6 +8687,7 @@ refer to “web content.” Introducing the concept of “websites” in this se
 term is not used elsewhere in subpart H could cause unnecessary confusion, so the
 Department revised this language for consistency. This change is non-substantive, as
 “web content” encompasses “websites.”
+
 In the NPRM, the Department requested comments on its approach to conforming
 alternate versions. In response, the Department received comments from a variety of
 commenters. Several commenters supported the Department’s proposed approach of
@@ -8779,6 +8696,7 @@ legal limitations. Commenters believed these limitations would prevent public en
 from using conforming alternate versions frequently and for reasons that do not seem
 appropriate, such as creating a conforming alternate version for a web page that is less
 accessible because of the public entity’s aesthetic preferences.
+
 Some commenters suggested that the Department should permit conforming alternate
 versions under a broader range of circumstances. For example, some commenters
 indicated that a conforming alternate version could provide an equal or superior version
@@ -8794,13 +8712,9 @@ it could be challenging for public entities that already offer conforming altern
 more broadly to adjust their approach to comply with subpart H of this part. Some
 commenters gave examples of scenarios in which they found it helpful or necessary to
 provide conforming alternate versions.
+
 A few commenters expressed serious concerns about the use of conforming alternate
 versions. These commenters stated that conforming alternate versions often result in
-190 88 FR 52020.
-191 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1: Recommendation, Conforming Alternate Version
-(June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#dfn-conforming-alternate-version
-[https://perma.cc/GWT6-AMAN].
-
 two separate and unequal websites. Commenters indicated that some entities’
 conforming alternate versions neither conform to WCAG standards nor contain the
 same functionality and content and therefore provide fragmented, separate experiences
@@ -8817,6 +8731,7 @@ conforming alternate versions when interaction is a part of the online user expe
 Another commenter suggested permitting conforming alternate versions only when a
 legal limitation makes it impossible to make web content directly accessible, but not
 when a technical limitation makes it impossible to do so.
+
 Having reviewed public comments and considered this issue carefully, the Department
 believes subpart H of this part strikes the right balance to permit conforming alternate
 versions, but only where it is not possible to make web content directly accessible due
@@ -8827,7 +8742,8 @@ entities in situations where, due to a technical or legal limitation, it is impo
 web content directly accessible. The Department also believes that this approach will
 help avoid the concerns noted in the preceding paragraphs with respect to segregation
 of people with disabilities by defining only specific scenarios when the use of
-conforming alternate versions is appropriate. 
+conforming alternate versions is appropriate.
+
 Some commenters emphasized the importance of ensuring that under the limited
 circumstances in which conforming alternate versions are permissible, those versions
 provide a truly equal experience. Commenters also expressed concern that it might be
@@ -8843,11 +8759,9 @@ can be reached from the non-conforming page via an accessibility-supported
 mechanism,” or “the non-conforming version can only be reached from the conforming
 version,” or “the non-conforming version can only be reached from a conforming page
 that also provides a mechanism to reach the conforming version.” 193 The Department
-192 See id.
-193 Id.
-
 believes these requirements will help to ensure that where a conforming alternate
 version is permissible, people with disabilities will be able to locate that page.
+
 Some commenters recommended that the Department provide additional guidance and
 examples of when conforming alternate versions would be permissible, or asked the
 Department to clarify whether conforming alternate versions would be permissible under
@@ -8865,6 +8779,7 @@ content itself could not be modified for legal reasons specific to that content.
 Department believes this approach is appropriate because it ensures that, whenever
 possible, people with disabilities have access to the same web content that is available
 to people without disabilities.
+
 One commenter stated that school districts and public postsecondary institutions
 currently provide accessible alternative content to students with disabilities that is
 equivalent to the content provided to students without disabilities and that is responsive
@@ -8875,6 +8790,7 @@ like all other public entities, will only be able to provide conforming alternat
 lieu of directly accessible versions of web content under the circumstances specified in
 § 35.202, nothing prevents a public educational institution from providing a conforming
 alternate version in addition to the accessible main version of its web content.
+
 Other commenters requested that the Department impose deadlines or time restrictions
 on how long a public entity can use a conforming alternate version. However, the
 Department believes that doing so would conflict with the rationale for permitting
@@ -8884,12 +8800,12 @@ unreasonable to require the public entity to surmount those limitations after a 
 period of time, even if they are still in place. However, once a technical or legal
 limitation no longer exists, a public entity must ensure their web content is directly
 accessible in accordance with subpart H of this part.
+
 A few commenters also sought clarification on, or broader language to account for, the
 interaction between the allowance of conforming alternate versions under § 35.202 and
 the general limitations provided in § 35.204. These two provisions are applicable in
 separate circumstances. If there is a technical or legal limitation that prevents an entity
 from complying with § 35.200 for certain content, § 35.202 is applicable. The entity can
-
 create a conforming alternate version for that content and, under § 35.202, that entity
 will be in compliance with subpart H of this part. Separately, if a fundamental alteration
 or undue financial and administrative burdens prevent a public entity from complying
@@ -8908,6 +8824,7 @@ Because the language of § 35.204 already allows for alternate versions if appr
 for the facts of public entity’s fundamental alteration or undue burdens, the Department
 does not see a need to expand the language of § 35.202 to address commenters’
 concerns.
+
 The Department also wishes to clarify the relationship between §§ 35.202 and 35.205,
 which are analyzed independently of each other. Section 35.202 provides that a public
 entity may use conforming alternate versions of web content, as defined by WCAG 2.1,
@@ -8918,7 +8835,8 @@ version when not required by technical or legal limitations, the public entity m
 that conforming alternate version to comply with its obligations under subpart H of this
 part, either by relying on § 35.202 or by invoking § 35.205.
 
-Section 35.203 Equivalent Facilitation
+### Section 35.203 Equivalent Facilitation
+
 Section 35.203 provides that nothing prevents a public entity from using designs,
 methods, or techniques as alternatives to those prescribed in the regulation, provided
 that such alternatives result in substantially equivalent or greater accessibility and
@@ -8930,11 +8848,7 @@ light of the rapid pace at which technology changes, this provision is intended 
 that public entities can use methods or techniques that provide equal or greater
 accessibility than subpart H would require. For example, if a public entity wanted to
 conform its web content or mobile app to a future web content and mobile app
-accessibility standard that expands accessibility requirements beyond WCAG 2.1
-194 See 28 CFR part 36, appendix D, at 1000 (2022) (1991 ADA Standards); 36 CFR part 1191, appendix B, at 329
-(2022) (2010 ADA Standards).
-
-Level AA, this provision makes clear that the public entity would be in compliance with
+accessibility standard that expands accessibility requirements beyond WCAG 2.1 Level AA, this provision makes clear that the public entity would be in compliance with
 subpart H. Public entities could also choose to comply with subpart H by conforming
 their web content to WCAG 2.2 Level AA 195 because WCAG 2.2 Level AA provides
 substantially equivalent or greater accessibility and usability to WCAG 2.1 Level AA; in
@@ -8954,6 +8868,7 @@ The responsibility for demonstrating equivalent facilitation rests with the publ
 Subpart H adopts the approach as proposed in the NPRM, 200 but the Department edited
 the regulatory text to fix a grammatical error by adding a comma in the original sentence
 in the provision.
+
 The Department received a comment arguing that providing phone support in lieu of a
 WCAG 2.1-compliant website should constitute equivalent facilitation. As discussed in
 the section entitled “History of the Department’s Title II Web-Related Interpretation and
@@ -8963,29 +8878,16 @@ members of the public to get information or request a service within just a few 
 and often to do so independently. Getting the same information or requesting the same
 service using a staffed telephone line takes more steps and may result in wait times or
 difficulty getting the information.
+
 For example, State and local government entities’ web content and mobile apps may
 allow members of the public to quickly review large quantities of information, like
 information about how to register for government services, information on pending
-government ordinances, or instructions about how to apply for a government benefit.
-195 W3C, WCAG 2 Overview, https://www.w3.org/WAI/standards-guidelines/wcag/ [https://perma.cc/RQS2-P7JC]
-(Oct. 5, 2023).
-196 W3C, What’s New in WCAG 2.2 Draft, https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/
-[https://perma.cc/GDM3-A6SE] (Oct. 5, 2023).
-197 W3C, Web Content Accessibility Guidelines (WCAG) 2.1, § 5.2 Conformance Requirements (June 5, 2018),
-https://www.w3.org/TR/2018/REC-WCAG21-20180605/#conformance-reqs [https://perma.cc/XV2E-ESM8].
-198 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 2.4.10 Section Headings (June 5,
-2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#conformance-
-reqs:~:text=Success%20Criterion%202.4.10,Criterion%204.1.2 [https://perma.cc/9BNS-8LWK].
-199 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 3.1.4 Abbreviations (June 5,
-2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#conformance-
-reqs:~:text=Success%20Criterion%203.1.4,abbreviations%20is%20available [https://perma.cc/ZK6C-9RHD].
-200 88 FR 52020.
-
-Members of the public can then use government web content or mobile apps to
+government ordinances, or instructions about how to apply for a government benefit. Members of the public can then use government web content or mobile apps to
 promptly act on that information by, for example, registering for programs or activities,
 submitting comments on pending government ordinances, or filling out an application for
 a government benefit. A member of the public could not realistically accomplish these
 tasks efficiently over the phone.
+
 Additionally, a person with a disability who cannot use an inaccessible online tax form
 might have to call to request assistance with filling out either online or mailed forms,
 which could involve significant delay, added costs, and could require providing private
@@ -8995,6 +8897,7 @@ telephone line also may not be accessible to someone who is deafblind, or who ma
 have combinations of other disabilities, such as a coordination issue impacting typing,
 and an audio processing disability impacting comprehension over the phone. However,
 such individuals may be able to use web content and mobile apps that are accessible.
+
 Finally, calling a staffed telephone line lacks the privacy of looking up information on a
 public entity’s web content or mobile app. A caller needing public safety resources, for
 example, might be unable to access a private location to ask for help on the phone,
@@ -9003,7 +8906,8 @@ resources. For these reasons, the Department does not now believe that a staffed
 telephone line—even if it is offered 24/7—provides equal opportunity in the way that
 accessible web content or mobile apps would.
 
-Section 35.204 Duties
+### Section 35.204 Duties
+
 Section 35.204 sets forth the general limitations on the obligations under subpart H of
 this part. Section 35.204 provides that in meeting the accessibility requirements set out
 in subpart H, a public entity is not required to take any action that would result in a
@@ -9015,6 +8919,7 @@ burdens compliance limitations currently provided in the title II regulation in
 fundamental alteration compliance limitation currently provided in the title II regulation in
 § 35.130(b)(7) (reasonable modifications in policies, practices, or procedures). These
 limitations are thus familiar to public entities.
+
 The word “full” was removed in § 35.204 so that the text reads “compliance” rather than
 “full compliance.” The Department made this change because § 35.200(b)(1) and (2)
 clarifies that compliance with subpart H of this part includes complying with the success
@@ -9037,6 +8942,7 @@ given the variety of organizational structures within public entities and their
 components. 202 The Department has made clear that the determination must be made
 by a high level official, no lower than a Department head, having budgetary authority
 and responsibility for making spending decisions. 203
+
 The Department believes, in general, it would not constitute a fundamental alteration of
 a public entity’s services, programs, or activities to modify web content or mobile apps
 to make them accessible within the meaning of subpart H of this part. However, this is a
@@ -9058,17 +8964,13 @@ disabilities receive the benefits or services provided by the public entity to t
 extent possible. To the extent that the public entity can, it must do so. This may include
 the public entity’s bringing its web content into conformance to some of the WCAG 2.1
 Level A or Level AA success criteria.
+
 It is the Department’s view that most entities that choose to assert a claim that
 complying with all of the requirements under WCAG 2.1 Level AA would result in undue
 financial and administrative burdens will be able to attain at least partial compliance in
-many circumstances. The Department believes that there are many steps a public
-
-201 Section 35.150(a)(3) and 35.164.
-202 28 CFR part 35, appendix B, at 708 (2022).
-203 Id.
-
-entity can take to conform to WCAG 2.1 Level AA that should not result in undue
+many circumstances. The Department believes that there are many steps a public entity can take to conform to WCAG 2.1 Level AA that should not result in undue
 financial and administrative burdens, depending on the particular circumstances.
+
 Complying with the web and mobile app accessibility requirements set forth in subpart H
 means that a public entity is not required by title II of the ADA to make any further
 modifications to the web content or content in mobile apps that it makes available
@@ -9090,11 +8992,11 @@ individual with a disability cannot physically access a program provided in a bu
 complies with the ADA Standards, the public entity does not need to make physical
 alterations to the building but may need to take other steps to ensure that the individual
 has an equal opportunity to participate in and benefit from that program.
+
 Similarly, just because an entity is in compliance with the web content or mobile app
 accessibility standard in subpart H of this part does not mean it has met all of its
 obligations under the ADA or other applicable laws—it means only that it is not required
-to make further changes to the web content or content in mobile apps that it makes
-available. If an individual with a disability, on the basis of disability, cannot access or
+to make further changes to the web **content or content in mobile apps that it makes available**. If an individual with a disability, on the basis of disability, cannot access or
 does not have equal access to a service, program, or activity through a public entity’s
 web content or mobile app that conforms to WCAG 2.1 Level AA, the public entity is still
 obligated under § 35.200(a) to provide the individual an alternative method of access to
@@ -9104,15 +9006,10 @@ service, program, or activity or in undue financial and administrative burdens. 
 entity also must still satisfy its general obligations to provide effective communication,
 reasonable modifications, and an equal opportunity to participate in or benefit from the
 entity’s services, programs, or activities. 206
+
 The public entity must determine on a case-by-case basis how best to meet the needs
 of those individuals who cannot access a service, program, or activity that the public
-entity provides through web content or mobile apps that comply with all of the
-
-204 See 28 CFR part 35, appendix A, at 626 (2022).
-205 See, e.g., §§ 35.130(b)(1)(ii) and (b)(7) and 35.160.
-206 See id.
-
-requirements under WCAG 2.1 Level AA. A public entity should refer to §
+entity provides through web content or mobile apps that comply with all of the requirements under WCAG 2.1 Level AA. A public entity should refer to §
 35.130(b)(1)(ii) to determine its obligations to provide individuals with disabilities an
 equal opportunity to participate in and enjoy the benefits of the public entity’s services,
 programs, or activities. A public entity should refer to § 35.160 (effective
@@ -9130,6 +9027,7 @@ the public entity to provide information about issues individuals with disabilit
 encounter accessing web content or mobile apps or to request assistance. 207 Providing
 this information will help public entities ensure that they are satisfying their obligations to
 provide equal access, effective communication, and reasonable modifications.
+
 The Department also clarifies that a public entity’s requirement to comply with existing
 ADA obligations remains true for content that fits under one of the exceptions under
 § 35.201. For example, in the appropriate circumstances, an entity may be obligated to
@@ -9144,6 +9042,7 @@ believes it will often be most economical and logical for an entity to post the 
 video, once modified, as part of web content made available to the public, or to modify
 the individualized PDF template so that it is used for all members of the public going
 forward.
+
 The Department received comments indicating that the fundamental alteration or undue
 burdens limitations as discussed in the “Duties” section of the NPRM 208 are appropriate
 and align with the framework of the ADA. The Department also received comments
@@ -9152,12 +9051,7 @@ understand when the fundamental alteration and undue burdens limitations will ap
 Accordingly, some commenters asked the Department to make clearer when public
 entities can and cannot raise these limitations. Some of these commenters said that the
 lack of clarity about these limitations could result in higher litigation costs or frivolous
-lawsuits. The Department acknowledges these concerns and notes that fundamental
-207 See W3C, Developing an Accessibility Statement, https://www.w3.org/WAI/planning/statements/
-[https://perma.cc/85WU-JTJ6] (Mar. 11, 2021).
-208 88 FR 51978–51980.
-
-alteration and undue burdens are longstanding limitations under the ADA, 209 and
+lawsuits. The Department acknowledges these concerns and notes that fundamental alteration and undue burdens are longstanding limitations under the ADA, 209 and
 therefore the public should already be familiar with these limitations in other contexts.
 The Department has provided guidance that addresses the fundamental alteration and
 undue burdens limitations and will consider providing additional guidance in the future. 210
@@ -9173,6 +9067,7 @@ accessible. In addition, one commenter said they believe that testing the access
 web content and mobile apps imposes an undue burden. However, another commenter
 opined that improving web code is unlikely to pose a fundamental alteration in most
 cases.
+
 Whether the undue burdens limitation applies is a fact-specific assessment that involves
 considering a variety of factors. For example, some small towns have minimal
 operating budgets measured in the thousands or tens of thousands of dollars. If such a
@@ -9192,27 +9087,23 @@ impose an undue burden on the town to make its historical materials accessible w
 certain time frame, the town would still need to take any other action that would not
 result in such a burden but would nevertheless ensure that individuals with disabilities
 receive the benefits or services provided by the town to the maximum extent possible.
+
 Application of the fundamental alteration limitation is similarly fact specific. For
 example, a county library might hold an art contest in which elementary school students
 submit alternative covers for their favorite books and library goers view and vote on the
-submissions on the library website. It would likely be a fundamental alteration to require
-209 See §§ 35.130(b)(7)(i), 35.150(a)(3), and 35.164. These regulatory provisions were also in the Department’s 1991
-regulations at 28 CFR 35.130(b)(7), 35.150(a)(3), and 35.164, respectively.
-210 See, e.g., U.S. Dep’t of Just., ADA Update: A Primer for State and Local Governments,
-https://www.ada.gov/resources/title-ii-primer/ [https://perma.cc/ZV66-EFWU] (Feb. 28, 2020).
-211 See §§ 35.130(b)(1)(ii) and (b)(7) and 35.160.
-
-the library to modify each piece of artwork so that any text drawn on the alternative
+submissions on the library website. It would likely be a fundamental alteration to require the library to modify each piece of artwork so that any text drawn on the alternative
 covers, such as the title of the book or the author’s name, satisfies the color contrast
 requirements in the technical standard.  Even so, the library would still be required to
 take any other action that would not result in such an alteration but would nevertheless
 ensure that individuals with disabilities could participate in the contest to the maximum
 extent possible.
+
 Because each assessment of whether the fundamental alteration or undue burdens
 limitations applies will vary depending on the entity, the time of the assessment, and
 various other facts and circumstances, the Department declines to adopt any rebuttable
 presumptions about when the fundamental alteration or undue burdens limitations
 would apply.
+
 One commenter proposed that the final regulations should specify factors that should be
 considered with respect to the undue burdens limitation, such as the number of website
 requirements that public entities must comply with and the budget, staff, and other
@@ -9223,6 +9114,7 @@ limitations apply in other contexts in title II. Also, as noted earlier, the Dep
 believes that generally, it would not constitute a fundamental alteration of a public
 entity’s services, programs, or activities to modify web content or mobile apps to make
 them accessible in compliance with subpart H of this part.
+
 The Department received a comment suggesting that the regulatory text should require
 a public entity claiming the undue burdens limitation to identify the inaccessible content
 at issue, set a reliable point of contact for people with disabilities seeking to access the
@@ -9235,19 +9127,14 @@ not result in such an alteration or such burdens but would nevertheless ensure t
 individuals with disabilities receive the benefits or services provided by the public entity
 to the maximum extent possible. 213 The Department believes it is important to apply
 these longstanding limitations in the same way to web content and mobile apps to
-ensure clarity for public entities and consistent enforcement of the ADA. In addition,
-implementing the commenter’s suggested approach would create additional
-costs for public entities. The Department nevertheless encourages public entities to
+ensure clarity for public entities and consistent enforcement of the ADA. **In addition, implementing the commenter’s suggested approach would create additional costs for public entities**. The Department nevertheless encourages public entities to
 engage in practices that would improve accessibility and ensure transparency when
 public entities seek to invoke the fundamental alteration or undue burdens limitations.
 For example, a public entity can provide an accessibility statement that informs the
 public how to bring web content or mobile app accessibility problems to the public
-
-212 See §§ 35.150(a)(3) and 35.164.
-213 See id.
-
 entity’s attention, and it can also develop and implement a procedure for reviewing and
 addressing any such issues raised.
+
 Some commenters raised concerns about the requirement in § 35.204 that the decision
 that compliance with subpart H of this part would result in a fundamental alteration or in
 undue financial or administrative burdens must be made by the head of a public entity
@@ -9265,8 +9152,8 @@ responsibility for making spending decisions.” 214 The Department reiterates t
 an existing concept in title II of the ADA, so public entities should be familiar with this
 requirement. The appropriate relevant official may vary depending on the public entity.
 
-Section 35.205 Effect of Noncompliance That Has a Minimal
-Impact on Access
+### Section 35.205 Effect of Noncompliance That Has a Minimal Impact on Access
+
 Section 35.205 sets forth when a public entity will be deemed to have complied with
 § 35.200 despite limited nonconformance to the technical standard. This provision
 adopts one of the possible approaches to compliance discussed in the NPRM. 215 As
@@ -9278,19 +9165,18 @@ need, ensuring the full and equal access to which individuals with disabilities 
 while allowing some flexibility for public entities if nonconformance to WCAG 2.1
 Level AA is so minimal as to not affect use of the public entity’s web content or mobile
 app.
-Discussion of Regulatory Text
+
+**Discussion of Regulatory Text**
+
 Section 35.205 describes a particular, limited circumstance in which a public entity will
 be deemed to have met the requirements of § 35.200 even though the public entity’s
 web content or mobile app does not perfectly conform to the technical standard set forth
 in § 35.200(b). Section 35.205 will apply if the entity can demonstrate that, although it
 was technically out of conformance to WCAG 2.1 Level AA (i.e., fails to exactly satisfy a
-success criterion or conformance requirement), the nonconformance has a minimal
-214 28 CFR part 35, appendix B, at 708 (2022).
-215 88 FR 51983.
-
-impact on access for individuals with disabilities, as defined in the regulatory text. If a
+success criterion or conformance requirement), the nonconformance has a minimal impact on access for individuals with disabilities, as defined in the regulatory text. If a
 public entity can make this showing, it will be deemed to have met its obligations under
 § 35.200 despite its nonconformance to WCAG 2.1 Level AA.
+
 Section 35.205 does not alter a public entity’s general obligations under subpart H of
 this part nor is it intended as a blanket justification for a public entity to avoid conforming
 with WCAG 2.1 Level AA from the outset. Rather, § 35.205 is intended to apply in rare
@@ -9313,6 +9199,7 @@ its legal obligations. Section 35.205 also does not alter existing ADA enforceme
 mechanisms. Individuals can file complaints, and agencies can conduct investigations
 and compliance reviews, related to subpart H of this part the same way they would for
 any other requirement under title II. 216
+
 As the text of the provision indicates, the burden of demonstrating applicability of
 § 35.205 is on the public entity. The provision will only apply in the limited circumstance
 in which the public entity can demonstrate that all of the criteria described in § 35.205
@@ -9330,14 +9217,12 @@ individuals with disabilities as outlined in subsequent paragraphs. Therefore, i
 not be sufficient for a public entity to show only that it has not received any complaints
 regarding the nonconformance; nor would it likely be enough if the public entity only
 pointed to a few particular individuals with disabilities who were unaffected by the
-nonconformance. The public entity must show that the nonconformance is of a nature
-216 See §§ 35.170 through 35.190.
-
-that would not affect people whose disabilities are pertinent to the nonconformance at
+nonconformance. The public entity must show that the nonconformance is of a nature that would not affect people whose disabilities are pertinent to the nonconformance at
 issue, just as the analysis under other parts of the title II regulation depends on the
 barrier at issue and the access needs of individuals with disabilities pertinent to that
 barrier. 217 For example, people with hearing or auditory processing disabilities, among
 others, have disabilities pertinent to captioning requirements.
+
 With respect to the particular criteria that a public entity must satisfy, § 35.205 describes
 both what people with disabilities must be able to use the public entity’s web content or
 mobile apps to do and the manner in which people with disabilities must be able to do it.
@@ -9359,6 +9244,7 @@ can be achieved. Rather, a public entity must also demonstrate that, even though
 web content or mobile app does not conform to the technical standard, the user
 experience for individuals with disabilities is substantially equivalent to the experience of
 individuals without disabilities.
+
 For example, if a State’s online renewal form does not conform to WCAG 2.1 Level AA,
 a person with a manual dexterity disability may need to spend significantly more time to
 renew their professional license online than someone without a disability. This person
@@ -9376,7 +9262,6 @@ forth in subpart H of this part. The public entity must show that its nonconform
 would not affect the ability of individuals with pertinent disabilities to use the web
 content or mobile app in a manner that provides substantially equivalent timeliness,
 privacy, independence, and ease of use.
-217 Cf., e.g., §§ 35.130(b)(1)(iv) and (b)(8) and 35.160.
 
 Paragraphs (a) through (d) of § 35.205 describe what people with disabilities must be
 able to use the public entity’s web content or mobile apps to do in a manner that is
@@ -9399,6 +9284,7 @@ of, for example, most people with vision disabilities to access information that
 would be able to access if the content fully conformed with the technical standard.
 However, the entity must always demonstrate that this element is met with respect to
 the specific facts of the nonconformance at issue.
+
 Second, § 35.205(b) states that individuals with disabilities must be able to engage in
 the same interactions as individuals without disabilities. This means that people with
 disabilities can interact with the web content or mobile app in all of the same ways that
@@ -9416,14 +9302,6 @@ unlikely to affect the ability of people with these types of disabilities to eng
 interactions. Still, the public entity must always demonstrate that this element is met
 with respect to the specific facts of the nonconformance at issue.
 
-218 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 1.4.3 Contrast (Minimum) (June
-5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#contrast-minimum [https://perma.cc/4XS3-
-AX7W].
-219 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 1.4.12 Text Spacing (June 5,
-2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#text-spacing [https://perma.cc/B4A5-843F].
-220 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 2.2.1 Timing Adjustable (June 5,
-2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#timing-adjustable [https://perma.cc/V3XZ-KJDG].
-
 Third, pursuant to § 35.205(c), individuals with disabilities must be able to conduct the
 same transactions as individuals without disabilities. This means that people with
 disabilities can complete all of the same transactions on the web content or mobile app
@@ -9440,6 +9318,7 @@ conformance to this Success Criterion is required by WCAG 2.1 Level AA, a fail
 conform to this Success Criterion is unlikely to affect the ability of people with disabilities
 to conduct transactions. However, the entity must always demonstrate that this element
 is met with respect to the specific facts of the nonconformance at issue.
+
 Fourth, § 35.205(d) requires that individuals with disabilities must be able to otherwise
 participate in or benefit from the same services, programs, and activities as individuals
 without disabilities. Section 35.205(d) is intended to address anything else within the
@@ -9450,25 +9329,20 @@ or mobile app. Section 35.205(d) should be construed broadly to ensure that the 
 of individuals with disabilities to use any part of the public entity’s web content or mobile
 app that individuals without disabilities are able to use is not affected by
 nonconformance to the technical standard.
-Explanation of Changes from Language Discussed in the NPRM
+
+**Explanation of Changes from Language Discussed in the NPRM**
 
 The regulatory language codified in § 35.205 is very similar to language discussed in
 the NPRM’s preamble. 223 However, the Department believes it is helpful to explain
 differences between that discussion in the NPRM and the final rule. The Department
 has only made three substantive changes to the NPRM’s relevant language.
+
 First, though the NPRM discussed excusing noncompliance that “does not prevent”
 equal access, § 35.205 excuses noncompliance that “would not affect” such access.
 The Department was concerned that the use of “does not” could have been incorrectly
 read to require a showing that a specific individual did not have substantially equivalent
 access to the web content or mobile app. In changing the language to “would not,” the
-Department clarifies that the threshold requirements for bringing a challenge to
-221 W3C, Understanding SC 4.1.1: Parsing (Level A),
-https://www.w3.org/WAI/WCAG21/Understanding/parsing.html [https://perma.cc/5Z8Q-GW5E] (June 20, 2023).
-222 W3C, WCAG 2 FAQ, How and why is success criteria 4.1.1 Parsing obsolete?,
-https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411 [https://perma.cc/7Q9H-JVSZ] (Oct. 5, 2023).
-223 88 FR 51983.
-
-compliance under subpart H of this part are the same as under any other provision of
+Department clarifies that the threshold requirements for bringing a challenge to compliance under subpart H of this part are the same as under any other provision of
 the ADA. Except as otherwise required by existing law, a rebuttal of a public entity’s
 invocation of this provision would not need to show that a specific individual did not
 have substantially equivalent access to the web content or mobile app. Rather, the
@@ -9478,6 +9352,7 @@ a substantially equivalent manner. The same principles would apply to informal d
 resolution or agency investigations resolved outside of court, for example. Certainly, the
 revised standard would encompass a barrier that actually does affect a specific
 individual’s access, so this revision does not narrow the provision.
+
 Second, the Department originally proposed considering whether nonconformance
 “prevent[s] a person with a disability” from using the web content or mobile app, but
 § 35.205 instead considers whether nonconformance would “affect the ability of
@@ -9500,6 +9375,7 @@ sufficient to prove a violation. Only nonconformance that would affect the abili
 individuals with disabilities to do the activities in § 35.205(a) through (d) in a way that
 provides substantially equivalent timeliness, privacy, independence, and ease of use
 would prevent a public entity from relying on this provision.
+
 Third, the language proposed in the NPRM considered whether a person with a
 disability would have substantially equivalent “ease of use.” The Department believed
 that timeliness, privacy, and independence were all components that affected whether
@@ -9509,8 +9385,6 @@ persuaded that these factors warrant separate inclusion and emphasis as aspects 
 user experience that must be substantially equivalent. This specificity ensures clarity
 for public entities, individuals with disabilities, Federal agencies, and courts about how
 to analyze an entity’s invocation of this provision.
-
-224 Id.
 
 Therefore, the Department has added additional language to clarify that timeliness,
 privacy, and independence are all important concepts to consider when evaluating
@@ -9533,36 +9407,32 @@ for consideration of other ways in which nonconformance would make the experienc
 users with disabilities more difficult or burdensome than the experience of users without
 disabilities in specific scenarios.
 
-Justification for This Provision
+**Justification for This Provision**
+
 After carefully considering the various public comments received, the Department
 believes that a tailored approach is needed for measuring compliance with a technical
 standard in the digital space. The Department also believes that the compliance
 framework adopted in § 35.205 is preferable to any available alternatives because it
 strikes the most appropriate balance between equal access for individuals with
 disabilities and feasibility for public entities.
-The Need to Tailor a Compliance Approach for the Digital Space
+
+***The Need to Tailor a Compliance Approach for the Digital Space***
+
 Most of the commenters who addressed the question of what approach subpart H of
 this part should take to assessing compliance provided information that supported the
 Department’s decision to tailor an approach for measuring compliance that is specific to
 the digital space (i.e., an approach that differs from the approach that the Department
 has taken for physical access). Only a few commenters believed that the Department
 should require 100 percent conformance to WCAG 2.1 Level AA, as is generally
-required for newly constructed facilities. 227 Commenters generally discussed two
-
-225 Section 35.160(b)(2).
-226 See, e.g., W3C, Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 2.3.1. Three Flashes or
-Below Threshold (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#three-flashes-or-below-
-threshold [https://perma.cc/A7P9-WCQY] (addressing aspects of content design that could trigger seizures or other
-physical reactions).
-227 Section 35.151(a) and (c).
-
-reasons why a different approach was appropriate: differences between the physical
+required for newly constructed facilities. 227 Commenters generally discussed two reasons why a different approach was appropriate: differences between the physical
 and digital space and increased litigation risk.
+
 First, many commenters, including commenters from State and local government
 entities and trade groups representing public accommodations, emphasized how the
 built environment differs from the digital environment. These commenters agreed with
 the Department’s suggestion in the NPRM that the dynamic and interconnected nature
 of web content and mobile apps could present unique challenges for compliance. 228
+
 Digital content changes much more frequently than buildings do. Every modification to
 web content or a mobile app could lead to some risk of falling out of perfect
 conformance to WCAG 2.1 Level AA. Public entities will need to address this risk much
@@ -9571,6 +9441,7 @@ access requirements, because web content and mobile apps are updated much more
 often than buildings are. By their very nature, web content and mobile apps can easily
 be updated often, while most buildings are designed to last for years, if not decades,
 without extensive updates.
+
 As such, State and local government entities trying to comply with their obligations
 under subpart H of this part will need to evaluate their compliance more frequently than
 they evaluate the accessibility of their buildings. But regular consideration of how any
@@ -9581,6 +9452,7 @@ mobile apps, the Department believes that it is likely to be more difficult for 
 local government entities to maintain perfect conformance to the technical standard set
 forth in subpart H than it is to comply with the ADA Standards. Commenters agreed
 that maintaining perfect conformance to the technical standard would be difficult.
+
 Web content and content in mobile apps are also more likely to be interconnected, such
 that updates to some content may affect the conformance of other content in
 unexpected ways, including in ways that may lead to technical nonconformance without
@@ -9589,16 +9461,14 @@ conformance, it would not necessarily be sufficient for public entities to confi
 conformance of their new content; they would also need to ensure that any updates do
 not affect the conformance of existing content. The same kind of challenge is unlikely to
 occur in physical spaces.
+
 Second, many commenters raised concerns about the litigation risk that requiring
 perfect conformance to WCAG 2.1 Level AA would pose. Commenters feared being
 subjected to a flood of legal claims based on any failure to conform to the technical
 standard, however minor, and regardless of the impact—or lack thereof—the
 nonconformance has on accessibility. Commenters agreed with the Department’s
 suggestion that due to the dynamic, complex, and interconnected nature of web content
-and mobile apps, a public entity’s web content and mobile apps may be more likely to
-228 88 FR 51981.
-
-be out of conformance to WCAG 2.1 Level AA than its buildings are to be out of
+and mobile apps, a public entity’s web content and mobile apps may be more likely to be out of conformance to WCAG 2.1 Level AA than its buildings are to be out of
 compliance with the ADA Standards, leading to increased legal risk. Some commenters
 even stated that 100 percent conformance to WCAG 2.1 Level AA would be
 unattainable or impossible to maintain. Commenters also agreed with the Department’s
@@ -9608,6 +9478,7 @@ that individual has not experienced any impact on access and the nonconformance
 would not affect others’ access, with the result that identifying instances of merely
 technical nonconformance to WCAG 2.1 Level AA is likely much easier than identifying
 merely technical noncompliance with the ADA Standards.
+
 Based on the comments it received, the Department believes that if it does not
 implement a tailored approach to compliance under subpart H of this part, the burden of
 litigation under subpart H could become particularly challenging for public entities,
@@ -9621,7 +9492,9 @@ percent conformance to WCAG 2.1 Level AA would not be the most prudent approac
 and that an entity’s compliance obligations can be limited under some narrow
 circumstances without undermining the objective of ensuring equal access to web
 content and mobile apps in subpart H.
-Reasons for Adopting This Compliance Approach
+
+***Reasons for Adopting This Compliance Approach***
+
 The Department has carefully considered many different approaches to defining when a
 State or local government entity has met its obligations under subpart H of this part. Of
 all the approaches considered—including those discussed in the NPRM as well as
@@ -9631,6 +9504,7 @@ for people with disabilities and ensuring feasibility for public entities, court
 agencies. The Department believes that the approach set forth in subpart H is
 preferable to all other approaches because it emphasizes actual access, is consistent
 with existing legal frameworks, and was supported by a wide range of commenters.
+
 Primarily, the Department has selected this approach because it appropriately focuses
 on the experience of individuals with disabilities who are trying to use public entities’
 web content or mobile apps. By looking at the effect of any nonconformance to the
@@ -9638,11 +9512,9 @@ technical standard, this approach will most successfully implement the ADA’s g
 “equality of opportunity” and “full participation.” 229 It will also be consistent with public
 entities’ existing regulatory obligations to provide individuals with disabilities with an
 equal opportunity to participate in and benefit from their services, obtain the same
-result, and gain the same benefit. 230 This approach ensures that nonconformance to the
-229 42 U.S.C. 12101(a)(7).
-
-technical standard can be addressed when it affects these core promises of equal
+result, and gain the same benefit. 230 This approach ensures that nonconformance to the technical standard can be addressed when it affects these core promises of equal
 access.
+
 The Department heard strong support from the public for ensuring that people with
 disabilities have equal access to the same services, programs, and activities as people
 without disabilities, with equivalent timeliness, privacy, independence, and ease of use.
@@ -9651,6 +9523,7 @@ of subpart H of this part should be to provide access to people with disabilitie
 functionally equivalent to the access experienced by people without disabilities. Other
 disability advocates stressed that technical compliance should not be prioritized over
 effective communication. Section 35.205 will help to achieve these goals.
+
 The Department believes that this approach will not have a detrimental impact on the
 experience of people with disabilities who are trying to use web content or mobile apps.
 By its own terms, § 35.205 would require a public entity to demonstrate that any
@@ -9663,6 +9536,7 @@ use the web content or mobile app in this manner, this provision will not apply,
 public entity will not have met its obligations under subpart H of this part. As noted
 earlier in this discussion, full conformance to WCAG 2.1 Level AA is the only definitive
 way for a public entity to avoid reliance on § 35.205.
+
 This provision would nonetheless provide public entities who have failed to conform to
 WCAG 2.1 Level AA with a way to avoid the prospect of liability for an error that is
 purely technical in nature and would not affect accessibility in practice. This will help to
@@ -9671,6 +9545,7 @@ insignificant. However, § 35.205 is intended to apply in rare circumstances an
 require a detailed analysis of the specific facts surrounding the impact of each alleged
 instance of nonconformance. As noted earlier, the Department does not expect or
 intend that § 35.205 will excuse most nonconformance to the technical standard.
+
 The Department also believes this approach is preferable to the other approaches
 considered because it is likely to be familiar to people with disabilities and public
 entities, and this general consistency with title II’s regulatory framework
@@ -9679,13 +9554,7 @@ in this discussion) has important benefits. The existing regulatory framework si
 requires public entities to provide equal opportunity to participate in or benefit from
 services, programs, or activities; 231 equal opportunity to obtain the same result; 232 full and
 equal enjoyment of services, programs, and activities; 233 and communications with
-people with disabilities that are as effective as communications with others, which
-230 See § 35.130(b)(1)(ii) and (iii).
-231 Id. §§ 35.130(b)(1)(ii) and 35.160(b)(1).
-232 Id. § 35.130(b)(1)(iii).
-233 Id. § 35.130(b)(8).
-
-includes consideration of timeliness, privacy, and independence. 234 The 1991 and 2010
+people with disabilities that are as effective as communications with others, which includes consideration of timeliness, privacy, and independence. 234 The 1991 and 2010
 ADA Standards also allow designs or technologies that result in substantially equivalent
 accessibility and usability. 235 Because of the consistency between § 35.205 and existing
 law, the Department does not anticipate that the requirements for bringing challenges to
@@ -9698,6 +9567,7 @@ perfect conformance to WCAG 2.1 Level AA, the compliance approach established 
 provides a limited degree of flexibility to public entities without displacing this part’s
 guarantee of equal access for individuals with disabilities or upsetting the existing legal
 framework.
+
 Finally, this approach to compliance is preferable to the other approaches the
 Department considered because there was a notable consensus among public
 commenters supporting it. A wide range of commenters, including disability advocacy
@@ -9710,7 +9580,9 @@ approach, with several commenters proposing very similar regulatory language. Af
 considering the relative consensus among commenters, together with the other factors
 discussed herein, the Department has decided to adopt the approach to defining
 compliance that is set forth in § 35.205.
-Alternative Approaches Considered
+
+**Alternative Approaches Considered**
+
 In addition to the approach set forth in § 35.205, the Department also considered
 compliance approaches that would have allowed isolated or temporary interruptions to
 conformance; required a numerical percentage of conformance to the technical
@@ -9723,10 +9595,8 @@ taken, and other approaches suggested by commenters. After carefully weighing al
 these alternatives, the Department believes the compliance approach adopted in
 § 35.205 is the most appropriate framework for determining whether a State or local
 government entity has met its obligations under § 35.200.
-Isolated or Temporary Interruptions
-234 Id. § 35.160(a)(1) and (b).
-235 28 CFR part 36, appendix D, at 1000 (2022) (1991 ADA Standards); 36 CFR part 1191, appendix B, at 329
-(2022) (2010 ADA Standards).
+
+***Isolated or Temporary Interruptions***
 
 As the Department noted in the NPRM, 236 the current title II regulation does not prohibit
 isolated or temporary interruptions in service or access to facilities due to maintenance
@@ -9743,6 +9613,7 @@ isolated or temporary interruptions than there is in the physical space. Another
 commenter suggested that entities should prioritize emergency-related information by
 making sure they have alternative methods of communication in place in anticipation of
 isolated or temporary interruptions that prevent access to this content.
+
 The Department has considered all of the comments it received on this issue and,
 based on those comments and its own independent assessment, decided not to
 separately excuse an entity’s isolated or temporary noncompliance with § 35.200(b) due
@@ -9752,11 +9623,13 @@ WCAG 2.1 Level AA will depend on whether the isolated or temporary instance of
 nonconformance—as with any other nonconformance—would affect the ability of
 individuals with disabilities to use the public entity’s web content or mobile app in a
 substantially equivalent way.
+
 The Department believes it is likely that the approach set forth in § 35.205 reduces the
 need for a provision that would explicitly allow for instances of isolated or temporary
 noncompliance due to maintenance or repairs, while simultaneously limiting the
 negative impact of such a provision on individuals with disabilities. The Department
 believes this is true for two reasons.
+
 First, to the extent isolated or temporary noncompliance due to maintenance or repairs
 occur that affect web content or mobile apps, it logically follows from the requirements in
 subpart H of this part that these interruptions should generally result in the same impact
@@ -9768,16 +9641,13 @@ disabilities should be one and the same (with the rare exception of conforming a
 versions provided for in § 35.202). Therefore, the Department expects that isolated or
 temporary noncompliance due to maintenance or repairs generally will affect the ability
 of people with disabilities to use web content or mobile apps to the same extent it will
-affect the experience of people without disabilities. For example, if a website is
-236 88 FR 51981.
-237 See § 35.133(b).
-
-undergoing overnight maintenance and so an online form is temporarily unavailable, the
+affect the experience of people without disabilities. For example, if a website is undergoing overnight maintenance and so an online form is temporarily unavailable, the
 form would already conform to WCAG 2.1 Level AA, and so there would be no separate
 feature or form for individuals with disabilities that would be affected while a form for
 people without disabilities is functioning. In such a scenario, individuals with and
 without disabilities would both be unable to access web content, such that there would
 be no violation of subpart H of this part.
+
 Thus, the Department believes that a specific provision regarding isolated or temporary
 noncompliance due to maintenance or repairs is less necessary than it is for physical
 access. When there is maintenance to a feature that provides physical access, such as
@@ -9785,6 +9655,7 @@ a broken elevator, access for people with disabilities is particularly impacted.
 contrast, when there is maintenance to web content or mobile apps, people with and
 without disabilities will generally both be denied access, such that no one is denied
 access on the basis of disability.
+
 Second, even to the extent isolated or temporary noncompliance due to maintenance or
 repairs affects only an accessibility feature, that noncompliance may fit the parameters
 laid out in § 35.205 such that an entity will be deemed to have complied with its
@@ -9798,6 +9669,7 @@ temporary or isolated instance of nonconformance could affect the ability of ind
 with disabilities to use the web content with substantially equivalent ease of use,
 depending on the circumstances. As discussed in this section, this will necessarily be a
 fact-specific analysis.
+
 In addition to being less necessary than in the physical access context, the Department
 also believes a specific provision regarding isolated or temporary interruptions due to
 maintenance or repairs would have more detrimental incentives in the digital space by
@@ -9812,11 +9684,7 @@ physical materials break down. In contrast, the Department believes that, despit
 dynamic nature of web content and mobile apps, incorporating accessible design
 principles and best practices will generally enable public entities to anticipate and avoid
 many instances of isolated or temporary noncompliance due to maintenance or
-repairs—including many isolated or temporary instances of noncompliance that would
-238 See 28 CFR part 35, appendix B, at 705 (2022) (providing that it is impossible to guarantee that mechanical
-devices will never fail to operate).
-
-have such a significant impact that they would affect people with disabilities’ ability to
+repairs—including many isolated or temporary instances of noncompliance that would have such a significant impact that they would affect people with disabilities’ ability to
 use web content or mobile apps in a substantially equivalent way. Some of these best
 practices, such as regular accessibility testing and remediation, would likely be needed
 for public entities to comply with subpart H of this part regardless of whether the
@@ -9827,7 +9695,9 @@ a way that is often impossible in physical spaces. The Department declines to ad
 limitation for isolated or temporary interruptions due to maintenance or repairs. Such a
 limitation may disincentivize public entities from implementing processes that could
 prevent many interruptions from affecting substantially equivalent access.
-Numerical Approach
+
+***Numerical Approach***
+
 The Department considered requiring a certain numerical percentage of conformance to
 the technical standard. This percentage could be a simple numerical calculation based
 on the number of instances of nonconformance across the public entity’s web content or
@@ -9847,6 +9717,7 @@ subpart H of this part to ensure equal access to State and local government enti
 web content and mobile apps. Commenters also agreed with the Department that a
 percentage-based standard would be difficult to implement because percentages would
 be challenging to calculate.
+
 Based on the public comments it received about this framework, which overwhelmingly
 agreed with the concerns the Department raised in the NPRM, the Department
 continues to believe that adopting a percentage-based approach is not feasible. The
@@ -9856,14 +9727,13 @@ suggested a framework for implementing this approach (i.e., the percentage of
 conformance that should be adopted or how that percentage should be calculated).
 Based on the very limited information provided in support of a percentage-based
 approach submitted from commenters, as well as the Department’s independent
-assessment, it would be challenging for the Department to articulate a sufficient
-239 88 FR 51982–51983.
-
-rationale for choosing a particular percentage of conformance or creating a specific
+assessment, it would be challenging for the Department to articulate a sufficient rationale for choosing a particular percentage of conformance or creating a specific
 conformance formula. Nothing submitted in public comments meaningfully changed the
 Department’s previous concerns about calculating a percentage or specifying a formula.
 For all of the reasons discussed, the Department declines to adopt this approach.
-Policy-Based Approach
+
+***Policy-Based Approach***
+
 The Department also considered allowing a public entity to demonstrate compliance
 with subpart H of this part by affirmatively establishing and following certain robust
 policies and practices for accessibility feedback, testing, and remediation. Under this
@@ -9892,6 +9762,7 @@ conformance; documentation of contracting and procurement practices; adopting
 specific procurement practices; setting certain budgets or staffing requirements;
 developing statewide panels of accessibility experts; and making accessibility policies,
 feedback, reports, or scorecards publicly available.
+
 The Department declines to adopt a policy-based approach because, based on the wide
 range of policies and practices proposed by commenters, there is not a sufficient
 rationale that would justify adopting any specific set of accessibility policies in the
@@ -9899,10 +9770,7 @@ generally applicable regulation in subpart H of this part. Many of the policies
 commenters suggested would require the Department to dictate particular details of all
 public entities’ day-to-day operations in a way the Department does not believe is
 appropriate or sufficiently justified to do in subpart H. There was no consensus among
-commenters about what policies would be sufficient, and most commenters did not
-240 Id. at 51983–51984.
-
-articulate a specific basis supporting why their preferred policies were more appropriate
+commenters about what policies would be sufficient, and most commenters did not articulate a specific basis supporting why their preferred policies were more appropriate
 than any other policies. In the absence of more specific rationales or a clearer
 consensus among commenters or experts in the field about what policies would be
 sufficient, the Department does not believe it is appropriate to prescribe what specific
@@ -9913,6 +9781,7 @@ policies would be unsupported by sufficient evidence that these policies will en
 accessibility, which could cause significant harm. It would allow public entities to comply
 with their legal obligations under subpart H based on policies alone, even though those
 policies may fail to provide equal access to online services, programs, or activities.
+
 The Department also declines to adopt a policy-based approach that would rely on the
 type of general, flexible policies supported by some commenters, in which the
 sufficiency of public entities’ policies would vary depending on the factual
@@ -9927,7 +9796,9 @@ general obligations, without conforming to the technical standard or ensuring ac
 The Department has heard State and local government entities’ desire for increased
 clarity about their legal obligations, and adopting a flexible standard would not address
 that need.
-Organizational Maturity
+
+***Organizational Maturity***
+
 Another compliance approach that the Department considered would have allowed an
 entity to demonstrate compliance with subpart H of this part by showing organizational
 maturity (i.e., that the organization has a sufficiently robust program for web and mobile
@@ -9936,19 +9807,17 @@ conformance testing evaluates the accessibility of a particular website or mobil
 a specific point in time, organizational maturity evaluates whether an entity has
 developed the infrastructure needed to produce accessible web content and mobile
 apps consistently. 241
+
 Commenters, including disability advocacy organizations, State and local government
 entities, trade groups representing public accommodations, and accessibility experts
 were largely opposed to using an organizational maturity approach to evaluate
 compliance. Notably, one of the companies that developed an organizational maturity
 model the Department discussed in the NPRM did not believe that an organizational
-maturity model was an appropriate way to assess compliance. Other commenters who
-241 Id. at 51984; see also W3C, Accessibility Maturity Model: Group Draft Note, § 1.1: About the Accessibility
-Maturity Model (Dec. 15, 2023), https://www.w3.org/TR/maturity-model/ [https://perma.cc/UX4X-J4MF].
-
-stated that they supported the organizational maturity approach also seemed to be
+maturity model was an appropriate way to assess compliance. Other commenters who stated that they supported the organizational maturity approach also seemed to be
 endorsing organizational maturity as a best practice rather than a legal framework,
 expressing that it was not an appropriate substitute for conformance to a technical
 standard.
+
 Misunderstandings about what an organizational maturity framework is and how the
 Department was proposing to use it that were evident in several comments also
 demonstrated that the organizational maturity approach raised in the NPRM was not
@@ -9959,6 +9828,7 @@ consideration of organizational maturity as only recommending a best practice, e
 though the Department was considering it as legal requirement. Comments like these
 indicate that the organizational maturity approach the Department considered to
 measure compliance would be confusing to the public if adopted.
+
 Among commenters that supported the organizational maturity approach, there was no
 consensus about how organizational maturity should be defined or assessed, or what
 level of organizational maturity should be sufficient to demonstrate compliance with
@@ -9972,6 +9842,7 @@ Department at this time. As with the policy-based approach discussed previously 
 appendix, if the Department were to allow public entities to define their own
 organizational maturity approach instead of adopting one specific model, this would not
 provide sufficient predictability or certainty for people with disabilities or public entities.
+
 The Department also declines to adopt this approach because commenters did not
 provide—and the Department is not aware of—information or data to suggest that
 increased organizational maturity reliably resulted in increased conformance to
@@ -9979,15 +9850,14 @@ WCAG 2.1 Level AA. Like the policy-based approach discussed previously in this
 appendix, if the Department were to adopt an organizational maturity approach that was
 not sufficiently rigorous, public entities would be able to comply with subpart H of this
 part without providing equal access. This would undermine the purpose of the part.
-Other Federal, International, and State Approaches
+
+***Other Federal, International, and State Approaches***
+
 The Department also considered approaches to measuring compliance that have been
 used by other agencies, other countries or international organizations, and States, as
 discussed in the NPRM. 242 As to other Federal agencies’ approaches, the Department
 has decided not to adopt the Access Board’s standards for section 508 compliance for
-the reasons discussed in § 35.200 of the section-by-section analysis regarding the
-242 88 FR 51980–51981.
-
-technical standard. The Section 508 Standards require full conformance to WCAG 2.0
+the reasons discussed in § 35.200 of the section-by-section analysis regarding the technical standard. The Section 508 Standards require full conformance to WCAG 2.0
 Level AA, 243 but the Department has determined that requiring perfect conformance to
 the technical standard set forth in subpart H of this part would not be appropriate for the
 reasons discussed elsewhere in this appendix. Perfect conformance is less appropriate
@@ -9998,6 +9868,7 @@ reasons stated in the section-by-section analysis of § 35.200 regarding compli
 frame alternatives, the Department also declines to adopt the tiered approach that the
 Department of Transportation took in its regulation on accessibility of air carrier
 websites, which required certain types of content to be remediated more quickly. 244
+
 The Department has also determined that none of the international approaches to
 evaluating compliance with web accessibility laws that were discussed in the NPRM are
 currently feasible to adopt in the United States. 245 The methodologies used by the
@@ -10019,21 +9890,13 @@ the Department will continue to investigate complaints and enforce the ADA, give
 constraints on its resources and the large number of entities within its purview to
 investigate, the Department is unable to guarantee that it will conduct a specific amount
 of enforcement under subpart H of this part on a particular schedule.
+
 The Department has considered many States’ approaches to assessing compliance
 with their web accessibility laws 247 and declines to adopt these laws at the Federal level.
 State laws like those in Florida, Illinois, and Massachusetts, which do not specify how
 compliance will be measured or how entities can demonstrate compliance, are
 essentially requiring 100 percent compliance with a technical standard. This approach
-is not feasible for the reasons discussed earlier in this section. In addition, this
-243 36 CFR 1194.1; id. at part 1194, appendix A, section E205.4.
-244 See 14 CFR 382.43.
-245 88 FR 51980.
-246 See § 35.172(b) and (c) (describing the process for compliance reviews). As noted, however, the Department is
-unable to guarantee that it will conduct a specific amount of enforcement under subpart H of this part on a particular
-schedule.
-247 88 FR 51980–51981.
-
-approach is not feasible because of the large number and wide variety of public entities
+is not feasible for the reasons discussed earlier in this section. In addition, this approach is not feasible because of the large number and wide variety of public entities
 covered by the ADA, as compared with the relatively limited number of State agencies
 in a given State. Laws like California’s, which require entities covered by California’s
 law to certify or post evidence of compliance, would impose administrative burdens on
@@ -10050,6 +9913,7 @@ guidance, and further stated that testing methodologies are more appropriate for
 guidance. The Department agrees and believes State and local government entities are
 best suited to determine how they will comply with the technical standard, depending on
 their needs and resources.
+
 The Department also declines to adopt a model like the one used in Texas, which
 requires State agencies to, among other steps, conduct tests with one or more
 accessibility validation tools, establish an accessibility policy that includes criteria for
@@ -10061,6 +9925,7 @@ Department is unable to calibrate requirements that provide sufficient predictab
 certainty for every public entity while maintaining sufficient flexibility. The Department
 declines to adopt an approach like Texas’s for the same reasons it declined to adopt a
 policy-based approach.
+
 Commenters suggested a few additional State and international approaches to
 compliance that were not discussed in the NPRM. Though the Department reviewed
 and considered each of these approaches, it finds that they are not appropriate to adopt
@@ -10069,18 +9934,9 @@ standard 251 require agencies to develop policies and processes to ensure compli
 with the technical standard, including implementing and maintaining accessibility plans.
 As with Texas’s law and a more general policy-based approach, which are both
 discussed elsewhere in this appendix, Washington’s approach would not provide
-sufficient specificity and certainty to ensure conformance to a technical standard in the
-248 See Public Law 104–121, sec. 212, 110 Stat. at 858.
-249 1 Tex. Admin. Code secs. 206.50, 213.21 (West 2023).
-250 Wash. Tech. Sols., Policy 188 – Accessibility, https://watech.wa.gov/sites/default/files/2023-
-09/188_Accessibility_2019_AS%2520v3%2520Approved.docx. A Perma archive link was unavailable for this
-citation.
-251 Wash. Tech. Sols., Standard 188.10 – Minimum Accessibility Standard,
-https://watech.wa.gov/sites/default/files/2023-09/188.10_Min_Std_2019_AS_Approved_03102020_1.docx. A
-Perma archive link was unavailable for this citation.
-
-context of the title II regulatory framework that applies to a wide range of public entities;
+sufficient specificity and certainty to ensure conformance to a technical standard in the context of the title II regulatory framework that applies to a wide range of public entities;
 however, this is one approach to achieving conformance that entities could consider.
+
 Additionally, one commenter suggested that the Department look to the Accessibility for
 Ontarians with Disabilities Act 252 and consider taking some of the steps to ensure
 compliance that the commenter states Ontario has taken. Specifically, the commenter
@@ -10096,6 +9952,7 @@ Department also declines to require State and local government entities to adopt
 accessibility advisory councils because, like training, this would be part of a policy-
 based compliance approach. However, public entities remain free to do so if they
 choose.
+
 Finally, a coalition of State Attorneys General described how their States’ agencies
 currently determine whether State websites and other technology are accessible, and
 suggested that the Department incorporate similar practices into its compliance
@@ -10116,14 +9973,13 @@ enforcement, the Department is not currently equipped to develop and distribute
 accessibility testing software like some States have done. State and local government
 entities may wish to consider adopting practices similar to the ones commenters
 described even though subpart H does not require them to do so.
-Other Approaches Suggested by Commenters
 
-252 Accessibility for Ontarians With Disabilities Act, 2005, S.O. 2005, c. 11 (Can.),
-https://www.ontario.ca/laws/statute/05a11 [https://perma.cc/V26B-2NSG].
+***Other Approaches Suggested by Commenters***
 
 Commenters also suggested many other approaches the Department should take to
 assess and ensure compliance with subpart H of this part. The Department has
 considered all of the commenters’ suggestions and declines to adopt them at this time.
+
 First, commenters suggested that public entities should be permitted to provide what
 they called an “accommodation” or an “equally effective alternative method of access”
 when web content or mobile apps are not accessible. Under the approach these
@@ -10146,6 +10002,7 @@ offered via the web and mobile apps. 254 One of the goals of the ADA also includ
 reducing segregation. 255 Accordingly, it is important for individuals with disabilities to
 have access to the same platforms as their neighbors and friends at the same time, and
 the commenters’ proposal would not achieve that objective.
+
 Second, commenters suggested a process, which is sometimes referred to as “notice
 and cure,” by which a person with a disability who cannot access web content or a
 mobile app would need to notify the public entity that their web content or mobile app
@@ -10161,10 +10018,6 @@ in section III.B and C of the preamble to the final rule, public entities should
 on notice of their obligations. If they are not, the final rule unquestionably puts them on
 notice.
 
-253 Section 35.130(b)(7) and 35.160.
-254 42 U.S.C. 12132.
-255 42 U.S.C. 12101(a)(2) and (5).
-
 Third, commenters suggested a flexible approach to compliance that would only require
 substantial compliance, good faith effort, reasonable efforts, or some similar concept
 that would allow the meaning of compliance to vary too widely depending on the
@@ -10174,6 +10027,7 @@ adopt this approach because it does not believe such an approach would provide
 sufficient certainty or predictability to State and local government entities or individuals
 with disabilities. Such an approach would undermine the benefits of adopting a
 technical standard.
+
 The Department has already built a series of mechanisms into subpart H of this part that
 are designed to make it feasible for public entities to comply, including the delayed
 compliance dates in § 35.200(b), the exceptions in § 35.201, the conforming alternate
@@ -10187,6 +10041,7 @@ would often allow public entities’ mere attempts to achieve compliance to subs
 access. The Department declines to adopt more flexibility than it already has because it
 finds that doing so would come at too great a cost to accessibility and to the clarity of
 the obligations in subpart H.
+
 Fourth, several commenters proposed a multi-factor or tiered approach to compliance.
 For example, one commenter suggested a three-tiered system where after one failed
 accessibility test the public entity would investigate the problem, after multiple instances
@@ -10202,6 +10057,7 @@ complex for public entities to understand and for the Department to administer. 
 also be extremely challenging for the Department to define the parameters for such an
 approach with an appropriate level of precision and a sufficiently well-reasoned
 justification.
+
 Finally, many commenters proposed approaches to compliance that would expand the
 Department’s role. Commenters suggested that the Department grant exceptions to the
 requirements in subpart H of this part on a case-by-case basis; specify escalating
@@ -10226,6 +10082,7 @@ allocation of the Department’s current resources, it does not believe that adm
 advisory committees would be the best use of its resources. The Department also lacks
 the resources and technical expertise to develop and distribute accessibility testing
 software.
+
 The Department will issue a small entity compliance guide 257 and will continue to
 consider what additional guidance or training it can provide that will assist public entities
 in complying with their obligations. However, the Department believes that so long as
@@ -10239,19 +10096,13 @@ Resources for training are also already available. 259 State and local governmen
 do not need to wait for the Department’s guidance before consulting with technical
 experts and using resources that already exist.
 
-Public Comments on Other Issues in Response to the NPRM
+**Public Comments on Other Issues in Response to the NPRM**
+
 The Department received comments on a variety of other issues in response to the
 NPRM. The Department responds to the remaining issues not already addressed in
 this Section-by-Section Analysis.
-Scope
 
-256 See 42 U.S.C. 12188(b)(2)(C) (allowing civil penalties under title III); see also 28 CFR 36.504(a)(3) (updating the
-civil penalty amounts).
-257 See Public Law 104–121, sec. 212, 110 Stat. at 858.
-258 See, e.g., W3C, Evaluating Web Accessibility Overview, https://www.w3.org/WAI/test-evaluate/
-[https://perma.cc/6RDS-X6AR] (Aug. 1, 2023).
-259 See, e.g., W3C, Digital Accessibility Foundations Free Online Course,
-https://www.w3.org/WAI/courses/foundations-course/ [https://perma.cc/KU9L-NU4H] (Oct. 24, 2023).
+***Scope***
 
 The Department received some comments that suggested that the Department should
 take actions outside the scope of the rulemaking to improve accessibility for people with
@@ -10266,6 +10117,7 @@ sensitivity. While the Department recognizes that these are important accessibil
 issues to people with disabilities across the country, they are outside of the scope of
 subpart H of this part, which focuses on web and mobile app accessibility under title II.
 Accordingly, these issues are not addressed in detail in subpart H.
+
 The Department also received comments recommending that this part cover a broader
 range of technology in addition to web content and mobile apps, including technologies
 that may be developed in the future. The Department declines to broaden this part in
@@ -10281,6 +10133,7 @@ engaging with the public and stakeholders about web and mobile app accessibility
 determined that it was appropriate to prioritize regulating in that area. However, State
 and local government entities have existing obligations under title II of the ADA with
 respect to services, programs, and activities offered through other types of technology. 260
+
 Another commenter suggested that the rulemaking should address operating systems.
 The commenter also suggested clarifying that public entities are required to ensure web
 content and mobile apps are accessible, usable, and interoperable with assistive
@@ -10291,12 +10144,11 @@ and the section-by-section analysis of § 35.104, subpart H of this part focuses
 content and mobile apps. The Department also clarified in the section-by-section
 analysis of § 35.200 why it believes WCAG 2.1 Level AA is the appropriate technical
 standard for subpart H.
-Coordination with Other Federal and State Entities
-One commenter asked if the Department has coordinated with State governments and
-other Federal agencies that are working to address web and mobile app accessibility to
-260 See §§ 35.130(b)(1)(ii) and (b)(7) and 35.160.
 
-ensure there is consistency with other government accessibility requirements. Subpart
+***Coordination with Other Federal and State Entities***
+
+One commenter asked if the Department has coordinated with State governments and
+other Federal agencies that are working to address web and mobile app accessibility to ensure there is consistency with other government accessibility requirements. Subpart
 H of this part is being promulgated under part A of title II of the ADA. The Department’s
 analysis and equities may differ from State and local government entities that may also
 interpret and enforce other laws addressing the rights of people with disabilities.
@@ -10311,10 +10163,12 @@ ensure that such implementation is consistent with title II of the ADA across th
 Government. 261 Accordingly, the Department will continue to work with other Federal
 agencies to ensure consistency with its interpretations in the final rule, in accordance
 with Executive Order 12250.
-Impact on State Law
-Some commenters discussed how this part might impact State law, including one
+
+***<u>Impact on State Law</u>***
+
+<u>Some commenters discussed how this part might impact State law, including one
 comment that asked how a public entity should proceed if it is subject to a State law that
-provides greater protections than this part. This part will preempt State laws affecting
+provides greater protections than this part</u>. This part will preempt State laws affecting
 entities subject to title II of the ADA only to the extent that those laws provide less
 protection for the rights of individuals with disabilities. 262 This part does not invalidate or
 limit the remedies, rights, and procedures of any State laws that provide greater or
@@ -10325,24 +10179,16 @@ those prescribed in subpart H of this part, provided that such alternatives resu
 substantially equivalent or greater accessibility and usability. Accordingly, for example,
 if a State law requires public entities in that State to conform to WCAG 2.2, nothing in
 subpart H would prevent a public entity from conforming with that standard.
-Preexisting Technology
+
+***Preexisting Technology***
+
 One public entity said that the Department should permit public entities to continue to
 use certain older technologies, because some public entities have systems that were
 developed several years ago with technologies that may not be able to comply with this
-part. The commenter also added that if a public entity is aware of the technical
-261 Memorandum for Federal Agency Civil Rights Directors and General Counsels, from Kristen Clarke, Assistant
-Attorney General, Civil Rights Division, U.S. Department of Justice, Re: Executive Order 12250 Enforcement and
-Coordination Updates (Jan. 20, 2023), https://www.justice.gov/media/1284016/dl?inline [https://perma.cc/AL6Q-
-QC57]; Memorandum for Federal Agency Civil Rights Directors and General Counsels, from John M. Gore, Acting
-Assistant Attorney General, Civil Rights Division, U.S. Department of Justice, Re: Coordination of Federal
-Agencies’ Implementation of Title II of the Americans with Disabilities Act and Section 504 of the Rehabilitation
-Act, Civil Rights Division, U.S. Department of Justice (Apr. 24, 2018),
-https://www.justice.gov/crt/page/file/1060321/download [https://perma.cc/9Q98-BVU2].
-262 See 42 U.S.C. 12201.
-
-difficulties or need for remediation in relation to recent maintenance, updates, or repairs,
+part. The commenter also added that if a public entity is aware of the technical difficulties or need for remediation in relation to recent maintenance, updates, or repairs,
 more leniency should be given to the public entity with respect to the compliance time
 frame.
+
 The Department believes it has balanced the need to establish a workable standard for
 public entities with the need to ensure accessibility for people with disabilities in many
 ways, such as by establishing delayed compliance dates to give public entities time to
@@ -10357,13 +10203,17 @@ Finally, the Department discussed isolated or temporary interruptions in § 35.
 section-by-section analysis, where it explained its decision not to separately excuse an
 entity’s isolated or temporary noncompliance with § 35.200 due to maintenance or
 repairs.
-Overlays
+
+***Overlays***
+
 Several comments expressed concerns about public entities using accessibility overlays
 and automated checkers. 263 Subpart H of this part sets forth a technical standard for
 public entities’ web content and mobile apps. Subpart H does not address the internal
 policies or procedures that public entities might implement to conform to the technical
 standard under subpart H.
-ADA Coordinator
+
+***ADA Coordinator***
+
 At least one commenter suggested that the Department should require public entities to
 hire an ADA Coordinator devoted specifically to web accessibility, similar to the
 requirement in the existing title II regulation at § 35.107(a). The Department believes it
@@ -10372,10 +10222,6 @@ their compliance with subpart H of this part. However, nothing in subpart H woul
 prohibit a public entity from appointing an ADA coordinator for web content and mobile
 apps if the public entity believes taking such an action would help it comply with subpart
 H.
-
-263 See W3C, Overlay Capabilities Inventory: Draft Community Group Report (Feb. 12,
-2024), https://a11yedge.github.io/capabilities/ [https://perma.cc/2762-VJEV]; see also W3C, Draft Web
-Accessibility Evaluation Tools List, https://www.w3.org/WAI/ER/tools/ [https://perma.cc/Q4ME-Q3VW] (last visited Feb. 12, 2024).
 
 {% footnotes %}
 {% fnbody 1 %}
