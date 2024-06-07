@@ -3762,7 +3762,7 @@ The Department added the first part to the definition of “archived web content
 considering all the comments it received. In the NPRM, the Department sought
 feedback about the archived web content exception, including whether there are
 alternatives to the exception that the Department should consider or additional
-limitations that should be placed on the exception. 1 Commenters suggested various
+limitations that should be placed on the exception.{% fn 1 %} Commenters suggested various
 ways to add a time-based limitation to the definition or exception. For example, some
 commenters suggested that archived content should be limited to content created or
 posted before a certain date, such as the date a public entity is required to comply with
@@ -3780,7 +3780,7 @@ sets an appropriate time-based limitation on the scope of content covered by the
 definition and exception that is consistent with the Department’s stated intent in the
 NPRM. In the NPRM, the Department explained that the definition of “archived web
 content” and the associated exception were intended to cover historic content that is
-outdated or superfluous. 2 The definition in § 35.104, which is based on whether the
+outdated or superfluous. {% fn 2 %} The definition in § 35.104, which is based on whether the
 relevant content was created before the date a public entity is required to comply with
 subpart H of this part, is now more aligned with, and better situated to implement, the
 Department’s intent to cover historic content. The Department believes it is appropriate
@@ -3820,7 +3820,7 @@ what is now the second part of the definition pertained to web content that is
 change or limit the coverage of the definition. Rather, the Department recognizes that
 the word “maintain” can have multiple relevant meanings. In some circumstances,
 “maintain” may mean “to continue in possession” of property, whereas in other
-circumstances it might mean “to engage in general repair and upkeep” of property. 3 The
+circumstances it might mean “to engage in general repair and upkeep” of property. {% fn 3 %} The
 Department uses the word “maintain” elsewhere in the title II regulation, at § 35.133(a),
 consistent with the latter definition. In contrast, the third part of the definition for
 “archived web content” specifies that content must not be altered or updated after the
@@ -3829,7 +3829,7 @@ but that is not what the Department intended to convey with its use of the word
 “maintained” in this provision. To avoid confusion about whether a public entity can alter
 or update web content after it is archived, the Department instead uses the word
 “retained,” which has a definition synonymous with the Department’s intended use of
-“maintain” in the NPRM. 4
+“maintain” in the NPRM. {% fn 5 %}
 
 Commenters raised concerns about several aspects of the definition of “archived web
 content.” With respect to the second part of the definition, commenters stated that the
@@ -4072,8 +4072,8 @@ discussed in the section-by-section analysis of § 35.204.
 With respect to the comment suggesting that it would be better to place images and
 multimedia in a separate and distinct category with a separate definition and relevant
 technical standards where needed to improve clarity, the Department notes that the
-WCAG standards were designed to be “technology neutral.” 6 This means that they are
-designed to be broadly applicable to current and future web technologies. 7 Accordingly,
+WCAG standards were designed to be “technology neutral.” {% fn 6 %} This means that they are
+designed to be broadly applicable to current and future web technologies. {% fn 7 %} Accordingly,
 the Department believes WCAG 2.1 Level AA is the appropriate standard for other file
 formats not included in the definition of “conventional electronic documents” because
 WCAG 2.1 was crafted to address those other file formats as well.
@@ -4136,11 +4136,11 @@ that do have such populations, their population sizes are unknown. A special dis
 government may include, for example, a mosquito abatement district, utility district,
 transit authority, water and sewer board, zoning district, or other similar governmental
 entity that may operate with administrative and fiscal independence. This definition is
-drawn in part from the U.S. Census Bureau definition 8 for purposes of setting a
+drawn in part from the U.S. Census Bureau definition {% fn 8 %} for purposes of setting a
 compliance time frame for a subset of public entities. It is not meant to alter the existing
 definition of “public entity” in § 35.104 in any way. The Department made one
 grammatical correction in this part to remove an extra “or” from the definition as
-proposed in the NPRM. 9 However, the substance of the definition is unchanged from
+proposed in the NPRM. {% fn 9 %} However, the substance of the definition is unchanged from
 the Department’s proposal in the NPRM.
 
 **“Total population”**
@@ -4165,8 +4165,8 @@ instrumentality or commuter authority. The total population for the National Rai
 Passenger Corporation as defined in this part is the population estimate for the United
 States as calculated by the United States Census Bureau in the most recent decennial
 Census. The terminology used in the definition of “total population” draws from the
-terminology used in the definition of “public entity” in title II of the ADA 10 and the existing
-title II regulation, 11 and all public entities covered under title II of the ADA are covered by
+terminology used in the definition of “public entity” in title II of the ADA {% fn 10 %} and the existing
+title II regulation, {% fn 11 %} and all public entities covered under title II of the ADA are covered by
 subpart H of this part. This part does not provide a method for calculating the total
 population of special district governments, because § 35.200 provides that all special
 district governments have three years following the publication of the final rule to begin
@@ -4184,7 +4184,7 @@ Income and Poverty Estimates. In recognition of the fact that some public entiti
 not have population estimates calculated by the United States Census Bureau, the
 preamble to the NPRM stated that if a public entity does not have a specific Census-
 defined population, but belongs to another jurisdiction that does, the population of the
-entity is determined by the population of the jurisdiction to which the entity belongs. 12
+entity is determined by the population of the jurisdiction to which the entity belongs. {% fn 12 %}
 Although the preamble included this clarification, the Department received feedback that
 the regulatory text of this definition did not make clear how to calculate total population
 for public entities that do not have populations calculated by the United States Census
@@ -4224,10 +4224,11 @@ by-section analysis of § 35.200, under the heading “Requirements by Entity S
 **“User agent”**
 
 The Department has added a definition for “user agent.” The definition exactly matches
-the definition of “user agent” in WCAG 2.1. 13 WCAG 2.1 includes an accompanying
+the definition of “user agent” in WCAG 2.1. {% fn 13 %} WCAG 2.1 includes an accompanying
 illustration, which clarifies that the definition of “user agent” means web browsers, media
 players, plug-ins, and other programs—including assistive technologies—that help in
-retrieving, rendering, and interacting with web content. 14
+retrieving, rendering, and interacting with web content. {% fn 14 %}
+
 The Department added this definition to this part to ensure clarity of the term “user
 agent,” now that the term appears in the definition of “web content.” As the Department
 explains further in discussing the definition of “web content” in this section-by-section
@@ -4257,7 +4258,7 @@ communicated to the user by means of a user agent, including code or markup that
 defines the content’s structure, presentation, and interactions. Examples of web
 content include text, images, sounds, videos, controls, animations, and conventional
 electronic documents. The first sentence of the Department’s definition of “web content”
-is aligned with the definition of “web content” in WCAG 2.1. 15 The second sentence of
+is aligned with the definition of “web content” in WCAG 2.1. {% fn 15 %} The second sentence of
 the definition gives examples of some of the different types of information and
 experiences available on the web. However, these examples are intended to illustrate
 the definition and not be exhaustive. The Department also notes that subpart H of this
@@ -4271,12 +4272,12 @@ proposed rule defined “web content” as information or sensory experience—i
 the encoding that defines the content’s structure, presentation, and interactions—that is
 communicated to the user by a web browser or other software. Examples of web
 content include text, images, sounds, videos, controls, animations, and conventional
-electronic documents. 16 In this part, the first sentence of this definition is revised to
+electronic documents. {% fn 16 %} In this part, the first sentence of this definition is revised to
 provide that web content is the information and sensory experience to be communicated
 to the user by means of a user agent, including code or markup that defines the
 content’s structure, presentation, and interactions. The sentence is now aligned with
 the WCAG 2.1 definition of web content (sometimes referred to as “content” by
-WCAG). 17 The Department has also added a definition of “user agent” in this part, as
+WCAG). {% fn 17 %} The Department has also added a definition of “user agent” in this part, as
 explained in the section-by-section analysis.
 
 The Department decided to more closely align the definition of “web content” in this part
@@ -4324,7 +4325,7 @@ The Department thus is limiting its rulemaking effort to web content and mobile 
 However, the Department notes that State and local government entities have existing
 accessibility obligations with respect to services, programs, or activities offered through
 other types of technology under title II of the Americans with Disabilities Act (“ADA”) or
-other laws. 18 For example, “closed” systems 19 may need to be made accessible in
+other laws. {% fn 18 %} For example, “closed” systems {% fn 19 %} may need to be made accessible in
 accordance with the existing title II regulation, as public entities have ongoing
 responsibilities to ensure effective communication, among other requirements.
 
@@ -4366,9 +4367,9 @@ presented through a user agent. Those commenters said that the Department’s
 definition of “web content” should not include files such as word processor documents,
 presentation documents, and spreadsheets, even if they are downloaded from the web. The commenters further suggested that this part should split consideration of electronic
 document files from web content, similar to the approach they stated is used in the
-section 508 standards. 20 The Department also reviewed suggestions from commenters
+section 508 standards. {% fn 20 %} The Department also reviewed suggestions from commenters
 that the Department rely on WCAG guidance explaining how to apply WCAG to non-
-web information and communications technologies 21 and the ISO 14289-1 (“PDF/UA1”) 22
+web information and communications technologies {% fn 21 %} and the ISO 14289-1 (“PDF/UA1”) {% fn 22 %}
 standard related to PDF files. However, other commenters argued that when electronic
 documents are viewed in the browser window, they generally are considered web
 content and should thus be held to the same standard as other types of web content.
@@ -4385,7 +4386,7 @@ for individuals with disabilities. The Department understands commenters’ conc
 mean that, in applying WCAG 2.1 to conventional electronic documents, not all success
 criteria may be applicable directly as written. Although the Department understands
 that some WCAG 2.1 Level AA success criteria may not apply as written to conventional
-electronic documents, 23 when public entities provide or make available web content and
+electronic documents, {% fn 23 %} when public entities provide or make available web content and
 content in mobile apps, public entities generally must ensure conformance to the
 WCAG 2.1 Level AA success criteria to the extent those criteria can be applied. In
 determining how to make conventional electronic documents conform to WCAG 2.1 Level AA, public entities may find it helpful to consult W3C’s guidance on non-web
@@ -4433,7 +4434,7 @@ consistent with the “Application” section of the existing title II regulatio
 which states that this part applies to all services, programs, and activities provided or
 made available by public entities. The Department therefore made minor changes to the language of § 35.200(a)(1) and (2) to make the section more consistent with § 35.102. In the NPRM, § 35.200(a)(1) and (2) applied to web content and mobile apps
 that a public entity makes available to members of the public or uses to offer services,
-programs, or activities to members of the public. 24 The Department revised
+programs, or activities to members of the public. {% fn 24 %} The Department revised
 § 35.200(a)(1) and (2) to apply to web content and mobile apps that a public entity
 provides or makes available. The Department also made corresponding revisions to the
 language of § 35.200(b)(1) and (2). The Department expects that public entities will be
@@ -4456,7 +4457,7 @@ comes from existing regulatory language in title II of the ADA. The section on g
 prohibitions against discrimination in the existing title II regulation says that a public
 entity, in providing any aid, benefit, or service, may not, directly or through contractual,
 licensing, or other arrangements, on the basis of disability engage in various forms of
-discrimination. 25 The Department intentionally used the same phrasing in subpart H
+discrimination. {% fn 25 %} The Department intentionally used the same phrasing in subpart H
 because here too, where public entities act through third parties using contractual,
 licensing, or other arrangements, they are not relieved of their obligations under subpart
 H. For example, when public educational institutions arrange for third parties to post
@@ -4477,7 +4478,8 @@ use the mobile app to pay for parking in the city, the mobile app is covered und
 § 35.200. This is because the public entity has contracted with the mobile app to
 provide access to the public entity’s service, program, or activity (i.e., public parking)
 using a mobile app. The Department believes this approach will be familiar to public
-entities, as it is consistent with the existing framework in title II of the ADA. 26
+entities, as it is consistent with the existing framework in title II of the ADA. {% fn 26 %}
+
 The Department received many public comments in response to the NPRM expressing
 confusion about the extent to which content created by third parties on behalf of public
 entities must be made accessible. Many commenters pointed out that public entities
@@ -4501,7 +4503,7 @@ the NPRM that throughout the proposal, a public entity’s “website” is inte
 not only the websites hosted by the public entity, but also websites operated on behalf
 of a public entity by a third party. For example, public entities sometimes use vendors to
 create and host their web content. The Department clarified that such content would
-also be covered by the proposed rule. 27 The language the Department added to the
+also be covered by the proposed rule. {% fn 27 %} The language the Department added to the
 general requirements provisions in § 35.200(a)(1) and (2) and (b)(1) and (2) does not
 change the meaning of the provisions, but rather ensures clarity about public entities’
 obligations when they are acting through a third party, such as when they contract with
@@ -4552,27 +4554,27 @@ rulemaking.
 **Background on WCAG**
 
 Since 1994, W3C has been the principal international organization involved in
-developing protocols and guidelines for the web. 28 W3C develops a variety of voluntary
+developing protocols and guidelines for the web. {% fn 28 %} W3C develops a variety of voluntary
 technical standards and guidelines, including ones relating to privacy,
 internationalization of technology, and—relevant here—accessibility. W3C’s Web
 Accessibility Initiative (“WAI”) has developed voluntary guidelines for web accessibility, known as WCAG, to help web developers create web content that is accessible to
-individuals with disabilities. 29
+individuals with disabilities. {% fn 29 %}
 
 The first version of WCAG, WCAG 1.0, was published in 1999. WCAG 2.0 was
 published in December 2008, and is available at http://www.w3.org/TR/2008/REC-
 WCAG20-20081211/ [https://perma.cc/L2NH-VLCR]. WCAG 2.0 was approved as an
 international standard by the International Organization for Standardization (“ISO”) and
-the International Electrotechnical Commission (“IEC”) in October 2012. 30 WCAG 2.1
+the International Electrotechnical Commission (“IEC”) in October 2012. {% fn 30 %} WCAG 2.1
 was published in June 2018, and is available at https://www.w3.org/TR/2018/REC-
-WCAG21-20180605/ and https://perma.cc/UB8A-GG2F. 31 WCAG 2.1 is built on and is
-backwards compatible with WCAG 2.0. 32 In fact, 38 of the 50 Level A and AA success
-criteria in WCAG 2.1 are also included in WCAG 2.0. 33
+WCAG21-20180605/ and https://perma.cc/UB8A-GG2F. {% fn 31 %} WCAG 2.1 is built on and is
+backwards compatible with WCAG 2.0. {% fn 32 %} In fact, 38 of the 50 Level A and AA success
+criteria in WCAG 2.1 are also included in WCAG 2.0. {% fn 33 %}
 
 WCAG 2.1 contains four principles that provide the foundation for web accessibility: the
-web content must be perceivable, operable, understandable, and robust. 34 Testable
+web content must be perceivable, operable, understandable, and robust. {% fn 34 %} Testable
 success criteria (i.e., requirements for web accessibility that are measurable) are
 provided “to be used where requirements and conformance testing are necessary such
-as in design specification, purchasing, regulation and contractual agreements.” 35 Thus,
+as in design specification, purchasing, regulation and contractual agreements.” {% fn 35 %} Thus,
 WCAG 2.1 contemplates establishing testable success criteria that could be used in
 regulatory efforts such as this one.
 
@@ -4593,7 +4595,7 @@ consideration of the public comments and after its independent assessment, the
 Department determined that WCAG 2.1 Level AA is the appropriate technical standard
 for accessibility to adopt in subpart H of this part. WCAG 2.1 Level AA includes success
 criteria that are especially helpful for people with disabilities using mobile devices,
-people with low vision, and people with cognitive or learning disabilities. 36 Support for
+people with low vision, and people with cognitive or learning disabilities. {% fn 36 %} Support for
 WCAG 2.1 Level AA as the appropriate technical standard came from a variety of
 commenters. Commenters supporting the adoption of WCAG 2.1 Level AA noted that is
 a widely used and accepted industry standard. At least one such commenter noted that
@@ -4603,39 +4605,39 @@ web content and mobile apps. Commenters noted that WCAG 2.1 Level AA has been
 implemented, tested, and shown to be a sound and comprehensive threshold for public
 agencies. In addition, because WCAG 2.1 Level AA was published in 2018, web
 developers and public entities have had time to familiarize themselves with it. The
-WCAG standards were designed to be “technology neutral.” 37 This means that they are
-designed to be broadly applicable to current and future web technologies. 38 Thus,
+WCAG standards were designed to be “technology neutral.” {% fn 37 %} This means that they are
+designed to be broadly applicable to current and future web technologies. {% fn 38 %} Thus,
 WCAG 2.1 also allows web and mobile app developers flexibility and potential for
 innovation.
 
 The Department expects that adopting WCAG 2.1 Level AA as the technical standard
 will have benefits that are important to ensuring access for individuals with disabilities to
 public entities’ services, programs, and activities. For example, WCAG 2.1 Level AA
-requires that text be formatted so that it is easier to read when magnified. 39 This is
+requires that text be formatted so that it is easier to read when magnified. {% fn 39 %} This is
 important, for example, for people with low vision who use magnifying tools. Without
 the formatting that WCAG 2.1 Level AA requires, a person magnifying the text might find
 reading the text disorienting because they might have to scroll horizontally on every
-line. 40
+line. {% fn 40 %}
 
 WCAG 2.1 Level AA also includes success criteria addressing the accessibility of
 mobile apps or web content viewed on a mobile device. For example, WCAG 2.1
 Level AA Success Criterion 1.3.4 requires that page orientation (i.e., portrait or
 landscape) not be restricted to just one orientation, unless a specific display orientation
-is essential. 41 This feature is important, for example, for someone who uses a
-wheelchair with a tablet attached to it such that the tablet cannot be rotated. 42 If web
+is essential. {% fn 41 %} This feature is important, for example, for someone who uses a
+wheelchair with a tablet attached to it such that the tablet cannot be rotated. {% fn 42 %} If web
 content or mobile apps only work in one orientation, they will not always work for this
 individual depending on how the tablet is oriented, which could render that content or
-app unusable for the person. 43 Another WCAG 2.1 success criterion requires, in part,
+app unusable for the person. {% fn 43 %} Another WCAG 2.1 success criterion requires, in part,
 that if a function in an app can be operated by motion—for example, shaking the device
-to undo typing—that there be an option to turn off that motion sensitivity. 44 This could be
+to undo typing—that there be an option to turn off that motion sensitivity. {% fn 44 %} This could be
 important, for example, for someone who has tremors, so that they do not accidentally
-undo their typing. 45
+undo their typing. {% fn 45 %}
 
 Such accessibility features are critical for individuals with disabilities to have equal
 access to their State or local government entity’s services, programs, and activities.
 This is particularly true given that using mobile devices to access government services
 is commonplace. For example, one source notes that mobile traffic generally accounts
-for 58.21 percent of all internet usage. 46 In addition, WCAG 2.1 Level AA’s incorporation
+for 58.21 percent of all internet usage. {% fn 46 %} In addition, WCAG 2.1 Level AA’s incorporation
 of mobile-related criteria is important because of public entities’ increasing use of mobile
 apps in offering their services, programs, or activities. Public entities are using mobile
 apps to offer a range of critical government services—from providing traffic information,
@@ -4643,13 +4645,13 @@ to scheduling trash pickup, to making vaccination appointments.
 
 The Department also understands that public entities are likely already familiar with
 WCAG 2.1 Level AA or will be able to become familiar quickly. This is because
-WCAG 2.1 Level AA has been available since 2018, 47 and it builds upon WCAG 2.0, which has been in existence since 2008 and has been established for years as a
+WCAG 2.1 Level AA has been available since 2018, {% fn 47 %} and it builds upon WCAG 2.0, which has been in existence since 2008 and has been established for years as a
 benchmark for accessibility. According to the Department’s research, WCAG 2.1 is
 already being increasingly used by members of the public and State and local
 government entities. At least ten States now use, or aim to use, WCAG 2.1 as a
 standard for their websites, indicating increased familiarity with and use of the standard.
 In fact, as commenters also noted, the Department recently included WCAG 2.1 in
-several settlement agreements with covered entities addressing inaccessible websites. 48
+several settlement agreements with covered entities addressing inaccessible websites. {% fn 48 %}
 
 The Department expects, and heard in public comments, that web developers and
 professionals who work for or with public entities are likely to be familiar with WCAG 2.1
@@ -4659,7 +4661,7 @@ be familiar with WCAG 2.0 and will be able to become acquainted quickly with
 WCAG 2.1’s 12 additional Level A and AA success criteria. The Department also
 believes that resources, like trainings and checklists, exist to help public entities
 implement or understand how to implement not only WCAG 2.0 Level AA, but also
-WCAG 2.1 Level AA. 49 Additionally, public entities will have two or three years,
+WCAG 2.1 Level AA. {% fn 49 %} Additionally, public entities will have two or three years,
 depending on population size, to come into compliance with subpart H of this part.
 Therefore, public entities and web professionals who are not already familiar with
 WCAG 2.1 will have time to familiarize themselves and plan to ensure that they will be
@@ -4673,11 +4675,11 @@ Commenters suggested that the Department adopt WCAG 2.2 as the technical
 standard. WCAG 2.2 was published as a candidate recommendation—a prefinalization
 stage—in May 2023, and was published in final form on October 5, 2023, which was
 after the NPRM associated with the final rule was published and after the comment
-period closed. 50 Commenters who supported the adoption of WCAG 2.2 noted that it
+period closed. {% fn 50 %} Commenters who supported the adoption of WCAG 2.2 noted that it
 was likely to be finalized before the final rule would be published. All of the WCAG 2.0
-and WCAG 2.1 success criteria except for one are included in WCAG 2.2. 51 WCAG 2.2
+and WCAG 2.1 success criteria except for one are included in WCAG 2.2. {% fn 51 %} WCAG 2.2
 also includes six additional Level A and AA success criteria beyond those included in
-WCAG 2.1. 52 Commenters supporting the adoption of WCAG 2.2 noted that
+WCAG 2.1. {% fn 52 %} Commenters supporting the adoption of WCAG 2.2 noted that
 WCAG 2.2’s additional success criteria are important for ensuring accessibility; for
 example, WCAG 2.2 includes additional criteria that are important for people with
 cognitive disabilities or for those accessing content via mobile apps. Like WCAG 2.1,
@@ -4685,7 +4687,7 @@ WCAG 2.2’s additional success criteria offer particular benefits for individu
 vision, limited manual dexterity, and cognitive disabilities. For example, Success
 Criterion 3.3.8, which is a new criterion under WCAG 2.2, improves access for people
 with cognitive disabilities by limiting the use of cognitive function tests, like solving
-puzzles, in authentication processes. 53 Some commenters also suggested that the few
+puzzles, in authentication processes. {% fn 53 %} Some commenters also suggested that the few
 additional criteria in WCAG 2.2 would not pose a substantial burden for web developers,
 who are likely already familiar with WCAG 2.1.
 
@@ -4699,7 +4701,7 @@ The Department believes that adopting WCAG 2.1 as the technical standard rather
 WCAG 2.2 is the most prudent approach at this time. W3C, while recommending the
 use of the most recent recommended standard, has made clear that WCAG 2.2 does
 not “deprecate or supersede” WCAG 2.1 and has stated that WCAG 2.1 is still an
-existing standard. 54 The Department recognizes that WCAG 2.2 is a newer standard,
+existing standard. {% fn 54 %} The Department recognizes that WCAG 2.2 is a newer standard,
 but in crafting subpart H of this part the Department sought to balance benefits for
 individuals with disabilities with feasibility for public entities making their content
 accessible in compliance with subpart H. Because WCAG 2.2 has been adopted so
@@ -4730,9 +4732,9 @@ the Federal Government, which is required to conform to WCAG 2.0 under section�
 of the Rehabilitation Act. In 2017, when the Architectural and Transportation Barriers
 Compliance Board (“Access Board”) adopted WCAG 2.0 as the technical standard for
 the Federal Government’s web content under section 508, WCAG 2.1 had not been
-finalized. 55 And although WCAG 2.0 is the standard adopted by the Department of
+finalized. {% fn 55 %} And although WCAG 2.0 is the standard adopted by the Department of
 Transportation in its regulations implementing the Air Carrier Access Act, which covers
-airlines’ websites and kiosks, 56 those regulations—like the section 508 rule—were
+airlines’ websites and kiosks, {% fn 56 %} those regulations—like the section 508 rule—were
 promulgated before WCAG 2.1 was published.
 
 The Department believes that adopting WCAG 2.1 as the technical standard for subpart
@@ -4740,8 +4742,8 @@ H of this part is more appropriate than adopting WCAG 2.0. WCAG 2.1 provides f
 important accessibility features that are not included in WCAG 2.0, and an increasing
 number of governmental entities are using WCAG 2.1. A number of countries that have
 adopted WCAG 2.0 as their standard are now making efforts to move or have moved to
-WCAG 2.1. 57 In countries that are part of the European Union, public sector websites and mobile apps generally must meet a technical standard that requires conformance to
-the WCAG 2.1 success criteria. 58 And WCAG 2.0 is likely to become outdated or less
+WCAG 2.1. {% fn 57 %} In countries that are part of the European Union, public sector websites and mobile apps generally must meet a technical standard that requires conformance to
+the WCAG 2.1 success criteria. {% fn 58 %} And WCAG 2.0 is likely to become outdated or less
 relevant more quickly than WCAG 2.1. As discussed previously in this appendix,
 WCAG 2.2 was recently published and includes even more success criteria for
 accessibility.
@@ -4769,12 +4771,12 @@ same reasons it declines to adopt WCAG 2.0.
 Some commenters suggested that the Department should require public entities to
 ensure that they are meeting title II’s effective communication standard—which requires
 that public entities ensure that their communications with individuals with disabilities are
-as effective as their communications with others 59 —rather than requiring compliance
+as effective as their communications with others {% fn 59 %} —rather than requiring compliance
 with a specific technical standard for accessibility. One such commenter also suggested
 that the Department rely on conformance to WCAG only as a safe harbor—as a way to
 show that the entity complies with the effective communication standard. The
 Department believes that adopting into subpart H of this part the effective
-communication standard, which is already required under the existing title II regulation, 60
+communication standard, which is already required under the existing title II regulation, {% fn 60 %}
 would not meaningfully help ensure access for individuals with disabilities or provide
 clarity for public entities in terms of what specifically public entities must do to ensure
 that their web content and mobile apps are accessible. As previously mentioned,
@@ -4800,13 +4802,13 @@ content and mobile apps. Performance standards establish general expectations or
 goals for web and mobile app accessibility and allow for compliance via a variety of
 unspecified methods. As commenters explained, performance standards could provide
 greater flexibility in ensuring accessibility as web and mobile app technologies change.
-However, as the Department noted in the NPRM, 61 the Department believes that
+However, as the Department noted in the NPRM, {% fn 61 %} the Department believes that
 performance standards are too vague and subjective and could be insufficient to
 provide consistent and testable requirements for web and mobile app accessibility.
 Additionally, the Department expects that performance standards would not result in
 predictability for either public entities or individuals with disabilities in the way that a
 more specific technical standard would. Further, similar to a performance standard,
-WCAG has been designed to allow for flexibility and innovation as technology evolves. 62
+WCAG has been designed to allow for flexibility and innovation as technology evolves. {% fn 62 %}
 The Department recognizes the importance of adopting a standard for web and mobile
 app accessibility that provides not only specific and testable requirements, but also
 sufficient flexibility to develop accessibility solutions for new technologies. The
@@ -4829,9 +4831,9 @@ proofing” subpart H of this part to help it keep up with changes in technology
 several legal considerations, the Department will not adopt such an approach. First, the
 Department is incorporating WCAG 2.1 Level AA by reference into subpart H and must
 abide by the Office of the Federal Register’s regulation regarding incorporation by
-reference. 63 The regulation states that incorporation by reference of a publication is
+reference. {% fn 63 %} The regulation states that incorporation by reference of a publication is
 limited to the edition of the publication that is approved by the Office of the Federal
-Register. Future amendments or revisions of the publication are not included. 64
+Register. Future amendments or revisions of the publication are not included. {% fn 64 %}
 Accordingly, the Department only incorporates a particular version of the technical
 standard and does not state that future versions of WCAG would be automatically
 incorporated into subpart H. In addition, the Department has concerns about
@@ -4845,7 +4847,7 @@ this part is up to date and effective for current technology. Pursuant to Execut
 13563, the Department is already required to do a periodic retrospective review of its
 regulations to determine whether any such regulations should be modified,
 streamlined, expanded, or repealed so as to make the agency’s regulatory program
-more effective or less burdensome in achieving the regulatory objectives. 65
+more effective or less burdensome in achieving the regulatory objectives. {% fn 65 %}
 Consideration of the effectiveness of subpart H of this part in the future would fall
 within Executive Order 13563’s purview, such that building a mechanism into subpart
 H is not necessary at this time.
@@ -4859,7 +4861,7 @@ This approach will ensure the accessibility standards for mobile apps in subpart
 this part are consistent with the accessibility standards for web content in subpart H.
 The NPRM asked for feedback on the appropriate technical standard for mobile apps,
 including whether the Department should adopt WCAG 2.1 Level AA or other standards
-like the standards for section 508 of the Rehabilitation Act (“Section 508 Standards”), which apply to the Federal Government’s web content and mobile apps. 66 The
+like the standards for section 508 of the Rehabilitation Act (“Section 508 Standards”), which apply to the Federal Government’s web content and mobile apps. {% fn 66 %} The
 Department received several comments on the technical standard that should apply to
 mobile apps. Some commenters supported adopting WCAG 2.1 Level AA, some
 suggested adopting other technical standards or requirements, and others suggested
@@ -4935,23 +4937,23 @@ greater accessibility and usability.
 
 As commenters noted, WCAG 2.1 is designed to be technology neutral, which will help
 ensure accessibility for mobile apps. Although the Section 508 Standards include some
-additional requirements like interoperability that are not required by WCAG, 67 WCAG 2.1
+additional requirements like interoperability that are not required by WCAG, {% fn 67 %} WCAG 2.1
 Level AA includes specific success criteria related to mobile app accessibility. These
 success criteria address challenges such as touch target size, orientation, and motion
-actuation, among others. 68 Therefore, the Department believes that WCAG 2.1
+actuation, among others. {% fn 68 %} Therefore, the Department believes that WCAG 2.1
 Level AA is a robust framework for mobile app accessibility.
 
 The Department also received comments indicating that certain requirements under
 WCAG 2.1 Level AA may not be applicable to mobile apps or conventional electronic
 documents and subpart H of this part should therefore set forth exceptions for those
 success criteria. The Access Board faced similar concerns when it promulgated its
-Section 508 Standards. 69 Accordingly, the Section 508 Standards indicate that “non-Web documents” and “non-Web software,” which include conventional electronic
+Section 508 Standards. {% fn 69 %} Accordingly, the Section 508 Standards indicate that “non-Web documents” and “non-Web software,” which include conventional electronic
 documents and mobile apps, do not have to comply with the following WCAG 2.0
 Success Criteria: 2.4.1 Bypass Blocks, 2.4.5 Multiple Ways, 3.2.3 Consistent
-Navigation, and 3.2.4 Consistent Identification. 70 W3C has provided guidance on how
+Navigation, and 3.2.4 Consistent Identification. {% fn 70 %} W3C has provided guidance on how
 these and other WCAG success criteria can be applied to non-web information and
 communications technologies, including conventional electronic documents and mobile
-apps. 71
+apps. {% fn 71 %}
 
 The Department understands that some WCAG 2.1 Level AA success criteria may not
 apply to conventional electronic documents and mobile apps directly as written, but the
@@ -4964,7 +4966,7 @@ the extent those criteria can be applied. In determining how to make conventiona
 electronic documents and mobile apps conform to WCAG 2.1 Level AA, public entities
 may wish to consult W3C’s guidance on non-web information and communications
 technology, which explains how the WCAG success criteria can be applied to
-conventional electronic documents and mobile apps. 72 The Department believes the
+conventional electronic documents and mobile apps. {% fn 72 %} The Department believes the
 compliance dates discussed in § 35.200 will provide public entities sufficient time to
 understand how WCAG 2.1 Level AA applies to their conventional electronic documents
 and mobile apps, especially because WCAG 2.1 has been in final form since 2018,
@@ -4976,9 +4978,9 @@ electronic documents and mobile apps and may issue further guidance as appropria
 
 The Department also received a comment suggesting that subpart H of this part
 reference PDF/UA-1 for standards related to PDF files or W3C’s EPUB Accessibility 1.1
-standard 73 for digital textbooks. The Department declines to adopt additional technical
+standard {% fn 73 %} for digital textbooks. The Department declines to adopt additional technical
 standards for these specific types of content. As discussed, the WCAG standards were
-designed to be “technology neutral” 74 and are designed to be broadly applicable to current and future web technologies. 75 The Department is concerned that adopting
+designed to be “technology neutral” {% fn 74 %} and are designed to be broadly applicable to current and future web technologies. {% fn 75 %} The Department is concerned that adopting
 multiple technical standards related to different types of web content and content in
 mobile apps could lead to confusion. However, the Department notes that subpart H
 allows for equivalent facilitation in § 35.203, meaning that public entities could still
@@ -5001,9 +5003,9 @@ success criteria under one of three levels of conformance: A, AA, or AAA. As pre
 mentioned, the Department is adopting Level AA as the conformance level under
 subpart H of this part. In the regulatory text at § 35.200(b)(1) and (2), the Department
 provides that public entities must comply with Level A and Level AA success criteria and
-conformance requirements specified in WCAG 2.1. As noted in the NPRM, 76 WCAG 2.1
+conformance requirements specified in WCAG 2.1. As noted in the NPRM, {% fn 76 %} WCAG 2.1
 provides that for Level AA conformance, the web page must satisfy all the Level A and
-Level AA Success Criteria. 77 However, individual success criteria in WCAG 2.1 are
+Level AA Success Criteria. {% fn 77 %} However, individual success criteria in WCAG 2.1 are
 labeled only as Level A or Level AA. Therefore, a person reviewing individual
 requirements in WCAG 2.1 may not understand that both Level A and Level AA success
 criteria must be met to attain Level AA conformance. Accordingly, the Department has
@@ -5014,13 +5016,13 @@ requirements.
 By way of background, the three levels of conformance indicate a measure of
 accessibility and feasibility. Level A, which is the minimum level of accessibility,
 contains criteria that provide basic web accessibility and are the least difficult to achieve
-for web developers. 78 Level AA, which is the intermediate level of accessibility, includes all of the Level A criteria and also contains other criteria that provide more
-comprehensive web accessibility, and yet are still achievable for most web developers. 79
+for web developers. {% fn 78 %} Level AA, which is the intermediate level of accessibility, includes all of the Level A criteria and also contains other criteria that provide more
+comprehensive web accessibility, and yet are still achievable for most web developers. {% fn 79 %}
 Level AAA, which is the highest level of conformance, includes all of the Level A and
 Level AA criteria and also contains additional criteria that can provide a more enriched
-user experience, but are the most difficult to achieve for web developers. 80 W3C does
+user experience, but are the most difficult to achieve for web developers. {% fn 80 %} W3C does
 not recommend that Level AAA conformance be required as a general policy for entire
-websites because it is not possible to satisfy all Level AAA criteria for some content. 81
+websites because it is not possible to satisfy all Level AAA criteria for some content. {% fn 81 %}
 
 Based on public feedback and independent research, the Department believes that
 WCAG 2.1 Level AA is the appropriate conformance level because it includes criteria
@@ -5028,12 +5030,12 @@ that provide web and mobile app accessibility to individuals with disabilities�
 those with visual, auditory, physical, speech, cognitive, and neurological
 disabilities—and yet is feasible for public entities’ web developers to implement.
 Commenters who spoke to this issue generally seemed supportive of this approach. As
-discussed in the NPRM, 82 Level AA conformance is widely used, making it more likely
+discussed in the NPRM, {% fn 82 %} Level AA conformance is widely used, making it more likely
 that web developers are already familiar with its requirements. Though many of the
 entities that conform to Level AA do so under WCAG 2.0, not WCAG 2.1, this still
 suggests a widespread familiarity with most of the Level AA success criteria, given that
 38 of the 50 Level A and AA success criteria in WCAG 2.1 are also included in
-WCAG 2.0. 83 The Department believes that Level A conformance alone is not
+WCAG 2.0. {% fn 83 %} The Department believes that Level A conformance alone is not
 appropriate because it does not include criteria for providing web accessibility that the
 Department understands are critical, such as a minimum level of color contrast so that
 items like text boxes or icons are easier to see, which is important for individuals with
@@ -5047,10 +5049,10 @@ WCAG 2.1 Level AA. Adopting WCAG 2.1 Level AA as a whole provides greater
 predictability and reliability. Also, while Level AAA conformance provides a richer user
 experience, it is the most difficult to achieve for many entities. Again, W3C does not
 recommend that Level AAA conformance be required as a general policy for entire
-websites because it is not possible to satisfy all Level AAA criteria for some content. 84
+websites because it is not possible to satisfy all Level AAA criteria for some content. {% fn 84 %}
 Adopting a Level AA conformance level makes the requirements of subpart H consistent
-with a standard that has been accepted internationally. 85 The web content of Federal agencies is also required to conform to WCAG 2.0 Level AA under the Section 508
-Standards. 86
+with a standard that has been accepted internationally. {% fn 85 %} The web content of Federal agencies is also required to conform to WCAG 2.0 Level AA under the Section 508
+Standards. {% fn 86 %}
 
 Therefore, the Department believes that adopting the Level AA conformance level
 strikes the right balance between accessibility for individuals with disabilities and
