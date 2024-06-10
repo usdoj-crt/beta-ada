@@ -10,6 +10,7 @@ import search from './search';
 import sidenav from './expand-sidenav';
 import mobileCarousel from './carousel';
 import setCookies from './feature-flag';
+import communityOutreach from './outreach-campaign';
 import { tryToSetPageAnswer, submitFormOnAnswer } from './touchpoints-page-helpful';
 
 modal();
@@ -26,6 +27,8 @@ submitFormOnAnswer('#touchpoints-yes-no-form');
 
 const mainEl = document.querySelector('.interactive-headers');
 parseLawsAndRegs(mainEl);
+
+communityOutreach();
 
 initGAEvents();
 
