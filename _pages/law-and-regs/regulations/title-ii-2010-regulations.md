@@ -5952,6 +5952,7 @@ is so essential for individuals who are deaf or have hearing disabilities. For t
 reasons, and because of the need for individuals with disabilities to access State and
 local government entities’ live programs, services, and activities, subpart H of this part
 establishes a uniform compliance date for all success criteria in subpart H.
+
 Commenters also expressed a range of opinions about whether using automatically
 generated captions instead of professional live-captioning services would be sufficient
 to comply with Success Criterion 1.2.4. These commenters noted that automatic
@@ -6009,6 +6010,7 @@ circumstances, public entities must comply with § 35.200 to the maximum extent
 possible. The Department believes the approach in subpart H strikes the appropriate
 balance of increasing access for individuals with disabilities, keeping pace with evolving
 technology, and providing a workable standard for public entities.
+
 Some commenters expressed similar concerns related to captioning requirements for
 prerecorded (i.e., non-live) content under Success Criterion 1.2.2, including concerns
 that public entities may choose to remove recordings of past events such as public
