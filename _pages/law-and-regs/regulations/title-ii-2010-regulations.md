@@ -10889,297 +10889,569 @@ the Final Regulatory Flexibility Analysis.
 126 A discussion of the relationship between these limitations and the exceptions in § 35.201 is also provided in the general explanation at the beginning of the discussion of § 35.201 in the section-by-section analysis.
 {% endfnbody %}
 
-127 The section-by-section analysis of § 35.200 includes a discussion of the Department’s obligation to do a periodic
+{% fnbody 131 %}
+127 The section-by-section analysis of § 35.200 includes a discussion of the Department’s obligation to do a periodic retrospective review of its regulations pursuant to Executive Order 13563.
+{% endfnbody %}
 
-retrospective review of its regulations pursuant to Executive Order 13563.
-
+{% fnbody 132 %}
 128 See §§ 35.130(b)(1)(ii) and (b)(7) and 35.160.
+{% endfnbody %}
 
+{% fnbody 133 %}
 129 Id.
+{% endfnbody %}
 
+{% fnbody 134 %}
 130 See W3C, Understanding SC 2.4.4.: Link Purpose (In Context) (June 20, 2023),
-
 https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html [https://perma.cc/RE3T-J9PN].
+{% endfnbody %}
 
+{% fnbody 135 %}
 131 88 FR 51968.
+{% endfnbody %}
 
+{% fnbody 136 %}
 132 See §§ 35.130(b)(1)(ii) and (b)(7) and 35.160.
+{% endfnbody %}
 
+{% fnbody 137 %}
 133 See, e.g., §§ 35.130(b)(1)(ii) and (b)(7) and 35.160.
+{% endfnbody %}
 
-134 See § 35.130(b)(1)(ii) (prohibiting discrimination through a contractual, licensing, or other arrangement that
+{% fnbody 138 %}
+134 See § 35.130(b)(1)(ii) (prohibiting discrimination through a contractual, licensing, or other arrangement that would provide an aid, benefit, or service to a qualified individual with a disability that is not equal to that afforded others).
+{% endfnbody %}
 
-would provide an aid, benefit, or service to a qualified individual with a disability that is not equal to that afforded
-
-others).
-
+{% fnbody 139 %}
 135 See supra section-by-section analysis of § 35.200(a)(1) and (2) and (b)(1) and (2).
+{% endfnbody %}
 
+{% fnbody 140 %}
 136 See §§ 35.130(b)(1)(ii) and (b)(7) and 35.160.
+{% endfnbody %}
 
+{% fnbody 141 %}
 137 88 FR 52019.
+{% endfnbody %}
 
+{% fnbody 142 %}
 138 88 FR 52019; see also id. at 51969 (preamble text).
+{% endfnbody %}
 
-139 88 FR 51969; see also § 35.130(b)(1)(ii) (prohibiting discrimination through a contractual, licensing, or other
+{% fnbody 143 %}
+139 88 FR 51969; see also § 35.130(b)(1)(ii) (prohibiting discrimination through a contractual, licensing, or other arrangement that would provide an aid, benefit, or service to a qualified individual with a disability that is not equal to that afforded others).
+{% endfnbody %}
 
-arrangement that would provide an aid, benefit, or service to a qualified individual with a disability that is not equal
+{% fnbody 144 %}
+140 See U.S. Dep’t of Just., Guidance on Web Accessibility and the ADA, ADA.gov (Mar. 18, 2022), https://www.ada.gov/resources/web-guidance/ [https://perma.cc/WH9E-VTCY].
+{% endfnbody %}
 
-to that afforded others).
+{% fnbody 145 %}
+141 See W3C, Web Content Accessibility Guidelines 2.1, Contrast (Minimum) (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#contrast-minimum [https://perma.cc/VAA3-TYN9].
+{% endfnbody %}
 
-140 See U.S. Dep’t of Just., Guidance on Web Accessibility and the ADA, ADA.gov (Mar. 18, 2022),
-
+{% fnbody 146 %}
+142 The Department reminds the public, however, that the hotel would still have obligations under title III of the ADA. See U.S. Dep’t of Just., Guidance on Web Accessibility and the ADA, ADA.gov (Mar. 18, 2022),
 https://www.ada.gov/resources/web-guidance/ [https://perma.cc/WH9E-VTCY].
+{% endfnbody %}
 
-141 See W3C, Web Content Accessibility Guidelines 2.1, Contrast (Minimum) (June 5, 2018),
+{% fnbody 147 %}
+143 The Department does not use the term “third-party” to describe mobile apps in this section to avoid confusion.  It is the Department’s understanding that the term “third-party mobile app” may have a different meaning in the technology industry, and some understand “a third-party app” as an application that is provided by a vendor other than the manufacturer of the device or operating system provider.  See Alice Musyoka, Third-Party Apps, Webopedia (Aug. 4, 2022), https://www.webopedia.com/definitions/third-party-apps/ [https://perma.cc/SBW3-RRGN].
+{% endfnbody %}
 
-https://www.w3.org/TR/2018/REC-WCAG21-20180605/#contrast-minimum [https://perma.cc/VAA3-TYN9].
-
-142 The Department reminds the public, however, that the hotel would still have obligations under title III of the
-
-ADA. See U.S. Dep’t of Just., Guidance on Web Accessibility and the ADA, ADA.gov (Mar. 18, 2022),
-
-https://www.ada.gov/resources/web-guidance/ [https://perma.cc/WH9E-VTCY].
-
-143 The Department does not use the term “third-party” to describe mobile apps in this section to avoid confusion.  It
-
-is the Department’s understanding that the term “third-party mobile app” may have a different meaning in the
-
-technology industry, and some understand “a third-party app” as an application that is provided by a vendor other
-
-than the manufacturer of the device or operating system provider.  See Alice Musyoka, Third-Party Apps,
-
-Webopedia (Aug. 4, 2022), https://www.webopedia.com/definitions/third-party-apps/ [https://perma.cc/SBW3-
-
-RRGN].
-
+{% fnbody 148 %}
 144 See ParkMobile Parking App, https://parkmobile.io [https://perma.cc/G7GY-MDFE].
+{% endfnbody %}
 
-145 See Using Mobile Apps in Government, IBM Ctr. for the Bus. of Gov’t, at 32–33 (2015),
-
-https://www.businessofgovernment.org/sites/default/files/Using%20Mobile%20Apps%20in%20Government.pdf
-
+{% fnbody 149 %}
+145 See Using Mobile Apps in Government, IBM Ctr. for the Bus. of Gov’t, at 32–33 (2015), https://www.businessofgovernment.org/sites/default/files/Using%20Mobile%20Apps%20in%20Government.pdf
 [https://perma.cc/248X-8A6C].
+{% endfnbody %}
 
+{% fnbody 150 %}
 146 See § 35.130(b)(1) and (3).
+{% endfnbody %}
 
-147 For example, under title II, a State is required to make sure that the services, programs, or activities offered by a
+{% fnbody 151 %}
+147 For example, under title II, a State is required to make sure that the services, programs, or activities offered by a State park inn that is operated by a private entity under contract with the State comply with title II. See 56 FR 35694, 35696 (July 26, 1991).
+{% endfnbody %}
 
-State park inn that is operated by a private entity under contract with the State comply with title II. See 56 FR
-
-35694, 35696 (July 26, 1991). 
-
+{% fnbody 152 %}
 148 See 88 FR 52019.
+{% endfnbody %}
 
-149 Some commenters asked for clarification about how the proposed course content exceptions would operate in
+{% fnbody 153 %}
+149 Some commenters asked for clarification about how the proposed course content exceptions would operate in practice. For example, one commenter asked for clarification about what it would mean for a public educational institution to be “on notice” about the need to make course content accessible for a particular student, one of the limitations proposed in the NPRM. Because the Department is eliminating the course content exceptions from subpart H of this part, these questions about how the exceptions would have operated are moot and are not addressed in subpart H.
+{% endfnbody %}
 
-practice. For example, one commenter asked for clarification about what it would mean for a public educational
+{% fnbody 154 %}
+150 Section 35.201(e) no longer refers to a course content exception, but now refers to a different exception for preexisting social media posts, as discussed in this section.
+{% endfnbody %}
 
-institution to be “on notice” about the need to make course content accessible for a particular student, one of the
-
-limitations proposed in the NPRM. Because the Department is eliminating the course content exceptions from
-
-subpart H of this part, these questions about how the exceptions would have operated are moot and are not addressed
-
-in subpart H.
-
-150 Section 35.201(e) no longer refers to a course content exception, but now refers to a different exception for
-
-preexisting social media posts, as discussed in this section.
-
+{% fnbody 155 %}
 151 88 FR 52019.
+{% endfnbody %}
 
+{% fnbody 156 %}
 152 Id. at 51970.
+{% endfnbody %}
 
+{% fnbody 157 %}
 153 Id. at 52019.
+{% endfnbody %}
 
+{% fnbody 158 %}
 154 Id.
+{% endfnbody %}
 
+{% fnbody 159 %}
 155 Id.
+{% endfnbody %}
 
+{% fnbody 160 %}
 156 Id.
+{% endfnbody %}
 
+{% fnbody 161 %}
 157 Id.
+{% endfnbody %}
 
+{% fnbody 162 %}
 158 Id. at 51973, 51976.
+{% endfnbody %}
 
+{% fnbody 163 %}
 159 Id. at 51973, 51974, 51976.
+{% endfnbody %}
 
+{% fnbody 164 %}
 160 Id. at 51973, 51974, 51976.
+{% endfnbody %}
 
-161 Many comments on this topic indicated that they were drawing from the philosophy of “universal design.” See,
+{% fnbody 165 %}
+161 Many comments on this topic indicated that they were drawing from the philosophy of “universal design.” See, e.g., 29 U.S.C. 3002(19).
+{% endfnbody %}
 
-e.g., 29 U.S.C. 3002(19).
+{% fnbody 166 %}
+162 Arielle M. Silverman et al., Access and Engagement III: Reflecting on the Impacts of the COVID-19 Pandemic on the Education of Children Who Are Blind or Have Low Vision, Am. Found. for the Blind (June 2022), https://afb.org/sites/default/files/2022-06/AFB_AccessEngagement_III_Report_Accessible_FINAL.pdf (A Perma archive link was unavailable for this citation.); L. Penny Rosenblum et al., Access and Engagement II: An Examination of How the COVID-19 Pandemic Continued to Impact Students with Visual Impairments, Their Families, and Professionals Nine Months Later, Am. Found. for the Blind (May 2021), https://static.afb.org/legacy/media/AFB_AccessEngagement_II_Accessible_F2.pdf?_ga=2.176468773.1214767753
+[https://perma.cc/H5P4-JZAB]; see also L. Penny Rosenblum et al., Access and Engagement: Examining the Impact of COVID-19 on Students Birth–21 with Visual Impairments, Their Families, and Professionals in the United States and Canada, Am. Found. for the Blind (Oct. 2020), https://afb.org/sites/default/files/2022-03/AFB_Access_Engagement_Report_Revised-03-2022.pdf [https://perma.cc/T3AY-ULAQ].
+{% endfnbody %}
 
-162 Arielle M. Silverman et al., Access and Engagement III: Reflecting on the Impacts of the COVID-19 Pandemic on
-
-the Education of Children Who Are Blind or Have Low Vision, Am. Found. for the Blind (June 2022),
-
-https://afb.org/sites/default/files/2022-06/AFB_AccessEngagement_III_Report_Accessible_FINAL.pdf (A Perma
-
-archive link was unavailable for this citation.); L. Penny Rosenblum et al., Access and Engagement II: An
-
-Examination of How the COVID-19 Pandemic Continued to Impact Students with Visual Impairments, Their
-
-Families, and Professionals Nine Months Later, Am. Found. for the Blind (May 2021),
-
-https://static.afb.org/legacy/media/AFB_AccessEngagement_II_Accessible_F2.pdf?_ga=2.176468773.1214767753
-
-[https://perma.cc/H5P4-JZAB]; see also L. Penny Rosenblum et al., Access and Engagement: Examining the Impact
-
-of COVID-19 on Students Birth–21 with Visual Impairments, Their Families, and Professionals in the United States
-
-and Canada, Am. Found. for the Blind (Oct. 2020), https://afb.org/sites/default/files/2022-
-
-03/AFB_Access_Engagement_Report_Revised-03-2022.pdf [https://perma.cc/T3AY-ULAQ].
-
+{% fnbody 167 %}
 163 See §§ 35.130(b)(1)(ii) and (7) and 35.160.
+{% endfnbody %}
 
-164 See, e.g., 42 U.S.C. 12101(a)(2) (finding that society has tended to isolate and segregate individuals with
+{% fnbody 168 %}
+164 See, e.g., 42 U.S.C. 12101(a)(2) (finding that society has tended to isolate and segregate individuals with disabilities); § 35.130(b)(1)(iv) (stating that public entities generally may not provide different or separate aids, benefits, or services to individuals with disabilities than is provided to others unless such action is necessary); id. § 35.130(d) (requiring that public entities administer services, programs, and activities in the most integrated setting appropriate).
+{% endfnbody %}
 
-disabilities); § 35.130(b)(1)(iv) (stating that public entities generally may not provide different or separate aids,
-
-benefits, or services to individuals with disabilities than is provided to others unless such action is necessary); id. §
-
-35.130(d) (requiring that public entities administer services, programs, and activities in the most integrated setting
-
-appropriate).
-
+{% fnbody 169 %}
 165 See Public Law 104–121, sec. 212, 110 Stat. at 858.
+{% endfnbody %}
 
+{% fnbody 170 %}
 166 See, e.g., W3C, Evaluating Web Accessibility Overview, https://www.w3.org/WAI/test-evaluate/
-
 [https://perma.cc/6RDS-X6AR] (Aug. 1, 2023).
+{% endfnbody %}
 
+{% fnbody 171 %}
 167 See W3C, EPUB 3.3: Recommendation, § 1.1 Overview (May 25, 2023), https://www.w3.org/TR/epub-33/
-
 [https://perma.cc/G2WZ-3M9S].
+{% endfnbody %}
 
+{% fnbody 172 %}
 168 W3C, EPUB Accessibility 1.1: Recommendation (May 25, 2023), https://www.w3.org/TR/epub-a11y-11/
-
 [https://perma.cc/48A5-NC2B].
+{% endfnbody %}
 
-169 W3C, EPUB Fixed Layout Accessibility: Editor’s Draft (Dec. 8, 2024), https://w3c.github.io/epub-
+{% fnbody 173 %}
+169 W3C, EPUB Fixed Layout Accessibility: Editor’s Draft (Dec. 8, 2024), https://w3c.github.io/epub-specs/epub33/fxl-a11y/ [https://perma.cc/5SP7-VUHJ].
+{% endfnbody %}
 
-specs/epub33/fxl-a11y/ [https://perma.cc/5SP7-VUHJ].
+{% fnbody 174 %}
+170 W3C, Introduction to Understanding WCAG (June 20, 2023), https://www.w3.org/WAI/WCAG21/Understanding/intro [https://perma.cc/XB3Y-QKVU].
+{% endfnbody %}
 
-170 W3C, Introduction to Understanding WCAG (June 20, 2023),
+{% fnbody 175 %}
+171 See W3C, Understanding Techniques for WCAG Success Criteria (June 20, 2023), https://www.w3.org/WAI/WCAG21/Understanding/understanding-techniques [https://perma.cc/AMT4-XAAL].
+{% endfnbody %}
 
-https://www.w3.org/WAI/WCAG21/Understanding/intro [https://perma.cc/XB3Y-QKVU].
-
-171 See W3C, Understanding Techniques for WCAG Success Criteria (June 20, 2023),
-
-https://www.w3.org/WAI/WCAG21/Understanding/understanding-techniques [https://perma.cc/AMT4-XAAL].
-
+{% fnbody 176 %}
 172 Assistance to States for the Education of Children With Disabilities, 85 FR 31374 (May 26, 2020).
+{% endfnbody %}
 
+{% fnbody 177 %}
 173 Nat’l Instructional Materials Access Center, About NIMAC, https://www.nimac.us/about-nimac/
-
 [https://perma.cc/9PQ2-GLQM] (last visited Feb. 2, 2024).
+{% endfnbody %}
 
+{% fnbody 178 %}
 174 See §§ 35.130(b)(1)(ii) and (b)(7) and 35.160.
+{% endfnbody %}
 
-175 See W3C, Understanding SC 2.4.4.: Link Purpose (In Context) (June 20, 2023),
+{% fnbody 179 %}
+175 See W3C, Understanding SC 2.4.4.: Link Purpose (In Context) (June 20, 2023), https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html [https://perma.cc/RE3T-J9PN].
+{% endfnbody %}
 
-https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html [https://perma.cc/RE3T-J9PN].
-
+{% fnbody 180 %}
 176 See §§ 35.130(b)(1)(ii) and (b)(7) and 35.160.
+{% endfnbody %}
 
+{% fnbody 181 %}
 177 See id.
+{% endfnbody %}
 
+{% fnbody 182 %}
 178 The Department made a non-substantive change to the header of the exception to match the text of the exception.
+{% endfnbody %}
 
-179 See § 35.160(b)(1). For more information about public entities’ existing obligation to ensure that communications
+{% fnbody 183 %}
+179 See § 35.160(b)(1). For more information about public entities’ existing obligation to ensure that communications with individuals with disabilities are as effective as communications with others, see U.S. Dep’t of Just., ADA Requirements: Effective Communication, ada.gov (Feb 28, 2020), https://www.ada.gov/resources/effective-communication/ [https://perma.cc/CLT7-5PNQ].
+{% endfnbody %}
 
-with individuals with disabilities are as effective as communications with others, see U.S. Dep’t of Just., ADA
-
-Requirements: Effective Communication, ada.gov (Feb 28, 2020), https://www.ada.gov/resources/effective-
-
-communication/ [https://perma.cc/CLT7-5PNQ]. 
-
+{% fnbody 184 %}
 180 See § 35.160(b)(2).
+{% endfnbody %}
 
+{% fnbody 185 %}
 181 Id.
+{% endfnbody %}
 
+{% fnbody 186 %}
 182 See § 35.130(b)(7).
+{% endfnbody %}
 
+{% fnbody 187 %}
 183 See §§ 35.130(b)(1)(ii) and (b)(7) and 35.160(b)(2).
+{% endfnbody %}
 
+{% fnbody 188 %}
 184 88 FR 51962–51963.
+{% endfnbody %}
 
+{% fnbody 189 %}
 185 Sections 35.130(b)(1)(ii) and (b)(7) and 35.160.
+{% endfnbody %}
 
-186 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1: Recommendation, Conforming Alternate Version
+{% fnbody 190 %}
+186 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1: Recommendation, Conforming Alternate Version (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#dfn-conforming-alternate-version [https://perma.cc/GWT6-AMAN]. WCAG 2.1 provides three options for how a conforming alternate version can be reached—the Department does not modify those options with respect to conforming alternative versions under subpart H of this part.
+{% endfnbody %}
 
-(June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#dfn-conforming-alternate-version
-
-[https://perma.cc/GWT6-AMAN]. WCAG 2.1 provides three options for how a conforming alternate version can
-
-be reached—the Department does not modify those options with respect to conforming alternative versions under
-
-subpart H of this part.
-
+{% fnbody 191 %}
 187 See id.
+{% endfnbody %}
 
+{% fnbody 192 %}
 188 See W3C, Understanding Conformance, https://www.w3.org/WAI/WCAG21/Understanding/conformance
-
 [https://perma.cc/QSG6-QCBL] (June 20, 2023).
+{% endfnbody %}
 
-189 See § 35.130(b)(1)(iv) (stating that public entities generally may not provide different or separate aids, benefits, or
+{% fnbody 193 %}
+189 See § 35.130(b)(1)(iv) (stating that public entities generally may not provide different or separate aids, benefits, or services to individuals with disabilities than is provided to others unless such action is necessary); § 35.130(d)(requiring that public entities administer services, programs, and activities in the most integrated setting appropriate); cf. 42 U.S.C. 12101(a)(2) (finding that society has tended to isolate and segregate individuals with disabilities).
+{% endfnbody %}
 
-services to individuals with disabilities than is provided to others unless such action is necessary); § 35.130(d)
-
-(requiring that public entities administer services, programs, and activities in the most integrated setting
-
-appropriate); cf. 42 U.S.C. 12101(a)(2) (finding that society has tended to isolate and segregate individuals with
-
-disabilities).
-
+{% fnbody 194 %}
 190 88 FR 52020.
+{% endfnbody %}
 
+{% fnbody 195 %}
 191 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1: Recommendation, Conforming Alternate Version
-
 (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#dfn-conforming-alternate-version
-
 [https://perma.cc/GWT6-AMAN].
+{% endfnbody %}
 
+{% fnbody 196 %}
 192 See id.
+{% endfnbody %}
 
+{% fnbody 197 %}
 193 Id.
+{% endfnbody %}
 
-194 See 28 CFR part 36, appendix D, at 1000 (2022) (1991 ADA Standards); 36 CFR part 1191, appendix B, at 329
+{% fnbody 198 %}
+194 See 28 CFR part 36, appendix D, at 1000 (2022) (1991 ADA Standards); 36 CFR part 1191, appendix B, at 329 (2022) (2010 ADA Standards).
+{% endfnbody %}
 
-(2022) (2010 ADA Standards).
+{% fnbody 199 %}
+195 W3C, WCAG 2 Overview, https://www.w3.org/WAI/standards-guidelines/wcag/ [https://perma.cc/RQS2-P7JC](Oct. 5, 2023).
+{% endfnbody %}
 
-195 W3C, WCAG 2 Overview, https://www.w3.org/WAI/standards-guidelines/wcag/ [https://perma.cc/RQS2-P7JC]
-
-(Oct. 5, 2023).
-
+{% fnbody 200 %}
 196 W3C, What’s New in WCAG 2.2 Draft, https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/
-
 [https://perma.cc/GDM3-A6SE] (Oct. 5, 2023).
+{% endfnbody %}
 
-197 W3C, Web Content Accessibility Guidelines (WCAG) 2.1, § 5.2 Conformance Requirements (June 5, 2018),
+{% fnbody 201 %}
+197 W3C, Web Content Accessibility Guidelines (WCAG) 2.1, § 5.2 Conformance Requirements (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#conformance-reqs [https://perma.cc/XV2E-ESM8].
+{% endfnbody %}
 
-https://www.w3.org/TR/2018/REC-WCAG21-20180605/#conformance-reqs [https://perma.cc/XV2E-ESM8].
+{% fnbody 202 %}
+198 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 2.4.10 Section Headings (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#conformance-reqs:~:text=Success%20Criterion%202.4.10,Criterion%204.1.2 [https://perma.cc/9BNS-8LWK].
+{% endfnbody %}
 
-198 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 2.4.10 Section Headings (June 5,
+{% fnbody 203 %}
+199 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 3.1.4 Abbreviations (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#conformance-reqs:~:text=Success%20Criterion%203.1.4,abbreviations%20is%20available [https://perma.cc/ZK6C-9RHD].
+{% endfnbody %}
 
-2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#conformance-
-
-reqs:~:text=Success%20Criterion%202.4.10,Criterion%204.1.2 [https://perma.cc/9BNS-8LWK].
-
-199 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 3.1.4 Abbreviations (June 5,
-
-2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#conformance-
-
-reqs:~:text=Success%20Criterion%203.1.4,abbreviations%20is%20available [https://perma.cc/ZK6C-9RHD].
-
+{% fnbody 204 %}
 200 88 FR 52020.
+{% endfnbody %}
 
+{% fnbody 205 %}
 201 Section 35.150(a)(3) and 35.164.
+{% endfnbody %}
 
+{% fnbody 206 %}
 202 28 CFR part 35, appendix B, at 708 (2022).
+{% endfnbody %}
 
+{% fnbody 207 %}
 203 Id.
+{% endfnbody %}
+
+{% fnbody 208 %}
+204 See 28 CFR part 35, appendix A, at 626 (2022).
+{% endfnbody %}
+
+{% fnbody 209 %}
+205 See, e.g., §§ 35.130(b)(1)(ii) and (b)(7) and 35.160.
+{% endfnbody %}
+
+{% fnbody 210 %}
+206 See id.
+{% endfnbody %}
+
+{% fnbody 211 %}
+207 See W3C, Developing an Accessibility Statement, https://www.w3.org/WAI/planning/statements/
+[https://perma.cc/85WU-JTJ6] (Mar. 11, 2021).
+{% endfnbody %}
+
+{% fnbody 212 %}
+208 88 FR 51978–51980.
+{% endfnbody %}
+
+{% fnbody 213 %}
+209 See §§ 35.130(b)(7)(i), 35.150(a)(3), and 35.164. These regulatory provisions were also in the Department’s 1991 regulations at 28 CFR 35.130(b)(7), 35.150(a)(3), and 35.164, respectively.
+{% endfnbody %}
+
+{% fnbody 214 %}
+210 See, e.g., U.S. Dep’t of Just., ADA Update: A Primer for State and Local Governments, https://www.ada.gov/resources/title-ii-primer/ [https://perma.cc/ZV66-EFWU] (Feb. 28, 2020).
+{% endfnbody %}
+
+{% fnbody 215 %}
+211 See §§ 35.130(b)(1)(ii) and (b)(7) and 35.160.
+{% endfnbody %}
+
+{% fnbody 216 %}
+212 See §§ 35.150(a)(3) and 35.164.
+{% endfnbody %}
+
+{% fnbody 217 %}
+213 See id.
+{% endfnbody %}
+
+{% fnbody 218 %}
+214 28 CFR part 35, appendix B, at 708 (2022).
+{% endfnbody %}
+
+{% fnbody 219 %}
+215 88 FR 51983.
+{% endfnbody %}
+
+{% fnbody 220 %}
+216 See §§ 35.170 through 35.190.
+{% endfnbody %}
+
+{% fnbody 221 %}
+217 Cf., e.g., §§ 35.130(b)(1)(iv) and (b)(8) and 35.160.
+{% endfnbody %}
+
+{% fnbody 222 %}
+218 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 1.4.3 Contrast (Minimum) (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#contrast-minimum [https://perma.cc/4XS3-AX7W].
+{% endfnbody %}
+
+{% fnbody 223 %}
+219 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 1.4.12 Text Spacing (June 5,
+2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#text-spacing [https://perma.cc/B4A5-843F].
+{% endfnbody %}
+
+{% fnbody 224 %}
+220 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 2.2.1 Timing Adjustable (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#timing-adjustable [https://perma.cc/V3XZ-KJDG].
+{% endfnbody %}
+
+{% fnbody 225 %}
+221 W3C, Understanding SC 4.1.1: Parsing (Level A), https://www.w3.org/WAI/WCAG21/Understanding/parsing.html [https://perma.cc/5Z8Q-GW5E] (June 20, 2023).
+{% endfnbody %}
+
+{% fnbody 226 %}
+222 W3C, WCAG 2 FAQ, How and why is success criteria 4.1.1 Parsing obsolete?, https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411 [https://perma.cc/7Q9H-JVSZ] (Oct. 5, 2023).
+{% endfnbody %}
+
+{% fnbody 227 %}
+223 88 FR 51983.
+{% endfnbody %}
+
+{% fnbody 228 %}
+224 Id.
+{% endfnbody %}
+
+{% fnbody 229 %}
+225 Section 35.160(b)(2).
+{% endfnbody %}
+
+{% fnbody 230 %}
+226 See, e.g., W3C, Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 2.3.1. Three Flashes or Below Threshold (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#three-flashes-or-below-threshold [https://perma.cc/A7P9-WCQY] (addressing aspects of content design that could trigger seizures or other physical reactions).
+{% endfnbody %}
+
+{% fnbody 231 %}
+227 Section 35.151(a) and (c).
+{% endfnbody %}
+
+{% fnbody 232 %}
+228 88 FR 51981.
+{% endfnbody %}
+
+{% fnbody 233 %}
+229 42 U.S.C. 12101(a)(7).
+{% endfnbody %}
+
+{% fnbody 234 %}
+230 See § 35.130(b)(1)(ii) and (iii).
+{% endfnbody %}
+
+{% fnbody 235 %}
+231 Id. §§ 35.130(b)(1)(ii) and 35.160(b)(1).
+{% endfnbody %}
+
+{% fnbody 236 %}
+232 Id. § 35.130(b)(1)(iii).
+{% endfnbody %}
+
+{% fnbody 237 %}
+233 Id. § 35.130(b)(8).
+{% endfnbody %}
+
+{% fnbody 238 %}
+234 Id. § 35.160(a)(1) and (b).
+{% endfnbody %}
+
+{% fnbody 239 %}
+235 28 CFR part 36, appendix D, at 1000 (2022) (1991 ADA Standards); 36 CFR part 1191, appendix B, at 329
+(2022) (2010 ADA Standards).
+{% endfnbody %}
+
+{% fnbody 240 %}
+236 88 FR 51981.
+{% endfnbody %}
+
+{% fnbody 241 %}
+237 See § 35.133(b).
+{% endfnbody %}
+
+{% fnbody 242 %}
+238 See 28 CFR part 35, appendix B, at 705 (2022) (providing that it is impossible to guarantee that mechanical devices will never fail to operate).
+{% endfnbody %}
+
+{% fnbody 243 %}
+239 88 FR 51982–51983.
+{% endfnbody %}
+
+{% fnbody 244 %}
+240 Id. at 51983–51984.
+{% endfnbody %}
+
+{% fnbody 245 %}
+241 Id. at 51984; see also W3C, Accessibility Maturity Model: Group Draft Note, § 1.1: About the Accessibility Maturity Model (Dec. 15, 2023), https://www.w3.org/TR/maturity-model/ [https://perma.cc/UX4X-J4MF].
+{% endfnbody %}
+
+{% fnbody 246 %}
+242 88 FR 51980–51981.
+{% endfnbody %}
+
+{% fnbody 247 %}
+243 36 CFR 1194.1; id. at part 1194, appendix A, section E205.4.
+{% endfnbody %}
+
+{% fnbody 248 %}
+244 See 14 CFR 382.43.
+{% endfnbody %}
+
+{% fnbody 249 %}
+245 88 FR 51980.
+{% endfnbody %}
+
+{% fnbody 250 %}
+246 See § 35.172(b) and (c) (describing the process for compliance reviews). As noted, however, the Department is unable to guarantee that it will conduct a specific amount of enforcement under subpart H of this part on a particular schedule.
+{% endfnbody %}
+
+{% fnbody 251 %}
+247 88 FR 51980–51981.
+{% endfnbody %}
+
+{% fnbody 252 %}
+248 See Public Law 104–121, sec. 212, 110 Stat. at 858.
+{% endfnbody %}
+
+{% fnbody 253 %}
+249 1 Tex. Admin. Code secs. 206.50, 213.21 (West 2023).
+{% endfnbody %}
+
+{% fnbody 254 %}
+250 Wash. Tech. Sols., Policy 188 – Accessibility, https://watech.wa.gov/sites/default/files/2023-09/188_Accessibility_2019_AS%2520v3%2520Approved.docx. A Perma archive link was unavailable for this citation.
+{% endfnbody %}
+
+{% fnbody 255 %}
+251 Wash. Tech. Sols., Standard 188.10 – Minimum Accessibility Standard, https://watech.wa.gov/sites/default/files/2023-09/188.10_Min_Std_2019_AS_Approved_03102020_1.docx. A Perma archive link was unavailable for this citation.
+{% endfnbody %}
+
+{% fnbody 256 %}
+252 Accessibility for Ontarians With Disabilities Act, 2005, S.O. 2005, c. 11 (Can.), https://www.ontario.ca/laws/statute/05a11 [https://perma.cc/V26B-2NSG].
+{% endfnbody %}
+
+{% fnbody 257 %}
+253 Section 35.130(b)(7) and 35.160.
+{% endfnbody %}
+
+{% fnbody 258 %}
+254 42 U.S.C. 12132.
+{% endfnbody %}
+
+{% fnbody 259 %}
+255 42 U.S.C. 12101(a)(2) and (5).
+{% endfnbody %}
+
+{% fnbody 260 %}
+256 See 42 U.S.C. 12188(b)(2)(C) (allowing civil penalties under title III); see also 28 CFR 36.504(a)(3) (updating the civil penalty amounts).
+{% endfnbody %}
+
+{% fnbody 261 %}
+257 See Public Law 104–121, sec. 212, 110 Stat. at 858.
+{% endfnbody %}
+
+{% fnbody 262 %}
+258 See, e.g., W3C, Evaluating Web Accessibility Overview, https://www.w3.org/WAI/test-evaluate/
+[https://perma.cc/6RDS-X6AR] (Aug. 1, 2023).
+{% endfnbody %}
+
+{% fnbody 263 %}
+259 See, e.g., W3C, Digital Accessibility Foundations Free Online Course,
+https://www.w3.org/WAI/courses/foundations-course/ [https://perma.cc/KU9L-NU4H] (Oct. 24, 2023).
+{% endfnbody %}
+
+{% fnbody 264 %}
+260 See §§ 35.130(b)(1)(ii) and (b)(7) and 35.160.
+{% endfnbody %}
+
+{% fnbody 265 %}
+261 Memorandum for Federal Agency Civil Rights Directors and General Counsels, from Kristen Clarke, Assistant Attorney General, Civil Rights Division, U.S. Department of Justice, Re: Executive Order 12250 Enforcement and Coordination Updates (Jan. 20, 2023), https://www.justice.gov/media/1284016/dl?inline [https://perma.cc/AL6Q-QC57]; Memorandum for Federal Agency Civil Rights Directors and General Counsels, from John M. Gore, Acting Assistant Attorney General, Civil Rights Division, U.S. Department of Justice, Re: Coordination of Federal Agencies’ Implementation of Title II of the Americans with Disabilities Act and Section 504 of the Rehabilitation Act, Civil Rights Division, U.S. Department of Justice (Apr. 24, 2018), https://www.justice.gov/crt/page/file/1060321/download [https://perma.cc/9Q98-BVU2].
+{% endfnbody %}
+
+{% fnbody 266 %}
+262 See 42 U.S.C. 12201.
+{% endfnbody %}
+
+{% fnbody 267 %}
+263 See W3C, Overlay Capabilities Inventory: Draft Community Group Report (Feb. 12, 2024), https://a11yedge.github.io/capabilities/ [https://perma.cc/2762-VJEV]; see also W3C, Draft Web
+Accessibility Evaluation Tools List, https://www.w3.org/WAI/ER/tools/ [https://perma.cc/Q4ME-Q3VW] (last visited Feb. 12, 2024).
+{% endfnbody %}
 {% endfootnotes %}
