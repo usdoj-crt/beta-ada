@@ -14,8 +14,6 @@ print: true
 lang: en
 lead: |-
   Part 35 Nondiscrimination on the Basis of Disability in State and Local Government Services.
-
-  **The text on this page does not include a final rule that the Attorney General signed on April 8, 2024. We will update this page by the time the new rule is effective. <a href="https://www.ada.gov/resources/2024-03-08-web-rule/">Learn more about the new requirements</a>.**
 sidenav-pdf:
   title: Americans with Disabilities Act Title II Regulations
   filename: title-ii-2010-regulations.pdf
@@ -3672,11 +3670,11 @@ The Department notes that the ADA Amendments Act revised the rules of constructi
 
 ## Title II Regulations; Web and Mobile Accessibility Guidance and Section-by-Section Analysis
 
-### APPENDIX D TO PART 35—GUIDANCE TO REVISIONS TO ADA TITLE II REGULATION ON ACCESSIBILITY OF WEB INFORMATION AND SERVICES OF STATE AND LOCAL GOVERNMENT ENTITIES
+**APPENDIX D TO PART 35—GUIDANCE TO REVISIONS TO ADA TITLE II REGULATION ON ACCESSIBILITY OF WEB INFORMATION AND SERVICES OF STATE AND LOCAL GOVERNMENT ENTITIES**
 
 NOTE: This appendix contains guidance providing a section-by-section analysis of the revisions to this part published on April 24, 2024.
 
-**Section-by-Section Analysis and Response to Public Comments**
+### Section-by-Section Analysis and Response to Public Comments
 
 This appendix provides a detailed description of the Department’s changes to this part
 (the title II regulation), the reasoning behind those changes, and responses to public
@@ -10247,27 +10245,26 @@ The Supreme Court in Tennessee v. Lane, 541 U.S. 509, 5330534 (2004), held that 
 88 FR 51966.
 {% endfnbody %}
 {% fnbody 7 %}
-Maintain, Black’s Law Dictionary (11th ed. 2019).
+*Maintain*, Black’s Law Dictionary (11th ed. 2019).
 {% endfnbody %}
 {% fnbody 8 %}
-See Retain, Black’s Law Dictionary (11th ed. 2019) (“To hold in possession or under control; to keep and not lose, part with, or dismiss.”).
+*See Retain*, Black’s Law Dictionary (11th ed. 2019) (“To hold in possession or under control; to keep and not lose, part with, or dismiss.”).
 {% endfnbody %}
 {% fnbody 9 %}
 88 FR 51958, 51968.
 {% endfnbody %}
 {% fnbody 10 %}
-W3C, Introduction to Understanding WCAG, https://www.w3.org/WAI/WCAG21/Understanding/intro
+W3C, *Introduction to Understanding WCAG*, https://www.w3.org/WAI/WCAG21/Understanding/intro
 [https://perma.cc/ XB3Y-QKVU] (June 20, 2023).
 {% endfnbody %}
 {% fnbody 11 %}
-7 See W3C, Understanding Techniques for WCAG Success Criteria,
+7 See W3C, *Understanding Techniques for WCAG Success Criteria*,
 https://www.w3.org/​WAI/​WCAG21/​Understanding/​understanding-techniques [https://perma.cc/​AMT4-XAAL]
 (June 20, 2023).
 {% endfnbody %}
 {% fnbody 12 %}
-See U.S. Census Bureau, Special District Governments,
-https://www.census.gov/glossary/?term=Special+district+governments [https://perma.cc/8V43-KKL9] (last visited
-Feb. 26, 2024).
+*See* U.S. Census Bureau, *Special District Governments*,
+https://www.census.gov/glossary/?term=Special+district+governments [https://perma.cc/8V43-KKL9] (last visited Feb. 26, 2024).
 {% endfnbody %}
 {% fnbody 13 %}
 88 FR 52018.
@@ -10286,16 +10283,15 @@ Section 35.104.
 {% endfnbody %}
 
 {% fnbody 17 %}
-13 See W3C, Web Content Accessibility Guidelines (WCAG) 2.1 (June 5, 2018), https://www.w3.org/TR/2018/REC-
-WCAG21-20180605/ and https://perma.cc/UB8A-GG2F.
+*See* W3C, *Web Content Accessibility Guidelines (WCAG) 2.1* (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/ and https://perma.cc/UB8A-GG2F.
 {% endfnbody %}
 
 {% fnbody 18 %}
-14 Id.
+Id.
 {% endfnbody %}
 
 {% fnbody 19 %}
-15 See W3C, Web Content Accessibility Guidelines 2.1 (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-
+*See* W3C, *Web Content Accessibility Guidelines 2.1* (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-
 20180605/and https://perma.cc/UB8A-GG2F (see definition of “content (Web content)”). WCAG 2.1 defines “user
 agent” as “any software that retrieves and presents Web content for users,” such as web browsers, media players,
 plug-ins, and assistive technologies. See W3C, Web Content Accessibility Guidelines 2.1 (June 5, 2018),
@@ -10308,33 +10304,33 @@ agent”).
 {% endfnbody %}
 
 {% fnbody 21 %}
-17 See W3C, Web Content Accessibility Guidelines 2.1 (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-
+17 *See* W3C, *Web Content Accessibility Guidelines 2.1* (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-
 20180605/ and https://perma.cc/UB8A-GG2F.
 {% endfnbody %}
 
 {% fnbody 22 %}
-18 See §§ 35.130(b)(1)(ii) and (b)(7) and 35.160.
+18 *See* §§ 35.130(b)(1)(ii) and (b)(7) and 35.160.
 {% endfnbody %}
 
 {% fnbody 23 %}
 19 A closed system, or “closed functionality,” means that users cannot attach assistive technology to the system to
-make the content accessible, such as with a travel kiosk. See W3C, WCAG2ICT Overview,
+make the content accessible, such as with a travel kiosk. *See* W3C, *WCAG2ICT Overview*,
 https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/ [https://perma.cc/XRL6-6Q9Y] (Feb. 2, 2024).
 {% endfnbody %}
 
 {% fnbody 24 %}
-20 See 29 U.S.C. 794d. A discussion of the section 508 standards is included later in the section-by-section analysis,
+20 *See* 29 U.S.C. 794d. A discussion of the section 508 standards is included later in the section-by-section analysis,
 in “WCAG 2.0 and Section 508 of the Rehabilitation Act.”
 {% endfnbody %}
 
 {% fnbody 25 %}
-21 W3C, WCAG2ICT Overview, https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/
+21 W3C, *WCAG2ICT Overview*, https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/
 [https://perma.cc/XRL6-6Q9Y] (Feb. 2, 2024).
 {% endfnbody %}
 
 {% fnbody 26 %}
-22 International Organization for Standardization, ISO 14289-1:2014; Document management applications;
-Electronic document file format enhancement for accessibility; Part 1: Use of ISO 32000-1 (PDF/UA1) (Dec. 2014),
+22 International Organization for Standardization, ISO 14289-1:2014; *Document management applications;
+Electronic document file format enhancement for accessibility; Part 1: Use of ISO 32000-1 (PDF/UA1)* (Dec. 2014),
 https://www.iso.org/standard/64599.html [https://perma.cc/S53A-Q3Y2]. One commenter also referred to PDF/UA-
 2; however, the Department’s understanding is that PDF/UA-2 is still under development. International
 Organization for Standardization, ISO 14289-2; Document management applications; Electronic document file
