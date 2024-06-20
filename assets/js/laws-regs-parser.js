@@ -466,7 +466,7 @@ function setUpButtons(searchGo, searchNav, searchBox) {
   const prevButton = searchNav.querySelector('.prev-result');
   const clearButton = searchNav.querySelector('.clear');
   prevButton.addEventListener('click', (e) =>
-  navResults(e, 'prev', prevButton, nextButton, searchNav)
+    navResults(e, 'prev', prevButton, nextButton, searchNav)
   );
   nextButton.addEventListener('click', (e) =>
     navResults(e, 'next', prevButton, nextButton, searchNav)
