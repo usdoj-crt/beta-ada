@@ -4,6 +4,9 @@ layout: default
 
 <div class="crt-page grid-container {% if page.compact %}compact{% endif %}">
   {% include breadcrumbs.html %}
+  {% if page.interactive-headers %}
+    {% include search-box.html mobile=true %}
+  {% endif %}
   <div class="grid-row grid-gap-xl">
     {% if page.sidenav or page.subpagenav %}
     <div id="crt-page--sidenav" class="desktop:grid-col-4">
@@ -26,6 +29,18 @@ layout: default
         {% include subpagenav.html %}
       {% endif %}
       </div>
+      {% endif %}
+      {% if page.print and page.sidenav-pdf.title and page.sidenav-pdf.filename %}
+        <div class="display-flex flex-start margin-top-1 margin-bottom-1 tool-buttons">
+      {% endif %}
+      {% if page.sidenav-pdf.title and page.sidenav-pdf.filename %}
+        {% include download-pdf.html text=page.sidenav-pdf.text filename=page.sidenav-pdf.filename %}
+      {% endif %}
+      {% if page.print %}
+        {% include print-button.html %}
+      {% endif %}
+      {% if page.print and page.sidenav-pdf.title and page.sidenav-pdf.filename %}
+        </div>
       {% endif %}
       {% if page.page-helpful != false and page.permalink contains '/law-and-regs/' and page.subpagenav != true %}
       {% endif %}
