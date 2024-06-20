@@ -1,4 +1,6 @@
 const sidenav = () => {
+  const sideNav = document.getElementById('crt-page--sidenav');
+  if (!sideNav) return;
   const expandButton = document.getElementById('expand-all');
   const expandText = document.querySelector('.expand-text');
   const expandIcon = expandButton.querySelector('.usa-icon');
