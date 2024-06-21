@@ -325,7 +325,7 @@ Administrative practice and procedure, Buildings and facilities, Civil rights, C
 ## Title II Regulations Revised Final Title II Regulation with Integrated Text
 
 <div class="usa-summary-box related-content-container border-0 padding-2 bg-primary-lighter">
-<p>NOTE: These provisions update the relevant portions of the title II regulation to incorporate changes made to the regulatory text through June 24, 2024. These modifications stem from the Pool Extension Final Rule (77 FR 30174, published May 21, 2012),  the ADA Amendments Act Final Rule (81 FR 53204, published Aug. 11, 2016), and the Title II Web and Mobile Accessibility Final Rule (INSERT CITATION). All section headings and changes are noted in bold.</p>
+<p>NOTE: These provisions update the relevant portions of the title II regulation to incorporate changes made to the regulatory text through June 24, 2024. These modifications stem from the Pool Extension Final Rule (77 FR 30174, published May 21, 2012),  the ADA Amendments Act Final Rule (81 FR 53204, published Aug. 11, 2016), and the Title II Web and Mobile Accessibility Final Rule (89 FR 31320, published April 24, 2024). All section headings and changes are noted in bold.</p>
 </div>
 
 **Part 35 Nondiscrimination on the Basis of Disability in State and Local Government Services <br /> (as amended by the final rule published on April 24, 2024)**
@@ -1406,14 +1406,14 @@ A State shall not be immune under the eleventh amendment to the Constitution of 
 
 ### § 35.200 Requirements for web and mobile accessibility.
 
-**(a) General. A public entity shall ensure that the following are readily accessible to and usable by individuals with disabilities:**
+**(a) *General.* A public entity shall ensure that the following are readily accessible to and usable by individuals with disabilities:**
 
 **(1) Web content that a public entity provides or makes available, directly or through contractual, licensing, or other arrangements; and**
 
 **(2) Mobile apps that a public entity provides or makes available, directly or
 through contractual, licensing, or other arrangements.**
 
-**(b) Requirements.**
+**(b) *Requirements*.**
 
 **(1) Beginning April 24, 2026, a public entity, other than a special district government, with a total population of 50,000 or more shall ensure that the web content and mobile apps that the public entity provides or makes available, directly or through contractual, licensing, or other arrangements, comply with Level A and Level AA success criteria and conformance requirements specified in WCAG 2.1, unless the public entity can demonstrate that compliance with this section would result in a fundamental alteration in the nature of a service, program, or activity or in undue financial and administrative burdens.**
 
@@ -1429,15 +1429,15 @@ through contractual, licensing, or other arrangements.**
 
 **(b) Preexisting conventional electronic documents. Conventional electronic documents that are available as part of a public entity’s web content or mobile apps before the date the public entity is required to comply with this subpart, unless such documents are currently used to apply for, gain access to, or participate in the public entity’s services, programs, or activities.**
 
-**(c) Content posted by a third party. Content posted by a third party, unless the third party is posting due to contractual, licensing, or other arrangements with the public entity.**
+**(c) *Content posted by a third party*. Content posted by a third party, unless the third party is posting due to contractual, licensing, or other arrangements with the public entity.**
 
-**(d) Individualized, password-protected or otherwise secured conventional electronic documents. Conventional electronic documents that are:**
+**(d) *Individualized, password-protected or otherwise secured conventional electronic documents*. Conventional electronic documents that are:**
 
 **(1) About a specific individual, their property, or their account; and**
 
 **(2) Password-protected or otherwise secured.**
 
-**(e) Preexisting social media posts. A public entity’s social media posts that were posted before the date the public entity is required to comply with this subpart.**
+**(e) *Preexisting social media posts*. A public entity’s social media posts that were posted before the date the public entity is required to comply with this subpart.**
 
 ### § 35.202 Conforming alternate versions.
 
@@ -1465,7 +1465,7 @@ through contractual, licensing, or other arrangements.**
 
 **(d) Otherwise participate in or benefit from the same services, programs, and activities as individuals without disabilities.**
 
-§§ 35.206-209 [Reserved]
+### §§ 35.206-209 [Reserved]
 
 ## Title II Regulations: 2010 Guidance and Section-by-Section Analysis
 
@@ -4287,15 +4287,7 @@ The Department wishes to clarify that this list is not intended to be exhaustive
 Department declines to broaden the definition of “web content” beyond the definition in
 this part because the Department seeks in its rulemaking to be responsive to calls from
 the public for the Department to provide certainty by adopting a technical standard State
-and local government entities must adhere to for their web content and mobile apps.
-
-The Department thus is limiting its rulemaking effort to web content and mobile apps.
-However, the Department notes that State and local government entities have existing
-accessibility obligations with respect to services, programs, or activities offered through
-other types of technology under title II of the Americans with Disabilities Act (“ADA”) or
-other laws. {% fn 22 %} For example, “closed” systems {% fn 23 %} may need to be made accessible in
-accordance with the existing title II regulation, as public entities have ongoing
-responsibilities to ensure effective communication, among other requirements.
+and local government entities must adhere to for their web content and mobile apps. The Department thus is limiting its rulemaking effort to web content and mobile apps. However, the Department notes that State and local government entities have existing accessibility obligations with respect to services, programs, or activities offered through other types of technology under title II of the Americans with Disabilities Act (“ADA”) or other laws. {% fn 22 %} For example, “closed” systems {% fn 23 %} may need to be made accessible in accordance with the existing title II regulation, as public entities have ongoing responsibilities to ensure effective communication, among other requirements.
 
 Some commenters also suggested that the Department narrow the definition of “web
 content.” A few of these comments came from trade groups representing public
@@ -7478,7 +7470,7 @@ the conclusion that the exceptions would exacerbate existing educational inequit
 students and parents with disabilities without serving their intended purpose of
 meaningfully alleviating burdens for public educational institutions.
 
-#### Infeasibility for Public Educational Institutions
+**Infeasibility for Public Educational Institutions**
 
 Many commenters, including some commenters affiliated with public educational
 institutions, asserted that the course content exceptions and limitations as proposed in
@@ -10191,6 +10183,12 @@ their compliance with subpart H of this part. However, nothing in subpart H woul
 prohibit a public entity from appointing an ADA coordinator for web content and mobile
 apps if the public entity believes taking such an action would help it comply with subpart
 H.
+
+<hr>
+
+***This page combines several different parts of the title II regulation in one integrated page. Some footnote numbers are different from the footnote numbers in the official published versions.***
+
+<hr>
 
 {% footnotes %}
 {% fnbody 1 %}
