@@ -5,16 +5,14 @@
   class="usa-accordion__content pa11y-skip"
   aria-label="{{site.data[lang]['i18n'].aria.side_nav}}"
 >
-<ul class="usa-sidenav">
-    {% if page.print %}
-      {% include print-button.html %}
-    {% endif %}
-    {% if page.sidenav-pdf.title and page.sidenav-pdf.filename %}
-      {% include download-pdf.html text=page.sidenav-pdf.text filename=page.sidenav-pdf.filename %}
-    {% endif %}
-    {% if page.expand-sidenav %}
-      {% include expand-button.html %}
-    {% endif %}
+<ul class="usa-sidenav {% if page.interactive-headers %}interactive{% endif %}">
+  {% if page.interactive-headers %}
+    {% include search-box.html mobile=false %}
+  {% endif %}
+  <span class="text-bold toc-label">Table of contents</span>
+  {% if page.expand-sidenav %}
+    {% include expand-button.html %}
+  {% endif %}
   <li class="usa-sidenav__item">
     <a href="#top" class="usa-current">
       {% if page.short_title %}{{ page.short_title }}{% else %}{{ page.title }}{% endif %}

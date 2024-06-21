@@ -1,0 +1,66 @@
+<div role="region" aria-label="In page search" class="search-box-wrapper {% if include.mobile %} mobile-search-box {% else %} desktop-search-box {% endif %}">
+    <label class="text-bold search-label" for="{% if include.mobile %} in-page-search-mobile {% else %} in-page-search {% endif %}">Search this page</label>
+    <div class="display-flex flex-row flex-align-center position-relative">
+        <svg class="usa-icon search mobile:display-none" aria-hidden="true" focusable="false" role="img">
+            <use xlink:href="{{ '/assets/images/uswds/sprite.svg' | relative_url }}#search"></use>
+        </svg>
+        <input aria-label="In page search. Screen reader users use regions to move back and forth from search field to results" id="{% if include.mobile %} in-page-search-mobile {% else %} in-page-search {% endif %}" class="usa-input radius-lg searchbox" placeholder="Search this page" >
+    <div class="icon-container">
+      <div class="result-nav display-flex display-none flex-align-center">
+        <span class="result-number" aria-live="assertive" aria-label="number of in page search results"><span class="current" aria-label="current result number" aria-live="assertive"></span>/<span class="total" aria-label="total results"></span></span>
+        <a href="#" class="prev-result display-flex flex-align-center flex-row flex-justify disabled" id="prev-result" tabindex="-1" aria-label="go to previous result">
+          <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+            <use xlink:href="{{ '/assets/images/uswds/sprite.svg' | relative_url }}#expand_less"></use>
+          </svg>
+        </a>
+        <a
+          href="#"
+          class="next-result display-flex flex-align-center flex-row flex-justify"
+          id="next-result"
+          tabindex="0"
+          aria-label="go to next result"
+        >
+          <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+            <use xlink:href="{{ '/assets/images/uswds/sprite.svg' | relative_url }}#expand_more"></use>
+          </svg>
+        </a>
+        <a
+          href="#"
+          class="clear display-flex flex-align-center flex-row flex-justify"
+          id="clear"
+          tabindex="0"
+          aria-label="clear search"
+        >
+        {% if include.mobile %}
+        CLEAR
+        {% else %}
+          <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+            <use xlink:href="{{ '/assets/images/uswds/sprite.svg' | relative_url }}#close"></use>
+          </svg>
+          {% endif %}
+        </a>
+      </div>
+      {% unless include.mobile %}
+      <a href="#" class="mobile:display-none display-flex display-none searchbtn flex-align-center flex-row flex-justify submit-search" aria-label="search in page">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+            <use xlink:href="{{ '/assets/images/uswds/sprite.svg' | relative_url }}#arrow_forward"></use>
+        </svg>
+      </a>
+      {% endunless %}
+    </div>
+    {% if include.mobile %}
+    <a href="#" class="desktop:display-none display-flex mobile-searchbar flex-align-center flex-row flex-justify-center submit-search" tabindex="0" aria-label="search in page">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+            <use xlink:href="{{ '/assets/images/uswds/sprite.svg' | relative_url }}#search"></use>
+        </svg>
+    </a>
+    {% endif %}
+  </div>
+  {% if include.mobile %}
+    <a href="#" class="close-search display-flex flex-align-center flex-row flex-justify" id="closeSearch" tabindex="0" aria-label="close search">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+            <use xlink:href="{{ '/assets/images/uswds/sprite.svg' | relative_url }}#close"></use>
+        </svg>
+    </a>
+{% endif %}
+</div>
