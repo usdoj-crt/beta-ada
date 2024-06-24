@@ -10396,8 +10396,7 @@ W3C, *What’s New in WCAG 2.1,* [https://www.w3.org/WAI/standards-guidelines/w
 {% endfnbody %}
 
 {% fnbody 50 %}
-Andrew Buck, MobiLoud, *What Percentage of Internet Traffic is Mobile?,* [https://www.mobiloud.com/blog/what-percentage-of-internet-traffic-is-mobile#what-percentage-of-internet-traffic-comes-on-mobile-devices](https://www.mobiloud.com/blog/what-
-percentage-of-internet-traffic-is-mobile#what-percentage-of-internet-traffic-comes-on-mobile-devices), [https://perma.cc/2FK6-UDD5](https://perma.cc/2FK6-UDD5) (Feb. 7, 2024).
+Andrew Buck, MobiLoud, *What Percentage of Internet Traffic is Mobile?,* [https://www.mobiloud.com/blog/what-percentage-of-internet-traffic-is-mobile#what-percentage-of-internet-traffic-comes-on-mobile-devices](https://www.mobiloud.com/blog/what-percentage-of-internet-traffic-is-mobile#what-percentage-of-internet-traffic-comes-on-mobile-devices), [https://perma.cc/2FK6-UDD5](https://perma.cc/2FK6-UDD5) (Feb. 7, 2024).
 {% endfnbody %}
 
 {% fnbody 51 %}
@@ -10738,9 +10737,7 @@ W3C, *Web Accessibility Initiative, Captions/Subtitles,* [https://www.w3.org/WAI
 {% endfnbody %}
 
 {% fnbody 123 %}
-*E.g.,* W3C, Web Accessibility Initiative, *Captions/Subtitles,* https://www.w3.org/WAI/media/av/captions
-[https://perma.cc/D73P-RBZA] (July 14, 2022); W3C, WCAG 2.2 Understanding Docs: Understanding SC 1.2.4: Captions (Live) (Level AA), https://www.w3.org/WAI/WCAG22/Understanding/captions-live.html
-[https://perma.cc/R8SZ-JA6Z] (Mar. 7, 2024).
+*E.g.,* W3C, Web Accessibility Initiative, *Captions/Subtitles,* [https://www.w3.org/WAI/media/av/captions](https://www.w3.org/WAI/media/av/captions), [https://perma.cc/D73P-RBZA](https://perma.cc/D73P-RBZA) (July 14, 2022); W3C, WCAG 2.2 Understanding Docs: Understanding SC 1.2.4: Captions (Live) (Level AA), [https://www.w3.org/WAI/WCAG22/Understanding/captions-live.html](https://www.w3.org/WAI/WCAG22/Understanding/captions-live.html), [https://perma.cc/R8SZ-JA6Z](https://perma.cc/R8SZ-JA6Z) (Mar. 7, 2024).
 {% endfnbody %}
 
 {% fnbody 124 %}
@@ -10846,8 +10843,7 @@ The Department does not use the term “third-party” to describe mobile apps i
 {% endfnbody %}
 
 {% fnbody 149 %}
-*See Using Mobile Apps in Government,* IBM Ctr. for the Bus. of Gov’t, at 32–33 (2015), [https://www.businessofgovernment.org/sites/default/files/Using%20Mobile%20Apps%20in%20Government.pdf](https://www.businessofgovernment.org/sites/default/files/Using%20Mobile%20Apps%20in%20Government.pdf), 
-[https://perma.cc/248X-8A6C](https://perma.cc/248X-8A6C).
+*See Using Mobile Apps in Government,* IBM Ctr. for the Bus. of Gov’t, at 32–33 (2015), [https://www.businessofgovernment.org/sites/default/files/Using%20Mobile%20Apps%20in%20Government.pdf](https://www.businessofgovernment.org/sites/default/files/Using%20Mobile%20Apps%20in%20Government.pdf), [https://perma.cc/248X-8A6C](https://perma.cc/248X-8A6C).
 {% endfnbody %}
 
 {% fnbody 150 %}
