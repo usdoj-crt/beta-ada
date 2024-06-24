@@ -1425,9 +1425,9 @@ through contractual, licensing, or other arrangements.**
 
 **The requirements of § 35.200 do not apply to the following:**
 
-**(a) Archived web content. Archived web content as defined in § 35.104.**
+**(a) *Archived web content*. Archived web content as defined in § 35.104.**
 
-**(b) Preexisting conventional electronic documents. Conventional electronic documents that are available as part of a public entity’s web content or mobile apps before the date the public entity is required to comply with this subpart, unless such documents are currently used to apply for, gain access to, or participate in the public entity’s services, programs, or activities.**
+**(b) *Preexisting conventional electronic documents*. Conventional electronic documents that are available as part of a public entity’s web content or mobile apps before the date the public entity is required to comply with this subpart, unless such documents are currently used to apply for, gain access to, or participate in the public entity’s services, programs, or activities.**
 
 **(c) *Content posted by a third party*. Content posted by a third party, unless the third party is posting due to contractual, licensing, or other arrangements with the public entity.**
 
@@ -4406,7 +4406,7 @@ language does not change or limit the coverage of subpart H as compared to the
 NPRM. Both the revised language and the NPRM are consistent with the broad
 coverage of § 35.102.
 
-#### Contractual, Licensing, and Other Arrangements
+***Contractual, Licensing, and Other Arrangements***
 
 The general requirements in subpart H of this part apply to web content or mobile apps
 that a public entity provides or makes available directly, as well as those the public
@@ -5989,7 +5989,7 @@ other factors already noted. After full consideration of all the comments receiv
 subpart H of this part requires conformance to WCAG 2.1 Level AA as a whole on the
 same compliance time frame, for all of the reasons stated in this section.
 
-**Section 35.201 Exceptions**
+### Section 35.201 Exceptions
 
 Section 35.200 requires public entities to make their web content and mobile apps
 accessible by complying with a technical standard for accessibility—WCAG 2.1
@@ -7470,7 +7470,7 @@ the conclusion that the exceptions would exacerbate existing educational inequit
 students and parents with disabilities without serving their intended purpose of
 meaningfully alleviating burdens for public educational institutions.
 
-**Infeasibility for Public Educational Institutions**
+**<u>Infeasibility for Public Educational Institutions</u>**
 
 Many commenters, including some commenters affiliated with public educational
 institutions, asserted that the course content exceptions and limitations as proposed in
