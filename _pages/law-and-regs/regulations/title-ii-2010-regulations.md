@@ -469,7 +469,7 @@ users.</strong>
 
 _Video remote interpreting (VRI) service_ means an interpreting service that uses video conference technology over dedicated lines or wireless technology offering high-speed, wide-bandwidth video connection that delivers high-quality video images as provided in &sect; 35.160(d).
 
-<strong>_WCAG 2.1_ means the Web Content Accessibility Guidelines (“WCAG”) 2.1, W3C Recommendation 05 June 2018, https://www.w3.org/TR/2018/REC-WCAG21-20180605/ and https://perma.cc/UB8A-GG2F. WCAG 2.1 is incorporated by reference elsewhere in this part (see §§ 35.200 and 35.202).</strong>
+<strong>_WCAG 2.1_ means the Web Content Accessibility Guidelines (“WCAG”) 2.1, W3C Recommendation 05 June 2018, [https://www.w3.org/TR/2018/REC-WCAG21-20180605/](https://www.w3.org/TR/2018/REC-WCAG21-20180605/) and [https://perma.cc/UB8A-GG2F](https://perma.cc/UB8A-GG2F). WCAG 2.1 is incorporated by reference elsewhere in this part (see §§ 35.200 and 35.202).</strong>
 
 <strong>_Web content_ means the information and sensory experience to be communicated to the user by means of a user agent, including code or markup that defines the content’s structure, presentation, and interactions. Examples of web content include text, images, sounds, videos, controls, animations, and conventional electronic documents.</strong>
 
@@ -1419,7 +1419,7 @@ through contractual, licensing, or other arrangements.**
 
 **(2) Beginning April 26, 2027, a public entity with a total population of less than 50,000 or any public entity that is a special district government shall ensure that the web content and mobile apps that the public entity provides or makes available, directly or through contractual, licensing, or other arrangements, comply with Level A and Level AA success criteria and conformance requirements specified in WCAG 2.1, unless the public entity can demonstrate that compliance with this section would result in a fundamental alteration in the nature of a service, program, or activity or in undue financial and administrative burdens.**
 
-**(3) WCAG 2.1 is incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51.  All material approved for incorporation by reference is available for inspection at the U.S. Department of Justice and at the National Archives and Records Administration (“NARA”).  Contact the U.S. Department of Justice at: Disability Rights Section, Civil Rights Division, U.S. Department of Justice, 150 M St. N.E., 9th Floor, Washington, D.C. 20002; ADA Information Line: (800) 514–0301 (voice) or 1–833–610–1264 (TTY); website: www.ada.gov [https://perma.cc/U2V5-78KW].  For information on the availability of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations.html [https://perma.cc/9SJ7-D7XZ] or email fr.inspection@nara.gov. The material may be obtained from the World Wide Web Consortium (“W3C”) Web Accessibility Initiative (“WAI”), 401 Edgewater Place, Suite 600, Wakefield, MA 01880; phone: (339) 273–2711; email: contact@w3.org; website: https://www.w3.org/TR/2018/REC-WCAG21-20180605/ and https://perma.cc/UB8A-GG2F.**
+**(3) WCAG 2.1 is incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51.  All material approved for incorporation by reference is available for inspection at the U.S. Department of Justice and at the National Archives and Records Administration (“NARA”).  Contact the U.S. Department of Justice at: Disability Rights Section, Civil Rights Division, U.S. Department of Justice, 150 M St. N.E., 9th Floor, Washington, D.C. 20002; ADA Information Line: (800) 514–0301 (voice) or 1–833–610–1264 (TTY); website: [www.ada.gov](https://www.ada.gov).  For information on the availability of this material at NARA, visit [www.archives.gov/federal-register/cfr/ibr-locations.html](https://perma.cc/9SJ7-D7XZ) or email fr.inspection@nara.gov. The material may be obtained from the World Wide Web Consortium (“W3C”) Web Accessibility Initiative (“WAI”), 401 Edgewater Place, Suite 600, Wakefield, MA 01880; phone: (339) 273–2711; email: contact@w3.org; website: [https://www.w3.org/TR/2018/REC-WCAG21-20180605/](https://www.w3.org/TR/2018/REC-WCAG21-20180605/) and [https://perma.cc/UB8A-GG2F](https://perma.cc/UB8A-GG2F).**
 
 ### § 35.201 Exceptions.
 
@@ -1443,7 +1443,7 @@ through contractual, licensing, or other arrangements.**
 
 **(a) A public entity may use conforming alternate versions of web content, as defined by WCAG 2.1, to comply with § 35.200 only where it is not possible to make web content directly accessible due to technical or legal limitations.**
 
-**(b) WCAG 2.1 is incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51.  All material approved for incorporation by reference is available for inspection at the U.S. Department of Justice and at NARA.  Contact the U.S. Department of Justice at: Disability Rights Section, Civil Rights Division, U.S. Department of Justice, 150 M St. N.E., 9th Floor, Washington, D.C. 20002; ADA Information Line: (800) 514–0301 (voice) or 1–833–610–1264 (TTY); website: www.ada.gov [https://perma.cc/U2V5-78KW]. For information on the availability of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations.html [https://perma.cc/9SJ7-D7XZ] or email fr.inspection@nara.gov. The material may be obtained from W3C WAI, 401 Edgewater Place, Suite 600, Wakefield, MA 01880; phone: (339) 273–2711; email: contact@w3.org; website: https://www.w3.org/TR/2018/REC-WCAG21-20180605/ and https://perma.cc/UB8A-GG2F.**
+**(b) WCAG 2.1 is incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51.  All material approved for incorporation by reference is available for inspection at the U.S. Department of Justice and at NARA.  Contact the U.S. Department of Justice at: Disability Rights Section, Civil Rights Division, U.S. Department of Justice, 150 M St. N.E., 9th Floor, Washington, D.C. 20002; ADA Information Line: (800) 514–0301 (voice) or 1–833–610–1264 (TTY); website: www.ada.gov [https://perma.cc/U2V5-78KW]. For information on the availability of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations.html [https://perma.cc/9SJ7-D7XZ] or email fr.inspection@nara.gov. The material may be obtained from W3C WAI, 401 Edgewater Place, Suite 600, Wakefield, MA 01880; phone: (339) 273–2711; email: contact@w3.org; website: [https://www.w3.org/TR/2018/REC-WCAG21-20180605/](https://www.w3.org/TR/2018/REC-WCAG21-20180605/) and [https://perma.cc/UB8A-GG2F](https://perma.cc/UB8A-GG2F).**
 
 ### § 35.203 Equivalent facilitation.
 
@@ -4215,9 +4215,7 @@ The Department is including a definition of “WCAG 2.1.” The term “WCAG 2
 the 2018 version of the voluntary guidelines for web accessibility, known as the Web
 Content Accessibility Guidelines 2.1 (“WCAG 2.1”). W3C, the principal international
 organization involved in developing standards for the web, published WCAG 2.1 in June
-2018, and it is available at https://www.w3.org/TR/2018/REC-WCAG21-20180605/ and
-https://perma.cc/UB8A-GG2F. WCAG 2.1 is discussed in more detail in the section-by-
-section analysis of § 35.200.
+2018, and it is available at [https://www.w3.org/TR/2018/REC-WCAG21-20180605/](https://www.w3.org/TR/2018/REC-WCAG21-20180605/) and [https://perma.cc/UB8A-GG2F](https://perma.cc/UB8A-GG2F). WCAG 2.1 is discussed in more detail in the section-by-section analysis of § 35.200.
 
 **“Web content”**
 
@@ -4521,14 +4519,9 @@ Accessibility Initiative (“WAI”) has developed voluntary guidelines for web 
 individuals with disabilities. {% fn 33 %}
 
 The first version of WCAG, WCAG 1.0, was published in 1999. WCAG 2.0 was
-published in December 2008, and is available at http://www.w3.org/TR/2008/REC-
-WCAG20-20081211/ [https://perma.cc/L2NH-VLCR]. WCAG 2.0 was approved as an
-international standard by the International Organization for Standardization (“ISO”) and
+published in December 2008, and is available at [http://www.w3.org/TR/2008/REC-WCAG20-20081211/](http://www.w3.org/TR/2008/REC-WCAG20-20081211/) [https://perma.cc/L2NH-VLCR](https://perma.cc/L2NH-VLCR). WCAG 2.0 was approved as an international standard by the International Organization for Standardization (“ISO”) and
 the International Electrotechnical Commission (“IEC”) in October 2012. {% fn 34 %} WCAG 2.1
-was published in June 2018, and is available at https://www.w3.org/TR/2018/REC-
-WCAG21-20180605/ and https://perma.cc/UB8A-GG2F. {% fn 35 %} WCAG 2.1 is built on and is
-backwards compatible with WCAG 2.0. {% fn 36 %} In fact, 38 of the 50 Level A and AA success
-criteria in WCAG 2.1 are also included in WCAG 2.0. {% fn 37 %}
+was published in June 2018, and is available at [https://www.w3.org/TR/2018/REC-WCAG21-20180605/](https://www.w3.org/TR/2018/REC-WCAG21-20180605/) and [https://perma.cc/UB8A-GG2F](https://perma.cc/UB8A-GG2F). {% fn 35 %} WCAG 2.1 is built on and isbbackwards compatible with WCAG 2.0. {% fn 36 %} In fact, 38 of the 50 Level A and AA success criteria in WCAG 2.1 are also included in WCAG 2.0. {% fn 37 %}
 
 WCAG 2.1 contains four principles that provide the foundation for web accessibility: the
 web content must be perceivable, operable, understandable, and robust. {% fn 38 %} Testable
@@ -4542,9 +4535,7 @@ regulatory efforts such as this one.
 
 Section 35.200 requires that public entities’ web content and mobile apps conform to
 WCAG 2.1 Level AA unless compliance would result in a fundamental alteration or
-undue financial and administrative burdens. As previously mentioned, WCAG 2.1 was published in June 2018 and is available at https://www.w3.org/TR/2018/REC-WCAG21-
-20180605/ and https://perma.cc/UB8A-GG2F. To the extent there are differences
-between WCAG 2.1 Level AA and the standards articulated in this part, the standards
+undue financial and administrative burdens. As previously mentioned, WCAG 2.1 was published in June 2018 and is available at [https://www.w3.org/TR/2018/REC-WCAG21-20180605/](https://www.w3.org/TR/2018/REC-WCAG21-20180605/) and [https://perma.cc/UB8A-GG2F](https://perma.cc/UB8A-GG2F). To the extent there are differences between WCAG 2.1 Level AA and the standards articulated in this part, the standards
 articulated in this part prevail. WCAG 2.1 Level AA is not restated in full in this part but
 is instead incorporated by reference.
 
@@ -5010,7 +5001,7 @@ recommend that Level AAA conformance be required as a general policy for entire
 websites because it is not possible to satisfy all Level AAA criteria for some content. {% fn 88 %}
 Adopting a Level AA conformance level makes the requirements of subpart H consistent
 with a standard that has been accepted internationally. {% fn 89 %} The web content of Federal agencies is also required to conform to WCAG 2.0 Level AA under the Section 508
-Standards. {% fn 90 %}
+Standards.{% fn 90 %}
 
 Therefore, the Department believes that adopting the Level AA conformance level
 strikes the right balance between accessibility for individuals with disabilities and
@@ -5073,7 +5064,7 @@ and mobile apps, it is important that both platforms are subject to the standard
 same times to ensure consistency in accessibility and to reduce confusion. The
 Department believes these compliance dates strike the appropriate balance between
 reducing burdens for public entities and ensuring accessibility for individuals with
-disabilities. 
+disabilities.
 
 Some commenters stated that it would be helpful to clarify whether subpart H of this
 part establishes a one-time compliance requirement or instead establishes an ongoing
@@ -10219,17 +10210,16 @@ The Supreme Court in Tennessee v. Lane, 541 U.S. 509, 5330534 (2004), held that 
 88 FR 51958, 51968.
 {% endfnbody %}
 {% fnbody 10 %}
-W3C, *Introduction to Understanding WCAG*, https://www.w3.org/WAI/WCAG21/Understanding/intro
-[https://perma.cc/ XB3Y-QKVU] (June 20, 2023).
+W3C, *Introduction to Understanding WCAG*, [https://www.w3.org/WAI/WCAG21/Understanding/intro](https://www.w3.org/WAI/WCAG21/Understanding/intro), [https://perma.cc/XB3Y-QKVU](https://perma.cc/XB3Y-QKVU) (June 20, 2023).
 {% endfnbody %}
 {% fnbody 11 %}
 7 See W3C, *Understanding Techniques for WCAG Success Criteria*,
-https://www.w3.org/​WAI/​WCAG21/​Understanding/​understanding-techniques [https://perma.cc/​AMT4-XAAL]
+[https://www.w3.org/​WAI/​WCAG21/​Understanding/​understanding-techniques](https://perma.cc/​AMT4-XAAL)
 (June 20, 2023).
 {% endfnbody %}
 {% fnbody 12 %}
 *See* U.S. Census Bureau, *Special District Governments*,
-https://www.census.gov/glossary/?term=Special+district+governments [https://perma.cc/8V43-KKL9] (last visited Feb. 26, 2024).
+[https://www.census.gov/glossary/?term=Special+district+governments](https://www.census.gov/glossary/?term=Special+district+governments), [https://perma.cc/8V43-KKL9](https://perma.cc/8V43-KKL9) (last visited Feb. 26, 2024).
 {% endfnbody %}
 {% fnbody 13 %}
 88 FR 52018.
@@ -10248,7 +10238,7 @@ Section 35.104.
 {% endfnbody %}
 
 {% fnbody 17 %}
-*See* W3C, *Web Content Accessibility Guidelines (WCAG) 2.1* (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/ and https://perma.cc/UB8A-GG2F.
+*See* W3C, *Web Content Accessibility Guidelines (WCAG) 2.1* (June 5, 2018), [https://www.w3.org/TR/2018/REC-WCAG21-20180605/](https://www.w3.org/TR/2018/REC-WCAG21-20180605/) and [https://perma.cc/UB8A-GG2F](https://perma.cc/UB8A-GG2F).
 {% endfnbody %}
 
 {% fnbody 18 %}
@@ -10256,10 +10246,9 @@ Section 35.104.
 {% endfnbody %}
 
 {% fnbody 19 %}
-*See* W3C, *Web Content Accessibility Guidelines 2.1* (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-
-20180605/and https://perma.cc/UB8A-GG2F (see definition of “content (Web content)”). WCAG 2.1 defines “user
+*See* W3C, *Web Content Accessibility Guidelines 2.1* (June 5, 2018), [https://www.w3.org/TR/2018/REC-WCAG21-20180605/](https://www.w3.org/TR/2018/REC-WCAG21-20180605/) and [https://perma.cc/UB8A-GG2F](https://perma.cc/UB8A-GG2F) (see definition of “content (Web content)”). WCAG 2.1 defines “user
 agent” as “any software that retrieves and presents Web content for users,” such as web browsers, media players, plug-ins, and assistive technologies. *See W3C, Web Content Accessibility Guidelines 2.1* (June 5, 2018),
-https://www.w3.org/TR/2018/REC-WCAG21-20180605/ and https://perma.cc/UB8A-GG2F (see definition of “user
+[https://www.w3.org/TR/2018/REC-WCAG21-20180605/](https://www.w3.org/TR/2018/REC-WCAG21-20180605/) and [https://perma.cc/UB8A-GG2F](https://perma.cc/UB8A-GG2F) (see definition of “user
 agent”).
 {% endfnbody %}
 
@@ -10268,8 +10257,7 @@ agent”).
 {% endfnbody %}
 
 {% fnbody 21 %}
-*See* W3C, *Web Content Accessibility Guidelines 2.1* (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-
-20180605/ and https://perma.cc/UB8A-GG2F.
+*See* W3C, *Web Content Accessibility Guidelines 2.1* (June 5, 2018), [https://www.w3.org/TR/2018/REC-WCAG21-20180605/](https://www.w3.org/TR/2018/REC-WCAG21-20180605/) and [https://perma.cc/UB8A-GG2F](https://perma.cc/UB8A-GG2F).
 {% endfnbody %}
 
 {% fnbody 22 %}
@@ -10277,9 +10265,8 @@ agent”).
 {% endfnbody %}
 
 {% fnbody 23 %}
-A closed system, or “closed functionality,” means that users cannot attach assistive technology to the system to
-make the content accessible, such as with a travel kiosk. *See* W3C, *WCAG2ICT Overview*,
-https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/ [https://perma.cc/XRL6-6Q9Y] (Feb. 2, 2024).
+A closed system, or “closed functionality,” means that users cannot attach assistive technology to the system to make the content accessible, such as with a travel kiosk. *See* W3C, *WCAG2ICT Overview*,
+[https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/](https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/), [https://perma.cc/XRL6-6Q9Y](https://perma.cc/XRL6-6Q9Y) (Feb. 2, 2024).
 {% endfnbody %}
 
 {% fnbody 24 %}
@@ -10287,14 +10274,13 @@ https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/ [https://perma.cc/
 {% endfnbody %}
 
 {% fnbody 25 %}
-W3C, *WCAG2ICT Overview*, https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/
-[https://perma.cc/XRL6-6Q9Y] (Feb. 2, 2024).
+W3C, *WCAG2ICT Overview*, [https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/](https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/), [https://perma.cc/XRL6-6Q9Y](https://perma.cc/XRL6-6Q9Y) (Feb. 2, 2024).
 {% endfnbody %}
 
 {% fnbody 26 %}
-International Organization for Standardization, ISO 14289-1:2014; *Document management applications Electronic document file format enhancement for accessibility; Part 1: Use of ISO 32000-1 (PDF/UA1)* (Dec. 2014), https://www.iso.org/standard/64599.html [https://perma.cc/S53A-Q3Y2]. One commenter also referred to PDF/UA-2; however, the Department’s understanding is that PDF/UA-2 is still under development. International
+International Organization for Standardization, ISO 14289-1:2014; *Document management applications Electronic document file format enhancement for accessibility; Part 1: Use of ISO 32000-1 (PDF/UA1)* (Dec. 2014), [https://www.iso.org/standard/64599.html](https://www.iso.org/standard/64599.html), [https://perma.cc/S53A-Q3Y2](https://perma.cc/S53A-Q3Y2). One commenter also referred to PDF/UA-2; however, the Department’s understanding is that PDF/UA-2 is still under development. International
 Organization for Standardization, *ISO 14289-2; Document management applications; Electronic document file format enhancement for accessibility; Part 2: Use of ISO 32000-2 (PDF/UA-2),*
-https://www.iso.org/standard/82278.html [https://perma.cc/3W5L-UJ7J].
+[https://www.iso.org/standard/82278.html](https://www.iso.org/standard/82278.html), [https://perma.cc/3W5L-UJ7J](https://perma.cc/3W5L-UJ7J).
 {% endfnbody %}
 
 {% fnbody 27 %}
@@ -10303,7 +10289,7 @@ was designed to be technology-neutral, it assumes the presence of a ‘user agen
 assistive technology as a means to access web content. Therefore, the application of WCAG 2.2 to documents and
 software in non-web contexts require[s] some interpretation in order to determine how the intent of each WCAG 2.2
 success criterion could be met in these different contexts of use.” *W3C, Guidance on Applying WCAG 2.2 to Non-Web Information and Communications Technologies (WCAG2ICT): Group Draft Note* (Aug. 15, 2023),
-https://www.w3.org/TR/wcag2ict-22/ [https://perma.cc/2PYA-4RFH]. While this quotation addresses WCAG 2.2,
+[https://www.w3.org/TR/wcag2ict-22/](https://www.w3.org/TR/wcag2ict-22/), [https://perma.cc/2PYA-4RFH](https://perma.cc/2PYA-4RFH). While this quotation addresses WCAG 2.2,
 the beginning of the guidance notes that “the current draft includes guidance for WCAG 2.1 success criteria.” *Id.*
 {% endfnbody %}
 
@@ -10324,7 +10310,7 @@ Section 35.130(b)(1) and (3). *See also* § 35.152(a) (describing requirements f
 {% endfnbody %}
 
 {% fnbody 32 %}
-W3C, *About Us*, https://www.w3.org/about/ [https://perma.cc/TQ2W-T377].
+W3C, *About Us*, [https://www.w3.org/about/](https://www.w3.org/about/), [https://perma.cc/TQ2W-T377](https://perma.cc/TQ2W-T377).
 {% endfnbody %}
 
 {% fnbody 33 %}
@@ -10333,25 +10319,23 @@ Department for adopting WCAG as the technical standard and noting that WCAG is d
 transparent, multi-stakeholder consensus process. The Department carefully considered these comments and
 concluded that it is appropriate to adopt a consensus standard promulgated by W3C with input from various
 stakeholders, which is also consistent with the NTTAA. Information from W3C about its process for developing
-standards is available at W3C, Web Accessibility Initiative, *How WAI Develops Accessibility Standards Through the W3C Process: Milestones and Opportunities To Contribute* (Sept. 2006), https://www.w3.org/WAI/standards-
-guidelines/w3c-process/ [https://perma.cc/3BED-RCJP] (Nov. 2, 2020).
+standards is available at W3C, Web Accessibility Initiative, *How WAI Develops Accessibility Standards Through the W3C Process: Milestones and Opportunities To Contribute* (Sept. 2006), [https://www.w3.org/WAI/standards-guidelines/w3c-process/](https://www.w3.org/WAI/standards-guidelines/w3c-process/), [https://perma.cc/3BED-RCJP](https://perma.cc/3BED-RCJP) (Nov. 2, 2020).
 {% endfnbody %}
 
 {% fnbody 34 %}
 W3C, *Web Content Accessibility Guidelines 2.0 Approved as ISO/IEC International Standard* (Oct. 15, 2012),
-https://www.w3.org/press-releases/2012/wcag2pas/ [https://perma.cc/JQ39-HGKQ].
+[https://www.w3.org/press-releases/2012/wcag2pas/](https://www.w3.org/press-releases/2012/wcag2pas/), [https://perma.cc/JQ39-HGKQ](https://perma.cc/JQ39-HGKQ).
 {% endfnbody %}
 
 {% fnbody 35 %}
 The WAI also published some revisions to WCAG 2.1 on September 21, 2023. W3C, *Web Content Accessibility
-Guidelines* (WCAG) 2.1 (Sept. 21, 2023), https://www.w3.org/TR/WCAG21/ [https://perma.cc/4VF7-NF5F]; ***see
-infra note*** 47. The WAI also published a working draft of WCAG 3.0 in December 2021. W3C, *W3C Accessibility Guidelines (WCAG) 3.0*, https://www.w3.org/TR/wcag-3.0/ (July 24, 2023) [https://perma.cc/7FPQ-EEJ7].
+Guidelines* (WCAG) 2.1 (Sept. 21, 2023), [https://www.w3.org/TR/WCAG21/](https://www.w3.org/TR/WCAG21/), [https://perma.cc/4VF7-NF5F](https://perma.cc/4VF7-NF5F); ***see
+infra note*** 47. The WAI also published a working draft of WCAG 3.0 in December 2021. W3C, *W3C Accessibility Guidelines (WCAG) 3.0*, [https://www.w3.org/TR/wcag-3.0/](https://www.w3.org/TR/wcag-3.0/) (July 24, 2023), [https://perma.cc/7FPQ-EEJ7](https://perma.cc/7FPQ-EEJ7).
 {% endfnbody %}
 
 {% fnbody 36 %}
 W3C, *Web Content Accessibility Guidelines (WCAG) 2.1, 0.5 Comparison with WCAG 2.0* (June 5, 2018),
-https://www.w3.org/TR/2018/REC-WCAG21-20180605/#comparison-with-wcag-2-0 [https://perma.cc/H76F-
-6L27].
+[https://www.w3.org/TR/2018/REC-WCAG21-20180605/#comparison-with-wcag-2-0](https://www.w3.org/TR/2018/REC-WCAG21-20180605/#comparison-with-wcag-2-0), [https://perma.cc/H76F-6L27](https://perma.cc/H76F-6L27).
 {% endfnbody %}
 
 {% fnbody 37 %}
@@ -10360,7 +10344,7 @@ https://www.w3.org/TR/2018/REC-WCAG21-20180605/#comparison-with-wcag-2-0 [https:
 
 {% fnbody 38 %}
 *See* W3C, *Web Content Accessibility Guidelines (WCAG) 2.1, WCAG 2 Layers of Guidance* (Sept. 21, 2023),
-https://www.w3.org/TR/WCAG21/#wcag-2-layers-of-guidance [https://perma.cc/5PDG-ZTJE].
+[https://www.w3.org/TR/WCAG21/#wcag-2-layers-of-guidance](https://www.w3.org/TR/WCAG21/#wcag-2-layers-of-guidance), [https://perma.cc/5PDG-ZTJE](https://perma.cc/5PDG-ZTJE).
 {% endfnbody %}
 
 {% fnbody 39 %}
@@ -10369,24 +10353,21 @@ https://www.w3.org/TR/WCAG21/#wcag-2-layers-of-guidance [https://perma.cc/5PDG-Z
 
 {% fnbody 40 %}
 W3C, *Web Content Accessibility Guidelines (WCAG) 2.1, 0.5 Comparison with WCAG 2.0* (June 5, 2018),
-https://www.w3.org/TR/2018/REC-WCAG21-20180605/#comparison-with-wcag-2-0 [https://perma.cc/H76F-
-6L27].
+[https://www.w3.org/TR/2018/REC-WCAG21-20180605/#comparison-with-wcag-2-0](https://www.w3.org/TR/2018/REC-WCAG21-20180605/#comparison-with-wcag-2-0), [https://perma.cc/H76F-6L27](https://perma.cc/H76F-6L27).
 {% endfnbody %}
 
 {% fnbody 41 %}
-W3C, *Introduction to Understanding WCAG*, https://www.w3.org/WAI/WCAG21/Understanding/intro
-[https://perma.cc/XB3Y-QKVU] (June 20, 2023).
+W3C, *Introduction to Understanding WCAG*, [https://www.w3.org/WAI/WCAG21/Understanding/intro](https://www.w3.org/WAI/WCAG21/Understanding/intro), [https://perma.cc/XB3Y-QKVU](https://perma.cc/XB3Y-QKVU)) (June 20, 2023).
 {% endfnbody %}
 
 {% fnbody 42 %}
 *See* W3C, *Understanding Techniques for WCAG Success Criteria,*
-https://www.w3.org/WAI/WCAG21/Understanding/understanding-techniques [https://perma.cc/AMT4-XAAL]
+[https://www.w3.org/WAI/WCAG21/Understanding/understanding-techniques](https://www.w3.org/WAI/WCAG21/Understanding/understanding-techniques), [https://perma.cc/AMT4-XAAL](https://perma.cc/AMT4-XAAL)
 (June 20, 2023).
 {% endfnbody %}
 
 {% fnbody 43 %}
-*See* W3C, *Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 1.4.10 Reflow* (June 5, 2018),
-https://www.w3.org/TR/2018/REC-WCAG21-20180605/#reflow [https://perma.cc/TU9U-C8K2].
+*See* W3C, *Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 1.4.10 Reflow* (June 5, 2018), [https://www.w3.org/TR/2018/REC-WCAG21-20180605/#reflow](https://www.w3.org/TR/2018/REC-WCAG21-20180605/#reflow), [https://perma.cc/TU9U-C8K2](https://perma.cc/TU9U-C8K2).
 {% endfnbody %}
 
 {% fnbody 44 %}
@@ -10394,13 +10375,11 @@ https://www.w3.org/TR/2018/REC-WCAG21-20180605/#reflow [https://perma.cc/TU9U-C8
 {% endfnbody %}
 
 {% fnbody 45 %}
-*See* W3C, *Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 1.3.4 Orientation* (June 5, 2018),
-https://www.w3.org/TR/2018/REC-WCAG21-20180605/#orientation [https://perma.cc/M2YG-LB9V].
+*See* W3C, *Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 1.3.4 Orientation* (June 5, 2018), [https://www.w3.org/TR/2018/REC-WCAG21-20180605/#orientation](https://www.w3.org/TR/2018/REC-WCAG21-20180605/#orientation), [https://perma.cc/M2YG-LB9V](https://perma.cc/M2YG-LB9V).
 {% endfnbody %}
 
 {% fnbody 46 %}
-W3C, *What’s New in WCAG 2.1,* https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/
-[https://perma.cc/S7VS-J6E4] (Oct. 5, 2023).
+W3C, *What’s New in WCAG 2.1,* [https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/), [https://perma.cc/S7VS-J6E4](https://perma.cc/S7VS-J6E4) (Oct. 5, 2023).
 {% endfnbody %}
 
 {% fnbody 47 %}
@@ -10409,57 +10388,50 @@ W3C, *What’s New in WCAG 2.1,* https://www.w3.org/WAI/standards-guidelines/wc
 
 {% fnbody 48 %}
 *See* W3C, *Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 2.5.4 Motion Actuation* (June 5,
-2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#motion-actuation [https://perma.cc/D3PS-32NV].
+2018), [https://www.w3.org/TR/2018/REC-WCAG21-20180605/#motion-actuation](https://www.w3.org/TR/2018/REC-WCAG21-20180605/#motion-actuation), [https://perma.cc/D3PS-32NV](https://perma.cc/D3PS-32NV).
 {% endfnbody %}
 
 {% fnbody 49 %}
-*See* W3C, *What’s New in WCAG 2.1,* https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/
-[https://perma.cc/W8HK-Z5QK] (Oct. 5, 2023).
+*See* W3C, *What’s New in WCAG 2.1,* [https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/), [https://perma.cc/W8HK-Z5QK](https://perma.cc/W8HK-Z5QK) (Oct. 5, 2023).
 {% endfnbody %}
 
 {% fnbody 50 %}
-Andrew Buck, MobiLoud, *What Percentage of Internet Traffic is Mobile?,* https://www.mobiloud.com/blog/what-
-percentage-of-internet-traffic-is-mobile#what-percentage-of-internet-traffic-comes-on-mobile-devices
-[https://perma.cc/2FK6-UDD5] (Feb. 7, 2024).
+Andrew Buck, MobiLoud, *What Percentage of Internet Traffic is Mobile?,* [https://www.mobiloud.com/blog/what-percentage-of-internet-traffic-is-mobile#what-percentage-of-internet-traffic-comes-on-mobile-devices](https://www.mobiloud.com/blog/what-
+percentage-of-internet-traffic-is-mobile#what-percentage-of-internet-traffic-comes-on-mobile-devices), [https://perma.cc/2FK6-UDD5](https://perma.cc/2FK6-UDD5) (Feb. 7, 2024).
 {% endfnbody %}
 
 {% fnbody 51 %}
 The WAI published some revisions to WCAG 2.1 on September 21, 2023.  *See* W3C, *Web Content Accessibility
-Guidelines (WCAG) 2.1* (Sept. 21, 2023), https://www.w3.org/TR/WCAG21/ [https://perma.cc/4VF7-NF5F].
- However, for the reasons discussed in this section, subpart H of this part requires conformance to the version of
-WCAG 2.1 that was published in 2018.  W3C, *Web Content Accessibility Guidelines 2.1* (June 5, 2018),
-https://www.w3.org/TR/2018/REC-WCAG21-20180605/ and https://perma.cc/UB8A-GG2F.  The Department
-believes that public entities have not had sufficient time to become familiar with the 2023 version.  Public entities and others also may not have had an adequate opportunity to comment on whether the Department should adopt the 2023 version, which was published shortly before the comment period on the NPRM closed on October 3, 2023. One recent revision to WCAG 2.1 relates to Success Criterion 4.1.1, which addresses parsing.  W3C has described Success Criterion 4.1.1 as “obsolete” and stated that it “is no longer needed for accessibility.”  W3C, *WCAG 2 FAQ*, https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411 [https://perma.cc/24FK-V8LS] (Oct. 5, 2023). According to the 2023 version of WCAG, *Success Criterion 4.1.1* “should be considered as always satisfied for any content using HTML or XML.”  W3C, *Web Content Accessibility Guidelines (WCAG) 2.1* (Sept. 21, 2023), https://www.w3.org/TR/WCAG21/ [https://perma.cc/4VF7-NF5F].  The Department believes that either adopting this note from the 2023 version of WCAG or not requiring conformance to Success Criterion 4.1.1 is likely to create significant confusion.  And although Success Criterion 4.1.1 has been removed from WCAG 2.2, the Department has decided not to adopt WCAG 2.2 for the reasons described herein.  W3C, *WCAG 2 FAQ*, https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411 [https://perma.cc/45DS-RRYS] (Oct. 5, 2023).  Therefore, conformance to Success Criterion 4.1.1 is still required by subpart H of this part.  Public entities that do not conform to Success Criterion 4.1.1 would nonetheless be able to rely on § 35.205 to satisfy their obligations under § 35.200 if the failure to conform to Success Criterion 4.1.1 would not affect the ability of individuals with disabilities to use the public entity’s web content or mobile app in the manner described in that section.  The Department expects that this provision will help public entities avoid any unnecessary burden that might be imposed by Success Criterion 4.1.1.
+Guidelines (WCAG) 2.1* (Sept. 21, 2023), [https://www.w3.org/TR/WCAG21/](https://www.w3.org/TR/WCAG21/),  [https://perma.cc/4VF7-NF5F](https://perma.cc/4VF7-NF5F).
+ However, for the reasons discussed in this section, subpart H of this part requires conformance to the version of WCAG 2.1 that was published in 2018.  W3C, *Web Content Accessibility Guidelines 2.1* (June 5, 2018),
+[https://www.w3.org/TR/2018/REC-WCAG21-20180605/](https://www.w3.org/TR/2018/REC-WCAG21-20180605/) and [https://perma.cc/UB8A-GG2F](https://perma.cc/UB8A-GG2F).  The Department
+believes that public entities have not had sufficient time to become familiar with the 2023 version.  Public entities and others also may not have had an adequate opportunity to comment on whether the Department should adopt the 2023 version, which was published shortly before the comment period on the NPRM closed on October 3, 2023. One recent revision to WCAG 2.1 relates to Success Criterion 4.1.1, which addresses parsing.  W3C has described Success Criterion 4.1.1 as “obsolete” and stated that it “is no longer needed for accessibility.”  W3C, *WCAG 2 FAQ*, [https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411), [https://perma.cc/24FK-V8LS](https://perma.cc/24FK-V8LS) (Oct. 5, 2023). According to the 2023 version of WCAG, *Success Criterion 4.1.1* “should be considered as always satisfied for any content using HTML or XML.”  W3C, *Web Content Accessibility Guidelines (WCAG) 2.1* (Sept. 21, 2023), [https://www.w3.org/TR/WCAG21/](https://www.w3.org/TR/WCAG21/), [https://perma.cc/4VF7-NF5F](https://perma.cc/4VF7-NF5F).  The Department believes that either adopting this note from the 2023 version of WCAG or not requiring conformance to Success Criterion 4.1.1 is likely to create significant confusion.  And although Success Criterion 4.1.1 has been removed from WCAG 2.2, the Department has decided not to adopt WCAG 2.2 for the reasons described herein.  W3C, *WCAG 2 FAQ*, [https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411), [https://perma.cc/45DS-RRYS](https://perma.cc/45DS-RRYS) (Oct. 5, 2023).  Therefore, conformance to Success Criterion 4.1.1 is still required by subpart H of this part.  Public entities that do not conform to Success Criterion 4.1.1 would nonetheless be able to rely on § 35.205 to satisfy their obligations under § 35.200 if the failure to conform to Success Criterion 4.1.1 would not affect the ability of individuals with disabilities to use the public entity’s web content or mobile app in the manner described in that section.  The Department expects that this provision will help public entities avoid any unnecessary burden that might be imposed by Success Criterion 4.1.1.
 {% endfnbody %}
 
 {% fnbody 52 %}
 *See, e.g.,* Settlement Agreement Under the Americans with Disabilities Act Between the United States of America
-and CVS Pharmacy, Inc. (Apr. 11, 2022), https://www.ada.gov/cvs_sa.pdf [https://perma.cc/H5KZ-4VVF];
+and CVS Pharmacy, Inc. (Apr. 11, 2022), [https://www.ada.gov/cvs_sa.pdf](https://www.ada.gov/cvs_sa.pdf), [https://perma.cc/H5KZ-4VVF](https://perma.cc/H5KZ-4VVF);
 Settlement Agreement Under the Americans with Disabilities Act Between the United States of America and Meijer,
-Inc. (Feb. 2, 2022), https://www.ada.gov/meijer_sa.pdf [https://perma.cc/5FGD-FK42]; Settlement Agreement
+Inc. (Feb. 2, 2022), [https://www.ada.gov/meijer_sa.pdf](https://www.ada.gov/meijer_sa.pdf), [https://perma.cc/5FGD-FK42](https://perma.cc/5FGD-FK42); Settlement Agreement
 Under the Americans with Disabilities Act Between the United States of America and the Kroger Co. (Jan. 28,
-2022), https://www.ada.gov/kroger_co_sa.pdf [https://perma.cc/6ASX-U7FQ]; Settlement Agreement Between the
+2022), [https://www.ada.gov/kroger_co_sa.pdf](https://www.ada.gov/kroger_co_sa.pdf), [https://perma.cc/6ASX-U7FQ](https://perma.cc/6ASX-U7FQ); Settlement Agreement Between the
 United States of America and the Champaign-Urbana Mass Transit District (Dec. 14, 2021),
-https://www.justice.gov/d9/case-documents/attachments/2021/12/14/champaign-urbana_sa.pdf
-[https://perma.cc/66XY-QGA8]; Settlement Agreement Under the Americans with Disabilities Act Between the
-United States of America and Hy-Vee, Inc. (Dec. 1, 2021), https://www.ada.gov/hy-vee_sa.pdf
-[https://perma.cc/GFY6-BJNE]; Settlement Agreement Under the Americans with Disabilities Act Between the
-United States of America and Rite Aid Corp. (Nov. 1, 2021), https://www.ada.gov/rite_aid_sa.pdf
-[https://perma.cc/4HBF-RBK2].
+[https://www.justice.gov/d9/case-documents/attachments/2021/12/14/champaign-urbana_sa.pdf](https://www.justice.gov/d9/case-documents/attachments/2021/12/14/champaign-urbana_sa.pdf), [https://perma.cc/66XY-QGA8](https://perma.cc/66XY-QGA8); Settlement Agreement Under the Americans with Disabilities Act Between the
+United States of America and Hy-Vee, Inc. (Dec. 1, 2021), [https://www.ada.gov/hy-vee_sa.pdf](https://www.ada.gov/hy-vee_sa.pdf), [https://perma.cc/GFY6-BJNE](https://perma.cc/GFY6-BJNE); Settlement Agreement Under the Americans with Disabilities Act Between the
+United States of America and Rite Aid Corp. (Nov. 1, 2021), [https://www.ada.gov/rite_aid_sa.pdf](https://www.ada.gov/rite_aid_sa.pdf), [https://perma.cc/4HBF-RBK2](https://perma.cc/4HBF-RBK2).
 {% endfnbody %}
 
 {% fnbody 53 %}
-*See, e.g.,* W3C, *Tutorials,* https://www.w3.org/WAI/tutorials/ [https://perma.cc/SW5E-WWXV] (Feb. 16, 2023).
+*See, e.g.,* W3C, *Tutorials,* [https://www.w3.org/WAI/tutorials/](https://www.w3.org/WAI/tutorials/), [https://perma.cc/SW5E-WWXV](https://perma.cc/SW5E-WWXV) (Feb. 16, 2023).
 {% endfnbody %}
 
 {% fnbody 54 %}
-W3C, *WCAG 2 Overview,* https://www.w3.org/WAI/standards-guidelines/wcag/ [https://perma.cc/RQS2-P7JC]
+W3C, *WCAG 2 Overview,* [https://www.w3.org/WAI/standards-guidelines/wcag/](https://www.w3.org/WAI/standards-guidelines/wcag/), [https://perma.cc/RQS2-P7JC]([https://perma.cc/RQS2-P7JC)
 (Oct. 5, 2023).
 {% endfnbody %}
 
 {% fnbody 55 %}
-W3C, *What’s New in WCAG 2.2,* https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/
-[https://perma.cc/GDM3-A6SE] (Oct. 5, 2023).
+W3C, *What’s New in WCAG 2.2,* [https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/), [https://perma.cc/GDM3-A6SE](https://perma.cc/GDM3-A6SE) (Oct. 5, 2023).
 {% endfnbody %}
 
 {% fnbody 56 %}
@@ -10471,14 +10443,12 @@ W3C, *What’s New in WCAG 2.2,* https://www.w3.org/WAI/standards-guidelines/wc
 {% endfnbody %}
 
 {% fnbody 58 %}
-W3C, *WCAG 2 Overview,* https://www.w3.org/WAI/standards-
-guidelines/wcag/#:~:text=WCAG%202.0%2C%20WCAG%202.1%2C%20and%20WCAG%202.2%20are%20all%
-20existing,most%20recent%20version%20of%20WCAG [https://perma.cc/V5ZC-BF8Z] (Oct. 5, 2023).
+W3C, *WCAG 2 Overview,* [https://www.w3.org/WAI/standards-guidelines/wcag/#:~:text=WCAG%202.0%2C%20WCAG%202.1%2C%20and%20WCAG%202.2%20are%20all%20existing,most%20recent%20version%20of%20WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/#:~:text=WCAG%202.0%2C%20WCAG%202.1%2C%20and%20WCAG%202.2%20are%20all%20existing,most%20recent%20version%20of%20WCAG), [https://perma.cc/V5ZC-BF8Z](https://perma.cc/V5ZC-BF8Z) (Oct. 5, 2023).
 {% endfnbody %}
 
 {% fnbody 59 %}
 *See Information and Communication Technology (ICT) Standards and Guidelines,* 82 FR 5790, 5791 (Jan. 18,
-2017); W3C, *Web Content Accessibility Guidelines (WCAG) 2.1* (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/and https://perma.cc/UB8A-GG2F.
+2017); W3C, *Web Content Accessibility Guidelines (WCAG) 2.1* (June 5, 2018), [https://www.w3.org/TR/2018/REC-WCAG21-20180605/](https://www.w3.org/TR/2018/REC-WCAG21-20180605/) and [https://perma.cc/UB8A-GG2F](https://perma.cc/UB8A-GG2F).
 {% endfnbody %}
 
 {% fnbody 60 %}
@@ -10486,18 +10456,14 @@ guidelines/wcag/#:~:text=WCAG%202.0%2C%20WCAG%202.1%2C%20and%20WCAG%202.2%20are%
 {% endfnbody %}
 
 {% fnbody 61 %}
-*See, e.g.,* Austl. Gov’t Digital Transformation Agency, *Exploring WCAG 2.1 for Australian Government Services* (Aug. 22, 2018), https://www.dta.gov.au/blogs/exploring-wcag-21-australian-government-services. A Perma
-archive link was unavailable for this citation. *See also* W3C, *Denmark (Danmark)*, https://www.w3.org/WAI/policies/denmark/#bekendtg%C3%B8relse-om-afgivelse-af-
-tilg%C3%A6ngelighedserkl%C3%A6ring-for-offentlige-organers-websteder-og-mobilapplikationer
-[https://perma.cc/K8BM-4QN8] (Mar. 15, 2023); *see also* W3C, *Web Accessibility Laws &amp; Policies,*
-https://www.w3.org/WAI/policies/ [https://perma.cc/6SU3-3VR3] (Dec. 2023).
+*See, e.g.,* Austl. Gov’t Digital Transformation Agency, *Exploring WCAG 2.1 for Australian Government Services* (Aug. 22, 2018), [https://www.dta.gov.au/blogs/exploring-wcag-21-australian-government-services](https://www.dta.gov.au/blogs/exploring-wcag-21-australian-government-services). A Perma
+archive link was unavailable for this citation. *See also* W3C, *Denmark (Danmark)*, [https://www.w3.org/WAI/policies/denmark/#bekendtg%C3%B8relse-om-afgivelse-af-tilg%C3%A6ngelighedserkl%C3%A6ring-for-offentlige-organers-websteder-og-mobilapplikationer](https://www.w3.org/WAI/policies/denmark/#bekendtg%C3%B8relse-om-afgivelse-af-tilg%C3%A6ngelighedserkl%C3%A6ring-for-offentlige-organers-websteder-og-mobilapplikationer), [https://perma.cc/K8BM-4QN8](https://perma.cc/K8BM-4QN8) (Mar. 15, 2023); *see also* W3C, *Web Accessibility Laws &amp; Policies,*
+[https://www.w3.org/WAI/policies/](https://www.w3.org/WAI/policies/), [https://perma.cc/6SU3-3VR3](https://perma.cc/6SU3-3VR3) (Dec. 2023).
 {% endfnbody %}
 
 {% fnbody 62 %}
-European Comm’n, *Web Accessibility,* https://digital-strategy.ec.europa.eu/en/policies/web-accessibility
-[https://perma.cc/LSG9-XW7L] (Oct. 10, 2023); European Telecomm. Standards Inst., *Accessibility Requirements for ICT Products and Services* 45–51, 64–78 (Mar. 2021),
-https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf
-[https://perma.cc/5TEZ-9GC6].
+European Comm’n, *Web Accessibility,* [https://digital-strategy.ec.europa.eu/en/policies/web-accessibility](https://digital-strategy.ec.europa.eu/en/policies/web-accessibility), [https://perma.cc/LSG9-XW7L](https://perma.cc/LSG9-XW7L) (Oct. 10, 2023); European Telecomm. Standards Inst., *Accessibility Requirements for ICT Products and Services* 45–51, 64–78 (Mar. 2021),
+[https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf), [https://perma.cc/5TEZ-9GC6](https://perma.cc/5TEZ-9GC6).
 {% endfnbody %}
 
 {% fnbody 63 %}
@@ -10514,7 +10480,7 @@ Section 35.160.
 
 {% fnbody 66 %}
 W3C, *Benefits of Web Content Accessibility Guidelines WCAG 2,*
-https://www.w3.org/WAI/presentations/WCAG20_benefits/WCAG20_benefits.html [https://perma.cc/3RTN-FLKV]
+[https://www.w3.org/WAI/presentations/WCAG20_benefits/WCAG20_benefits.html](https://www.w3.org/WAI/presentations/WCAG20_benefits/WCAG20_benefits.html), [https://perma.cc/3RTN-FLKV](https://perma.cc/3RTN-FLKV)
 (Aug. 12, 2010) (“WCAG 2 is adaptable and flexible, for different situations, and developing technologies and
 techniques. We described earlier how WCAG 2 is flexible to apply to Web technologies now and in the future.”).
 {% endfnbody %}
@@ -10541,7 +10507,7 @@ E.O. 13563, sec. 6, 3 CFR, 2012 Comp., p. 215.
 
 {% fnbody 72 %}
 W3C, *Web Content Accessibility Guidelines (WCAG) 2.1* (June 5, 2018),
-https://www.w3.org/TR/2018/REC-WCAG21-20180605/ and https://perma.cc/UB8A-GG2F (success criteria 2.5.5,
+[https://www.w3.org/TR/2018/REC-WCAG21-20180605/](https://www.w3.org/TR/2018/REC-WCAG21-20180605/) and [https://perma.cc/UB8A-GG2F](https://perma.cc/UB8A-GG2F) (success criteria 2.5.5,
 1.3.4, &amp; 2.5.4).
 {% endfnbody %}
 
@@ -10555,28 +10521,26 @@ https://www.w3.org/TR/2018/REC-WCAG21-20180605/ and https://perma.cc/UB8A-GG2F (
 {% endfnbody %}
 
 {% fnbody 75 %}
-W3C, *WCAG2ICT Overview,* https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/
-[https://perma.cc/XRL6-6Q9Y] (Feb. 2, 2024).
+W3C, *WCAG2ICT Overview,* [https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/](https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/), [https://perma.cc/XRL6-6Q9Y](https://perma.cc/XRL6-6Q9Y) (Feb. 2, 2024).
 {% endfnbody %}
 
 {% fnbody 76 %}
-*See* W3C, *Guidance on Applying WCAG 2.0 to Non-Web Information and Communications Technologies (WCAG2ICT)* (Sep. 5, 2003), https://www.w3.org/TR/wcag2ict/ [https://perma.cc/6HKS-8YZP]. This guidance may
+*See* W3C, *Guidance on Applying WCAG 2.0 to Non-Web Information and Communications Technologies (WCAG2ICT)* (Sep. 5, 2003), [https://www.w3.org/TR/wcag2ict/](https://www.w3.org/TR/wcag2ict/), [https://perma.cc/6HKS-8YZP](ttps://perma.cc/6HKS-8YZP). This guidance may
 provide assistance in interpreting certain WCAG 2.0 success criteria (also included in WCAG 2.1 Level AA) that do not appear to be directly applicable to non-web information and communications like conventional electronic documents and mobile apps as written, but that can be made applicable with minor revisions. For example, for Success Criterion 1.4.2 (audio control), replacing the words “on a Web page” with “in a non-web document or software” can make this Success Criterion clearly applicable to conventional electronic documents and mobile apps.
 {% endfnbody %}
 
 {% fnbody 77 %}
-W3C, *EPUB Accessibility 1.1 (May 25, 2023)*, https://www.w3.org/TR/epub-a11y-11/ [https://perma.cc/48A5-
-NC2B].
+W3C, *EPUB Accessibility 1.1 (May 25, 2023)*, [https://www.w3.org/TR/epub-a11y-11/](https://www.w3.org/TR/epub-a11y-11/), [https://perma.cc/48A5-NC2B](https://perma.cc/48A5-NC2B).
 {% endfnbody %}
 
 {% fnbody 78 %}
 W3C, *Introduction to Understanding WCAG* (June 20, 2023),
-https://www.w3.org/WAI/WCAG21/Understanding/intro [https://perma.cc/​XB3Y-QKVU].
+[https://www.w3.org/WAI/WCAG21/Understanding/intro](https://www.w3.org/WAI/WCAG21/Understanding/intro), [https://perma.cc/​XB3Y-QKVU](https://perma.cc/​XB3Y-QKVU).
 {% endfnbody %}
 
 {% fnbody 79 %}
 *See* W3C, *Understanding Techniques for WCAG Success Criteria* (June 20, 2023),
-https://www.w3.org/WAI/WCAG21/Understanding/understanding-techniques [https://perma.cc/​AMT4-XAAL].
+[https://www.w3.org/WAI/WCAG21/Understanding/understanding-techniques](https://www.w3.org/WAI/WCAG21/Understanding/understanding-techniques), [https://perma.cc/​AMT4-XAAL](https://perma.cc/​AMT4-XAAL).
 {% endfnbody %}
 
 {% fnbody 80 %}
@@ -10585,14 +10549,14 @@ https://www.w3.org/WAI/WCAG21/Understanding/understanding-techniques [https://pe
 
 {% fnbody 81 %}
 W3C, *Web Content Accessibility Guidelines (WCAG) 2.1, § 5.2 Conformance Requirements* (June 5, 2018),
-https://www.w3.org/TR/2018/REC-WCAG21-20180605/#conformance-reqs [https://perma.cc/39WD-CHH9].
+[https://www.w3.org/TR/2018/REC-WCAG21-20180605/#conformance-reqs](https://www.w3.org/TR/2018/REC-WCAG21-20180605/#conformance-reqs), [https://perma.cc/39WD-CHH9](https://perma.cc/39WD-CHH9).
 WCAG 2.1 also allows a Level AA conforming alternate version to be provided instead. The Department has
 adopted a slightly different approach to conforming alternate versions, which is discussed in the section-by-section analysis of § 35.202.
 {% endfnbody %}
 
 {% fnbody 82 %}
 W3C, *Web Content Accessibility Guidelines (WCAG) 2 Level A Conformance* (July 13, 2020),
-https://www.w3.org/WAI/WCAG2A-Conformance [https://perma.cc/KT74-JNHG].
+[https://www.w3.org/WAI/WCAG2A-Conformance](https://www.w3.org/WAI/WCAG2A-Conformance), [https://perma.cc/KT74-JNHG](https://perma.cc/KT74-JNHG).
 {% endfnbody %}
 
 {% fnbody 83 %}
@@ -10605,7 +10569,7 @@ https://www.w3.org/WAI/WCAG2A-Conformance [https://perma.cc/KT74-JNHG].
 
 {% fnbody 85 %}
 *See* W3C, *Understanding Conformance, Understanding Requirement 1,*
-https://www.w3.org/WAI/WCAG21/Understanding/conformance [https://perma.cc/K94N-Z3TF].
+[https://www.w3.org/WAI/WCAG21/Understanding/conformance](https://www.w3.org/WAI/WCAG21/Understanding/conformance), [https://perma.cc/K94N-Z3TF](https://perma.cc/K94N-Z3TF).
 {% endfnbody %}
 
 {% fnbody 86 %}
@@ -10614,17 +10578,16 @@ https://www.w3.org/WAI/WCAG21/Understanding/conformance [https://perma.cc/K94N-Z
 
 {% fnbody 87 %}
 W3C, *Web Content Accessibility Guidelines (WCAG) 2.1, 0.5 Comparison with WCAG 2.0* (June 5, 2018),
-https://www.w3.org/TR/2018/REC-WCAG21-20180605/#comparison-with-wcag-2-0 [https://perma.cc/H76F-
-6L27].
+[https://www.w3.org/TR/2018/REC-WCAG21-20180605/#comparison-with-wcag-2-0](https://www.w3.org/TR/2018/REC-WCAG21-20180605/#comparison-with-wcag-2-0), [https://perma.cc/H76F-6L27](https://perma.cc/H76F-6L27).
 {% endfnbody %}
 
 {% fnbody 88 %}
 *See* W3C, *Understanding Conformance, Understanding Requirement 1,*
-https://www.w3.org/WAI/WCAG21/Understanding/conformance [https://perma.cc/9ZG9-G5N8].
+[https://www.w3.org/WAI/WCAG21/Understanding/conformance](https://www.w3.org/WAI/WCAG21/Understanding/conformance), [https://perma.cc/9ZG9-G5N8](https://perma.cc/9ZG9-G5N8).
 {% endfnbody %}
 
 {% fnbody 89 %}
-*See* W3C, *Web Accessibility Laws &amp; Policies,* https://www.w3.org/WAI/policies/ [https://perma.cc/6SU3-3VR3]
+*See* W3C, *Web Accessibility Laws &amp; Policies,* [https://www.w3.org/WAI/policies/](https://www.w3.org/WAI/policies/), [https://perma.cc/6SU3-3VR3](https://perma.cc/6SU3-3VR3)
 (Dec. 4, 2023).
 {% endfnbody %}
 
@@ -10643,9 +10606,8 @@ Sections 35.130(b)(1)(ii) and (b)(7) and 35.160.
 
 {% fnbody 93 %}
 *See* Am. Council on Educ., *Carnegie Classification of Institutions of Higher Education,*
-https://carnegieclassifications.acenet.edu/ [https://perma.cc/Q9JZ-GQN3]; Am. Council on Educ., *About the
-Carnegie Classification,* https://carnegieclassifications.acenet.edu/carnegie-classification/ [https://perma.cc/B6BH-
-68WM].
+[https://carnegieclassifications.acenet.edu/](https://carnegieclassifications.acenet.edu/), [https://perma.cc/Q9JZ-GQN3](https://perma.cc/Q9JZ-GQN3); Am. Council on Educ., *About the
+Carnegie Classification,* [https://carnegieclassifications.acenet.edu/carnegie-classification/](https://carnegieclassifications.acenet.edu/carnegie-classification/), [https://perma.cc/B6BH-68WM](https://perma.cc/B6BH-68WM).
 {% endfnbody %}
 
 {% fnbody 94 %}
@@ -10672,18 +10634,15 @@ requirements of subpart H of this part is discussed in more detail in the sectio
 {% endfnbody %}
 
 {% fnbody 99 %}
-*See, e.g.,* Settlement Agreement Between the United States of America and the City of Cedar Rapids, Iowa Under the Americans with Disabilities Act (Sept. 1, 2015), https://www.ada.gov/cedar_rapids_pca/cedar_rapids_sa.html
-[https://perma.cc/Z338-B2BU]; Settlement Agreement Between the United States of America and the City of Fort
-Morgan, Colo. Under the Americans with Disabilities Act (Aug. 8, 2013), https://www.ada.gov/fort-morgan-
-pca/fort-morgan-pca-sa.htm [https://perma.cc/JA3E-QYMS]; Settlement Agreement Between the United States of
+*See, e.g.,* Settlement Agreement Between the United States of America and the City of Cedar Rapids, Iowa Under the Americans with Disabilities Act (Sept. 1, 2015), [https://www.ada.gov/cedar_rapids_pca/cedar_rapids_sa.html](https://www.ada.gov/cedar_rapids_pca/cedar_rapids_sa.html), [https://perma.cc/Z338-B2BU](https://perma.cc/Z338-B2BU); Settlement Agreement Between the United States of America and the City of Fort
+Morgan, Colo. Under the Americans with Disabilities Act (Aug. 8, 2013), [https://www.ada.gov/fort-morgan-pca/fort-morgan-pca-sa.htm](https://www.ada.gov/fort-morgan-pca/fort-morgan-pca-sa.htm),[https://perma.cc/JA3E-QYMS](https://perma.cc/JA3E-QYMS); Settlement Agreement Between the United States of
 America and the Town of Poestenkill, N.Y. Under the Americans with Disabilities Act (July 19, 2013),
-https://www.ada.gov/poestenkill-pca/poestenkill-sa.html [https://perma.cc/DGD5-NNC6].
+[https://www.ada.gov/poestenkill-pca/poestenkill-sa.html](https://www.ada.gov/poestenkill-pca/poestenkill-sa.html), [https://perma.cc/DGD5-NNC6](https://perma.cc/DGD5-NNC6).
 {% endfnbody %}
 
 {% fnbody 100 %}
 W3C, *Web Content Accessibility Guidelines (WCAG) 2.1, 0.5 Comparison with WCAG 2.0* (June 5, 2018),
-https://www.w3.org/TR/2018/REC-WCAG21-20180605/#comparison-with-wcag-2-0 [https://perma.cc/H76F-
-6L27].
+[https://www.w3.org/TR/2018/REC-WCAG21-20180605/#comparison-with-wcag-2-0](https://www.w3.org/TR/2018/REC-WCAG21-20180605/#comparison-with-wcag-2-0), [https://perma.cc/H76F-6L27](https://perma.cc/H76F-6L27).
 {% endfnbody %}
 
 {% fnbody 101 %}
@@ -10711,11 +10670,11 @@ the Final Regulatory Flexibility Analysis.
 {% endfnbody %}
 
 {% fnbody 106 %}
-*See* Katrina Crankshaw, U.S. Census Bureau, *Disability Rates Higher in Rural Areas than Urban Areas* (June 26,2023), https://www.census.gov/library/stories/2023/06/disability-rates-higher-in-rural-areas-than-urban-areas.html#:~:text=Examining%20disability%20rates%20across%20geography,ACS)%201%2Dyear%20estimates[https://perma.cc/NP5Y-CUJS].
+*See* Katrina Crankshaw, U.S. Census Bureau, *Disability Rates Higher in Rural Areas than Urban Areas* (June 26,2023), [https://www.census.gov/library/stories/2023/06/disability-rates-higher-in-rural-areas-than-urban-areas](https://www.census.gov/library/stories/2023/06/disability-rates-higher-in-rural-areas-than-urban-areas), [https://perma.cc/NP5Y-CUJS](https://perma.cc/NP5Y-CUJS).
 {% endfnbody %}
 
 {% fnbody 107 %}
-*See, e.g.,* NORC Walsh Ctr. for Rural Health Analysis &amp; Rural Health Info. Hub, *Access to Care for Rural Peoplenwith Disabilities Toolkit* (Dec. 2016), https://www.ruralhealthinfo.org/toolkits/disabilities.pdf [https://perma.cc/YX4E-QWEE].
+*See, e.g.,* NORC Walsh Ctr. for Rural Health Analysis &amp; Rural Health Info. Hub, *Access to Care for Rural Peoplenwith Disabilities Toolkit* (Dec. 2016), [https://www.ruralhealthinfo.org/toolkits/disabilities.pdf](https://www.ruralhealthinfo.org/toolkits/disabilities.pdf), [https://perma.cc/YX4E-QWEE](https://perma.cc/YX4E-QWEE).
 {% endfnbody %}
 
 {% fnbody 108 %}
@@ -10751,11 +10710,11 @@ Section 35.151.
 {% endfnbody %}
 
 {% fnbody 116 %}
-*See* U.S. Gen. Servs. Admin., *Federal Social Media Accessibility Toolkit Hackpad,* https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/ [https://perma.cc/DJ8X-UCHA](last visited Mar. 13, 2024).
+*See* U.S. Gen. Servs. Admin., *Federal Social Media Accessibility Toolkit Hackpad,* [https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/](https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/), [https://perma.cc/DJ8X-UCHA](https://perma.cc/DJ8X-UCHA)(last visited Mar. 13, 2024).
 {% endfnbody %}
 
 {% fnbody 117 %}
-W3C, *Understanding WCAG 2.0: Captions (Live), Understanding SC 1.2.4 (2023)*,http://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-real-time-captions.html [https://perma.cc/NV74-U77R].
+W3C, *Understanding WCAG 2.0: Captions (Live), Understanding SC 1.2.4 (2023)*, [http://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-real-time-captions.html](http://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-real-time-captions.html), [https://perma.cc/NV74-U77R](https://perma.cc/NV74-U77R).
 {% endfnbody %}
 
 {% fnbody 118 %}
@@ -10771,11 +10730,11 @@ W3C, *Understanding WCAG 2.0: Captions (Live), Understanding SC 1.2.4 (2023)*,ht
 {% endfnbody %}
 
 {% fnbody 121 %}
-*See* W3C, *Web Accessibility Initiative, Video Captions,* https://www.w3.org/WAI/perspective-videos/captions/ [https://perma.cc/QW6X-5SPG] (Jan. 23, 2019) (explaining that captions benefit “people with cognitive and learning disabilities who need to see and hear the content to better understand it”).
+*See* W3C, *Web Accessibility Initiative, Video Captions,* [https://www.w3.org/WAI/perspective-videos/captions/](https://www.w3.org/WAI/perspective-videos/captions/), [https://perma.cc/QW6X-5SPG](https://perma.cc/QW6X-5SPG) (Jan. 23, 2019) (explaining that captions benefit “people with cognitive and learning disabilities who need to see and hear the content to better understand it”).
 {% endfnbody %}
 
 {% fnbody 122 %}
-W3C, *Web Accessibility Initiative, Captions/Subtitles,* https://www.w3.org/WAI/media/av/captions [https://perma.cc/D73P-RBZA] (July 14, 2022).
+W3C, *Web Accessibility Initiative, Captions/Subtitles,* [https://www.w3.org/WAI/media/av/captions](https://www.w3.org/WAI/media/av/captions), [https://perma.cc/D73P-RBZA](https://perma.cc/D73P-RBZA) (July 14, 2022).
 {% endfnbody %}
 
 {% fnbody 123 %}
@@ -10801,7 +10760,7 @@ W3C, *Web Accessibility Initiative, Captions/Subtitles,* https://www.w3.org/WAI/
 {% endfnbody %}
 
 {% fnbody 128 %}
-*See* §§ 35.130(b)(1)(ii) and (b)(7) and 35.160. For more information about public entities’ existing obligation to ensure that communications with individuals with disabilities are as effective as communications with others, *see* U.S. Dep’t of Just., *ADA Requirements: Effective Communication,* ada.gov (Feb 28, 2020), https://www.ada.gov/resources/effective-communication/ [https://perma.cc/CLT7-5PNQ].
+*See* §§ 35.130(b)(1)(ii) and (b)(7) and 35.160. For more information about public entities’ existing obligation to ensure that communications with individuals with disabilities are as effective as communications with others, *see* U.S. Dep’t of Just., *ADA Requirements: Effective Communication,* ada.gov (Feb 28, 2020), [https://www.ada.gov/resources/effective-communication/](https://www.ada.gov/resources/effective-communication/), [https://perma.cc/CLT7-5PNQ](https://perma.cc/CLT7-5PNQ).
 {% endfnbody %}
 
 {% fnbody 129 %}
@@ -10826,7 +10785,7 @@ The section-by-section analysis of § 35.200 includes a discussion of the Depart
 
 {% fnbody 134 %}
 *See* W3C, *Understanding SC 2.4.4.: Link Purpose (In Context)* (June 20, 2023),
-https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html [https://perma.cc/RE3T-J9PN].
+[https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html), [https://perma.cc/RE3T-J9PN](https://perma.cc/RE3T-J9PN).
 {% endfnbody %}
 
 {% fnbody 135 %}
@@ -10866,29 +10825,29 @@ https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html [https:
 {% endfnbody %}
 
 {% fnbody 144 %}
-*See* U.S. Dep’t of Just., *Guidance on Web Accessibility and the ADA,* ADA.gov (Mar. 18, 2022), https://www.ada.gov/resources/web-guidance/ [https://perma.cc/WH9E-VTCY].
+*See* U.S. Dep’t of Just., *Guidance on Web Accessibility and the ADA,* ADA.gov (Mar. 18, 2022), [https://www.ada.gov/resources/web-guidance/](https://www.ada.gov/resources/web-guidance/), [https://perma.cc/WH9E-VTCY](https://perma.cc/WH9E-VTCY).
 {% endfnbody %}
 
 {% fnbody 145 %}
-*See* W3C, *Web Content Accessibility Guidelines 2.1, Contrast (Minimum)* (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#contrast-minimum [https://perma.cc/VAA3-TYN9].
+*See* W3C, *Web Content Accessibility Guidelines 2.1, Contrast (Minimum)* (June 5, 2018), [https://www.w3.org/TR/2018/REC-WCAG21-20180605/#contrast-minimum](https://www.w3.org/TR/2018/REC-WCAG21-20180605/#contrast-minimum), [https://perma.cc/VAA3-TYN9](https://perma.cc/VAA3-TYN9).
 {% endfnbody %}
 
 {% fnbody 146 %}
 The Department reminds the public, however, that the hotel would still have obligations under title III of the ADA. *See* U.S. Dep’t of Just., *Guidance on Web Accessibility and the ADA,* ADA.gov (Mar. 18, 2022),
-https://www.ada.gov/resources/web-guidance/ [https://perma.cc/WH9E-VTCY].
+[https://www.ada.gov/resources/web-guidance/](https://www.ada.gov/resources/web-guidance/), [https://perma.cc/WH9E-VTCY](https://perma.cc/WH9E-VTCY).
 {% endfnbody %}
 
 {% fnbody 147 %}
-The Department does not use the term “third-party” to describe mobile apps in this section to avoid confusion.  It is the Department’s understanding that the term “third-party mobile app” may have a different meaning in the technology industry, and some understand “a third-party app” as an application that is provided by a vendor other than the manufacturer of the device or operating system provider.  *See* Alice Musyoka, *Third-Party Apps, Webopedia* (Aug. 4, 2022), https://www.webopedia.com/definitions/third-party-apps/ [https://perma.cc/SBW3-RRGN].
+The Department does not use the term “third-party” to describe mobile apps in this section to avoid confusion.  It is the Department’s understanding that the term “third-party mobile app” may have a different meaning in the technology industry, and some understand “a third-party app” as an application that is provided by a vendor other than the manufacturer of the device or operating system provider.  *See* Alice Musyoka, *Third-Party Apps, Webopedia* (Aug. 4, 2022), [https://www.webopedia.com/definitions/third-party-apps/](https://www.webopedia.com/definitions/third-party-apps/), [https://perma.cc/SBW3-RRGN](https://perma.cc/SBW3-RRGN).
 {% endfnbody %}
 
 {% fnbody 148 %}
-*See ParkMobile Parking App,* https://parkmobile.io [https://perma.cc/G7GY-MDFE].
+*See ParkMobile Parking App,* [https://parkmobile.io](https://parkmobile.io), [https://perma.cc/G7GY-MDFE](https://perma.cc/G7GY-MDFE).
 {% endfnbody %}
 
 {% fnbody 149 %}
-*See Using Mobile Apps in Government,* IBM Ctr. for the Bus. of Gov’t, at 32–33 (2015), https://www.businessofgovernment.org/sites/default/files/Using%20Mobile%20Apps%20in%20Government.pdf
-[https://perma.cc/248X-8A6C].
+*See Using Mobile Apps in Government,* IBM Ctr. for the Bus. of Gov’t, at 32–33 (2015), [https://www.businessofgovernment.org/sites/default/files/Using%20Mobile%20Apps%20in%20Government.pdf](https://www.businessofgovernment.org/sites/default/files/Using%20Mobile%20Apps%20in%20Government.pdf), 
+[https://perma.cc/248X-8A6C](https://perma.cc/248X-8A6C).
 {% endfnbody %}
 
 {% fnbody 150 %}
@@ -10956,8 +10915,8 @@ Many comments on this topic indicated that they were drawing from the philosophy
 {% endfnbody %}
 
 {% fnbody 166 %}
-Arielle M. Silverman et al., *Access and Engagement III: Reflecting on the Impacts of the COVID-19 Pandemic on the Education of Children Who Are Blind or Have Low Vision,* Am. Found. for the Blind (June 2022), https://afb.org/sites/default/files/2022-06/AFB_AccessEngagement_III_Report_Accessible_FINAL.pdf (A Perma archive link was unavailable for this citation.); L. Penny Rosenblum et al., *Access and Engagement II: An Examination of How the COVID-19 Pandemic Continued to Impact Students with Visual Impairments, Their Families, and Professionals Nine Months Later,* Am. Found. for the Blind (May 2021), https://static.afb.org/legacy/media/AFB_AccessEngagement_II_Accessible_F2.pdf?_ga=2.176468773.1214767753
-[https://perma.cc/H5P4-JZAB]; see also L. Penny Rosenblum et al., *Access and Engagement: Examining the Impact of COVID-19 on Students Birth–21 with Visual Impairments, Their Families, and Professionals in the United States and Canada,* Am. Found. for the Blind (Oct. 2020), https://afb.org/sites/default/files/2022-03/AFB_Access_Engagement_Report_Revised-03-2022.pdf [https://perma.cc/T3AY-ULAQ].
+Arielle M. Silverman et al., *Access and Engagement III: Reflecting on the Impacts of the COVID-19 Pandemic on the Education of Children Who Are Blind or Have Low Vision,* Am. Found. for the Blind (June 2022), [https://afb.org/sites/default/files/2022-06/AFB_AccessEngagement_III_Report_Accessible_FINAL.pdf](https://afb.org/sites/default/files/2022-06/AFB_AccessEngagement_III_Report_Accessible_FINAL.pdf) (A Perma archive link was unavailable for this citation.); L. Penny Rosenblum et al., *Access and Engagement II: An Examination of How the COVID-19 Pandemic Continued to Impact Students with Visual Impairments, Their Families, and Professionals Nine Months Later,* Am. Found. for the Blind (May 2021), [https://static.afb.org/legacy/media/AFB_AccessEngagement_II_Accessible_F2.pdf?_ga=2.176468773.1214767753](https://static.afb.org/legacy/media/AFB_AccessEngagement_II_Accessible_F2.pdf?_ga=2.176468773.1214767753), 
+[https://perma.cc/H5P4-JZAB](https://perma.cc/H5P4-JZAB); see also L. Penny Rosenblum et al., *Access and Engagement: Examining the Impact of COVID-19 on Students Birth–21 with Visual Impairments, Their Families, and Professionals in the United States and Canada,* Am. Found. for the Blind (Oct. 2020), [https://afb.org/sites/default/files/2022-03/AFB_Access_Engagement_Report_Revised-03-2022.pdf](https://afb.org/sites/default/files/2022-03/AFB_Access_Engagement_Report_Revised-03-2022.pdf), [https://perma.cc/T3AY-ULAQ](https://perma.cc/T3AY-ULAQ).
 {% endfnbody %}
 
 {% fnbody 167 %}
@@ -10973,30 +10932,27 @@ Arielle M. Silverman et al., *Access and Engagement III: Reflecting on the Impac
 {% endfnbody %}
 
 {% fnbody 170 %}
-*See, e.g.,* W3C, *Evaluating Web Accessibility Overview,* https://www.w3.org/WAI/test-evaluate/
-[https://perma.cc/6RDS-X6AR] (Aug. 1, 2023).
+*See, e.g.,* W3C, *Evaluating Web Accessibility Overview,* [https://www.w3.org/WAI/test-evaluate/](https://www.w3.org/WAI/test-evaluate/), [https://perma.cc/6RDS-X6AR](https://perma.cc/6RDS-X6AR) (Aug. 1, 2023).
 {% endfnbody %}
 
 {% fnbody 171 %}
-*See* W3C, *EPUB 3.3: Recommendation, § 1.1 Overview* (May 25, 2023), https://www.w3.org/TR/epub-33/
-[https://perma.cc/G2WZ-3M9S].
+*See* W3C, *EPUB 3.3: Recommendation, § 1.1 Overview* (May 25, 2023), [https://www.w3.org/TR/epub-33/](https://www.w3.org/TR/epub-33/), [https://perma.cc/G2WZ-3M9S](https://perma.cc/G2WZ-3M9S).
 {% endfnbody %}
 
 {% fnbody 172 %}
-W3C, *EPUB Accessibility 1.1: Recommendation* (May 25, 2023), https://www.w3.org/TR/epub-a11y-11/
-[https://perma.cc/48A5-NC2B].
+W3C, *EPUB Accessibility 1.1: Recommendation* (May 25, 2023), [https://www.w3.org/TR/epub-a11y-11/](https://www.w3.org/TR/epub-a11y-11/), [https://perma.cc/48A5-NC2B](https://perma.cc/48A5-NC2B).
 {% endfnbody %}
 
 {% fnbody 173 %}
-W3C, *EPUB Fixed Layout Accessibility: Editor’s Draft* (Dec. 8, 2024), https://w3c.github.io/epub-specs/epub33/fxl-a11y/ [https://perma.cc/5SP7-VUHJ].
+W3C, *EPUB Fixed Layout Accessibility: Editor’s Draft* (Dec. 8, 2024), [https://w3c.github.io/epub-specs/epub33/fxl-a11y/](https://w3c.github.io/epub-specs/epub33/fxl-a11y/), [https://perma.cc/5SP7-VUHJ](https://perma.cc/5SP7-VUHJ).
 {% endfnbody %}
 
 {% fnbody 174 %}
-W3C, *Introduction to Understanding WCAG* (June 20, 2023), https://www.w3.org/WAI/WCAG21/Understanding/intro [https://perma.cc/XB3Y-QKVU].
+W3C, *Introduction to Understanding WCAG* (June 20, 2023), [https://www.w3.org/WAI/WCAG21/Understanding/intro](https://www.w3.org/WAI/WCAG21/Understanding/intro), [https://perma.cc/XB3Y-QKVU](https://perma.cc/XB3Y-QKVU).
 {% endfnbody %}
 
 {% fnbody 175 %}
-*See* W3C, *Understanding Techniques for WCAG Success Criteria* (June 20, 2023), https://www.w3.org/WAI/WCAG21/Understanding/understanding-techniques [https://perma.cc/AMT4-XAAL].
+*See* W3C, *Understanding Techniques for WCAG Success Criteria* (June 20, 2023), [https://www.w3.org/WAI/WCAG21/Understanding/understanding-techniques](https://www.w3.org/WAI/WCAG21/Understanding/understanding-techniques), [https://perma.cc/AMT4-XAAL](https://perma.cc/AMT4-XAAL).
 {% endfnbody %}
 
 {% fnbody 176 %}
@@ -11004,8 +10960,7 @@ Assistance to States for the Education of Children With Disabilities, 85 FR 3137
 {% endfnbody %}
 
 {% fnbody 177 %}
-Nat’l Instructional Materials Access Center, *About NIMAC,* https://www.nimac.us/about-nimac/
-[https://perma.cc/9PQ2-GLQM] (last visited Feb. 2, 2024).
+Nat’l Instructional Materials Access Center, *About NIMAC,* [https://www.nimac.us/about-nimac/](https://www.nimac.us/about-nimac/), [https://perma.cc/9PQ2-GLQM](https://perma.cc/9PQ2-GLQM) (last visited Feb. 2, 2024).
 {% endfnbody %}
 
 {% fnbody 178 %}
@@ -11013,7 +10968,7 @@ Nat’l Instructional Materials Access Center, *About NIMAC,* https://www.nimac.
 {% endfnbody %}
 
 {% fnbody 179 %}
-*See* W3C, *Understanding SC 2.4.4.: Link Purpose* (In Context) (June 20, 2023), https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html [https://perma.cc/RE3T-J9PN].
+*See* W3C, *Understanding SC 2.4.4.: Link Purpose* (In Context) (June 20, 2023), [https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html), [https://perma.cc/RE3T-J9PN](https://perma.cc/RE3T-J9PN).
 {% endfnbody %}
 
 {% fnbody 180 %}
@@ -11029,7 +10984,7 @@ The Department made a non-substantive change to the header of the exception to m
 {% endfnbody %}
 
 {% fnbody 183 %}
-*See* § 35.160(b)(1). For more information about public entities’ existing obligation to ensure that communications with individuals with disabilities are as effective as communications with others, see U.S. Dep’t of Just., *ADA Requirements: Effective Communication,* ada.gov (Feb 28, 2020), https://www.ada.gov/resources/effective-communication/ [https://perma.cc/CLT7-5PNQ].
+*See* § 35.160(b)(1). For more information about public entities’ existing obligation to ensure that communications with individuals with disabilities are as effective as communications with others, see U.S. Dep’t of Just., *ADA Requirements: Effective Communication,* ada.gov (Feb 28, 2020), [https://www.ada.gov/resources/effective-communication/](https://www.ada.gov/resources/effective-communication/), [https://perma.cc/CLT7-5PNQ](https://perma.cc/CLT7-5PNQ).
 {% endfnbody %}
 
 {% fnbody 184 %}
@@ -11057,7 +11012,7 @@ Sections 35.130(b)(1)(ii) and (b)(7) and 35.160.
 {% endfnbody %}
 
 {% fnbody 190 %}
-*See* W3C, *Web Content Accessibility Guidelines (WCAG) 2.1: Recommendation, Conforming Alternate Version* (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#dfn-conforming-alternate-version [https://perma.cc/GWT6-AMAN]. WCAG 2.1 provides three options for how a conforming alternate version can be reached—the Department does not modify those options with respect to conforming alternative versions under subpart H of this part.
+*See* W3C, *Web Content Accessibility Guidelines (WCAG) 2.1: Recommendation, Conforming Alternate Version* (June 5, 2018), [https://www.w3.org/TR/2018/REC-WCAG21-20180605/#dfn-conforming-alternate-version](https://www.w3.org/TR/2018/REC-WCAG21-20180605/#dfn-conforming-alternate-version), [https://perma.cc/GWT6-AMAN](https://perma.cc/GWT6-AMAN). WCAG 2.1 provides three options for how a conforming alternate version can be reached—the Department does not modify those options with respect to conforming alternative versions under subpart H of this part.
 {% endfnbody %}
 
 {% fnbody 191 %}
@@ -11065,8 +11020,7 @@ Sections 35.130(b)(1)(ii) and (b)(7) and 35.160.
 {% endfnbody %}
 
 {% fnbody 192 %}
-*See* W3C, *Understanding Conformance,* https://www.w3.org/WAI/WCAG21/Understanding/conformance
-[https://perma.cc/QSG6-QCBL] (June 20, 2023).
+*See* W3C, *Understanding Conformance,* [https://www.w3.org/WAI/WCAG21/Understanding/conformance](https://www.w3.org/WAI/WCAG21/Understanding/conformance), [https://perma.cc/QSG6-QCBL](https://perma.cc/QSG6-QCBL) (June 20, 2023).
 {% endfnbody %}
 
 {% fnbody 193 %}
@@ -11079,8 +11033,7 @@ Sections 35.130(b)(1)(ii) and (b)(7) and 35.160.
 
 {% fnbody 195 %}
 *See* W3C, *Web Content Accessibility Guidelines (WCAG) 2.1: Recommendation, Conforming Alternate Version*
-(June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#dfn-conforming-alternate-version
-[https://perma.cc/GWT6-AMAN].
+(June 5, 2018), [https://www.w3.org/TR/2018/REC-WCAG21-20180605/#dfn-conforming-alternate-version](https://www.w3.org/TR/2018/REC-WCAG21-20180605/#dfn-conforming-alternate-version), [https://perma.cc/GWT6-AMAN](https://perma.cc/GWT6-AMAN).
 {% endfnbody %}
 
 {% fnbody 196 %}
@@ -11096,24 +11049,23 @@ Sections 35.130(b)(1)(ii) and (b)(7) and 35.160.
 {% endfnbody %}
 
 {% fnbody 199 %}
-W3C, *WCAG 2 Overview,* https://www.w3.org/WAI/standards-guidelines/wcag/ [https://perma.cc/RQS2-P7JC](Oct. 5, 2023).
+W3C, *WCAG 2 Overview,* [https://www.w3.org/WAI/standards-guidelines/wcag/](https://www.w3.org/WAI/standards-guidelines/wcag/), [https://perma.cc/RQS2-P7JC](https://perma.cc/RQS2-P7JC) (Oct. 5, 2023).
 {% endfnbody %}
 
 {% fnbody 200 %}
-W3C, *What’s New in WCAG 2.2 Draft,* https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/
-[https://perma.cc/GDM3-A6SE] (Oct. 5, 2023).
+W3C, *What’s New in WCAG 2.2 Draft,* [https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/), [https://perma.cc/GDM3-A6SE](https://perma.cc/GDM3-A6SE) (Oct. 5, 2023).
 {% endfnbody %}
 
 {% fnbody 201 %}
-W3C, *Web Content Accessibility Guidelines (WCAG) 2.1, § 5.2 Conformance Requirements* (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#conformance-reqs [https://perma.cc/XV2E-ESM8].
+W3C, *Web Content Accessibility Guidelines (WCAG) 2.1, § 5.2 Conformance Requirements* (June 5, 2018), [https://www.w3.org/TR/2018/REC-WCAG21-20180605/#conformance-reqs](https://www.w3.org/TR/2018/REC-WCAG21-20180605/#conformance-reqs), [https://perma.cc/XV2E-ESM8](https://perma.cc/XV2E-ESM8).
 {% endfnbody %}
 
 {% fnbody 202 %}
-*See* W3C, *Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 2.4.10 Section Headings* (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#conformance-reqs:~:text=Success%20Criterion%202.4.10,Criterion%204.1.2 [https://perma.cc/9BNS-8LWK].
+*See* W3C, *Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 2.4.10 Section Headings* (June 5, 2018), [https://www.w3.org/TR/2018/REC-WCAG21-20180605/#conformance-reqs:~:text=Success%20Criterion%202.4.10,Criterion%204.1.2](https://www.w3.org/TR/2018/REC-WCAG21-20180605/#conformance-reqs:~:text=Success%20Criterion%202.4.10,Criterion%204.1.2), [https://perma.cc/9BNS-8LWK](https://perma.cc/9BNS-8LWK).
 {% endfnbody %}
 
 {% fnbody 203 %}
-*See* W3C, *Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 3.1.4 Abbreviations* (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#conformance-reqs:~:text=Success%20Criterion%203.1.4,abbreviations%20is%20available [https://perma.cc/ZK6C-9RHD].
+*See* W3C, *Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 3.1.4 Abbreviations* (June 5, 2018), [https://www.w3.org/TR/2018/REC-WCAG21-20180605/#conformance-reqs:~:text=Success%20Criterion%203.1.4,abbreviations%20is%20available](https://www.w3.org/TR/2018/REC-WCAG21-20180605/#conformance-reqs:~:text=Success%20Criterion%203.1.4,abbreviations%20is%20available), [https://perma.cc/ZK6C-9RHD](https://perma.cc/ZK6C-9RHD).
 {% endfnbody %}
 
 {% fnbody 204 %}
@@ -11145,8 +11097,7 @@ Section 35.150(a)(3) and 35.164.
 {% endfnbody %}
 
 {% fnbody 211 %}
-*See* W3C, *Developing an Accessibility Statement,* https://www.w3.org/WAI/planning/statements/
-[https://perma.cc/85WU-JTJ6] (Mar. 11, 2021).
+*See* W3C, *Developing an Accessibility Statement,* [https://www.w3.org/WAI/planning/statements/](https://www.w3.org/WAI/planning/statements/), [https://perma.cc/85WU-JTJ6](https://perma.cc/85WU-JTJ6) (Mar. 11, 2021).
 {% endfnbody %}
 
 {% fnbody 212 %}
@@ -11158,7 +11109,7 @@ Section 35.150(a)(3) and 35.164.
 {% endfnbody %}
 
 {% fnbody 214 %}
-*See, e.g.,* U.S. Dep’t of Just., *ADA Update: A Primer for State and Local Governments,* https://www.ada.gov/resources/title-ii-primer/ [https://perma.cc/ZV66-EFWU] (Feb. 28, 2020).
+*See, e.g.,* U.S. Dep’t of Just., *ADA Update: A Primer for State and Local Governments,* [https://www.ada.gov/resources/title-ii-primer/](https://www.ada.gov/resources/title-ii-primer/), [https://perma.cc/ZV66-EFWU](https://perma.cc/ZV66-EFWU) (Feb. 28, 2020).
 {% endfnbody %}
 
 {% fnbody 215 %}
@@ -11190,24 +11141,24 @@ Cf., e.g., §§ 35.130(b)(1)(iv) and (b)(8) and 35.160.
 {% endfnbody %}
 
 {% fnbody 222 %}
-*See* W3C, *Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 1.4.3 Contrast (Minimum)* (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#contrast-minimum [https://perma.cc/4XS3-AX7W].
+*See* W3C, *Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 1.4.3 Contrast (Minimum)* (June 5, 2018), [https://www.w3.org/TR/2018/REC-WCAG21-20180605/#contrast-minimum](https://www.w3.org/TR/2018/REC-WCAG21-20180605/#contrast-minimum), [https://perma.cc/4XS3-AX7W](https://perma.cc/4XS3-AX7W).
 {% endfnbody %}
 
 {% fnbody 223 %}
 *See* W3C, *Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 1.4.12 Text Spacing* (June 5,
-2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#text-spacing [https://perma.cc/B4A5-843F].
+2018), [https://www.w3.org/TR/2018/REC-WCAG21-20180605/#text-spacing](https://www.w3.org/TR/2018/REC-WCAG21-20180605/#text-spacing), [https://perma.cc/B4A5-843F](https://perma.cc/B4A5-843F).
 {% endfnbody %}
 
 {% fnbody 224 %}
-*See* W3C, *Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 2.2.1 Timing Adjustable* (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#timing-adjustable [https://perma.cc/V3XZ-KJDG].
+*See* W3C, *Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 2.2.1 Timing Adjustable* (June 5, 2018), [https://www.w3.org/TR/2018/REC-WCAG21-20180605/#timing-adjustable](https://www.w3.org/TR/2018/REC-WCAG21-20180605/#timing-adjustable), [https://perma.cc/V3XZ-KJDG](https://perma.cc/V3XZ-KJDG).
 {% endfnbody %}
 
 {% fnbody 225 %}
-W3C, *Understanding SC 4.1.1: Parsing (Level A)*, https://www.w3.org/WAI/WCAG21/Understanding/parsing.html [https://perma.cc/5Z8Q-GW5E] (June 20, 2023).
+W3C, *Understanding SC 4.1.1: Parsing (Level A)*, [https://www.w3.org/WAI/WCAG21/Understanding/parsing.html](https://www.w3.org/WAI/WCAG21/Understanding/parsing.html), [https://perma.cc/5Z8Q-GW5E](https://perma.cc/5Z8Q-GW5E) (June 20, 2023).
 {% endfnbody %}
 
 {% fnbody 226 %}
-W3C, *WCAG 2 FAQ, How and why is success criteria 4.1.1 Parsing obsolete?,* https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411 [https://perma.cc/7Q9H-JVSZ] (Oct. 5, 2023).
+W3C, *WCAG 2 FAQ, How and why is success criteria 4.1.1 Parsing obsolete?,* [https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411), [https://perma.cc/7Q9H-JVSZ](https://perma.cc/7Q9H-JVSZ) (Oct. 5, 2023).
 {% endfnbody %}
 
 {% fnbody 227 %}
@@ -11223,7 +11174,7 @@ Section 35.160(b)(2).
 {% endfnbody %}
 
 {% fnbody 230 %}
-*See, e.g.,* W3C, *Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 2.3.1. Three Flashes or Below Threshold* (June 5, 2018), https://www.w3.org/TR/2018/REC-WCAG21-20180605/#three-flashes-or-below-threshold [https://perma.cc/A7P9-WCQY] (addressing aspects of content design that could trigger seizures or other physical reactions).
+*See, e.g.,* W3C, *Web Content Accessibility Guidelines (WCAG) 2.1, Success Criterion 2.3.1. Three Flashes or Below Threshold* (June 5, 2018), [https://www.w3.org/TR/2018/REC-WCAG21-20180605/#three-flashes-or-below-threshold](https://www.w3.org/TR/2018/REC-WCAG21-20180605/#three-flashes-or-below-threshold), [https://perma.cc/A7P9-WCQY](https://perma.cc/A7P9-WCQY) (addressing aspects of content design that could trigger seizures or other physical reactions).
 {% endfnbody %}
 
 {% fnbody 231 %}
@@ -11284,7 +11235,7 @@ Section 35.151(a) and (c).
 {% endfnbody %}
 
 {% fnbody 245 %}
-*Id.* at 51984; *see also* W3C, *Accessibility Maturity Model: Group Draft Note, § 1.1: About the Accessibility Maturity Model* (Dec. 15, 2023), https://www.w3.org/TR/maturity-model/ [https://perma.cc/UX4X-J4MF].
+*Id.* at 51984; *see also* W3C, *Accessibility Maturity Model: Group Draft Note, § 1.1: About the Accessibility Maturity Model* (Dec. 15, 2023), [https://www.w3.org/TR/maturity-model/](https://www.w3.org/TR/maturity-model/), [https://perma.cc/UX4X-J4MF](https://perma.cc/UX4X-J4MF).
 {% endfnbody %}
 
 {% fnbody 246 %}
@@ -11320,15 +11271,15 @@ Section 35.151(a) and (c).
 {% endfnbody %}
 
 {% fnbody 254 %}
-250 Wash. Tech. Sols., *Policy 188 – Accessibility,* https://watech.wa.gov/sites/default/files/2023-09/188_Accessibility_2019_AS%2520v3%2520Approved.docx. A Perma archive link was unavailable for this citation.
+250 Wash. Tech. Sols., *Policy 188 – Accessibility,* [https://watech.wa.gov/sites/default/files/2023-09/188_Accessibility_2019_AS%2520v3%2520Approved.docx](https://watech.wa.gov/sites/default/files/2023-09/188_Accessibility_2019_AS%2520v3%2520Approved.docx). A Perma archive link was unavailable for this citation.
 {% endfnbody %}
 
 {% fnbody 255 %}
-251 Wash. Tech. Sols., *Standard 188.10 – Minimum Accessibility Standard,* https://watech.wa.gov/sites/default/files/2023-09/188.10_Min_Std_2019_AS_Approved_03102020_1.docx. A Perma archive link was unavailable for this citation.
+251 Wash. Tech. Sols., *Standard 188.10 – Minimum Accessibility Standard,* [https://watech.wa.gov/sites/default/files/2023-09/188.10_Min_Std_2019_AS_Approved_03102020_1.docx](https://watech.wa.gov/sites/default/files/2023-09/188.10_Min_Std_2019_AS_Approved_03102020_1.docx). A Perma archive link was unavailable for this citation.
 {% endfnbody %}
 
 {% fnbody 256 %}
-*Accessibility for Ontarians With Disabilities Act,* 2005, S.O. 2005, c. 11 (Can.), https://www.ontario.ca/laws/statute/05a11 [https://perma.cc/V26B-2NSG].
+*Accessibility for Ontarians With Disabilities Act,* 2005, S.O. 2005, c. 11 (Can.), [https://www.ontario.ca/laws/statute/05a11](https://www.ontario.ca/laws/statute/05a11), [https://perma.cc/V26B-2NSG](https://perma.cc/V26B-2NSG).
 {% endfnbody %}
 
 {% fnbody 257 %}
@@ -11352,13 +11303,12 @@ Section 35.130(b)(7) and 35.160.
 {% endfnbody %}
 
 {% fnbody 262 %}
-*See, e.g.,* W3C, *Evaluating Web Accessibility Overview,* https://www.w3.org/WAI/test-evaluate/
-[https://perma.cc/6RDS-X6AR] (Aug. 1, 2023).
+*See, e.g.,* W3C, *Evaluating Web Accessibility Overview,* [https://www.w3.org/WAI/test-evaluate/](https://www.w3.org/WAI/test-evaluate/), [https://perma.cc/6RDS-X6AR](https://perma.cc/6RDS-X6AR) (Aug. 1, 2023).
 {% endfnbody %}
 
 {% fnbody 263 %}
 *See, e.g.,* W3C, *Digital Accessibility Foundations Free Online Course,*
-https://www.w3.org/WAI/courses/foundations-course/ [https://perma.cc/KU9L-NU4H] (Oct. 24, 2023).
+[https://www.w3.org/WAI/courses/foundations-course/](https://www.w3.org/WAI/courses/foundations-course/), [https://perma.cc/KU9L-NU4H](https://perma.cc/KU9L-NU4H) (Oct. 24, 2023).
 {% endfnbody %}
 
 {% fnbody 264 %}
@@ -11366,7 +11316,7 @@ https://www.w3.org/WAI/courses/foundations-course/ [https://perma.cc/KU9L-NU4H] 
 {% endfnbody %}
 
 {% fnbody 265 %}
-Memorandum for Federal Agency Civil Rights Directors and General Counsels, from Kristen Clarke, Assistant Attorney General, Civil Rights Division, U.S. Department of Justice, *Re: Executive Order 12250 Enforcement and Coordination Updates* (Jan. 20, 2023), https://www.justice.gov/media/1284016/dl?inline [https://perma.cc/AL6Q-QC57]; Memorandum for Federal Agency Civil Rights Directors and General Counsels, from John M. Gore, Acting Assistant Attorney General, Civil Rights Division, U.S. Department of Justice, *Re: Coordination of Federal Agencies’ Implementation of Title II of the Americans with Disabilities Act and Section 504 of the Rehabilitation Act,* Civil Rights Division, U.S. Department of Justice (Apr. 24, 2018), https://www.justice.gov/crt/page/file/1060321/download [https://perma.cc/9Q98-BVU2].
+Memorandum for Federal Agency Civil Rights Directors and General Counsels, from Kristen Clarke, Assistant Attorney General, Civil Rights Division, U.S. Department of Justice, *Re: Executive Order 12250 Enforcement and Coordination Updates* (Jan. 20, 2023), [https://www.justice.gov/media/1284016/dl?inline](https://www.justice.gov/media/1284016/dl?inline), [https://perma.cc/AL6Q-QC57](https://perma.cc/AL6Q-QC57); Memorandum for Federal Agency Civil Rights Directors and General Counsels, from John M. Gore, Acting Assistant Attorney General, Civil Rights Division, U.S. Department of Justice, *Re: Coordination of Federal Agencies’ Implementation of Title II of the Americans with Disabilities Act and Section 504 of the Rehabilitation Act,* Civil Rights Division, U.S. Department of Justice (Apr. 24, 2018), [https://www.justice.gov/crt/page/file/1060321/download](https://www.justice.gov/crt/page/file/1060321/download), [https://perma.cc/9Q98-BVU2](https://perma.cc/9Q98-BVU2).
 {% endfnbody %}
 
 {% fnbody 266 %}
@@ -11374,7 +11324,7 @@ Memorandum for Federal Agency Civil Rights Directors and General Counsels, from 
 {% endfnbody %}
 
 {% fnbody 267 %}
-*See* W3C, *Overlay Capabilities Inventory: Draft Community Group Report* (Feb. 12, 2024), https://a11yedge.github.io/capabilities/ [https://perma.cc/2762-VJEV]; *see also* W3C, *Draft Web
-Accessibility Evaluation Tools List,* https://www.w3.org/WAI/ER/tools/ [https://perma.cc/Q4ME-Q3VW] (last visited Feb. 12, 2024).
+*See* W3C, *Overlay Capabilities Inventory: Draft Community Group Report* (Feb. 12, 2024), [https://a11yedge.github.io/capabilities/](https://a11yedge.github.io/capabilities/), [https://perma.cc/2762-VJEV](https://perma.cc/2762-VJEV); *see also* W3C, *Draft Web
+Accessibility Evaluation Tools List,* [https://www.w3.org/WAI/ER/tools/](https://www.w3.org/WAI/ER/tools/), [https://perma.cc/Q4ME-Q3VW](https://perma.cc/Q4ME-Q3VW) (last visited Feb. 12, 2024).
 {% endfnbody %}
 {% endfootnotes %}
