@@ -149,11 +149,7 @@ The ADA is not the only federal law that safeguards the voting rights of a perso
       </tbody>
       </table>
 
-[Learn more about these laws.]( {{'/resources/protecting-voter-rights/'| relative_url}})
-
 Learn more about the ADA and voting rights of people with disabilities
-- [The Americans with Disabilities Act and Other Federal Laws Protecting the Rights of
-Voters with Disabilities]( {{'/resources/protecting-voter-rights/'| relative_url}})
 - [ADA Checklist for Polling Places]( {{'/resources/polling-places-checklist/'| relative_url}})
 - [Solutions for Five Common ADA Access Problems at Polling Places]( {{'/resources/solutions-voting-problems/'| relative_url}})
 - [Ballot Drop Box Accessibility; The Americans with Disabilities Act]( {{'/resources/ballot-box-accessibility/'| relative_url}})

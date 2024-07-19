@@ -36,8 +36,6 @@ The ADA’s regulations and the ADA Standards for Accessible Design set out what
 
 ### Other Justice Department Publications
 
-In addition to the 2016 Checklist, election officials should consult the Department’s 7-page publication on the rights of voters with disabilities, The Americans with Disabilities Act and Other Federal Laws Protecting the Rights of Voters with Disabilities.
-
 Another Justice Department publication, Solutions for Five Common ADA Access Problems at Polling Places, illustrates suggested temporary solutions for several common accessibility problems found at polling places.
 
 The 2016 Checklist and other Justice Department publications, as well as the title II regulation and the 2010 Standards are available at [archive.ada.gov](https://archive.ada.gov).
