@@ -9,8 +9,7 @@ lead: |-
 
   Part 3 is the 2016 Checklist.
 lang: "en"
-publish-date: 2016-06-1 00:00:00
-updated-date: 2020-02-28 00:00:00
+publish-date: 2020-02-28 00:00:00
 print: true
 related-content: true
 redirect_from:
