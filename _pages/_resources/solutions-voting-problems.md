@@ -182,8 +182,6 @@ This document provides guidance on providing temporary access to polling places.
 
 The Checklist, title II regulation, and the ADA Standards are available at [ADA.gov]({{ '/' | relative_url }}).
 
-In addition, election officials should consult the Department’s 7-page publication on the rights of voters with disabilities, The Americans with Disabilities Act and Other Federal Laws Protecting the Rights of Voters with Disabilities, also available at www.ada.gov.
-
 **For More Information**
 
 For information about the ADA, please visit our website or call our toll-free number.
