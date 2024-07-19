@@ -5,8 +5,7 @@ permalink: /resources/solutions-voting-problems/
 lead: |-
   Voting is one of our nation's most fundamental rights and a hallmark of our democracy. Voting in-person on Election Day is the way most Americans cast their ballot and vote, but for far too long, many voters with disabilities who use wheelchairs or other mobility devices have had difficulties getting inside polling places to vote because of architectural barriers. Title II of the Americans with Disabilities Act (ADA) requires public entities to ensure that people with disabilities can access and use their voting facilities.
 lang: "en"
-publish-date: 2014-10-10 00:00:00
-updated-date: 2020-02-28 00:00:00
+publish-date: 2020-02-28 00:00:00
 print: true
 related-content: true
 redirect_from:
@@ -181,6 +180,8 @@ To provide temporary access to voters with disabilities, election officials shou
 This document provides guidance on providing temporary access to polling places. Election officials should note that the ADA requires jurisdictions to select polling sites that are accessible or can be made accessible for elections. The ADA title II regulation and the ADA Standards for Accessible Design set out what makes a facility accessible and should be used to determine the level of accessibility at each facility being used or considered for use as a polling place. Election officials should consult the Justice Department’s ADA Checklist for Polling Places for more detailed guidance on how to assess whether a polling place is fully accessible to voters with disabilities or if barriers can be removed.
 
 The Checklist, title II regulation, and the ADA Standards are available at [ADA.gov]({{ '/' | relative_url }}).
+
+In addition, election officials should consult the Department’s 7-page publication on the rights of voters with disabilities, [The Americans with Disabilities Act and Other Federal Laws Protecting the Rights of Voters with Disabilities]( {{'/resources/protecting-voter-rights/'| relative_url}}).
 
 **For More Information**
 
