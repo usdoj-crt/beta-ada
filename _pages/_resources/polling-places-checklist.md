@@ -9,8 +9,7 @@ lead: |-
 
   Part 3 is the 2016 Checklist.
 lang: "en"
-publish-date: 2016-06-1 00:00:00
-updated-date: 2020-02-28 00:00:00
+publish-date: 2020-02-28 00:00:00
 print: true
 related-content: true
 redirect_from:
@@ -36,9 +35,11 @@ The ADA’s regulations and the ADA Standards for Accessible Design set out what
 
 ### Other Justice Department Publications
 
+In addition to the 2016 Checklist, election officials should consult the Department’s 7-page publication on the rights of voters with disabilities, [The Americans with Disabilities Act and Other Federal Laws Protecting the Rights of Voters with Disabilities]( {{'/resources/protecting-voter-rights/'| relative_url}}).
+
 Another Justice Department publication, Solutions for Five Common ADA Access Problems at Polling Places, illustrates suggested temporary solutions for several common accessibility problems found at polling places.
 
-The 2016 Checklist and other Justice Department publications, as well as the title II regulation and the 2010 Standards are available at [archive.ada.gov](https://archive.ada.gov).
+The [Polling Place Checklist]( {{'/resources/polling-places-checklist/'| relative_url}}) and other Justice Department publications, as well as the [title II regulation]( {{'/law-and-regs/regulations/title-ii-2010-regulations/'| relative_url}}) and the [2010 Standards]( {{'/law-and-regs/design-standards/2010-stds/'| relative_url}}) are also available.
 
 ## Part 1: Evaluating the Physical Accessibility of Polling Places
 
