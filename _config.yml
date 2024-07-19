@@ -36,6 +36,7 @@ contact:
 # For alerts that aren't tied to a site.categories.notice
 external_notices:
 
+
 # Display beta disclamers
 beta: false
 
