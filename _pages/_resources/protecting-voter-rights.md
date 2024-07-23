@@ -5,8 +5,7 @@ permalink: /resources/protecting-voter-rights/
 lead: |-
   Voting is one of our nation’s most fundamental rights and a hallmark of our democracy. Yet for too long, many people with disabilities have been excluded from this core aspect of citizenship.  People with intellectual or mental health disabilities have been prevented from voting because of prejudicial assumptions about their capabilities.  People who use wheelchairs or other mobility aids, such as walkers, have been unable to enter the polling place to cast their ballot because there was no ramp.  People who are blind or have low vision could not cast their vote because the ballot was completely inaccessible to them.
 lang: "en"
-publish-date: 2014-09-30 00:00:00
-updated-date: 2024-04-18 00:00:00
+publish-date: 2024-04-18 00:00:00
 print: true
 related-content: true
 redirect_from:
