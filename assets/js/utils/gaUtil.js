@@ -42,7 +42,7 @@ const ANALYTICS_CONFIG = [
   ['#in-page-search', 'click', sendGAClickEvent],
   ['#in-page-search-mobile', 'click', sendGAClickEvent],
   ['#next-result', 'click', sendGAClickEvent],
-  ['#prev-result', 'click', sendGAClickEvent]
+  ['#prev-result', 'click', sendGAClickEvent],
 ];
 
 export default function initGAEvents() {
