@@ -39,6 +39,10 @@ const ANALYTICS_CONFIG = [
   ['.law-reg-tile-link', 'click', sendGAClickEvent],
   ['.law-reg-resource-link', 'click', sendGAClickEvent],
   ['#crt-back-to-top-button', 'click', sendGAClickEvent],
+  ['#in-page-search', 'click', sendGAClickEvent],
+  ['#in-page-search-mobile', 'click', sendGAClickEvent],
+  ['#next-result', 'click', sendGAClickEvent],
+  ['#prev-result', 'click', sendGAClickEvent]
 ];
 
 export default function initGAEvents() {

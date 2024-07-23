@@ -362,6 +362,11 @@ function navResults(e, dir, prevBtn, nextBtn, searchNav) {
   currentCount.innerText = newCount;
 }
 
+function gtag() {
+  window.dataLayer = window.dataLayer || [];
+  dataLayer.push(arguments);
+}
+
 function search(searchBoxWrapper) {
   const searchBox = searchBoxWrapper.querySelector('.searchbox');
   const overlay = document.querySelector('.overlay');
@@ -383,6 +388,7 @@ function search(searchBoxWrapper) {
     clearSearch(searchGo, searchNav, searchBox);
     return;
   }
+  gtag('event', 'view_search_results', { event_name: `in page search ${searchQuery}` });
   const sections = document.querySelectorAll('.section');
   sections.forEach((section) => {
     let newSection = section.cloneNode(true);
