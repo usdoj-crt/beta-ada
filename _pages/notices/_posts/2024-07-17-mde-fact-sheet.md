@@ -19,9 +19,9 @@ description: The Department of Justice published a Notice of Proposed Rulemaking
   Title II of the ADA.
 publish-date: 2024-07-17 00:00:00
 ---
-{% include expand-accordions-wrapper.html expand-heading='Purpose of this fact sheet' %}
+**Purpose of this fact sheet:**  This fact sheet gives a summary of the rule. It provides introductory information about the rule, particularly for people who may not have a legal background.
 
-This fact sheet gives a summary of the rule. It provides introductory information about the rule, particularly for people who may not have a legal background.
+{% include expand-accordions-wrapper.html %}
 
 {% details What is medical diagnostic equipment? expandable %}
 Medical diagnostic equipment (MDE) is equipment used in, or in conjunction with,
@@ -68,7 +68,8 @@ Examples of state and local government entities include:
 - Public hospitals
 - Public health care clinics
 - Public colleges’ and universities’ health care systems
-- State and local government entities that contract with other entities to provide public
+
+State and local government entities that contract with other entities to provide public
 services also have to make sure that their contractors follow Title II. For example, if a
 state agency has a non-profit organization run a health clinic on behalf of the agency, the
 agency needs to make sure that the non-profit organization follows Title II.
@@ -97,7 +98,7 @@ more detail.
 {% details Requirement: The Department is adopting the U.S. Access Board’s MDE Standards as
 the technical standard for state and local governments’ accessible MDE. expandable %}
 
-- A technical standard says specifically what is required for something to be accessible. For example, the existing ADA Standards for Accessible Design are technical standards that say what is needed for a building to be physically accessible under the ADA, like how wide a door has to be or how steep a ramp can be.
+- A technical standard says specifically what is required for something to be accessible. For example, the existing [ADA Standards for Accessible Design]({{'/law-and-regs/design-standards/2010-stds' | relative_url}}) are technical standards that say what is needed for a building to be physically accessible under the ADA, like how wide a door has to be or how steep a ramp can be.
 - In 2017, the [U.S. Access Board](https://www.access-board.gov/) issued technical standards on the accessibility of MDE
 in physicians’ offices, clinics, emergency rooms, hospitals, and other medical settings.
 We call these the “[MDE Standards](https://www.federalregister.gov/documents/2017/01/09/2016-31186/standards-for-accessible-medical-diagnostic-equipment).”
@@ -133,7 +134,7 @@ their existing MDE. expandable %}
 existing accessible MDE. Examples of access barriers could include exam tables that
 are not height adjustable or weight scales that do not accommodate wheelchairs.
 - State and local government entities do not necessarily have to make all of their existing
-MDE accessible
+MDE accessible.
 - The rule requires state and local government entities to operate each service, program,
 or activity offered through or with the use of MDE so that the service, program, or activity
 as a whole is readily accessible to and usable by individuals with disabilities. This
