@@ -4,11 +4,11 @@ title: "Happy 34th Anniversary ADA"
 compact: true
 sidenav: true
 print: true
-notice_text: Happy Anniversary ADA
-notice_link: Read the Department's Blog Commemorating 34 Years
+notice_text: <a href="https://www.justice.gov">Happy Anniversary ADA</a>
+notice_link: Read a Joint Blog Commemorating 34 Years
 tags:
-  - web access
   - title ii
+  - title iii
 lead: On April 24, 2024, the Federal Register published the Department of Justice's (Department) final rule updating its regulations for Title II of the Americans with Disabilities Act (ADA). The final rule has
   specific requirements about how to ensure that web content and mobile
   applications (apps) are accessible to people with disabilities.
