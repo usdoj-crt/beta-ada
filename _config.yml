@@ -36,11 +36,11 @@ contact:
 # For alerts that aren't tied to a site.categories.notice
 external_notices:
   - text:
-      en: Happy 34th Anniversary, ADA!
+      en: Happy Anniversary, ADA!
     link_text:
-      en: The Americans with Disabilities Act was signed on July 26, 1990.
+      en: Title II Medical Diagnostic Equipment Final Rule Signed by the Attorney General
     link_href:
-      en: https://www.youtube.com/watch?v=9gsGiszvyjQ&feature=youtu.be
+      en: https://www.justice.gov/opa/pr/justice-department-publish-final-rule-improve-access-medical-care-people-disabilities
 
 # Display beta disclamers
 beta: false
