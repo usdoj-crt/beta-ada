@@ -3,7 +3,7 @@ const sidenav = () => {
   if (!sideNav) return;
   const expandButton = document.getElementById('expand-all');
   const expandText = document.querySelector('.expand-text');
-  const expandIcon = expandButton.querySelector('.usa-icon');
+  const expandIcon = expandButton?.querySelector('.usa-icon');
   const nav = document.querySelector('.usa-accordion.margin-bottom-2');
   function expandAll() {
     const submenuButtons = document.getElementsByClassName('usa-accordion__button');

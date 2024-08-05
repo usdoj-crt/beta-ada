@@ -35,6 +35,12 @@ contact:
 
 # For alerts that aren't tied to a site.categories.notice
 external_notices:
+  - text:
+      en: Happy Anniversary, ADA!
+    link_text:
+      en: Title II Medical Diagnostic Equipment Final Rule Signed by the Attorney General
+    link_href:
+      en: https://www.justice.gov/opa/pr/justice-department-publish-final-rule-improve-access-medical-care-people-disabilities
 
 
 # Display beta disclamers
