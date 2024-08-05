@@ -4,7 +4,7 @@ title: "Fact Sheet: New Rule on the Accessibility of Medical Diagnostic Equipmen
 compact: true
 sidenav: true
 print: true
-notice_text: Title II Medical Diagnostic Equipment Final Rule Signed by the Attorney General
+notice_text: Rule on Accessibility of Medical Diagnostic Equipment Under Title II PUblished
 notice_link: Learn more about the rule's requirements
 tags:
   - medical care
