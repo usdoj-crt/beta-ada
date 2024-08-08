@@ -44,7 +44,7 @@ Rulemaking (NPRM). The NPRM was basically a first draft of the regulation. It le
 public know about the requirements the Department was considering and gave an
 opportunity for feedback.
 
-The Department got feedback from the public on the NPRM. Based on that feedback, the Department made changes to certain parts of the rule. A description of the feedback the Department got and how it updated the rule is available in the appendix to the rule.
+The Department got feedback from the public on the NPRM. Based on that feedback, the Department made changes to certain parts of the rule. A description of the feedback the Department got and how it updated the rule is available in the appendix to the [rule]({{'assets/pdfs/mde-rule.pdf' | relative_url}}).
 {% enddetails %}
 
 {% details What is Title II of the Americans with Disabilities Act (ADA)? expandable %}
@@ -84,11 +84,11 @@ individuals with disabilities, contributing to poor health outcomes. This rule e
 disparities experienced by people with disabilities.
 
 You can find more information about why the Department of Justice made this rule in the section
-of the rule called “Need for the Adoption of MDE Standards.”
+of the [rule]({{'assets/pdfs/mde-rule.pdf' | relative_url}}) called “Need for the Adoption of MDE Standards.”
 
 ## Highlights of this Rule's Requirements
 
-The rule’s requirements are highlighted below. The full rule explains these requirements in
+The rule’s requirements are highlighted below. The full [rule]({{'assets/pdfs/mde-rule.pdf' | relative_url}}) explains these requirements in
 more detail.
 
 {% details Requirement: The Department is adopting the U.S. Access Board’s MDE Standards as
