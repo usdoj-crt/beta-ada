@@ -4,20 +4,16 @@ title: "Fact Sheet: New Rule on the Accessibility of Medical Diagnostic Equipmen
 compact: true
 sidenav: true
 print: true
-notice_text: Rule on Accessibility of Medical Diagnostic Equipment Under Title II PUblished
-notice_link: Learn more about the rule's requirements
+notice_text: Title II Medical Diagnostic Equipment Final Rule Signed by the Attorney General
+notice_link: Learn about the rule's requirements
 tags:
   - medical care
   - title ii
 lead: The Department of Justice (Department) is publishing a final rule updating the regulation for Title II of the Americans with Disabilities Act (ADA). The final rule has specific requirements about accessible medical diagnostic equipment (MDE).
-description: The Department of Justice published a Notice of Proposed Rulemaking
-  (NPRM) on July 20, 2023 explaining how we propose updating the regulations for
-  Title II of the Americans with Disabilities Act (ADA) to add more specific
-  requirements about medical diagnostic equipment.  This fact sheet
-  gives a plain language summary of the technical standards that state and local
+description: This fact sheet gives a plain language summary of the technical standards that state and local
   governments would have to follow to meet their existing obligations under
   Title II of the ADA.
-publish-date: 2024-07-17 00:00:00
+publish-date: 2024-08-08 00:00:00
 ---
 **Purpose of this fact sheet:**  This fact sheet gives a summary of the rule. It provides introductory information about the rule, particularly for people who may not have a legal background.
 
