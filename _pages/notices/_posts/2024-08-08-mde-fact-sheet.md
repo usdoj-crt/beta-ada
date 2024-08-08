@@ -9,13 +9,13 @@ notice_link: Learn about the rule's requirements
 tags:
   - medical care
   - title ii
-lead: The Department of Justice (Department) is publishing a final rule updating the regulation for Title II of the Americans with Disabilities Act (ADA). The final rule has specific requirements about accessible medical diagnostic equipment (MDE).
+lead: The Department of Justice (Department) is publishing a <a href="https://www.ada.gov/assets/pdfs/mde-rule.pdf">final rule</a> updating the regulation for Title II of the Americans with Disabilities Act (ADA). The <a href="https://www.ada.gov/assets/pdfs/mde-rule.pdf">final rule</a> has specific requirements about accessible medical diagnostic equipment (MDE).
 description: This fact sheet gives a plain language summary of the technical standards that state and local
   governments would have to follow to meet their existing obligations under
   Title II of the ADA.
 publish-date: 2024-08-08 00:00:00
 ---
-**Purpose of this fact sheet:**  This fact sheet gives a summary of the rule. It provides introductory information about the rule, particularly for people who may not have a legal background.
+**Purpose of this fact sheet:**  This fact sheet gives a summary of [the rule]({{'assets/pdfs/mde-rule.pdf' | relative_url}}). It provides introductory information about [the rule]({{'assets/pdfs/mde-rule.pdf' | relative_url}}), particularly for people who may not have a legal background.
 
 {% include expand-accordions-wrapper.html %}
 
