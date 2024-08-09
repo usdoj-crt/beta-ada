@@ -9,7 +9,7 @@ notice_link: Learn about the rule's requirements
 tags:
   - medical care
   - title ii
-lead: The Department of Justice (Department) is publishing a <a href="https://www.ada.gov/assets/pdfs/mde-rule.pdf">final rule</a> updating the regulation for Title II of the Americans with Disabilities Act (ADA). The <a href="https://www.ada.gov/assets/pdfs/mde-rule.pdf">final rule</a> has specific requirements about accessible medical diagnostic equipment (MDE).
+lead: On August 9, 2024, the Federal published the Department of Justice's (Department) <a href="https://www.ada.gov/assets/pdfs/mde-rule.pdf">final rule</a> updating the regulation for Title II of the Americans with Disabilities Act (ADA). The <a href="https://www.ada.gov/assets/pdfs/mde-rule.pdf">final rule</a> has specific requirements about accessible medical diagnostic equipment (MDE).
 description: This fact sheet gives a plain language summary of the technical standards that state and local
   governments would have to follow to meet their existing obligations under
   Title II of the ADA.
@@ -106,7 +106,7 @@ incorporating them into the Department’s ADA Title II regulation.
 MDE Standards. expandable %}
 
 - The rule generally requires all MDE that state and local government entities purchase,
-lease, or otherwise acquire after the rule goes into effect to be accessible, until the
+lease, or otherwise acquire after October 8, 2024 to be accessible, until the
 entities have the amount of accessible MDE specified in the rule.
 - State and local government entities may choose to acquire additional accessible MDE
 as long as they have the amount specified in the rule.
@@ -114,12 +114,12 @@ as long as they have the amount specified in the rule.
 
 {% details Requirement: State and local government entities that use examination tables and
 weight scales must have at least one accessible examination table and weight scale
-within two years. expandable %}
+by August 9, 2026. expandable %}
 
-- Within two years, any state or local government entity that uses an examination table
+- By August 9, 2026, any state or local government entity that uses an examination table
 must purchase, lease, or otherwise acquire at least one examination table that meets the
 MDE Standards, unless the entity already has one.
-- Within two years, any state or local government entity that uses a weight scale must
+- By August 9, 2026, any state or local government entity that uses a weight scale must
 purchase, lease, or otherwise acquire at least one weight scale that meets the MDE
 Standards, unless the entity already has one.
 {% enddetails %}
@@ -178,13 +178,13 @@ alternatives provide the same or more accessibility and usability as the MDE Sta
 {% enddetails %}
 
 ## How Long State and Local Government Entities Have to Comply with the Rule
-- Starting sixty days after the final rule is published, all MDE that state and local government
+- Beginning on October 8, 2024, after the final rule is published, all MDE that state and local government
 entities purchase, lease, or otherwise acquire must be accessible, until the entities have the
 amount of accessible MDE that the rule requires.
-- Within two years after the final rule is published, state and local government entities that use
+- By August 9, 2026, after the final rule is published, state and local government entities that use
 examination tables must have at least one examination table that meets the MDE
 Standards.
-- Within two years after the final rule is published, state and local government entities that use
+- By August 9, 2026, after the final rule is published, state and local government entities that use
 weight scales must have at least one weight scale that meets the MDE Standards.
 
 ## ADA Information and Resources
