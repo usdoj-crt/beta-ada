@@ -178,13 +178,13 @@ alternatives provide the same or more accessibility and usability as the MDE Sta
 {% enddetails %}
 
 ## How Long State and Local Government Entities Have to Comply with the Rule
-- Beginning on October 8, 2024, after the final rule is published, all MDE that state and local government
+- Beginning on October 8, 2024, all MDE that state and local government
 entities purchase, lease, or otherwise acquire must be accessible, until the entities have the
 amount of accessible MDE that the rule requires.
-- By August 9, 2026, after the final rule is published, state and local government entities that use
+- By August 9, 2026, state and local government entities that use
 examination tables must have at least one examination table that meets the MDE
 Standards.
-- By August 9, 2026, after the final rule is published, state and local government entities that use
+- By August 9, 2026, state and local government entities that use
 weight scales must have at least one weight scale that meets the MDE Standards.
 
 ## ADA Information and Resources
