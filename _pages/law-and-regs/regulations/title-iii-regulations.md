@@ -374,7 +374,7 @@ NOTE: These provisions update the relevant portions of the title III regulation 
 (2) The requirements of subparts B and C of this part obligate a public accommodation only with respect to the operations of a place of public accommodation.
 (3) The requirements of subpart D of this part obligate a public accommodation only with respect to
 
-(i) A facility used as, or designed or constructed for use as, a place of public accommodation; or
+(i) A facility used as, or designed or constructed for use as, a place of public accommodation; or<br>
 (ii) A facility used as, or designed and constructed for use as, a commercial facility.
 
 (c) Commercial facilities. The requirements of this part applicable to commercial facilities are set forth in subpart D of this part.
@@ -415,8 +415,8 @@ For purposes of this part, the term-
 (2) That are intended for nonresidential use by a private entity; and
 (3) That are not –
 
-(i) Facilities that are covered or expressly exempted from coverage under the Fair Housing Act of 1968, as amended (42 U.S.C. 3601 - 3631);
-(ii) Aircraft; or
+(i) Facilities that are covered or expressly exempted from coverage under the Fair Housing Act of 1968, as amended (42 U.S.C. 3601 - 3631);<br>
+(ii) Aircraft; or<br>
 (iii) Railroad locomotives, railroad freight cars, railroad cabooses, commuter or intercity passenger rail cars (including coaches, dining cars, sleeping cars, lounge cars, and food service cars), any other railroad cars described in section 242 of the Act or covered under title II of the Act, or railroad rights-of-way. For purposes of this definition, &quot;rail&quot; and &quot;railroad&quot; have the meaning given the term &quot;railroad&quot; in section 202(e) of the Federal Railroad Safety Act of 1970 (45 U.S.C. 431(e)).
 
 *Current illegal use of drugs* means illegal use of drugs that occurred recently enough to justify a reasonable belief that a person's drug use is current or that continuing use is a real and ongoing problem.
@@ -516,22 +516,22 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 
 **(1)  *Disability* means, with respect to an individual:**
 
-**(i)  A physical or mental impairment that substantially limits one or more of the major life activities of such individual;**
-**(ii)  A record of such an impairment; or**
+**(i)  A physical or mental impairment that substantially limits one or more of the major life activities of such individual;**<br>
+**(ii)  A record of such an impairment; or**<br>
 **(iii)  Being regarded as having such an impairment as described in paragraph (f) of this section.**
 
 
 **(2)**  ***Rules of construction.***
 
-**(i)  The definition of &ldquo;disability&rdquo; shall be construed broadly in favor of expansive coverage, to the maximum extent permitted by the terms of the ADA.**
-**(ii)  An individual may establish coverage under any one or more of the three prongs of the definition of disability in paragraph (a)(1) of this section, the &ldquo;actual disability&rdquo; prong in paragraph (a)(1)(i) of this section, the &ldquo;record of&rdquo; prong in paragraph (a)(1)(ii) of this section, or the &ldquo;regarded as&rdquo; prong in paragraph (a)(1)(iii) of this section.**
+**(i)  The definition of &ldquo;disability&rdquo; shall be construed broadly in favor of expansive coverage, to the maximum extent permitted by the terms of the ADA.**<br>
+**(ii)  An individual may establish coverage under any one or more of the three prongs of the definition of disability in paragraph (a)(1) of this section, the &ldquo;actual disability&rdquo; prong in paragraph (a)(1)(i) of this section, the &ldquo;record of&rdquo; prong in paragraph (a)(1)(ii) of this section, or the &ldquo;regarded as&rdquo; prong in paragraph (a)(1)(iii) of this section.**<br>
 **(iii)  Where an individual is not challenging a public accommodation's failure to provide reasonable modifications under &sect; 36.302, it is generally unnecessary to proceed under the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prongs, which require a showing of an impairment that substantially limits a major life activity or a record of such an impairment. In these cases, the evaluation of coverage can be made solely under the &ldquo;regarded as&rdquo; prong of the definition of &ldquo;disability,&rdquo; which does not require a showing of an impairment that substantially limits a major life activity or a record of such an impairment. An individual may choose, however, to proceed under the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prong regardless of whether the individual is challenging a public accommodation's failure to provide reasonable modifications.**
 
 **(b)**
 
 **(1)  *Physical or mental impairment* means:**
 
-**(i) Any physiological disorder or condition, cosmetic disfigurement, or anatomical loss affecting one or more body systems, such as: neurological, musculoskeletal, special sense organs, respiratory (including speech organs), cardiovascular, reproductive, digestive, genitourinary, immune, circulatory, hemic, lymphatic, skin, and endocrine; or**
+**(i) Any physiological disorder or condition, cosmetic disfigurement, or anatomical loss affecting one or more body systems, such as: neurological, musculoskeletal, special sense organs, respiratory (including speech organs), cardiovascular, reproductive, digestive, genitourinary, immune, circulatory, hemic, lymphatic, skin, and endocrine; or**<br>
 **(ii) Any mental or psychological disorder such as intellectual disability, organic brain syndrome, emotional or mental illness, and specific learning disability.**
 
 **(2)  *Physical or mental impairment* includes, but is not limited to, contagious and noncontagious diseases and conditions such as the following: orthopedic, visual, speech and hearing impairments, cerebral palsy, epilepsy, muscular dystrophy, multiple sclerosis, cancer, heart disease, diabetes, intellectual disability, emotional illness, dyslexia and other specific learning disabilities, Attention Deficit Hyperactivity Disorder, Human Immunodeficiency Virus infection (whether symptomatic or asymptomatic), tuberculosis, drug addiction, and alcoholism.**
@@ -542,59 +542,59 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 
 **(1)**  ***Major life activities include, but are not limited to:***
 
-**(i) Caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, sitting, reaching, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, writing, communicating, interacting with others, and working; and**
+**(i) Caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, sitting, reaching, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, writing, communicating, interacting with others, and working; and**<br>
 **(ii) The operation of a *major bodily function*, such as the functions of the immune system, special sense organs and skin, normal cell growth, and digestive, genitourinary, bowel, bladder, neurological, brain, respiratory, circulatory, cardiovascular, endocrine, hemic, lymphatic, musculoskeletal, and reproductive systems. The operation of a major bodily function includes the operation of an individual organ within a body system.**
 
 **(2)**  ***Rules of construction.***
 
-**(i) In determining whether an impairment substantially limits a major life activity, the term *major* shall not be interpreted strictly to create a demanding standard.**
+**(i) In determining whether an impairment substantially limits a major life activity, the term *major* shall not be interpreted strictly to create a demanding standard.**<br>
 **(ii) Whether an activity is a *major life activity* is not determined by reference to whether it is of *central* importance to daily life.**
 
 **(d)** ***Substantially limits.***
 
 **(1)*Rules of construction.* The following rules of construction apply when determining whether an impairment substantially limits an individual in a major life activity.**
 
-**(i)  The term &ldquo;substantially limits&rdquo; shall be construed broadly in favor of expansive coverage, to the maximum extent permitted by the terms of the ADA. &ldquo;Substantially limits&rdquo; is not meant to be a demanding standard.**
-**(ii)  The primary object of attention in cases brought under title III of the ADA should be whether public accommodations have complied with their obligations and whether discrimination has occurred, not the extent to which an individual's impairment substantially limits a major life activity. Accordingly, the threshold issue of whether an impairment substantially limits a major life activity should not demand extensive analysis.**
-**(iii)  An impairment that substantially limits one major life activity does not need to limit other major life activities in order to be considered a substantially limiting impairment.**
-**(iv)  An impairment that is episodic or in remission is a disability if it would substantially limit a major life activity when active.**
-**(v)  An impairment is a disability within the meaning of this part if it substantially limits the ability of an individual to perform a major life activity as compared to most people in the general population. An impairment does not need to prevent, or significantly or severely restrict, the individual from performing a major life activity in order to be considered substantially limiting. Nonetheless, not every impairment will constitute a disability within the meaning of this section.**
-**(vi)  The determination of whether an impairment substantially limits a major life activity requires an individualized assessment. However, in making this assessment, the term &ldquo;substantially limits&rdquo; shall be interpreted and applied to require a degree of functional limitation that is lower than the standard for substantially limits applied prior to the ADA Amendments Act.**
-**(vii)  The comparison of an individual's performance of a major life activity to the performance of the same major life activity by most people in the general population usually will not require scientific, medical, or statistical evidence. Nothing in this paragraph (d)(1) is intended, however, to prohibit or limit the presentation of scientific, medical, or statistical evidence in making such a comparison where appropriate.**
-**(viii) The determination of whether an impairment substantially limits a major life activity shall be made without regard to the ameliorative effects of mitigating measures. However, the ameliorative effects of ordinary eyeglasses or contact lenses shall be considered in determining whether an impairment substantially limits a major life activity. Ordinary eyeglasses or contact lenses are lenses that are intended to fully correct visual acuity or to eliminate refractive error.**
+**(i)  The term &ldquo;substantially limits&rdquo; shall be construed broadly in favor of expansive coverage, to the maximum extent permitted by the terms of the ADA. &ldquo;Substantially limits&rdquo; is not meant to be a demanding standard.**<br>
+**(ii)  The primary object of attention in cases brought under title III of the ADA should be whether public accommodations have complied with their obligations and whether discrimination has occurred, not the extent to which an individual's impairment substantially limits a major life activity. Accordingly, the threshold issue of whether an impairment substantially limits a major life activity should not demand extensive analysis.**<br>
+**(iii)  An impairment that substantially limits one major life activity does not need to limit other major life activities in order to be considered a substantially limiting impairment.**<br>
+**(iv)  An impairment that is episodic or in remission is a disability if it would substantially limit a major life activity when active.**<br>
+**(v)  An impairment is a disability within the meaning of this part if it substantially limits the ability of an individual to perform a major life activity as compared to most people in the general population. An impairment does not need to prevent, or significantly or severely restrict, the individual from performing a major life activity in order to be considered substantially limiting. Nonetheless, not every impairment will constitute a disability within the meaning of this section.**<br>
+**(vi)  The determination of whether an impairment substantially limits a major life activity requires an individualized assessment. However, in making this assessment, the term &ldquo;substantially limits&rdquo; shall be interpreted and applied to require a degree of functional limitation that is lower than the standard for substantially limits applied prior to the ADA Amendments Act.**<br>
+**(vii)  The comparison of an individual's performance of a major life activity to the performance of the same major life activity by most people in the general population usually will not require scientific, medical, or statistical evidence. Nothing in this paragraph (d)(1) is intended, however, to prohibit or limit the presentation of scientific, medical, or statistical evidence in making such a comparison where appropriate.**<br>
+**(viii) The determination of whether an impairment substantially limits a major life activity shall be made without regard to the ameliorative effects of mitigating measures. However, the ameliorative effects of ordinary eyeglasses or contact lenses shall be considered in determining whether an impairment substantially limits a major life activity. Ordinary eyeglasses or contact lenses are lenses that are intended to fully correct visual acuity or to eliminate refractive error.**<br>
 **(ix)  The six-month &ldquo;transitory&rdquo; part of the &ldquo;transitory and minor&rdquo; exception in paragraph (f)(2) of this section does not apply to the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prongs of the definition of &ldquo;disability.&rdquo; The effects of an impairment lasting or expected to last less than six months can be substantially limiting within the meaning of this section for establishing an actual disability or a record of a disability.**
 
 **(2)**  ***Predictable assessments.***
 
-**(i)  The principles set forth in the rules of construction in this section are intended to provide for more generous coverage and application of the ADA's prohibition on discrimination through a framework that is predictable, consistent, and workable for all individuals and entities with rights and responsibilities under the ADA.**
-**(ii)  Applying these principles, the individualized assessment of some types of impairments will, in virtually all cases, result in a determination of coverage under paragraph (a)(1)(i) of this section (the &ldquo;actual disability&rdquo; prong) or paragraph (a)(1)(ii) of this section (the &ldquo;record of&rdquo; prong). Given their inherent nature, these types of impairments will, as a factual matter, virtually always be found to impose a substantial limitation on a major life activity. Therefore, with respect to these types of impairments, the necessary individualized assessment should be particularly simple and straightforward.**
+**(i)  The principles set forth in the rules of construction in this section are intended to provide for more generous coverage and application of the ADA's prohibition on discrimination through a framework that is predictable, consistent, and workable for all individuals and entities with rights and responsibilities under the ADA.**<br>
+**(ii)  Applying these principles, the individualized assessment of some types of impairments will, in virtually all cases, result in a determination of coverage under paragraph (a)(1)(i) of this section (the &ldquo;actual disability&rdquo; prong) or paragraph (a)(1)(ii) of this section (the &ldquo;record of&rdquo; prong). Given their inherent nature, these types of impairments will, as a factual matter, virtually always be found to impose a substantial limitation on a major life activity. Therefore, with respect to these types of impairments, the necessary individualized assessment should be particularly simple and straightforward.**<br>
 **(iii)  For example, applying these principles it should easily be concluded that the set forth in paragraphs (d)(2)(iii)(A) through (K) types of impairments will, at a minimum, substantially limit the major life activities indicated. The types of impairments described in this paragraph may substantially limit additional major life activities (including major bodily functions) not explicitly listed in paragraphs (d)(2)(iii)(A) through (K).**
 
-**(A)  Deafness substantially limits hearing;**
-**(B)  Blindness substantially limits seeing;**
-**(C)  Intellectual disability substantially limits brain function;**
-**(D)  Partially or completely missing limbs or mobility impairments requiring the use of a wheelchair substantially limit musculoskeletal function;**
-**(E)  Autism substantially limits brain function;**
-**(F)  Cancer substantially limits normal cell growth;**
-**(G)  Cerebral palsy substantially limits brain function;**
-**(H)  Diabetes substantially limits endocrine function;**
-**(I)  Epilepsy, muscular dystrophy, and multiple sclerosis each substantially limits neurological function;**
-**(J)  Human Immunodeficiency Virus (HIV) infection substantially limits immune function; and**
+**(A)  Deafness substantially limits hearing;**<br>
+**(B)  Blindness substantially limits seeing;**<br>
+**(C)  Intellectual disability substantially limits brain function;**<br>
+**(D)  Partially or completely missing limbs or mobility impairments requiring the use of a wheelchair substantially limit musculoskeletal function;**<br>
+**(E)  Autism substantially limits brain function;**<br>
+**(F)  Cancer substantially limits normal cell growth;**<br>
+**(G)  Cerebral palsy substantially limits brain function;**<br>
+**(H)  Diabetes substantially limits endocrine function;**<br>
+**(I)  Epilepsy, muscular dystrophy, and multiple sclerosis each substantially limits neurological function;**<br>
+**(J)  Human Immunodeficiency Virus (HIV) infection substantially limits immune function; and**<br>
 **(K)  Major depressive disorder, bipolar disorder, post-traumatic stress disorder, traumatic brain injury, obsessive compulsive disorder, and schizophrenia each substantially limits brain function.**
 
 **(3)**  ***Condition, manner, or duration.***
 
-**(i)  At all times taking into account the principles set forth in the rules of construction, in determining whether an individual is substantially limited in a major life activity, it may be useful in appropriate cases to consider, as compared to most people in the general population, the conditions under which the individual performs the major life activity; the manner in which the individual performs the major life activity; or the duration of time it takes the individual to perform the major life activity, or for which the individual can perform the major life activity.**
-**(ii)  Consideration of facts such as condition, manner, or duration may include, among other things, consideration of the difficulty, effort or time required to perform a major life activity; pain experienced when performing a major life activity; the length of time a major life activity can be performed; or the way an impairment affects the operation of a major bodily function. In addition, the non-ameliorative effects of mitigating measures, such as negative side effects of medication or burdens associated with following a particular treatment regimen, may be considered when determining whether an individual's impairment substantially limits a major life activity.**
-**(iii)  In determining whether an individual has a disability under the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prongs of the definition of &ldquo;disability,&rdquo; the focus is on how a major life activity is substantially limited, and not on what outcomes an individual can achieve. For example, someone with a learning disability may achieve a high level of academic success, but may nevertheless be substantially limited in one or more major life activities, including, but not limited to, reading, writing, speaking, or learning because of the additional time or effort he or she must spend to read, write, speak, or learn compared to most people in the general population.**
+**(i)  At all times taking into account the principles set forth in the rules of construction, in determining whether an individual is substantially limited in a major life activity, it may be useful in appropriate cases to consider, as compared to most people in the general population, the conditions under which the individual performs the major life activity; the manner in which the individual performs the major life activity; or the duration of time it takes the individual to perform the major life activity, or for which the individual can perform the major life activity.**<br>
+**(ii)  Consideration of facts such as condition, manner, or duration may include, among other things, consideration of the difficulty, effort or time required to perform a major life activity; pain experienced when performing a major life activity; the length of time a major life activity can be performed; or the way an impairment affects the operation of a major bodily function. In addition, the non-ameliorative effects of mitigating measures, such as negative side effects of medication or burdens associated with following a particular treatment regimen, may be considered when determining whether an individual's impairment substantially limits a major life activity.**<br>
+**(iii)  In determining whether an individual has a disability under the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prongs of the definition of &ldquo;disability,&rdquo; the focus is on how a major life activity is substantially limited, and not on what outcomes an individual can achieve. For example, someone with a learning disability may achieve a high level of academic success, but may nevertheless be substantially limited in one or more major life activities, including, but not limited to, reading, writing, speaking, or learning because of the additional time or effort he or she must spend to read, write, speak, or learn compared to most people in the general population.**<br>
 **(iv)  Given the rules of construction set forth in this section, it may often be unnecessary to conduct an analysis involving most or all of the facts related to condition, manner, or duration. This is particularly true with respect to impairments such as those described in paragraph (d)(2)(iii) of this section, which by their inherent nature should be easily found to impose a substantial limitation on a major life activity, and for which the individualized assessment should be particularly simple and straightforward.**
 
 **(4)  *Mitigating measures* include, but are not limited to:**
 
-**(i)  Medication, medical supplies, equipment, appliances, low-vision devices (defined as devices that magnify, enhance, or otherwise augment a visual image, but not including ordinary eyeglasses or contact lenses), prosthetics including limbs and devices, hearing aid(s) and cochlear implant(s) or other implantable hearing devices, mobility devices, and oxygen therapy equipment and supplies;**
-**(ii)  Use of assistive technology;**
-**(iii)  Reasonable modifications or auxiliary aids or services as defined in this regulation;**
-**(iv)  Learned behavioral or adaptive neurological modifications; or**
+**(i)  Medication, medical supplies, equipment, appliances, low-vision devices (defined as devices that magnify, enhance, or otherwise augment a visual image, but not including ordinary eyeglasses or contact lenses), prosthetics including limbs and devices, hearing aid(s) and cochlear implant(s) or other implantable hearing devices, mobility devices, and oxygen therapy equipment and supplies;**<br>
+**(ii)  Use of assistive technology;**<br>
+**(iii)  Reasonable modifications or auxiliary aids or services as defined in this regulation;**<br>
+**(iv)  Learned behavioral or adaptive neurological modifications; or**<br>
 **(v)  Psychotherapy, behavioral therapy, or physical therapy.**
 
 **(e)**  ***Has a record of such an impairment.***
@@ -615,8 +615,8 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 
 **(g)  *Exclusions.* The term &ldquo;disability&rdquo; does not include—**
 
-**(1)  Transvestism, transsexualism, pedophilia, exhibitionism, voyeurism, gender identity disorders not resulting from physical impairments, or other sexual behavior disorders;**
-**(2)  Compulsive gambling, kleptomania, or pyromania; or**
+**(1)  Transvestism, transsexualism, pedophilia, exhibitionism, voyeurism, gender identity disorders not resulting from physical impairments, or other sexual behavior disorders;**<br>
+**(2)  Compulsive gambling, kleptomania, or pyromania; or**<br>
 **(3)  Psychoactive substance use disorders resulting from current illegal use of drugs.**
 
 ## Subpart B – General Requirements
@@ -684,8 +684,8 @@ A public accommodation shall not exclude or otherwise deny equal goods, services
 (1) Except as provided in paragraph (b) of this section, this part does not prohibit discrimination against an individual based on that individual's current illegal use of drugs.
 (2) A public accommodation shall not discriminate on the basis of illegal use of drugs against an individual who is not engaging in current illegal use of drugs and who -
 
-(i) Has successfully completed a supervised drug rehabilitation program or has otherwise been rehabilitated successfully;
-(ii) Is participating in a supervised rehabilitation program; or
+(i) Has successfully completed a supervised drug rehabilitation program or has otherwise been rehabilitated successfully;<br>
+(ii) Is participating in a supervised rehabilitation program; or<br>
 (iii) Is erroneously regarded as engaging in such use.
 
 (b) *Health and drug rehabilitation services*.
@@ -749,7 +749,7 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 (1) *General*. Generally, a public accommodation shall modify policies, practices, or procedures to permit the use of a service animal by an individual with a disability.
 (2) *Exceptions*. A public accommodation may ask an individual with a disability to remove a service animal from the premises if:
 
-(i) The animal is out of control and the animal's handler does not take effective action to control it; or
+(i) The animal is out of control and the animal's handler does not take effective action to control it; or<br>
 (ii) The animal is not housebroken.
 
 (3) *If an animal is properly excluded*. If a public accommodation properly excludes a service animal under &sect; 36.302(c)(2), it shall give the individual with a disability the opportunity to obtain goods, services, and accommodations without having the service animal on the premises.
@@ -760,12 +760,12 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 (8) *Surcharges*. A public accommodation shall not ask or require an individual with a disability to pay a surcharge, even if people accompanied by pets are required to pay fees, or to comply with other requirements generally not applicable to people without pets. If a public accommodation normally charges individuals for the damage they cause, an individual with a disability may be charged for damage caused by his or her service animal.
 (9) *Miniature horses*.
 
-(i) A public accommodation shall make reasonable modifications in policies, practices, or procedures to permit the use of a miniature horse by an individual with a disability if the miniature horse has been individually trained to do work or perform tasks for the benefit of the individual with a disability.
+(i) A public accommodation shall make reasonable modifications in policies, practices, or procedures to permit the use of a miniature horse by an individual with a disability if the miniature horse has been individually trained to do work or perform tasks for the benefit of the individual with a disability.<br>
 (ii) *Assessment factors*. In determining whether reasonable modifications in policies, practices, or procedures can be made to allow a miniature horse into a specific facility, a public accommodation shall consider –
 
-(A) The type, size, and weight of the miniature horse and whether the facility can accommodate these features;
-(B) Whether the handler has sufficient control of the miniature horse;
-(C) Whether the miniature horse is housebroken; and
+(A) The type, size, and weight of the miniature horse and whether the facility can accommodate these features;<br>
+(B) Whether the handler has sufficient control of the miniature horse;<br>
+(C) Whether the miniature horse is housebroken; and<br>
 (D) Whether the miniature horse's presence in a specific facility compromises legitimate safety requirements that are necessary for safe operation.
 
 (iii) *Other requirements*. Sections 36.302(c)(3) through (c)(8), which apply to service animals, shall also apply to miniature horses.
@@ -776,10 +776,10 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 
 (1) *Reservations made by places of lodging*. A public accommodation that owns, leases (or leases to), or operates a place of lodging shall, with respect to reservations made by any means, including by telephone, in-person, or through a third party –
 
-(i) Modify its policies, practices, or procedures to ensure that individuals with disabilities can make reservations for accessible guest rooms during the same hours and in the same manner as individuals who do not need accessible rooms;
-(ii) Identify and describe accessible features in the hotels and guest rooms offered through its reservations service in enough detail to reasonably permit individuals with disabilities to assess independently whether a given hotel or guest room meets his or her accessibility needs;
-(iii) Ensure that accessible guest rooms are held for use by individuals with disabilities until all other guest rooms of that type have been rented and the accessible room requested is the only remaining room of that type;
-(iv) Reserve, upon request, accessible guest rooms or specific types of guest rooms and ensure that the guest rooms requested are blocked and removed from all reservations systems; and
+(i) Modify its policies, practices, or procedures to ensure that individuals with disabilities can make reservations for accessible guest rooms during the same hours and in the same manner as individuals who do not need accessible rooms;<br>
+(ii) Identify and describe accessible features in the hotels and guest rooms offered through its reservations service in enough detail to reasonably permit individuals with disabilities to assess independently whether a given hotel or guest room meets his or her accessibility needs;<br>
+(iii) Ensure that accessible guest rooms are held for use by individuals with disabilities until all other guest rooms of that type have been rented and the accessible room requested is the only remaining room of that type;<br>
+(iv) Reserve, upon request, accessible guest rooms or specific types of guest rooms and ensure that the guest rooms requested are blocked and removed from all reservations systems; and<br>
 (v) Guarantee that the specific accessible guest room reserved through its reservations service is held for the reserving customer, regardless of whether a specific room is held in response to reservations made by others.
 
 (2) *Exception*. The requirements in paragraphs (iii), (iv), and (v) of this section do not apply to reservations for individual guest rooms or other units not owned or substantially controlled by the entity that owns, leases, or operates the overall facility.
@@ -787,8 +787,8 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 
 (f) *Ticketing*.
 
-(i) For the purposes of this section, &quot;accessible seating&quot; is defined as wheelchair spaces and companion seats that comply with sections 221 and 802 of the 2010 Standards along with any other seats required to be offered for sale to the individual with a disability pursuant to paragraph (4) of this section.
-(ii) *Ticket sales*. A public accommodation that sells tickets for a single event or series of events shall modify its policies, practices, or procedures to ensure that individuals with disabilities have an equal opportunity to purchase tickets for accessible seating –
+(i) For the purposes of this section, &quot;accessible seating&quot; is defined as wheelchair spaces and companion seats that comply with sections 221 and 802 of the 2010 Standards along with any other seats required to be offered for sale to the individual with a disability pursuant to paragraph (4) of this section.<br>
+(ii) *Ticket sales*. A public accommodation that sells tickets for a single event or series of events shall modify its policies, practices, or procedures to ensure that individuals with disabilities have an equal opportunity to purchase tickets for accessible seating –<br>
 
 (A) During the same hours;
 (B) During the same stages of ticket sales, including, but not limited to, pre-sales, promotions, lotteries, wait-lists, and general sales;
@@ -798,18 +798,18 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 
 (2) *Identification of available accessible seating*. A public accommodation that sells or distributes tickets for a single event or series of events shall, upon inquiry –
 
-(i) Inform individuals with disabilities, their companions, and third parties purchasing tickets for accessible seating on behalf of individuals with disabilities of the locations of all unsold or otherwise available accessible seating for any ticketed event or events at the facility;
-(ii) Identify and describe the features of available accessible seating in enough detail to reasonably permit an individual with a disability to assess independently whether a given accessible seating location meets his or her accessibility needs; and
+(i) Inform individuals with disabilities, their companions, and third parties purchasing tickets for accessible seating on behalf of individuals with disabilities of the locations of all unsold or otherwise available accessible seating for any ticketed event or events at the facility;<br>
+(ii) Identify and describe the features of available accessible seating in enough detail to reasonably permit an individual with a disability to assess independently whether a given accessible seating location meets his or her accessibility needs; and<br>
 (iii) Provide materials, such as seating maps, plans, brochures, pricing charts, or other information, that identify accessible seating and information relevant thereto with the same text or visual representations as other seats, if such materials are provided to the general public.
 
 (3) *Ticket prices*. The price of tickets for accessible seating for a single event or series of events shall not be set higher than the price for other tickets in the same seating section for the same event or series of events. Tickets for accessible seating must be made available at all price levels for every event or series of events. If tickets for accessible seating at a particular price level cannot be provided because barrier removal in an existing facility is not readily achievable, then the percentage of tickets for accessible seating that should have been available at that price level but for the barriers (determined by the ratio of the total number of tickets at that price level to the total number of tickets in the assembly area) shall be offered for purchase, at that price level, in a nearby or similar accessible location.
 
 (4) *Purchasing multiple tickets*.
 
-(i) *General*. For each ticket for a wheelchair space purchased by an individual with a disability or a third-party purchasing such a ticket at his or her request, a public accommodation shall make available for purchase three additional tickets for seats in the same row that are contiguous with the wheelchair space, provided that at the time of purchase there are three such seats available. A public accommodation is not required to provide more than three contiguous seats for each wheelchair space. Such seats may include wheelchair spaces.
-(ii) *Insufficient additional contiguous seats available*. If patrons are allowed to purchase at least four tickets, and there are fewer than three such additional contiguous seat tickets available for purchase, a public accommodation shall offer the next highest number of such seat tickets available for purchase and shall make up the difference by offering tickets for sale for seats that are as close as possible to the accessible seats.
-(iii) *Sales limited to fewer than four tickets*. If a public accommodation limits sales of tickets to fewer than four seats per patron, then the public accommodation is only obligated to offer as many seats to patrons with disabilities, including the ticket for the wheelchair space, as it would offer to patrons without disabilities.
-(iv) *Maximum number of tickets patrons may purchase exceeds four*. If patrons are allowed to purchase more than four tickets, a public accommodation shall allow patrons with disabilities to purchase up to the same number of tickets, including the ticket for the wheelchair space.
+(i) *General*. For each ticket for a wheelchair space purchased by an individual with a disability or a third-party purchasing such a ticket at his or her request, a public accommodation shall make available for purchase three additional tickets for seats in the same row that are contiguous with the wheelchair space, provided that at the time of purchase there are three such seats available. A public accommodation is not required to provide more than three contiguous seats for each wheelchair space. Such seats may include wheelchair spaces.<br>
+(ii) *Insufficient additional contiguous seats available*. If patrons are allowed to purchase at least four tickets, and there are fewer than three such additional contiguous seat tickets available for purchase, a public accommodation shall offer the next highest number of such seat tickets available for purchase and shall make up the difference by offering tickets for sale for seats that are as close as possible to the accessible seats.<br>
+(iii) *Sales limited to fewer than four tickets*. If a public accommodation limits sales of tickets to fewer than four seats per patron, then the public accommodation is only obligated to offer as many seats to patrons with disabilities, including the ticket for the wheelchair space, as it would offer to patrons without disabilities.<br>
+(iv) *Maximum number of tickets patrons may purchase exceeds four*. If patrons are allowed to purchase more than four tickets, a public accommodation shall allow patrons with disabilities to purchase up to the same number of tickets, including the ticket for the wheelchair space.<br>
 (v) *Group sales*. If a group includes one or more individuals who need to use accessible seating because of a mobility disability or because their disability requires the use of the accessible features that are provided in accessible seating, the group shall be placed in a seating area with accessible seating so that, if possible, the group can sit together. If it is necessary to divide the group, it should be divided so that the individuals in the group who use wheelchairs are not isolated from their group.
 
 (5) *Hold and release of tickets for accessible seating*.
@@ -820,7 +820,7 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 (B) When all non-accessible tickets in a designated seating area have been sold and the tickets for accessible seating are being released in the same designated area; or
 (C) When all non-accessible tickets in a designated price category have been sold and the tickets for accessible seating are being released within the same designated price category.
 
-(ii) *No requirement to release accessible tickets*. Nothing in this paragraph requires a facility to release tickets for accessible seating to individuals without disabilities for their own use.
+(ii) *No requirement to release accessible tickets*. Nothing in this paragraph requires a facility to release tickets for accessible seating to individuals without disabilities for their own use.<br>
 (iii) *Release of series-of-events tickets on a series-of-events basis*.
 
 (A) *Series-of-events tickets sell-out when no ownership rights are attached.* When series-of-events tickets are sold out and a public accommodation releases and sells accessible seating to individuals without disabilities for a series of events, the public accommodation shall establish a process that prevents the automatic reassignment of the accessible seating to such ticket holders for future seasons, future years, or future series, so that individuals with disabilities who require the features of accessible seating and who become newly eligible to purchase tickets when these series-of-events tickets are available for purchase have an opportunity to do so.
@@ -830,13 +830,13 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 
 (7) *Secondary ticket market*.
 
-(i) A public accommodation shall modify its policies, practices, or procedures to ensure that an individual with a disability may use a ticket acquired in the secondary ticket market under the same terms and conditions as other individuals who hold a ticket acquired in the secondary ticket market for the same event or series of events.
+(i) A public accommodation shall modify its policies, practices, or procedures to ensure that an individual with a disability may use a ticket acquired in the secondary ticket market under the same terms and conditions as other individuals who hold a ticket acquired in the secondary ticket market for the same event or series of events.<br>
 (ii) If an individual with a disability acquires a ticket or series of tickets to an inaccessible seat through the secondary market, a public accommodation shall make reasonable modifications to its policies, practices, or procedures to allow the individual to exchange his ticket for one to an accessible seat in a comparable location if accessible seating is vacant at the time the individual presents the ticket to the public accommodation.
 
 (8) *Prevention of fraud in purchase of tickets for accessible seating*. A public accommodation may not require proof of disability, including, for example, a doctor's note, before selling tickets for accessible seating.
 
-(i) *Single-event tickets*. For the sale of single-event tickets, it is permissible to inquire whether the individual purchasing the tickets for accessible seating has a mobility disability or a disability that requires the use of the accessible features that are provided in accessible seating, or is purchasing the tickets for an individual who has a mobility disability or a disability that requires the use of the accessible features that are provided in the accessible seating.
-(ii) *Series-of-events tickets*. For series-of-events tickets, it is permissible to ask the individual purchasing the tickets for accessible seating to attest in writing that the accessible seating is for a person who has a mobility disability or a disability that requires the use of the accessible features that are provided in the accessible seating.
+(i) *Single-event tickets*. For the sale of single-event tickets, it is permissible to inquire whether the individual purchasing the tickets for accessible seating has a mobility disability or a disability that requires the use of the accessible features that are provided in accessible seating, or is purchasing the tickets for an individual who has a mobility disability or a disability that requires the use of the accessible features that are provided in the accessible seating.<br>
+(ii) *Series-of-events tickets*. For series-of-events tickets, it is permissible to ask the individual purchasing the tickets for accessible seating to attest in writing that the accessible seating is for a person who has a mobility disability or a disability that requires the use of the accessible features that are provided in the accessible seating.<br>
 (iii) *Investigation of fraud*. A public accommodation may investigate the potential misuse of accessible seating where there is good cause to believe that such seating has been purchased fraudulently.
 
 **(g)** *Reasonable modifications for individuals &ldquo;regarded as&rdquo; having a disability.* **A public accommodation is not required to provide a reasonable modification to an individual who meets the definition of "disability" solely under the &ldquo;regarded as&rdquo; prong of the definition of &ldquo;disability&rdquo; at &sect; 36.105(a)(1)(iii).**
@@ -856,13 +856,13 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 
 (1) A public accommodation shall furnish appropriate auxiliary aids and services where necessary to ensure effective communication with individuals with disabilities. This includes an obligation to provide effective communication to companions who are individuals with disabilities.
 
-(i) For purposes of this section, &quot;companion&quot; means a family member, friend, or associate of an individual seeking access to, or participating in, the goods, services, facilities, privileges, advantages, or accommodations of a public accommodation, who, along with such individual, is an appropriate person with whom the public accommodation should communicate.
-(ii) The type of auxiliary aid or service necessary to ensure effective communication will vary in accordance with the method of communication used by the individual; the nature, length, and complexity of the communication involved; and the context in which the communication is taking place. A public accommodation should consult with individuals with disabilities whenever possible to determine what type of auxiliary aid is needed to ensure effective communication, but the ultimate decision as to what measures to take rests with the public accommodation, provided that the method chosen results in effective communication. In order to be effective, auxiliary aids and services must be provided in accessible formats, in a timely manner, and in such a way as to protect the privacy and independence of the individual with a disability.
+(i) For purposes of this section, &quot;companion&quot; means a family member, friend, or associate of an individual seeking access to, or participating in, the goods, services, facilities, privileges, advantages, or accommodations of a public accommodation, who, along with such individual, is an appropriate person with whom the public accommodation should communicate.<br>
+(ii) The type of auxiliary aid or service necessary to ensure effective communication will vary in accordance with the method of communication used by the individual; the nature, length, and complexity of the communication involved; and the context in which the communication is taking place. A public accommodation should consult with individuals with disabilities whenever possible to determine what type of auxiliary aid is needed to ensure effective communication, but the ultimate decision as to what measures to take rests with the public accommodation, provided that the method chosen results in effective communication. In order to be effective, auxiliary aids and services must be provided in accessible formats, in a timely manner, and in such a way as to protect the privacy and independence of the individual with a disability.<br>
 
 (2) A public accommodation shall not require an individual with a disability to bring another individual to interpret for him or her.
 (3) A public accommodation shall not rely on an adult accompanying an individual with a disability to interpret or facilitate communication, except –
 
-(i) In an emergency involving an imminent threat to the safety or welfare of an individual or the public where there is no interpreter available; or
+(i) In an emergency involving an imminent threat to the safety or welfare of an individual or the public where there is no interpreter available; or<br>
 (ii) Where the individual with a disability specifically requests that the accompanying adult interpret or facilitate communication, the accompanying adult agrees to provide such assistance, and reliance on that adult for such assistance is appropriate under the circumstances.
 
 (4) A public accommodation shall not rely on a minor child to interpret or facilitate communication, except in an emergency involving an imminent threat to the safety or welfare of an individual or the public where there is no interpreter available.
@@ -888,13 +888,13 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 
 **(1)  *Definitions*. For the purposes of this paragraph (g)—**
 
-**(i)  *Analog movie* means a movie exhibited in analog film format.**
-**(ii)  *Audio description* means the spoken narration of a movie’s key visual elements, such as the action, settings, facial expressions, costumes, and scene changes.*Audio description* generally requires the use of an audio description device for delivery to a patron.**
-**(iii)  *Audio description device* means the individual device that a patron may use at any seat to hear audio description.**
-**(iv)  *Captioning device* means the individual device that a patron may use at any seat to view closed movie captioning.**
-**(v)  *Closed movie captioning* means the written display of a movie’s dialogue and non-speech information, such as music, the identity of the character who is speaking, and other sounds or sound effects.*Closed movie captioning* generally requires the use of a captioning device for delivery of the captions to the patron.**
-**(vi)  *Digital movie* means a movie exhibited in digital cinema format.**
-**(vii)  *Movie theater* means a facility, other than a drive-in theater, that is owned, leased by, leased to, or operated by a public accommodation and that contains one or more auditoriums that are used primarily for the purpose of showing movies to the public for a fee.**
+**(i)  *Analog movie* means a movie exhibited in analog film format.**<br>
+**(ii)  *Audio description* means the spoken narration of a movie’s key visual elements, such as the action, settings, facial expressions, costumes, and scene changes.*Audio description* generally requires the use of an audio description device for delivery to a patron.**<br>
+**(iii)  *Audio description device* means the individual device that a patron may use at any seat to hear audio description.**<br>
+**(iv)  *Captioning device* means the individual device that a patron may use at any seat to view closed movie captioning.**<br>
+**(v)  *Closed movie captioning* means the written display of a movie’s dialogue and non-speech information, such as music, the identity of the character who is speaking, and other sounds or sound effects.*Closed movie captioning* generally requires the use of a captioning device for delivery of the captions to the patron.**<br>
+**(vi)  *Digital movie* means a movie exhibited in digital cinema format.**<br>
+**(vii)  *Movie theater* means a facility, other than a drive-in theater, that is owned, leased by, leased to, or operated by a public accommodation and that contains one or more auditoriums that are used primarily for the purpose of showing movies to the public for a fee.**<br>
 **(viii)  *Open movie captioning* means the written on-screen display of a movie’s dialogue and non-speech information, such as music, the identity of the character who is speaking, and other sounds and sound effects.**
 
 **(2)  *General*. A public accommodation shall ensure that its movie theater auditoriums provide closed movie captioning and audio description whenever they exhibit a digital movie that is distributed with such features. Application of the requirements of paragraph (g) of this section is deferred for any movie theater auditorium that exhibits analog movies exclusively, but may be addressed in a future rulemaking.**
@@ -927,17 +927,23 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 </tbody>
 </table>
 
-**(4)  *Minimum requirements for audio description devices*. (i) A public accommodation shall provide at its movie theaters a minimum of one fully operational audio description device for every two movie theater auditoriums exhibiting digital movies and no less than two devices per movie theater. When calculation of the required number of devices results in a fraction, the next greater whole number of devices shall be provided.**
+**(4)  *Minimum requirements for audio description devices*.**<br>
+
+**(i) A public accommodation shall provide at its movie theaters a minimum of one fully operational audio description device for every two movie theater auditoriums exhibiting digital movies and no less than two devices per movie theater. When calculation of the required number of devices results in a fraction, the next greater whole number of devices shall be provided.**
 
 **(ii) A public accommodation may comply with the requirements in paragraph (g)(4)(i) of this section by using the existing assistive listening receivers that the public accommodation is already required to provide at its movie theaters in accordance with Table 219.3 of the 2010 Standards, if those receivers have a minimum of two channels available for sound transmission to patrons.**
 
 **(5)  *Performance requirements for captioning devices and audio description devices*. Each captioning device and each audio description device must be properly maintained by the movie theater to ensure that each device is fully operational, available to patrons in a timely manner, and easily usable by patrons. Captioning devices must be adjustable so that the captions can be viewed as if they are on or near the movie screen, and must provide clear, sharp images in order to ensure readability of captions.**
 
-**(6) *Alternative technologies*. (i) A public accommodation may meet its obligation to provide captioning and audio description in its movie theaters to persons with disabilities through any technology so long as that technology provides communication as effective as that provided to movie patrons without disabilities.**
+**(6) *Alternative technologies*.**
+
+**(i) A public accommodation may meet its obligation to provide captioning and audio description in its movie theaters to persons with disabilities through any technology so long as that technology provides communication as effective as that provided to movie patrons without disabilities.**
 
 **(ii) A public accommodation may use open movie captioning as an alternative to complying with the requirements specified in paragraph (g)(3) of this section, either by providing open movie captioning at all showings of all movies available with captioning, or whenever requested by or for an individual who is deaf or hard of hearing prior to the start of the movie.**
 
-**(7) *Compliance date for providing captioning and audio description*. (i) A public accommodation must comply with the requirements in paragraphs (g)(2)–(6) of this section in its movie theaters that exhibit digital movies by June 2, 2018.**
+**(7) *Compliance date for providing captioning and audio description*.**<br>
+
+**(i) A public accommodation must comply with the requirements in paragraphs (g)(2)–(6) of this section in its movie theaters that exhibit digital movies by June 2, 2018.**
 
 **(ii) If a public accommodation converts a movie theater auditorium from an analog projection system to a system that allows it to exhibit digital movies after December 2, 2016, then that auditorium must comply with the requirements in paragraph (g) of this section by December 2, 2018, or within 6 months of that auditorium’s complete installation of a digital projection system, whichever is later.**
 
