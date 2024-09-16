@@ -82,8 +82,8 @@ learn:
           title: "Fact Sheet: New Rule on the Accessibility of Web Content and Mobile Apps Provided by State and Local Governments"
           link: resources/2024-03-08-web-rule
         - ex2:
-          title: "Fact Sheet:  Notice of Proposed Rulemaking on Accessibility of Medical Diagnostic Equipment"
-          link: resources/2024-01-10-mde-nprm
+          title: "Fact Sheet:  New Rule on the Accessibility of Medical Diagnostic Equipment Used by State and Local Governments"
+          link: resources/2024-08-08-mde-fact-sheet
         - ex3:
           title: Algorithms, Artificial Intelligence, and Disability Discrimination in Hiring
           link:  resources/ai-guidance

@@ -4,8 +4,6 @@ title: "Fact Sheet: New Rule on the Accessibility of Medical Diagnostic Equipmen
 compact: true
 sidenav: true
 print: true
-notice_text: Rule on Accessibility of Medical Diagnostic Equipment Under Title II Published
-notice_link: Learn about the rule's requirements
 tags:
   - medical care
   - title ii
