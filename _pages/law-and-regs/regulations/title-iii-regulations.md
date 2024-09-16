@@ -441,20 +441,20 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 
 *Place of public accommodation* means a facility operated by a private entity whose operations affect commerce and fall within at least one of the following categories -
 
-(1) Place of lodging, except for an establishment located within a facility that contains not more than five rooms for rent or hire and that actually is occupied by the proprietor of the establishment as the residence of the proprietor. For purposes of this part, a facility is a &quot;place of lodging&quot; if it is –
+>(1) Place of lodging, except for an establishment located within a facility that contains not more than five rooms for rent or hire and that actually is occupied by the proprietor of the establishment as the residence of the proprietor. For purposes of this part, a facility is a &quot;place of lodging&quot; if it is –
 
-(i) An inn, hotel, or motel; or<br>
+>>(i) An inn, hotel, or motel; or<br>
 (ii) A facility that –
 
-(A) Provides guest rooms for sleeping for stays that primarily are short-term in nature (generally 30 days or less) where the occupant does not have the right to return to a specific room or unit after the conclusion of his or her stay; and<br>
+>>>(A) Provides guest rooms for sleeping for stays that primarily are short-term in nature (generally 30 days or less) where the occupant does not have the right to return to a specific room or unit after the conclusion of his or her stay; and<br>
 (B) Provides guest rooms under conditions and with amenities similar to a hotel, motel, or inn, including the following –
 
-(*1*) On- or off-site management and reservations service;<br>
+>>>>(*1*) On- or off-site management and reservations service;<br>
 (*2*) Rooms available on a walk-up or call-in basis;<br>
 (*3*) Availability of housekeeping or linen service; and<br>
 (*4*) Acceptance of reservations for a guest room type without guaranteeing a particular unit or room until check-in, and without a prior lease or security deposit.
 
-(2) A restaurant, bar, or other establishment serving food or drink;<br>
+>(2) A restaurant, bar, or other establishment serving food or drink;<br>
 (3) A motion picture house, theater, concert hall, stadium, or other place of exhibition or entertainment;<br>
 (4) An auditorium, convention center, lecture hall, or other place of public gathering;<br>
 (5) A bakery, grocery store, clothing store, hardware store, shopping center, or other sales or rental establishment;<br>
@@ -474,7 +474,7 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 
 *Public entity* means –
 
-(1) Any State or local government;
+>(1) Any State or local government;
 (2) Any department, agency, special purpose district, or other instrumentality of a State or States or local government; and
 (3) The National Railroad Passenger Corporation, and any commuter authority (as defined in section 103(8) of the Rail Passenger Service Act). (45 U.S.C. 541)
 
@@ -484,7 +484,7 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 
 *Readily achievable* means easily accomplishable and able to be carried out without much difficulty or expense. In determining whether an action is readily achievable factors to be considered include–
 
-(1) The nature and cost of the action needed under this part;
+>(1) The nature and cost of the action needed under this part;
 (2) The overall financial resources of the site or sites involved in the action; the number of persons employed at the site; the effect on expenses and resources; legitimate safety requirements that are necessary for safe operation, including crime prevention measures; or the impact otherwise of the action upon the operation of the site;
 (3) The geographic separateness, and the administrative or fiscal relationship of the site or sites in question to any parent corporation or entity;
 (4) If applicable, the overall financial resources of any parent corporation or entity; the overall size of the parent corporation or entity with respect to the number of its employees; the number, type, and location of its facilities; and
@@ -500,7 +500,7 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 
 *Undue burden* means significant difficulty or expense. In determining whether an action would result in an undue burden, factors to be considered include –
 
-(1) The nature and cost of the action needed under this part;
+>(1) The nature and cost of the action needed under this part;
 (2) The overall financial resources of the site or sites involved in the action; the number of persons employed at the site; the effect on expenses and resources; legitimate safety requirements that are necessary for safe operation, including crime prevention measures; or the impact otherwise of the action upon the operation of the site;
 (3) The geographic separateness, and the administrative or fiscal relationship of the site or sites in question to any parent corporation or entity;
 (4) If applicable, the overall financial resources of any parent corporation or entity; the overall size of the parent corporation or entity with respect to the number of its employees; the number, type, and location of its facilities; and
@@ -514,47 +514,47 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 
 **(a)**
 
-**(1)  *Disability* means, with respect to an individual:**
+>**(1)  *Disability* means, with respect to an individual:**
 
-**(i)  A physical or mental impairment that substantially limits one or more of the major life activities of such individual;**<br>
+>>**(i)  A physical or mental impairment that substantially limits one or more of the major life activities of such individual;**<br>
 **(ii)  A record of such an impairment; or**<br>
 **(iii)  Being regarded as having such an impairment as described in paragraph (f) of this section.**
 
 
-**(2)**  ***Rules of construction.***
+>**(2)**  ***Rules of construction.***
 
-**(i)  The definition of &ldquo;disability&rdquo; shall be construed broadly in favor of expansive coverage, to the maximum extent permitted by the terms of the ADA.**<br>
+>>**(i)  The definition of &ldquo;disability&rdquo; shall be construed broadly in favor of expansive coverage, to the maximum extent permitted by the terms of the ADA.**<br>
 **(ii)  An individual may establish coverage under any one or more of the three prongs of the definition of disability in paragraph (a)(1) of this section, the &ldquo;actual disability&rdquo; prong in paragraph (a)(1)(i) of this section, the &ldquo;record of&rdquo; prong in paragraph (a)(1)(ii) of this section, or the &ldquo;regarded as&rdquo; prong in paragraph (a)(1)(iii) of this section.**<br>
 **(iii)  Where an individual is not challenging a public accommodation's failure to provide reasonable modifications under &sect; 36.302, it is generally unnecessary to proceed under the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prongs, which require a showing of an impairment that substantially limits a major life activity or a record of such an impairment. In these cases, the evaluation of coverage can be made solely under the &ldquo;regarded as&rdquo; prong of the definition of &ldquo;disability,&rdquo; which does not require a showing of an impairment that substantially limits a major life activity or a record of such an impairment. An individual may choose, however, to proceed under the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prong regardless of whether the individual is challenging a public accommodation's failure to provide reasonable modifications.**
 
 **(b)**
 
-**(1)  *Physical or mental impairment* means:**
+>**(1)  *Physical or mental impairment* means:**
 
-**(i) Any physiological disorder or condition, cosmetic disfigurement, or anatomical loss affecting one or more body systems, such as: neurological, musculoskeletal, special sense organs, respiratory (including speech organs), cardiovascular, reproductive, digestive, genitourinary, immune, circulatory, hemic, lymphatic, skin, and endocrine; or**<br>
+>>**(i) Any physiological disorder or condition, cosmetic disfigurement, or anatomical loss affecting one or more body systems, such as: neurological, musculoskeletal, special sense organs, respiratory (including speech organs), cardiovascular, reproductive, digestive, genitourinary, immune, circulatory, hemic, lymphatic, skin, and endocrine; or**<br>
 **(ii) Any mental or psychological disorder such as intellectual disability, organic brain syndrome, emotional or mental illness, and specific learning disability.**
 
-**(2)  *Physical or mental impairment* includes, but is not limited to, contagious and noncontagious diseases and conditions such as the following: orthopedic, visual, speech and hearing impairments, cerebral palsy, epilepsy, muscular dystrophy, multiple sclerosis, cancer, heart disease, diabetes, intellectual disability, emotional illness, dyslexia and other specific learning disabilities, Attention Deficit Hyperactivity Disorder, Human Immunodeficiency Virus infection (whether symptomatic or asymptomatic), tuberculosis, drug addiction, and alcoholism.**
+>**(2)  *Physical or mental impairment* includes, but is not limited to, contagious and noncontagious diseases and conditions such as the following: orthopedic, visual, speech and hearing impairments, cerebral palsy, epilepsy, muscular dystrophy, multiple sclerosis, cancer, heart disease, diabetes, intellectual disability, emotional illness, dyslexia and other specific learning disabilities, Attention Deficit Hyperactivity Disorder, Human Immunodeficiency Virus infection (whether symptomatic or asymptomatic), tuberculosis, drug addiction, and alcoholism.**
 
-**(3)*Physical or mental impairment* does not include homosexuality or bisexuality.**
+>**(3)*Physical or mental impairment* does not include homosexuality or bisexuality.**
 
 **(c)**
 
-**(1)**  ***Major life activities include, but are not limited to:***
+>**(1)**  ***Major life activities include, but are not limited to:***
 
-**(i) Caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, sitting, reaching, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, writing, communicating, interacting with others, and working; and**<br>
+>>**(i) Caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, sitting, reaching, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, writing, communicating, interacting with others, and working; and**<br>
 **(ii) The operation of a *major bodily function*, such as the functions of the immune system, special sense organs and skin, normal cell growth, and digestive, genitourinary, bowel, bladder, neurological, brain, respiratory, circulatory, cardiovascular, endocrine, hemic, lymphatic, musculoskeletal, and reproductive systems. The operation of a major bodily function includes the operation of an individual organ within a body system.**
 
-**(2)**  ***Rules of construction.***
+>**(2)**  ***Rules of construction.***
 
-**(i) In determining whether an impairment substantially limits a major life activity, the term *major* shall not be interpreted strictly to create a demanding standard.**<br>
+>>**(i) In determining whether an impairment substantially limits a major life activity, the term *major* shall not be interpreted strictly to create a demanding standard.**<br>
 **(ii) Whether an activity is a *major life activity* is not determined by reference to whether it is of *central* importance to daily life.**
 
 **(d)** ***Substantially limits.***
 
-**(1)*Rules of construction.* The following rules of construction apply when determining whether an impairment substantially limits an individual in a major life activity.**
+>**(1)*Rules of construction.* The following rules of construction apply when determining whether an impairment substantially limits an individual in a major life activity.**
 
-**(i)  The term &ldquo;substantially limits&rdquo; shall be construed broadly in favor of expansive coverage, to the maximum extent permitted by the terms of the ADA. &ldquo;Substantially limits&rdquo; is not meant to be a demanding standard.**<br>
+>>**(i)  The term &ldquo;substantially limits&rdquo; shall be construed broadly in favor of expansive coverage, to the maximum extent permitted by the terms of the ADA. &ldquo;Substantially limits&rdquo; is not meant to be a demanding standard.**<br>
 **(ii)  The primary object of attention in cases brought under title III of the ADA should be whether public accommodations have complied with their obligations and whether discrimination has occurred, not the extent to which an individual's impairment substantially limits a major life activity. Accordingly, the threshold issue of whether an impairment substantially limits a major life activity should not demand extensive analysis.**<br>
 **(iii)  An impairment that substantially limits one major life activity does not need to limit other major life activities in order to be considered a substantially limiting impairment.**<br>
 **(iv)  An impairment that is episodic or in remission is a disability if it would substantially limit a major life activity when active.**<br>
@@ -564,13 +564,13 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 **(viii) The determination of whether an impairment substantially limits a major life activity shall be made without regard to the ameliorative effects of mitigating measures. However, the ameliorative effects of ordinary eyeglasses or contact lenses shall be considered in determining whether an impairment substantially limits a major life activity. Ordinary eyeglasses or contact lenses are lenses that are intended to fully correct visual acuity or to eliminate refractive error.**<br>
 **(ix)  The six-month &ldquo;transitory&rdquo; part of the &ldquo;transitory and minor&rdquo; exception in paragraph (f)(2) of this section does not apply to the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prongs of the definition of &ldquo;disability.&rdquo; The effects of an impairment lasting or expected to last less than six months can be substantially limiting within the meaning of this section for establishing an actual disability or a record of a disability.**
 
-**(2)**  ***Predictable assessments.***
+>**(2)**  ***Predictable assessments.***
 
-**(i)  The principles set forth in the rules of construction in this section are intended to provide for more generous coverage and application of the ADA's prohibition on discrimination through a framework that is predictable, consistent, and workable for all individuals and entities with rights and responsibilities under the ADA.**<br>
+>>**(i)  The principles set forth in the rules of construction in this section are intended to provide for more generous coverage and application of the ADA's prohibition on discrimination through a framework that is predictable, consistent, and workable for all individuals and entities with rights and responsibilities under the ADA.**<br>
 **(ii)  Applying these principles, the individualized assessment of some types of impairments will, in virtually all cases, result in a determination of coverage under paragraph (a)(1)(i) of this section (the &ldquo;actual disability&rdquo; prong) or paragraph (a)(1)(ii) of this section (the &ldquo;record of&rdquo; prong). Given their inherent nature, these types of impairments will, as a factual matter, virtually always be found to impose a substantial limitation on a major life activity. Therefore, with respect to these types of impairments, the necessary individualized assessment should be particularly simple and straightforward.**<br>
 **(iii)  For example, applying these principles it should easily be concluded that the set forth in paragraphs (d)(2)(iii)(A) through (K) types of impairments will, at a minimum, substantially limit the major life activities indicated. The types of impairments described in this paragraph may substantially limit additional major life activities (including major bodily functions) not explicitly listed in paragraphs (d)(2)(iii)(A) through (K).**
 
-**(A)  Deafness substantially limits hearing;**<br>
+>>>**(A)  Deafness substantially limits hearing;**<br>
 **(B)  Blindness substantially limits seeing;**<br>
 **(C)  Intellectual disability substantially limits brain function;**<br>
 **(D)  Partially or completely missing limbs or mobility impairments requiring the use of a wheelchair substantially limit musculoskeletal function;**<br>
@@ -582,16 +582,16 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 **(J)  Human Immunodeficiency Virus (HIV) infection substantially limits immune function; and**<br>
 **(K)  Major depressive disorder, bipolar disorder, post-traumatic stress disorder, traumatic brain injury, obsessive compulsive disorder, and schizophrenia each substantially limits brain function.**
 
-**(3)**  ***Condition, manner, or duration.***
+>**(3)**  ***Condition, manner, or duration.***
 
-**(i)  At all times taking into account the principles set forth in the rules of construction, in determining whether an individual is substantially limited in a major life activity, it may be useful in appropriate cases to consider, as compared to most people in the general population, the conditions under which the individual performs the major life activity; the manner in which the individual performs the major life activity; or the duration of time it takes the individual to perform the major life activity, or for which the individual can perform the major life activity.**<br>
+>>**(i)  At all times taking into account the principles set forth in the rules of construction, in determining whether an individual is substantially limited in a major life activity, it may be useful in appropriate cases to consider, as compared to most people in the general population, the conditions under which the individual performs the major life activity; the manner in which the individual performs the major life activity; or the duration of time it takes the individual to perform the major life activity, or for which the individual can perform the major life activity.**<br>
 **(ii)  Consideration of facts such as condition, manner, or duration may include, among other things, consideration of the difficulty, effort or time required to perform a major life activity; pain experienced when performing a major life activity; the length of time a major life activity can be performed; or the way an impairment affects the operation of a major bodily function. In addition, the non-ameliorative effects of mitigating measures, such as negative side effects of medication or burdens associated with following a particular treatment regimen, may be considered when determining whether an individual's impairment substantially limits a major life activity.**<br>
 **(iii)  In determining whether an individual has a disability under the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prongs of the definition of &ldquo;disability,&rdquo; the focus is on how a major life activity is substantially limited, and not on what outcomes an individual can achieve. For example, someone with a learning disability may achieve a high level of academic success, but may nevertheless be substantially limited in one or more major life activities, including, but not limited to, reading, writing, speaking, or learning because of the additional time or effort he or she must spend to read, write, speak, or learn compared to most people in the general population.**<br>
 **(iv)  Given the rules of construction set forth in this section, it may often be unnecessary to conduct an analysis involving most or all of the facts related to condition, manner, or duration. This is particularly true with respect to impairments such as those described in paragraph (d)(2)(iii) of this section, which by their inherent nature should be easily found to impose a substantial limitation on a major life activity, and for which the individualized assessment should be particularly simple and straightforward.**
 
-**(4)  *Mitigating measures* include, but are not limited to:**
+>**(4)  *Mitigating measures* include, but are not limited to:**
 
-**(i)  Medication, medical supplies, equipment, appliances, low-vision devices (defined as devices that magnify, enhance, or otherwise augment a visual image, but not including ordinary eyeglasses or contact lenses), prosthetics including limbs and devices, hearing aid(s) and cochlear implant(s) or other implantable hearing devices, mobility devices, and oxygen therapy equipment and supplies;**<br>
+>>**(i)  Medication, medical supplies, equipment, appliances, low-vision devices (defined as devices that magnify, enhance, or otherwise augment a visual image, but not including ordinary eyeglasses or contact lenses), prosthetics including limbs and devices, hearing aid(s) and cochlear implant(s) or other implantable hearing devices, mobility devices, and oxygen therapy equipment and supplies;**<br>
 **(ii)  Use of assistive technology;**<br>
 **(iii)  Reasonable modifications or auxiliary aids or services as defined in this regulation;**<br>
 **(iv)  Learned behavioral or adaptive neurological modifications; or**<br>
@@ -599,23 +599,23 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 
 **(e)**  ***Has a record of such an impairment.***
 
-**(1)  An individual has a record of such an impairment if the individual has a history of, or has been misclassified as having, a mental or physical impairment that substantially limits one or more major life activities.**
+>**(1)  An individual has a record of such an impairment if the individual has a history of, or has been misclassified as having, a mental or physical impairment that substantially limits one or more major life activities.**
 
-**(2)  *Broad construction.* Whether an individual has a record of an impairment that substantially limited a major life activity shall be construed broadly to the maximum extent permitted by the ADA and should not demand extensive analysis. An individual will be considered to fall within this prong of the definition of &ldquo;disability&rdquo; if the individual has a history of an impairment that substantially limited one or more major life activities when compared to most people in the general population, or was misclassified as having had such an impairment. In determining whether an impairment substantially limited a major life activity, the principles articulated in paragraph (d)(1) of this section apply.**
+>**(2)  *Broad construction.* Whether an individual has a record of an impairment that substantially limited a major life activity shall be construed broadly to the maximum extent permitted by the ADA and should not demand extensive analysis. An individual will be considered to fall within this prong of the definition of &ldquo;disability&rdquo; if the individual has a history of an impairment that substantially limited one or more major life activities when compared to most people in the general population, or was misclassified as having had such an impairment. In determining whether an impairment substantially limited a major life activity, the principles articulated in paragraph (d)(1) of this section apply.**
 
-**(3)  *Reasonable modification.* An individual with a record of a substantially limiting impairment may be entitled to a reasonable modification if needed and related to the past disability.**
+>**(3)  *Reasonable modification.* An individual with a record of a substantially limiting impairment may be entitled to a reasonable modification if needed and related to the past disability.**
 
 **(f)  *Is regarded as having such an impairment.* The following principles apply under the &ldquo;regarded&rdquo; as prong of the definition of &ldquo;disability&rdquo; (paragraph (a)(1)(iii) of this section):**
 
-**(1)  Except as set forth in paragraph (f)(2) of this section, an individual is &ldquo;regarded as having such an impairment&rdquo; if the individual is subjected to a prohibited action because of an actual or perceived physical or mental impairment, whether or not that impairment substantially limits, or is perceived to substantially limit, a major life activity, even if the public accommodation asserts, or may or does ultimately establish, a defense to the action prohibited by the ADA.**
+>**(1)  Except as set forth in paragraph (f)(2) of this section, an individual is &ldquo;regarded as having such an impairment&rdquo; if the individual is subjected to a prohibited action because of an actual or perceived physical or mental impairment, whether or not that impairment substantially limits, or is perceived to substantially limit, a major life activity, even if the public accommodation asserts, or may or does ultimately establish, a defense to the action prohibited by the ADA.**
 
-**(2)  An individual is not &ldquo;regarded as having such an impairment&rdquo; if the public accommodation demonstrates that the impairment is, objectively, both &ldquo;transitory&rdquo; and &ldquo;minor.&rdquo; A public accommodation may not defeat &ldquo;regarded as&rdquo; coverage of an individual simply by demonstrating that it subjectively believed the impairment was transitory and minor; rather, the public accommodation must demonstrate that the impairment is (in the case of an actual impairment) or would be (in the case of a perceived impairment), objectively, both &ldquo;transitory&rdquo; and &ldquo;minor.&rdquo; For purposes of this section, &ldquo;transitory&rdquo; is defined as lasting or expected to last six months or less.**
+>**(2)  An individual is not &ldquo;regarded as having such an impairment&rdquo; if the public accommodation demonstrates that the impairment is, objectively, both &ldquo;transitory&rdquo; and &ldquo;minor.&rdquo; A public accommodation may not defeat &ldquo;regarded as&rdquo; coverage of an individual simply by demonstrating that it subjectively believed the impairment was transitory and minor; rather, the public accommodation must demonstrate that the impairment is (in the case of an actual impairment) or would be (in the case of a perceived impairment), objectively, both &ldquo;transitory&rdquo; and &ldquo;minor.&rdquo; For purposes of this section, &ldquo;transitory&rdquo; is defined as lasting or expected to last six months or less.**
 
-**(3)  Establishing that an individual is &ldquo;regarded as having such an impairment&rdquo; does not, by itself, establish liability. Liability is established under title III of the ADA only when an individual proves that a public accommodation discriminated on the basis of disability within the meaning of title III of the ADA, 42 U.S.C. 12181–12189.**
+>**(3)  Establishing that an individual is &ldquo;regarded as having such an impairment&rdquo; does not, by itself, establish liability. Liability is established under title III of the ADA only when an individual proves that a public accommodation discriminated on the basis of disability within the meaning of title III of the ADA, 42 U.S.C. 12181–12189.**
 
 **(g)  *Exclusions.* The term &ldquo;disability&rdquo; does not include—**
 
-**(1)  Transvestism, transsexualism, pedophilia, exhibitionism, voyeurism, gender identity disorders not resulting from physical impairments, or other sexual behavior disorders;**<br>
+>**(1)  Transvestism, transsexualism, pedophilia, exhibitionism, voyeurism, gender identity disorders not resulting from physical impairments, or other sexual behavior disorders;**<br>
 **(2)  Compulsive gambling, kleptomania, or pyromania; or**<br>
 **(3)  Psychoactive substance use disorders resulting from current illegal use of drugs.**
 
@@ -642,7 +642,7 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 (b) *Opportunity to participate*. Notwithstanding the existence of separate or different programs or activities provided in accordance with this subpart, a public accommodation shall not deny an individual with a disability an opportunity to participate in such programs or activities that are not separate or different.
 (c) *Accommodations and services*.
 
-(1) Nothing in this part shall be construed to require an individual with a disability to accept an accommodation, aid, service, opportunity, or benefit available under this part that such individual chooses not to accept.
+>(1) Nothing in this part shall be construed to require an individual with a disability to accept an accommodation, aid, service, opportunity, or benefit available under this part that such individual chooses not to accept.
 (2) Nothing in the Act or this part authorizes the representative or guardian of an individual with a disability to decline food, water, medical treatment, or medical services for that individual.
 
 ### &sect; 36.204 Administrative methods.
@@ -661,7 +661,7 @@ A public accommodation shall not exclude or otherwise deny equal goods, services
 
 (c) Illustrations of conduct prohibited by this section include, but are not limited to:
 
-(1) Coercing an individual to deny or limit the benefits, services, or advantages to which he or she is entitled under the Act or this part;
+>(1) Coercing an individual to deny or limit the benefits, services, or advantages to which he or she is entitled under the Act or this part;
 (2) Threatening, intimidating, or interfering with an individual with a disability who is seeking to obtain or use the goods, services, facilities, privileges, advantages, or accommodations of a public accommodation;
 (3) Intimidating or threatening any person because that person is assisting or encouraging an individual or group entitled to claim the rights granted or protected by the Act or this part to exercise those rights; or
 (4) Retaliating against any person because that person has participated in any investigation or action to enforce the Act or this part.
@@ -675,29 +675,30 @@ A public accommodation shall not exclude or otherwise deny equal goods, services
 ### &sect; 36.208 Direct threat.
 
 (a) This part does not require a public accommodation to permit an individual to participate in or benefit from the goods, services, facilities, privileges, advantages and accommodations of that public accommodation when that individual poses a direct threat to the health or safety of others.
+
 (b) In determining whether an individual poses a direct threat to the health or safety of others, a public accommodation must make an individualized assessment, based on reasonable judgment that relies on current medical knowledge or on the best available objective evidence, to ascertain: The nature, duration, and severity of the risk; the probability that the potential injury will actually occur; and whether reasonable modifications of policies, practices, or procedures or the provision of auxiliary aids or services will mitigate the risk.
 
 ### &sect; 36.209 Illegal use of drugs.
 
 (a) *General*.
 
-(1) Except as provided in paragraph (b) of this section, this part does not prohibit discrimination against an individual based on that individual's current illegal use of drugs.
+>(1) Except as provided in paragraph (b) of this section, this part does not prohibit discrimination against an individual based on that individual's current illegal use of drugs.
 (2) A public accommodation shall not discriminate on the basis of illegal use of drugs against an individual who is not engaging in current illegal use of drugs and who -
 
-(i) Has successfully completed a supervised drug rehabilitation program or has otherwise been rehabilitated successfully;<br>
+>>(i) Has successfully completed a supervised drug rehabilitation program or has otherwise been rehabilitated successfully;<br>
 (ii) Is participating in a supervised rehabilitation program; or<br>
 (iii) Is erroneously regarded as engaging in such use.
 
 (b) *Health and drug rehabilitation services*.
 
-(1) A public accommodation shall not deny health services, or services provided in connection with drug rehabilitation, to an individual on the basis of that individual's current illegal use of drugs, if the individual is otherwise entitled to such services.
+>(1) A public accommodation shall not deny health services, or services provided in connection with drug rehabilitation, to an individual on the basis of that individual's current illegal use of drugs, if the individual is otherwise entitled to such services.
 (2) A drug rehabilitation or treatment program may deny participation to individuals who engage in illegal use of drugs while they are in the program.
 
 (c) *Drug testing*.
 
-(1) This part does not prohibit a public accommodation from adopting or administering reasonable policies or procedures, including but not limited to drug testing, designed to ensure that an individual who formerly engaged in the illegal use of drugs is not now engaging in current illegal use of drugs.
+>(1) This part does not prohibit a public accommodation from adopting or administering reasonable policies or procedures, including but not limited to drug testing, designed to ensure that an individual who formerly engaged in the illegal use of drugs is not now engaging in current illegal use of drugs.
 
-(2) Nothing in this paragraph (c) shall be construed to encourage, prohibit, restrict, or authorize the conducting of testing for the illegal use of drugs.
+>(2) Nothing in this paragraph (c) shall be construed to encourage, prohibit, restrict, or authorize the conducting of testing for the illegal use of drugs.
 
 ### &sect; 36.210 Smoking.
 
@@ -713,11 +714,12 @@ This part does not preclude the prohibition of, or the imposition of restriction
 
 (a) This part shall not be construed to prohibit or restrict –
 
-(1) An insurer, hospital or medical service company, health maintenance organization, or any agent, or entity that administers benefit plans, or similar organizations from underwriting risks, classifying risks, or administering such risks that are based on or not inconsistent with State law; or
+>(1) An insurer, hospital or medical service company, health maintenance organization, or any agent, or entity that administers benefit plans, or similar organizations from underwriting risks, classifying risks, or administering such risks that are based on or not inconsistent with State law; or
 (2) A person or organization covered by this part from establishing, sponsoring, observing or administering the terms of a bona fide benefit plan that are based on underwriting risks, classifying risks, or administering such risks that are based on or not inconsistent with State law; or
 (3) A person or organization covered by this part from establishing, sponsoring, observing or administering the terms of a bona fide benefit plan that is not subject to State laws that regulate insurance.
 
 (b) Paragraphs (a) (1), (2), and (3) of this section shall not be used as a subterfuge to evade the purposes of the Act or this part.
+
 (c) A public accommodation shall not refuse to serve an individual with a disability because its insurance company conditions coverage or rates on the absence of individuals with disabilities.
 
 ### &sect; 36.213 Relationship of subpart B to subparts C and D of this part.
@@ -739,20 +741,21 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 ### &sect; 36.302 Modifications in policies, practices, or procedures.
 
 (a) *General*. A public accommodation shall make reasonable modifications in policies, practices, or procedures, when the modifications are necessary to afford goods, services, facilities, privileges, advantages, or accommodations to individuals with disabilities, unless the public accommodation can demonstrate that making the modifications would fundamentally alter the nature of the goods, services, facilities, privileges, advantages, or accommodations.
+
 (b) *Specialties* –
 
-(1) *General*. A public accommodation may refer an individual with a disability to another public accommodation, if that individual is seeking, or requires, treatment or services outside of the referring public accommodation's area of specialization, and if, in the normal course of its operations, the referring public accommodation would make a similar referral for an individual without a disability who seeks or requires the same treatment or services.
+>(1) *General*. A public accommodation may refer an individual with a disability to another public accommodation, if that individual is seeking, or requires, treatment or services outside of the referring public accommodation's area of specialization, and if, in the normal course of its operations, the referring public accommodation would make a similar referral for an individual without a disability who seeks or requires the same treatment or services.
 (2) *Illustration* – *medical specialties*. A health care provider may refer an individual with a disability to another provider, if that individual is seeking, or requires, treatment or services outside of the referring provider's area of specialization, and if the referring provider would make a similar referral for an individual without a disability who seeks or requires the same treatment or services. A physician who specializes in treating only a particular condition cannot refuse to treat an individual with a disability for that condition, but is not required to treat the individual for a different condition.
 
 (c) *Service animals*.
 
-(1) *General*. Generally, a public accommodation shall modify policies, practices, or procedures to permit the use of a service animal by an individual with a disability.
+>(1) *General*. Generally, a public accommodation shall modify policies, practices, or procedures to permit the use of a service animal by an individual with a disability.
 (2) *Exceptions*. A public accommodation may ask an individual with a disability to remove a service animal from the premises if:
 
-(i) The animal is out of control and the animal's handler does not take effective action to control it; or<br>
+>>(i) The animal is out of control and the animal's handler does not take effective action to control it; or<br>
 (ii) The animal is not housebroken.
 
-(3) *If an animal is properly excluded*. If a public accommodation properly excludes a service animal under &sect; 36.302(c)(2), it shall give the individual with a disability the opportunity to obtain goods, services, and accommodations without having the service animal on the premises.
+>(3) *If an animal is properly excluded*. If a public accommodation properly excludes a service animal under &sect; 36.302(c)(2), it shall give the individual with a disability the opportunity to obtain goods, services, and accommodations without having the service animal on the premises.
 (4) *Animal under handler's control*. A service animal shall be under the control of its handler. A service animal shall have a harness, leash, or other tether, unless either the handler is unable because of a disability to use a harness, leash, or other tether, or the use of a harness, leash, or other tether would interfere with the service animal's safe, effective performance of work or tasks, in which case the service animal must be otherwise under the handler's control (*e.g.*, voice control, signals, or other effective means).
 (5) *Care or supervision*. A public accommodation is not responsible for the care or supervision of a service animal.
 (6) *Inquiries*. A public accommodation shall not ask about the nature or extent of a person's disability, but may make two inquiries to determine whether an animal qualifies as a service animal. A public accommodation may ask if the animal is required because of a disability and what work or task the animal has been trained to perform. A public accommodation shall not require documentation, such as proof that the animal has been certified, trained, or licensed as a service animal. Generally, a public accommodation may not make these inquiries about a service animal when it is readily apparent that an animal is trained to do work or perform tasks for an individual with a disability (*e.g.*, the dog is observed guiding an individual who is blind or has low vision, pulling a person's wheelchair, or providing assistance with stability or balance to an individual with an observable mobility disability).
@@ -760,23 +763,23 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 (8) *Surcharges*. A public accommodation shall not ask or require an individual with a disability to pay a surcharge, even if people accompanied by pets are required to pay fees, or to comply with other requirements generally not applicable to people without pets. If a public accommodation normally charges individuals for the damage they cause, an individual with a disability may be charged for damage caused by his or her service animal.
 (9) *Miniature horses*.
 
-(i) A public accommodation shall make reasonable modifications in policies, practices, or procedures to permit the use of a miniature horse by an individual with a disability if the miniature horse has been individually trained to do work or perform tasks for the benefit of the individual with a disability.<br>
+>>(i) A public accommodation shall make reasonable modifications in policies, practices, or procedures to permit the use of a miniature horse by an individual with a disability if the miniature horse has been individually trained to do work or perform tasks for the benefit of the individual with a disability.<br>
 (ii) *Assessment factors*. In determining whether reasonable modifications in policies, practices, or procedures can be made to allow a miniature horse into a specific facility, a public accommodation shall consider –
 
-(A) The type, size, and weight of the miniature horse and whether the facility can accommodate these features;<br>
+>>>(A) The type, size, and weight of the miniature horse and whether the facility can accommodate these features;<br>
 (B) Whether the handler has sufficient control of the miniature horse;<br>
 (C) Whether the miniature horse is housebroken; and<br>
 (D) Whether the miniature horse's presence in a specific facility compromises legitimate safety requirements that are necessary for safe operation.
 
-(iii) *Other requirements*. Sections 36.302(c)(3) through (c)(8), which apply to service animals, shall also apply to miniature horses.
+>>(iii) *Other requirements*. Sections 36.302(c)(3) through (c)(8), which apply to service animals, shall also apply to miniature horses.
 
 (d) *Check-out aisles*. A store with check-out aisles shall ensure that an adequate number of accessible check-out aisles are kept open during store hours, or shall otherwise modify its policies and practices, in order to ensure that an equivalent level of convenient service is provided to individuals with disabilities as is provided to others. If only one check-out aisle is accessible, and it is generally used for express service, one way of providing equivalent service is to allow persons with mobility impairments to make all their purchases at that aisle.
 
 (e)
 
-(1) *Reservations made by places of lodging*. A public accommodation that owns, leases (or leases to), or operates a place of lodging shall, with respect to reservations made by any means, including by telephone, in-person, or through a third party –
+>(1) *Reservations made by places of lodging*. A public accommodation that owns, leases (or leases to), or operates a place of lodging shall, with respect to reservations made by any means, including by telephone, in-person, or through a third party –
 
-(i) Modify its policies, practices, or procedures to ensure that individuals with disabilities can make reservations for accessible guest rooms during the same hours and in the same manner as individuals who do not need accessible rooms;<br>
+>>(i) Modify its policies, practices, or procedures to ensure that individuals with disabilities can make reservations for accessible guest rooms during the same hours and in the same manner as individuals who do not need accessible rooms;<br>
 (ii) Identify and describe accessible features in the hotels and guest rooms offered through its reservations service in enough detail to reasonably permit individuals with disabilities to assess independently whether a given hotel or guest room meets his or her accessibility needs;<br>
 (iii) Ensure that accessible guest rooms are held for use by individuals with disabilities until all other guest rooms of that type have been rented and the accessible room requested is the only remaining room of that type;<br>
 (iv) Reserve, upon request, accessible guest rooms or specific types of guest rooms and ensure that the guest rooms requested are blocked and removed from all reservations systems; and<br>
