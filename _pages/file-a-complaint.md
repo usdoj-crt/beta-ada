@@ -38,14 +38,23 @@ If you believe that you or someone else was discriminated against based on a dis
 
 ## Where and How to File Your Complaint
 
-The nature of your complaint determines where you should file it. The table below tells you where and how to file your complaint.
+The nature of your complaint determines where you should file it. The information below tells you where and how to file your complaint.
 
-| Type of Complaint                                              | Agency to File With                                              | How to File                                                                                                                             |
-| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Employment (e.g., issues at work or in applying for a job) | Equal Employment Opportunity Commission (EEOC) | Follow instructions on the [EEOC site](http://www.eeoc.gov/filing-charge-discrimination){: .pa11y-skip .file-a-complaint}{: data-ga-event-name="EEOC file a complaint link"}                                                       |
-| Air travel (involving a specific airline)                   | Department of Transportation (DOT) | Follow instructions on the [DOT site](http://www.transportation.gov/airconsumer/complaints-alleging-discriminatory-treatment-against-disabled-travelers){: .pa11y-skip .file-a-complaint}{: data-ga-event-name="DOT file a complaint link"}
-| Housing (e.g., denied housing or denied an accessible living space based on disability)                 | Department of Housing and Urban Development (HUD) | Follow the instructions on the [HUD site](https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint){: .pa11y-skip .file-a-complaint}{: data-ga-event-name="HUD file a complaint link"}
-| Complaints involving anything else                                                          | Department of Justice, Civil Rights Division                                                           | [See below](#filing-a-complaint-with-the-department-of-justice-civil-rights-division){: .pa11y-skip .file-a-complaint}{: data-ga-event-name="See below DOJ CRT file a complaint link"}
+{% include fac-option.html title="Issues with Employment" info="(e.g., issues at work or in applying for a job)" icon="work" %}
+
+[File with Equal Employment Opportunity Commission (EEOC)](http://www.eeoc.gov/filing-charge-discrimination){: .pa11y-skip .file-a-complaint .text-bold .desktop:padding-left-7}{: data-ga-event-name="EEOC file a complaint link"}
+
+{% include fac-option.html title="Issues with Air Travel" info="(involving a specific airline)" icon="flight" %}
+
+[File with Department of Transportation](http://www.transportation.gov/airconsumer/complaints-alleging-discriminatory-treatment-against-disabled-travelers){: .pa11y-skip .file-a-complaint .text-bold .desktop:padding-left-7}{: data-ga-event-name="DOT file a complaint link"}
+
+{% include fac-option.html title="Issues with Housing" info="(e.g., denied housing or denied an accessible living space based on disability)" icon="home" %}
+
+[File with Department of Housing and Urban Development (HUD)](https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint){: .pa11y-skip .file-a-complaint .text-bold .desktop:padding-left-7}{: data-ga-event-name="HUD file a complaint link"}
+
+{% include fac-option.html title="Other Issues" info="" icon="account_balance" %}
+
+[File with Department of Justice, Civil Rights Division](#filing-a-complaint-with-the-department-of-justice-civil-rights-division){: .pa11y-skip .file-a-complaint .text-bold .desktop:padding-left-7}{: data-ga-event-name="See below DOJ CRT file a complaint link"}
 
 ## Filing an ADA Complaint with the Department of Justice, Civil Rights Division
 There are two options for filing an ADA complaint:
