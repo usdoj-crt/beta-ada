@@ -366,24 +366,18 @@ _Act_ means the Americans with Disabilities Act (Pub. L. 101-336, 104 Stat. 327,
 
 <strong>_Archived web content_ means web content that—</strong>
 
-<strong>(1) Was created before the date the public entity is required to comply with subpart H of this part, reproduces paper documents created before the date the public entity is required to comply with subpart H, or reproduces the contents of other physical media created before the date the public entity is required to comply with subpart H;</strong>
-
-<strong>(2) Is retained exclusively for reference, research, or recordkeeping;</strong>
-
-<strong>(3) Is not altered or updated after the date of archiving; and</strong>
-
-<strong>(4) Is organized and stored in a dedicated area or areas clearly identified as being archived.</strong>
+><strong>(1) Was created before the date the public entity is required to comply with subpart H of this part, reproduces paper documents created before the date the public entity is required to comply with subpart H, or reproduces the contents of other physical media created before the date the public entity is required to comply with subpart H;</strong><br>
+<strong>(2) Is retained exclusively for reference, research, or recordkeeping;</strong><br>
+<strong>(3) Is not altered or updated after the date of archiving; and</strong><br>
+<strong>(4) Is organized and stored in a dedicated area or areas clearly identified as being archived.</strong><br>
 
 _Assistant Attorney General_ means the Assistant Attorney General, Civil Rights Division, United States Department of Justice.
 
 _Auxiliary aids and services_ includes&#8212;
 
-(1) Qualified interpreters on-site or through video remote interpreting (VRI) services; notetakers; real-time computer-aided transcription services; written materials; exchange of written notes; telephone handset amplifiers; assistive listening devices; assistive listening systems; telephones compatible with hearing aids; closed caption decoders; open and closed captioning, including real-time captioning; voice, text, and video-based telecommunications products and systems, including text telephones (TTYs), videophones, and captioned telephones, or equally effective telecommunications devices; videotext displays; accessible electronic and information technology; or other effective methods of making aurally delivered information available to individuals who are deaf or hard of hearing;
-
-(2) Qualified readers; taped texts; audio recordings; Brailled materials and displays; screen reader software; magnification software; optical readers; secondary auditory programs (SAP); large print materials; accessible electronic and information technology; or other effective methods of making visually delivered materials available to individuals who are blind or have low vision;
-
-(3) Acquisition or modification of equipment or devices; and
-
+>(1) Qualified interpreters on-site or through video remote interpreting (VRI) services; notetakers; real-time computer-aided transcription services; written materials; exchange of written notes; telephone handset amplifiers; assistive listening devices; assistive listening systems; telephones compatible with hearing aids; closed caption decoders; open and closed captioning, including real-time captioning; voice, text, and video-based telecommunications products and systems, including text telephones (TTYs), videophones, and captioned telephones, or equally effective telecommunications devices; videotext displays; accessible electronic and information technology; or other effective methods of making aurally delivered information available to individuals who are deaf or hard of hearing;<br>
+(2) Qualified readers; taped texts; audio recordings; Brailled materials and displays; screen reader software; magnification software; optical readers; secondary auditory programs (SAP); large print materials; accessible electronic and information technology; or other effective methods of making visually delivered materials available to individuals who are blind or have low vision;<br>
+(3) Acquisition or modification of equipment or devices; and<brw>
 (4) Other similar services and actions.
 
 _Complete complaint_ means a written statement that contains the complainant's name and address and describes the public entity's alleged discriminatory action in sufficient detail to inform the agency of the nature and date of the alleged violation of this part. It shall be signed by the complainant or by someone authorized to do so on his or her behalf. Complaints filed on behalf of classes or third parties shall describe or identify (by name, if possible) the alleged victims of discrimination.
