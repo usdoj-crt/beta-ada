@@ -54,7 +54,7 @@ The nature of your complaint determines where you should file it. The informatio
 
 {% include fac-option.html title="Other Issues" info="" icon="account_balance" %}
 
-[File with Department of Justice, Civil Rights Division](#filing-a-complaint-with-the-department-of-justice-civil-rights-division){: .pa11y-skip .file-a-complaint .text-bold .desktop:padding-left-7}{: data-ga-event-name="See below DOJ CRT file a complaint link"}
+[File with Department of Justice, Civil Rights Division](#filing-an-ada-complaint-with-the-department-of-justice-civil-rights-division){: .pa11y-skip .file-a-complaint .text-bold .desktop:padding-left-7}{: data-ga-event-name="See below DOJ CRT file a complaint link"}
 
 ## Filing an ADA Complaint with the Department of Justice, Civil Rights Division
 There are two options for filing an ADA complaint:
