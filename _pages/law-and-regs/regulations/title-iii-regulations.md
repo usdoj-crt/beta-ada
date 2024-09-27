@@ -566,7 +566,6 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 **(ii)  Consideration of facts such as condition, manner, or duration may include, among other things, consideration of the difficulty, effort or time required to perform a major life activity; pain experienced when performing a major life activity; the length of time a major life activity can be performed; or the way an impairment affects the operation of a major bodily function. In addition, the non-ameliorative effects of mitigating measures, such as negative side effects of medication or burdens associated with following a particular treatment regimen, may be considered when determining whether an individual's impairment substantially limits a major life activity.**<br>
 **(iii)  In determining whether an individual has a disability under the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prongs of the definition of &ldquo;disability,&rdquo; the focus is on how a major life activity is substantially limited, and not on what outcomes an individual can achieve. For example, someone with a learning disability may achieve a high level of academic success, but may nevertheless be substantially limited in one or more major life activities, including, but not limited to, reading, writing, speaking, or learning because of the additional time or effort he or she must spend to read, write, speak, or learn compared to most people in the general population.**<br>
 **(iv)  Given the rules of construction set forth in this section, it may often be unnecessary to conduct an analysis involving most or all of the facts related to condition, manner, or duration. This is particularly true with respect to impairments such as those described in paragraph (d)(2)(iii) of this section, which by their inherent nature should be easily found to impose a substantial limitation on a major life activity, and for which the individualized assessment should be particularly simple and straightforward.**
-
 >**(4)  *Mitigating measures* include, but are not limited to:**
 >>**(i)  Medication, medical supplies, equipment, appliances, low-vision devices (defined as devices that magnify, enhance, or otherwise augment a visual image, but not including ordinary eyeglasses or contact lenses), prosthetics including limbs and devices, hearing aid(s) and cochlear implant(s) or other implantable hearing devices, mobility devices, and oxygen therapy equipment and supplies;**<br>
 **(ii)  Use of assistive technology;**<br>
@@ -660,7 +659,6 @@ A public accommodation shall not exclude or otherwise deny equal goods, services
 
 >(1) Except as provided in paragraph (b) of this section, this part does not prohibit discrimination against an individual based on that individual's current illegal use of drugs.
 (2) A public accommodation shall not discriminate on the basis of illegal use of drugs against an individual who is not engaging in current illegal use of drugs and who -
-
 >>(i) Has successfully completed a supervised drug rehabilitation program or has otherwise been rehabilitated successfully;<br>
 (ii) Is participating in a supervised rehabilitation program; or<br>
 (iii) Is erroneously regarded as engaging in such use.
@@ -672,9 +670,8 @@ A public accommodation shall not exclude or otherwise deny equal goods, services
 
 (c) *Drug testing*.
 
->(1) This part does not prohibit a public accommodation from adopting or administering reasonable policies or procedures, including but not limited to drug testing, designed to ensure that an individual who formerly engaged in the illegal use of drugs is not now engaging in current illegal use of drugs.
-
->(2) Nothing in this paragraph (c) shall be construed to encourage, prohibit, restrict, or authorize the conducting of testing for the illegal use of drugs.
+>(1) This part does not prohibit a public accommodation from adopting or administering reasonable policies or procedures, including but not limited to drug testing, designed to ensure that an individual who formerly engaged in the illegal use of drugs is not now engaging in current illegal use of drugs.<br>
+(2) Nothing in this paragraph (c) shall be construed to encourage, prohibit, restrict, or authorize the conducting of testing for the illegal use of drugs.
 
 ### &sect; 36.210 Smoking.
 
@@ -725,20 +722,18 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 
 (c) *Service animals*.
 
->(1) *General*. Generally, a public accommodation shall modify policies, practices, or procedures to permit the use of a service animal by an individual with a disability.
-
+>(1) *General*. Generally, a public accommodation shall modify policies, practices, or procedures to permit the use of a service animal by an individual with a disability.<br>
 (2) *Exceptions*. A public accommodation may ask an individual with a disability to remove a service animal from the premises if:
 >>(i) The animal is out of control and the animal's handler does not take effective action to control it; or<br>
 (ii) The animal is not housebroken.
 
->(3) *If an animal is properly excluded*. If a public accommodation properly excludes a service animal under &sect; 36.302(c)(2), it shall give the individual with a disability the opportunity to obtain goods, services, and accommodations without having the service animal on the premises.
-(4) *Animal under handler's control*. A service animal shall be under the control of its handler. A service animal shall have a harness, leash, or other tether, unless either the handler is unable because of a disability to use a harness, leash, or other tether, or the use of a harness, leash, or other tether would interfere with the service animal's safe, effective performance of work or tasks, in which case the service animal must be otherwise under the handler's control (*e.g.*, voice control, signals, or other effective means).
-(5) *Care or supervision*. A public accommodation is not responsible for the care or supervision of a service animal.
-(6) *Inquiries*. A public accommodation shall not ask about the nature or extent of a person's disability, but may make two inquiries to determine whether an animal qualifies as a service animal. A public accommodation may ask if the animal is required because of a disability and what work or task the animal has been trained to perform. A public accommodation shall not require documentation, such as proof that the animal has been certified, trained, or licensed as a service animal. Generally, a public accommodation may not make these inquiries about a service animal when it is readily apparent that an animal is trained to do work or perform tasks for an individual with a disability (*e.g.*, the dog is observed guiding an individual who is blind or has low vision, pulling a person's wheelchair, or providing assistance with stability or balance to an individual with an observable mobility disability).
-(7) *Access to areas of a public accommodation*. Individuals with disabilities shall be permitted to be accompanied by their service animals in all areas of a place of public accommodation where members of the public, program participants, clients, customers, patrons, or invitees, as relevant, are allowed to go.
-(8) *Surcharges*. A public accommodation shall not ask or require an individual with a disability to pay a surcharge, even if people accompanied by pets are required to pay fees, or to comply with other requirements generally not applicable to people without pets. If a public accommodation normally charges individuals for the damage they cause, an individual with a disability may be charged for damage caused by his or her service animal.
+>(3) *If an animal is properly excluded*. If a public accommodation properly excludes a service animal under &sect; 36.302(c)(2), it shall give the individual with a disability the opportunity to obtain goods, services, and accommodations without having the service animal on the premises.<br>
+(4) *Animal under handler's control*. A service animal shall be under the control of its handler. A service animal shall have a harness, leash, or other tether, unless either the handler is unable because of a disability to use a harness, leash, or other tether, or the use of a harness, leash, or other tether would interfere with the service animal's safe, effective performance of work or tasks, in which case the service animal must be otherwise under the handler's control (*e.g.*, voice control, signals, or other effective means).<br>
+(5) *Care or supervision*. A public accommodation is not responsible for the care or supervision of a service animal.<br>
+(6) *Inquiries*. A public accommodation shall not ask about the nature or extent of a person's disability, but may make two inquiries to determine whether an animal qualifies as a service animal. A public accommodation may ask if the animal is required because of a disability and what work or task the animal has been trained to perform. A public accommodation shall not require documentation, such as proof that the animal has been certified, trained, or licensed as a service animal. Generally, a public accommodation may not make these inquiries about a service animal when it is readily apparent that an animal is trained to do work or perform tasks for an individual with a disability (*e.g.*, the dog is observed guiding an individual who is blind or has low vision, pulling a person's wheelchair, or providing assistance with stability or balance to an individual with an observable mobility disability).<br>
+(7) *Access to areas of a public accommodation*. Individuals with disabilities shall be permitted to be accompanied by their service animals in all areas of a place of public accommodation where members of the public, program participants, clients, customers, patrons, or invitees, as relevant, are allowed to go.<br>
+(8) *Surcharges*. A public accommodation shall not ask or require an individual with a disability to pay a surcharge, even if people accompanied by pets are required to pay fees, or to comply with other requirements generally not applicable to people without pets. If a public accommodation normally charges individuals for the damage they cause, an individual with a disability may be charged for damage caused by his or her service animal.<br>
 (9) *Miniature horses*.
-
 >>(i) A public accommodation shall make reasonable modifications in policies, practices, or procedures to permit the use of a miniature horse by an individual with a disability if the miniature horse has been individually trained to do work or perform tasks for the benefit of the individual with a disability.<br>
 (ii) *Assessment factors*. In determining whether reasonable modifications in policies, practices, or procedures can be made to allow a miniature horse into a specific facility, a public accommodation shall consider –
 >>>(A) The type, size, and weight of the miniature horse and whether the facility can accommodate these features;<br>
