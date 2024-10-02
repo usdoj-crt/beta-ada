@@ -12820,4 +12820,168 @@ Memorandum for Federal Agency Civil Rights Directors and General Counsels, from 
 *See* W3C, *Overlay Capabilities Inventory: Draft Community Group Report* (Feb. 12, 2024), [https://a11yedge.github.io/capabilities/](https://a11yedge.github.io/capabilities/), [https://perma.cc/2762-VJEV](https://perma.cc/2762-VJEV); *see also* W3C, *Draft Web
 Accessibility Evaluation Tools List,* [https://www.w3.org/WAI/ER/tools/](https://www.w3.org/WAI/ER/tools/), [https://perma.cc/Q4ME-Q3VW](https://perma.cc/Q4ME-Q3VW) (last visited Feb. 12, 2024).
 {% endfnbody %}
+
+268 Although HHS’s final rule addressing the accessibility of medical diagnostic equipment under section 504
+contains a different citation in its definition of the term Standards for Accessible Medical Diagnostic Equipment, see 89 FR 40184, that difference is the result of citation formatting conventions of the Office of the Federal Register. There is no substantive difference between the definition of the term Standards for Accessible Medical Diagnostic
+Equipment adopted in HHS’s final rule and the definition of that term adopted in DOJ’s final rule.
+
+269 36 CFR part 1195, appendix, section M301.2.2 (stating that M301.2.1 and M302.2.1 would cease to have effect
+on January 10, 2022).
+
+270 See, e.g., 36 CFR part 1195, appendix (revised as of July 1, 2017) (discussing, in M306, requirements for
+communication necessary for performance of a diagnostic procedure).
+
+271 Id. at 2812.
+
+272 See, e.g., §§ 35.130 and 35.150.
+
+273 See id. § 35.130(b)(7).
+
+274 See U.S. Dep’t of Just., Civ. Rts. Div., Access to Medical Care for Individuals with Mobility Disabilities (June 26,
+2020), https://www.ada.gov/resources/medical-care-mobility/ [https://perma.cc/UH8Y-NZWL].
+
+275 89 FR 2186.
+
+276 Id.
+
+277 See, e.g., Settlement Agreement Between the United States and Charlotte Radiology, P.A. (Aug. 13, 2018),
+https://archive.ada.gov/​charlotte_​radiology_​sa.html [https://perma.cc/​ZC5W-LV3M]; Settlement Agreement
+Between the United States and Tufts Medical Center (Feb. 28, 2020),
+https://archive.ada.gov/​tufts_​medical_​ctr_​sa.html [https://perma.cc/​YQG3-ZDZC].
+
+278 See generally § 35.151.
+
+279 See 36 CFR part 1191, appendix B, section 213.3.1.
+
+280 36 CFR part 1195, appendix, section M201 (revised as of July 1, 2017).
+
+281 See 36 CFR part 1191, appendix B, sections 208.2.2, 223.2.1, 223.2.2.
+
+282 See § 35.151(h); 36 CFR part 1191, appendix B, section 223.1.
+
+283 See 36 CFR part 1191, appendix B, section 223.1.1.
+
+284 See id. section 223.2.1.
+
+285 See id. section 223.2.2.
+
+286 See id. section 208.2.2.
+
+287 See 49 CFR part 37, subpart D.
+
+288 See FRIA at 69–70 (considering the costs of increasing the scoping requirements in § 35.211(b)(1) and (2) to 20
+percent and 40 percent respectively, as well as the costs of requiring that 100 percent of newly acquired MDE meet
+the MDE Standards and concluding that those alternative potential scoping requirements could more than double the
+annualized costs of the final rule).
+
+289 ADA Nat’l Network, Accessible Medical Examination Tables and Chairs (2017),
+https://adata.org/factsheet/accessible-medical-examination-tables-and-chairs [https://perma.cc/Y6MR-9QGL].
+
+290 See 49 CFR part 37, subpart D.
+
+291 See U.S. Preventive Services Task Force, About the USPSTF,
+https://www.uspreventiveservicestaskforce.org/uspstf/about-uspstf [https://perma.cc/FTL2-TLXX].
+
+292 That is, numbers that end in a digit less than five are rounded down to the nearest whole number, and numbers
+that end in a digit greater than or equal to five are rounded up to the nearest whole number. For example, if a
+program that did not specialize in treating conditions that affect mobility used four units of MDE, then it would be
+required to have at least one unit of accessible MDE because, even though 0.4 units (10 percent of four) would be
+rounded down to zero, the final rule requires that each service, program, or activity have at least one unit of
+accessible MDE. If there were 12 units of MDE in use, the program would be required to have one unit of
+accessible MDE because 1.2 (10 percent of 12) is rounded down to one. If there were 15 units of MDE in use, the
+program would be required to have two units of accessible MDE because 1.5 (10 percent of 15) is rounded up to
+two.
+
+293 See § 35.151(h). A similar dispersion requirement was not necessary for medical care facilities that specialize in
+the treatment of conditions that affect mobility because all patient sleeping rooms in those facilities are required to
+be accessible. See 36 CFR part 1191, appendix B, section 223.2.2.
+
+294 See, e.g., 36 CFR part 1191, appendix B, sections 221.2.3, 224.5, 225.3.1, 235.2.1. According to these sections,
+when the required number of accessible elements has been provided, further dispersion is not required.
+
+295 See §§ 35.130(b)(1)(ii) and 35.150(a).
+
+296 36 CFR part 1195 (revised as of July 1, 2017).
+
+297 See, e.g., §§ 35.130(b)(1)(ii) and (f) and 35.150(a).
+
+298 See C. Brooke Steele et al., Prevalence of Cancer Screening Among Adults With Disabilities, United States, 2013,
+14 Preventing Chronic Disease (Jan. 2017), https://www.cdc.gov/pcd/issues/2017/16_0312.htm
+[https://perma.cc/T36Y-NCJM] (finding disparate access to cancer screenings); Gloria Krahn, Persons with
+Disabilities as an Unrecognized Health Disparity Population, 105 Amer. J. Pub. Health 198 (Apr. 2015),
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4355692/ [https://perma.cc/J8E4-J63T] (finding higher prevalence
+of obesity and cardiovascular diseases); see also Michael Karpman et al., QuickTake: Even with Coverage, Many
+Adults Have Problems Getting Health Care, with Problems Most Prevalent Among Adults with Disabilities, Urban
+Inst. Health Pol’y Ctr. (Sept. 2015), https://apps.urban.org/features/hrms/quicktakes/Many-Adults-Have-Problems-
+Getting-Health-Care.html [https://perma.cc/V6GB-AEPH]; Carrie Henning-Smith et al., Delayed and Unmet Need
+for Medical Care Among Publicly Insured Adults with Disabilities, 51 Med. Care 1015 (Nov. 2013),
+https://pubmed.ncbi.nlm.nih.gov/24113815/ [https://perma.cc/KSY2-DGEV]; Amanda Reichard et al., Prevalence
+and Reasons for Delaying and Foregoing Necessary Care by the Presence and Type of Disability Among Working-
+Age Adults, 10 Disability &amp; Health J. 39 (Jan. 2017), https://pubmed.ncbi.nlm.nih.gov/27771217/
+[https://perma.cc/V7D7-LCQK]; Michelle Stransky et al., Provider Continuity and Reasons for Not Having a
+Provider Among Persons With and Without Disabilities, 12 Disability &amp; Health J. 131 (Jan. 2019),
+https://pubmed.ncbi.nlm.nih.gov/30244847/ [https://perma.cc/2LSR-PEGJ]; Sarah Bauer et al., Disability and
+Physical and Communication-Related Barriers to Health Care Related Services Among Florida Residents: A Brief
+Report, 9 Disability &amp; Health J. 552 (July 2016), https://pubmed.ncbi.nlm.nih.gov/27101882/
+[https://perma.cc/YH6F-22UW] (finding barriers to access to care).
+
+299 See Access Board, Access Board Review of MDE Low Height and MSRP (May 23, 2023),
+https://www.regulations.gov/document/ATBCB-2023-0001-0002 [https://perma.cc/WU3U-DP65] (listing available
+examination table models that meet the height requirements of the MDE Standards and their retail prices). On the
+affordability of accessible examination tables and weight scales compared to imaging equipment, see 82 FR 2829
+(stating that commenters were concerned about immediate compliance with the MDE Standards for “more
+expensive imaging equipment” compared to other accessible MDE). See also Block Imaging, 2024 Mammography
+Price Guide, https://www.blockimaging.com/bid/95356/digital-mammography-equipment-price-cost-info
+[https://perma.cc/2STC-34VW].
+
+300 28 CFR part 36, appendix D, at 1000 (2022) (1991 ADA Standards); 36 CFR part 1191, appendix B, at 329
+(2022) (2010 ADA Standards).
+
+301 See, e.g., § 35.151(c) (allowing or requiring public entities to comply with the 1991 ADA Standards or 2010 ADA
+Standards).
+
+302 See appendix B to this part.
+
+303 See id. §§ 35.130(b)(7), 35.150(a)(3), and 35.164.
+
+304 See, e.g., U.S. Dep’t of Just., ADA Update: A Primer for State and Local Governments, ADA.gov (Feb. 28,
+2020), https://www.ada.gov/resources/title-ii-primer/ [https://perma.cc/ZV66-EFWU].
+
+305 Id.
+
+306 36 CFR part 1195, appendix, section M201.2 (revised as of July 1, 2017).
+
+307 See, e.g., 42 U.S.C. 12101(a); § 35.130(b).
+
+308 See § 35.150.
+
+309 See U.S. Dep’t of Just., Civ. Rts. Div., Access to Medical Care for Individuals with Mobility Disabilities (June 26,
+2020), https://www.ada.gov/resources/medical-care-mobility/ [https://perma.cc/UH8Y-NZWL].
+
+310 See, e.g., §§ 35.150 and 35.151.
+
+311 See, e.g., U.S. Dep’t of Just., Civ. Rts. Div., ADA Update: A Primer for State and Local Governments (Feb. 28,
+2020), https://www.ada.gov/resources/title-ii-primer/ [https://perma.cc/ZV66-EFWU]; U.S. Dep’t of Just., Title II
+Assistance Manual: Covering State and Local Government Programs and Services,
+https://archive.ada.gov/taman2.html [https://perma.cc/6QNC-3RRA].
+
+312 See 29 CFR 1630.2(o)(3).
+
+313 28 CFR 36.304(a).
+
+314 See, e.g., id. §§ 35.130 and 35.133.
+
+315 See 42 U.S.C. 12111–12117.
+
+316 42 U.S.C. 12112(b)(5); 29 CFR 1630.9.
+
+317 See, e.g., U.S. Dep’t of Just., Civ. Rts. Div., Access to Medical Care for Individuals with Mobility Disabilities
+(June 26, 2020), https://www.ada.gov/resources/medical-care-mobility/ [https://perma.cc/UH8Y-NZWL].
+
+318 U.S. Access Board, About the U.S. Access Board, https://www.access-board.gov/about/ [https://perma.cc/L9N7-
+56YV].
+
+319 E.O. 13563, sec. 6, 3 CFR, 2011 Comp., p. 215.
+
+320 29 U.S.C. 794f(c).
 {% endfootnotes %}
