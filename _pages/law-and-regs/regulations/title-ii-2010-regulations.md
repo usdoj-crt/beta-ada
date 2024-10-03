@@ -12822,8 +12822,7 @@ Accessibility Evaluation Tools List,* [https://www.w3.org/WAI/ER/tools/](https:/
 {% endfnbody %}
 
 268 Although HHS’s final rule addressing the accessibility of medical diagnostic equipment under section 504
-contains a different citation in its definition of the term Standards for Accessible Medical Diagnostic Equipment, see 89 FR 40184, that difference is the result of citation formatting conventions of the Office of the Federal Register. There is no substantive difference between the definition of the term Standards for Accessible Medical Diagnostic
-Equipment adopted in HHS’s final rule and the definition of that term adopted in DOJ’s final rule.
+contains a different citation in its definition of the term Standards for Accessible Medical Diagnostic Equipment, see 89 FR 40184, that difference is the result of citation formatting conventions of the Office of the Federal Register. There is no substantive difference between the definition of the term Standards for Accessible Medical Diagnostic Equipment adopted in HHS’s final rule and the definition of that term adopted in DOJ’s final rule.
 
 269 36 CFR part 1195, appendix, section M301.2.2 (stating that M301.2.1 and M302.2.1 would cease to have effect
 on January 10, 2022).
@@ -12837,8 +12836,7 @@ communication necessary for performance of a diagnostic procedure).
 
 273 See id. § 35.130(b)(7).
 
-274 See U.S. Dep’t of Just., Civ. Rts. Div., Access to Medical Care for Individuals with Mobility Disabilities (June 26,
-2020), https://www.ada.gov/resources/medical-care-mobility/ [https://perma.cc/UH8Y-NZWL].
+274 See U.S. Dep’t of Just., Civ. Rts. Div., Access to Medical Care for Individuals with Mobility Disabilities (June 26, 2020), https://www.ada.gov/resources/medical-care-mobility/ [https://perma.cc/UH8Y-NZWL].
 
 275 89 FR 2186.
 
@@ -12892,9 +12890,7 @@ accessible MDE because 1.2 (10 percent of 12) is rounded down to one. If there w
 program would be required to have two units of accessible MDE because 1.5 (10 percent of 15) is rounded up to
 two.
 
-293 See § 35.151(h). A similar dispersion requirement was not necessary for medical care facilities that specialize in
-the treatment of conditions that affect mobility because all patient sleeping rooms in those facilities are required to
-be accessible. See 36 CFR part 1191, appendix B, section 223.2.2.
+293 See § 35.151(h). A similar dispersion requirement was not necessary for medical care facilities that specialize in the treatment of conditions that affect mobility because all patient sleeping rooms in those facilities are required to be accessible. See 36 CFR part 1191, appendix B, section 223.2.2.
 
 294 See, e.g., 36 CFR part 1191, appendix B, sections 221.2.3, 224.5, 225.3.1, 235.2.1. According to these sections,
 when the required number of accessible elements has been provided, further dispersion is not required.
@@ -12955,8 +12951,7 @@ Standards).
 
 308 See § 35.150.
 
-309 See U.S. Dep’t of Just., Civ. Rts. Div., Access to Medical Care for Individuals with Mobility Disabilities (June 26,
-2020), https://www.ada.gov/resources/medical-care-mobility/ [https://perma.cc/UH8Y-NZWL].
+309 See U.S. Dep’t of Just., Civ. Rts. Div., Access to Medical Care for Individuals with Mobility Disabilities (June 26, 2020), https://www.ada.gov/resources/medical-care-mobility/ [https://perma.cc/UH8Y-NZWL].
 
 310 See, e.g., §§ 35.150 and 35.151.
 
