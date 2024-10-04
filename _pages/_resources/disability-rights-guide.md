@@ -342,7 +342,6 @@ The Architectural Barriers Act (ABA) requires that buildings and facilities that
 34 CFR Part 104 (Department of Education),
 45 CFR Part 84 (Department of Health and Human Services),
 28 CFR §§ 42.501 et seq.<br>
-
 >Over 95 Implementing Regulations for federally conducted programs, including:  28 CFR Part 39 (Department of Justice)
 
 **Section 508 of the Rehabilitation Act of 1973, as amended**
