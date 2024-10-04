@@ -261,7 +261,6 @@ An accessible information technology system is one that can be operated in a var
 >Washington, DC 20405-0001<br>
 >[www.gsa.gov/portal/content/105254](http://www.gsa.gov/portal/content/105254)
 
-
 >U.S. Architectural and Transportation Barriers Compliance Board<br>
 >1331 F Street, N.W., Suite 1000<br>
 >Washington, DC 20004-1111<br>
@@ -286,7 +285,6 @@ The Architectural Barriers Act (ABA) requires that buildings and facilities that
  >{{site.contact.tollfree}} (voice)<br>
 >{{site.contact.tty}} (TTY)<br>
 >[ADA.gov]({{ '/' | relative_url }})
-
 
 >ADA National Network<br>
 >(800) 949-4232 (voice/TTY)<br>
