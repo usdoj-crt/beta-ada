@@ -260,7 +260,6 @@ CIO 508 Coordinator<br>
 1800 F Street, N.W.<br>
 Washington, DC 20405-0001<br>
 [www.gsa.gov/portal/content/105254](http://www.gsa.gov/portal/content/105254)
-
 >U.S. Architectural and Transportation Barriers Compliance Board<br>
 >1331 F Street, N.W., Suite 1000<br>
 >Washington, DC 20004-1111<br>
@@ -285,7 +284,6 @@ The Architectural Barriers Act (ABA) requires that buildings and facilities that
 {{site.contact.tollfree}} (voice)<br>
 {{site.contact.tty}} (TTY)<br>
 [ADA.gov]({{ '/' | relative_url }})
-
 >ADA National Network<br>
 >(800) 949-4232 (voice/TTY)<br>
 >[www.adata.org](https://www.adata.org)
@@ -344,7 +342,6 @@ The Architectural Barriers Act (ABA) requires that buildings and facilities that
 34 CFR Part 104 (Department of Education),
 45 CFR Part 84 (Department of Health and Human Services),
 28 CFR §§ 42.501 et seq.
-
 >Over 95 Implementing Regulations for federally conducted programs, including:  28 CFR Part 39 (Department of Justice)
 
 **Section 508 of the Rehabilitation Act of 1973, as amended**
