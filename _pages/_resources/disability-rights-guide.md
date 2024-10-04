@@ -255,11 +255,11 @@ Section 508 establishes requirements for electronic and information technology d
 An accessible information technology system is one that can be operated in a variety of ways and does not rely on a single sense or ability of the user. For example, a system that provides output only in visual format may not be accessible to people with visual impairments and a system that provides output only in audio format may not be accessible to people who are deaf or hard of hearing. Some individuals with disabilities may need accessibility-related software or peripheral devices in order to use systems that comply with Section 508. For more information on section 508, contact:
 
 >U.S. General Services Administration<br>
->Office of Enterprise Planning and Governance<br>
->CIO 508 Coordinator<br>
->1800 F Street, N.W.<br>
->Washington, DC 20405-0001<br>
->[www.gsa.gov/portal/content/105254](http://www.gsa.gov/portal/content/105254)
+Office of Enterprise Planning and Governance<br>
+CIO 508 Coordinator<br>
+1800 F Street, N.W.<br>
+Washington, DC 20405-0001<br>
+[www.gsa.gov/portal/content/105254](http://www.gsa.gov/portal/content/105254)
 
 >U.S. Architectural and Transportation Barriers Compliance Board<br>
 >1331 F Street, N.W., Suite 1000<br>
@@ -282,9 +282,9 @@ The Architectural Barriers Act (ABA) requires that buildings and facilities that
 ## General Sources of Disability Rights Information
 
 >[ADA Information Line]( {{'/infoline/' | relative_url}})<br>
- >{{site.contact.tollfree}} (voice)<br>
->{{site.contact.tty}} (TTY)<br>
->[ADA.gov]({{ '/' | relative_url }})
+{{site.contact.tollfree}} (voice)<br>
+{{site.contact.tty}} (TTY)<br>
+[ADA.gov]({{ '/' | relative_url }})
 
 >ADA National Network<br>
 >(800) 949-4232 (voice/TTY)<br>
@@ -341,12 +341,11 @@ The Architectural Barriers Act (ABA) requires that buildings and facilities that
 29 U.S.C. § 794
 
 >Over 20 Implementing Regulations for federally assisted programs, including:
->34 CFR Part 104 (Department of Education)
->45 CFR Part 84 (Department of Health and Human Services)
->28 CFR §§ 42.501 et seq.
+34 CFR Part 104 (Department of Education),
+45 CFR Part 84 (Department of Health and Human Services),
+28 CFR §§ 42.501 et seq.
 
->Over 95 Implementing Regulations for federally conducted programs, including:
->28 CFR Part 39 (Department of Justice)
+>Over 95 Implementing Regulations for federally conducted programs, including:  28 CFR Part 39 (Department of Justice)
 
 **Section 508 of the Rehabilitation Act of 1973, as amended**
 29 U.S.C. § 794d
