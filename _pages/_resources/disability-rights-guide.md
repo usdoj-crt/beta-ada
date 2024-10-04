@@ -209,7 +209,7 @@ If parents disagree with the proposed IEP, they can request a due process hearin
 >400 Maryland Avenue, S.W.
 >Washington, D.C. 20202-7100
 >(202) 245-7459 (voice/TTY)
->[www.ed.gov/about/offices/list/osers/osep](https://www.ed.gov/about/offices/list/osers/osep)
+>[https://www.ed.gov/about/ed-offices/osers](https://www.ed.gov/about/ed-offices/osers)
 
 ## Rehabilitation Act
 
