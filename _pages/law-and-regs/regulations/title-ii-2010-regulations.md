@@ -10374,11 +10374,11 @@ Equipment” in accordance with the standards promulgated by the Access Board on
 January 9, 2017, under section 510 of the Rehabilitation Act of 1973, as amended, and
 codified on July 1, 2017, found at 36 CFR part 1195 (revised as of July 1, 2017). That is
 the version of the Access Board’s MDE Standards that was in effect when the
-Department issued its notice of proposed rulemaking (NPRM). 264 The Department is
+Department issued its notice of proposed rulemaking (NPRM). {% fn 268 %} The Department is
 not, however, adopting two provisions that were included in the January 9, 2017,
 version of the Access Board’s standards, M301.2.2 and M302.2.2 (“the sunset
 provisions”). The sunset provisions stated that the 17-inch to 19-inch low transfer
-height range set forth in M301.2.1 and M302.2.1 would cease to have effect on January 10, 2022. 265 Accordingly, if the definition of the MDE Standards that the Department is
+height range set forth in M301.2.1 and M302.2.1 would cease to have effect on January 10, 2022. {% fn 269 %} Accordingly, if the definition of the MDE Standards that the Department is
 adopting did not exclude the sunset provisions, there would be no enforceable minimum
 low transfer height standard, since this final rule is being promulgated after January 10,
 2022.  By adopting the January 9, 2017, version of the MDE Standards that was
