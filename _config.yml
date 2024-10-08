@@ -35,6 +35,13 @@ contact:
 
 # For alerts that aren't tied to a site.categories.notice
 external_notices:
+  - text:
+      en: Election season is here
+    link_text:
+      en: Review Guidance and Resources relating to voters with disabilities
+    link_href:
+      en: /resources/protecting-voter-rights
+
 
 # Display beta disclamers
 beta: false
