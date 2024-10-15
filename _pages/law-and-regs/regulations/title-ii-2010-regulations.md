@@ -10488,9 +10488,9 @@ cannot require a patient with a disability to bring someone along with them to h
 during an examination if similar requirements are not imposed on patients without
 disabilities. A patient may choose to bring another person such as a friend, family
 member, or personal care aide to an appointment, but regardless, the provider may
-need to provide reasonable assistance to enable the patient to receive medical care. 269
+need to provide reasonable assistance to enable the patient to receive medical care. {% fn 273 %}
 Such assistance may include, for example, helping a person who uses a wheelchair to
-transfer from their wheelchair to the examination table or diagnostic chair. 270 The
+transfer from their wheelchair to the examination table or diagnostic chair. {% fn 274 %} The
 provider cannot require the person accompanying the patient to assist.
 
 Individuals and groups, including disability advocacy organizations, individuals with
@@ -10518,13 +10518,13 @@ The Department agrees with commenters that accessible MDE is vital for health eq
 person-centered care, and access to medical care for patients with disabilities. As
 discussed in the NPRM, research has documented that the scarcity of accessible MDE
 constitutes a significant barrier to access to care for patients with disabilities, resulting in
-a failure to provide adequate preventative health care and diagnostic examinations. 271
+a failure to provide adequate preventative health care and diagnostic examinations. {% fn 275 %}
 
 As explained in more detail in the NPRM, the Department is aware of many instances in
 which people with disabilities were denied access to needed care, were subjected to
 demeaning situations, or received substandard care because health care providers
-lacked accessible MDE. 272 The Department has taken action to enforce the ADA as it
-applies to the provision of health care services. 273 However, the lack of technical
+lacked accessible MDE. {% fn 276 %} The Department has taken action to enforce the ADA as it
+applies to the provision of health care services. {% fn 277 %} However, the lack of technical
 standards for accessible MDE before the Access Board issued the MDE Standards in
 2017, and the fact that, until now, the MDE Standards were not enforceable under title
 II, mean that these circumstances remain all too prevalent. Section 35.210 will help
@@ -10536,7 +10536,7 @@ Section 35.211 Newly Purchased, Leased, or Otherwise Acquired Medical Diagnosti
 For MDE that public entities purchase, lease, or otherwise acquire after October 8,
 2024, which is 60 days after the publication of the final rule in the Federal Register, the
 Department is adopting an approach that draws on the approach that the existing title II
-regulation applies to new construction and alterations of buildings and facilities. 274
+regulation applies to new construction and alterations of buildings and facilities. {% fn 278 %}
 Section 35.211(a) requires that all MDE that a public entity purchases, leases, or
 otherwise acquires more than 60 days after publication must be accessible, unless and
 until the scoping requirements set forth in more detail in § 35.211(b) are satisfied.
@@ -10650,11 +10650,11 @@ standards generally contain scoping requirements (how many accessible features a
 needed) and technical requirements (what makes a particular feature accessible). For
 example, the 2010 ADA Standards provide scoping requirements for how many toilet
 compartments in a particular toilet room must be accessible and provide technical
-requirements on what makes these toilet compartments accessible. 275 The MDE
+requirements on what makes these toilet compartments accessible. {% fn 279 %} The MDE
 Standards issued by the Access Board contain technical requirements, but they do not
 specify scoping requirements. Rather, they state that “[t]he enforcing authority shall
 specify the number and type of diagnostic equipment that are required to comply with
-the MDE Standards.” 276 For the technical requirements to be implemented and enforced
+the MDE Standards.” {% fn 280 %} For the technical requirements to be implemented and enforced
 effectively, it is necessary for the Department to provide scoping requirements to specify
 how much accessible MDE is needed for a public entity’s health care service, program,
 or activity to comply with the ADA.
@@ -10663,26 +10663,26 @@ Paragraphs (b)(1) through (3) of § 35.211 lay out scoping requirements for thi
 The scoping requirements that the Department is establishing are based on the
 requirements that the 2010 ADA Standards establish for accessible patient sleeping
 rooms and parking in hospitals, rehabilitation facilities, psychiatric facilities,
-detoxification facilities, and outpatient physical therapy facilities. 277 Because public entities must comply with title II of the ADA, many public entities are likely already
+detoxification facilities, and outpatient physical therapy facilities. {% fn 281 %} Because public entities must comply with title II of the ADA, many public entities are likely already
 familiar with these standards.
 
 The Department drew on the following approaches from the 2010 ADA Standards in
 formulating the scoping requirements for the final rule. According to the 2010 ADA
 Standards, licensed medical care facilities and licensed long-term care facilities where
 the period of stay exceeds 24 hours shall provide accessible patient or resident sleeping
-rooms and disperse them proportionately by type of medical specialty. 278 Where
+rooms and disperse them proportionately by type of medical specialty. {% fn 282 %} Where
 sleeping rooms are altered or added, the sleeping rooms being altered or added shall
 be made accessible until the minimum number of accessible sleeping rooms is
-provided. 279 Hospitals, rehabilitation facilities, psychiatric facilities, and detoxification
+provided. {% fn 283 %} Hospitals, rehabilitation facilities, psychiatric facilities, and detoxification
 facilities that do not specialize in treating conditions that affect mobility shall have at
 least 10 percent of their patient sleeping rooms, but no fewer than one sleeping room,
-provide specific accessibility features for patients with mobility disabilities. 280 Hospitals,
+provide specific accessibility features for patients with mobility disabilities. {% fn 284 %} Hospitals,
 rehabilitation facilities, psychiatric facilities, and detoxification facilities that specialize in
 treating conditions that affect mobility must have 100 percent of their patient sleeping
-rooms provide specific accessibility features for patients with mobility disabilities. 281 In
+rooms provide specific accessibility features for patients with mobility disabilities. {% fn 285 %} In
 addition, at least 20 percent of patient and visitor parking spaces at outpatient physical
 therapy facilities and rehabilitation facilities specialized in treating conditions that affect
-mobility must be accessible. 282 Several of these approaches are reflected in the scoping
+mobility must be accessible. {% fn 286 %} Several of these approaches are reflected in the scoping
 requirements adopted in paragraph (b) of § 35.211 for MDE.
 
 Paragraph (b)(1) of § 35.211 provides the general requirement for physicians’ offices,
@@ -10742,7 +10742,7 @@ fact that, unlike accessible parking spaces, accessible MDE can also be used by
 nondisabled individuals. Some commenters suggested instead modeling the scoping
 requirements on the “replacement rule” that applies to transportation services under title
 II, which requires that all newly purchased and leased vehicles be readily accessible to
-and usable by people with disabilities. 283 Other commenters suggested different
+and usable by people with disabilities. {% fn 287 %} Other commenters suggested different
 approaches, such as imposing higher scoping requirements for MDE that is used to
 provide preventive services outlined by the U.S. Preventive Services Task Force, or
 imposing higher scoping requirements for MDE that is used more frequently.
@@ -10791,7 +10791,7 @@ treatment of conditions that affect mobility has proven to be a workable framewo
 context of the 2010 ADA Standards’ scoping requirements, and the Department
 believes this will also be a helpful framework for the MDE scoping requirements.
 
-In view of demands on provider entities, 284 the Department will not increase the scoping requirements beyond 10 percent for § 35.211(b)(1) and 20 percent for § 35.211(b)(2) at
+In view of demands on provider entities, {% fn 288 %} the Department will not increase the scoping requirements beyond 10 percent for § 35.211(b)(1) and 20 percent for § 35.211(b)(2) at
 this time. The Department does not agree with several commenters who opined that
 the use of MDE is analogous to the use of vehicles covered by the ADA title II
 transportation accessibility requirements. MDE often cannot be retrofitted to be
@@ -10799,14 +10799,14 @@ accessible with the same ease or cost ratio as transportation retrofits. For exa
 inaccessible weight scales typically do not have large platforms that are required for
 wheelchair access. Inaccessible examination tables are usually fixed height “box”
 tables with static bases, and possibly drawers, that cannot easily be replaced with
-adjustable mechanisms. 285 The Department therefore declines to adopt an approach
+adjustable mechanisms. {% fn 289 %} The Department therefore declines to adopt an approach
 akin to the “replacement rule” that applies in the title II transportation accessibility
-context, which would require that 100 percent of newly acquired MDE be accessible. 286
+context, which would require that 100 percent of newly acquired MDE be accessible. {% fn 290 %}
 And although one commenter suggested relying on the U.S. Preventive Services Task
 Force recommendations, the Department does not believe that these recommendations
 would serve as a useful basis for the scoping requirements in § 35.211(b). The U.S.
 Preventive Services Task Force makes evidence-based recommendations on clinical
-preventive services and health promotion in primary care settings, 287 but those
+preventive services and health promotion in primary care settings, {% fn 291 %} but those
 recommendations are not primarily about the use of MDE and therefore do not serve as
 a useful model for scoping requirements related to MDE.
 
@@ -10855,7 +10855,7 @@ yields a number less than one, the number will need to be rounded up to one beca
 § 35.211(b)(1) and (2) require that no fewer than one unit of each type of equipment in
 use meet the MDE Standards. If application of the scoping percentages yields a
 number greater than one, the standard mathematics rule on rounding decimals to whole
-numbers applies to the scoping requirements in § 35.211(b)(1) and (2). 288
+numbers applies to the scoping requirements in § 35.211(b)(1) and (2). {% fn 292 %}
 
 Section 35.211(b)(3) addresses facilities or programs with multiple departments, clinics,
 or specialties. In any facility or program that has multiple departments, clinics, or
@@ -10865,14 +10865,14 @@ departments, clinics, or specialties. For example, a hospital that is required t
 accessible x-ray machines cannot place all the accessible x-ray machines in the
 orthopedics department and none in the emergency department. This dispersion
 requirement is analogous to the existing title II ADA regulation that requires dispersion of accessible sleeping rooms in medical care facilities that do not specialize in the
-treatment of conditions that affect mobility. 289
+treatment of conditions that affect mobility. {% fn 293 %}
 
 Section 35.211(b)(3) does not require that accessible MDE be dispersed with exact
 mathematical proportionality, which at times would be impossible. Section 35.211(b)(3)
 also does not require public entities to acquire additional MDE, beyond the amount
 specified in paragraphs (b)(1) and (2), to ensure that accessible MDE is available in
 every department, clinic, and specialty. This approach is consistent with many
-provisions of the 2010 ADA Standards. 290 Additionally, if § 35.211(b)(3) were to require
+provisions of the 2010 ADA Standards. {% fn 294 %} Additionally, if § 35.211(b)(3) were to require
 full dispersion across every department, clinic, and specialty, it could create
 inconsistency or confusion between the dispersion and scoping requirements. For
 example, if a health care program that operated out of three clinics was required to have
@@ -10892,7 +10892,7 @@ Even if a public entity’s facility or program with multiple departments, clini
 specialties will not be able to disperse its accessible MDE with mathematical precision
 across every department, clinic, and specialty, public entities must still afford people
 with disabilities an opportunity to benefit from each type of medical care that is equal to
-the opportunity provided to people without disabilities.49F 291 The Department recognizes
+the opportunity provided to people without disabilities.49F {% fn 295 %} The Department recognizes
 that it is critically important for people with disabilities to have access to all types of
 medical care. Therefore, public entities are still required to ensure that all of their
 services, programs, and activities are accessible to and usable by individuals with
@@ -10942,7 +10942,7 @@ and patient lifts or transfer teams, as well as the dispersion of MDE based on w
 size capacity. The Department declines to adopt requirements for the other types of
 dispersion proposed by these commenters at this time. In this rulemaking, the
 Department is adopting the January 9, 2017, version of the MDE Standards
-promulgated by the Access Board 292 (with the exception of the sunset provisions, as
+promulgated by the Access Board {% fn 296 %} (with the exception of the sunset provisions, as
 explained in the section-by-section analysis of § 35.104) and making those standards
 enforceable. The MDE Standards do not include requirements for wheelchairs,
 equipment with greater weight or size capacity, patient lifts, or transfer teams. The
@@ -10992,7 +10992,7 @@ transportation when patients with disabilities need to travel to other locations
 accessible MDE, but nondisabled patients do not need to travel to other locations to
 receive care, or a requirement that patients incur additional costs to use accessible
 MDE, could violate § 35.210 or § 35.212 or more generalized nondiscrimination
-requirements in the existing title II regulation. 293
+requirements in the existing title II regulation. {% fn 297 %}
 
 Many commenters also raised concerns about the burdens that the approach to
 dispersion in § 35.211(b)(3) may impose on public entities. Some commenters stated
@@ -11155,7 +11155,7 @@ enough for public entities to comply with this requirement, particularly if enti
 limited resources or if equipment is not readily available. Some commenters suggested
 a phased implementation approach.
 
-Given the health disparities and barriers to care facing individuals with disabilities, 294 and
+Given the health disparities and barriers to care facing individuals with disabilities, {% fn 298 %} and
 the importance of examination tables and weight scales for the provision of basic health
 care services, the Department does not believe an extension of the two-year
 requirement or a phased implementation period for particular types of public entities is
@@ -11186,7 +11186,7 @@ MDE within a specified period of time. The Department imposed a two-year
 requirement for examination tables and weight scales because those two types of
 equipment are very common among primary care providers, important for a range of
 basic diagnostic health services, and relatively attainable compared to more expensive
-accessible imaging equipment. 295 Many people with disabilities are unable to receive
+accessible imaging equipment. {% fn 299 %} Many people with disabilities are unable to receive
 even the most basic health care services because of inaccessible examination tables
 and weight scales. In view of demands on provider entities, particularly small practices
 and rural facilities, the Department will not require public entities to obtain accessible
@@ -11222,7 +11222,7 @@ individually assess the preferences and needs of people with disabilities and re
 informed consent before using an alternative option. The Department declines to
 require entities to individually assess the preferences and needs of people with
 disabilities and receive informed consent before using alternative designs, products, or
-technologies. This provision is modeled on existing language in the ADA Standards. 296
+technologies. This provision is modeled on existing language in the ADA Standards. {% fn 300 %}
 Adopting the approach that commenters proposed would create inconsistency between
 subpart I of this part and other portions of the Department’s title II regulation, 297 which
 does not include the requirements for equivalent facilitation that commenters suggested.
