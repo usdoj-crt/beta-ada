@@ -10310,12 +10310,12 @@ H.
 
 ## Title II Regulations; Accessible Medical Diagnostic Equipment and Section-by-Section Analysis
 
-APPENDIX E TO PART 35—GUIDANCE TO REVISIONS TO ADA TITLE II REGULATION ON ACCESSIBILITY OF MEDICAL DIAGNOSTIC EQUIPMENT OF STATE AND LOCAL GOVERNMENT ENTITIES
+**APPENDIX E TO PART 35—GUIDANCE TO REVISIONS TO ADA TITLE II REGULATION ON ACCESSIBILITY OF MEDICAL DIAGNOSTIC EQUIPMENT OF STATE AND LOCAL GOVERNMENT ENTITIES**
 
 NOTE: This appendix contains guidance providing a section-by-section analysis of the
 revisions to this part published on August 9, 2024.
 
-Section-by-Section Analysis and Response to Public Comments
+### Section-by-Section Analysis and Response to Public Comments
 
 This appendix provides a detailed description of the Department’s changes to this part
 (the title II regulation), the reasoning behind those changes, and responses to
@@ -10338,8 +10338,7 @@ MDE Standards, as “[e]quipment used in, or in conjunction with, medical settin
 health care providers for diagnostic purposes.” This definition includes the examples in
 29 U.S.C. 794f, which requires the MDE Standards to set forth the minimum technical
 criteria for medical diagnostic equipment used in (or in conjunction with) physicians’
-offices, clinics, emergency rooms, hospitals, and other medical settings, and also requires the MDE Standards to apply to equipment that includes examination tables,
-examination chairs (including chairs used for eye examinations or procedures and
+offices, clinics, emergency rooms, hospitals, and other medical settings, and also requires the MDE Standards to apply to equipment that includes examination tables, examination chairs (including chairs used for eye examinations or procedures and
 dental examinations or procedures), weight scales, mammography equipment, x-ray
 machines, and other radiological equipment commonly used for diagnostic purposes by
 health professionals. These examples are illustrative of some types of MDE but are not
@@ -10367,7 +10366,7 @@ that a specific piece of equipment used in the provision of health care services
 programs, or activities in home or other settings complies with the MDE Standards
 would depend on the particular factual circumstances in question.
 
-“Standards for Accessible Medical Diagnostic Equipment”
+**“Standards for Accessible Medical Diagnostic Equipment”**
 
 The Department is defining the term “Standards for Accessible Medical Diagnostic
 Equipment” in accordance with the standards promulgated by the Access Board on
@@ -10418,12 +10417,12 @@ Department consider more specifically the needs of individuals with nonmobility
 disabilities, people with respiratory disabilities, people who are blind or have other
 sensory disabilities, higher weight people, and people with intellectual disabilities. The
 MDE Standards account for the needs of individuals with nonmobility disabilities to
-some extent, 266 and any new standards to account for additional disabilities or factors
+some extent, {% fn 270 %} and any new standards to account for additional disabilities or factors
 that the Access Board did not incorporate into the MDE Standards should be developed by the Access Board, which has authority to promulgate such standards under section 510. The Department notes that the Access Board received comments recommending
 that the MDE Standards address “individuals with autism, Alzheimer’s, sensory
 disabilities, cognitive disabilities, and bariatric patients,” and noted that while it could not
 accommodate those comments in this round of rulemaking, it committed to
-“address[ing] other barriers in future updates to the MDE Standards.” 267 Therefore,
+“address[ing] other barriers in future updates to the MDE Standards.” {% fn 271 %} Therefore,
 while the Department appreciates commenters’ viewpoints, it declines to update this
 part to account for additional disabilities or factors at this time.
 
@@ -10467,7 +10466,7 @@ health care services that use medical equipment, whether that equipment is used 
 diagnostic purposes or not. The Department clarifies that public entities are already
 obligated to ensure that their services, programs, and activities do not exclude or
 discriminate against individuals with disabilities and are readily accessible to and usable
-by individuals with disabilities. 268 This obligation encompasses the provision of health
+by individuals with disabilities. {% fn 272 %} This obligation encompasses the provision of health
 care services by public entities, whether those services use MDE or not.
 
 ### Subpart I-Accessibility of Medical Diagnostic Equipment
