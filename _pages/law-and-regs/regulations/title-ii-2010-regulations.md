@@ -325,10 +325,11 @@ Administrative practice and procedure, Buildings and facilities, Civil rights, C
 ## Title II Regulations Revised Final Title II Regulation with Integrated Text
 
 <div class="usa-summary-box related-content-container border-0 padding-2 bg-primary-lighter">
-<p>NOTE: These provisions update the relevant portions of the title II regulation to incorporate changes made to the regulatory text through June 24, 2024. These modifications stem from the Pool Extension Final Rule (77 FR 30174, published May 21, 2012),  the ADA Amendments Act Final Rule (81 FR 53204, published Aug. 11, 2016), and the Title II Web and Mobile Accessibility Final Rule (89 FR 31320, published April 24, 2024). All section headings and changes are noted in bold.</p>
+<p>NOTE: These provisions update the relevant portions of the title II regulation to incorporate changes made to the regulatory text through June 24, 2024. These modifications stem from the Pool Extension Final Rule (77 FR 30174, published May 21, 2012),  the ADA Amendments Act Final Rule (81 FR 53204, published Aug. 11, 2016), and the Title II Web and Mobile Accessibility Final Rule (89 FR 31320, published April 24, 2024) and the Title II Accessibility of Medical Diagnostic Equipment (89 FR 65180, published
+Aug. 9, 2024). All section headings and changes are noted in bold.</p>
 </div>
 
-**Part 35 Nondiscrimination on the Basis of Disability in State and Local Government Services <br /> (as amended by the final rule published on April 24, 2024)**
+**Part 35 Nondiscrimination on the Basis of Disability in State and Local Government Services <br /> (as amended by the final rule published on August 9, 2024)**
 
 **Authority: 5 U.S.C. 301; 28 U.S.C. 509, 510; 42 U.S.C. 12134, 12131, and 12205a.**
 
@@ -1485,7 +1486,7 @@ of medical diagnostic equipment (“MDE”), or otherwise be subjected to
 discrimination by any public entity because the public entity’s MDE is not readily
 accessible to or usable by persons with disabilities.
 
-§ 35.211 Newly purchased, leased, or otherwise acquired medical diagnostic equipment.
+### § 35.211 Newly purchased, leased, or otherwise acquired medical diagnostic equipment.
 
 (a) Requirements for all newly purchased, leased, or otherwise acquired medical
 diagnostic equipment. All MDE that public entities purchase, lease (including via
@@ -1552,7 +1553,7 @@ purpose. This paragraph (f) does not excuse compliance with other technical
 requirements where compliance with those requirements does not prevent the
 use of the equipment for its diagnostic purpose.
 
-§ 35.212 Existing medical diagnostic equipment.
+### § 35.212 Existing medical diagnostic equipment.
 
 (a) Accessibility. A public entity shall operate each service, program, or activity
 offered through or with the use of MDE so that the service, program, or activity, in
@@ -1594,7 +1595,7 @@ methods for meeting the requirements of this section, a public entity shall give
 priority to those methods that offer services, programs, and activities to qualified
 individuals with disabilities in the most integrated setting appropriate.
 
-§ 35.213 Qualified staff.
+### § 35.213 Qualified staff.
 
 Public entities must ensure their staff are able to successfully operate accessible
 MDE, assist with transfers and positioning of individuals with disabilities, and
@@ -10324,9 +10325,9 @@ Department made changes to subpart A of this part and added subpart I to this pa
 The section-by-section analysis addresses the changes in the order they appear in the
 title II regulation.
 
-Subpart A-General
+### Subpart A-General
 
-Section 35.104 Definitions.
+#### Section 35.104 Definitions.
 
 The Department is revising § 35.104 to add definitions for the terms “medical diagnostic
 equipment” and “Standards for Accessible Medical Diagnostic Equipment.”
@@ -10474,7 +10475,7 @@ care services by public entities, whether those services use MDE or not.
 The Department is creating a new subpart in its title II regulation. Subpart I of this part
 addresses the accessibility of public entities’ medical diagnostic equipment.
 
-Section 35.210 Requirements for Medical Diagnostic Equipment.
+#### Section 35.210 Requirements for Medical Diagnostic Equipment.
 
 This section provides general accessibility requirements for services, programs, and
 activities that public entities provide through or with the use of MDE. Public entities
@@ -10549,8 +10550,7 @@ to obtain accessible MDE when it purchases, leases, or otherwise acquires MDE af
 the final rule’s effective date. However, a public entity may choose to acquire additional
 accessible MDE even after it satisfies the scoping requirements.
 
-Section 35.211(a) Requirements for Newly Purchased, Leased, or Otherwise
-Acquired Medical Diagnostic Equipment
+#### Section 35.211(a) Requirements for Newly Purchased, Leased, or Otherwise Acquired Medical Diagnostic Equipment
 
 Paragraph (a) adopts the January 9, 2017, version of the Access Board’s MDE
 Standards that was codified on July 1, 2017 (with the exception of the Access Board’s
@@ -10643,7 +10643,7 @@ limited to, acquisitions via donations or loans, as well as both temporary and p
 acquisitions. This intent is reflected by the term “otherwise acquire” in the regulatory
 text.
 
-Section 35.211(b) Scoping
+#### Section 35.211(b) Scoping
 
 Section 35.211(b) establishes scoping requirements for accessible MDE. Accessibility
 standards generally contain scoping requirements (how many accessible features are
@@ -11067,7 +11067,7 @@ by patients with disabilities. For example, it could offer home visits that prov
 access to care or accessible transportation to patients with disabilities at no cost to
 them within a reasonable timeframe.
 
-Section 35.211(c) Requirements for Examination Tables and Weight Scales
+#### Section 35.211(c) Requirements for Examination Tables and Weight Scales
 
 Section 35.211(c) sets forth specific requirements for examination tables and weight
 scales. Paragraph (c)(1) requires public entities that use at least one examination table
@@ -11197,7 +11197,7 @@ are acquired in accordance with § 35.211(a), and they will be required to comp
 way to carry out the requirements set forth in §§ 35.210 and 35.212 may be to acquire
 multiple types of accessible MDE, not only examination tables and weight scales.
 
-Section 35.211(d) Equivalent Facilitation
+#### Section 35.211(d) Equivalent Facilitation
 
 Paragraph (d) of § 35.211 specifies that a public entity may use designs, products, or
 technologies as alternatives to those prescribed by the MDE Standards, for example, to
@@ -11224,7 +11224,7 @@ require entities to individually assess the preferences and needs of people with
 disabilities and receive informed consent before using alternative designs, products, or
 technologies. This provision is modeled on existing language in the ADA Standards. {% fn 300 %}
 Adopting the approach that commenters proposed would create inconsistency between
-subpart I of this part and other portions of the Department’s title II regulation, 297 which
+subpart I of this part and other portions of the Department’s title II regulation, {% fn 301 %} which
 does not include the requirements for equivalent facilitation that commenters suggested.
 Further, requiring entities to engage in that sort of assessment with current or
 prospective patients could create an unworkable framework for public entities that had
@@ -11232,7 +11232,7 @@ already obtained products that afforded equivalent or greater accessibility than
 Standards. However, nothing in this part requires patients to receive diagnostic health
 care services that they would prefer not to receive.
 
-Section 35.211(e) Fundamental Alteration and Undue Burdens
+#### Section 35.211(e) Fundamental Alteration and Undue Burdens
 
 Paragraph (e) of § 35.211 addresses the fundamental alteration and undue financial
 and administrative burdens limitations. While subpart I of this part generally requires
@@ -11268,7 +11268,7 @@ entities.
 
 The Department acknowledges commenters’ concerns that the fundamental alteration
 and undue burdens limitations will undermine access for people with disabilities.
-However, these limitations fall within the well-established title II framework, 298 and it is
+However, these limitations fall within the well-established title II framework, {% fn 302 %} and it is
 important for these limitations on obligations to remain consistent with part 35 as a
 whole. These limitations also require a more individualized inquiry than the categorical
 exceptions that some commenters suggested and will therefore strike a better balance
@@ -11278,19 +11278,19 @@ paragraphs, if an action would result in a fundamental alteration or undue burde
 public entity must still take any other action that would ensure that individuals with
 disabilities receive the benefits or services the public entity provides.
 Because fundamental alteration and undue burdens are longstanding limitations under
-the ADA, 299 members of the public and public entities should already be familiar with
+the ADA, {% fn 303 %} members of the public and public entities should already be familiar with
 these limitations in other contexts. The Department has provided guidance that
 addresses the fundamental alteration and undue burdens limitations, and will consider
-providing more in the future. 300 The Department’s existing guidance documents provide details on fundamental alteration and undue burdens determinations, including
+providing more in the future. {% fn 304 %} The Department’s existing guidance documents provide details on fundamental alteration and undue burdens determinations, including
 language explaining that such determinations should consider all resources available for
-use in the funding and operation of the service, program, or activity. 301 In the
+use in the funding and operation of the service, program, or activity. {% fn 305 %} In the
 Department’s view, this guidance will help public entities use the fundamental alteration
 and undue burdens limitations appropriately.
 
-Section 35.211(f) Diagnostically Required Structural or Operational Characteristics
+#### Section 35.211(f) Diagnostically Required Structural or Operational Characteristics
 
 Paragraph (f) of § 35.211 incorporates what M201.2 of the Access Board’s MDE
-Standards refers to as a General Exception. 302 The paragraph states that, where a
+Standards refers to as a General Exception. {% fn 306 %} The paragraph states that, where a
 public entity can demonstrate that compliance with the MDE Standards would alter
 diagnostically required structural or operational characteristics of the equipment,
 preventing the use of the equipment for its intended diagnostic purpose, compliance
@@ -11361,15 +11361,15 @@ independence of people with disabilities. While the Department encourages public
 entities to do so to the extent feasible, the Department believes that the obligations set
 forth in the regulatory text in §§ 35.210 and 35.212, when read together with the ADA
 and the general prohibition on discrimination in its implementing regulation, are
-sufficient to prevent discrimination without further changes to this section. 303
+sufficient to prevent discrimination without further changes to this section. {% fn 307 %}
 
-Section 35.212 Existing Medical Diagnostic Equipment.
+#### Section 35.212 Existing Medical Diagnostic Equipment.
 
 In addition to the requirements for newly purchased, leased, or otherwise acquired
 MDE, § 35.212 requires that public entities address access barriers resulting from a lack
 of accessible MDE in their existing inventory of equipment. Here subpart I of this part
 adopts an approach analogous to the concept of program accessibility in the existing
-regulation implementing title II of the ADA. 304 Under this approach, public entities may
+regulation implementing title II of the ADA. {% fn 308 %} Under this approach, public entities may
 make their services, programs, and activities available to individuals with disabilities,
 without extensive retrofitting of their existing buildings and facilities that predate the
 regulation, by offering access to those programs through alternative methods. The
@@ -11434,7 +11434,7 @@ mobility disability schedules an appointment, the accessible MDE can be reserved
 the patient’s visit. In some cases, a public entity may be able to make its services
 readily accessible to and usable by individuals with disabilities by using a patient lift or a
 trained lift team, especially in instances in which a patient cannot or chooses not to
-independently transfer to the MDE in question. 305
+independently transfer to the MDE in question. {% fn 309 %}
 
 If a public entity carries out its obligation under § 35.212(a) to make a service, program,
 or activity readily accessible to and usable by people with disabilities by purchasing,
@@ -11458,10 +11458,10 @@ distance or in terms of travel time, in order to violate § 35.212(a).
 The Department acknowledges these concerns and the commenters’ desire for more
 clearly defined parameters, but notes that the concept of services, programs, and
 activities being readily accessible to and usable by individuals with disabilities is a
-longstanding requirement under title II of the ADA in other contexts. 306 Therefore,
+longstanding requirement under title II of the ADA in other contexts. {% fn 310 %} Therefore,
 members of the public and State and local governments should already be familiar with
 this obligation. The Department has also provided guidance that addresses this
-concept, 307 and will consider providing more in the future. The Department operates a
+concept, {% fn 311 %} and will consider providing more in the future. The Department operates a
 toll-free ADA Information Line that the public can call for assistance understanding the
 requirements of the ADA. The question of whether a particular service, program, or
 activity, in its entirety, is readily accessible to and usable by individuals with disabilities
@@ -11471,7 +11471,7 @@ Some commenters recommended that the Department require public entities to engag
 in an interactive process with patients and consider patients’ preferences and needs in
 determining how to carry out their program access obligations. An “interactive process”
 is a term of art that applies in the ADA title I context but not the ADA title II context, and
-the Department declines to require such a process in subpart I of this part. 308 However,
+the Department declines to require such a process in subpart I of this part. {% fn 312 %} However,
 it may often be helpful or necessary for public entities to consider patients’ preferences
 and needs in order to ensure that the entity’s services, programs, and activities, in their
 entirety, are readily accessible to and usable by individuals with disabilities. For
@@ -11500,7 +11500,7 @@ absent an applicable limitation.
 Finally, one commenter recommended that the Department add a requirement from the
 ADA title III regulations that “a public accommodation shall remove architectural barriers
 in existing facilities where such removal is readily achievable, i.e., easily accomplishable
-and able to be carried out without much difficulty or expense.” 309 The readily achievable
+and able to be carried out without much difficulty or expense.” {% fn 313 %} The readily achievable
 barrier removal standard applies to architectural barriers, not barriers in equipment, and
 importing requirements from the ADA title III regulation into subpart I of this part could
 create confusion and inconsistency with the other obligations in subpart I and with the
@@ -11510,7 +11510,7 @@ removal, such as adding raised markings to elevator buttons or providing paper c
 an inaccessible water fountain. The Department therefore declines to import the readily
 achievable barrier removal standard into the final rule.
 
-Section 35.213 Qualified Staff.
+#### Section 35.213 Qualified Staff.
 
 Section 35.213 requires public entities to ensure that their staff members are able to
 successfully operate accessible MDE, assist with transfers and positioning of individuals
@@ -11546,7 +11546,7 @@ appropriate for patients with disabilities. The Department believes that the cur
 language of the general nondiscrimination obligation set forth in § 35.210 and the
 program access obligation set forth in § 35.212, in conjunction with the other provisions
 in the title II regulation that require equal access and maintenance of accessible
-features, 310 is sufficient to address the issues raised by the commenter. The Department
+features, {% fn 314 %} is sufficient to address the issues raised by the commenter. The Department
 also notes that § 35.213 pertains to public entities’ staff but is not limited to particular
 types of staff. As with the other topics for training discussed in the section-by-section
 analysis of § 35.213, public entities may find that providing their staff with the training
@@ -11560,8 +11560,8 @@ entities to ensure that their staff members are able to assist with transfers wo
 discrimination against employees with disabilities who are not physically able to assist
 with transfers. The Department notes that subpart I of this part does not supersede or
 alter title I of the ADA or occupational safety standards, or redefine the essential
-functions of any particular employee’s job. 311 Qualified employees with disabilities
-remain entitled to reasonable accommodations as specified in existing law. 312 However,
+functions of any particular employee’s job. {% fn 315 %} Qualified employees with disabilities
+remain entitled to reasonable accommodations as specified in existing law. {% fn 316 %} However,
 an individual employee’s need for accommodations does not diminish the rights of other
 individuals with disabilities to have equal access to the services, programs, and
 activities provided by a public entity.
@@ -11606,7 +11606,7 @@ assistance, training, and financial resources. Some commenters also suggested th
 the Department collaborate with manufacturers to provide instructions on how to use
 accessible MDE or encourage covered entities to request instructions during
 procurement. The Department notes that it has already provided some technical
-assistance. 313 If public entities would find it helpful to seek additional information from
+assistance. {% fn 317 %} If public entities would find it helpful to seek additional information from
 MDE manufacturers or vendors, the Department encourages entities to do so. As noted
 in the discussion of § 35.211(c), the Department does not currently operate a grant
 program to assist public entities in complying with the ADA. The Department will,
@@ -11614,7 +11614,7 @@ however, continue to consider what additional guidance, technical assistance, or
 training it can provide that will assist regulated entities in complying with their
 obligations under subpart I of this part.
 
-Public Comments on Other Issues in Response to NPRM
+#### Public Comments on Other Issues in Response to NPRM
 
 The Department received comments on a variety of other issues in response to the
 NPRM. Several commenters recommended that the Department prescribe specific
@@ -11648,7 +11648,7 @@ to involve people with disabilities in decisions involving the creation and impl
 of disability-related rules and policies. Indeed, the technical standards that the
 Department is adopting were created by the Access Board, a coordinating body that
 includes 13 members of the public, most of whom are required to have a disability in
-order to be appointed to the Access Board. 314 The Department has also carefully
+order to be appointed to the Access Board. {% fn 318 %} The Department has also carefully
 considered comments on the NPRM from many members of the public who self-
 identified as having a disability. In addition, individuals with disabilities can file a
 complaint with the Department or file a private lawsuit if a public entity fails to carry out
@@ -11660,10 +11660,10 @@ The Department also received a comment suggesting that it regularly review and
 update accessibility standards to reflect technological advancements and the evolving
 needs of individuals with disabilities. Executive Order 13563 already requires the
 Department to review its regulations periodically to determine whether they should be
-modified, streamlined, expanded, or repealed. 315   Further, section 510 of the
+modified, streamlined, expanded, or repealed. {% fn 319 %}   Further, section 510 of the
 Rehabilitation Act requires the Access Board, in consultation with the Food and Drug
 Administration, to periodically review and, as appropriate, amend the MDE
-standards. 316 Therefore, a separate mechanism for reviewing the effectiveness of this part is not necessary.
+standards.{% fn 320 %} Therefore, a separate mechanism for reviewing the effectiveness of this part is not necessary.
 
 Finally, the Department received a few comments asking that it make the MDE
 Standards enforceable against title III entities. As noted in section II.A of the preamble
@@ -11710,7 +11710,7 @@ The Supreme Court in Tennessee v. Lane, 541 U.S. 509, 5330534 (2004), held that 
 W3C, *Introduction to Understanding WCAG*, [https://www.w3.org/WAI/WCAG21/Understanding/intro](https://www.w3.org/WAI/WCAG21/Understanding/intro), [https://perma.cc/XB3Y-QKVU](https://perma.cc/XB3Y-QKVU) (June 20, 2023).
 {% endfnbody %}
 {% fnbody 11 %}
-7 See W3C, *Understanding Techniques for WCAG Success Criteria*,
+See W3C, *Understanding Techniques for WCAG Success Criteria*,
 [https://www.w3.org/​WAI/​WCAG21/​Understanding/​understanding-techniques](https://perma.cc/​AMT4-XAAL)
 (June 20, 2023).
 {% endfnbody %}
@@ -12346,7 +12346,9 @@ The Department does not use the term “third-party” to describe mobile apps i
 {% fnbody 150 %}
 *See* § 35.130(b)(1) and (3).
 {% endfnbody %}
+{% endfootnotes %}
 
+{% footnotes %}
 {% fnbody 151 %}
 For example, under title II, a State is required to make sure that the services, programs, or activities offered by a State park inn that is operated by a private entity under contract with the State comply with title II. *See* 56 FR 35694, 35696 (July 26, 1991).
 {% endfnbody %}
@@ -12820,66 +12822,115 @@ Memorandum for Federal Agency Civil Rights Directors and General Counsels, from 
 Accessibility Evaluation Tools List,* [https://www.w3.org/WAI/ER/tools/](https://www.w3.org/WAI/ER/tools/), [https://perma.cc/Q4ME-Q3VW](https://perma.cc/Q4ME-Q3VW) (last visited Feb. 12, 2024).
 {% endfnbody %}
 
-268 Although HHS’s final rule addressing the accessibility of medical diagnostic equipment under section 504
+{% fnbody 268 %} 
+Although HHS’s final rule addressing the accessibility of medical diagnostic equipment under section 504
 contains a different citation in its definition of the term Standards for Accessible Medical Diagnostic Equipment, see 89 FR 40184, that difference is the result of citation formatting conventions of the Office of the Federal Register. There is no substantive difference between the definition of the term Standards for Accessible Medical Diagnostic Equipment adopted in HHS’s final rule and the definition of that term adopted in DOJ’s final rule.
+{% endfnbody %}
 
-269 36 CFR part 1195, appendix, section M301.2.2 (stating that M301.2.1 and M302.2.1 would cease to have effect
+{% fnbody 269 %}
+36 CFR part 1195, appendix, section M301.2.2 (stating that M301.2.1 and M302.2.1 would cease to have effect
 on January 10, 2022).
+{% endfnbody %}
 
-270 See, e.g., 36 CFR part 1195, appendix (revised as of July 1, 2017) (discussing, in M306, requirements for
+{% fnbody 270 %}
+*See*, e.g., 36 CFR part 1195, appendix (revised as of July 1, 2017) (discussing, in M306, requirements for
 communication necessary for performance of a diagnostic procedure).
+{% endfnbody %}
 
-271 Id. at 2812.
+{% fnbody 271 %}
+Id. at 2812.
+{% endfnbody %}
 
-272 See, e.g., §§ 35.130 and 35.150.
+{% fnbody 272 %}
+*See*, e.g., §§ 35.130 and 35.150.
+{% endfnbody %}
 
-273 See id. § 35.130(b)(7).
+{% fnbody 273 %}
+*See* id. § 35.130(b)(7).
+{% endfnbody %}
 
-274 See U.S. Dep’t of Just., Civ. Rts. Div., Access to Medical Care for Individuals with Mobility Disabilities (June 26, 2020), https://www.ada.gov/resources/medical-care-mobility/ [https://perma.cc/UH8Y-NZWL].
+{% fnbody 274 %}
+See U.S. Dep’t of Just., Civ. Rts. Div., Access to Medical Care for Individuals with Mobility Disabilities (June 26, 2020), https://www.ada.gov/resources/medical-care-mobility/ [https://perma.cc/UH8Y-NZWL].
+{% endfnbody %}
 
-275 89 FR 2186.
+{% fnbody 275 %}
+89 FR 2186.
+{% endfnbody %}
 
-276 Id.
+{% fnbody 276 %}
+Id.
+{% endfnbody %}
 
-277 See, e.g., Settlement Agreement Between the United States and Charlotte Radiology, P.A. (Aug. 13, 2018),
+{% fnbody 277 %}
+See, e.g., Settlement Agreement Between the United States and Charlotte Radiology, P.A. (Aug. 13, 2018),
 https://archive.ada.gov/​charlotte_​radiology_​sa.html [https://perma.cc/​ZC5W-LV3M]; Settlement Agreement
 Between the United States and Tufts Medical Center (Feb. 28, 2020),
 https://archive.ada.gov/​tufts_​medical_​ctr_​sa.html [https://perma.cc/​YQG3-ZDZC].
+{% endfnbody %}
 
-278 See generally § 35.151.
+{% fnbody 278 %}
+See generally § 35.151.
+{% endfnbody %}
 
-279 See 36 CFR part 1191, appendix B, section 213.3.1.
+{% fnbody 279 %}
+See 36 CFR part 1191, appendix B, section 213.3.1.
+{% endfnbody %}
 
-280 36 CFR part 1195, appendix, section M201 (revised as of July 1, 2017).
+{% fnbody 280 %}
+36 CFR part 1195, appendix, section M201 (revised as of July 1, 2017).
+{% endfnbody %}
 
-281 See 36 CFR part 1191, appendix B, sections 208.2.2, 223.2.1, 223.2.2.
+{% fnbody 281 %}
+See 36 CFR part 1191, appendix B, sections 208.2.2, 223.2.1, 223.2.2.
+{% endfnbody %}
 
-282 See § 35.151(h); 36 CFR part 1191, appendix B, section 223.1.
+{% fnbody 282 %}
+See § 35.151(h); 36 CFR part 1191, appendix B, section 223.1.
+{% endfnbody %}
 
-283 See 36 CFR part 1191, appendix B, section 223.1.1.
+{% fnbody 283 %}
+See 36 CFR part 1191, appendix B, section 223.1.1.
+{% endfnbody %}
 
-284 See id. section 223.2.1.
+{% fnbody 284 %}
+See id. section 223.2.1.
+{% endfnbody %}
 
-285 See id. section 223.2.2.
+{% fnbody 285 %}
+See id. section 223.2.2.
+{% endfnbody %}
 
-286 See id. section 208.2.2.
+{% fnbody 286 %}
+See id. section 208.2.2.
+{% endfnbody %}
 
-287 See 49 CFR part 37, subpart D.
+{% fnbody 287 %}
+See 49 CFR part 37, subpart D.
+{% endfnbody %}
 
-288 See FRIA at 69–70 (considering the costs of increasing the scoping requirements in § 35.211(b)(1) and (2) to 20
+{% fnbody 288 %}
+See FRIA at 69–70 (considering the costs of increasing the scoping requirements in § 35.211(b)(1) and (2) to 20
 percent and 40 percent respectively, as well as the costs of requiring that 100 percent of newly acquired MDE meet
 the MDE Standards and concluding that those alternative potential scoping requirements could more than double the
 annualized costs of the final rule).
+{% endfnbody %}
 
-289 ADA Nat’l Network, Accessible Medical Examination Tables and Chairs (2017),
+{% fnbody 289 %}
+ADA Nat’l Network, Accessible Medical Examination Tables and Chairs (2017),
 https://adata.org/factsheet/accessible-medical-examination-tables-and-chairs [https://perma.cc/Y6MR-9QGL].
+{% endfnbody %}
 
-290 See 49 CFR part 37, subpart D.
+{% fnbody 290 %}
+See 49 CFR part 37, subpart D.
+{% endfnbody %}
 
-291 See U.S. Preventive Services Task Force, About the USPSTF,
+{% fnbody 291 %}
+See U.S. Preventive Services Task Force, About the USPSTF,
 https://www.uspreventiveservicestaskforce.org/uspstf/about-uspstf [https://perma.cc/FTL2-TLXX].
+{% endfnbody %}
 
-292 That is, numbers that end in a digit less than five are rounded down to the nearest whole number, and numbers
+{% fnbody 292 %}
+That is, numbers that end in a digit less than five are rounded down to the nearest whole number, and numbers
 that end in a digit greater than or equal to five are rounded up to the nearest whole number. For example, if a
 program that did not specialize in treating conditions that affect mobility used four units of MDE, then it would be
 required to have at least one unit of accessible MDE because, even though 0.4 units (10 percent of four) would be
@@ -12888,19 +12939,31 @@ accessible MDE. If there were 12 units of MDE in use, the program would be requi
 accessible MDE because 1.2 (10 percent of 12) is rounded down to one. If there were 15 units of MDE in use, the
 program would be required to have two units of accessible MDE because 1.5 (10 percent of 15) is rounded up to
 two.
+{% endfnbody %}
 
-293 See § 35.151(h). A similar dispersion requirement was not necessary for medical care facilities that specialize in the treatment of conditions that affect mobility because all patient sleeping rooms in those facilities are required to be accessible. See 36 CFR part 1191, appendix B, section 223.2.2.
+{% fnbody 293 %}
+See § 35.151(h). A similar dispersion requirement was not necessary for medical care facilities that specialize in the treatment of conditions that affect mobility because all patient sleeping rooms in those facilities are required to be accessible. See 36 CFR part 1191, appendix B, section 223.2.2.
+{% endfnbody %}
 
-294 See, e.g., 36 CFR part 1191, appendix B, sections 221.2.3, 224.5, 225.3.1, 235.2.1. According to these sections,
+{% fnbody 294 %}
+See, e.g., 36 CFR part 1191, appendix B, sections 221.2.3, 224.5, 225.3.1, 235.2.1. According to these sections,
 when the required number of accessible elements has been provided, further dispersion is not required.
+{% endfnbody %}
 
-295 See §§ 35.130(b)(1)(ii) and 35.150(a).
+{% fnbody 295 %}
+See §§ 35.130(b)(1)(ii) and 35.150(a).
+{% endfnbody %}
 
-296 36 CFR part 1195 (revised as of July 1, 2017).
+{% fnbody 296 %}
+36 CFR part 1195 (revised as of July 1, 2017).
+{% endfnbody %}
 
-297 See, e.g., §§ 35.130(b)(1)(ii) and (f) and 35.150(a).
+{% fnbody 297 %}
+See, e.g., §§ 35.130(b)(1)(ii) and (f) and 35.150(a).
+{% endfnbody %}
 
-298 See C. Brooke Steele et al., Prevalence of Cancer Screening Among Adults With Disabilities, United States, 2013,
+{% fnbody 298 %}
+See C. Brooke Steele et al., Prevalence of Cancer Screening Among Adults With Disabilities, United States, 2013,
 14 Preventing Chronic Disease (Jan. 2017), https://www.cdc.gov/pcd/issues/2017/16_0312.htm
 [https://perma.cc/T36Y-NCJM] (finding disparate access to cancer screenings); Gloria Krahn, Persons with
 Disabilities as an Unrecognized Health Disparity Population, 105 Amer. J. Pub. Health 198 (Apr. 2015),
@@ -12919,8 +12982,10 @@ https://pubmed.ncbi.nlm.nih.gov/30244847/ [https://perma.cc/2LSR-PEGJ]; Sarah Ba
 Physical and Communication-Related Barriers to Health Care Related Services Among Florida Residents: A Brief
 Report, 9 Disability &amp; Health J. 552 (July 2016), https://pubmed.ncbi.nlm.nih.gov/27101882/
 [https://perma.cc/YH6F-22UW] (finding barriers to access to care).
+{% endfnbody %}
 
-299 See Access Board, Access Board Review of MDE Low Height and MSRP (May 23, 2023),
+{% fnbody 299 %}
+See Access Board, Access Board Review of MDE Low Height and MSRP (May 23, 2023),
 https://www.regulations.gov/document/ATBCB-2023-0001-0002 [https://perma.cc/WU3U-DP65] (listing available
 examination table models that meet the height requirements of the MDE Standards and their retail prices). On the
 affordability of accessible examination tables and weight scales compared to imaging equipment, see 82 FR 2829
@@ -12928,54 +12993,97 @@ affordability of accessible examination tables and weight scales compared to ima
 expensive imaging equipment” compared to other accessible MDE). See also Block Imaging, 2024 Mammography
 Price Guide, https://www.blockimaging.com/bid/95356/digital-mammography-equipment-price-cost-info
 [https://perma.cc/2STC-34VW].
+{% endfnbody %}
 
-300 28 CFR part 36, appendix D, at 1000 (2022) (1991 ADA Standards); 36 CFR part 1191, appendix B, at 329
+{% fnbody 300 %}
+28 CFR part 36, appendix D, at 1000 (2022) (1991 ADA Standards); 36 CFR part 1191, appendix B, at 329
 (2022) (2010 ADA Standards).
+{% endfnbody %}
 
-301 See, e.g., § 35.151(c) (allowing or requiring public entities to comply with the 1991 ADA Standards or 2010 ADA
+{% fnbody 301 %}
+See, e.g., § 35.151(c) (allowing or requiring public entities to comply with the 1991 ADA Standards or 2010 ADA
 Standards).
+{% endfnbody %}
 
-302 See appendix B to this part.
+{% fnbody 302 %}
+See appendix B to this part.
+{% endfnbody %}
 
-303 See id. §§ 35.130(b)(7), 35.150(a)(3), and 35.164.
+{% fnbody 303 %}
+See id. §§ 35.130(b)(7), 35.150(a)(3), and 35.164.
+{% endfnbody %}
 
-304 See, e.g., U.S. Dep’t of Just., ADA Update: A Primer for State and Local Governments, ADA.gov (Feb. 28,
+{% fnbody 304 %}
+See, e.g., U.S. Dep’t of Just., ADA Update: A Primer for State and Local Governments, ADA.gov (Feb. 28,
 2020), https://www.ada.gov/resources/title-ii-primer/ [https://perma.cc/ZV66-EFWU].
+{% endfnbody %}
 
-305 Id.
+{% fnbody 305 %}
+Id.
+{% endfnbody %}
 
-306 36 CFR part 1195, appendix, section M201.2 (revised as of July 1, 2017).
+{% fnbody 306 %}
+36 CFR part 1195, appendix, section M201.2 (revised as of July 1, 2017).
+{% endfnbody %}
 
-307 See, e.g., 42 U.S.C. 12101(a); § 35.130(b).
+{% fnbody 307 %}
+See, e.g., 42 U.S.C. 12101(a); § 35.130(b).
+{% endfnbody %}
 
-308 See § 35.150.
+{% fnbody 308 %}
+See § 35.150.
+{% endfnbody %}
 
-309 See U.S. Dep’t of Just., Civ. Rts. Div., Access to Medical Care for Individuals with Mobility Disabilities (June 26, 2020), https://www.ada.gov/resources/medical-care-mobility/ [https://perma.cc/UH8Y-NZWL].
+{% fnbody 309 %}
+See U.S. Dep’t of Just., Civ. Rts. Div., Access to Medical Care for Individuals with Mobility Disabilities (June 26, 2020), https://www.ada.gov/resources/medical-care-mobility/ [https://perma.cc/UH8Y-NZWL].
+{% endfnbody %}
 
-310 See, e.g., §§ 35.150 and 35.151.
+{% fnbody 310 %}
+See, e.g., §§ 35.150 and 35.151.
+{% endfnbody %}
 
-311 See, e.g., U.S. Dep’t of Just., Civ. Rts. Div., ADA Update: A Primer for State and Local Governments (Feb. 28,
+{% fnbody 311 %}
+See, e.g., U.S. Dep’t of Just., Civ. Rts. Div., ADA Update: A Primer for State and Local Governments (Feb. 28,
 2020), https://www.ada.gov/resources/title-ii-primer/ [https://perma.cc/ZV66-EFWU]; U.S. Dep’t of Just., Title II
 Assistance Manual: Covering State and Local Government Programs and Services,
 https://archive.ada.gov/taman2.html [https://perma.cc/6QNC-3RRA].
+{% endfnbody %}
 
-312 See 29 CFR 1630.2(o)(3).
+{% fnbody 312 %}
+See 29 CFR 1630.2(o)(3).
+{% endfnbody %}
 
-313 28 CFR 36.304(a).
+{% fnbody 313 %}
+28 CFR 36.304(a).
+{% endfnbody %}
 
-314 See, e.g., id. §§ 35.130 and 35.133.
+{% fnbody 314 %}
+See, e.g., id. §§ 35.130 and 35.133.
+{% endfnbody %}
 
-315 See 42 U.S.C. 12111–12117.
+{% fnbody 315 %}
+See 42 U.S.C. 12111–12117.
+{% endfnbody %}
 
-316 42 U.S.C. 12112(b)(5); 29 CFR 1630.9.
+{% fnbody 316 %}
+42 U.S.C. 12112(b)(5); 29 CFR 1630.9.
+{% endfnbody %}
 
-317 See, e.g., U.S. Dep’t of Just., Civ. Rts. Div., Access to Medical Care for Individuals with Mobility Disabilities
+{% fnbody 317 %}
+See, e.g., U.S. Dep’t of Just., Civ. Rts. Div., Access to Medical Care for Individuals with Mobility Disabilities
 (June 26, 2020), https://www.ada.gov/resources/medical-care-mobility/ [https://perma.cc/UH8Y-NZWL].
+{% endfnbody %}
 
-318 U.S. Access Board, About the U.S. Access Board, https://www.access-board.gov/about/ [https://perma.cc/L9N7-
+{% fnbody 318 %}
+U.S. Access Board, About the U.S. Access Board, https://www.access-board.gov/about/ [https://perma.cc/L9N7-
 56YV].
+{% endfnbody %}
 
-319 E.O. 13563, sec. 6, 3 CFR, 2011 Comp., p. 215.
+{% fnbody 319 %}
+E.O. 13563, sec. 6, 3 CFR, 2011 Comp., p. 215.
+{% endfnbody %}
 
-320 29 U.S.C. 794f(c).
+{% fnbody 320 %}
+29 U.S.C. 794f(c).
+{% endfnbody %}
 {% endfootnotes %}
