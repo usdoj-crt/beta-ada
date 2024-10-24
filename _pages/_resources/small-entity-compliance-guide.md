@@ -10,6 +10,7 @@ print: true
 tags:
   - title ii
   - technology
+  - web access
 ---
 On April 24, 2024, the Federal Register{% fn 1 %} published the Department of Justice’s (Department) final rule updating its regulations for Title II of the Americans with Disabilities Act (ADA).  The final rule has specific requirements about how to make sure that web content and mobile applications (apps) are accessible to people with disabilities.
 
