@@ -4,6 +4,8 @@ description: "A publication providing guidance on making State and local governm
 permalink: /resources/accessibility-govt-websites/
 lead: |-
     The Internet is dramatically changing the way that American government serves the public.
+
+    **The guidance on this page does not reflect requirements for state and local governments that were published in the Federal Register on April 24, 2024. <a href="https://www.ada.gov/resources/2024-03-08-web-rule/">Learn more about the new requirements</a>.**
 lang: "en"
 publish-date: 2003-06-01 00:00:00
 updated-date: 2020-02-28 00:00:00
