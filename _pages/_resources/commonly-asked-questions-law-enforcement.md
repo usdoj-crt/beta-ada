@@ -227,7 +227,7 @@ If meeting and/or interrogation rooms are provided, those areas should also be a
 {% enddetails %}
 
 {% details Q25: Where can I turn for answers to other questions about the ADA? expandable %}
-**A**: The Department of Justice's toll-free ADA Information Line answers questions and offers free publications about the ADA. The telephone numbers are: 800-514-0301 (voice) or 833-610-1264 (TTY) M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential. Publications are also available from the [ADA Website]({{'/index'| relative_url}}).
+**A**: The Department of Justice's toll-free ADA Information Line answers questions and offers free publications about the ADA. The telephone numbers are: 800-514-0301 (voice) or 833-610-1264 (TTY) M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Tu 12:30 - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential. Publications are also available from the [ADA Website]({{'/index'| relative_url}}).
 {% enddetails %}
 
 <hr>
