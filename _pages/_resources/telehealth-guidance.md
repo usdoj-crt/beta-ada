@@ -250,8 +250,8 @@ Disability Resources
 - Guidance for understanding effective communication obligations for public entities and places of public accommodation, [https://www.ada.gov/effective-comm.pdf](https://archive.ada.gov/effective-comm.pdf)
 - For information and technical assistance about the ADA, contact the ADA
 Information Line at 800-514-0301 (voice) and 833-610-1264 (TTY). The ADA line
-is open on Monday, Tuesday, Wednesday, and Friday from 9:30 am until 12:00
-pm ET and again from 3:00 pm until 5:30 pm ET and on Thursday from 2:30 pm
+is open on Monday, Wednesday, and Friday from 9:30 am until 12:00
+pm ET and again from 3:00 pm until 5:30 pm ET, Tuesday from 12:30 until 5:30 pm ET, and on Thursday from 2:30 pm
 until 5:30 pm ET. Calls are confidential.
 
 Limited English Proficiency (LEP) Resources
