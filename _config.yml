@@ -34,13 +34,6 @@ contact:
   time2: "Tu: 12:30pm - 5:30pm ET, Th: 2:30pm - 5:30pm ET"
 
 # For alerts that aren't tied to a site.categories.notice
-external_notices:
-  - text:
-      en: Election season is here
-    link_text:
-      en: Review Guidance and Resources relating to voters with disabilities
-    link_href:
-      en: /resources/protecting-voter-rights
 
 
 # Display beta disclamers
