@@ -1414,64 +1414,64 @@ A State shall not be immune under the eleventh amendment to the Constitution of 
 
 ### § 35.200 Requirements for web and mobile accessibility.
 
-**(a) *General.* A public entity shall ensure that the following are readily accessible to and usable by individuals with disabilities:**
+(a) *General.* A public entity shall ensure that the following are readily accessible to and usable by individuals with disabilities:
 
-**(1) Web content that a public entity provides or makes available, directly or through contractual, licensing, or other arrangements; and**
+(1) Web content that a public entity provides or makes available, directly or through contractual, licensing, or other arrangements; and
 
-**(2) Mobile apps that a public entity provides or makes available, directly or
-through contractual, licensing, or other arrangements.**
+(2) Mobile apps that a public entity provides or makes available, directly or
+through contractual, licensing, or other arrangements.
 
-**(b) *Requirements*.**
+(b) *Requirements*.
 
-**(1) Beginning April 24, 2026, a public entity, other than a special district government, with a total population of 50,000 or more shall ensure that the web content and mobile apps that the public entity provides or makes available, directly or through contractual, licensing, or other arrangements, comply with Level A and Level AA success criteria and conformance requirements specified in WCAG 2.1, unless the public entity can demonstrate that compliance with this section would result in a fundamental alteration in the nature of a service, program, or activity or in undue financial and administrative burdens.**
+(1) Beginning April 24, 2026, a public entity, other than a special district government, with a total population of 50,000 or more shall ensure that the web content and mobile apps that the public entity provides or makes available, directly or through contractual, licensing, or other arrangements, comply with Level A and Level AA success criteria and conformance requirements specified in WCAG 2.1, unless the public entity can demonstrate that compliance with this section would result in a fundamental alteration in the nature of a service, program, or activity or in undue financial and administrative burdens.
 
-**(2) Beginning April 26, 2027, a public entity with a total population of less than 50,000 or any public entity that is a special district government shall ensure that the web content and mobile apps that the public entity provides or makes available, directly or through contractual, licensing, or other arrangements, comply with Level A and Level AA success criteria and conformance requirements specified in WCAG 2.1, unless the public entity can demonstrate that compliance with this section would result in a fundamental alteration in the nature of a service, program, or activity or in undue financial and administrative burdens.**
+(2) Beginning April 26, 2027, a public entity with a total population of less than 50,000 or any public entity that is a special district government shall ensure that the web content and mobile apps that the public entity provides or makes available, directly or through contractual, licensing, or other arrangements, comply with Level A and Level AA success criteria and conformance requirements specified in WCAG 2.1, unless the public entity can demonstrate that compliance with this section would result in a fundamental alteration in the nature of a service, program, or activity or in undue financial and administrative burdens.
 
-**(3) WCAG 2.1 is incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51.  All material approved for incorporation by reference is available for inspection at the U.S. Department of Justice and at the National Archives and Records Administration (“NARA”).  Contact the U.S. Department of Justice at: Disability Rights Section, Civil Rights Division, U.S. Department of Justice, 150 M St. N.E., 9th Floor, Washington, D.C. 20002; ADA Information Line: (800) 514–0301 (voice) or 1–833–610–1264 (TTY); website: [www.ada.gov](https://www.ada.gov).  For information on the availability of this material at NARA, visit [www.archives.gov/federal-register/cfr/ibr-locations.html](https://perma.cc/9SJ7-D7XZ) or email fr.inspection@nara.gov. The material may be obtained from the World Wide Web Consortium (“W3C”) Web Accessibility Initiative (“WAI”), 401 Edgewater Place, Suite 600, Wakefield, MA 01880; phone: (339) 273–2711; email: contact@w3.org; website: [https://www.w3.org/TR/2018/REC-WCAG21-20180605/](https://www.w3.org/TR/2018/REC-WCAG21-20180605/) and [https://perma.cc/UB8A-GG2F](https://perma.cc/UB8A-GG2F).**
+(3) WCAG 2.1 is incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51.  All material approved for incorporation by reference is available for inspection at the U.S. Department of Justice and at the National Archives and Records Administration (“NARA”).  Contact the U.S. Department of Justice at: Disability Rights Section, Civil Rights Division, U.S. Department of Justice, 150 M St. N.E., 9th Floor, Washington, D.C. 20002; ADA Information Line: (800) 514–0301 (voice) or 1–833–610–1264 (TTY); website: [www.ada.gov](https://www.ada.gov).  For information on the availability of this material at NARA, visit [www.archives.gov/federal-register/cfr/ibr-locations.html](https://perma.cc/9SJ7-D7XZ) or email fr.inspection@nara.gov. The material may be obtained from the World Wide Web Consortium (“W3C”) Web Accessibility Initiative (“WAI”), 401 Edgewater Place, Suite 600, Wakefield, MA 01880; phone: (339) 273–2711; email: contact@w3.org; website: [https://www.w3.org/TR/2018/REC-WCAG21-20180605/](https://www.w3.org/TR/2018/REC-WCAG21-20180605/) and [https://perma.cc/UB8A-GG2F](https://perma.cc/UB8A-GG2F).
 
 ### § 35.201 Exceptions.
 
-**The requirements of § 35.200 do not apply to the following:**
+The requirements of § 35.200 do not apply to the following:
 
-**(a) *Archived web content*. Archived web content as defined in § 35.104.**
+(a) *Archived web content*. Archived web content as defined in § 35.104.
 
-**(b) *Preexisting conventional electronic documents*. Conventional electronic documents that are available as part of a public entity’s web content or mobile apps before the date the public entity is required to comply with this subpart, unless such documents are currently used to apply for, gain access to, or participate in the public entity’s services, programs, or activities.**
+(b) *Preexisting conventional electronic documents*. Conventional electronic documents that are available as part of a public entity’s web content or mobile apps before the date the public entity is required to comply with this subpart, unless such documents are currently used to apply for, gain access to, or participate in the public entity’s services, programs, or activities.
 
-**(c) *Content posted by a third party*. Content posted by a third party, unless the third party is posting due to contractual, licensing, or other arrangements with the public entity.**
+(c) *Content posted by a third party*. Content posted by a third party, unless the third party is posting due to contractual, licensing, or other arrangements with the public entity.
 
-**(d) *Individualized, password-protected or otherwise secured conventional electronic documents*. Conventional electronic documents that are:**
+(d) *Individualized, password-protected or otherwise secured conventional electronic documents*. Conventional electronic documents that are:
 
-**(1) About a specific individual, their property, or their account; and**
+(1) About a specific individual, their property, or their account; and
 
-**(2) Password-protected or otherwise secured.**
+(2) Password-protected or otherwise secured.
 
-**(e) *Preexisting social media posts*. A public entity’s social media posts that were posted before the date the public entity is required to comply with this subpart.**
+(e) *Preexisting social media posts*. A public entity’s social media posts that were posted before the date the public entity is required to comply with this subpart.
 
 ### § 35.202 Conforming alternate versions.
 
-**(a) A public entity may use conforming alternate versions of web content, as defined by WCAG 2.1, to comply with § 35.200 only where it is not possible to make web content directly accessible due to technical or legal limitations.**
+(a) A public entity may use conforming alternate versions of web content, as defined by WCAG 2.1, to comply with § 35.200 only where it is not possible to make web content directly accessible due to technical or legal limitations.
 
-**(b) WCAG 2.1 is incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51.  All material approved for incorporation by reference is available for inspection at the U.S. Department of Justice and at NARA.  Contact the U.S. Department of Justice at: Disability Rights Section, Civil Rights Division, U.S. Department of Justice, 150 M St. N.E., 9th Floor, Washington, D.C. 20002; ADA Information Line: (800) 514–0301 (voice) or 1–833–610–1264 (TTY); website: www.ada.gov [https://perma.cc/U2V5-78KW]. For information on the availability of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations.html [https://perma.cc/9SJ7-D7XZ] or email fr.inspection@nara.gov. The material may be obtained from W3C WAI, 401 Edgewater Place, Suite 600, Wakefield, MA 01880; phone: (339) 273–2711; email: contact@w3.org; website: [https://www.w3.org/TR/2018/REC-WCAG21-20180605/](https://www.w3.org/TR/2018/REC-WCAG21-20180605/) and [https://perma.cc/UB8A-GG2F](https://perma.cc/UB8A-GG2F).**
+(b) WCAG 2.1 is incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51.  All material approved for incorporation by reference is available for inspection at the U.S. Department of Justice and at NARA.  Contact the U.S. Department of Justice at: Disability Rights Section, Civil Rights Division, U.S. Department of Justice, 150 M St. N.E., 9th Floor, Washington, D.C. 20002; ADA Information Line: (800) 514–0301 (voice) or 1–833–610–1264 (TTY); website: www.ada.gov [https://perma.cc/U2V5-78KW]. For information on the availability of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations.html [https://perma.cc/9SJ7-D7XZ] or email fr.inspection@nara.gov. The material may be obtained from W3C WAI, 401 Edgewater Place, Suite 600, Wakefield, MA 01880; phone: (339) 273–2711; email: contact@w3.org; website: [https://www.w3.org/TR/2018/REC-WCAG21-20180605/](https://www.w3.org/TR/2018/REC-WCAG21-20180605/) and [https://perma.cc/UB8A-GG2F](https://perma.cc/UB8A-GG2F).
 
 ### § 35.203 Equivalent facilitation.
 
-**Nothing in this subpart prevents the use of designs, methods, or techniques as alternatives to those prescribed, provided that the alternative designs, methods, or techniques result in substantially equivalent or greater accessibility and usability of the web content or mobile app.**
+Nothing in this subpart prevents the use of designs, methods, or techniques as alternatives to those prescribed, provided that the alternative designs, methods, or techniques result in substantially equivalent or greater accessibility and usability of the web content or mobile app.
 
 ### § 35.204 Duties.
 
-**Where a public entity can demonstrate that compliance with the requirements of § 35.200 would result in a fundamental alteration in the nature of a service, program, or activity or in undue financial and administrative burdens, compliance with § 35.200 is required to the extent that it does not result in a fundamental alteration or undue financial and administrative burdens. In those circumstances where personnel of the public entity believe that the proposed action would fundamentally alter the service, program, or activity or would result in undue financial and administrative burdens, a public entity has the burden of proving that compliance with § 35.200 would result in such alteration or burdens. The decision that compliance would result in such alteration or burdens must be made by the head of a public entity or their designee after considering all resources available for use in the funding and operation of the service, program, or activity, and must be accompanied by a written statement of the reasons for reaching that conclusion. If an action would result in such an alteration or such burdens, a public entity shall take any other action that would not result in such an alteration or such burdens but would nevertheless ensure that individuals with disabilities receive the benefits or services provided by the public entity to the maximum extent possible.**
+Where a public entity can demonstrate that compliance with the requirements of § 35.200 would result in a fundamental alteration in the nature of a service, program, or activity or in undue financial and administrative burdens, compliance with § 35.200 is required to the extent that it does not result in a fundamental alteration or undue financial and administrative burdens. In those circumstances where personnel of the public entity believe that the proposed action would fundamentally alter the service, program, or activity or would result in undue financial and administrative burdens, a public entity has the burden of proving that compliance with § 35.200 would result in such alteration or burdens. The decision that compliance would result in such alteration or burdens must be made by the head of a public entity or their designee after considering all resources available for use in the funding and operation of the service, program, or activity, and must be accompanied by a written statement of the reasons for reaching that conclusion. If an action would result in such an alteration or such burdens, a public entity shall take any other action that would not result in such an alteration or such burdens but would nevertheless ensure that individuals with disabilities receive the benefits or services provided by the public entity to the maximum extent possible.
 
 ### § 35.205 Effect of noncompliance that has a minimal impact on access.
 
-**A public entity that is not in full compliance with the requirements of § 35.200(b) will be deemed to have met the requirements of § 35.200 in the limited circumstance in which the public entity can demonstrate that the noncompliance has such a minimal impact on access that it would not affect the ability of individuals with disabilities to use the public entity’s web content or mobile app to do any of the following in a manner that provides substantially equivalent timeliness, privacy, independence, and ease of use:**
+A public entity that is not in full compliance with the requirements of § 35.200(b) will be deemed to have met the requirements of § 35.200 in the limited circumstance in which the public entity can demonstrate that the noncompliance has such a minimal impact on access that it would not affect the ability of individuals with disabilities to use the public entity’s web content or mobile app to do any of the following in a manner that provides substantially equivalent timeliness, privacy, independence, and ease of use:
 
-**(a) Access the same information as individuals without disabilities;**
+(a) Access the same information as individuals without disabilities;
 
-**(b) Engage in the same interactions as individuals without disabilities;**
+(b) Engage in the same interactions as individuals without disabilities;
 
-**(c) Conduct the same transactions as individuals without disabilities; and**
+(c) Conduct the same transactions as individuals without disabilities; and
 
-**(d) Otherwise participate in or benefit from the same services, programs, and activities as individuals without disabilities.**
+(d) Otherwise participate in or benefit from the same services, programs, and activities as individuals without disabilities.
 
 ### §§ 35.214-219 [Reserved]
 
@@ -1488,8 +1488,8 @@ accessible to or usable by persons with disabilities.
 
 ### § 35.211 Newly purchased, leased, or otherwise acquired medical diagnostic equipment.
 
-(a) Requirements for all newly purchased, leased, or otherwise acquired medical
-diagnostic equipment. All MDE that public entities purchase, lease (including via
+(a) *Requirements for all newly purchased, leased, or otherwise acquired medical
+diagnostic equipment.* All MDE that public entities purchase, lease (including via
 lease renewals), or otherwise acquire after October 8, 2024, shall, subject to the
 requirements and limitations set forth in this section, meet the Standards for
 Accessible MDE, unless and until the public entity satisfies the scoping
@@ -1497,23 +1497,23 @@ requirements set forth in paragraph (b) of this section.<br>
 
 (b) Scoping requirements—
 
-(1) General requirement for medical diagnostic equipment. Where a service,
+(1) *General requirement for medical diagnostic equipment.* Where a service,
 program, or activity of a public entity, including physicians’ offices, clinics,
 emergency rooms, hospitals, outpatient facilities, and multi-use facilities, utilizes
 MDE, at least 10 percent of the total number of units, but no fewer than one unit,
 of each type of equipment in use must meet the Standards for Accessible MDE.<br>
-(2) Facilities that specialize in treating conditions that affect mobility. In
+(2) *Facilities that specialize in treating conditions that affect mobility.* In
 rehabilitation facilities that specialize in treating conditions that affect mobility,
 outpatient physical therapy facilities, and other services, programs, or activities
 that specialize in treating conditions that affect mobility, at least 20 percent, but
 no fewer than one unit, of each type of equipment in use must meet the Standards for Accessible MDE.<br>
-(3) Facilities with multiple departments. In any facility or program with multiple
+(3) *Facilities with multiple departments.* In any facility or program with multiple
 departments, clinics, or specialties, where a service, program, or activity uses
 MDE, the facility shall disperse the accessible MDE required by paragraphs (b)(1)
 and (2) of this section in a manner that is proportionate by department, clinic, or
 specialty using MDE.
 
-(c) Requirements for examination tables and weight scales. Within two years
+(c) *Requirements for examination tables and weight scales.* Within two years
 after August 9, 2024, public entities shall, subject to the requirements and
 limitations set forth in this section, purchase, lease, or otherwise acquire the
 following, unless the entity already has them in place:
@@ -1521,14 +1521,15 @@ following, unless the entity already has them in place:
 (1) At least one examination table that meets the Standards for Accessible MDE, if
 the public entity uses at least one examination table; and<br>
 (2) At least one weight scale that meets the Standards for Accessible MDE, if the
-public entity uses at least one weight scale.
+public entity uses at least one weight scale.<br>
 
-(d) Equivalent facilitation. Nothing in this section prevents the use of designs,
+(d) *Equivalent facilitation.* Nothing in this section prevents the use of designs,
 products, or technologies as alternatives to those prescribed by the Standards
 for Accessible MDE, provided they result in substantially equivalent or greater
 accessibility and usability of the health care service, program, or activity. The
 responsibility for demonstrating equivalent facilitation rests with the public entity.<br>
-(e) Fundamental alteration and undue burdens. This section does not require a
+
+(e) *Fundamental alteration and undue burdens.* This section does not require a
 public entity to take any action that it can demonstrate would result in a
 fundamental alteration in the nature of a service, program, or activity, or in undue
 financial and administrative burdens. In those circumstances where personnel of
@@ -1544,7 +1545,8 @@ reaching that conclusion. If an action would result in such an alteration or suc
 burdens, a public entity shall take any other action that would not result in such
 an alteration or such burdens but would nevertheless ensure that individuals with
 disabilities receive the benefits or services provided by the public entity.<br>
-(f) Diagnostically required structural or operational characteristics. A public
+
+(f) *Diagnostically required structural or operational characteristics.* A public
 entity meets its burden of proving that compliance with paragraph (a) or (c) of
 this section would result in a fundamental alteration under paragraph (e) of this
 section if it demonstrates that compliance with paragraph (a) or (c) of this section
@@ -1556,7 +1558,7 @@ use of the equipment for its diagnostic purpose.
 
 ### § 35.212 Existing medical diagnostic equipment.
 
-(a) Accessibility. A public entity shall operate each service, program, or activity
+(a) *Accessibility.* A public entity shall operate each service, program, or activity
 offered through or with the use of MDE so that the service, program, or activity, in
 its entirety, is readily accessible to and usable by individuals with disabilities.
 This paragraph (a) does not—
@@ -1583,8 +1585,9 @@ activities provided by the public entity.<br>
 paragraph (a) would result in a fundamental alteration under paragraph (a)(2) of
 this section if it demonstrates that compliance with this paragraph (a) would alter
 diagnostically required structural or operational characteristics of the equipment
-and prevent the use of the equipment for its intended diagnostic purpose.
-(b) Methods. A public entity may comply with the requirements of this section
+and prevent the use of the equipment for its intended diagnostic purpose.<br>
+
+(b) *Methods.* A public entity may comply with the requirements of this section
 through such means as reassignment of services to alternate accessible
 locations; home visits; delivery of services at alternate accessible sites;
 purchase, lease, or other acquisition of accessible MDE; or any other methods
@@ -10333,7 +10336,7 @@ title II regulation.
 The Department is revising § 35.104 to add definitions for the terms “medical diagnostic
 equipment” and “Standards for Accessible Medical Diagnostic Equipment.”
 
-“Medical diagnostic equipment”
+“*Medical diagnostic equipment*”
 
 The Department is defining the term “medical diagnostic equipment,” consistent with the
 MDE Standards, as “[e]quipment used in, or in conjunction with, medical settings by
@@ -10368,7 +10371,7 @@ that a specific piece of equipment used in the provision of health care services
 programs, or activities in home or other settings complies with the MDE Standards
 would depend on the particular factual circumstances in question.
 
-**“Standards for Accessible Medical Diagnostic Equipment”**
+*“Standards for Accessible Medical Diagnostic Equipment”*
 
 The Department is defining the term “Standards for Accessible Medical Diagnostic
 Equipment” in accordance with the standards promulgated by the Access Board on
@@ -10533,7 +10536,7 @@ II, mean that these circumstances remain all too prevalent. Section 35.210 will 
 clarify public entities’ nondiscrimination obligations as they pertain to services,
 programs, and activities that use MDE.
 
-Section 35.211 Newly Purchased, Leased, or Otherwise Acquired Medical Diagnostic Equipment.
+#### Section 35.211 Newly Purchased, Leased, or Otherwise Acquired Medical Diagnostic Equipment.
 
 For MDE that public entities purchase, lease, or otherwise acquire after October 8,
 2024, which is 60 days after the publication of the final rule in the Federal Register, the
@@ -10551,7 +10554,7 @@ to obtain accessible MDE when it purchases, leases, or otherwise acquires MDE af
 the final rule’s effective date. However, a public entity may choose to acquire additional
 accessible MDE even after it satisfies the scoping requirements.
 
-#### Section 35.211(a) Requirements for Newly Purchased, Leased, or Otherwise Acquired Medical Diagnostic Equipment
+*Section 35.211(a) Requirements for Newly Purchased, Leased, or Otherwise Acquired Medical Diagnostic Equipment*
 
 Paragraph (a) adopts the January 9, 2017, version of the Access Board’s MDE
 Standards that was codified on July 1, 2017 (with the exception of the Access Board’s
@@ -10644,7 +10647,7 @@ limited to, acquisitions via donations or loans, as well as both temporary and p
 acquisitions. This intent is reflected by the term “otherwise acquire” in the regulatory
 text.
 
-#### Section 35.211(b) Scoping
+*Section 35.211(b) Scoping*
 
 Section 35.211(b) establishes scoping requirements for accessible MDE. Accessibility
 standards generally contain scoping requirements (how many accessible features are
@@ -11068,7 +11071,7 @@ by patients with disabilities. For example, it could offer home visits that prov
 access to care or accessible transportation to patients with disabilities at no cost to
 them within a reasonable timeframe.
 
-#### Section 35.211(c) Requirements for Examination Tables and Weight Scales
+*Section 35.211(c) Requirements for Examination Tables and Weight Scales*
 
 Section 35.211(c) sets forth specific requirements for examination tables and weight
 scales. Paragraph (c)(1) requires public entities that use at least one examination table
@@ -11198,7 +11201,7 @@ are acquired in accordance with § 35.211(a), and they will be required to comp
 way to carry out the requirements set forth in §§ 35.210 and 35.212 may be to acquire
 multiple types of accessible MDE, not only examination tables and weight scales.
 
-#### Section 35.211(d) Equivalent Facilitation
+*Section 35.211(d) Equivalent Facilitation*
 
 Paragraph (d) of § 35.211 specifies that a public entity may use designs, products, or
 technologies as alternatives to those prescribed by the MDE Standards, for example, to
@@ -11288,7 +11291,7 @@ use in the funding and operation of the service, program, or activity. {% fn 305
 Department’s view, this guidance will help public entities use the fundamental alteration
 and undue burdens limitations appropriately.
 
-#### Section 35.211(f) Diagnostically Required Structural or Operational Characteristics
+*Section 35.211(f) Diagnostically Required Structural or Operational Characteristics*
 
 Paragraph (f) of § 35.211 incorporates what M201.2 of the Access Board’s MDE
 Standards refers to as a General Exception. {% fn 306 %} The paragraph states that, where a
