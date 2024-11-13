@@ -75,9 +75,7 @@ By Mail:
 > 950 Pennsylvania Ave., NW<br>
 > Washington, D.C. 20530
 
-By Fax:
 
-> (202) 307-1197
 
 ## Housing
 
