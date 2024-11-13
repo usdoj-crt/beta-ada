@@ -1473,7 +1473,7 @@ A public entity that is not in full compliance with the requirements of § 35.2
 
 (d) Otherwise participate in or benefit from the same services, programs, and activities as individuals without disabilities.
 
-### §§ 35.214-219 [Reserved]
+**&sect; 35.206-209 [Reserved]**
 
 ## Subpart I— Accessible Medical Diagnostic Equipment
 
@@ -1495,8 +1495,7 @@ requirements and limitations set forth in this section, meet the Standards for
 Accessible MDE, unless and until the public entity satisfies the scoping
 requirements set forth in paragraph (b) of this section.<br>
 
-(b) Scoping requirements—
-
+(b) *Scoping requirements*—
 (1) *General requirement for medical diagnostic equipment.* Where a service,
 program, or activity of a public entity, including physicians’ offices, clinics,
 emergency rooms, hospitals, outpatient facilities, and multi-use facilities, utilizes
@@ -1604,6 +1603,8 @@ individuals with disabilities in the most integrated setting appropriate.
 Public entities must ensure their staff are able to successfully operate accessible
 MDE, assist with transfers and positioning of individuals with disabilities, and
 carry out the program access obligation regarding existing MDE.
+
+### §§ 35.214-219 [Reserved]
 
 ## Title II Regulations: 2010 Guidance and Section-by-Section Analysis
 
