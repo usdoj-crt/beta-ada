@@ -47,7 +47,7 @@ description: Title III of the ADA - regulations for businesses, including
 
 **CONTACT:**
 
-Janet L. Blizard, Deputy Chief, or Christina Galindo-Walsh, Attorney Advisor, Disability Rights Section, Civil Rights Division, U.S. Department of Justice, at (202) 307–0663 (voice or TTY). This is not a toll-free number. Information may also be obtained from the Department's toll-free ADA Information Line at (800) 514–0301 (voice) or (800) 514–0383 (TTY).
+Janet L. Blizard, Deputy Chief, or Christina Galindo-Walsh, Attorney Advisor, Disability Rights Section, Civil Rights Division, U.S. Department of Justice, at (202) 307–0663 (voice or TTY). This is not a toll-free number. Information][] may also be obtained from the Department's toll-free ADA Information Line at (800) 514–0301 (voice) or (800) 514–0383 (TTY).
 
 This rule is also available in an accessible format on the ADA Home Page at [https://www.ada.gov]({{ '/' | relative_url }}).
 
@@ -374,7 +374,7 @@ NOTE: These provisions update the relevant portions of the title III regulation 
 (2) The requirements of subparts B and C of this part obligate a public accommodation only with respect to the operations of a place of public accommodation.
 (3) The requirements of subpart D of this part obligate a public accommodation only with respect to
 
-(i) A facility used as, or designed or constructed for use as, a place of public accommodation; or
+(i) A facility used as, or designed or constructed for use as, a place of public accommodation; or<br>
 (ii) A facility used as, or designed and constructed for use as, a commercial facility.
 
 (c) Commercial facilities. The requirements of this part applicable to commercial facilities are set forth in subpart D of this part.
@@ -415,8 +415,8 @@ For purposes of this part, the term-
 (2) That are intended for nonresidential use by a private entity; and
 (3) That are not –
 
-(i) Facilities that are covered or expressly exempted from coverage under the Fair Housing Act of 1968, as amended (42 U.S.C. 3601 - 3631);
-(ii) Aircraft; or
+(i) Facilities that are covered or expressly exempted from coverage under the Fair Housing Act of 1968, as amended (42 U.S.C. 3601 - 3631);<br>
+(ii) Aircraft; or<br>
 (iii) Railroad locomotives, railroad freight cars, railroad cabooses, commuter or intercity passenger rail cars (including coaches, dining cars, sleeping cars, lounge cars, and food service cars), any other railroad cars described in section 242 of the Act or covered under title II of the Act, or railroad rights-of-way. For purposes of this definition, &quot;rail&quot; and &quot;railroad&quot; have the meaning given the term &quot;railroad&quot; in section 202(e) of the Federal Railroad Safety Act of 1970 (45 U.S.C. 431(e)).
 
 *Current illegal use of drugs* means illegal use of drugs that occurred recently enough to justify a reasonable belief that a person's drug use is current or that continuing use is a real and ongoing problem.
@@ -441,20 +441,16 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 
 *Place of public accommodation* means a facility operated by a private entity whose operations affect commerce and fall within at least one of the following categories -
 
-(1) Place of lodging, except for an establishment located within a facility that contains not more than five rooms for rent or hire and that actually is occupied by the proprietor of the establishment as the residence of the proprietor. For purposes of this part, a facility is a &quot;place of lodging&quot; if it is –
-
-(i) An inn, hotel, or motel; or<br>
+>(1) Place of lodging, except for an establishment located within a facility that contains not more than five rooms for rent or hire and that actually is occupied by the proprietor of the establishment as the residence of the proprietor. For purposes of this part, a facility is a &quot;place of lodging&quot; if it is –
+>>(i) An inn, hotel, or motel; or<br>
 (ii) A facility that –
-
-(A) Provides guest rooms for sleeping for stays that primarily are short-term in nature (generally 30 days or less) where the occupant does not have the right to return to a specific room or unit after the conclusion of his or her stay; and<br>
+>>>(A) Provides guest rooms for sleeping for stays that primarily are short-term in nature (generally 30 days or less) where the occupant does not have the right to return to a specific room or unit after the conclusion of his or her stay; and<br>
 (B) Provides guest rooms under conditions and with amenities similar to a hotel, motel, or inn, including the following –
-
-(*1*) On- or off-site management and reservations service;<br>
+>>>>(*1*) On- or off-site management and reservations service;<br>
 (*2*) Rooms available on a walk-up or call-in basis;<br>
 (*3*) Availability of housekeeping or linen service; and<br>
 (*4*) Acceptance of reservations for a guest room type without guaranteeing a particular unit or room until check-in, and without a prior lease or security deposit.
-
-(2) A restaurant, bar, or other establishment serving food or drink;<br>
+>(2) A restaurant, bar, or other establishment serving food or drink;<br>
 (3) A motion picture house, theater, concert hall, stadium, or other place of exhibition or entertainment;<br>
 (4) An auditorium, convention center, lecture hall, or other place of public gathering;<br>
 (5) A bakery, grocery store, clothing store, hardware store, shopping center, or other sales or rental establishment;<br>
@@ -474,7 +470,7 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 
 *Public entity* means –
 
-(1) Any State or local government;
+>(1) Any State or local government;
 (2) Any department, agency, special purpose district, or other instrumentality of a State or States or local government; and
 (3) The National Railroad Passenger Corporation, and any commuter authority (as defined in section 103(8) of the Rail Passenger Service Act). (45 U.S.C. 541)
 
@@ -484,7 +480,7 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 
 *Readily achievable* means easily accomplishable and able to be carried out without much difficulty or expense. In determining whether an action is readily achievable factors to be considered include–
 
-(1) The nature and cost of the action needed under this part;
+>(1) The nature and cost of the action needed under this part;
 (2) The overall financial resources of the site or sites involved in the action; the number of persons employed at the site; the effect on expenses and resources; legitimate safety requirements that are necessary for safe operation, including crime prevention measures; or the impact otherwise of the action upon the operation of the site;
 (3) The geographic separateness, and the administrative or fiscal relationship of the site or sites in question to any parent corporation or entity;
 (4) If applicable, the overall financial resources of any parent corporation or entity; the overall size of the parent corporation or entity with respect to the number of its employees; the number, type, and location of its facilities; and
@@ -500,7 +496,7 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 
 *Undue burden* means significant difficulty or expense. In determining whether an action would result in an undue burden, factors to be considered include –
 
-(1) The nature and cost of the action needed under this part;
+>(1) The nature and cost of the action needed under this part;
 (2) The overall financial resources of the site or sites involved in the action; the number of persons employed at the site; the effect on expenses and resources; legitimate safety requirements that are necessary for safe operation, including crime prevention measures; or the impact otherwise of the action upon the operation of the site;
 (3) The geographic separateness, and the administrative or fiscal relationship of the site or sites in question to any parent corporation or entity;
 (4) If applicable, the overall financial resources of any parent corporation or entity; the overall size of the parent corporation or entity with respect to the number of its employees; the number, type, and location of its facilities; and
@@ -515,108 +511,84 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 **(a)**
 
 **(1)  *Disability* means, with respect to an individual:**
-
-**(i)  A physical or mental impairment that substantially limits one or more of the major life activities of such individual;**
-**(ii)  A record of such an impairment; or**
+>**(i)  A physical or mental impairment that substantially limits one or more of the major life activities of such individual;**<br>
+**(ii)  A record of such an impairment; or**<br>
 **(iii)  Being regarded as having such an impairment as described in paragraph (f) of this section.**
 
-
 **(2)**  ***Rules of construction.***
-
-**(i)  The definition of &ldquo;disability&rdquo; shall be construed broadly in favor of expansive coverage, to the maximum extent permitted by the terms of the ADA.**
-**(ii)  An individual may establish coverage under any one or more of the three prongs of the definition of disability in paragraph (a)(1) of this section, the &ldquo;actual disability&rdquo; prong in paragraph (a)(1)(i) of this section, the &ldquo;record of&rdquo; prong in paragraph (a)(1)(ii) of this section, or the &ldquo;regarded as&rdquo; prong in paragraph (a)(1)(iii) of this section.**
+>**(i)  The definition of &ldquo;disability&rdquo; shall be construed broadly in favor of expansive coverage, to the maximum extent permitted by the terms of the ADA.**<br>
+**(ii)  An individual may establish coverage under any one or more of the three prongs of the definition of disability in paragraph (a)(1) of this section, the &ldquo;actual disability&rdquo; prong in paragraph (a)(1)(i) of this section, the &ldquo;record of&rdquo; prong in paragraph (a)(1)(ii) of this section, or the &ldquo;regarded as&rdquo; prong in paragraph (a)(1)(iii) of this section.**<br>
 **(iii)  Where an individual is not challenging a public accommodation's failure to provide reasonable modifications under &sect; 36.302, it is generally unnecessary to proceed under the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prongs, which require a showing of an impairment that substantially limits a major life activity or a record of such an impairment. In these cases, the evaluation of coverage can be made solely under the &ldquo;regarded as&rdquo; prong of the definition of &ldquo;disability,&rdquo; which does not require a showing of an impairment that substantially limits a major life activity or a record of such an impairment. An individual may choose, however, to proceed under the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prong regardless of whether the individual is challenging a public accommodation's failure to provide reasonable modifications.**
 
 **(b)**
 
 **(1)  *Physical or mental impairment* means:**
-
-**(i) Any physiological disorder or condition, cosmetic disfigurement, or anatomical loss affecting one or more body systems, such as: neurological, musculoskeletal, special sense organs, respiratory (including speech organs), cardiovascular, reproductive, digestive, genitourinary, immune, circulatory, hemic, lymphatic, skin, and endocrine; or**
+>**(i) Any physiological disorder or condition, cosmetic disfigurement, or anatomical loss affecting one or more body systems, such as: neurological, musculoskeletal, special sense organs, respiratory (including speech organs), cardiovascular, reproductive, digestive, genitourinary, immune, circulatory, hemic, lymphatic, skin, and endocrine; or**<br>
 **(ii) Any mental or psychological disorder such as intellectual disability, organic brain syndrome, emotional or mental illness, and specific learning disability.**
-
 **(2)  *Physical or mental impairment* includes, but is not limited to, contagious and noncontagious diseases and conditions such as the following: orthopedic, visual, speech and hearing impairments, cerebral palsy, epilepsy, muscular dystrophy, multiple sclerosis, cancer, heart disease, diabetes, intellectual disability, emotional illness, dyslexia and other specific learning disabilities, Attention Deficit Hyperactivity Disorder, Human Immunodeficiency Virus infection (whether symptomatic or asymptomatic), tuberculosis, drug addiction, and alcoholism.**
-
 **(3)*Physical or mental impairment* does not include homosexuality or bisexuality.**
 
 **(c)**
-
 **(1)**  ***Major life activities include, but are not limited to:***
-
-**(i) Caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, sitting, reaching, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, writing, communicating, interacting with others, and working; and**
+>**(i) Caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, sitting, reaching, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, writing, communicating, interacting with others, and working; and**<br>
 **(ii) The operation of a *major bodily function*, such as the functions of the immune system, special sense organs and skin, normal cell growth, and digestive, genitourinary, bowel, bladder, neurological, brain, respiratory, circulatory, cardiovascular, endocrine, hemic, lymphatic, musculoskeletal, and reproductive systems. The operation of a major bodily function includes the operation of an individual organ within a body system.**
-
 **(2)**  ***Rules of construction.***
-
-**(i) In determining whether an impairment substantially limits a major life activity, the term *major* shall not be interpreted strictly to create a demanding standard.**
+>**(i) In determining whether an impairment substantially limits a major life activity, the term *major* shall not be interpreted strictly to create a demanding standard.**<br>
 **(ii) Whether an activity is a *major life activity* is not determined by reference to whether it is of *central* importance to daily life.**
-
 **(d)** ***Substantially limits.***
-
-**(1)*Rules of construction.* The following rules of construction apply when determining whether an impairment substantially limits an individual in a major life activity.**
-
-**(i)  The term &ldquo;substantially limits&rdquo; shall be construed broadly in favor of expansive coverage, to the maximum extent permitted by the terms of the ADA. &ldquo;Substantially limits&rdquo; is not meant to be a demanding standard.**
-**(ii)  The primary object of attention in cases brought under title III of the ADA should be whether public accommodations have complied with their obligations and whether discrimination has occurred, not the extent to which an individual's impairment substantially limits a major life activity. Accordingly, the threshold issue of whether an impairment substantially limits a major life activity should not demand extensive analysis.**
-**(iii)  An impairment that substantially limits one major life activity does not need to limit other major life activities in order to be considered a substantially limiting impairment.**
-**(iv)  An impairment that is episodic or in remission is a disability if it would substantially limit a major life activity when active.**
-**(v)  An impairment is a disability within the meaning of this part if it substantially limits the ability of an individual to perform a major life activity as compared to most people in the general population. An impairment does not need to prevent, or significantly or severely restrict, the individual from performing a major life activity in order to be considered substantially limiting. Nonetheless, not every impairment will constitute a disability within the meaning of this section.**
-**(vi)  The determination of whether an impairment substantially limits a major life activity requires an individualized assessment. However, in making this assessment, the term &ldquo;substantially limits&rdquo; shall be interpreted and applied to require a degree of functional limitation that is lower than the standard for substantially limits applied prior to the ADA Amendments Act.**
-**(vii)  The comparison of an individual's performance of a major life activity to the performance of the same major life activity by most people in the general population usually will not require scientific, medical, or statistical evidence. Nothing in this paragraph (d)(1) is intended, however, to prohibit or limit the presentation of scientific, medical, or statistical evidence in making such a comparison where appropriate.**
-**(viii) The determination of whether an impairment substantially limits a major life activity shall be made without regard to the ameliorative effects of mitigating measures. However, the ameliorative effects of ordinary eyeglasses or contact lenses shall be considered in determining whether an impairment substantially limits a major life activity. Ordinary eyeglasses or contact lenses are lenses that are intended to fully correct visual acuity or to eliminate refractive error.**
+>>**(1)*Rules of construction.* The following rules of construction apply when determining whether an impairment substantially limits an individual in a major life activity.**
+>**(i)  The term &ldquo;substantially limits&rdquo; shall be construed broadly in favor of expansive coverage, to the maximum extent permitted by the terms of the ADA. &ldquo;Substantially limits&rdquo; is not meant to be a demanding standard.**<br>
+**(ii)  The primary object of attention in cases brought under title III of the ADA should be whether public accommodations have complied with their obligations and whether discrimination has occurred, not the extent to which an individual's impairment substantially limits a major life activity. Accordingly, the threshold issue of whether an impairment substantially limits a major life activity should not demand extensive analysis.**<br>
+**(iii)  An impairment that substantially limits one major life activity does not need to limit other major life activities in order to be considered a substantially limiting impairment.**<br>
+**(iv)  An impairment that is episodic or in remission is a disability if it would substantially limit a major life activity when active.**<br>
+**(v)  An impairment is a disability within the meaning of this part if it substantially limits the ability of an individual to perform a major life activity as compared to most people in the general population. An impairment does not need to prevent, or significantly or severely restrict, the individual from performing a major life activity in order to be considered substantially limiting. Nonetheless, not every impairment will constitute a disability within the meaning of this section.**<br>
+**(vi)  The determination of whether an impairment substantially limits a major life activity requires an individualized assessment. However, in making this assessment, the term &ldquo;substantially limits&rdquo; shall be interpreted and applied to require a degree of functional limitation that is lower than the standard for substantially limits applied prior to the ADA Amendments Act.**<br>
+**(vii)  The comparison of an individual's performance of a major life activity to the performance of the same major life activity by most people in the general population usually will not require scientific, medical, or statistical evidence. Nothing in this paragraph (d)(1) is intended, however, to prohibit or limit the presentation of scientific, medical, or statistical evidence in making such a comparison where appropriate.**<br>
+**(viii) The determination of whether an impairment substantially limits a major life activity shall be made without regard to the ameliorative effects of mitigating measures. However, the ameliorative effects of ordinary eyeglasses or contact lenses shall be considered in determining whether an impairment substantially limits a major life activity. Ordinary eyeglasses or contact lenses are lenses that are intended to fully correct visual acuity or to eliminate refractive error.**<br>
 **(ix)  The six-month &ldquo;transitory&rdquo; part of the &ldquo;transitory and minor&rdquo; exception in paragraph (f)(2) of this section does not apply to the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prongs of the definition of &ldquo;disability.&rdquo; The effects of an impairment lasting or expected to last less than six months can be substantially limiting within the meaning of this section for establishing an actual disability or a record of a disability.**
-
-**(2)**  ***Predictable assessments.***
-
-**(i)  The principles set forth in the rules of construction in this section are intended to provide for more generous coverage and application of the ADA's prohibition on discrimination through a framework that is predictable, consistent, and workable for all individuals and entities with rights and responsibilities under the ADA.**
-**(ii)  Applying these principles, the individualized assessment of some types of impairments will, in virtually all cases, result in a determination of coverage under paragraph (a)(1)(i) of this section (the &ldquo;actual disability&rdquo; prong) or paragraph (a)(1)(ii) of this section (the &ldquo;record of&rdquo; prong). Given their inherent nature, these types of impairments will, as a factual matter, virtually always be found to impose a substantial limitation on a major life activity. Therefore, with respect to these types of impairments, the necessary individualized assessment should be particularly simple and straightforward.**
+>**(2)**  ***Predictable assessments.***
+>>**(i)  The principles set forth in the rules of construction in this section are intended to provide for more generous coverage and application of the ADA's prohibition on discrimination through a framework that is predictable, consistent, and workable for all individuals and entities with rights and responsibilities under the ADA.**<br>
+**(ii)  Applying these principles, the individualized assessment of some types of impairments will, in virtually all cases, result in a determination of coverage under paragraph (a)(1)(i) of this section (the &ldquo;actual disability&rdquo; prong) or paragraph (a)(1)(ii) of this section (the &ldquo;record of&rdquo; prong). Given their inherent nature, these types of impairments will, as a factual matter, virtually always be found to impose a substantial limitation on a major life activity. Therefore, with respect to these types of impairments, the necessary individualized assessment should be particularly simple and straightforward.**<br>
 **(iii)  For example, applying these principles it should easily be concluded that the set forth in paragraphs (d)(2)(iii)(A) through (K) types of impairments will, at a minimum, substantially limit the major life activities indicated. The types of impairments described in this paragraph may substantially limit additional major life activities (including major bodily functions) not explicitly listed in paragraphs (d)(2)(iii)(A) through (K).**
-
-**(A)  Deafness substantially limits hearing;**
-**(B)  Blindness substantially limits seeing;**
-**(C)  Intellectual disability substantially limits brain function;**
-**(D)  Partially or completely missing limbs or mobility impairments requiring the use of a wheelchair substantially limit musculoskeletal function;**
-**(E)  Autism substantially limits brain function;**
-**(F)  Cancer substantially limits normal cell growth;**
-**(G)  Cerebral palsy substantially limits brain function;**
-**(H)  Diabetes substantially limits endocrine function;**
-**(I)  Epilepsy, muscular dystrophy, and multiple sclerosis each substantially limits neurological function;**
-**(J)  Human Immunodeficiency Virus (HIV) infection substantially limits immune function; and**
+>>>**(A)  Deafness substantially limits hearing;**<br>
+**(B)  Blindness substantially limits seeing;**<br>
+**(C)  Intellectual disability substantially limits brain function;**<br>
+**(D)  Partially or completely missing limbs or mobility impairments requiring the use of a wheelchair substantially limit musculoskeletal function;**<br>
+**(E)  Autism substantially limits brain function;**<br>
+**(F)  Cancer substantially limits normal cell growth;**<br>
+**(G)  Cerebral palsy substantially limits brain function;**<br>
+**(H)  Diabetes substantially limits endocrine function;**<br>
+**(I)  Epilepsy, muscular dystrophy, and multiple sclerosis each substantially limits neurological function;**<br>
+**(J)  Human Immunodeficiency Virus (HIV) infection substantially limits immune function; and**<br>
 **(K)  Major depressive disorder, bipolar disorder, post-traumatic stress disorder, traumatic brain injury, obsessive compulsive disorder, and schizophrenia each substantially limits brain function.**
-
-**(3)**  ***Condition, manner, or duration.***
-
-**(i)  At all times taking into account the principles set forth in the rules of construction, in determining whether an individual is substantially limited in a major life activity, it may be useful in appropriate cases to consider, as compared to most people in the general population, the conditions under which the individual performs the major life activity; the manner in which the individual performs the major life activity; or the duration of time it takes the individual to perform the major life activity, or for which the individual can perform the major life activity.**
-**(ii)  Consideration of facts such as condition, manner, or duration may include, among other things, consideration of the difficulty, effort or time required to perform a major life activity; pain experienced when performing a major life activity; the length of time a major life activity can be performed; or the way an impairment affects the operation of a major bodily function. In addition, the non-ameliorative effects of mitigating measures, such as negative side effects of medication or burdens associated with following a particular treatment regimen, may be considered when determining whether an individual's impairment substantially limits a major life activity.**
-**(iii)  In determining whether an individual has a disability under the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prongs of the definition of &ldquo;disability,&rdquo; the focus is on how a major life activity is substantially limited, and not on what outcomes an individual can achieve. For example, someone with a learning disability may achieve a high level of academic success, but may nevertheless be substantially limited in one or more major life activities, including, but not limited to, reading, writing, speaking, or learning because of the additional time or effort he or she must spend to read, write, speak, or learn compared to most people in the general population.**
+>**(3)**  ***Condition, manner, or duration.***
+>>**(i)  At all times taking into account the principles set forth in the rules of construction, in determining whether an individual is substantially limited in a major life activity, it may be useful in appropriate cases to consider, as compared to most people in the general population, the conditions under which the individual performs the major life activity; the manner in which the individual performs the major life activity; or the duration of time it takes the individual to perform the major life activity, or for which the individual can perform the major life activity.**<br>
+**(ii)  Consideration of facts such as condition, manner, or duration may include, among other things, consideration of the difficulty, effort or time required to perform a major life activity; pain experienced when performing a major life activity; the length of time a major life activity can be performed; or the way an impairment affects the operation of a major bodily function. In addition, the non-ameliorative effects of mitigating measures, such as negative side effects of medication or burdens associated with following a particular treatment regimen, may be considered when determining whether an individual's impairment substantially limits a major life activity.**<br>
+**(iii)  In determining whether an individual has a disability under the &ldquo;actual disability&rdquo; or &ldquo;record of&rdquo; prongs of the definition of &ldquo;disability,&rdquo; the focus is on how a major life activity is substantially limited, and not on what outcomes an individual can achieve. For example, someone with a learning disability may achieve a high level of academic success, but may nevertheless be substantially limited in one or more major life activities, including, but not limited to, reading, writing, speaking, or learning because of the additional time or effort he or she must spend to read, write, speak, or learn compared to most people in the general population.**<br>
 **(iv)  Given the rules of construction set forth in this section, it may often be unnecessary to conduct an analysis involving most or all of the facts related to condition, manner, or duration. This is particularly true with respect to impairments such as those described in paragraph (d)(2)(iii) of this section, which by their inherent nature should be easily found to impose a substantial limitation on a major life activity, and for which the individualized assessment should be particularly simple and straightforward.**
-
-**(4)  *Mitigating measures* include, but are not limited to:**
-
-**(i)  Medication, medical supplies, equipment, appliances, low-vision devices (defined as devices that magnify, enhance, or otherwise augment a visual image, but not including ordinary eyeglasses or contact lenses), prosthetics including limbs and devices, hearing aid(s) and cochlear implant(s) or other implantable hearing devices, mobility devices, and oxygen therapy equipment and supplies;**
-**(ii)  Use of assistive technology;**
-**(iii)  Reasonable modifications or auxiliary aids or services as defined in this regulation;**
-**(iv)  Learned behavioral or adaptive neurological modifications; or**
+>**(4)  *Mitigating measures* include, but are not limited to:**
+>>**(i)  Medication, medical supplies, equipment, appliances, low-vision devices (defined as devices that magnify, enhance, or otherwise augment a visual image, but not including ordinary eyeglasses or contact lenses), prosthetics including limbs and devices, hearing aid(s) and cochlear implant(s) or other implantable hearing devices, mobility devices, and oxygen therapy equipment and supplies;**<br>
+**(ii)  Use of assistive technology;**<br>
+**(iii)  Reasonable modifications or auxiliary aids or services as defined in this regulation;**<br>
+**(iv)  Learned behavioral or adaptive neurological modifications; or**<br>
 **(v)  Psychotherapy, behavioral therapy, or physical therapy.**
 
 **(e)**  ***Has a record of such an impairment.***
 
-**(1)  An individual has a record of such an impairment if the individual has a history of, or has been misclassified as having, a mental or physical impairment that substantially limits one or more major life activities.**
-
+>**(1)  An individual has a record of such an impairment if the individual has a history of, or has been misclassified as having, a mental or physical impairment that substantially limits one or more major life activities.**
 **(2)  *Broad construction.* Whether an individual has a record of an impairment that substantially limited a major life activity shall be construed broadly to the maximum extent permitted by the ADA and should not demand extensive analysis. An individual will be considered to fall within this prong of the definition of &ldquo;disability&rdquo; if the individual has a history of an impairment that substantially limited one or more major life activities when compared to most people in the general population, or was misclassified as having had such an impairment. In determining whether an impairment substantially limited a major life activity, the principles articulated in paragraph (d)(1) of this section apply.**
-
 **(3)  *Reasonable modification.* An individual with a record of a substantially limiting impairment may be entitled to a reasonable modification if needed and related to the past disability.**
 
 **(f)  *Is regarded as having such an impairment.* The following principles apply under the &ldquo;regarded&rdquo; as prong of the definition of &ldquo;disability&rdquo; (paragraph (a)(1)(iii) of this section):**
 
-**(1)  Except as set forth in paragraph (f)(2) of this section, an individual is &ldquo;regarded as having such an impairment&rdquo; if the individual is subjected to a prohibited action because of an actual or perceived physical or mental impairment, whether or not that impairment substantially limits, or is perceived to substantially limit, a major life activity, even if the public accommodation asserts, or may or does ultimately establish, a defense to the action prohibited by the ADA.**
-
+>**(1)  Except as set forth in paragraph (f)(2) of this section, an individual is &ldquo;regarded as having such an impairment&rdquo; if the individual is subjected to a prohibited action because of an actual or perceived physical or mental impairment, whether or not that impairment substantially limits, or is perceived to substantially limit, a major life activity, even if the public accommodation asserts, or may or does ultimately establish, a defense to the action prohibited by the ADA.**
 **(2)  An individual is not &ldquo;regarded as having such an impairment&rdquo; if the public accommodation demonstrates that the impairment is, objectively, both &ldquo;transitory&rdquo; and &ldquo;minor.&rdquo; A public accommodation may not defeat &ldquo;regarded as&rdquo; coverage of an individual simply by demonstrating that it subjectively believed the impairment was transitory and minor; rather, the public accommodation must demonstrate that the impairment is (in the case of an actual impairment) or would be (in the case of a perceived impairment), objectively, both &ldquo;transitory&rdquo; and &ldquo;minor.&rdquo; For purposes of this section, &ldquo;transitory&rdquo; is defined as lasting or expected to last six months or less.**
-
 **(3)  Establishing that an individual is &ldquo;regarded as having such an impairment&rdquo; does not, by itself, establish liability. Liability is established under title III of the ADA only when an individual proves that a public accommodation discriminated on the basis of disability within the meaning of title III of the ADA, 42 U.S.C. 12181–12189.**
 
 **(g)  *Exclusions.* The term &ldquo;disability&rdquo; does not include—**
 
-**(1)  Transvestism, transsexualism, pedophilia, exhibitionism, voyeurism, gender identity disorders not resulting from physical impairments, or other sexual behavior disorders;**
-**(2)  Compulsive gambling, kleptomania, or pyromania; or**
+>**(1)  Transvestism, transsexualism, pedophilia, exhibitionism, voyeurism, gender identity disorders not resulting from physical impairments, or other sexual behavior disorders;**<br>
+**(2)  Compulsive gambling, kleptomania, or pyromania; or**<br>
 **(3)  Psychoactive substance use disorders resulting from current illegal use of drugs.**
 
 ## Subpart B – General Requirements
@@ -632,8 +604,11 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 ### &sect; 36.202 Activities.
 
 (a)  *Denial of participation*. A public accommodation shall not subject an individual or class of individuals on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements, to a denial of the opportunity of the individual or class to participate in or benefit from the goods, services, facilities, privileges, advantages, or accommodations of a place of public accommodation.
+
 (b)  *Participation in unequal benefit*. A public accommodation shall not afford an individual or class of individuals, on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements, with the opportunity to participate in or benefit from a good, service, facility, privilege, advantage, or accommodation that is not equal to that afforded to other individuals.
+
 (c)  *Separate benefit*. A public accommodation shall not provide an individual or class of individuals, on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements with a good, service, facility, privilege, advantage, or accommodation that is different or separate from that provided to other individuals, unless such action is necessary to provide the individual or class of individuals with a good, service, facility, privilege, advantage, or accommodation, or other opportunity that is as effective as that provided to others.
+
 (d) *Individual or class of individuals*. For purposes of paragraphs (a) through (c) of this section, the term &quot;individual or class of individuals&quot; refers to the clients or customers of the public accommodation that enters into the contractual, licensing, or other arrangement.
 
 ### &sect; 36.203 Integrated settings.
@@ -642,7 +617,7 @@ Housing at a *place of education* means housing operated by or on behalf of an e
 (b) *Opportunity to participate*. Notwithstanding the existence of separate or different programs or activities provided in accordance with this subpart, a public accommodation shall not deny an individual with a disability an opportunity to participate in such programs or activities that are not separate or different.
 (c) *Accommodations and services*.
 
-(1) Nothing in this part shall be construed to require an individual with a disability to accept an accommodation, aid, service, opportunity, or benefit available under this part that such individual chooses not to accept.
+>(1) Nothing in this part shall be construed to require an individual with a disability to accept an accommodation, aid, service, opportunity, or benefit available under this part that such individual chooses not to accept.
 (2) Nothing in the Act or this part authorizes the representative or guardian of an individual with a disability to decline food, water, medical treatment, or medical services for that individual.
 
 ### &sect; 36.204 Administrative methods.
@@ -661,7 +636,7 @@ A public accommodation shall not exclude or otherwise deny equal goods, services
 
 (c) Illustrations of conduct prohibited by this section include, but are not limited to:
 
-(1) Coercing an individual to deny or limit the benefits, services, or advantages to which he or she is entitled under the Act or this part;
+>(1) Coercing an individual to deny or limit the benefits, services, or advantages to which he or she is entitled under the Act or this part;
 (2) Threatening, intimidating, or interfering with an individual with a disability who is seeking to obtain or use the goods, services, facilities, privileges, advantages, or accommodations of a public accommodation;
 (3) Intimidating or threatening any person because that person is assisting or encouraging an individual or group entitled to claim the rights granted or protected by the Act or this part to exercise those rights; or
 (4) Retaliating against any person because that person has participated in any investigation or action to enforce the Act or this part.
@@ -675,28 +650,27 @@ A public accommodation shall not exclude or otherwise deny equal goods, services
 ### &sect; 36.208 Direct threat.
 
 (a) This part does not require a public accommodation to permit an individual to participate in or benefit from the goods, services, facilities, privileges, advantages and accommodations of that public accommodation when that individual poses a direct threat to the health or safety of others.
+
 (b) In determining whether an individual poses a direct threat to the health or safety of others, a public accommodation must make an individualized assessment, based on reasonable judgment that relies on current medical knowledge or on the best available objective evidence, to ascertain: The nature, duration, and severity of the risk; the probability that the potential injury will actually occur; and whether reasonable modifications of policies, practices, or procedures or the provision of auxiliary aids or services will mitigate the risk.
 
 ### &sect; 36.209 Illegal use of drugs.
 
 (a) *General*.
 
-(1) Except as provided in paragraph (b) of this section, this part does not prohibit discrimination against an individual based on that individual's current illegal use of drugs.
+>(1) Except as provided in paragraph (b) of this section, this part does not prohibit discrimination against an individual based on that individual's current illegal use of drugs.
 (2) A public accommodation shall not discriminate on the basis of illegal use of drugs against an individual who is not engaging in current illegal use of drugs and who -
-
-(i) Has successfully completed a supervised drug rehabilitation program or has otherwise been rehabilitated successfully;
-(ii) Is participating in a supervised rehabilitation program; or
+>>(i) Has successfully completed a supervised drug rehabilitation program or has otherwise been rehabilitated successfully;<br>
+(ii) Is participating in a supervised rehabilitation program; or<br>
 (iii) Is erroneously regarded as engaging in such use.
 
 (b) *Health and drug rehabilitation services*.
 
-(1) A public accommodation shall not deny health services, or services provided in connection with drug rehabilitation, to an individual on the basis of that individual's current illegal use of drugs, if the individual is otherwise entitled to such services.
+>(1) A public accommodation shall not deny health services, or services provided in connection with drug rehabilitation, to an individual on the basis of that individual's current illegal use of drugs, if the individual is otherwise entitled to such services.
 (2) A drug rehabilitation or treatment program may deny participation to individuals who engage in illegal use of drugs while they are in the program.
 
 (c) *Drug testing*.
 
-(1) This part does not prohibit a public accommodation from adopting or administering reasonable policies or procedures, including but not limited to drug testing, designed to ensure that an individual who formerly engaged in the illegal use of drugs is not now engaging in current illegal use of drugs.
-
+>(1) This part does not prohibit a public accommodation from adopting or administering reasonable policies or procedures, including but not limited to drug testing, designed to ensure that an individual who formerly engaged in the illegal use of drugs is not now engaging in current illegal use of drugs.<br>
 (2) Nothing in this paragraph (c) shall be construed to encourage, prohibit, restrict, or authorize the conducting of testing for the illegal use of drugs.
 
 ### &sect; 36.210 Smoking.
@@ -713,11 +687,12 @@ This part does not preclude the prohibition of, or the imposition of restriction
 
 (a) This part shall not be construed to prohibit or restrict –
 
-(1) An insurer, hospital or medical service company, health maintenance organization, or any agent, or entity that administers benefit plans, or similar organizations from underwriting risks, classifying risks, or administering such risks that are based on or not inconsistent with State law; or
+>(1) An insurer, hospital or medical service company, health maintenance organization, or any agent, or entity that administers benefit plans, or similar organizations from underwriting risks, classifying risks, or administering such risks that are based on or not inconsistent with State law; or
 (2) A person or organization covered by this part from establishing, sponsoring, observing or administering the terms of a bona fide benefit plan that are based on underwriting risks, classifying risks, or administering such risks that are based on or not inconsistent with State law; or
 (3) A person or organization covered by this part from establishing, sponsoring, observing or administering the terms of a bona fide benefit plan that is not subject to State laws that regulate insurance.
 
 (b) Paragraphs (a) (1), (2), and (3) of this section shall not be used as a subterfuge to evade the purposes of the Act or this part.
+
 (c) A public accommodation shall not refuse to serve an individual with a disability because its insurance company conditions coverage or rates on the absence of individuals with disabilities.
 
 ### &sect; 36.213 Relationship of subpart B to subparts C and D of this part.
@@ -739,47 +714,43 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 ### &sect; 36.302 Modifications in policies, practices, or procedures.
 
 (a) *General*. A public accommodation shall make reasonable modifications in policies, practices, or procedures, when the modifications are necessary to afford goods, services, facilities, privileges, advantages, or accommodations to individuals with disabilities, unless the public accommodation can demonstrate that making the modifications would fundamentally alter the nature of the goods, services, facilities, privileges, advantages, or accommodations.
+
 (b) *Specialties* –
 
-(1) *General*. A public accommodation may refer an individual with a disability to another public accommodation, if that individual is seeking, or requires, treatment or services outside of the referring public accommodation's area of specialization, and if, in the normal course of its operations, the referring public accommodation would make a similar referral for an individual without a disability who seeks or requires the same treatment or services.
+>(1) *General*. A public accommodation may refer an individual with a disability to another public accommodation, if that individual is seeking, or requires, treatment or services outside of the referring public accommodation's area of specialization, and if, in the normal course of its operations, the referring public accommodation would make a similar referral for an individual without a disability who seeks or requires the same treatment or services.
 (2) *Illustration* – *medical specialties*. A health care provider may refer an individual with a disability to another provider, if that individual is seeking, or requires, treatment or services outside of the referring provider's area of specialization, and if the referring provider would make a similar referral for an individual without a disability who seeks or requires the same treatment or services. A physician who specializes in treating only a particular condition cannot refuse to treat an individual with a disability for that condition, but is not required to treat the individual for a different condition.
 
 (c) *Service animals*.
 
-(1) *General*. Generally, a public accommodation shall modify policies, practices, or procedures to permit the use of a service animal by an individual with a disability.
+>(1) *General*. Generally, a public accommodation shall modify policies, practices, or procedures to permit the use of a service animal by an individual with a disability.<br>
 (2) *Exceptions*. A public accommodation may ask an individual with a disability to remove a service animal from the premises if:
-
-(i) The animal is out of control and the animal's handler does not take effective action to control it; or
+>>(i) The animal is out of control and the animal's handler does not take effective action to control it; or<br>
 (ii) The animal is not housebroken.
 
-(3) *If an animal is properly excluded*. If a public accommodation properly excludes a service animal under &sect; 36.302(c)(2), it shall give the individual with a disability the opportunity to obtain goods, services, and accommodations without having the service animal on the premises.
-(4) *Animal under handler's control*. A service animal shall be under the control of its handler. A service animal shall have a harness, leash, or other tether, unless either the handler is unable because of a disability to use a harness, leash, or other tether, or the use of a harness, leash, or other tether would interfere with the service animal's safe, effective performance of work or tasks, in which case the service animal must be otherwise under the handler's control (*e.g.*, voice control, signals, or other effective means).
-(5) *Care or supervision*. A public accommodation is not responsible for the care or supervision of a service animal.
-(6) *Inquiries*. A public accommodation shall not ask about the nature or extent of a person's disability, but may make two inquiries to determine whether an animal qualifies as a service animal. A public accommodation may ask if the animal is required because of a disability and what work or task the animal has been trained to perform. A public accommodation shall not require documentation, such as proof that the animal has been certified, trained, or licensed as a service animal. Generally, a public accommodation may not make these inquiries about a service animal when it is readily apparent that an animal is trained to do work or perform tasks for an individual with a disability (*e.g.*, the dog is observed guiding an individual who is blind or has low vision, pulling a person's wheelchair, or providing assistance with stability or balance to an individual with an observable mobility disability).
-(7) *Access to areas of a public accommodation*. Individuals with disabilities shall be permitted to be accompanied by their service animals in all areas of a place of public accommodation where members of the public, program participants, clients, customers, patrons, or invitees, as relevant, are allowed to go.
-(8) *Surcharges*. A public accommodation shall not ask or require an individual with a disability to pay a surcharge, even if people accompanied by pets are required to pay fees, or to comply with other requirements generally not applicable to people without pets. If a public accommodation normally charges individuals for the damage they cause, an individual with a disability may be charged for damage caused by his or her service animal.
+>(3) *If an animal is properly excluded*. If a public accommodation properly excludes a service animal under &sect; 36.302(c)(2), it shall give the individual with a disability the opportunity to obtain goods, services, and accommodations without having the service animal on the premises.<br>
+(4) *Animal under handler's control*. A service animal shall be under the control of its handler. A service animal shall have a harness, leash, or other tether, unless either the handler is unable because of a disability to use a harness, leash, or other tether, or the use of a harness, leash, or other tether would interfere with the service animal's safe, effective performance of work or tasks, in which case the service animal must be otherwise under the handler's control (*e.g.*, voice control, signals, or other effective means).<br>
+(5) *Care or supervision*. A public accommodation is not responsible for the care or supervision of a service animal.<br>
+(6) *Inquiries*. A public accommodation shall not ask about the nature or extent of a person's disability, but may make two inquiries to determine whether an animal qualifies as a service animal. A public accommodation may ask if the animal is required because of a disability and what work or task the animal has been trained to perform. A public accommodation shall not require documentation, such as proof that the animal has been certified, trained, or licensed as a service animal. Generally, a public accommodation may not make these inquiries about a service animal when it is readily apparent that an animal is trained to do work or perform tasks for an individual with a disability (*e.g.*, the dog is observed guiding an individual who is blind or has low vision, pulling a person's wheelchair, or providing assistance with stability or balance to an individual with an observable mobility disability).<br>
+(7) *Access to areas of a public accommodation*. Individuals with disabilities shall be permitted to be accompanied by their service animals in all areas of a place of public accommodation where members of the public, program participants, clients, customers, patrons, or invitees, as relevant, are allowed to go.<br>
+(8) *Surcharges*. A public accommodation shall not ask or require an individual with a disability to pay a surcharge, even if people accompanied by pets are required to pay fees, or to comply with other requirements generally not applicable to people without pets. If a public accommodation normally charges individuals for the damage they cause, an individual with a disability may be charged for damage caused by his or her service animal.<br>
 (9) *Miniature horses*.
-
-(i) A public accommodation shall make reasonable modifications in policies, practices, or procedures to permit the use of a miniature horse by an individual with a disability if the miniature horse has been individually trained to do work or perform tasks for the benefit of the individual with a disability.
+>>(i) A public accommodation shall make reasonable modifications in policies, practices, or procedures to permit the use of a miniature horse by an individual with a disability if the miniature horse has been individually trained to do work or perform tasks for the benefit of the individual with a disability.<br>
 (ii) *Assessment factors*. In determining whether reasonable modifications in policies, practices, or procedures can be made to allow a miniature horse into a specific facility, a public accommodation shall consider –
-
-(A) The type, size, and weight of the miniature horse and whether the facility can accommodate these features;
-(B) Whether the handler has sufficient control of the miniature horse;
-(C) Whether the miniature horse is housebroken; and
+>>>(A) The type, size, and weight of the miniature horse and whether the facility can accommodate these features;<br>
+(B) Whether the handler has sufficient control of the miniature horse;<br>
+(C) Whether the miniature horse is housebroken; and<br>
 (D) Whether the miniature horse's presence in a specific facility compromises legitimate safety requirements that are necessary for safe operation.
-
-(iii) *Other requirements*. Sections 36.302(c)(3) through (c)(8), which apply to service animals, shall also apply to miniature horses.
+>>(iii) *Other requirements*. Sections 36.302(c)(3) through (c)(8), which apply to service animals, shall also apply to miniature horses.
 
 (d) *Check-out aisles*. A store with check-out aisles shall ensure that an adequate number of accessible check-out aisles are kept open during store hours, or shall otherwise modify its policies and practices, in order to ensure that an equivalent level of convenient service is provided to individuals with disabilities as is provided to others. If only one check-out aisle is accessible, and it is generally used for express service, one way of providing equivalent service is to allow persons with mobility impairments to make all their purchases at that aisle.
 
 (e)
 
-(1) *Reservations made by places of lodging*. A public accommodation that owns, leases (or leases to), or operates a place of lodging shall, with respect to reservations made by any means, including by telephone, in-person, or through a third party –
-
-(i) Modify its policies, practices, or procedures to ensure that individuals with disabilities can make reservations for accessible guest rooms during the same hours and in the same manner as individuals who do not need accessible rooms;
-(ii) Identify and describe accessible features in the hotels and guest rooms offered through its reservations service in enough detail to reasonably permit individuals with disabilities to assess independently whether a given hotel or guest room meets his or her accessibility needs;
-(iii) Ensure that accessible guest rooms are held for use by individuals with disabilities until all other guest rooms of that type have been rented and the accessible room requested is the only remaining room of that type;
-(iv) Reserve, upon request, accessible guest rooms or specific types of guest rooms and ensure that the guest rooms requested are blocked and removed from all reservations systems; and
+>(1) *Reservations made by places of lodging*. A public accommodation that owns, leases (or leases to), or operates a place of lodging shall, with respect to reservations made by any means, including by telephone, in-person, or through a third party –
+>>(i) Modify its policies, practices, or procedures to ensure that individuals with disabilities can make reservations for accessible guest rooms during the same hours and in the same manner as individuals who do not need accessible rooms;<br>
+(ii) Identify and describe accessible features in the hotels and guest rooms offered through its reservations service in enough detail to reasonably permit individuals with disabilities to assess independently whether a given hotel or guest room meets his or her accessibility needs;<br>
+(iii) Ensure that accessible guest rooms are held for use by individuals with disabilities until all other guest rooms of that type have been rented and the accessible room requested is the only remaining room of that type;<br>
+(iv) Reserve, upon request, accessible guest rooms or specific types of guest rooms and ensure that the guest rooms requested are blocked and removed from all reservations systems; and<br>
 (v) Guarantee that the specific accessible guest room reserved through its reservations service is held for the reserving customer, regardless of whether a specific room is held in response to reservations made by others.
 
 (2) *Exception*. The requirements in paragraphs (iii), (iv), and (v) of this section do not apply to reservations for individual guest rooms or other units not owned or substantially controlled by the entity that owns, leases, or operates the overall facility.
@@ -787,8 +758,8 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 
 (f) *Ticketing*.
 
-(i) For the purposes of this section, &quot;accessible seating&quot; is defined as wheelchair spaces and companion seats that comply with sections 221 and 802 of the 2010 Standards along with any other seats required to be offered for sale to the individual with a disability pursuant to paragraph (4) of this section.
-(ii) *Ticket sales*. A public accommodation that sells tickets for a single event or series of events shall modify its policies, practices, or procedures to ensure that individuals with disabilities have an equal opportunity to purchase tickets for accessible seating –
+(i) For the purposes of this section, &quot;accessible seating&quot; is defined as wheelchair spaces and companion seats that comply with sections 221 and 802 of the 2010 Standards along with any other seats required to be offered for sale to the individual with a disability pursuant to paragraph (4) of this section.<br>
+(ii) *Ticket sales*. A public accommodation that sells tickets for a single event or series of events shall modify its policies, practices, or procedures to ensure that individuals with disabilities have an equal opportunity to purchase tickets for accessible seating –<br>
 
 (A) During the same hours;
 (B) During the same stages of ticket sales, including, but not limited to, pre-sales, promotions, lotteries, wait-lists, and general sales;
@@ -798,18 +769,18 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 
 (2) *Identification of available accessible seating*. A public accommodation that sells or distributes tickets for a single event or series of events shall, upon inquiry –
 
-(i) Inform individuals with disabilities, their companions, and third parties purchasing tickets for accessible seating on behalf of individuals with disabilities of the locations of all unsold or otherwise available accessible seating for any ticketed event or events at the facility;
-(ii) Identify and describe the features of available accessible seating in enough detail to reasonably permit an individual with a disability to assess independently whether a given accessible seating location meets his or her accessibility needs; and
+(i) Inform individuals with disabilities, their companions, and third parties purchasing tickets for accessible seating on behalf of individuals with disabilities of the locations of all unsold or otherwise available accessible seating for any ticketed event or events at the facility;<br>
+(ii) Identify and describe the features of available accessible seating in enough detail to reasonably permit an individual with a disability to assess independently whether a given accessible seating location meets his or her accessibility needs; and<br>
 (iii) Provide materials, such as seating maps, plans, brochures, pricing charts, or other information, that identify accessible seating and information relevant thereto with the same text or visual representations as other seats, if such materials are provided to the general public.
 
 (3) *Ticket prices*. The price of tickets for accessible seating for a single event or series of events shall not be set higher than the price for other tickets in the same seating section for the same event or series of events. Tickets for accessible seating must be made available at all price levels for every event or series of events. If tickets for accessible seating at a particular price level cannot be provided because barrier removal in an existing facility is not readily achievable, then the percentage of tickets for accessible seating that should have been available at that price level but for the barriers (determined by the ratio of the total number of tickets at that price level to the total number of tickets in the assembly area) shall be offered for purchase, at that price level, in a nearby or similar accessible location.
 
 (4) *Purchasing multiple tickets*.
 
-(i) *General*. For each ticket for a wheelchair space purchased by an individual with a disability or a third-party purchasing such a ticket at his or her request, a public accommodation shall make available for purchase three additional tickets for seats in the same row that are contiguous with the wheelchair space, provided that at the time of purchase there are three such seats available. A public accommodation is not required to provide more than three contiguous seats for each wheelchair space. Such seats may include wheelchair spaces.
-(ii) *Insufficient additional contiguous seats available*. If patrons are allowed to purchase at least four tickets, and there are fewer than three such additional contiguous seat tickets available for purchase, a public accommodation shall offer the next highest number of such seat tickets available for purchase and shall make up the difference by offering tickets for sale for seats that are as close as possible to the accessible seats.
-(iii) *Sales limited to fewer than four tickets*. If a public accommodation limits sales of tickets to fewer than four seats per patron, then the public accommodation is only obligated to offer as many seats to patrons with disabilities, including the ticket for the wheelchair space, as it would offer to patrons without disabilities.
-(iv) *Maximum number of tickets patrons may purchase exceeds four*. If patrons are allowed to purchase more than four tickets, a public accommodation shall allow patrons with disabilities to purchase up to the same number of tickets, including the ticket for the wheelchair space.
+(i) *General*. For each ticket for a wheelchair space purchased by an individual with a disability or a third-party purchasing such a ticket at his or her request, a public accommodation shall make available for purchase three additional tickets for seats in the same row that are contiguous with the wheelchair space, provided that at the time of purchase there are three such seats available. A public accommodation is not required to provide more than three contiguous seats for each wheelchair space. Such seats may include wheelchair spaces.<br>
+(ii) *Insufficient additional contiguous seats available*. If patrons are allowed to purchase at least four tickets, and there are fewer than three such additional contiguous seat tickets available for purchase, a public accommodation shall offer the next highest number of such seat tickets available for purchase and shall make up the difference by offering tickets for sale for seats that are as close as possible to the accessible seats.<br>
+(iii) *Sales limited to fewer than four tickets*. If a public accommodation limits sales of tickets to fewer than four seats per patron, then the public accommodation is only obligated to offer as many seats to patrons with disabilities, including the ticket for the wheelchair space, as it would offer to patrons without disabilities.<br>
+(iv) *Maximum number of tickets patrons may purchase exceeds four*. If patrons are allowed to purchase more than four tickets, a public accommodation shall allow patrons with disabilities to purchase up to the same number of tickets, including the ticket for the wheelchair space.<br>
 (v) *Group sales*. If a group includes one or more individuals who need to use accessible seating because of a mobility disability or because their disability requires the use of the accessible features that are provided in accessible seating, the group shall be placed in a seating area with accessible seating so that, if possible, the group can sit together. If it is necessary to divide the group, it should be divided so that the individuals in the group who use wheelchairs are not isolated from their group.
 
 (5) *Hold and release of tickets for accessible seating*.
@@ -820,7 +791,7 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 (B) When all non-accessible tickets in a designated seating area have been sold and the tickets for accessible seating are being released in the same designated area; or
 (C) When all non-accessible tickets in a designated price category have been sold and the tickets for accessible seating are being released within the same designated price category.
 
-(ii) *No requirement to release accessible tickets*. Nothing in this paragraph requires a facility to release tickets for accessible seating to individuals without disabilities for their own use.
+(ii) *No requirement to release accessible tickets*. Nothing in this paragraph requires a facility to release tickets for accessible seating to individuals without disabilities for their own use.<br>
 (iii) *Release of series-of-events tickets on a series-of-events basis*.
 
 (A) *Series-of-events tickets sell-out when no ownership rights are attached.* When series-of-events tickets are sold out and a public accommodation releases and sells accessible seating to individuals without disabilities for a series of events, the public accommodation shall establish a process that prevents the automatic reassignment of the accessible seating to such ticket holders for future seasons, future years, or future series, so that individuals with disabilities who require the features of accessible seating and who become newly eligible to purchase tickets when these series-of-events tickets are available for purchase have an opportunity to do so.
@@ -830,13 +801,13 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 
 (7) *Secondary ticket market*.
 
-(i) A public accommodation shall modify its policies, practices, or procedures to ensure that an individual with a disability may use a ticket acquired in the secondary ticket market under the same terms and conditions as other individuals who hold a ticket acquired in the secondary ticket market for the same event or series of events.
+(i) A public accommodation shall modify its policies, practices, or procedures to ensure that an individual with a disability may use a ticket acquired in the secondary ticket market under the same terms and conditions as other individuals who hold a ticket acquired in the secondary ticket market for the same event or series of events.<br>
 (ii) If an individual with a disability acquires a ticket or series of tickets to an inaccessible seat through the secondary market, a public accommodation shall make reasonable modifications to its policies, practices, or procedures to allow the individual to exchange his ticket for one to an accessible seat in a comparable location if accessible seating is vacant at the time the individual presents the ticket to the public accommodation.
 
 (8) *Prevention of fraud in purchase of tickets for accessible seating*. A public accommodation may not require proof of disability, including, for example, a doctor's note, before selling tickets for accessible seating.
 
-(i) *Single-event tickets*. For the sale of single-event tickets, it is permissible to inquire whether the individual purchasing the tickets for accessible seating has a mobility disability or a disability that requires the use of the accessible features that are provided in accessible seating, or is purchasing the tickets for an individual who has a mobility disability or a disability that requires the use of the accessible features that are provided in the accessible seating.
-(ii) *Series-of-events tickets*. For series-of-events tickets, it is permissible to ask the individual purchasing the tickets for accessible seating to attest in writing that the accessible seating is for a person who has a mobility disability or a disability that requires the use of the accessible features that are provided in the accessible seating.
+(i) *Single-event tickets*. For the sale of single-event tickets, it is permissible to inquire whether the individual purchasing the tickets for accessible seating has a mobility disability or a disability that requires the use of the accessible features that are provided in accessible seating, or is purchasing the tickets for an individual who has a mobility disability or a disability that requires the use of the accessible features that are provided in the accessible seating.<br>
+(ii) *Series-of-events tickets*. For series-of-events tickets, it is permissible to ask the individual purchasing the tickets for accessible seating to attest in writing that the accessible seating is for a person who has a mobility disability or a disability that requires the use of the accessible features that are provided in the accessible seating.<br>
 (iii) *Investigation of fraud*. A public accommodation may investigate the potential misuse of accessible seating where there is good cause to believe that such seating has been purchased fraudulently.
 
 **(g)** *Reasonable modifications for individuals &ldquo;regarded as&rdquo; having a disability.* **A public accommodation is not required to provide a reasonable modification to an individual who meets the definition of "disability" solely under the &ldquo;regarded as&rdquo; prong of the definition of &ldquo;disability&rdquo; at &sect; 36.105(a)(1)(iii).**
@@ -856,13 +827,13 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 
 (1) A public accommodation shall furnish appropriate auxiliary aids and services where necessary to ensure effective communication with individuals with disabilities. This includes an obligation to provide effective communication to companions who are individuals with disabilities.
 
-(i) For purposes of this section, &quot;companion&quot; means a family member, friend, or associate of an individual seeking access to, or participating in, the goods, services, facilities, privileges, advantages, or accommodations of a public accommodation, who, along with such individual, is an appropriate person with whom the public accommodation should communicate.
-(ii) The type of auxiliary aid or service necessary to ensure effective communication will vary in accordance with the method of communication used by the individual; the nature, length, and complexity of the communication involved; and the context in which the communication is taking place. A public accommodation should consult with individuals with disabilities whenever possible to determine what type of auxiliary aid is needed to ensure effective communication, but the ultimate decision as to what measures to take rests with the public accommodation, provided that the method chosen results in effective communication. In order to be effective, auxiliary aids and services must be provided in accessible formats, in a timely manner, and in such a way as to protect the privacy and independence of the individual with a disability.
+(i) For purposes of this section, &quot;companion&quot; means a family member, friend, or associate of an individual seeking access to, or participating in, the goods, services, facilities, privileges, advantages, or accommodations of a public accommodation, who, along with such individual, is an appropriate person with whom the public accommodation should communicate.<br>
+(ii) The type of auxiliary aid or service necessary to ensure effective communication will vary in accordance with the method of communication used by the individual; the nature, length, and complexity of the communication involved; and the context in which the communication is taking place. A public accommodation should consult with individuals with disabilities whenever possible to determine what type of auxiliary aid is needed to ensure effective communication, but the ultimate decision as to what measures to take rests with the public accommodation, provided that the method chosen results in effective communication. In order to be effective, auxiliary aids and services must be provided in accessible formats, in a timely manner, and in such a way as to protect the privacy and independence of the individual with a disability.<br>
 
 (2) A public accommodation shall not require an individual with a disability to bring another individual to interpret for him or her.
 (3) A public accommodation shall not rely on an adult accompanying an individual with a disability to interpret or facilitate communication, except –
 
-(i) In an emergency involving an imminent threat to the safety or welfare of an individual or the public where there is no interpreter available; or
+(i) In an emergency involving an imminent threat to the safety or welfare of an individual or the public where there is no interpreter available; or<br>
 (ii) Where the individual with a disability specifically requests that the accompanying adult interpret or facilitate communication, the accompanying adult agrees to provide such assistance, and reliance on that adult for such assistance is appropriate under the circumstances.
 
 (4) A public accommodation shall not rely on a minor child to interpret or facilitate communication, except in an emergency involving an imminent threat to the safety or welfare of an individual or the public where there is no interpreter available.
@@ -888,13 +859,13 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 
 **(1)  *Definitions*. For the purposes of this paragraph (g)—**
 
-**(i)  *Analog movie* means a movie exhibited in analog film format.**
-**(ii)  *Audio description* means the spoken narration of a movie’s key visual elements, such as the action, settings, facial expressions, costumes, and scene changes.*Audio description* generally requires the use of an audio description device for delivery to a patron.**
-**(iii)  *Audio description device* means the individual device that a patron may use at any seat to hear audio description.**
-**(iv)  *Captioning device* means the individual device that a patron may use at any seat to view closed movie captioning.**
-**(v)  *Closed movie captioning* means the written display of a movie’s dialogue and non-speech information, such as music, the identity of the character who is speaking, and other sounds or sound effects.*Closed movie captioning* generally requires the use of a captioning device for delivery of the captions to the patron.**
-**(vi)  *Digital movie* means a movie exhibited in digital cinema format.**
-**(vii)  *Movie theater* means a facility, other than a drive-in theater, that is owned, leased by, leased to, or operated by a public accommodation and that contains one or more auditoriums that are used primarily for the purpose of showing movies to the public for a fee.**
+**(i)  *Analog movie* means a movie exhibited in analog film format.**<br>
+**(ii)  *Audio description* means the spoken narration of a movie’s key visual elements, such as the action, settings, facial expressions, costumes, and scene changes.*Audio description* generally requires the use of an audio description device for delivery to a patron.**<br>
+**(iii)  *Audio description device* means the individual device that a patron may use at any seat to hear audio description.**<br>
+**(iv)  *Captioning device* means the individual device that a patron may use at any seat to view closed movie captioning.**<br>
+**(v)  *Closed movie captioning* means the written display of a movie’s dialogue and non-speech information, such as music, the identity of the character who is speaking, and other sounds or sound effects.*Closed movie captioning* generally requires the use of a captioning device for delivery of the captions to the patron.**<br>
+**(vi)  *Digital movie* means a movie exhibited in digital cinema format.**<br>
+**(vii)  *Movie theater* means a facility, other than a drive-in theater, that is owned, leased by, leased to, or operated by a public accommodation and that contains one or more auditoriums that are used primarily for the purpose of showing movies to the public for a fee.**<br>
 **(viii)  *Open movie captioning* means the written on-screen display of a movie’s dialogue and non-speech information, such as music, the identity of the character who is speaking, and other sounds and sound effects.**
 
 **(2)  *General*. A public accommodation shall ensure that its movie theater auditoriums provide closed movie captioning and audio description whenever they exhibit a digital movie that is distributed with such features. Application of the requirements of paragraph (g) of this section is deferred for any movie theater auditorium that exhibits analog movies exclusively, but may be addressed in a future rulemaking.**
@@ -927,17 +898,23 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 </tbody>
 </table>
 
-**(4)  *Minimum requirements for audio description devices*. (i) A public accommodation shall provide at its movie theaters a minimum of one fully operational audio description device for every two movie theater auditoriums exhibiting digital movies and no less than two devices per movie theater. When calculation of the required number of devices results in a fraction, the next greater whole number of devices shall be provided.**
+**(4)  *Minimum requirements for audio description devices*.**<br>
+
+**(i) A public accommodation shall provide at its movie theaters a minimum of one fully operational audio description device for every two movie theater auditoriums exhibiting digital movies and no less than two devices per movie theater. When calculation of the required number of devices results in a fraction, the next greater whole number of devices shall be provided.**
 
 **(ii) A public accommodation may comply with the requirements in paragraph (g)(4)(i) of this section by using the existing assistive listening receivers that the public accommodation is already required to provide at its movie theaters in accordance with Table 219.3 of the 2010 Standards, if those receivers have a minimum of two channels available for sound transmission to patrons.**
 
 **(5)  *Performance requirements for captioning devices and audio description devices*. Each captioning device and each audio description device must be properly maintained by the movie theater to ensure that each device is fully operational, available to patrons in a timely manner, and easily usable by patrons. Captioning devices must be adjustable so that the captions can be viewed as if they are on or near the movie screen, and must provide clear, sharp images in order to ensure readability of captions.**
 
-**(6) *Alternative technologies*. (i) A public accommodation may meet its obligation to provide captioning and audio description in its movie theaters to persons with disabilities through any technology so long as that technology provides communication as effective as that provided to movie patrons without disabilities.**
+**(6) *Alternative technologies*.**
+
+**(i) A public accommodation may meet its obligation to provide captioning and audio description in its movie theaters to persons with disabilities through any technology so long as that technology provides communication as effective as that provided to movie patrons without disabilities.**
 
 **(ii) A public accommodation may use open movie captioning as an alternative to complying with the requirements specified in paragraph (g)(3) of this section, either by providing open movie captioning at all showings of all movies available with captioning, or whenever requested by or for an individual who is deaf or hard of hearing prior to the start of the movie.**
 
-**(7) *Compliance date for providing captioning and audio description*. (i) A public accommodation must comply with the requirements in paragraphs (g)(2)–(6) of this section in its movie theaters that exhibit digital movies by June 2, 2018.**
+**(7) *Compliance date for providing captioning and audio description*.**<br>
+
+**(i) A public accommodation must comply with the requirements in paragraphs (g)(2)–(6) of this section in its movie theaters that exhibit digital movies by June 2, 2018.**
 
 **(ii) If a public accommodation converts a movie theater auditorium from an analog projection system to a system that allows it to exhibit digital movies after December 2, 2016, then that auditorium must comply with the requirements in paragraph (g) of this section by December 2, 2018, or within 6 months of that auditorium’s complete installation of a digital projection system, whichever is later.**
 
@@ -1001,25 +978,28 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 (i) *Safe harbor*. Elements that have not been altered in existing facilities on or after March 15, 2012, and that comply with the corresponding technical and scoping specifications for those elements in the 1991 Standards are not required to be modified in order to comply with the requirements set forth in the 2010 Standards.
 
 (ii)
+
 (A) Before March 15, 2012, elements in existing facilities that do not comply with the corresponding technical and scoping specifications for those elements in the 1991 Standards must be modified to the extent readily achievable to comply with either the 1991 Standards or the 2010 Standards. Noncomplying newly constructed and altered elements may also be subject to the requirements of &sect; 36.406(a)(5).
+
 (B) On or after March 15, 2012, elements in existing facilities that do not comply with the corresponding technical and scoping specifications for those elements in the 1991 Standards must be modified to the extent readily achievable to comply with the requirements set forth in the 2010 Standards. Noncomplying newly constructed and altered elements may also be subject to the requirements of &sect; 36.406(a)(5).
+
 (iii) The safe harbor provided in &sect; 36.304(d)(2)(i) does not apply to those elements in existing facilities that are subject to supplemental requirements (*i.e.*, elements for which there are neither technical nor scoping specifications in the 1991 Standards), and therefore those elements must be modified to the extent readily achievable to comply with the 2010 Standards. Noncomplying newly constructed and altered elements may also be subject to the requirements of &sect; 36.406(a)(5). Elements in the 2010 Standards not eligible for the element-by-element safe harbor are identified as follows –
 
-(A) *Residential facilities and dwelling units*, sections 233 and 809.
-(B) *Amusement rides*, sections 234 and 1002; 206.2.9; 216.12.
-(C) *Recreational boating facilities*, sections 235 and 1003; 206.2.10.
-(D) *Exercise machines and equipment*, sections 236 and 1004; 206.2.13.
-(E) *Fishing piers and platforms*, sections 237 and 1005; 206.2.14.
-(F) *Golf facilities*, sections 238 and 1006; 206.2.15.
-(G) *Miniature golf facilities*, sections 239 and 1007; 206.2.16.
-(H) *Play areas*, sections 240 and 1008; 206.2.17.
-(I) *Saunas and steam rooms*, sections 241 and 612.
-(J) *Swimming pools, wading pools, and spas*, sections 242 and 1009.
-(K) *Shooting facilities with firing positions*, sections 243 and 1010.
+(A) *Residential facilities and dwelling units*, sections 233 and 809.<br>
+(B) *Amusement rides*, sections 234 and 1002; 206.2.9; 216.12.<br>
+(C) *Recreational boating facilities*, sections 235 and 1003; 206.2.10.<br>
+(D) *Exercise machines and equipment*, sections 236 and 1004; 206.2.13.<br>
+(E) *Fishing piers and platforms*, sections 237 and 1005; 206.2.14.<br>
+(F) *Golf facilities*, sections 238 and 1006; 206.2.15.<br>
+(G) *Miniature golf facilities*, sections 239 and 1007; 206.2.16.<br>
+(H) *Play areas*, sections 240 and 1008; 206.2.17.<br>
+(I) *Saunas and steam rooms*, sections 241 and 612.<br>
+(J) *Swimming pools, wading pools, and spas*, sections 242 and 1009.<br>
+(K) *Shooting facilities with firing positions*, sections 243 and 1010.<br>
 (L) *Miscellaneous*.
 
-*(1)*  Team or player seating, section 221.2.1.4.
-*(2)*  Accessible route to bowling lanes, section 206.2.11.
+*(1)*  Team or player seating, section 221.2.1.4.<br>
+*(2)*  Accessible route to bowling lanes, section 206.2.11.<br>
 *(3)*  Accessible route in court sports facilities, section 206.2.12.
 
 (3)  If, as a result of compliance with the alterations requirements specified in paragraph (d)(1) and (d)(2) of this section, the measures required to remove a barrier would not be readily achievable, a public accommodation may take other readily achievable measures to remove the barrier that do not fully comply with the specified requirements. Such measures include, for example, providing a ramp with a steeper slope or widening a doorway to a narrower width than that mandated by the alterations requirements. No measure shall be taken, however, that poses a significant risk to the health or safety of individuals with disabilities or others.
@@ -1073,11 +1053,11 @@ Subpart B of this part sets forth the general principles of nondiscrimination ap
 
 ### &sect; 36.305 Alternatives to barrier removal.
 
-(a)  *General*. Where a public accommodation can demonstrate that barrier removal is not readily achievable, the public accommodation shall not fail to make its goods, services, facilities, privileges, advantages, or accommodations available through alternative methods, if those methods are readily achievable.
+(a)  *General*. Where a public accommodation can demonstrate that barrier removal is not readily achievable, the public accommodation shall not fail to make its goods, services, facilities, privileges, advantages, or accommodations available through alternative methods, if those methods are readily achievable.<br>
 (b)  *Examples*. Examples of alternatives to barrier removal include, but are not limited to, the following actions –
 
-(1)  Providing curb service or home delivery;
-(2)  Retrieving merchandise from inaccessible shelves or racks;
+(1)  Providing curb service or home delivery;<br>
+(2)  Retrieving merchandise from inaccessible shelves or racks;<br>
 (3)  Relocating activities to accessible locations;
 
 (c)  *Multiscreen cinemas*. If it is not readily achievable to remove barriers to provide access by persons with mobility impairments to all of the theaters of a multiscreen cinema, the cinema shall establish a film rotation schedule that provides reasonable access for individuals who use wheelchairs to all films. Reasonable notice shall be provided to the public as to the location and time of accessible showings.
@@ -1088,8 +1068,8 @@ This part does not require a public accommodation to provide its customers, clie
 
 ### &sect; 36.307 Accessible or special goods.
 
-(a)  This part does not require a public accommodation to alter its inventory to include accessible or special goods that are designed for, or facilitate use by, individuals with disabilities.
-(b)  A public accommodation shall order accessible or special goods at the request of an individual with disabilities, if, in the normal course of its operation, it makes special orders on request for unstocked goods, and if the accessible or special goods can be obtained from a supplier with whom the public accommodation customarily does business.
+(a)  This part does not require a public accommodation to alter its inventory to include accessible or special goods that are designed for, or facilitate use by, individuals with disabilities.<br>
+(b)  A public accommodation shall order accessible or special goods at the request of an individual with disabilities, if, in the normal course of its operation, it makes special orders on request for unstocked goods, and if the accessible or special goods can be obtained from a supplier with whom the public accommodation customarily does business.<br>
 (c)  Examples of accessible or special goods include items such as Brailled versions of books, books on audio cassettes, closed-captioned video tapes, special sizes or lines of clothing, and special foods to meet particular dietary needs.
 
 ### &sect; 36.308 Seating in assembly areas.
@@ -1104,30 +1084,30 @@ A public accommodation shall ensure that wheelchair spaces and companion seats a
 
 (1)  Any private entity offering an examination covered by this section must assure that –
 
-(i)  The examination is selected and administered so as to best ensure that, when the examination is administered to an individual with a disability that impairs sensory, manual, or speaking skills, the examination results accurately reflect the individual's aptitude or achievement level or whatever other factor the examination purports to measure, rather than reflecting the individual's impaired sensory, manual, or speaking skills (except where those skills are the factors that the examination purports to measure);
-(ii)  An examination that is designed for individuals with impaired sensory, manual, or speaking skills is offered at equally convenient locations, as often, and in as timely a manner as are other examinations; and
-(iii)  The examination is administered in facilities that are accessible to individuals with disabilities or alternative accessible arrangements are made.
-(iv)  Any request for documentation, if such documentation is required, is reasonable and limited to the need for the modification, accommodation, or auxiliary aid or service requested.
-(v)  When considering requests for modifications, accommodations, or auxiliary aids or services, the entity gives considerable weight to documentation of past modifications, accommodations, or auxiliary aids or services received in similar testing situations, as well as such modifications, accommodations, or related aids and services provided in response to an Individualized Education Program (IEP) provided under the Individuals with Disabilities Education Act or a plan describing services provided pursuant to section 504 of the Rehabilitation Act of 1973, as amended (often referred as a Section 504 Plan).
+(i)  The examination is selected and administered so as to best ensure that, when the examination is administered to an individual with a disability that impairs sensory, manual, or speaking skills, the examination results accurately reflect the individual's aptitude or achievement level or whatever other factor the examination purports to measure, rather than reflecting the individual's impaired sensory, manual, or speaking skills (except where those skills are the factors that the examination purports to measure);<br>
+(ii)  An examination that is designed for individuals with impaired sensory, manual, or speaking skills is offered at equally convenient locations, as often, and in as timely a manner as are other examinations; and<br>
+(iii)  The examination is administered in facilities that are accessible to individuals with disabilities or alternative accessible arrangements are made.<br>
+(iv)  Any request for documentation, if such documentation is required, is reasonable and limited to the need for the modification, accommodation, or auxiliary aid or service requested.<br>
+(v)  When considering requests for modifications, accommodations, or auxiliary aids or services, the entity gives considerable weight to documentation of past modifications, accommodations, or auxiliary aids or services received in similar testing situations, as well as such modifications, accommodations, or related aids and services provided in response to an Individualized Education Program (IEP) provided under the Individuals with Disabilities Education Act or a plan describing services provided pursuant to section 504 of the Rehabilitation Act of 1973, as amended (often referred as a Section 504 Plan).<br>
 (vi)  The entity responds in a timely manner to requests for modifications, accommodations, or aids to ensure equal opportunity for individuals with disabilities.
 
-(2)  Required modifications to an examination may include changes in the length of time permitted for completion of the examination and adaptation of the manner in which the examination is given.
-(3)  A private entity offering an examination covered by this section shall provide appropriate auxiliary aids for persons with impaired sensory, manual, or speaking skills, unless that private entity can demonstrate that offering a particular auxiliary aid would fundamentally alter the measurement of the skills or knowledge the examination is intended to test or would result in an undue burden. Auxiliary aids and services required by this section may include taped examinations, interpreters or other effective methods of making orally delivered materials available to individuals with hearing impairments, Brailled or large print examinations and answer sheets or qualified readers for individuals with visual impairments or learning disabilities, transcribers for individuals with manual impairments, and other similar services and actions.
+(2)  Required modifications to an examination may include changes in the length of time permitted for completion of the examination and adaptation of the manner in which the examination is given.<br>
+(3)  A private entity offering an examination covered by this section shall provide appropriate auxiliary aids for persons with impaired sensory, manual, or speaking skills, unless that private entity can demonstrate that offering a particular auxiliary aid would fundamentally alter the measurement of the skills or knowledge the examination is intended to test or would result in an undue burden. Auxiliary aids and services required by this section may include taped examinations, interpreters or other effective methods of making orally delivered materials available to individuals with hearing impairments, Brailled or large print examinations and answer sheets or qualified readers for individuals with visual impairments or learning disabilities, transcribers for individuals with manual impairments, and other similar services and actions.<br>
 (4)  Alternative accessible arrangements may include, for example, provision of an examination at an individual's home with a proctor if accessible facilities or equipment are unavailable. Alternative arrangements must provide comparable conditions to those provided for nondisabled individuals.
 
 (c)  *Courses*.
 
-(1)  Any private entity that offers a course covered by this section must make such modifications to that course as are necessary to ensure that the place and manner in which the course is given are accessible to individuals with disabilities.
-(2)  Required modifications may include changes in the length of time permitted for the completion of the course, substitution of specific requirements, or adaptation of the manner in which the course is conducted or course materials are distributed.
-(3)  A private entity that offers a course covered by this section shall provide appropriate auxiliary aids and services for persons with impaired sensory, manual, or speaking skills, unless the private entity can demonstrate that offering a particular auxiliary aid or service would fundamentally alter the course or would result in an undue burden. Auxiliary aids and services required by this section may include taped texts, interpreters or other effective methods of making orally delivered materials available to individuals with hearing impairments, Brailled or large print texts or qualified readers for individuals with visual impairments and learning disabilities, classroom equipment adapted for use by individuals with manual impairments, and other similar services and actions.
-(4)  Courses must be administered in facilities that are accessible to individuals with disabilities or alternative accessible arrangements must be made.
+(1)  Any private entity that offers a course covered by this section must make such modifications to that course as are necessary to ensure that the place and manner in which the course is given are accessible to individuals with disabilities.<br>
+(2)  Required modifications may include changes in the length of time permitted for the completion of the course, substitution of specific requirements, or adaptation of the manner in which the course is conducted or course materials are distributed.<br>
+(3)  A private entity that offers a course covered by this section shall provide appropriate auxiliary aids and services for persons with impaired sensory, manual, or speaking skills, unless the private entity can demonstrate that offering a particular auxiliary aid or service would fundamentally alter the course or would result in an undue burden. Auxiliary aids and services required by this section may include taped texts, interpreters or other effective methods of making orally delivered materials available to individuals with hearing impairments, Brailled or large print texts or qualified readers for individuals with visual impairments and learning disabilities, classroom equipment adapted for use by individuals with manual impairments, and other similar services and actions.<br>
+(4)  Courses must be administered in facilities that are accessible to individuals with disabilities or alternative accessible arrangements must be made.<br>
 (5)  Alternative accessible arrangements may include, for example, provision of the course through videotape, cassettes, or prepared notes. Alternative arrangements must provide comparable conditions to those provided for nondisabled individuals.
 
 ### &sect; 36.310 Transportation provided by public accommodations.
 
 (a)  *General*.
 
-(1)  A public accommodation that provides transportation services, but that is not primarily engaged in the business of transporting people, is subject to the general and specific provisions in subparts B, C, and D of this part for its transportation operations, except as provided in this section.
+(1)  A public accommodation that provides transportation services, but that is not primarily engaged in the business of transporting people, is subject to the general and specific provisions in subparts B, C, and D of this part for its transportation operations, except as provided in this section.<br>
 (2)  *Examples*. Transportation services subject to this section include, but are not limited to, shuttle services operated between transportation terminals and places of public accommodation, customer shuttle bus services operated by private companies and shopping centers, student transportation systems, and transportation provided within recreational facilities such as stadiums, zoos, amusement parks, and ski resorts.
 
 (b)  *Barrier removal*. A public accommodation subject to this section shall remove transportation barriers in existing vehicles and rail passenger cars used for transporting individuals (not including barriers that can only be removed through the retrofitting of vehicles or rail passenger cars by the installation of a hydraulic or other lift) where such removal is readily achievable.
@@ -1140,18 +1120,18 @@ A public accommodation shall ensure that wheelchair spaces and companion seats a
 
 (b)
 
-(1)  *Use of other power-driven mobility devices*. A public accommodation shall make reasonable modifications in its policies, practices, or procedures to permit the use of other power-driven mobility devices by individuals with mobility disabilities, unless the public accommodation can demonstrate that the class of other power-driven mobility devices cannot be operated in accordance with legitimate safety requirements that the public accommodation has adopted pursuant to &sect; 36.301(b).
+(1)  *Use of other power-driven mobility devices*. A public accommodation shall make reasonable modifications in its policies, practices, or procedures to permit the use of other power-driven mobility devices by individuals with mobility disabilities, unless the public accommodation can demonstrate that the class of other power-driven mobility devices cannot be operated in accordance with legitimate safety requirements that the public accommodation has adopted pursuant to &sect; 36.301(b).<br>
 (2)  *Assessment factors*. In determining whether a particular other power-driven mobility device can be allowed in a specific facility as a reasonable modification under paragraph (b)(1) of this section, a public accommodation shall consider –
 
 (i)  The type, size, weight, dimensions, and speed of the device;
-(ii)  The facility's volume of pedestrian traffic (which may vary at different times of the day, week, month, or year);
-(iii)  The facility's design and operational characteristics (*e.g.*, whether its business is conducted indoors, its square footage, the density and placement of stationary devices, and the availability of storage for the device, if requested by the user);
-(iv)  Whether legitimate safety requirements can be established to permit the safe operation of the other power-driven mobility device in the specific facility; and
+(ii)  The facility's volume of pedestrian traffic (which may vary at different times of the day, week, month, or year);<br>
+(iii)  The facility's design and operational characteristics (*e.g.*, whether its business is conducted indoors, its square footage, the density and placement of stationary devices, and the availability of storage for the device, if requested by the user);<br>
+(iv)  Whether legitimate safety requirements can be established to permit the safe operation of the other power-driven mobility device in the specific facility; and<br>
 (v)  Whether the use of the other power-driven mobility device creates a substantial risk of serious harm to the immediate environment or natural or cultural resources, or poses a conflict with Federal land management laws and regulations.
 
 (c)
 
-(1)  *Inquiry about disability*. A public accommodation shall not ask an individual using a wheelchair or other power-driven mobility device questions about the nature and extent of the individual's disability.
+(1)  *Inquiry about disability*. A public accommodation shall not ask an individual using a wheelchair or other power-driven mobility device questions about the nature and extent of the individual's disability.<br>
 (2)  *Inquiry into use of other power-driven mobility device*. A public accommodation may ask a person using an other power-driven mobility device to provide a credible assurance that the mobility device is required because of the person's disability. A public accommodation that permits the use of an other power-driven mobility device by an individual with a mobility disability shall accept the presentation of a valid, State-issued disability parking placard or card, or State-issued proof of disability, as a credible assurance that the use of the other power-driven mobility device is for the individual's mobility disability. In lieu of a valid, State-issued disability parking placard or card, or State-issued proof of disability, a public accommodation shall accept as a credible assurance a verbal representation, not contradicted by observable fact, that the other power-driven mobility device is being used for a mobility disability. A &quot;valid&quot; disability placard or card is one that is presented by the individual to whom it was issued and is otherwise in compliance with the State of issuance's requirements for disability placards or cards.
 
 ### &sect;&sect; 36.312 – 36.399 [Reserved]
@@ -1162,36 +1142,36 @@ A public accommodation shall ensure that wheelchair spaces and companion seats a
 
 (a)  *General*.
 
-(1)  Except as provided in paragraphs (b) and (c) of this section, discrimination for purposes of this part includes a failure to design and construct facilities for first occupancy after January 26, 1993, that are readily accessible to and usable by individuals with disabilities.
+(1)  Except as provided in paragraphs (b) and (c) of this section, discrimination for purposes of this part includes a failure to design and construct facilities for first occupancy after January 26, 1993, that are readily accessible to and usable by individuals with disabilities.<br>
 (2)  For purposes of this section, a facility is designed and constructed for first occupancy after January 26, 1993, only –
 
-(i)  If the last application for a building permit or permit extension for the facility is certified to be complete, by a State, County, or local government after January 26, 1992 (or, in those jurisdictions where the government does not certify completion of applications, if the last application for a building permit or permit extension for the facility is received by the State, County, or local government after January 26, 1992); and
+(i)  If the last application for a building permit or permit extension for the facility is certified to be complete, by a State, County, or local government after January 26, 1992 (or, in those jurisdictions where the government does not certify completion of applications, if the last application for a building permit or permit extension for the facility is received by the State, County, or local government after January 26, 1992); and<br>
 (ii)  If the first certificate of occupancy for the facility is issued after January 26, 1993.
 
 (b)  *Commercial facilities located in private residences*.
 
-(1)  When a commercial facility is located in a private residence, the portion of the residence used exclusively as a residence is not covered by this subpart, but that portion used exclusively in the operation of the commercial facility or that portion used both for the commercial facility and for residential purposes is covered by the new construction and alterations requirements of this subpart.
+(1)  When a commercial facility is located in a private residence, the portion of the residence used exclusively as a residence is not covered by this subpart, but that portion used exclusively in the operation of the commercial facility or that portion used both for the commercial facility and for residential purposes is covered by the new construction and alterations requirements of this subpart.<br>
 (2)  The portion of the residence covered under paragraph (b)(1) of this section extends to those elements used to enter the commercial facility, including the homeowner's front sidewalk, if any, the door or entryway, and hallways; and those portions of the residence, interior or exterior, available to or used by employees or visitors of the commercial facility, including restrooms.
 
 (c)  *Exception for structural impracticability*.
 
-(1)  Full compliance with the requirements of this section is not required where an entity can demonstrate that it is structurally impracticable to meet the requirements. Full compliance will be considered structurally impracticable only in those rare circumstances when the unique characteristics of terrain prevent the incorporation of accessibility features.
-(2)  If full compliance with this section would be structurally impracticable, compliance with this section is required to the extent that it is not structurally impracticable. In that case, any portion of the facility that can be made accessible shall be made accessible to the extent that it is not structurally impracticable.
+(1)  Full compliance with the requirements of this section is not required where an entity can demonstrate that it is structurally impracticable to meet the requirements. Full compliance will be considered structurally impracticable only in those rare circumstances when the unique characteristics of terrain prevent the incorporation of accessibility features.<br>
+(2)  If full compliance with this section would be structurally impracticable, compliance with this section is required to the extent that it is not structurally impracticable. In that case, any portion of the facility that can be made accessible shall be made accessible to the extent that it is not structurally impracticable.<br>
 (3)  If providing accessibility in conformance with this section to individuals with certain disabilities (*e.g.*, those who use wheelchairs) would be structurally impracticable, accessibility shall nonetheless be ensured to persons with other types of disabilities (*e.g.*, those who use crutches or who have sight, hearing, or mental impairments) in accordance with this section.
 
 (d)  *Elevator exemption*.
 
 (1)  For purposes of this paragraph (d) –
 
-(i)  Professional office of a health care provider means a location where a person or entity regulated by a State to provide professional services related to the physical or mental health of an individual makes such services available to the public. The facility housing the &quot;professional office of a health care provider&quot; only includes floor levels housing at least one health care provider, or any floor level designed or intended for use by at least one health care provider.
+(i)  Professional office of a health care provider means a location where a person or entity regulated by a State to provide professional services related to the physical or mental health of an individual makes such services available to the public. The facility housing the &quot;professional office of a health care provider&quot; only includes floor levels housing at least one health care provider, or any floor level designed or intended for use by at least one health care provider.<br>
 (ii)  Shopping center or shopping mall means –
 
-(A)  A building housing five or more sales or rental establishments; or
+(A)  A building housing five or more sales or rental establishments; or<br>
 (B)  A series of buildings on a common site, either under common ownership or common control or developed either as one project or as a series of related projects, housing five or more sales or rental establishments. For purposes of this section, places of public accommodation of the types listed in paragraph (5) of the definition of &quot;place of public accommodation&quot; in section &sect; 36.104 are considered sales or rental establishments. The facility housing a &quot;shopping center or shopping mall&quot; only includes floor levels housing at least one sales or rental establishment, or any floor level designed or intended for use by at least one sales or rental establishment.
 
 (2)  This section does not require the installation of an elevator in a facility that is less than three stories or has less than 3000 square feet per story, except with respect to any facility that houses one or more of the following:
 
-(i)  A shopping center or shopping mall, or a professional office of a health care provider.
+(i)  A shopping center or shopping mall, or a professional office of a health care provider.<br>
 (ii)  A terminal, depot, or other station used for specified public transportation, or an airport passenger terminal. In such a facility, any area housing passenger services, including boarding and debarking, loading and unloading, baggage claim, dining facilities, and other common areas open to the public, must be on an accessible route from an accessible entrance.
 
 (3)  The elevator exemption set forth in this paragraph (d) does not obviate or limit, in any way the obligation to comply with the other accessibility requirements established in paragraph (a) of this section. For example, in a facility that houses a shopping center or shopping mall, or a professional office of a health care provider, the floors that are above or below an accessible ground floor and that do not house sales or rental establishments or a professional office of a health care provider, must meet the requirements of this section but for the elevator.
@@ -1200,12 +1180,12 @@ A public accommodation shall ensure that wheelchair spaces and companion seats a
 
 (a)  *General*.
 
-(1)  Any alteration to a place of public accommodation or a commercial facility, after January 26, 1992, shall be made so as to ensure that, to the maximum extent feasible, the altered portions of the facility are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs.
+(1)  Any alteration to a place of public accommodation or a commercial facility, after January 26, 1992, shall be made so as to ensure that, to the maximum extent feasible, the altered portions of the facility are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs.<br>
 (2)  An alteration is deemed to be undertaken after January 26, 1992, if the physical alteration of the property begins after that date.
 
 (b)  *Alteration*. For the purposes of this part, an alteration is a change to a place of public accommodation or a commercial facility that affects or could affect the usability of the building or facility or any part thereof.
 
-(1)  Alterations include, but are not limited to, remodeling, renovation, rehabilitation, reconstruction, historic restoration, changes or rearrangement in structural parts or elements, and changes or rearrangement in the plan configuration of walls and full-height partitions. Normal maintenance, reroofing, painting or wallpapering, asbestos removal, or changes to mechanical and electrical systems are not alterations unless they affect the usability of the building or facility.
+(1)  Alterations include, but are not limited to, remodeling, renovation, rehabilitation, reconstruction, historic restoration, changes or rearrangement in structural parts or elements, and changes or rearrangement in the plan configuration of walls and full-height partitions. Normal maintenance, reroofing, painting or wallpapering, asbestos removal, or changes to mechanical and electrical systems are not alterations unless they affect the usability of the building or facility.<br>
 (2)  If existing elements, spaces, or common areas are altered, then each such altered element, space, or area shall comply with the applicable provisions of appendix A to this part.
 
 (c)  *To the maximum extent feasible*. The phrase &quot;to the maximum extent feasible,&quot; as used in this section, applies to the occasional case where the nature of an existing facility makes it virtually impossible to comply fully with applicable accessibility standards through a planned alteration. In these circumstances, the alteration shall provide the maximum physical accessibility feasible. Any altered features of the facility that can be made accessible shall be made accessible. If providing accessibility in conformance with this section to individuals with certain disabilities (*e.g.*, those who use wheelchairs) would not be feasible, the facility shall be made accessible to persons with other types of disabilities (*e.g.*, those who use crutches, those who have impaired vision or hearing, or those who have other impairments).
@@ -1214,7 +1194,7 @@ A public accommodation shall ensure that wheelchair spaces and companion seats a
 
 (a)  *General*.
 
-(1)  An alteration that affects or could affect the usability of or access to an area of a facility that contains a primary function shall be made so as to ensure that, to the maximum extent feasible, the path of travel to the altered area and the restrooms, telephones, and drinking fountains serving the altered area, are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, unless the cost and scope of such alterations is disproportionate to the cost of the overall alteration.
+(1)  An alteration that affects or could affect the usability of or access to an area of a facility that contains a primary function shall be made so as to ensure that, to the maximum extent feasible, the path of travel to the altered area and the restrooms, telephones, and drinking fountains serving the altered area, are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, unless the cost and scope of such alterations is disproportionate to the cost of the overall alteration.<br>
 (2)  If a private entity has constructed or altered required elements of a path of travel at a place of public accommodation or commercial facility in accordance with the specifications in the 1991 Standards, the private entity is not required to retrofit such elements to reflect the incremental changes in the 2010 Standards solely because of an alteration to a primary function area served by that path of travel.
 
 (b)  *Primary function*. A &quot;primary function&quot; is a major activity for which the facility is intended. Areas that contain a primary function include, but are not limited to, the customer services lobby of a bank, the dining area of a cafeteria, the meeting rooms in a conference center, as well as offices and other work areas in which the activities of the public accommodation or other private entity using the facility are carried out. Mechanical rooms, boiler rooms, supply storage rooms, employee lounges or locker rooms, janitorial closets, entrances, corridors, and restrooms are not areas containing a primary function.
@@ -1223,9 +1203,9 @@ A public accommodation shall ensure that wheelchair spaces and companion seats a
 
 (1)  Alterations that affect the usability of or access to an area containing a primary function include, but are not limited to -
 
-(i)  Remodeling merchandise display areas or employee work areas in a department store;
-(ii)  Replacing an inaccessible floor surface in the customer service or employee work areas of a bank;
-(iii)  Redesigning the assembly line area of a factory; or
+(i)  Remodeling merchandise display areas or employee work areas in a department store;<br>
+(ii)  Replacing an inaccessible floor surface in the customer service or employee work areas of a bank;<br>
+(iii)  Redesigning the assembly line area of a factory; or<br>
 (iv)  Installing a computer center in an accounting firm.
 
 (2)  For the purposes of this section, alterations to windows, hardware, controls, electrical outlets, and signage shall not be deemed to be alterations that affect the usability of or access to an area containing a primary function.
@@ -1234,68 +1214,68 @@ A public accommodation shall ensure that wheelchair spaces and companion seats a
 
 (e)  *Path of travel*.
 
-(1)  A &quot;path of travel&quot; includes a continuous, unobstructed way of pedestrian passage by means of which the altered area may be approached, entered, and exited, and which connects the altered area with an exterior approach (including sidewalks, streets, and parking areas), an entrance to the facility, and other parts of the facility.
-(2)  An accessible path of travel may consist of walks and sidewalks, curb ramps and other interior or exterior pedestrian ramps; clear floor paths through lobbies, corridors, rooms, and other improved areas; parking access aisles; elevators and lifts; or a combination of these elements.
+(1)  A &quot;path of travel&quot; includes a continuous, unobstructed way of pedestrian passage by means of which the altered area may be approached, entered, and exited, and which connects the altered area with an exterior approach (including sidewalks, streets, and parking areas), an entrance to the facility, and other parts of the facility.<br>
+(2)  An accessible path of travel may consist of walks and sidewalks, curb ramps and other interior or exterior pedestrian ramps; clear floor paths through lobbies, corridors, rooms, and other improved areas; parking access aisles; elevators and lifts; or a combination of these elements.<br>
 (3)  For the purposes of this part, the term &quot;path of travel&quot; also includes the restrooms, telephones, and drinking fountains serving the altered area.
 
 (f)  *Disproportionality*.
 
-(1)  Alterations made to provide an accessible path of travel to the altered area will be deemed disproportionate to the overall alteration when the cost exceeds 20% of the cost of the alteration to the primary function area.
+(1)  Alterations made to provide an accessible path of travel to the altered area will be deemed disproportionate to the overall alteration when the cost exceeds 20% of the cost of the alteration to the primary function area.<br>
 (2)  Costs that may be counted as expenditures required to provide an accessible path of travel may include:
 
-(i)  Costs associated with providing an accessible entrance and an accessible route to the altered area, for example, the cost of widening doorways or installing ramps;
-(ii)  Costs associated with making restrooms accessible, such as installing grab bars, enlarging toilet stalls, insulating pipes, or installing accessible faucet controls;
-(iii)  Costs associated with providing accessible telephones, such as relocating the telephone to an accessible height, installing amplification devices, or installing a text telephone (TTY);
+(i)  Costs associated with providing an accessible entrance and an accessible route to the altered area, for example, the cost of widening doorways or installing ramps;<br>
+(ii)  Costs associated with making restrooms accessible, such as installing grab bars, enlarging toilet stalls, insulating pipes, or installing accessible faucet controls;<br>
+(iii)  Costs associated with providing accessible telephones, such as relocating the telephone to an accessible height, installing amplification devices, or installing a text telephone (TTY);<br>
 (iv)  Costs associated with relocating an inaccessible drinking fountain.
 
 (g)  *Duty to provide accessible features in the event of disproportionality*.
 
-(1)  When the cost of alterations necessary to make the path of travel to the altered area fully accessible is disproportionate to the cost of the overall alteration, the path of travel shall be made accessible to the extent that it can be made accessible without incurring disproportionate costs.
+(1)  When the cost of alterations necessary to make the path of travel to the altered area fully accessible is disproportionate to the cost of the overall alteration, the path of travel shall be made accessible to the extent that it can be made accessible without incurring disproportionate costs.<br>
 (2)  In choosing which accessible elements to provide, priority should be given to those elements that will provide the greatest access, in the following order:
 
-(i)  An accessible entrance;
-(ii)  An accessible route to the altered area;
-(iii)  At least one accessible restroom for each sex or a single unisex restroom;
-(iv)  Accessible telephones;
-(v)  Accessible drinking fountains; and
+(i)  An accessible entrance;<br>
+(ii)  An accessible route to the altered area;<br>
+(iii)  At least one accessible restroom for each sex or a single unisex restroom;<br>
+(iv)  Accessible telephones;<br>
+(v)  Accessible drinking fountains; and<br>
 (vi)  When possible, additional accessible elements such as parking, storage, and alarms.
 
 (h) *Series of smaller alterations.*
 
-(1)  The obligation to provide an accessible path of travel may not be evaded by performing a series of small alterations to the area served by a single path of travel if those alterations could have been performed as a single undertaking.
+(1)  The obligation to provide an accessible path of travel may not be evaded by performing a series of small alterations to the area served by a single path of travel if those alterations could have been performed as a single undertaking.<br>
 (2)
 
-(i)  If an area containing a primary function has been altered without providing an accessible path of travel to that area, and subsequent alterations of that area, or a different area on the same path of travel, are undertaken within three years of the original alteration, the total cost of alterations to the primary function areas on that path of travel during the preceding three year period shall be considered in determining whether the cost of making that path of travel accessible is disproportionate.
+(i)  If an area containing a primary function has been altered without providing an accessible path of travel to that area, and subsequent alterations of that area, or a different area on the same path of travel, are undertaken within three years of the original alteration, the total cost of alterations to the primary function areas on that path of travel during the preceding three year period shall be considered in determining whether the cost of making that path of travel accessible is disproportionate.<br>
 (ii)  Only alterations undertaken after January 26, 1992, shall be considered in determining if the cost of providing an accessible path of travel is disproportionate to the overall cost of the alterations.
 
 ### &sect; 36.404 Alterations: Elevator exemption.
 
 (a)  This section does not require the installation of an elevator in an altered facility that is less than three stories or has less than 3,000 square feet per story, except with respect to any facility that houses a shopping center, a shopping mall, the professional office of a health care provider, a terminal, depot, or other station used for specified public transportation, or an airport passenger terminal.
 
-(1)  For the purposes of this section, &quot;professional office of a health care provider&quot; means a location where a person or entity regulated by a State to provide professional services related to the physical or mental health of an individual makes such services available to the public. The facility that houses a &quot;professional office of a health care provider&quot; only includes floor levels housing by at least one health care provider, or any floor level designed or intended for use by at least one health care provider.
+(1)  For the purposes of this section, &quot;professional office of a health care provider&quot; means a location where a person or entity regulated by a State to provide professional services related to the physical or mental health of an individual makes such services available to the public. The facility that houses a &quot;professional office of a health care provider&quot; only includes floor levels housing by at least one health care provider, or any floor level designed or intended for use by at least one health care provider.<br>
 (2)  For the purposes of this section, shopping center or shopping mall means –
 
-(i)  A building housing five or more sales or rental establishments; or
+(i)  A building housing five or more sales or rental establishments; or<br>
 (ii)  A series of buildings on a common site, connected by a common pedestrian access route above or below the ground floor, that is either under common ownership or common control or developed either as one project or as a series of related projects, housing five or more sales or rental establishments. For purposes of this section, places of public accommodation of the types listed in paragraph (5) of the definition of &quot;place of public accommodation&quot; in &sect; 36.104 are considered sales or rental establishments. The facility housing a &quot;shopping center or shopping mall&quot; only includes floor levels housing at least one sales or rental establishment, or any floor level designed or intended for use by at least one sales or rental establishment.
 
 (b)  The exemption provided in paragraph (a) of this section does not obviate or limit in any way the obligation to comply with the other accessibility requirements established in this subpart. For example, alterations to floors above or below the accessible ground floor must be accessible regardless of whether the altered facility has an elevator.
 
 ### &sect; 36.405 Alterations: Historic preservation.
 
-(a)  Alterations to buildings or facilities that are eligible for listing in the National Register of Historic Places under the National Historic Preservation Act (16 U.S.C. 470 *et seq*) or are designated as historic under State or local law, shall comply to the maximum extent feasible with this part.
+(a)  Alterations to buildings or facilities that are eligible for listing in the National Register of Historic Places under the National Historic Preservation Act (16 U.S.C. 470 *et seq*) or are designated as historic under State or local law, shall comply to the maximum extent feasible with this part.<br>
 (b)  If it is determined that it is not feasible to provide physical access to an historic property that is a place of public accommodation in a manner that will not threaten or destroy the historic significance of the building or the facility, alternative methods of access shall be provided pursuant to the requirements of subpart C of this part.
 
 ### &sect; 36.406 Standards for new construction and alterations.
 
 (a)  *Accessibility standards and compliance date*.
 
-(1)  New construction and alterations subject to &sect;&sect; 36.401 or 36.402 shall comply with the 1991 Standards if the date when the last application for a building permit or permit extension is certified to be complete by a State, county, or local government (or, in those jurisdictions where the government does not certify completion of applications, if the date when the last application for a building permit or permit extension is received by the State, county, or local government) is before September 15, 2010, or if no permit is required, if the start of physical construction or alterations occurs before September 15, 2010.
-(2)  New construction and alterations subject to &sect;&sect; 36.401 or 36.402 shall comply either with the 1991 Standards or with the 2010 Standards if the date when the last application for a building permit or permit extension is certified to be complete by a State, county, or local government (or, in those jurisdictions where the government does not certify completion of applications, if the date when the last application for a building permit or permit extension is received by the State, county, or local government) is on or after September 15, 2010, and before March 15, 2012, or if no permit is required, if the start of physical construction or alterations occurs on or after September 15, 2010, and before March 15, 2012.
-(3)  New construction and alterations subject to &sect;&sect; 36.401 or 36.402 shall comply with the 2010 Standards if the date when the last application for a building permit or permit extension is certified to be complete by a State, county, or local government (or, in those jurisdictions where the government does not certify completion of applications, if the date when the last application for a building permit or permit extension is received by the State, county, or local government) is on or after March 15, 2012, or if no permit is required, if the start of physical construction or alterations occurs on or after March 15, 2012.
-(4)  For the purposes of this section, &quot;start of physical construction or alterations&quot; does not mean ceremonial groundbreaking or razing of structures prior to site preparation.
+(1)  New construction and alterations subject to &sect;&sect; 36.401 or 36.402 shall comply with the 1991 Standards if the date when the last application for a building permit or permit extension is certified to be complete by a State, county, or local government (or, in those jurisdictions where the government does not certify completion of applications, if the date when the last application for a building permit or permit extension is received by the State, county, or local government) is before September 15, 2010, or if no permit is required, if the start of physical construction or alterations occurs before September 15, 2010.<br>
+(2)  New construction and alterations subject to &sect;&sect; 36.401 or 36.402 shall comply either with the 1991 Standards or with the 2010 Standards if the date when the last application for a building permit or permit extension is certified to be complete by a State, county, or local government (or, in those jurisdictions where the government does not certify completion of applications, if the date when the last application for a building permit or permit extension is received by the State, county, or local government) is on or after September 15, 2010, and before March 15, 2012, or if no permit is required, if the start of physical construction or alterations occurs on or after September 15, 2010, and before March 15, 2012.<br>
+(3)  New construction and alterations subject to &sect;&sect; 36.401 or 36.402 shall comply with the 2010 Standards if the date when the last application for a building permit or permit extension is certified to be complete by a State, county, or local government (or, in those jurisdictions where the government does not certify completion of applications, if the date when the last application for a building permit or permit extension is received by the State, county, or local government) is on or after March 15, 2012, or if no permit is required, if the start of physical construction or alterations occurs on or after March 15, 2012.<br>
+(4)  For the purposes of this section, &quot;start of physical construction or alterations&quot; does not mean ceremonial groundbreaking or razing of structures prior to site preparation.<br>
 (5)  *Noncomplying new construction and alterations*.
 
-(i)  Newly constructed or altered facilities or elements covered by &sect;&sect; 36.401 or 36.402 that were constructed or altered before March 15, 2012, and that do not comply with the 1991 Standards shall, before March 15, 2012, be made accessible in accordance with either the 1991 Standards or the 2010 Standards.
+(i)  Newly constructed or altered facilities or elements covered by &sect;&sect; 36.401 or 36.402 that were constructed or altered before March 15, 2012, and that do not comply with the 1991 Standards shall, before March 15, 2012, be made accessible in accordance with either the 1991 Standards or the 2010 Standards.<br>
 (ii)  Newly constructed or altered facilities or elements covered by &sect;&sect; 36.401 or 36.402 that were constructed or altered before March 15, 2012 and that do not comply with the 1991 Standards shall, on or after March 15, 2012, be made accessible in accordance with the 2010 Standards.
 
 #### Appendix to &sect; 36.406(a)
@@ -1323,36 +1303,36 @@ A public accommodation shall ensure that wheelchair spaces and companion seats a
 </tbody>
 </table>
 
-(b)  *Scope of coverage*. The 1991 Standards and the 2010 Standards apply to fixed or built-in elements of buildings, structures, site improvements, and pedestrian routes or vehicular ways located on a site. Unless specifically stated otherwise, advisory notes, appendix notes, and figures contained in the 1991 Standards and 2010 Standards explain or illustrate the requirements of the rule; they do not establish enforceable requirements.
+(b)  *Scope of coverage*. The 1991 Standards and the 2010 Standards apply to fixed or built-in elements of buildings, structures, site improvements, and pedestrian routes or vehicular ways located on a site. Unless specifically stated otherwise, advisory notes, appendix notes, and figures contained in the 1991 Standards and 2010 Standards explain or illustrate the requirements of the rule; they do not establish enforceable requirements.<br>
 (c)  *Places of lodging*. Places of lodging subject to this part shall comply with the provisions of the 2010 Standards applicable to transient lodging, including, but not limited to, the requirements for transient lodging guest rooms in sections 224 and 806 of the 2010 Standards.
 
 (1)  *Guest rooms*. Guest rooms with mobility features in places of lodging subject to the transient lodging requirements of 2010 Standards shall be provided as follows –
 
-(i)  Facilities that are subject to the same permit application on a common site that each have 50 or fewer guest rooms may be combined for the purposes of determining the required number of accessible rooms and type of accessible bathing facility in accordance with table 224.2 to section 224.2 of the 2010 Standards.
+(i)  Facilities that are subject to the same permit application on a common site that each have 50 or fewer guest rooms may be combined for the purposes of determining the required number of accessible rooms and type of accessible bathing facility in accordance with table 224.2 to section 224.2 of the 2010 Standards.<br>
 (ii)  Facilities with more than 50 guest rooms shall be treated separately for the purposes of determining the required number of accessible rooms and type of accessible bathing facility in accordance with table 224.2 to section 224.2 of the 2010 Standards.
 
-(2)  *Exception*. Alterations to guest rooms in places of lodging where the guest rooms are not owned or substantially controlled by the entity that owns, leases, or operates the overall facility and the physical features of the guest room interiors are controlled by their individual owners are not required to comply with &sect; 36.402 or the alterations requirements in section 224.1.1 of the 2010 Standards.
+(2)  *Exception*. Alterations to guest rooms in places of lodging where the guest rooms are not owned or substantially controlled by the entity that owns, leases, or operates the overall facility and the physical features of the guest room interiors are controlled by their individual owners are not required to comply with &sect; 36.402 or the alterations requirements in section 224.1.1 of the 2010 Standards.<br>
 (3)  *Facilities with residential units and transient lodging units*. Residential dwelling units that are designed and constructed for residential use exclusively are not subject to the transient lodging standards.
 
 (d)  *Social service center establishments*. Group homes, halfway houses, shelters, or similar social service center establishments that provide either temporary sleeping accommodations or residential dwelling units that are subject to this part shall comply with the provisions of the 2010 Standards applicable to residential facilities, including, but not limited to, the provisions in sections 233 and 809.
 
-(1)  In sleeping rooms with more than 25 beds covered by this part, a minimum of 5% of the beds shall have clear floor space complying with section 806.2.3 of the 2010 Standards.
+(1)  In sleeping rooms with more than 25 beds covered by this part, a minimum of 5% of the beds shall have clear floor space complying with section 806.2.3 of the 2010 Standards.<br>
 (2)  Facilities with more than 50 beds covered by this part that provide common use bathing facilities shall provide at least one roll-in shower with a seat that complies with the relevant provisions of section 608 of the 2010 Standards. Transfer-type showers are not permitted in lieu of a roll-in shower with a seat, and the exceptions in sections 608.3 and 608.4 for residential dwelling units are not permitted. When separate shower facilities are provided for men and for women, at least one roll-in shower shall be provided for each group.
 
 (e)  *Housing at a place of education*. Housing at a place of education that is subject to this part shall comply with the provisions of the 2010 Standards applicable to transient lodging, including, but not limited to, the requirements for transient lodging guest rooms in sections 224 and 806, subject to the following exceptions. For the purposes of the application of this section, the term &quot;sleeping room&quot; is intended to be used interchangeably with the term &quot;guest room&quot; as it is used in the transient lodging standards.
 
-(1)  Kitchens within housing units containing accessible sleeping rooms with mobility features (including suites and clustered sleeping rooms) or on floors containing accessible sleeping rooms with mobility features shall provide turning spaces that comply with section 809.2.2 of the 2010 Standards and kitchen work surfaces that comply with section 804.3 of the 2010 Standards.
-(2)  Multi-bedroom housing units containing accessible sleeping rooms with mobility features shall have an accessible route throughout the unit in accordance with section 809.2 of the 2010 Standards.
+(1)  Kitchens within housing units containing accessible sleeping rooms with mobility features (including suites and clustered sleeping rooms) or on floors containing accessible sleeping rooms with mobility features shall provide turning spaces that comply with section 809.2.2 of the 2010 Standards and kitchen work surfaces that comply with section 804.3 of the 2010 Standards.<br>
+(2)  Multi-bedroom housing units containing accessible sleeping rooms with mobility features shall have an accessible route throughout the unit in accordance with section 809.2 of the 2010 Standards.<br>
 (3)  Apartments or townhouse facilities that are provided by or on behalf of a place of education, which are leased on a year-round basis exclusively to graduate students or faculty and do not contain any public use or common use areas available for educational programming, are not subject to the transient lodging standards and shall comply with the requirements for residential facilities in sections 233 and 809 of the 2010 Standards.
 
 (f)  *Assembly areas*. Assembly areas that are subject to this part shall comply with the provisions of the 2010 Standards applicable to assembly areas, including, but not limited to, sections 221 and 802. In addition, assembly areas shall ensure that –
 
-(1)  In stadiums, arenas, and grandstands, wheelchair spaces and companion seats are dispersed to all levels that include seating served by an accessible route;
-(2)  In assembly areas that are required to horizontally disperse wheelchair spaces and companion seats by section 221.2.3.1 of the 2010 Standards and that have seating encircling, in whole or in part, a field of play or performance, wheelchair spaces and companion seats are dispersed around that field of play or performance area;
-(3)  Wheelchair spaces and companion seats are not located on (or obstructed by) temporary platforms or other movable structures, except that when an entire seating section is placed on temporary platforms or other movable structures in an area where fixed seating is not provided, in order to increase seating for an event, wheelchair spaces and companion seats may be placed in that section. When wheelchair spaces and companion seats are not required to accommodate persons eligible for those spaces and seats, individual, removable seats may be placed in those spaces and seats;
+(1)  In stadiums, arenas, and grandstands, wheelchair spaces and companion seats are dispersed to all levels that include seating served by an accessible route;<br>
+(2)  In assembly areas that are required to horizontally disperse wheelchair spaces and companion seats by section 221.2.3.1 of the 2010 Standards and that have seating encircling, in whole or in part, a field of play or performance, wheelchair spaces and companion seats are dispersed around that field of play or performance area;<br>
+(3)  Wheelchair spaces and companion seats are not located on (or obstructed by) temporary platforms or other movable structures, except that when an entire seating section is placed on temporary platforms or other movable structures in an area where fixed seating is not provided, in order to increase seating for an event, wheelchair spaces and companion seats may be placed in that section. When wheelchair spaces and companion seats are not required to accommodate persons eligible for those spaces and seats, individual, removable seats may be placed in those spaces and seats;<br>
 (4)  In stadium-style movie theaters, wheelchair spaces and companion seats are located on a riser or cross-aisle in the stadium section that satisfies at least one of the following criteria –
 
-(i)  It is located within the rear 60% of the seats provided in an auditorium; or
+(i)  It is located within the rear 60% of the seats provided in an auditorium; or<br>
 (ii)  It is located within the area of an auditorium in which the vertical viewing angles (as measured to the top of the screen) are from the 40th to the 100th percentile of vertical viewing angles for all seats as ranked from the seats in the first row (1st percentile) to seats in the back row (100th percentile).
 
 (g)  *Medical care facilities*. Medical care facilities that are subject to this part shall comply with the provisions of the 2010 Standards applicable to medical care facilities, including, but not limited to, sections 223 and 805. In addition, medical care facilities that do not specialize in the treatment of conditions that affect mobility shall disperse the accessible patient bedrooms required by section 223.2.1 of the 2010 Standards in a manner that is proportionate by type of medical specialty.
@@ -1363,20 +1343,20 @@ A public accommodation shall ensure that wheelchair spaces and companion seats a
 
 ### &sect; 36.501 Private suits.
 
-(a)  *General*. Any person who is being subjected to discrimination on the basis of disability in violation of the Act or this part or who has reasonable grounds for believing that such person is about to be subjected to discrimination in violation of section 303 of the Act or subpart D of this part may institute a civil action for preventive relief, including an application for a permanent or temporary injunction, restraining order, or other order. Upon timely application, the court may, in its discretion, permit the Attorney General to intervene in the civil action if the Attorney General or his or her designee certifies that the case is of general public importance. Upon application by the complainant and in such circumstances as the court may deem just, the court may appoint an attorney for such complainant and may authorize the commencement of the civil action without the payment of fees, costs, or security. Nothing in this section shall require a person with a disability to engage in a futile gesture if the person has actual notice that a person or organization covered by title III of the Act or this part does not intend to comply with its provisions.
+(a)  *General*. Any person who is being subjected to discrimination on the basis of disability in violation of the Act or this part or who has reasonable grounds for believing that such person is about to be subjected to discrimination in violation of section 303 of the Act or subpart D of this part may institute a civil action for preventive relief, including an application for a permanent or temporary injunction, restraining order, or other order. Upon timely application, the court may, in its discretion, permit the Attorney General to intervene in the civil action if the Attorney General or his or her designee certifies that the case is of general public importance. Upon application by the complainant and in such circumstances as the court may deem just, the court may appoint an attorney for such complainant and may authorize the commencement of the civil action without the payment of fees, costs, or security. Nothing in this section shall require a person with a disability to engage in a futile gesture if the person has actual notice that a person or organization covered by title III of the Act or this part does not intend to comply with its provisions.<br>
 (b)  *Injunctive relief*. In the case of violations of &sect; 36.304, &sect; &sect;36.308, 36.310(b), 36.401, 36.402, 36.403, and 36.405 of this part, injunctive relief shall include an order to alter facilities to make such facilities readily accessible to and usable by individuals with disabilities to the extent required by the Act or this part. Where appropriate, injunctive relief shall also include requiring the provision of an auxiliary aid or service, modification of a policy, or provision of alternative methods, to the extent required by the Act or this part.
 
 ### &sect; 36.502 Investigations and compliance reviews.
 
-(a)  The Attorney General shall investigate alleged violations of the Act or this part.
-(b)  Any individual who believes that he or she or a specific class of persons has been subjected to discrimination prohibited by the Act or this part may request the Department to institute an investigation.
+(a)  The Attorney General shall investigate alleged violations of the Act or this part.<br>
+(b)  Any individual who believes that he or she or a specific class of persons has been subjected to discrimination prohibited by the Act or this part may request the Department to institute an investigation.<br>
 (c)  Where the Attorney General has reason to believe that there may be a violation of this part, he or she may initiate a compliance review.
 
 ### &sect; 36.503 Suit by the Attorney General.
 
 Following a compliance review or investigation under &sect; 36.502, or at any other time in his or her discretion, the Attorney General may commence a civil action in any appropriate United States district court if the Attorney General has reasonable cause to believe that –
 
-(a)  Any person or group of persons is engaged in a pattern or practice of discrimination in violation of the Act or this part; or
+(a)  Any person or group of persons is engaged in a pattern or practice of discrimination in violation of the Act or this part; or<br>
 (b)  Any person or group of persons has been discriminated against in violation of the Act or this part and the discrimination raises an issue of general public importance.
 
 ### &sect; 36.504 Relief.
@@ -1385,18 +1365,18 @@ Following a compliance review or investigation under &sect; 36.502, or at any ot
 
 (1)  May grant any equitable relief that such court considers to be appropriate, including, to the extent required by the Act or this part –
 
-(i)  Granting temporary, preliminary, or permanent relief;
-(ii)  Providing an auxiliary aid or service, modification of policy, practice, or procedure, or alternative method; and
+(i)  Granting temporary, preliminary, or permanent relief;<br>
+(ii)  Providing an auxiliary aid or service, modification of policy, practice, or procedure, or alternative method; and<br>
 (iii)  Making facilities readily accessible to and usable by individuals with disabilities;
 
-(2)  May award other relief as the court considers to be appropriate, including monetary damages to persons aggrieved when requested by the Attorney General; and
+(2)  May award other relief as the court considers to be appropriate, including monetary damages to persons aggrieved when requested by the Attorney General; and<br>
 (3)  May, to vindicate the public interest, assess a civil penalty against the entity in an amount
 
-(i)  Not exceeding $50,000 for a first violation occurring before September 29, 1999, and not exceeding $55,000 for a first violation occurring on or after September 29, 1999, and before April 28, 2014, and not exceeding $75,000 for a first violation occurring on or after April 28, 2014, except that, for civil penalties assessed after August 1, 2016, for a first violation occurring after November 2, 2015, the civil penalty shall not exceed the applicable amount set forth in [28 CFR 85.5](https://www.ecfr.gov/cgi-bin/text-idx?SID=1b8a64f5c5dc115b95ace1f32e0130a0&amp;mc=true&amp;node=se28.2.85_15&amp;rgn=div8){: .word-break}.
+(i)  Not exceeding $50,000 for a first violation occurring before September 29, 1999, and not exceeding $55,000 for a first violation occurring on or after September 29, 1999, and before April 28, 2014, and not exceeding $75,000 for a first violation occurring on or after April 28, 2014, except that, for civil penalties assessed after August 1, 2016, for a first violation occurring after November 2, 2015, the civil penalty shall not exceed the applicable amount set forth in [28 CFR 85.5](https://www.ecfr.gov/cgi-bin/text-idx?SID=1b8a64f5c5dc115b95ace1f32e0130a0&amp;mc=true&amp;node=se28.2.85_15&amp;rgn=div8){: .word-break}.<br>
 (ii)  Not exceeding $100,000 for any subsequent violation occurring before September 29, 1999, and not exceeding $110,000 for any subsequent violation occurring on or after September 29, 1999, and before April 28, 2014, and not exceeding $150,000 for any subsequent violation occurring on or after April 28, 2014, except that, for civil penalties assessed after August 1, 2016, for any subsequent violation occurring after November 2, 2015, the civil penalty shall not exceed the applicable amount set forth in [28 CFR 85.5](https://www.ecfr.gov/cgi-bin/text-idx?SID=1b8a64f5c5dc115b95ace1f32e0130a0&amp;mc=true&amp;node=se28.2.85_15&amp;rgn=div8){: .word-break}.
 
-(b)  Single violation. For purposes of paragraph (a) (3) of this section, in determining whether a first or subsequent violation has occurred, a determination in a single action, by judgment or settlement, that the covered entity has engaged in more than one discriminatory act shall be counted as a single violation.
-(c)  Punitive damages. For purposes of paragraph (a)(2) of this section, the terms &quot;monetary damages&quot; and &quot;such other relief&quot; do not include punitive damages.
+(b)  Single violation. For purposes of paragraph (a) (3) of this section, in determining whether a first or subsequent violation has occurred, a determination in a single action, by judgment or settlement, that the covered entity has engaged in more than one discriminatory act shall be counted as a single violation.<br>
+(c)  Punitive damages. For purposes of paragraph (a)(2) of this section, the terms &quot;monetary damages&quot; and &quot;such other relief&quot; do not include punitive damages.<br>
 (d)  Judicial consideration. In a civil action under &sect; 36.503, the court, when considering what amount of civil penalty, if any, is appropriate, shall give consideration to any good faith effort or attempt to comply with this part by the entity. In evaluating good faith, the court shall consider, among other factors it deems relevant, whether the entity could have reasonably anticipated the need for an appropriate type of auxiliary aid needed to accommodate the unique needs of a particular individual with a disability.
 
 ### &sect; 36.505 Attorneys fees.
@@ -1413,10 +1393,10 @@ A public accommodation or other private entity shall not be excused from complia
 
 ### &sect; 36.508 Effective date.
 
-(a)  *General*. Except as otherwise provided in this section and in this part, this part shall become effective on January 26, 1992.
+(a)  *General*. Except as otherwise provided in this section and in this part, this part shall become effective on January 26, 1992.<br>
 (b)  *Civil actions*. Except for any civil action brought for a violation of section 303 of the Act, no civil action shall be brought for any act or omission described in section 302 of the Act that occurs –
 
-(1)  Before July 26, 1992, against businesses with 25 or fewer employees and gross receipts of $1,000,000 or less.
+(1)  Before July 26, 1992, against businesses with 25 or fewer employees and gross receipts of $1,000,000 or less.<br>
 (2)  Before January 26, 1993, against businesses with 10 or fewer employees and gross receipts of $500,000 or less.
 
 (c)  Transportation services provided by public accommodations. Newly purchased or leased vehicles required to be accessible by &sect; 36.310 must be readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, if the solicitation for the vehicle is made after August 25, 1990.
@@ -1439,7 +1419,7 @@ A public accommodation or other private entity shall not be excused from complia
 
 *Submitting official* means the State or local official who –
 
-(1)  Has principal responsibility for administration of a code, or is authorized to submit a code on behalf of a jurisdiction; and
+(1)  Has principal responsibility for administration of a code, or is authorized to submit a code on behalf of a jurisdiction; and<br>
 (2)  Files a request for certification under this subpart.
 
 ### &sect; 36.602 General rule.
@@ -1454,25 +1434,25 @@ Upon receipt and review of all information relevant to a request filed by a subm
 
 (a)  If the Assistant Attorney General makes a preliminary determination of equivalency under &sect; 36.603, he or she shall inform the submitting official, in writing, of that preliminary determination. The Assistant Attorney General also shall –
 
-(1)  Publish a notice in the **Federal Register** that advises the public of the preliminary determination of equivalency with respect to the particular code, and invite interested persons and organizations, including individuals with disabilities, during a period of at least 60 days following publication of the notice, to file written comments relevant to whether a final certification of equivalency should be issued;
+(1)  Publish a notice in the **Federal Register** that advises the public of the preliminary determination of equivalency with respect to the particular code, and invite interested persons and organizations, including individuals with disabilities, during a period of at least 60 days following publication of the notice, to file written comments relevant to whether a final certification of equivalency should be issued;<br>
 (2)  After considering the information received in response to the notice described in paragraph (a) of this section, and after publishing a separate notice in the **Federal Register**, hold an informal hearing, in the State or local jurisdiction charged with administration and enforcement of the code, at which interested individuals, including individuals with disabilities, are provided an opportunity to express their views with respect to the preliminary determination of equivalency; and
 
 (b) The Assistant Attorney General, after consultation with the Architectural and Transportation Barriers Compliance Board and consideration of the materials and information submitted pursuant to this section, as well as information provided previously by the submitting official, shall issue either a certification of equivalency or a final determination to deny the request for certification. The Assistant Attorney General shall publish notice of the certification of equivalency or denial of certification in the **Federal Register**.
 
 ### &sect; 36.605 Procedure following preliminary denial of certification. *(Redesignated from Section 36.606)*
 
-(a)  If the Assistant Attorney General makes a preliminary determination to deny certification of a code under &sect; 36.603, he or she shall notify the submitting official of the determination.
+(a)  If the Assistant Attorney General makes a preliminary determination to deny certification of a code under &sect; 36.603, he or she shall notify the submitting official of the determination.<br>
 (b)  The Assistant Attorney General shall allow the submitting official not less than 15 days to submit data, views, and arguments in opposition to the preliminary determination to deny certification. If the submitting official does not submit materials, the Assistant Attorney General shall not be required to take any further action. If the submitting official submits materials, the Assistant Attorney General shall evaluate those materials and any other relevant information. After evaluation of any newly submitted materials, the Assistant Attorney General shall make either a final denial of certification or a preliminary determination of equivalency.
 
 ### &sect; 36.606 Effect of certification. *(Redesignated from Section 36.607)*
 
 (a)
 
-(1)  A certification shall be considered a certification of equivalency only with respect to those features or elements that are both covered by the certified code and addressed by the standards against which equivalency is measured.
+(1)  A certification shall be considered a certification of equivalency only with respect to those features or elements that are both covered by the certified code and addressed by the standards against which equivalency is measured.<br>
 (2)  For example, if certain equipment is not covered by the code, the determination of equivalency cannot be used as evidence with respect to the question of whether equipment in a building built according to the code satisfies the Act's requirements with respect to such equipment. By the same token, certification would not be relevant to construction of a facility for children, if the regulations against which equivalency is measured do not address children's facilities.
 
-(b)  A certification of equivalency is effective only with respect to the particular edition of the code for which certification is granted. Any amendments or other changes to the code after the date of the certified edition are not considered part of the certification.
-(c)  A submitting official may reapply for certification of amendments or other changes to a code that has already received certification.
+(b)  A certification of equivalency is effective only with respect to the particular edition of the code for which certification is granted. Any amendments or other changes to the code after the date of the certified edition are not considered part of the certification.<br>
+(c)  A submitting official may reapply for certification of amendments or other changes to a code that has already received certification.<br>
 (d)  When the standards of the Act against which a code is deemed equivalent are revised or amended substantially, a certification of equivalency issued under the preexisting standards is no longer effective, as of the date the revised standards take effect. However, construction in compliance with a certified code during the period when a certification of equivalency was effective shall be considered rebuttable evidence of compliance with the Standards then in effect as to those elements of buildings and facilities that comply with the certified code. A submitting official may reapply for certification pursuant to the Act's revised standards, and, to the extent possible, priority will be afforded the request in the review process.
 
 ### &sect; 36.607 Guidance concerning model codes. *(Redesignated from Section 36.608)*
