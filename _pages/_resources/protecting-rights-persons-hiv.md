@@ -73,7 +73,7 @@ By Mail:
 > Civil Rights Division<br>
 > Disability Rights Section<br>
 > 950 Pennsylvania Ave., NW<br>
-> Washington, D.C.20530
+> Washington, D.C. 20530
 
 By Fax:
 
@@ -89,7 +89,7 @@ For complaints concerning housing-related discrimination, contact the U.S. Depar
 
 ## ADA Information Line
 
-For more information on the ADA and the rights of persons living with HIV/AIDS, or to request this publication in an alternative format, call our \[ADA Information Line]({{'/infoline' | relative_url}}) Monday, Tuesday, Wednesday, Friday: 9:30am - 12pm and 3pm - 5:30pm ET and Thursday 2:30pm - 5:30pm (Eastern Time) to speak with an ADA specialist. Calls are confidential.
+For more information on the ADA and the rights of persons living with HIV/AIDS, or to request this publication in an alternative format, call our [ADA Information Line]({{'/infoline' | relative_url}}) Monday, Tuesday, Wednesday, Friday: 9:30am - 12pm and 3pm - 5:30pm ET and Thursday 2:30pm - 5:30pm (Eastern Time) to speak with an ADA specialist. Calls are confidential.
 
 > 800-514-0301 (Voice)<br>
 > 833-610-1264 (TTY)
