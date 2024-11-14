@@ -42,17 +42,23 @@ jobs:
       - name: Install Ruby dependencies
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.7.8
+          ruby-version: 3.2.2
           bundler-cache: true
 
       - name: Install Node.js dependencies
         uses: actions/setup-node@v3
         with:
           node-version: "16"
-      - run: npm install --production
+      - run: npm install --production=false  # Install linting tools
 
       - name: Build site
         run: bundle exec jekyll build
+
+      ################################
+      # Run npm prettier linting     #
+      ################################
+      - name: Prettier Lint
+        run: npm run lint:check || exit 1
 
       ################################
       # Run Linter against code base #
@@ -61,7 +67,7 @@ jobs:
         uses: github/super-linter@v4.0.2
         env:
           DEFAULT_BRANCH: main
-          FILTER_REGEX_INCLUDE: .*(\_assets|\_pages|\_site).*
+          FILTER_REGEX_INCLUDE: .*(\assets|\_pages|\_site).*
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LINTER_RULES_PATH: /
           VALIDATE_CSS: true

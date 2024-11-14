@@ -1,12 +1,10 @@
 ---
 title: Rights of Parents with Disabilities
-description: This document can help child welfare agencies and family courts understand their obligations under Federal law to ensure that parents and prospective parents with disabilities receive equal treatment and equal access to parenting opportunities.
+description: Information for child welfare agencies and family courts about their obligations to people with disabilities to receive equal access to parenting opportunities.
 lead: |-
   State and local child welfare agencies, as well as courts, are responsible for protecting your children and families. But they also need to ensure that as a  parent, guardian, or  prospective parent with a disability, you are not discriminated against based on disability. By doing so, courts and agencies not only will be helping to place your children in safe and caring homes—they will also be complying with the ADA.
 print: true
 featured: true
-tags:
-  - families
 card:
   title: Parental Rights
   title_alt: Parental Rights
@@ -15,7 +13,8 @@ card:
   image: landing/parental-rights.jpg
   alt: Asian American father hugging his son
   href: /topics/parental-rights/
-publish-date: 2022-07-25 00:00:00
+tags:
+  - families
 ---
 
 {% details Learn more about the parts of the ADA that state/local governments need to comply with %}

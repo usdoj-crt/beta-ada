@@ -28,8 +28,6 @@ understand:
   heading: Topics
   lead: |-
     Information for people with disabilities, state and local governments, and businesses
-  content: |-
-    <strong>Pick a topic to find out how the ADA works.</strong> We’ll add more soon.
 
 history:
   content: |-
@@ -61,7 +59,7 @@ learn:
   lead: |-
     From <span class="crt-landing--goldtext">answers to common questions</span> to <span class="crt-landing--goldtext">official legal documents</span>, ADA.gov has everything you need to understand your rights and responsibilities under the ADA.
   sections:
-    - heading: Featured Topics
+    - heading: Topics
       content: |-
         These overviews are a basic starting point for understanding areas the ADA covers.
       icon: landing/featured_topics_gold.svg
@@ -81,14 +79,14 @@ learn:
       icon: landing/guidance_resource_materials_gold.png
       examples:
         - ex1:
-          title: A Guide to Disability Rights Laws
-          link: resources/disability-rights-guide
+          title: "Fact Sheet: New Rule on the Accessibility of Web Content and Mobile Apps Provided by State and Local Governments"
+          link: resources/2024-03-08-web-rule
         - ex2:
+          title: "Fact Sheet:  New Rule on the Accessibility of Medical Diagnostic Equipment Used by State and Local Governments"
+          link: resources/2024-08-08-mde-fact-sheet
+        - ex3:
           title: Algorithms, Artificial Intelligence, and Disability Discrimination in Hiring
           link:  resources/ai-guidance
-        - ex3:
-          title: ADA Requirements - Effective Communication
-          link: resources/effective-communication
     - heading: Laws & Regulations
       content: |-
         Find legal documents that are enforceable under the ADA in a court of law.
@@ -96,10 +94,10 @@ learn:
       examples:
       - ex1:
         title: State and Local Government Services (Title II)
-        link: law-and-regs/title-ii-2010-regulations/
+        link: law-and-regs/regulations/title-ii-2010-regulations/
       - ex2:
         title: Public Accommodations (Title III)
-        link: law-and-regs/title-iii-regulations/
+        link: law-and-regs/regulations/title-iii-regulations/
       - ex3:
         title: ADA Standards for Accessible Design
         link: law-and-regs/design-standards/
@@ -109,7 +107,7 @@ service-animals:
   lead: |-
     Understand how the ADA defines a service animal and what your rights are under the law.
   sections:
-    - heading: Featured Topics
+    - heading: Topics
       icon: landing/featured_topics_grey_bg.png
       examples:
       - ex1:
@@ -129,10 +127,10 @@ service-animals:
       examples:
       - ex1:
         title: State and Local Government Services (Title II)
-        link: law-and-regs/title-ii-2010-regulations/
+        link: law-and-regs/regulations/title-ii-2010-regulations/
       - ex2:
         title: Public Accommodations (Title III)
-        link: law-and-regs/title-iii-regulations/
+        link: law-and-regs/regulations/title-iii-regulations/
 
 
 report:
@@ -153,6 +151,7 @@ report:
     Think you or someone you know has experienced a disability rights violation?
   link:
     text: File a complaint
+sidenav: false
 redirect_from:
   - /contact_drs.htm
   - /adahom1.htm

@@ -1,6 +1,6 @@
 ---
 title: Telehealth
-description: This page is designed to assist healthcare providers who offer telehealth services to give patients with disabilities the same opportunity to participate in telehealth as individuals without disabilities and persons with disabilities better understand their right to equal access to telehealth.
+description: Information to assist healthcare providers understand their obligations and persons with disabilities understand their rights to equal access to telehealth.
 lead: |-
   The ADA prohibits healthcare providers from discriminating on the basis of disability. This is true when health care is provided in person or through “telehealth.”
 print: true
@@ -13,11 +13,10 @@ card:
   image: landing/telehealth.jpg
   alt: "photo of a person on a video call with a doctor"
   href: /topics/telehealth/
-publish-date: 2022-09-16 00:00:00
+related-content: true
 tags:
   - medical care
   - health care
-related-content: true
 ---
 ## What is telehealth?
 

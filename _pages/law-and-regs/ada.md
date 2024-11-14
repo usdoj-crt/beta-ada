@@ -1,11 +1,14 @@
 ---
 title: Americans with Disabilities Act of 1990, As Amended
+description: The text of the Americans with Disabilities Act of 1990 (ADA), including changes made by the ADA Amendments Act of 2008.
 permalink: /law-and-regs/ada/
 lead: |-
     Editor's Note:
 
     Here is the text of the Americans with Disabilities Act of 1990 (ADA), including changes made by the ADA Amendments Act of 2008. Congress passed the ADA as a “Public Law,” and it originally was in a different format than presented here. To make the law more widely available, the ADA was later reformatted and published in volume 42 (called “title 42”) of the United States Code. One small part of the ADA is found in title 47 of the United States Code. The text below mirrors the law as it is found in the U.S. Code. Because the numbering system is different in the U.S. Code, the headings provide in brackets the title numbers of the ADA as originally enacted.
 print: true
+interactive-headers: true
+back-to-top: true
 redirect_from:
   - /adastatute08.htm
   - /pubs/adastatute08mark.htm
@@ -784,7 +787,7 @@ redirect_from:
 <p class="margin-left-12">(C) may, to vindicate the public interest, assess a civil penalty against the entity in an amount [*]</p>
 <p class="margin-left-16">(i) not exceeding $50,000 for a first violation; and</p>
 <p class="margin-left-16">(ii) not exceeding $100,000 for any subsequent violation.</p>
-<p class="margin-left-12">[*Agency Note: Please see the Department's title III regulation at <a href="/law-and-regs/title-iii-regulations#-36504-relief">28 CFR  36.504(a)(3)</a> for the most recent civil monetary penalty amounts, which are  periodically adjusted in accordance with the Federal Civil Penalties Inflation  Adjustment Act of 1990, Public Law 101-410, 28 USC 2461 note, as amended.]</p>
+<p class="margin-left-12">[*Agency Note: Please see the Department's title III regulation at <a href="/law-and-regs/regulations/title-iii-regulations#-36504-relief">28 CFR  36.504(a)(3)</a> for the most recent civil monetary penalty amounts, which are  periodically adjusted in accordance with the Federal Civil Penalties Inflation  Adjustment Act of 1990, Public Law 101-410, 28 USC 2461 note, as amended.]</p>
 <p class="margin-left-8"> (3) Single violation</p>
 <p class="margin-left-8">For purposes of paragraph (2) (C), in determining whether a first or subsequent violation has occurred, a determination in a single action, by judgment or settlement, that the covered entity has engaged in more than one discriminatory act shall be counted as a single violation.</p>
 <p class="margin-left-8"> (4) Punitive damages</p>

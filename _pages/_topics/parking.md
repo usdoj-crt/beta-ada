@@ -1,6 +1,6 @@
 ---
 title: Accessible Parking Spaces
-description: Accessible parking spaces are different than traditional parking spaces. They have specific features that make it easier for people with disabilities to access programs, goods, or services. The ADA requires businesses, non-profits, and state/local governments to provide accessible parking spaces.
+description: The ADA requires businesses, non-profits, and state/local governments to provide parking spaces accessible to people with disabilities.
 short_title: Parking Spaces
 lead: |-
   When state or local governments, businesses and non-profit organizations provide parking lots or garages, accessible parking spaces complying with the Americans with Disabilities Act (ADA) must be provided.
@@ -8,6 +8,7 @@ lead: |-
   Accessible parking spaces are different than traditional parking spaces. They have specific features that make it easier for people with disabilities to access your programs, goods or services.
 print: true
 featured: true
+topic-page-feature: true
 card:
   title: Parking
   description: |-
@@ -16,9 +17,9 @@ card:
   alt: A man in a wheelchair approaching a vehicle with his hand on the door handle
   position: top
   href: /topics/parking/
+related-content: true
 tags:
   - parking
-related-content: true
 ---
 
 ## Features
@@ -39,7 +40,7 @@ Accessible parking spaces must have access aisles. Access aisles provide a desig
 {% list_item %}Level with the parking space{% endlist_item %}
 {% endlist %}
 
-{% asset project-images/aisle-parking.png alt="A van-accessible parking space sharing an access aisle with an accessible parking space for a car" %}
+<img src="{{ '/assets/images/project-images/aisle-parking.png' | relative_url }}" alt="A van-accessible parking space sharing an access aisle with an accessible parking space for a car" />
 
 Two accessible parking spaces can share an access aisle with the access aisle
 between the two parking spaces (except in angled parking).
@@ -62,7 +63,7 @@ Have a sign with the international symbol of accessibility on it, mounted at lea
 {% endlist_item %}
 {% endlist %}
 
-{% asset project-images/car-accessible.png alt="Accessible parking spaces with 60-inch minimum width access aisle for cars" %}
+<img src="{{ '/assets/images/project-images/car-accessible.png' | relative_url }}" alt="Accessible parking spaces with 60-inch minimum width access aisle for cars" />
 
 #### Van accessible spaces must (pick option #1 or #2)
 
@@ -94,7 +95,7 @@ Have a sign with the international symbol of accessibility on it, mounted at lea
 - Second sign: stating that the space is van accessible{% endlist_item %}
   {% endlist %}
 
-{% asset project-images/van-accessible.png alt="Minimum 96-inch wide van-accessible parking space with 96-inch minimum width access aisle" %}
+<img src="{{ '/assets/images/project-images/van-accessible.png' | relative_url }}" alt="Minimum 96-inch wide van-accessible parking space with 96-inch minimum width access aisle" />
 
 ## Calculating Accessible Parking Spaces
 
@@ -172,7 +173,7 @@ Where parking spaces are limited to four or fewer spaces:
 {% list_item cancel %}A sign identifying the accessible space is not required{% endlist_item %}
 {% endlist %}
 
-{% asset project-images/limited-spaces.png alt="Front of a convenience store with four parking spaces, one parking space is a van-accessible space" %}
+<img src="{{ '/assets/images/project-images/limited-spaces.png' | relative_url }}" alt="Front of a convenience store with four parking spaces, one parking space is a van-accessible space" />
 
 ### Parking at Hospital Facilities
 

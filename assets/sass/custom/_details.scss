@@ -1,0 +1,70 @@
+@use "uswds-core" as *;
+@use 'variables' as *;
+
+details {
+  margin-bottom: units(2.5);
+  ::-webkit-details-marker {
+    display: none;
+  }
+
+  & > summary {
+    @extend .h4 !optional;
+
+    @include u-border-bottom("primary-lighter");
+    background-image: url("../images/add--primary.svg"),
+      linear-gradient(transparent, transparent);
+    background-repeat: no-repeat;
+    background-position: right units(1);
+    background-size: units(3);
+    box-sizing: border-box;
+    border-width: 1px;
+    cursor: pointer;
+    list-style: none;
+    margin: 0;
+    padding: 0 3.5rem units(1) 0;
+    width: 100%;
+
+    & > div {
+      display: flex;
+
+      & > span {
+        align-self: center;
+      }
+
+      &::before {
+        background: url("../images/book.svg") no-repeat left center;
+        content: "";
+        flex: none;
+        height: 34px;
+        margin-right: units(1);
+        width: 34px;
+      }
+    }
+
+    &:hover {
+      color: color($theme-link-hover-color);
+    }
+
+    &::marker,
+    &::-webkit-details-marker {
+      display: none;
+    }
+  }
+
+  &[open] > summary {
+    background-image: url("../images/remove--primary.svg"),
+      linear-gradient(transparent, transparent);
+    background-repeat: no-repeat;
+  }
+
+  & > div {
+    background-color: rgba(236, 241, 247, 0.5);
+    overflow: hidden;
+    padding: 0 units(2);
+  }
+
+  .usa-icon-list {
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
+}

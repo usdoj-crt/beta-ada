@@ -26,6 +26,7 @@ MD026: false
 MD029: false                  # Ordered list item prefix
 MD033: false                  # Allow inline HTML
 MD036: false                  # Emphasis used instead of a heading
+MD024: false                  # Duplicate headings
 
 #################
 # Rules by tags #

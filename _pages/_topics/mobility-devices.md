@@ -1,6 +1,6 @@
 ---
 title: Mobility Devices
-description: Some people with disabilities use mobility devices to get around, such as walkers, wheelchairs, or other power-driven devices. People with disabilities may use a variety of mobility devices based on their needs.
+description: Information about the rights of people with disabilities who use mobility devices such as walkers, wheelchairs, or other power-driven devices to get around.
 lead: |-
   Some people with disabilities use mobility devices to get around, such as walkers, wheelchairs, or other power-driven devices. People with disabilities may use a variety of mobility devices based on their needs.
 
@@ -15,10 +15,10 @@ card:
   image: landing/mobility-devices.jpg
   alt: A person wearing red shoes operates a power wheelchair
   href: /topics/mobility-devices/
+related-content: true
 tags:
   - mobility devices
   - physical accessibility
-related-content: true
 ---
 
 ## Basic Requirements

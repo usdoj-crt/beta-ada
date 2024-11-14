@@ -1,1 +1,2 @@
-/_assets/js/dist/*.js
+/assets/js/dist/*.js
+**/*.min.js

@@ -8,11 +8,11 @@ publish-date: 1997-01-01 00:00:00
 updated-date: 2020-02-28 00:00:00
 print: true
 related-content: true
+redirect_from:
+  - /childqanda.htm
 tags:
   - child care
   - families
-redirect_from:
-  - /childqanda.htm
 ---
 {% include expand-accordions-wrapper.html expand-heading='Coverage' %}
 
@@ -184,7 +184,7 @@ A: Yes. The Department sometimes participates in private suits either by interve
 A: The Department of Justice operates an [ADA Information Line]( {{'/infoline/' | relative_url}}). Information Specialists are available to answer general and technical questions during business hours on the weekdays.
 
 >{{site.contact.tollfree}} (Voice) and {{site.contact.tty}} (TTY)
-M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.
+M, W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Tu 12:30pm - 5:30pm, Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.
 
 The [archive.ADA Home Page](https://archive.ada.gov), which is updated frequently, contains the Department of Justice's regulations and technical assistance materials, as well as press releases on ADA cases and other issues. Several settlement agreements with child care centers are also available on the Home Page.
 
@@ -206,8 +206,8 @@ The [Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov), offe
 If you have further questions about child care centers or other requirements of the ADA, you may call the U.S. Department of Justice's toll-free ADA Information Line at {{site.contact.tollfree}} (voice) or {{site.contact.tty}} (TTY).
 {% enddetails %}
 
-<hr>  
-The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
+<hr>
+The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.
 
 This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
 <hr>

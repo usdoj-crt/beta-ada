@@ -1,8 +1,8 @@
-<div class="mobile:margin-bottom-4 margin-bottom-2 width-card" markdown="0">
-  <a
-    href="/assets/_pdfs/{{include.filename}}"
-    download
-    class="usa-button crt-page--downloadpdf-button text-bold"
-    >{% if include.text %}{{include.text}}{% else %}Download PDF{% endif %}</a
-  >
-</div>
+<a class="usa-button side-nav-button margin-right-1"
+  href="/assets/pdfs/{{include.filename}}"
+  download>
+  <span>Download PDF</span>
+  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+    <use xlink:href="/assets/images/uswds/sprite.svg#file_download"></use>
+  </svg>
+</a>

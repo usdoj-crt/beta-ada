@@ -21,7 +21,7 @@
           {% for section in include.learn.sections %}
             <div class="tablet:grid-col-4 crt-landing--section__item">
               <div class="crt-landing--reporting_column">
-                <div class="h4 crt-landing--icon_gold">{% asset {{section.icon}} alt=""%}</div>
+                <div class="h4 crt-landing--icon_gold"><img src="{{section.icon | prepend: '/assets/images/' | relative_url}}" alt=""/></div>
                 <div>
                   <h3 class="text__reverse margin-bottom-0">
                     {{ section.heading }}
@@ -35,7 +35,7 @@
                   <ul class="padding-left-2">
                   {% for example in section.examples %}
                     <li class="padding-y-1">
-                        <a class="text-white learn-link" aria-label="learn more example link" href="{{example.link | relative_url }}">
+                      <a class="text-white learn-link" href="{{example.link | relative_url }}" data-ga-event-name="learn more example link {{example.title}}">
                             {{ example.title }}
                         </a>
                     </li>

@@ -1,0 +1,70 @@
+@use "uswds-core" as *;
+@use 'variables' as *;
+
+.crt-button--large {
+  background-color: color($theme-color-primary-darker);
+  color: color("white") !important;
+  font-weight: bold !important;
+  margin-top: 0.5rem;
+  padding: 1rem 2rem;
+
+  &:hover {
+    background: color($theme-link-hover-color);
+  }
+}
+
+#crt-page--expandaccordions,
+.crt-page--downloadpdf-button,
+#crt-back-to-top-button {
+  background-color: color($theme-color-primary-darker);
+  &:hover {
+    color: white !important;
+    background: color($theme-link-hover-color);
+  }
+  &:focus {
+    background: color($theme-link-hover-color);
+  }
+  width: max-content;
+}
+
+.crt-page--downloadpdf-button {
+  color: white;
+}
+
+.download-cta {
+  div {
+    border: solid 1px #D9D9D9;
+    padding: 1em;
+    min-width: 300px;
+    margin-right: 2em;
+    margin-top: 1em;
+  .size {
+    color: #162e51;
+    margin-left: 30px;
+  }
+  p {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    a {
+      font-weight: bold;
+      .usa-icon {
+        min-width: 22px;
+        min-height: 22px;
+      }
+    }
+  }
+}
+}
+
+.crt-page--downloadpdf-link {
+  align-items: baseline;
+  display: inline-flex;
+  gap: 8px;
+}
+
+span.usa-sr-only {
+  color: black;
+}
+
+
