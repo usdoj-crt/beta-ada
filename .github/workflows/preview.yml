@@ -16,5 +16,5 @@ jobs:
       - name: Comment Pull Request
         uses: thollander/actions-comment-pull-request@main
         with:
-          message: ":mag: [__Preview in Federalist__](https://federalist-1716bf9c-dd79-4d96-8285-6e56dc391b84.app.cloud.gov/preview/usdoj-crt/beta-ada/${{ github.head_ref }})"
+          message: ":mag: [__Preview in Federalist__](https://federalist-1716bf9c-dd79-4d96-8285-6e56dc391b84.sites.pages.cloud.gov/preview/usdoj-crt/beta-ada/${{ github.head_ref }})"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
