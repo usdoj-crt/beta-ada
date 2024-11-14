@@ -1,27 +1,44 @@
 const path = require('path');
+const CopyPlugin = require('copy-webpack-plugin');
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
+
+function relativePath(target) {
+  return path.resolve(__dirname, target);
+}
 
 module.exports = {
   mode: process.env.NODE_ENV || 'production',
   devtool: 'source-map',
   entry: {
-    styles: '/_assets/sass/styles.scss',
+    styles: '/assets/sass/styles.scss',
   },
   output: {
-    path: path.resolve(__dirname, './_assets/', 'css'),
+    path: path.resolve(__dirname, './assets/', 'css'),
     filename: 'styles.js',
   },
   module: {
     rules: [
       {
-        test: /\.(scss|svg|png|jpe?g)$/,
+        test: /\.scss$/,
         use: [
           MiniCssExtractPlugin.loader,
           {
             loader: "css-loader",
             options: {
+              sourceMap: true,
               url: false
             }
+          },
+          {
+            loader: 'postcss-loader',
+            options: {
+              sourceMap: true,
+              postcssOptions: {
+                plugins: [
+                  require('autoprefixer')
+                ]
+              }
+            },
           },
           {
             loader: 'sass-loader',
@@ -39,5 +56,7 @@ module.exports = {
       },
     ],
   },
-  plugins: [new MiniCssExtractPlugin({filename: '[name].css'})],
+  plugins: [
+    new MiniCssExtractPlugin({filename: '[name].css'}),
+  ],
 };

@@ -3,10 +3,9 @@ const { test, expect } = require('@playwright/test');
 const HOME = 'http://localhost:4000/';
 const LINKS = [
   'Home',
-  'Featured Topics',
   'Topics',
-  'Laws, Regulations & Standards',
-  'Laws & Regulations',
+  'Law, Regulations & Standards',
+  'Law & Regulations',
   'File a Complaint',
   'Guidance & Resource Materials',
   'Resources'

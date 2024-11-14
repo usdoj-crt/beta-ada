@@ -58,16 +58,16 @@
         <h4 class="usa-summary-box__heading">
           {% case pageType %}
             {% when 'topics' %}
-              Featured Topic
+              Topic
             {% when 'resources' %}
               Guidance
             {% when 'law-and-regs' %}
-              Laws & Regulations
+              Law & Regulations
           {% endcase %}
         </h4>
 
         <div class="margin-1">
-          <a class="usa-summary-box__link related-content-link" aria-label="related content link" href="{{ link.url | relative_url }}">{{ link.title }}</a>
+          <a class="usa-summary-box__link related-content-link" data-ga-event-name="related content link {{ link.title }}" href="{{ link.url | relative_url }}">{{ link.title }}</a>
         </div>
       </div>
     </div>

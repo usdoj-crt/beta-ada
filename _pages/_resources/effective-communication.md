@@ -9,13 +9,13 @@ publish-date: 2014-01-01 00:00:00
 updated-date: 2020-02-28 00:00:00
 print: true
 related-content: true
-tags:
-  - effective communication
 redirect_from:
   - /effective-comm.htm
   - /effectivecomm.htm
   - /effective-comm/
   - /effectivecomm/
+tags:
+  - effective communication
 ---
 ## Overview
 
@@ -121,17 +121,17 @@ In addition, covered entities are not required to provide any particular aid or 
 
 A critical and often overlooked component of ensuring success is comprehensive and ongoing staff training. Covered entities may have established good policies, but if front line staff are not aware of them or do not know how to implement them, problems can arise. Covered entities should teach staff about the ADA's requirements for communicating effectively with people who have communication disabilities. Many local disability organizations, including Centers for Independent Living, conduct ADA trainings in their communities. The Department's ADA Information Line can provide local contact information for these organizations.
 
-For more information about the ADA, please visit [ADA.gov](https://www.ada.gov) or call our toll-free number.
+For more information about the ADA, please visit [ADA.gov]({{ '/' | relative_url }}) or call our toll-free number.
 
 [ADA Information Line]( {{'/infoline/' | relative_url}})
 {{site.contact.tollfree}} (Voice) and {{site.contact.tty}} (TTY)
 M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.
 
-For people with disabilities, this publication is available in alternate formats.  
+For people with disabilities, this publication is available in alternate formats.
 
-<hr>  
-The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
+<hr>
+The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.
 
-This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.  
+This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
 <hr>
 Duplication of this document is encouraged.

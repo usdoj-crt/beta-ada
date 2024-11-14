@@ -3,16 +3,16 @@ title: "ADA Requirements:  Testing Accommodations"
 description: "This document provides technical assistance on testing accommodations for individuals with disabilities who take standardized exams and other high-stakes tests."
 permalink: /resources/testing-accommodations/
 lead: |-
-  
+
 lang: "en"
 publish-date: 2015-09-08 00:00:00
 updated-date: 2020-02-28 00:00:00
 print: true
 related-content: true
-tags:
-  - education
 redirect_from:
   - /regs2014/testing_accommodations.html
+tags:
+  - education
 ---
 Standardized examinations and other high-stakes tests are gateways to educational and employment opportunities.  Whether seeking admission to a high school, college, or graduate program, or attempting to obtain a professional license or certification for a trade, it is difficult to achieve such goals without sitting for some kind of standardized exam or high-stakes test.  While many testing entities have made efforts to ensure equal opportunity for individuals with disabilities, the Department continues to receive questions and complaints relating to excessive and burdensome documentation demands, failures to provide needed testing accommodations, and failures to respond to requests for testing accommodations in a timely manner.
 
@@ -113,7 +113,7 @@ Depending on the particular  testing accommodation request and the nature of the
 
 ## How Quickly Should A Testing Entity  Respond To A Request For Testing Accommodations?
 
- **A testing entity  must respond in a timely manner to requests for testing accommodations so as to  ensure equal opportunity for individuals with disabilities.**  Testing entities should ensure that  their process for reviewing and approving testing accommodations responds in  time for applicants to register and prepare for the test.<a href="#_ftn6" name="_ftnref6" title="" id="_ftnref6"><sup>6</sup></a>  In addition, the process should provide  applicants with a reasonable opportunity to respond to any requests for  additional information from the testing entity, and still be able to take the  test in the same testing cycle.  Failure  by a testing entity to act in a timely manner, coupled with seeking unnecessary  documentation, could result in such an extended delay that it constitutes a  denial of equal opportunity or equal treatment in an examination setting for  persons with disabilities.  
+ **A testing entity  must respond in a timely manner to requests for testing accommodations so as to  ensure equal opportunity for individuals with disabilities.**  Testing entities should ensure that  their process for reviewing and approving testing accommodations responds in  time for applicants to register and prepare for the test.<a href="#_ftn6" name="_ftnref6" title="" id="_ftnref6"><sup>6</sup></a>  In addition, the process should provide  applicants with a reasonable opportunity to respond to any requests for  additional information from the testing entity, and still be able to take the  test in the same testing cycle.  Failure  by a testing entity to act in a timely manner, coupled with seeking unnecessary  documentation, could result in such an extended delay that it constitutes a  denial of equal opportunity or equal treatment in an examination setting for  persons with disabilities.
 ## How  Should Testing Entities Report Test Scores for Test-Takers Receiving  Disability-Related Accommodations?
 
 **Testing  entities should report accommodated scores in the same way they report scores  generally.**  Testing entities must not decline to report  scores for test-takers with disabilities receiving accommodations under the  ADA.
@@ -122,8 +122,8 @@ Depending on the particular  testing accommodation request and the nature of the
 
 **To  view model testing accommodation practices and for more information about the  ADA, please visit our website or call our toll-free number:**
 
-- ADA Website: [www.ADA.gov]({{'/index' | relative_url}})
-- [ADA Information Line]({{'/index' | relative_url}}): 800-514-0301 (Voice) and 1-833-610-1264 (TTY); M, Tu, W, F: 9:30am - 12pm and 3pm - 5:30pm ET, Th: 2:30pm - 5:30pm ET
+- ADA Website: [www.ADA.gov]({{ '/' | relative_url }})
+- [ADA Information Line]({{ '/' | relative_url }}): 800-514-0301 (Voice) and 1-833-610-1264 (TTY); M, W, F: 9:30am - 12pm and 3pm - 5:30pm ET, Tu: 12:30 - 5:30pm ET, and Th: 2:30pm - 5:30pm ET
 - Model Testing Accommodation Practices Resulting From Recent Litigation: [http://archive.ada.govlsac_best_practices_report.docx](http://archive.ada.gov/lsac_best_practices_report.docx)
 
 {% footnotes %}

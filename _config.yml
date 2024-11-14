@@ -30,8 +30,11 @@ contact:
   tty: 1-833-610-1264
   link: /infoline/
   link_title: ADA Information Line
-  time1: "M, Tu, W, F: 9:30am - 12pm and 3pm - 5:30pm ET"
-  time2: "Th: 2:30pm - 5:30pm ET"
+  time1: "M, W, F: 9:30am - 12pm and 3pm - 5:30pm ET"
+  time2: "Tu: 12:30pm - 5:30pm ET, Th: 2:30pm - 5:30pm ET"
+
+# For alerts that aren't tied to a site.categories.notice
+
 
 # Display beta disclamers
 beta: false
@@ -55,9 +58,9 @@ primary_navigation:
       en: "/"
       es: "/"
   - name:
-      en: Featured Topics
-      en-short: Featured Topics
-      es: Featured Topics
+      en: Topics
+      en-short: Topics
+      es: Topics
     url:
       en: "/topics/"
       es: "/topics/"
@@ -69,12 +72,60 @@ primary_navigation:
       en: "/resources/"
       es: "/resources/"
   - name:
-      en: Laws, Regulations & Standards
-      en-short: Laws & Regulations
-      es: Laws, Regulations & Standards
+      en: Law, Regulations & Standards
+      en-short: Law & Regulations
+      es: Law, Regulations & Standards
     url:
       en: "/law-and-regs/"
       es: "/law-and-regs/"
+    children:
+    - name:
+        en: Law, Regulations & Standards
+        en-short: Law & Regulations
+        es: Law, Regulations & Standards
+      url: "/law-and-regs/"
+    - name:
+        en: The Americans with Disabilities Act
+        en-short: The ADA
+        es: The ADA
+      url: "/law-and-regs/ada/"
+    - name:
+        en: Regulations
+        en-short: Regulations
+        es: Regulations
+      url: "/law-and-regs/regulations/"
+      children:
+      - name:
+          en: Title II Regulations
+          en-short: Title II Regulations
+          es: Title II Regulations
+        url: "/law-and-regs/regulations/title-ii-2010-regulations/"
+      - name:
+          en: Title III Regulations
+          en-short: Title III Regulations
+          es: Title III Regulations
+        url: "/law-and-regs/regulations/title-iii-regulations/"
+    - name:
+        en: Design Standards
+        en-short: Design Standards
+        es: Design Standards
+      url: "/law-and-regs/design-standards/"
+      children:
+      - name:
+          en: 1991 Design Standards
+          en-short: 1991 Design Standards
+          es: 1991 Design Standards
+        url: "/law-and-regs/design-standards/1991-design-standards/"
+      - name:
+          en: 2010 Design Standards
+          en-short: 2010 Design Standards
+          es: 2010 Design Standards
+        url: "/law-and-regs/design-standards/2010-stds/"
+      - name:
+          en: Guidance to the 2010 Standards
+          en-short: Guidance to the 2010 Standards
+          es: Guidance to the 2010 Standards
+        url: "/law-and-regs/design-standards/standards-guidance/"
   - name:
       en: Enforcement
       en-short: Enforcement
@@ -115,7 +166,7 @@ govdelivery:
   link_text: Sign Up
 
 # Search.gov configuration
-# NOTE: The configuration is also set in the Javascript code: /_assets/js/utils/constants.js
+# NOTE: The configuration is also set in the Javascript code: /assets/js/utils/constants.js
 # 1. Create an account with Search.gov https://search.usa.gov/signup
 # 2. Add a new site.
 # 3. Add your site/affiliate name here.
@@ -161,6 +212,10 @@ defaults:
       path: "_includes/"
     values:
       sitemap: false
+  - scope:
+      path: "assets/"
+    values:
+      sitemap: false
 
 languages: ["en"]
 default_lang: "en"
@@ -191,30 +246,3 @@ exclude: # Be sure to add new excludes to _config.dev.yml as well!
   - make_redirects.rb
   - /scripts
   - /node_modules
-
-assets:
-  autoprefixer:
-    browsers:
-      - "> 2%"
-      - "last 2 versions"
-      - "IE 11"
-      - "not dead"
-  raw_precompile:
-    - source: node_modules/@uswds/uswds/dist/fonts/**/*
-      strip: node_modules/@uswds/uswds/dist/
-    - source: node_modules/@uswds/uswds/dist/img/*
-      strip: node_modules/@uswds/uswds/dist/
-    - source: node_modules/@uswds/uswds/dist/img/usa-icons/*
-      strip: node_modules/@uswds/uswds/dist/
-    - source: node_modules/@uswds/uswds/dist/img/usa-icons-bg/*
-      strip: node_modules/@uswds/uswds/dist/
-    - source: node_modules/@uswds/uswds/dist/img/sprite.svg
-      strip: node_modules/@uswds/uswds/dist/
-    - source: _pdfs/*
-    - source: _assets/images/*
-      strip: _assets/
-    - source: _includes/**/*
-  sources:
-    - node_modules/anchor-js
-    - node_modules/gumshoejs/dist
-    - node_modules/@uswds/uswds/dist

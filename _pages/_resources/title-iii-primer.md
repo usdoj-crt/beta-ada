@@ -9,10 +9,10 @@ publish-date: 2011-03-01 00:00:00
 updated-date: 2020-02-28 00:00:00
 print: true
 related-content: true
-tags:
-  - title iii
 redirect_from:
   - /regs2010/smallbusiness/smallbusprimer2010.htm
+tags:
+  - title iii
 ---
 ## New Customers
 
@@ -62,7 +62,7 @@ For additional details, see [ADA 2010 Revised Requirements: Effective Date/ Comp
 Your business, like all others, has formal and informal policies, practices, and procedures that keep it running smoothly. However, sometimes your policies or procedures can inadvertently make it difficult or impossible for a customer with a disability to access your goods and services. That is why the ADA requires businesses to make "reasonable modifications" to their usual ways of doing things when serving people with disabilities. Most modifications involve only minor adjustments in policies. For example, a day care center that has two scheduled snack times must modify this policy to allow a child with diabetes to bring food for an extra snack if necessary. A clothing store must modify a policy of permitting only one person at a time in a dressing room for a person with a disability who is shopping with a companion and needs the companion's assistance to try on clothes. Anything that would result in a fundamental alteration – a change in the essential nature of your business – is not required. For example, a clothing store is not required to provide dressing assistance for a customer with a disability if this is not a service provided to other customers.
 
 <figure id="dressing-room">
-{% asset project-images/dressing-room.jpg alt="A woman using a wheelchair is trying on clothes in a dressing room and a friend is helping her" height="325" width="250" %}
+<img src="{{ '/assets/images/project-images/dressing-room.jpg' | relative_url }}" alt="A woman using a wheelchair is trying on clothes in a dressing room and a friend is helping her" height="325" width="250" />
 <figcaption>
 **Allowing a second person in a dressing room is one way to modify policies.**
 </figcaption>
@@ -71,13 +71,13 @@ Your business, like all others, has formal and informal policies, practices, and
 Customers with disabilities may need different types of assistance to access your goods and services. For example, a grocery store clerk is expected to assist a customer using a mobility device by retrieving merchandise from high shelves. A person who is blind may need assistance maneuvering through a store's aisles. A customer with an intellectual disability may need assistance in reading product labels and instructions. Usually the customer will tell you up front if he or she needs assistance, although some customers may wait to be asked "may I help you?" When only one staff person is on duty, it may or may not be possible for him or her to assist a customer with a disability. The business owner or manager should advise the staff person to assess whether he or she can provide the assistance that is needed without jeopardizing the safe operation of the business.
 
 <figure id="assist-cooler">
-{% asset project-images/assist-cooler.jpg alt="A convenience store employee reaches for a bottle of juice from the top rack of a drink cooler for a woman using a power wheelchair." height="325" width="250" %}
+<img src="{{ '/assets/images/project-images/assist-cooler.jpg' | relative_url }}" alt="A convenience store employee reaches for a bottle of juice from the top rack of a drink cooler for a woman using a power wheelchair." height="325" width="250" />
 <figcaption>
 **Retrieving out of reach items and describing items for sale are ways to provide assistance to customers with disabilities.**
 </figcaption>
 </figure>
 <figure id="describe-clothes">
-{% asset project-images/describe-clothes.jpg alt="In a dress shop, a sales clerk is describing a dress while a woman who is blind feels the texture of the fabric," height="325" width="250" %}
+<img src="{{ '/assets/images/project-images/describe-clothes.jpg' | relative_url }}" alt="In a dress shop, a sales clerk is describing a dress while a woman who is blind feels the texture of the fabric," height="325" width="250" />
 </figure>
 
 ### Service Animals
@@ -85,7 +85,7 @@ Customers with disabilities may need different types of assistance to access you
 Often businesses such as stores, restaurants, hotels, or theaters have policies that can exclude people with disabilities. For example, a "no pets" policy may result in staff excluding people with disabilities who use dogs as service animals. A clear policy permitting service animals can help ensure that staff are aware of their obligation to allow access to customers using service animals. Under the ADA's revised regulations, the definition of "service animal" is limited to a dog that is individually trained to do work or perform tasks for an individual with a disability. The task(s) performed by the dog must be directly related to the person's disability. For example, many people who are blind or have low vision use dogs to guide and assist them with orientation. Many individuals who are deaf use dogs to alert them to sounds. People with mobility disabilities often use dogs to pull their wheelchairs or retrieve items. People with epilepsy may use a dog to warn them of an imminent seizure, and individuals with psychiatric disabilities may use a dog to remind them to take medication. Service members returning from war with new disabilities are increasingly using service animals to assist them with activities of daily living as they reenter civilian life. Under the ADA, "comfort," "therapy," or "emotional support animals" do not meet the definition of a service animal.
 
 <figure id="service-animal">
-{% asset project-images/service-animal.jpg alt="A service animal gives a can of soda to a young man using a wheelchair." height="325" width="250" %}
+<img src="{{ '/assets/images/project-images/service-animal.jpg' | relative_url }}" alt="A service animal gives a can of soda to a young man using a wheelchair." height="325" width="250" />
 <figcaption>
 **Service animals provide many types of assistance for people with disabilities.**
 </figcaption>
@@ -100,7 +100,7 @@ In situations where it is not apparent that the dog is a service animal, a busin
 People with mobility, circulatory, or respiratory disabilities use a variety of devices for mobility. Some use walkers, canes, crutches, or braces while others use manually-operated or power wheelchairs, all of which are primarily designed for use by people with disabilities. Businesses must allow people with disabilities to use these devices in all areas where customers are allowed to go.
 
 <figure id="family-scooter">
-{% asset project-images/family-scooter.jpg alt="A family of six, including parents, grandparents, and children arrive at a hotel for vacation.  The grandfather is using a scooter for mobility." height="250" width="325" %}
+<img src="{{ '/assets/images/project-images/family-scooter.jpg' | relative_url }}" alt="A family of six, including parents, grandparents, and children arrive at a hotel for vacation.  The grandfather is using a scooter for mobility." height="250" width="325" />
 <figcaption>
 **Devices categorized as wheelchairs must be permitted.**
 </figcaption>
@@ -127,7 +127,7 @@ Communicating successfully with customers is an essential part of doing business
 Because the nature of communications differs from business to business, the rules allow for flexibility in determining effective communication solutions. What is required to communicate effectively when discussing a mortgage application at a bank or buying an automobile at a car dealership will likely be very different from what is required to communicate effectively in a convenience store. The goal is to find practical solutions for communicating effectively with your customers. For example, if a person who is deaf is looking for a particular book at a bookstore, exchanging written notes with a sales clerk may be effective. Similarly, if that person is going to his or her doctor's office for a flu shot, exchanging written notes would most likely be effective. However, if the visit's purpose is to discuss cancer treatment options, effective communication would likely require a sign language or oral interpreter because of the nature, length, and complexity of the conversation. Providing an interpreter guarantees that both parties will understand what is being said. The revised regulations permit the use of new technologies including video remote interpreting (VRI), a service that allows businesses that have video conference equipment to access an interpreter at another location.
 
 <figure id="note-communication">
-{% asset project-images/note-communication.jpg alt="At a dry cleaner, a woman who is deaf is writing a note to ask the staff person when her dry cleaning will be ready." height="250" width="300" %}
+<img src="{{ '/assets/images/project-images/note-communication.jpg' | relative_url }}" alt="At a dry cleaner, a woman who is deaf is writing a note to ask the staff person when her dry cleaning will be ready." height="250" width="300" />
 <figcaption>
 **Exchange of written notes may be appropriate for casual interactions.**
 </figcaption>
@@ -136,7 +136,7 @@ Because the nature of communications differs from business to business, the rule
 It is a business's responsibility to provide a sign language, oral interpreter, or VRI service unless doing so in a particular situation would result in an undue burden, which means significant difficulty or expense. A business's overall resources determine (rather than a comparison to the fees paid by the customer needing the interpreter) what constitutes an undue burden. If a specific communications method would be an undue burden, a business must provide an effective alternative if there is one.
 
 <figure id="car-dealer">
-{% asset project-images/car-dealer.jpg alt="A car salesman is negotiating a sale with a couple." height="250" width="300" %}
+<img src="{{ '/assets/images/project-images/car-dealer.jpg' | relative_url }}" alt="A car salesman is negotiating a sale with a couple." height="250" width="300" />
 <figcaption>
 **Complex transactions will likely require more formal means of communication, such as a sign language interpreter.**
 </figcaption>
@@ -145,7 +145,7 @@ It is a business's responsibility to provide a sign language, oral interpreter, 
 Many individuals who are deaf or have other hearing or speech disabilities use either a text telephone (TTY) or text messaging instead of a standard telephone. The ADA established a free telephone relay network to enable these individuals to communicate with businesses and vice versa. When a person who uses such a device calls the relay service by dialing 7-1-1, a communications assistant calls the business and voices the caller's typed message and then types the business's response to the caller. Staff who answer the telephone must accept and treat relay calls just like other calls. The communications assistant will explain how the system works if necessary.
 
 <figure id="tty-pizza">
-{% asset project-images/tty-pizza.jpg alt="A person with a TTY is using the relay service to place an order for pizza delivery." height="250" width="300" %}
+<img src="{{ '/assets/images/project-images/tty-pizza.jpg' | relative_url }}" alt="A person with a TTY is using the relay service to place an order for pizza delivery." height="250" width="300" />
 <figcaption>
 **Businesses must answer calls placed through the telephone relay service.**
 </figcaption>
@@ -154,7 +154,7 @@ Many individuals who are deaf or have other hearing or speech disabilities use e
 The rules are also flexible for communicating effectively with customers who are blind or have low vision. For example, a restaurant can put its menu on an audio cassette or a waiter can read it to a patron. A sales clerk can find items and read their labels. In more complex transactions where a significant amount of printed information is involved, providing alternate formats will be necessary, unless doing so is an undue burden. For example, when a client who is blind visits his real estate agent to negotiate the sale of a house, all relevant documents should be provided in a format he can use, such as on a computer disk or audio cassette. It may be effective to e-mail an electronic version of the documents so the client can use his or her screen-reading technology to read them before making a decision or signing a contract. In this situation, since complex financial information is involved, simply reading the documents to the client will most likely not be effective. Usually a customer will tell you which format he or she needs. If not, it is appropriate to ask.
 
 <figure id="restaurant-waiter">
-{% asset project-images/restaurant-waiter.jpg alt="An a restaurant, a waiter is reading the menu to a woman who is blind." height="250" width="300" %}
+<img src="{{ '/assets/images/project-images/restaurant-waiter.jpg' | relative_url }}" alt="An a restaurant, a waiter is reading the menu to a woman who is blind." height="250" width="300" />
 <figcaption>
 **Reading a menu to a customer who is blind is one way to provide effective communication.**
 </figcaption>
@@ -207,8 +207,8 @@ The ADA requires that small businesses remove architectural barriers in existing
 Readily achievable barrier removal may include providing an accessible route from a parking lot to the business's entrance, installing an entrance ramp, widening a doorway, installing accessible door hardware, repositioning shelves, or moving tables, chairs, display racks, vending machines, or other furniture. When removing barriers, businesses are required to comply with the Standards to the extent possible. For example, where there is not enough space to install a ramp with a slope that complies with the Standards, a business may install a ramp with a slightly steeper slope. However, any deviation from the Standards must not pose a significant safety risk.
 
 <figure id="barrier">
-{% asset project-images/barrier-before.jpg alt="Removing barriers, such as a step to an entrance, is required when readily achievable." height="250" width="250" %}
-{% asset project-images/barrier-after.jpg alt="Restaurant after a ramp is installed, making the entrance accessible." height="250" width="250" %}
+<img src="{{ '/assets/images/project-images/barrier-before.jpg' | relative_url }}" alt="Removing barriers, such as a step to an entrance, is required when readily achievable." height="250" width="250" />
+<img src="{{ '/assets/images/project-images/barrier-after.jpg' | relative_url }}" alt="Restaurant after a ramp is installed, making the entrance accessible." height="250" width="250" />
 <figcaption>
 **Removing barriers, such as a step to an entrance, is required when readily achievable.**
 </figcaption>
@@ -255,7 +255,7 @@ Businesses should not wait until March 15, 2012 to identify existing barriers, b
 In some instances, especially in older buildings, it may not be readily achievable to remove some architectural barriers. For example, a restaurant with several steps leading to its entrance may determine that it cannot afford to install a ramp or a lift. In this situation, the restaurant must provide its services in another way if that is readily achievable, such as providing takeout service. Businesses should train staff on these alternatives and publicize them so customers with disabilities will know of their availability and how to access them.
 
 <figure id="barrier">
-{% asset project-images/call-button.jpg alt="In front of a grocery store with four steps up to the entrance, a customer using a wheelchair is handing money to a clerk who is holding a bag of groceries." height="300" width="250" %}
+<img src="{{ '/assets/images/project-images/call-button.jpg' | relative_url }}" alt="In front of a grocery store with four steps up to the entrance, a customer using a wheelchair is handing money to a clerk who is holding a bag of groceries." height="300" width="250" />
 <figcaption>
 **When barrier removal is not possible, alternatives such as curbside service should be provided.**
 </figcaption>
@@ -325,7 +325,7 @@ Small businesses with very limited parking (four or fewer spaces) must have one 
 An accessible parking space must have an access aisle, which allows a person using a wheelchair or other mobility device to get in and out of the car or van.
 
 <figure id="parking-diagram">
-{% asset project-images/title_ii_primer_clip.jpg alt="A man using a wheelchair is exiting his van at a van-accessible parking space. The illustration has notes explaining the following requirements, starting at the top left and moving counterclockwise:  Signage: international symbol of accessibility placed in front of the parking space mounted at least 60 inches above the ground, measured to the bottom of the sign. Van accessible spaces include the designation van accessible.  Van Accessible Spaces: 2010 Standards one for every six accessible spaces (1991 Standards required one for every eight)  Width of space for car: 8 feet minimum  Width of space for van: 11 feet minimum (although it may be 8 feet wide if its access aisle is 8 feet wide)  Access aisle:  Width: 5 feet minimum (if aisle serves car and van spaces)  Length: full length of parking space" height="500" width="725" %}
+<img src="{{ '/assets/images/project-images/title_ii_primer_clip.jpg' | relative_url }}" alt="A man using a wheelchair is exiting his van at a van-accessible parking space. The illustration has notes explaining the following requirements, starting at the top left and moving counterclockwise:  Signage: international symbol of accessibility placed in front of the parking space mounted at least 60 inches above the ground, measured to the bottom of the sign. Van accessible spaces include the designation van accessible.  Van Accessible Spaces: 2010 Standards one for every six accessible spaces (1991 Standards required one for every eight)  Width of space for car: 8 feet minimum  Width of space for van: 11 feet minimum (although it may be 8 feet wide if its access aisle is 8 feet wide)  Access aisle:  Width: 5 feet minimum (if aisle serves car and van spaces)  Length: full length of parking space" height="500" width="725" />
 <figcaption>
 **An overview of accessible parking requirements**
 </figcaption>
@@ -336,9 +336,7 @@ An accessible parking space must have an access aisle, which allows a person usi
 One small step at an entrance can make it impossible for individuals using wheelchairs, walkers, canes, or other mobility devices to do business with you. Removing this barrier may be accomplished in a number of ways, such as installing a ramp or a lift or regrading the walkway to provide an accessible route. If the main entrance cannot be made accessible, an alternate accessible entrance can be used. If you have several entrances and only one is accessible, a sign should be posted at the inaccessible entrances directing individuals to the accessible entrance. This entrance must be open whenever other public entrances are open.
 
 <figure id="store-entry">
-{% asset project-images/store-entry.gif alt="A woman using a wheelchair, with a service animal, is opening the door to a convenience store.  The store's ice box and
-newspaper sales box are on the sidewalk, but are away from the door, so
-they do not block her entrance." height="300" width="250" %}
+<img src="{{ '/assets/images/project-images/store-entry.gif' | relative_url }}" alt="A woman using a wheelchair, with a service animal, is opening the door to a convenience store.  The store's ice box and newspaper sales box are on the sidewalk, but are away from the door, so they do not block her entrance." height="300" width="250" />
 <figcaption>
 **Ensuring that items do not block the accessible route allows independent access.**
 </figcaption>
@@ -349,8 +347,7 @@ they do not block her entrance." height="300" width="250" %}
 The path a person with a disability takes to enter and move through your business is called an "accessible route." This route, which must be at least three feet wide, must remain accessible and not be blocked by items such as vending or ice machines, newspaper dispensers, furniture, filing cabinets, display racks, or potted plants. Similarly, accessible toilet stalls, dressing rooms, or counters at a cash register must not be cluttered with merchandise or supplies.
 
 <figure id="shopping">
-{% asset project-images/aisle-jug.jpg alt="A man using a scooter is selecting milk at a convenience store. Adequate aisle space makes it possible for him to maneuver
-through the store." height="300" width="250" %}
+<img src="{{ '/assets/images/project-images/aisle-jug.jpg' | relative_url }}" alt="A man using a scooter is selecting milk at a convenience store. Adequate aisle space makes it possible for him to maneuver through the store." height="300" width="250" />
 <figcaption>
 **An accessible route allows customers using mobility devices to access items for sale.**
 </figcaption>
@@ -359,7 +356,7 @@ through the store." height="300" width="250" %}
 Temporary access interruptions for maintenance, repair, or operational activities are permitted, but must be remedied as soon as possible and may not extend beyond a reasonable period of time. Businesses must be prepared to retrieve merchandise for customers during these interruptions. For example, if an aisle is temporarily blocked because shelves are being restocked, staff must be available to assist a customer with a disability who is unable to maneuver through that aisle. In addition, if an accessible feature such as an elevator breaks down, businesses must ensure that repairs are made promptly and that improper or inadequate maintenance does not cause repeated failures. Businesses must also ensure that no new barriers are created that impede access by customers with disabilities. For example, routinely storing a garbage bin or piling snow in accessible parking spaces makes them unusable and inaccessible to customers with mobility disabilities.
 
 <figure id="shoveling-snow">
-{% asset project-images/shoveling-snow.gif alt="Two people are clearing snow from an accessible parking space in a video store's parking lot." height="300" width="250" %}
+<img src="{{ '/assets/images/project-images/shoveling-snow.gif' | relative_url }}" alt="Two people are clearing snow from an accessible parking space in a video store's parking lot." height="300" width="250" />
 <figcaption>
 **Snow or other debris in accessible parking spaces and access aisles must be removed as soon as possible.**
 </figcaption>
@@ -370,7 +367,7 @@ Temporary access interruptions for maintenance, repair, or operational activitie
 The obligation to remove barriers also applies to merchandise shelves, sales and service counters, and check-out aisles. Shelves and counters must be on an accessible route with enough space to allow customers using mobility devices to access merchandise. However, shelves may be of any height since they are not subject to the ADA's reach range requirements. Where barriers prevent access to these areas, they must be removed if readily achievable. However, businesses are not required to take any steps that would result in a significant loss of selling space. At least one check-out aisle must be usable by people with mobility disabilities, though more are required in larger stores. When it is not readily achievable to make a sales or service counter accessible, businesses should provide a folding shelf or a nearby accessible counter. If these changes are not readily achievable, businesses may provide a clip board or lap board until more permanent changes can be made.
 
 <figure id="checking-out">
-{% asset project-images/money-counter.jpg alt="A woman using a wheelchair is buying a drink at a small grocery store.  Adequate maneuvering space and a low, uncluttered counter make it possible for her to approach the sales counter." height="300" width="250" %}
+<img src="/assets/images/project-images/money-counter.jpg | relative_url" alt="A woman using a wheelchair is buying a drink at a small grocery store.  Adequate maneuvering space and a low, uncluttered counter make it possible for her to approach the sales counter." height="300" width="250" />
 <figcaption>
 **A lowered counter and clear floor space are critical components of an accessible service counter.**
 </figcaption>
@@ -381,7 +378,7 @@ The obligation to remove barriers also applies to merchandise shelves, sales and
 People with disabilities need to access tables, food service lines, and condiment and beverage bars in restaurants, bars, or other establishments where food or drinks are sold. There must be an accessible route to all dining areas, including raised or sunken dining areas and outdoor dining areas, as well as to food service lines, service counters, and public restrooms. In a dining area, remember to arrange tables far enough apart so a person using a wheelchair can maneuver between the tables when patrons are sitting at them. Some accessible tables must be provided and must be dispersed throughout the dining area rather than clustered in a single location.
 
 <figure id="restaurant-counter">
-{% asset project-images/condiment-bar.jpg alt="A woman using a scooter is selecting items from the condiment bar at a casual restaurant.  Adequate maneuvering space and items placed within reach make it possible for her to serve herself." height="300" width="250" %}
+<img src="{{ '/assets/images/project-images/condiment-bar.jpg' | relative_url }}" alt="A woman using a scooter is selecting items from the condiment bar at a casual restaurant.  Adequate maneuvering space and items placed within reach make it possible for her to serve herself." height="300" width="250" />
 <figcaption>
 **Restaurants must provide access to self-service items.**
 </figcaption>
@@ -457,7 +454,7 @@ Section 190 of the IRS Code provides a tax deduction for businesses of all sizes
 
 **U.S. Department of Justice**
 
-For more information about the revised ADA regulations and 2010 ADA Standards, please visit the Department of Justice's [ADA Website](https://www.ada.gov) or call our toll-free number.
+For more information about the revised ADA regulations and 2010 ADA Standards, please visit the Department of Justice's [ADA Website]({{ '/' | relative_url }}) or call our toll-free number.
 
 [ADA Information Line]( {{'/infoline'| relative_url}})
 {{site.contact.tollfree}} (Voice) and {{site.contact.tty}} (TTY)
@@ -491,8 +488,8 @@ This publication is available in alternate formats for persons with disabilities
 
 This document has been developed for small businesses in accordance with the Small Business Regulatory Enforcement Flexibility Act of 1996.
 
-<hr>  
-The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
+<hr>
+The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.
 
 This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
 <hr>

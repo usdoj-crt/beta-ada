@@ -9,10 +9,10 @@ publish-date: 2011-06-22 00:00:00
 updated-date: 2020-02-28 00:00:00
 related-content: true
 print: true
-tags:
-  - community integration
 redirect_from:
   - /olmstead/q&a_olmstead.htm
+tags:
+  - community integration
 ---
 In 2009, on the tenth anniversary of the Supreme Court&rsquo;s decision in <em>Olmstead</em>, President Obama launched &ldquo;The Year of Community Living&rdquo; and directed federal agencies to vigorously enforce the civil rights of Americans with disabilities.&nbsp; Since then, the Department of Justice has made enforcement of <em>Olmstead </em>a top priority.&nbsp; As we commemorate the 12th anniversary of the <em>Olmstead</em> decision, the Department of Justice reaffirms its commitment to vindicate the right of individuals with disabilities to live integrated lives under the ADA and <em>Olmstead</em>.&nbsp; To assist individuals in understanding their rights under title II of the ADA and its integration mandate, and to assist state and local governments in complying with the ADA, the Department of Justice has created this technical assistance guide.
 

@@ -23,7 +23,7 @@ publish_mode: editorial_workflow
 
 # Media Folder: The media_folder option specifies the folder path where uploaded files should be saved, relative to the base of the repo.
 # Required.
-media_folder: _assets/images
+media_folder: assets/images
 public_folder: .
 # Search: since site search is already managed by Federalist, we are going to set this value to false. It defaults to true.
 search: false
@@ -457,11 +457,65 @@ collections:
       - label: Body Content
         name: body
         widget: markdown
-    # Laws and regulations pages
+    # Law and regulations pages
   - label: Law and Regs
     name: law-and-regs
     summary: "{{title}} ({{filename}})"
     folder: _pages/law-and-regs
+    create: true
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Lead Text
+        name: lead
+        widget: text
+        required: false
+      - label: Permalink
+        name: permalink
+        widget: string
+      - label: Sidenav
+        name: sidenav
+        widget: boolean
+        default: true
+        required: false
+      - label: Sidenav PDF
+        name: sidenav-pdf
+        widget: object
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            required: false
+          - label: Filename
+            name: filename
+            widget: string
+            required: false
+          - label: Text
+            name: text
+            widget: string
+            required: false
+            default: "Download PDF"
+      - label: Body Content
+        name: body
+        widget: markdown
+      - label: Related Content
+        name: related-content
+        widget: boolean
+        default: false
+        required: false
+      - label: Tags
+        name: tags
+        widget: select
+        options: ["artificial intelligence","design standards","effective communication" , "employment","parking","service animals","title ii","title iii","web access"]
+        multiple: true
+        min: 0
+        required: false
+  # Regulations pages
+  - label: Regulations
+    name: regulations
+    summary: "{{title}} ({{filename}})"
+    folder: _pages/law-and-regs/regulations
     create: true
     fields:
       - label: Title
@@ -521,6 +575,9 @@ collections:
       - label: Title
         name: title
         widget: string
+      - label: Title Icon
+        name: title-icon
+        widget: string
       - label: Lead Text
         name: lead
         widget: text
@@ -569,7 +626,7 @@ collections:
   - label: Notices
     name: notices-posts
     summary: "{{title}} ({{filename}})"
-    folder: notices/_posts
+    folder: _pages/notices/_posts
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:

@@ -1,6 +1,6 @@
 ---
 title: Businesses That Are Open to the Public
-description: If you are a business or a person with a disability, there are many aspects of the ADA that you should be familiar with. The information below is intended to help get you started.
+description: Information to help businesses or people with a disabilities get started familiarizing themselves with the ADA.
 lead: |-
   The ADA is meant to ensure that people with disabilities can fully participate in all aspects of life.  Almost all types of businesses that serve the public, regardless of their size or the age of their buildings, must follow the ADA.
 
@@ -13,12 +13,12 @@ card:
   image: landing/title-iii.gif
   alt: "A sign hanging inside a storefront window reads Welcome. We are Open. Please come in"
   href: /topics/title-iii/
-tags:
-  - title iii
 related-content: true
 redirect_from:
   - /ada_title_iii.htm
   - /ada_title_III.htm
+tags:
+  - title iii
 ---
 
 ## Title III Applies to Businesses
