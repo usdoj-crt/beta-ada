@@ -4,7 +4,6 @@ description: "A publication explaining the rights of persons with HIV/AIDS under
 permalink: /resources/hiv-q&a/
 lang: "en"
 publish-date: 2016-10-01 00:00:00
-updated-date: 2020-02-28 00:00:00
 related-content: true
 print: true
 tags:
@@ -27,8 +26,10 @@ Moreover, the ADA protects persons who are discriminated against because they ha
 {% enddetails %}
 
 {% accordion fc %}
+{% collapsible %}
 ### Filing a Complaint Information
-Information on filing a complaint with the Department of Justice can be found at [Filing A Complaint]({{'/file-a-complaint' | relative_url}}). For more information on how to send complaints to the Department by mail, fax, or online, see the end of this document.
+Information on filing a complaint with the Department of Justice can be found at [Filing A Complaint]({{'/file-a-complaint' | relative_url}}). For more information on how to send complaints to the Department by mail or online, jump to [Resources](#resources).
+{% endcollapsible %}
 {% endaccordion %}
 
 ## II. Employment
@@ -132,7 +133,7 @@ An applicant or employee who believes that he or she has been subjected to discr
 {% accordion mi %}
 {% collapsible %}
 ### For more information on employment requirements
-For more information about the ADA's employment requirements, or to file a charge of discrimination, please call the EEOC at 800-669-4000 (Voidce) or 800-669-6820 (TTY), or visit www.eeoc.gov/employees/charge.cfm.
+For more information about the ADA's employment requirements, or to file a charge of discrimination, please call the EEOC at 800-669-4000 (Voice) or 800-669-6820 (TTY), or visit [https://www.eeoc.gov/employees/charge.cfm](https://www.eeoc.gov/employees/charge.cfm).
 {% endcollapsible %}
 {% endaccordion %}
 
@@ -194,7 +195,7 @@ In almost every instance, the answer to this question is no. Persons with HIV or
 
 A public accommodation may exclude an individual with a disability from participation in an activity if that individual’s participation would result in a direct threat to the health or safety of others. “Direct threat,” however, is defined as a “significant risk to the health or safety of others” that cannot be eliminated or reduced to an acceptable level by reasonable modifications to the public accommodation’s policies, practices, or procedures, or by the provision of appropriate auxiliary aids or services. The determination that a person poses a direct threat to the health or safety of others may not be based on generalizations or stereotypes about the effects of a particular disability; it must be based on an individual assessment that considers the particular activity and the actual abilities and disabilities of the individual. The individual assessment must be based on reasonable judgment that relies on current medical evidence. For example:
 
-- A restaurant’s refusal to admit an individual with AIDS would violate the ADA, because HIV cannot be transmitted through the casual contact that occurs in a restaurant setting.
+- A restaurant's refusal to admit an individual with AIDS would violate the ADA, because HIV cannot be transmitted through the casual contact that occurs in a restaurant setting.
 - A gynecologist’s refusal to treat a woman with HIV would be a violation of the ADA. Health care providers are required to treat all persons as if they have HIV or other blood-borne pathogens, and must use universal precautions (gloves, mask, and/or gown where appropriate, etc.) to protect themselves from the transmission of infectious diseases. Failure to treat a person who discloses that she has HIV out of a fear of contracting HIV would be a violation of the ADA, because so long as the physician utilizes universal precautions, it is generally safe to treat persons with HIV or AIDS.
 - A day care center’s refusal to admit a child with HIV is also a violation. Day care centers cannot exclude a child solely because he has HIV or AIDS. HIV cannot be easily transmitted during the types of incidental contact that take place in child care centers. Children with HIV or AIDS generally can be safely integrated into all activities of a child care program. Universal precautions, such as wearing latex gloves, should be used whenever caregivers come into contact with children’s blood or bodily fluids, such as when they are cleansing and bandaging playground wounds. This applies to the care of all children, whether or not they are known to have disabilities.
 - A health club’s revocation of the membership of a person with HIV, because of the fear that the person may transmit the virus through the sweat he leaves on the club’s weight machines, also violates the ADA. There is no evidence that HIV can be transmitted by sweat.
@@ -218,7 +219,7 @@ The Department of Justice is authorized to investigate complaints and to bring l
 Individuals are also entitled to bring private lawsuits against places of public accommodation. If a person files a private lawsuit, he or she may not seek monetary damages. However, the person may seek injunctive relief and reasonable attorney's fees and costs.
 {% enddetails %}
 
-Information on filing a complaint with the Department of Justice can be found at www.ADA.gov/HIV. For more information on how to send complaints to the Department by mail, fax, or online, see the end of this document.
+For information on filing a complaint with the Department of Justice, visit [Filing A Complaint]({{'/file-a-complaint' | relative_url}}).
 
 ## IV. State and Local Governments
 
@@ -244,7 +245,7 @@ The Department of Justice is authorized to investigate complaints and to bring l
 Individuals are also entitled to bring private ADA lawsuits against State and local governments and seek injunctive relief, monetary damages (in some instances), and reasonable attorney's fees and costs.
 {% enddetails %}
 
-Information on filing a complaint with the Department of Justice can be found at www.ADA.gov/HIV. For more information on how to send complaints to the Department by mail, fax, or online, see the end of this document.
+For information on filing a complaint with the Department of Justice, visit [Filing A Complaint]({{'/file-a-complaint' | relative_url}}).
 
 ## V. Housing
 
@@ -257,7 +258,7 @@ Housing discrimination is illegal in the sale or rental of a dwelling, including
 {% accordion hou %}
 {% collapsible %}
 ### For more information on housing discrimination
-Persons who believe that they have been discriminated against in housing because of their HIV status may contact HUD at 800-669-9777 (Voice) or 800-927-9275 (TTY) or visit http://www.hud.gov/complaints/.
+Persons who believe that they have been discriminated against in housing because of their HIV status may contact HUD at 800-669-9777 (Voice) or 800-927-9275 (TTY) or visit [https://www.hud.gov/complaints/](https://www.hud.gov/complaints/).
 {% endcollapsible %}
 {% endaccordion %}
 
@@ -269,43 +270,40 @@ Discrimination by air carriers in areas other than employment is not covered by 
 
 {% accordion dot %}
 {% collapsible %}
-### Persons who believe that they have been discriminated against by airlines
-because they have HIV may contact the U.S. Department of Transportation at 800-778-4838 (Voice) or 800-455-9880 (TTY) or visit airconsumer.ost.dot.gov/ACAAcomplaint.htm.
+### Persons who believe that they have been discriminated against by the airlines
+Persons who believe that they have been discriminated against by the airlines because they have HIV may contact the U.S. Department of Transportation at 800-778-4838 (Voice) or 800-455-9880 (TTY) or visit [airconsumer.ost.dot.gov/ACAAcomplaint.htm](https://www.airconsumer.ost.dot.gov/ACAAcomplaint.htm).
 {% endcollapsible %}
 {% endaccordion %}
 
 ## Resources
 
-**The Department of Justice** offers technical assistance on the ADA as it applies to businesses, non-profit service agencies, and State and local government programs. To get answers to technical questions, obtain general ADA information, order free ADA materials, or ask about filing a complaint, please call the ADA Information Line for documents and questions at 800-514-0301 (Voice) and 833-610-1264 (TTY) or visit the [DOJ HIV/AIDS website](https://archive.ada.gov/HIV).
+**The Department of Justice** offers technical assistance on the ADA as it applies to businesses, non-profit service agencies, and State and local government programs. To get answers to technical questions, obtain general ADA information, order free ADA materials, or ask about filing a complaint, please call the [ADA Information Line]({{'/infoline' | relative_url}}) for documents and questions at 800-514-0301 (Voice) and 833-610-1264 (TTY) or visit [ADA.gov]({{'/index' | relative_url}}).
 
-**The Equal Employment Opportunity Commission** offers technical assistance on ADA provisions applying to employment and also provides information on how to file ADA complaints at 800-669-4000 (Voice), 800-669-6820 (TTY) and at [www.EEOC.gov](https://www.eeoc.gov)
+**The Equal Employment Opportunity Commission** offers technical assistance on ADA provisions applying to employment and also provides information on how to file ADA complaints at 800-669-4000 (Voice), 800-669-6820 (TTY) and at [https://www.EEOC.gov](https://www.eeoc.gov)
 
-**The Job Accommodation Network (JAN)** provides information and advice to employers and people with disabilities on reasonable accommodation in the workplace at 800-526-7234 (Voice), 877-781-9403 (TTY) and [www.askjan.org](https://www.askjan.org)
+**The Job Accommodation Network (JAN)** provides information and advice to employers and people with disabilities on reasonable accommodation in the workplace at 800-526-7234 (Voice), 877-781-9403 (TTY) and [https://www.askjan.org](https://www.askjan.org)
 
-**The Department of Housing and Urban Development** takes complaints concerning housing-related discrimination:800-669-9777 (Voice), 800-927-9275 (TTY) and [www.HUD.gov/complaints/](https://www.hud.gov/complaints)
+**The Department of Housing and Urban Development** takes complaints concerning housing-related discrimination:800-669-9777 (Voice), 800-927-9275 (TTY) and [https://www.HUD.gov/complaints/](https://www.hud.gov/complaints)
 
-**CDC-INFO, the Center for Disease Control and Prevention's National Contact Center**, provides information on a wide variety of disease prevention and health promotion topics, including on HIV/AIDS. Representatives are available to answer questions in English and Spanish at 800-CDC-INFO (Voice), 888-232-6348 (TTY) and [www.CDC.gov/cdc-info/](https://www.cdc.gov/cdc-info)
+**CDC-INFO, the Center for Disease Control and Prevention's National Contact Center**, provides information on a wide variety of disease prevention and health promotion topics, including on HIV/AIDS. Representatives are available to answer questions in English and Spanish at 800-CDC-INFO (Voice), 888-232-6348 (TTY) and [https://www.CDC.gov/cdc-info/](https://www.cdc.gov/cdc-info)
 
 **The U.S. Department of Transportation** responds to discrimination by air carriers in areas other than employment under the Air Carrier Access Act at 800-778-4838 (Voice), 800-455-9880 (TTY) and [https://www.transportation.gov/airconsumer/passengers-disabilities](https://www.transportation.gov/airconsumer/passengers-disabilities)
 
 ### More information
-[ADA Information Line]({{'/infoline' | relative_url}})
-800-514-0301 | 1-833-610-1264 (TTY)
-M, Tu, W, F: 9:30am - 12pm and 3pm - 5:30pm ET, Th: 2:30pm - 5:30pm ET
-to speak with an ADA Specialist. Calls are confidential.
-For persons with disabilities, this publication is available in alternate formats.
+[ADA Information Line]({{'/infoline' | relative_url}})<br>
+Call 800-514-0301 | 1-833-610-1264 (TTY) to speak with an ADA Specialist. Calls are confidential.<br>
+Hours:  M, W, F: 9:30am - 12pm and 3 - 5:30pm ET, Tu: 12:30 - 5:30pm, Th: 2:30 - 5:30pm ET
 
 ### File a complaint with the Department of Justice
-Online: https://archive.ada.gov/HIV/ada_hiv_complaints.htm
-By mail: US Department of Justice
-950 Pennsylvania Avenue, NW
-Civil Rights Division, Disability Rights Section -- 1425 NYAV
-Washington, DC 20530
-By fax: (202) 307-1197
+Online: [Filing A Complaint]({{'/file-a-complaint' | relative_url}})<br>
+By mail:<br>
+US Department of Justice<br>
+Civil Rights Division, Disability Rights Section<br>
+950 Pennsylvania Avenue, NW<br>
+Washington, DC 20530-0001
 
 <hr>  
 The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
 
 This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
 <hr>
-Duplication of this document is encouraged.
