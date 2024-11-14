@@ -1,73 +1,83 @@
 {% include skipnav.html %} {% include banner.html %} {% if site.beta %} {%include banner-beta.html
-%} {% endif %} {% assign lang = page.lang %} {% if lang==nil %}{% assign lang="en" %}{% endif %}
-<header class="usa-header usa-header--extended">
-  <div class="crt-landing--header crt-lightblue height-card">
-    <div class="usa-navbar position-relative border-bottom-0">
-      <div class="usa-logo" id="extended-logo">{% include logo.html %}</div>
-      {% include phone.html %}
-      <button aria-expanded="false" class="usa-menu-btn">{{site.data["en"]["i18n"].links.menu}}</button>
-    </div>
-    <nav aria-label="{{site.data['en']['i18n'].aria.primary_navigation}}" class="usa-nav desktop:margin-top-3">
-      <div class="usa-nav__inner">
-        <button aria-expanded="true" class="usa-nav__close">
-          {% asset img/usa-icons/close.svg alt="{{site.data['en']['i18n'].aria.close}}" %}
-        </button>
-        <ul class="usa-nav__primary usa-accordion">
-          {% for nav_item in site.primary_navigation %} {% unless nav_item.children %} {% assign
-          basedir = page.url | remove_first: '/' | split: '/' | first | lstrip %} {% assign linkdir
-          = nav_item.url[lang] | remove_first: '/' | split: '/' | first | lstrip %}
-          <li class="usa-nav__primary-item desktop:text-no-wrap {{ nav_item.classes }}">
-            <a
-              href="{% if nav_item.external %}{{ nav_item.url['en'] }}{% else %}{{ nav_item.url['en'] | relative_url }}{% endif %}"
-              class="usa-nav__link{% if basedir == linkdir %} usa-current pa11y-skip {% elsif basedir=='es' and linkdir=='file-a-complaint' %} usa-current pa11y-skip {% endif %}"
-            >
+  %} {% endif %} {% assign lang = page.lang %} {% if lang==nil %}{% assign lang="en" %}{% endif %}
+  <header class="usa-header usa-header--extended">
+    <div class="crt-landing--header crt-lightblue height-card">
+      <div class="usa-navbar position-relative border-bottom-0">
+        <div class="usa-logo" id="extended-logo">{% include logo.html %}</div>
+        {% include phone.html %}
+        <button aria-expanded="false" class="usa-menu-btn">{{site.data["en"]["i18n"].links.menu}}</button>
+      </div>
+      <nav aria-label="{{site.data['en']['i18n'].aria.primary_navigation}}" class="usa-nav desktop:margin-top-3">
+        <div class="usa-nav__inner">
+          <button aria-expanded="true" class="usa-nav__close">
+            <img src="{{ '/assets/images/uswds/usa-icons/close.svg' | relative_url }}" alt="{{site.data['en']['i18n'].aria.close}}" />
+          </button>
+          <ul class="usa-nav__primary usa-accordion">
+            {% for nav_item in site.primary_navigation %} {% unless nav_item.children %} {% assign
+            basedir = page.url | remove_first: '/' | split: '/' | first | lstrip %} {% assign linkdir
+            = nav_item.url[lang] | remove_first: '/' | split: '/' | first | lstrip %}
+            <li class="usa-nav__primary-item desktop:text-no-wrap {{ nav_item.classes }}">
+              <a
+                href="{% if nav_item.external %}{{ nav_item.url['en'] }}{% else %}{{ nav_item.url['en'] | relative_url }}{% endif %}"
+                class="usa-nav__link{% if basedir == linkdir %} usa-current pa11y-skip {% elsif basedir=='es' and linkdir=='file-a-complaint' %} usa-current pa11y-skip {% endif %}"
+              >
+                <span class="desktop:display-none widescreen:display-block">{{ nav_item.name["en"] | escape }}</span>
+                <span class="mobile:display-none desktop:display-block widescreen:display-none">{{ nav_item.name["en-short"] | escape }}</span>
+              </a>
+            </li>
+            {% else %} {% assign nav_id = 'primary-nav-' | append: forloop.index%}
+            <li class="usa-nav__primary-item desktop:text-no-wrap widescreen:text-no-wrap {{ nav_item.classes }}">
+              <button
+                class="usa-accordion__button usa-nav__link usa-current"
+                aria-expanded="false"
+                aria-controls="{{ nav_id }}"
+              >
               <span class="desktop:display-none widescreen:display-block">{{ nav_item.name["en"] | escape }}</span>
               <span class="mobile:display-none desktop:display-block widescreen:display-none">{{ nav_item.name["en-short"] | escape }}</span>
-            </a>
-          </li>
-          {% else %} {% assign nav_id = 'primary-nav-' | append: forloop.index%}
-          <li class="usa-nav__primary-item desktop:text-no-wrap widescreen:text-no-wrap {{ nav_item.classes }}">
-            <button
-              class="usa-accordion__button usa-nav__link usa-current"
-              aria-expanded="false"
-              aria-controls="{{ nav_id }}"
-            >
-            <span class="desktop:display-none widescreen:display-block">{{ nav_item.name["en"] | escape }}</span>
-            <span class="mobile:display-none desktop:display-block widescreen:display-none">{{ nav_item.name["en-short"] | escape }}</span>
-            </button>
-            <ul id="{{ nav_id }}" class="usa-nav__submenu">
-              {% for subnav_item in nav_item.children %}
-              <li class="usa-nav__submenu-item">
-                <a href="{{ subnav_item.url | prepend: site.baseurl }}"
-                  >{{ subnav_item.name[lang] | escape }}</a
-                >
-              </li>
-              {% endfor %}
-            </ul>
-          </li>
-          {% endunless %} {% endfor %}
-        </ul>
-        <div class="usa-nav__secondary">
-          {% include searchgov/form.html searchgov=site.searchgov %}
-        </div>
-        <div
-          class="display-flex order-3 desktop:display-none flex-align-start padding-left-6 padding-right-3 bg-primary-lighter margin-x-neg-3 padding-y-3 line-height-sans-5"
-        >
-          {% asset ic_phone-circle.svg class="margin-right-1"
-          alt="{{site.data["en"]['i18n'].aria.phone}}" %}
-          <div>
-            <span class="display-block margin-bottom-05 text-bold"
-              ><a href="{{'/infoline/' | relative_url }}">{{site.data["en"]["i18n"].hotline.heading}}</a></span
-            >
-            <div class="margin-left-neg-5 margin-top-2">
-            {{site.data["en"]["i18n"].hotline.content}}<br />
-            {{ site.contact.tollfree }}<br />
-            {{ site.contact.tty }} (TTY)<br />
-            <ul class="margin-0 padding-left-2"><li class="margin-top-105">{{ site.contact.time1 }}</li> <li class="margin-top-105">{{ site.contact.time2 }}</li></ul>
+              </button>
+              <ul id="{{ nav_id }}" class="usa-nav__submenu">
+                {% for subnav_item in nav_item.children %}
+                <li class="usa-nav__submenu-item">
+                  <a href="{{ subnav_item.url | prepend: site.baseurl }}"  class="{{ subnav_item.name['en-short'] | replace:' ', '' }}">
+                    <span class="desktop:display-none widescreen:display-block">{{ subnav_item.name["en"] | escape }}</span>
+                    <span class="mobile:display-none desktop:display-block widescreen:display-none">{{ subnav_item.name["en-short"] | escape }}</span>
+                  </a>
+                  <ul class="usa-nav__subnav_child_menu">
+                    {% for subnav_child in subnav_item.children %}
+                    <li class="usa-nav__submenu-item">
+                      <a href="{{ subnav_child.url | prepend: site.baseurl }}">
+                        <span class="desktop:display-none widescreen:display-block">{{ subnav_child.name["en"] | escape }}</span>
+                        <span class="mobile:display-none desktop:display-block widescreen:display-none">{{ subnav_child.name["en-short"] | escape }}</span>
+                      </a>
+                    </li>
+                    {% endfor %}
+                  </ul>
+                </li>
+                {% endfor %}
+              </ul>
+            </li>
+            {% endunless %} {% endfor %}
+          </ul>
+          <div class="usa-nav__secondary">
+            {% include searchgov/form.html searchgov=site.searchgov %}
           </div>
+          <div
+            class="display-flex order-3 desktop:display-none flex-align-start padding-left-6 padding-right-3 bg-primary-lighter margin-x-neg-3 padding-y-3 line-height-sans-5"
+          >
+          <img src="{{ '/assets/images/ic_phone-circle.svg' | relative_url }}" class="margin-right-1" alt="{{site.data["en"]['i18n'].aria.phone}}" />
+            <div>
+              <span class="display-block margin-bottom-05 text-bold"
+                ><a href="{{'/infoline/' | relative_url }}">{{site.data["en"]["i18n"].hotline.heading}}</a></span
+              >
+              <div class="margin-left-neg-5 margin-top-2">
+              {{site.data["en"]["i18n"].hotline.content}}<br />
+              {{ site.contact.tollfree }}<br />
+              {{ site.contact.tty }} (TTY)<br />
+              <ul class="margin-0 padding-left-2"><li class="margin-top-105">{{ site.contact.time1 }}</li> <li class="margin-top-105">{{ site.contact.time2 }}</li></ul>
+            </div>
+            </div>
           </div>
         </div>
-      </div>
-    </nav>
-  </div>
-</header>
+      </nav>
+    </div>
+  </header>

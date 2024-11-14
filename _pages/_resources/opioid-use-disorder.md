@@ -1,6 +1,6 @@
 ---
 title: "The ADA and Opioid Use Disorder: Combating Discrimination Against People in Treatment or Recovery"
-description: "This guidance document provides information about how the ADA can protect individuals with OUD from discrimination — an important part of combating the opioid epidemic across American communities."
+description: "Information about how the ADA can protect individuals with OUD from discrimination — an important part of combating the opioid epidemic."
 permalink: /resources/opioid-use-disorder/
 redirect_from:
   - /opioid-guidance.pdf/
@@ -13,6 +13,7 @@ print: true
 sidenav-pdf:
   title: The ADA and Opioid Use Disorder - Combating Discrimination Against People in Treatment or Recovery
   filename: opioid-guidance.pdf
+  text: Download PDF Guidance
 tags:
   - medical care
   - health care
@@ -182,8 +183,8 @@ them because of OUD. Individuals may also bring private lawsuits under the ADA.
 
 Information about filing an ADA complaint with the Department is available
 at [civilrights.justice.gov](https://civilrights.justice.gov/report?utm_campaign=499a0d26-884a-47aa-9afc-70094d92e6f5). More information about the ADA is available by calling the
-Department’s toll-free ADA information line at 800-514-0301 or 800-514-0383 (TTY), or
-accessing its ADA website at [ADA.gov]({{'/index' | relative_url}}).
+Department’s toll-free ADA information line at 800-514-0301 or 833-610-1264 (TTY), or
+accessing its ADA website at [ADA.gov]({{ '/' | relative_url }}).
 
 Complaints about a state or local government’s programs, services, or activities relating to the
 provision of health care and social services can also be filed with the Department of Health and

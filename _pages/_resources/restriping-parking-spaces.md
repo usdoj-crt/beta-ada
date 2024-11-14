@@ -1,6 +1,6 @@
 ---
 title: "ADA Compliance Brief: Restriping Parking Spaces"
-description: "This document provides information about the features of accessible car and van parking spaces and how many accessible spaces are required when parking facilities are restriped."
+description: "Information about the features of accessible car and van parking spaces and how many accessible spaces are required when parking facilities are restriped."
 permalink: /resources/restriping-parking-spaces/
 lead: |-
   When a business or State or local government restripes parking spaces in a parking lot or parking structure (parking facilities), it must provide accessible parking spaces as required by the 2010 ADA Standards for Accessible Design (2010 Standards).
@@ -9,18 +9,18 @@ publish-date: 2015-12-1 00:00:00
 updated-date: 2020-02-28 00:00:00
 print: true
 related-content: true
-tags:
-  - parking
-  - physical accessibility
 redirect_from:
   - /restriping_parking/restriping2015.html
   - /restripe.htm
+tags:
+  - parking
+  - physical accessibility
 ---
 In addition, businesses or privately owned facilities that provide goods or services to the public have a continuing ADA obligation to remove barriers to access in existing parking facilities when it is readily achievable to do so. Because restriping is relatively inexpensive, it is readily achievable in most cases. State and local government facilities also have an ongoing ADA obligation to make their programs accessible, which can require providing accessible parking.
 
 This compliance brief provides information about the features of accessible car and van parking spaces and how many accessible spaces are required when parking facilities are restriped.
 
-| {% asset project-images/shared-van-car-space-2010.jpg alt="An illustration showing a van-accessible parking space sharing an access aisle with an accessible parking space for a car" %} |
+| <img src="{{ '/assets/images/project-images/shared-van-car-space-2010.jpg' | relative_url }}" alt="An illustration showing a van-accessible parking space sharing an access aisle with an accessible parking space for a car" /> |
 |:--:|
 | <b>One of six accessible parking space, but always at least one, must be van-accessible</b> |
 
@@ -106,7 +106,7 @@ Accessible parking spaces may be clustered in one or more facilities if equivale
 
 ## Features of Accessible Parking Spaces
 
-| {% asset project-images/60-96-space.jpg alt="An illustration of accessible parking spaces with 60-inch Minimum Width Access Aisle for Cars." %} |
+| <img src="{{ '/assets/images/project-images/60-96-space.jpg' | relative_url }}" alt="An illustration of accessible parking spaces with 60-inch Minimum Width Access Aisle for Cars." /> |
 |:--:|
 | <b>Accessible Parking Spaces with 60-inch Minimum Width Access Aisle for Cars</b> |
 
@@ -132,7 +132,7 @@ Access aisles may be located on either side of the parking space except for angl
 
 Van-accessible parking spaces incorporate the features of accessible parking spaces on the previous page and require the following additional features: a "van accessible" designation on the sign; different widths for the van parking space or the access aisle; and at least 98 inches of vertical clearance for the van parking space, access aisle, and vehicular route to and from the van-accessible space. The first image below shows a van-accessible space with a 60-inch minimum width access aisle. The second image shows a van-accessible space with a 96-inch minimum width access aisle. Both configurations are permitted and requirements for van-accessible signage and vertical clearance apply to both configurations.
 
-| {% asset project-images/60-132-space.jpg alt="An illustration of a minimum 132 inch wide van-accessible parking space with 60-inch minimum width access aisle." %}|
+| <img src="{{ '/assets/images/project-images/60-132-space.jpg' | relative_url }}" alt="An illustration of a minimum 132 inch wide van-accessible parking space with 60-inch minimum width access aisle." />|
 |:--:|
 | <b>Van-Accessible Parking Space with 60-inch Minimum Width Access Aisle</b> |
 
@@ -144,17 +144,17 @@ Van-accessible parking spaces incorporate the features of accessible parking spa
 
 3. Van parking space must be 132 inches wide minimum with an adjacent 60-inch wide minimum access aisle. A van parking space of 96 inches wide minimum width an adjacent 96-inch wide minimum access aisle is also permitted (see below).
 
-| {% asset project-images/96-96-space.jpg alt="An illustration of a minimum 96 inch wide van-accessible parking space with 96-inch minimum width access aisle." %} |
+| <img src="{{ '/assets/images/project-images/96-96-space.jpg' | relative_url }}" alt="An illustration of a minimum 96 inch wide van-accessible parking space with 96-inch minimum width access aisle." /> |
 |:--:|
 | <b>Van-Accessible Parking Space with 96-inch Minimum Width Access Aisle</b> |
 
-| {% asset project-images/4-spaces-exception.jpg alt="An illustration showing the front of a convenience store with four parking spaces.  One parking space is a van-accessible space." %} |
+| <img src="{{ '/assets/images/project-images/4-spaces-exception.jpg' | relative_url }}" alt="An illustration showing the front of a convenience store with four parking spaces.  One parking space is a van-accessible space." /> |
 |:--:|
 | <b>Where four or fewer parking spaces are provided on a site, signage identifying the van-accessible parking space is not required.</b> |
 
 ## Resources
 
-For more information about the ADA, please visit [ADA.gov](https://www.ada.gov) or call our toll-free number.
+For more information about the ADA, please visit [ADA.gov]({{ '/' | relative_url }}) or call our toll-free number.
 
 [ADA Information Line]( {{'/infoline'| relative_url}})
 {{site.contact.tollfree}} (Voice) and {{site.contact.tty}} (TTY)
@@ -170,8 +170,8 @@ Sections [208]({{'/law-and-regs/design-standards/2010-stds#208-parking-spaces' |
 
 Section [206]({{'/law-and-regs/design-standards/2010-stds#206-accessible-routes' | relative_url}}) Accessible Route
 
-<hr>  
-The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
+<hr>
+The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.
 
 This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
 <hr>

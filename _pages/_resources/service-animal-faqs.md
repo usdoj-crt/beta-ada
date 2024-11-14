@@ -9,10 +9,10 @@ publish-date: 2015-07-20 00:00:00
 updated-date: 2020-02-28 00:00:00
 related-content: true
 print: true
-tags:
-  - service animals
 redirect_from:
   - /regs2010/service_animal_qa.html
+tags:
+  - service animals
 ---
 The Department of Justice continues to receive many questions about how the Americans with Disabilities Act (ADA) applies to service animals. The ADA requires State and local government agencies, businesses, and non-profit organizations (covered entities) that provide goods or services to the public to make "reasonable modifications" in their policies, practices, or procedures when necessary to accommodate people with disabilities. The service animal rules fall under this general principle. Accordingly, entities that have a "no pets" policy generally must modify the policy to allow service animals into their facilities. This publication provides guidance on the ADA's service animal provisions and should be read in conjunction with the publication [ADA Revised Requirements: Service Animals]( {{'/resources/service-animals-2010-requirements'| relative_url}}).
 
@@ -168,7 +168,7 @@ A. No.  Religious institutions and organizations are specifically exempt from t
 {% enddetails %}
 
 {% details Q35. Do apartments, mobile home parks, and other residential properties have to comply with the ADA? expandable %}
-A. The ADA applies to housing programs administered by state and local governments, such as public housing authorities, and by places of public accommodation, such as public and private universities.  In addition, the Fair Housing Act applies to virtually all types of housing, both public and privately-owned, including housing covered by the ADA.  Under the Fair Housing Act, housing providers are obligated to permit, as a reasonable accommodation, the use of animals that work, provide assistance, or perform tasks that benefit persons with a disabilities, or provide emotional support to alleviate a symptom or effect of a disability.  For information about these Fair Housing Act requirements see HUD’s [Notice on Service Animals and Assistance Animals for People with Disabilities in Housing and HUD-funded Programs.](https://www.hud.gov/program_offices/fair_housing_equal_opp/assistance_animals)
+A. The ADA applies to housing programs administered by state and local governments, such as public housing authorities, and by places of public accommodation, such as public and private universities.  In addition, the Fair Housing Act applies to virtually all types of housing, both public and privately-owned, including housing covered by the ADA.  Under the Fair Housing Act, housing providers are obligated to permit, as a reasonable accommodation, the use of animals that work, provide assistance, or perform tasks that benefit persons with disabilities, or provide emotional support to alleviate a symptom or effect of a disability.  For information about these Fair Housing Act requirements see HUD’s [Notice on Service Animals and Assistance Animals for People with Disabilities in Housing and HUD-funded Programs.](https://www.hud.gov/program_offices/fair_housing_equal_opp/assistance_animals)
 {% enddetails %}
 
 {% details Q36. Do Federal agencies, such as the U.S. Department of Veterans Affairs, have to comply with the ADA? expandable %}
@@ -181,16 +181,16 @@ A. No.  The Air Carrier Access Act is the Federal law that protects the rights 
 
 ## Resources
 
-For more information about the ADA, please visit [ADA.gov](https://www.ada.gov) or call our toll-free number.
+For more information about the ADA, please visit [ADA.gov](({{ '/' | relative_url }})) or call our toll-free number.
 
 [ADA Information Line]( {{'/infoline/' | relative_url}})
 {{site.contact.tollfree}} (Voice) and {{site.contact.tty}} (TTY)
 M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.
 
-For people with disabilities, this publication is available in alternate formats.  
+For people with disabilities, this publication is available in alternate formats.
 
-<hr>  
-The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
+<hr>
+The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.
 
 This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
 <hr>

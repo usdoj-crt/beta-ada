@@ -2,8 +2,50 @@
 {% if lang==nil %}{% assign lang="en" %}{% endif %}
 
 <a
-  id="fba-button"
-  class="display-none tablet:display-block fixed-tab-button usa-button crt-button--large"
-  href="{{ '/feedback/' | relative_url }}"
+  id="feedback-button"
+  class="fixed-tab-button usa-button crt-button--large"
+  href="#touchpoints-modal"
+  aria-controls="touchpoints-modal"
+  data-open-modal
   >{{site.data[lang]["i18n"].links.touchpoints}}</a
 >
+
+<div class="margin-y-3">
+  <div
+    class="usa-modal usa-modal--lg"
+    id="touchpoints-modal"
+    aria-labelledby="touchpoints-modal-heading"
+    aria-describedby="touchpoints-modal-description"
+  >
+    <div class="usa-modal__content">
+      <div class="usa-modal__main">
+        <div class="usa-prose">
+          <div id="touchpoints-give-us-feedback-924"></div>
+        </div>
+        <div class="usa-modal__footer">
+          <ul class="usa-button-group">
+            <li class="usa-button-group__item">
+              <button
+                type="button"
+                class="usa-button usa-button--unstyled padding-105 text-center"
+                data-close-modal
+              >
+                Go back
+              </button>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <button
+        type="button"
+        class="usa-button usa-modal__close"
+        aria-label="Close this window"
+        data-close-modal
+      >
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+          <use xlink:href="/assets/images/sprite.svg#close"></use>
+        </svg>
+      </button>
+    </div>
+  </div>
+</div>

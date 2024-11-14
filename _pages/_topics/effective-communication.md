@@ -10,6 +10,7 @@ lead: |-
 
   The goal is to find a solution that fits the circumstances.
 print: true
+topic-page-feature: true
 card:
   title: Effective Communication
   description: |-
@@ -17,9 +18,9 @@ card:
   image: landing/effective_communication.jpg
   alt: "Hands hover over a braille display"
   href: /topics/effective-communication/
+related-content: true
 tags:
   - effective communication
-related-content: true
 ---
 
 ## Examples of Communication Aids and Services

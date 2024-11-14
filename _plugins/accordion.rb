@@ -13,14 +13,15 @@ module Jekyll
         context.stack do
           context["accordionID"] = @accordionID
           context["collapsed_idx"] = 1
+          context["expanded"] = (not @options.match?(/closed/))
           @content = super
         end
-        
+
         if @options.match?(/multiselect/)
           multiselect = 'aria-multiselectable="true"'
-        else  
+        else
           multiselect = ''
-        end 
+        end
 
         if @options.match?(/expandable/)
           expandable = 'expand'
@@ -43,6 +44,7 @@ module Jekyll
         accordionID = context["accordionID"]
         idx = context["collapsed_idx"]
         collapsedID = "#{accordionID}-#{idx}"
+        expanded = context["expanded"]
 
         # increment for the next collapsible
         context["collapsed_idx"] = idx + 1
@@ -57,7 +59,7 @@ module Jekyll
         output = <<~EOS
           <h2 class="usa-accordion__heading" id="#{heading ? heading['id'] : ''}">
             <button class="usa-accordion__button pa11y-skip"
-              aria-expanded="true"
+              aria-expanded="#{expanded}"
               aria-controls="#{collapsedID}">
               #{heading ? heading.text : ""}
             </button>

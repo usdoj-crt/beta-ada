@@ -1,0 +1,44 @@
+@use "uswds-core" as *;
+@use 'variables' as *;
+
+$print: 'print';
+$language: 'language';
+$email: 'mail_outline';
+
+.filing-options {
+  ol {
+    counter-reset: options;
+    list-style: none;
+
+    li::before {
+      color: #162e51;
+      background-color: #ECF1F7;
+      border-radius: 36px;
+      position: absolute;
+      left: 2rem;
+      width: 36px;
+      height: 36px;
+      padding: 2px;
+      content: '';
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+
+    li:first-child::before {
+      background-image: url('../images/#{$language}.svg');
+    }
+
+    li:nth-child(2)::before {
+      background-image: url('../images/#{$email}.svg');
+    }
+
+    li:nth-child(3)::before {
+      background-image: url('../images/#{$print}.svg');
+    }
+  }
+  span {
+    display: inline-block;
+    position: relative;
+    margin-left: -20px;
+  }
+}

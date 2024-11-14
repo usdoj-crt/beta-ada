@@ -251,7 +251,7 @@ ADA information is also available on the Department’s [ADA Home Page]({{'/inde
 ### Other Documents Available from the Department of Justice
 
 * [Five Steps to Make New Lodging Facilities Comply With the ADA](https://archive.ada.gov/fivestep.htm)
-* [Title III regulation]({{'/law-and-regs/title-ii-2010-regulations' | relative_url}})
+* [Title III regulation]({{'/law-and-regs/regulations/title-ii-2010-regulations' | relative_url}})
 * [2010 ADA Standards for Accessible Design]({{'/law-and-regs/design-standards/2010-stds' | relative_url}})
 * [Title III Technical Assistance Manual and Supplement]({{'/resources/title-iii-manual' | relative_url}})
 * [Expanding Your Market: Tax Incentives for Businesses](https://archive.ada.gov/taxincent.htm)
@@ -274,8 +274,8 @@ Employment questions: 800-669-4000 (voice)
 
 [www.eeoc.gov](https://www.eeoc.gov)
 
-<hr>  
-The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
+<hr>
+The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.
 
 This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
 

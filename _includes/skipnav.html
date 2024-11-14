@@ -1,7 +1,7 @@
 {% assign lang = page.lang %}
 {% if lang==nil %}{% assign lang="en" %}{% endif %}
 
-{% if page.layout == 'page' and page.sidenav %}
+{% if page.layout == 'page' and page.sidenav or page.subpagenav %}
   {% assign has_side_nav = true %}
 {% else %}
   {% assign has_side_nav = false %}

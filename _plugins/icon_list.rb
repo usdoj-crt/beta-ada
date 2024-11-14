@@ -37,7 +37,7 @@ module Jekyll
           <li class="usa-icon-list__item">
             <div class="usa-icon-list__icon #{text_color(icon_type)}">
               <svg class="usa-icon" aria-hidden="true" role="img">
-                <use xlink:href="#{relative_url("assets/img/sprite.svg")}##{icon_type}"></use>
+                <use xlink:href="#{relative_url("assets/images/uswds/sprite.svg")}##{icon_type}"></use>
               </svg>
             </div>
             <div class="usa-icon-list__content">

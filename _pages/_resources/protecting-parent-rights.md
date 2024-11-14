@@ -3,16 +3,16 @@ title: "Protecting the Rights of Parents and Prospective Parents with Disabiliti
 description: "Jointly issued technical assistance from the Department of Justice and the U.S. Department of Health and Human Services’ Office for Civil Rights and Administration for Children and Families to help child welfare agencies and family courts understand their obligations under Federal law to ensure that parents and prospective parents with disabilities receive equal treatment and equal access to parenting opportunities."
 permalink: /resources/protecting-parent-rights/
 lead: |-
-  
+
 lang: "en"
 publish-date: 2015-08-01 00:00:00
 updated-date: 2020-06-20 00:00:00
 print: true
 related-content: true
-tags:
-  - families
 redirect_from:
   - /doj_hhs_ta/child_welfare_ta.html
+tags:
+  - families
 ---
 The United States  Department of Health and Human Services (HHS) and the United States Department of Justice (DOJ) are issuing this technical assistance to assist state and local child welfare agencies and courts to ensure that the welfare of children and  families is protected in a manner that also protects the civil rights of  parents and prospective parents{% fn 1 %} with disabilities.  This guidance  provides an overview of the issues and application of civil rights laws,  answers to specific questions and implementation examples for child welfare  agencies and courts, and resources to consult for additional information.
 
@@ -211,28 +211,28 @@ As such, in some cases an individual with a disability may not  be a qualified i
 ### How can aggrieved persons file a  complaint?
 
 {% details 16. What can individuals do when they believe they  have been subjected to discrimination in violation of Title II or Section 504? expandable %}
-  
+
   **Answer:**  An aggrieved person may raise a Title II  or Section 504 claim in child welfare proceedings.  Additionally, subject to certain limitations,  an aggrieved person may pursue a complaint regarding discrimination in child  welfare services, programs, or activities under Title II or Section 504 in  federal court.{% fn 92 %}
-  
+
   Aggrieved individuals may also file  complaints with HHS and DOJ.  HHS and DOJ  also have authority to initiate compliance review investigations of child  welfare agencies and courts with or without receiving a complaint.  If an investigation of a complaint or a  compliance review reveals a violation, HHS or DOJ may issue letters of findings  and initiate resolution efforts.{% fn 93 %}  DOJ may initiate litigation when it finds  that a child welfare agency or court is not in compliance with  Title II.  HHS may also refer cases to  DOJ for litigation where a violation is found and is not voluntarily resolved.{% fn 94 %}
-  
+
   Title II and Section 504 allow for  declaratory and injunctive relief, such as an order from a court finding a  violation and requiring the provision of reasonable modifications.  Title II and Section 504 also allow for  compensatory damages for aggrieved individuals.   Individuals who prevail as parties in litigation may also obtain  reasonable attorney&rsquo;s fees, costs, and litigation expenses.{% fn 95 %}
-  
+
   Under Section 504, remedies also  include suspension and termination of Federal financial assistance, the use of  cautionary language or attachment of special conditions when awarding Federal  financial assistance, and bypassing recalcitrant agencies and providing Federal  financial assistance directly to sub-recipients.{% fn 96 %}
 {% enddetails %}
-  
+
 ## Additional Resources
 
-For more information about the ADA and Section 504, you may call the  DOJ&rsquo;s toll-free ADA information line at 800-514-0301 or 833-610-1264 (TDD), or  access its ADA website at [ADA.gov]({{'/index' | relative_url}})  For more information about the responsibilities of child  welfare agencies under the ADA and Rehabilitation Act, see &ldquo;DOJ/HHS Joint  Letter to Massachusetts Department of Children and Families,&rdquo; at [ADA.gov](https://archive.ada.gov/new.htm).  For  more information about Title II of the ADA, including the Title II Technical Assistance Manual and [Revised ADA Requirements:  Effective Communication]({{'resources/effective-communication/' | relative_url}}).
+For more information about the ADA and Section 504, you may call the  DOJ&rsquo;s toll-free ADA information line at 800-514-0301 or 833-610-1264 (TDD), or  access its ADA website at [ADA.gov]({{ '/' | relative_url }})  For more information about the responsibilities of child  welfare agencies under the ADA and Rehabilitation Act, see &ldquo;DOJ/HHS Joint  Letter to Massachusetts Department of Children and Families,&rdquo; at [ADA.gov](https://archive.ada.gov/new.htm).  For  more information about Title II of the ADA, including the Title II Technical Assistance Manual and [Revised ADA Requirements:  Effective Communication]({{'resources/effective-communication/' | relative_url}}).
 
 Information about filing an ADA or Section 504 complaint with DOJ can be found at [Filing a Complaint]({{'/file-a-complaint' | relative_url}}).  Individuals  who believe they have been aggrieved under Title II or Section 504 should file  complaints at the earliest opportunity.
 
 You can also file a Section 504 or Title II ADA complaint with OCR at [http://www.hhs.gov/ocr/civilrights/complaints/index.html](http://www.hhs.gov/ocr/civilrights/complaints/index.html).
-  
+
 General information about civil rights and child welfare issues can be found at [http://www.hhs.gov/ocr/civilrights/resources/specialtopics/adoption/index.html](http://www.hhs.gov/ocr/civilrights/resources/specialtopics/adoption/index.html).
 
 For information about ACF's Children Bureau, please visit [http://www.acf.hhs.gov/programs/cb](http://www.acf.hhs.gov/programs/cb).
-  
+
 For ACF and OCR regional offices, please visit [http://www.acf.hhs.gov/programs/oro](http://www.acf.hhs.gov/programs/oro) and [http://www.hhs.gov/ocr/office/about/rgn-hqaddresses.html](http://www.hhs.gov/ocr/office/about/rgn-hqaddresses.html)
 
 <hr>
@@ -266,7 +266,7 @@ National Council on  Disability, Rocking the Cradle: Ensuring the Rights of Pare
 *Id*.at 194-199.
 {% endfnbody %}
 {% fnbody 10 %}
-*Id*. at 114.  
+*Id*. at 114.
 {% endfnbody %}
 {% fnbody 11 %}
 *Id*. at 125-26.
@@ -531,6 +531,6 @@ Private entities involved  in child welfare activities may also be public accomm
 Duplication of this document is encouraged.
 
 <hr>
-The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.  
+The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.
 
 This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.

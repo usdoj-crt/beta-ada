@@ -1,12 +1,10 @@
 ---
 title: Voting and Polling Places
-description: This document is designed to help election officials make polling places accessible as well as provide information for people with disabilities to understand how the ADA protects their right to vote.
+description: Information for election officials make polling places accessible as well as for people with disabilities about how the ADA protects their right to vote.
 lead: |-
   The ADA requires state and local governments and their election officials to ensure that people with disabilities have a full and equal opportunity to vote in all elections. This includes federal, state, and local elections. And it includes all parts of voting, like voter registration, selecting a location for polling places, and voting, whether on election day or during an early or absentee voting process.
 print: true
 featured: true
-tags:
-  - voting
 card:
   title: Voting and Polling Places
   title_alt: voting
@@ -15,7 +13,8 @@ card:
   image: landing/voting.jpg
   alt: "A vote here sign at a polling place on election day"
   href: /topics/voting/
-publish-date: 2022-09-21 00:00:00
+tags:
+  - voting
 ---
 If you are an election official, you can use the information below to help make voting accessible and resolve some common accessibility barriers. If you are a person with a disability, the information should help you understand how the ADA protects your right to vote.
 
@@ -42,7 +41,7 @@ The ADA’s regulations and the ADA Standards for Accessible Design set out full
 
 ### Planning Ahead—Selecting Accessible Polling Places
 
-If you are an election official planning ahead for election day, you can check out places you might use as a polling place or vote center—like libraries or fire stations. When doing so, you can assess whether the location already has basic accessibility features needed by most voters with disabilities or can be made accessible on election day using temporary solutions to remove barriers. You can use the table below and the [ADA Checklist for Polling Places](https://archive.ada.gov/votingchecklist.htm) to help you do so. If temporary solutions would not work, and permanent changes cannot be made to fix
+If you are an election official planning ahead for election day, you can check out places you might use as a polling place or vote center—like libraries or fire stations. When doing so, you can assess whether the location already has basic accessibility features needed by most voters with disabilities or can be made accessible on election day using temporary solutions to remove barriers. You can use the table below and the [ADA Checklist for Polling Places]( {{'/resources/polling-places-checklist/'| relative_url}}) to help you do so. If temporary solutions would not work, and permanent changes cannot be made to fix
 barriers, then the election official must identify an alternative, accessible polling place or vote center.
 
 <table class="usa-table">
@@ -82,13 +81,13 @@ barriers, then the election official must identify an alternative, accessible po
     </tbody>
     </table>
 
-Learn more about temporary solutions for common accessibility problems in [Solutions for Five Common ADA Access Problems at Polling Places](https://archive.ada.gov/ada_voting/voting_solutions_ta/polling_place_solutions.htm).
+Learn more about temporary solutions for common accessibility problems in [Solutions for Five Common ADA Access Problems at Polling Places]( {{'/resources/solutions-voting-problems/'| relative_url}}).
 
 ### Ballot Drop Boxes
 
 Ballot drop boxes may be used to provide voters with an alternative to returning an absentee or mail-in ballot through U.S. mail. Election officials should select ballot drop box locations that comply with the ADA’s regulations and the ADA Standards for Accessible Design, including an accessible route and a ballot drop box with accessible features.
 
-Learn more about ballot drop box accessibility requirements and find the ADA Checklist for Ballot Drop Boxes in [Ballot Drop Box Accessibility; The Americans with Disabilities Act (archive.ada.gov)](https://archive.ada.gov/ada_voting/ballot_box_access.pdf)
+Learn more about ballot drop box accessibility requirements and find the ADA Checklist for Ballot Drop Boxes in [Ballot Drop Box Accessibility; The Americans with Disabilities Act]( {{'/resources/ballot-box-accessibility/'| relative_url}})
 
 ## Election Day
 
@@ -150,13 +149,12 @@ The ADA is not the only federal law that safeguards the voting rights of a perso
       </tbody>
       </table>
 
-[Learn more about these laws.](https://archive.ada.gov/ada_voting/ada_voting_ta.htm)
+[Learn more about these laws.]( {{'/resources/protecting-voter-rights/'| relative_url}})
 
 Learn more about the ADA and voting rights of people with disabilities
-- [The Americans with Disabilities Act and Other Federal Laws Protecting the Rights of
-Voters with Disabilities](https://archive.ada.gov/ada_voting/ada_voting_ta.htm)
-- [ADA Checklist for Polling Places](https://archive.ada.gov/votingchecklist.htm)
-- [Solutions for Five Common ADA Access Problems at Polling Places](https://archive.ada.gov/ada_voting/voting_solutions_ta/polling_place_solutions.htm)
-- [Ballot Drop Box Accessibility; The Americans with Disabilities Act (ada.gov)](https://archive.ada.gov/ada_voting/ballot_box_access.pdf)
+- [The Americans with Disabilities Act and Other Federal Laws Protecting the Rights of Voters with Disabilities]( {{'/resources/protecting-voter-rights/'| relative_url}})
+- [ADA Checklist for Polling Places]( {{'/resources/polling-places-checklist/'| relative_url}})
+- [Solutions for Five Common ADA Access Problems at Polling Places]( {{'/resources/solutions-voting-problems/'| relative_url}})
+- [Ballot Drop Box Accessibility; The Americans with Disabilities Act]( {{'/resources/ballot-box-accessibility/'| relative_url}})
 
 Learn more about the Department’s enforcement of federal civil and criminal laws related to voting at [Department of Justice, Voting](https://www.justice.gov/voting)
