@@ -152,3 +152,54 @@ span.usa-sr-only {
     }
   }
 }
+
+.descriptionlinks {
+  ul {
+    display: grid;
+    @include at-media(mobile) {
+      grid-template-columns: auto;
+    }
+    @include at-media(tablet) {
+      grid-template-columns: auto auto;
+    }
+    @include at-media(desktop) {
+      grid-template-columns: auto auto auto;
+    }
+    column-gap: 3em;
+    list-style: none;
+    padding: 0;
+
+    li {
+      margin-bottom: 3em;
+      background: url("../images/folder-circle.svg") left top no-repeat;
+      padding-left: calc(32px + 1em);
+
+      a:first-child {
+        display: block;
+        font-size: 18px;
+        margin-bottom: 1em;
+      }
+
+      a:last-child {
+        display:block;
+        font-weight: bold;
+        color: #162e51;
+        margin-top: 1em;
+      }
+    }
+  }
+}
+
+.view-all-button, .view-all-button:visited, .view-all-button:hover {
+  width: fit-content;
+  background-color: white;
+  color: #005EA2;
+  border: 2px solid #005EA2;
+  font-weight: bold;
+  padding: 0.75em 2em;
+  text-decoration: none;
+  display: block;
+  margin-top: 1em;
+  margin-left: auto;
+  margin-right: auto;
+}
