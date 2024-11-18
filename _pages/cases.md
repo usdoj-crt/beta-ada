@@ -14,7 +14,7 @@ redirect_from:
   - /enforce.htm
   - /enforce_activities/
 sidenav: true
-compact: true
+compact: false
 lead: |-
   The Department of Justice enforces the ADA through lawsuits and settlement agreements to achieve greater access, inclusion, and equal opportunity for people with disabilities.
 ---
@@ -25,11 +25,11 @@ lead: |-
 ## Featured Topics
 
 - [Accessible technology / web access](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Accessible+technology%22+or+%22web+access%22&sort_by=field_date)
-- [Criminal justice/ law enforcement](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Criminal+justice%22+or+%22law+enforcement%22&sort_by=field_date)
+- [Criminal justice / law enforcement](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Criminal+justice%22+or+%22law+enforcement%22&sort_by=field_date)
 - [Healthcare](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Healthcare%22&sort_by=field_date)
 - [Integration / Olmstead](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Integration%22+or+%22Olmstead%22+&sort_by=field_date)
-- [Substance Use Disorder](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Substance+Use+Disorder%22&sort_by=field_date)
-- [Voting /polling places](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Voting%22+or+%22polling+places%22+&sort_by=field_date)
+- [Substance use disorder](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Substance+Use+Disorder%22&sort_by=field_date)
+- [Voting / polling places](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Voting%22+or+%22polling+places%22+&sort_by=field_date)
 
 </section>
 

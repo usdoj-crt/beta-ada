@@ -67,6 +67,43 @@ span.usa-sr-only {
   color: black;
 }
 
+.featuredlinks {
+  ul {
+    display: grid;
+    @include at-media(mobile) {
+      grid-template-columns: auto;
+    }
+    @include at-media(tablet) {
+      grid-template-columns: auto auto;
+    }
+    @include at-media(desktop) {
+      grid-template-columns: auto auto auto;
+    }
+    column-gap: 3em;
+    list-style-type: none;
+    padding: 0;
+
+    li {
+      text-align: center;
+      display: grid;
+      margin-bottom: 3em;
+    }
+
+    li a {
+      align-content: center;
+      background-color: #162e51;
+      color: white;
+      font-size: 20px;
+      padding-left: 2em;
+      padding-right: 2em;
+      padding-top: 1em;
+      padding-bottom: 1em;
+      font-weight: bold;
+      text-decoration: none;
+    }
+  }
+}
+
 .manylinks {
   background-color: #E1E7F1;
   padding: 1em;
