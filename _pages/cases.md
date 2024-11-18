@@ -49,9 +49,7 @@ lead: |-
 - [Testing accommodations](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Testing+accommodations%22+&sort_by=field_date)
 - [Transportation](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=transportation&sort_by=field_date)
 
-<div class="manylinks--bottom">
-[Search Additional Topics](https://www.justice.gov/crt/disability-rights-cases)
-</div>
+[Search additional topics](https://www.justice.gov/crt/disability-rights-cases)
 
 </section>
 
