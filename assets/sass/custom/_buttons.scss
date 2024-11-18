@@ -190,6 +190,52 @@ span.usa-sr-only {
   }
 }
 
+.readlinks {
+  ul {
+    display: grid;
+    @include at-media(mobile) {
+      grid-template-columns: auto;
+    }
+    @include at-media(tablet) {
+      grid-template-columns: auto auto;
+    }
+    @include at-media(desktop) {
+      grid-template-columns: auto auto;
+    }
+    column-gap: 3em;
+    list-style: none;
+    padding: 0;
+
+    li {
+      border: 1px solid #D9D9D9;
+      margin-bottom: 3em;
+      background: url("../images/book-circle.svg") 1em 1em no-repeat;
+      padding: 1em;
+      padding-left: calc(67px + 2em);
+
+      a:first-child {
+        display: block;
+        font-size: 22px;
+        color: #162E51;
+        text-decoration: none;
+      }
+
+      a:last-child {
+        width: fit-content;
+        display:block;
+        font-weight: bold;
+        margin-top: 1em;
+        background-color: #005EA2;
+        color: white;
+        border-radius: 4px;
+        padding: 0.75em 1.5em;
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+
 .view-all-button, .view-all-button:visited, .view-all-button:hover {
   width: fit-content;
   background-color: white;

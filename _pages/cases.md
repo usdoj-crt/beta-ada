@@ -73,10 +73,8 @@ lead: |-
 ## Press Release
 
 - [Justice Department Secures Agreements With Texas Counties To Ensure Election Website Accessibility For People With Disabilities
-  ](https://www.justice.gov/opa/pr/justice-department-secures-agreements-texas-counties-ensure-election-website-accessibility)
-  - [Read More](https://www.justice.gov/opa/pr/justice-department-secures-agreements-texas-counties-ensure-election-website-accessibility)
-- [Justice Department Secures Landmark Agreement with City of Anoka, Minnesota, to End Disability Discrimination in “Crime-Free” Housing Program](https://www.justice.gov/opa/pr/justice-department-secures-landmark-agreement-city-anoka-minnesota-end-disability)
-  - [Read More](https://www.justice.gov/opa/pr/justice-department-secures-landmark-agreement-city-anoka-minnesota-end-disability)
+  ](https://www.justice.gov/opa/pr/justice-department-secures-agreements-texas-counties-ensure-election-website-accessibility) [Read More](https://www.justice.gov/opa/pr/justice-department-secures-agreements-texas-counties-ensure-election-website-accessibility)
+- [Justice Department Secures Landmark Agreement with City of Anoka, Minnesota, to End Disability Discrimination in “Crime-Free” Housing Program](https://www.justice.gov/opa/pr/justice-department-secures-landmark-agreement-city-anoka-minnesota-end-disability) [Read More](https://www.justice.gov/opa/pr/justice-department-secures-landmark-agreement-city-anoka-minnesota-end-disability)
 
 <a href="https://www.justice.gov/news/press-releases" class="view-all-button">View all press releases</a>
 
