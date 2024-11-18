@@ -13,16 +13,15 @@ redirect_from:
   - /criminaljustice/cj_enforcement_activities.html
   - /enforce.htm
   - /enforce_activities/
-sidenav: true
+sidenav: false
 compact: false
 lead: |-
   The Department of Justice enforces the ADA through lawsuits and settlement agreements to achieve greater access, inclusion, and equal opportunity for people with disabilities.
 ---
 
+## Featured Topics
 
 <section class="featuredlinks">
-
-## Featured Topics
 
 - [Accessible technology / web access](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Accessible+technology%22+or+%22web+access%22&sort_by=field_date)
 - [Criminal justice / law enforcement](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Criminal+justice%22+or+%22law+enforcement%22&sort_by=field_date)
@@ -33,9 +32,9 @@ lead: |-
 
 </section>
 
-<section class="manylinks">
-
 ## Additional Topics
+
+<section class="manylinks">
 
 - [Child care / camp](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22child+care%22+or+%22camp%22&sort_by=field_date)
 - [Education](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=education&sort_by=field_date)
@@ -53,9 +52,9 @@ lead: |-
 
 </section>
 
-<section class="descriptionlinks">
-
 ## Most Viewed Cases
+
+<section class="descriptionlinks">
 
 - [In Re Georgia Senate Bill 202](https://www.justice.gov/crt/case/re-georgia-senate-bill-202) On January 31, 2024, the Justice Department filed a statement of interest explaining how the ADA's equal opportunity and reasonable modification requirements apply in the voting context. The statement of interest was filed in In Re Georgia SB 202, a consolidated lawsuit challenging restrictions on absentee and in-person voting under Georgia Senate Bill SB 202 (“SB 202”). One of the private lawsuits alleges that SB 202 fails to provide people with disabilities an equal opportunity to vote absentee and in-person or make reasonable modifications to avoid disability-based discrimination, in violation of Title II of the Americans with Disabilities Act and Section 504 of the Rehabilitation Act. The department’s brief explains that, under the ADA, voters with disabilities must have an equal opportunity to vote by a particular method as do voters without disabilities, and that this equal opportunity requirement is separate from the requirement that public entities make reasonable modifications. [Learn more](https://www.justice.gov/crt/case/re-georgia-senate-bill-202)
 - [Dear Colleague Letter on Online Accessibility at Postsecondary Institutions](https://www.justice.gov/crt/case/dear-colleague-letter-online-accessibility-postsecondary-institutions) On May 19, 2023, the Justice Department and the Department of Education jointly issued a Dear Colleague Letter reminding colleges, universities, and other postsecondary institutions to ensure that their online services, programs, and activities are accessible to people with disabilities. Many colleges, universities, and other postsecondary institutions increasingly rely on their websites and third-party online platforms to provide services, programs, and activities to members of the public. This includes courses on learning platforms as well as podcasts and videos on social media and third-party platforms like YouTube, Spotify, and Apple Podcasts. This joint letter reiterates that Title II of the Americans with Disabilities Act (ADA) and Section 504 of the Rehabilitation Act require colleges, universities, and other postsecondary institutions to provide equal opportunities to people with disabilities in all their operations. The letter also highlights recent web accessibility enforcement activities and technical assistance from the Justice Department’s Civil Rights Division and the Department of Education’s Office for Civil Rights. [Learn more](https://www.justice.gov/crt/case/dear-colleague-letter-online-accessibility-postsecondary-institutions)
@@ -68,9 +67,9 @@ lead: |-
 
 </section>
 
-<section class="readlinks">
-
 ## Press Release
+
+<section class="readlinks">
 
 - [Justice Department Secures Agreements With Texas Counties To Ensure Election Website Accessibility For People With Disabilities
   ](https://www.justice.gov/opa/pr/justice-department-secures-agreements-texas-counties-ensure-election-website-accessibility) [Read More](https://www.justice.gov/opa/pr/justice-department-secures-agreements-texas-counties-ensure-election-website-accessibility)
