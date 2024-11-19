@@ -11237,7 +11237,7 @@ already obtained products that afforded equivalent or greater accessibility than
 Standards. However, nothing in this part requires patients to receive diagnostic health
 care services that they would prefer not to receive.
 
-#### Section 35.211(e) Fundamental Alteration and Undue Burdens
+*Section 35.211(e) Fundamental Alteration and Undue Burdens*
 
 Paragraph (e) of § 35.211 addresses the fundamental alteration and undue financial
 and administrative burdens limitations. While subpart I of this part generally requires
@@ -11593,7 +11593,7 @@ entities.
 
 After considering all of these comments, the Department declines to impose more
 specific requirements in § 35.213. Training, including training on the topics commenters
-suggested, will often be the most effective way to for public entities to ensure
+suggested, will often be the most effective way for public entities to ensure
 compliance with the entity’s obligations under subpart I of this part. Training developed
 in consultation with, or provided by, individuals with disabilities may be particularly
 effective. And the Department appreciates commenters’ views that training may
@@ -12829,7 +12829,7 @@ Accessibility Evaluation Tools List,* [https://www.w3.org/WAI/ER/tools/](https:/
 
 {% fnbody 268 %}
 Although HHS’s final rule addressing the accessibility of medical diagnostic equipment under section 504
-contains a different citation in its definition of the term Standards for Accessible Medical Diagnostic Equipment, see 89 FR 40184, that difference is the result of citation formatting conventions of the Office of the Federal Register. There is no substantive difference between the definition of the term Standards for Accessible Medical Diagnostic Equipment adopted in HHS’s final rule and the definition of that term adopted in DOJ’s final rule.
+contains a different citation in its definition of the term *Standards for Accessible Medical Diagnostic Equipment*, see 89 FR 40184, that difference is the result of citation formatting conventions of the Office of the Federal Register. There is no substantive difference between the definition of the term Standards for Accessible Medical Diagnostic Equipment adopted in HHS’s final rule and the definition of that term adopted in DOJ’s final rule.
 {% endfnbody %}
 
 {% fnbody 269 %}
@@ -12843,19 +12843,19 @@ communication necessary for performance of a diagnostic procedure).
 {% endfnbody %}
 
 {% fnbody 271 %}
-Id. at 2812.
+*Id.* at 2812.
 {% endfnbody %}
 
 {% fnbody 272 %}
-*See*, e.g., §§ 35.130 and 35.150.
+*See, e.g.*, §§ 35.130 and 35.150.
 {% endfnbody %}
 
 {% fnbody 273 %}
-*See* id. § 35.130(b)(7).
+*See id*. § 35.130(b)(7).
 {% endfnbody %}
 
 {% fnbody 274 %}
-*See* U.S. Dep’t of Just., Civ. Rts. Div., Access to Medical Care for Individuals with Mobility Disabilities (June 26, 2020), [https://www.ada.gov/resources/medical-care-mobility/](https://perma.cc/UH8Y-NZWL).
+*See* U.S. Dep’t of Just., Civ. Rts. Div., *Access to Medical Care for Individuals with Mobility Disabilities* (June 26, 2020), [https://www.ada.gov/resources/medical-care-mobility/](https://perma.cc/UH8Y-NZWL).
 {% endfnbody %}
 
 {% fnbody 275 %}
@@ -12863,7 +12863,7 @@ Id. at 2812.
 {% endfnbody %}
 
 {% fnbody 276 %}
-Id.
+*Id.*
 {% endfnbody %}
 
 {% fnbody 277 %}
@@ -12874,7 +12874,7 @@ Between the United States and Tufts Medical Center (Feb. 28, 2020),
 {% endfnbody %}
 
 {% fnbody 278 %}
-*See* generally § 35.151.
+*See generally* § 35.151.
 {% endfnbody %}
 
 {% fnbody 279 %}
@@ -12898,15 +12898,15 @@ Between the United States and Tufts Medical Center (Feb. 28, 2020),
 {% endfnbody %}
 
 {% fnbody 284 %}
-*See* id. section 223.2.1.
+*See id.* section 223.2.1.
 {% endfnbody %}
 
 {% fnbody 285 %}
-*See* id. section 223.2.2.
+*See id.* section 223.2.2.
 {% endfnbody %}
 
 {% fnbody 286 %}
-*See* id. section 208.2.2.
+*See id.* section 208.2.2.
 {% endfnbody %}
 
 {% fnbody 287 %}
@@ -12921,7 +12921,7 @@ annualized costs of the final rule).
 {% endfnbody %}
 
 {% fnbody 289 %}
-ADA Nat’l Network, Accessible Medical Examination Tables and Chairs (2017),
+ADA Nat’l Network, *Accessible Medical Examination Tables and Chairs* (2017),
 [https://adata.org/factsheet/accessible-medical-examination-tables-and-chairs](https://perma.cc/Y6MR-9QGL).
 {% endfnbody %}
 
@@ -12930,7 +12930,7 @@ ADA Nat’l Network, Accessible Medical Examination Tables and Chairs (2017),
 {% endfnbody %}
 
 {% fnbody 291 %}
-*See* U.S. Preventive Services Task Force, About the USPSTF,
+*See* U.S. Preventive Services Task Force, *About the USPSTF*,
 [https://www.uspreventiveservicestaskforce.org/uspstf/about-uspstf](https://perma.cc/FTL2-TLXX).
 {% endfnbody %}
 
@@ -12947,7 +12947,7 @@ two.
 {% endfnbody %}
 
 {% fnbody 293 %}
-*See* § 35.151(h). A similar dispersion requirement was not necessary for medical care facilities that specialize in the treatment of conditions that affect mobility because all patient sleeping rooms in those facilities are required to be accessible. See 36 CFR part 1191, appendix B, section 223.2.2.
+*See* § 35.151(h). A similar dispersion requirement was not necessary for medical care facilities that specialize in the treatment of conditions that affect mobility because all patient sleeping rooms in those facilities are required to be accessible. *See* 36 CFR part 1191, appendix B, section 223.2.2.
 {% endfnbody %}
 
 {% fnbody 294 %}
@@ -12968,32 +12968,32 @@ when the required number of accessible elements has been provided, further dispe
 {% endfnbody %}
 
 {% fnbody 298 %}
-*See* C. Brooke Steele et al., Prevalence of Cancer Screening Among Adults With Disabilities, United States, 2013,
-14 Preventing Chronic Disease (Jan. 2017), [https://www.cdc.gov/pcd/issues/2017/16_0312.htm](https://perma.cc/T36Y-NCJM) (finding disparate access to cancer screenings); Gloria Krahn, Persons with
-Disabilities as an Unrecognized Health Disparity Population, 105 Amer. J. Pub. Health 198 (Apr. 2015),
+*See* C. Brooke Steele et al., *Prevalence of Cancer Screening Among Adults With Disabilities*, United States, 2013,
+14 Preventing Chronic Disease (Jan. 2017), [https://www.cdc.gov/pcd/issues/2017/16_0312.htm](https://perma.cc/T36Y-NCJM) (finding disparate access to cancer screenings); Gloria Krahn, *Persons with
+Disabilities as an Unrecognized Health Disparity Population*, 105 Amer. J. Pub. Health 198 (Apr. 2015),
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4355692/](https://perma.cc/J8E4-J63T) (finding higher prevalence
-of obesity and cardiovascular diseases); see also Michael Karpman et al., QuickTake: Even with Coverage, Many
-Adults Have Problems Getting Health Care, with Problems Most Prevalent Among Adults with Disabilities, Urban
+of obesity and cardiovascular diseases); see also Michael Karpman et al., *QuickTake: Even with Coverage, Many
+Adults Have Problems Getting Health Care, with Problems Most Prevalent Among Adults with Disabilities*, Urban
 Inst. Health Pol’y Ctr. (Sept. 2015), [https://apps.urban.org/features/hrms/quicktakes/Many-Adults-Have-Problems-
-Getting-Health-Care.html](https://perma.cc/V6GB-AEPH); Carrie Henning-Smith et al., Delayed and Unmet Need
-for Medical Care Among Publicly Insured Adults with Disabilities, 51 Med. Care 1015 (Nov. 2013),
-[https://pubmed.ncbi.nlm.nih.gov/24113815/](https://perma.cc/KSY2-DGEV); Amanda Reichard et al., Prevalence
+Getting-Health-Care.html](https://perma.cc/V6GB-AEPH); Carrie Henning-Smith et al., *Delayed and Unmet Need
+for Medical Care Among Publicly Insured Adults with Disabilities*, 51 Med. Care 1015 (Nov. 2013),
+[https://pubmed.ncbi.nlm.nih.gov/24113815/](https://perma.cc/KSY2-DGEV); Amanda Reichard et al., *Prevalence
 and Reasons for Delaying and Foregoing Necessary Care by the Presence and Type of Disability Among Working-
-Age Adults, 10 Disability &amp; Health J. 39 (Jan. 2017), [https://pubmed.ncbi.nlm.nih.gov/27771217/](https://perma.cc/V7D7-LCQK); Michelle Stransky et al., Provider Continuity and Reasons for Not Having a
-Provider Among Persons With and Without Disabilities, 12 Disability &amp; Health J. 131 (Jan. 2019),
-[https://pubmed.ncbi.nlm.nih.gov/30244847/](https://perma.cc/2LSR-PEGJ); Sarah Bauer et al., Disability and
+Age Adults*, 10 Disability &amp; Health J. 39 (Jan. 2017), [https://pubmed.ncbi.nlm.nih.gov/27771217/](https://perma.cc/V7D7-LCQK); Michelle Stransky et al., *Provider Continuity and Reasons for Not Having a
+Provider Among Persons With and Without Disabilities*, 12 Disability &amp; Health J. 131 (Jan. 2019),
+[https://pubmed.ncbi.nlm.nih.gov/30244847/](https://perma.cc/2LSR-PEGJ); Sarah Bauer et al., *Disability and
 Physical and Communication-Related Barriers to Health Care Related Services Among Florida Residents: A Brief
-Report, 9 Disability &amp; Health J. 552 (July 2016), [https://pubmed.ncbi.nlm.nih.gov/27101882/](https://perma.cc/YH6F-22UW) (finding barriers to access to care).
+Report*, 9 Disability &amp; Health J. 552 (July 2016), [https://pubmed.ncbi.nlm.nih.gov/27101882/](https://perma.cc/YH6F-22UW) (finding barriers to access to care).
 {% endfnbody %}
 
 {% fnbody 299 %}
-*See* Access Board, Access Board Review of MDE Low Height and MSRP (May 23, 2023),
+*See* Access Board, *Access Board Review of MDE Low Height and MSRP* (May 23, 2023),
 [https://www.regulations.gov/document/ATBCB-2023-0001-0002](https://perma.cc/WU3U-DP65) (listing available
 examination table models that meet the height requirements of the MDE Standards and their retail prices). On the
 affordability of accessible examination tables and weight scales compared to imaging equipment, see 82 FR 2829
 (stating that commenters were concerned about immediate compliance with the MDE Standards for “more
-expensive imaging equipment” compared to other accessible MDE). *See also* Block Imaging, 2024 Mammography
-Price Guide, [https://www.blockimaging.com/bid/95356/digital-mammography-equipment-price-cost-info](https://perma.cc/2STC-34VW).
+expensive imaging equipment” compared to other accessible MDE). *See also* *Block Imaging, 2024 Mammography
+Price Guide*, [https://www.blockimaging.com/bid/95356/digital-mammography-equipment-price-cost-info](https://perma.cc/2STC-34VW).
 {% endfnbody %}
 
 {% fnbody 300 %}
@@ -13011,16 +13011,16 @@ Standards).
 {% endfnbody %}
 
 {% fnbody 303 %}
-*See* id. §§ 35.130(b)(7), 35.150(a)(3), and 35.164.
+*See id*. §§ 35.130(b)(7), 35.150(a)(3), and 35.164.
 {% endfnbody %}
 
 {% fnbody 304 %}
-*See, e.g.*, U.S. Dep’t of Just., ADA Update: A Primer for State and Local Governments, ADA.gov (Feb. 28,
+*See, e.g.*, U.S. Dep’t of Just., *ADA Update: A Primer for State and Local Governments*, ADA.gov (Feb. 28,
 2020), [https://www.ada.gov/resources/title-ii-primer/](https://perma.cc/ZV66-EFWU).
 {% endfnbody %}
 
 {% fnbody 305 %}
-Id.
+*Id.*
 {% endfnbody %}
 
 {% fnbody 306 %}
@@ -13036,7 +13036,7 @@ Id.
 {% endfnbody %}
 
 {% fnbody 309 %}
-*See* U.S. Dep’t of Just., Civ. Rts. Div., Access to Medical Care for Individuals with Mobility Disabilities (June 26, 2020), [https://www.ada.gov/resources/medical-care-mobility/](https://perma.cc/UH8Y-NZWL).
+*See* U.S. Dep’t of Just., *Civ. Rts. Div., Access to Medical Care for Individuals with Mobility Disabilities* (June 26, 2020), [https://www.ada.gov/resources/medical-care-mobility/](https://perma.cc/UH8Y-NZWL).
 {% endfnbody %}
 
 {% fnbody 310 %}
@@ -13044,9 +13044,9 @@ Id.
 {% endfnbody %}
 
 {% fnbody 311 %}
-*See, e.g.*, U.S. Dep’t of Just., Civ. Rts. Div., ADA Update: A Primer for State and Local Governments (Feb. 28,
-2020), [https://www.ada.gov/resources/title-ii-primer/](https://perma.cc/ZV66-EFWU); U.S. Dep’t of Just., Title II
-Assistance Manual: Covering State and Local Government Programs and Services,
+*See, e.g.*, U.S. Dep’t of Just., *Civ. Rts. Div., ADA Update: A Primer for State and Local Governments* (Feb. 28,
+2020), [https://www.ada.gov/resources/title-ii-primer/](https://perma.cc/ZV66-EFWU); U.S. Dep’t of Just., *Title II
+Assistance Manual: Covering State and Local Government Programs and Services*,
 [https://archive.ada.gov/taman2.html](https://perma.cc/6QNC-3RRA).
 {% endfnbody %}
 
@@ -13059,7 +13059,7 @@ Assistance Manual: Covering State and Local Government Programs and Services,
 {% endfnbody %}
 
 {% fnbody 314 %}
-*See, e.g.*, id. §§ 35.130 and 35.133.
+*See, e.g., id*. §§ 35.130 and 35.133.
 {% endfnbody %}
 
 {% fnbody 315 %}
@@ -13071,12 +13071,12 @@ Assistance Manual: Covering State and Local Government Programs and Services,
 {% endfnbody %}
 
 {% fnbody 317 %}
-*See, e.g.*, U.S. Dep’t of Just., Civ. Rts. Div., Access to Medical Care for Individuals with Mobility Disabilities
+*See, e.g.*, U.S. Dep’t of Just., *Civ. Rts. Div., Access to Medical Care for Individuals with Mobility Disabilities*
 (June 26, 2020), [https://www.ada.gov/resources/medical-care-mobility/](https://perma.cc/UH8Y-NZWL).
 {% endfnbody %}
 
 {% fnbody 318 %}
-U.S. Access Board, About the U.S. Access Board, [https://www.access-board.gov/about/](https://perma.cc/L9N7-56YV).
+U.S. Access Board, *About the U.S. Access Board*, [https://www.access-board.gov/about/](https://perma.cc/L9N7-56YV).
 {% endfnbody %}
 
 {% fnbody 319 %}
