@@ -86,3 +86,22 @@ Below are some key documents:
 {% enddetails %}
 
 </div>
+
+<div class="common-links">
+
+## Commonly Searched Topics
+
+- [Introduction to ADA]({{ '/topics/intro-to-ada' | relative_url }})
+- [State and Local Governments]({{ '/topics/title-ii' | relative_url }})
+- [Businesses That are Open to the Public]({{ '/topics/title-iii' | relative_url }})
+- [Service Animals]({{ '/topics/service-animals' | relative_url }})
+- [Parking]({{ '/topics/parking' | relative_url }})
+- [Effective Communication]({{ '/topics/effective-communication' | relative_url }})
+- [Mobility Devices]({{ '/topics/mobility-devices' | relative_url }})
+- [File a Complaint]({{ '/file-a-complaint' | relative_url }})
+- [Curb Ramps]({{ '/topics/TODO/' | relative_url }})
+- [Ramps]({{ '/topics/TODO/' | relative_url }})
+- [Accessible Routes]({{ '/topics/TODO/' | relative_url }})
+- [Door, Doorways and Gates]({{ '/topics/TODO/' | relative_url }})
+
+</div>

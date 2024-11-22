@@ -13,3 +13,26 @@
         max-width: 85ch;
     }
 }
+
+.common-links {
+  padding: 1em;
+  background-color: #ECF1F7;
+
+  h2 {
+    margin-top: 0.5em !important; // Overrides overly selective crt-page styles
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    flex-wrap: wrap;
+    height: calc((26px + 1em)* 7);
+
+    li a {
+      color: #005EA2;
+    }
+  }
+}
