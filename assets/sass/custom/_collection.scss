@@ -29,7 +29,10 @@
     flex-direction: column;
     gap: 1em;
     flex-wrap: wrap;
-    height: calc((26px + 1em)* 7);
+
+    @include at-media(desktop) {
+        height: calc((26px + 1em)* 7);
+    }
 
     li a {
       color: #005EA2;
