@@ -75,13 +75,14 @@ Below are some key documents:
 
 {% details I have questions about the new rule on the ‘Accessibility of Medical Diagnostic Equipment’ used by state and local governments. Where can I find resources and summaries of the final rule? expandable %}
 
-The Department of Justice published a final rule updating the regulation for Title II of the Americans with Disabilities Act (ADA) to add more specific requirements about the accessibility of medical diagnostic equipment (MDE).  The rule adopts a technical standard for accessible MDE and clarifies how State and local governments that use MDE can meet their obligations under Title II of the ADA.
+The Department of Justice published a final rule updating the regulation for Title II of the Americans with Disabilities Act (ADA) to add more specific requirements about the accessibility of medical diagnostic equipment (MDE). The rule adopts a technical standard for accessible MDE and clarifies how State and local governments that use MDE can meet their obligations under Title II of the ADA.
 
 Below are some key documents:
--	[Fact Sheet]({{ '/resources/2024-08-08-mde-fact-sheet/' | relative_url }}):  This document provides a high-level summary of the rule.  It is designed to provide an overview of the rule’s main requirements for State and local governments.
--	[Final Rule]({{ '/assets/pdfs/mde-rule.pdf' | relative_url }}): This document provides the text of the rule and explains its requirements.  If you need the final rule document or any other information in an alternative format, you can call the ADA Information Line at 1-800-514-0301 (voice) or 1-833-610-1264 (TTY).  The [official version of the rule](https://www.federalregister.gov/documents/2024/08/09/2024-16889/-on-the-basis-of-disability-accessibility-of-medical-diagnostic-equipment-of-state) is published in the Federal Register.
--	[Benefit-Cost Analysis]({{ '/assets/pdfs/mde-fria.pdf' | relative_url }}):  This is an analysis of the benefits and costs of the rule, also called the Final Regulatory Impact Analysis (FRIA)
--	[Press Release](https://www.justice.gov/opa/pr/justice-department-publish-final-rule-improve-access-medical-care-people-disabilities): The Department issued a press release when the Attorney General signed the final rule.
+
+- [Fact Sheet]({{ '/resources/2024-08-08-mde-fact-sheet/' | relative_url }}): This document provides a high-level summary of the rule. It is designed to provide an overview of the rule’s main requirements for State and local governments.
+- [Final Rule]({{ '/assets/pdfs/mde-rule.pdf' | relative_url }}): This document provides the text of the rule and explains its requirements. If you need the final rule document or any other information in an alternative format, you can call the ADA Information Line at 1-800-514-0301 (voice) or 1-833-610-1264 (TTY). The [official version of the rule](https://www.federalregister.gov/documents/2024/08/09/2024-16889/-on-the-basis-of-disability-accessibility-of-medical-diagnostic-equipment-of-state) is published in the Federal Register.
+- [Benefit-Cost Analysis]({{ '/assets/pdfs/mde-fria.pdf' | relative_url }}): This is an analysis of the benefits and costs of the rule, also called the Final Regulatory Impact Analysis (FRIA)
+- [Press Release](https://www.justice.gov/opa/pr/justice-department-publish-final-rule-improve-access-medical-care-people-disabilities): The Department issued a press release when the Attorney General signed the final rule.
 
 {% enddetails %}
 
