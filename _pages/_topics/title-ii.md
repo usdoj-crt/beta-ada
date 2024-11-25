@@ -1,44 +1,52 @@
 ---
-title: State and Local Governments
-description: If you are part of a state/local government program or a person with a disability, there are many aspects of the ADA that you should be familiar with.
-lead: |-
-  The ADA is meant to ensure that people with disabilities can fully participate in all aspects of civic life. Under Title II, all state/local governments must follow the ADA regardless of their size.
-
-  If you are part of a state/local government program or a person with a disability, there are many aspects of the ADA that you should be familiar with. The information below is intended to help get you started.
-print: true
-card:
-  title: State and Local Governments
-  description: |-
-    If you are part of a state/local government program or a person with a disability, there are many aspects of the ADA that you should be familiar with.
-  image: landing/title-ii.gif
-  alt: "An aerial view of a city; includes city hall, streets, sidewalks, cars, and other government and non-government buildings"
-  href: /topics/title-ii/
-related-content: true
 redirect_from:
   - /ada_title_ii.htm
   - /ada_title_II.htm
+title: State and Local Governments
+description: If you are part of a state/local government program or a person
+  with a disability, there are many aspects of the ADA that you should be
+  familiar with.
+lead: >-
+  The ADA is meant to ensure that people with disabilities can fully participate
+  in all aspects of civic life. Under Title II, all state/local governments must
+  follow the ADA regardless of their size.
+
+
+  If you are part of a state/local government program or a person with a disability, there are many aspects of the ADA that you should be familiar with. The information below is intended to help get you started.
+print: true
+related-content: true
 tags:
   - title ii
+card:
+  title: State and Local Governments
+  description: If you are part of a state/local government program or a person
+    with a disability, there are many aspects of the ADA that you should be
+    familiar with.
+  image: landing/title-ii.gif
+  alt: An aerial view of a city; includes city hall, streets, sidewalks, cars, and
+    other government and non-government buildings
+  href: /topics/title-ii/
 ---
-
 ## Title II Applies to State/Local Programs
 
 Examples of state/local service, programs, or activities that need to comply with the ADA include:
-- Public education (schools)
-- [Public Transportation]( {{'/topics/intro-to-ada#public-transit'| relative_url}})
-- Recreation
-- Health care
-- Social services
-- Courts
-- Voting
-- Emergency services
-- Offices where people go to:
-  - Renew licenses
-  - Apply for food stamps
-  - Pay their taxes
-  - Attend town meetings
-  - Serve on boards and commissions
-  - Conduct other government business
+
+* Public education (schools)
+* [Public Transportation]( {{'/topics/intro-to-ada#public-transit'| relative_url}})
+* Recreation
+* Health care
+* Social services
+* Courts
+* Voting
+* Emergency services
+* Offices where people go to:
+
+  * Renew licenses
+  * Apply for food stamps
+  * Pay their taxes
+  * Attend town meetings
+  * Serve on boards and commissions
+  * Conduct other government business
 
 ## General Requirement
 
@@ -47,12 +55,13 @@ Title II of the ADA requires state/local governments to give people with disabil
 ## Specific Requirements
 
 The ADA also includes specific requirements for state/local governments. For example, if you are part of a state/local government you must:
-- Communicate with people with disabilities as effectively as you communicate with others.
-- Make reasonable modifications to policies, practices, and procedures where needed to make sure that a person with a disability can access the state/local government’s programs, services, or activities.
-- Allow [service animals]( {{'/topics/service-animals'| relative_url}}) to be with their person even if you have a no pets policy.
-- Provide <em>program access</em> by ensuring that individuals with disabilities are not excluded from programs because existing buildings or facilities are inaccessible to them.
-- Follow specific standards for physical accessibility when building or altering a building or facility.
-- Follow specific requirements for ticket sales and testing accommodations.
+
+* Communicate with people with disabilities as effectively as you communicate with others.
+* Make reasonable modifications to policies, practices, and procedures where needed to make sure that a person with a disability can access the state/local government’s programs, services, or activities.
+* Allow [service animals]( {{'/topics/service-animals'| relative_url}}) to be with their person even if you have a no pets policy.
+* Provide <em>program access</em> by ensuring that individuals with disabilities are not excluded from programs because existing buildings or facilities are inaccessible to them.
+* Follow specific standards for physical accessibility when building or altering a building or facility.
+* Follow specific requirements for ticket sales and testing accommodations.
 
 You can find examples of these requirements and how they look in practice in the tables below.
 
@@ -213,25 +222,29 @@ facilities]({{'/law-and-regs/design-standards/2010-stds/#chapter-3-building-bloc
 
 {% details Parking Spaces expandable %}
 [Section 208]({{'/law-and-regs/design-standards/2010-stds#208-parking-spaces' | relative_url}}) and [502]({{'/law-and-regs/design-standards/2010-stds#502-parking-spaces' | relative_url}})
+
 <p>Also see:</p>
 
-- [Section 209.4 (Valet Parking)]({{'/law-and-regs/design-standards/2010-stds#209-passenger-loading-zones-and-bus-stops' | relative_url}})
-- [Section 216 (Signs)]({{'/law-and-regs/design-standards/2010-stds#216-signs' | relative_url}})
-  - [216.5 exception #1 (Limited parking)]({{'/law-and-regs/design-standards/2010-stds#216-signs' | relative_url}})
-{% enddetails %}
+* [Section 209.4 (Valet Parking)]({{'/law-and-regs/design-standards/2010-stds#209-passenger-loading-zones-and-bus-stops' | relative_url}})
+* [Section 216 (Signs)]({{'/law-and-regs/design-standards/2010-stds#216-signs' | relative_url}})
+
+  * [216.5 exception #1 (Limited parking)]({{'/law-and-regs/design-standards/2010-stds#216-signs' | relative_url}})
+    {% enddetails %}
 
 {% details Sales and Service expandable %}
 [Section 227]({{'/law-and-regs/design-standards/2010-stds#227-sales-and-service' | relative_url}}) and [904]({{'/law-and-regs/design-standards/2010-stds#check-out-aisles-and-sales-and-service-counters' | relative_url}})
+
 <p>Note: Sections cover sales and service areas, such as check-out aisles and sales and service counters.</p>
 {% enddetails %}
 
-{% details Dining Surfaces expandable %}
-[Section 226]({{'/law-and-regs/design-standards/2010-stds#226-dining-surfaces-and-work-surfaces' | relative_url}}) and [902]({{'/law-and-regs/design-standards/2010-stds#902-dining-surfaces-and-work-surfaces' | relative_url}})
+{% details Dining Surfaces and Work Surfaces expandable %}
+[Section 226]({{'/law-and-regs/design-standards/2010-stds#226-dining-surfaces-and-work-surfaces' | relative_url}}) and [902]({{'/law-and-regs/design-standards/2010-stds#902-dining-surfaces-and-work-surfaces' | relative_url}}
+
 <p>Also see:</p>
 
-- [Section 206.2.5 (Restaurants and Cafeterias)]({{'/law-and-regs/design-standards/2010-stds#206-accessible-routes' | relative_url}})
-- [Section 226.2 (Dispersion, applies to dinning surfaces)]({{'/law-and-regs/design-standards/2010-stds#226-dining-surfaces-and-work-surfaces' | relative_url}})
-{% enddetails %}
+* [Section 206.2.5 (Restaurants and Cafeterias)]({{'/law-and-regs/design-standards/2010-stds#206-accessible-routes' | relative_url}})
+* [Section 226.2 (Dispersion, applies to dinning surfaces)]({{'/law-and-regs/design-standards/2010-stds#226-dining-surfaces-and-work-surfaces' | relative_url}})
+  {% enddetails %}
 
 {% details Dressing, Fitting and Locker Rooms expandable %}
 ([Sections 222]({{'/law-and-regs/design-standards/2010-stds#222-dressing-fitting-and-locker-rooms' | relative_url}})) and ([803]({{'/law-and-regs/design-standards/2010-stds#803-dressing-fitting-and-locker-rooms' | relative_url}}))
@@ -250,4 +263,5 @@ facilities]({{'/law-and-regs/design-standards/2010-stds/#chapter-3-building-bloc
 {% enddetails %}
 
 ### Learn more about these and other requirements
+
 [State and Local Government Primer]({{ '/resources/title-ii-primer/' | relative_url }})
