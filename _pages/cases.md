@@ -14,21 +14,23 @@ redirect_from:
   - /enforce.htm
   - /enforce_activities/
 sidenav: true
+subpagenav: false
+phonebox: true
 compact: false
 lead: |-
-  The Department of Justice enforces the ADA through lawsuits and settlement agreements to achieve greater access, inclusion, and equal opportunity for people with disabilities.
+  The Department of Justice enforces the ADA through lawsuits and settlement agreements to achieve greater access, inclusion, and equal opportunity for people with disabilities. Check out our cases and other enforcement matters.
 ---
 
 ## Featured Topics
 
 <section class="featuredlinks">
 
-- [Accessible technology / web access](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Accessible+technology%22+or+%22web+access%22&sort_by=field_date)
-- [Criminal justice / law enforcement](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Criminal+justice%22+or+%22law+enforcement%22&sort_by=field_date)
+- [Accessible Technology / Web Access](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Accessible+technology%22+or+%22web+access%22&sort_by=field_date)
+- [Criminal Justice / Law Enforcement](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Criminal+justice%22+or+%22law+enforcement%22&sort_by=field_date)
 - [Healthcare](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Healthcare%22&sort_by=field_date)
 - [Integration / Olmstead](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Integration%22+or+%22Olmstead%22+&sort_by=field_date)
-- [Substance use disorder](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Substance+Use+Disorder%22&sort_by=field_date)
-- [Voting / polling places](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Voting%22+or+%22polling+places%22+&sort_by=field_date)
+- [Substance Use Disorder](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Substance+Use+Disorder%22&sort_by=field_date)
+- [Voting / Polling Places](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Voting%22+or+%22polling+places%22+&sort_by=field_date)
 
 </section>
 
@@ -36,19 +38,19 @@ lead: |-
 
 <section class="manylinks">
 
-- [Child care / camp](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22child+care%22+or+%22camp%22&sort_by=field_date)
+- [Child Care](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22child+care%22+or+%22camp%22&sort_by=field_date)
 - [Education](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=education&sort_by=field_date)
-- [Effective communication](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22effective+communication%22&sort_by=field_date)
-- [Emergency management](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Emergency+management%22&sort_by=field_date)
+- [Effective Communication](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22effective+communication%22&sort_by=field_date)
+- [Emergency Management](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Emergency+management%22&sort_by=field_date)
 - [Employment](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22employment%22&sort_by=field_date)
-- [New construction / alterations / barriers](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22New+construction%22+or+%22alterations%22+or+%22barriers%22&sort_by=field_date)
-- [Parental rights](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Parental+Rights%22&sort_by=field_date)
-- [Program access](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22program+access%22&sort_by=field_date)
-- [Service animals](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Service+animals%22&sort_by=field_date)
-- [Testing accommodations](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Testing+accommodations%22+&sort_by=field_date)
+- [New Construction](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22New+construction%22+or+%22alterations%22+or+%22barriers%22&sort_by=field_date)
+- [Parental Rights](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Parental+Rights%22&sort_by=field_date)
+- [Program Access](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22program+access%22&sort_by=field_date)
+- [Service Animals](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Service+animals%22&sort_by=field_date)
+- [Testing Accommodations](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Testing+accommodations%22+&sort_by=field_date)
 - [Transportation](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=transportation&sort_by=field_date)
 
-[Search additional topics](https://www.justice.gov/crt/disability-rights-cases)
+[Search Additional Topics](https://www.justice.gov/crt/disability-rights-cases)
 
 </section>
 
@@ -63,7 +65,7 @@ lead: |-
 - [Utah Department of Corrections](https://www.justice.gov/crt/case/utah-department-corrections) On March 12, 2024, the Justice Department issued a letter notifying UDOC that it violated the ADA by discriminating against an incarcerated transgender woman on the basis of her disability, gender dysphoria. [Learn more](https://www.justice.gov/crt/case/utah-department-corrections)
 - [U.S. v. MedStar Health, Inc.](https://www.justice.gov/crt/case/us-v-medstar-health-inc) On January 30, 2024, the United States filed a Complaint against MedStar Health, Inc., a leading healthcare provider in Maryland and the greater Washington, D.C., region. [Learn more](https://www.justice.gov/crt/case/us-v-medstar-health-inc)
 
-<a href="https://www.justice.gov/crt/disability-rights-cases" class="view-all-button">View all cases</a>
+<a href="https://www.justice.gov/crt/disability-rights-cases" class="view-all-button">View All Cases</a>
 
 </section>
 
@@ -75,6 +77,6 @@ lead: |-
   ](https://www.justice.gov/opa/pr/justice-department-secures-agreements-texas-counties-ensure-election-website-accessibility) [Read More](https://www.justice.gov/opa/pr/justice-department-secures-agreements-texas-counties-ensure-election-website-accessibility)
 - [Justice Department Secures Landmark Agreement with City of Anoka, Minnesota, to End Disability Discrimination in “Crime-Free” Housing Program](https://www.justice.gov/opa/pr/justice-department-secures-landmark-agreement-city-anoka-minnesota-end-disability) [Read More](https://www.justice.gov/opa/pr/justice-department-secures-landmark-agreement-city-anoka-minnesota-end-disability)
 
-<a href="https://www.justice.gov/news/press-releases" class="view-all-button">View all press releases</a>
+<a href="https://www.justice.gov/news/press-releases" class="view-all-button">View All Press Releases</a>
 
 </section>
