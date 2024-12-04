@@ -28,7 +28,7 @@ lead: |-
 - [Accessible Technology / Web Access](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Accessible+technology%22+or+%22web+access%22&sort_by=field_date)
 - [Criminal Justice / Law Enforcement](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Criminal+justice%22+or+%22law+enforcement%22&sort_by=field_date)
 - [Healthcare](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Healthcare%22&sort_by=field_date)
-- [Integration / Olmstead](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Integration%22+or+%22Olmstead%22+&sort_by=field_date)
+- [Community Integration](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Integration%22+or+%22Olmstead%22+&sort_by=field_date)
 - [Substance Use Disorder](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Substance+Use+Disorder%22&sort_by=field_date)
 - [Voting / Polling Places](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Voting%22+or+%22polling+places%22+&sort_by=field_date)
 
@@ -43,9 +43,8 @@ lead: |-
 - [Effective Communication](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22effective+communication%22&sort_by=field_date)
 - [Emergency Management](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Emergency+management%22&sort_by=field_date)
 - [Employment](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22employment%22&sort_by=field_date)
-- [New Construction](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22New+construction%22+or+%22alterations%22+or+%22barriers%22&sort_by=field_date)
 - [Parental Rights](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Parental+Rights%22&sort_by=field_date)
-- [Program Access](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22program+access%22&sort_by=field_date)
+- [Physical Access](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22program+access%22&sort_by=field_date)
 - [Service Animals](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Service+animals%22&sort_by=field_date)
 - [Testing Accommodations](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Testing+accommodations%22+&sort_by=field_date)
 - [Transportation](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=transportation&sort_by=field_date)
@@ -62,14 +61,13 @@ lead: |-
 - [Dear Colleague Letter on Online Accessibility at Postsecondary Institutions](https://www.justice.gov/crt/case/dear-colleague-letter-online-accessibility-postsecondary-institutions) On May 19, 2023, the Justice Department and the Department of Education jointly issued a Dear Colleague Letter reminding colleges, universities, and other postsecondary institutions to ensure that their online services, programs, and activities are accessible to people with disabilities. [Learn more](https://www.justice.gov/crt/case/dear-colleague-letter-online-accessibility-postsecondary-institutions)
 - [United States v. Unified Judicial System of Pennsylvania](https://www.justice.gov/crt/case/united-states-v-unified-judicial-system-pennsylvania) On January 31, 2024, the Unified Judicial System of Pennsylvania (UJS) agreed to pay $100,000 and to encourage all its component courts to adopt new policies to ensure that individuals under Pennsylvania state court supervision can take lawfully prescribed medications to treat opioid use disorder (OUD). [Learn more](https://www.justice.gov/crt/case/united-states-v-unified-judicial-system-pennsylvania)
 - [U.S. v. Barnet Dulaney Perkins Eye Center, PC](https://www.justice.gov/crt/case/us-v-barnet-dulaney-perkins-eye-center-pc) On December 20, 2021, the United States sued Barnet Dulaney Perkins Eye Center, PC (BDP), an optometry and ophthalmology provider with 24 facilities, for violating Title III of the Americans with Disabilities Act. [Learn more](https://www.justice.gov/crt/case/us-v-barnet-dulaney-perkins-eye-center-pc)
-- [Utah Department of Corrections](https://www.justice.gov/crt/case/utah-department-corrections) On March 12, 2024, the Justice Department issued a letter notifying UDOC that it violated the ADA by discriminating against an incarcerated transgender woman on the basis of her disability, gender dysphoria. [Learn more](https://www.justice.gov/crt/case/utah-department-corrections)
 - [U.S. v. MedStar Health, Inc.](https://www.justice.gov/crt/case/us-v-medstar-health-inc) On January 30, 2024, the United States filed a Complaint against MedStar Health, Inc., a leading healthcare provider in Maryland and the greater Washington, D.C., region. [Learn more](https://www.justice.gov/crt/case/us-v-medstar-health-inc)
 
 <a href="https://www.justice.gov/crt/disability-rights-cases" class="view-all-button">View All Cases</a>
 
 </section>
 
-## Press Release
+## Press Releases
 
 <section class="readlinks">
 
