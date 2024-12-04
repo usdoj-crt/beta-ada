@@ -82,6 +82,10 @@
       border-bottom: 0;
       padding: 1em;
       background-position: right 1em center;
+
+      & > div {
+        padding-right: 2em;
+      }
     }
 
     details > div {

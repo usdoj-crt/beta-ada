@@ -1,5 +1,8 @@
 module Jekyll
   class DetailsTag < Liquid::Block
+
+    @@ids = Hash.new(0)
+
     def initialize(tag_name, block_options, liquid_options)
       super
       @expand = ''
@@ -9,7 +12,10 @@ module Jekyll
         @expand = 'expand'
       end
       @title = @options.join(" ")
+
       @id = @options.join("-").downcase
+      @@ids[@id] += 1
+      @id += "-#{@@ids[@id]}" if @@ids[@id] > 1
     end
 
     def render(context)
