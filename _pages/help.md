@@ -110,7 +110,7 @@ Below are some key documents:
 
 <div class="box-accordion">
 
-## Resources for New Construction and Alternations
+## Resources for New Construction and Alterations
 
 When state/local governments and businesses build or alter buildings or other facilities, they must make them accessible to people with disabilities. To make them accessible, state/local governments and businesses need to follow the [ADA Standards for Accessible Design](https://www.ada.gov/law-and-regs/design-standards/2010-stds/). The information below is intended to help get you started.
 
