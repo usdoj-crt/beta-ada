@@ -12974,9 +12974,7 @@ Disabilities as an Unrecognized Health Disparity Population*, 105 Amer. J. Pub. 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4355692/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4355692/), [https://perma.cc/J8E4-J63T](https://perma.cc/J8E4-J63T) (finding higher prevalence
 of obesity and cardiovascular diseases); see also Michael Karpman et al., *QuickTake: Even with Coverage, Many
 Adults Have Problems Getting Health Care, with Problems Most Prevalent Among Adults with Disabilities*, Urban
-Inst. Health Pol’y Ctr. (Sept. 2015), [https://apps.urban.org/features/hrms/quicktakes/Many-Adults-Have-Problems-
-Getting-Health-Care.html](https://apps.urban.org/features/hrms/quicktakes/Many-Adults-Have-Problems-
-Getting-Health-Care.html), [https://perma.cc/V6GB-AEPH](https://perma.cc/V6GB-AEPH); Carrie Henning-Smith et al., *Delayed and Unmet Need
+Inst. Health Pol’y Ctr. (Sept. 2015), [https://apps.urban.org/features/hrms/quicktakes/Many-Adults-Have-Problems-Getting-Health-Care.html](https://apps.urban.org/features/hrms/quicktakes/Many-Adults-Have-Problems-Getting-Health-Care.html), [https://perma.cc/V6GB-AEPH](https://perma.cc/V6GB-AEPH); Carrie Henning-Smith et al., *Delayed and Unmet Need
 for Medical Care Among Publicly Insured Adults with Disabilities*, 51 Med. Care 1015 (Nov. 2013),
 [https://pubmed.ncbi.nlm.nih.gov/24113815/](https://pubmed.ncbi.nlm.nih.gov/24113815/), [https://perma.cc/KSY2-DGEV](https://perma.cc/KSY2-DGEV); Amanda Reichard et al., *Prevalence
 and Reasons for Delaying and Foregoing Necessary Care by the Presence and Type of Disability Among Working-
@@ -13037,7 +13035,7 @@ Standards).
 {% endfnbody %}
 
 {% fnbody 309 %}
-*See* U.S. Dep’t of Just., *Civ. Rts. Div., Access to Medical Care for Individuals with Mobility Disabilities* (June 26, 2020), [https://www.ada.gov/resources/medical-care-mobility/](https://www.ada.gov/resources/medical-care-mobility/), [https://perma.cc/UH8Y-NZWL](https://perma.cc/UH8Y-NZWL).
+*See* U.S. Dep’t of Just., Civ. Rts. Div., *Access to Medical Care for Individuals with Mobility Disabilities* (June 26, 2020), [https://www.ada.gov/resources/medical-care-mobility/](https://www.ada.gov/resources/medical-care-mobility/), [https://perma.cc/UH8Y-NZWL](https://perma.cc/UH8Y-NZWL).
 {% endfnbody %}
 
 {% fnbody 310 %}
@@ -13045,7 +13043,7 @@ Standards).
 {% endfnbody %}
 
 {% fnbody 311 %}
-*See, e.g.*, U.S. Dep’t of Just., *Civ. Rts. Div., ADA Update: A Primer for State and Local Governments* (Feb. 28,
+*See, e.g.*, U.S. Dep’t of Just., Civ. Rts. Div., *ADA Update: A Primer for State and Local Governments* (Feb. 28,
 2020), [https://www.ada.gov/resources/title-ii-primer/](https://www.ada.gov/resources/title-ii-primer/), [https://perma.cc/ZV66-EFWU](https://perma.cc/ZV66-EFWU); U.S. Dep’t of Just., *Title II
 Assistance Manual: Covering State and Local Government Programs and Services*,
 [https://archive.ada.gov/taman2.html](https://archive.ada.gov/taman2.html), [https://perma.cc/6QNC-3RRA](https://perma.cc/6QNC-3RRA).
@@ -13072,7 +13070,7 @@ Assistance Manual: Covering State and Local Government Programs and Services*,
 {% endfnbody %}
 
 {% fnbody 317 %}
-*See, e.g.*, U.S. Dep’t of Just., *Civ. Rts. Div., Access to Medical Care for Individuals with Mobility Disabilities*
+*See, e.g.*, U.S. Dep’t of Just., Civ. Rts. Div., *Access to Medical Care for Individuals with Mobility Disabilities*
 (June 26, 2020), [https://www.ada.gov/resources/medical-care-mobility/](https://www.ada.gov/resources/medical-care-mobility/), [https://perma.cc/UH8Y-NZWL](https://perma.cc/UH8Y-NZWL).
 {% endfnbody %}
 
