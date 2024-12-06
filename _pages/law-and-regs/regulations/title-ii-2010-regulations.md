@@ -12855,7 +12855,7 @@ communication necessary for performance of a diagnostic procedure).
 {% endfnbody %}
 
 {% fnbody 274 %}
-*See* U.S. Dep’t of Just., Civ. Rts. Div., *Access to Medical Care for Individuals with Mobility Disabilities* (June 26, 2020), https://www.ada.gov/resources/medical-care-mobility/ [https://perma.cc/UH8Y-NZWL](https://perma.cc/UH8Y-NZWL).
+*See* U.S. Dep’t of Just., Civ. Rts. Div., *Access to Medical Care for Individuals with Mobility Disabilities* (June 26, 2020), [https://www.ada.gov/resources/medical-care-mobility/](https://www.ada.gov/resources/medical-care-mobility/), [https://perma.cc/UH8Y-NZWL](https://perma.cc/UH8Y-NZWL).
 {% endfnbody %}
 
 {% fnbody 275 %}
@@ -13016,7 +13016,7 @@ Standards).
 
 {% fnbody 304 %}
 *See, e.g.*, U.S. Dep’t of Just., *ADA Update: A Primer for State and Local Governments*, ADA.gov (Feb. 28,
-2020), [https://www.ada.gov/resources/title-ii-primer/](https://perma.cc/ZV66-EFWU)[https://perma.cc/ZV66-EFWU](https://perma.cc/ZV66-EFWU).
+2020), [https://www.ada.gov/resources/title-ii-primer/](https://www.ada.gov/resources/title-ii-primer/), [https://perma.cc/ZV66-EFWU](https://perma.cc/ZV66-EFWU).
 {% endfnbody %}
 
 {% fnbody 305 %}
@@ -13036,7 +13036,7 @@ Standards).
 {% endfnbody %}
 
 {% fnbody 309 %}
-*See* U.S. Dep’t of Just., *Civ. Rts. Div., Access to Medical Care for Individuals with Mobility Disabilities* (June 26, 2020), [https://www.ada.gov/resources/medical-care-mobility/](https://perma.cc/UH8Y-NZWL)[https://perma.cc/UH8Y-NZWL](https://perma.cc/UH8Y-NZWL).
+*See* U.S. Dep’t of Just., *Civ. Rts. Div., Access to Medical Care for Individuals with Mobility Disabilities* (June 26, 2020), [https://www.ada.gov/resources/medical-care-mobility/](https://www.ada.gov/resources/medical-care-mobility/), [https://perma.cc/UH8Y-NZWL](https://perma.cc/UH8Y-NZWL).
 {% endfnbody %}
 
 {% fnbody 310 %}
@@ -13045,9 +13045,9 @@ Standards).
 
 {% fnbody 311 %}
 *See, e.g.*, U.S. Dep’t of Just., *Civ. Rts. Div., ADA Update: A Primer for State and Local Governments* (Feb. 28,
-2020), [https://www.ada.gov/resources/title-ii-primer/](https://perma.cc/ZV66-EFWU)[https://perma.cc/ZV66-EFWU](https://perma.cc/ZV66-EFWU); U.S. Dep’t of Just., *Title II
+2020), [https://www.ada.gov/resources/title-ii-primer/](https://www.ada.gov/resources/title-ii-primer/), [https://perma.cc/ZV66-EFWU](https://perma.cc/ZV66-EFWU); U.S. Dep’t of Just., *Title II
 Assistance Manual: Covering State and Local Government Programs and Services*,
-[https://archive.ada.gov/taman2.html](https://perma.cc/6QNC-3RRA)[https://perma.cc/6QNC-3RRA](https://perma.cc/6QNC-3RRA).
+[https://archive.ada.gov/taman2.html](https://archive.ada.gov/taman2.html)[https://perma.cc/6QNC-3RRA](https://perma.cc/6QNC-3RRA).
 {% endfnbody %}
 
 {% fnbody 312 %}
@@ -13072,11 +13072,11 @@ Assistance Manual: Covering State and Local Government Programs and Services*,
 
 {% fnbody 317 %}
 *See, e.g.*, U.S. Dep’t of Just., *Civ. Rts. Div., Access to Medical Care for Individuals with Mobility Disabilities*
-(June 26, 2020), [https://www.ada.gov/resources/medical-care-mobility/](https://perma.cc/UH8Y-NZWL)[https://perma.cc/UH8Y-NZWL](https://perma.cc/UH8Y-NZWL).
+(June 26, 2020), [https://www.ada.gov/resources/medical-care-mobility/](https://www.ada.gov/resources/medical-care-mobility/), [https://perma.cc/UH8Y-NZWL](https://perma.cc/UH8Y-NZWL).
 {% endfnbody %}
 
 {% fnbody 318 %}
-U.S. Access Board, *About the U.S. Access Board*, [https://www.access-board.gov/about/](https://perma.cc/L9N7-56YV)[https://perma.cc/L9N7-56YV](https://perma.cc/L9N7-56YV).
+U.S. Access Board, *About the U.S. Access Board*, [https://www.access-board.gov/about/](https://www.access-board.gov/about/), [https://perma.cc/L9N7-56YV](https://perma.cc/L9N7-56YV).
 {% endfnbody %}
 
 {% fnbody 319 %}
