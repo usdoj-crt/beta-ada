@@ -12969,31 +12969,32 @@ when the required number of accessible elements has been provided, further dispe
 
 {% fnbody 298 %}
 *See* C. Brooke Steele et al., *Prevalence of Cancer Screening Among Adults With Disabilities*, United States, 2013,
-14 Preventing Chronic Disease (Jan. 2017), [https://www.cdc.gov/pcd/issues/2017/16_0312.htm](https://perma.cc/T36Y-NCJM)[https://perma.cc/T36Y-NCJM](https://perma.cc/T36Y-NCJM) (finding disparate access to cancer screenings); Gloria Krahn, *Persons with
+14 Preventing Chronic Disease (Jan. 2017), [https://www.cdc.gov/pcd/issues/2017/16_0312.htm](hhttps://www.cdc.gov/pcd/issues/2017/16_0312.htm), [https://perma.cc/T36Y-NCJM](https://perma.cc/T36Y-NCJM) (finding disparate access to cancer screenings); Gloria Krahn, *Persons with
 Disabilities as an Unrecognized Health Disparity Population*, 105 Amer. J. Pub. Health 198 (Apr. 2015),
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4355692/](https://perma.cc/J8E4-J63T)[https://perma.cc/J8E4-J63T](https://perma.cc/J8E4-J63T) (finding higher prevalence
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4355692/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4355692/), [https://perma.cc/J8E4-J63T](https://perma.cc/J8E4-J63T) (finding higher prevalence
 of obesity and cardiovascular diseases); see also Michael Karpman et al., *QuickTake: Even with Coverage, Many
 Adults Have Problems Getting Health Care, with Problems Most Prevalent Among Adults with Disabilities*, Urban
 Inst. Health Pol’y Ctr. (Sept. 2015), [https://apps.urban.org/features/hrms/quicktakes/Many-Adults-Have-Problems-
-Getting-Health-Care.html](https://perma.cc/V6GB-AEPH)[https://perma.cc/V6GB-AEPH](https://perma.cc/V6GB-AEPH); Carrie Henning-Smith et al., *Delayed and Unmet Need
+Getting-Health-Care.html](https://apps.urban.org/features/hrms/quicktakes/Many-Adults-Have-Problems-
+Getting-Health-Care.html), [https://perma.cc/V6GB-AEPH](https://perma.cc/V6GB-AEPH); Carrie Henning-Smith et al., *Delayed and Unmet Need
 for Medical Care Among Publicly Insured Adults with Disabilities*, 51 Med. Care 1015 (Nov. 2013),
-[https://pubmed.ncbi.nlm.nih.gov/24113815/](https://perma.cc/KSY2-DGEV)[https://perma.cc/KSY2-DGEV](https://perma.cc/KSY2-DGEV); Amanda Reichard et al., *Prevalence
+[https://pubmed.ncbi.nlm.nih.gov/24113815/](https://pubmed.ncbi.nlm.nih.gov/24113815/), [https://perma.cc/KSY2-DGEV](https://perma.cc/KSY2-DGEV); Amanda Reichard et al., *Prevalence
 and Reasons for Delaying and Foregoing Necessary Care by the Presence and Type of Disability Among Working-
-Age Adults*, 10 Disability &amp; Health J. 39 (Jan. 2017), [https://pubmed.ncbi.nlm.nih.gov/27771217/](https://perma.cc/V7D7-LCQK)[https://perma.cc/V7D7-LCQK](https://perma.cc/V7D7-LCQK); Michelle Stransky et al., *Provider Continuity and Reasons for Not Having a
+Age Adults*, 10 Disability &amp; Health J. 39 (Jan. 2017), [https://pubmed.ncbi.nlm.nih.gov/27771217/](https://pubmed.ncbi.nlm.nih.gov/27771217/), [https://perma.cc/V7D7-LCQK](https://perma.cc/V7D7-LCQK); Michelle Stransky et al., *Provider Continuity and Reasons for Not Having a
 Provider Among Persons With and Without Disabilities*, 12 Disability &amp; Health J. 131 (Jan. 2019),
-[https://pubmed.ncbi.nlm.nih.gov/30244847/](https://perma.cc/2LSR-PEGJ)[https://perma.cc/2LSR-PEGJ](https://perma.cc/2LSR-PEGJ); Sarah Bauer et al., *Disability and
+[https://pubmed.ncbi.nlm.nih.gov/30244847/](https://pubmed.ncbi.nlm.nih.gov/30244847/), [https://perma.cc/2LSR-PEGJ](https://perma.cc/2LSR-PEGJ); Sarah Bauer et al., *Disability and
 Physical and Communication-Related Barriers to Health Care Related Services Among Florida Residents: A Brief
-Report*, 9 Disability &amp; Health J. 552 (July 2016), [https://pubmed.ncbi.nlm.nih.gov/27101882/](https://perma.cc/YH6F-22UW)[https://perma.cc/YH6F-22UW](https://perma.cc/YH6F-22UW) (finding barriers to access to care).
+Report*, 9 Disability &amp; Health J. 552 (July 2016), [https://pubmed.ncbi.nlm.nih.gov/27101882/](https://pubmed.ncbi.nlm.nih.gov/27101882/), [https://perma.cc/YH6F-22UW](https://perma.cc/YH6F-22UW) (finding barriers to access to care).
 {% endfnbody %}
 
 {% fnbody 299 %}
 *See* Access Board, *Access Board Review of MDE Low Height and MSRP* (May 23, 2023),
-[https://www.regulations.gov/document/ATBCB-2023-0001-0002](https://perma.cc/WU3U-DP65)[https://perma.cc/WU3U-DP65](https://perma.cc/WU3U-DP65) (listing available
+[https://www.regulations.gov/document/ATBCB-2023-0001-0002](https://www.regulations.gov/document/ATBCB-2023-0001-0002), [https://perma.cc/WU3U-DP65](https://perma.cc/WU3U-DP65) (listing available
 examination table models that meet the height requirements of the MDE Standards and their retail prices). On the
 affordability of accessible examination tables and weight scales compared to imaging equipment, see 82 FR 2829
 (stating that commenters were concerned about immediate compliance with the MDE Standards for “more
 expensive imaging equipment” compared to other accessible MDE). *See also* *Block Imaging, 2024 Mammography
-Price Guide*, [https://www.blockimaging.com/bid/95356/digital-mammography-equipment-price-cost-info](https://perma.cc/2STC-34VW)[https://perma.cc/2STC-34VW](https://perma.cc/2STC-34VW).
+Price Guide*, [https://www.blockimaging.com/bid/95356/digital-mammography-equipment-price-cost-info](https://www.blockimaging.com/bid/95356/digital-mammography-equipment-price-cost-info), [https://perma.cc/2STC-34VW](https://perma.cc/2STC-34VW).
 {% endfnbody %}
 
 {% fnbody 300 %}
@@ -13047,7 +13048,7 @@ Standards).
 *See, e.g.*, U.S. Dep’t of Just., *Civ. Rts. Div., ADA Update: A Primer for State and Local Governments* (Feb. 28,
 2020), [https://www.ada.gov/resources/title-ii-primer/](https://www.ada.gov/resources/title-ii-primer/), [https://perma.cc/ZV66-EFWU](https://perma.cc/ZV66-EFWU); U.S. Dep’t of Just., *Title II
 Assistance Manual: Covering State and Local Government Programs and Services*,
-[https://archive.ada.gov/taman2.html](https://archive.ada.gov/taman2.html)[https://perma.cc/6QNC-3RRA](https://perma.cc/6QNC-3RRA).
+[https://archive.ada.gov/taman2.html](https://archive.ada.gov/taman2.html), [https://perma.cc/6QNC-3RRA](https://perma.cc/6QNC-3RRA).
 {% endfnbody %}
 
 {% fnbody 312 %}
