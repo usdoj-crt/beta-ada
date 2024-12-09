@@ -71,6 +71,17 @@ primary_navigation:
     url:
       en: "/resources/"
       es: "/resources/"
+    children:
+    - name:
+        en: Guidance & Resource Materials
+        en-short: Resources
+        es: Guidance & Resource Materials
+      url: "/resources/"
+    - name:
+        en: Help
+        en-short: Help
+        es: Help
+      url: "/help/"
   - name:
       en: Law, Regulations & Standards
       en-short: Law & Regulations
