@@ -79,12 +79,15 @@ learn:
       icon: landing/guidance_resource_materials_gold.png
       examples:
         - ex1:
+          title: "Help: Get answers to your questions, learn about popular topics, and find resources for more support."
+          link:  help
+        - ex2:
           title: "Fact Sheet: New Rule on the Accessibility of Web Content and Mobile Apps Provided by State and Local Governments"
           link: resources/2024-03-08-web-rule
-        - ex2:
+        - ex3:
           title: "Fact Sheet:  New Rule on the Accessibility of Medical Diagnostic Equipment Used by State and Local Governments"
           link: resources/2024-08-08-mde-fact-sheet
-        - ex3:
+        - ex4:
           title: Algorithms, Artificial Intelligence, and Disability Discrimination in Hiring
           link:  resources/ai-guidance
     - heading: Laws & Regulations
