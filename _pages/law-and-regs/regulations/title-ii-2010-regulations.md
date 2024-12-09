@@ -12969,7 +12969,7 @@ when the required number of accessible elements has been provided, further dispe
 
 {% fnbody 298 %}
 *See* C. Brooke Steele et al., *Prevalence of Cancer Screening Among Adults With Disabilities*, United States, 2013,
-14 Preventing Chronic Disease (Jan. 2017), [https://www.cdc.gov/pcd/issues/2017/16_0312.htm](hhttps://www.cdc.gov/pcd/issues/2017/16_0312.htm), [https://perma.cc/T36Y-NCJM](https://perma.cc/T36Y-NCJM) (finding disparate access to cancer screenings); Gloria Krahn, *Persons with
+14 Preventing Chronic Disease (Jan. 2017), [https://www.cdc.gov/pcd/issues/2017/16_0312.htm](https://www.cdc.gov/pcd/issues/2017/16_0312.htm), [https://perma.cc/T36Y-NCJM](https://perma.cc/T36Y-NCJM) (finding disparate access to cancer screenings); Gloria Krahn, *Persons with
 Disabilities as an Unrecognized Health Disparity Population*, 105 Amer. J. Pub. Health 198 (Apr. 2015),
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4355692/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4355692/), [https://perma.cc/J8E4-J63T](https://perma.cc/J8E4-J63T) (finding higher prevalence
 of obesity and cardiovascular diseases); see also Michael Karpman et al., *QuickTake: Even with Coverage, Many
