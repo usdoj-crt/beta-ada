@@ -44,7 +44,7 @@ lead: |-
 - [Emergency Management](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Emergency+management%22&sort_by=field_date)
 - [Employment](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22employment%22&sort_by=field_date)
 - [Parental Rights](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Parental+Rights%22&sort_by=field_date)
-- [Physical Access](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22program+access%22&sort_by=field_date)
+- [Physical Access](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22New+construction%22+or+%22alterations%22+or+%22barriers%22&sort_by=field_date)
 - [Service Animals](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Service+animals%22&sort_by=field_date)
 - [Testing Accommodations](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=%22Testing+accommodations%22+&sort_by=field_date)
 - [Transportation](https://www.justice.gov/crt/disability-rights-cases?search_api_fulltext=transportation&sort_by=field_date)
