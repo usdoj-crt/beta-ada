@@ -71,6 +71,17 @@ primary_navigation:
     url:
       en: "/resources/"
       es: "/resources/"
+    children:
+    - name:
+        en: Guidance & Resource Materials
+        en-short: Resources
+        es: Guidance & Resource Materials
+      url: "/resources/"
+    - name:
+        en: Help
+        en-short: Help
+        es: Help
+      url: "/help/"
   - name:
       en: Law, Regulations & Standards
       en-short: Law & Regulations
@@ -127,9 +138,9 @@ primary_navigation:
           es: Guidance to the 2010 Standards
         url: "/law-and-regs/design-standards/standards-guidance/"
   - name:
-      en: Enforcement
-      en-short: Enforcement
-      es: Enforcement
+      en: Cases
+      en-short: Cases
+      es: Cases
     url:
       en: "/cases/"
       es: "/cases/"
