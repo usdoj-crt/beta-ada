@@ -127,9 +127,9 @@ primary_navigation:
           es: Guidance to the 2010 Standards
         url: "/law-and-regs/design-standards/standards-guidance/"
   - name:
-      en: Enforcement
-      en-short: Enforcement
-      es: Enforcement
+      en: Cases
+      en-short: Cases
+      es: Cases
     url:
       en: "/cases/"
       es: "/cases/"
