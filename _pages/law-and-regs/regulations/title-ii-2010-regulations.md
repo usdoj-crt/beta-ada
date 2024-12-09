@@ -325,10 +325,11 @@ Administrative practice and procedure, Buildings and facilities, Civil rights, C
 ## Title II Regulations Revised Final Title II Regulation with Integrated Text
 
 <div class="usa-summary-box related-content-container border-0 padding-2 bg-primary-lighter">
-<p>NOTE: These provisions update the relevant portions of the title II regulation to incorporate changes made to the regulatory text through June 24, 2024. These modifications stem from the Pool Extension Final Rule (77 FR 30174, published May 21, 2012),  the ADA Amendments Act Final Rule (81 FR 53204, published Aug. 11, 2016), and the Title II Web and Mobile Accessibility Final Rule (89 FR 31320, published April 24, 2024). All section headings and changes are noted in bold.</p>
+<p>NOTE: These provisions update the relevant portions of the title II regulation to incorporate changes made to the regulatory text through June 24, 2024. These modifications stem from the Pool Extension Final Rule (77 FR 30174, published May 21, 2012),  the ADA Amendments Act Final Rule (81 FR 53204, published Aug. 11, 2016), and the Title II Web and Mobile Accessibility Final Rule (89 FR 31320, published April 24, 2024) and the Title II Accessibility of Medical Diagnostic Equipment (89 FR 65180, published
+Aug. 9, 2024). All section headings and changes are noted in bold.</p>
 </div>
 
-**Part 35 Nondiscrimination on the Basis of Disability in State and Local Government Services <br /> (as amended by the final rule published on April 24, 2024)**
+**Part 35 Nondiscrimination on the Basis of Disability in State and Local Government Services <br /> (as amended by the final rule published on August 9, 2024)**
 
 **Authority: 5 U.S.C. 301; 28 U.S.C. 509, 510; 42 U.S.C. 12134, 12131, and 12205a.**
 
@@ -414,6 +415,10 @@ _Illegal use of drugs_ means the use of one or more drugs, the possession or dis
 
 _Individual with a disability_ means a person who has a disability. The term individual with a disability does not include an individual who is currently engaging in the illegal use of drugs, when the public entity acts on the basis of such use.
 
+<strong>_Medical Diagnostic Equipment ("MDE")_ means equipment used in, or in conjunction with, medical settings by health care providers for diagnostic purposes. MDE includes, for example, examination tables, examination chairs
+(including chairs used for eye examinations or procedures and dental examinations or procedures), weight scales, mammography equipment, x-ray machines, and other radiological equipment commonly used for diagnostic
+purposes by health professionals.</strong>
+
 <strong>_Mobile applications ("apps")_ means software applications that are downloaded and designed to run on mobile devices, such as smartphones and tablets.</strong>
 
 _Other power-driven mobility device_ means any mobility device powered by batteries, fuel, or other engines&#8211;&#8211;whether or not designed primarily for use by individuals with mobility disabilities&#8211;&#8211;that is used by individuals with mobility disabilities for the purpose of locomotion, including golf cars, electronic personal assistance mobility devices (EPAMDs), such as the Segway® PT, or any mobility device designed to operate in areas without defined pedestrian routes, but that is not a wheelchair within the meaning of this section. This definition does not apply to Federal wilderness areas; wheelchairs in such areas are defined in section 508(c)(2) of the ADA, 42 U.S.C. 12207(c)(2).
@@ -435,6 +440,9 @@ _Qualified reader_ means a person who is able to read effectively, accurately, a
 _Service animal_ means any dog that is individually trained to do work or perform tasks for the benefit of an individual with a disability, including a physical, sensory, psychiatric, intellectual, or other mental disability. Other species of animals, whether wild or domestic, trained or untrained, are not service animals for the purposes of this definition. The work or tasks performed by a service animal must be directly related to the individual's disability. Examples of work or tasks include, but are not limited to, assisting individuals who are blind or have low vision with navigation and other tasks, alerting individuals who are deaf or hard of hearing to the presence of people or sounds, providing non-violent protection or rescue work, pulling a wheelchair, assisting an individual during a seizure, alerting individuals to the presence of allergens, retrieving items such as medicine or the telephone, providing physical support and assistance with balance and stability to individuals with mobility disabilities, and helping persons with psychiatric and neurological disabilities by preventing or interrupting impulsive or destructive behaviors. The crime deterrent effects of an animal's presence and the provision of emotional support, well-being, comfort, or companionship do not constitute work or tasks for the purposes of this definition.
 
 <strong>_Special district government_ means a public entity—other than a county, municipality, township, or independent school district—authorized by State law to provide one function or a limited number of designated functions with sufficient administrative and fiscal autonomy to qualify as a separate government and whose population is not calculated by the United States Census Bureau in the most recent decennial Census or Small Area Income and Poverty Estimates.</strong>
+
+<strong><em>Standards for Accessible Medical Diagnostic Equipment (“Standards for Accessible MDE”)</em> means the standards promulgated by the Architectural and Transportation Barriers Compliance Board under section 510 of the Rehabilitation
+Act of 1973, as amended, found at 36 CFR part 1195 (revised as of July 1, 2017), with the exception of M301.2.2 and M302.2.2.</strong>
 
 _State_ means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
 
@@ -1406,66 +1414,197 @@ A State shall not be immune under the eleventh amendment to the Constitution of 
 
 ### § 35.200 Requirements for web and mobile accessibility.
 
-**(a) *General.* A public entity shall ensure that the following are readily accessible to and usable by individuals with disabilities:**
+(a) *General.* A public entity shall ensure that the following are readily accessible to and usable by individuals with disabilities:
 
-**(1) Web content that a public entity provides or makes available, directly or through contractual, licensing, or other arrangements; and**
+(1) Web content that a public entity provides or makes available, directly or through contractual, licensing, or other arrangements; and
 
-**(2) Mobile apps that a public entity provides or makes available, directly or
-through contractual, licensing, or other arrangements.**
+(2) Mobile apps that a public entity provides or makes available, directly or
+through contractual, licensing, or other arrangements.
 
-**(b) *Requirements*.**
+(b) *Requirements*.
 
-**(1) Beginning April 24, 2026, a public entity, other than a special district government, with a total population of 50,000 or more shall ensure that the web content and mobile apps that the public entity provides or makes available, directly or through contractual, licensing, or other arrangements, comply with Level A and Level AA success criteria and conformance requirements specified in WCAG 2.1, unless the public entity can demonstrate that compliance with this section would result in a fundamental alteration in the nature of a service, program, or activity or in undue financial and administrative burdens.**
+(1) Beginning April 24, 2026, a public entity, other than a special district government, with a total population of 50,000 or more shall ensure that the web content and mobile apps that the public entity provides or makes available, directly or through contractual, licensing, or other arrangements, comply with Level A and Level AA success criteria and conformance requirements specified in WCAG 2.1, unless the public entity can demonstrate that compliance with this section would result in a fundamental alteration in the nature of a service, program, or activity or in undue financial and administrative burdens.
 
-**(2) Beginning April 26, 2027, a public entity with a total population of less than 50,000 or any public entity that is a special district government shall ensure that the web content and mobile apps that the public entity provides or makes available, directly or through contractual, licensing, or other arrangements, comply with Level A and Level AA success criteria and conformance requirements specified in WCAG 2.1, unless the public entity can demonstrate that compliance with this section would result in a fundamental alteration in the nature of a service, program, or activity or in undue financial and administrative burdens.**
+(2) Beginning April 26, 2027, a public entity with a total population of less than 50,000 or any public entity that is a special district government shall ensure that the web content and mobile apps that the public entity provides or makes available, directly or through contractual, licensing, or other arrangements, comply with Level A and Level AA success criteria and conformance requirements specified in WCAG 2.1, unless the public entity can demonstrate that compliance with this section would result in a fundamental alteration in the nature of a service, program, or activity or in undue financial and administrative burdens.
 
-**(3) WCAG 2.1 is incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51.  All material approved for incorporation by reference is available for inspection at the U.S. Department of Justice and at the National Archives and Records Administration (“NARA”).  Contact the U.S. Department of Justice at: Disability Rights Section, Civil Rights Division, U.S. Department of Justice, 150 M St. N.E., 9th Floor, Washington, D.C. 20002; ADA Information Line: (800) 514–0301 (voice) or 1–833–610–1264 (TTY); website: [www.ada.gov](https://www.ada.gov).  For information on the availability of this material at NARA, visit [www.archives.gov/federal-register/cfr/ibr-locations.html](https://perma.cc/9SJ7-D7XZ) or email fr.inspection@nara.gov. The material may be obtained from the World Wide Web Consortium (“W3C”) Web Accessibility Initiative (“WAI”), 401 Edgewater Place, Suite 600, Wakefield, MA 01880; phone: (339) 273–2711; email: contact@w3.org; website: [https://www.w3.org/TR/2018/REC-WCAG21-20180605/](https://www.w3.org/TR/2018/REC-WCAG21-20180605/) and [https://perma.cc/UB8A-GG2F](https://perma.cc/UB8A-GG2F).**
+(3) WCAG 2.1 is incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51.  All material approved for incorporation by reference is available for inspection at the U.S. Department of Justice and at the National Archives and Records Administration (“NARA”).  Contact the U.S. Department of Justice at: Disability Rights Section, Civil Rights Division, U.S. Department of Justice, 150 M St. N.E., 9th Floor, Washington, D.C. 20002; ADA Information Line: (800) 514–0301 (voice) or 1–833–610–1264 (TTY); website: [www.ada.gov](https://www.ada.gov).  For information on the availability of this material at NARA, visit [www.archives.gov/federal-register/cfr/ibr-locations.html](https://perma.cc/9SJ7-D7XZ) or email fr.inspection@nara.gov. The material may be obtained from the World Wide Web Consortium (“W3C”) Web Accessibility Initiative (“WAI”), 401 Edgewater Place, Suite 600, Wakefield, MA 01880; phone: (339) 273–2711; email: contact@w3.org; website: [https://www.w3.org/TR/2018/REC-WCAG21-20180605/](https://www.w3.org/TR/2018/REC-WCAG21-20180605/) and [https://perma.cc/UB8A-GG2F](https://perma.cc/UB8A-GG2F).
 
 ### § 35.201 Exceptions.
 
-**The requirements of § 35.200 do not apply to the following:**
+The requirements of § 35.200 do not apply to the following:
 
-**(a) *Archived web content*. Archived web content as defined in § 35.104.**
+(a) *Archived web content*. Archived web content as defined in § 35.104.
 
-**(b) *Preexisting conventional electronic documents*. Conventional electronic documents that are available as part of a public entity’s web content or mobile apps before the date the public entity is required to comply with this subpart, unless such documents are currently used to apply for, gain access to, or participate in the public entity’s services, programs, or activities.**
+(b) *Preexisting conventional electronic documents*. Conventional electronic documents that are available as part of a public entity’s web content or mobile apps before the date the public entity is required to comply with this subpart, unless such documents are currently used to apply for, gain access to, or participate in the public entity’s services, programs, or activities.
 
-**(c) *Content posted by a third party*. Content posted by a third party, unless the third party is posting due to contractual, licensing, or other arrangements with the public entity.**
+(c) *Content posted by a third party*. Content posted by a third party, unless the third party is posting due to contractual, licensing, or other arrangements with the public entity.
 
-**(d) *Individualized, password-protected or otherwise secured conventional electronic documents*. Conventional electronic documents that are:**
+(d) *Individualized, password-protected or otherwise secured conventional electronic documents*. Conventional electronic documents that are:
 
-**(1) About a specific individual, their property, or their account; and**
+(1) About a specific individual, their property, or their account; and
 
-**(2) Password-protected or otherwise secured.**
+(2) Password-protected or otherwise secured.
 
-**(e) *Preexisting social media posts*. A public entity’s social media posts that were posted before the date the public entity is required to comply with this subpart.**
+(e) *Preexisting social media posts*. A public entity’s social media posts that were posted before the date the public entity is required to comply with this subpart.
 
 ### § 35.202 Conforming alternate versions.
 
-**(a) A public entity may use conforming alternate versions of web content, as defined by WCAG 2.1, to comply with § 35.200 only where it is not possible to make web content directly accessible due to technical or legal limitations.**
+(a) A public entity may use conforming alternate versions of web content, as defined by WCAG 2.1, to comply with § 35.200 only where it is not possible to make web content directly accessible due to technical or legal limitations.
 
-**(b) WCAG 2.1 is incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51.  All material approved for incorporation by reference is available for inspection at the U.S. Department of Justice and at NARA.  Contact the U.S. Department of Justice at: Disability Rights Section, Civil Rights Division, U.S. Department of Justice, 150 M St. N.E., 9th Floor, Washington, D.C. 20002; ADA Information Line: (800) 514–0301 (voice) or 1–833–610–1264 (TTY); website: www.ada.gov [https://perma.cc/U2V5-78KW]. For information on the availability of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations.html [https://perma.cc/9SJ7-D7XZ] or email fr.inspection@nara.gov. The material may be obtained from W3C WAI, 401 Edgewater Place, Suite 600, Wakefield, MA 01880; phone: (339) 273–2711; email: contact@w3.org; website: [https://www.w3.org/TR/2018/REC-WCAG21-20180605/](https://www.w3.org/TR/2018/REC-WCAG21-20180605/) and [https://perma.cc/UB8A-GG2F](https://perma.cc/UB8A-GG2F).**
+(b) WCAG 2.1 is incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51.  All material approved for incorporation by reference is available for inspection at the U.S. Department of Justice and at NARA.  Contact the U.S. Department of Justice at: Disability Rights Section, Civil Rights Division, U.S. Department of Justice, 150 M St. N.E., 9th Floor, Washington, D.C. 20002; ADA Information Line: (800) 514–0301 (voice) or 1–833–610–1264 (TTY); website: www.ada.gov [https://perma.cc/U2V5-78KW]. For information on the availability of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations.html [https://perma.cc/9SJ7-D7XZ] or email fr.inspection@nara.gov. The material may be obtained from W3C WAI, 401 Edgewater Place, Suite 600, Wakefield, MA 01880; phone: (339) 273–2711; email: contact@w3.org; website: [https://www.w3.org/TR/2018/REC-WCAG21-20180605/](https://www.w3.org/TR/2018/REC-WCAG21-20180605/) and [https://perma.cc/UB8A-GG2F](https://perma.cc/UB8A-GG2F).
 
 ### § 35.203 Equivalent facilitation.
 
-**Nothing in this subpart prevents the use of designs, methods, or techniques as alternatives to those prescribed, provided that the alternative designs, methods, or techniques result in substantially equivalent or greater accessibility and usability of the web content or mobile app.**
+Nothing in this subpart prevents the use of designs, methods, or techniques as alternatives to those prescribed, provided that the alternative designs, methods, or techniques result in substantially equivalent or greater accessibility and usability of the web content or mobile app.
 
 ### § 35.204 Duties.
 
-**Where a public entity can demonstrate that compliance with the requirements of § 35.200 would result in a fundamental alteration in the nature of a service, program, or activity or in undue financial and administrative burdens, compliance with § 35.200 is required to the extent that it does not result in a fundamental alteration or undue financial and administrative burdens. In those circumstances where personnel of the public entity believe that the proposed action would fundamentally alter the service, program, or activity or would result in undue financial and administrative burdens, a public entity has the burden of proving that compliance with § 35.200 would result in such alteration or burdens. The decision that compliance would result in such alteration or burdens must be made by the head of a public entity or their designee after considering all resources available for use in the funding and operation of the service, program, or activity, and must be accompanied by a written statement of the reasons for reaching that conclusion. If an action would result in such an alteration or such burdens, a public entity shall take any other action that would not result in such an alteration or such burdens but would nevertheless ensure that individuals with disabilities receive the benefits or services provided by the public entity to the maximum extent possible.**
+Where a public entity can demonstrate that compliance with the requirements of § 35.200 would result in a fundamental alteration in the nature of a service, program, or activity or in undue financial and administrative burdens, compliance with § 35.200 is required to the extent that it does not result in a fundamental alteration or undue financial and administrative burdens. In those circumstances where personnel of the public entity believe that the proposed action would fundamentally alter the service, program, or activity or would result in undue financial and administrative burdens, a public entity has the burden of proving that compliance with § 35.200 would result in such alteration or burdens. The decision that compliance would result in such alteration or burdens must be made by the head of a public entity or their designee after considering all resources available for use in the funding and operation of the service, program, or activity, and must be accompanied by a written statement of the reasons for reaching that conclusion. If an action would result in such an alteration or such burdens, a public entity shall take any other action that would not result in such an alteration or such burdens but would nevertheless ensure that individuals with disabilities receive the benefits or services provided by the public entity to the maximum extent possible.
 
 ### § 35.205 Effect of noncompliance that has a minimal impact on access.
 
-**A public entity that is not in full compliance with the requirements of § 35.200(b) will be deemed to have met the requirements of § 35.200 in the limited circumstance in which the public entity can demonstrate that the noncompliance has such a minimal impact on access that it would not affect the ability of individuals with disabilities to use the public entity’s web content or mobile app to do any of the following in a manner that provides substantially equivalent timeliness, privacy, independence, and ease of use:**
+A public entity that is not in full compliance with the requirements of § 35.200(b) will be deemed to have met the requirements of § 35.200 in the limited circumstance in which the public entity can demonstrate that the noncompliance has such a minimal impact on access that it would not affect the ability of individuals with disabilities to use the public entity’s web content or mobile app to do any of the following in a manner that provides substantially equivalent timeliness, privacy, independence, and ease of use:
 
-**(a) Access the same information as individuals without disabilities;**
+(a) Access the same information as individuals without disabilities;
 
-**(b) Engage in the same interactions as individuals without disabilities;**
+(b) Engage in the same interactions as individuals without disabilities;
 
-**(c) Conduct the same transactions as individuals without disabilities; and**
+(c) Conduct the same transactions as individuals without disabilities; and
 
-**(d) Otherwise participate in or benefit from the same services, programs, and activities as individuals without disabilities.**
+(d) Otherwise participate in or benefit from the same services, programs, and activities as individuals without disabilities.
 
-### §§ 35.206-209 [Reserved]
+**&sect; 35.206-209 [Reserved]**
+
+## Subpart I— Accessible Medical Diagnostic Equipment
+
+### § 35.210 Requirements for medical diagnostic equipment.
+
+No qualified individual with a disability shall, on the basis of disability, be
+excluded from participation in or be denied the benefits of the health care
+services, programs, or activities of a public entity offered through or with the use
+of medical diagnostic equipment (“MDE”), or otherwise be subjected to
+discrimination by any public entity because the public entity’s MDE is not readily
+accessible to or usable by persons with disabilities.
+
+### § 35.211 Newly purchased, leased, or otherwise acquired medical diagnostic equipment.
+
+(a) *Requirements for all newly purchased, leased, or otherwise acquired medical
+diagnostic equipment.* All MDE that public entities purchase, lease (including via
+lease renewals), or otherwise acquire after October 8, 2024, shall, subject to the
+requirements and limitations set forth in this section, meet the Standards for
+Accessible MDE, unless and until the public entity satisfies the scoping
+requirements set forth in paragraph (b) of this section.<br>
+
+(b) *Scoping requirements*—
+(1) *General requirement for medical diagnostic equipment.* Where a service,
+program, or activity of a public entity, including physicians’ offices, clinics,
+emergency rooms, hospitals, outpatient facilities, and multi-use facilities, utilizes
+MDE, at least 10 percent of the total number of units, but no fewer than one unit,
+of each type of equipment in use must meet the Standards for Accessible MDE.<br>
+(2) *Facilities that specialize in treating conditions that affect mobility.* In
+rehabilitation facilities that specialize in treating conditions that affect mobility,
+outpatient physical therapy facilities, and other services, programs, or activities
+that specialize in treating conditions that affect mobility, at least 20 percent, but
+no fewer than one unit, of each type of equipment in use must meet the Standards for Accessible MDE.<br>
+(3) *Facilities with multiple departments.* In any facility or program with multiple
+departments, clinics, or specialties, where a service, program, or activity uses
+MDE, the facility shall disperse the accessible MDE required by paragraphs (b)(1)
+and (2) of this section in a manner that is proportionate by department, clinic, or
+specialty using MDE.
+
+(c) *Requirements for examination tables and weight scales.* Within two years
+after August 9, 2024, public entities shall, subject to the requirements and
+limitations set forth in this section, purchase, lease, or otherwise acquire the
+following, unless the entity already has them in place:
+
+(1) At least one examination table that meets the Standards for Accessible MDE, if
+the public entity uses at least one examination table; and<br>
+(2) At least one weight scale that meets the Standards for Accessible MDE, if the
+public entity uses at least one weight scale.<br>
+
+(d) *Equivalent facilitation.* Nothing in this section prevents the use of designs,
+products, or technologies as alternatives to those prescribed by the Standards
+for Accessible MDE, provided they result in substantially equivalent or greater
+accessibility and usability of the health care service, program, or activity. The
+responsibility for demonstrating equivalent facilitation rests with the public entity.<br>
+
+(e) *Fundamental alteration and undue burdens.* This section does not require a
+public entity to take any action that it can demonstrate would result in a
+fundamental alteration in the nature of a service, program, or activity, or in undue
+financial and administrative burdens. In those circumstances where personnel of
+the public entity believe that the proposed action would fundamentally alter the
+service, program, or activity or would result in undue financial and administrative
+burdens, a public entity has the burden of proving that compliance with
+paragraph (a) or (c) of this section would result in such alteration or burdens.
+The decision that compliance would result in such alteration or burdens must be
+made by the head of a public entity or their designee after considering all
+resources available for use in the funding and operation of the service, program,
+or activity, and must be accompanied by a written statement of the reasons for
+reaching that conclusion. If an action would result in such an alteration or such
+burdens, a public entity shall take any other action that would not result in such
+an alteration or such burdens but would nevertheless ensure that individuals with
+disabilities receive the benefits or services provided by the public entity.<br>
+
+(f) *Diagnostically required structural or operational characteristics.* A public
+entity meets its burden of proving that compliance with paragraph (a) or (c) of
+this section would result in a fundamental alteration under paragraph (e) of this
+section if it demonstrates that compliance with paragraph (a) or (c) of this section
+would alter diagnostically required structural or operational characteristics of the
+equipment and prevent the use of the equipment for its intended diagnostic
+purpose. This paragraph (f) does not excuse compliance with other technical
+requirements where compliance with those requirements does not prevent the
+use of the equipment for its diagnostic purpose.
+
+### § 35.212 Existing medical diagnostic equipment.
+
+(a) *Accessibility.* A public entity shall operate each service, program, or activity
+offered through or with the use of MDE so that the service, program, or activity, in
+its entirety, is readily accessible to and usable by individuals with disabilities.
+This paragraph (a) does not—
+
+(1) Necessarily require a public entity to make each of its existing pieces of MDE
+accessible to and usable by individuals with disabilities; or<br>
+(2) Require a public entity to take any action that it can demonstrate would result
+in a fundamental alteration in the nature of a service, program, or activity, or in
+undue financial and administrative burdens. In those circumstances where
+personnel of the public entity believe that the proposed action would
+fundamentally alter the service, program, or activity or would result in undue
+financial and administrative burdens, a public entity has the burden of proving
+that compliance with this paragraph (a) would result in such alteration or
+burdens. The decision that compliance would result in such alteration or
+burdens must be made by the head of a public entity or their designee after
+considering all resources available for use in the funding and operation of the
+service, program, or activity, and must be accompanied by a written statement of
+the reasons for reaching that conclusion. If an action would result in such an
+alteration or such burdens, a public entity shall take any other action that would
+not result in such an alteration or such burdens but would nevertheless ensure
+that individuals with disabilities receive the benefits or services, programs, and
+activities provided by the public entity.<br>
+(3) A public entity meets its burden of proving that compliance with this
+paragraph (a) would result in a fundamental alteration under paragraph (a)(2) of
+this section if it demonstrates that compliance with this paragraph (a) would alter
+diagnostically required structural or operational characteristics of the equipment
+and prevent the use of the equipment for its intended diagnostic purpose.<br>
+
+(b) *Methods.* A public entity may comply with the requirements of this section
+through such means as reassignment of services to alternate accessible
+locations; home visits; delivery of services at alternate accessible sites;
+purchase, lease, or other acquisition of accessible MDE; or any other methods
+that result in making its services, programs, or activities readily accessible to and
+usable by individuals with disabilities. A public entity is not required to
+purchase, lease, or otherwise acquire accessible MDE where other methods are
+effective in achieving compliance with this section. In choosing among available
+methods for meeting the requirements of this section, a public entity shall give
+priority to those methods that offer services, programs, and activities to qualified
+individuals with disabilities in the most integrated setting appropriate.
+
+### § 35.213 Qualified staff.
+
+Public entities must ensure their staff are able to successfully operate accessible
+MDE, assist with transfers and positioning of individuals with disabilities, and
+carry out the program access obligation regarding existing MDE.
+
+### §§ 35.214-219 [Reserved]
 
 ## Title II Regulations: 2010 Guidance and Section-by-Section Analysis
 
@@ -1709,16 +1848,16 @@ In the final rule, the Department has retained its position on the exclusion of 
 
 The Department's position is based on the fact that the title II and title III regulations govern a wider range of public settings than the housing and transportation settings for which the Department of Housing and Urban Development (HUD) and DOT regulations allow emotional support animals or comfort animals. The Department recognizes that there are situations not governed by the title II and title III regulations, particularly in the context of residential settings and transportation, where there may be a legal obligation to permit the use of animals that do not qualify as service animals under the ADA, but whose presence nonetheless provides necessary emotional support to persons with disabilities. Accordingly, other Federal agency regulations, case law, and possibly State or local laws governing those situations may provide appropriately for increased access for animals other than service animals as defined under the ADA. Public officials, housing providers, and others who make decisions relating to animals in residential and transportation settings should consult the Federal, State, and local laws that apply in those areas (*e.g.*, the FHAct regulations of HUD and the ACAA) and not rely on the ADA as a basis for reducing those obligations.
 
-_Retain term "service animal."_ Some commenters asserted that the term "assistance animal" is a term of art and should replace the term "service animal." However, the majority of commenters preferred the term "service animal" because it is more specific. The Department has decided to retain the term "service animal" in the final rule. While some agencies, like HUD, use the term "assistance animal," "assistive animal," or "support animal," these terms are used to denote a broader category of animals than is covered by the ADA. The Department has decided that changing the term used in the final rule would create confusion, particularly in view of the broader parameters for coverage under the FHAct, _cf._, preamble to HUD's Final Rule for Pet Ownership for the Elderly and Persons with Disabilities, 73 FR 63834–38 (Oct. 27, 2008); HUD Handbook No. 4350.3 Rev–1, _Chapter 2, Occupancy Requirements of Subsidized Multifamily Housing Programs_ (June 2007), available at _[http://www.hud.gov/offices/adm/hudclips/handbooks/hsgh/4350.3](http://www.hud.gov/offices/adm/hudclips/handbooks/hsgh/4350.3){: .word-break}_ (last visited June 24, 2010). Moreover, as discussed above, the Department's definition of "service animal" in the title II final rule does not affect the rights of individuals with disabilities who use assistance animals in their homes under the FHAct or who use "emotional support animals" that are covered under the ACAA and its implementing regulations. See 14 CFR 382.7 _et seq._; _see also Department of Transportation, Guidance Concerning Service Animals in Air Transportation_, 68 FR 24874, 24877 (May 9, 2003) (discussing accommodation of service animals and emotional support animals on aircraft).
+_Retain term "service animal."_ Some commenters asserted that the term "assistance animal" is a term of art and should replace the term "service animal." However, the majority of commenters preferred the term "service animal" because it is more specific. The Department has decided to retain the term "service animal" in the final rule. While some agencies, like HUD, use the term "assistance animal," "assistive animal," or "support animal," these terms are used to denote a broader category of animals than is covered by the ADA. The Department has decided that changing the term used in the final rule would create confusion, particularly in view of the broader parameters for coverage under the FHAct, _cf._, preamble to HUD's Final Rule for Pet Ownership for the Elderly and Persons with Disabilities, 73 FR 63834–38 (Oct. 27, 2008); HUD Handbook No. 4350.3 Rev–1, _Chapter 2, Occupancy Requirements of Subsidized Multifamily Housing Programs_ (June 2007), available at _[http://www.hud.gov/offices/adm/hudclips/handbooks/hsgh/4350.3](http://www.hud.gov/offices/adm/hudclips/handbooks/hsgh/4350.3){: .word-break}_ (last visited June 24, 2010). Moreover, as discussed above, the Department's definition of "service animal" in the title II final rule does not affect the rights of individuals with disabilities who use assistance animals in their homes under the FHAct or who use "emotional support animals" that are covered under the ACAA and its implementing regulations. _See_ 14 CFR 382.7 _et seq._; _see also Department of Transportation, Guidance Concerning Service Animals in Air Transportation_, 68 FR 24874, 24877 (May 9, 2003) (discussing accommodation of service animals and emotional support animals on aircraft).
 
 _"Video Remote Interpreting" (VRI) Services_
 
-In the NPRM, the Department proposed adding Video Interpreting Services (VIS) to the list of auxiliary aids available to provide effective communication described in &sect; 35.104. In the preamble to the NPRM, VIS was defined as "a technology composed of a video phone, video monitors, cameras, a high-speed Internet connection, and an interpreter. The video phone provides video transmission to a video monitor that permits the individual who is deaf or hard of hearing to view and sign to a video interpreter (i.e., a live interpreter in another location), who can See and sign to the individual through a camera located on or near the monitor, while others can communicate by speaking. The video monitor can display a split screen of two live images, with the interpreter in one image and the individual who is deaf or hard of hearing in the other image." 73 FR 34446, 34479 (June 17, 2008). Comments from advocacy organizations and individuals unanimously requested that the Department use the term "video remote interpreting (VRI)," instead of VIS, for consistency with Federal Communications Commission (FCC) regulations. _See FCC Public Notice, DA– 0502417_ (Sept. 7, 2005), and with common usage by consumers. The Department has made that change throughout the regulation to avoid confusion and to make the regulation more consistent with existing regulations.
-Many commenters also requested that the Department distinguish between VRI and "video relay service (VRS)." Both VRI and VRS use a remote interpreter who is able to See and communicate with a deaf person and a hearing person, and all three individuals may be connected by a video link. VRI is a fee-based interpreting service conveyed via videoconferencing where at least one person, typically the interpreter, is at a separate location. VRI can be provided as an on-demand service or by appointment. VRI normally involves a contract in advance for the interpreter who is usually paid by the covered entity.
+In the NPRM, the Department proposed adding Video Interpreting Services (VIS) to the list of auxiliary aids available to provide effective communication described in &sect; 35.104. In the preamble to the NPRM, VIS was defined as "a technology composed of a video phone, video monitors, cameras, a high-speed Internet connection, and an interpreter. The video phone provides video transmission to a video monitor that permits the individual who is deaf or hard of hearing to view and sign to a video interpreter (i.e., a live interpreter in another location), who can see and sign to the individual through a camera located on or near the monitor, while others can communicate by speaking. The video monitor can display a split screen of two live images, with the interpreter in one image and the individual who is deaf or hard of hearing in the other image." 73 FR 34446, 34479 (June 17, 2008). Comments from advocacy organizations and individuals unanimously requested that the Department use the term "video remote interpreting (VRI)," instead of VIS, for consistency with Federal Communications Commission (FCC) regulations. _See FCC Public Notice, DA– 0502417_ (Sept. 7, 2005), and with common usage by consumers. The Department has made that change throughout the regulation to avoid confusion and to make the regulation more consistent with existing regulations.
+Many commenters also requested that the Department distinguish between VRI and "video relay service (VRS)." Both VRI and VRS use a remote interpreter who is able to see and communicate with a deaf person and a hearing person, and all three individuals may be connected by a video link. VRI is a fee-based interpreting service conveyed via videoconferencing where at least one person, typically the interpreter, is at a separate location. VRI can be provided as an on-demand service or by appointment. VRI normally involves a contract in advance for the interpreter who is usually paid by the covered entity.
 
 VRS is a telephone service that enables persons with disabilities to use the telephone to communicate using video connections and is a more advanced form of relay service than the traditional voice to text telephones (TTY) relay systems that were recognized in the 1991 title II regulation. More specifically, VRS is a video relay service using interpreters connected to callers by video hook-up and is designed to provide telephone services to persons who are deaf and use American Sign Language that are functionally equivalent to those provided to users who are hearing. VRS is funded through the Interstate Telecommunications Relay Services Fund and overseen by the FCC. _See_ 47 CFR 64.601(a)(26). There are no fees for callers to use the VRS interpreters and the video connection, although there may be relatively inexpensive initial costs to the title II entities to purchase the videophone or camera for on-line video connection, or other equipment to connect to the VRS service. The FCC has made clear that VRS functions as a telephone service and is not intended to be used for interpreting services where both parties are in the same room; the latter is reserved for VRI. The Department agrees that VRS cannot be used as a substitute for in-person interpreters or for VRI in situations that would not, absent one party's disability, entail use of the telephone.
 
-Many commenters strongly recommended limiting the use of VRI to circumstances where it will provide effective communication. Commenters from advocacy groups and persons with disabilities expressed concern that VRI may not always be appropriate to provide effective communication, especially in hospitals and emergency rooms. Examples were provided of patients who are unable to See the video monitor because they are semi-conscious or unable to focus on the video screen; other examples were given of cases where the video monitor is out of the sightline of the patient or the image is out of focus; still other examples were given of patients who could not See the image because the signal was interrupted, causing unnatural pauses in the communication, or the image was grainy or otherwise unclear. Many commenters requested more explicit guidelines on the use of VRI, and some recommended requirements for equipment maintenance, high-speed, wide-bandwidth video links using dedicated lines or wireless systems, and training of staff using VRI, especially in hospital and health care situations. Several major organizations requested a requirement to include the interpreter's face, head, arms, hands, and eyes in all transmissions. Finally, one State agency asked for additional guidance, outreach, and mandated advertising about the availability of VRI in title II situations so that local government entities would budget for and facilitate the use of VRI in libraries, schools, and other places.
+Many commenters strongly recommended limiting the use of VRI to circumstances where it will provide effective communication. Commenters from advocacy groups and persons with disabilities expressed concern that VRI may not always be appropriate to provide effective communication, especially in hospitals and emergency rooms. Examples were provided of patients who are unable to See the video monitor because they are semi-conscious or unable to focus on the video screen; other examples were given of cases where the video monitor is out of the sightline of the patient or the image is out of focus; still other examples were given of patients who could not see the image because the signal was interrupted, causing unnatural pauses in the communication, or the image was grainy or otherwise unclear. Many commenters requested more explicit guidelines on the use of VRI, and some recommended requirements for equipment maintenance, high-speed, wide-bandwidth video links using dedicated lines or wireless systems, and training of staff using VRI, especially in hospital and health care situations. Several major organizations requested a requirement to include the interpreter's face, head, arms, hands, and eyes in all transmissions. Finally, one State agency asked for additional guidance, outreach, and mandated advertising about the availability of VRI in title II situations so that local government entities would budget for and facilitate the use of VRI in libraries, schools, and other places.
 
 After consideration of the comments and the Department's own research and experience, the Department has determined that VRI can be an effective method of providing interpreting services in certain circumstances, but not in others. For example, VRI should be effective in many situations involving routine medical care, as well as in the emergency room where urgent care is important, but no in-person interpreter is available; however, VRI may not be effective in situations involving surgery or other medical procedures where the patient is limited in his or her ability to see the video screen. Similarly, VRI may not be effective in situations where there are multiple people in a room and the information exchanged is highly complex and fast-paced. The Department recognizes that in these and other situations, such as where communication is needed for persons who are deaf-blind, it may be necessary to summon an in-person interpreter to assist certain individuals. To ensure that VRI is effective in situations where it is appropriate, the Department has established performance standards in &sect; 35.160(d).
 
@@ -1730,7 +1869,7 @@ Section 36.301(b) of the 1991 title III regulation provides that a public accomm
 
 ### Section 35.133 Maintenance of accessible features.
 
-Section 35.133 in the 1991 title II regulation provides that a public entity must maintain in operable working condition those features of facilities and equipment that are required to be readily accessible to and usable by qualified individuals with disabilities. See 28 CFR 35.133(a). In the NPRM, the Department clarified the application of this provision and proposed one change to the section to address the discrete situation in which the scoping requirements provided in the 2010 Standards reduce the number of required elements below the requirements of the 1991 Standards. In that discrete event, a public entity may reduce such accessible features in accordance with the requirements in the 2010 Standards.
+Section 35.133 in the 1991 title II regulation provides that a public entity must maintain in operable working condition those features of facilities and equipment that are required to be readily accessible to and usable by qualified individuals with disabilities. _See_ 28 CFR 35.133(a). In the NPRM, the Department clarified the application of this provision and proposed one change to the section to address the discrete situation in which the scoping requirements provided in the 2010 Standards reduce the number of required elements below the requirements of the 1991 Standards. In that discrete event, a public entity may reduce such accessible features in accordance with the requirements in the 2010 Standards.
 
 The Department received only four comments on this proposed amendment. None of the commenters opposed the change. In the final rule, the Department has revised the section to make it clear that if the 2010 Standards reduce either the technical requirements or the number of required accessible elements below that required by the 1991 Standards, then the public entity may reduce the technical requirements or the number of accessible elements in a covered facility in accordance with the requirements of the 2010 Standards.
 
@@ -1754,7 +1893,7 @@ The NPRM also proposed at &sect; 35.136(b)(3) that a service animal can be exclu
 
 _Access to a public entity following the proper exclusion of a service animal._ The NPRM proposed that in the event a public entity properly excludes a service animal, the public entity must give the individual with a disability the opportunity to access the programs, services, and facilities of the public entity without the service animal. Most commenters welcomed this provision as a common sense approach. These commenters noted that they do not wish to preclude individuals with disabilities from the full and equal enjoyment of the State or local government's programs, services, or facilities, simply because of an isolated problem with a service animal. The Department has elected to retain this provision in &sect; 35.136(a).
 
-_Other requirements._ The NPRM also proposed that the regulation include the following requirements: that the work or tasks performed by the service animal must be directly related to the handler's disability; that a service animal must be individually trained to do work or perform a task, be housebroken, and be under the control of the handler; and that a service animal must have a harness, leash, or other tether. Most commenters addressed at least one of these issues in their responses. Most agreed that these provisions are important to clarify further the 1991 service animal regulation. The Department has moved the requirement that the work or tasks performed by the service animal must be related directly to the individual's disability to the definition of "service animal" in &sect; 35.104. In addition, the Department has modified the proposed language in &sect; 35.136(d) relating to the handler's control of the animal with a harness, leash, or other tether to state that "[a] service animal shall have a harness, leash, or other tether, unless either the handler is unable because of a disability to use a harness, leash, or other tether, or the use of a harness, leash, or other tether would interfere with the service animal's safe, effective performance of work or tasks, in which case the service animal must be otherwise under the handler's control (*e.g.*_*, voice control, signals, or other effective means)." The Department has retained the requirement that the service animal must be individually trained (see Appendix A discussion of &sect; 35.104, definition of "service animal"), as well as the requirement that the service animal be housebroken.
+_Other requirements._ The NPRM also proposed that the regulation include the following requirements: that the work or tasks performed by the service animal must be directly related to the handler's disability; that a service animal must be individually trained to do work or perform a task, be housebroken, and be under the control of the handler; and that a service animal must have a harness, leash, or other tether. Most commenters addressed at least one of these issues in their responses. Most agreed that these provisions are important to clarify further the 1991 service animal regulation. The Department has moved the requirement that the work or tasks performed by the service animal must be related directly to the individual's disability to the definition of "service animal" in &sect; 35.104. In addition, the Department has modified the proposed language in &sect; 35.136(d) relating to the handler's control of the animal with a harness, leash, or other tether to state that "[a] service animal shall have a harness, leash, or other tether, unless either the handler is unable because of a disability to use a harness, leash, or other tether, or the use of a harness, leash, or other tether would interfere with the service animal's safe, effective performance of work or tasks, in which case the service animal must be otherwise under the handler's control (*e.g.*_*, voice control, signals, or other effective means)." The Department has retained the requirement that the service animal must be individually trained (*see* Appendix A discussion of &sect; 35.104, definition of "service animal"), as well as the requirement that the service animal be housebroken.
 
 _Responsibility for supervision and care of a service animal._ The NPRM proposed language at &sect; 35.136(e) stating that "[a] public entity is not responsible for caring for or supervising a service animal." 73 FR 34466, 34504 (June 17, 2008). Most commenters did not address this particular provision. The Department recognizes that there are occasions when a person with a disability is confined to bed in a hospital for a period of time. In such an instance, the individual may not be able to walk or feed the service animal. In such cases, if the individual has a family member, friend, or other person willing to take on these responsibilities in the place of the individual with disabilities, the individual's obligation to be responsible for the care and supervision of the service animal would be satisfied. The language of this section is retained, with minor modifications, in &sect; 35.136(e) of the final rule.
 
@@ -1802,7 +1941,7 @@ Most commenters supported the notion of assessing whether the use of a particula
 
 A few commenters opposed the proposed provision requiring public entities to assess whether reasonable modifications can be made to allow other power-driven mobility devices, preferring instead that the Department issue guidance materials so that public entities would not have to incur the cost of such analyses. Another commenter noted a "fox guarding the hen house"-type of concern with regard to public entities developing and enforcing their own modification policy.
 
-In response to comments received, the Department has revised &sect; 35.137(b) to provide greater clarity regarding the development of legitimate safety requirements regarding other power-driven mobility devices and has added a new &sect; 35.130(h) (Safety) to the title II regulation which specifically permits public entities to impose legitimate safety requirements necessary for the safe operation of their services, programs, and activities. (See discussion below.) The Department has not retained the proposed NPRM language stating that an other power-driven mobility device can be excluded if a public entity can demonstrate that its use is unreasonable or will result in a fundamental alteration of the entity's service, program, or activity, because the Department believes that this exception is covered by the general reasonable modification requirement contained in &sect; 35.130(b)(7).
+In response to comments received, the Department has revised &sect; 35.137(b) to provide greater clarity regarding the development of legitimate safety requirements regarding other power-driven mobility devices and has added a new &sect; 35.130(h) (Safety) to the title II regulation which specifically permits public entities to impose legitimate safety requirements necessary for the safe operation of their services, programs, and activities. (_See_ discussion below.) The Department has not retained the proposed NPRM language stating that an other power-driven mobility device can be excluded if a public entity can demonstrate that its use is unreasonable or will result in a fundamental alteration of the entity's service, program, or activity, because the Department believes that this exception is covered by the general reasonable modification requirement contained in &sect; 35.130(b)(7).
 
 _Assessment factors._ Section 35.137(c) of the NPRM required public entities to "establish policies to permit the use of other power-driven mobility devices" and articulated four factors upon which public entities must base decisions as to whether a modification is reasonable to allow the use of a class of other power-driven mobility devices by individuals with disabilities in specific venues (*e.g.*, parks, courthouses, office buildings, etc.). 73 FR 34466, 34504 (June 17, 2008).
 
@@ -1966,7 +2105,7 @@ In Appendix A of the Department's 1991 title II regulation, the Department inclu
 
 ### Section 35.150(b)(2) Safe harbor
 
-The "program accessibility" requirement in regulations implementing title II of the Americans with Disabilities Act requires that each service, program, or activity, when viewed in its entirety, be readily accessible to and usable by individuals with disabilities. 28 CFR 35.150(a). Because title II evaluates a public entity's programs, services, and activities in their entirety, public entities have flexibility in addressing accessibility issues. Program access does not necessarily require a public entity to make each of its existing facilities accessible to and usable by individuals with disabilities, and public entities are not required to make structural changes to existing facilities where other methods are effective in achieving program access. See id. {% fn 3 %} Public entities do, however, have program access considerations that are independent of, but may coexist with, requirements imposed by new construction or alteration requirements in those same facilities.
+The "program accessibility" requirement in regulations implementing title II of the Americans with Disabilities Act requires that each service, program, or activity, when viewed in its entirety, be readily accessible to and usable by individuals with disabilities. 28 CFR 35.150(a). Because title II evaluates a public entity's programs, services, and activities in their entirety, public entities have flexibility in addressing accessibility issues. Program access does not necessarily require a public entity to make each of its existing facilities accessible to and usable by individuals with disabilities, and public entities are not required to make structural changes to existing facilities where other methods are effective in achieving program access. _See_ id. {% fn 3 %} Public entities do, however, have program access considerations that are independent of, but may coexist with, requirements imposed by new construction or alteration requirements in those same facilities.
 
 Where a public entity opts to alter existing facilities to comply with its program access requirements, the entity must meet the accessibility requirements for alterations set out in &sect; 35.151. Under the final rule, these alterations will be subject to the 2010 Standards. The 2010 Standards introduce technical and scoping specifications for many elements not covered by the 1991 Standards. In existing facilities, these supplemental requirements need to be taken into account by a public entity in ensuring program access. Also included in the 2010 Standards are revised technical and scoping requirements for a number of elements that were addressed in the 1991 Standards. These revised requirements reflect incremental changes that were added either because of additional study by the Access Board or in order to harmonize requirements with the model codes.
 
@@ -2060,7 +2199,7 @@ Section 35.151(a), which provided that those facilities that are constructed or 
 
 ### Section 35.151(b) Alterations
 
-The 1991 title II regulation does not contain any specific regulatory language comparable to the 1991 title III regulation relating to alterations and path of travel for covered entities, although the 1991 Standards describe standards for path of travel during alterations to a primary function. See 28 CFR part 36, app A., section 4.1.6(a) (2009).
+The 1991 title II regulation does not contain any specific regulatory language comparable to the 1991 title III regulation relating to alterations and path of travel for covered entities, although the 1991 Standards describe standards for path of travel during alterations to a primary function. _See_ 28 CFR part 36, app A., section 4.1.6(a) (2009).
 
 The path of travel requirements contained in the title III regulation are based on section 303(a)(2) of the ADA, 42 U.S.C. 12183(a)(2), which provides that when an entity undertakes an alteration to a place of public accommodation or commercial facility that affects or could affect the usability of or access to an area that contains a primary function, the entity shall ensure that, to the maximum extent feasible, the path of travel to the altered area—and the restrooms, telephones, and drinking fountains serving it—is readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs.
 
@@ -2078,7 +2217,7 @@ The Department's proposed &sect; 35.151(b)(4) adopted the language now contained
 
 The Department received a substantial number of comments objecting to the Department's adoption of the exemption for the path of travel requirements when alterations are undertaken solely to meet program accessibility requirements. These commenters argued that the Department had no statutory basis for providing this exemption nor does it serve any purpose. In addition, these commenters argued that the path of travel exemption has the effect of placing new limitations on the obligations to provide program access. A number of commenters argued that doing away with the path of travel requirement would render meaningless the concept of program access. They argued that just as the requirement to provide an accessible path of travel to an altered area (regardless of the reason for the alteration), including making the restrooms, telephones, and drinking fountains that serve the altered area accessible, is a necessary requirement in other alterations, it is equally necessary for alterations made to provide program access. Several commenters expressed concern that a readily accessible path of travel be available to ensure that persons with disabilities can get to the physical location in which programs are held. Otherwise, they will not be able to access the public entity's service, program, or activity. Such access is a cornerstone of the protections provided by the ADA. Another commenter argued that it would be a waste of money to create an accessible facility without having a way to get to the primary area. This commenter also stated that the International Building Code (IBC) requires the path of travel to a primary function area, up to 20 percent of the cost of the project. Another commenter opposed the exemption, stating that the trigger of an alteration is frequently the only time that a facility must update its facilities to comply with evolving accessibility standards.
 
-In the Department's view, the commenters objecting to the path of travel exemption contained in &sect; 35.151(b)(2) did not understand the intention behind the exemption. The exemption was not intended to eliminate any existing requirements related to accessibility for alterations undertaken in order to meet program access obligations under &sect; 35.149 and &sect; 35.150. Rather, it was intended to ensure that covered entities did not apply the path of travel requirements in lieu of the overarching requirements in this Subpart that apply when making a facility accessible in order to comply with program accessibility. The exemption was also intended to make it clear that the disproportionality test contained in the path of travel standards is not applicable in determining whether providing program access results in an undue financial and administration burden within the meaning of &sect; 35.150(a)(3). The exemption was also provided to maintain consistency with the title III path of travel exemption for barrier removal, _See_ &sect; 36.304(d), in keeping with the Department's regulatory authority under title II of the ADA. _See_ 42 U.S.C. 12134(b); See also H. R Rep. No. 101B485, pt. 2, at 84 (1990) ("The committee intends, however, that the forms of discrimination prohibited by section 202 be identical to those set out in the applicable provisions of titles I and III of this legislation.").
+In the Department's view, the commenters objecting to the path of travel exemption contained in &sect; 35.151(b)(2) did not understand the intention behind the exemption. The exemption was not intended to eliminate any existing requirements related to accessibility for alterations undertaken in order to meet program access obligations under &sect; 35.149 and &sect; 35.150. Rather, it was intended to ensure that covered entities did not apply the path of travel requirements in lieu of the overarching requirements in this Subpart that apply when making a facility accessible in order to comply with program accessibility. The exemption was also intended to make it clear that the disproportionality test contained in the path of travel standards is not applicable in determining whether providing program access results in an undue financial and administration burden within the meaning of &sect; 35.150(a)(3). The exemption was also provided to maintain consistency with the title III path of travel exemption for barrier removal, _See_ &sect; 36.304(d), in keeping with the Department's regulatory authority under title II of the ADA. _See_ 42 U.S.C. 12134(b); _See_ also H. R Rep. No. 101B485, pt. 2, at 84 (1990) ("The committee intends, however, that the forms of discrimination prohibited by section 202 be identical to those set out in the applicable provisions of titles I and III of this legislation.").
 
 For title II entities, the path of travel requirements are of significance in those cases where an alteration is being made solely for reasons other than program accessibility. For example, a public entity might have six courtrooms in two existing buildings and might determine that only three of those courtrooms and the public use and common use areas serving those courtrooms in one building are needed to be made accessible in order to satisfy its program access obligations. When the public entity makes those courtrooms and the public use and common use areas serving them accessible in order to meet its program access obligations, it will have to comply with the 2010 Standards unless the public entity can demonstrate that full compliance would result in undue financial and administrative burdens as described in &sect; 35.150(a)(3). If such action would result in an undue financial or administrative burden, the public entity would nevertheless be required to take some other action that would not result in such an alteration or such burdens but would ensure that the benefits and services provided by the public entity are readily accessible to persons with disabilities. When the public entity is making modifications to meet its program access obligation, it may not rely on the path of travel exception under &sect; 35.151(b)(4), which limits the requirement to those alterations where the cost and scope of the alterations are not disproportionate to the cost and scope of the overall alterations. If the public entity later decides to alter courtrooms in the other building, for purposes of updating the facility (and, as previously stated, has met its program access obligations) then in that case, the public entity would have to comply with the path of travel requirements in the 2010 Standards subject to the disproportionality exception set forth in &sect; 35.151(b)(4).
 
@@ -2106,7 +2245,7 @@ The final rule renumbers the requirements for alterations to historic facilities
 
 Section 35.151(c) of the NPRM proposed to adopt ADA Chapter 1, ADA Chapter 2, and Chapters 3 through 10 of the Americans with Disabilities Act and Architectural Barriers Act Guidelines (2004 ADAAG) into the ADA Standards for Accessible Design (2010 Standards). As the Department has noted, the development of these standards represents the culmination of a lengthy effort by the Access Board to update its guidelines, to make the Federal guidelines consistent to the extent permitted by law, and to harmonize the Federal requirements with the private sector model codes that form the basis of many State and local building code requirements. The full text of the 2010 Standards is available for public review on the ADA Home Page *([https://www.ada.gov]({{ '/' | relative_url }})* and on the Access Board's Web site _([http://www.access-board.gov/gs.htm](http://www.access-board.gov/gs.htm))_ (last visited June 24, 2010). The Access Board site also includes an extensive discussion of the development of the 2004 ADA/ABA Guidelines, and a detailed comparison of the 1991 Standards, the 2004 ADA/ABA Guidelines, and the 2003 International Building Code.
 
-Section 204 of the ADA, 42 U.S.C. 12134, directs the Attorney General to issue regulations to implement title II that are consistent with the minimum guidelines published by the Access Board. The Attorney General (or his designee) is a statutory member of the Access Board (see 29 U.S.C. 792(a)(1)(B(vii)) and was involved in the development of the 2004 ADAAG. Nevertheless, during the process of drafting the NPRM, the Department reviewed the 2004 ADAAG to determine if additional regulatory provisions were necessary. As a result of this review, the Department decided to propose new sections, which were contained in &sect; 35.151(e)–(h) of the NPRM, to clarify how the Department will apply the proposed standards to social service center establishments, housing at places of education, assembly areas, and medical care facilities. Each of these provisions is discussed below.
+Section 204 of the ADA, 42 U.S.C. 12134, directs the Attorney General to issue regulations to implement title II that are consistent with the minimum guidelines published by the Access Board. The Attorney General (or his designee) is a statutory member of the Access Board (*see* 29 U.S.C. 792(a)(1)(B(vii)) and was involved in the development of the 2004 ADAAG. Nevertheless, during the process of drafting the NPRM, the Department reviewed the 2004 ADAAG to determine if additional regulatory provisions were necessary. As a result of this review, the Department decided to propose new sections, which were contained in &sect; 35.151(e)–(h) of the NPRM, to clarify how the Department will apply the proposed standards to social service center establishments, housing at places of education, assembly areas, and medical care facilities. Each of these provisions is discussed below.
 
 Congress anticipated that there would be a need for close coordination of the ADA building requirements with State and local building code requirements. Therefore, the ADA authorized the Attorney General to establish an ADA code certification process under title III of the ADA. That process is addressed in 28 CFR part 36, subpart F. Revisions to that process are addressed in the regulation amending the title III regulation published elsewhere in the **Federal Register** today. In addition, the Department operates an extensive technical assistance program. The Department anticipates that once this rule is final, revised technical assistance material will be issued to provide guidance about its implementation.
 
@@ -2168,7 +2307,7 @@ The Department continues to be concerned about alleviating the challenges for so
 
 The Department also notes that while dwelling units at some social service center establishments are also subject to the Fair Housing Act (FHAct) design and construction requirements that require certain features of adaptable and accessible design, FHAct units do not provide the same level of accessibility that is required for residential facilities under the 2010 Standards. The FHAct requirements, where also applicable, should not be considered a substitute for the 2010 Standards. Rather, the 2010 Standards must be followed in addition to the FHAct requirements.
 
-The Department also notes that whereas the NPRM used the term "social service establishment," the final rule uses the term "social service center establishment." The Department has made this editorial change so that the final rule is consistent with the terminology used in the ADA. See 42 U.S.C. 12181(7)(k).
+The Department also notes that whereas the NPRM used the term "social service establishment," the final rule uses the term "social service center establishment." The Department has made this editorial change so that the final rule is consistent with the terminology used in the ADA. _See_ 42 U.S.C. 12181(7)(k).
 
 ### Section 35.151(f) Housing at a place of education
 
@@ -2214,7 +2353,7 @@ The Department has been responsive to assembly areas' concerns about reduced rev
 
 For stadium-style movie theaters, in &sect; 35.151(g)(4) of the NPRM the Department proposed requiring placement of wheelchair seating spaces and companion seats on a riser or cross-aisle in the stadium section of the theater and placement of such seating so that it satisfies at least one of the following criteria: (1) It is located within the rear 60 percent of the seats provided in the auditorium; or (2) it is located within the area of the auditorium where the vertical viewing angles are between the 40th to 100th percentile of vertical viewing angles for all seats in that theater as ranked from the first row (1st percentile) to the back row (100th percentile). The vertical viewing angle is the angle between a horizontal line perpendicular to the seated viewer's eye to the screen and a line from the seated viewer's eye to the top of the screen.
 
-The Department proposed this bright-line rule for two reasons: (1) The movie theater industry petitioned for such a rule; and (2) the Department has acquired expertise on the design of stadium style theaters from litigation against several major movie theater chains. _See U.S. v. AMC Entertainment_, 232 F. Supp. 2d 1092 (C.D. Ca. 2002), rev'd in part, 549 F. 3d 760 (9th Cir. 2008); _U.S. v. Cinemark USA, Inc._, 348 F. 3d 569 (6th Cir. 2003), _cert. denied_, 542 U.S. 937 (2004). Two industry commenters—at least one of whom otherwise supported this rule—requested that the Department explicitly state that this rule does not apply retroactively to existing theaters. Although this rule on its face applies to new construction and alterations, these commenters were concerned that the rule could be interpreted to apply retroactively because of the Department's statement in the ANPRM that this bright-line rule, although newly-articulated, does not represent a "substantive change from the existing line-of-sight requirements" of section 4.33.3 of the 1991 Standards. See 69 FR 58768, 58776 (Sept. 30, 2004).
+The Department proposed this bright-line rule for two reasons: (1) The movie theater industry petitioned for such a rule; and (2) the Department has acquired expertise on the design of stadium style theaters from litigation against several major movie theater chains. _See U.S. v. AMC Entertainment_, 232 F. Supp. 2d 1092 (C.D. Ca. 2002), rev'd in part, 549 F. 3d 760 (9th Cir. 2008); _U.S. v. Cinemark USA, Inc._, 348 F. 3d 569 (6th Cir. 2003), _cert. denied_, 542 U.S. 937 (2004). Two industry commenters—at least one of whom otherwise supported this rule—requested that the Department explicitly state that this rule does not apply retroactively to existing theaters. Although this rule on its face applies to new construction and alterations, these commenters were concerned that the rule could be interpreted to apply retroactively because of the Department's statement in the ANPRM that this bright-line rule, although newly-articulated, does not represent a "substantive change from the existing line-of-sight requirements" of section 4.33.3 of the 1991 Standards. _See_ 69 FR 58768, 58776 (Sept. 30, 2004).
 
 Although the Department intends for &sect; 35.151(g)(4) of this rule to apply prospectively to new construction and alterations, this rule is not a departure from, and is consistent with, the line-of-sight requirements in the 1991 Standards. The Department has always interpreted the line-of-sight requirements in the 1991 Standards to require viewing angles provided to patrons who use wheelchairs to be comparable to those afforded to other spectators. Section 35.151(g)(4) merely represents the application of these requirements to stadium-style movie theaters.
 
@@ -2308,7 +2447,7 @@ _Facilities operated through contractual, licensing, or other arrangements with 
 
 Also, through its experience in investigations and compliance reviews, the Department has noted that public entities contract for a number of services to be run by private or other public entities, for example, medical and mental health services, food services, laundry, prison industries, vocational programs, and drug treatment and substance abuse programs, all of which must be operated in accordance with title II requirements.
 
-Proposed &sect; 35.152(a) in the NPRM was designed to make it clear that title II applies to all State and local detention and correctional facilities, regardless of whether the detention or correctional facility is directly operated by the public entity or operated by a private entity through a contractual, licensing, or other arrangement. Commenters specifically supported the language of this section. One commenter cited Department of Justice statistics stating that of the approximately 1.6 million inmates in State and Federal facilities in December 2006, approximately 114,000 of these inmates were held in private prison facilities. _See William J. Sabol et al., Prisoners in 2006_, Bureau of Justice Statistics Bulletin, Dec. 2007, at 1, 4, available at _[http://bjs.ojp.usdoj.gov/index.cfm?ty=pbdetail&amp;iid=908](http://bjs.ojp.usdoj.gov/index.cfm?ty=pbdetail&amp;iid=908){: .word-break}_. Some commenters wanted the text "through contracts or other arrangements" changed to read "through contracts or any other arrangements" to make the intent clear. However, a large number of commenters recommended that the text of the rule make explicit that it applies to correctional facilities operated by private contractors. Many commenters also suggested that the text make clear that the rule applies to adult facilities, juvenile justice facilities, and community correctional facilities. In the final rule, the Department is adopting these latter two suggestions in order to make the section's intent explicit.
+Proposed &sect; 35.152(a) in the NPRM was designed to make it clear that title II applies to all State and local detention and correctional facilities, regardless of whether the detention or correctional facility is directly operated by the public entity or operated by a private entity through a contractual, licensing, or other arrangement. Commenters specifically supported the language of this section. One commenter cited Department of Justice statistics stating that of the approximately 1.6 million inmates in State and Federal facilities in December 2006, approximately 114,000 of these inmates were held in private prison facilities. _See_ William J. Sabol et al., Prisoners in 2006, Bureau of Justice Statistics Bulletin, Dec. 2007, at 1, 4, available at _[http://bjs.ojp.usdoj.gov/index.cfm?ty=pbdetail&amp;iid=908](http://bjs.ojp.usdoj.gov/index.cfm?ty=pbdetail&amp;iid=908){: .word-break}_. Some commenters wanted the text "through contracts or other arrangements" changed to read "through contracts or any other arrangements" to make the intent clear. However, a large number of commenters recommended that the text of the rule make explicit that it applies to correctional facilities operated by private contractors. Many commenters also suggested that the text make clear that the rule applies to adult facilities, juvenile justice facilities, and community correctional facilities. In the final rule, the Department is adopting these latter two suggestions in order to make the section's intent explicit.
 
 Section 35.152(a) of the final rule states specifically that the requirements of the section apply to public entities responsible for the operation or management of correctional facilities, "either directly or through contractual, licensing, or other arrangements with public or private entities, in whole or in part, including private correctional facilities." Additionally, the section explicitly provides that it applies to adult and juvenile justice detention and correctional facilities and community correctional facilities.
 
@@ -2384,13 +2523,13 @@ As set out in the final rule, &sect; 35.160(b)(2) states, in pertinent part, tha
 
 The second sentence of &sect; 35.160(b)(2) of the final rule restores the "primary consideration" obligation set out at &sect; 35.160(b)(2) in the 1991 title II regulation. This provision was inadvertently omitted from the NPRM, and the Department agrees with the many commenters on this issue that this provision should be retained. As noted in the preamble to the 1991 title II regulation, and reaffirmed here: "The public entity shall honor the choice [of the individual with a disability] unless it can demonstrate that another effective means of communication exists or that use of the means chosen would not be required under &sect; 35.164. Deference to the request of the individual with a disability is desirable because of the range of disabilities, the variety of auxiliary aids and services, and different circumstances requiring effective communication." 28 CFR part 35, app. A at 580 (2009).
 
-The first sentence in &sect; 35.160(b)(2) codifies the axiom that the type of auxiliary aid or service necessary to ensure effective communication will vary with the situation, and provides factors for consideration in making the determination, including the method of communication used by the individual; the nature, length, and complexity of the communication involved; and the context in which the communication is taking place. Inclusion of this language under title II is consistent with longstanding policy in this area. _See, e.g., The Americans with Disabilities Act Title II Technical Assistance Manual Covering State and Local Government Programs and Services_, section II–7.1000, available at _[https://archive.ada.gov/taman2.html](https://archive.ada.gov/taman2.html){: .word-break}_ ("The type of auxiliary aid or service necessary to ensure effective communication will vary in accordance with the length and complexity of the communication involved. \* \* \* Sign language or oral interpreters, for example, may be required when the information being communicated in a transaction with a deaf individual is complex, or is exchanged for a lengthy period of time. Factors to be considered in determining whether an interpreter is required include the context in which the communication is taking place, the number of people involved, and the importance of the communication."); _See_ also 28 CFR part 35, app. A at 580 (2009). As explained in the NPRM, an individual who is deaf or hard of hearing may need a qualified interpreter to communicate with municipal hospital personnel about diagnoses, procedures, tests, treatment options, surgery, or prescribed medication (*e.g.*, dosage, side effects, drug interactions, etc.), or to explain follow-up treatments, therapies, test results, or recovery. In comparison, in a simpler, shorter interaction, the method to achieve effective communication can be more basic. An individual who is seeking local tax forms may only need an exchange of written notes to achieve effective communication.
+The first sentence in &sect; 35.160(b)(2) codifies the axiom that the type of auxiliary aid or service necessary to ensure effective communication will vary with the situation, and provides factors for consideration in making the determination, including the method of communication used by the individual; the nature, length, and complexity of the communication involved; and the context in which the communication is taking place. Inclusion of this language under title II is consistent with longstanding policy in this area. _See, e.g._, The Americans with Disabilities Act Title II Technical Assistance Manual Covering State and Local Government Programs and Services, section II–7.1000, available at _[https://archive.ada.gov/taman2.html](https://archive.ada.gov/taman2.html){: .word-break}_ ("The type of auxiliary aid or service necessary to ensure effective communication will vary in accordance with the length and complexity of the communication involved. \* \* \* Sign language or oral interpreters, for example, may be required when the information being communicated in a transaction with a deaf individual is complex, or is exchanged for a lengthy period of time. Factors to be considered in determining whether an interpreter is required include the context in which the communication is taking place, the number of people involved, and the importance of the communication."); _See_ also 28 CFR part 35, app. A at 580 (2009). As explained in the NPRM, an individual who is deaf or hard of hearing may need a qualified interpreter to communicate with municipal hospital personnel about diagnoses, procedures, tests, treatment options, surgery, or prescribed medication (*e.g.*, dosage, side effects, drug interactions, etc.), or to explain follow-up treatments, therapies, test results, or recovery. In comparison, in a simpler, shorter interaction, the method to achieve effective communication can be more basic. An individual who is seeking local tax forms may only need an exchange of written notes to achieve effective communication.
 
 Section 35.160(c)(1) has been added to the final rule to make clear that a public entity shall not require an individual with a disability to bring another individual to interpret for him or her. The Department receives many complaints from individuals who are deaf or hard of hearing alleging that public entities expect them to provide their own sign language interpreters. Proposed &sect; 35.160(c)(1) was intended to clarify that when a public entity is interacting with a person with a disability, it is the public entity's responsibility to provide an interpreter to ensure effective communication. It is not appropriate to require the person with a disability to bring another individual to provide such services.
 
 Section 35.160(c)(2) of the NPRM proposed codifying the Department's position that there are certain limited instances when a public entity may rely on an accompanying individual to interpret or facilitate communication: (1) In an emergency involving a threat to the public safety or welfare; or (2) if the individual with a disability specifically requests it, the accompanying individual agrees to provide the assistance, and reliance on that individual for this assistance is appropriate under the circumstances.
 
-Many commenters supported this provision, but sought more specific language to address what they See as a particularly entrenched problem. Some commenters requested that the Department explicitly require the public entity first to notify the individual with a disability that the individual has a right to request and receive appropriate auxiliary aids and services without charge from the public entity before using that person's accompanying individual as a communication facilitator. Advocates stated that an individual who is unaware of his or her rights may decide to use a third party simply because he or she believes that is the only way to communicate with the public entity.
+Many commenters supported this provision, but sought more specific language to address what they see as a particularly entrenched problem. Some commenters requested that the Department explicitly require the public entity first to notify the individual with a disability that the individual has a right to request and receive appropriate auxiliary aids and services without charge from the public entity before using that person's accompanying individual as a communication facilitator. Advocates stated that an individual who is unaware of his or her rights may decide to use a third party simply because he or she believes that is the only way to communicate with the public entity.
 
 The Department has determined that inclusion of specific language requiring notification is unnecessary. Section 35.160(b)(1) already states that is the responsibility of the public entity to provide auxiliary aids and services. Moreover, &sect; 35.130(f) already prohibits the public entity from imposing a surcharge on a particular individual with a disability or on any group of individuals with disabilities to cover the costs of auxiliary aids. However, the Department strongly advises public entities that they should first inform the individual with a disability that the public entity can and will provide auxiliary aids and services, and that there would be no cost for such aids or services.
 
@@ -2434,7 +2573,7 @@ Several venue owners and operators and others commented that handheld technology
 
 The Department also asked about providing open captioning of all public address announcements, and not limiting captioning to safety and emergency information. A variety of advocates and persons with disabilities argued that all information broadcast over a PA system should be captioned in real time at all facilities in order to provide effective communication and that a requirement only to provide emergency and safety information would not be sufficient. A few organizations for persons with disabilities commented that installation of new systems should not be required, but that all systems within existing facilities that are capable of providing captioning must be utilized to the maximum extent possible to provide captioning of as much information as possible. Several organizations representing persons with disabilities commented that all facilities must include in safety planning the requirement to caption all aurally-provided information for patrons with communication disabilities. Some advocates suggested that demand for captions will only increase as the number of deaf and hard of hearing persons grows with the aging of the general population and with increasing numbers of veterans returning from war with disabilities. Multiple comments noted that the captioning would benefit others as well as those with communication disabilities.
 
-By contrast, venue owners and operators and others commented that the action on the sports field is self-explanatory and does not require captioning and they objected to an explicit requirement to provide real-time captioning for all information broadcast on the PA system at a sporting event. Other commenters objected to requiring captioning even for emergency and safety information over the scoreboard rather than through some other means. By contrast, venue operators, State government agencies, and some model code groups, including NFPA, commented that emergency and safety information must be provided in an accessible format and that public safety is a paramount concern. Other commenters argued that the best method to deliver safety and emergency information would be television monitors showing local TV broadcasts with captions already mandated by the FCC. Some commenters posited that the most reliable information about a major emergency would be provided on the television news broadcasts. Several commenters argued that television monitors may be located throughout the facility, improving line of sight for patrons, some of whom might not be able to See the scoreboard from their seats or elsewhere in the facility. Some stadium designers, venue operators, and model code groups pointed out that video monitors are not regulated by the NFPA or other agencies, so that such monitors could be more easily provided. Video monitors may receive transmissions from within the facility and could provide real-time captions if there is the necessary software and equipment to feed the captioning signal to a closed video network within the facility. Several comments suggested that using monitors would be preferable to requiring captions on the scoreboard if the regulation mandates realtime captioning. Some venue owners and operators argued that retrofitting existing stadiums with new systems could easily cost hundreds of thousands of dollars per scoreboard or system. Some stadium designers and others argued that captioning should only be required in stadiums built after the effective date of the regulation. For stadiums with existing systems that allow for real-time captioning, one commenter posited that dedicating the system exclusively to real-time captioning would lead to an annual loss of between $2 and $3 million per stadium in revenue from advertising currently running in that space.
+By contrast, venue owners and operators and others commented that the action on the sports field is self-explanatory and does not require captioning and they objected to an explicit requirement to provide real-time captioning for all information broadcast on the PA system at a sporting event. Other commenters objected to requiring captioning even for emergency and safety information over the scoreboard rather than through some other means. By contrast, venue operators, State government agencies, and some model code groups, including NFPA, commented that emergency and safety information must be provided in an accessible format and that public safety is a paramount concern. Other commenters argued that the best method to deliver safety and emergency information would be television monitors showing local TV broadcasts with captions already mandated by the FCC. Some commenters posited that the most reliable information about a major emergency would be provided on the television news broadcasts. Several commenters argued that television monitors may be located throughout the facility, improving line of sight for patrons, some of whom might not be able to see the scoreboard from their seats or elsewhere in the facility. Some stadium designers, venue operators, and model code groups pointed out that video monitors are not regulated by the NFPA or other agencies, so that such monitors could be more easily provided. Video monitors may receive transmissions from within the facility and could provide real-time captions if there is the necessary software and equipment to feed the captioning signal to a closed video network within the facility. Several comments suggested that using monitors would be preferable to requiring captions on the scoreboard if the regulation mandates realtime captioning. Some venue owners and operators argued that retrofitting existing stadiums with new systems could easily cost hundreds of thousands of dollars per scoreboard or system. Some stadium designers and others argued that captioning should only be required in stadiums built after the effective date of the regulation. For stadiums with existing systems that allow for real-time captioning, one commenter posited that dedicating the system exclusively to real-time captioning would lead to an annual loss of between $2 and $3 million per stadium in revenue from advertising currently running in that space.
 
 After carefully considering the wide range of public comments on this issue, the Department has concluded that the final rule will not provide additional requirements for effective communication or emergency information provided at sports stadiums at this time. The 1991 title II and title III regulations and statutory requirements are not in any way affected by this decision. The decision to postpone rulemaking on this complex issue is based on a number of factors, including the multiple layers of existing regulation by various agencies and levels of government, and the wide array of information, requests, and recommendations related to developing technology offered by the public. In addition, there is a huge variety of covered entities, information and communication systems, and differing characteristics among sports stadiums. The Department has concluded that further consideration and review would be prudent before it issues specific regulatory requirements.
 
@@ -2462,7 +2601,7 @@ Several commenters supported this amendment as a more efficient means of directi
 
 ### Section 35.172 Investigations and compliance reviews.
 
-In the NPRM, the Department proposed a number of changes to language in &sect; 35.172 relating to the resolution of complaints. Subtitle A of title II of the ADA defines the remedies, procedures, and rights provided for qualified individuals with disabilities who are discriminated against on the basis of disability in the services, programs, or activities of State and local governments. 42 U.S.C. 12131–12134. Subpart F of the current regulation establishes administrative procedures for the enforcement of title II of the ADA. 28 CFR 35.170–35.178. Subpart G identifies eight "designated agencies," including the Department, that have responsibility for investigating complaints under title II. See 28 CFR 35.190(b).
+In the NPRM, the Department proposed a number of changes to language in &sect; 35.172 relating to the resolution of complaints. Subtitle A of title II of the ADA defines the remedies, procedures, and rights provided for qualified individuals with disabilities who are discriminated against on the basis of disability in the services, programs, or activities of State and local governments. 42 U.S.C. 12131–12134. Subpart F of the current regulation establishes administrative procedures for the enforcement of title II of the ADA. 28 CFR 35.170–35.178. Subpart G identifies eight "designated agencies," including the Department, that have responsibility for investigating complaints under title II. _See_ 28 CFR 35.190(b).
 
 The Department's 1991 title II regulation is based on the enforcement procedures established in regulations implementing section 504. Thus, the Department's 1991 title II regulation provides that the designated agency "shall investigate each complete complaint" alleging a violation of title II and shall "attempt informal resolution" of such complaint. 28 CFR 35.172(a). The full range of remedies (including compensatory damages) that are available to the Department when it resolves a complaint or resolves issues raised in a compliance review are available to designated agencies when they are engaged in informal complaint resolution or resolution of issues raised in a compliance review under title II.
 
@@ -2502,7 +2641,7 @@ Many of the commenters who supported the revised side-reach requirement pointed 
 
 The Department also received comments in support of the 48-inch side-reach requirement from an association of professional commercial property managers and operators and from State governmental entities. The association of property managers pointed out that the revised side-reach requirement provided a reasonable approach to "regulating elevator controls and all other operable parts" in existing facilities in light of the manner in which the safe harbor, barrier removal, and alterations obligations will operate in the 2010 Standards. One governmental entity, while fully supporting the 48-inch side-reach requirement, encouraged the Department to adopt an exception to the lower reach range for existing facilities similar to the exception permitted in the ICC/ANSI A117.1 Standard. In response to this latter concern, the Department notes that under the safe harbor, existing facilities that are in compliance with the 1991 Standards, which require a 54-inch side-reach maximum, would not be required to comply with the lower side-reach requirement, unless there is an alteration. _See_ &sect; 35.150(b)(2).
 
-A number of commenters expressed either concern with, or opposition to, the 48-inch side-reach requirement and suggested that it be returned to the Access Board for further consideration. These commenters included trade and business associations, associations of retail stores, associations of restaurant owners, retail and convenience store chains, and a model code organization. Several businesses expressed the view that the lower side-reach requirement would discourage the use of their products and equipment by most of the general public. In particular, concerns were expressed by a national association of pay phone service providers regarding the possibility that pay telephones mounted at the lower height would not be used as frequently by the public to place calls, which would result in an economic burden on the pay phone industry. The commenter described the lower height required for side reach as creating a new "barrier" to pay phone use, which would reduce revenues collected from pay phones and, consequently, further discourage the installation of new pay telephones. In addition, the commenter expressed concern that phone service providers would simply decide to remove existing pay phones rather than incur the costs of relocating them at the lower height. With regard to this latter concern, the commenter misunderstood the manner in which the safe harbor obligation will operate in the revised title II regulation for elements that comply with the 1991 Standards. If the pay phones comply with the 1991 Standards or UFAS, the adoption of the 2010 Standards does not require retrofitting of these elements to reflect incremental changes in the 2010 Standards (see &sect; 35.150(b)(2)). However, pay telephones that were required to meet the 1991 Standards as part of new construction or alterations, but do not in fact comply with those standards, will need to be brought into compliance with the 2010 Standards as of 18 months from the publication date of this final rule. _See_ &sect; 35.151(c)(5)(ii).
+A number of commenters expressed either concern with, or opposition to, the 48-inch side-reach requirement and suggested that it be returned to the Access Board for further consideration. These commenters included trade and business associations, associations of retail stores, associations of restaurant owners, retail and convenience store chains, and a model code organization. Several businesses expressed the view that the lower side-reach requirement would discourage the use of their products and equipment by most of the general public. In particular, concerns were expressed by a national association of pay phone service providers regarding the possibility that pay telephones mounted at the lower height would not be used as frequently by the public to place calls, which would result in an economic burden on the pay phone industry. The commenter described the lower height required for side reach as creating a new "barrier" to pay phone use, which would reduce revenues collected from pay phones and, consequently, further discourage the installation of new pay telephones. In addition, the commenter expressed concern that phone service providers would simply decide to remove existing pay phones rather than incur the costs of relocating them at the lower height. With regard to this latter concern, the commenter misunderstood the manner in which the safe harbor obligation will operate in the revised title II regulation for elements that comply with the 1991 Standards. If the pay phones comply with the 1991 Standards or UFAS, the adoption of the 2010 Standards does not require retrofitting of these elements to reflect incremental changes in the 2010 Standards (*see* &sect; 35.150(b)(2)). However, pay telephones that were required to meet the 1991 Standards as part of new construction or alterations, but do not in fact comply with those standards, will need to be brought into compliance with the 2010 Standards as of 18 months from the publication date of this final rule. _See_ &sect; 35.151(c)(5)(ii).
 
 The Department does not agree with the concerns expressed by the commenter about reduced revenues from pay phones mounted at lower heights. The Department believes that, while given the choice some individuals may prefer to use a pay phone that is at a higher height, the availability of some phones at a lower height will not deter individuals from making needed calls.
 
@@ -2566,7 +2705,7 @@ The Department declines to incorporate the report into the regulation. However, 
 
 One commenter proposed that the regulation also require a sufficient number of accessible benches for judges with disabilities. Under section 206.2.4 of the 2004 ADAAG, raised courtroom stations used by judges and other judicial staff are not required to provide full vertical access when first constructed or altered, as long as the required clear floor space, maneuvering space, and any necessary electrical service for future installation of a means of vertical access, is provided at the time of new construction or can be achieved without substantial reconstruction during alterations. The Department believes that this standard easily allows a courtroom station to be adapted to provide vertical access in the event a judge requires an accessible judge's bench.
 
-The Department received several anecdotal accounts of courtroom experiences of individuals with disabilities. One commenter recalled numerous difficulties that her law partner faced as the result of inaccessible courtrooms, and their concerns that the attention of judge and jury was directed away from the merits of case to the lawyer and his disability. Among other things, the lawyer had to ask the judges on an appellate panel to wait while he maneuvered through insufficient space to the counsel table; ask judges to relocate bench conferences to accessible areas; and make last-minute preparations and rearrangements that his peers without disabilities did not have to make. Another commenter with extensive experience as a lawyer, witness, juror, and consultant observed that it is common practice for a witness who uses mobility devices to sit in front of the witness stand. He described how disconcerting and unsettling it has been for him to testify in front of the witness stand, which allowed individuals in the courtroom to See his hands or legs shaking because of spasticity, making him feel like a second-class citizen.
+The Department received several anecdotal accounts of courtroom experiences of individuals with disabilities. One commenter recalled numerous difficulties that her law partner faced as the result of inaccessible courtrooms, and their concerns that the attention of judge and jury was directed away from the merits of case to the lawyer and his disability. Among other things, the lawyer had to ask the judges on an appellate panel to wait while he maneuvered through insufficient space to the counsel table; ask judges to relocate bench conferences to accessible areas; and make last-minute preparations and rearrangements that his peers without disabilities did not have to make. Another commenter with extensive experience as a lawyer, witness, juror, and consultant observed that it is common practice for a witness who uses mobility devices to sit in front of the witness stand. He described how disconcerting and unsettling it has been for him to testify in front of the witness stand, which allowed individuals in the courtroom to see his hands or legs shaking because of spasticity, making him feel like a second-class citizen.
 
 Two other commenters with mobility disabilities described their experiences testifying in court. One accessibility consultant stated that she was able to represent her clients successfully when she had access to an accessible witness stand because it gave her the ability "to look the judge in the eye, speak comfortably and be heard, hold up visual aids that could be seen by the judge, and perform without an architectural stigma." She did not believe that she was able to achieve a comparable outcome or have meaningful access to the justice system when she testified from an inaccessible location. Similarly, a licensed clinical social worker indicated that she has testified in several cases in accessible courtrooms, and that having full access to the witness stand in the presence of the judge and the jury was important to her effectiveness as an expert witness. She noted that accessible courtrooms often are not available, and that she was aware of instances in which victims, witnesses, and attorneys with disabilities have not been able to obtain needed disability accommodations in order to fulfill their roles at trial.
 
@@ -2644,9 +2783,9 @@ _Multiple chemical sensitivities._ The Department received comments from a numbe
 
 The Department has determined not to include specific provisions addressing multiple chemical sensitivities in the final rule. In order to be viewed as a disability under the ADA, an impairment must substantially limit one or more major life activities. An individual's major life activities of respiratory or neurological functioning may be substantially limited by allergies or sensitivity to a degree that he or she is a person with a disability. When a person has this type of disability, a covered entity may have to make reasonable modifications in its policies and practices for that person. However, this determination is an individual assessment and must be made on a case-by-case basis.
 
-_Examinations and Courses._ The Department received one comment requesting that it specifically include language regarding examinations and courses in the title II regulation. Because section 309 of the ADA 42 U.S.C. 12189, reaches "[a]ny person that offers examinations or courses related to applications, licensing, certification, or credentialing for secondary or post secondary education, professional, or trade purposes," public entities also are covered by this section of the ADA. Indeed, the requirements contained in title II (including the general prohibitions against discrimination, the program access requirements, the reasonable modifications requirements, and the communications requirements) apply to courses and examinations administered by public entities that meet the requirements of section 309. While the Department considers these requirements to be sufficient to ensure that examinations and courses administered by public entities meet the section 309 requirements, the Department acknowledges that the title III regulation, because it addresses examinations in some detail, is useful as a guide for determining what constitutes discriminatory conduct by a public entity in testing situations. See 28 CFR 36.309.
+_Examinations and Courses._ The Department received one comment requesting that it specifically include language regarding examinations and courses in the title II regulation. Because section 309 of the ADA 42 U.S.C. 12189, reaches "[a]ny person that offers examinations or courses related to applications, licensing, certification, or credentialing for secondary or post secondary education, professional, or trade purposes," public entities also are covered by this section of the ADA. Indeed, the requirements contained in title II (including the general prohibitions against discrimination, the program access requirements, the reasonable modifications requirements, and the communications requirements) apply to courses and examinations administered by public entities that meet the requirements of section 309. While the Department considers these requirements to be sufficient to ensure that examinations and courses administered by public entities meet the section 309 requirements, the Department acknowledges that the title III regulation, because it addresses examinations in some detail, is useful as a guide for determining what constitutes discriminatory conduct by a public entity in testing situations. _See_ 28 CFR 36.309.
 
-_Hotel Reservations._ In the NPRM, at &sect; 36.302(e), the Department proposed adding specific language to title III addressing the requirements that hotels, timeshare resorts, and other places of lodging make reasonable modifications to their policies, practices, or procedures, when necessary to ensure that individuals with disabilities are able to reserve accessible hotel rooms with the same efficiency, immediacy, and convenience as those who do not need accessible guest rooms. The NPRM did not propose adding comparable language to the title II regulation as the Department believes that the general nondiscrimination, program access, effective communication, and reasonable modifications requirements of title II provide sufficient guidance to public entities that operate places of lodging (_i.e._, lodges in State parks, hotels on public college campuses). The Department received no public comments suggesting that it add language on hotel reservations comparable to that proposed for the title III regulation. Although the Department continues to believe that it is unnecessary to add specific language to the title II regulation on this issue, the Department acknowledges that the title III regulation, because it addresses hotel reservations in some detail, is useful as a guide for determining what constitutes discriminatory conduct by a public entity that operates a reservation system serving a place of lodging. See 28 CFR 36.302(e).
+_Hotel Reservations._ In the NPRM, at &sect; 36.302(e), the Department proposed adding specific language to title III addressing the requirements that hotels, timeshare resorts, and other places of lodging make reasonable modifications to their policies, practices, or procedures, when necessary to ensure that individuals with disabilities are able to reserve accessible hotel rooms with the same efficiency, immediacy, and convenience as those who do not need accessible guest rooms. The NPRM did not propose adding comparable language to the title II regulation as the Department believes that the general nondiscrimination, program access, effective communication, and reasonable modifications requirements of title II provide sufficient guidance to public entities that operate places of lodging (_i.e._, lodges in State parks, hotels on public college campuses). The Department received no public comments suggesting that it add language on hotel reservations comparable to that proposed for the title III regulation. Although the Department continues to believe that it is unnecessary to add specific language to the title II regulation on this issue, the Department acknowledges that the title III regulation, because it addresses hotel reservations in some detail, is useful as a guide for determining what constitutes discriminatory conduct by a public entity that operates a reservation system serving a place of lodging. _See_ 28 CFR 36.302(e).
 
 <p>18. Revise the heading to Appendix B to read as follows:</p>
 
@@ -2780,7 +2919,7 @@ Test C -- Being regarded as having such an impairment
 
 This test, as contained in paragraph (4) of the definition, is intended to cover persons who are treated by a public entity as having a physical or mental impairment that substantially limits a major life activity. It applies when a person is treated as if he or she has an impairment that substantially limits a major life activity, regardless of whether that person has an impairment.
 
-The Americans with Disabilities Act uses the same &quot;regarded as&quot; test set forth in the regulations implementing section 504 of the Rehabilitation Act. See, *e.g.*, 28 CFR 42.540(k)(2)(iv), which provides:
+The Americans with Disabilities Act uses the same &quot;regarded as&quot; test set forth in the regulations implementing section 504 of the Rehabilitation Act. *See, e.g.*, 28 CFR 42.540(k)(2)(iv), which provides:
 
 (iv) &quot;Is regarded as having an impairment&quot; means (A) Has a physical or mental impairment that does not substantially limit major life activities but that is treated by a recipient as constituting such a limitation; (B) Has a physical or mental impairment that substantially limits major life activities only as a result of the attitudes of others toward such impairment; or (C) Has none of the impairments defined in paragraph (k)(2)(i) of this section but is treated by a recipient as having such an impairment.
 
@@ -2796,7 +2935,7 @@ Thus, a person who is denied services or benefits by a public entity because of 
 
 If a person is refused admittance on the basis of an actual or perceived physical or mental condition, and the public entity can articulate no legitimate reason for the refusal (such as failure to meet eligibility criteria), a perceived concern about admitting persons with disabilities could be inferred and the individual would qualify for coverage under the &quot;regarded as&quot; test. A person who is covered because of being regarded as having an impairment is not required to show that the public entity's perception is inaccurate (*e.g.*, that he will be accepted by others) in order to receive benefits from the public entity.
 
-Paragraph (5) of the definition lists certain conditions that are not included within the definition of &quot;disability.&quot; The excluded conditions are: transvestism, transsexualism, pedophilia, exhibitionism, voyeurism, gender identity disorders not resulting from physical impairments, other sexual behavior disorders, compulsive gambling, kleptomania, pyromania, and psychoactive substance use disorders resulting from current illegal use of drugs. Unlike homosexuality and bisexuality, which are not considered impairments under either section 504 or the Americans with Disabilities Act (see the definition of &quot;disability,&quot; paragraph (1)(iv)), the conditions listed in paragraph (5), except for transvestism, are not necessarily excluded as impairments under section 504. (Transvestism was excluded from the definition of disability for section 504 by the Fair Housing Amendments Act of 1988, Pub. L. 100-430, section 6(b)).
+Paragraph (5) of the definition lists certain conditions that are not included within the definition of &quot;disability.&quot; The excluded conditions are: transvestism, transsexualism, pedophilia, exhibitionism, voyeurism, gender identity disorders not resulting from physical impairments, other sexual behavior disorders, compulsive gambling, kleptomania, pyromania, and psychoactive substance use disorders resulting from current illegal use of drugs. Unlike homosexuality and bisexuality, which are not considered impairments under either section 504 or the Americans with Disabilities Act (*see* the definition of &quot;disability,&quot; paragraph (1)(iv)), the conditions listed in paragraph (5), except for transvestism, are not necessarily excluded as impairments under section 504. (Transvestism was excluded from the definition of disability for section 504 by the Fair Housing Amendments Act of 1988, Pub. L. 100-430, section 6(b)).
 
 &quot;Drug.&quot; The definition of the term &quot;drug&quot; is taken from section 510(d)(2) of the ADA.
 
@@ -3102,7 +3241,7 @@ Although in some circumstances a notepad and written materials may be sufficient
 
 Several commenters asked that the rule clarify that the provision of readers is sometimes necessary to ensure access to a public entity's services, programs or activities. Reading devices or readers should be provided when necessary for equal participation and opportunity to benefit from any governmental service, program, or activity, such as reviewing public documents, examining demonstrative evidence, and filling out voter registration forms or forms needed to receive public benefits. The importance of providing qualified readers for examinations administered by public entities is discussed under Sec.35.130. Reading devices and readers are appropriate auxiliary aids and services where necessary to permit an individual with a disability to participate in or benefit from a service, program, or activity.
 
-Section 35.160(b)(2) of the proposed rule, which provided that a public entity need not furnish individually prescribed devices, readers for personal use or study, or other devices of a personal nature, has been deleted in favor of a new section in the final rule on personal devices and services (see Sec.35.135).
+Section 35.160(b)(2) of the proposed rule, which provided that a public entity need not furnish individually prescribed devices, readers for personal use or study, or other devices of a personal nature, has been deleted in favor of a new section in the final rule on personal devices and services (*see* Sec.35.135).
 
 In response to comments, the term "auxiliary aids and services" is used in place of "auxiliary aids" in the final rule. This phrase better reflects the range of aids and services that may be required under this section.
 
@@ -3256,7 +3395,7 @@ NOTE: This appendix contains guidance providing a section-by-section analysis of
 
 **Guidance and Section-by-Section Analysis**
 
-This section provides a detailed description of the Department&rsquo;s changes to the meaning and interpretation of the definition of &quot;disability&quot; in the title II and title III regulations, the reasoning behind those changes, and responses to public comments received on these topics. See Office of the Attorney General; Amendment of Americans with Disabilities Act Title II and Title III Regulations to Implement ADA Amendments Act of 2008, 79&nbsp;FR&nbsp;4839 (Jan. 30, 2014) (NPRM).
+This section provides a detailed description of the Department&rsquo;s changes to the meaning and interpretation of the definition of &quot;disability&quot; in the title II and title III regulations, the reasoning behind those changes, and responses to public comments received on these topics. _See_ Office of the Attorney General; Amendment of Americans with Disabilities Act Title II and Title III Regulations to Implement ADA Amendments Act of 2008, 79&nbsp;FR&nbsp;4839 (Jan. 30, 2014) (NPRM).
 
 _Sections 35.101 and 36.101—Purpose and broad coverage._
 
@@ -3320,11 +3459,11 @@ _Sections 35.108(c) and 36.105(c)—Major life activities._
 
 Prior to the passage of the ADA Amendments Act, the ADA did not define &ldquo;major life activities,&rdquo; leaving delineation of illustrative examples to agency regulations. Paragraph 2 of the definition of &ldquo;disability&rdquo; in the Department&rsquo;s current title II and title III regulations at 28&nbsp;CFR&nbsp;35.104 and 36.104 states that &ldquo;major life activities&quot; means functions such as caring for one&rsquo;s self, performing manual tasks, walking, seeing, hearing, speaking, breathing, learning, and working.
 
-The ADA Amendments Act significantly expanded the range of major life activities by directing that &ldquo;major&rdquo; be interpreted in a more expansive fashion, by adding a significant new category of major life activities, and by providing non-exhaustive lists of examples of major life activities. The amended statute&rsquo;s first list of major life activities includes, but is not limited to, &ldquo;caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, communicating, and working.&rdquo; 42&nbsp;U.S.C.&nbsp;12102(2)(A). The ADA Amendments Act also broadened the definition of &ldquo;major life activity&rdquo; to include physical or mental impairments that substantially limit the operation of a &ldquo;major bodily function,&rdquo; which include, but are not limited to, the &ldquo;functions of the immune system, normal cell growth, digestive, bowel, bladder, neurological, brain, respiratory, circulatory, endocrine, and reproductive functions.&rdquo; 42&nbsp;U.S.C.&nbsp;12102(2)(B). These expanded lists of examples of major life activities reflect Congress&rsquo;s directive to expand the meaning of the term &ldquo;major&rdquo; in response to court decisions that interpreted the term more narrowly than Congress intended. See Public Law 110–25, sec.&nbsp;3 (b)(4).
+The ADA Amendments Act significantly expanded the range of major life activities by directing that &ldquo;major&rdquo; be interpreted in a more expansive fashion, by adding a significant new category of major life activities, and by providing non-exhaustive lists of examples of major life activities. The amended statute&rsquo;s first list of major life activities includes, but is not limited to, &ldquo;caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, communicating, and working.&rdquo; 42&nbsp;U.S.C.&nbsp;12102(2)(A). The ADA Amendments Act also broadened the definition of &ldquo;major life activity&rdquo; to include physical or mental impairments that substantially limit the operation of a &ldquo;major bodily function,&rdquo; which include, but are not limited to, the &ldquo;functions of the immune system, normal cell growth, digestive, bowel, bladder, neurological, brain, respiratory, circulatory, endocrine, and reproductive functions.&rdquo; 42&nbsp;U.S.C.&nbsp;12102(2)(B). These expanded lists of examples of major life activities reflect Congress&rsquo;s directive to expand the meaning of the term &ldquo;major&rdquo; in response to court decisions that interpreted the term more narrowly than Congress intended. _See_ Public Law 110–25, sec.&nbsp;3 (b)(4).
 
 _Examples of major life activities, other than the operations of a major bodily function._
 
-In the NPRM, at &sect;&sect;&nbsp;35.108(c) and 36.105(c), the Department proposed revisions of the title II and title III lists of examples of major life activities (other than the operations of a major bodily function) to incorporate all of the statutory examples, as well as to provide additional examples included in the EEOC title I final regulation—reaching, sitting, and interacting with others.  See 29&nbsp;CFR&nbsp;1630.2(i)(1)(i).
+In the NPRM, at &sect;&sect;&nbsp;35.108(c) and 36.105(c), the Department proposed revisions of the title II and title III lists of examples of major life activities (other than the operations of a major bodily function) to incorporate all of the statutory examples, as well as to provide additional examples included in the EEOC title I final regulation—reaching, sitting, and interacting with others.  _See_ 29&nbsp;CFR&nbsp;1630.2(i)(1)(i).
 
 A number of commenters representing persons with disabilities or the elderly recommended that the Department add a wide variety of other activities to this first list. Some commenters asked the Department to include references to test taking, writing, typing, keyboarding, or executive function.<a href="#_ftn24" name="_ftnref24" title="" id="_ftnref24"><sup>24</sup></a> Several commenters asked the Department to include other activities as well, such as the ability to engage in sexual activity, perform mathematical calculations, travel, or drive. One commenter asked the Department to recognize that, depending upon where people live, other life activities may fall within the category of major life activities. This commenter asserted, for example, that tending livestock or operating farm equipment can be a major life activity in a farming or ranching community, and that maintaining septic, well or water systems, or gardening, composting, or hunting may be a major life activity in a rural community.
 
@@ -3348,11 +3487,11 @@ The Department did not receive any comments objecting to its proposed language. 
 
 _Sections 35.108(d)(1) and 36.105(d)(1)—Substantially limits._
 
-_Overview._ The ADA as amended directs that the term &ldquo;substantially limits&rdquo; shall be &ldquo;interpreted consistently with the findings and purposes of the ADA Amendments Act.&rdquo; 42&nbsp;U.S.C.&nbsp;12102(4)(B). See also Findings and Purposes of the ADA Amendments Act, Public Law 110–325, sec.&nbsp;2(a)–(b). In the NPRM, the Department proposed to add nine rules of construction at &sect;&sect;&nbsp;35.108(d) and 36.105(d) clarifying how to interpret the meaning of &ldquo;substantially limits&rdquo; when determining whether an individual&rsquo;s impairment substantially limits a major life activity. These rules of construction are based on the requirements of the ADA as amended and the clear mandates of the legislative history. Due to the insertion of the rules of construction, these provisions are renumbered in the final rule.
+_Overview._ The ADA as amended directs that the term &ldquo;substantially limits&rdquo; shall be &ldquo;interpreted consistently with the findings and purposes of the ADA Amendments Act.&rdquo; 42&nbsp;U.S.C.&nbsp;12102(4)(B). _See also_ Findings and Purposes of the ADA Amendments Act, Public Law 110–325, sec.&nbsp;2(a)–(b). In the NPRM, the Department proposed to add nine rules of construction at &sect;&sect;&nbsp;35.108(d) and 36.105(d) clarifying how to interpret the meaning of &ldquo;substantially limits&rdquo; when determining whether an individual&rsquo;s impairment substantially limits a major life activity. These rules of construction are based on the requirements of the ADA as amended and the clear mandates of the legislative history. Due to the insertion of the rules of construction, these provisions are renumbered in the final rule.
 
 _Sections 35.108(d)(1)(i) and 36.105(d)(1)(i)—Broad construction, not a demanding standard._
 
-In accordance with Congress&rsquo;s overarching directive to construe the term &ldquo;disability&rdquo; broadly, see 42&nbsp;U.S.C.&nbsp;12102(4)(A), the Department, in its NPRM, proposed &sect;&sect;&nbsp;35.108(d)(1)(i) and 36.105(d)(1)(i), which state: &ldquo;The term &lsquo;substantially limits&rsquo; shall be construed broadly in favor of expansive coverage, to the maximum extent permitted by the terms of the ADA.&rdquo; These provisions are also rooted in the Findings and Purposes of the ADA Amendments Act, in which Congress instructed that &ldquo;the question of whether an individual&rsquo;s impairment is a disability under the ADA should not demand extensive analysis.&rdquo; _See_ Public Law 110–325, sec.&nbsp;2(b)(1),&nbsp;(4)-(5).
+In accordance with Congress&rsquo;s overarching directive to construe the term &ldquo;disability&rdquo; broadly, *see* 42&nbsp;U.S.C.&nbsp;12102(4)(A), the Department, in its NPRM, proposed &sect;&sect;&nbsp;35.108(d)(1)(i) and 36.105(d)(1)(i), which state: &ldquo;The term &lsquo;substantially limits&rsquo; shall be construed broadly in favor of expansive coverage, to the maximum extent permitted by the terms of the ADA.&rdquo; These provisions are also rooted in the Findings and Purposes of the ADA Amendments Act, in which Congress instructed that &ldquo;the question of whether an individual&rsquo;s impairment is a disability under the ADA should not demand extensive analysis.&rdquo; _See_ Public Law 110–325, sec.&nbsp;2(b)(1),&nbsp;(4)-(5).
 
 Several commenters on these provisions supported the Department&rsquo;s proposal to include these rules of construction, noting that they were in keeping with both the statutory language and Congress&rsquo;s intent to broaden the definition of &quot;disability&quot; and restore expansive protection under the ADA. Some of these commenters stated that, even after the passage of the ADA Amendments Act, some covered entities continued to apply a narrow definition of &quot;disability.&quot;
 
@@ -3368,19 +3507,19 @@ The Department has also considered the comments expressed about the interplay be
 
 _Sections 35.108(d)(1)(ii) and 36.105(d)(1)(ii)—Primary object of ADA cases._
 
-In the ADA Amendments Act, Congress directed that rules of construction should ensure that &ldquo;substantially limits&rdquo; is construed in accordance with the findings and purposes of the statute. See 42&nbsp;U.S.C.&nbsp;12102(4)(B). One of the purposes of the Act was to convey that &ldquo;the primary object of attention in cases brought under the ADA should be whether entities covered under the ADA have complied with the obligations and to convey that the question of whether an individuals&rsquo; impairment is a disability should not demand extensive analysis.&rdquo; Public Law 110–325, sec.&nbsp;2(b)(5). The legislative history clarifies that: &ldquo;Through this broad mandate [of the ADA], Congress sought to protect anyone who is treated less favorably because of a current, past, or perceived disability. Congress did not intend for the threshold question of disability to be used as a means of excluding individuals from coverage. Nevertheless, as the courts began interpreting and applying the definition of disability strictly, individuals have been excluded from the protections that the ADA affords because they are unable to meet the demanding judicially imposed standard for qualifying as disabled.&rdquo;). H.R. Rep. No. 110–730, pt. 2, at 5 (2008) (House Committee on the Judiciary).
+In the ADA Amendments Act, Congress directed that rules of construction should ensure that &ldquo;substantially limits&rdquo; is construed in accordance with the findings and purposes of the statute. _See_ 42&nbsp;U.S.C.&nbsp;12102(4)(B). One of the purposes of the Act was to convey that &ldquo;the primary object of attention in cases brought under the ADA should be whether entities covered under the ADA have complied with the obligations and to convey that the question of whether an individuals&rsquo; impairment is a disability should not demand extensive analysis.&rdquo; Public Law 110–325, sec.&nbsp;2(b)(5). The legislative history clarifies that: &ldquo;Through this broad mandate [of the ADA], Congress sought to protect anyone who is treated less favorably because of a current, past, or perceived disability. Congress did not intend for the threshold question of disability to be used as a means of excluding individuals from coverage. Nevertheless, as the courts began interpreting and applying the definition of disability strictly, individuals have been excluded from the protections that the ADA affords because they are unable to meet the demanding judicially imposed standard for qualifying as disabled.&rdquo;). H.R. Rep. No. 110–730, pt. 2, at 5 (2008) (House Committee on the Judiciary).
 
 In keeping with Congress&rsquo;s intent and the language of the ADA Amendments Act, the rules of construction at proposed &sect;&sect;&nbsp;35.108(d)(1)(iii) and 36.105(d)(1)(iii) make clear that the primary object of attention in ADA cases should be whether public or other covered entities have complied with their obligations and whether discrimination has occurred, not the extent to which an individual&rsquo;s impairment substantially limits a major life activity.  In particular, the threshold issue of whether an impairment substantially limits a major life activity should not demand extensive analysis.
 
 A number of commenters expressed support for these rules of construction, noting that they reinforced Congress&rsquo;s intent in ensuring that the primary focus will be on compliance. Several commenters objected to the use of the word &ldquo;cases&rdquo; in these provisions, stating that it lacked clarity. The word &ldquo;cases&rdquo; tracks the language of the ADA Amendments Act and the Department declines to change the term.
 
-A few commenters objected to these provisions because they believed that the language would be used to supersede or otherwise change the required analysis of requests for reasonable modifications or testing accommodations. See 28&nbsp;CFR&nbsp;35.130(b)(7), 36.302, 36.309. The Department disagrees with these commenters. These rules of construction relate only to the determination of coverage under the ADA. They do not change the analysis of whether a discriminatory act has taken place, including the determination as to whether an individual is entitled to a reasonable modification or testing accommodation. See discussion of &sect;&sect;&nbsp;35.108(d)(1)(vii) and 36.105(d)(1)(vii) below.
+A few commenters objected to these provisions because they believed that the language would be used to supersede or otherwise change the required analysis of requests for reasonable modifications or testing accommodations. _See_ 28&nbsp;CFR&nbsp;35.130(b)(7), 36.302, 36.309. The Department disagrees with these commenters. These rules of construction relate only to the determination of coverage under the ADA. They do not change the analysis of whether a discriminatory act has taken place, including the determination as to whether an individual is entitled to a reasonable modification or testing accommodation. _See_ discussion of &sect;&sect;&nbsp;35.108(d)(1)(vii) and 36.105(d)(1)(vii) below.
 
 The Department retained the language of these rules of construction in the final rule except that in the title III regulatory text it has changed the reference from &ldquo;covered entity&rdquo; to &ldquo;public accommodation.&rdquo; The Department also renumbered these provisions as &sect;&sect;&nbsp;35.108(d)(1)(ii) and 36.105(d)(1)(ii).
 
 Sections 35.108(d)(1)(iii) and 36.105(d)(1)(iii) —Impairment need not substantially limit more than one major life activity.
 
-Proposed &sect;&sect;&nbsp;35.108(d)(1)(viii) and 36.105(d)(1)(viii) stated that &ldquo;[a]n impairment that substantially limits one major life activity need not substantially limit other major life activities in order to be considered a substantially limiting impairment.&rdquo; _See_ 42&nbsp;U.S.C.&nbsp;12102(4)(C). This language reflected the statutory intent to reject court decisions that had required individuals to show that an impairment substantially limits more than one major life activity. _See_ 154 Cong. Rec. S8841–44 (daily ed. Sept. 16, 2008) (Statement of the Managers). Applying this principle, for example, an individual seeking to establish coverage under the ADA need not show a substantial limitation in the ability to learn if that individual is substantially limited in another major life activity, such as walking, or the functioning of the nervous or endocrine systems. The proposed rule also was intended to clarify that the ability to perform one or more particular tasks within a broad category of activities does not preclude coverage under the ADA. See H.R. Rep. No. 110–730, pt. 2, at 19 &amp; n.52 (2008) (House Committee on the Judiciary). For instance, an individual with cerebral palsy could have a capacity to perform certain manual tasks yet nonetheless show a substantial limitation in the ability to perform a &ldquo;broad range&rdquo; of manual tasks.
+Proposed &sect;&sect;&nbsp;35.108(d)(1)(viii) and 36.105(d)(1)(viii) stated that &ldquo;[a]n impairment that substantially limits one major life activity need not substantially limit other major life activities in order to be considered a substantially limiting impairment.&rdquo; _See_ 42&nbsp;U.S.C.&nbsp;12102(4)(C). This language reflected the statutory intent to reject court decisions that had required individuals to show that an impairment substantially limits more than one major life activity. _See_ 154 Cong. Rec. S8841–44 (daily ed. Sept. 16, 2008) (Statement of the Managers). Applying this principle, for example, an individual seeking to establish coverage under the ADA need not show a substantial limitation in the ability to learn if that individual is substantially limited in another major life activity, such as walking, or the functioning of the nervous or endocrine systems. The proposed rule also was intended to clarify that the ability to perform one or more particular tasks within a broad category of activities does not preclude coverage under the ADA. _See_ H.R. Rep. No. 110–730, pt. 2, at 19 &amp; n.52 (2008) (House Committee on the Judiciary). For instance, an individual with cerebral palsy could have a capacity to perform certain manual tasks yet nonetheless show a substantial limitation in the ability to perform a &ldquo;broad range&rdquo; of manual tasks.
 
 The Department received one comment specifically supporting this provision and none opposing it. The Department is retaining this language in the final rule although it is renumbered and is found at &sect;&sect;&nbsp;35.108(d)(1)(iii) and 36.105(d)(1)(iii).
 
@@ -3432,7 +3571,7 @@ The Department does not consider it appropriate to include provisions related to
 
 Contrary to the commenters&rsquo; suggestions, there is no conflict between the regulation&rsquo;s definitional provisions and title III&rsquo;s testing accommodation provisions.&nbsp; The first addresses the core question of who is covered under the definition of &quot;disability&quot;, while the latter sets forth requirements related to documenting the need for particular testing accommodations. To the extent that testing entities are urging conflation of the analysis for establishing disability with that for determining required testing accommodations, such an approach would contradict the clear delineation in the statute between the determination of disability and the obligations that ensue.
 
-Accordingly, in the final rule, the text of these provisions is largely unchanged, except that the provisions are renumbered as &sect;&sect; 35.108(d)(1)(vii) and 36.108(d)(1)(vii), and the Department added &ldquo;the presentation of,&rdquo; in the second sentence, which was included in the corresponding provision of the EEOC final rule. See 29&nbsp;CFR&nbsp;1630.2(j)(1)(v).
+Accordingly, in the final rule, the text of these provisions is largely unchanged, except that the provisions are renumbered as &sect;&sect; 35.108(d)(1)(vii) and 36.108(d)(1)(vii), and the Department added &ldquo;the presentation of,&rdquo; in the second sentence, which was included in the corresponding provision of the EEOC final rule. _See_ 29&nbsp;CFR&nbsp;1630.2(j)(1)(v).
 
 _Sections 35.108(d)(1)(viii) and 36.105(d)(1)(viii)—Determination made without regard to the ameliorative effects of mitigating measures._
 
@@ -3492,7 +3631,7 @@ Some commenters representing testing entities and educational institutions sough
 
 _Sections 35.108(d)(3) and 36.105(d)(3)—Condition, manner, or duration._
 
-Overview. Proposed &sect;&sect;&nbsp;35.108(d)(3) and 36.105(d)(3), both titled &ldquo;Condition, manner[,] and duration,&rdquo; addressed how evidence related to condition, manner, or duration may be used to show how impairments substantially limit major life activities. These principles were first addressed in the preamble to the 1991 rule. At that time, the Department noted that &ldquo;[a] person is considered an individual with a disability.&nbsp;.&nbsp;. when the individual&rsquo;s important life activities are restricted as to the conditions, manner, or duration under which they can be performed in comparison to most people.&rdquo; 56&nbsp;FR&nbsp;35544, 35549 (July 26, 1991); see also S. Rep. No. 101–116, at 23 (1989).
+Overview. Proposed &sect;&sect;&nbsp;35.108(d)(3) and 36.105(d)(3), both titled &ldquo;Condition, manner[,] and duration,&rdquo; addressed how evidence related to condition, manner, or duration may be used to show how impairments substantially limit major life activities. These principles were first addressed in the preamble to the 1991 rule. At that time, the Department noted that &ldquo;[a] person is considered an individual with a disability.&nbsp;.&nbsp;. when the individual&rsquo;s important life activities are restricted as to the conditions, manner, or duration under which they can be performed in comparison to most people.&rdquo; 56&nbsp;FR&nbsp;35544, 35549 (July 26, 1991); *see* also S. Rep. No. 101–116, at 23 (1989).
 
 These concepts were affirmed by Congress  in the legislative history to the ADA Amendments Act: &ldquo;We particularly believe that this test, which articulated an analysis that considered whether a person&rsquo;s activities are limited in condition, duration and manner, is a useful one. We reiterate that using the correct standard—one that is lower than the strict or demanding standard created by the Supreme Court in _Toyota_—will make the disability determination an appropriate threshold issue but not an onerous burden for those seeking accommodations or modifications. At the same time, plaintiffs should not be constrained from offering evidence needed to establish that their impairment is substantially limiting.&rdquo;  154 Cong. Rec. S8346 (Sept. 11, 2008). Noting its continued reliance on the functional approach to defining disability, Congress expressed its belief that requiring consistency with the findings and purposes of the ADA Amendments Act would &ldquo;establish[] an appropriate functionality test for determining whether an individual has a disability.&rdquo; _Id._ While condition, manner, and duration are not required factors that must be considered, the regulations clarify that these are the types of factors that may be considered in appropriate cases. To the extent that such factors may be useful or relevant to show a substantial limitation in a particular fact pattern, some or all of them (and related facts) may be considered, but evidence relating to each of these factors often will not be necessary to establish coverage.
 
@@ -3596,7 +3735,7 @@ There are many types of records that could potentially contain this information,
 
 Individuals who are covered under the &ldquo;record of&rdquo; prong may be covered under the first prong of the definition of &quot;disability&quot; as well. This is because the rules of construction in the ADA Amendments Act and the Department&rsquo;s regulations provide that an individual with an impairment that is episodic or in remission can be protected under the first prong if the impairment would be substantially limiting when active.  _See_ &sect;&sect;&nbsp;35.108(d)(1)(iv); 36.105(d)(1)(iv). Thus, an individual who has cancer that is currently in remission is an individual with a disability under the &ldquo;actual disability&rdquo; prong because he has an impairment that would substantially limit normal cell growth when active. He is also covered by the &ldquo;record of&rdquo; prong based on his history of having had an impairment that substantially limited normal cell growth.
 
-Finally, these provisions of the regulations clarify that an individual with a record of a disability is entitled to a reasonable modification currently needed relating to the past substantially limiting impairment. In the legislative history, Congress stated that reasonable modifications were available to persons covered under the second prong of the definition. See H.R. Rep. No. 110–730, pt. 2, at 22 (2008) (&ldquo;This makes clear that the duty to accommodate … arises only when an individual establishes coverage under the first or second prong of the definition.&rdquo;). For example, a high school student with an impairment that previously substantially limited, but no longer substantially limits, a major life activity may need permission to miss a class or have a schedule change as a reasonable modification that would permit him or her to attend follow-up or monitoring appointments from a health care provider.
+Finally, these provisions of the regulations clarify that an individual with a record of a disability is entitled to a reasonable modification currently needed relating to the past substantially limiting impairment. In the legislative history, Congress stated that reasonable modifications were available to persons covered under the second prong of the definition. _See_ H.R. Rep. No. 110–730, pt. 2, at 22 (2008) (&ldquo;This makes clear that the duty to accommodate … arises only when an individual establishes coverage under the first or second prong of the definition.&rdquo;). For example, a high school student with an impairment that previously substantially limited, but no longer substantially limits, a major life activity may need permission to miss a class or have a schedule change as a reasonable modification that would permit him or her to attend follow-up or monitoring appointments from a health care provider.
 
 Sections 35.108(f) and 36.105(f)—Is regarded as having such an impairment.
 
@@ -3620,7 +3759,7 @@ The Department received no comments on the language in these paragraphs. Upon co
 
 _Sections 35.108(g) and 36.105(g)—Exclusions._
 
-The NPRM did not propose changes to the text of the existing exclusions contained in paragraph (5) of the definition of &ldquo;_disability_&rdquo; in the title II and title III regulations, see 28&nbsp;CFR&nbsp;35.104, 36.104, which are based on 42&nbsp;U.S.C.&nbsp;12211(b), a statutory provision that was not modified by the ADA Amendments Act. The NPRM did propose to renumber these provisions, relocating them at &sect;&sect;&nbsp;35.108(g) and 36.105(g) of the Department&rsquo;s revised definition of &ldquo;disability.&rdquo; The Department received no comments on the proposed renumbering, which is retained in the final rule.
+The NPRM did not propose changes to the text of the existing exclusions contained in paragraph (5) of the definition of &ldquo;_disability_&rdquo; in the title II and title III regulations, *see* 28&nbsp;CFR&nbsp;35.104, 36.104, which are based on 42&nbsp;U.S.C.&nbsp;12211(b), a statutory provision that was not modified by the ADA Amendments Act. The NPRM did propose to renumber these provisions, relocating them at &sect;&sect;&nbsp;35.108(g) and 36.105(g) of the Department&rsquo;s revised definition of &ldquo;disability.&rdquo; The Department received no comments on the proposed renumbering, which is retained in the final rule.
 
 _Sections 35.130(b)(7)(i)—General Prohibitions against Discrimination and 36.302(g)—Modifications in policies, practices, or procedures._
 
@@ -10175,6 +10314,1369 @@ prohibit a public entity from appointing an ADA coordinator for web content and 
 apps if the public entity believes taking such an action would help it comply with subpart
 H.
 
+## Title II Regulations; Accessible Medical Diagnostic Equipment and Section-by-Section Analysis
+
+**APPENDIX E TO PART 35—GUIDANCE TO REVISIONS TO ADA TITLE II REGULATION ON ACCESSIBILITY OF MEDICAL DIAGNOSTIC EQUIPMENT OF STATE AND LOCAL GOVERNMENT ENTITIES**
+
+NOTE: This appendix contains guidance providing a section-by-section analysis of the
+revisions to this part published on August 9, 2024.
+
+### Section-by-Section Analysis and Response to Public Comments
+
+This appendix provides a detailed description of the Department’s changes to this part
+(the title II regulation), the reasoning behind those changes, and responses to
+significant public comments received in connection with the rulemaking. The
+Department made changes to subpart A of this part and added subpart I to this part.
+The section-by-section analysis addresses the changes in the order they appear in the
+title II regulation.
+
+### Subpart A-General
+
+#### Section 35.104 Definitions.
+
+The Department is revising § 35.104 to add definitions for the terms “medical diagnostic
+equipment” and “Standards for Accessible Medical Diagnostic Equipment.”
+
+“*Medical diagnostic equipment*”
+
+The Department is defining the term “medical diagnostic equipment,” consistent with the
+MDE Standards, as “[e]quipment used in, or in conjunction with, medical settings by
+health care providers for diagnostic purposes.” This definition includes the examples in
+29 U.S.C. 794f, which requires the MDE Standards to set forth the minimum technical
+criteria for medical diagnostic equipment used in (or in conjunction with) physicians’
+offices, clinics, emergency rooms, hospitals, and other medical settings, and also requires the MDE Standards to apply to equipment that includes examination tables, examination chairs (including chairs used for eye examinations or procedures and
+dental examinations or procedures), weight scales, mammography equipment, x-ray
+machines, and other radiological equipment commonly used for diagnostic purposes by
+health professionals. These examples are illustrative of some types of MDE but are not
+exhaustive. The Department received one comment recommending that the
+Department specifically require that diagnostic equipment used by optometrists and
+ophthalmologists be accessible. The regulatory text explains that MDE includes
+examination chairs used for eye examinations or procedures, but the Department
+cannot and need not provide an exhaustive list of all medical specialties whose
+equipment is covered by subpart I of this part. Equipment is covered by subpart I if
+health care providers use it in, or in conjunction with, medical settings for diagnostic
+purposes.
+
+The Department received several comments requesting clarification on whether the
+definition of “medical diagnostic equipment” applies to equipment used outside of a
+medical facility, such as in home settings, mobile health clinics, or through telehealth
+appointments or remote diagnostic assessments. Some commenters recommend that
+the Department explicitly state that the definition of “medical diagnostic equipment”
+extends to equipment used in such settings.
+
+MDE is “[e]quipment used in, or in conjunction with, medical settings by health care
+providers for diagnostic purposes,” and the obligations set forth in subpart I of this part
+apply to “service[s], program[s], or activit[ies] offered through or with the use of MDE,”
+subject to the limitations described in subpart I. Whether a public entity needs to ensure
+that a specific piece of equipment used in the provision of health care services,
+programs, or activities in home or other settings complies with the MDE Standards
+would depend on the particular factual circumstances in question.
+
+*“Standards for Accessible Medical Diagnostic Equipment”*
+
+The Department is defining the term “Standards for Accessible Medical Diagnostic
+Equipment” in accordance with the standards promulgated by the Access Board on
+January 9, 2017, under section 510 of the Rehabilitation Act of 1973, as amended, and
+codified on July 1, 2017, found at 36 CFR part 1195 (revised as of July 1, 2017). That is
+the version of the Access Board’s MDE Standards that was in effect when the
+Department issued its notice of proposed rulemaking (NPRM). {% fn 268 %} The Department is
+not, however, adopting two provisions that were included in the January 9, 2017,
+version of the Access Board’s standards, M301.2.2 and M302.2.2 (“the sunset
+provisions”). The sunset provisions stated that the 17-inch to 19-inch low transfer
+height range set forth in M301.2.1 and M302.2.1 would cease to have effect on January 10, 2022. {% fn 269 %} Accordingly, if the definition of the MDE Standards that the Department is
+adopting did not exclude the sunset provisions, there would be no enforceable minimum
+low transfer height standard, since this final rule is being promulgated after January 10,
+2022.  By adopting the January 9, 2017, version of the MDE Standards that was
+codified on July 1, 2017, but excluding the sunset provisions, the Department is
+adopting and making enforceable the 17-inch to 19-inch low transfer height range set
+forth in M301.2.1 and M302.2.1 of the January 9, 2017, version of the MDE Standards.
+Under the final rule, public entities acquiring accessible MDE have the option of
+acquiring MDE that lowers to between 17 inches and 19 inches. However, under §
+35.212(a), public entities are required to operate their services, programs, and activities
+that use MDE so that they are readily accessible to and usable by individuals with
+disabilities, regardless of whether the entities’ MDE lowers to 17 inches or 19 inches.
+
+Several commenters submitted comments on the low transfer height requirement. One
+commenter recommended that the Department make the temporary low transfer height
+range a permanent requirement. Some commenters expressed concern about the
+feasibility of complying with a 17-inch low transfer height standard, and several other
+commenters said the Department should adopt a 17-inch low transfer height standard in
+anticipation of the Access Board finalizing a 17-inch standard. As noted in the previous
+paragraph, the Department is adopting the 17-inch to 19-inch low transfer height range,
+without adopting the sunset provisions. The Department believes it is appropriate to
+adopt the MDE Standards promulgated by the Access Board, which were the product of
+a multi-year deliberative process. As to the comments supporting or opposing a 17-inch
+low transfer height standard, the Access Board had not yet issued a final rule
+establishing a 17-inch low transfer height standard when the Department issued its
+NPRM. Therefore, it would have been premature for the Department to have sought
+public comment on or proposed adopting the 17-inch standard in the NPRM, and the
+Department declines to adopt and make enforceable such a standard in the final rule
+without public comment. As noted in section II.C of the preamble to the final rule,
+however, since the Access Board has now issued a final rule updating the low transfer
+height standard, the Department will consider issuing a supplemental rulemaking under
+title II proposing to adopt it, and the Department will solicit comments on the updated
+standard as part of any such rulemaking.
+
+Some commenters urged the Department to work with the Access Board to account for
+the needs of particular disability groups more explicitly. Commenters asked that the
+Department consider more specifically the needs of individuals with nonmobility
+disabilities, people with respiratory disabilities, people who are blind or have other
+sensory disabilities, higher weight people, and people with intellectual disabilities. The
+MDE Standards account for the needs of individuals with nonmobility disabilities to
+some extent, {% fn 270 %} and any new standards to account for additional disabilities or factors
+that the Access Board did not incorporate into the MDE Standards should be developed by the Access Board, which has authority to promulgate such standards under section 510. The Department notes that the Access Board received comments recommending
+that the MDE Standards address “individuals with autism, Alzheimer’s, sensory
+disabilities, cognitive disabilities, and bariatric patients,” and noted that while it could not
+accommodate those comments in this round of rulemaking, it committed to
+“address[ing] other barriers in future updates to the MDE Standards.” {% fn 271 %} Therefore,
+while the Department appreciates commenters’ viewpoints, it declines to update this
+part to account for additional disabilities or factors at this time.
+
+The Department also received many comments from diverse stakeholders on whether
+the Department should apply the Access Board’s MDE Standards to medical equipment
+that is not used for diagnostic purposes. Many commenters supported applying the
+MDE Standards to nondiagnostic medical equipment, especially equipment used for
+therapeutic or treatment purposes. Other commenters urged the Department not to
+expand the requirements beyond MDE at this time. Some commenters also stated that
+the Department lacks technical expertise to unilaterally impose technical standards on a
+broad range of nondiagnostic medical equipment. One commenter recommended that
+if the Department adopts enforceable standards regarding the accessibility of
+nondiagnostic medical equipment, the Department should first explain its proposed
+approach in detail to allow for additional public input on the types of nondiagnostic
+medical equipment to which those standards would apply.
+
+The Department agrees that any extension of the MDE Standards to nondiagnostic
+medical equipment, or the adoption of any new standards for nondiagnostic medical
+equipment, should be informed by the Access Board’s extensive knowledge and
+technical acumen, as well as by additional public input. If, in the future, the Department
+adopts enforceable technical standards concerning the accessibility of nondiagnostic
+medical equipment, it will consult with the Access Board and other Federal partners and
+make clear to covered entities what types of equipment will be required to meet those
+standards. But because the Access Board has not developed specific technical
+standards regarding the accessibility of nondiagnostic medical equipment, and given the
+need to provide public entities with clarity about the scope of any standards the
+Department is adopting, the Department declines to adopt enforceable technical
+standards for nondiagnostic medical equipment or otherwise extend the Access Board’s
+standards at this time.
+
+The Access Board’s standards apply only to equipment that is used in, or in conjunction
+with, medical settings by health care providers for diagnostic purposes. As noted in the
+NPRM, equipment used for both diagnostic purposes and other purposes (such as
+therapeutic or treatment purposes) is MDE if it otherwise meets this definition, and must
+therefore meet the requirements for accessible MDE set forth in subpart I of this part.
+The Department will continue to consider whether to conduct further rulemaking in the
+future.
+
+Several commenters emphasized the importance of accessibility in the provision of
+health care services that use medical equipment, whether that equipment is used for
+diagnostic purposes or not. The Department clarifies that public entities are already
+obligated to ensure that their services, programs, and activities do not exclude or
+discriminate against individuals with disabilities and are readily accessible to and usable
+by individuals with disabilities. {% fn 272 %} This obligation encompasses the provision of health
+care services by public entities, whether those services use MDE or not.
+
+### Subpart I-Accessibility of Medical Diagnostic Equipment
+
+The Department is creating a new subpart in its title II regulation. Subpart I of this part
+addresses the accessibility of public entities’ medical diagnostic equipment.
+
+#### Section 35.210 Requirements for Medical Diagnostic Equipment.
+
+This section provides general accessibility requirements for services, programs, and
+activities that public entities provide through or with the use of MDE. Public entities
+must ensure that their services, programs, and activities offered through or with the use
+of MDE are accessible to individuals with disabilities.
+
+Under this general provision (barring an applicable limitation or defense), a public entity
+that provides health care cannot deny services that it would otherwise provide to a
+patient with a disability because the provider lacks accessible MDE. A provider also
+cannot require a patient with a disability to bring someone along with them to help
+during an examination if similar requirements are not imposed on patients without
+disabilities. A patient may choose to bring another person such as a friend, family
+member, or personal care aide to an appointment, but regardless, the provider may
+need to provide reasonable assistance to enable the patient to receive medical care. {% fn 273 %}
+Such assistance may include, for example, helping a person who uses a wheelchair to
+transfer from their wheelchair to the examination table or diagnostic chair. {% fn 274 %} The
+provider cannot require the person accompanying the patient to assist.
+
+Individuals and groups, including disability advocacy organizations, individuals with
+disabilities and their family members, health care providers and associations, and
+manufacturers of medical equipment, submitted comments on the Department’s
+proposed rule. Overwhelmingly, the commenters expressed strong support for adopting
+the MDE Standards and requiring public entities to ensure that their services, programs, and activities offered through or with the use of MDE are accessible to individuals with
+disabilities.
+
+Many commenters described the importance of accessible MDE and provided firsthand
+accounts of instances when they or their family members were unable to receive health
+care or received substandard health care because providers lacked accessible
+examination tables, weight scales, or radiological or other diagnostic equipment. Several commenters recounted instances when they or their family members were
+unable to receive preventative health care services such as mammograms, prostate
+examinations, or dental examinations. Other commenters noted that they could not
+have their weight checked regularly because of the lack of accessible weight scales,
+resulting in health care risks such as a failure to provide the amount of medication
+required. Some commenters described entities’ expectations that individuals with
+mobility disabilities would be accompanied by companions to physically transfer them
+onto MDE. Disability advocacy groups also shared representative accounts submitted
+by their members, documenting the harms experienced by people with disabilities due
+to health care providers’ lack of accessible MDE.
+
+The Department agrees with commenters that accessible MDE is vital for health equity,
+person-centered care, and access to medical care for patients with disabilities. As
+discussed in the NPRM, research has documented that the scarcity of accessible MDE
+constitutes a significant barrier to access to care for patients with disabilities, resulting in
+a failure to provide adequate preventative health care and diagnostic examinations. {% fn 275 %}
+
+As explained in more detail in the NPRM, the Department is aware of many instances in
+which people with disabilities were denied access to needed care, were subjected to
+demeaning situations, or received substandard care because health care providers
+lacked accessible MDE. {% fn 276 %} The Department has taken action to enforce the ADA as it
+applies to the provision of health care services. {% fn 277 %} However, the lack of technical
+standards for accessible MDE before the Access Board issued the MDE Standards in
+2017, and the fact that, until now, the MDE Standards were not enforceable under title
+II, mean that these circumstances remain all too prevalent. Section 35.210 will help
+clarify public entities’ nondiscrimination obligations as they pertain to services,
+programs, and activities that use MDE.
+
+#### Section 35.211 Newly Purchased, Leased, or Otherwise Acquired Medical Diagnostic Equipment.
+
+For MDE that public entities purchase, lease, or otherwise acquire after October 8,
+2024, which is 60 days after the publication of the final rule in the Federal Register, the
+Department is adopting an approach that draws on the approach that the existing title II
+regulation applies to new construction and alterations of buildings and facilities. {% fn 278 %}
+Section 35.211(a) requires that all MDE that a public entity purchases, leases, or
+otherwise acquires more than 60 days after publication must be accessible, unless and
+until the scoping requirements set forth in more detail in § 35.211(b) are satisfied.
+
+As in the fixed or built environment, the accessibility of MDE is governed by a specific
+set of design standards promulgated by the Access Board that sets forth technical
+requirements for accessibility. So long as a public entity has the amount of accessible
+MDE set forth in the scoping requirements, the public entity is not required to continue
+to obtain accessible MDE when it purchases, leases, or otherwise acquires MDE after
+the final rule’s effective date. However, a public entity may choose to acquire additional
+accessible MDE even after it satisfies the scoping requirements.
+
+*Section 35.211(a) Requirements for Newly Purchased, Leased, or Otherwise Acquired Medical Diagnostic Equipment*
+
+Paragraph (a) adopts the January 9, 2017, version of the Access Board’s MDE
+Standards that was codified on July 1, 2017 (with the exception of the Access Board’s
+sunset provisions, as explained in the section-by-section analysis of the definition of the
+term “Standards for Accessible Medical Diagnostic Equipment” in § 35.104), as the
+standard governing whether MDE is accessible, and establishes one of the key
+requirements of subpart I of this part: that subject to applicable limitations and defenses,
+all MDE that public entities purchase, lease, or otherwise acquire more than 60 days
+after the publication of the final rule must meet the MDE Standards unless and until the
+public entity already has a sufficient amount of accessible MDE to satisfy the scoping
+requirements in § 35.211(b).
+
+As explained in more detail in section II.C of the preamble to the final rule (“Overview of
+Access Board’s MDE Standards”), the MDE Standards include technical criteria for
+equipment that is used when patients are (1) in a supine, prone, or side-lying position;
+(2) in a seated position; (3) in a wheelchair; or (4) in a standing position. They also
+contain standards for supports, communication, and operable parts. In addition, the
+MDE Standards contain requirements for equipment to be compatible with patient lifts
+where a patient would transfer under positions (1) and (2).
+
+Consistent with the language in 29 U.S.C. 794f(b), MDE covered under subpart I of this
+part includes examination tables, examination chairs (including chairs used for eye
+examinations or procedures and dental examinations or procedures), weight scales,
+mammography equipment, x-ray machines, and other radiological equipment commonly
+used for diagnostic purposes by health professionals. As noted in the section-by-
+section analysis of § 35.104, subpart I of this part covers medical equipment used by
+health professionals for diagnostic purposes even if it is also used for treatment purposes. Given the many barriers to health care that people with disabilities encounter
+due to inaccessible MDE, adopting the MDE Standards will give many people with
+disabilities an equal opportunity to participate in and benefit from public entities’ health
+care services, programs, and activities.
+
+In the NPRM, the Department sought comment on whether 60 days is an appropriate
+amount of time for these requirements to take effect. A number of commenters said 60
+days is the right amount of time, including one commenter who recommended no more
+than 60 days and another who recommended no less than 60 days. However, a few
+commenters thought 60 days would not be enough time to comply with these
+requirements. Those commenters expressed concern that it could be difficult for public
+entities to obtain accessible MDE and carry out this section’s requirements within 60
+days, and that a 60-day requirement would be too burdensome for small or under-
+resourced public entities in particular. One commenter said 60 days is the right amount
+of time for MDE that does not require construction, but that a longer timeframe should
+apply to MDE that necessitates construction in the room in which the MDE will be
+located, such as magnetic resonance imaging (“MRI”) scanners. One commenter
+recommended 180 days, not 60 days, to give public entities time to carry out this
+section’s requirements, and asked the Department to clarify whether public entities will
+be expected to comply with the scoping requirements set forth in § 35.211(b) upon the
+effective date of the final rule or later. The commenter recommended that public entities
+be given at least two years from the final rule’s publication date to achieve compliance
+with the scoping requirements.
+
+The Department agrees with the majority of commenters who commented on this issue
+and concludes that 60 days is the appropriate amount of time for the requirements set
+forth in § 35.211(a) to take effect because it strikes an appropriate balance between the
+immediate and urgent health care needs of individuals with disabilities and the
+constraints facing public entities. Therefore, all MDE that public entities acquire more
+than 60 days after publication shall meet the MDE Standards, unless and until the
+scoping requirements in § 35.211(b) are met. In response to the commenters who are
+concerned that a 60-day time period will be too burdensome, the Department notes that
+public entities are not required to take steps that would result in an undue burden or a
+fundamental alteration, as set forth in more detail in § 35.211(e). The Department also
+notes that public entities have been on notice since the NPRM was issued in January
+2024 that the Department was considering imposing this requirement, giving them time
+to prepare to carry out the requirements of subpart I of this part.
+
+The Department also clarifies that, once it takes effect 60 days after publication,
+§ 35.211(a) will only require MDE to meet the MDE Standards if it is acquired after the
+effective date (subject to the scoping requirements and the other requirements and
+limitations of subpart I of this part). That means, for example, that if a public entity does
+not acquire any MDE until 180 days after publication, the MDE that the entity acquires
+180 days after publication will be required to meet the MDE Standards (assuming the
+entity has not already met the scoping requirements and no limitations apply), but the
+entity’s existing MDE will not be required to meet the MDE Standards. In other words, although the timeframe set forth in § 35.211(a) is 60 days after publication, the question
+of when a particular public entity’s MDE will be required to meet the MDE Standards will
+depend on when the entity acquires MDE after publication, which could be more than 60
+days after publication. This reinforces the Department’s conclusion that 60 days is the
+appropriate amount of time for § 35.211(a) to take effect.
+
+The Department also clarifies that to “purchase, lease, or otherwise acquire” MDE more
+than 60 days after publication means to acquire MDE by any means. A few
+commenters requested that the Department make clear that leases include lease
+renewals, and that acquisitions include acquisitions in any form, including, but not
+limited to, acquisitions via gifts or loans, as well as both temporary and permanent
+acquisitions. To avoid any confusion, the Department is clarifying in the § 35.211(a)
+regulatory text that the term “lease” includes the renewal of existing leases. The
+Department’s intent is that the term “lease” includes lease renewals, and it is modifying
+the § 35.211(a) regulatory text to avoid any confusion. The Department also agrees
+with commenters that to “purchase, lease, or otherwise acquire” MDE in the context of
+subpart I of this part means to acquire MDE through any means, including, but not
+limited to, acquisitions via donations or loans, as well as both temporary and permanent
+acquisitions. This intent is reflected by the term “otherwise acquire” in the regulatory
+text.
+
+*Section 35.211(b) Scoping*
+
+Section 35.211(b) establishes scoping requirements for accessible MDE. Accessibility
+standards generally contain scoping requirements (how many accessible features are
+needed) and technical requirements (what makes a particular feature accessible). For
+example, the 2010 ADA Standards provide scoping requirements for how many toilet
+compartments in a particular toilet room must be accessible and provide technical
+requirements on what makes these toilet compartments accessible. {% fn 279 %} The MDE
+Standards issued by the Access Board contain technical requirements, but they do not
+specify scoping requirements. Rather, they state that “[t]he enforcing authority shall
+specify the number and type of diagnostic equipment that are required to comply with
+the MDE Standards.” {% fn 280 %} For the technical requirements to be implemented and enforced
+effectively, it is necessary for the Department to provide scoping requirements to specify
+how much accessible MDE is needed for a public entity’s health care service, program,
+or activity to comply with the ADA.
+
+Paragraphs (b)(1) through (3) of § 35.211 lay out scoping requirements for this section.
+The scoping requirements that the Department is establishing are based on the
+requirements that the 2010 ADA Standards establish for accessible patient sleeping
+rooms and parking in hospitals, rehabilitation facilities, psychiatric facilities,
+detoxification facilities, and outpatient physical therapy facilities. {% fn 281 %} Because public entities must comply with title II of the ADA, many public entities are likely already
+familiar with these standards.
+
+The Department drew on the following approaches from the 2010 ADA Standards in
+formulating the scoping requirements for the final rule. According to the 2010 ADA
+Standards, licensed medical care facilities and licensed long-term care facilities where
+the period of stay exceeds 24 hours shall provide accessible patient or resident sleeping
+rooms and disperse them proportionately by type of medical specialty. {% fn 282 %} Where
+sleeping rooms are altered or added, the sleeping rooms being altered or added shall
+be made accessible until the minimum number of accessible sleeping rooms is
+provided. {% fn 283 %} Hospitals, rehabilitation facilities, psychiatric facilities, and detoxification
+facilities that do not specialize in treating conditions that affect mobility shall have at
+least 10 percent of their patient sleeping rooms, but no fewer than one sleeping room,
+provide specific accessibility features for patients with mobility disabilities. {% fn 284 %} Hospitals,
+rehabilitation facilities, psychiatric facilities, and detoxification facilities that specialize in
+treating conditions that affect mobility must have 100 percent of their patient sleeping
+rooms provide specific accessibility features for patients with mobility disabilities. {% fn 285 %} In
+addition, at least 20 percent of patient and visitor parking spaces at outpatient physical
+therapy facilities and rehabilitation facilities specialized in treating conditions that affect
+mobility must be accessible. {% fn 286 %} Several of these approaches are reflected in the scoping
+requirements adopted in paragraph (b) of § 35.211 for MDE.
+
+Paragraph (b)(1) of § 35.211 provides the general requirement for physicians’ offices,
+clinics, emergency rooms, hospitals, outpatient facilities, multi-use facilities, and other
+medical services, programs, and activities that do not specialize in treating conditions
+that affect mobility. When these entities use MDE to provide services, programs, or
+activities, they must ensure that at least 10 percent, but no fewer than one unit, of each
+type of equipment complies with the MDE Standards. For example, a medical practice
+with 20 examination chairs must have 2 examination chairs (10 percent of the total) that
+comply with the MDE Standards. In a medical practice with five examination chairs, the
+practice must have one examination chair that complies with the MDE Standards
+(because every entity covered by this provision must have no fewer than one unit of
+each type of equipment that is accessible). If a dental practice has one x-ray machine,
+that x-ray machine must be accessible. However, these requirements do not apply until
+an entity newly acquires MDE, as explained in the section-by-section analysis of
+§ 35.211(a).
+
+Paragraph (b)(2) of § 35.211 provides the scoping requirement for rehabilitation facilities
+that specialize in treating conditions that affect mobility; outpatient physical therapy
+facilities; and other medical services, programs, and activities that specialize in treating
+conditions that affect mobility. This paragraph requires that at least 20 percent of each type of MDE used in these types of services, programs, and activities, but no fewer than
+one unit of each type of MDE, must comply with the MDE Standards. Because these
+facilities specialize in treating patients who are likely to need accessible MDE, it is
+reasonable for them to be required to have more accessible MDE than is required for
+the health care providers covered by paragraph (b)(1), who do not have the same
+specialization. As with paragraph (b)(1), the scoping requirements of paragraph (b)(2)
+do not apply until an entity newly acquires MDE.
+
+The Department received many comments on the scoping percentages in
+§ 35.211(b)(1) and (2). Many commenters acknowledged the need to provide
+accessible MDE and supported the inclusion of scoping requirements. Some
+commenters expressed concern that the scoping requirements could have a profound
+financial and operational impact on small hospitals, potentially leading to reduced
+availability of essential diagnostic services in rural and underserved areas; expressed
+concern about the amount of accessible MDE currently available on the market; or
+requested more time to acquire MDE that meets the MDE Standards and resources to
+help health care providers comply. Many other commenters, including disability
+advocates and disability rights organizations, voiced concerns that the scoping
+provisions are too low to meet demand among people with mobility disabilities. Without
+a requirement that a larger percentage of MDE or 100 percent of MDE be accessible,
+they asserted that patients with disabilities will have fewer scheduling options or longer
+wait times than nondisabled patients. One commenter also stated that it would be
+simpler and clearer to require all newly acquired MDE to be accessible. Another
+commenter noted that while it would be ideal for all MDE to be accessible, this would
+place an undue burden on health care providers, and the needs of individuals with
+disabilities can be fully addressed if health care providers have some accessible MDE
+and engage in proper planning to prevent delays and denials in the delivery of health
+care services.
+
+Many of the commenters who viewed the scoping requirements as too low objected to
+modeling the scoping requirements on the requirements that the 2010 ADA Standards
+establish for accessible patient sleeping rooms and parking in hospitals, rehabilitation
+facilities, psychiatric facilities, detoxification facilities, and outpatient physical therapy
+facilities. Those commenters cited factors such as the prevalence of disability; the
+belief that accessible MDE is more in demand than accessible parking spaces; and the
+fact that, unlike accessible parking spaces, accessible MDE can also be used by
+nondisabled individuals. Some commenters suggested instead modeling the scoping
+requirements on the “replacement rule” that applies to transportation services under title
+II, which requires that all newly purchased and leased vehicles be readily accessible to
+and usable by people with disabilities. {% fn 287 %} Other commenters suggested different
+approaches, such as imposing higher scoping requirements for MDE that is used to
+provide preventive services outlined by the U.S. Preventive Services Task Force, or
+imposing higher scoping requirements for MDE that is used more frequently.
+
+While several commenters opposed having different scoping requirements in
+§ 35.211(b)(1) and (2), others supported the approach of imposing a higher scoping
+requirement in § 35.211(b)(2) (for facilities that specialize in treating conditions that
+affect mobility) than in § 35.211(b)(1) (for other facilities). Other commenters noted the
+importance of considering the department and type of facility in formulating the scoping
+requirements.
+
+The Department appreciates all of the comments on the scoping requirements in
+§ 35.211(b). The Department acknowledges the concerns of commenters who believe
+health care providers might have difficulty complying with the scoping requirements, as
+well as the countervailing concerns of commenters seeking more stringent scoping
+requirements. As discussed in section III.A.2 of the preamble to the final rule, the
+Department certifies that the final rule will not have a significant impact on a substantial
+number of small entities. While the Department appreciates that the final rule may
+result in increased demand for accessible MDE, commenters did not submit data to
+suggest that the market cannot bear the additional demand. In any case, if equipment
+that meets the MDE Standards is unavailable, the fundamental alteration or undue
+burdens limitations may apply, as explained in § 35.211(e).
+
+The Department recognizes that there are many potential models on which it could base
+its scoping requirements and acknowledges that the needs underlying the accessible
+parking model are not perfectly aligned with the needs underpinning accessible MDE.
+However, the Department continues to believe that the use of MDE is analogous to the
+use of parking spaces at rehabilitation facilities because, as with parking spaces,
+several different patients with mobility disabilities can use the same piece of MDE in a
+day.
+
+As explained in the NPRM, the Department considered whether to require 100 percent
+of MDE in these programs to be accessible, like section 223.2.2 of the 2010 ADA
+Standards, which requires that 100 percent of patient sleeping rooms in similar facilities
+provide specific accessibility features for patients with mobility disabilities. The
+Department concluded that the time-limited use of MDE is more analogous to the use of
+parking spaces at a rehabilitation facility than to the use of sleeping rooms because,
+unlike MDE, sleeping rooms are generally occupied for all or a significant part of the
+day. Thus, § 35.211(b) draws on the 2010 ADA Standards’ scoping requirements by
+requiring, in § 35.211(b)(1), at least 20 percent (but no fewer than one unit) of each type
+of equipment in use in facilities that specialize in treating conditions that affect mobility
+to meet the MDE Standards, and requiring, in § 35.211(b)(2), at least 10 percent (but no
+fewer than one unit) of each type of equipment in use in other facilities to meet the MDE
+Standards. Imposing higher scoping requirements for facilities that specialize in the
+treatment of conditions that affect mobility has proven to be a workable framework in the
+context of the 2010 ADA Standards’ scoping requirements, and the Department
+believes this will also be a helpful framework for the MDE scoping requirements.
+
+In view of demands on provider entities, {% fn 288 %} the Department will not increase the scoping requirements beyond 10 percent for § 35.211(b)(1) and 20 percent for § 35.211(b)(2) at
+this time. The Department does not agree with several commenters who opined that
+the use of MDE is analogous to the use of vehicles covered by the ADA title II
+transportation accessibility requirements. MDE often cannot be retrofitted to be
+accessible with the same ease or cost ratio as transportation retrofits. For example,
+inaccessible weight scales typically do not have large platforms that are required for
+wheelchair access. Inaccessible examination tables are usually fixed height “box”
+tables with static bases, and possibly drawers, that cannot easily be replaced with
+adjustable mechanisms. {% fn 289 %} The Department therefore declines to adopt an approach
+akin to the “replacement rule” that applies in the title II transportation accessibility
+context, which would require that 100 percent of newly acquired MDE be accessible. {% fn 290 %}
+And although one commenter suggested relying on the U.S. Preventive Services Task
+Force recommendations, the Department does not believe that these recommendations
+would serve as a useful basis for the scoping requirements in § 35.211(b). The U.S.
+Preventive Services Task Force makes evidence-based recommendations on clinical
+preventive services and health promotion in primary care settings, {% fn 291 %} but those
+recommendations are not primarily about the use of MDE and therefore do not serve as
+a useful model for scoping requirements related to MDE.
+
+The Department also does not believe it is necessary to impose higher scoping
+requirements for MDE that is used more frequently than other types of MDE, as some
+commenters suggested. Providers are likely to have more units of the types of MDE
+that are used more frequently, and the more units of MDE a provider has, the more units
+will need to be accessible according to the scoping requirements.
+
+The Department therefore will not increase the scoping requirements set forth in
+§ 35.211(b) at this time or eliminate the distinction between the general scoping
+requirements in § 35.211(b)(1) and the scoping requirements for facilities that specialize
+in treating conditions that affect mobility in § 35.211(b)(2). The Department notes that,
+because paragraph (b) requires that at least one unit of each type of MDE in use meet
+the MDE Standards irrespective of the percentage requirements, some smaller health
+care providers will be required to have a proportion of accessible MDE that exceeds 10
+percent for paragraph (b)(1) or 20 percent for paragraph (b)(2). For example, barring an
+applicable limitation or defense, a provider with two dental chairs will be required to
+have at least one dental chair that meets the MDE Standards, which is 50 percent of the
+provider’s total.
+
+The Department also clarifies that the scoping requirements set forth in § 35.211(b)
+must be read in conjunction with the requirements set forth elsewhere in subpart I of this
+part. Section 35.210 prohibits public entities from excluding, denying benefits to, or
+otherwise discriminating against people with disabilities in services, programs, or
+activities that use MDE, and § 35.212 requires that each service, program, or activity
+that uses MDE be readily accessible to and usable by people with disabilities in its
+entirety, independent of the scoping requirements for newly acquired MDE set forth in
+§ 35.211(b). That means, for example, that denying a physical examination to a patient
+with a disability because of the lack of accessible MDE may violate the
+nondiscrimination obligation set forth in § 35.210, even if the scoping requirements set
+forth in § 35.211(b)(1) and (2) have not yet been triggered by the new acquisition of
+MDE. As another example, if, even after a provider complies with the scoping
+requirements set forth in § 35.211(b)(1) and (2), patients with disabilities have
+significantly fewer scheduling options than nondisabled patients, that could implicate the
+obligation in § 35.212 to make public entities’ services, programs, and activities readily
+accessible to and usable by individuals with disabilities. Public entities may determine
+that the most effective way to carry out the obligations set forth in §§ 35.210 and 35.212
+will be to acquire additional accessible MDE beyond the scoping requirements set forth
+in § 35.211(b)(1) and (2).
+
+Finally, one commenter requested clarification on whether the required number of units
+of accessible MDE should be rounded up or down if application of the scoping
+percentages does not yield a whole number. If application of the scoping percentages
+yields a number less than one, the number will need to be rounded up to one because
+§ 35.211(b)(1) and (2) require that no fewer than one unit of each type of equipment in
+use meet the MDE Standards. If application of the scoping percentages yields a
+number greater than one, the standard mathematics rule on rounding decimals to whole
+numbers applies to the scoping requirements in § 35.211(b)(1) and (2). {% fn 292 %}
+
+Section 35.211(b)(3) addresses facilities or programs with multiple departments, clinics,
+or specialties. In any facility or program that has multiple departments, clinics, or
+specialties, where a service, program, or activity utilizes MDE, the accessible MDE
+required by paragraphs (b)(1) and (2) shall be dispersed proportionately across
+departments, clinics, or specialties. For example, a hospital that is required to have five
+accessible x-ray machines cannot place all the accessible x-ray machines in the
+orthopedics department and none in the emergency department. This dispersion
+requirement is analogous to the existing title II ADA regulation that requires dispersion of accessible sleeping rooms in medical care facilities that do not specialize in the
+treatment of conditions that affect mobility. {% fn 293 %}
+
+Section 35.211(b)(3) does not require that accessible MDE be dispersed with exact
+mathematical proportionality, which at times would be impossible. Section 35.211(b)(3)
+also does not require public entities to acquire additional MDE, beyond the amount
+specified in paragraphs (b)(1) and (2), to ensure that accessible MDE is available in
+every department, clinic, and specialty. This approach is consistent with many
+provisions of the 2010 ADA Standards. {% fn 294 %} Additionally, if § 35.211(b)(3) were to require
+full dispersion across every department, clinic, and specialty, it could create
+inconsistency or confusion between the dispersion and scoping requirements. For
+example, if a health care program that operated out of three clinics was required to have
+two units of accessible MDE according to the scoping provisions, then if paragraph
+(b)(3) required public entities to disperse their accessible MDE across every
+department, clinic, and specialty, the entity could meet the scoping requirements but
+would nonetheless violate the dispersion requirements because the two units of
+accessible MDE that the scoping provision required would not be enough to fully
+disperse across all three clinics. If paragraph (b)(3) required public entities to disperse
+fully across every department, clinic, and specialty, it could also be difficult to determine
+whether more precise dispersion requirements had been met. For example, a clinic
+may be part of a department and also part of a specialty (or include providers with
+multiple specialties), so determining whether accessible MDE was dispersed with
+precision across each department, clinic, and specialty could become complex.
+
+Even if a public entity’s facility or program with multiple departments, clinics, or
+specialties will not be able to disperse its accessible MDE with mathematical precision
+across every department, clinic, and specialty, public entities must still afford people
+with disabilities an opportunity to benefit from each type of medical care that is equal to
+the opportunity provided to people without disabilities.49F {% fn 295 %} The Department recognizes
+that it is critically important for people with disabilities to have access to all types of
+medical care. Therefore, public entities are still required to ensure that all of their
+services, programs, and activities are accessible to and usable by individuals with
+disabilities, regardless of whether the dispersion provision in paragraph (b)(3) requires a
+specific department, clinic, or specialty to have accessible MDE.
+
+The Department appreciates the comments it received on its proposed dispersion
+requirements. Though some commenters supported the Department’s proposed
+approach to dispersion, many commenters did not believe the dispersion requirements
+were sufficient to meet the needs of individuals with disabilities. These commenters felt
+that additional requirements should be added to ensure adequate dispersion.
+
+Commenters proposed a range of different requirements, including requirements for
+each department or specialty; for every floor and building; for each facility; for every
+subpart of a larger entity that has the capacity to manage its own booking system; and
+for a particular geographic radius. Some commenters also proposed that each
+department, clinic, or specialty be required to have one or two examination tables and
+weight scales. One commenter supported a flexible approach to dispersion, whereby
+accessible MDE would be made available where it is needed.
+
+For the reasons discussed in the section-by-section analysis of § 35.211(b), the
+Department continues to believe that the approach to dispersion set forth in
+§ 35.211(b)(3) is appropriate and consistent with existing law. In light of the demands
+that increased dispersion requirements would impose on public entities, the Department
+is not expanding the dispersion requirements at this time. However, the Department
+emphasizes that compliance with the dispersion requirement does not excuse public
+entities from complying with their nondiscrimination obligations under the existing title II
+regulation or §§ 35.210 and 35.212.
+
+The National Council on Disability, an independent Federal agency charged with
+advising the President, Congress, and other Federal agencies on policies, programs,
+practices, and procedures that affect people with disabilities, stated that the Department
+should require that as a facility or program acquires accessible MDE, it should ensure
+that at least one accessible examination table and one weight scale are located in every
+department, clinic, or specialty. The Department declines to adopt this suggestion so
+that public entities will retain the flexibility to determine how they will comply with the
+dispersion requirements in § 35.211(b)(3), in light of each public entity’s particular
+circumstances. Though the text of § 35.211(b)(3) requires public entities to disperse, in
+a proportionate manner, the accessible MDE required by paragraphs (b)(1) and (2), the
+Department encourages public entities to disperse all of their accessible MDE
+proportionately, where they have more accessible MDE than paragraphs (b)(1) and (2)
+require.
+
+Other commenters proposed that the Department require the dispersion of equipment or
+personnel other than MDE, such as wheelchairs that can be used around MRI scanners
+and patient lifts or transfer teams, as well as the dispersion of MDE based on weight or
+size capacity. The Department declines to adopt requirements for the other types of
+dispersion proposed by these commenters at this time. In this rulemaking, the
+Department is adopting the January 9, 2017, version of the MDE Standards
+promulgated by the Access Board {% fn 296 %} (with the exception of the sunset provisions, as
+explained in the section-by-section analysis of § 35.104) and making those standards
+enforceable. The MDE Standards do not include requirements for wheelchairs,
+equipment with greater weight or size capacity, patient lifts, or transfer teams. The
+Department will relay the commenters’ views to the Access Board for consideration if
+the Access Board revises the MDE Standards on this subject in the future.
+
+Many commenters raised concerns about the burdens that the approach to dispersion in
+subpart I of this part could impose on people with disabilities. These included delays in
+diagnosis and care, with the possibility of associated harm to the patient’s health or life;
+increased wait times; cancelled or rescheduled appointments; a lack of expertise if
+patients need to receive some care from other departments or specialties; less effective
+treatment; the need for accessible, affordable transportation to other locations where
+accessible MDE is available; a lack of choice for patients with disabilities about where
+they will receive care; a lack of privacy if accessible MDE is located in a shared space;
+and embarrassment, humiliation, frustration, stress, and pain.
+
+The Department reiterates that the lack of additional or more specific dispersion
+requirements than those set forth in § 35.211(b)(3) does not excuse public entities from
+complying with their nondiscrimination obligations under the existing title II regulation or
+§§ 35.210 and 35.212. If public entities’ dispersion of accessible MDE imposes the
+burdens on individuals with disabilities that some commenters described, then that
+situation could result in discrimination because the public entity’s MDE is not readily
+accessible to and usable by persons with disabilities as required by § 35.210. Likewise,
+such a situation could result in the public entity’s service, program, or activity in its
+entirety not being readily accessible to and usable by patients with disabilities as
+required by § 35.212. Public entities are encouraged to acquire additional accessible
+MDE and disperse that MDE across departments, clinics, and specialties to better meet
+the needs of patients with disabilities.
+
+One commenter proposed that the Department adopt a specific limit on wait times to
+ensure that people with disabilities do not have to wait significantly longer to access
+services than people without disabilities because of the amount of accessible MDE in a
+particular location or because patients need to travel to a different location to use
+accessible MDE. The Department declines to adopt a specific wait time limit because
+whether a particular wait time is justifiable may depend on the circumstances, including
+the overall demand for services and the wait times experienced by patients without
+disabilities. However, the Department notes that if patients with disabilities experience
+significantly longer wait times than patients without disabilities seeking comparable
+services at comparable times, this could violate § 35.210 or § 35.212.
+
+Other commenters asked the Department to require public entities to offer and pay for
+accessible transportation when patients need to travel to other locations to use
+accessible MDE. The Department declines to adopt this requirement at this time
+because it has concluded that the requirements set forth elsewhere are sufficient to
+address the commenters’ concerns. More specifically, a failure to provide accessible
+transportation when patients with disabilities need to travel to other locations to use
+accessible MDE, but nondisabled patients do not need to travel to other locations to
+receive care, or a requirement that patients incur additional costs to use accessible
+MDE, could violate § 35.210 or § 35.212 or more generalized nondiscrimination
+requirements in the existing title II regulation. {% fn 297 %}
+
+Many commenters also raised concerns about the burdens that the approach to
+dispersion in § 35.211(b)(3) may impose on public entities. Some commenters stated
+that it might be difficult or impossible for some types of MDE to be moved, but
+commenters also noted that some types of MDE might be more portable or easily
+shared. A few commenters stated that there might not be sufficient space in some
+existing medical facilities for accessible MDE. Other commenters noted potential
+difficulties that may arise if public entities share accessible MDE between clinics or
+departments. These include delays and increased wait times; the need to identify,
+locate, move, and track accessible MDE; the need to transport patients; the need to
+recalibrate MDE after it is moved; unnecessary work for staff to locate or move
+accessible MDE if the patient who needed it has to reschedule; conflicts among multiple
+patients or departments who need the accessible MDE; last-minute needs for
+accessible MDE; and the need to determine how to provide care if shared accessible
+MDE is not available. While the Department acknowledges and appreciates the
+concerns raised by these commenters, it declines to change the dispersion requirement
+of paragraph (b)(3) because, for all of the reasons already stated, it finds that the
+current requirement is appropriate. Further, some of the challenges noted by these
+commenters might be mitigated by exercising the flexibility public entities retain to
+determine how they will meet the dispersion and nondiscrimination requirements in
+subpart I of this part, so long as they satisfy the minimum scoping requirements in
+§ 35.211(b)(1) and (2).
+
+Commenters also stated that, to share or move accessible MDE, patients would need to
+provide notice of their need for accessible MDE when booking an appointment and
+opined that booking systems and public information should clearly indicate where and
+when accessible MDE is available. At this time, the Department declines to adopt
+additional procedural requirements that certain information about the availability of
+accessible MDE be made available or that the need for accessible MDE be recorded as
+part of the booking process because public entities should have flexibility to meet the
+requirements of subpart I of this part in a manner that is appropriate to their resources
+and systems. However, it may be helpful or necessary for public entities to request
+information about patients’ needs and make information about accessible MDE
+available to patients and staff where feasible. Doing so is likely to better position public
+entities to provide care in a nondiscriminatory manner, while enabling patients with
+disabilities to make informed decisions about their care. Providing information to staff
+about the availability of accessible MDE may also enable public entities to meet their
+other obligations under subpart I of this part, including the obligation in § 35.213 to
+ensure that their staff are able to carry out the program accessibility obligation set forth
+in § 35.212.
+
+The Department recognizes there may be situations in which a public entity’s facility or
+program shares one piece of a particular type of accessible MDE among all
+departments, clinics, or specialties. In a small facility or program with a limited number
+of departments, clinics, or specialties in the same building, that situation may provide
+equal access for all patients with disabilities who need accessible MDE. However,
+depending on the circumstances, it may be necessary or advisable to have at least one
+unit of accessible MDE in each department, clinic, or specialty, so that patients with
+disabilities do not need to traverse between departments, clinics, or specialties for care.
+The Department recognizes the varying circumstances of different public entities and
+health care settings. Whether a public entity can share accessible MDE between
+departments, clinics, or specialties and still carry out its obligations under subpart I of
+this part will depend on the circumstances.
+
+Public entities must ensure that the dispersion of their accessible MDE does not
+discriminate against people with disabilities. If a public entity requires a patient with a
+disability who needs accessible MDE to use the MDE of another department, clinic, or
+specialty, or to use MDE in a different location, the public entity must ensure that the
+MDE and the service, program, or activity in its entirety are readily accessible to and
+usable by the patient, as required by §§ 35.210 and 35.212. Factors to consider in
+determining whether this standard has been met may include, among other things,
+whether the MDE is readily available and not a significant distance from where the
+patient is seeking care; whether changing locations during the patient visit significantly
+increases wait times; whether the patient is required to be undressed or partially
+dressed to use the MDE (if, for example, the patient has to go to a different part of the
+same building to use the accessible MDE); and whether the public entity provides
+assistance in moving between locations.
+
+A public entity may be able to take other measures to ensure that its MDE and its
+services, programs, and activities in their entirety are readily accessible to and usable
+by patients with disabilities. For example, it could offer home visits that provide equal
+access to care or accessible transportation to patients with disabilities at no cost to
+them within a reasonable timeframe.
+
+*Section 35.211(c) Requirements for Examination Tables and Weight Scales*
+
+Section 35.211(c) sets forth specific requirements for examination tables and weight
+scales. Paragraph (c)(1) requires public entities that use at least one examination table
+in their service, program, or activity to purchase, lease, or otherwise acquire, within two
+years after the publication of this part in final form, at least one examination table that
+meets the requirements of the MDE Standards, unless the entity already has one.
+Similarly, paragraph (c)(2) requires public entities that use at least one weight scale in
+their service, program, or activity, to purchase, lease, or otherwise acquire, within two
+years after the publication of this part in final form, at least one weight scale that meets
+the requirements of the MDE Standards, unless the entity already has one. This
+requirement is subject to the other requirements and limitations set forth in § 35.211.
+Thus, § 35.211(c) does not require a public entity to acquire an accessible examination
+table and an accessible weight scale if doing so would result in a fundamental alteration
+in the nature of the service, program, or activity or in undue financial and administrative
+burdens, as explained in § 35.211(e) and (f). In addition, public entities may use
+designs, products, or technologies as alternatives to those prescribed by the MDE
+Standards if the criteria set forth in § 35.211(d) are satisfied.
+
+The Department received many comments in support of the requirements set forth in
+§ 35.211(c), including comments from public entities and individuals with disabilities.
+Many commenters provided firsthand accounts of being unable to receive health care or
+receiving substandard care because of a lack of accessible examination tables or
+weight scales. Commenters also described receiving incomplete physical examinations
+because they could not transfer to an examination table, or forgoing routine
+examinations, such as abdominal palpations and breast examinations, due to a lack of
+accessible examination tables. Some noted that many medicines, including
+chemotherapy and anesthesia, are dosed based on weight, yet a lack of accessible
+weight scales makes it impossible for many people with disabilities to be accurately
+weighed. Similarly, disability advocacy groups shared representative accounts of harms
+that people with disabilities have experienced due to the inaccessibility of examination
+tables and weight scales.
+
+Some commenters expressed concern that the requirements set forth in § 35.211(c) are
+insufficient. A few commenters urged the Department to require public entities to obtain
+more than one examination table or weight scale, particularly in facilities that focus on
+conditions that affect mobility. Other commenters asked the Department to require one
+examination table and weight scale per department, clinic, or specialty. The
+Department clarifies that the requirements in § 35.211(c) must be viewed in conjunction
+with the other requirements of subpart I of this part. For example, although § 35.211(c)
+requires public entities to obtain at least one accessible examination table and at least
+one accessible weight scale within two years, public entities may be required to obtain
+more than one examination table or weight scale based on the scoping requirements
+set forth in § 35.211(b). In addition, public entities are subject to the nondiscrimination
+and program access obligations in §§ 35.210 and 35.212, and the acquisition of multiple
+accessible examination tables or weight scales may be the most effective way to satisfy
+those obligations.
+
+The Department requested public comment on the potential impact of the requirements
+in § 35.211(c) on people with disabilities and public entities. Several disability advocacy
+groups wrote that there are accessible weight scales on the market at varying costs,
+and that covered entities can also purchase or lease refurbished weight scales. The
+National Council on Disability commented that the economic impact on public entities
+will be modest and will be offset by the positive economic impact of more people being
+able to access preventative care. One commenter who uses a wheelchair noted that
+frequent delays during medical appointments due to a shortage of accessible
+examination tables and weight scales cost her money by preventing her from working.
+
+Offering a different perspective, a few commenters expressed concern that it will be too
+expensive or logistically burdensome for providers to acquire the accessible MDE that
+§ 35.211(c) requires. Some commenters suggested that the Department help providers
+pay for accessible MDE, including accessible examination tables and weight scales.
+
+While the Department acknowledges the concerns of health care providers that will be
+required to carry out the obligations set forth in § 35.211(c), giving providers two years to meet the requirement for examination tables and weight scales, in particular, will
+improve access to basic diagnostic services for individuals with disabilities, while
+permitting providers to plan for the costs. Many of the comments that the Department
+received that describe the experiences of people with disabilities demonstrate the need
+for this requirement and the harm that a lack of accessible examination tables and
+weight scales can cause.
+
+Regarding commenters’ concerns about the cost of compliance, the Department does
+not currently operate a grant program to assist public entities in complying with the
+ADA. However, the Department notes that, pursuant to § 35.211(e), public entities are
+not required to take any action that would result in a fundamental alteration in the nature
+of a service, program, or activity, or in undue financial and administrative burdens.
+Given the availability of these limitations, the Department believes it is appropriate to
+retain the requirements set forth in § 35.211(c).
+
+Regarding whether two years is an appropriate amount of time for entities to comply
+with the requirements in § 35.211(c), commenters had diverse perspectives. While
+many commenters agreed with the Department’s choice of two years, some, including
+individuals with disabilities, the National Council on Disability, and disability advocacy
+groups, stated that two years is too long. Others stated that two years is not long
+enough for public entities to comply with this requirement, particularly if entities have
+limited resources or if equipment is not readily available. Some commenters suggested
+a phased implementation approach.
+
+Given the health disparities and barriers to care facing individuals with disabilities, {% fn 298 %} and
+the importance of examination tables and weight scales for the provision of basic health
+care services, the Department does not believe an extension of the two-year
+requirement or a phased implementation period for particular types of public entities is
+warranted. The fundamental alteration and undue burdens provisions account for the difficulty that some entities might have complying with the requirements of subpart I of
+this part.
+
+The Department also does not believe a period shorter than two years for compliance
+with § 35.211(c) is warranted. Although the Department recognizes that individuals with
+disabilities face urgent health care needs, the Department must also consider the ability
+of entities to budget for and obtain accessible examination tables and weight scales
+under a feasible timeframe. Given all of these factors, the Department finds it
+appropriate to impose a two-year timeline for complying with the requirements for
+examination tables and weight scales in § 35.211(c).
+
+The Department notes, however, that even before the two-year requirement goes into
+effect, public entities are required to make their services, programs, and activities,
+including those that use MDE, accessible to people with disabilities. Even before the
+two-year deadline, if an entity denies a physical examination or fails to take an accurate
+weight because of a lack of an accessible examination table or weight scale, that may
+implicate the nondiscrimination obligation set forth in § 35.210 and the program access
+obligation set forth in § 35.212, as well as the obligations set forth in the existing title II
+regulation.
+
+Some commenters, including a State entity, the National Council on Disability, and
+multiple disability advocacy groups, expressed concern that, other than examination
+tables and weight scales, public entities are not required to obtain additional types of
+MDE within a specified period of time. The Department imposed a two-year
+requirement for examination tables and weight scales because those two types of
+equipment are very common among primary care providers, important for a range of
+basic diagnostic health services, and relatively attainable compared to more expensive
+accessible imaging equipment. {% fn 299 %} Many people with disabilities are unable to receive
+even the most basic health care services because of inaccessible examination tables
+and weight scales. In view of demands on provider entities, particularly small practices
+and rural facilities, the Department will not require public entities to obtain accessible
+MDE other than examination tables and weight scales within two years. Public entities
+will, however, be required to ensure that other types of MDE are accessible when they
+are acquired in accordance with § 35.211(a), and they will be required to comply with
+§§ 35.210 and 35.212. And as discussed elsewhere in this appendix, the most effective
+way to carry out the requirements set forth in §§ 35.210 and 35.212 may be to acquire
+multiple types of accessible MDE, not only examination tables and weight scales.
+
+*Section 35.211(d) Equivalent Facilitation*
+
+Paragraph (d) of § 35.211 specifies that a public entity may use designs, products, or
+technologies as alternatives to those prescribed by the MDE Standards, for example, to
+incorporate innovations in accessibility. However, this provision applies only where the
+use of the alternative designs, products, or technologies results in substantially
+equivalent or greater accessibility and usability of the health care service, program, or
+activity than the MDE Standards require. It does not permit a public entity to use an
+innovation that reduces access below what the MDE Standards would require. The
+responsibility for demonstrating equivalent facilitation rests with the public entity.
+
+Several commenters wrote in support of the equivalent facilitation provision in
+§ 35.211(d). A couple of commenters suggested that the Department clarify that use of
+equivalent facilitation must not result in improved access to one group of people with
+disabilities at the expense of reduced access for others. The Department agrees that
+this provision does not apply if the use of an alternative design, product, or technology
+would make the health care service, program, or activity less accessible or usable for
+individuals with disabilities (or any group of individuals with disabilities) than the MDE
+Standards require.
+
+The same commenters also recommended that the Department require entities to
+individually assess the preferences and needs of people with disabilities and receive
+informed consent before using an alternative option. The Department declines to
+require entities to individually assess the preferences and needs of people with
+disabilities and receive informed consent before using alternative designs, products, or
+technologies. This provision is modeled on existing language in the ADA Standards. {% fn 300 %}
+Adopting the approach that commenters proposed would create inconsistency between
+subpart I of this part and other portions of the Department’s title II regulation, {% fn 301 %} which
+does not include the requirements for equivalent facilitation that commenters suggested.
+Further, requiring entities to engage in that sort of assessment with current or
+prospective patients could create an unworkable framework for public entities that had
+already obtained products that afforded equivalent or greater accessibility than the MDE
+Standards. However, nothing in this part requires patients to receive diagnostic health
+care services that they would prefer not to receive.
+
+*Section 35.211(e) Fundamental Alteration and Undue Burdens*
+
+Paragraph (e) of § 35.211 addresses the fundamental alteration and undue financial
+and administrative burdens limitations. While subpart I of this part generally requires
+public entities to adhere to the MDE Standards when newly purchasing, leasing, or
+otherwise acquiring MDE, it does not require public entities to take steps that would
+result in a fundamental alteration in the nature of their services, programs, or activities
+or in undue financial and administrative burdens. These limitations mirror the existing
+title II regulation at § 35.150(a)(3). If a particular action would result in a fundamental alteration or undue burdens, the public entity is obligated to take any other action that
+would not result in such an alteration or such burdens but would nevertheless ensure
+that individuals with disabilities receive the benefits or services the public entity
+provides.
+
+Many commenters wrote in support of the fundamental alteration and undue burdens
+limitations, with some noting that the approach strikes a thoughtful balance that will
+promote equal access to MDE for people with disabilities while mitigating the challenges
+and costs of implementation for public entities. While some commenters objected to the
+cost of complying with subpart I of this part, others said cost and acquisition difficulties
+should not be an excuse for noncompliance. A few commenters wrote that it is unlikely
+that an entity will reasonably be able to rely on these limitations at all. Some
+commenters wrote that people with disabilities historically have been forced to carry the
+burden, and the provision should consider the burden on people with disabilities in
+terms of factors like wait times, extra costs, and the availability of accessible providers.
+Some commenters asked the Department to clarify or define certain terms, such as
+“undue burden” or “fundamental alteration.” One comment suggested a particular
+method for making an undue burden calculation.
+
+A few commenters recommended that the Department establish exceptions according
+to a different framework. One suggested that the Department exempt whole categories
+of entities, including small practices, new practices, and practices in areas with a health
+professional shortage. Others suggested that the Department extend the compliance
+timeframes for certain categories of entities, including small, rural, and “safety-net”
+entities.
+
+The Department acknowledges commenters’ concerns that the fundamental alteration
+and undue burdens limitations will undermine access for people with disabilities.
+However, these limitations fall within the well-established title II framework, {% fn 302 %} and it is
+important for these limitations on obligations to remain consistent with part 35 as a
+whole. These limitations also require a more individualized inquiry than the categorical
+exceptions that some commenters suggested and will therefore strike a better balance
+between the accessibility needs of individuals with disabilities and the potential
+difficulties of compliance in particular circumstances. As noted in the preceding
+paragraphs, if an action would result in a fundamental alteration or undue burdens, the
+public entity must still take any other action that would ensure that individuals with
+disabilities receive the benefits or services the public entity provides.
+Because fundamental alteration and undue burdens are longstanding limitations under
+the ADA, {% fn 303 %} members of the public and public entities should already be familiar with
+these limitations in other contexts. The Department has provided guidance that
+addresses the fundamental alteration and undue burdens limitations, and will consider
+providing more in the future. {% fn 304 %} The Department’s existing guidance documents provide details on fundamental alteration and undue burdens determinations, including
+language explaining that such determinations should consider all resources available for
+use in the funding and operation of the service, program, or activity. {% fn 305 %} In the
+Department’s view, this guidance will help public entities use the fundamental alteration
+and undue burdens limitations appropriately.
+
+*Section 35.211(f) Diagnostically Required Structural or Operational Characteristics*
+
+Paragraph (f) of § 35.211 incorporates what M201.2 of the Access Board’s MDE
+Standards refers to as a General Exception. {% fn 306 %} The paragraph states that, where a
+public entity can demonstrate that compliance with the MDE Standards would alter
+diagnostically required structural or operational characteristics of the equipment,
+preventing the use of the equipment for its intended diagnostic purpose, compliance
+with the Standards would result in a fundamental alteration and therefore is not
+required.
+
+In the NPRM, the Department sought comment on whether the proposed exception in
+§ 35.211(f) is needed. Multiple commenters supported the Department’s approach,
+describing it as “thoughtful” and “balance[d].” Other commenters disagreed with this
+exception and recommended that the Department remove or amend it, stating that the
+exception is unnecessary, that it will be an overused loophole, or that it will stifle
+innovation.
+
+While the Department appreciates commenters’ opinions and concerns and recognizes
+the importance of providing accessible MDE to people with disabilities, the Department
+continues to believe that this exception is sometimes needed to preserve the
+functionality of MDE. For instance, as noted in the NPRM, the Department is aware that
+certain positron emission tomography (“PET”) machines cannot meet the MDE
+Standards’ technical requirements for accessibility and still serve their diagnostic
+function. Commenters did not provide information that called this into question. Rather,
+the Department received numerous comments, including several comments regarding
+radiological diagnostic services, stating that this exception is essential. These
+commenters expressed concern that the MDE Standards are incompatible with the safe
+design and use of some types of diagnostic imaging equipment. With respect to MRI
+machines in particular, a disability rights organization observed that structural attributes
+may prevent certain equipment from being made accessible, and noted the importance
+of providing alternatives to ensure accessibility for individuals who use metal
+wheelchairs or assistive equipment.
+
+In light of these factors, the Department will retain the exception in § 35.211(f). The
+Department expects, however, that this exception will apply only in rare cases. In such circumstances, the public entity must still take any other action that would not result in a
+fundamental alteration or undue burdens but would nevertheless ensure that individuals
+with disabilities receive the services, programs, or activities the public entity provides.
+For example, a PET machine that could not meet the MDE Standards and still serve its
+diagnostic function would not be required to meet the MDE Standards as a whole, but
+the public entity would still be required to meet all other applicable provisions of the
+MDE Standards, and to take any other action that would ensure that individuals with
+disabilities receive the public entity’s benefits or services without fundamentally altering
+the nature of the service, program, or activity, or imposing undue financial and
+administrative burdens. Such actions could include, for example, assisting patients with
+transferring to the scan table so that they can receive a PET scan.
+
+With respect to a commenter’s concern that this exception will stifle innovation, the
+Department appreciates both the value of innovation and the importance of ensuring
+that MDE used by individuals with disabilities can be used safely and in accordance with
+its intended diagnostic purpose, given the constraints of existing technology. The
+Department believes § 35.211(f) strikes an appropriate balance between these
+interests. Further, the reason for allowing for equivalent facilitation in § 35.211(d) is to
+encourage flexibility and innovation by public entities while still ensuring equal or greater
+access to MDE.
+
+In addition to commenters who recommended that the Department eliminate the
+exception in § 35.211(f), some commenters suggested changes to the regulatory text.
+One commenter suggested that the regulatory text should include language from the
+section-by-section analysis relating to the rare use of the provision and assistance
+transferring to a PET machine. The Department declines to incorporate these points
+into the regulatory text. Because the forgoing discussion reflects the Department’s
+expectation about the rare applicability of this provision, and because the discussion
+about PET scans is one representative example, this discussion is more appropriately
+situated in this appendix than in the regulatory text.
+
+A few commenters asked the Department to require that, where equipment’s structural
+or operational characteristics implicate the fundamental alteration limitation, covered
+entities must consider all possibilities to ensure the dignity and independence of the
+person with a disability. The Department declines to amend the regulatory text to
+explicitly state that public entities must consider all possibilities to ensure the dignity and
+independence of people with disabilities. While the Department encourages public
+entities to do so to the extent feasible, the Department believes that the obligations set
+forth in the regulatory text in §§ 35.210 and 35.212, when read together with the ADA
+and the general prohibition on discrimination in its implementing regulation, are
+sufficient to prevent discrimination without further changes to this section. {% fn 307 %}
+
+#### Section 35.212 Existing Medical Diagnostic Equipment.
+
+In addition to the requirements for newly purchased, leased, or otherwise acquired
+MDE, § 35.212 requires that public entities address access barriers resulting from a lack
+of accessible MDE in their existing inventory of equipment. Here subpart I of this part
+adopts an approach analogous to the concept of program accessibility in the existing
+regulation implementing title II of the ADA. {% fn 308 %} Under this approach, public entities may
+make their services, programs, and activities available to individuals with disabilities,
+without extensive retrofitting of their existing buildings and facilities that predate the
+regulation, by offering access to those programs through alternative methods. The
+Department adopts a similar approach with respect to MDE to provide flexibility to public
+entities, address financial concerns about acquiring new MDE, and at the same time
+ensure that individuals with disabilities will have access to public entities’ health care
+services, programs, and activities.
+
+Section 35.212 requires that each service, program, or activity of a public entity, when
+viewed in its entirety, be readily accessible to and usable by individuals with disabilities.
+Section 35.212(a)(1) makes clear, however, that a public entity is not required to make
+each piece of its existing MDE accessible. Like § 35.211(e), § 35.212(a)(2)
+incorporates the concepts of fundamental alteration and undue financial and
+administrative burdens. As addressed in more detail in the discussion of these
+limitations in the section-by-section analysis of § 35.211(e), the fundamental alteration
+and undue burdens provisions do not excuse a public entity from addressing the
+accessibility of the program. If a particular action would result in a fundamental
+alteration or undue burdens, the public entity is still obligated to take any other action
+that would ensure that individuals with disabilities are able to receive the public entity’s
+benefits and services. As with the fundamental alteration and undue burdens
+limitations, the discussion of the exception relating to diagnostically required structural
+or operational characteristics contained in the section-by-section analysis of § 35.211(f)
+applies equally to the Department’s approach to this exception in § 35.212(a)(3).
+
+The Department is also correcting a typographical error in § 35.212(a)(3). Section
+35.212(a)(3) states that an entity meets its burden of proving that compliance with
+§ 35.212(a) would result in a fundamental alteration under § 35.212(a)(2) if it
+demonstrates that compliance with § 35.212(a) would alter diagnostically required
+structural or operational characteristics of the equipment and prevent the use of the
+equipment for its intended diagnostic purpose. The NPRM mistakenly referred to
+§ 35.211(a) and (c) rather than to § 35.212(a).
+
+Section 35.212(b) describes various methods by which public entities can make their
+services, programs, and activities readily accessible to and usable by individuals with
+disabilities when the requirements set forth in § 35.211 have not been triggered by the
+new acquisition of MDE. Of course, the purchase, lease, or other acquisition of
+accessible MDE may often be the most effective way to achieve program accessibility.
+However, except as stated in § 35.211, a public entity is not required to purchase, lease,
+or otherwise acquire accessible MDE if other methods are effective in achieving
+compliance with subpart I of this part.
+
+For instance, if doctors at a medical practice have staff privileges at a local hospital that
+has accessible MDE, the medical practice may be able to achieve program accessibility
+by ensuring that the doctors see a person with a disability who needs accessible MDE
+at the hospital, rather than at the local office, so long as the person with a disability is
+afforded an opportunity to participate in or benefit from the service, program, or activity
+equal to that afforded to others. Similarly, if a medical practice has offices in several
+different locations, and one of the locations has accessible MDE, the medical practice
+may be able to achieve program accessibility by serving the patient who needs
+accessible MDE at that location. However, such an arrangement would not provide an
+equal opportunity to participate in or benefit from the service, program, or activity if it
+was, for example, significantly less convenient for the patient or if the visit to a different
+location resulted in higher costs for the patient.
+
+Similarly, if the scoping requirements set forth in § 35.211(b) require a public entity’s
+medical practice to have three accessible examination tables and an accessible weight
+scale, but the practice’s existing equipment includes only one accessible examination
+table and one accessible scale, then until the practice must comply with § 35.211, the
+practice can ensure that its services are readily accessible to and usable by people with
+disabilities by establishing operating procedures such that, when a patient with a
+mobility disability schedules an appointment, the accessible MDE can be reserved for
+the patient’s visit. In some cases, a public entity may be able to make its services
+readily accessible to and usable by individuals with disabilities by using a patient lift or a
+trained lift team, especially in instances in which a patient cannot or chooses not to
+independently transfer to the MDE in question. {% fn 309 %}
+
+If a public entity carries out its obligation under § 35.212(a) to make a service, program,
+or activity readily accessible to and usable by people with disabilities by purchasing,
+leasing, or otherwise acquiring accessible MDE, then that newly purchased, leased, or
+otherwise acquired MDE must comply with the requirements set forth in § 35.211.
+
+Several commenters recommended that the Department include more specificity
+regarding the methods by which public entities must make their services, programs, and
+activities readily accessible to and usable by individuals with disabilities. For example,
+one commenter suggested that the Department establish a clear and defined test to
+assess compliance with the program access obligation. Another commenter suggested
+that the Department establish thresholds to determine whether public entities provide an
+equal opportunity to participate in or benefit from the service, program, or activity. Citing
+the Department’s statement in the NPRM that allowing a patient to use accessible MDE
+at an alternative location would not give a patient with a disability an equal opportunity
+to participate in or benefit from the service, program, or activity if it was significantly less
+convenient or resulted in higher costs for the patient, the commenter suggested that the
+Department define how inconvenient an alternative location must be, either in terms of
+distance or in terms of travel time, in order to violate § 35.212(a).
+
+The Department acknowledges these concerns and the commenters’ desire for more
+clearly defined parameters, but notes that the concept of services, programs, and
+activities being readily accessible to and usable by individuals with disabilities is a
+longstanding requirement under title II of the ADA in other contexts. {% fn 310 %} Therefore,
+members of the public and State and local governments should already be familiar with
+this obligation. The Department has also provided guidance that addresses this
+concept, {% fn 311 %} and will consider providing more in the future. The Department operates a
+toll-free ADA Information Line that the public can call for assistance understanding the
+requirements of the ADA. The question of whether a particular service, program, or
+activity, in its entirety, is readily accessible to and usable by individuals with disabilities
+will be an inherently fact-bound inquiry.
+
+Some commenters recommended that the Department require public entities to engage
+in an interactive process with patients and consider patients’ preferences and needs in
+determining how to carry out their program access obligations. An “interactive process”
+is a term of art that applies in the ADA title I context but not the ADA title II context, and
+the Department declines to require such a process in subpart I of this part. {% fn 312 %} However,
+it may often be helpful or necessary for public entities to consider patients’ preferences
+and needs in order to ensure that the entity’s services, programs, and activities, in their
+entirety, are readily accessible to and usable by individuals with disabilities. For
+example, using the scenario discussed in the preceding paragraphs, a medical practice
+that lacks accessible MDE at its primary location might be able to achieve program
+accessibility by serving a patient who needed accessible MDE at an alternative location.
+But the practice would first need to determine how difficult it would be for the patient to
+travel to the alternative location. As explained in the preceding paragraphs, if the
+alternative location was significantly less convenient or resulted in higher costs for the
+patient, it would not provide an equal opportunity to participate in or benefit from the
+service, program, or activity.
+
+One commenter asked whether public entities can continue to use existing MDE that
+meets some but not all of the requirements set forth in the MDE Standards. The
+commenter asked whether, for example, an entity can use an adjustable height
+examination table that lowers to the minimum height but does not raise to the upper
+height set forth in the MDE Standards. As § 35.212(b) explains, § 35.212(a) does not
+require public entities to acquire MDE that meets all of the requirements set forth in the
+MDE Standards if other methods enable them to make their services, programs, and
+activities, in their entirety, readily accessible to and usable by individuals with
+disabilities. Using MDE that meets some but not all of the requirements set forth in the
+MDE Standards may, in some cases, be one way for public entities to carry out their program access obligation under § 35.212(a). In contrast, newly acquired MDE must
+meet all of the requirements set forth in the MDE Standards pursuant to § 35.211(a),
+absent an applicable limitation.
+
+Finally, one commenter recommended that the Department add a requirement from the
+ADA title III regulations that “a public accommodation shall remove architectural barriers
+in existing facilities where such removal is readily achievable, i.e., easily accomplishable
+and able to be carried out without much difficulty or expense.” {% fn 313 %} The readily achievable
+barrier removal standard applies to architectural barriers, not barriers in equipment, and
+importing requirements from the ADA title III regulation into subpart I of this part could
+create confusion and inconsistency with the other obligations in subpart I and with the
+rest of the title II regulation. Additionally, MDE often cannot be retrofitted to be
+accessible with the same ease or cost ratio as many forms of readily achievable barrier
+removal, such as adding raised markings to elevator buttons or providing paper cups at
+an inaccessible water fountain. The Department therefore declines to import the readily
+achievable barrier removal standard into the final rule.
+
+#### Section 35.213 Qualified Staff.
+
+Section 35.213 requires public entities to ensure that their staff members are able to
+successfully operate accessible MDE, assist with transfers and positioning of individuals
+with disabilities, and carry out the program access obligation with respect to existing
+MDE. This will enable public entities to carry out their obligation to make the programs,
+services, and activities that they offer through or with the use of MDE readily accessible
+to and usable by individuals with disabilities. The Department believes that public
+entities must have, at all times when services are provided to the public, appropriate
+and knowledgeable personnel who can operate MDE in a manner that ensures services
+are available and timely provided. Often, the most effective way for public entities to
+ensure that their staff members are able to successfully operate accessible MDE is to
+provide staff training on the use of MDE, but the final rule does not mandate that
+approach.
+
+The Department received comments on this issue from a range of stakeholders,
+including individuals with disabilities, disability advocacy organizations, and health care
+providers. Many commenters supported the Department’s proposal. In response to the
+Department’s request for comments on the effectiveness of programs used to ensure
+that staff are qualified, several disability advocacy organizations noted that even when a
+health care provider has accessible MDE, staff are sometimes unable to operate it.
+Many people with disabilities and disability advocacy organizations also described
+interactions with staff who were not able to provide assistance with transfers or did not
+provide program access in other ways. These accounts supported the need for
+§ 35.213, which explicitly requires public entities to ensure that their staff members are
+able to successfully operate accessible MDE, assist with transfers, and ensure program
+access.
+
+A disability advocacy organization proposed that the Department revise the text of
+§ 35.213 to include personnel who are responsible for scheduling appointments and
+maintaining accessible MDE, and to require public entities to ensure that staff members
+are able to maintain accessible MDE and ensure scheduling times and reservations
+appropriate for patients with disabilities. The Department believes that the current
+language of the general nondiscrimination obligation set forth in § 35.210 and the
+program access obligation set forth in § 35.212, in conjunction with the other provisions
+in the title II regulation that require equal access and maintenance of accessible
+features, {% fn 314 %} is sufficient to address the issues raised by the commenter. The Department
+also notes that § 35.213 pertains to public entities’ staff but is not limited to particular
+types of staff. As with the other topics for training discussed in the section-by-section
+analysis of § 35.213, public entities may find that providing their staff with the training
+this commenter described is often the most effective way to meet their obligations under
+subpart I of this part and other parts of the ADA. The lack of a specific requirement to
+provide training to these personnel regarding these issues would not excuse a related
+ADA violation.
+
+Only one commenter opposed § 35.213. This commenter stated that requiring public
+entities to ensure that their staff members are able to assist with transfers would lead to
+discrimination against employees with disabilities who are not physically able to assist
+with transfers. The Department notes that subpart I of this part does not supersede or
+alter title I of the ADA or occupational safety standards, or redefine the essential
+functions of any particular employee’s job. {% fn 315 %} Qualified employees with disabilities
+remain entitled to reasonable accommodations as specified in existing law. {% fn 316 %} However,
+an individual employee’s need for accommodations does not diminish the rights of other
+individuals with disabilities to have equal access to the services, programs, and
+activities provided by a public entity.
+
+Many commenters encouraged the Department to establish more explicit and specific
+requirements for training. Commenters provided a variety of suggestions for what these
+requirements should be, including certification; training by the manufacturers of
+accessible MDE; periodic “refresher” training; and training on additional topics, such as
+the maintenance of accessible MDE, appointment scheduling and booking accessible
+MDE, attitudinal barriers, implicit bias, ableism, disability culture, disability history,
+providing care to individuals with disabilities, transfer support and practice, the use of
+lifts, plain language, effective communication, and reasonable modifications. One
+commenter suggested that the Department should withhold Federal funding if certain
+training is not conducted. Many commenters stated that people with disabilities should
+be involved in training so that public entities are able to draw from individuals’ lived
+experiences.
+
+In response to the Department’s request for comments on the costs of programs for
+ensuring qualified staff, a few commenters stated that the cost of training would be
+minimal, especially in comparison to the cost of an injury to individuals with disabilities
+or personnel. These commenters stated that proper training reduces the number of
+injuries to individuals with disabilities and staff, ultimately reducing costs for covered
+entities.
+
+After considering all of these comments, the Department declines to impose more
+specific requirements in § 35.213. Training, including training on the topics commenters
+suggested, will often be the most effective way for public entities to ensure
+compliance with the entity’s obligations under subpart I of this part. Training developed
+in consultation with, or provided by, individuals with disabilities may be particularly
+effective. And the Department appreciates commenters’ views that training may
+ultimately reduce costs. However, the Department believes it is important to provide
+public entities with flexibility to determine how they will comply with the qualified staff
+requirement. Appropriate methods for meeting this requirement may differ for small
+health care providers as opposed to large hospital systems, for example. The
+Department has therefore decided not to mandate one specific process or curriculum
+that all public entities must follow to comply with § 35.213.
+
+Several commenters suggested steps the Department could take to assist covered
+entities in complying with this requirement and the other requirements set forth in
+subpart I of this part. Suggestions included providing additional guidance, technical
+assistance, training, and financial resources. Some commenters also suggested that
+the Department collaborate with manufacturers to provide instructions on how to use
+accessible MDE or encourage covered entities to request instructions during
+procurement. The Department notes that it has already provided some technical
+assistance. {% fn 317 %} If public entities would find it helpful to seek additional information from
+MDE manufacturers or vendors, the Department encourages entities to do so. As noted
+in the discussion of § 35.211(c), the Department does not currently operate a grant
+program to assist public entities in complying with the ADA. The Department will,
+however, continue to consider what additional guidance, technical assistance, or
+training it can provide that will assist regulated entities in complying with their
+obligations under subpart I of this part.
+
+#### Public Comments on Other Issues in Response to NPRM
+
+The Department received comments on a variety of other issues in response to the
+NPRM. Several commenters recommended that the Department prescribe specific
+steps that all entities must take in order to carry out the primary requirements in subpart
+I of this part, such as employing scheduling and reservation systems; maintaining and
+publishing lists of accessible inventory, including the location of such equipment;
+reimbursing patients for transportation costs to accessible facilities; using certain staff-
+to-patient ratios; having staff take notes on each patient’s needs and the patient’s level of understanding; providing communication access in American Sign Language and
+Braille; using patient lifts or transfer teams; and offering scales and health monitoring
+tools for home use to patients with transportation difficulties. Another commenter
+suggested that entities subcontract with disability groups to test MDE that the entities
+have purchased. Some commenters also suggested that the Department issue
+guidance on various topics.
+
+While the Department appreciates commenters’ thoughtful suggestions, the Department
+declines to prescribe that public entities must take these specific steps in order to carry
+out the requirements in subpart I of this part. The Department intends to instead give
+public entities and members of the public clarity about the requirements in subpart I of
+this part, while also giving public entities flexibility in determining how best to carry out
+those requirements based on their individual circumstances. Public entities may find
+that many of the approaches recommended in the comments summarized in the
+preceding paragraph will enable them to carry out the requirements in subpart I of this
+part. The Department will also consider providing additional guidance to public entities
+about how to comply with subpart I of this part.
+
+Commenters also expressed concern that people with disabilities are not involved in
+decisions associated with their care, in general. One commenter suggested that all
+policies about people with disabilities should be formed in consultation with an advisory
+council of people with a range of disabilities. The Department agrees that it is important
+to involve people with disabilities in decisions involving the creation and implementation
+of disability-related rules and policies. Indeed, the technical standards that the
+Department is adopting were created by the Access Board, a coordinating body that
+includes 13 members of the public, most of whom are required to have a disability in
+order to be appointed to the Access Board. {% fn 318 %} The Department has also carefully
+considered comments on the NPRM from many members of the public who self-
+identified as having a disability. In addition, individuals with disabilities can file a
+complaint with the Department or file a private lawsuit if a public entity fails to carry out
+its title II obligations. Given the existing mechanisms to solicit feedback and receive
+complaints about implementation from individuals with disabilities, the Department
+declines to create an advisory council in connection with this part.
+
+The Department also received a comment suggesting that it regularly review and
+update accessibility standards to reflect technological advancements and the evolving
+needs of individuals with disabilities. Executive Order 13563 already requires the
+Department to review its regulations periodically to determine whether they should be
+modified, streamlined, expanded, or repealed. {% fn 319 %}   Further, section 510 of the
+Rehabilitation Act requires the Access Board, in consultation with the Food and Drug
+Administration, to periodically review and, as appropriate, amend the MDE
+standards.{% fn 320 %} Therefore, a separate mechanism for reviewing the effectiveness of this part is not necessary.
+
+Finally, the Department received a few comments asking that it make the MDE
+Standards enforceable against title III entities. As noted in section II.A of the preamble
+to the final rule (“Statutory and Rulemaking Overview”), the Department will continue to
+consider issues concerning MDE under title III. The Department will also continue to
+consider further rulemaking on this topic. However, title III entities are not the subjects
+of this rulemaking.
+
 <hr>
 
 ***This page combines several different parts of the title II regulation in one integrated page. Some footnote numbers are different from the footnote numbers in the official published versions.***
@@ -10213,7 +11715,7 @@ The Supreme Court in Tennessee v. Lane, 541 U.S. 509, 5330534 (2004), held that 
 W3C, *Introduction to Understanding WCAG*, [https://www.w3.org/WAI/WCAG21/Understanding/intro](https://www.w3.org/WAI/WCAG21/Understanding/intro), [https://perma.cc/XB3Y-QKVU](https://perma.cc/XB3Y-QKVU) (June 20, 2023).
 {% endfnbody %}
 {% fnbody 11 %}
-7 See W3C, *Understanding Techniques for WCAG Success Criteria*,
+*See* W3C, *Understanding Techniques for WCAG Success Criteria*,
 [https://www.w3.org/​WAI/​WCAG21/​Understanding/​understanding-techniques](https://perma.cc/​AMT4-XAAL)
 (June 20, 2023).
 {% endfnbody %}
@@ -10849,7 +12351,9 @@ The Department does not use the term “third-party” to describe mobile apps i
 {% fnbody 150 %}
 *See* § 35.130(b)(1) and (3).
 {% endfnbody %}
+{% endfootnotes %}
 
+{% footnotes %}
 {% fnbody 151 %}
 For example, under title II, a State is required to make sure that the services, programs, or activities offered by a State park inn that is operated by a private entity under contract with the State comply with title II. *See* 56 FR 35694, 35696 (July 26, 1991).
 {% endfnbody %}
@@ -11321,5 +12825,264 @@ Memorandum for Federal Agency Civil Rights Directors and General Counsels, from 
 {% fnbody 267 %}
 *See* W3C, *Overlay Capabilities Inventory: Draft Community Group Report* (Feb. 12, 2024), [https://a11yedge.github.io/capabilities/](https://a11yedge.github.io/capabilities/), [https://perma.cc/2762-VJEV](https://perma.cc/2762-VJEV); *see also* W3C, *Draft Web
 Accessibility Evaluation Tools List,* [https://www.w3.org/WAI/ER/tools/](https://www.w3.org/WAI/ER/tools/), [https://perma.cc/Q4ME-Q3VW](https://perma.cc/Q4ME-Q3VW) (last visited Feb. 12, 2024).
+{% endfnbody %}
+
+{% fnbody 268 %}
+Although HHS’s final rule addressing the accessibility of medical diagnostic equipment under section 504
+contains a different citation in its definition of the term *Standards for Accessible Medical Diagnostic Equipment*, see 89 FR 40184, that difference is the result of citation formatting conventions of the Office of the Federal Register. There is no substantive difference between the definition of the term Standards for Accessible Medical Diagnostic Equipment adopted in HHS’s final rule and the definition of that term adopted in DOJ’s final rule.
+{% endfnbody %}
+
+{% fnbody 269 %}
+36 CFR part 1195, appendix, section M301.2.2 (stating that M301.2.1 and M302.2.1 would cease to have effect
+on January 10, 2022).
+{% endfnbody %}
+
+{% fnbody 270 %}
+*See*, e.g., 36 CFR part 1195, appendix (revised as of July 1, 2017) (discussing, in M306, requirements for
+communication necessary for performance of a diagnostic procedure).
+{% endfnbody %}
+
+{% fnbody 271 %}
+*Id.* at 2812.
+{% endfnbody %}
+
+{% fnbody 272 %}
+*See, e.g.*, §§ 35.130 and 35.150.
+{% endfnbody %}
+
+{% fnbody 273 %}
+*See id*. § 35.130(b)(7).
+{% endfnbody %}
+
+{% fnbody 274 %}
+*See* U.S. Dep’t of Just., Civ. Rts. Div., *Access to Medical Care for Individuals with Mobility Disabilities* (June 26, 2020), [https://www.ada.gov/resources/medical-care-mobility/](https://www.ada.gov/resources/medical-care-mobility/), [https://perma.cc/UH8Y-NZWL](https://perma.cc/UH8Y-NZWL).
+{% endfnbody %}
+
+{% fnbody 275 %}
+89 FR 2186.
+{% endfnbody %}
+
+{% fnbody 276 %}
+*Id.*
+{% endfnbody %}
+
+{% fnbody 277 %}
+*See, e.g.*, Settlement Agreement Between the United States and Charlotte Radiology, P.A. (Aug. 13, 2018),
+[https://archive.ada.gov/​charlotte_​radiology_​sa.html](https://perma.cc/​ZC5W-LV3M); [https://perma.cc/​ZC5W-LV3M](https://perma.cc/​ZC5W-LV3M); Settlement Agreement
+Between the United States and Tufts Medical Center (Feb. 28, 2020),
+[https://archive.ada.gov/​tufts_​medical_​ctr_​sa.html](https://perma.cc/​YQG3-ZDZC) [https://perma.cc/​YQG3-ZDZC](https://perma.cc/​YQG3-ZDZC).
+{% endfnbody %}
+
+{% fnbody 278 %}
+*See generally* § 35.151.
+{% endfnbody %}
+
+{% fnbody 279 %}
+*See* 36 CFR part 1191, appendix B, section 213.3.1.
+{% endfnbody %}
+
+{% fnbody 280 %}
+36 CFR part 1195, appendix, section M201 (revised as of July 1, 2017).
+{% endfnbody %}
+
+{% fnbody 281 %}
+*See* 36 CFR part 1191, appendix B, sections 208.2.2, 223.2.1, 223.2.2.
+{% endfnbody %}
+
+{% fnbody 282 %}
+*See* § 35.151(h); 36 CFR part 1191, appendix B, section 223.1.
+{% endfnbody %}
+
+{% fnbody 283 %}
+*See* 36 CFR part 1191, appendix B, section 223.1.1.
+{% endfnbody %}
+
+{% fnbody 284 %}
+*See id.* section 223.2.1.
+{% endfnbody %}
+
+{% fnbody 285 %}
+*See id.* section 223.2.2.
+{% endfnbody %}
+
+{% fnbody 286 %}
+*See id.* section 208.2.2.
+{% endfnbody %}
+
+{% fnbody 287 %}
+*See* 49 CFR part 37, subpart D.
+{% endfnbody %}
+
+{% fnbody 288 %}
+*See* FRIA at 69–70 (considering the costs of increasing the scoping requirements in § 35.211(b)(1) and (2) to 20
+percent and 40 percent respectively, as well as the costs of requiring that 100 percent of newly acquired MDE meet
+the MDE Standards and concluding that those alternative potential scoping requirements could more than double the
+annualized costs of the final rule).
+{% endfnbody %}
+
+{% fnbody 289 %}
+ADA Nat’l Network, *Accessible Medical Examination Tables and Chairs* (2017),
+[https://adata.org/factsheet/accessible-medical-examination-tables-and-chairs](https://perma.cc/Y6MR-9QGL) [https://perma.cc/Y6MR-9QGL](https://perma.cc/Y6MR-9QGL).
+{% endfnbody %}
+
+{% fnbody 290 %}
+*See* 49 CFR part 37, subpart D.
+{% endfnbody %}
+
+{% fnbody 291 %}
+*See* U.S. Preventive Services Task Force, *About the USPSTF*,
+[https://www.uspreventiveservicestaskforce.org/uspstf/about-uspstf](https://perma.cc/FTL2-TLXX)[https://perma.cc/FTL2-TLXX](https://perma.cc/FTL2-TLXX).
+{% endfnbody %}
+
+{% fnbody 292 %}
+That is, numbers that end in a digit less than five are rounded down to the nearest whole number, and numbers
+that end in a digit greater than or equal to five are rounded up to the nearest whole number. For example, if a
+program that did not specialize in treating conditions that affect mobility used four units of MDE, then it would be
+required to have at least one unit of accessible MDE because, even though 0.4 units (10 percent of four) would be
+rounded down to zero, the final rule requires that each service, program, or activity have at least one unit of
+accessible MDE. If there were 12 units of MDE in use, the program would be required to have one unit of
+accessible MDE because 1.2 (10 percent of 12) is rounded down to one. If there were 15 units of MDE in use, the
+program would be required to have two units of accessible MDE because 1.5 (10 percent of 15) is rounded up to
+two.
+{% endfnbody %}
+
+{% fnbody 293 %}
+*See* § 35.151(h). A similar dispersion requirement was not necessary for medical care facilities that specialize in the treatment of conditions that affect mobility because all patient sleeping rooms in those facilities are required to be accessible. *See* 36 CFR part 1191, appendix B, section 223.2.2.
+{% endfnbody %}
+
+{% fnbody 294 %}
+*See, e.g.*, 36 CFR part 1191, appendix B, sections 221.2.3, 224.5, 225.3.1, 235.2.1. According to these sections,
+when the required number of accessible elements has been provided, further dispersion is not required.
+{% endfnbody %}
+
+{% fnbody 295 %}
+*See* §§ 35.130(b)(1)(ii) and 35.150(a).
+{% endfnbody %}
+
+{% fnbody 296 %}
+36 CFR part 1195 (revised as of July 1, 2017).
+{% endfnbody %}
+
+{% fnbody 297 %}
+*See, e.g.*, §§ 35.130(b)(1)(ii) and (f) and 35.150(a).
+{% endfnbody %}
+
+{% fnbody 298 %}
+*See* C. Brooke Steele et al., *Prevalence of Cancer Screening Among Adults With Disabilities*, United States, 2013,
+14 Preventing Chronic Disease (Jan. 2017), [https://www.cdc.gov/pcd/issues/2017/16_0312.htm](https://www.cdc.gov/pcd/issues/2017/16_0312.htm), [https://perma.cc/T36Y-NCJM](https://perma.cc/T36Y-NCJM) (finding disparate access to cancer screenings); Gloria Krahn, *Persons with
+Disabilities as an Unrecognized Health Disparity Population*, 105 Amer. J. Pub. Health 198 (Apr. 2015),
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4355692/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4355692/), [https://perma.cc/J8E4-J63T](https://perma.cc/J8E4-J63T) (finding higher prevalence
+of obesity and cardiovascular diseases); see also Michael Karpman et al., *QuickTake: Even with Coverage, Many
+Adults Have Problems Getting Health Care, with Problems Most Prevalent Among Adults with Disabilities*, Urban
+Inst. Health Pol’y Ctr. (Sept. 2015), [https://apps.urban.org/features/hrms/quicktakes/Many-Adults-Have-Problems-Getting-Health-Care.html](https://apps.urban.org/features/hrms/quicktakes/Many-Adults-Have-Problems-Getting-Health-Care.html), [https://perma.cc/V6GB-AEPH](https://perma.cc/V6GB-AEPH); Carrie Henning-Smith et al., *Delayed and Unmet Need
+for Medical Care Among Publicly Insured Adults with Disabilities*, 51 Med. Care 1015 (Nov. 2013),
+[https://pubmed.ncbi.nlm.nih.gov/24113815/](https://pubmed.ncbi.nlm.nih.gov/24113815/), [https://perma.cc/KSY2-DGEV](https://perma.cc/KSY2-DGEV); Amanda Reichard et al., *Prevalence
+and Reasons for Delaying and Foregoing Necessary Care by the Presence and Type of Disability Among Working-
+Age Adults*, 10 Disability &amp; Health J. 39 (Jan. 2017), [https://pubmed.ncbi.nlm.nih.gov/27771217/](https://pubmed.ncbi.nlm.nih.gov/27771217/), [https://perma.cc/V7D7-LCQK](https://perma.cc/V7D7-LCQK); Michelle Stransky et al., *Provider Continuity and Reasons for Not Having a
+Provider Among Persons With and Without Disabilities*, 12 Disability &amp; Health J. 131 (Jan. 2019),
+[https://pubmed.ncbi.nlm.nih.gov/30244847/](https://pubmed.ncbi.nlm.nih.gov/30244847/), [https://perma.cc/2LSR-PEGJ](https://perma.cc/2LSR-PEGJ); Sarah Bauer et al., *Disability and
+Physical and Communication-Related Barriers to Health Care Related Services Among Florida Residents: A Brief
+Report*, 9 Disability &amp; Health J. 552 (July 2016), [https://pubmed.ncbi.nlm.nih.gov/27101882/](https://pubmed.ncbi.nlm.nih.gov/27101882/), [https://perma.cc/YH6F-22UW](https://perma.cc/YH6F-22UW) (finding barriers to access to care).
+{% endfnbody %}
+
+{% fnbody 299 %}
+*See* Access Board, *Access Board Review of MDE Low Height and MSRP* (May 23, 2023),
+[https://www.regulations.gov/document/ATBCB-2023-0001-0002](https://www.regulations.gov/document/ATBCB-2023-0001-0002), [https://perma.cc/WU3U-DP65](https://perma.cc/WU3U-DP65) (listing available
+examination table models that meet the height requirements of the MDE Standards and their retail prices). On the
+affordability of accessible examination tables and weight scales compared to imaging equipment, see 82 FR 2829
+(stating that commenters were concerned about immediate compliance with the MDE Standards for “more
+expensive imaging equipment” compared to other accessible MDE). *See also* *Block Imaging, 2024 Mammography
+Price Guide*, [https://www.blockimaging.com/bid/95356/digital-mammography-equipment-price-cost-info](https://www.blockimaging.com/bid/95356/digital-mammography-equipment-price-cost-info), [https://perma.cc/2STC-34VW](https://perma.cc/2STC-34VW).
+{% endfnbody %}
+
+{% fnbody 300 %}
+28 CFR part 36, appendix D, at 1000 (2022) (1991 ADA Standards); 36 CFR part 1191, appendix B, at 329
+(2022) (2010 ADA Standards).
+{% endfnbody %}
+
+{% fnbody 301 %}
+*See, e.g.*, § 35.151(c) (allowing or requiring public entities to comply with the 1991 ADA Standards or 2010 ADA
+Standards).
+{% endfnbody %}
+
+{% fnbody 302 %}
+*See* appendix B to this part.
+{% endfnbody %}
+
+{% fnbody 303 %}
+*See id*. §§ 35.130(b)(7), 35.150(a)(3), and 35.164.
+{% endfnbody %}
+
+{% fnbody 304 %}
+*See, e.g.*, U.S. Dep’t of Just., *ADA Update: A Primer for State and Local Governments*, ADA.gov (Feb. 28,
+2020), [https://www.ada.gov/resources/title-ii-primer/](https://www.ada.gov/resources/title-ii-primer/), [https://perma.cc/ZV66-EFWU](https://perma.cc/ZV66-EFWU).
+{% endfnbody %}
+
+{% fnbody 305 %}
+*Id.*
+{% endfnbody %}
+
+{% fnbody 306 %}
+36 CFR part 1195, appendix, section M201.2 (revised as of July 1, 2017).
+{% endfnbody %}
+
+{% fnbody 307 %}
+*See, e.g.*, 42 U.S.C. 12101(a); § 35.130(b).
+{% endfnbody %}
+
+{% fnbody 308 %}
+*See* § 35.150.
+{% endfnbody %}
+
+{% fnbody 309 %}
+*See* U.S. Dep’t of Just., Civ. Rts. Div., *Access to Medical Care for Individuals with Mobility Disabilities* (June 26, 2020), [https://www.ada.gov/resources/medical-care-mobility/](https://www.ada.gov/resources/medical-care-mobility/), [https://perma.cc/UH8Y-NZWL](https://perma.cc/UH8Y-NZWL).
+{% endfnbody %}
+
+{% fnbody 310 %}
+*See, e.g.*, §§ 35.150 and 35.151.
+{% endfnbody %}
+
+{% fnbody 311 %}
+*See, e.g.*, U.S. Dep’t of Just., Civ. Rts. Div., *ADA Update: A Primer for State and Local Governments* (Feb. 28,
+2020), [https://www.ada.gov/resources/title-ii-primer/](https://www.ada.gov/resources/title-ii-primer/), [https://perma.cc/ZV66-EFWU](https://perma.cc/ZV66-EFWU); U.S. Dep’t of Just., *Title II
+Assistance Manual: Covering State and Local Government Programs and Services*,
+[https://archive.ada.gov/taman2.html](https://archive.ada.gov/taman2.html), [https://perma.cc/6QNC-3RRA](https://perma.cc/6QNC-3RRA).
+{% endfnbody %}
+
+{% fnbody 312 %}
+*See* 29 CFR 1630.2(o)(3).
+{% endfnbody %}
+
+{% fnbody 313 %}
+28 CFR 36.304(a).
+{% endfnbody %}
+
+{% fnbody 314 %}
+*See, e.g., id*. §§ 35.130 and 35.133.
+{% endfnbody %}
+
+{% fnbody 315 %}
+*See* 42 U.S.C. 12111–12117.
+{% endfnbody %}
+
+{% fnbody 316 %}
+42 U.S.C. 12112(b)(5); 29 CFR 1630.9.
+{% endfnbody %}
+
+{% fnbody 317 %}
+*See, e.g.*, U.S. Dep’t of Just., Civ. Rts. Div., *Access to Medical Care for Individuals with Mobility Disabilities*
+(June 26, 2020), [https://www.ada.gov/resources/medical-care-mobility/](https://www.ada.gov/resources/medical-care-mobility/), [https://perma.cc/UH8Y-NZWL](https://perma.cc/UH8Y-NZWL).
+{% endfnbody %}
+
+{% fnbody 318 %}
+U.S. Access Board, *About the U.S. Access Board*, [https://www.access-board.gov/about/](https://www.access-board.gov/about/), [https://perma.cc/L9N7-56YV](https://perma.cc/L9N7-56YV).
+{% endfnbody %}
+
+{% fnbody 319 %}
+E.O. 13563, sec. 6, 3 CFR, 2011 Comp., p. 215.
+{% endfnbody %}
+
+{% fnbody 320 %}
+29 U.S.C. 794f(c).
 {% endfnbody %}
 {% endfootnotes %}
