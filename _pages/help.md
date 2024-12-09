@@ -9,6 +9,7 @@ lead: "We're here to help. Get answers to your questions, learn about popular to
 lang: en
 sidenav: true
 phonebox: true
+news-item: true
 ref: help
 ---
 
