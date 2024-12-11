@@ -6,7 +6,7 @@ description: A publication explaining the rights of persons with HIV/AIDS under
   non-profit agencies that serve the public, and State and local governments to
   avoid discriminating against persons with HIV/AIDS.
 lead: ""
-permalink: /resources/hiv-q&a/
+permalink: /resources/hiv-qa/
 lang: en
 print: true
 publish-date: ""
