@@ -26,6 +26,8 @@ The Americans with Disabilities Act (ADA) gives federal civil rights protections
 Yes. An individual has a “disability” under the ADA if he or she has a physical or mental impairment that substantially limits one or more major life activities, including major bodily functions such as the functions of the immune system; has a record of such an impairment; or has an actual or perceived mental or physical impairment that is not transitory and minor and is subjected to an action prohibited under the ADA. Persons with HIV, both symptomatic and asymptomatic, have physical impairments that substantially limit one or more major life activities or major bodily functions and are, therefore, protected by the law.
 
 Persons who are discriminated against because they are regarded as having HIV are also protected. For example, a person who was fired on the basis of a rumor that he had AIDS, even if he did not, would be protected by the law.
+
+
 Moreover, the ADA protects persons who are discriminated against because they have a known association or relationship with an individual who has HIV. For example, the ADA would protect a woman (who does not have HIV) who was denied a job because her roommate had AIDS.
 {% enddetails %}
 
@@ -125,6 +127,8 @@ The ADA requires that medical information be kept confidential. This information
 
 {% details What obligations does an employer have to provide health insurance to employees with HIV or AIDS? expandable %}
 The ADA prohibits employers from discriminating on the basis of disability in the provision of health insurance to their employees and/or from entering into contracts with health insurance companies that discriminate on the basis of disability. Insurance distinctions that are not based on disability, however, and that are applied equally to all insured employees, do not discriminate on the basis of disability and do not violate the ADA.
+
+
 Thus, for example, blanket pre-existing condition clauses that exclude from the coverage of a health insurance plan the treatment of all physical conditions that predate an individual’s eligibility for benefits are not distinctions based on disability and do not violate the ADA. A pre-existing condition clause that excluded only the treatment of HIV-related conditions, however, is a disability-based distinction and would likely violate the ADA.
 
 Similarly, a health insurance plan that capped benefits for the treatment of all physical conditions at $50,000 per year does not make disability-based distinctions and does not violate the ADA.
