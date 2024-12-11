@@ -19,7 +19,7 @@ related-content: true
 
 {% details What is the ADA? expandable %}
 
-The Americans with Disabilities Act (ADA) gives federal civil rights protections to individuals with disabilities similar to those provided to individuals on the basis of race, color, sex, national origin, age, and religion. It guarantees equal opportunity for individuals with disabilities in public accommodations, employment transportation, State and local government services, and telecommunications.
+The Americans with Disabilities Act (ADA) gives federal civil rights protections to individuals with disabilities similar to those provided to individuals on the basis of race, color, sex, national origin, age, and religion. It guarantees equal opportunity for individuals with disabilities in public accommodations, employment, transportation, State and local government services, and telecommunications.
 {% enddetails %}
 
 {% details Are people living with HIV or AIDS protected by the ADA? expandable %}
