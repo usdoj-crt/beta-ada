@@ -10,6 +10,7 @@ related-content: true
 print: true
 tags:
   - web access
+  - title ii
 ---
 In April 2024, the Department of Justice (or “Department”) published a rule that sets technical requirements for state and local governments to follow to make sure that their websites and mobile apps are accessible to people with disabilities.  This resource can help state and local governments figure out what they should do to comply with this rule.
 
@@ -25,12 +26,12 @@ This resource:
 
 - Includes suggested action steps that you might want to take to prepare to comply with the rule.  While complying with the rule is mandatory, the action steps in this document are not mandatory.
 - Can help get you started. There will probably be many other steps that your public entity will want to take to ensure compliance with the rule.
-- Links to helpful materials from the World Wide Web Consortium (or “W3C”), which is the organization that published the technical requirements that public entities will have to meet under this rule.  The technical requirements are called the Web Content Accessibility Guidelines Version 2.1 Level AA (or “WCAG 2.1 Level AA”).  Although WCAG includes the word “guidelines,” complying with WCAG 2.1 Level AA is required under this rule.
+- Links to helpful materials from the [World Wide Web Consortium](https://www.w3.org) (or “W3C”), which is the organization that published the technical requirements that public entities will have to meet under this rule.  The technical requirements are called the [Web Content Accessibility Guidelines Version 2.1 Level AA](https://www.w3.org/TR/2018/REC-WCAG21-20180605/){% fn 1 %} (or “WCAG 2.1 Level AA”).  Although WCAG includes the word “guidelines,” complying with WCAG 2.1 Level AA is required under this rule.
 
 ## Why compliance is important
 
 - Complying with this rule will help your state or local government better serve all members of your community, including people with visual, auditory, physical, speech, cognitive, and neurological disabilities.
-- Barriers to accessing services online affect people’s day-to-day lives. For example, when an online form is not designed accessibly, it can prevent someone with a disability from completing and submitting the form.  The W3C has resources illustrating how barriers to web accessibility affect people with disabilities.
+- Barriers to accessing services online affect people’s day-to-day lives. For example, when an online form is not designed accessibly, it can prevent someone with a disability from completing and submitting the form.  The W3C has [resources](https://www.w3.org/wai/people/) illustrating how barriers to web accessibility affect people with disabilities.
 - Web and mobile app inaccessibility can also make it harder for state and local governments to function.  For example, if a state government’s online tax form is inaccessible to people with disabilities, it can make it hard for the government to efficiently collect taxes.
 - When state and local governments comply with this rule, people with disabilities will have much more reliable access to critical government services like registering to vote, attending public schools and universities, applying for government benefits, requesting that potholes be filled, watching public hearings, and many more.  State and local governments will also be able to function better.  The suggested action steps in this resource can help your public entity get there.
 
@@ -38,48 +39,54 @@ This resource:
 
 The Department has published materials to help you understand the requirements of the rule.
 
-- If you want a basic introduction to the rule: Check out the Fact Sheet.
+- **If you want a basic introduction to the rule:** Check out the [Fact Sheet](https://www.ada.gov/resources/2024-03-08-web-rule/).
 
-- If you work for or with a state or local government and want to better understand how the rule applies to you: Check out the Small Entity Compliance Guide.
+- **If you work for or with a state or local government and want to better understand how the rule applies to you:** Check out the [Small Entity Compliance Guide](https://www.ada.gov/resources/small-entity-compliance-guide/).
 
-- If you want a detailed explanation of all of the rule’s requirements: Check out the full rule, which includes an Appendix that explains in detail what the rule means.
+- **If you want a detailed explanation of all of the rule’s requirements:** Check out the full [rule](https://www.ada.gov/assets/pdfs/web-rule.pdf), which includes an Appendix that explains in detail what the rule means.
 
-If you want to understand your public entity’s other obligations under the ADA: Continue to explore ada.gov, which has more information about public entities’ obligations to provide reasonable modifications, ensure effective communication with individuals with disabilities, and provide individuals with disabilities an equal opportunity to access their services.  The Topics and Resources pages may be especially helpful.
+- **If you want to understand your public entity’s other obligations under the ADA:** Continue to explore ada.gov, which has more information about public entities’ obligations to provide reasonable modifications, ensure effective communication with individuals with disabilities, and provide individuals with disabilities an equal opportunity to access their services.  The [Topics](https://www.ada.gov/topics/) and [Resources](https://www.ada.gov/resources/) pages may be especially helpful.
 
 ## Action Step 2: Figure out when you need to be fully compliant with the rule
 
 The deadline for complying with the rule generally depends on the population of your state or local government.  After the deadline, your state or local government needs to make sure that it continues complying moving forward.  Here are the compliance deadlines:
 
-- State or local governments with a population of 50,000 or more persons:
+- **State or local governments with a population of 50,000 or more persons:**
     - Compliance deadline: April 24, 2026
 
-- State or local governments with a population of 0 to 49,999 persons:
+- **State or local governments with a population of 0 to 49,999 persons:**
     - Compliance deadline: April 26, 2027
 
-- Special district governments:
+- **Special district governments:{% fn 2 %}**
     - Compliance deadline: April 26, 2027
 
 Your public entity’s population is:
-
-- Calculated in a specific way, as shown below, using data from the United States Census Bureau.
+{% list check_circle %}
+{% list_item %}Calculated in a specific way, as shown below, using data from the United States Census Bureau.
+{% endlist_item %}
+{% endlist %}
 
 Your public entity’s population is NOT:
 
-- Always the same as the number of people your public entity serves.
-- Determined by the number of employees your public entity has.
+{% list cancel %}
+{% list_item %}Always the same as the number of people your public entity serves.
+{% endlist_item %}
+{% list_item %}Determined by the number of employees your public entity has.
+{% endlist_item %}
+{% endlist %}
 
 {% details How to calculate the population of your state or local government for purposes of figuring out your compliance deadline: %}
-If, after reviewing the instructions below, you’re still not sure what your public entity’s population is, you can call the ADA Information Line.  See the “ADA Information Resources” section of this resource for more information about the ADA Information Line.
+If, after reviewing the instructions below, you’re still not sure what your public entity’s population is, you can call the [ADA Information Line](https://www.ada.gov/infoline).  See the “ADA Information Resources” section of this resource for more information about the ADA Information Line.
 
 {% details A. If your public entity has a population in the 2020 decennial Census, use that population. %}
-You can see if your public entity’s population is in the 2020 decennial Census by searching for the name of your public entity.
+You can see if your public entity’s population is in the [2020 decennial Census](https://data.census.gov) by searching for the name of your public entity.
 
 Example: 
 A county has a population of 1 million in the 2020 decennial Census.  The county’s population for purposes of this rule is 1 million.  The county needs to comply with this rule by April 2026.
 {% enddetails %}
 
 {% details B. If your public entity is an independent school district, use your school district’s population in the 2022 Small Area Income and Poverty Estimates. %}
-You can find your independent school district’s population in the 2022 Small Area Income and Poverty Estimates by looking at the data for your state.
+You can find your independent school district’s population in the [2022 Small Area Income and Poverty Estimates](https://www.census.gov/data/datasets/2022/demo/saipe/2022-school-districts.html) by looking at the data for your state.
 
 Example: 
 An independent school district has a population of 1,000 in the 2022 Small Area Income and Poverty Estimates.  The independent school district’s population for purposes of this rule is 1,000.  The independent school district needs to comply with this rule by April 2027.
@@ -89,8 +96,8 @@ An independent school district has a population of 1,000 in the 2022 Small Area 
 
 Some public entities don’t have populations of their own, but they are a part of a state or local government that does have a population calculated by the Census Bureau.
 
-- You can find that population by searching in the 2020 decennial Census for the name of the state or local government of which your public entity is a part.
-- If your public entity is a part of an independent school district, you can check the school district’s population in the 2022 Small Area Income and Poverty Estimates.
+- You can find that population by searching in the [2020 decennial Census](https://data.census.gov) for the name of the state or local government of which your public entity is a part.
+- If your public entity is a part of an independent school district, you can check the school district’s population in the [2022 Small Area Income and Poverty Estimates](https://www.census.gov/data/datasets/2022/demo/saipe/2022-school-districts.html).
 
 Examples:
 - A city police department is part of a city with a population of 25,000 in the 2020 decennial Census.  The city police department’s population for purposes of this rule is 25,000.  The city police department needs to comply with the rule by April 2027.
@@ -111,34 +118,33 @@ A special district government:
 
 - Is a public entity—other than a county, municipality, township, or independent school district—allowed by state law to provide one function or a limited number of designated functions with enough independence to be a separate government.
 - Might be, for example, a mosquito abatement district, utility district, transit authority, water and sewer board, zoning district, or other similar state or local government entity that has a specific function.  
-The Census Bureau has a resource that may be helpful in determining if your public entity is a special district government.
+The Census Bureau has a [resource](https://www.census.gov/content/dam/census/library/publications/2024/econ/2022isd.pdf) that may be helpful in determining if your public entity is a special district government.
 {% enddetails %}
 {% enddetails %}
 
 ## Action Step 3: Figure out who within your state or local government will have a role in complying with this rule
 Once you know your state or local government’s deadline for complying with the rule, it is a good next step to figure out who within your government is going to have a role in making sure your government complies with the rule.  If you are an ADA coordinator, you are a good person to start thinking about that.  Different approaches will work for different state and local governments, but here are some things to consider:
 
-- It’s helpful to think broadly about who should be involved: While web developers or information technology (“IT”) staff can play an important role in ensuring accessibility, they’re not the only ones who should be thinking about accessibility. For example, procurement staff play a key role in ensuring your state or local government buys or licenses accessible web content or mobile apps.
+- **It’s helpful to think broadly about who should be involved:** While web developers or information technology (“IT”) staff can play an important role in ensuring accessibility, they’re not the only ones who should be thinking about accessibility. For example, procurement staff play a key role in ensuring your state or local government buys or licenses accessible web content or mobile apps.
 
-- It’s a good idea to set clear expectations for staff: By ensuring that all relevant staff are aware of the role they will play in complying with the rule, you can start creating a culture of accessibility in your state or local government.  It’s important to clearly identify who is responsible for what, so that there is no confusion.
+- **It’s a good idea to set clear expectations for staff:** By ensuring that all relevant staff are aware of the role they will play in complying with the rule, you can start creating a culture of accessibility in your state or local government.  It’s important to clearly identify who is responsible for what, so that there is no confusion.
 
-- Think about what resources you will need: Your public entity should consider whether its current staff and volunteers have any expertise in web accessibility, or whether working with others with more expertise would be helpful.  Hearing from people with a diversity of experiences and perspectives—including, for example, people with disabilities who have experience with WCAG—can help your public entity in its accessibility work.
+- **Think about what resources you will need:** Your public entity should consider whether its current staff and volunteers have any expertise in web accessibility, or whether working with others with more expertise would be helpful.  Hearing from people with a diversity of experiences and perspectives—including, for example, people with disabilities who have experience with WCAG—can help your public entity in its accessibility work.
 
-- Working with vendors doesn’t mean your public entity is off the hook:  If you decide to have an outside person or group handle some of your public entity’s accessibility work, it’s still a good idea to identify a person or people in your public entity who will oversee or coordinate that work.  Your public entity is still responsible for ensuring the accessibility of its web content and mobile apps, even if it outsources the accessibility work to somebody else. You can find more information about working with vendors in Action Step 9.
+- **Working with vendors doesn’t mean your public entity is off the hook:**  If you decide to have an outside person or group handle some of your public entity’s accessibility work, it’s still a good idea to identify a person or people in your public entity who will oversee or coordinate that work.  Your public entity is still responsible for ensuring the accessibility of its web content and mobile apps, even if it outsources the accessibility work to somebody else. You can find more information about working with vendors in Action Step 9.
 
-- Your public entity may need advice from others: You also may find that you need legal advice specific to your own particular situation.  You may want to make a plan for who you will consult if you need legal advice.
+- **Your public entity may need advice from others:** You also may find that you need legal advice specific to your own particular situation.  You may want to make a plan for who you will consult if you need legal advice.
+    - If you need help understanding what the rule means, you can also call the [ADA Information Line](https://www.ada.gov/infoline) for help.
 
-- If you need help understanding what the rule means, you can also call the ADA Information Line for help.
-
-- There are more resources to consult on this topic: The W3C has more information about assigning responsibilities, combining expertise, and working with users with disabilities.
+- There are more resources to consult on this topic: The W3C has [more information about assigning responsibilities, combining expertise](https://w3.org/wai/planning-and-managing/plan/#assign-responsibilities), and [working with users with disabilities](https://www.w3.org/wai/planning/involving-users/).
 
 ## Action Step 4: Train your staff
 
-Training your staff is an important step toward ensuring that your public entity complies with this rule.  The Small Entity Compliance Guide and the W3C’s website include some suggestions about the types of trainings you might find helpful.  For example, the W3C’s website includes a collection of tutorials that you may find useful.
+Training your staff is an important step toward ensuring that your public entity complies with this rule.  The [Small Entity Compliance Guide](https://www.ada.gov/resources/small-entity-compliance-guide) and the [W3C’s website](https://www.w3.org/wai/planning-and-managing/implement/#build-skills-and-expertise) include some suggestions about the types of trainings you might find helpful.  For example, the W3C’s website includes a collection of tutorials that you may find useful.
 
 **General training for all staff members:**
 
-- To start, it’s probably a good idea for all staff members to be trained on what accessibility means and why it is important.  The W3C has some useful resources that may help with this foundational training, including an Introduction to Web Accessibility page and a page on How People with Disabilities Use the Web.  
+- To start, it’s probably a good idea for all staff members to be trained on what accessibility means and why it is important.  The W3C has some useful resources that may help with this foundational training, including an [Introduction to Web Accessibility](https://www.w3.org/wai/fundamentals/accessibility-intro/) page and a page on [How People with Disabilities Use the Web](https://www.w3.org/wai/people-use-web/).  
 
 **Other Specialized Training:**
 
@@ -149,7 +155,7 @@ Training your staff is an important step toward ensuring that your public entity
     - Training for non-technical content authors on writing accessible content.
     - Training for procurement staff about how your state or local government plans to make sure it buys web content and mobile apps that complies with the rule.
 
-For public entities that want to develop their own trainings, the W3C has useful resources for doing so, including a page on Developing Web Accessibility Presentations and Training and a Curricula on Web Accessibility page.
+For public entities that want to develop their own trainings, the W3C has useful resources for doing so, including a page on [Developing Web Accessibility Presentations and Training](https://www.w3.org/wai/teach-advocate/accessibility-training/) and a [Curricula on Web Accessibility](https://www.w3.org/curricula/) page.
 
 ## Action Step 5: Identify what web content and mobile apps your public entity has
 
@@ -171,35 +177,35 @@ Asking these questions can help you figure out where you need to focus your effo
 ## Action Step 6: Refresh your understanding of the rule’s exceptions
 You’ve now identified what web content and mobile apps your public entity has.  Much of that content and those apps will probably need to meet the technical standard (WCAG 2.1).  But it is possible that an exception might apply to some of that content and those apps, meaning that they don’t need to comply with WCAG 2.1.
 
-- You may want to spend some time learning about those exceptions, which you can do by reviewing the Fact Sheet,  the Small Entity Compliance Guide, or the full rule.
+- You may want to spend some time learning about those exceptions, which you can do by reviewing the [Fact Sheet](https://www.ada.gov/2024-03-08-web-rule/#summary=of-the-exceptions),  the [Small Entity Compliance Guide](https://www.ada.gov/resources/small-entity-compliance-guide/#1-archived-web-content), or the [full rule](https://www.ada.gov/assets/pdfs/web-rule.pdf).
 
 Below is a list of the five exceptions.  This list includes some basic reminders about the exceptions, but the list does not include all of the details about each exception.
 
-1. Archived web content
+1. **Archived web content**
 
-    - Remember: The rule has a specific definition of “archived web content.”  Just putting content into an archive isn’t enough to make the content qualify for this exception.  And this exception only applies to content that existed before your public entity’s compliance deadline.  You can read the full definition of “archived web content” in the rule.
+    - **Remember:** The rule has a specific definition of “archived web content.”  Just putting content into an archive isn’t enough to make the content qualify for this exception.  And this exception only applies to content that existed before your public entity’s compliance deadline.  You can read the [full definition of “archived web content”](https://www.ada.gov/law-and-regs/regulations/title-ii-2010-regulations/#section-35104-definitions) in the rule.
 
-2. Preexisting conventional electronic documents (PDFs, word processor file formats, presentation file formats, and spreadsheet file formats)
+2. **Preexisting conventional electronic documents (PDFs, word processor file formats, presentation file formats, and spreadsheet file formats)**
 
-    - Remember:
+    - **Remember:**
         - To qualify for this exception, your conventional electronic documents must be “preexisting,” meaning that they were posted before your public entity’s deadline for complying with this rule (see Action Step 2).  The exception does not apply to new content posted after the compliance deadline.
         - This exception does not apply to documents that are currently used to access the public entity’s services, programs, or activities.
 
-3. Content posted by third parties.
+3. **Content posted by third parties.**
 
-    - Remember: Your public entity can’t contract away its responsibilities under the ADA.  That means that your public entity can’t take advantage of this exception by having a third party do its web posting.  To qualify for this exception, the content has to be posted by a truly unaffiliated third party who is not posting for your public entity, such as a member of the public posting a message on a town’s open online message board.
+    - **Remember:** Your public entity can’t contract away its responsibilities under the ADA.  That means that your public entity can’t take advantage of this exception by having a third party do its web posting.  To qualify for this exception, the content has to be posted by a truly unaffiliated third party who is not posting for your public entity, such as a member of the public posting a message on a town’s open online message board.
 
-4. Exception for individualized, password-protected conventional electronic documents (PDFs, word processor file formats, presentation file formats, and spreadsheet file formats).
+4. **Exception for individualized, password-protected conventional electronic documents (PDFs, word processor file formats, presentation file formats, and spreadsheet file formats).**
 
-    - Remember: To qualify for this exception, a document must be about a specific person, property, or account.
+    - **Remember:** To qualify for this exception, a document must be about a specific person, property, or account.
 
-5. Exception for preexisting social media posts.
+5. **Exception for preexisting social media posts.**
 
-    - Remember: To qualify for this exception, your social media posts have to be “preexisting,” meaning that they were posted before your public entity’s deadline for complying with this rule (see Action Step 2).  This exception does not apply to social media posts made after the compliance deadline.
+    - **Remember:** To qualify for this exception, your social media posts have to be “preexisting,” meaning that they were posted before your public entity’s deadline for complying with this rule (see Action Step 2).  This exception does not apply to social media posts made after the compliance deadline.
 
-Remember: Even if some of your web content or content in mobile apps is covered by an exception, your state or local government still has to meet its other existing obligations under the ADA.
+**Remember:** Even if some of your web content or content in mobile apps is covered by an exception, your state or local government still has to meet its other existing obligations under the ADA.
 
->The ADA requires your public entity to provide individuals with disabilities with effective communication, reasonable modifications, and an equal opportunity to participate in or benefit from the entity’s services, programs, and activities.  This means that even when web content or content in mobile apps does not have to meet WCAG 2.1, in many circumstances your public entity would still need to provide the content to a person with a disability who needs it in a format that is accessible to them.
+- The ADA requires your public entity to provide individuals with disabilities with effective communication, reasonable modifications, and an equal opportunity to participate in or benefit from the entity’s services, programs, and activities.  This means that even when web content or content in mobile apps does not have to meet WCAG 2.1, in many circumstances your public entity would still need to provide the content to a person with a disability who needs it in a format that is accessible to them.
 
 ## Action Step 7: Determine which of your web content and mobile apps need to comply with WCAG 2.1 under the rule
 
@@ -287,12 +293,12 @@ A township uses a third-party mobile app that allows users to pay for public par
 
 Once you’ve figured out what content you have, and which of that content needs to comply with WCAG 2.1 under the rule, a good next step is to evaluate how accessible that content is and what fixes are needed.  Figuring out how accessible your content is can help you decide what steps you need to take next to make your content fully accessible.
 
-The W3C has a lot of resources that can help you with this.  For example:
-- The W3C has a page explaining some easy first checks that you might want to perform on your website.  These preliminary checks can help you get started and figure out how you might want to approach a more comprehensive review.
-- While the Department does not endorse particular evaluation tools, the W3C also has suggestions for how to select web accessibility evaluation tools that may be a helpful starting point.
-- If your public entity’s content already complies with an earlier version of WCAG, like WCAG 2.0 Level AA, the W3C has a page explaining the requirements that are new in WCAG 2.1.
+The W3C has a lot of [resources](https://www.w3.org/wai/test-evaluate) that can help you with this.  For example:
+- The W3C has a [page explaining some easy first checks](https://www.w3.org/wai/test-evaluate/preliminary) that you might want to perform on your website.  These preliminary checks can help you get started and figure out how you might want to approach a more comprehensive review.
+- While the Department does not endorse particular evaluation tools, the W3C also has [suggestions for how to select web accessibility evaluation tools](https://www.w3.org/wai/test-evaluate/tools/selecting) that may be a helpful starting point.
+- If your public entity’s content already complies with an earlier version of WCAG, like WCAG 2.0 Level AA, the W3C has a [page explaining the requirements that are new in WCAG 2.1](https://www.w3.org/wai/standards-guidelines/wcag/new-in-21/).
 
-Remember:
+**Remember:**
 
 - Testing the accessibility of web content and mobile apps can take time and planning, so it’s best not to leave this step until the last minute.
 - You won’t be able to use automated testing tools alone, because those tools can’t test for all aspects of accessibility, so you’ll want to use some combination of automated and manual assessments.
@@ -312,7 +318,7 @@ As you work up to full compliance, you may not be able to tackle all the issues 
     - Appears across multiple web pages, like navigation menus, search features, and standardized footers.
     - Is based on a template, so that you can make sure you are using an accessible template.
 
-You can find more suggestions at the W3C’s page on prioritizing issues and page on interim repairs.
+You can find more suggestions at the W3C’s page on [prioritizing issues](https://www.w3.org/wai/planning-and-managing/implement/#prioritize-issues) and [page on interim repairs](https://www.w3.org/wai/planning/interim-repairs/#scope).
 
 ## Action Step 10: Identify any relevant contracts with vendors and figure out if they can produce accessible content for you, or if you need to make any changes
 
@@ -333,10 +339,24 @@ Different approaches will work for different entities, and the Department does n
 
 ## Action Step 11: Create policies
 
-You can help set your state or local government up for success by creating policies on web and mobile app accessibility. These policies may be similar to, or part of, the other ADA nondiscrimination policies you may have adopted.  The Small Entity Compliance Guide includes some suggestions for topics that you might want to include in your policies.  The W3C also has some resources on how to create accessibility policies, including its page on Developing Organizational Policies on Web Accessibility.
+You can help set your state or local government up for success by creating policies on web and mobile app accessibility. These policies may be similar to, or part of, the other ADA nondiscrimination policies you may have adopted.  The [Small Entity Compliance Guide](https://www.ada.gov/resources/small-entity-compliance-guide) includes some suggestions for topics that you might want to include in your policies.  The W3C also has some resources on [how to create accessibility policies](https://www.w3.org/wai/planning-and-managing/plan/#create-accessibility-policy), including its page on [Developing Organizational Policies on Web Accessibility](https://www.w3.org/wai/planning/org-policies).
 
 **ADA Information Line**
 
-If you have questions about this rule or the ADA, you can call the ADA Information Line.  Accessibility specialists are available to answer your questions.  All calls are confidential.
+If you have questions about this rule or the ADA, you can call the [ADA Information Line](https://www.ada.gov/infoline).  Accessibility specialists are available to answer your questions.  All calls are confidential.
+
+---
+
+{% footnotes %}
+{% fnbody 1 %}
+This link directs users to a webpage that includes a pop-up window saying this version of WCAG 2.1 is "outdated."  For purposes of this rule, you should ignore that banner.  The version of WCAG 2.1 that is linked here is the version that your public entity will have to meet under this rule.
+{% endfnbody %}
+
+{% fnbody 2 %}
+A special district government is a public entity--other than a county, municipality, township, or independent school district--allowed by state law to provide to one function or a limited number of designated functions with enough independence to be a separate government.  For more information about special district governments, see subsection D.
+{% endfnbody %}
+{% endfootnotes %}
+
+---
 
 The contents of this resource do not have the force and effect of law and are not meant to bind the public in any way. This resource is intended only to provide clarity to the public regarding existing requirements under the law or the Department’s policies.
