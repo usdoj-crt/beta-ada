@@ -1,5 +1,5 @@
 ---
-title: Protecting the Rights of Persons Living with HIV/AIDS Fighting Discrimination
+title: "Protecting the Rights of Persons Living with HIV/AIDS "
 description: A publication explaining the rights of persons with HIV/AIDS under
   the Americans with Disabilities Act (ADA), and the requirements of the ADA for
   employers, businesses and non-profit agencies that serve the public, and State
@@ -14,6 +14,10 @@ sidenav-pdf:
 related-content: true
 ---
 <img src="{{ '/assets/images/project-images/ribbon.png' | relative_url }}" alt="image of a red AIDS ribbon" height="100" width="100" />
+
+
+## Fighting Discrimination
+
 The Americans with Disabilities Act (ADA) guarantees equal opportunity for individuals with disabilities in public accommodations, employment, transportation, State and local government services, and telecommunications. People with HIV, both symptomatic and asymptomatic, are protected by the ADA.  The ADA also protects persons who are discriminated against because they have a record of or are regarded as having HIV, or they have a known association or relationship with an individual who has HIV.
 
 ## Employment
@@ -52,7 +56,7 @@ A health care provider, whether public or private:
 * *May* not generally refer a patient with HIV or AIDS to another provider simply because the person has HIV or AIDS.
 * *May* refer a person who requests or requires treatment or services outside the provider's area of expertise and such referrals are routinely made.
 
-## Exclusion of Individuals with HIV or AIDS
+### Exclusion of Individuals with HIV or AIDS
 
 A public or private entity may exclude a person with HIV or AIDS from participation in an activity if that individual’s participation would result in a "direct threat" to the health or safety of others. A direct threat is a significant risk to the health or safety of others that cannot be eliminated by a modification to policies, practices, or procedures or by the provision of appropriate auxiliary aids or services. The determination that a person poses a direct threat to the health or safety of others must be an individualized assessment based on reasonable judgment that relies on current medical knowledge or the best available objective evidence.
 
