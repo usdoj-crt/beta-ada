@@ -13,7 +13,6 @@ sidenav-pdf:
   text: ""
 related-content: true
 ---
-<img src="{{ '/assets/images/project-images/ribbon.png' | relative_url }}" alt="image of a red AIDS ribbon" height="100" width="100" />
 
 
 ## Fighting Discrimination
