@@ -1,5 +1,5 @@
 ---
-title: "Protecting the Rights of Persons Living with HIV/AIDS "
+title: "Protecting the Rights of Persons Living with HIV/AIDS"
 description: A publication explaining the rights of persons with HIV/AIDS under
   the Americans with Disabilities Act (ADA), and the requirements of the ADA for
   employers, businesses and non-profit agencies that serve the public, and State
@@ -7,14 +7,12 @@ description: A publication explaining the rights of persons with HIV/AIDS under
 permalink: /resources/protecting-rights-persons-hiv/
 lang: en
 print: true
-publish-date: ""
-updated-date: ""
-sidenav-pdf:
-  text: ""
+publish-date: 2016-08-01 00:00:00
 related-content: true
+redirect_from:
+  - /hiv/ada_hiv_brochure.html
+
 ---
-
-
 ## Fighting Discrimination
 
 The Americans with Disabilities Act (ADA) guarantees equal opportunity for individuals with disabilities in public accommodations, employment, transportation, State and local government services, and telecommunications. People with HIV, both symptomatic and asymptomatic, are protected by the ADA.  The ADA also protects persons who are discriminated against because they have a record of or are regarded as having HIV, or they have a known association or relationship with an individual who has HIV.
@@ -87,7 +85,7 @@ For complaints concerning housing-related discrimination, contact the U.S. Depar
 
 ## ADA Information Line
 
-For more information on the ADA and the rights of persons living with HIV/AIDS, or to request this publication in an alternative format, call our [ADA Information Line](https://www.ada.gov/infoline/) Monday, Wednesday, Friday: 9:30am - 12pm and 3pm - 5:30pm, Tuesday 12:30pm - 5:30pm and Thursday 2:30pm - 5:30pm (Eastern Time) to speak with an ADA specialist. Calls are confidential.
+For more information on the ADA and the rights of persons living with HIV/AIDS, or to request this publication in an alternative format, call our [ADA Information Line](https://www.ada.gov/infoline/) Monday, Wednesday, Friday: 9:30am - 12:00pm and 3:00pm - 5:30pm, Tuesday 12:30pm - 5:30pm and Thursday 2:30pm - 5:30pm (Eastern Time) to speak with an ADA specialist. Calls are confidential.
 
 > 800-514-0301 (Voice)<br>
 > 833-610-1264 (TTY)
