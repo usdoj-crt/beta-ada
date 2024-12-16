@@ -7,7 +7,7 @@ description: A publication explaining the rights of persons with HIV/AIDS under
 permalink: /resources/protecting-rights-persons-hiv/
 lang: en
 print: true
-publish-date: August 1, 2016 12:00 AM
+publish-date: ""
 updated-date: ""
 sidenav-pdf:
   text: ""
