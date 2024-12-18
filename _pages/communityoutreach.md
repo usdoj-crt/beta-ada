@@ -40,4 +40,4 @@ The Community Outreach Coordinator may also be available to share information ab
 
 To request a representative for speaking engagements, expos, or conferences, please contact our Community Outreach Coordinator at: [{{site.communityoutreach.outreach_email}}](mailto:{{site.communityoutreach.outreach_email}}).
 
-For more information on [how to file a complaint]({%link _pages/file-a-complaint.md%}) or for information on how the ADA may apply to your situation, contact the [ADA Information Line]({%link _pages/infoline.md%}) at 1-800-514-0301 (voice) or 1-833-610-1264 (TTY).
+For more information on [how to file a complaint]({{ '/file-a-complaint' | relative_url }}) or for information on how the ADA may apply to your situation, contact the [ADA Information Line]({{ '/infoline' | relative_url }}) at 1-800-514-0301 (voice) or 1-833-610-1264 (TTY).
