@@ -33,6 +33,11 @@ contact:
   time1: "M, W, F: 9:30am - 12pm and 3pm - 5:30pm ET"
   time2: "Tu: 12:30pm - 5:30pm ET, Th: 2:30pm - 5:30pm ET"
 
+communityoutreach:
+  link: /communityoutreach/
+  link_title: Community Outreach Coordinator
+  outreach_email: Disability.Outreach@usdoj.gov
+
 # For alerts that aren't tied to a site.categories.notice
 
 
