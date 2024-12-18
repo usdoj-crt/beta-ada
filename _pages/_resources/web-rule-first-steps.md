@@ -186,7 +186,7 @@ Asking these questions can help you figure out where you need to focus your effo
 ## Action Step 6: Refresh your understanding of the rule’s exceptions
 You’ve now identified what web content and mobile apps your public entity has.  Much of that content and those apps will probably need to meet the technical standard (WCAG 2.1).  But it is possible that an exception might apply to some of that content and those apps, meaning that they don’t need to comply with WCAG 2.1.
 
-- You may want to spend some time learning about those exceptions, which you can do by reviewing the [Fact Sheet](https://www.ada.gov/2024-03-08-web-rule/#summary-of-the-exceptions),  the [Small Entity Compliance Guide](https://www.ada.gov/resources/small-entity-compliance-guide/#1-archived-web-content), or the [full rule](https://www.ada.gov/assets/pdfs/web-rule.pdf).
+- You may want to spend some time learning about those exceptions, which you can do by reviewing the [Fact Sheet](https://www.ada.gov/resources/2024-03-08-web-rule/#summary-of-the-exceptions),  the [Small Entity Compliance Guide](https://www.ada.gov/resources/small-entity-compliance-guide/#1-archived-web-content), or the [full rule](https://www.ada.gov/assets/pdfs/web-rule.pdf).
 
 Below is a list of the five exceptions.  This list includes some basic reminders about the exceptions, but the list does not include all of the details about each exception.
 
@@ -281,6 +281,7 @@ A public hospital operates a password-protected portal where patients can log in
     - But say the hospital uploads to the portal conventional electronic documents (PDFs, word processor files, presentation files, or spreadsheet files) that are about a specific person, property, or account. Those documents would fall within the exception for individualized, password-protected conventional electronic documents.  That means those documents do not have to meet WCAG 2.1.
 
         - Even if that exception applies, the hospital still has to meet its other existing ADA obligations, like ensuring that it effectively communicates with people with disabilities.  If a person with a disability needs access to the content in their document, the hospital generally needs to provide that content in a format that is accessible to that person.
+        
             - For example, the hospital might have to provide a large-print version of a document to a person who has low vision.
 
     - Say the hospital posts a document in its portal that is for multiple people, like a PDF notice about a change in billing practices.  That document is not individualized and does not qualify for the individualized, password-protected documents exception.  That means it generally has to meet WCAG 2.1.
