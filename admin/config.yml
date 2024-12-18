@@ -257,6 +257,26 @@ collections:
           - label: Body Content
             name: body
             widget: markdown
+      # Communityoutreach page:
+      - label: Community Outreach Coordinator
+        name: communityoutreach
+        file: _pages/communityoutreach.md
+        fields:
+          - label: Title
+            name: title
+            widget: string
+          - label: Desciption
+            name: description
+            widget: text
+          - label: Permalink
+            name: permalink
+            widget: string
+          - label: Lead Text
+            name: lead
+            widget: text
+          - label: Body Content
+            name: body
+            widget: markdown
       # Topics page:
       - label: Topics
         name: topics
