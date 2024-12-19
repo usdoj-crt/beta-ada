@@ -240,7 +240,7 @@ Section 503 requires affirmative action and prohibits employment discrimination 
 
 Section 504 states that "no qualified individual with a disability in the United States shall be excluded from, denied the benefits of, or be subjected to discrimination under" any program or activity that either receives Federal financial assistance or is conducted by any Executive agency or the United States Postal Service.
 
-Each Federal agency has its own set of section 504 regulations that apply to its own programs. Agencies that provide Federal financial assistance also have section 504 regulations covering entities that receive Federal aid. Requirements common to these regulations include reasonable accommodation for employees with disabilities; program accessibility; effective communication with people who have hearing or vision disabilities; and accessible new construction and alterations. Each agency is responsible for enforcing its own regulations. 
+Each Federal agency has its own set of section 504 regulations that apply to its own programs. Agencies that provide Federal financial assistance also have section 504 regulations covering entities that receive Federal aid. Requirements common to these regulations include reasonable accommodation for employees with disabilities; program accessibility; effective communication with people who have hearing or vision disabilities; and accessible new construction and alterations. Each agency is responsible for enforcing its own regulations.
 
 For information on how to file 504 complaints with the appropriate agency, contact:
 
