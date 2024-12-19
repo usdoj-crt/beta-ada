@@ -43,6 +43,7 @@ const ANALYTICS_CONFIG = [
   ['#in-page-search-mobile', 'click', sendGAClickEvent],
   ['#next-result', 'click', sendGAClickEvent],
   ['#prev-result', 'click', sendGAClickEvent],
+  ['.communityoutreach-link', 'click', sendGAClickEvent],
 ];
 
 export default function initGAEvents() {

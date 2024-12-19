@@ -1,0 +1,24 @@
+<li class="usa-card tablet-lg:grid-col-8 widescreen:grid-col-6">
+    <div class="usa-card__container">
+        <div class="usa-card__header">
+            {{include.title | markdownify}}
+        </div>
+        {% if include.image %}
+        <div class="usa-card__media usa-card__media--inset display-flex flex-align-center flex-justify-center">
+            <div class="display-flex flex-align-center flex-justify-center">
+                {{include.image}}
+            </div>
+        </div>
+        {% endif %}
+        <div class="usa-card__body">
+            {{include.description | markdownify}}
+        </div>
+        <div class="usa-card__footer">
+        {% if include.href %}
+        {% if include.link_text %}
+            <a href={{include.href}} class="usa-button">{{include.link_text}}</a>
+        {% endif %}
+        {% endif %}
+        </div>
+    </div>
+</li>
