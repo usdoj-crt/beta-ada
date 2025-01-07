@@ -71,6 +71,7 @@ Below are some key documents:
 - [Final Rule]({{ '/assets/pdfs/web-rule.pdf' | relative_url }}): This document provides the text of the rule and explains its requirements. If you need the final rule document or any other information in an alternative format, you can call the ADA Information Line at (800) 514-0301 (voice) or 1-833-610-1264 (TTY). The [official version of the rule](https://www.federalregister.gov/documents/2024/04/24/2024-07758/nondiscrimination-on-the-basis-of-disability-accessibility-of-web-information-and-services-of-state) is published in the Federal Register.
 - [Benefit-Cost Analysis]({{ '/assets/pdfs/web-fria.pdf' | relative_url }}): This is an analysis of the benefits and costs of the rule, also called the Regulatory Impact Analysis and Regulatory Flexibility Act analysis.
 - [Small Entity Compliance Guide]({{ '/resources/small-entity-compliance-guide/' | relative_url }}): The Department issued a guide to assist small entities in complying with the rule.
+- [Planning for Compliance]({{ '/resources/web-rule-first-steps/' | relative_url }}): This resource includes suggested steps that ADA Coordinators and others may want to take to prepare their state or local governments to comply with the rule. 
 - [Press Release](https://www.justice.gov/opa/pr/justice-department-publish-final-rule-strengthen-web-and-mobile-app-access-people): The Department issued a press release when the Attorney General signed the final rule.
 
 {% enddetails %}

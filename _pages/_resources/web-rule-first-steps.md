@@ -1,19 +1,21 @@
 ---
 title: "State and Local Governments: First Steps Toward Complying with the Americans with Disabilities Act Title II Web and Mobile Application Accessibility Rule"
-description: ""
+description: "This guide includes suggested steps that ADA Coordinators and others working with state and local governments may want to take as they plan to ensure that their web content and mobile apps comply with the ADA Title II rule on the accessibility of web content and mobile apps."
 permalink: /resources/web-rule-first-steps/
 lead: |-
 lang: "en"
 publish-date: 2024-12-12 00:00:00
 related-content: true
 print: true
+news-item: true
+publish-date: 2025-01-08 00:00:00
 tags:
   - web access
   - title ii
 ---
 Public entities (or “state and local governments”) offer many services on their websites and mobile applications (or “apps”).  But these services are not always accessible to people with disabilities.
 
-In April 2024, the Department of Justice (or “Department”) published a rule that sets technical requirements for state and local governments to follow to make sure that their websites and mobile apps are accessible to people with disabilities.  This resource can help state and local governments figure out what they should do to comply with this rule.
+In April 2024, the Department of Justice (or “Department”) published a rule that sets technical requirements for state and local governments to follow to make sure that their websites and mobile apps are accessible to people with disabilities.  This resource can help state and local governments figure out what they should do to comply with the rule.
 
 ## Who might find this resource helpful
 
@@ -29,17 +31,17 @@ This resource:
 
 - Can help get you started. There will probably be many other steps that your public entity will want to take to ensure compliance with the rule.
 
-- Links to helpful materials from the [World Wide Web Consortium](https://www.w3.org) (or “W3C”), which is the organization that published the technical requirements that public entities will have to meet under this rule.  The technical requirements are called the [Web Content Accessibility Guidelines Version 2.1 Level AA](https://www.w3.org/TR/2018/REC-WCAG21-20180605/){% fn 1 %} (or “WCAG 2.1 Level AA”).  Although WCAG includes the word “guidelines,” complying with WCAG 2.1 Level AA is required under this rule.
+- Links to helpful materials from the [World Wide Web Consortium](https://www.w3.org) (or “W3C”), which is the organization that published the technical requirements that public entities will have to meet under the rule.  The technical requirements are called the [Web Content Accessibility Guidelines Version 2.1 Level AA](https://www.w3.org/TR/2018/REC-WCAG21-20180605/){% fn 1 %} (or “WCAG 2.1 Level AA”).  Although WCAG includes the word “guidelines,” complying with WCAG 2.1 Level AA is required under the rule.
 
 ## Why compliance is important
 
-- Complying with this rule will help your state or local government better serve all members of your community, including people with visual, auditory, physical, speech, cognitive, and neurological disabilities.
+- Complying with the rule will help your state or local government better serve all members of your community, including people with visual, auditory, physical, speech, cognitive, and neurological disabilities.
 
 - Barriers to accessing services online affect people’s day-to-day lives. For example, when an online form is not designed accessibly, it can prevent someone with a disability from completing and submitting the form.  The W3C has [resources](https://www.w3.org/wai/people/) illustrating how barriers to web accessibility affect people with disabilities.
 
 - Web and mobile app inaccessibility can also make it harder for state and local governments to function.  For example, if a state government’s online tax form is inaccessible to people with disabilities, it can make it hard for the government to efficiently collect taxes.
 
-- When state and local governments comply with this rule, people with disabilities will have much more reliable access to critical government services like registering to vote, attending public schools and universities, applying for government benefits, requesting that potholes be filled, watching public hearings, and many more.  State and local governments will also be able to function better.  The suggested action steps in this resource can help your public entity get there.
+- When state and local governments comply with the rule, people with disabilities will have much more reliable access to critical government services like registering to vote, attending public schools and universities, applying for government benefits, requesting that potholes be filled, watching public hearings, and many more.  State and local governments will also be able to function better.  The suggested action steps in this resource can help your public entity get there.
 
 ## Action Step 1: Learn about the rule’s requirements
 
@@ -90,13 +92,13 @@ If, after reviewing the instructions below, you’re still not sure what your pu
 {% details A. If your public entity has a population in the 2020 decennial Census, use that population. %}
 
 Example: 
-A county has a population of 1 million in the 2020 decennial Census.  The county’s population for purposes of this rule is 1 million.  The county needs to comply with this rule by April 2026.
+A county has a population of 1 million in the 2020 decennial Census.  The county’s population for purposes of the rule is 1 million.  The county needs to comply with the rule by April 2026.
 {% enddetails %}
 
 {% details B. If your public entity is an independent school district, use your school district’s population in the 2022 Small Area Income and Poverty Estimates. %}
 
 Example: 
-An independent school district has a population of 1,000 in the 2022 Small Area Income and Poverty Estimates.  The independent school district’s population for purposes of this rule is 1,000.  The independent school district needs to comply with this rule by April 2027.
+An independent school district has a population of 1,000 in the 2022 Small Area Income and Poverty Estimates.  The independent school district’s population for purposes of the rule is 1,000.  The independent school district needs to comply with the rule by April 2027.
 {% enddetails %}
 
 {% details C. If your public entity does not have a population calculated by the Census Bureau, use the Census population of the state or local government(s) of which your public entity is a part. %}
@@ -108,15 +110,15 @@ Some public entities don’t have populations of their own, but they are a part 
 - If your public entity is a part of an independent school district, you can check the school district’s population in the 2022 Small Area Income and Poverty Estimates.
 
 Examples:
-- A city police department is part of a city with a population of 25,000 in the 2020 decennial Census.  The city police department’s population for purposes of this rule is 25,000.  The city police department needs to comply with the rule by April 2027.
+- A city police department is part of a city with a population of 25,000 in the 2020 decennial Census.  The city police department’s population for purposes of the rule is 25,000.  The city police department needs to comply with the rule by April 2027.
 
-- A state university has 40,000 students but is part of a state that has a population of 6,000,000 in the 2020 decennial Census.  The state university’s population for purposes of this rule is 6,000,000.  The number of students that attend the university does not determine the university’s population for this rule.  The state university needs to comply with this rule by April 2026.
+- A state university has 40,000 students but is part of a state that has a population of 6,000,000 in the 2020 decennial Census.  The state university’s population for purposes of the rule is 6,000,000.  The number of students that attend the university does not determine the university’s population for the rule.  The state university needs to comply with the rule by April 2026.
 
-- A neighborhood branch of a county library serves 3,000 patrons but is part of a county that has a population of 70,000 in the 2020 decennial Census.  The county library’s population for purposes of this rule is 70,000.  The number of patrons that a local branch serves does not determine the library’s population for this rule.  The county library and all its branches need to comply with this rule by April 2026.
+- A neighborhood branch of a county library serves 3,000 patrons but is part of a county that has a population of 70,000 in the 2020 decennial Census.  The county library’s population for purposes of the rule is 70,000.  The number of patrons that a local branch serves does not determine the library’s population for the rule.  The county library and all its branches need to comply with the rule by April 2026.
 
-- A town parks and recreation department has 10 employees.  The parks and recreation department is part of a town that has a population of 80,000 in the 2020 decennial Census.  The town parks and recreation department’s population for purposes of this rule is 80,000.  The number of employees does not determine the parks and recreation department’s population for this rule.  The town parks and recreation department needs to comply with this rule by April 2026.
+- A town parks and recreation department has 10 employees.  The parks and recreation department is part of a town that has a population of 80,000 in the 2020 decennial Census.  The town parks and recreation department’s population for purposes of the rule is 80,000.  The number of employees does not determine the parks and recreation department’s population for the rule.  The town parks and recreation department needs to comply with this rule by April 2026.
 
-- A commuter authority is part of two different states, one of which has a population of 10,000,000 and one of which has a population of 8,000,000.  The commuter authority’s population for purposes of this rule is the combined population of the two states of which the commuter authority is a part, or 18,000,000.  The commuter authority needs to comply with this rule by April 2026.
+- A commuter authority is part of two different states, one of which has a population of 10,000,000 and one of which has a population of 8,000,000.  The commuter authority’s population for purposes of the rule is the combined population of the two states of which the commuter authority is a part, or 18,000,000.  The commuter authority needs to comply with the rule by April 2026.
 {% enddetails %}
 
 {% details D. If your public entity is a special district government, then your public entity has until April 2027 to comply. %}
@@ -130,7 +132,7 @@ A special district government:
 {% enddetails %}
 {% enddetails %}
 
-## Action Step 3: Figure out who within your state or local government will have a role in complying with this rule
+## Action Step 3: Figure out who within your state or local government will have a role in complying with the rule
 Once you know your state or local government’s deadline for complying with the rule, it is a good next step to figure out who within your government is going to have a role in making sure your government complies with the rule.  If you are an ADA coordinator, you are a good person to start thinking about that.  Different approaches will work for different state and local governments, but here are some things to consider:
 
 - **It’s helpful to think broadly about who should be involved:** While web developers or information technology (“IT”) staff can play an important role in ensuring accessibility, they’re not the only ones who should be thinking about accessibility. For example, procurement staff play a key role in ensuring your state or local government buys or licenses accessible web content or mobile apps.
@@ -149,7 +151,7 @@ Once you know your state or local government’s deadline for complying with the
 
 ## Action Step 4: Train your staff
 
-Training your staff is an important step toward ensuring that your public entity complies with this rule.  The [Small Entity Compliance Guide](https://www.ada.gov/resources/small-entity-compliance-guide) and the [W3C’s website](https://www.w3.org/wai/planning-and-managing/implement/#build-skills-and-expertise) include some suggestions about the types of trainings you might find helpful.  For example, the W3C’s website includes a collection of [tutorials](https://www.w3.org/wai/tutorials/) that you may find useful.
+Training your staff is an important step toward ensuring that your public entity complies with the rule.  The [Small Entity Compliance Guide](https://www.ada.gov/resources/small-entity-compliance-guide) and the [W3C’s website](https://www.w3.org/wai/planning-and-managing/implement/#build-skills-and-expertise) include some suggestions about the types of trainings you might find helpful.  For example, the W3C’s website includes a collection of [tutorials](https://www.w3.org/wai/tutorials/) that you may find useful.
 
 **General training for all staff members:**
 
@@ -197,7 +199,7 @@ Below is a list of the five exceptions.  This list includes some basic reminder
 2. **Preexisting conventional electronic documents (PDFs, word processor file formats, presentation file formats, and spreadsheet file formats)**
 
     - **Remember:**
-        - To qualify for this exception, your conventional electronic documents must be “preexisting,” meaning that they were posted before your public entity’s deadline for complying with this rule (see Action Step 2).  The exception does not apply to new content posted after the compliance deadline.
+        - To qualify for this exception, your conventional electronic documents must be “preexisting,” meaning that they were posted before your public entity’s deadline for complying with the rule (see Action Step 2).  The exception does not apply to new content posted after the compliance deadline.
 
         - This exception does not apply to documents that are currently used to access the public entity’s services, programs, or activities.
 
@@ -211,7 +213,7 @@ Below is a list of the five exceptions.  This list includes some basic reminder
 
 5. **Exception for preexisting social media posts**
 
-    - **Remember:** To qualify for this exception, your social media posts have to be “preexisting,” meaning that they were posted before your public entity’s deadline for complying with this rule (see Action Step 2).  This exception does not apply to social media posts made after the compliance deadline.
+    - **Remember:** To qualify for this exception, your social media posts have to be “preexisting,” meaning that they were posted before your public entity’s deadline for complying with the rule (see Action Step 2).  This exception does not apply to social media posts made after the compliance deadline.
 
 **Remember:** Even if some of your web content or content in mobile apps is covered by an exception, your state or local government still has to meet its other existing obligations under the ADA.
 
@@ -245,7 +247,7 @@ A town’s website includes a large number of PDF documents, including minutes f
 
     - The applications for current city programs and documents listing current city ordinances:
 
-        - Probably need to comply with WCAG 2.1 under this rule.  It is unlikely that any of the exceptions to the rule would apply to those PDFs.  
+        - Probably need to comply with WCAG 2.1 under the rule.  It is unlikely that any of the exceptions to the rule would apply to those PDFs.  
 {% enddetails %}
 
 {% details Example: Social Media Posts %}
@@ -297,7 +299,7 @@ A county library’s website includes a wide variety of resources, such as an on
 
     - However, the archived web content exception might apply to some of the content in the library’s archive.
 
-        - If the library’s dedicated and clearly labeled archive includes old photos from county events that occurred before the date the library was required to comply with this rule, that are retained exclusively for reference, research, or recordkeeping, and that have not been altered or updated since they were archived, those photos would qualify for this exception. But new photos documenting events after the library was required to comply with this rule do not qualify for the exception even if they are added to the archive.
+        - If the library’s dedicated and clearly labeled archive includes old photos from county events that occurred before the date the library was required to comply with the rule, that are retained exclusively for reference, research, or recordkeeping, and that have not been altered or updated since they were archived, those photos would qualify for this exception. But new photos documenting events after the library was required to comply with the rule do not qualify for the exception even if they are added to the archive.
 
         - Even if certain content in the library’s archive might qualify for the archived web content exception, the library still has to make sure that users with disabilities can search through the archive and determine what materials are in the archive.  And if a person with a disability requests access to content that falls within the exception, in many circumstances the library would need to provide that content to the person in a format that is accessible to them.
 {% enddetails %}
@@ -389,13 +391,13 @@ You can help set your state or local government up for success by creating polic
 
 **ADA Information Line**
 
-If you have questions about this rule or the ADA, you can call the [ADA Information Line](https://www.ada.gov/infoline).  Accessibility specialists are available to answer your questions.  All calls are confidential.
+If you have questions about the rule or the ADA, you can call the [ADA Information Line](https://www.ada.gov/infoline).  Accessibility specialists are available to answer your questions.  All calls are confidential.
 
 ---
 
 {% footnotes %}
 {% fnbody 1 %}
-This link directs users to a webpage that includes a pop-up window saying this version of WCAG 2.1 is "outdated."  For purposes of this rule, you should ignore that banner.  The version of WCAG 2.1 that is linked here is the version that your public entity will have to meet under this rule.
+This link directs users to a webpage that includes a pop-up window saying this version of WCAG 2.1 is "outdated."  For purposes of the rule, you should ignore that banner.  The version of WCAG 2.1 that is linked here is the version that your public entity will have to meet under the rule.
 {% endfnbody %}
 
 {% fnbody 2 %}
