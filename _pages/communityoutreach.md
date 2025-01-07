@@ -10,7 +10,7 @@ print: true
 ---
 
 {% capture card_image %}
-<img src="/assets/images/landing/featured_topics_grey_bg.png" alt="">
+<img src="{{ '/assets/images/landing/featured_topics_grey_bg.png' | relative_url }}" alt="">
 {% endcapture %}
 
 {% capture presentations_card_title %}
