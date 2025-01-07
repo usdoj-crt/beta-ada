@@ -5,6 +5,8 @@ permalink: /communityoutreach/
 lead: |-
     The Community Outreach Coordinator’s role is to serve as a link between the Division and people with disabilities living throughout the United States. The Community Outreach Coordinator can provide:
 sidenav: true
+phonebox: true
+print: true
 ---
 
 {% capture card_image %}
