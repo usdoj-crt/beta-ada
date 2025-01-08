@@ -19,10 +19,20 @@ hero:
       Three people, two with visible disabilities, relaxing and talking outside.
     mobile: |-
       Five people, some with visible disabilities, hanging out on a rooftop deck while talking and laughing.
-  content: |-
-    Disability rights are civil rights. From voting to parking, the ADA is a law that protects people with disabilities in many areas of public life.
   heading: |-
     The Americans with Disabilities Act (ADA) protects people with disabilities from discrimination.
+
+# 'content' is a section of text that displays underneath the heading.
+  content: |-
+    Disability rights are civil rights. From voting to parking, the ADA is a law that protects people with disabilities in many areas of public life.
+
+# 'news-widget' is an information box that shows on underneath the heading, and underneath content if it is populated. It is used to highlight and link to a particular news item.
+  news-widget:
+    title: |-
+      ADA Compliance Brief: Restriping Parking Spaces
+    link:
+      text: Learn More
+      href: https://ada.gov/feedback/
 
 understand:
   heading: Topics
