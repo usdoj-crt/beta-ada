@@ -29,10 +29,10 @@ hero:
 # 'news-widget' is an information box that shows on underneath the heading, and underneath content if it is populated. It is used to highlight and link to a particular news item.
   news-widget:
     title: |-
-      ADA Compliance Brief: Restriping Parking Spaces
+      Find out more about our work in the Civil Rights Division
     link:
       text: Learn More
-      href: https://ada.gov/feedback/
+      href: https://www.justice.gov/crt/our-work
 
 understand:
   heading: Topics
