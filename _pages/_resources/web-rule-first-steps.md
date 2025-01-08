@@ -238,16 +238,16 @@ A town’s website includes a large number of PDF documents, including minutes f
 
 - **How the rule might apply:**
 
-    - Some of these PDFs probably need to comply with WCAG 2.1, while others may be covered by an exception.
-    - The PDF minutes from past city council meetings, announcements of past city events, and scans of old records from the 1970s:
+  - Some of these PDFs probably need to comply with WCAG 2.1, while others may be covered by an exception.
+  - The PDF minutes from past city council meetings, announcements of past city events, and scans of old records from the 1970s:
 
-      - Would probably qualify for the exception for preexisting conventional electronic documents, so long as they were posted before the date the town has to comply with the rule and they are not currently used to apply for, gain access to, or participate in the public entity’s services, programs, or activities.
+    - Would probably qualify for the exception for preexisting conventional electronic documents, so long as they were posted before the date the town has to comply with the rule and they are not currently used to apply for, gain access to, or participate in the public entity’s services, programs, or activities.
 
-      - Might also qualify for the archived web content exception if they were created before the date the town has to comply with the rule, are retained only for reference, research, or recordkeeping, are not updated after the date of archiving, and the town moves them into an area of the website that is clearly identified as an archive.
+    - Might also qualify for the archived web content exception if they were created before the date the town has to comply with the rule, are retained only for reference, research, or recordkeeping, are not updated after the date of archiving, and the town moves them into an area of the website that is clearly identified as an archive.
 
-    - The applications for current city programs and documents listing current city ordinances:
+  - The applications for current city programs and documents listing current city ordinances:
 
-      - Probably need to comply with WCAG 2.1 under the rule.  It is unlikely that any of the exceptions to the rule would apply to those PDFs.  
+    - Probably need to comply with WCAG 2.1 under the rule.  It is unlikely that any of the exceptions to the rule would apply to those PDFs.  
 {% enddetails %}
 
 {% details Example: Social Media Posts %}
@@ -284,7 +284,7 @@ A public hospital operates a password-protected portal where patients can log in
 
     - Even if that exception applies, the hospital still has to meet its other existing ADA obligations, like ensuring that it effectively communicates with people with disabilities.  If a person with a disability needs access to the content in their document, the hospital generally needs to provide that content in a format that is accessible to that person.
         
-        - For example, the hospital might have to provide a large-print version of a document to a person who has low vision.
+      - For example, the hospital might have to provide a large-print version of a document to a person who has low vision.
 
   - Say the hospital posts a document in its portal that is for multiple people, like a PDF notice about a change in billing practices.  That document is not individualized and does not qualify for the individualized, password-protected documents exception.  That means it generally has to meet WCAG 2.1.
 {% enddetails %}
