@@ -116,7 +116,7 @@ Examples:
 
 - A neighborhood branch of a county library serves 3,000 patrons but is part of a county that has a population of 70,000 in the 2020 decennial Census.  The county library’s population for purposes of the rule is 70,000.  The number of patrons that a local branch serves does not determine the library’s population for the rule.  The county library and all its branches need to comply with the rule by April 2026.
 
-- A town parks and recreation department has 10 employees.  The parks and recreation department is part of a town that has a population of 80,000 in the 2020 decennial Census.  The town parks and recreation department’s population for purposes of the rule is 80,000.  The number of employees does not determine the parks and recreation department’s population for the rule.  The town parks and recreation department needs to comply with this rule by April 2026.
+- A town parks and recreation department has 10 employees.  The parks and recreation department is part of a town that has a population of 80,000 in the 2020 decennial Census.  The town parks and recreation department’s population for purposes of the rule is 80,000.  The number of employees does not determine the parks and recreation department’s population for the rule.  The town parks and recreation department needs to comply with the rule by April 2026.
 
 - A commuter authority is part of two different states, one of which has a population of 10,000,000 and one of which has a population of 8,000,000.  The commuter authority’s population for purposes of the rule is the combined population of the two states of which the commuter authority is a part, or 18,000,000.  The commuter authority needs to comply with the rule by April 2026.
 {% enddetails %}
@@ -147,7 +147,7 @@ Once you know your state or local government’s deadline for complying with the
 
     - If you need help understanding what the rule means, you can also call the [ADA Information Line](https://www.ada.gov/infoline) for help.
 
-- There are more resources to consult on this topic: The W3C has [more information about assigning responsibilities](https://w3.org/wai/planning-and-managing/plan/#assign-responsibilities), [combining expertise](https://www.w3.org/wai/test-evaluate/combined-expertise), and [working with users with disabilities](https://www.w3.org/wai/planning/involving-users/).
+- **There are more resources to consult on this topic:** The W3C has [more information about assigning responsibilities](https://w3.org/wai/planning-and-managing/plan/#assign-responsibilities), [combining expertise](https://www.w3.org/wai/test-evaluate/combined-expertise), and [working with users with disabilities](https://www.w3.org/wai/planning/involving-users/).
 
 ## Action Step 4: Train your staff
 
