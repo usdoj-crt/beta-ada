@@ -61,15 +61,15 @@ The deadline for complying with the rule generally depends on the population of 
 
 - **State or local governments with a population of 50,000 or more persons:**
 
-    - Compliance deadline: April 24, 2026
+  - Compliance deadline: April 24, 2026
 
 - **State or local governments with a population of 0 to 49,999 persons:**
 
-    - Compliance deadline: April 26, 2027
+  - Compliance deadline: April 26, 2027
 
 - **Special district governments:{% fn 2 %}**
 
-    - Compliance deadline: April 26, 2027
+  - Compliance deadline: April 26, 2027
 
 Your public entity’s population is:
 {% list check_circle %}
@@ -91,13 +91,13 @@ If, after reviewing the instructions below, you’re still not sure what your pu
 
 {% details A. If your public entity has a population in the 2020 decennial Census, use that population. %}
 
-Example: 
+Example:
 A county has a population of 1 million in the 2020 decennial Census.  The county’s population for purposes of the rule is 1 million.  The county needs to comply with the rule by April 2026.
 {% enddetails %}
 
 {% details B. If your public entity is an independent school district, use your school district’s population in the 2022 Small Area Income and Poverty Estimates. %}
 
-Example: 
+Example:
 An independent school district has a population of 1,000 in the 2022 Small Area Income and Poverty Estimates.  The independent school district’s population for purposes of the rule is 1,000.  The independent school district needs to comply with the rule by April 2027.
 {% enddetails %}
 
@@ -145,7 +145,7 @@ Once you know your state or local government’s deadline for complying with the
 
 - **Your public entity may need advice from others:** You also may find that you need legal advice specific to your own particular situation.  You may want to make a plan for who you will consult if you need legal advice.
 
-    - If you need help understanding what the rule means, you can also call the [ADA Information Line](https://www.ada.gov/infoline) for help.
+  - If you need help understanding what the rule means, you can also call the [ADA Information Line](https://www.ada.gov/infoline) for help.
 
 - **There are more resources to consult on this topic:** The W3C has [more information about assigning responsibilities](https://w3.org/wai/planning-and-managing/plan/#assign-responsibilities), [combining expertise](https://www.w3.org/wai/test-evaluate/combined-expertise), and [working with users with disabilities](https://www.w3.org/wai/planning/involving-users/).
 
@@ -161,10 +161,10 @@ Training your staff is an important step toward ensuring that your public entity
 
 - Different staff members will require other additional trainings depending on their specific duties and responsibilities. Some examples of trainings might include:
 
-    - Training for designers and marketing staff on accessibility and visual design.
-    - Training for web developers and content testers on accessible coding solutions.
-    - Training for non-technical content authors on writing accessible content.
-    - Training for procurement staff about how your state or local government plans to make sure it buys web content and mobile apps that comply with the rule.
+  - Training for designers and marketing staff on accessibility and visual design.
+  - Training for web developers and content testers on accessible coding solutions.
+  - Training for non-technical content authors on writing accessible content.
+  - Training for procurement staff about how your state or local government plans to make sure it buys web content and mobile apps that comply with the rule.
 
 For public entities that want to develop their own trainings, the W3C has useful resources for doing so, including a page on [Developing Web Accessibility Presentations and Training](https://www.w3.org/wai/teach-advocate/accessibility-training/) and a [Curricula on Web Accessibility](https://www.w3.org/wai/curricula/) page.
 
@@ -230,7 +230,7 @@ A city website includes HTML web pages explaining how residents can pay utility 
 
 - **How the rule might apply:**
 
-    - This content probably needs to comply with WCAG 2.1.  It is web content that the city is providing.  It is unlikely that any of the exceptions to the rule would apply.
+  - This content probably needs to comply with WCAG 2.1.  It is web content that the city is providing.  It is unlikely that any of the exceptions to the rule would apply.
 {% enddetails %}
 
 {% details Example: Old PDFs %}
@@ -241,13 +241,13 @@ A town’s website includes a large number of PDF documents, including minutes f
     - Some of these PDFs probably need to comply with WCAG 2.1, while others may be covered by an exception.
     - The PDF minutes from past city council meetings, announcements of past city events, and scans of old records from the 1970s:
 
-        - Would probably qualify for the exception for preexisting conventional electronic documents, so long as they were posted before the date the town has to comply with the rule and they are not currently used to apply for, gain access to, or participate in the public entity’s services, programs, or activities.
+      - Would probably qualify for the exception for preexisting conventional electronic documents, so long as they were posted before the date the town has to comply with the rule and they are not currently used to apply for, gain access to, or participate in the public entity’s services, programs, or activities.
 
-        - Might also qualify for the archived web content exception if they were created before the date the town has to comply with the rule, are retained only for reference, research, or recordkeeping, are not updated after the date of archiving, and the town moves them into an area of the website that is clearly identified as an archive.
+      - Might also qualify for the archived web content exception if they were created before the date the town has to comply with the rule, are retained only for reference, research, or recordkeeping, are not updated after the date of archiving, and the town moves them into an area of the website that is clearly identified as an archive.
 
     - The applications for current city programs and documents listing current city ordinances:
 
-        - Probably need to comply with WCAG 2.1 under the rule.  It is unlikely that any of the exceptions to the rule would apply to those PDFs.  
+      - Probably need to comply with WCAG 2.1 under the rule.  It is unlikely that any of the exceptions to the rule would apply to those PDFs.  
 {% enddetails %}
 
 {% details Example: Social Media Posts %}
@@ -266,11 +266,11 @@ A public university’s website includes links to third-party websites, includin
 
 - **How the rule might apply:**
 
-    - Whether the content that the university links to needs to meet WCAG 2.1 depends on the facts.
+  - Whether the content that the university links to needs to meet WCAG 2.1 depends on the facts.
 
-        - When the university links to a page on a third-party website where students can pay tuition to the university, the university is providing that web page through contractual, licensing, or other arrangements.  So, the university needs to make sure it picks a third-party tuition payment website that is accessible.
+    - When the university links to a page on a third-party website where students can pay tuition to the university, the university is providing that web page through contractual, licensing, or other arrangements.  So, the university needs to make sure it picks a third-party tuition payment website that is accessible.
 
-        - When the university links to a third-party website for a nearby private hotel, the university probably does not need to ensure the accessibility of the hotel’s website if the hotel website is not provided on behalf of the university due to a contractual, licensing, or other arrangement.
+    - When the university links to a third-party website for a nearby private hotel, the university probably does not need to ensure the accessibility of the hotel’s website if the hotel website is not provided on behalf of the university due to a contractual, licensing, or other arrangement.
 {% enddetails %}
 
 {% details Example: Password-Protected Portals %}
@@ -278,30 +278,30 @@ A public hospital operates a password-protected portal where patients can log in
 
 - **How the rule might apply:**
 
-    - The public hospital generally needs to make sure that its password-protected portal and any html content in it meets WCAG 2.1 Level AA.
+  - The public hospital generally needs to make sure that its password-protected portal and any html content in it meets WCAG 2.1 Level AA.
 
-    - But say the hospital uploads to the portal conventional electronic documents (PDFs, word processor files, presentation files, or spreadsheet files) that are about a specific person, property, or account. Those documents would fall within the exception for individualized, password-protected conventional electronic documents.  That means those documents do not have to meet WCAG 2.1.
+  - But say the hospital uploads to the portal conventional electronic documents (PDFs, word processor files, presentation files, or spreadsheet files) that are about a specific person, property, or account. Those documents would fall within the exception for individualized, password-protected conventional electronic documents.  That means those documents do not have to meet WCAG 2.1.
 
-        - Even if that exception applies, the hospital still has to meet its other existing ADA obligations, like ensuring that it effectively communicates with people with disabilities.  If a person with a disability needs access to the content in their document, the hospital generally needs to provide that content in a format that is accessible to that person.
+    - Even if that exception applies, the hospital still has to meet its other existing ADA obligations, like ensuring that it effectively communicates with people with disabilities.  If a person with a disability needs access to the content in their document, the hospital generally needs to provide that content in a format that is accessible to that person.
         
-            - For example, the hospital might have to provide a large-print version of a document to a person who has low vision.
+        - For example, the hospital might have to provide a large-print version of a document to a person who has low vision.
 
-    - Say the hospital posts a document in its portal that is for multiple people, like a PDF notice about a change in billing practices.  That document is not individualized and does not qualify for the individualized, password-protected documents exception.  That means it generally has to meet WCAG 2.1.
+  - Say the hospital posts a document in its portal that is for multiple people, like a PDF notice about a change in billing practices.  That document is not individualized and does not qualify for the individualized, password-protected documents exception.  That means it generally has to meet WCAG 2.1.
 {% enddetails %}
 
 {% details Example: Library Website %}
 A county library’s website includes a wide variety of resources, such as an online catalog listing electronic books and articles that users can check out, information about how to request an interlibrary loan, and an archive containing a variety of historical materials related to the county, including photos from past county events.
 
 - **How the rule might apply:**
-    - Libraries are treated the same as other public entities under the rule.  The county library generally needs to make sure that the content on its website meets WCAG 2.1 Level AA.
+  - Libraries are treated the same as other public entities under the rule.  The county library generally needs to make sure that the content on its website meets WCAG 2.1 Level AA.
 
-    - The online catalog listing electronic books and articles that users can check out and information about how to request an interlibrary loan would generally need to meet WCAG 2.1.
+  - The online catalog listing electronic books and articles that users can check out and information about how to request an interlibrary loan would generally need to meet WCAG 2.1.
 
-    - However, the archived web content exception might apply to some of the content in the library’s archive.
+  - However, the archived web content exception might apply to some of the content in the library’s archive.
 
-        - If the library’s dedicated and clearly labeled archive includes old photos from county events that occurred before the date the library was required to comply with the rule, that are retained exclusively for reference, research, or recordkeeping, and that have not been altered or updated since they were archived, those photos would qualify for this exception. But new photos documenting events after the library was required to comply with the rule do not qualify for the exception even if they are added to the archive.
+    - If the library’s dedicated and clearly labeled archive includes old photos from county events that occurred before the date the library was required to comply with the rule, that are retained exclusively for reference, research, or recordkeeping, and that have not been altered or updated since they were archived, those photos would qualify for this exception. But new photos documenting events after the library was required to comply with the rule do not qualify for the exception even if they are added to the archive.
 
-        - Even if certain content in the library’s archive might qualify for the archived web content exception, the library still has to make sure that users with disabilities can search through the archive and determine what materials are in the archive.  And if a person with a disability requests access to content that falls within the exception, in many circumstances the library would need to provide that content to the person in a format that is accessible to them.
+    - Even if certain content in the library’s archive might qualify for the archived web content exception, the library still has to make sure that users with disabilities can search through the archive and determine what materials are in the archive.  And if a person with a disability requests access to content that falls within the exception, in many circumstances the library would need to provide that content to the person in a format that is accessible to them.
 {% enddetails %}
 
 {% details Example: Course Content %}
@@ -309,11 +309,11 @@ A public school provides course content for students using a password-protected 
 
 - **How the rule might apply:**
 
-    - There is no exception for educational course content.  If a public school uses an educational portal or LMS, the school generally needs to make sure that its portal or LMS, and all of the course content added to the portal or LMS, meets WCAG 2.1 Level AA.
+  - There is no exception for educational course content.  If a public school uses an educational portal or LMS, the school generally needs to make sure that its portal or LMS, and all of the course content added to the portal or LMS, meets WCAG 2.1 Level AA.
 
-    - If a teacher posts a link to required reading for their class, then that link and reading also must generally meet WCAG 2.1.
+  - If a teacher posts a link to required reading for their class, then that link and reading also must generally meet WCAG 2.1.
 
-    - The exception for preexisting conventional electronic documents does not apply to the content posted by the teacher because that exception does not apply to documents that are currently used to apply for, gain access to, or participate in a public entity’s services, programs, or activities.  The public school’s course content is used to participate in a school course, so it does not qualify for that exception.
+  - The exception for preexisting conventional electronic documents does not apply to the content posted by the teacher because that exception does not apply to documents that are currently used to apply for, gain access to, or participate in a public entity’s services, programs, or activities.  The public school’s course content is used to participate in a school course, so it does not qualify for that exception.
 {% enddetails %}
 
 {% details Example: Mobile App %}
@@ -321,9 +321,9 @@ A township uses a third-party mobile app that allows users to pay for public par
 
 - **How the rule might apply:**
 
-    - The township generally must choose a mobile app that meets WCAG 2.1 Level AA.  Even though the township did not design or create the app and does not own the app, the township is providing the app to its constituents through a contractual, licensing, or other arrangement.
+  - The township generally must choose a mobile app that meets WCAG 2.1 Level AA.  Even though the township did not design or create the app and does not own the app, the township is providing the app to its constituents through a contractual, licensing, or other arrangement.
 
-    - It is unlikely that an exception would apply to this app, so the township is likely responsible for picking a mobile app that is accessible.
+  - It is unlikely that an exception would apply to this app, so the township is likely responsible for picking a mobile app that is accessible.
 {% enddetails %}
 
 ## Action Step 8: Determine what accessibility fixes are needed
@@ -354,17 +354,17 @@ As you work up to full compliance, you may not be able to tackle all the issues 
 
 - For example, in prioritizing content, you may want to consider factors like whether the content:
 
-    - Enables people to perform key tasks, like registering for programs; searching for things; submitting forms, requests, or reservations; paying bills; or making purchases.
+  - Enables people to perform key tasks, like registering for programs; searching for things; submitting forms, requests, or reservations; paying bills; or making purchases.
 
-    - Is frequently accessed or is important for accessing essential government programs.
+  - Is frequently accessed or is important for accessing essential government programs.
 
-    - Has been flagged as inaccessible by individuals with disabilities.
+  - Has been flagged as inaccessible by individuals with disabilities.
 
-    - Is newly in development, so that you can avoid creating new barriers.
+  - Is newly in development, so that you can avoid creating new barriers.
 
-    - Appears across multiple web pages, like navigation menus, search features, and standardized footers.
+  - Appears across multiple web pages, like navigation menus, search features, and standardized footers.
 
-    - Is based on a template, so that you can make sure you are using an accessible template.
+  - Is based on a template, so that you can make sure you are using an accessible template.
 
 You can find more suggestions at the W3C’s [page on prioritizing issues](https://www.w3.org/wai/planning-and-managing/implement/#prioritize-issues) and [page on interim repairs](https://www.w3.org/wai/planning/interim-repairs/#scope).
 
