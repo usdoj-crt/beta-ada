@@ -23,8 +23,8 @@ hero:
     The Americans with Disabilities Act (ADA) protects people with disabilities from discrimination.
 
 # 'content' is a section of text that displays underneath the heading.
-  content: |-
-    Disability rights are civil rights. From voting to parking, the ADA is a law that protects people with disabilities in many areas of public life.
+  # content: |-
+  #   Disability rights are civil rights. From voting to parking, the ADA is a law that protects people with disabilities in many areas of public life.
 
 # 'news-widget' is an information box that shows on underneath the heading, and underneath content if it is populated. It is used to highlight and link to a particular news item.
   news-widget:

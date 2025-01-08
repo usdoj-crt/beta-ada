@@ -25,16 +25,16 @@
     <div class="grid-row">
       <div class="desktop:grid-col-4">
         {% if include.hero.news-widget %}
-        <div class="bg-primary-darker margin-bottom-1">
+        <div class="crt-lightblue margin-bottom-1">
           <div class="padding-left-2 padding-right-2 padding-bottom-2">
             {% if include.hero.news-widget.title %}
-            <h2 class="padding-top-1 text__reverse font-heading-lg">
+            <h2 class="padding-top-1 font-heading-lg">
               {{ include.hero.news-widget.title}}
             </h2>
             {% endif %}
             {% if include.hero.news-widget.link %}
             <div class="padding-bottom-05">
-              <a class="text-no-underline usa-button usa-button--base" href="{{ include.hero.news-widget.link.href | relative_url }}">
+              <a class="text-no-underline usa-button" href="{{ include.hero.news-widget.link.href | relative_url }}">
                 {{ include.hero.news-widget.link.text }}
               </a>
             </div>
