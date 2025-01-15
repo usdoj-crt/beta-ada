@@ -344,7 +344,7 @@ The W3C has a lot of [resources](https://www.w3.org/wai/test-evaluate) that can 
 
 - You won’t be able to use automated testing tools alone, because those tools can’t test for all aspects of accessibility, so you’ll want to use some combination of automated and manual assessments.
 
-- It may be helpful to include plans for testing in your public entity’s accessibility policies, which are discussed further in Action Step 8.
+- It may be helpful to include plans for testing in your public entity’s accessibility policies, which are discussed further in Action Step 11.
 
 ## Action Step 9: Prioritize which content to fix first
 
