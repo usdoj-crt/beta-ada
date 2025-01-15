@@ -1,11 +1,14 @@
 {% include skipnav.html %} {% include banner.html %} {% if site.beta %} {%include banner-beta.html
   %} {% endif %} {% assign lang = page.lang %} {% if lang==nil %}{% assign lang="en" %}{% endif %}
   <header class="usa-header usa-header--extended">
-    <div class="crt-landing--header crt-lightblue height-card">
-      <div class="usa-navbar position-relative border-bottom-0">
-        <div class="usa-logo" id="extended-logo">{% include logo.html %}</div>
-        {% include phone.html %}
-        <button aria-expanded="false" class="usa-menu-btn">{{site.data["en"]["i18n"].links.menu}}</button>
+    <div class="crt-landing--header crt-lightblue">
+      <div class="padding-left-1 padding-right-1 border-bottom-0">
+        <div class="grid-row width-full">
+          <div class="usa-logo padding-left-3" id="extended-logo">{% include logo.html %}</div>
+          <div class="grid-col-fill"></div>
+          {% include phone.html %}
+          <button aria-expanded="false" class="usa-menu-btn">{{site.data["en"]["i18n"].links.menu}}</button>
+        </div>
       </div>
       <nav aria-label="{{site.data['en']['i18n'].aria.primary_navigation}}" class="usa-nav desktop:margin-top-3">
         <div class="usa-nav__inner">
@@ -66,14 +69,18 @@
           >
           <img src="{{ '/assets/images/ic_phone-circle.svg' | relative_url }}" class="margin-right-1" alt="{{site.data["en"]['i18n'].aria.phone}}" />
             <div>
-              <span class="display-block margin-bottom-05 text-bold"
-                ><a href="{{'/infoline/' | relative_url }}">{{site.data["en"]["i18n"].hotline.heading}}</a></span
-              >
+              <span class="display-block margin-bottom-05 text-bold">
+                <a href="{{'/infoline/' | relative_url }}">{{site.data["en"]["i18n"].hotline.heading}}</a>
+              </span>
               <div class="margin-left-neg-5 margin-top-2">
               {{site.data["en"]["i18n"].hotline.content}}<br />
               {{ site.contact.tollfree }}<br />
               {{ site.contact.tty }} (TTY)<br />
               <ul class="margin-0 padding-left-2"><li class="margin-top-105">{{ site.contact.time1 }}</li> <li class="margin-top-105">{{ site.contact.time2 }}</li></ul>
+              <span class="display-block margin-bottom-05 text-bold">
+                <a class="communityoutreach-link" href="{{'/communityoutreach' | relative_url }}">{{site.data["en"]["i18n"].communityoutreach.heading}}</a>
+              </span>
+              {{site.data["en"]["i18n"].communityoutreach.content}}<br />
             </div>
             </div>
           </div>

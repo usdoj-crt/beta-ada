@@ -1,24 +1,48 @@
 <div class="crt-landing--section crt-landing--hero crt-white" markdown="0">
-    <span
-      class="display-none desktop:display-inline"
-      role="img"
-      aria-label="{{ include.hero.alt.desktop }}"
-    ></span>
-    <img src="{{ '/assets/images/hero-mobile-2022.jpg' | relative_url }}" alt="'{{ include.hero.alt.mobile }}'" class="height-full width-full desktop:display-none" />
-    <div class="grid-container">
-      <div class="grid-row grid-gap">
-        <div class="desktop:grid-col-6">
-          <h1 class="pa11y-skip">
-            {{ include.hero.heading }}
-          </h1>
+  <span
+    class="display-none desktop:display-inline"
+    role="img"
+    aria-label="{{ include.hero.alt.desktop }}"
+  ></span>
+  <img src="{{ '/assets/images/hero-mobile-2022.jpg' | relative_url }}" alt="'{{ include.hero.alt.mobile }}'" class="height-full width-full desktop:display-none" />
+  <div class="grid-container">
+    <div class="grid-row">
+      <div class="desktop:grid-col-6">
+        <h1 class="font-heading-xl">
+          {{ include.hero.heading }}
+        </h1>
+        {% if include.hero.content %}
         <div aria-hidden="true" class="desktop:grid-col-2 tablet:display-none"></div>
-          <div class="crt-landing--separator"></div>
-          <div class="crt-landing--paragraph-wrapper">
+        <div class="crt-landing--separator"></div>
+        <div class="crt-landing--paragraph-wrapper">
           <p class="crt-landing--largetext pa11y-skip">
             {{ include.hero.content }}
           </p>
         </div>
+        {% endif %}
+      </div>
+    </div>
+    <div class="grid-row">
+      <div class="desktop:grid-col-4">
+        {% if include.hero.news-widget %}
+        <div class="crt-lightblue margin-bottom-1">
+          <div class="padding-left-2 padding-right-2 padding-bottom-2">
+            {% if include.hero.news-widget.title %}
+            <h2 class="padding-top-1 font-heading-lg">
+              {{ include.hero.news-widget.title}}
+            </h2>
+            {% endif %}
+            {% if include.hero.news-widget.link %}
+            <div class="padding-bottom-05">
+              <a class="text-no-underline usa-button" href="{{ include.hero.news-widget.link.href | relative_url }}">
+                {{ include.hero.news-widget.link.text }}
+              </a>
+            </div>
+            {% endif %}
+          </div>
         </div>
+        {% endif %}
       </div>
     </div>
   </div>
+</div>

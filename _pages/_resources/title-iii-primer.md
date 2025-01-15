@@ -1,16 +1,21 @@
 ---
 title: "ADA Update: A Primer for Small Business"
-description: "This document provides general guidance to assist small businesses in understanding and complying with the ADA's requirements."
+description: This document provides general guidance to assist small businesses
+  in understanding and complying with the ADA's requirements.
+lead: The Department of Justice has revised its regulations implementing the
+  Americans with Disabilities Act (ADA). This rule takes effect on March 15,
+  2011, clarifies issues that have arisen over the past 20 years, and contains
+  new requirements, including the 2010 Standards for Accessible Design (2010
+  Standards). This document provides guidance to assist small business owners in
+  understanding how this new regulation applies to them.
 permalink: /resources/title-iii-primer/
-lead: |-
-  The Department of Justice has revised its regulations implementing the Americans with Disabilities Act (ADA). This rule takes effect on March 15, 2011, clarifies issues that have arisen over the past 20 years, and contains new requirements, including the 2010 Standards for Accessible Design (2010 Standards). This document provides guidance to assist small business owners in understanding how this new regulation applies to them.
-lang: "en"
-publish-date: 2011-03-01 00:00:00
-updated-date: 2020-02-28 00:00:00
-print: true
-related-content: true
 redirect_from:
   - /regs2010/smallbusiness/smallbusprimer2010.htm
+lang: en
+print: true
+publish-date: 2011-03-01 00:00:00
+updated-date: 2020-02-28 00:00:00
+related-content: true
 tags:
   - title iii
 ---
@@ -64,7 +69,7 @@ Your business, like all others, has formal and informal policies, practices, and
 <figure id="dressing-room">
 <img src="{{ '/assets/images/project-images/dressing-room.jpg' | relative_url }}" alt="A woman using a wheelchair is trying on clothes in a dressing room and a friend is helping her" height="325" width="250" />
 <figcaption>
-**Allowing a second person in a dressing room is one way to modify policies.**
+\*\*Allowing a second person in a dressing room is one way to modify policies.\*\*
 </figcaption>
 </figure>
 
@@ -73,7 +78,7 @@ Customers with disabilities may need different types of assistance to access you
 <figure id="assist-cooler">
 <img src="{{ '/assets/images/project-images/assist-cooler.jpg' | relative_url }}" alt="A convenience store employee reaches for a bottle of juice from the top rack of a drink cooler for a woman using a power wheelchair." height="325" width="250" />
 <figcaption>
-**Retrieving out of reach items and describing items for sale are ways to provide assistance to customers with disabilities.**
+\*\*Retrieving out of reach items and describing items for sale are ways to provide assistance to customers with disabilities.\*\*
 </figcaption>
 </figure>
 <figure id="describe-clothes">
@@ -87,7 +92,7 @@ Often businesses such as stores, restaurants, hotels, or theaters have policies 
 <figure id="service-animal">
 <img src="{{ '/assets/images/project-images/service-animal.jpg' | relative_url }}" alt="A service animal gives a can of soda to a young man using a wheelchair." height="325" width="250" />
 <figcaption>
-**Service animals provide many types of assistance for people with disabilities.**
+\*\*Service animals provide many types of assistance for people with disabilities.\*\*
 </figcaption>
 </figure>
 
@@ -102,7 +107,7 @@ People with mobility, circulatory, or respiratory disabilities use a variety of 
 <figure id="family-scooter">
 <img src="{{ '/assets/images/project-images/family-scooter.jpg' | relative_url }}" alt="A family of six, including parents, grandparents, and children arrive at a hotel for vacation.  The grandfather is using a scooter for mobility." height="250" width="325" />
 <figcaption>
-**Devices categorized as wheelchairs must be permitted.**
+\*\*Devices categorized as wheelchairs must be permitted.\*\*
 </figcaption>
 </figure>
 
@@ -110,11 +115,11 @@ Advances in technology have given rise to new power-driven devices that are not 
 
 Businesses must consider these factors in determining whether reasonable modifications can be made to admit other power-driven mobility devices to their premises:
 
-- The type, size, weight, dimensions, and speed of the device;
-- The business's volume of pedestrian traffic (which may vary at different times of the day, week, month, or year);
-- The business's design and operational characteristics, such as its square footage, whether it is indoors or outdoors, its placement of stationery equipment or devices or furniture, and whether it has storage space for the device if requested by the customer;
-- Whether legitimate safety standards can be established to permit the safe operation of the device; and
-- Whether the use of the device creates a substantial risk of serious harm to the environment or natural or cultural resources or poses a conflict with Federal land management laws and regulations.
+* The type, size, weight, dimensions, and speed of the device;
+* The business's volume of pedestrian traffic (which may vary at different times of the day, week, month, or year);
+* The business's design and operational characteristics, such as its square footage, whether it is indoors or outdoors, its placement of stationary equipment or devices or furniture, and whether it has storage space for the device if requested by the customer;
+* Whether legitimate safety standards can be established to permit the safe operation of the device; and
+* Whether the use of the device creates a substantial risk of serious harm to the environment or natural or cultural resources or poses a conflict with Federal land management laws and regulations.
 
 Using these assessment factors, a business may decide that it can allow devices like Segways® in its facilities, but cannot allow the use of golf cars in the same facility. It is likely that many businesses will allow the use of Segways® generally, although some may decide to exclude them during their busiest hours or on particular shopping days when pedestrian traffic is particularly dense. Businesses are encouraged to develop written policies specifying when other power-driven mobility devices will be permitted on their premises and to communicate those policies to the public.
 
@@ -129,7 +134,7 @@ Because the nature of communications differs from business to business, the rule
 <figure id="note-communication">
 <img src="{{ '/assets/images/project-images/note-communication.jpg' | relative_url }}" alt="At a dry cleaner, a woman who is deaf is writing a note to ask the staff person when her dry cleaning will be ready." height="250" width="300" />
 <figcaption>
-**Exchange of written notes may be appropriate for casual interactions.**
+\*\*Exchange of written notes may be appropriate for casual interactions.\*\*
 </figcaption>
 </figure>
 
@@ -138,7 +143,7 @@ It is a business's responsibility to provide a sign language, oral interpreter, 
 <figure id="car-dealer">
 <img src="{{ '/assets/images/project-images/car-dealer.jpg' | relative_url }}" alt="A car salesman is negotiating a sale with a couple." height="250" width="300" />
 <figcaption>
-**Complex transactions will likely require more formal means of communication, such as a sign language interpreter.**
+\*\*Complex transactions will likely require more formal means of communication, such as a sign language interpreter.\*\*
 </figcaption>
 </figure>
 
@@ -147,7 +152,7 @@ Many individuals who are deaf or have other hearing or speech disabilities use e
 <figure id="tty-pizza">
 <img src="{{ '/assets/images/project-images/tty-pizza.jpg' | relative_url }}" alt="A person with a TTY is using the relay service to place an order for pizza delivery." height="250" width="300" />
 <figcaption>
-**Businesses must answer calls placed through the telephone relay service.**
+\*\*Businesses must answer calls placed through the telephone relay service.\*\*
 </figcaption>
 </figure>
 
@@ -156,7 +161,7 @@ The rules are also flexible for communicating effectively with customers who are
 <figure id="restaurant-waiter">
 <img src="{{ '/assets/images/project-images/restaurant-waiter.jpg' | relative_url }}" alt="An a restaurant, a waiter is reading the menu to a woman who is blind." height="250" width="300" />
 <figcaption>
-**Reading a menu to a customer who is blind is one way to provide effective communication.**
+\*\*Reading a menu to a customer who is blind is one way to provide effective communication.\*\*
 </figcaption>
 </figure>
 
@@ -174,31 +179,33 @@ The ADA's regulations and the ADA Standards for Accessible Design, originally pu
 
 If your business facility was built or altered in the past 20 years in compliance with the 1991 Standards, or you removed barriers to specific elements in compliance with those Standards, you do not have to make further modifications to those elements – even if the new standards have different requirements for them – to comply with the 2010 Standards. This provision is applied on an element-by-element basis and is referred to as the "safe harbor." The following examples illustrate how the safe harbor applies:
 
->The 2010 Standards lower the mounting height for light switches and thermostats from 54 inches to 48 inches. If your light switches are already installed at 54 inches in compliance with the 1991 Standards, you are not required to lower them to 48 inches.
->The 1991 Standards require one van accessible space for every eight accessible spaces. The 2010 Standards require one van accessible space for every six accessible spaces. If you have complied with the 1991 Standards, you are not required to add additional van accessible spaces to meet the 2010 Standards.
->The 2010 Standards contain new requirements for the input, numeric, and function keys (e.g. "enter," "clear," and "correct") on automatic teller machine (ATM) keypads. If an existing ATM complies with the 1991 Standards, no further modifications are required to the keypad.
+> The 2010 Standards lower the mounting height for light switches and thermostats from 54 inches to 48 inches. If your light switches are already installed at 54 inches in compliance with the 1991 Standards, you are not required to lower them to 48 inches.
+> The 1991 Standards require one van accessible space for every eight accessible spaces. The 2010 Standards require one van accessible space for every six accessible spaces. If you have complied with the 1991 Standards, you are not required to add additional van accessible spaces to meet the 2010 Standards.
+> The 2010 Standards contain new requirements for the input, numeric, and function keys (e.g. "enter," "clear," and "correct") on automatic teller machine (ATM) keypads. If an existing ATM complies with the 1991 Standards, no further modifications are required to the keypad.
 
 If a business chooses to alter elements that were in compliance with the 1991 Standards, the safe harbor no longer applies to those elements. For example, if you restripe your parking lot, which is considered an alteration, you will now have to meet the ratio of van accessible spaces in the 2010 Standards. Similarly, if you relocate a fixed ATM, which is considered an alteration, you will now have to meet the keypad requirements in the 2010 Standards. The ADA's definition of an alteration is discussed later in this publication.
 
 The revised ADA rules and the 2010 Standards contain new requirements for elements in existing facilities that were not addressed in the original 1991 Standards. These include recreation facilities such as swimming pools, play areas, exercise machines, miniature golf facilities, and bowling alleys. Because these elements were not included in the 1991 Standards, they are not subject to the safe harbor. Therefore, on or after March 15, 2012, public accommodations must remove architectural barriers to elements subject to the new requirements in the 2010 Standards when it is readily achievable to do so. For example, a hotel must determine whether it is readily achievable to make its swimming pool accessible to people with mobility disabilities by installing a lift or a ramp as specified in the 2010 Standards.
 
 {% details New Requirements in the 2010 Standards Not Subject to the Safe Harbor %}
-- Amusement rides
-- Recreational boating facilities
-- Exercise machines and equipment
-- Fishing piers and platforms
-- Golf facilities
-- Miniature golf facilities
-- Play areas
-- Saunas and steam rooms
-- Swimming pools, wading pools, and spas
-- Shooting facilities with firing positions
-- Residential facilities and dwelling units
-- Miscellaneous
-  - Team or player seating
-  - Accessible route to bowling lanes
-  - Accessible route in court sports facilities
-{% enddetails %}
+
+* Amusement rides
+* Recreational boating facilities
+* Exercise machines and equipment
+* Fishing piers and platforms
+* Golf facilities
+* Miniature golf facilities
+* Play areas
+* Saunas and steam rooms
+* Swimming pools, wading pools, and spas
+* Shooting facilities with firing positions
+* Residential facilities and dwelling units
+* Miscellaneous
+
+  * Team or player seating
+  * Accessible route to bowling lanes
+  * Accessible route in court sports facilities
+    {% enddetails %}
 
 #### Readily Achievable Barrier Removal
 
@@ -210,7 +217,7 @@ Readily achievable barrier removal may include providing an accessible route fro
 <img src="{{ '/assets/images/project-images/barrier-before.jpg' | relative_url }}" alt="Removing barriers, such as a step to an entrance, is required when readily achievable." height="250" width="250" />
 <img src="{{ '/assets/images/project-images/barrier-after.jpg' | relative_url }}" alt="Restaurant after a ramp is installed, making the entrance accessible." height="250" width="250" />
 <figcaption>
-**Removing barriers, such as a step to an entrance, is required when readily achievable.**
+\*\*Removing barriers, such as a step to an entrance, is required when readily achievable.\*\*
 </figcaption>
 </figure>
 
@@ -218,7 +225,7 @@ Determining what is readily achievable will vary from business to business and s
 
 #### Barrier Removal Before March 15, 2012
 
-Businesses removing barriers before March 15, 2012, have the choice of using either the 1991 Standards or the 2010 Standards. You must use only one standard for removing barriers in an entire facility. For example, you cannot choose the 1991 Standards for accessible routes and the 2010 Standards for restrooms. (See, *ADA 2010 Revised Requirements: Effective Date / Compliance Date* at [https://archive.ada.gov/revised_effective_dates-2010.htm](https://archive.ada.gov/revised_effective_dates-2010.htm). Remember that if an element complies with the 1991 Standards, a business is not required to make any changes to that element until such time as the business decides to alter that element.
+Businesses removing barriers before March 15, 2012, have the choice of using either the 1991 Standards or the 2010 Standards. You must use only one standard for removing barriers in an entire facility. For example, you cannot choose the 1991 Standards for accessible routes and the 2010 Standards for restrooms. (See, *ADA 2010 Revised Requirements: Effective Date / Compliance Date* at <https://archive.ada.gov/revised_effective_dates-2010.htm>. Remember that if an element complies with the 1991 Standards, a business is not required to make any changes to that element until such time as the business decides to alter that element.
 
 <table class="usa-table">
 <caption>Compliance Dates and Applicable Standards for Readily Achievable Barrier Removal, New Construction, and Alterations</caption>
@@ -240,15 +247,14 @@ Businesses removing barriers before March 15, 2012, have the choice of using eit
 </tbody>
 </table>
 
-
 #### Priorities for Barrier Removal
 
 Understanding how customers arrive at and move through your business will go a long way in identifying existing barriers and setting priorities for their removal. Do people arrive on foot, by car, or by public transportation? Do you provide parking? How do customers enter and move about your business? The ADA regulations recommend the following priorities for barrier removal:
 
-- Providing access to your business from public sidewalks, parking areas, and public transportation;
-- Providing access to the goods and services your business offers;
-- Providing access to public restrooms; and
-- Removing barriers to other amenities offered to the public, such as drinking fountains.
+* Providing access to your business from public sidewalks, parking areas, and public transportation;
+* Providing access to the goods and services your business offers;
+* Providing access to public restrooms; and
+* Removing barriers to other amenities offered to the public, such as drinking fountains.
 
 Businesses should not wait until March 15, 2012 to identify existing barriers, but should begin now to evaluate their facilities and develop priorities for removing barriers. Businesses are also encouraged to consult with people with disabilities in their communities to identify barriers and establish priorities for removing them. A thorough evaluation and barrier removal plan, developed in consultation with the disability community, can save time and resources.
 
@@ -257,7 +263,7 @@ In some instances, especially in older buildings, it may not be readily achievab
 <figure id="barrier">
 <img src="{{ '/assets/images/project-images/call-button.jpg' | relative_url }}" alt="In front of a grocery store with four steps up to the entrance, a customer using a wheelchair is handing money to a clerk who is holding a bag of groceries." height="300" width="250" />
 <figcaption>
-**When barrier removal is not possible, alternatives such as curbside service should be provided.**
+\*\*When barrier removal is not possible, alternatives such as curbside service should be provided.\*\*
 </figcaption>
 </figure>
 
@@ -327,7 +333,7 @@ An accessible parking space must have an access aisle, which allows a person usi
 <figure id="parking-diagram">
 <img src="{{ '/assets/images/project-images/title_ii_primer_clip.jpg' | relative_url }}" alt="A man using a wheelchair is exiting his van at a van-accessible parking space. The illustration has notes explaining the following requirements, starting at the top left and moving counterclockwise:  Signage: international symbol of accessibility placed in front of the parking space mounted at least 60 inches above the ground, measured to the bottom of the sign. Van accessible spaces include the designation van accessible.  Van Accessible Spaces: 2010 Standards one for every six accessible spaces (1991 Standards required one for every eight)  Width of space for car: 8 feet minimum  Width of space for van: 11 feet minimum (although it may be 8 feet wide if its access aisle is 8 feet wide)  Access aisle:  Width: 5 feet minimum (if aisle serves car and van spaces)  Length: full length of parking space" height="500" width="725" />
 <figcaption>
-**An overview of accessible parking requirements**
+\*\*An overview of accessible parking requirements\*\*
 </figcaption>
 </figure>
 
@@ -338,7 +344,7 @@ One small step at an entrance can make it impossible for individuals using wheel
 <figure id="store-entry">
 <img src="{{ '/assets/images/project-images/store-entry.gif' | relative_url }}" alt="A woman using a wheelchair, with a service animal, is opening the door to a convenience store.  The store's ice box and newspaper sales box are on the sidewalk, but are away from the door, so they do not block her entrance." height="300" width="250" />
 <figcaption>
-**Ensuring that items do not block the accessible route allows independent access.**
+\*\*Ensuring that items do not block the accessible route allows independent access.\*\*
 </figcaption>
 </figure>
 
@@ -349,7 +355,7 @@ The path a person with a disability takes to enter and move through your busines
 <figure id="shopping">
 <img src="{{ '/assets/images/project-images/aisle-jug.jpg' | relative_url }}" alt="A man using a scooter is selecting milk at a convenience store. Adequate aisle space makes it possible for him to maneuver through the store." height="300" width="250" />
 <figcaption>
-**An accessible route allows customers using mobility devices to access items for sale.**
+\*\*An accessible route allows customers using mobility devices to access items for sale.\*\*
 </figcaption>
 </figure>
 
@@ -358,7 +364,7 @@ Temporary access interruptions for maintenance, repair, or operational activitie
 <figure id="shoveling-snow">
 <img src="{{ '/assets/images/project-images/shoveling-snow.gif' | relative_url }}" alt="Two people are clearing snow from an accessible parking space in a video store's parking lot." height="300" width="250" />
 <figcaption>
-**Snow or other debris in accessible parking spaces and access aisles must be removed as soon as possible.**
+\*\*Snow or other debris in accessible parking spaces and access aisles must be removed as soon as possible.\*\*
 </figcaption>
 </figure>
 
@@ -369,7 +375,7 @@ The obligation to remove barriers also applies to merchandise shelves, sales and
 <figure id="checking-out">
 <img src="/assets/images/project-images/money-counter.jpg | relative_url" alt="A woman using a wheelchair is buying a drink at a small grocery store.  Adequate maneuvering space and a low, uncluttered counter make it possible for her to approach the sales counter." height="300" width="250" />
 <figcaption>
-**A lowered counter and clear floor space are critical components of an accessible service counter.**
+\*\*A lowered counter and clear floor space are critical components of an accessible service counter.\*\*
 </figcaption>
 </figure>
 
@@ -380,7 +386,7 @@ People with disabilities need to access tables, food service lines, and condimen
 <figure id="restaurant-counter">
 <img src="{{ '/assets/images/project-images/condiment-bar.jpg' | relative_url }}" alt="A woman using a scooter is selecting items from the condiment bar at a casual restaurant.  Adequate maneuvering space and items placed within reach make it possible for her to serve herself." height="300" width="250" />
 <figcaption>
-**Restaurants must provide access to self-service items.**
+\*\*Restaurants must provide access to self-service items.\*\*
 </figcaption>
 </figure>
 
@@ -406,7 +412,7 @@ Contains important introductory and interpretive information, including definiti
 **Chapter 2:  Scoping**
 Sets forth what elements and how many of them must be accessible. Scoping covers newly constructed facilities and altered portions of existing facilities.
 
->Note: The 2010 Standards do not address barrier removal. The revised regulations, however, require that barrier removal must comply with the 2010 Standards to the extent it is readily achievable.
+> Note: The 2010 Standards do not address barrier removal. The revised regulations, however, require that barrier removal must comply with the 2010 Standards to the extent it is readily achievable.
 
 **Chapters 3 – 10:  Design and Technical Requirements**
 Provides design and technical specifications for elements, spaces, buildings, and facilities.
@@ -475,7 +481,7 @@ For technical assistance on the ADA/ABA Accessibilty Guidelines:
 
 800-872-2253 (Voice)
 800-992 -2822 (TTY)
-[https://www.access-board.gov](https://www.access-board.gov)
+<https://www.access-board.gov>
 
 **Internal Revenue Service**
 
@@ -492,5 +498,6 @@ This document has been developed for small businesses in accordance with the Sma
 The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.
 
 This guidance document is not intended to be a final agency action, has no legally binding effect, and may be rescinded or modified in the Department's complete discretion, in accordance with applicable laws. The Department's guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.
+
 <hr>
 Duplication of this document is encouraged.
