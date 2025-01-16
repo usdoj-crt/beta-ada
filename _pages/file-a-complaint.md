@@ -100,9 +100,15 @@ Even if we do not take any formal action, your complaint provides us with valuab
 
 ### <a name="mp"></a>ADA Mediation Program
 
-The [ADA Mediation Program](https://archive.ada.gov/mediate.htm){: .file-a-complaint}{: data-ga-event-name="ADA Mediation Program link"} is an important part of ADA compliance and does not involve the courts. Mediation typically involves one or more meetings between you, the organization you complained about, and an impartial mediator, and it is designed to help you reach a mutual agreement. It can be a fair and quick way to resolve ADA complaints. It is confidential and voluntary.
+The ADA Mediation Program is an important part of ADA compliance and does not involve the courts. Mediation typically involves one or more meetings between you, the organization you complained about, and an impartial mediator, and it is designed to help you reach a mutual agreement. It can be a fair and quick way to resolve ADA complaints. It is confidential and voluntary.
 
 If we think that your complaint might be a good fit for mediation, we will contact you and the organization you complained about. We will ask if you are both willing to participate in mediation.
+
+The Mediation Program: Questions and Answers
+
+[Resolving Coomplaints Through Mediation]({{'/resources/mediation-qa.md' | relative_url}}) 
+
+
 
 ### <a name="ic"></a>If we investigate your complaint:
 
