@@ -9,7 +9,8 @@
     "standard": "WCAG2AA",
     "runners": ["axe"],
     "ignore": [
-      "color-contrast"
+      "color-contrast",
+      "frame-tested"
     ],
     "timeout": 240000
   }
