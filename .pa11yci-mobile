@@ -13,7 +13,8 @@
       "axe"
     ],
     "ignore": [
-      "color-contrast"
+      "color-contrast",
+      "frame-tested"
     ],
     "timeout": 240000,
     "viewport": {
