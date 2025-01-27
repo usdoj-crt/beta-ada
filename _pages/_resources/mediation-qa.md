@@ -1,7 +1,7 @@
 ---
 title: "The Mediation Program: Questions and Answers"
 description: "The Department's mediation program refers appropriate ADA disputes to mediators at no cost to the parties.  This document answers commonly asked questions regarding this program."
-permalink: /resources/mediation-program-qa/
+permalink: /resources/mediation-qa/
 lead: |-
   In enacting the Americans with Disabilities Act (ADA), Congress specifically encouraged the use of alternative methods of dispute resolution, including mediation, to resolve ADA disputes. Established in 1994, the Department's ADA Mediation Program has achieved remarkable results, eliminating architectural, communication, and attitudinal barriers for thousands of people, while allowing the Department to achieve meaningful compliance with the law without having to allocate scarce resources to investigate or litigate these disputes. Over 5,000 complaints have been mediated in communities large and small throughout the country, with more than 75% of them resulting in successful resolutions.
 lang: "en"

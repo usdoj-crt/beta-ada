@@ -104,11 +104,9 @@ The ADA Mediation Program is an important part of ADA compliance and does not in
 
 If we think that your complaint might be a good fit for mediation, we will contact you and the organization you complained about. We will ask if you are both willing to participate in mediation.
 
-The Mediation Program: Questions and Answers
+[The Mediation Program: Questions and Answers]({{'/resources/mediation-qa' | relative_url}})
 
-[Resolving Coomplaints Through Mediation]({{'/resources/mediation-qa.md' | relative_url}}) 
-
-
+[Resolving Complaints Through Mediation]({{'/resources/mediation-overview' | relative_url}})
 
 ### <a name="ic"></a>If we investigate your complaint:
 
