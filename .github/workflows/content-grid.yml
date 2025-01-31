@@ -20,7 +20,7 @@ jobs:
         run: ./create_content_grid.sh
 
       - name: Archive content grid results
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: content_grid
           path: ./scripts/out/content_grid.csv
