@@ -104,5 +104,3 @@ Providers may also need to change their policies, practices, or procedures to av
 </table>
 
 A healthcare provider doesn’t need to modify their practices in the rare situation where doing so would fundamentally change the nature of the provider’s services.
-
-Learn more about [how federal civil rights laws apply to telehealth](https://archive.ada.gov/telehealth_guidance.pdf).
