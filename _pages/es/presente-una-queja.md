@@ -36,7 +36,24 @@ La naturaleza de su queja determina dónde usted debe presentarla. La tabla a co
 
 ## Para la presentación de una queja ante la División de Derechos Civiles del Departamento de Justicia
 
-Siga las instrucciones en el <a class="pa11y-skip" href="https://civilrights.justice.gov/report?utm_campaign=499a0d26-884a-47aa-9afc-70094d92e6f5">sitio web del DOJ.</a>
+Existen tres opciones para la presentación de una queja:
+<div class="filing-options">
+<ol>
+<li>
+<h3 class="margin-left-1">1. En línea</h3>
+<span>Siga las instrucciones en el <a class="pa11y-skip" href="https://civilrights.justice.gov/report?utm_campaign=499a0d26-884a-47aa-9afc-70094d92e6f5">sitio web del DOJ.</a></span>
+</li>
+
+<li>
+<h3 class="margin-left-1">2. Por correo ordinario</h3>
+<span>Rellene y envíe la versión impresa del <a class="pa11y-skip file-a-complaint" data-ga-event-name="ADA complaint form 1 file a complaint link" href="{{'assets/pdfs/file-a-complaint.pdf' | relative_url}}">Formulario de quejas al amparo de la ADA (en inglés)</a> or o una carta que contiene la misma información, a:</span>
+U.S. Department of Justice<br/>
+Civil Rights Division<br/>
+950 Pennsylvania Avenue, NW<br/>
+Washington, DC 20530
+</li>
+</ol>
+</div>
 
 ## Después de que presente una queja
 
