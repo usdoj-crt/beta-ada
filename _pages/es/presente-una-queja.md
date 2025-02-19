@@ -36,7 +36,7 @@ La naturaleza de su queja determina dónde usted debe presentarla. La tabla a co
 
 ## Para la presentación de una queja ante la División de Derechos Civiles del Departamento de Justicia
 
-Existen tres opciones para la presentación de una queja:
+Existen dos opciones para la presentación de una queja:
 <div class="filing-options">
 <ol>
 <li>
