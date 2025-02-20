@@ -59,4 +59,4 @@ To receive e-mail notifications when new ADA information is available, [sign up 
 
 ### ADA Information Line
 
-If you have questions, you may call the [ADA Information Line](https://www.ada.gov/infoline).  Accessibility specialists are available to answer your questions.  All calls are confidential.
+If you have questions, you may call the [ADA Information Line]({{'/infoline/' | relative_url}}).  Accessibility specialists are available to answer your questions.  All calls are confidential.
