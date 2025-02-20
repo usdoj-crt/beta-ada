@@ -58,7 +58,24 @@ The nature of your complaint determines where you should file it. The informatio
 
 ## Filing an ADA Complaint with the Department of Justice, Civil Rights Division
 
-File a complaint by submitting a report on the Department of Justice's <a href="https://civilrights.justice.gov/report?utm_campaign=499a0d26-884a-47aa-9afc-70094d92e6f5" class="file-a-complaint civil-rights-complaint" data-ga-event-name="DOJ CRT file a complaint link">Civil Rights Division website</a>.
+There are two options for filing an ADA complaint:
+<div class="filing-options">
+<ol>
+<li>
+<h3 class="margin-left-1">1. Online</h3>
+<span>File a complaint by submitting a report on the Department of Justice's <a href="https://civilrights.justice.gov/report?utm_campaign=499a0d26-884a-47aa-9afc-70094d92e6f5" class="file-a-complaint civil-rights-complaint" data-ga-event-name="DOJ CRT file a complaint link">Civil Rights Division website</a>.</span>
+</li>
+
+<li>
+<h3 class="margin-left-1">2. Mail</h3>
+<span>Fill out and send the paper ADA Complaint Form (<a class="pa11y-skip file-a-complaint" data-ga-event-name="ADA complaint form 1 file a complaint link" href="{{'assets/pdfs/file-a-complaint.pdf' | relative_url}}">Regular Format</a> | <a class="pa11y-skip file-a-complaint" data-ga-event-name="ADA complaint form 1 file a complaint link" href="{{'assets/pdfs/file-a-complaint-lg.pdf' | relative_url}}">Large Format</a>) or a letter containing the same information, to:</span>
+U.S. Department of Justice<br/>
+Civil Rights Division<br/>
+950 Pennsylvania Avenue, NW<br/>
+Washington, DC 20530
+</li>
+</ol>
+</div>
 
 ## After You File a Complaint
 
