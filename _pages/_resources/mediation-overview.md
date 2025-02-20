@@ -55,7 +55,7 @@ The Program has successfully resolved thousands of ADA disputes resulting in inc
 
 ## More Information
 
-To receive e-mail notifications when new ADA information is available, sign up here.
+To receive e-mail notifications when new ADA information is available, [sign up here](https://public.govdelivery.com/accounts/USDOJ/subscriber/new?category_id=USDOJ_C26).
 
 ### ADA Information Line
 
