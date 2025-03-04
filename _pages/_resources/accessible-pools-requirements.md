@@ -114,7 +114,7 @@ For more information about the ADA, please visit our website or call our toll-fr
 
 **ADA Information Line**
 
-Call 800-514-0301 (Voice) and 833-610-1264 (TTY) M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Tu 12:30-5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist.  All calls are confidential.
+Call 800-514-0301 (Voice) and 833-610-1264 (TTY) M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist.  All calls are confidential.
 
 For persons with disabilities, this publication is available in alternate formats.
 

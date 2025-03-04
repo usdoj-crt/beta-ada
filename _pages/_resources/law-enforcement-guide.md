@@ -158,7 +158,7 @@ List your agency’s contact information for obtaining an interpreter, an assist
 **ADA Information Line**
 800-514-0301 (voice)
 833-610-1264 (TTY)
-M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Tu 12:30 - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.
+M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.
 
 This pamphlet was developed by the U.S. Department of Justice for law enforcement personnel.
 
