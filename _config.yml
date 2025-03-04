@@ -30,8 +30,8 @@ contact:
   tty: 1-833-610-1264
   link: /infoline/
   link_title: ADA Information Line
-  time1: "M, W, F: 9:30am - 12pm and 3pm - 5:30pm ET"
-  time2: "Tu: 12:30pm - 5:30pm ET, Th: 2:30pm - 5:30pm ET"
+  time1: "M, Tu, W, F: 9:30am - 12pm and 3pm - 5:30pm ET"
+  time2: "Th: 2:30pm - 5:30pm ET"
 
 communityoutreach:
   link: /communityoutreach/
