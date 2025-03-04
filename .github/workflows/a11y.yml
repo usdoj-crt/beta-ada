@@ -3,11 +3,15 @@ on: [push]
 jobs:
   build:
     name: Run Accessibility Tests
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Source
         uses: actions/checkout@v3
+
+      - name: Disable AppArmor
+        if: ${{ matrix.os == 'ubuntu-latest' }}
+        run: echo 0 | sudo tee /proc/sys/kernel/apparmor_restrict_unprivileged_userns
 
       - name: Install Ruby Dependencies
         uses: ruby/setup-ruby@v1
