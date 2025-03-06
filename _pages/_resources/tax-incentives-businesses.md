@@ -5,7 +5,7 @@ print: true
 tags:
   - title iii
 lead: More than fifty million Americans with disabilities make up a huge, nearly untapped market for businesses of all types and sizes. To help businesses welcome customers with disabilities, the IRS offers two tax incentives to remove access barriers.
-description: "Tax document"
+description: "Short publication for businesses explaining Federal tax incentives that are available to help cover costs of improvements for customers with disabilities."
 permalink: /resources/tax-incentives-businesses/
 redirect_from:
   - /taxincent.htm
