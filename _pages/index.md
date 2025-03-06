@@ -16,9 +16,9 @@ alert:
 hero:
   alt:
     desktop: |-
-      Three people, two with visible disabilities, relaxing and talking outside.
+      American flag flying in front of a government building
     mobile: |-
-      Five people, some with visible disabilities, hanging out on a rooftop deck while talking and laughing.
+      American flag flying in front of a government building
   heading: |-
     The Americans with Disabilities Act (ADA) protects people with disabilities from discrimination.
   content: |-
