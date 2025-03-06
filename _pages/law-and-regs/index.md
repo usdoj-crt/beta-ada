@@ -1,22 +1,24 @@
 ---
-permalink: /law-and-regs/
-title: Law, Regulations & Standards
-description: Regulations developed by the Department of Justice that explain the rights of people with disabilities and the obligations of those covered by the law.
-subpagenav: true
-sidenav: false
 hide_page_type_info: true
+permalink: /law-and-regs/
+sidenav: false
 redirect_from:
-    - /2010_regs.htm
-    - /pubs/ada.htm
-    - /newproposed_regs.htm
-    - /pcatoolkit/chap3toolkit.htm
-    - /regs_footer.htm
-    - /regs2010/
-    - /regs2010/index.html
-    - /regs2010/adaregs2010.htm
-    - /regs2010/ADAregs2010.htm
+  - /2010_regs.htm
+  - /pubs/ada.htm
+  - /newproposed_regs.htm
+  - /pcatoolkit/chap3toolkit.htm
+  - /regs_footer.htm
+  - /regs2010/
+  - /regs2010/index.html
+  - /regs2010/adaregs2010.htm
+  - /regs2010/ADAregs2010.htm
+subpagenav: true
+title: Law, Regulations & Standards
 tags:
-    - design standards
+  - design standards
+description: Regulations developed by the Department of Justice that explain the
+  rights of people with disabilities and the obligations of those covered by the
+  law.
 ---
 
 When we talk about what the ADA requires on ADA.gov, we are usually referring to two sources. First, the text of the ADA, also referred to as the ADA statute, passed by Congress in 1990 and later amended. Second, regulations developed by the Department of Justice that state/local governments and many businesses must follow to ensure that they do not discriminate against people with disabilities.
@@ -35,12 +37,12 @@ Guides and primers curate information for people with disabilities, state and lo
 
 ## Proposed Changes to Our Regulations
 
-In the [Spring 2024 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain), DOJ announced that it plans to issue new ADA regulations on the following topics:
+In the [Fall 2024 Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain), DOJ announced that it plans to issue new ADA regulations on the following topics:
 
-- [Medical Diagnostic Equipment](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202404&RIN=1190-AA78)
-- [The Public Right of Way](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202404&RIN=1190-AA77)
-- [Equipment and Furniture](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202404&RIN=1190-AA76)
-- [Federally Conducted Programs](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202404&RIN=1190-AA73)
+
+- [The Public Right of Way](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202410&RIN=1190-AA77)
+- [Equipment and Furniture](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202410&RIN=1190-AA76)
+- [Federally Conducted Programs](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202410&RIN=1190-AA73)
 
 {% details What is the Unified Agenda? %}
 The [Unified Agenda](https://www.reginfo.gov/public/jsp/eAgenda/UA_About.myjsp) provides information about federal agencies’ regulatory priorities and the specific regulations that they plan to issue in the short and long term.
