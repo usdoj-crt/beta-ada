@@ -8,8 +8,6 @@ lead: Featured topics are high-level, plain-language explanations of the existin
 sidenav: false
 ---
 
-{% include landing-hero.html mobile-src="laws-and-regs-lp.jpeg" alt="topics page landing hero image" %}
-
 <div class="grid-container" markdown="0">
   <div class="grid-row grid-gap margin-bottom-7 margin-top-7">
       <div class="tablet:grid-col-10">
