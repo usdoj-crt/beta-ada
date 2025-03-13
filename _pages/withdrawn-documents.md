@@ -1,5 +1,5 @@
 ---
-title: Withdrawn Documents
+title: Withdrawn Resource and Guidance Documents
 description: 
 permalink: /withdrawn-documents/
 lead: |- 
@@ -9,6 +9,9 @@ redirect_from:
   - /gasserve.htm
   - /fivestep.htm
 ---
+The Department regularly reviews its guidance and technical assistance related to the Americans with Disabilities Act (ADA) to ensure that the available materials clearly and accurately reflect the law. As part of this ongoing effort, the Department has identified several pieces of guidance and technical assistance that are appropriate for withdrawal at this time. Withdrawing these outdated, duplicative, or otherwise ineffective materials will help individuals, businesses, and state and local governments more easily understand their rights and responsibilities under the ADA.
+
+The Department will continue its review of technical assistance and guidance documents and update this page as appropriate. Please see below for more information regarding specific documents that have been withdrawn and, where applicable, removed from the ADA.gov.
 <blockquote>
 COVID-19 and the Americans with Disabilities Act: *Can a business stop me from bringing in my
 service animal because of the COVID-19 pandemic?* (2021)
