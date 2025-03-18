@@ -5,10 +5,10 @@
     aria-label="{{ include.hero.alt.desktop }}"
   ></span>
   <img src="{{ '/assets/images/hero-flag-mobile.jpg' | relative_url }}" alt="'{{ include.hero.alt.mobile }}'" class="height-full width-full desktop:display-none" />
-  <div>
-    <div class="grid-row">
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
       <div class="desktop:grid-col-6">
-        <div class="desktop:margin-left-4 mobile:margin-left-2">
+        <div>
           <h1 class="font-heading-xl">
             {{ include.hero.heading }}
           </h1>
