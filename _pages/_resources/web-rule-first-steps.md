@@ -4,11 +4,9 @@ description: "This guide includes suggested steps that ADA Coordinators and othe
 permalink: /resources/web-rule-first-steps/
 lead: |-
 lang: "en"
-publish-date: 2024-12-12 00:00:00
 related-content: true
 print: true
 news-item: true
-publish-date: 2025-01-08 00:00:00
 tags:
   - web access
   - title ii
