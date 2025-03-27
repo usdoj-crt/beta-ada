@@ -8,6 +8,8 @@ lang: en
 sidenav: false
 news-item: true
 ---
+January 16, 2025
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hkhIGSvJC2o?si=UWpwS0eiStPKdZXl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 If you have any questions about this rule or the ADA, you can call the Department of Justice [ADA Information Line]({{ '/infoline' | relative_url }}) at 800-514-0301.
