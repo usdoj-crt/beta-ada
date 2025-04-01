@@ -68,7 +68,7 @@ There are two options for filing an ADA complaint:
 
 <li>
 <h3 class="margin-left-1">2. Mail</h3>
-<span>Fill out and send the paper ADA Complaint Form (<a class="pa11y-skip file-a-complaint" data-ga-event-name="ADA complaint form 1 file a complaint link" href="{{'assets/pdfs/file-a-complaint.pdf' | relative_url}}">Regular Format</a> | <a class="pa11y-skip file-a-complaint" data-ga-event-name="ADA complaint form 1 file a complaint link" href="{{'assets/pdfs/file-a-complaint-lg.pdf' | relative_url}}">Large Format</a>) or a letter containing the same information, to:</span>
+<span>Fill out and send the paper ADA Complaint Form (<a class="pa11y-skip file-a-complaint" data-ga-event-name="ADA complaint form 1 file a complaint link" href="{{'https://www.justice.gov/crt/media/1394891/dl?inline' | relative_url}}">Regular Format</a> | <a class="pa11y-skip file-a-complaint" data-ga-event-name="ADA complaint form 1 file a complaint link" href="{{'https://www.justice.gov/crt/media/1394896/dl?inline' | relative_url}}">Large Format</a>) or a letter containing the same information, to:</span>
 U.S. Department of Justice<br/>
 Civil Rights Division<br/>
 950 Pennsylvania Avenue, NW<br/>
