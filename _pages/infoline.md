@@ -15,8 +15,8 @@ businesses, and state/local governments. All calls are confidential.
 
 ## When We Are Open
 
-- Monday, Wednesday, Friday: 9:30 a.m. to 12:00 p.m. and 3:00-5:30 p.m. ET
-- Tuesday: 12:30pm - 5:30pm ET, Thursday: 2:30 p.m. to 5:30 p.m. ET
+- Monday, Tuesday, Wednesday, Friday: 9:30 a.m. to 12:00 p.m. and 3:00-5:30 p.m. ET
+- Thursday: 2:30 p.m. to 5:30 p.m. ET
 
 ## What Information We Provide
 - Requirements of the ADA

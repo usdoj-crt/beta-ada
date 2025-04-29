@@ -39,8 +39,8 @@ The Department of Justice operates a toll-free ADA Information Line to provide i
 
 ADA Specialists, who assist callers in understanding how the ADA applies to their situation, are available on:
 
-- Monday, Wednesday, and Friday from 9:30 a.m. until 12:00 p.m. and again from 3:00 p.m. until 5:30 p.m. (Eastern Time)
-- Tuesday from 12:30pm until 5:30pm and Thursday from 2:30 p.m. until 5:30 p.m. (Eastern Time).
+- Monday, Tuesday, Wednesday, and Friday from 9:30 a.m. until 12:00 p.m. and again from 3:00 p.m. until 5:30 p.m. (Eastern Time)
+- Thursday from 2:30 p.m. until 5:30 p.m. (Eastern Time).
 
 All calls are confidential. You can get answers to technical questions, obtain general ADA information, order free ADA materials, or ask about filing a complaint, please call:
 

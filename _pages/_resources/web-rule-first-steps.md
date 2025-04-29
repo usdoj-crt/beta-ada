@@ -4,15 +4,15 @@ description: "This guide includes suggested steps that ADA Coordinators and othe
 permalink: /resources/web-rule-first-steps/
 lead: |-
 lang: "en"
-publish-date: 2024-12-12 00:00:00
 related-content: true
 print: true
 news-item: true
-publish-date: 2025-01-08 00:00:00
 tags:
   - web access
   - title ii
 ---
+January 8, 2025
+
 Public entities (or “state and local governments”) offer many services on their websites and mobile applications (or “apps”).  But these services are not always accessible to people with disabilities.
 
 In April 2024, the Department of Justice (or “Department”) published a rule that sets technical requirements for state and local governments to follow to make sure that their websites and mobile apps are accessible to people with disabilities.  This resource can help state and local governments figure out what they should do to comply with the rule.
