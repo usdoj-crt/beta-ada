@@ -17,6 +17,15 @@ ref: help
 
 {% include expand-accordions-wrapper.html expand-heading='Frequently Asked Questions' %}
 
+{% details ADA Obligations and Diversity, Equity, and Inclusion expandable %}
+Disability accessibility is sometimes included in Diversity, Equity, and Inclusion (DEI) programs, with some references adding an "A" to create DEIA. However, accessibility is distinct and has long been a legal requirement under the Americans with Disabilities Act (ADA), the Rehabilitation Act of 1973, and other disability laws.
+
+The Americans with Disabilities Act (ADA) guarantees that people with disabilities have the same opportunities as everyone else to enjoy employment opportunities, purchase goods and services, and participate in state and local government programs. To prevent discrimination against people with disabilities, the ADA sets out requirements that apply to many of the situations you encounter in everyday life. Employers, state and local governments, businesses that are open to the public, commercial facilities, transportation providers, and telecommunication companies all must follow the requirements of the ADA.
+
+If you have questions about your rights and responsibilities, contact the [ADA Information Line]({{ '/infoline' | relative_url }}) for assistance.
+
+{% enddetails %}
+
 {% details Where can I file an ADA complaint? expandable %}
 
 There are two options for filing an ADA complaint:
@@ -91,6 +100,11 @@ Below are some key documents:
 
 </div>
 
+
+
+<div class="box-accordion">
+
+
 <div class="common-links">
 
 ## Commonly Searched Topics
@@ -109,8 +123,6 @@ Below are some key documents:
 - [Door, Doorways and Gates]({{ '/law-and-regs/design-standards/2010-stds/#404-doors-doorways-and-gates#section84' | relative_url }})
 
 </div>
-
-<div class="box-accordion">
 
 ## Resources for New Construction and Alterations
 

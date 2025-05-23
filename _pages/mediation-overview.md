@@ -1,7 +1,7 @@
 ---
 title: "Resolving ADA Complaints Through Mediation: An Overview"
-description: ""
-permalink: /resources/mediation-overview/
+description: "The Department's mediation program refers appropriate ADA disputes to mediators at no cost to the parties."
+permalink: /mediation-overview/
 lang: "en"
 publish-date: 2016-09-15 00:00:00
 print: true
