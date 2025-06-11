@@ -464,7 +464,7 @@ For more information about the revised ADA regulations and 2010 ADA Standards, p
 
 [ADA Information Line]( {{'/infoline'| relative_url}})
 {{site.contact.tollfree}} (Voice) and {{site.contact.tty}} (TTY)
-M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.
+M, W, F 9:30 a.m. – 12:30 p.m. and 2:30 p.m. - 4:30 p.m., Tu 9:30 a.m. - 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.
 
 ["Reaching Out to Customers with Disabilities"](https://archive.ada.gov/reachingout/intro1.htm) explains the ADA's requirements for businesses in a short 10-lesson online course.
 

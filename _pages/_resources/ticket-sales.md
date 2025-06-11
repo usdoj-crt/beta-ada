@@ -254,7 +254,7 @@ requirements.
 ### ADA Information Line
 
 Call 800-514-0301 (Voice) and 833-610-1264 (TTY) to speak with an ADA Specialist.
-Monday, Tuesday, Wednesday, Friday: 9:30 a.m. to 12:00 p.m. and 3:00-5:30 p.m. ET, Thursday: 2:30 p.m. to 5:30 p.m. ET
+Monday, Wednesday, Friday: 9:30 a.m. - 12:30 p.m. and 2:30 - 4:30 p.m. ET, Tuesday: 9:30 a.m. - 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Thursday: 2:30 p.m. - 5:30 p.m. ET
 All calls are confidential.
 
 For persons with disabilities, this publication is available in alternate formats.

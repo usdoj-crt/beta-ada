@@ -85,7 +85,7 @@ For complaints concerning housing-related discrimination, contact the U.S. Depar
 
 ## ADA Information Line
 
-For more information on the ADA and the rights of persons living with HIV/AIDS, or to request this publication in an alternative format, call our [ADA Information Line](https://www.ada.gov/infoline/) Monday, Tuesday, Wednesday, Friday: 9:30am - 12:00pm and 3:00pm - 5:30pm, and Thursday 2:30pm - 5:30pm (Eastern Time) to speak with an ADA specialist. Calls are confidential.
+For more information on the ADA and the rights of persons living with HIV/AIDS, or to request this publication in an alternative format, call our [ADA Information Line](https://www.ada.gov/infoline/) Monday, Wednesday, Friday: 9:30am - 12:30pm and 2:30pm - 4:30pm, Tuesday 9:30am - 12:00pm and 3:00pm - 5:30pm, and Thursday 2:30pm - 5:30pm (Eastern Time) to speak with an ADA specialist. Calls are confidential.
 
 > 800-514-0301 (Voice)<br>
 > 833-610-1264 (TTY)

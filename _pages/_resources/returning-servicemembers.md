@@ -242,7 +242,7 @@ Morgantown, WV 26506-6080
 >ADA Information Line<br>
 1-800-514-0301 (voice)<br>
 1-833-610-1264 (TTY)<br>
-Speak to an ADA Specialist M, Tu, W, F: 9:30am - 12pm and 3pm - 5:30pm ET, Th: 2:30pm - 5:30pm ET
+Speak to an ADA Specialist M, W, F: 9:30am - 12:30pm and 2:30pm - 4:30pm ET, Tu: 9:30am - 12:00pm and 3:00pm - 5:30pm ET, Th: 2:30pm - 5:30pm ET
 >
 >Address:<br>
 U.S. Department of Justice<br>

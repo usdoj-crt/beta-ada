@@ -184,7 +184,7 @@ A: Yes. The Department sometimes participates in private suits either by interve
 A: The Department of Justice operates an [ADA Information Line]( {{'/infoline/' | relative_url}}). Information Specialists are available to answer general and technical questions during business hours on the weekdays.
 
 >{{site.contact.tollfree}} (Voice) and {{site.contact.tty}} (TTY)
-M, Tu, W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.
+M, W, F 9:30 a.m. – 12:30 p.m. and 2:30 p.m. - 4:30 p.m., Tu 9:30 a.m. - 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.
 
 The [archive.ADA Home Page](https://archive.ada.gov), which is updated frequently, contains the Department of Justice's regulations and technical assistance materials, as well as press releases on ADA cases and other issues. Several settlement agreements with child care centers are also available on the Home Page.
 
