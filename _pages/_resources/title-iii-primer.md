@@ -481,7 +481,7 @@ For technical assistance on the ADA/ABA Accessibilty Guidelines:
 
 800-872-2253 (Voice)
 800-992 -2822 (TTY)
-<https://www.access-board.gov>
+[https://www.access-board.gov](https://www.access-board.gov)
 
 **Internal Revenue Service**
 
