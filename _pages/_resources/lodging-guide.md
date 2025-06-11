@@ -240,7 +240,7 @@ The tax deduction is available to all businesses with a maximum deduction of $15
 
 ### Department of Justice’s ADA Information Line
 
-The ADA Information Line is available during weekdays to provide technical assistance on the ADA Standards for Accessible Design and other ADA provisions applying to businesses, non-profit service agencies and state and local government programs. It also provides a 24-hour automated service for ordering ADA materials. This free service provides answers to general and technical questions about ADA requirements and is a source for free ADA materials including the ADA Standards for Accessible Design. You may reach the \[ADA Information Line]({{'/infoline' | relative_url}}) at:
+The ADA Information Line is available during weekdays to provide technical assistance on the ADA Standards for Accessible Design and other ADA provisions applying to businesses, non-profit service agencies and state and local government programs. It also provides a 24-hour automated service for ordering ADA materials. This free service provides answers to general and technical questions about ADA requirements and is a source for free ADA materials including the ADA Standards for Accessible Design. You may reach the [ADA Information Line]({{'/infoline' | relative_url}}) at:
 
 > 800-514-0301 (voice)
 >
