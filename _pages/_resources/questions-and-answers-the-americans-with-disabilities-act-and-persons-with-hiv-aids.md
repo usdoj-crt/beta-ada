@@ -309,8 +309,7 @@ Persons who believe that they have been discriminated against by the airlines be
 ### More information
 
 [ADA Information Line]({{'/infoline' | relative_url}})<br>
-Call 800-514-0301 | 1-833-610-1264 (TTY) to speak with an ADA Specialist. Calls are confidential.<br>
-Hours:  M, Tu, W, F: 9:30am - 12:00pm and 3:00 - 5:30pm ET, Th: 2:30 - 5:30pm ET
+Call 800-514-0301 | 1-833-610-1264 (TTY) Monday through Friday to speak with an ADA Specialist. Calls are confidential.
 
 ### File a complaint with the Department of Justice
 
