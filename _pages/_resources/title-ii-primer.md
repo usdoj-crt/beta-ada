@@ -359,7 +359,7 @@ For more information about the revised ADA regulations, the 2010 Standards, and 
 
 [ADA Information Line]( {{'/infoline'| relative_url}})
 {{site.contact.tollfree}} (Voice) and {{site.contact.tty}} (TTY)
-M-W, F 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m., Th 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist. Calls are confidential.
+Monday through Friday to speak with an ADA Specialist. Calls are confidential.
 
 [National Network of ADA Centers](https://adata.org)
 

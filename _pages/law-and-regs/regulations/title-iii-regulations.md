@@ -1390,6 +1390,7 @@ Following a compliance review or investigation under &sect; 36.502, or at any ot
 (iii)  Making facilities readily accessible to and usable by individuals with disabilities;
 
 (2)  May award other relief as the court considers to be appropriate, including monetary damages to persons aggrieved when requested by the Attorney General; and
+
 (3)  May, to vindicate the public interest, assess a civil penalty against the entity in an amount
 
 (i)  Not exceeding $50,000 for a first violation occurring before September 29, 1999, and not exceeding $55,000 for a first violation occurring on or after September 29, 1999, and before April 28, 2014, and not exceeding $75,000 for a first violation occurring on or after April 28, 2014, except that, for civil penalties assessed after August 1, 2016, for a first violation occurring after November 2, 2015, the civil penalty shall not exceed the applicable amount set forth in [28 CFR 85.5](https://www.ecfr.gov/cgi-bin/text-idx?SID=1b8a64f5c5dc115b95ace1f32e0130a0&amp;mc=true&amp;node=se28.2.85_15&amp;rgn=div8){: .word-break}.

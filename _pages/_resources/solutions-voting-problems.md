@@ -190,8 +190,7 @@ For information about the ADA, please visit our website or call our toll-free nu
 [ADA Information Line]({{'/infoline' | relative_url}})<br>
 800-514-0301 (Voice) and 833-610-1264 (TTY)<br>
 24 hours a day to order publications by mail.<br>
-Monday, Tuesday, Wednesday, Friday 9:30 a.m. – 12:00 p.m. and 3:00 p.m. - 5:30 p.m.,<br>
-Thursday 2:30 p.m. – 5:30 p.m. (Eastern Time) to speak with an ADA Specialist.<br>
+Monday through Friday to speak with an ADA Specialist.<br>
 All calls are confidential.
 
 **ADA Website**
