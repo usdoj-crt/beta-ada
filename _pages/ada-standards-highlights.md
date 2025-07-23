@@ -7,11 +7,6 @@ sidenav: true
 print: true
 lang: en
 ---
-The Americans with Disabilities Act (ADA) helps make sure public spaces like parks,
-playgrounds and other sport areas are designed so people with disabilities can enjoy them safely
-and equally. The 2010 ADA Standards offers helpful guidelines for different types of buildings
-and facilities. Depending on the space, other parts of the Standards might also apply.
-
 This guide is part of an ongoing series that showcases key accessibility features supporting
 individuals with disabilities in staying active, enjoying sports and fully participating in
 recreational spaces across the country.
