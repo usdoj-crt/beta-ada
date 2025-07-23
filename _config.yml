@@ -37,6 +37,13 @@ communityoutreach:
   outreach_email: Disability.Outreach@usdoj.gov
 
 # For alerts that aren't tied to a site.categories.notice
+external_notices:
+  - text:
+      en: Celebrating 35 Years of the ADA
+    link_text:
+      en: A spotlight on accesibility standards that ensure people with disabilities can stay active, enjoy sports and fully participate in recreation spaces across the country. Learn more about these requirements.
+    link_href:
+      en: /ada-standards-highlights
 
 # Display beta disclamers
 beta: false
