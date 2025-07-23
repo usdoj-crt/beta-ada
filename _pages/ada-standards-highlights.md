@@ -1,8 +1,8 @@
 ---
-title: "ADA Standards Highlights"
-description: "An ongoing series to showcase accessibility features supporting persons with disabilities in staying active and participating in recreational spaces."
+title: ADA Standards Highlights
+description: An ongoing series to showcase accessibility features supporting persons with disabilities in staying active and participating in recreational spaces.
 permalink: /ada-standards-highlights/
-lead: "The Americans with Disabilities Act (ADA) helps make sure public spaces like parks, playgrounds and other sport areas are designed so people with disabilities can enjoy them safely and equally. The 2010 ADA Standards offers helpful guidelines for different types of buildings and facilities. Depending on the space, other parts of the Standards might also apply."
+lead: The Americans with Disabilities Act (ADA) helps make sure public spaces like parks, playgrounds and other sport areas are designed so people with disabilities can enjoy them safely and equally. The 2010 ADA Standards offers helpful guidelines for different types of buildings and facilities. Depending on the space, other parts of the Standards might also apply.
 sidenav: true
 print: true
 lang: en
@@ -13,19 +13,19 @@ recreational spaces across the country.
 
 In this edition, we’re highlighting the following types of recreational spaces:
 
-## Golf Facilities 
+## Golf Facilities
 (Sections [238]({{ '/law-and-regs/design-standards/2010-stds/' | relative_url }}) and [1006]({{ '/law-and-regs/design-standards/2010-stds/' | relative_url }}))
 - Golf courses and related facilities must be accessible to all. The design standards outline
 key requirements for elements such as accessible paths, golf car routes, and shelters from
 the weather.
 
-## Play Areas 
+## Play Areas
 (Sections [240]({{ '/law-and-regs/design-standards/2010-stds/' | relative_url }}) and [1008]({{ '/law-and-regs/design-standards/2010-stds/' | relative_url }}))
 - Children with disabilities must be able to participate in play without barriers. The design
 standards detail how play structures including soft play environments, water features, and
 play tables, should be accessible.
 
-## Swimming Pools, Wading Pools, and Spas 
+## Swimming Pools, Wading Pools, and Spas
 (Sections [242]({{ '/law-and-regs/design-standards/2010-stds/' | relative_url }}) and [1009]({{ '/law-and-regs/design-standards/2010-stds/' | relative_url }}))
 - Barrier-free access to aquatic facilities is essential. The design standards provide
 specifications for features such as pool lifts, sloped entries, transfer walls, transfer
