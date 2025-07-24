@@ -7,7 +7,7 @@ sidenav: true
 print: true
 lang: en
 ---
-Executive Order: [Make America Healthy Again Commission](https://www.whitehouse.gov/presidential-actions/2025/02/establishing-the-presidents-make-america-healthy-again-commission/) &amp; [Protecting Second Amendment Rights](https://www.whitehouse.gov/presidential-actions/2025/02/protecting-second-amendment-rights/)
+**Executive Order:** [Make America Healthy Again Commission](https://www.whitehouse.gov/presidential-actions/2025/02/establishing-the-presidents-make-america-healthy-again-commission/) &amp; [Protecting Second Amendment Rights](https://www.whitehouse.gov/presidential-actions/2025/02/protecting-second-amendment-rights/)
 
 This guide is part of an ongoing series that showcases key accessibility features supporting
 individuals with disabilities in staying active, enjoying sports and fully participating in
