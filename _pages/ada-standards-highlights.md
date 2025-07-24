@@ -1,8 +1,8 @@
 ---
-title: Spotlight on Accessible Recreational Spaces
+title: Spotlight on Accessible Recreation Spaces
 description: An ongoing series to showcase accessibility features supporting persons with disabilities in staying active and participating in recreational spaces.
 permalink: /ada-standards-highlights/
-lead: The Americans with Disabilities Act (ADA) helps make sure public spaces like parks, playgrounds and other sports areas are designed so people with disabilities can enjoy them safely and equally. The 2010 ADA Standards offer helpful guidelines for different types of buildings and facilities. Depending on the space, other parts of the Standards might also apply.
+lead: The Americans with Disabilities Act (ADA) helps make sure public spaces like parks, playgrounds and other sport areas are designed so people with disabilities can enjoy them safely and equally. The 2010 ADA Standards offers helpful guidelines for different types of buildings and facilities. Depending on the space, other parts of the Standards might also apply.
 sidenav: true
 print: true
 lang: en
