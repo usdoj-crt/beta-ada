@@ -7,13 +7,7 @@ sidenav: true
 print: true
 lang: en
 ---
-**Executive Order:** [Make America Healthy Again Commission](https://www.whitehouse.gov/presidential-actions/2025/02/establishing-the-presidents-make-america-healthy-again-commission/) &amp; [Protecting Second Amendment Rights](https://www.whitehouse.gov/presidential-actions/2025/02/protecting-second-amendment-rights/)
-
-This guide is part of an ongoing series that showcases key accessibility features supporting
-individuals with disabilities in staying active, enjoying sports and fully participating in
-recreational spaces across the country.
-
-In this edition, we’re highlighting the following types of recreational spaces:
+This guide is part of an ongoing series that showcases key accessibility features. In this edition, in honor of the [Make America Healthy Again Commission](https://www.whitehouse.gov/presidential-actions/2025/02/establishing-the-presidents-make-america-healthy-again-commission/) and the President's Directive about [Protecting Second Amendment Rights](https://www.whitehouse.gov/presidential-actions/2025/02/protecting-second-amendment-rights/), we highlight the ADA standards that support individuals with disabilities in staying active, enjoying sports and fully participating in recreational spaces across the country, including:
 
 ## Golf Facilities
 (Sections [238]({{ '/law-and-regs/design-standards/2010-stds/#238-golf-facilities' | relative_url }}) and [1006]({{ '/law-and-regs/design-standards/2010-stds/#1006-golf-facilities' | relative_url }}))
