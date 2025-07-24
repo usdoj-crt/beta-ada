@@ -39,7 +39,7 @@ communityoutreach:
 # For alerts that aren't tied to a site.categories.notice
 external_notices:
   - text:
-      en: Celebrating 35 Years of the ADA<br/><br/>A spotlight on accesibility standards that ensure people with disabilities can stay active, enjoy sports and fully participate in recreation spaces across the country. 
+      en: Celebrating 35 Years of the ADA<br/><br/>A spotlight on accesibility standards that ensure people with disabilities can stay active, enjoy sports and fully participate in recreation spaces across the country.
     link_text:
       en: Learn more about these requirements.
     link_href:
