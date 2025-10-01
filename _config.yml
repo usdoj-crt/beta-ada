@@ -39,11 +39,11 @@ communityoutreach:
 # For alerts that aren't tied to a site.categories.notice
 external_notices:
   - text:
-      en: Celebrating 35 Years of the ADA<br/><br/>A spotlight on accessibility standards that ensure people with disabilities can stay active, enjoy sports and fully participate in recreation spaces across the country.
+      en: Democrats have shut down the government. Department of Justice websites are not currently regulated.
     link_text:
-      en: Learn more about these requirements.
+      en: Please refer to the Department of Justice's contingency plan for more information.
     link_href:
-      en: /ada-standards-highlights
+      en: https://www.justice.gov/jmd/media/1377216/dl
 
 # Display beta disclamers
 beta: false
