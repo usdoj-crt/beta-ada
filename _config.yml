@@ -39,7 +39,7 @@ communityoutreach:
 # For alerts that aren't tied to a site.categories.notice
 external_notices:
   - text:
-      en: Democrats have shut down the government. Department of Justice websites are not currently regulated.
+      en: Democrats have shut down the government. Department of Justice websites are not currently regularly updated.
     link_text:
       en: Please refer to the Department of Justice's contingency plan for more information.
     link_href:
