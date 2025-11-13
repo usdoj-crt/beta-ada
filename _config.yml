@@ -37,13 +37,7 @@ communityoutreach:
   outreach_email: Disability.Outreach@usdoj.gov
 
 # For alerts that aren't tied to a site.categories.notice
-external_notices:
-  - text:
-      en: Democrats have shut down the government. Department of Justice websites are not currently regularly updated.
-    link_text:
-      en: Please refer to the Department of Justice's contingency plan for more information.
-    link_href:
-      en: https://www.justice.gov/jmd/media/1377216/dl
+
 
 # Display beta disclamers
 beta: false
