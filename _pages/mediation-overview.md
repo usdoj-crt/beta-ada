@@ -4,6 +4,7 @@ description: "The Department's mediation program refers appropriate ADA disputes
 permalink: /mediation-overview/
 lang: "en"
 publish-date: 2016-09-15 00:00:00
+updated-date: 2026-01-26 00:00:00
 print: true
 redirect_from:
   - /mediation_docs/mediation-q-a.htm
@@ -60,3 +61,6 @@ To receive e-mail notifications when new ADA information is available, [sign up 
 ### ADA Information Line
 
 If you have questions, you may call the [ADA Information Line]({{'/infoline/' | relative_url}}).  Accessibility specialists are available to answer your questions.  All calls are confidential.
+
+<hr>
+DOJ and its mediation partner do not provide legal advice to private parties. You should consult your own attorney to understand your rights and what remedies may be available to you.

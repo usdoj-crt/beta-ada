@@ -95,6 +95,16 @@ Below are some key documents:
 
 {% enddetails %}
 
+{% details Where can I find more information about ADA-related tax incentives for businesses? expandable %}
+
+Two tax incentives are available for businesses to help cover the costs of making access improvements for customers or employees with disabilities. A **tax credit** is available for small businesses, and a **tax deduction** is available for businesses of all sizes. For more information, visit [Expanding Your Market: Tax Incentives for Businesses]({{ '/resources/tax-incentives-businesses/' | relative_url }}).
+
+In addition, the Work Opportunity Tax Credit (WOTC) helps employers who invest in American job seekers who have consistently faced barriers to employment. Employers may be able to receive tax credits for hiring certain people with disabilities, including veterans with service-connected disabilities and some people who are receiving or have completed rehabilitation services. For more information about the WOTC, visit the [Internal Revenue Service website](https://www.irs.gov/businesses/small-businesses-self-employed/work-opportunity-tax-credit) and the [US Department of Labor website](https://www.dol.gov/agencies/eta/wotc).
+
+**The Department of Justice does not provide tax advice. Consult with your own private attorney to understand your tax obligations.**
+
+{% enddetails %}
+
 </div>
 
 

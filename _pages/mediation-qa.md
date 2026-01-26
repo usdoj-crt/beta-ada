@@ -2,16 +2,16 @@
 title: "The ADA Mediation Program: Questions and Answers"
 description: "The Department's mediation program refers appropriate ADA disputes to mediators at no cost to the parties. This document answers commonly asked questions regarding this program."
 permalink: /mediation-qa/
-lead: |-
-  In enacting the Americans with Disabilities Act (ADA), Congress specifically encouraged the use of alternative methods of dispute resolution, including mediation, to resolve ADA disputes. Established in 1994, the Department's ADA Mediation Program has achieved remarkable results, eliminating architectural, communication, and attitudinal barriers for thousands of people, while allowing the Department to achieve meaningful compliance with the law without having to allocate scarce resources to investigate or litigate these disputes. Over 5,000 complaints have been mediated in communities large and small throughout the country, with more than 75% of them resulting in successful resolutions.
 lang: "en"
+lead: |-
+  In enacting the Americans with Disabilities Act (ADA), Congress specifically encouraged the use of alternative methods of dispute resolution, including mediation, to resolve ADA disputes. Established in 1994, the Department’s ADA Mediation Program has achieved remarkable results, eliminating architectural, communication, and attitudinal barriers for thousands of people, while allowing the Department to achieve meaningful compliance with the law without having to allocate scarce resources to investigate or litigate these disputes. Over 5,000 complaints have been mediated in communities large and small throughout the country, with more than 75% of them resulting in successful resolutions.
+updated-date: 2026-01-26 00:00:00
 publish-date: 2016-09-15 00:00:00
 print: true
 redirect_from:
   - /mediation_docs/mediation-q-a.htm
 ---
-
-{% include expand-accordions-wrapper.html %}
+{% include expand-accordions-wrapper.html expand-heading='Questions and Answers' %}
 
 {% details 1. What is the ADA Mediation Program? expandable %}
 The Department of Justice’s ADA Mediation Program is an important part of ADA compliance. Using professional ADA-trained mediators throughout the United States, the Program provides a confidential, voluntary way to resolve ADA complaints fairly and quickly.
@@ -55,11 +55,11 @@ If we decide that your complaint is appropriate for mediation, we send you an ex
 {% enddetails %}
 
 {% details 9. If someone files a complaint against my company or against the State or local government I represent and wants to mediate, when will I be informed? expandable %}
-Once the complainant agrees to participate, we will notify you, in writing, that a complaint has been filed against you. You will be offered an opportunity to participate in mediation, and provided technical assistance materials. The letter also states that we will not pursue an investigation while mediation is pending. The entity against whom the complaint is filed is referred to as the respondent.
+Once the complainant agrees to participate, we will notify you, in writing, that a complaint has been filed. The entity against whom the complaint is filed is referred to as the respondent. The respondent will be offered an opportunity to participate in mediation, and provided technical assistance materials. The letter also states that we will not pursue an investigation while mediation is pending.
 {% enddetails %}
 
 {% details 10. What happens after the complainant agrees to mediate? expandable %}
-The mediation contractor, the Key Bridge Foundation (KBF), will assign you a case manager to handle the matter. The case manager will contact the respondent to discuss the opportunity to resolve the complaint through mediation. Once the respondent agrees, the case manager works with both parties to arrange a mutually agreed upon time, date, and location for the mediation. KBF is a nationally recognized provider of mediation and training services.
+The mediation contractor, the Key Bridge Foundation (KBF), will assign you a case manager to handle the matter. The case manager will contact the respondent to discuss the opportunity to resolve the complaint through mediation. Once the respondent agrees, the case manager works with both parties to arrange a mutually agreed upon time and date for the mediation. KBF is a national provider of mediation and training services.
 {% enddetails %}
 
 {% details 11. What if the respondent refuses to participate in mediation? expandable %}
@@ -67,11 +67,11 @@ If the respondent refuses to participate in mediation, KBF returns the complaint
 {% enddetails %}
 
 {% details 12. Where do the mediations take place? expandable %}
-Most mediations occur locally in mutually agreed upon neutral locations. Mediations may also take place by teleconference as needed.
+Most mediations occur by teleconference. Mediation may occur locally if necessary.
 {% enddetails %}
 
 {% details 13. What if I need an accommodation for the mediation? expandable %}
-The Department ensures that all mediations are accessible to all participants. The Key Bridge Foundation and the mediators are skilled at handling requests for accommodations for people with disabilities, such as arranging accessible locations for mediations, providing sign language interpreters, and arranging other accommodations to ensure full and equal access to the mediation process, at no cost to the parties.
+The Department ensures that all mediations are accessible to all participants. The Key Bridge Foundation and the mediators are skilled at handling requests for accommodations for people with disabilities, such as providing sign language interpreters, and arranging other accommodations to ensure full and equal access to the mediation process, at no cost to the parties.
 {% enddetails %}
 
 {% details 14. Who are the mediators in the ADA Mediation Program, and where are they located? expandable %}
@@ -99,5 +99,8 @@ A successful mediation results in a binding agreement between the parties.  Re
 {% enddetails %}
 
 {% details 20. How does the Program ensure that implementation of the agreement will occur? expandable %}
-To ensure that relief is actually obtained, no matter is deemed successfully resolved and closed until both parties verify the full implementation of the terms of the agreement.
+To ensure that relief is actually obtained, no matter is deemed successfully resolved and closed until both parties verify the full implementation of the terms of the agreement. Parties may independently enforce their mediation agreements.
 {% enddetails %}
+
+<hr>
+DOJ and its mediation partner do not provide legal advice to private parties. You should consult your own attorney to understand your rights and what remedies may be available to you.
