@@ -37,7 +37,13 @@ communityoutreach:
   outreach_email: Disability.Outreach@usdoj.gov
 
 # For alerts that aren't tied to a site.categories.notice
-
+external_notices:
+  - text:
+      en: Tax Season is Here
+    link_text:
+      en: Learn About ADA-Related Tax Incentives for Businesses
+    link_href:
+      en: /resources/tax-incentives-businesses/
 
 # Display beta disclamers
 beta: false

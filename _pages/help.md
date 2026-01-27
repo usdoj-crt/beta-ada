@@ -17,6 +17,15 @@ ref: help
 
 {% include expand-accordions-wrapper.html expand-heading='Frequently Asked Questions' %}
 
+{% details ADA Obligations and Diversity, Equity, and Inclusion expandable %}
+Disability accessibility is sometimes included in Diversity, Equity, and Inclusion (DEI) programs, with some references adding an "A" to create DEIA. However, accessibility is distinct and has long been a legal requirement under the Americans with Disabilities Act (ADA), the Rehabilitation Act of 1973, and other disability laws.
+
+The Americans with Disabilities Act (ADA) guarantees that people with disabilities have the same opportunities as everyone else to enjoy employment opportunities, purchase goods and services, and participate in state and local government programs. To prevent discrimination against people with disabilities, the ADA sets out requirements that apply to many of the situations you encounter in everyday life. Employers, state and local governments, businesses that are open to the public, commercial facilities, transportation providers, and telecommunication companies all must follow the requirements of the ADA.
+
+If you have questions about your rights and responsibilities, contact the [ADA Information Line]({{ '/infoline' | relative_url }}) for assistance.
+
+{% enddetails %}
+
 {% details Where can I file an ADA complaint? expandable %}
 
 There are two options for filing an ADA complaint:
@@ -86,7 +95,22 @@ Below are some key documents:
 
 {% enddetails %}
 
+{% details Where can I find more information about ADA-related tax incentives for businesses? expandable %}
+
+Two tax incentives are available for businesses to help cover the costs of making access improvements for customers or employees with disabilities. A **tax credit** is available for small businesses, and a **tax deduction** is available for businesses of all sizes. For more information, visit [Expanding Your Market: Tax Incentives for Businesses]({{ '/resources/tax-incentives-businesses/' | relative_url }}).
+
+In addition, the Work Opportunity Tax Credit (WOTC) helps employers who invest in American job seekers who have consistently faced barriers to employment. Employers may be able to receive tax credits for hiring certain people with disabilities, including veterans with service-connected disabilities and some people who are receiving or have completed rehabilitation services. For more information about the WOTC, visit the [Internal Revenue Service website](https://www.irs.gov/businesses/small-businesses-self-employed/work-opportunity-tax-credit) and the [US Department of Labor website](https://www.dol.gov/agencies/eta/wotc).
+
+**The Department of Justice does not provide tax advice. Consult with your own private attorney to understand your tax obligations.**
+
+{% enddetails %}
+
 </div>
+
+
+
+<div class="box-accordion">
+
 
 <div class="common-links">
 
@@ -106,8 +130,6 @@ Below are some key documents:
 - [Door, Doorways and Gates]({{ '/law-and-regs/design-standards/2010-stds/#404-doors-doorways-and-gates#section84' | relative_url }})
 
 </div>
-
-<div class="box-accordion">
 
 ## Resources for New Construction and Alterations
 
