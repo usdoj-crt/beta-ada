@@ -193,3 +193,9 @@ Line]({{'/infoline' | relative_url}}).
 Another source of information is the [ADA National Network](https://adata.org/). The National Network includes ten regional centers that provide ADA technical assistance to businesses, state and local
 governments, and individuals with disabilities. One toll-free number connects you to the center
 in your region: 800-949-4232 (Voice and TTY).
+
+<hr>
+The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.
+
+Guidance documents posted to this website are not intended to be a final agency action, have no legally binding effect, and have no force or effect of law.  The documents may be rescinded or modified in the Departments’ complete discretion, in accordance with applicable laws.  The Departments’ guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.  For more information, see 1-19.000 – Principles for Issuance and Use of Guidance Documents, [https://www.justice.gov/jm/1-19000-limitation-issuance-guidance-documents-1](https://www.justice.gov/jm/1-19000-limitation-issuance-guidance-documents-1).
+<hr>
