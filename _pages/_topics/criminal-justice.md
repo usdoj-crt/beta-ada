@@ -167,3 +167,9 @@ The following technical assistance documents contain more information about crim
 - [Access for 9-1-1 and Telephone Emergency Services](https://archive.ada.gov/911ta.htm)
 - [Examples and Resources to Support Criminal Justice Entities in Compliance with Title II of the Americans with Disabilities Act](https://archive.ada.gov/cjta.html)
 - [Guide for Law Enforcement Officers When in Contact with People Who Are Deaf or Hard of Hearing](https://archive.ada.gov/PCALawEnfGuide.htm)
+
+<hr>
+The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.
+
+Guidance documents posted to this website are not intended to be a final agency action, have no legally binding effect, and have no force or effect of law.  The documents may be rescinded or modified in the Departments’ complete discretion, in accordance with applicable laws.  The Departments’ guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.  For more information, see 1-19.000 – Principles for Issuance and Use of Guidance Documents, [https://www.justice.gov/jm/1-19000-limitation-issuance-guidance-documents-1](https://www.justice.gov/jm/1-19000-limitation-issuance-guidance-documents-1).
+<hr>

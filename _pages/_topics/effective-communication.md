@@ -138,3 +138,9 @@ transaction.
 Communication aids or services are also not required in the rare situations where they would fundamentally alter the nature of the goods or services you provide to the public. Learn more in [ADA Requirements: Effective Communication]( {{'/resources/effective-communication'| relative_url}}).
 
 If an aid or service would result in an undue burden or fundamental alteration, an alternative aid or service needs to be provided if possible.
+
+<hr>
+The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.
+
+Guidance documents posted to this website are not intended to be a final agency action, have no legally binding effect, and have no force or effect of law.  The documents may be rescinded or modified in the Departments’ complete discretion, in accordance with applicable laws.  The Departments’ guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.  For more information, see 1-19.000 – Principles for Issuance and Use of Guidance Documents, [https://www.justice.gov/jm/1-19000-limitation-issuance-guidance-documents-1](https://www.justice.gov/jm/1-19000-limitation-issuance-guidance-documents-1).
+<hr>
