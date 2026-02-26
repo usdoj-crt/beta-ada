@@ -175,3 +175,9 @@ Disabilities](https://archive.ada.gov/emergencyprep.htm) ([PDF](https://archive.
 [Access for 9-1-1 and Telephone Emergency Services](https://archive.ada.gov/911ta.htm)  ([PDF](https://archive.ada.gov/911ta.pdf))  [En Español](https://archive.ada.gov/911ta_spanish.htm)
 
 NOTE: Portions of the guidance materials linked above may not fully reflect the current ADA regulations and the most recent [ADA Standards for Accessible Design]({{'/law-and-regs/design-standards/2010-stds/' | relative_url}})
+
+<hr>
+The Americans with Disabilities Act authorizes the Department of Justice (the Department) to provide technical assistance to individuals and entities that have rights or responsibilities under the Act. This document provides informal guidance to assist you in understanding the ADA and the Department's regulations.
+
+Guidance documents posted to this website are not intended to be a final agency action, have no legally binding effect, and have no force or effect of law.  The documents may be rescinded or modified in the Departments’ complete discretion, in accordance with applicable laws.  The Departments’ guidance documents, including this guidance, do not establish legally enforceable responsibilities beyond what is required by the terms of the applicable statutes, regulations, or binding judicial precedent.  For more information, see 1-19.000 – Principles for Issuance and Use of Guidance Documents, [https://www.justice.gov/jm/1-19000-limitation-issuance-guidance-documents-1](https://www.justice.gov/jm/1-19000-limitation-issuance-guidance-documents-1).
+<hr>
