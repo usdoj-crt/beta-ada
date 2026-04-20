@@ -14,6 +14,13 @@ tags:
 ---
 On April 24, 2024, the Federal Register{% fn 1 %} published the Department of Justice’s (Department) final rule updating its regulations for Title II of the Americans with Disabilities Act (ADA).  The final rule has specific requirements about how to make sure that web content and mobile applications (apps) are accessible to people with disabilities.
 
+On April 20, 2026, the Federal Register published the Department’s Interim Final
+Rule (IFR) extending the compliance date for State and local government entities
+with a total population of 50,000 or more to April 26, 2027. The compliance date
+for public entities with a total population of less than 50,000, or any special
+district government, is extended to April 26, 2028. For more information, please
+read the IFR. The official version of the IFR is published in the Federal Register.
+
 **Purpose of this guide**: This Small Entity Compliance Guide{% fn 2 %} (“guide”) is meant for people who work for or with small state and local governments.  The guide will help you understand the rule’s requirements for making sure your government’s web content and mobile apps are accessible.
 
 {% include expand-accordions-wrapper.html %}
@@ -73,15 +80,15 @@ Starting on April 26, 2027, small state and local governments have to make sure 
 </thead>
 <tr>
 <th>0 to 49,999 persons</th>
-<td>April 26, 2027</td>
+<td>April 26, 2028</td>
 </tr>
 <tr>
 <th>Special district governments</th>
-<td>April 26, 2027</td>
+<td>April 26, 2028</td>
 </tr>
 <tr>
 <th>50,000 or more persons</th>
-<td>April 24, 2026</td>
+<td>April 26, 2027</td>
 </tr>
 </table>
 

@@ -39,11 +39,11 @@ communityoutreach:
 # For alerts that aren't tied to a site.categories.notice
 external_notices:
   - text:
-      en: Tax Season is Here
+      en: Changes to the ADA Title II Rule on Web Content and Mobile App Accessibility
     link_text:
-      en: Learn About ADA-Related Tax Incentives for Businesses
+      en: The Department extended the rule's compliance dates by one year.
     link_href:
-      en: /resources/tax-incentives-businesses/
+      en: https://www.federalregister.gov/documents/2026/04/20/2026-07663/extension-of-compliance-dates-for-nondiscrimination-on-the-basis-of-disability-accessibility-of-web
 
 # Display beta disclamers
 beta: false

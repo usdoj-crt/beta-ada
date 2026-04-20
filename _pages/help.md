@@ -79,6 +79,12 @@ Below are some key documents:
 - [Final Rule]({{ '/assets/pdfs/web-rule.pdf' | relative_url }}): This document provides the text of the rule and explains its requirements. If you need the final rule document or any other information in an alternative format, you can call the ADA Information Line at (800) 514-0301 (voice) or 1-833-610-1264 (TTY). The [official version of the rule](https://www.federalregister.gov/documents/2024/04/24/2024-07758/nondiscrimination-on-the-basis-of-disability-accessibility-of-web-information-and-services-of-state) is published in the Federal Register.
 - [Press Release](https://www.justice.gov/opa/pr/justice-department-publish-final-rule-strengthen-web-and-mobile-app-access-people): The Department issued a press release when the Attorney General signed the final rule.
 - [Benefit-Cost Analysis]({{ '/assets/pdfs/web-fria.pdf' | relative_url }}): This is an analysis of the benefits and costs of the rule, also called the Regulatory Impact Analysis and Regulatory Flexibility Act analysis.
+- 2026 Interim Final Rule (IFR): This document provides the text of the
+IFR, which extends the rule’s original compliance dates by one year.
+If you need the IFR or any other information in an alternative format,
+you can call the ADA Information Line at (800) 514-0301 (voice) or 1-
+833-610-1264 (TTY). The official version of the IFR is published in the
+Federal Register.
 
 {% enddetails %}
 
