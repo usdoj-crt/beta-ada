@@ -379,7 +379,7 @@ You can also contact the [ADA National Network](https://adata.org).  The Nationa
 The official version of the rule is published in the Federal Register at 89 FR 31320 (April 24, 2024).
 {% endfnbody %}
 {% fnbody 2 %}
-The official version of the IFR is published in the Federal Register at 91 FR 20902 (April 26, 2026).
+The official version of the IFR is published in the Federal Register at 91 FR 20902 (April 20, 2026).
 {% endfnbody %}
 {% fnbody 3 %}
 This guide was prepared as a “small entity compliance guide” under Section 212 of the Small Business Regulatory Enforcement Fairness Act of 1996.  The guide is not a substitute for the rule.  Only the rule itself provides complete and definitive information about its requirements.  For all the details about the rule, please read the full [final rule]({{'assets/pdfs/web-rule.pdf' | relative_url}}).
