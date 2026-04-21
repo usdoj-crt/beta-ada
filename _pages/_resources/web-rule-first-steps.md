@@ -21,8 +21,8 @@ In April 2026, the Department published an Interim Final Rule (IFR) extending th
 compliance date for State and local government entities with a total population of
 50,000 or more to April 26, 2027. The compliance date for public entities with a
 total population of less than 50,000, or any special district government, is
-extended to April 26, 2028. For more information, please read the IFR. The
-official version of the IFR is published in the Federal Register.
+extended to April 26, 2028. For more information, please read [the IFR]({{ '/assets/pdfs/2026-ifr.pdf' | relative_url }}). The
+official version of the IFR is published in the Federal Register.{% fn 1 %}
 
 ## Who might find this resource helpful
 
@@ -38,7 +38,7 @@ This resource:
 
 - Can help get you started. There will probably be many other steps that your public entity will want to take to ensure compliance with the rule.
 
-- Links to helpful materials from the [World Wide Web Consortium](https://www.w3.org) (or “W3C”), which is the organization that published the technical requirements that public entities will have to meet under the rule.  The technical requirements are called the [Web Content Accessibility Guidelines Version 2.1 Level AA](https://www.w3.org/TR/2018/REC-WCAG21-20180605/){% fn 1 %} (or “WCAG 2.1 Level AA”).  Although WCAG includes the word “guidelines,” complying with WCAG 2.1 Level AA is required under the rule.
+- Links to helpful materials from the [World Wide Web Consortium](https://www.w3.org) (or “W3C”), which is the organization that published the technical requirements that public entities will have to meet under the rule.  The technical requirements are called the [Web Content Accessibility Guidelines Version 2.1 Level AA](https://www.w3.org/TR/2018/REC-WCAG21-20180605/){% fn 2 %} (or “WCAG 2.1 Level AA”).  Although WCAG includes the word “guidelines,” complying with WCAG 2.1 Level AA is required under the rule.
 
 ## Why compliance is important
 
@@ -74,7 +74,7 @@ The deadline for complying with the rule generally depends on the population of 
 
   - Compliance deadline: April 26, 2028
 
-- **Special district governments:{% fn 2 %}**
+- **Special district governments:{% fn 3 %}**
 
   - Compliance deadline: April 26, 2028
 
@@ -403,11 +403,16 @@ If you have questions about the rule or the ADA, you can call the [ADA Informat
 ---
 
 {% footnotes %}
+
 {% fnbody 1 %}
-This link directs users to a webpage that includes a pop-up window saying this version of WCAG 2.1 is "outdated."  For purposes of the rule, you should ignore that banner.  The version of WCAG 2.1 that is linked here is the version that your public entity will have to meet under the rule.
+The official version of the IFR is published in the Federal Register at 91 FR 20902 (April 20, 2026).
 {% endfnbody %}
 
 {% fnbody 2 %}
+This link directs users to a webpage that includes a pop-up window saying this version of WCAG 2.1 is "outdated."  For purposes of the rule, you should ignore that banner.  The version of WCAG 2.1 that is linked here is the version that your public entity will have to meet under the rule.
+{% endfnbody %}
+
+{% fnbody 3 %}
 A special district government is a public entity---other than a county, municipality, township, or independent school district---allowed by state law to provide to one function or a limited number of designated functions with enough independence to be a separate government.  For more information about special district governments, see subsection D under "How calculate the population of your state or local government for purposes of figuring out your compliance deadline."
 {% endfnbody %}
 {% endfootnotes %}
