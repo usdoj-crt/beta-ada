@@ -17,13 +17,20 @@ Public entities (or “state and local governments”) offer many services on th
 
 In April 2024, the Department of Justice (or “Department”) published a rule that sets technical requirements for state and local governments to follow to make sure that their websites and mobile apps are accessible to people with disabilities.  This resource can help state and local governments figure out what they should do to comply with the rule.
 
+In April 2026, the Department published an Interim Final Rule (IFR) extending the
+compliance date for State and local government entities with a total population of
+50,000 or more to April 26, 2027. The compliance date for public entities with a
+total population of less than 50,000, or any special district government, is
+extended to April 26, 2028. For more information, please read [the IFR]({{ '/assets/pdfs/2026-ifr.pdf' | relative_url }}). The
+[official version of the IFR](https://www.federalregister.gov/documents/2026/04/20/2026-07663/extension-of-compliance-dates-for-nondiscrimination-on-the-basis-of-disability-accessibility-of-web) is published in the Federal Register.
+
 ## Who might find this resource helpful
 
 Americans with Disabilities Act (or “ADA”) coordinators or people in similar positions who do accessibility or ADA compliance planning for a public entity.
 
 ## How this resource can help you
 
-This resource can help you plan what steps your state or local government might want to take to begin complying with the rule.  Public entities don’t have to comply with the rule until April 2026 or April 2027, depending on their size.  But creating and maintaining accessible content takes planning.  This resource makes some suggestions to help state and local governments with that planning.
+This resource can help you plan what steps your state or local government might want to take to begin complying with the rule.  Public entities don’t have to comply with the rule until April 2027 or April 2028, depending on their size.  But creating and maintaining accessible content takes planning.  This resource makes some suggestions to help state and local governments with that planning.
 
 This resource:
 
@@ -61,15 +68,15 @@ The deadline for complying with the rule generally depends on the population of 
 
 - **State or local governments with a population of 50,000 or more persons:**
 
-  - Compliance deadline: April 24, 2026
+  - Compliance deadline: April 26, 2027
 
 - **State or local governments with a population of 0 to 49,999 persons:**
 
-  - Compliance deadline: April 26, 2027
+  - Compliance deadline: April 26, 2028
 
 - **Special district governments:{% fn 2 %}**
 
-  - Compliance deadline: April 26, 2027
+  - Compliance deadline: April 26, 2028
 
 Your public entity’s population is:
 {% list check_circle %}
@@ -92,13 +99,13 @@ If, after reviewing the instructions below, you’re still not sure what your pu
 {% details A. If your public entity has a population in the 2020 decennial Census, use that population. %}
 
 Example:
-A county has a population of 1 million in the 2020 decennial Census.  The county’s population for purposes of the rule is 1 million.  The county needs to comply with the rule by April 2026.
+A county has a population of 1 million in the 2020 decennial Census.  The county’s population for purposes of the rule is 1 million.  The county needs to comply with the rule by April 2027.
 {% enddetails %}
 
 {% details B. If your public entity is an independent school district, use your school district’s population in the 2022 Small Area Income and Poverty Estimates. %}
 
 Example:
-An independent school district has a population of 1,000 in the 2022 Small Area Income and Poverty Estimates.  The independent school district’s population for purposes of the rule is 1,000.  The independent school district needs to comply with the rule by April 2027.
+An independent school district has a population of 1,000 in the 2022 Small Area Income and Poverty Estimates.  The independent school district’s population for purposes of the rule is 1,000.  The independent school district needs to comply with the rule by April 2028.
 {% enddetails %}
 
 {% details C. If your public entity does not have a population calculated by the Census Bureau, use the Census population of the state or local government(s) of which your public entity is a part. %}
@@ -110,19 +117,19 @@ Some public entities don’t have populations of their own, but they are a part 
 - If your public entity is a part of an independent school district, you can check the school district’s population in the 2022 Small Area Income and Poverty Estimates.
 
 Examples:
-- A city police department is part of a city with a population of 25,000 in the 2020 decennial Census.  The city police department’s population for purposes of the rule is 25,000.  The city police department needs to comply with the rule by April 2027.
+- A city police department is part of a city with a population of 25,000 in the 2020 decennial Census.  The city police department’s population for purposes of the rule is 25,000.  The city police department needs to comply with the rule by April 2028.
 
-- A state university has 40,000 students but is part of a state that has a population of 6,000,000 in the 2020 decennial Census.  The state university’s population for purposes of the rule is 6,000,000.  The number of students that attend the university does not determine the university’s population for the rule.  The state university needs to comply with the rule by April 2026.
+- A state university has 40,000 students but is part of a state that has a population of 6,000,000 in the 2020 decennial Census.  The state university’s population for purposes of the rule is 6,000,000.  The number of students that attend the university does not determine the university’s population for the rule.  The state university needs to comply with the rule by April 2027.
 
-- A neighborhood branch of a county library serves 3,000 patrons but is part of a county that has a population of 70,000 in the 2020 decennial Census.  The county library’s population for purposes of the rule is 70,000.  The number of patrons that a local branch serves does not determine the library’s population for the rule.  The county library and all its branches need to comply with the rule by April 2026.
+- A neighborhood branch of a county library serves 3,000 patrons but is part of a county that has a population of 70,000 in the 2020 decennial Census.  The county library’s population for purposes of the rule is 70,000.  The number of patrons that a local branch serves does not determine the library’s population for the rule.  The county library and all its branches need to comply with the rule by April 2027.
 
-- A town parks and recreation department has 10 employees.  The parks and recreation department is part of a town that has a population of 80,000 in the 2020 decennial Census.  The town parks and recreation department’s population for purposes of the rule is 80,000.  The number of employees does not determine the parks and recreation department’s population for the rule.  The town parks and recreation department needs to comply with the rule by April 2026.
+- A town parks and recreation department has 10 employees.  The parks and recreation department is part of a town that has a population of 80,000 in the 2020 decennial Census.  The town parks and recreation department’s population for purposes of the rule is 80,000.  The number of employees does not determine the parks and recreation department’s population for the rule.  The town parks and recreation department needs to comply with the rule by April 2027.
 
-- A commuter authority is part of two different states, one of which has a population of 10,000,000 and one of which has a population of 8,000,000.  The commuter authority’s population for purposes of the rule is the combined population of the two states of which the commuter authority is a part, or 18,000,000.  The commuter authority needs to comply with the rule by April 2026.
+- A commuter authority is part of two different states, one of which has a population of 10,000,000 and one of which has a population of 8,000,000.  The commuter authority’s population for purposes of the rule is the combined population of the two states of which the commuter authority is a part, or 18,000,000.  The commuter authority needs to comply with the rule by April 2027.
 {% enddetails %}
 
-{% details D. If your public entity is a special district government, then your public entity has until April 2027 to comply. %}
-Special district governments don’t have populations calculated by the Census Bureau.  These kinds of governments have until April 2027 to comply with the rule.
+{% details D. If your public entity is a special district government, then your public entity has until April 2028 to comply. %}
+Special district governments don’t have populations calculated by the Census Bureau.  These kinds of governments have until April 2028 to comply with the rule.
 
 A special district government:
 
@@ -254,7 +261,7 @@ A town’s website includes a large number of PDF documents, including minutes f
 A county tourism department in a county with a population of 600,000 posts on various social media platforms.
 
 **How the rule might apply:**
-- Social media posts that the department made before April 2026 (the compliance date for entities with populations of 50,000 or more) would be covered by the exception for preexisting social media posts. That means that those posts don’t have to comply with WCAG 2.1.  But the department’s social media posts after April 2026 probably do need to comply.
+- Social media posts that the department made before April 2027 (the compliance date for entities with populations of 50,000 or more) would be covered by the exception for preexisting social media posts. That means that those posts don’t have to comply with WCAG 2.1.  But the department’s social media posts after April 2027 probably do need to comply.
 
 - The tourism department doesn’t have to make sure that the whole social media platform itself meets WCAG 2.1, just that its own social media posts do.
 

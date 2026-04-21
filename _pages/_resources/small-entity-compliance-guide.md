@@ -14,7 +14,10 @@ tags:
 ---
 On April 24, 2024, the Federal Register{% fn 1 %} published the Department of Justice’s (Department) final rule updating its regulations for Title II of the Americans with Disabilities Act (ADA).  The final rule has specific requirements about how to make sure that web content and mobile applications (apps) are accessible to people with disabilities.
 
-**Purpose of this guide**: This Small Entity Compliance Guide{% fn 2 %} (“guide”) is meant for people who work for or with small state and local governments.  The guide will help you understand the rule’s requirements for making sure your government’s web content and mobile apps are accessible.
+On April 20, 2026, the Federal Register{% fn 2 %} published the Department’s Interim Final Rule (IFR) extending the compliance date for State and local government entities with a total population of 50,000 or more to April 26, 2027. The compliance date
+for public entities with a total population of less than 50,000, or any special district government, is extended to April 26, 2028. For more information, please read [the IFR]({{ '/assets/pdfs/2026-ifr.pdf' | relative_url }}). The [official version of the IFR](https://www.federalregister.gov/documents/2026/04/20/2026-07663/extension-of-compliance-dates-for-nondiscrimination-on-the-basis-of-disability-accessibility-of-web) is published in the Federal Register.
+
+**Purpose of this guide**: This Small Entity Compliance Guide{% fn 3 %} (“guide”) is meant for people who work for or with small state and local governments.  The guide will help you understand the rule’s requirements for making sure your government’s web content and mobile apps are accessible.
 
 {% include expand-accordions-wrapper.html %}
 {% details About this guide expandable %}
@@ -61,7 +64,7 @@ If you have a contract, license, or other arrangement with another entity to pro
 
 ## When the Rule’s Requirements for Web Content and Mobile App Accessibility Start
 
-Starting on April 26, 2027, small state and local governments have to make sure that their web content and mobile apps meet the requirements in the rule. After this time, you must continue to make sure your state or local government’s web content and mobile apps meet the accessibility requirements.
+Starting on April 26, 2028, small state and local governments have to make sure that their web content and mobile apps meet the requirements in the rule. After this time, you must continue to make sure your state or local government’s web content and mobile apps meet the accessibility requirements.
 
 <table class="usa-table">
 <caption>This table shows how much time a state or local government has to comply with this rule.</caption>
@@ -73,15 +76,15 @@ Starting on April 26, 2027, small state and local governments have to make sure 
 </thead>
 <tr>
 <th>0 to 49,999 persons</th>
-<td>April 26, 2027</td>
+<td>April 26, 2028</td>
 </tr>
 <tr>
 <th>Special district governments</th>
-<td>April 26, 2027</td>
+<td>April 26, 2028</td>
 </tr>
 <tr>
 <th>50,000 or more persons</th>
-<td>April 24, 2026</td>
+<td>April 26, 2027</td>
 </tr>
 </table>
 
@@ -376,6 +379,9 @@ You can also contact the [ADA National Network](https://adata.org).  The Nationa
 The official version of the rule is published in the Federal Register at 89 FR 31320 (April 24, 2024).
 {% endfnbody %}
 {% fnbody 2 %}
+The official version of the IFR is published in the Federal Register at 91 FR 20902 (April 20, 2026).
+{% endfnbody %}
+{% fnbody 3 %}
 This guide was prepared as a “small entity compliance guide” under Section 212 of the Small Business Regulatory Enforcement Fairness Act of 1996.  The guide is not a substitute for the rule.  Only the rule itself provides complete and definitive information about its requirements.  For all the details about the rule, please read the full [final rule]({{'assets/pdfs/web-rule.pdf' | relative_url}}).
 {% endfnbody %}
 {% endfootnotes %}
